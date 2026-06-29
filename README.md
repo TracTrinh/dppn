@@ -12,6 +12,14 @@ assets/                CSS and file-safe search assets
 CNAME
 ```
 
+Git workflow note:
+
+```text
+This Git repository lives at D:\Dhamma\books\DPPN\.publish\dppn.
+The outer D:\Dhamma\books\DPPN folder is a build workspace, not the Git repo.
+Run git commands from this folder, or use git -C D:\Dhamma\books\DPPN\.publish\dppn ...
+```
+
 Build from the outer workspace:
 
 ```powershell
