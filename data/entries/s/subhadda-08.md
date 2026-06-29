@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12925
+  source_order: 12920
   source_anchor: 
 aliases:
   - "Subhadda 08"

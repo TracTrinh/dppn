@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Aggabodhi IV"
   - "Dāṭhāsiva"
-  - "Padhānaghara"
 ---
 
 # Andhakāra
 
 ## English source
 
-Andhakāra. A village in Ceylon, one of the villages given by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IV</span>. for the maintenance of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Padhānaghara</span> built by the king for the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dāṭhāsiva</span>. Cv.xlvi.12.
+Andhakāra. A village in Ceylon, one of the villages given by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IV</span>. for the maintenance of the *Padhānaghara* built by the king for the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dāṭhāsiva</span>. Cv.xlvi.12.
 
 ## Vietnamese translation
 

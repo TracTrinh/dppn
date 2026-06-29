@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10368
+  source_order: 10363
   source_anchor: 
 aliases:
   - "Vajira 01"

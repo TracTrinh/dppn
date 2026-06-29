@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11606
+  source_order: 11601
   source_anchor: 
 aliases:
   - "Sanditthikasutta 01"

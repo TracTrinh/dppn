@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "assasutta"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13493
+  source_order: 13487
   source_anchor: 
 aliases: []
 link_candidates:

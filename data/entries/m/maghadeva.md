@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "makhadeva-01"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8438
+  source_order: 8435
   source_anchor: 
 aliases:
   - "Maghadeva"

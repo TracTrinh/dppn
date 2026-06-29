@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11481
+  source_order: 11476
   source_anchor: 
 aliases:
   - "Satulakayi"

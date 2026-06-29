@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9624
+  source_order: 9619
   source_anchor: 
 aliases:
   - "Medhankara 05"

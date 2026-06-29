@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Appatividitasutta"
-link_candidates:
-  - "Deva"
+link_candidates: []
 ---
 
 # Appaṭividitāsutta
 
 ## English source
 
-Appaṭividitāsutta. Spoken by a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span>; a Buddha has arisen, now is the time for those who have not perceived the truth to do so. SN.i.4.
+Appaṭividitāsutta. Spoken by a *Deva*; a Buddha has arisen, now is the time for those who have not perceived the truth to do so. SN.i.4.
 
 ## Vietnamese translation
 

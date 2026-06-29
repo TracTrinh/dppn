@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11383
+  source_order: 11378
   source_anchor: 
 aliases:
   - "Sangha 08"
 link_candidates:
   - "Metteyya Buddha"
-  - "upāsikā"
 ---
 
 # Saṅghā 08
 
 ## English source
 
-Saṅghā 08. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">upāsikā</span>, mentioned among those who will wait on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Metteyya Buddha</span>. She will be his chief patron among lay women. Anāg. vs. 61, 99.
+Saṅghā 08. An *upāsikā*, mentioned among those who will wait on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Metteyya Buddha</span>. She will be his chief patron among lay women. Anāg. vs. 61, 99.
 
 ## Vietnamese translation
 

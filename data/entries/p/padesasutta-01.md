@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7031
+  source_order: 7028
   source_anchor: 
 aliases: []
 link_candidates:
@@ -18,15 +18,13 @@ link_candidates:
   - "Moggallāna"
   - "Sāketa"
   - "Sāriputta"
-  - "satipaṭṭhāna"
-  - "sekha"
 ---
 
 # Padesasutta 01
 
 ## English source
 
-Padesasutta 01. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anuruddha</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Moggallāna</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ketakivana</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sāketa</span>, regarding the meaning of the word “<span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">sekha</span>.” A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">sekha</span> is one who has only partially cultivated the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">satipaṭṭhāna</span>s. SN.v.174f.
+Padesasutta 01. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anuruddha</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Moggallāna</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ketakivana</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sāketa</span>, regarding the meaning of the word “*sekha*.” A *sekha* is one who has only partially cultivated the four *satipaṭṭhāna*s. SN.v.174f.
 
 ## Vietnamese translation
 

@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ejasutta"
-link_candidates:
-  - "Suttas"
-  - "ejā"
+link_candidates: []
 ---
 
 # Ejāsutta
 
 ## English source
 
-Ejāsutta. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on the evils of passion (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ejā</span>) and the ways of getting rid of it. SN.iv.64-6.
+Ejāsutta. Two *Suttas* on the evils of passion (*ejā*) and the ways of getting rid of it. SN.iv.64-6.
 
 ## Vietnamese translation
 

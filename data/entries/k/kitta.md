@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kitti-01"
 source:
   epub_file: "Ops/028.html"
-  source_order: 2965
+  source_order: 2964
   source_anchor: 
 aliases:
   - "Kitta"

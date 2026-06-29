@@ -16,14 +16,13 @@ link_candidates:
   - "Koḷiyans"
   - "Pāṭaliya"
   - "Uttaraka"
-  - "v.l."
 ---
 
 # Uttara 23
 
 ## English source
 
-Uttara 23. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Uttaraka</span>. A township of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Koḷiyans</span>. Once, when the Buddha was staying there, he was visited by the headman <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Pāṭaliya</span>. SN.iv.340.
+Uttara 23. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uttaraka</span>. A township of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Koḷiyans</span>. Once, when the Buddha was staying there, he was visited by the headman <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pāṭaliya</span>. SN.iv.340.
 
 ## Vietnamese translation
 

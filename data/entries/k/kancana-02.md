@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kancanavela"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2325
+  source_order: 2324
   source_anchor: 
 aliases:
   - "Kancana 02"

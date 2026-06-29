@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "majjhantika"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8505
+  source_order: 8502
   source_anchor: 
 aliases: []
 link_candidates:

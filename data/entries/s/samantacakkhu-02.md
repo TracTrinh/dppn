@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11746
+  source_order: 11741
   source_anchor: 
 aliases: []
 link_candidates:
   - "Araṇadīpaka"
-  - "kappas"
 ---
 
 # Samantacakkhu 02
 
 ## English source
 
-Samantacakkhu 02. A king of fifty-five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Araṇadīpaka</span> Thera. Ap.i.231.
+Samantacakkhu 02. A king of fifty-five *kappas* ago, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Araṇadīpaka</span> Thera. Ap.i.231.
 
 ## Vietnamese translation
 

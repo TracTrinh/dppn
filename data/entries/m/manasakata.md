@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8639
+  source_order: 8636
   source_anchor: 
 aliases:
   - "Manasakata"

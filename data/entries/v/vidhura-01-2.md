@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10837
+  source_order: 10832
   source_anchor: 
 aliases:
   - "Vidhura 01"

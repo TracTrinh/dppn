@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Iddhipadasutta 03"
-link_candidates:
-  - "asaṅkhata"
-  - "iddhipādas"
+link_candidates: []
 ---
 
 # Iddhipādasutta 03
 
 ## English source
 
-Iddhipādasutta 03. The four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādas</span> form the path leading to the Uncompounded (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">asaṅkhata</span>). SN.iv.360.
+Iddhipādasutta 03. The four *iddhipādas* form the path leading to the Uncompounded (*asaṅkhata*). SN.iv.360.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nidda"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12806
+  source_order: 12801
   source_anchor: 
 aliases:
   - "Sunidda"

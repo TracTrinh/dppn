@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mancadayaka-01"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7663
+  source_order: 7660
   source_anchor: 
 aliases:
   - "Pecchadayaka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "meru"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13568
+  source_order: 13562
   source_anchor: 
 aliases: []
 link_candidates:

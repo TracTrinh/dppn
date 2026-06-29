@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "yuvanjaya"
 source:
   epub_file: "Ops/061.html"
-  source_order: 9779
+  source_order: 9774
   source_anchor: 
 aliases:
   - "Yudhanjaya"

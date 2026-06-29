@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11555
+  source_order: 11550
   source_anchor: 
 aliases:
   - "Saddhammappakasini"

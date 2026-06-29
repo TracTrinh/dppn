@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6848
+  source_order: 6845
   source_anchor: 
 aliases:
   - "Panhamandapatthana"

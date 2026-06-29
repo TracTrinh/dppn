@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Adassanasutta"
-link_candidates:
-  - "saṅkhārā"
+link_candidates: []
 ---
 
 # Adassanāsutta
 
 ## English source
 
-Adassanāsutta (five). Diverse opinions arise in the world because of the failure to see the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">saṅkhārā</span>, their nature, etc. SN.iii.260.
+Adassanāsutta (five). Diverse opinions arise in the world because of the failure to see the five *saṅkhārā*, their nature, etc. SN.iii.260.
 
 ## Vietnamese translation
 

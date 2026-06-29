@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9076
+  source_order: 9072
   source_anchor: 
 aliases:
   - "Maha Rametti"

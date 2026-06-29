@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anottappamulakatinisutta"
-link_candidates:
-  - "dhātuso"
-  - "vice versa"
+link_candidates: []
 ---
 
 # Anottappamūlakātīnisutta
 
 ## English source
 
-Anottappamūlakātīnisutta. Through an element (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dhātuso</span>) beings meet together, the indiscreet with the indiscreet, the untaught with the untaught, the unwise with the unwise and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vice versa</span>. SN.ii.163.
+Anottappamūlakātīnisutta. Through an element (*dhātuso*) beings meet together, the indiscreet with the indiscreet, the untaught with the untaught, the unwise with the unwise and *vice versa*. SN.ii.163.
 
 ## Vietnamese translation
 

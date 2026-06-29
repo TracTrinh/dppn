@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10881
+  source_order: 10876
   source_anchor: 
 aliases:
   - "Vibhangasutta 03"
-link_candidates:
-  - "satipaṭṭhāna"
+link_candidates: []
 ---
 
 # Vibhaṅgasutta 03
 
 ## English source
 
-Vibhaṅgasutta 03. An analysis of the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>s. SN.v.183.
+Vibhaṅgasutta 03. An analysis of the four *satipaṭṭhāna*s. SN.v.183.
 
 ## Vietnamese translation
 

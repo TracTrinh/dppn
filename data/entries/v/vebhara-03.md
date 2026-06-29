@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11125
+  source_order: 11120
   source_anchor: 
 aliases:
   - "Vebhara 03"

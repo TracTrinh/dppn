@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3818
+  source_order: 3816
   source_anchor: 
 aliases:
   - "Gandhara 01"

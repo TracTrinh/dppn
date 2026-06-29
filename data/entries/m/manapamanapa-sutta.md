@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8645
+  source_order: 8642
   source_anchor: 
 aliases:
   - "Manapamanapa Sutta"

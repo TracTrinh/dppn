@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7892
+  source_order: 7889
   source_anchor: 
 aliases:
   - "Bahuputta"

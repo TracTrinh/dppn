@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lalatadhatuvamsa"
 source:
   epub_file: "Ops/045.html"
-  source_order: 6119
+  source_order: 6116
   source_anchor: 
 aliases:
   - "Dhatuvamsa"

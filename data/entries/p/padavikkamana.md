@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6978
+  source_order: 6975
   source_anchor: 
 aliases: []
 link_candidates:
@@ -17,15 +17,13 @@ link_candidates:
   - "Padakkamana"
   - "Sammukhāthavika"
   - "Thera"
-  - "kappas"
-  - "v.l."
 ---
 
 # Padavikkamana
 
 ## English source
 
-Padavikkamana. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padakkamana</span>. A king of eighty-two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">kappas</span> ago, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Māṇava</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Thera</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sammukhāthavika</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Thera</span>) (Thag­a.i.164; Ap.i.159).
+Padavikkamana. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padakkamana</span>. A king of eighty-two *kappas* ago, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māṇava</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Thera</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sammukhāthavika</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Thera</span>) (Thag­a.i.164; Ap.i.159).
 
 ## Vietnamese translation
 

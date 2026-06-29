@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9172
+  source_order: 9168
   source_anchor: 
 aliases:
   - "Maha Sukajataka"
@@ -20,7 +20,6 @@ link_candidates:
   - "Nigamavāsītissa"
   - "Sakka"
   - "Sujā"
-  - "q.v."
   - "Ānanda"
 ---
 
@@ -32,7 +31,7 @@ Mahā Sukajātaka (Ja 429). The Bodhisatta was once king of the parrots and live
 
 The story was told in reference to a monk who had a pleasant dwelling place near a village, but who found alms difficult to get, the villagers becoming very poor. He became very discontented, but the Buddha asked him not to forsake his dwelling.
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sakka</span> of the story is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Anuruddha</span> (Ja.iii.490-4). According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Dhammapada Commentary</span> (Dhp­a.i.283ff), the story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Nigamavāsītissa</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="11" data-dppn-term-class="t18">q.v.</span>) and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Sakka</span> is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Ānanda</span>.
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sakka</span> of the story is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Anuruddha</span> (Ja.iii.490-4). According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Dhammapada Commentary</span> (Dhp­a.i.283ff), the story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Nigamavāsītissa</span> (*q.v.*) and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Sakka</span> is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Ānanda</span>.
 
 ## Vietnamese translation
 

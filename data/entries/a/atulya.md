@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "kappas"
   - "Āsanatthavika Thera"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Atulya. A king. A previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āsanatthavika Thera</span>. Twenty-seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he was king seven times under this name. Ap.i.255.
+Atulya. A king. A previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āsanatthavika Thera</span>. Twenty-seven *kappas* ago he was king seven times under this name. Ap.i.255.
 
 ## Vietnamese translation
 

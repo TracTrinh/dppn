@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Moggallāna"
   - "Sāriputta"
-  - "aṅganāni"
 ---
 
 # Anaṅganasutta
 
 ## English source
 
-Anaṅganasutta. A record of a conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Moggallāna</span> on the nature of blemishes (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">aṅganāni</span>) and on the benefits of recognising and removing them. MN.i.24ff.
+Anaṅganasutta. A record of a conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Moggallāna</span> on the nature of blemishes (*aṅganāni*) and on the benefits of recognising and removing them. MN.i.24ff.
 
 ## Vietnamese translation
 

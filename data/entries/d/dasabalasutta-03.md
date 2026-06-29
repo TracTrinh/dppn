@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "buddhasutta"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5506
+  source_order: 5503
   source_anchor: 
 aliases: []
 link_candidates:

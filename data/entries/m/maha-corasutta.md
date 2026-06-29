@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8816
+  source_order: 8813
   source_anchor: 
 aliases:
   - "Maha Corasutta"

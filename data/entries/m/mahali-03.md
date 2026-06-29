@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9214
+  source_order: 9210
   source_anchor: 
 aliases:
   - "Mahali 03"

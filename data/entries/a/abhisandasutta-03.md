@@ -12,15 +12,14 @@ source:
   source_order: 791
   source_anchor: 
 aliases: []
-link_candidates:
-  - "puññābhisandā"
+link_candidates: []
 ---
 
 # Abhisandasutta 03
 
 ## English source
 
-Abhisandasutta 03. The five yields of merit (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">puññābhisandā</span>) which accrue to a monk because of concentration of mind in various activities. AN.iii.51f.
+Abhisandasutta 03. The five yields of merit (*puññābhisandā*) which accrue to a monk because of concentration of mind in various activities. AN.iii.51f.
 
 ## Vietnamese translation
 

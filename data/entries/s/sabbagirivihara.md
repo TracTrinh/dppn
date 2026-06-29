@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pipphalivihara"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11660
+  source_order: 11655
   source_anchor: 
 aliases:
   - "Sabbagirivihara"

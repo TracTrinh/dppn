@@ -14,7 +14,6 @@ source:
 aliases:
   - "Akasagotta"
 link_candidates:
-  - "Akāsagotta"
   - "Sañjaya"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Ākāsagotta. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sañjaya</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Akāsagotta</span>.
+Ākāsagotta. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sañjaya</span> *Akāsagotta*.
 
 ## Vietnamese translation
 

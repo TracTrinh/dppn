@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kukkutagiriparivena"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3063
+  source_order: 3062
   source_anchor: 
 aliases:
   - "Kukkutarama 03"

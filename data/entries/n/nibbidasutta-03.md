@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6618
+  source_order: 6615
   source_anchor: 
 aliases:
   - "Nibbidasutta 03"

@@ -25,7 +25,6 @@ link_candidates:
   - "Mahā Vaṁsa"
   - "Milinda"
   - "Milindapañha"
-  - "Questions of King Milinda"
   - "Sāgala"
   - "Yonaka Mahā Dhammarakkhita"
   - "Yonas"
@@ -41,9 +40,9 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-te
 
 Elsewhere in the same book (82,83), King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Milinda</span> is mentioned as saying that he was born in a village named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Kalasi</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Alasandā</span>, but he speaks of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Alasandā</span> as an island. It was about two hundred leagues from <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Sāgala</span>.
 
-It is generally accepted (e.g., in <span class="dppn-term dppn-term-t18" data-dppn-term-pos="17" data-dppn-term-class="t18">Questions of King Milinda</span>, i., p.xxiii, see also CHI., p.550) that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Alasandā</span> was the name of an island in the Indus in the territory of Baktria. Geiger (Mhv.trs.194, n.3) thinks that it is probably to be identified with the town founded by the Macedonian king in the country of Paropanisadae near Kabul.
+It is generally accepted (e.g., in *Questions of King Milinda*, i., p.xxiii, see also CHI., p.550) that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Alasandā</span> was the name of an island in the Indus in the territory of Baktria. Geiger (Mhv.trs.194, n.3) thinks that it is probably to be identified with the town founded by the Macedonian king in the country of Paropanisadae near Kabul.
 
-In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Apadāna</span> (i.359) the Alasandakā are mentioned in a list of tribes.
+In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Apadāna</span> (i.359) the Alasandakā are mentioned in a list of tribes.
 
 ## Vietnamese translation
 

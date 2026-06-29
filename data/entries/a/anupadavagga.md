@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Majjhimanikāya"
-  - "Uparipaññāsa"
 ---
 
 # Anupadavagga
 
 ## English source
 
-Anupadavagga. The second section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Uparipaññāsa</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Majjhimanikāya</span>. MN.iii.25ff.
+Anupadavagga. The second section of the *Uparipaññāsa* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Majjhimanikāya</span>. MN.iii.25ff.
 
 ## Vietnamese translation
 

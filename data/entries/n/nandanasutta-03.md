@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6262
+  source_order: 6259
   source_anchor: 
 aliases: []
 link_candidates:
   - "Māra"
   - "Nandatisutta"
-  - "q.v."
 ---
 
 # Nandanasutta 03
 
 ## English source
 
-Nandanasutta 03. Same as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nandatisutta</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>), except that here it is <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Māra</span> who utters the first verse. SN.i.107.
+Nandanasutta 03. Same as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nandatisutta</span> (*q.v.*), except that here it is <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māra</span> who utters the first verse. SN.i.107.
 
 ## Vietnamese translation
 

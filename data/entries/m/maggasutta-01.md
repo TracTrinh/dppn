@@ -9,22 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8430
+  source_order: 8427
   source_anchor: 
 aliases: []
 link_candidates:
   - "Ajapāla"
   - "Brahma Sahampati"
-  - "Nibbāna"
-  - "nigrodha"
-  - "satipaṭṭhāna"
 ---
 
 # Maggasutta 01
 
 ## English source
 
-Maggasutta 01. The Buddha tells the monks how, as he meditated under the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ajapāla</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">nigrodha</span>, the conviction came to him that the only way to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Nibbāna</span> was the cultivation of the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">satipaṭṭhāna</span>s. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Brahma Sahampati</span> read his thoughts, and, appearing before him, confirmed this view. SN.v.167f.; 185f.
+Maggasutta 01. The Buddha tells the monks how, as he meditated under the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ajapāla</span> *nigrodha*, the conviction came to him that the only way to *Nibbāna* was the cultivation of the four *satipaṭṭhāna*s. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Brahma Sahampati</span> read his thoughts, and, appearing before him, confirmed this view. SN.v.167f.; 185f.
 
 ## Vietnamese translation
 

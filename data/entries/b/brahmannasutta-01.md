@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8037
+  source_order: 8034
   source_anchor: 
 aliases:
   - "Brahmannasutta 01"
-link_candidates:
-  - "Sotāpatti"
+link_candidates: []
 ---
 
 # Brahmaññasutta 01
 
 ## English source
 
-Brahmaññasutta 01. The highest life is the Noble Eightfold Path, and the fruits thereof are <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpatti</span>, etc. SN.v.26.
+Brahmaññasutta 01. The highest life is the Noble Eightfold Path, and the fruits thereof are *Sotāpatti*, etc. SN.v.26.
 
 ## Vietnamese translation
 

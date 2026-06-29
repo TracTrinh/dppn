@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4901
+  source_order: 4898
   source_anchor: "a188"
 aliases:
   - "Jetthatissa 02"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "akkhakkhayika"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7390
+  source_order: 7387
   source_anchor: 
 aliases:
   - "Pasanachataka"

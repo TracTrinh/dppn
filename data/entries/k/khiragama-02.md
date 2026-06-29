@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-khiragama"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3644
+  source_order: 3642
   source_anchor: 
 aliases:
   - "Khiragama 02"

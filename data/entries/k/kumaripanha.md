@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3178
+  source_order: 3177
   source_anchor: 
 aliases:
   - "Kumaripanha"
@@ -22,7 +22,6 @@ link_candidates:
   - "Ragā"
   - "Saṁyuttanikāya"
   - "Taṇhā"
-  - "kumārīnaṁ Māradhītānaṁ pucchā"
 ---
 
 # Kumārīpañhā
@@ -33,7 +32,7 @@ Kumārīpañhā. Evidently the name given to the questions asked of the Buddha b
 
 These questions and answers form the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Dhītaro Sutta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.i.124f), but a quotation from them given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Aṅguttara</span> (AN.v.46f) is mentioned as having been taken from the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kumārīpañhā</span>.
 
-The Commentary (AN­a.ii.828) mentions them as being the questions of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Māra</span>’s daughters (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">kumārīnaṁ Māradhītānaṁ pucchā</span>).
+The Commentary (AN­a.ii.828) mentions them as being the questions of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Māra</span>’s daughters (*kumārīnaṁ Māradhītānaṁ pucchā*).
 
 ## Vietnamese translation
 

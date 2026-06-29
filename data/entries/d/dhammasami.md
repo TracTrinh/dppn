@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6056
+  source_order: 6053
   source_anchor: 
 aliases:
   - "Dhammasami"

@@ -12,16 +12,14 @@ source:
   source_order: 1008
   source_anchor: 
 aliases: []
-link_candidates:
-  - "ariyāniyyānikā"
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Ariyasutta 01
 
 ## English source
 
-Ariyasutta 01. The seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgas</span>, if cultivated, lead to the Ariyan qualities which conduce to salvation (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ariyāniyyānikā</span>). SN.v.82.
+Ariyasutta 01. The seven *bojjhaṅgas*, if cultivated, lead to the Ariyan qualities which conduce to salvation (*ariyāniyyānikā*). SN.v.82.
 
 ## Vietnamese translation
 

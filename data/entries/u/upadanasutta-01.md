@@ -13,14 +13,15 @@ source:
   source_anchor: 
 aliases:
   - "Upadanasutta 01"
-link_candidates: []
+link_candidates:
+  - "suffering"
 ---
 
 # Upādānasutta 01
 
 ## English source
 
-Upādānasutta 01. Enjoyment brings about craving, grasping, becoming, birth, etc., and, in turn, the whole mass of suffering.
+Upādānasutta 01. Enjoyment brings about craving, grasping, becoming, birth, etc., and, in turn, the whole mass of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>.
 
 It is like a fire with many loads of faggots, constantly supplied with fuel. SN.ii.84f.
 

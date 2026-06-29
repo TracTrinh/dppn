@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "navasutta"
 source:
   epub_file: "Ops/045.html"
-  source_order: 6064
+  source_order: 6061
   source_anchor: 
 aliases: []
 link_candidates:

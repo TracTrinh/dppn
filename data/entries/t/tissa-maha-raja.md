@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "saddhatissa-01"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5275
+  source_order: 5272
   source_anchor: 
 aliases:
   - "Tissa Maha Raja"

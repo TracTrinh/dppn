@@ -15,14 +15,13 @@ aliases:
   - "Antarapeyyala"
 link_candidates:
   - "Nidānasaṁyutta"
-  - "Suttas"
 ---
 
 # Antarapeyyāla
 
 ## English source
 
-Antarapeyyāla. A section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nidānasaṁyutta</span> containing twelve <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Suttas</span> with abridged contents. SN.ii.130ff.
+Antarapeyyāla. A section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nidānasaṁyutta</span> containing twelve *Suttas* with abridged contents. SN.ii.130ff.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5715
+  source_order: 5712
   source_anchor: 
 aliases:
   - "Duttha 03"

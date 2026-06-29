@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Khattiya"
   - "Sujāta Buddha"
   - "Sumaṅgala"
 ---
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Uggata 02. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Khattiya</span> of the city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sumaṅgala</span>, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sujāta Buddha</span>. Ja.i.38; Bv.xiii.20.
+Uggata 02. A *Khattiya* of the city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumaṅgala</span>, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sujāta Buddha</span>. Ja.i.38; Bv.xiii.20.
 
 ## Vietnamese translation
 

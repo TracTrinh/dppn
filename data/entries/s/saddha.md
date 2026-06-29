@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sandha"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11541
+  source_order: 11536
   source_anchor: 
 aliases: []
 link_candidates:

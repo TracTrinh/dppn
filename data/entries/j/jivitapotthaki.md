@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kitti-07"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4885
+  source_order: 4882
   source_anchor: 
 aliases:
   - "Jivitapotthaki"

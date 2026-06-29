@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vediya"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11095
+  source_order: 11090
   source_anchor: 
 aliases: []
 link_candidates:

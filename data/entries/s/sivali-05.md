@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sihasivali"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12472
+  source_order: 12467
   source_anchor: 
 aliases:
   - "Sivali 05"

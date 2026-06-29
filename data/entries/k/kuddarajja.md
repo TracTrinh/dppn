@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3103
+  source_order: 3102
   source_anchor: 
 aliases:
   - "Kuddarajja"

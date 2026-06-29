@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8038
+  source_order: 8035
   source_anchor: 
 aliases:
   - "Brahmannasutta 02"

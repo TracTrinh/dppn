@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sarana-thera"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12593
+  source_order: 12588
   source_anchor: 
 aliases:
   - "Sujampatika"

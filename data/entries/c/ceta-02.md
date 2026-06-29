@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4602
+  source_order: 4599
   source_anchor: 
 aliases:
   - "Ceta 02"

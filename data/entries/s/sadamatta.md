@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11529
+  source_order: 11524
   source_anchor: 
 aliases:
   - "Sadamatta"

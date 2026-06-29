@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11043
+  source_order: 11038
   source_anchor: 
 aliases:
   - "Vuddhisutta 02"

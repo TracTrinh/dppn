@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lakkhi-01"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10194
+  source_order: 10189
   source_anchor: 
 aliases:
   - "Lacchi"

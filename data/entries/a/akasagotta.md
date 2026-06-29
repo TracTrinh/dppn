@@ -15,14 +15,13 @@ aliases:
   - "Akasagotta"
 link_candidates:
   - "Rājagaha"
-  - "thullaccaya"
 ---
 
 # Ākāsagotta
 
 ## English source
 
-Ākāsagotta. A physician of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span> who lanced the fistula of a monk. Meeting the Buddha, he told him of the lancing, trying to make fun of it. The Buddha, having made inquiries, declared the performance of such an operation a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">thullaccaya</span> offence (Vin.i.215-16).
+Ākāsagotta. A physician of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span> who lanced the fistula of a monk. Meeting the Buddha, he told him of the lancing, trying to make fun of it. The Buddha, having made inquiries, declared the performance of such an operation a *thullaccaya* offence (Vin.i.215-16).
 
 ## Vietnamese translation
 

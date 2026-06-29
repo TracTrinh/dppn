@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Pamādasutta"
   - "Pasenadi"
-  - "Sutta"
 ---
 
 # Appakasutta
 
 ## English source
 
-Appakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pasenadi</span> tells the Buddha that in his view few are they that are not intoxicated by great wealth and misconduct themselves when they become rich. The Buddha agrees. SN.73; the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Sutta</span> is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pamādasutta</span>.
+Appakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pasenadi</span> tells the Buddha that in his view few are they that are not intoxicated by great wealth and misconduct themselves when they become rich. The Buddha agrees. SN.73; the *Sutta* is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pamādasutta</span>.
 
 ## Vietnamese translation
 

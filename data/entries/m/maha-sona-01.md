@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9202
+  source_order: 9198
   source_anchor: 
 aliases:
   - "Maha Sona 01"

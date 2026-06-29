@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4541
+  source_order: 4538
   source_anchor: 
 aliases:
   - "Cula Vagga 04"
 link_candidates:
+  - "Cūla Vagga"
   - "Petavatthu"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Vagga 04. Cūla Vagga. The third chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Petavatthu</span>. Pv., pp.33ff.
+Cūḷa Vagga 04. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Vagga</span>. The third chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Petavatthu</span>. Pv., pp.33ff.
 
 ## Vietnamese translation
 

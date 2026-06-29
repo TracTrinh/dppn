@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6323
+  source_order: 6320
   source_anchor: 
 aliases:
   - "Nandivaddha"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11572
+  source_order: 11567
   source_anchor: 
 aliases:
   - "Saddhasutta 05"

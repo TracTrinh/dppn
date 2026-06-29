@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13523
+  source_order: 13517
   source_anchor: 
 aliases:
   - "Harita 05"

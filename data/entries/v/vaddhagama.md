@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "velugama"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10408
+  source_order: 10403
   source_anchor: 
 aliases:
   - "Vaddhagama"

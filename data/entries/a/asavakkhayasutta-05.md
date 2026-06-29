@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asavakkhayasutta 05"
-link_candidates:
-  - "āsavas"
+link_candidates: []
 ---
 
 # Āsavakkhayasutta 05
 
 ## English source
 
-Āsavakkhayasutta 05. In him who knows ill, etc., the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span> are destroyed. SN.v.434.
+Āsavakkhayasutta 05. In him who knows ill, etc., the *āsavas* are destroyed. SN.v.434.
 
 ## Vietnamese translation
 

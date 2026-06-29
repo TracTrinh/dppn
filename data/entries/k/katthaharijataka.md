@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2369
+  source_order: 2368
   source_anchor: 
 aliases:
   - "Katthaharijataka"
@@ -17,7 +17,6 @@ link_candidates:
   - "Benares"
   - "Brahmadatta"
   - "Kaṭṭhavāhana"
-  - "Mahā Bhārata"
   - "Pasenadi"
   - "Viḍūḍabha"
   - "Vāsabha Khattiyā"
@@ -31,7 +30,7 @@ Kaṭṭhahārijātaka (Ja 7). <span class="dppn-term dppn-term-t14" data-dppn-t
 
 The story was told to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Pasenadi</span> on his refusal to recognize the claim to the throne of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Viḍūḍabha</span>, his son by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Vāsabha Khattiyā</span> (Ja.i.133ff; iv.148; Dhp­a.i.349).
 
-Perhaps the story has some connection with that of Duṣyanta and Śakuntalā, as given in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Mahā Bhārata</span> and later amplified by Kālidāsa in his drama.
+Perhaps the story has some connection with that of Duṣyanta and Śakuntalā, as given in the *Mahā Bhārata* and later amplified by Kālidāsa in his drama.
 
 ## Vietnamese translation
 

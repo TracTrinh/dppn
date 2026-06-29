@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "papatapabbata"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3218
+  source_order: 3217
   source_anchor: 
 aliases:
   - "Kuraragharapapatapabbata"

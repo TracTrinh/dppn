@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "panduputta"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6923
+  source_order: 6920
   source_anchor: 
 aliases:
   - "Pandu 03"

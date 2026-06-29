@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "natika"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6472
+  source_order: 6469
   source_anchor: 
 aliases:
   - "Nadika"

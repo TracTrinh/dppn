@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5872
+  source_order: 5869
   source_anchor: 
 aliases:
   - "Dona 02"

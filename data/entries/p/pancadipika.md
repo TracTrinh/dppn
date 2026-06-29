@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pancadipadayika-theri"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6794
+  source_order: 6791
   source_anchor: 
 aliases:
   - "Pancadipika"

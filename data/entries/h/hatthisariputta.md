@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13485
+  source_order: 13479
   source_anchor: 
 aliases:
   - "Hatthisariputta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-kala-01"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2882
+  source_order: 2881
   source_anchor: 
 aliases:
   - "Kalanaga"

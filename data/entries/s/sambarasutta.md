@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "isayo-samuddakasutta"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11850
+  source_order: 11845
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "parakkamabahu-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 7105
+  source_order: 7102
   source_anchor: 
 aliases:
   - "Parakkantabahu"

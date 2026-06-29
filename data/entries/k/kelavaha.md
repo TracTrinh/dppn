@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "telavaha"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3344
+  source_order: 3342
   source_anchor: 
 aliases:
   - "Kelavaha"

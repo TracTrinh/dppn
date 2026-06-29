@@ -13,19 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Avaranasutta"
-link_candidates:
-  - "kāmacchanda"
-  - "thīnamiddha"
-  - "uddhaccakukkucca"
-  - "vicikicchā"
-  - "vyāpāda"
+link_candidates: []
 ---
 
 # Āvaraṇasutta
 
 ## English source
 
-Āvaraṇasutta. There are five things that overwhelm the mind and weaken the insight: <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kāmacchanda</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vyāpāda</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">thīnamiddha</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">uddhaccakukkucca</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">vicikicchā</span> i.e. the five hindrances. AN.iii.63-4.
+Āvaraṇasutta. There are five things that overwhelm the mind and weaken the insight: *kāmacchanda*, *vyāpāda*, *thīnamiddha*, *uddhaccakukkucca* and *vicikicchā* i.e. the five hindrances. AN.iii.63-4.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "catummaharajika"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4218
+  source_order: 4216
   source_anchor: 
 aliases:
   - "Cattaro Maha Rajano"

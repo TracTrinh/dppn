@@ -9,13 +9,13 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4472
+  source_order: 4469
   source_anchor: 
 aliases:
   - "Cula Gavaccha Thera"
 link_candidates:
   - "Apadāna"
-  - "Arahant"
+  - "Cūla Gavaccha Thera"
   - "Devas"
   - "Gavaccha"
   - "Heraññakāni"
@@ -29,7 +29,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Gavaccha Thera, Cūla Gavaccha Thera. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kosambī</span>. Having heard the Buddha preach, he entered the Saṅgha. At that time the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kosambī</span> monks had become contentious, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gavaccha</span> remained steadfast and attained to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>-ship.
+Cūḷa Gavaccha Thera, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Gavaccha Thera</span>. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kosambī</span>. Having heard the Buddha preach, he entered the Saṅgha. At that time the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kosambī</span> monks had become contentious, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Gavaccha</span> remained steadfast and attained to *Arahant*-ship.
 
 In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Padumuttara Buddha</span> he was a labourer and, finding the monk <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sujāta</span> looking for pieces of stuff for a robe, gave him his garment.
 

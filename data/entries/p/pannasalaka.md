@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6948
+  source_order: 6945
   source_anchor: 
 aliases:
   - "Pannasalaka"
 link_candidates:
   - "Kalyāṇavatī"
   - "Kittinissaṅka"
-  - "vihāra"
 ---
 
 # Paṇṇasālaka
 
 ## English source
 
-Paṇṇasālaka. A village in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kalyāṇavatī</span>, the first queen consort of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kittinissaṅka</span>, was fond of this village and built a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">vihāra</span> there, endowing it with all manner of possessions. Cv.lxxx.35.
+Paṇṇasālaka. A village in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kalyāṇavatī</span>, the first queen consort of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kittinissaṅka</span>, was fond of this village and built a *vihāra* there, endowing it with all manner of possessions. Cv.lxxx.35.
 
 ## Vietnamese translation
 

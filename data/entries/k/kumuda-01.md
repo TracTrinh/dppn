@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3179
+  source_order: 3178
   source_anchor: "a131"
 aliases: []
 link_candidates:
   - "Kokālika"
   - "Kumuda"
-  - "niraya"
 ---
 
 # Kumuda 01
 
 ## English source
 
-Kumuda 01. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">niraya</span> – strictly speaking, a period of suffering. It is equal to twelve Padumas. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kokālika</span> monk was born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kumuda</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">niraya</span>. SN.i.152f; see also Snp., p.126; Snp­a.ii.476.
+Kumuda 01. A *niraya* – strictly speaking, a period of suffering. It is equal to twelve Padumas. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kokālika</span> monk was born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kumuda</span> *niraya*. SN.i.152f; see also Snp., p.126; Snp­a.ii.476.
 
 ## Vietnamese translation
 

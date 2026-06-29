@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11662
+  source_order: 11657
   source_anchor: 
 aliases:
   - "Sabbattha-abhivassi"
 link_candidates:
   - "Kuṭidāyaka Thera"
-  - "kappas"
 ---
 
 # Sabbattha-abhivassī
 
 ## English source
 
-Sabbattha-abhivassī. Thirty-eight <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago there were sixteen kings of this name, previous births of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kuṭidāyaka Thera</span>. Ap.i.229.
+Sabbattha-abhivassī. Thirty-eight *kappas* ago there were sixteen kings of this name, previous births of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kuṭidāyaka Thera</span>. Ap.i.229.
 
 ## Vietnamese translation
 

@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Ambahattha"
-  - "pabbata"
 ---
 
 # Ajjuhatthapabbata
 
 ## English source
 
-Ajjuhatthapabbata. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambahattha</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">pabbata</span>.
+Ajjuhatthapabbata. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambahattha</span> *pabbata*.
 
 ## Vietnamese translation
 

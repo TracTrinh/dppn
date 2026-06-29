@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8743
+  source_order: 8740
   source_anchor: 
 aliases:
   - "Maha Anula Thera"

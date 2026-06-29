@@ -14,7 +14,6 @@ source:
 aliases:
   - "Arahasutta 01"
 link_candidates:
-  - "Arahant"
   - "Rādha"
   - "Sāvatthī"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Arahāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span> to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rādha</span>. A monk who sees, in their true nature, the coming to pass and the passing away, the satisfaction of, misery in, and escape from, the five groups of grasping, is called an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Arahant</span>. SN.iii.193.
+Arahāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span> to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rādha</span>. A monk who sees, in their true nature, the coming to pass and the passing away, the satisfaction of, misery in, and escape from, the five groups of grasping, is called an *Arahant*. SN.iii.193.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6162
+  source_order: 6159
   source_anchor: 
 aliases:
   - "Na hoti Tathagata Sutta"

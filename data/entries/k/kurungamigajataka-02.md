@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3226
+  source_order: 3225
   source_anchor: 
 aliases:
   - "Kurungamigajataka 02"
 link_candidates:
-  - "Bharhut Stūpa"
   - "Devadatta"
   - "Jātaka"
   - "Moggallāna"
@@ -29,7 +28,7 @@ Kuruṅgamigajātaka 02. (Ja 206). In a forest lived three friends: an antelope,
 
 The story was told in reference to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Devadatta</span>’s wickedness (Ja.ii.152ff; Dhp­a.iii.152f).
 
-This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jātaka</span> is figured on the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Bharhut Stūpa</span>. Cunningham: p.67 and Plate xxvii.9.
+This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jātaka</span> is figured on the *Bharhut Stūpa*. Cunningham: p.67 and Plate xxvii.9.
 
 ## Vietnamese translation
 

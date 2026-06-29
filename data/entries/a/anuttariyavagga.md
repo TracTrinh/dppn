@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Chakkanipāta"
 ---
 
 # Anuttariyavagga
 
 ## English source
 
-Anuttariyavagga. The third chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Chakkanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.309-29.
+Anuttariyavagga. The third chapter of the *Chakkanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.309-29.
 
 ## Vietnamese translation
 

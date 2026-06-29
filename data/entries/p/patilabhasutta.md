@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6870
+  source_order: 6867
   source_anchor: 
 aliases:
   - "Patilabhasutta"
-link_candidates:
-  - "indriyas"
+link_candidates: []
 ---
 
 # Paṭilābhasutta
 
 ## English source
 
-Paṭilābhasutta. A description of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indriyas</span>. SN.v.199f.
+Paṭilābhasutta. A description of the five *indriyas*. SN.v.199f.
 
 ## Vietnamese translation
 

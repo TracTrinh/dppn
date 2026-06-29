@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Aṅga"
   - "Dīgha Commentary"
-  - "rūḷhi-vasena"
 ---
 
 # Aṅgā 06
 
 ## English source
 
-Aṅgā 06. Chieftains of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅga</span>, so-called, according to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dīgha Commentary</span> (i.279), because of the beauty of their limbs. Their name was customarily (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">rūḷhi-vasena</span>) used to denote their country.
+Aṅgā 06. Chieftains of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅga</span>, so-called, according to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dīgha Commentary</span> (i.279), because of the beauty of their limbs. Their name was customarily (*rūḷhi-vasena*) used to denote their country.
 
 ## Vietnamese translation
 

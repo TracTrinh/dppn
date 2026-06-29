@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Anuruddha"
-  - "Devā"
   - "Manāpakāyikā"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Anuruddhasutta 06. The Buddha explains to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anuruddha</span> how women may be born among the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Manāpakāyikā</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Devā</span>. AN.iv.262ff.
+Anuruddhasutta 06. The Buddha explains to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anuruddha</span> how women may be born among the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Manāpakāyikā</span> *Devā*. AN.iv.262ff.
 
 ## Vietnamese translation
 

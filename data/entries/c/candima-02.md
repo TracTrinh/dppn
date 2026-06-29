@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4302
+  source_order: 4300
   source_anchor: 
 aliases:
   - "Candima 02"

@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ahuneyyasutta 04"
-link_candidates:
-  - "Gotrabhū"
+link_candidates: []
 ---
 
 # Āhuneyyasutta 04
 
 ## English source
 
-Āhuneyyasutta 04. On nine persons worthy of homage: those who have attained the four Fruits of the Path, those four who are on the way thereto and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Gotrabhū</span> (one who has entered the lineage of the Ariyan). AN.iv.373.
+Āhuneyyasutta 04. On nine persons worthy of homage: those who have attained the four Fruits of the Path, those four who are on the way thereto and the *Gotrabhū* (one who has entered the lineage of the Ariyan). AN.iv.373.
 
 ## Vietnamese translation
 

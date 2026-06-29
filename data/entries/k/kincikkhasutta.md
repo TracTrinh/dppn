@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "amisakincikkhasutta"
 source:
   epub_file: "Ops/028.html"
-  source_order: 2951
+  source_order: 2950
   source_anchor: 
 aliases:
   - "Kincikkhasutta"

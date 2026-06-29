@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9744
+  source_order: 9739
   source_anchor: 
 aliases:
   - "Yasava 02"

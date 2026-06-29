@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mahejjaghara"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9267
+  source_order: 9263
   source_anchor: 
 aliases: []
 link_candidates:

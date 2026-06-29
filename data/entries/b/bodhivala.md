@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 8020
+  source_order: 8017
   source_anchor: 
 aliases:
   - "Bodhivala"

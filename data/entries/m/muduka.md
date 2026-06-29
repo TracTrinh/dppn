@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9525
+  source_order: 9520
   source_anchor: 
 aliases:
   - "Muduka"

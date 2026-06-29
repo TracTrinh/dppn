@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10107
+  source_order: 10102
   source_anchor: 
 aliases:
   - "Revati 03"

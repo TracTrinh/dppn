@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3887
+  source_order: 3885
   source_anchor: 
 aliases:
   - "Gijjhakutasutta"
@@ -19,8 +19,6 @@ link_candidates:
   - "Gijjhakūṭa"
   - "Gotama Buddha"
   - "Pūraṇa Kassapa"
-  - "bojjhaṅgas"
-  - "nīvaraṇas"
 ---
 
 # Gijjhakūṭasutta
@@ -33,7 +31,7 @@ Contains an account of the visit paid by <span class="dppn-term dppn-term-t14" d
 
 Abhaya questions the Buddha on the views of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Pūraṇa Kassapa</span>.
 
-The Buddha declares these to be wrong, and instructs Abhaya in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">nīvaraṇas</span> and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.126f.
+The Buddha declares these to be wrong, and instructs Abhaya in the *nīvaraṇas* and the *bojjhaṅgas*. SN.v.126f.
 
 ## Vietnamese translation
 

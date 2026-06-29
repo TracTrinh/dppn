@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "saddhatissa-02"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7422
+  source_order: 7419
   source_anchor: 
 aliases:
   - "Pindapatika Tissa"

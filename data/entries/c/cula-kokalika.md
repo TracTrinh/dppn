@@ -9,11 +9,12 @@ status: "redirect"
 redirect_to: "kokalika-02"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4466
+  source_order: 4463
   source_anchor: 
 aliases:
   - "Cula Kokalika"
 link_candidates:
+  - "Culla Kokālika"
   - "Kokālika"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Kokālika, Culla Kokālika. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kokālika</span> (2).
+Cūḷa Kokālika, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Culla Kokālika</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kokālika</span> (2).
 
 ## Vietnamese translation
 

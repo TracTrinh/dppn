@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5095
+  source_order: 5092
   source_anchor: 
 aliases:
   - "Talaputa"

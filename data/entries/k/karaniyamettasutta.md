@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mettasutta-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2594
+  source_order: 2593
   source_anchor: 
 aliases:
   - "Karaniyamettasutta"

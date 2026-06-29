@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "candakumara-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4304
+  source_order: 4302
   source_anchor: 
 aliases: []
 link_candidates:

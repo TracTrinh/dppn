@@ -12,15 +12,14 @@ source:
   source_order: 2137
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Sutta"
+link_candidates: []
 ---
 
 # Ekadhammasutta 02
 
 ## English source
 
-Ekadhammasutta 02. There is one condition which, if cultivated, yields great fruit, viz., the concentration on in-breathing and out-breathing. The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> also describes the method of its practice. SN.v.311f.
+Ekadhammasutta 02. There is one condition which, if cultivated, yields great fruit, viz., the concentration on in-breathing and out-breathing. The *Sutta* also describes the method of its practice. SN.v.311f.
 
 ## Vietnamese translation
 

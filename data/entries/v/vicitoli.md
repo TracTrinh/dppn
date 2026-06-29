@@ -9,10 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10725
+  source_order: 10720
   source_anchor: 
 aliases: []
 link_candidates:
+  - "Awakening"
   - "Dhammadassī Buddha"
   - "Puññavaḍḍhana"
   - "Vicikoli"
@@ -22,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Vicitoli (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vicikoli</span>). Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dhammadassī Buddha</span> in his last lay life. Their son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Puññavaḍḍhana</span> (Bv.xvi.15). Vicitoli gave milk-rice to the Buddha just before his Awakening. Bv­a.182.
+Vicitoli (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vicikoli</span>). Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dhammadassī Buddha</span> in his last lay life. Their son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Puññavaḍḍhana</span> (Bv.xvi.15). Vicitoli gave milk-rice to the Buddha just before his <span class="dppn-term dppn-term-t20" data-dppn-term-pos="4" data-dppn-term-class="t20">Awakening</span>. Bv­a.182.
 
 ## Vietnamese translation
 

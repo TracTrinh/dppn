@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7104
+  source_order: 7101
   source_anchor: 
 aliases:
   - "Parakusinata"

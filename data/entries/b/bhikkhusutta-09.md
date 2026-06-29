@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhayasutta-06"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8299
+  source_order: 8296
   source_anchor: 
 aliases: []
 link_candidates:

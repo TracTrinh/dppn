@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nandopananda-01"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6231
+  source_order: 6228
   source_anchor: 
 aliases: []
 link_candidates:

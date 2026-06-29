@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11434
+  source_order: 11429
   source_anchor: 
 aliases:
   - "Sannamanasikarasutta 01"
 link_candidates:
-  - "Nibbāna"
   - "Ānanda"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Saññāmanasikārasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> asks the Buddha how a monk can so develop concentration that he is quite unaware of all that is seen, heard, sensed, cognized, attained, sought after, or thought of. By the calming of all activities, the ending of craving, by <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Nibbāna</span>, answers the Buddha. AN.v.318f.
+Saññāmanasikārasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> asks the Buddha how a monk can so develop concentration that he is quite unaware of all that is seen, heard, sensed, cognized, attained, sought after, or thought of. By the calming of all activities, the ending of craving, by *Nibbāna*, answers the Buddha. AN.v.318f.
 
 ## Vietnamese translation
 

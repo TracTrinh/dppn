@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9958
+  source_order: 9953
   source_anchor: 
 aliases:
   - "Rajavagga 01"
 link_candidates:
   - "Majjhimanikāya"
-  - "Suttas"
 ---
 
 # Rājavagga 01
 
 ## English source
 
-Rājavagga 01. The ninth section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Majjhimanikāya</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Suttas</span> 81-90). MN.ii.44ff.
+Rājavagga 01. The ninth section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Majjhimanikāya</span> (*Suttas* 81-90). MN.ii.44ff.
 
 ## Vietnamese translation
 

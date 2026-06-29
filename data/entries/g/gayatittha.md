@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gaya-02"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3836
+  source_order: 3834
   source_anchor: 
 aliases:
   - "Gayatittha"

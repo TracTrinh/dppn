@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7887
+  source_order: 7884
   source_anchor: 
 aliases:
   - "Bahiyajataka"
@@ -19,8 +19,6 @@ link_candidates:
   - "Cakkavatti"
   - "Jātaka"
   - "Licchavī"
-  - "bahijanapadavāsī"
-  - "bāhiyā"
 ---
 
 # Bāhiyajātaka
@@ -31,7 +29,7 @@ Bāhiyajātaka (Ja 108). Once <span class="dppn-term dppn-term-t14" data-dppn-te
 
 The story was told in reference to the fat wife of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Licchavī</span> prince. The monks expressed surprise that he should love her, but the Buddha pointed out that she was healthy and cleanly in her house (Ja.i.420 ff).
 
-In the course of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jātaka</span>, the woman is referred to as a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">bāhiyā</span>, which the scholiast explains by <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">bahijanapadavāsī</span> one who dwells in an outside country. Bāhiya here, therefore, probably means “rustic.”
+In the course of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jātaka</span>, the woman is referred to as a *bāhiyā*, which the scholiast explains by *bahijanapadavāsī* one who dwells in an outside country. Bāhiya here, therefore, probably means “rustic.”
 
 ## Vietnamese translation
 

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6875
+  source_order: 6872
   source_anchor: 
 aliases:
   - "Patisambhidasutta 01"
-link_candidates:
-  - "paṭisambhidā"
+link_candidates: []
 ---
 
 # Paṭisambhidāsutta 01
 
 ## English source
 
-Paṭisambhidāsutta 01. Five qualities which make a monk become that which he should: the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">paṭisambhidā</span> and knowledge of all things, great and small, which must be done for his fellow celibates. AN.iii.113.
+Paṭisambhidāsutta 01. Five qualities which make a monk become that which he should: the four *paṭisambhidā* and knowledge of all things, great and small, which must be done for his fellow celibates. AN.iii.113.
 
 ## Vietnamese translation
 

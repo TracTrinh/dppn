@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8447
+  source_order: 8444
   source_anchor: 
 aliases:
   - "Mangala 05"

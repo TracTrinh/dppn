@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11140
+  source_order: 11135
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Sutta"
+link_candidates: []
 ---
 
 # Verasutta 03
 
 ## English source
 
-Verasutta 03. The same as <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> (2); preached to the monks. AN.iv.407.
+Verasutta 03. The same as *Sutta* (2); preached to the monks. AN.iv.407.
 
 ## Vietnamese translation
 

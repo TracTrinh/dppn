@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3286
+  source_order: 3285
   source_anchor: 
 aliases:
   - "Kusalasutta 01"
-link_candidates:
-  - "appamāda"
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Kusalāsutta 01
 
 ## English source
 
-Kusalāsutta 01. Conditions which are on the side of goodness have their root in earnestness (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">appamāda</span>); the earnest monk cultivates the seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.91.
+Kusalāsutta 01. Conditions which are on the side of goodness have their root in earnestness (*appamāda*); the earnest monk cultivates the seven *bojjhaṅgas*. SN.v.91.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vasettha-01"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10586
+  source_order: 10581
   source_anchor: 
 aliases:
   - "Vasitthi"

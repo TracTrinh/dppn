@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7119
+  source_order: 7116
   source_anchor: 
 aliases:
   - "Parakkamabahu 06"

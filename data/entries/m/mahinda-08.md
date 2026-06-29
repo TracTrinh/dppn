@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9226
+  source_order: 9222
   source_anchor: 
 aliases: []
 link_candidates:
@@ -19,14 +19,13 @@ link_candidates:
   - "Rohaṇa"
   - "Udaya"
   - "Udaya I"
-  - "Ādipāda"
 ---
 
 # Mahinda 08
 
 ## English source
 
-Mahinda 08. Son of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ādipāda</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dāṭhāsīva</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rohaṇa</span>. He quarreled with his father, took service under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Udaya I</span>. and married his daughter <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Devā</span>. He was later sent to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Rohaṇa</span>, where he drove out his father. His two sons revolted against him, and, with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Udaya</span>’s help, led an army against him. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Mahinda</span> defeated them, but was killed in a fight with another kinsman. Cv.xlix.10ff.; 66ff.
+Mahinda 08. Son of the *Ādipāda* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dāṭhāsīva</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rohaṇa</span>. He quarreled with his father, took service under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Udaya I</span>. and married his daughter <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Devā</span>. He was later sent to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Rohaṇa</span>, where he drove out his father. His two sons revolted against him, and, with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Udaya</span>’s help, led an army against him. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Mahinda</span> defeated them, but was killed in a fight with another kinsman. Cv.xlix.10ff.; 66ff.
 
 ## Vietnamese translation
 

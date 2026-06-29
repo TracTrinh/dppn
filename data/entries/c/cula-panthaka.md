@@ -9,11 +9,12 @@ status: "redirect"
 redirect_to: "cula-panthaka-thera"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4515
+  source_order: 4512
   source_anchor: 
 aliases:
   - "Cula Panthaka"
 link_candidates:
+  - "Culla Panthaka"
   - "Cūḷa Panthaka Thera"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Panthaka, Culla Panthaka. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cūḷa Panthaka Thera</span>.
+Cūḷa Panthaka, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Culla Panthaka</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cūḷa Panthaka Thera</span>.
 
 ## Vietnamese translation
 

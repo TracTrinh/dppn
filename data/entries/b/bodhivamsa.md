@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-bodhivamsa"
 source:
   epub_file: "Ops/052.html"
-  source_order: 8019
+  source_order: 8016
   source_anchor: 
 aliases:
   - "Bodhivamsa"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4195
+  source_order: 4193
   source_anchor: 
 aliases:
   - "Candi 02"

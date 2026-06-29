@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3161
+  source_order: 3160
   source_anchor: 
 aliases:
   - "Kumaputta"

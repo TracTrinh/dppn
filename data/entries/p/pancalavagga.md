@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6830
+  source_order: 6827
   source_anchor: 
 aliases:
   - "Pancalavagga"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Navakanipāta"
 ---
 
 # Pañcālavagga
 
 ## English source
 
-Pañcālavagga. The fifth section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Navakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iv.449-54.
+Pañcālavagga. The fifth section of the *Navakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iv.449-54.
 
 ## Vietnamese translation
 

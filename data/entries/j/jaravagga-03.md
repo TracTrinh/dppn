@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4807
+  source_order: 4804
   source_anchor: 
 aliases:
   - "Jaravagga 03"

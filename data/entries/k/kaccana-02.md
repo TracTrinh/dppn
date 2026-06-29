@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhaddakaccana"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2301
+  source_order: 2300
   source_anchor: 
 aliases:
   - "Kaccana 02"

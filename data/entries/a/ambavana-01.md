@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Kassapa III"
-  - "padhānaghara"
 ---
 
 # Ambavana 01
 
 ## English source
 
-Ambavana 01. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">padhānaghara</span> in Ceylon, built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kassapa III</span>. Cv.x1viii.25.
+Ambavana 01. A *padhānaghara* in Ceylon, built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kassapa III</span>. Cv.x1viii.25.
 
 ## Vietnamese translation
 

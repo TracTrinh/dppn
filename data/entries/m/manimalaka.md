@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8553
+  source_order: 8550
   source_anchor: 
 aliases:
   - "Manimalaka"

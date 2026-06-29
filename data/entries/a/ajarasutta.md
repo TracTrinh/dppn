@@ -12,15 +12,14 @@ source:
   source_order: 191
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Ajajjara"
+link_candidates: []
 ---
 
 # Ajarasutta
 
 ## English source
 
-Ajarasutta. The Buddha teaches the undecaying and the path thereto (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ajajjara</span>).
+Ajarasutta. The Buddha teaches the undecaying and the path thereto (*Ajajjara*).
 
 ## Vietnamese translation
 

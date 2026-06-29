@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rahula-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10029
+  source_order: 10024
   source_anchor: 
 aliases:
   - "Rahulabhadda"

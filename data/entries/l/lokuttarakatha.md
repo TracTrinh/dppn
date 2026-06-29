@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10281
+  source_order: 10276
   source_anchor: 
 aliases:
   - "Lokuttarakatha"

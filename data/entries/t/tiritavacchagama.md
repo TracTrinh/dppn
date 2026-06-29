@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "milinda"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5209
+  source_order: 5206
   source_anchor: 
 aliases:
   - "Tiritavacchagama"

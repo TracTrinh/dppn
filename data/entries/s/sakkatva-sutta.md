@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11238
+  source_order: 11233
   source_anchor: 
 aliases:
   - "Sakkatva Sutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3889
+  source_order: 3887
   source_anchor: 
 aliases:
   - "Gijjhajataka 02"

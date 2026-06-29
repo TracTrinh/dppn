@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3966
+  source_order: 3964
   source_anchor: 
 aliases:
   - "Guna"

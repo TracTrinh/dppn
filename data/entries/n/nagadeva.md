@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6415
+  source_order: 6412
   source_anchor: 
 aliases:
   - "Nagadeva"

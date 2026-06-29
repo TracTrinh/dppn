@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8328
+  source_order: 8325
   source_anchor: 
 aliases:
   - "Bhimasena 01"

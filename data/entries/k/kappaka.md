@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kappa-04"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2544
+  source_order: 2543
   source_anchor: 
 aliases: []
 link_candidates:

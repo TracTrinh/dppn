@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "salasutta-01"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11963
+  source_order: 11958
   source_anchor: 
 aliases: []
 link_candidates:

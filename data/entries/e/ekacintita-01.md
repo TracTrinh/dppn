@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Sumaṅgala"
-  - "kappas"
 ---
 
 # Ekacintita 01
 
 ## English source
 
-Ekacintita 01. Sixteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago there were eighteen kings of this name. They were previous births of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sumaṅgala</span> Thera. Ap.i.148; Thag­a.i.111.
+Ekacintita 01. Sixteen *kappas* ago there were eighteen kings of this name. They were previous births of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumaṅgala</span> Thera. Ap.i.148; Thag­a.i.111.
 
 ## Vietnamese translation
 

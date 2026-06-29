@@ -15,7 +15,6 @@ aliases: []
 link_candidates:
   - "Asadisa"
   - "Benares"
-  - "Brahma"
   - "Brahmadatta"
   - "Cātummahārājikā"
   - "Tāvatiṁsa"
@@ -29,7 +28,7 @@ Asadisa 01. The Bodhisatta born as the son of <span class="dppn-term dppn-term-t
 
 Later, on hearing that seven kings had beleaguered his brother’s kingdom, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Asadisa</span> shot an arrow, bearing a message, into the dish from which the kings were eating, and they all fled.
 
-He soon afterwards became an ascetic and at his death was born in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">Brahma</span> world. Ja.ii.86-92.
+He soon afterwards became an ascetic and at his death was born in the *Brahma* world. Ja.ii.86-92.
 
 ## Vietnamese translation
 

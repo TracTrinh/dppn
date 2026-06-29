@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5797
+  source_order: 5794
   source_anchor: 
 aliases:
   - "Devatavagga 01"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Chakkanipāta"
 ---
 
 # Devatāvagga 01
 
 ## English source
 
-Devatāvagga 01. The fourth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Chakkanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.329-44.
+Devatāvagga 01. The fourth chapter of the *Chakkanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.329-44.
 
 ## Vietnamese translation
 

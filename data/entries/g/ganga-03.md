@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3737
+  source_order: 3735
   source_anchor: 
 aliases:
   - "Ganga 03"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3633
+  source_order: 3631
   source_anchor: 
 aliases:
   - "Khanu 01"

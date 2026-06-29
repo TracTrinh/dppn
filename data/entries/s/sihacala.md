@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sihagiri"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12523
+  source_order: 12518
   source_anchor: 
 aliases:
   - "Sihacala"

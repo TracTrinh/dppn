@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13540
+  source_order: 13534
   source_anchor: 
 aliases:
   - "Hirannavati 01"

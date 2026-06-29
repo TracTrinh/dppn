@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhennakata"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7667
+  source_order: 7664
   source_anchor: 
 aliases:
   - "Pennakata"

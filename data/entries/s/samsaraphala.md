@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11997
+  source_order: 11992
   source_anchor: 
 aliases:
   - "Samsaraphala"

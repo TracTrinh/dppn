@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "campa-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4312
+  source_order: 4310
   source_anchor: 
 aliases:
   - "Campaka"

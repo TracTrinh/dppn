@@ -14,7 +14,6 @@ source:
 aliases:
   - "Upanisasutta 03"
 link_candidates:
-  - "Sutta"
   - "Sāriputta"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Upanisāsutta 03. The same as 2, but the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> is ascribed to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span>. AN.v.315f.
+Upanisāsutta 03. The same as 2, but the *Sutta* is ascribed to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span>. AN.v.315f.
 
 ## Vietnamese translation
 

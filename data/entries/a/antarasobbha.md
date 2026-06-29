@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Antarasobbha"
-  - "Arahants"
   - "Damiḷa"
   - "Devavihāra"
   - "Duṭṭhagāmaṇī"
@@ -33,7 +32,7 @@ Antarasobbha. A locality in Ceylon. It was here that <span class="dppn-term dppn
 
 Later, King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Manāvamma</span> built the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Devavihāra</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Antarasobbha</span> (Cv.lviii.4).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Majjhima Commentary</span> (ii.1024) mentions that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Malliyadeva</span> preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Mahā Saḷāyatanikasutta</span> here, and that on that occasion sixty monks became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">Arahants</span>.
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Majjhima Commentary</span> (ii.1024) mentions that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Malliyadeva</span> preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Mahā Saḷāyatanikasutta</span> here, and that on that occasion sixty monks became *Arahants*.
 
 ## Vietnamese translation
 

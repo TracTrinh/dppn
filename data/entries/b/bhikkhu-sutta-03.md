@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8304
+  source_order: 8301
   source_anchor: 
 aliases:
   - "Bhikkhu Sutta 03"

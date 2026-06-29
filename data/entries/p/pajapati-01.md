@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6762
+  source_order: 6759
   source_anchor: 
 aliases:
   - "Pajapati 01"

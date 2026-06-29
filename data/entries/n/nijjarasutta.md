@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6586
+  source_order: 6583
   source_anchor: 
 aliases:
   - "Nijjarasutta"

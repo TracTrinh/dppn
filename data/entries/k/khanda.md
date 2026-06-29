@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3569
+  source_order: 3567
   source_anchor: 
 aliases:
   - "Khanda"

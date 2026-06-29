@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
-  source_order: 11213
+  source_order: 11208
   source_anchor: 
 aliases:
   - "Vyakaranasutta 01"

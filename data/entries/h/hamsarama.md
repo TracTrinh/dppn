@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13514
+  source_order: 13508
   source_anchor: 
 aliases:
   - "Hamsarama"

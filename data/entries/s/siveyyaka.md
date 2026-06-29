@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sivirattha"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12475
+  source_order: 12470
   source_anchor: 
 aliases:
   - "Siveyyaka"

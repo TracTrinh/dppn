@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "navavimalabuddhi"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10909
+  source_order: 10904
   source_anchor: 
 aliases: []
 link_candidates: []

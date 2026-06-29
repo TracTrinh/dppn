@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9453
+  source_order: 9448
   source_anchor: 
 aliases:
   - "Mittasutta 01"
-link_candidates:
-  - "satipaṭṭhāna"
+link_candidates: []
 ---
 
 # Mittāsutta 01
 
 ## English source
 
-Mittāsutta 01. Those whom one holds in affection one should admonish and establish in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>s. SN.v.189
+Mittāsutta 01. Those whom one holds in affection one should admonish and establish in the *satipaṭṭhāna*s. SN.v.189
 
 ## Vietnamese translation
 

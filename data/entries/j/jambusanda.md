@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jambudipa"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4777
+  source_order: 4774
   source_anchor: 
 aliases:
   - "Jambusanda"

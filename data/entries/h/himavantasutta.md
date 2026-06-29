@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pabbatupamasutta-01"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13535
+  source_order: 13529
   source_anchor: 
 aliases: []
 link_candidates:

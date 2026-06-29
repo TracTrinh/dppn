@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5271
+  source_order: 5268
   source_anchor: 
 aliases: []
 link_candidates:
   - "Kuṇḍalā"
   - "Mahā Gāma"
-  - "Sāmaṇera"
   - "Tissavihāra"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Tissa 45. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sāmaṇera</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Tissavihāra</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Gāma</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kuṇḍalā</span>.
+Tissa 45. A *Sāmaṇera* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissavihāra</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Gāma</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kuṇḍalā</span>.
 
 ## Vietnamese translation
 

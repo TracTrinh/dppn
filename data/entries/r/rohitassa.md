@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10161
+  source_order: 10156
   source_anchor: 
 aliases:
   - "Rohitassa"

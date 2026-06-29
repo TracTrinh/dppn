@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "otthaddha"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9213
+  source_order: 9209
   source_anchor: 
 aliases:
   - "Mahali 02"

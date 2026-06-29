@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4122
+  source_order: 4120
   source_anchor: 
 aliases:
   - "Gosala"

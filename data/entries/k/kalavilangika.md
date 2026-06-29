@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-kassapa"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2896
+  source_order: 2895
   source_anchor: 
 aliases:
   - "Kalavilangika"

@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9736
+  source_order: 9731
   source_anchor: 
 aliases:
   - "Yasavati 04"
 link_candidates:
   - "Akitti"
-  - "q.v."
 ---
 
 # Yasavatī 04
 
 ## English source
 
-Yasavatī 04. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>). Ja.iv.237.
+Yasavatī 04. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span> (*q.v.*). Ja.iv.237.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rasavahini"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8631
+  source_order: 8628
   source_anchor: 
 aliases:
   - "Madhurasasavahini"

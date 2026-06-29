@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9524
+  source_order: 9519
   source_anchor: 
 aliases:
   - "Muditasutta"

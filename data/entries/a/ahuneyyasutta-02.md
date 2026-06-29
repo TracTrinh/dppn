@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ahuneyyasutta 02"
-link_candidates:
-  - "abhiññā"
+link_candidates: []
 ---
 
 # Āhuneyyasutta 02
 
 ## English source
 
-Āhuneyyasutta 02. Six other qualities connected with the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">abhiññā</span> which make a monk so worthy. AN.iii.280-1.
+Āhuneyyasutta 02. Six other qualities connected with the *abhiññā* which make a monk so worthy. AN.iii.280-1.
 
 ## Vietnamese translation
 

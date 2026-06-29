@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9092
+  source_order: 9088
   source_anchor: 
 aliases:
   - "Maha Lohita"

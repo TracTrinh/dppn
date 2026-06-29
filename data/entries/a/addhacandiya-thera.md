@@ -14,7 +14,6 @@ source:
 aliases:
   - "Addhacandiya Thera"
 link_candidates:
-  - "Arahant"
   - "Devapa"
   - "Tissa Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Aḍḍhacandiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In a previous birth he gave <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Tissa Buddha</span> a bouquet of flowers in the shape of a crescent moon. He was once a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devapa</span>. Ap.i.231.
+Aḍḍhacandiya Thera. An *Arahant*. In a previous birth he gave <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissa Buddha</span> a bouquet of flowers in the shape of a crescent moon. He was once a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devapa</span>. Ap.i.231.
 
 ## Vietnamese translation
 

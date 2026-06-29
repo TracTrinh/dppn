@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10042
+  source_order: 10037
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Nibbāna"
+link_candidates: []
 ---
 
 # Rukkhasutta 03
 
 ## English source
 
-Rukkhasutta 03. Just as a tree, which leans towards the east, falls to the east when cut down, so does a monk who cultivates the Eightfold Path incline to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Nibbāna</span>. SN.v.47.
+Rukkhasutta 03. Just as a tree, which leans towards the east, falls to the east when cut down, so does a monk who cultivates the Eightfold Path incline to *Nibbāna*. SN.v.47.
 
 ## Vietnamese translation
 

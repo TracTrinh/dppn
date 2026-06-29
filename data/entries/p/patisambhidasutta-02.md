@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6876
+  source_order: 6873
   source_anchor: 
 aliases:
   - "Patisambhidasutta 02"
-link_candidates:
-  - "paṭisambhidā"
+link_candidates: []
 ---
 
 # Paṭisambhidāsutta 02
 
 ## English source
 
-Paṭisambhidāsutta 02. Seven qualities which enable a monk to realize, unaided, the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">paṭisambhidā</span>. AN.iv.32f.
+Paṭisambhidāsutta 02. Seven qualities which enable a monk to realize, unaided, the four *paṭisambhidā*. AN.iv.32f.
 
 ## Vietnamese translation
 

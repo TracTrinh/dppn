@@ -9,13 +9,13 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3006
+  source_order: 3005
   source_anchor: 
 aliases: []
 link_candidates:
+  - "Dhamma"
   - "Kimbila"
   - "Kimbilā"
-  - "Niceḷuvana"
   - "Veḷuvana"
 ---
 
@@ -23,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Kimbilasutta. Records the conversation which took place at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Veḷuvana</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Niceḷuvana</span>?) in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kimbilā</span> between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kimbila</span> and the Buddha, regarding the continuance of the Dhamma after the Buddha’s death. AN.iii.247, 339; iv.84.
+Kimbilasutta. Records the conversation which took place at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Veḷuvana</span> (*Niceḷuvana*?) in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kimbilā</span> between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kimbila</span> and the Buddha, regarding the continuance of the <span class="dppn-term dppn-term-t20" data-dppn-term-pos="4" data-dppn-term-class="t20">Dhamma</span> after the Buddha’s death. AN.iii.247, 339; iv.84.
 
 ## Vietnamese translation
 

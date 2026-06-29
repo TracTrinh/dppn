@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Parakkamabāhu I"
   - "Pulatthipura"
-  - "Vijjādhara"
 ---
 
 # Uttarārāma 01
 
 ## English source
 
-Uttarārāma 01. An image-house constructed by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span>. to the north of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pulatthipura</span>. It was hewn out of the actual rock and had three grottoes, made by expert craftsmen – the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Vijjādhara</span> grotto, the grotto with the image in sitting posture and the grotto with the recumbent image. Cv.lxxviii.74ff; for a description of it see Cv.Trs.ii., 111, n.2; Bell: Arch. Survey of Ceylon for 1907, pp.7ff.
+Uttarārāma 01. An image-house constructed by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span>. to the north of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pulatthipura</span>. It was hewn out of the actual rock and had three grottoes, made by expert craftsmen – the *Vijjādhara* grotto, the grotto with the image in sitting posture and the grotto with the recumbent image. Cv.lxxviii.74ff; for a description of it see Cv.Trs.ii., 111, n.2; Bell: Arch. Survey of Ceylon for 1907, pp.7ff.
 
 ## Vietnamese translation
 

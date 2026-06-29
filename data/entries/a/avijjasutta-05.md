@@ -14,7 +14,6 @@ source:
 aliases:
   - "Avijjasutta 05"
 link_candidates:
-  - "Sutta"
   - "Sāmaṇḍakasaṁyutta"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Avijjāsutta 05. The ninth <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāmaṇḍakasaṁyutta</span>. SN.iv.261-2.
+Avijjāsutta 05. The ninth *Sutta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāmaṇḍakasaṁyutta</span>. SN.iv.261-2.
 
 ## Vietnamese translation
 

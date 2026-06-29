@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vetambari-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11048
+  source_order: 11043
   source_anchor: 
 aliases:
   - "Vegabbari"

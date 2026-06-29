@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9638
+  source_order: 9633
   source_anchor: 
 aliases:
   - "Moggallana 01"

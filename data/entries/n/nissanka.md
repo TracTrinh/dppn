@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kittinissanka"
 source:
   epub_file: "Ops/047.html"
-  source_order: 6672
+  source_order: 6669
   source_anchor: 
 aliases:
   - "Nissanka"

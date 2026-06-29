@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "hambugallaka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2568
+  source_order: 2567
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-valukaganga"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3736
+  source_order: 3734
   source_anchor: 
 aliases:
   - "Ganga 02"

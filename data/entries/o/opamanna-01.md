@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Pokkharasāti"
   - "Upamañña"
-  - "gotta"
 ---
 
 # Opamañña 01
 
 ## English source
 
-Opamañña 01. One of the names of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pokkharasāti</span> (MN.ii.200). He was so-called because the name of his family (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">gotta</span>) was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Upamañña</span> (MN­a.ii.804).
+Opamañña 01. One of the names of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pokkharasāti</span> (MN.ii.200). He was so-called because the name of his family (*gotta*) was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upamañña</span> (MN­a.ii.804).
 
 ## Vietnamese translation
 

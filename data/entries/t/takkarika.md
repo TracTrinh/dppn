@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 4997
+  source_order: 4994
   source_anchor: 
 aliases:
   - "Takkarika"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3547
+  source_order: 3545
   source_anchor: 
 aliases:
   - "Kosiyajataka 01"
@@ -18,7 +18,6 @@ link_candidates:
   - "Kosiyagotta"
   - "Kosiyā"
   - "Sāvatthī"
-  - "atītavatthu"
 ---
 
 # Kosiyajātaka 01
@@ -29,7 +28,7 @@ Kosiyajātaka 01. (Ja 130). A Brahmin of <span class="dppn-term dppn-term-t14" d
 
 The story was told to a Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>, a pious follower of the Buddha, whose wife behaved in a similar way. The Buddha told him this story of the past and asked him to try the same remedy, for, he said, the Brahmin and his wife were identical with the couple of the story (Ja.i.463f).
 
-In the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">atītavatthu</span> the woman is addressed as “<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kosiyā</span>.” The scholiast (Ja.i.465) adds that she belonged to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kosiyagotta</span>.
+In the *atītavatthu* the woman is addressed as “<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kosiyā</span>.” The scholiast (Ja.i.465) adds that she belonged to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kosiyagotta</span>.
 
 ## Vietnamese translation
 

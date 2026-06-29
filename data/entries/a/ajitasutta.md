@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Ajita"
-  - "paribbājaka"
 ---
 
 # Ajitasutta
 
 ## English source
 
-Ajitasutta. Preached by the Buddha to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ajita</span> the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">paribbājaka</span> on the difference between Dhamma and adhamma. AN.v.229ff.
+Ajitasutta. Preached by the Buddha to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ajita</span> the *paribbājaka* on the difference between Dhamma and adhamma. AN.v.229ff.
 
 ## Vietnamese translation
 

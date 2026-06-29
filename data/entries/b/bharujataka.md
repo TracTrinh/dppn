@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8218
+  source_order: 8215
   source_anchor: 
 aliases:
   - "Bharujataka"

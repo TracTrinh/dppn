@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10534
+  source_order: 10529
   source_anchor: 
 aliases:
   - "Varuna 18"
@@ -30,7 +30,6 @@ link_candidates:
   - "Vāruṇī"
   - "Yakkha"
   - "Yama"
-  - "vaṇṇa"
   - "Āṭānāṭiyasutta"
 ---
 
@@ -44,7 +43,7 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-te
 
 In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Āṭānāṭiyasutta</span> (DN.iii.204) he is mentioned with Indra and others as a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Yakkha</span> chief.
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Buddhaghosa</span> says (SN­a.i.262) that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Varuṇa</span> is equal in age and glory (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="21" data-dppn-term-class="t18">vaṇṇa</span>) with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Sakka</span> and takes the third seat in the assembly of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Devas</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Varuṇā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term-class="t14">Vāruṇī</span>.
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Buddhaghosa</span> says (SN­a.i.262) that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Varuṇa</span> is equal in age and glory (*vaṇṇa*) with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Sakka</span> and takes the third seat in the assembly of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Devas</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Varuṇā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Vāruṇī</span>.
 
 ## Vietnamese translation
 

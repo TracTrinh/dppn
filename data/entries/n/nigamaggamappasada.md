@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6554
+  source_order: 6551
   source_anchor: 
 aliases:
   - "Nigamaggamappasada"

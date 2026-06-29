@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3623
+  source_order: 3621
   source_anchor: 
 aliases:
   - "Kharaputtajataka"

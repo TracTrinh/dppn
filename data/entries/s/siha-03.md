@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12480
+  source_order: 12475
   source_anchor: 
 aliases:
   - "Siha 03"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nibbanasutta-01"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4770
+  source_order: 4767
   source_anchor: 
 aliases:
   - "Jambukhadakasutta"

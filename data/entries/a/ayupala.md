@@ -15,7 +15,6 @@ aliases:
   - "Ayupala"
 link_candidates:
   - "Milinda"
-  - "Pariveṇa"
   - "Saṅkheyya"
   - "Sāgala"
   - "Yonakas"
@@ -26,7 +25,7 @@ link_candidates:
 
 ## English source
 
-Āyupāla. A Thera who lived in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅkheyya</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Pariveṇa</span> near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāgala</span>. King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Milinda</span>’s royal astrologer informed the Elder that the king wished to see him, and the king, having obtained his permission, visited him at the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Pariveṇa</span>, attended by five hundred <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Yonakas</span>. The king discussed with the Elder the aim of those who became monks, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Āyupāla</span> was unable to meet the king’s arguments. Mil.19f.
+Āyupāla. A Thera who lived in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅkheyya</span> *Pariveṇa* near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāgala</span>. King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Milinda</span>’s royal astrologer informed the Elder that the king wished to see him, and the king, having obtained his permission, visited him at the *Pariveṇa*, attended by five hundred <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Yonakas</span>. The king discussed with the Elder the aim of those who became monks, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Āyupāla</span> was unable to meet the king’s arguments. Mil.19f.
 
 ## Vietnamese translation
 

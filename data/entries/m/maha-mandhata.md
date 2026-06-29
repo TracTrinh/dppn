@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mandhata"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9040
+  source_order: 9036
   source_anchor: 
 aliases:
   - "Maha Mandhata"

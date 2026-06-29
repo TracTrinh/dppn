@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12904
+  source_order: 12899
   source_anchor: 
 aliases:
   - "Subhakuta"

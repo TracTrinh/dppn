@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6051
+  source_order: 6048
   source_anchor: 
 aliases:
   - "Dhammasamadanasutta"

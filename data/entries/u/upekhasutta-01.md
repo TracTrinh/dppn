@@ -15,7 +15,6 @@ aliases:
   - "Upekhasutta 01"
 link_candidates:
   - "Sāriputta"
-  - "jhāna"
   - "Ānanda"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Upekhāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> says that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span>’s senses are clean and his face translucent. How has he spent the day? <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāriputta</span> answers that he has been in the fourth <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">jhāna</span>, wherein is neither pleasure nor pain but pure equanimity. SN.iii.237.
+Upekhāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> says that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span>’s senses are clean and his face translucent. How has he spent the day? <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāriputta</span> answers that he has been in the fourth *jhāna*, wherein is neither pleasure nor pain but pure equanimity. SN.iii.237.
 
 ## Vietnamese translation
 

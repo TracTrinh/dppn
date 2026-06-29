@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tiritavaccha-02"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5211
+  source_order: 5208
   source_anchor: 
 aliases:
   - "Tiritivaccha"

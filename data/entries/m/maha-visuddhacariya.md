@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9121
+  source_order: 9117
   source_anchor: 
 aliases:
   - "Maha Visuddhacariya"

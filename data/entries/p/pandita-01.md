@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6912
+  source_order: 6909
   source_anchor: 
 aliases:
   - "Pandita 01"

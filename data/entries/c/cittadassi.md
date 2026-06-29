@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4388
+  source_order: 4385
   source_anchor: 
 aliases:
   - "Cittadassi"

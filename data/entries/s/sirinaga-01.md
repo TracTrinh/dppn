@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12288
+  source_order: 12283
   source_anchor: 
 aliases:
   - "Sirinaga 01"

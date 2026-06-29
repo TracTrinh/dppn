@@ -9,11 +9,12 @@ status: "redirect"
 redirect_to: "ekasataka"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4453
+  source_order: 4450
   source_anchor: 
 aliases:
   - "Cula Ekasataka"
 link_candidates:
+  - "Cūla Ekasātaka"
   - "Ekasāṭaka"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Ekasātaka, Cūla Ekasātaka. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ekasāṭaka</span>.
+Cūḷa Ekasātaka, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Ekasātaka</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ekasāṭaka</span>.
 
 ## Vietnamese translation
 

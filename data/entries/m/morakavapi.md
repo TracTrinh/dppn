@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "moravapi"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9659
+  source_order: 9654
   source_anchor: 
 aliases:
   - "Morakavapi"

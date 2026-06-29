@@ -9,18 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11715
+  source_order: 11710
   source_anchor: 
 aliases:
   - "Samanabrahmanasutta 02"
-link_candidates: []
+link_candidates:
+  - "suffering"
 ---
 
 # Samaṇabrāhmaṇasutta 02
 
 ## English source
 
-Samaṇabrāhmaṇasutta 02. Similar to (1). They know not only decay and death but likewise all the factors of this entire mass of suffering; such realize, in this very life, the goal of recluseship. SN.ii.45f.
+Samaṇabrāhmaṇasutta 02. Similar to (1). They know not only decay and death but likewise all the factors of this entire mass of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>; such realize, in this very life, the goal of recluseship. SN.ii.45f.
 
 ## Vietnamese translation
 

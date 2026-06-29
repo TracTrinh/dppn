@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9804
+  source_order: 9799
   source_anchor: 
 aliases:
   - "Yona Maha Dhammarakkhita Thera, Yonaka Maha Dhammarakkhita Thera"

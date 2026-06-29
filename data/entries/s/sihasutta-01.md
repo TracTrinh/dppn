@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12511
+  source_order: 12506
   source_anchor: 
 aliases:
   - "Sihasutta 01"
-link_candidates:
-  - "sakkāya"
+link_candidates: []
 ---
 
 # Sīhasutta 01
 
 ## English source
 
-Sīhasutta 01. When the lion comes from his lair in the evening and utters his lion’s roar all the birds and beasts that hear it quake and tremble. Similarly when a Buddha appears in the world, all those holding wrong beliefs realize their error. The Buddha’s teaching has, as its aim, the ending of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">sakkāya</span>. AN.ii.33f.
+Sīhasutta 01. When the lion comes from his lair in the evening and utters his lion’s roar all the birds and beasts that hear it quake and tremble. Similarly when a Buddha appears in the world, all those holding wrong beliefs realize their error. The Buddha’s teaching has, as its aim, the ending of *sakkāya*. AN.ii.33f.
 
 ## Vietnamese translation
 

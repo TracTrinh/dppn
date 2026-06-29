@@ -13,18 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Aghatavinayasutta 01"
-link_candidates:
-  - "kamma"
-  - "karuṇā"
-  - "mettā"
-  - "upekkhā"
+link_candidates: []
 ---
 
 # Āghātavinayasutta 01
 
 ## English source
 
-Āghātavinayasutta 01. The five ways of repressing ill-will: by producing <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">mettā</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">karuṇā</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">upekkhā</span>, by getting rid of forgetfulness and by reflecting on the power of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kamma</span>.
+Āghātavinayasutta 01. The five ways of repressing ill-will: by producing *mettā*, *karuṇā* and *upekkhā*, by getting rid of forgetfulness and by reflecting on the power of *kamma*.
 
 A.iii.185-6.
 

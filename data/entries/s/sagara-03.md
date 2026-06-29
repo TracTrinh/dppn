@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gunasagara"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12050
+  source_order: 12045
   source_anchor: 
 aliases:
   - "Sagara 03"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-buddharakkhita"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7955
+  source_order: 7952
   source_anchor: 
 aliases: []
 link_candidates:

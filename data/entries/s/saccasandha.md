@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "janasandha-01"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11405
+  source_order: 11400
   source_anchor: 
 aliases: []
 link_candidates:

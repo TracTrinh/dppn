@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kapilasutta"
 source:
   epub_file: "Ops/045.html"
-  source_order: 5986
+  source_order: 5983
   source_anchor: 
 aliases: []
 link_candidates:

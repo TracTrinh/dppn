@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "deva-12"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5848
+  source_order: 5845
   source_anchor: 
 aliases:
   - "Devasetthi"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12527
+  source_order: 12522
   source_anchor: "a356"
 aliases:
   - "Sukajataka"

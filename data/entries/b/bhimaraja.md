@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8327
+  source_order: 8324
   source_anchor: 
 aliases:
   - "Bhimaraja"

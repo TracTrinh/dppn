@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9508
+  source_order: 9503
   source_anchor: 
 aliases:
   - "Mundannanankonda"

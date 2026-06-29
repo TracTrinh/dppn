@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Anāgatavaṁsa"
   - "Gotama"
-  - "vivaraṇa"
 ---
 
 # Abhibhū 03
 
 ## English source
 
-Abhibhū 03. The name of a Bodhisatta who obtained <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vivaraṇa</span> under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Gotama</span>. He will become the sixth Buddha after <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gotama</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Anāgatavaṁsa</span>, p.37.
+Abhibhū 03. The name of a Bodhisatta who obtained *vivaraṇa* under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gotama</span>. He will become the sixth Buddha after <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Gotama</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anāgatavaṁsa</span>, p.37.
 
 ## Vietnamese translation
 

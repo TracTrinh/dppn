@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
-  source_order: 4132
+  source_order: 4130
   source_anchor: 
 aliases:
   - "Ghatikarasutta 02"

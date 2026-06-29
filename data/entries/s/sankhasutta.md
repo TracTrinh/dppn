@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11309
+  source_order: 11304
   source_anchor: "a341"
 aliases:
   - "Sankhasutta"

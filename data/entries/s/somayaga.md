@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13424
+  source_order: 13419
   source_anchor: 
 aliases:
   - "Somayaga"
-link_candidates:
-  - "isī"
+link_candidates: []
 ---
 
 # Somayāga
 
 ## English source
 
-Somayāga. One of the seven great sages (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">isī</span>) of great power. Ja.vi.99.
+Somayāga. One of the seven great sages (*isī*) of great power. Ja.vi.99.
 
 ## Vietnamese translation
 

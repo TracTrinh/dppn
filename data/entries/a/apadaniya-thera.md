@@ -13,17 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Apadaniya Thera"
-link_candidates:
-  - "Arahant"
-  - "apadānaṁ kittayissaṁ"
-  - "kappas"
+link_candidates: []
 ---
 
 # Apadāniya Thera
 
 ## English source
 
-Apadāniya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Ninety-two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he had eulogized the life history (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">apadānaṁ kittayissaṁ</span>) of the Buddha. Ap.i.241.
+Apadāniya Thera. An *Arahant*. Ninety-two *kappas* ago he had eulogized the life history (*apadānaṁ kittayissaṁ*) of the Buddha. Ap.i.241.
 
 ## Vietnamese translation
 

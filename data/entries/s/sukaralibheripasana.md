@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13189
+  source_order: 13184
   source_anchor: 
 aliases:
   - "Sukaralibheripasana"

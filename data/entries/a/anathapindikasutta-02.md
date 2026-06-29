@@ -15,7 +15,6 @@ aliases:
   - "Anathapindikasutta 02"
 link_candidates:
   - "Anāthapiṇḍika"
-  - "gihisāmīcakāni sikkhāpadāni"
   - "Ānanda"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Anāthapiṇḍikasutta 02. The same as the above, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> is given as the admonisher and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anāthapiṇḍika</span> is made to claim that he had not violated a single one of the obligations binding on a householder (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">gihisāmīcakāni sikkhāpadāni</span>). SN.v.385-7.
+Anāthapiṇḍikasutta 02. The same as the above, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> is given as the admonisher and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anāthapiṇḍika</span> is made to claim that he had not violated a single one of the obligations binding on a householder (*gihisāmīcakāni sikkhāpadāni*). SN.v.385-7.
 
 ## Vietnamese translation
 

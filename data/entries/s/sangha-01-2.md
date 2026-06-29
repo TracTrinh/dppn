@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11376
+  source_order: 11371
   source_anchor: 
 aliases:
   - "Sangha 01"
 link_candidates:
-  - "Arahant"
   - "Pajāpatī Gotamī"
   - "Saṅghā Therī"
   - "Siddhattha"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Saṅghā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅghā Therī</span>. She belonged to Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha</span>’s court, and having joined the Saṅgha with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pajāpatī Gotamī</span>, became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>. Thīg. vs. 18; Thīg­a.24.
+Saṅghā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅghā Therī</span>. She belonged to Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha</span>’s court, and having joined the Saṅgha with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pajāpatī Gotamī</span>, became an *Arahant*. Thīg. vs. 18; Thīg­a.24.
 
 ## Vietnamese translation
 

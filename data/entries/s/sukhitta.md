@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sumitta-01"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12548
+  source_order: 12543
   source_anchor: 
 aliases: []
 link_candidates:

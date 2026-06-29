@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4456
+  source_order: 4453
   source_anchor: 
 aliases:
   - "Cula Kammasadamma"
 link_candidates:
+  - "Culla Kammāsadamma"
   - "Jayaddisa"
   - "Jayaddisajātaka"
   - "Kampilla"
@@ -23,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Kammāsadamma, Culla Kammāsadamma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kampilla</span> kingdom which arose on the settlement given by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jayaddisa</span> to his brother, the man-eating ogre, after the latter became an ascetic (Ja.v.35). For details see the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jayaddisajātaka</span>.
+Cūḷa Kammāsadamma, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Culla Kammāsadamma</span>. A village in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kampilla</span> kingdom which arose on the settlement given by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jayaddisa</span> to his brother, the man-eating ogre, after the latter became an ascetic (Ja.v.35). For details see the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Jayaddisajātaka</span>.
 
 ## Vietnamese translation
 

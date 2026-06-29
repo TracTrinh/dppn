@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7491
+  source_order: 7488
   source_anchor: 
 aliases:
   - "Pukkama"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sumanadevi-01"
 source:
   epub_file: "Ops/071.html"
-  source_order: 13008
+  source_order: 13003
   source_anchor: 
 aliases:
   - "Sumana 09"

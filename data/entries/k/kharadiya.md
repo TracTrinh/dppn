@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kharadiyajataka"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3626
+  source_order: 3624
   source_anchor: 
 aliases:
   - "Kharadiya"

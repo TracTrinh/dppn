@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4470
+  source_order: 4467
   source_anchor: 
 aliases:
   - "Cula Galla"
 link_candidates:
   - "Jajjaranadī"
-  - "vihāra"
 ---
 
 # Cūḷa Galla
 
 ## English source
 
-Cūḷa Galla. A village and a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vihāra</span> near the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jajjaranadī</span>. For the story of a pious man who lived in the village see Ras.ii.152f.
+Cūḷa Galla. A village and a *vihāra* near the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jajjaranadī</span>. For the story of a pious man who lived in the village see Ras.ii.152f.
 
 ## Vietnamese translation
 

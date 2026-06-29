@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "alavi-gotama"
 source:
   epub_file: "Ops/031.html"
-  source_order: 4044
+  source_order: 4042
   source_anchor: 
 aliases: []
 link_candidates:

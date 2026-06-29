@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8560
+  source_order: 8557
   source_anchor: 
 aliases:
   - "Manisuriya"

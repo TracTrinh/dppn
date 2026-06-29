@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mara"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5825
+  source_order: 5822
   source_anchor: 
 aliases:
   - "Devaputta Mara"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ariyagalatissa"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3347
+  source_order: 3345
   source_anchor: 
 aliases: []
 link_candidates:

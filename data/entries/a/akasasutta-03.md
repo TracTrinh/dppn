@@ -15,14 +15,13 @@ aliases:
   - "Akasasutta 03"
 link_candidates:
   - "Moggallāna"
-  - "ākāsānañcāyatana"
 ---
 
 # Ākāsasutta 03
 
 ## English source
 
-Ākāsasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> tells the monks how he won the power of dwelling in the realm of infinite space (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ākāsānañcāyatana</span>). SN.iv.266.
+Ākāsasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> tells the monks how he won the power of dwelling in the realm of infinite space (*ākāsānañcāyatana*). SN.iv.266.
 
 ## Vietnamese translation
 

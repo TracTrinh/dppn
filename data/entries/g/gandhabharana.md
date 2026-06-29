@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gandabharana"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3816
+  source_order: 3814
   source_anchor: 
 aliases:
   - "Gandhabharana"

@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Atthapuggalasutta"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Aṭṭhapuggalasutta
 
 ## English source
 
-Aṭṭhapuggalasutta. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on the eight persons who are worthy of homage and of gifts. AN.iv.292, 293.
+Aṭṭhapuggalasutta. Two *Suttas* on the eight persons who are worthy of homage and of gifts. AN.iv.292, 293.
 
 ## Vietnamese translation
 

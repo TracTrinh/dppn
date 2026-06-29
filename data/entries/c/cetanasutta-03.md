@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4592
+  source_order: 4589
   source_anchor: 
 aliases:
   - "Cetanasutta 03"
-link_candidates:
-  - "nati"
-  - "āgatigati"
+link_candidates: []
 ---
 
 # Cetanāsutta 03
 
 ## English source
 
-Cetanāsutta 03. Same as (1), except that consciousness, being stationed and growing, there comes a bending (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">nati</span>) followed, serially, by a “going to a coming” (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">āgatigati</span>), decease, rebirth, etc. SN.ii.66f.
+Cetanāsutta 03. Same as (1), except that consciousness, being stationed and growing, there comes a bending (*nati*) followed, serially, by a “going to a coming” (*āgatigati*), decease, rebirth, etc. SN.ii.66f.
 
 ## Vietnamese translation
 

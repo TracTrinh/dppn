@@ -9,21 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7596
+  source_order: 7593
   source_anchor: 
 aliases:
   - "Pupphabhanisutta"
-link_candidates:
-  - "gūthabhāṇī"
-  - "madhubhāṇī"
-  - "pupphabhāṇī"
+link_candidates: []
 ---
 
 # Pupphabhāṇīsutta
 
 ## English source
 
-Pupphabhāṇīsutta. The three kinds of people in the world: the tricky-tongued (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">gūthabhāṇī</span>), the fair-spoken (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">pupphabhāṇī</span>), and the honey-tongued (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">madhubhāṇī</span>). AN.i.127.
+Pupphabhāṇīsutta. The three kinds of people in the world: the tricky-tongued (*gūthabhāṇī*), the fair-spoken (*pupphabhāṇī*), and the honey-tongued (*madhubhāṇī*). AN.i.127.
 
 ## Vietnamese translation
 

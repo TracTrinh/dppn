@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8379
+  source_order: 8376
   source_anchor: 
 aliases:
   - "Bhesajjaanunnatabhanavara"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tissa"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3518
+  source_order: 3516
   source_anchor: 
 aliases:
   - "Kosambivasitissa"

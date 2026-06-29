@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2732
+  source_order: 2731
   source_anchor: "a107"
 aliases:
   - "Kaka"

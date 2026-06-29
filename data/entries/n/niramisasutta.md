@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suddhikasutta-01"
 source:
   epub_file: "Ops/047.html"
-  source_order: 6648
+  source_order: 6645
   source_anchor: 
 aliases:
   - "Niramisasutta"

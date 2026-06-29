@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12428
+  source_order: 12423
   source_anchor: 
 aliases:
   - "Silavanagajataka"
@@ -20,7 +20,6 @@ link_candidates:
   - "Milindapañha"
   - "Sāriputta"
   - "Sīlava"
-  - "sīlapāramitā"
 ---
 
 # Sīlavanāgajātaka
@@ -31,7 +30,7 @@ Sīlavanāgajātaka (Ja 72). The Bodhisatta was once an elephant in the <span cl
 
 The story was related in reference to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Devadatta</span>’s wickedness; he is identified with the forester and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Sāriputta</span> with the tree sprite (Ja.i.319-22; the story is referred to in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Milindapañha</span>, p.202).
 
-The birth as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Sīlava</span> is mentioned among those in which the Bodhisatta practised <span class="dppn-term dppn-term-t18" data-dppn-term-pos="14" data-dppn-term-class="t18">sīlapāramitā</span> to perfection, e.g., MN­a.ii.617.
+The birth as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Sīlava</span> is mentioned among those in which the Bodhisatta practised *sīlapāramitā* to perfection, e.g., MN­a.ii.617.
 
 ## Vietnamese translation
 

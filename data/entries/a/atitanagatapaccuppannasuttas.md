@@ -14,14 +14,14 @@ source:
 aliases:
   - "Atitanagatapaccuppannasuttas"
 link_candidates:
-  - "saṅkhāras"
+  - "suffering"
 ---
 
 # Atītānāgatapaccuppannasuttas
 
 ## English source
 
-Atītānāgatapaccuppannasuttas. Three in number. Seeing that the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">saṅkhāras</span> are (1) impermanent, (2) suffering, and (3) without the self, the Ariyan disciple cares not for what is past, is not in love with the present and seeks dispassion for the future. SN.iii.19-20.
+Atītānāgatapaccuppannasuttas. Three in number. Seeing that the *saṅkhāras* are (1) impermanent, (2) <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>, and (3) without the self, the Ariyan disciple cares not for what is past, is not in love with the present and seeks dispassion for the future. SN.iii.19-20.
 
 ## Vietnamese translation
 

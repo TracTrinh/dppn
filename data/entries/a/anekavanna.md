@@ -14,7 +14,6 @@ source:
 aliases:
   - "Anekavanna"
 link_candidates:
-  - "Devaputta"
   - "Moggallāna"
   - "Sakka"
   - "Sumedha Buddha"
@@ -26,9 +25,9 @@ link_candidates:
 
 ## English source
 
-Anekavaṇṇa. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Devaputta</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Tāvatiṁsa</span>, who, because of his good deeds, excelled even <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sakka</span> in majesty. When he appeared in the streets of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Tāvatiṁsa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sakka</span> fled in shame (Dhp­a.i.426-7).
+Anekavaṇṇa. A *Devaputta* in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tāvatiṁsa</span>, who, because of his good deeds, excelled even <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sakka</span> in majesty. When he appeared in the streets of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tāvatiṁsa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sakka</span> fled in shame (Dhp­a.i.426-7).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Vimānavatthu</span> (pp.74-5; Vv-a.318ff) gives his past story which he revealed to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Moggallāna</span>. He had been a monk under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Sumedha Buddha</span>, but later, feeling disheartened, left the Saṅgha. When the Buddha died he was seized with repentance for having lost his opportunity, and paid homage to the Buddha’s shrine and observed the precepts.
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vimānavatthu</span> (pp.74-5; Vv-a.318ff) gives his past story which he revealed to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Moggallāna</span>. He had been a monk under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sumedha Buddha</span>, but later, feeling disheartened, left the Saṅgha. When the Buddha died he was seized with repentance for having lost his opportunity, and paid homage to the Buddha’s shrine and observed the precepts.
 
 ## Vietnamese translation
 

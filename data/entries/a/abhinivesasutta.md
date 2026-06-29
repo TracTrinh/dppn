@@ -12,15 +12,14 @@ source:
   source_order: 773
   source_anchor: 
 aliases: []
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Abhinivesasutta
 
 ## English source
 
-Abhinivesasutta. Bondage of, and dependence upon, the fetters arise as a result of clinging to the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> (SN.iii.186).
+Abhinivesasutta. Bondage of, and dependence upon, the fetters arise as a result of clinging to the five *khandhas* (SN.iii.186).
 
 ## Vietnamese translation
 

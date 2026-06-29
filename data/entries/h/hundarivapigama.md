@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13553
+  source_order: 13547
   source_anchor: 
 aliases:
   - "Hundarivapigama"

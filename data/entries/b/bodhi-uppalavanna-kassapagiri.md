@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
-  source_order: 8029
+  source_order: 8026
   source_anchor: 
 aliases:
   - "Bodhi-uppalavanna Kassapagiri"

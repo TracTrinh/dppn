@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5600
+  source_order: 5597
   source_anchor: 
 aliases:
   - "Dinna"

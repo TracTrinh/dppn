@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tissa-07"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5280
+  source_order: 5277
   source_anchor: 
 aliases: []
 link_candidates:

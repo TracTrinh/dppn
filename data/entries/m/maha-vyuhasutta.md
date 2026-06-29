@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9127
+  source_order: 9123
   source_anchor: 
 aliases:
   - "Maha Vyuhasutta"

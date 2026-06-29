@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2883
+  source_order: 2882
   source_anchor: 
 aliases:
   - "Kalanagara"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sudatta-11"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3162
+  source_order: 3161
   source_anchor: 
 aliases:
   - "Kumaputtasahaya"

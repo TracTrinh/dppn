@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8074
+  source_order: 8071
   source_anchor: 
 aliases:
   - "Brahmavaddhana 02"

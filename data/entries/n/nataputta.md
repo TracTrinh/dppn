@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nigantha-nataputta"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6464
+  source_order: 6461
   source_anchor: 
 aliases:
   - "Nataputta,"

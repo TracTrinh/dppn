@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Annasutta"
-link_candidates:
-  - "satipaṭṭhāna"
+link_candidates: []
 ---
 
 # Aññasutta
 
 ## English source
 
-Aññasutta. On the results of developing the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>. SN.v.181.
+Aññasutta. On the results of developing the four *satipaṭṭhāna*. SN.v.181.
 
 ## Vietnamese translation
 

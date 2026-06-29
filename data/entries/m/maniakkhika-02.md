@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8563
+  source_order: 8560
   source_anchor: 
 aliases:
   - "Maniakkhika 02"

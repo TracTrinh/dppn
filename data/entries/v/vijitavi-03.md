@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10771
+  source_order: 10766
   source_anchor: 
 aliases:
   - "Vijitavi 03"

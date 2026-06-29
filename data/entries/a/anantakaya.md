@@ -17,7 +17,6 @@ link_candidates:
   - "Abhidhamma"
   - "I"
   - "Milinda"
-  - "Milinda Questions"
   - "Nāgasena"
   - "Sāgala"
 ---
@@ -30,7 +29,7 @@ Anantakāya. An attendant of King <span class="dppn-term dppn-term-t14" data-dpp
 
 On his way he questioned the Elder about the soul and we are told that the latter talked to him from the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Abhidhamma</span> to such effect that Anantakāya became a convert (Mil.30-1).
 
-He is probably to be identified with Antiochus, attendant of Menander. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Milinda Questions</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">I</span>.xix., <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">I</span>.xlii.
+He is probably to be identified with Antiochus, attendant of Menander. *Milinda Questions*, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">I</span>.xix., <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">I</span>.xlii.
 
 ## Vietnamese translation
 

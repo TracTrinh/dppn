@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2333
+  source_order: 2332
   source_anchor: 
 aliases:
   - "Kancanapatti"

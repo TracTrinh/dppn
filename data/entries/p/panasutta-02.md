@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7310
+  source_order: 7307
   source_anchor: 
 aliases:
   - "Panasutta 02"

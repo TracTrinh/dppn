@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3781
+  source_order: 3779
   source_anchor: 
 aliases:
   - "Gatikatha"

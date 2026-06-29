@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sela-01"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9201
+  source_order: 9197
   source_anchor: 
 aliases:
   - "Maha Sela"

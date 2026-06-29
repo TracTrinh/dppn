@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6428
+  source_order: 6425
   source_anchor: 
 aliases:
   - "Nagavagga"

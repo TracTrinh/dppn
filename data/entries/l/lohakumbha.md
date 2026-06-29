@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10302
+  source_order: 10297
   source_anchor: 
 aliases: []
 link_candidates:
@@ -20,17 +20,15 @@ link_candidates:
   - "Lohitakumbhiya"
   - "Niraya"
   - "Vajjiputtaka"
-  - "nahutas"
-  - "yojanas"
 ---
 
 # Lohakumbha
 
 ## English source
 
-Lohakumbha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Lohakumbhī</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Lohitakumbhiya</span>. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Niraya</span>. Beings born there suffer from excessive heat (Snp­a.i.59; Ja.iii.22; v. 269). The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Niraya</span> extends under the whole of the earth and is four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">nahutas</span> and one hundred thousand <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">yojanas</span> in depth. It is like a cauldron filled up to the brim with molten metal (Snp­a.ii.480).
+Lohakumbha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Lohakumbhī</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Lohitakumbhiya</span>. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Niraya</span>. Beings born there suffer from excessive heat (Snp­a.i.59; Ja.iii.22; v. 269). The *Niraya* extends under the whole of the earth and is four *nahutas* and one hundred thousand *yojanas* in depth. It is like a cauldron filled up to the brim with molten metal (Snp­a.ii.480).
 
-It is said (Mhv.iv.38) that when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Kāḷāsoka</span> attempted to extend his patronage to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Vajjiputtaka</span> monks, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Devas</span> frightened him with a dream that be had been cast into Lohakumbhī. See also the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Lohakumbhījātaka</span> (Ja 314).
+It is said (Mhv.iv.38) that when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kāḷāsoka</span> attempted to extend his patronage to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vajjiputtaka</span> monks, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Devas</span> frightened him with a dream that be had been cast into Lohakumbhī. See also the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Lohakumbhījātaka</span> (Ja 314).
 
 ## Vietnamese translation
 

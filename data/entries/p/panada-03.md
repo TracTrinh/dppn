@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-panada-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 7048
+  source_order: 7045
   source_anchor: 
 aliases:
   - "Panada 03"

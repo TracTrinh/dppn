@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dighasandana"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5647
+  source_order: 5644
   source_anchor: 
 aliases:
   - "Dighasandasenapatiparivena"

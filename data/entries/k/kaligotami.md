@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gotami"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2912
+  source_order: 2911
   source_anchor: 
 aliases:
   - "Kaligotami"

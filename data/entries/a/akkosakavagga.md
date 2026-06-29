@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Pāñcakanipāta"
 ---
 
 # Akkosakavagga
 
 ## English source
 
-Akkosakavagga. The twenty-second section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Pāñcakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.252-6.
+Akkosakavagga. The twenty-second section of the *Pāñcakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.252-6.
 
 ## Vietnamese translation
 

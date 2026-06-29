@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kesava-01"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3374
+  source_order: 3372
   source_anchor: 
 aliases: []
 link_candidates:

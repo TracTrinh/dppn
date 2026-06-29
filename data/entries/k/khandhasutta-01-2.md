@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3610
+  source_order: 3608
   source_anchor: 
 aliases:
   - "Khandhasutta 01"
-link_candidates:
-  - "khandhas"
-  - "upādānakkhandhas"
+link_candidates: []
 ---
 
 # Khandhāsutta 01
 
 ## English source
 
-Khandhāsutta 01. The five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> and the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">upādānakkhandhas</span>. SN.iii.47.
+Khandhāsutta 01. The five *khandhas* and the five *upādānakkhandhas*. SN.iii.47.
 
 ## Vietnamese translation
 

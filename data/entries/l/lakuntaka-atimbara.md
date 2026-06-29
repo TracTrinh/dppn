@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10163
+  source_order: 10158
   source_anchor: 
 aliases:
   - "Lakuntaka Atimbara"

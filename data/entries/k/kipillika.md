@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kimikala"
 source:
   epub_file: "Ops/028.html"
-  source_order: 2993
+  source_order: 2992
   source_anchor: 
 aliases:
   - "Kipillika"

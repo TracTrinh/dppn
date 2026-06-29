@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anganisutta 01"
-link_candidates:
-  - "padhāna"
+link_candidates: []
 ---
 
 # Aṅgānisutta 01
 
 ## English source
 
-Aṅgānisutta 01. The five qualities of exertion (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">padhāna</span>) AN.iii.65.
+Aṅgānisutta 01. The five qualities of exertion (*padhāna*) AN.iii.65.
 
 ## Vietnamese translation
 

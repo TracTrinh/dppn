@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2595
+  source_order: 2594
   source_anchor: 
 aliases:
   - "Karaniyavimana"

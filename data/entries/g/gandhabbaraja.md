@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3806
+  source_order: 3804
   source_anchor: 
 aliases:
   - "Gandhabbaraja"

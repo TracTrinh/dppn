@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Asayha"
   - "Aṅgīrasa"
-  - "gahapati"
 ---
 
 # Aṅgīrasa 02
 
 ## English source
 
-Aṅgīrasa 02. Another name (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅgīrasa</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">gahapati</span>) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Asayha</span>. Pv.p.25, vv.23 and 27 ff.; also Pv-a.124.
+Aṅgīrasa 02. Another name (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅgīrasa</span> *gahapati*) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Asayha</span>. Pv.p.25, vv.23 and 27 ff.; also Pv-a.124.
 
 ## Vietnamese translation
 

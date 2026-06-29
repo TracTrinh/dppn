@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5769
+  source_order: 5766
   source_anchor: 
 aliases:
   - "Dusi"
@@ -24,7 +24,6 @@ link_candidates:
   - "Māratajjanīyasutta"
   - "Sañjīva"
   - "Vidhura"
-  - "kamma"
 ---
 
 # Dūsī
@@ -35,7 +34,7 @@ Dūsī. Name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Māratajjanīyasutta</span> (MN.i.333ff; also Thag.1187-91; Thag­a.ii.183).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Dūsī</span> is mentioned as having died early because his life was cut off by <span class="dppn-term dppn-term-t18" data-dppn-term-pos="13" data-dppn-term-class="t18">kamma</span> (Vsm.229).
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Dūsī</span> is mentioned as having died early because his life was cut off by *kamma* (Vsm.229).
 
 ## Vietnamese translation
 

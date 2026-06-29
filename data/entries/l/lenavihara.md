@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lonagiri-01"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10246
+  source_order: 10241
   source_anchor: 
 aliases:
   - "Lenavihara"

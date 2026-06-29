@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12027
+  source_order: 12022
   source_anchor: "a349"
 aliases:
   - "Sakacchasutta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lomasa-kassapajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8059
+  source_order: 8056
   source_anchor: 
 aliases:
   - "Brahmadattakumara 10"

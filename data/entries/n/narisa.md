@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nari"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6515
+  source_order: 6512
   source_anchor: 
 aliases:
   - "Narisa"

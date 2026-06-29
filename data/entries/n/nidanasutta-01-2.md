@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6593
+  source_order: 6590
   source_anchor: 
 aliases:
   - "Nidanasutta 01"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Nidānasuttā 01
 
 ## English source
 
-Nidānasuttā 01. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on the three originating causes of action: lust, malice and delusion. AN.i.134f.
+Nidānasuttā 01. Two *Suttas* on the three originating causes of action: lust, malice and delusion. AN.i.134f.
 
 ## Vietnamese translation
 

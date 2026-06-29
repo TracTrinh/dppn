@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9808
+  source_order: 9803
   source_anchor: 
 aliases: []
-link_candidates:
-  - "yoniso manasikāra"
+link_candidates: []
 ---
 
 # Yonisosutta 01
 
 ## English source
 
-Yonisosutta 01. Just as the dawn is harbinger of the sun, so is <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">yoniso manasikāra</span> the harbinger of the Noble Eightfold Path. SN.v.31f.
+Yonisosutta 01. Just as the dawn is harbinger of the sun, so is *yoniso manasikāra* the harbinger of the Noble Eightfold Path. SN.v.31f.
 
 ## Vietnamese translation
 

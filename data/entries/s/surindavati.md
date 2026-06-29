@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13083
+  source_order: 13078
   source_anchor: 
 aliases:
   - "Surindavati"

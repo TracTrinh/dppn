@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nigantha"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4711
+  source_order: 4708
   source_anchor: 
 aliases: []
 link_candidates:

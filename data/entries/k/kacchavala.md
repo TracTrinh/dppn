@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2321
+  source_order: 2320
   source_anchor: 
 aliases:
   - "Kacchavala"

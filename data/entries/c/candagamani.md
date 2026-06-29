@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gamanicanda"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4186
+  source_order: 4184
   source_anchor: 
 aliases:
   - "Candagamani"

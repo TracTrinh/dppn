@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5301
+  source_order: 5298
   source_anchor: 
 aliases:
   - "Tissa 08"

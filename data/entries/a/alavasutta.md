@@ -14,7 +14,6 @@ source:
 aliases:
   - "Alavasutta"
 link_candidates:
-  - "q.v."
   - "Āḷavaka Yakkha"
   - "Āḷavakasutta"
   - "Āḷavī"
@@ -25,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Āḷavasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āḷavakasutta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Āḷavīsutta</span>. Records the conversation between the Buddha and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Āḷavaka Yakkha</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">q.v.</span>) at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Āḷavī</span>. SN.i.213-15.
+Āḷavasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āḷavakasutta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Āḷavīsutta</span>. Records the conversation between the Buddha and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Āḷavaka Yakkha</span> (*q.v.*) at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Āḷavī</span>. SN.i.213-15.
 
 ## Vietnamese translation
 

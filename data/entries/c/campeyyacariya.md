@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "campeyyajataka"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4320
+  source_order: 4318
   source_anchor: 
 aliases:
   - "Campeyyacariya"

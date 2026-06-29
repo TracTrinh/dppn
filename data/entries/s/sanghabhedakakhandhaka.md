@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11357
+  source_order: 11352
   source_anchor: 
 aliases:
   - "Sanghabhedakakhandhaka"

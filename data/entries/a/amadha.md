@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Bodhiupatthāyaka"
   - "Damatha"
-  - "kappas"
 ---
 
 # Amadha
 
 ## English source
 
-Amadha aka <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Damatha</span>. A king of one hundred and fifteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago, a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Bodhiupatthāyaka</span> (Ap.i.194).
+Amadha aka <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Damatha</span>. A king of one hundred and fifteen *kappas* ago, a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bodhiupatthāyaka</span> (Ap.i.194).
 
 ## Vietnamese translation
 

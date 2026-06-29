@@ -15,14 +15,13 @@ aliases:
   - "Ayogharajataka"
 link_candidates:
   - "Ayoghara"
-  - "Jātakamālā"
 ---
 
 # Ayogharajātaka
 
 ## English source
 
-Ayogharajātaka (Ja 510). The story of Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ayoghara</span>. The story was told regarding the Buddha’s Renunciation. In the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Jātakamālā</span> the name appears as Ayogṛha. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Jātakamālā</span> No. 32.
+Ayogharajātaka (Ja 510). The story of Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ayoghara</span>. The story was told regarding the Buddha’s Renunciation. In the *Jātakamālā* the name appears as Ayogṛha. *Jātakamālā* No. 32.
 
 ## Vietnamese translation
 

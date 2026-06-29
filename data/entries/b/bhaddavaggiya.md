@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8145
+  source_order: 8142
   source_anchor: 
 aliases:
   - "Bhaddavaggiya"

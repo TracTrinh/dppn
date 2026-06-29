@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Adiccasutta"
-link_candidates:
-  - "bojjhaṅgas"
-  - "kaḷyānamittatā"
+link_candidates: []
 ---
 
 # Ādiccasutta
 
 ## English source
 
-Ādiccasutta. Just as dawn is the harbinger of the arising of the sun, so is friendship with the good (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kaḷyānamittatā</span>) the harbinger of the arising of the seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.101; cp. SN.v.29.
+Ādiccasutta. Just as dawn is the harbinger of the arising of the sun, so is friendship with the good (*kaḷyānamittatā*) the harbinger of the arising of the seven *bojjhaṅgas*. SN.v.101; cp. SN.v.29.
 
 ## Vietnamese translation
 

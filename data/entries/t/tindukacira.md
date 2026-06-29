@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mallikarama"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5150
+  source_order: 5147
   source_anchor: 
 aliases:
   - "Tindukacira"

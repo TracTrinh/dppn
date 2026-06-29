@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9893
+  source_order: 9888
   source_anchor: 
 aliases:
   - "Rattamalakandaka"

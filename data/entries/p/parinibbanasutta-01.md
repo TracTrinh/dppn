@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7171
+  source_order: 7168
   source_anchor: 
 aliases:
   - "Parinibbanasutta 01"

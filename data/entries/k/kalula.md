@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2837
+  source_order: 2836
   source_anchor: 
 aliases:
   - "Kalula"

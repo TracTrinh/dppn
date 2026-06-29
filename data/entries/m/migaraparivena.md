@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "migara-04"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9413
+  source_order: 9408
   source_anchor: 
 aliases:
   - "Migaraparivena"

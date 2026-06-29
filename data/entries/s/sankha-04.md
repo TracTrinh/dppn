@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11291
+  source_order: 11286
   source_anchor: 
 aliases:
   - "Sankha 04"

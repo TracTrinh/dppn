@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nakula-01"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6168
+  source_order: 6165
   source_anchor: 
 aliases:
   - "Nakulakannika"

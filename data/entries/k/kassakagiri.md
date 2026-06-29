@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kassapagiri"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2678
+  source_order: 2677
   source_anchor: 
 aliases: []
 link_candidates:

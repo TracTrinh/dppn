@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vasabha-01"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10208
+  source_order: 10203
   source_anchor: 
 aliases: []
 link_candidates:

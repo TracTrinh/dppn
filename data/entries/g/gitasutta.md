@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3965
+  source_order: 3963
   source_anchor: 
 aliases:
   - "Gitasutta"
-link_candidates:
-  - "gītassareṇa"
+link_candidates: []
 ---
 
 # Gītasutta
 
 ## English source
 
-Gītasutta. The five evil results of preaching the Dhamma in a sing-song style (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">gītassareṇa</span>). AN.iii.251.
+Gītasutta. The five evil results of preaching the Dhamma in a sing-song style (*gītassareṇa*). AN.iii.251.
 
 ## Vietnamese translation
 

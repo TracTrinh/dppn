@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7568
+  source_order: 7565
   source_anchor: 
 aliases:
   - "Punneli"

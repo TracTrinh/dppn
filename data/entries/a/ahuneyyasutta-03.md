@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ahuneyyasutta 03"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Āhuneyyasutta 03
 
 ## English source
 
-Āhuneyyasutta 03. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> giving eight qualities that make a monk worthy of homage, etc. AN.iv.290f.
+Āhuneyyasutta 03. Two *Suttas* giving eight qualities that make a monk worthy of homage, etc. AN.iv.290f.
 
 ## Vietnamese translation
 

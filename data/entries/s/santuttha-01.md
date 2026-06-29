@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11594
+  source_order: 11589
   source_anchor: 
 aliases:
   - "Santuttha 01"

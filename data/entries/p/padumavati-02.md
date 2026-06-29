@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7016
+  source_order: 7013
   source_anchor: 
 aliases:
   - "Padumavati 02"

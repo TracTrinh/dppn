@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12526
+  source_order: 12521
   source_anchor: "a354"
 aliases:
   - "Sihasanavagga"

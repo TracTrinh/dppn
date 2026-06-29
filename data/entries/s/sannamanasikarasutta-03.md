@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11436
+  source_order: 11431
   source_anchor: 
 aliases:
   - "Sannamanasikarasutta 03"

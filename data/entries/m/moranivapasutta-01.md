@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9665
+  source_order: 9660
   source_anchor: 
 aliases:
   - "Moranivapasutta 01"

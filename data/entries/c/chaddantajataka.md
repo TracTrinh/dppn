@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
-  source_order: 4670
+  source_order: 4667
   source_anchor: 
 aliases:
   - "Chaddantajataka"

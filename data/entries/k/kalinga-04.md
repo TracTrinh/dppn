@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2827
+  source_order: 2826
   source_anchor: 
 aliases:
   - "Kalinga 04"

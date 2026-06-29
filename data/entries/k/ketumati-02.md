@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3333
+  source_order: 3331
   source_anchor: 
 aliases:
   - "Ketumati 02"

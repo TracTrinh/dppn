@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8119
+  source_order: 8116
   source_anchor: 
 aliases:
   - "Bhandanasutta 03"

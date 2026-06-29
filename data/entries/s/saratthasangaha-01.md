@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12132
+  source_order: 12127
   source_anchor: 
 aliases:
   - "Saratthasangaha 01"

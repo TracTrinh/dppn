@@ -12,15 +12,14 @@ source:
   source_order: 530
   source_anchor: 
 aliases: []
-link_candidates:
-  - "anusayā"
+link_candidates: []
 ---
 
 # Anusayasutta 02
 
 ## English source
 
-Anusayasutta 02. The holy life is lived for the uprooting of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">anusayā</span>. SN.v.28.
+Anusayasutta 02. The holy life is lived for the uprooting of the *anusayā*. SN.v.28.
 
 ## Vietnamese translation
 

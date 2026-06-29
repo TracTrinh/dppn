@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pataliputta"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3301
+  source_order: 3299
   source_anchor: 
 aliases: []
 link_candidates:

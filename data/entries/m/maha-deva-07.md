@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8875
+  source_order: 8871
   source_anchor: 
 aliases:
   - "Maha Deva 07"

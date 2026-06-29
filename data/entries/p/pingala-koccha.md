@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7406
+  source_order: 7403
   source_anchor: 
 aliases:
   - "Pingala Koccha"
@@ -20,7 +20,6 @@ link_candidates:
   - "Koccha"
   - "Piṅgala"
   - "Sāvatthī"
-  - "piṅgaladhātuko"
 ---
 
 # Piṅgala Koccha
@@ -31,7 +30,7 @@ Piṅgala Koccha. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 He visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span> and the Buddha preached to him the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Cūḷa Sāropamasutta</span>, at the end of which he declared himself the Buddha’s follower (MN.i.198ff).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Buddhaghosa</span> says (MN­a.i.422) that the man’s name was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Koccha</span>, and that he was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Piṅgala</span> because he was tawny (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">piṅgaladhātuko</span>).
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Buddhaghosa</span> says (MN­a.i.422) that the man’s name was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Koccha</span>, and that he was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Piṅgala</span> because he was tawny (*piṅgaladhātuko*).
 
 ## Vietnamese translation
 

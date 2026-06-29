@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kasagalla"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2787
+  source_order: 2786
   source_anchor: 
 aliases:
   - "Kayagalla"

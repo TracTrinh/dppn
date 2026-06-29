@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rupasiddhi"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6975
+  source_order: 6972
   source_anchor: 
 aliases:
   - "Padarupasiddhi"

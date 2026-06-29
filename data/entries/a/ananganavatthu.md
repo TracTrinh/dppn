@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Anaṅganasutta"
   - "Samantapāsadikā"
-  - "infra"
 ---
 
 # Anaṅganavatthu
 
 ## English source
 
-Anaṅganavatthu. Mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Samantapāsadikā</span> (i.158), but the reference is not clear, and probably refers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anaṅganasutta</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">infra</span>).
+Anaṅganavatthu. Mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Samantapāsadikā</span> (i.158), but the reference is not clear, and probably refers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anaṅganasutta</span> (*infra*).
 
 ## Vietnamese translation
 

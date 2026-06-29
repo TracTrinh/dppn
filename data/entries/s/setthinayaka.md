@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13222
+  source_order: 13217
   source_anchor: 
 aliases:
   - "Setthinayaka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhadragaka"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3799
+  source_order: 3797
   source_anchor: 
 aliases: []
 link_candidates:

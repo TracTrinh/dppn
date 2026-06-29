@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kisa-gotami-02"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3029
+  source_order: 3028
   source_anchor: 
 aliases:
   - "Kisa Gotamivatthu 01"

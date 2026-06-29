@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vedehiputta"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10824
+  source_order: 10819
   source_anchor: 
 aliases:
   - "Videhiputta 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9737
+  source_order: 9732
   source_anchor: 
 aliases:
   - "Yasavati 05"

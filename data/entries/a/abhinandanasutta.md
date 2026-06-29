@@ -12,15 +12,14 @@ source:
   source_order: 770
   source_anchor: 
 aliases: []
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Abhinandanasutta
 
 ## English source
 
-Abhinandanasutta. He who takes delight in any or all of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> takes delight in suffering; he who does not is released therefrom. SN.iii.31.
+Abhinandanasutta. He who takes delight in any or all of the five *khandhas* takes delight in suffering; he who does not is released therefrom. SN.iii.31.
 
 ## Vietnamese translation
 

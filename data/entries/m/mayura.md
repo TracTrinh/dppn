@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8677
+  source_order: 8674
   source_anchor: 
 aliases:
   - "Mayura"

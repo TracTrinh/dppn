@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5543
+  source_order: 5540
   source_anchor: 
 aliases:
   - "Dathasiva 03"
 link_candidates:
-  - ","
   - "Aggabodhi IV"
   - "Nāgasālā"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Dāṭhāsiva 03. A Thera<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">,</span> resident of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nāgasālā</span>; he was very learned and held in great esteem by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aggabodhi IV</span>. (Cv.xlvi.6).
+Dāṭhāsiva 03. A Thera*,* resident of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nāgasālā</span>; he was very learned and held in great esteem by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggabodhi IV</span>. (Cv.xlvi.6).
 
 ## Vietnamese translation
 

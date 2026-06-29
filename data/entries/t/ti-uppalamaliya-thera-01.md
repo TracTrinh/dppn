@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5309
+  source_order: 5306
   source_anchor: 
 aliases:
   - "Ti-uppalamaliya Thera 01"

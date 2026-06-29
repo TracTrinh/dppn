@@ -14,7 +14,6 @@ source:
 aliases:
   - "Anuraja"
 link_candidates:
-  - "Arahant"
   - "Maṅgala Buddha"
   - "Sunanda"
   - "Surabhi"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Anurāja. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sunanda</span>, King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Surabhi</span>, at the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Maṅgala Buddha</span>. He visited the Buddha in the company of his father, and, having listened to his preaching, became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>. Bv­a.119-20.
+Anurāja. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sunanda</span>, King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Surabhi</span>, at the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Maṅgala Buddha</span>. He visited the Buddha in the company of his father, and, having listened to his preaching, became an *Arahant*. Bv­a.119-20.
 
 ## Vietnamese translation
 

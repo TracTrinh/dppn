@@ -20,8 +20,6 @@ link_candidates:
   - "Devas"
   - "Kuvera"
   - "Uttarakuru"
-  - "vihārā āḷakamandā honti"
-  - "āḷakamandā ti ekaṅganā manussābhikiṇṇā"
 ---
 
 # Āḷakamandā
@@ -32,7 +30,7 @@ link_candidates:
 
 The name is used as a simile to describe cities of great wealth (e.g., Cv.xxxvii.106; lxxxi.3; Mhv­ṭ.411; Bv­a.55).
 
-In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Cūḷa Vagga</span> (Vin.ii.152) the word is used as an adjective (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">vihārā āḷakamandā honti</span>) to mean crowded with people, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Buddhaghosa</span> explains it by saying “<span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">āḷakamandā ti ekaṅganā manussābhikiṇṇā</span>.”
+In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Cūḷa Vagga</span> (Vin.ii.152) the word is used as an adjective (*vihārā āḷakamandā honti*) to mean crowded with people, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Buddhaghosa</span> explains it by saying “*āḷakamandā ti ekaṅganā manussābhikiṇṇā*.”
 
 ## Vietnamese translation
 

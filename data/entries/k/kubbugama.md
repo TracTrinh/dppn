@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kumbugama"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3159
+  source_order: 3158
   source_anchor: 
 aliases:
   - "Kubbugama"

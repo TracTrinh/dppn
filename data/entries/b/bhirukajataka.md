@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pancagarujataka"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8331
+  source_order: 8328
   source_anchor: 
 aliases:
   - "Bhirukajataka"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3505
+  source_order: 3503
   source_anchor: 
 aliases:
   - "Koluru"

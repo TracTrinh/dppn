@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12227
+  source_order: 12222
   source_anchor: 
 aliases:
   - "Sigalaka 03"

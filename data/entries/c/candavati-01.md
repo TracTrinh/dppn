@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4277
+  source_order: 4275
   source_anchor: 
 aliases:
   - "Candavati 01"

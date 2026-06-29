@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhira"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11036
+  source_order: 11031
   source_anchor: 
 aliases:
   - "Vira"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 4003
+  source_order: 4001
   source_anchor: 
 aliases:
   - "Guthapanajataka"

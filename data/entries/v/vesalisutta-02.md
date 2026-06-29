@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
-  source_order: 11188
+  source_order: 11183
   source_anchor: 
 aliases:
   - "Vesalisutta 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6085
+  source_order: 6082
   source_anchor: 
 aliases:
   - "Dhammarama 01"

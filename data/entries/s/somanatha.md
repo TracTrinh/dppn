@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13422
+  source_order: 13417
   source_anchor: 
 aliases:
   - "Somanatha"

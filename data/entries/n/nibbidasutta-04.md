@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6619
+  source_order: 6616
   source_anchor: 
 aliases:
   - "Nibbidasutta 04"
-link_candidates:
-  - "Nibbāna"
+link_candidates: []
 ---
 
 # Nibbidāsutta 04
 
 ## English source
 
-Nibbidāsutta 04. Calling to mind the Buddha, the Dhamma, and the Saṅgha, etc., conduces to revulsion and to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Nibbāna</span>. AN.i.30.
+Nibbidāsutta 04. Calling to mind the Buddha, the Dhamma, and the Saṅgha, etc., conduces to revulsion and to *Nibbāna*. AN.i.30.
 
 ## Vietnamese translation
 

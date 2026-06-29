@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "hatthigiripura"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13488
+  source_order: 13482
   source_anchor: 
 aliases: []
 link_candidates: []

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "katthaka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2492
+  source_order: 2491
   source_anchor: 
 aliases:
   - "Kanthakasalaparivena"

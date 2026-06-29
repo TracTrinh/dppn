@@ -1,26 +1,54 @@
 {
   "epub": "DPPN-Complete.epub",
-  "html_files_processed": 74,
+  "html_files_processed": 73,
   "dictionary_html_files": 59,
-  "total_entries": 13587,
+  "total_entries": 13581,
+  "true_headword_p14_entries": 13581,
+  "p14_total": 13587,
+  "p14_continuations_merged": 6,
+  "p16_paragraphs_captured": 114,
+  "ul_lists_captured": 119,
+  "li1_items_captured": 1156,
+  "p16_captured": 114,
+  "ul_captured": 119,
+  "li1_captured": 1156,
+  "entries_with_lists": 84,
+  "entries_with_p16": 79,
+  "entries_with_continuation_p14": 6,
+  "entry_boundary_rule": "new entry starts only at p.p14 whose first non-whitespace child is span.t14; intervening p14/p16/ul/ol/blockquote blocks merge into the current entry until the next headword p14 or h4",
+  "span_class_roles": {
+    "t14": "term",
+    "t15": "term",
+    "t18": "italic",
+    "t19": "term",
+    "t20": "term",
+    "t23": "term-italic",
+    "t24": "term",
+    "t25": "italic",
+    "t26": "italic",
+    "t28": "term-italic",
+    "t30": "term",
+    "t17": "citation",
+    "t27": "citation"
+  },
   "entries_per_letter": {
     "A": 1468,
     "B": 625,
-    "C": 555,
+    "C": 554,
     "D": 748,
     "E": 102,
     "G": 434,
     "H": 141,
     "I": 92,
     "J": 238,
-    "K": 1466,
+    "K": 1464,
     "L": 151,
-    "M": 1285,
+    "M": 1283,
     "N": 581,
     "O": 43,
     "P": 1055,
     "R": 353,
-    "S": 2232,
+    "S": 2231,
     "T": 439,
     "U": 550,
     "V": 901,
@@ -32,7 +60,7 @@
     "B.": 259,
     "Bh.": 299,
     "Br.": 67,
-    "C.": 493,
+    "C.": 492,
     "Ch.": 62,
     "D.": 499,
     "Dh.": 249,
@@ -43,13 +71,13 @@
     "I-Ī.": 92,
     "J.": 226,
     "Jh.": 12,
-    "Ka-Kā.": 690,
+    "Ka-Kā.": 689,
     "Kh.": 164,
-    "Ki-Ko.": 612,
+    "Ki-Ko.": 611,
     "L.": 151,
     "Ma-Maha": 343,
-    "Mahi-Mo.": 464,
-    "Mahā.": 478,
+    "Mahi-Mo.": 463,
+    "Mahā.": 477,
     "N.": 562,
     "O.": 43,
     "Pa-Pā.": 766,
@@ -57,7 +85,7 @@
     "Pi-Po.": 236,
     "R.": 353,
     "Sa.": 812,
-    "Su-So.": 920,
+    "Su-So.": 919,
     "Sā-Sī.": 500,
     "T.": 379,
     "Th.": 40,
@@ -69,7 +97,7 @@
     "Ā.": 251,
     "Ṭ-Ṭh.": 20
   },
-  "duplicate_headwords_count": 49,
+  "duplicate_headwords_count": 46,
   "duplicate_headwords_sample": [
     {
       "headword": "Uttiyasutta",
@@ -148,10 +176,6 @@
       "count": 2
     },
     {
-      "headword": "Kusinārā",
-      "count": 2
-    },
-    {
       "headword": "Kelāsa",
       "count": 2
     },
@@ -188,10 +212,6 @@
       "count": 2
     },
     {
-      "headword": "Pacceka Buddha",
-      "count": 2
-    },
-    {
       "headword": "Cūḷa Tissa",
       "count": 2
     },
@@ -221,10 +241,6 @@
     },
     {
       "headword": "Pupphasutta",
-      "count": 2
-    },
-    {
-      "headword": "Phusatī",
       "count": 2
     },
     {
@@ -270,7 +286,7 @@
   ],
   "duplicate_ids_count": 0,
   "duplicate_ids": [],
-  "id_collisions_resolved_count": 438,
+  "id_collisions_resolved_count": 434,
   "id_collisions_resolved_sample": [
     {
       "base_id": "aggisama",
@@ -627,11 +643,13 @@
   "redirect_resolved_count": 753,
   "redirect_unresolved_count": 222,
   "redirect_match_strategies": {
-    "alias": 537,
-    "default-first-disambiguated": 216
+    "alias": 536,
+    "default-first-disambiguated": 216,
+    "markup-stripped": 1
   },
   "redirect_unresolved_reasons": {
-    "no-match": 222
+    "markup-no-match": 11,
+    "no-match": 211
   },
   "redirect_unresolved_sample": [
     {
@@ -655,8 +673,8 @@
     {
       "id": "ajjuhatthapabbata",
       "headword": "Ajjuhatthapabbata",
-      "redirect_text": "Ambahattha pabbata",
-      "reason": "no-match"
+      "redirect_text": "Ambahattha *pabbata*",
+      "reason": "markup-no-match"
     },
     {
       "id": "atthosutta",
@@ -715,8 +733,8 @@
     {
       "id": "akasagotta-2",
       "headword": "Ākāsagotta",
-      "redirect_text": "Sañjaya Akāsagotta",
-      "reason": "no-match"
+      "redirect_text": "Sañjaya *Akāsagotta*",
+      "reason": "markup-no-match"
     },
     {
       "id": "aramasutta",
@@ -1287,10 +1305,17 @@
       "strategy": "default-first-disambiguated"
     }
   ],
-  "entries_with_paragraph_breaks": 2237,
-  "paragraphs_per_entry_average": 1.3743,
-  "paragraphs_per_entry_max": 83,
+  "entries_with_paragraph_breaks": 2263,
+  "paragraphs_per_entry_average": 1.4162,
+  "paragraphs_per_entry_max": 89,
   "paragraph_break_samples": [
+    {
+      "id": "ananda-01",
+      "headword": "Ānanda 01",
+      "paragraph_count": 89,
+      "word_count": 9218,
+      "source_file": "Ops/019.html"
+    },
     {
       "id": "gotama-11",
       "headword": "Gotama 11",
@@ -1299,11 +1324,46 @@
       "source_file": "Ops/032.html"
     },
     {
-      "id": "ananda-01",
-      "headword": "Ānanda 01",
-      "paragraph_count": 80,
-      "word_count": 8062,
+      "id": "buddha-01",
+      "headword": "Buddha 01",
+      "paragraph_count": 79,
+      "word_count": 5337,
+      "source_file": "Ops/052.html"
+    },
+    {
+      "id": "bodhisatta",
+      "headword": "Bodhisatta",
+      "paragraph_count": 41,
+      "word_count": 3373,
+      "source_file": "Ops/052.html"
+    },
+    {
+      "id": "sakka-01",
+      "headword": "Sakka 01",
+      "paragraph_count": 37,
+      "word_count": 3982,
+      "source_file": "Ops/067.html"
+    },
+    {
+      "id": "ajivaka",
+      "headword": "Ājīvaka",
+      "paragraph_count": 34,
+      "word_count": 1702,
       "source_file": "Ops/019.html"
+    },
+    {
+      "id": "devadatta",
+      "headword": "Devadatta",
+      "paragraph_count": 34,
+      "word_count": 2373,
+      "source_file": "Ops/043.html"
+    },
+    {
+      "id": "maha-kassapa-thera",
+      "headword": "Mahā Kassapa Thera",
+      "paragraph_count": 34,
+      "word_count": 3583,
+      "source_file": "Ops/057.html"
     },
     {
       "id": "pasenadi",
@@ -1313,18 +1373,25 @@
       "source_file": "Ops/049.html"
     },
     {
-      "id": "maha-kassapa-thera",
-      "headword": "Mahā Kassapa Thera",
-      "paragraph_count": 32,
-      "word_count": 3387,
-      "source_file": "Ops/057.html"
+      "id": "anathapindika-01",
+      "headword": "Anāthapiṇḍika 01",
+      "paragraph_count": 31,
+      "word_count": 2576,
+      "source_file": "Ops/015.html"
     },
     {
       "id": "sariputta-01",
       "headword": "Sāriputta 01",
-      "paragraph_count": 26,
-      "word_count": 4253,
+      "paragraph_count": 31,
+      "word_count": 4805,
       "source_file": "Ops/069.html"
+    },
+    {
+      "id": "anuruddha-02",
+      "headword": "Anuruddha 02",
+      "paragraph_count": 26,
+      "word_count": 2319,
+      "source_file": "Ops/016.html"
     },
     {
       "id": "ajatasattu",
@@ -1362,11 +1429,18 @@
       "source_file": "Ops/052.html"
     },
     {
-      "id": "anuruddha-02",
-      "headword": "Anuruddha 02",
-      "paragraph_count": 20,
-      "word_count": 1886,
-      "source_file": "Ops/016.html"
+      "id": "isipatana-2",
+      "headword": "Isipatana",
+      "paragraph_count": 21,
+      "word_count": 1100,
+      "source_file": "Ops/021.html"
+    },
+    {
+      "id": "maha-moggallana-thera",
+      "headword": "Mahā Moggallāna Thera",
+      "paragraph_count": 21,
+      "word_count": 3060,
+      "source_file": "Ops/058.html"
     },
     {
       "id": "kapilavatthu",
@@ -1374,62 +1448,168 @@
       "paragraph_count": 20,
       "word_count": 1782,
       "source_file": "Ops/026.html"
+    }
+  ],
+  "entries_with_lists_sample": [
+    {
+      "id": "bodhisatta",
+      "headword": "Bodhisatta",
+      "list_count": 9,
+      "li1_count": 130,
+      "word_count": 3373,
+      "source_file": "Ops/052.html"
     },
     {
-      "id": "kassapa",
-      "headword": "Kassapa",
-      "paragraph_count": 20,
-      "word_count": 1399,
-      "source_file": "Ops/027.html"
+      "id": "ananda-01",
+      "headword": "Ānanda 01",
+      "list_count": 3,
+      "li1_count": 127,
+      "word_count": 9218,
+      "source_file": "Ops/019.html"
     },
     {
-      "id": "brahmaloka",
-      "headword": "Brahmaloka",
-      "paragraph_count": 20,
-      "word_count": 1330,
-      "source_file": "Ops/054.html"
+      "id": "sariputta-01",
+      "headword": "Sāriputta 01",
+      "list_count": 1,
+      "li1_count": 72,
+      "word_count": 4805,
+      "source_file": "Ops/069.html"
     },
     {
-      "id": "rajagaha",
-      "headword": "Rājagaha",
-      "paragraph_count": 20,
-      "word_count": 1778,
+      "id": "devadatta",
+      "headword": "Devadatta",
+      "list_count": 6,
+      "li1_count": 70,
+      "word_count": 2373,
+      "source_file": "Ops/043.html"
+    },
+    {
+      "id": "ajivaka",
+      "headword": "Ājīvaka",
+      "list_count": 8,
+      "li1_count": 36,
+      "word_count": 1702,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "maha-purisa",
+      "headword": "Mahā Purisa",
+      "list_count": 1,
+      "li1_count": 31,
+      "word_count": 591,
+      "source_file": "Ops/058.html"
+    },
+    {
+      "id": "rahulamata",
+      "headword": "Rāhulamātā",
+      "list_count": 1,
+      "li1_count": 29,
+      "word_count": 1486,
       "source_file": "Ops/062.html"
     },
     {
-      "id": "anathapindika-01",
-      "headword": "Anāthapiṇḍika 01",
-      "paragraph_count": 19,
-      "word_count": 1551,
-      "source_file": "Ops/015.html"
+      "id": "gijjhakuta-01",
+      "headword": "Gijjhakūṭa 01",
+      "list_count": 3,
+      "li1_count": 28,
+      "word_count": 729,
+      "source_file": "Ops/031.html"
     },
     {
       "id": "maha-moggallana-thera",
       "headword": "Mahā Moggallāna Thera",
-      "paragraph_count": 19,
-      "word_count": 2772,
+      "list_count": 1,
+      "li1_count": 27,
+      "word_count": 3060,
       "source_file": "Ops/058.html"
     },
     {
-      "id": "upali-01",
-      "headword": "Upāli 01",
-      "paragraph_count": 17,
-      "word_count": 1347,
+      "id": "uppalavanna-01",
+      "headword": "Uppalavaṇṇā 01",
+      "list_count": 1,
+      "li1_count": 25,
+      "word_count": 1504,
       "source_file": "Ops/023.html"
     },
     {
-      "id": "jetavana-01",
-      "headword": "Jetavana 01",
-      "paragraph_count": 17,
-      "word_count": 1291,
-      "source_file": "Ops/037.html"
+      "id": "bodhirukkha",
+      "headword": "Bodhirukkha",
+      "list_count": 1,
+      "li1_count": 19,
+      "word_count": 1184,
+      "source_file": "Ops/052.html"
     },
     {
-      "id": "abhayagiri",
-      "headword": "Abhayagiri,",
-      "paragraph_count": 15,
-      "word_count": 1323,
-      "source_file": "Ops/017.html"
+      "id": "kosala",
+      "headword": "Kosala",
+      "list_count": 1,
+      "li1_count": 17,
+      "word_count": 981,
+      "source_file": "Ops/029.html"
+    },
+    {
+      "id": "ganga-01",
+      "headword": "Gaṅgā 01",
+      "list_count": 1,
+      "li1_count": 17,
+      "word_count": 919,
+      "source_file": "Ops/031.html"
+    },
+    {
+      "id": "maha-ummaggajataka",
+      "headword": "Mahā Ummaggajātaka",
+      "list_count": 1,
+      "li1_count": 17,
+      "word_count": 1590,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "kunalajataka",
+      "headword": "Kuṇālajātaka",
+      "list_count": 2,
+      "li1_count": 16,
+      "word_count": 436,
+      "source_file": "Ops/028.html"
+    },
+    {
+      "id": "maha-kassapa-thera",
+      "headword": "Mahā Kassapa Thera",
+      "list_count": 1,
+      "li1_count": 16,
+      "word_count": 3583,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "maha-supinajataka",
+      "headword": "Mahā Supinajātaka",
+      "list_count": 1,
+      "li1_count": 15,
+      "word_count": 836,
+      "source_file": "Ops/058.html"
+    },
+    {
+      "id": "visakha-05-2",
+      "headword": "Visākhā 05",
+      "list_count": 2,
+      "li1_count": 15,
+      "word_count": 2255,
+      "source_file": "Ops/065.html"
+    },
+    {
+      "id": "sakka-01",
+      "headword": "Sakka 01",
+      "list_count": 1,
+      "li1_count": 15,
+      "word_count": 3982,
+      "source_file": "Ops/067.html"
+    },
+    {
+      "id": "maha-parinibbanasutta",
+      "headword": "Mahā Parinibbānasutta",
+      "list_count": 1,
+      "li1_count": 14,
+      "word_count": 191,
+      "source_file": "Ops/058.html"
     }
   ],
   "abbreviations_count": 89,
@@ -1455,8 +1635,8 @@
     "Dial": "Dialogues of the Buddha, 3 vols. (Oxford).",
     "Divy": "Divyāvadāna, ed. Cowell and Neill (Cambridge)."
   },
-  "soft_hyphen_entry_count": 3313,
-  "soft_hyphen_total_count": 5886,
+  "soft_hyphen_entry_count": 3332,
+  "soft_hyphen_total_count": 6161,
   "soft_hyphen_samples": [
     {
       "id": "akanittha-deva",
@@ -1471,8 +1651,8 @@
       "headword": "Akitti",
       "source_file": "Ops/015.html",
       "soft_hyphen_count": 1,
-      "sample": "Akitti (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Br",
-      "normalized_sample": "Akitti (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Br"
+      "sample": "Akitti (*v.l.* <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Brahmin magnate of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-",
+      "normalized_sample": "Akitti (*v.l.* <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Brahmin magnate of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-"
     },
     {
       "id": "akkosaka-bharadvaja",
@@ -1527,8 +1707,8 @@
       "headword": "Aggappasādasutta",
       "source_file": "Ops/015.html",
       "soft_hyphen_count": 1,
-      "sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t18\"",
-      "normalized_sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t18\""
+      "sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “*anuttara*” as applicable to the Buddha. Vism. i.207; also Vin-a.i.120 and Khp­a.19. Th",
+      "normalized_sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “*anuttara*” as applicable to the Buddha. Vism. i.207; also Vin-a.i.120 and Khpa.19. Th"
     },
     {
       "id": "aggasavakavatthu",
@@ -1583,8 +1763,8 @@
       "headword": "Agginibbāpaka",
       "source_file": "Ops/015.html",
       "soft_hyphen_count": 1,
-      "sample": "Agginibbāpaka (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term",
-      "normalized_sample": "Agginibbāpaka (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term"
+      "sample": "Agginibbāpaka (*v.l.* <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Cakkavatti</span> of eighty-six *kalp",
+      "normalized_sample": "Agginibbāpaka (*v.l.* <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Cakkavatti</span> of eighty-six *kalp"
     },
     {
       "id": "aggimukha",
@@ -1607,8 +1787,8 @@
       "headword": "Aṅkurapetavatthu",
       "source_file": "Ops/015.html",
       "soft_hyphen_count": 2,
-      "sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MN­a.i.225 and DN­a.i.178, in this story the word <span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-t",
-      "normalized_sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MNa.i.225 and DNa.i.178, in this story the word <span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-t"
+      "sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MN­a.i.225 and DN­a.i.178, in this story the word *brahmacariya* is used to mean *veyyāvacca* (service).",
+      "normalized_sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MNa.i.225 and DNa.i.178, in this story the word *brahmacariya* is used to mean *veyyāvacca* (service)."
     },
     {
       "id": "ankuravatthu",
@@ -2231,8 +2411,14 @@
     {
       "id": "ananda-01",
       "headword": "Ānanda 01",
-      "word_count": 8062,
+      "word_count": 9218,
       "source_file": "Ops/019.html"
+    },
+    {
+      "id": "buddha-01",
+      "headword": "Buddha 01",
+      "word_count": 5337,
+      "source_file": "Ops/052.html"
     },
     {
       "id": "mara",
@@ -2243,14 +2429,32 @@
     {
       "id": "sariputta-01",
       "headword": "Sāriputta 01",
-      "word_count": 4253,
+      "word_count": 4805,
       "source_file": "Ops/069.html"
+    },
+    {
+      "id": "sakka-01",
+      "headword": "Sakka 01",
+      "word_count": 3982,
+      "source_file": "Ops/067.html"
     },
     {
       "id": "maha-kassapa-thera",
       "headword": "Mahā Kassapa Thera",
-      "word_count": 3387,
+      "word_count": 3583,
       "source_file": "Ops/057.html"
+    },
+    {
+      "id": "bodhisatta",
+      "headword": "Bodhisatta",
+      "word_count": 3373,
+      "source_file": "Ops/052.html"
+    },
+    {
+      "id": "maha-moggallana-thera",
+      "headword": "Mahā Moggallāna Thera",
+      "word_count": 3060,
+      "source_file": "Ops/058.html"
     },
     {
       "id": "pasenadi",
@@ -2259,10 +2463,22 @@
       "source_file": "Ops/049.html"
     },
     {
-      "id": "maha-moggallana-thera",
-      "headword": "Mahā Moggallāna Thera",
-      "word_count": 2772,
-      "source_file": "Ops/058.html"
+      "id": "anathapindika-01",
+      "headword": "Anāthapiṇḍika 01",
+      "word_count": 2576,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "devadatta",
+      "headword": "Devadatta",
+      "word_count": 2373,
+      "source_file": "Ops/043.html"
+    },
+    {
+      "id": "anuruddha-02",
+      "headword": "Anuruddha 02",
+      "word_count": 2319,
+      "source_file": "Ops/016.html"
     },
     {
       "id": "bimbisara",
@@ -2271,16 +2487,22 @@
       "source_file": "Ops/052.html"
     },
     {
+      "id": "visakha-05-2",
+      "headword": "Visākhā 05",
+      "word_count": 2255,
+      "source_file": "Ops/065.html"
+    },
+    {
       "id": "ajatasattu",
       "headword": "Ajātasattu",
       "word_count": 2105,
       "source_file": "Ops/015.html"
     },
     {
-      "id": "anuruddha-02",
-      "headword": "Anuruddha 02",
-      "word_count": 1886,
-      "source_file": "Ops/016.html"
+      "id": "maha-thupa",
+      "headword": "Mahā Thūpa",
+      "word_count": 1789,
+      "source_file": "Ops/057.html"
     },
     {
       "id": "kapilavatthu",
@@ -2299,510 +2521,906 @@
       "headword": "Yakkha",
       "word_count": 1758,
       "source_file": "Ops/061.html"
-    },
-    {
-      "id": "rahula-01",
-      "headword": "Rāhula 01",
-      "word_count": 1572,
-      "source_file": "Ops/062.html"
-    },
-    {
-      "id": "anathapindika-01",
-      "headword": "Anāthapiṇḍika 01",
-      "word_count": 1551,
-      "source_file": "Ops/015.html"
-    },
-    {
-      "id": "vesali",
-      "headword": "Vesālī",
-      "word_count": 1544,
-      "source_file": "Ops/066.html"
-    },
-    {
-      "id": "maha-ummaggajataka",
-      "headword": "Mahā Ummaggajātaka",
-      "word_count": 1503,
-      "source_file": "Ops/057.html"
-    },
-    {
-      "id": "bhuridattajataka",
-      "headword": "Bhūridattajātaka",
-      "word_count": 1435,
-      "source_file": "Ops/055.html"
-    },
-    {
-      "id": "ananda-2",
-      "headword": "Ānanda",
-      "word_count": 1402,
-      "source_file": "Ops/057.html"
-    },
-    {
-      "id": "kassapa",
-      "headword": "Kassapa",
-      "word_count": 1399,
-      "source_file": "Ops/027.html"
     }
   ],
-  "styled_term_candidates": 72278,
+  "styled_term_candidates": 61481,
   "styled_term_candidates_by_status": {
-    "ambiguous": 22575,
-    "matched": 24784,
-    "unmatched": 24919
+    "ambiguous": 22670,
+    "matched": 24789,
+    "unmatched": 14022
   },
   "styled_term_candidates_by_span_class": {
-    "t14": 57645,
-    "t18": 14633
+    "t14": 59464,
+    "t15": 109,
+    "t19": 5,
+    "t20": 372,
+    "t23": 156,
+    "t24": 1372,
+    "t28": 1,
+    "t30": 2
   },
-  "styled_term_candidates_t14": 57645,
-  "styled_term_candidates_t18": 14633,
-  "inline_markers_written": 72278,
-  "entries_with_inline_markers": 12428,
+  "styled_term_candidates_t14": 59464,
+  "styled_term_candidates_t18": 0,
+  "inline_markers_written": 61481,
+  "entries_with_inline_markers": 11871,
   "inline_marker_candidate_position_mismatches": 0,
   "inline_marker_candidate_position_mismatch_sample": [],
   "html_file_stats": [
     {
       "file": "Ops/001.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/002.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/003.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/004.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/005.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/006.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/007.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 3
     },
     {
       "file": "Ops/008.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/009.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 4
     },
     {
       "file": "Ops/010.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 2
     },
     {
       "file": "Ops/011.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/012.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/013.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/014.html",
       "p14_entries": 0,
+      "p14_total": 0,
+      "p14_headword_entries": 0,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 2
     },
     {
       "file": "Ops/015.html",
       "p14_entries": 481,
+      "p14_total": 481,
+      "p14_headword_entries": 481,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 9,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/016.html",
       "p14_entries": 145,
+      "p14_total": 145,
+      "p14_headword_entries": 145,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 8,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/017.html",
       "p14_entries": 413,
+      "p14_total": 413,
+      "p14_headword_entries": 413,
+      "p14_continuations_merged": 0,
+      "p16_captured": 2,
+      "ul_captured": 2,
+      "li1_captured": 8,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/018.html",
       "p14_entries": 178,
+      "p14_total": 178,
+      "p14_headword_entries": 178,
+      "p14_continuations_merged": 0,
+      "p16_captured": 3,
+      "ul_captured": 3,
+      "li1_captured": 19,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/019.html",
       "p14_entries": 222,
+      "p14_total": 222,
+      "p14_headword_entries": 222,
+      "p14_continuations_merged": 0,
+      "p16_captured": 13,
+      "ul_captured": 13,
+      "li1_captured": 170,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/020.html",
       "p14_entries": 29,
+      "p14_total": 29,
+      "p14_headword_entries": 29,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/021.html",
       "p14_entries": 92,
+      "p14_total": 92,
+      "p14_headword_entries": 92,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 7,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/022.html",
       "p14_entries": 383,
+      "p14_total": 383,
+      "p14_headword_entries": 383,
+      "p14_continuations_merged": 0,
+      "p16_captured": 2,
+      "ul_captured": 2,
+      "li1_captured": 12,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/023.html",
       "p14_entries": 167,
+      "p14_total": 167,
+      "p14_headword_entries": 167,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 25,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/024.html",
       "p14_entries": 102,
+      "p14_total": 102,
+      "p14_headword_entries": 102,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/025.html",
       "p14_entries": 43,
+      "p14_total": 43,
+      "p14_headword_entries": 43,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/026.html",
-      "p14_entries": 425,
+      "p14_entries": 424,
+      "p14_total": 425,
+      "p14_headword_entries": 424,
+      "p14_continuations_merged": 1,
+      "p16_captured": 3,
+      "ul_captured": 5,
+      "li1_captured": 23,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/027.html",
       "p14_entries": 265,
+      "p14_total": 265,
+      "p14_headword_entries": 265,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 4,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/028.html",
-      "p14_entries": 423,
+      "p14_entries": 422,
+      "p14_total": 423,
+      "p14_headword_entries": 422,
+      "p14_continuations_merged": 1,
+      "p16_captured": 6,
+      "ul_captured": 7,
+      "li1_captured": 41,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/029.html",
       "p14_entries": 189,
+      "p14_total": 189,
+      "p14_headword_entries": 189,
+      "p14_continuations_merged": 0,
+      "p16_captured": 4,
+      "ul_captured": 4,
+      "li1_captured": 33,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/030.html",
       "p14_entries": 164,
+      "p14_total": 164,
+      "p14_headword_entries": 164,
+      "p14_continuations_merged": 0,
+      "p16_captured": 3,
+      "ul_captured": 3,
+      "li1_captured": 22,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/031.html",
       "p14_entries": 323,
+      "p14_total": 323,
+      "p14_headword_entries": 323,
+      "p14_continuations_merged": 0,
+      "p16_captured": 5,
+      "ul_captured": 5,
+      "li1_captured": 52,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/032.html",
       "p14_entries": 83,
+      "p14_total": 83,
+      "p14_headword_entries": 83,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/033.html",
       "p14_entries": 28,
+      "p14_total": 28,
+      "p14_headword_entries": 28,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/034.html",
-      "p14_entries": 406,
+      "p14_entries": 405,
+      "p14_total": 406,
+      "p14_headword_entries": 405,
+      "p14_continuations_merged": 1,
+      "p16_captured": 4,
+      "ul_captured": 5,
+      "li1_captured": 25,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/035.html",
       "p14_entries": 87,
+      "p14_total": 87,
+      "p14_headword_entries": 87,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/036.html",
       "p14_entries": 62,
+      "p14_total": 62,
+      "p14_headword_entries": 62,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/037.html",
       "p14_entries": 226,
+      "p14_total": 226,
+      "p14_headword_entries": 226,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 4,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/038.html",
       "p14_entries": 12,
+      "p14_total": 12,
+      "p14_headword_entries": 12,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/039.html",
       "p14_entries": 19,
+      "p14_total": 19,
+      "p14_headword_entries": 19,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/040.html",
       "p14_entries": 20,
+      "p14_total": 20,
+      "p14_headword_entries": 20,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/041.html",
       "p14_entries": 379,
+      "p14_total": 379,
+      "p14_headword_entries": 379,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/042.html",
       "p14_entries": 40,
+      "p14_total": 40,
+      "p14_headword_entries": 40,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/043.html",
       "p14_entries": 491,
+      "p14_total": 491,
+      "p14_headword_entries": 491,
+      "p14_continuations_merged": 0,
+      "p16_captured": 8,
+      "ul_captured": 8,
+      "li1_captured": 79,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/044.html",
       "p14_entries": 8,
+      "p14_total": 8,
+      "p14_headword_entries": 8,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/045.html",
       "p14_entries": 249,
+      "p14_total": 249,
+      "p14_headword_entries": 249,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/046.html",
       "p14_entries": 471,
+      "p14_total": 471,
+      "p14_headword_entries": 471,
+      "p14_continuations_merged": 0,
+      "p16_captured": 7,
+      "ul_captured": 7,
+      "li1_captured": 31,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/047.html",
       "p14_entries": 91,
+      "p14_total": 91,
+      "p14_headword_entries": 91,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/048.html",
       "p14_entries": 518,
+      "p14_total": 518,
+      "p14_headword_entries": 518,
+      "p14_continuations_merged": 0,
+      "p16_captured": 6,
+      "ul_captured": 6,
+      "li1_captured": 34,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/049.html",
       "p14_entries": 248,
+      "p14_total": 248,
+      "p14_headword_entries": 248,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/050.html",
       "p14_entries": 236,
+      "p14_total": 236,
+      "p14_headword_entries": 236,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/051.html",
       "p14_entries": 53,
+      "p14_total": 53,
+      "p14_headword_entries": 53,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/052.html",
       "p14_entries": 250,
+      "p14_total": 250,
+      "p14_headword_entries": 250,
+      "p14_continuations_merged": 0,
+      "p16_captured": 7,
+      "ul_captured": 8,
+      "li1_captured": 61,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/053.html",
       "p14_entries": 9,
+      "p14_total": 9,
+      "p14_headword_entries": 9,
+      "p14_continuations_merged": 0,
+      "p16_captured": 5,
+      "ul_captured": 4,
+      "li1_captured": 94,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/054.html",
       "p14_entries": 67,
+      "p14_total": 67,
+      "p14_headword_entries": 67,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/055.html",
       "p14_entries": 299,
+      "p14_total": 299,
+      "p14_headword_entries": 299,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 9,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/056.html",
       "p14_entries": 343,
+      "p14_total": 343,
+      "p14_headword_entries": 343,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 4,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/057.html",
-      "p14_entries": 244,
+      "p14_entries": 243,
+      "p14_total": 244,
+      "p14_headword_entries": 243,
+      "p14_continuations_merged": 1,
+      "p16_captured": 4,
+      "ul_captured": 5,
+      "li1_captured": 60,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/058.html",
       "p14_entries": 234,
+      "p14_total": 234,
+      "p14_headword_entries": 234,
+      "p14_continuations_merged": 0,
+      "p16_captured": 6,
+      "ul_captured": 6,
+      "li1_captured": 103,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/059.html",
-      "p14_entries": 358,
+      "p14_entries": 357,
+      "p14_total": 358,
+      "p14_headword_entries": 357,
+      "p14_continuations_merged": 1,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/060.html",
       "p14_entries": 106,
+      "p14_total": 106,
+      "p14_headword_entries": 106,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/061.html",
       "p14_entries": 128,
+      "p14_total": 128,
+      "p14_headword_entries": 128,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/062.html",
       "p14_entries": 353,
+      "p14_total": 353,
+      "p14_headword_entries": 353,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 29,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/063.html",
       "p14_entries": 151,
+      "p14_total": 151,
+      "p14_headword_entries": 151,
+      "p14_continuations_merged": 0,
+      "p16_captured": 2,
+      "ul_captured": 2,
+      "li1_captured": 10,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/064.html",
       "p14_entries": 390,
+      "p14_total": 390,
+      "p14_headword_entries": 390,
+      "p14_continuations_merged": 0,
+      "p16_captured": 2,
+      "ul_captured": 2,
+      "li1_captured": 19,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/065.html",
       "p14_entries": 473,
+      "p14_total": 473,
+      "p14_headword_entries": 473,
+      "p14_continuations_merged": 0,
+      "p16_captured": 4,
+      "ul_captured": 4,
+      "li1_captured": 20,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/066.html",
       "p14_entries": 38,
+      "p14_total": 38,
+      "p14_headword_entries": 38,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 8,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/067.html",
       "p14_entries": 412,
+      "p14_total": 412,
+      "p14_headword_entries": 412,
+      "p14_continuations_merged": 0,
+      "p16_captured": 5,
+      "ul_captured": 5,
+      "li1_captured": 47,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/068.html",
       "p14_entries": 400,
+      "p14_total": 400,
+      "p14_headword_entries": 400,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/069.html",
       "p14_entries": 392,
+      "p14_total": 392,
+      "p14_headword_entries": 392,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 72,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/070.html",
       "p14_entries": 108,
+      "p14_total": 108,
+      "p14_headword_entries": 108,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/071.html",
       "p14_entries": 535,
+      "p14_total": 535,
+      "p14_headword_entries": 535,
+      "p14_continuations_merged": 0,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 10,
       "h4_headings": 1,
       "href_count": 1
     },
     {
       "file": "Ops/072.html",
-      "p14_entries": 385,
+      "p14_entries": 384,
+      "p14_total": 385,
+      "p14_headword_entries": 384,
+      "p14_continuations_merged": 1,
+      "p16_captured": 1,
+      "ul_captured": 1,
+      "li1_captured": 4,
       "h4_headings": 0,
       "href_count": 1
     },
     {
       "file": "Ops/073.html",
       "p14_entries": 141,
+      "p14_total": 141,
+      "p14_headword_entries": 141,
+      "p14_continuations_merged": 0,
+      "p16_captured": 0,
+      "ul_captured": 0,
+      "li1_captured": 0,
       "h4_headings": 1,
       "href_count": 1
-    },
-    {
-      "file": "Ops/notes.html",
-      "p14_entries": 0,
-      "h4_headings": 0,
-      "href_count": 7
     }
   ],
   "sample_entries": [
@@ -2822,7 +3440,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 1,
-      "path": "data/entries/a/akatannujataka.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akatannujataka.md"
     },
     {
       "id": "akatunnatasutta-01",
@@ -2840,7 +3462,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 1,
-      "path": "data/entries/a/akatunnatasutta-01.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akatunnatasutta-01.md"
     },
     {
       "id": "akatunnatasutta-02",
@@ -2858,7 +3484,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 1,
-      "path": "data/entries/a/akatunnatasutta-02.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akatunnatasutta-02.md"
     },
     {
       "id": "akatti",
@@ -2876,7 +3506,11 @@
       "redirect_match_strategy": "alias",
       "redirect_unresolved_reason": null,
       "paragraph_count": 1,
-      "path": "data/entries/a/akatti.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akatti.md"
     },
     {
       "id": "akanittha-deva",
@@ -2894,7 +3528,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 5,
-      "path": "data/entries/a/akanittha-deva.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akanittha-deva.md"
     },
     {
       "id": "akitti",
@@ -2912,7 +3550,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 2,
-      "path": "data/entries/a/akitti.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/akitti.md"
     },
     {
       "id": "ananda",
@@ -2930,7 +3572,11 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 3,
-      "path": "data/entries/a/ananda.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/a/ananda.md"
     },
     {
       "id": "buddha",
@@ -2940,7 +3586,7 @@
       "letter": "B",
       "section": "B.",
       "source_file": "Ops/052.html",
-      "source_order": 7968,
+      "source_order": 7965,
       "source_anchor": null,
       "word_count": 32,
       "status": "untranslated",
@@ -2948,11 +3594,13 @@
       "redirect_match_strategy": null,
       "redirect_unresolved_reason": null,
       "paragraph_count": 1,
-      "path": "data/entries/b/buddha.md"
+      "list_count": 0,
+      "li1_count": 0,
+      "p16_count": 0,
+      "continuation_p14_count": 0,
+      "path": ".publish/dppn/data/entries/b/buddha.md"
     }
   ],
-  "warnings_count": 1,
-  "warnings_sample": [
-    "Ops/072.html: p14 without t14, used text fallback at local entry 384"
-  ]
+  "warnings_count": 0,
+  "warnings_sample": []
 }

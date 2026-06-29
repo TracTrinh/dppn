@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11306
+  source_order: 11301
   source_anchor: 
 aliases:
   - "Sankhapalajataka"
@@ -28,7 +28,6 @@ link_candidates:
   - "Rājagaha"
   - "Saṅkhapāla"
   - "Sāriputta"
-  - "Sīlapāramitā"
   - "Ānanda"
 ---
 
@@ -40,7 +39,7 @@ Saṅkhapālajātaka (Ja 521). The Bodhisatta born as <span class="dppn-term dpp
 
 The Bodhisatta’s father is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term-class="t14">Mahā Kassapa</span>, the king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term-class="t14">Benares</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-term-class="t14">Ānanda</span>, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="31" data-dppn-term-class="t14">Aḷāra</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="32" data-dppn-term-class="t14">Sāriputta</span>. Ja.v.161-71. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-term-class="t14">Aḷāra</span>.
 
-The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Cariyāpiṭaka</span> (ii.10; see also Ja.i.45; MN­a.ii.617; Bv­a.50) to illustrate <span class="dppn-term dppn-term-t18" data-dppn-term-pos="35" data-dppn-term-class="t18">Sīlapāramitā</span>.
+The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Cariyāpiṭaka</span> (ii.10; see also Ja.i.45; MN­a.ii.617; Bv­a.50) to illustrate *Sīlapāramitā*.
 
 ## Vietnamese translation
 

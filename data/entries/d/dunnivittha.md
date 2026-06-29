@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5727
+  source_order: 5724
   source_anchor: 
 aliases:
   - "Dunnivittha"

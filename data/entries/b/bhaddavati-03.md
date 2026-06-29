@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8150
+  source_order: 8147
   source_anchor: 
 aliases:
   - "Bhaddavati 03"

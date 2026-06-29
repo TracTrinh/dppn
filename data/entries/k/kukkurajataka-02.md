@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kakkarajataka"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3070
+  source_order: 3069
   source_anchor: 
 aliases:
   - "Kukkurajataka 02"

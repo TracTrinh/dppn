@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10999
+  source_order: 10994
   source_anchor: 
 aliases:
   - "Viharavejjasalatittha"

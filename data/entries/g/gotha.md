@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gothayimbara"
 source:
   epub_file: "Ops/031.html"
-  source_order: 4020
+  source_order: 4018
   source_anchor: 
 aliases:
   - "Gotha"

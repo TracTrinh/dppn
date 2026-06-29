@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sutasoma-01"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13401
+  source_order: 13396
   source_anchor: 
 aliases: []
 link_candidates:

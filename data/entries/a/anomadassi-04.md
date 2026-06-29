@@ -15,9 +15,6 @@ aliases:
   - "Anomadassi 04"
 link_candidates:
   - "Anomadassī"
-  - "Bhāṇavāras"
-  - "Sāraṭṭhasamuccaya"
-  - "Tipiṭaka"
   - "Ānanda Vanaratana"
 ---
 
@@ -25,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Anomadassī 04. An Elder of Ceylon, at whose request a pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda Vanaratana</span> wrote a commentary called <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Sāraṭṭhasamuccaya</span> on four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Bhāṇavāras</span> of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Tipiṭaka</span>. PLC., 227. The work has now been published in the Simon Hewavitarana Bequest Series (Colombo), vol. xxvii. For a discussion on this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Anomadassī</span> see the Introduction, p. x-xi.
+Anomadassī 04. An Elder of Ceylon, at whose request a pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda Vanaratana</span> wrote a commentary called *Sāraṭṭhasamuccaya* on four *Bhāṇavāras* of the *Tipiṭaka*. PLC., 227. The work has now been published in the Simon Hewavitarana Bequest Series (Colombo), vol. xxvii. For a discussion on this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anomadassī</span> see the Introduction, p. x-xi.
 
 ## Vietnamese translation
 

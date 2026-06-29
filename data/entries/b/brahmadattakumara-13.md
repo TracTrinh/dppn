@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-sutasomajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8062
+  source_order: 8059
   source_anchor: 
 aliases:
   - "Brahmadattakumara 13"

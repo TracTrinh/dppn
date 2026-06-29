@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10224
+  source_order: 10219
   source_anchor: 
 aliases:
   - "Lala"

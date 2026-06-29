@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kundakakucchisindhavajataka"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3114
+  source_order: 3113
   source_anchor: "a129"
 aliases:
   - "Kundakasindhavapotakajataka"

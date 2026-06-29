@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12138
+  source_order: 12133
   source_anchor: 
 aliases:
   - "Saradassi 02"
-link_candidates:
-  - "Dhātukathāyojanā"
+link_candidates: []
 ---
 
 # Sāradassī 02
 
 ## English source
 
-Sāradassī 02. A monk of Pagan of the eighteenth century. He wrote the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Dhātukathāyojanā</span>. Bode, 67.
+Sāradassī 02. A monk of Pagan of the eighteenth century. He wrote the *Dhātukathāyojanā*. Bode, 67.
 
 ## Vietnamese translation
 

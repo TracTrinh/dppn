@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sumana-13"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4215
+  source_order: 4213
   source_anchor: 
 aliases:
   - "Caturitthivimana"

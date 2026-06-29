@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jalagama"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10660
+  source_order: 10655
   source_anchor: 
 aliases:
   - "Valagama"

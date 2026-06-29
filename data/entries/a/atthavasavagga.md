@@ -14,16 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Dukanipāta"
-  - "samatha"
-  - "vipassanā"
 ---
 
 # Atthavasavagga
 
 ## English source
 
-Atthavasavagga. The seventeenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Dukanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span> (AN.i.98-100). It deals with the aims behind the Buddha’s injunctions to monks with regard to the practice of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">samatha</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">vipassanā</span>, to be employed as remedies against lust, etc.
+Atthavasavagga. The seventeenth chapter of the *Dukanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span> (AN.i.98-100). It deals with the aims behind the Buddha’s injunctions to monks with regard to the practice of *samatha* and *vipassanā*, to be employed as remedies against lust, etc.
 
 ## Vietnamese translation
 

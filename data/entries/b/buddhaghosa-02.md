@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7935
+  source_order: 7932
   source_anchor: 
 aliases: []
 link_candidates:
@@ -17,15 +17,13 @@ link_candidates:
   - "Buddhaghosa"
   - "Cūḷa Buddhaghosa"
   - "Jātaka Commentary"
-  - "Jātattagīnidāna"
-  - "Sotattagīnidāna"
 ---
 
 # Buddhaghosa 02
 
 ## English source
 
-Buddhaghosa 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cūḷa Buddhaghosa</span> to distinguish him from the greater. He was a native of Ceylon (Gv.67), and two works are ascribed to him (Gv.63) – the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Jātattagīnidāna</span> and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Sotattagīnidāna</span>. The former probably refers to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Jātaka Commentary</span> (PLC.126). It was at his request that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Buddhaghosa</span> (1) wrote his Commentaries to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Abhidhamma</span>. Gv.68.
+Buddhaghosa 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cūḷa Buddhaghosa</span> to distinguish him from the greater. He was a native of Ceylon (Gv.67), and two works are ascribed to him (Gv.63) – the *Jātattagīnidāna* and the *Sotattagīnidāna*. The former probably refers to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jātaka Commentary</span> (PLC.126). It was at his request that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddhaghosa</span> (1) wrote his Commentaries to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Abhidhamma</span>. Gv.68.
 
 ## Vietnamese translation
 

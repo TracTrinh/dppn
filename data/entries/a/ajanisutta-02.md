@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ajanisutta 02"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Ājānisutta 02
 
 ## English source
 
-Ājānisutta 02. Three <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> giving six similar qualities. AN.iii.282-4.
+Ājānisutta 02. Three *Suttas* giving six similar qualities. AN.iii.282-4.
 
 ## Vietnamese translation
 

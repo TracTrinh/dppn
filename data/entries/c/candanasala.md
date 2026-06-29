@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "candanamala"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4259
+  source_order: 4257
   source_anchor: 
 aliases:
   - "Candanasala"

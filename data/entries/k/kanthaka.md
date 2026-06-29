@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanthaka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2392
+  source_order: 2391
   source_anchor: 
 aliases:
   - "Kanthaka"

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7164
+  source_order: 7161
   source_anchor: 
 aliases:
   - "Parinneyyasutta 01"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Pariññeyyāsutta 01
 
 ## English source
 
-Pariññeyyāsutta 01. The five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> should be understood, and their understanding consists in the destruction of lust, hatred and illusion. SN.iii.159.
+Pariññeyyāsutta 01. The five *khandhas* should be understood, and their understanding consists in the destruction of lust, hatred and illusion. SN.iii.159.
 
 ## Vietnamese translation
 

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2868
+  source_order: 2867
   source_anchor: 
 aliases:
   - "Kalagama"
-link_candidates:
-  - "vippatisārī"
+link_candidates: []
 ---
 
 # Kāḷagāma
 
 ## English source
 
-Kāḷagāma. A village in Ceylon. A minister of this village is given as an example of a man who committed suicide in remorse (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vippatisārī</span>). Snp-a.i.30.
+Kāḷagāma. A village in Ceylon. A minister of this village is given as an example of a man who committed suicide in remorse (*vippatisārī*). Snp-a.i.30.
 
 ## Vietnamese translation
 

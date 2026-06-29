@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lokavivarana"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10260
+  source_order: 10255
   source_anchor: 
 aliases:
   - "Lokappasadaka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "haritajataka"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13498
+  source_order: 13492
   source_anchor: 
 aliases:
   - "Haritacajataka"

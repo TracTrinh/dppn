@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3468
+  source_order: 3466
   source_anchor: 
 aliases:
   - "Komayaputtajataka"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10673
+  source_order: 10668
   source_anchor: 
 aliases:
   - "Valodakajataka"

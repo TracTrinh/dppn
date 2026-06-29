@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sihagiri"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12495
+  source_order: 12490
   source_anchor: 
 aliases:
   - "Sihapabbata"

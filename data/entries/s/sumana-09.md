@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12966
+  source_order: 12961
   source_anchor: 
 aliases: []
 link_candidates:
   - "Andhavana"
-  - "Arahants"
   - "Khema"
   - "Sumana"
   - "Sumana Thera"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Sumana 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumana Thera</span> He is mentioned as having lived in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andhavana</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Khema</span>. Together they visited the Buddha, and, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Khema</span> had gone away, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sumana</span> talked with the Buddha about <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Arahants</span> (AN.iii.348f). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sumana</span> (7) or (8).
+Sumana 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumana Thera</span> He is mentioned as having lived in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andhavana</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Khema</span>. Together they visited the Buddha, and, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Khema</span> had gone away, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sumana</span> talked with the Buddha about *Arahants* (AN.iii.348f). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sumana</span> (7) or (8).
 
 ## Vietnamese translation
 

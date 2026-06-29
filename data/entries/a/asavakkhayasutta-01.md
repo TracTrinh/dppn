@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asavakkhayasutta 01"
-link_candidates:
-  - "āsavas"
+link_candidates: []
 ---
 
 # Āsavakkhayasutta 01
 
 ## English source
 
-Āsavakkhayasutta 01. Five things, if practised, lead to the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span>: reflection on what is loathsome, the thought of disgust with regard to food, revulsion from all things, the perception of impermanence in all composite things and the thought of death. AN.iii.83.
+Āsavakkhayasutta 01. Five things, if practised, lead to the destruction of the *āsavas*: reflection on what is loathsome, the thought of disgust with regard to food, revulsion from all things, the perception of impermanence in all composite things and the thought of death. AN.iii.83.
 
 ## Vietnamese translation
 

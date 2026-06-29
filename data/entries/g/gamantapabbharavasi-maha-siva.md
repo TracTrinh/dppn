@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-siva-01"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3878
+  source_order: 3876
   source_anchor: 
 aliases:
   - "Gamantapabbharavasi Maha Siva"

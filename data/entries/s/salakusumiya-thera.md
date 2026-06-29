@@ -9,22 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12162
+  source_order: 12157
   source_anchor: 
 aliases:
   - "Salakusumiya Thera"
-link_candidates:
-  - "Arahant"
-  - "Sāla"
-  - "Thūpa"
-  - "kappas"
+link_candidates: []
 ---
 
 # Sālakusumiya Thera
 
 ## English source
 
-Sālakusumiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. One hundred thousand <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he offered a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Sāla</span> flower to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Thūpa</span> of a Buddha. Ap.ii.407.
+Sālakusumiya Thera. An *Arahant*. One hundred thousand *kappas* ago he offered a *Sāla* flower to the *Thūpa* of a Buddha. Ap.ii.407.
 
 ## Vietnamese translation
 

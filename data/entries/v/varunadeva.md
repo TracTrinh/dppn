@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10535
+  source_order: 10530
   source_anchor: 
 aliases:
   - "Varunadeva"

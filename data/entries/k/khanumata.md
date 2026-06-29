@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3636
+  source_order: 3634
   source_anchor: 
 aliases:
   - "Khanumata"

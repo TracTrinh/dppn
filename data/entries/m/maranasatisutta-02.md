@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8686
+  source_order: 8683
   source_anchor: 
 aliases:
   - "Maranasatisutta 02"

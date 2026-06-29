@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11324
+  source_order: 11319
   source_anchor: 
 aliases:
   - "Sangama"
@@ -17,14 +17,13 @@ link_candidates:
   - "Buddhaghosa"
   - "Kesī"
   - "Magadha"
-  - "Purohita"
 ---
 
 # Saṅgāma
 
 ## English source
 
-Saṅgāma. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Magadha</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Buddhaghosa</span>’s father, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kesī</span> was his <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Purohita</span>. Gv.66.
+Saṅgāma. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Magadha</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Buddhaghosa</span>’s father, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kesī</span> was his *Purohita*. Gv.66.
 
 ## Vietnamese translation
 

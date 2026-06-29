@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nilagalla-02"
 source:
   epub_file: "Ops/047.html"
-  source_order: 6687
+  source_order: 6684
   source_anchor: 
 aliases:
   - "Nilagiri"

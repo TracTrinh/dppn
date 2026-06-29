@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 12025
+  source_order: 12020
   source_anchor: 
 aliases:
   - "Sahayasutta"

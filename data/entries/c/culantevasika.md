@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4579
+  source_order: 4576
   source_anchor: 
 aliases:
   - "Culantevasika"

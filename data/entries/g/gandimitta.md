@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanhamitta"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3777
+  source_order: 3775
   source_anchor: 
 aliases:
   - "Gandimitta"

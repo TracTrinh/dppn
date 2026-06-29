@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5588
+  source_order: 5585
   source_anchor: 
 aliases:
   - "Ditthadhammikasutta"
 link_candidates:
   - "Kāludāyi"
-  - "diṭṭhadhammika-Nibbāna"
   - "Ānanda"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Diṭṭhadhammikasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kāludāyi</span> asks <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span>, who explains, what is meant by <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">diṭṭhadhammika-Nibbāna</span>. AN.iv.454.
+Diṭṭhadhammikasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kāludāyi</span> asks <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span>, who explains, what is meant by *diṭṭhadhammika-Nibbāna*. AN.iv.454.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6594
+  source_order: 6591
   source_anchor: 
 aliases:
   - "Nidanasutta 02"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vimalabuddhi-01"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9120
+  source_order: 9116
   source_anchor: 
 aliases:
   - "Maha Vimalabuddhi"

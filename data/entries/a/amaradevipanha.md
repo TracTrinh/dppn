@@ -19,18 +19,17 @@ link_candidates:
   - "Channapathapañha"
   - "Mahosadha"
   - "Ummaggajātaka"
-  - "Yena sattu bilaṅgā ca dviguṇapalāso ca pupphito, yenādāmi tena vadāmi yena nādāmi na tena vadāmi esa maggo yavamajjhakassa etaṁ channapathaṁ vijānāhī ti"
 ---
 
 # Amarādevīpañha
 
 ## English source
 
-Amarādevīpañha. The name given to the riddle in which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Amarā</span> tells <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahosadha</span> the way to her house: “<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Yena sattu bilaṅgā ca dviguṇapalāso ca pupphito, yenādāmi tena vadāmi yena nādāmi na tena vadāmi esa maggo yavamajjhakassa etaṁ channapathaṁ vijānāhī ti</span>.”
+Amarādevīpañha. The name given to the riddle in which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Amarā</span> tells <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahosadha</span> the way to her house: “*Yena sattu bilaṅgā ca dviguṇapalāso ca pupphito, yenādāmi tena vadāmi yena nādāmi na tena vadāmi esa maggo yavamajjhakassa etaṁ channapathaṁ vijānāhī ti*.”
 
 The scholiast explains it thus: entering the village you will see a cake shop and then a gruel shop; further on an ebony tree in flower, take a path to the right.
 
-This riddle referred to in Ja.i.425 as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Amarādevīpañha</span>, is, however, called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Channapathapañha</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ummaggajātaka</span> itself, where it actually occurs in the story. Ja.vi.365-6.
+This riddle referred to in Ja.i.425 as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Amarādevīpañha</span>, is, however, called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Channapathapañha</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ummaggajātaka</span> itself, where it actually occurs in the story. Ja.vi.365-6.
 
 ## Vietnamese translation
 

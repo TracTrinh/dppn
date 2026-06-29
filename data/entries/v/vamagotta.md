@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suravamagotta"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10646
+  source_order: 10641
   source_anchor: 
 aliases:
   - "Vamagotta"

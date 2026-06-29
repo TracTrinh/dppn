@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhuridattajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8063
+  source_order: 8060
   source_anchor: 
 aliases:
   - "Brahmadattakumara 14"

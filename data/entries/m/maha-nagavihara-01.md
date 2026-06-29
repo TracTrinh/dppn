@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nagamahavihara"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8923
+  source_order: 8919
   source_anchor: "a301"
 aliases:
   - "Maha Nagavihara 01"

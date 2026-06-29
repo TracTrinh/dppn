@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kosika-01"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3544
+  source_order: 3542
   source_anchor: 
 aliases: []
 link_candidates:

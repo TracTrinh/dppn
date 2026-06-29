@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ambatthala"
 source:
   epub_file: "Ops/035.html"
-  source_order: 4611
+  source_order: 4608
   source_anchor: 
 aliases: []
 link_candidates:

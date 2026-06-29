@@ -13,14 +13,15 @@ source:
   source_anchor: 
 aliases:
   - "Abhinnaparinneyyasutta"
-link_candidates: []
+link_candidates:
+  - "suffering"
 ---
 
 # Abhiññāpariññeyyasutta
 
 ## English source
 
-Abhiññāpariññeyyasutta. Everything should be known and comprehended as impermanent, suffering, void of self. SN.iv.29.
+Abhiññāpariññeyyasutta. Everything should be known and comprehended as impermanent, <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>, void of self. SN.iv.29.
 
 ## Vietnamese translation
 

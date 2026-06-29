@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bindusara"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10799
+  source_order: 10794
   source_anchor: 
 aliases:
   - "Vindusara"

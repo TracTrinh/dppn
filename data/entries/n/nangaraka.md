@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nagaraka"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6198
+  source_order: 6195
   source_anchor: 
 aliases:
   - "Nangaraka"

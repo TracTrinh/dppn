@@ -16,19 +16,17 @@ aliases:
 link_candidates:
   - "Aciravatī"
   - "Bhūta"
-  - "Brethren"
   - "Lenagiri"
   - "Loṇagiri"
   - "Sabbaka"
   - "Sappaka"
-  - "vihāra"
 ---
 
 # Ajakaraṇī
 
 ## English source
 
-Ajakaraṇī. The river on whose banks was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Loṇagiri</span> (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Lenagiri</span>) <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">vihāra</span> where lived the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sabbaka</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sappaka</span>) (Thag.307ff). Here also, in a cave, dwelt the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bhūta</span> (Thag.518f.; Thag­a.i.493f). This river was probably a branch of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Aciravatī</span>. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Brethren</span>, 187, n.2.
+Ajakaraṇī. The river on whose banks was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Loṇagiri</span> (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Lenagiri</span>) *vihāra* where lived the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sabbaka</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sappaka</span>) (Thag.307ff). Here also, in a cave, dwelt the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Bhūta</span> (Thag.518f.; Thag­a.i.493f). This river was probably a branch of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Aciravatī</span>. *Brethren*, 187, n.2.
 
 ## Vietnamese translation
 

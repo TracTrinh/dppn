@@ -13,19 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Indriyani Sutta"
-link_candidates:
-  - "indriyas"
-  - "saddhā"
-  - "samādhi"
-  - "sati"
-  - "viriya"
+link_candidates: []
 ---
 
 # Indriyāni Sutta
 
 ## English source
 
-Indriyāni Sutta. There are four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indriyas</span>: <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">saddhā</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">viriya</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">sati</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">samādhi</span> (AN.ii.141).
+Indriyāni Sutta. There are four *indriyas*: *saddhā*, *viriya*, *sati* and *samādhi* (AN.ii.141).
 
 ## Vietnamese translation
 

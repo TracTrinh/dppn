@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "hattha"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8131
+  source_order: 8128
   source_anchor: 
 aliases:
   - "Bhatta"

@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - ";"
   - "Citapūjaka"
   - "Sikhī Buddha"
 ---
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Ajita 09. A Brahmin, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Citapūjaka</span> Thera<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">;</span> he offered flowers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sikhī Buddha</span>. Ap.i.243.
+Ajita 09. A Brahmin, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Citapūjaka</span> Thera*;* he offered flowers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span>. Ap.i.243.
 
 ## Vietnamese translation
 

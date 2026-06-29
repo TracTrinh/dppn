@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalakasutta"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2866
+  source_order: 2865
   source_anchor: 
 aliases:
   - "Kalakaramasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13373
+  source_order: 13368
   source_anchor: 
 aliases:
   - "Sonarama"

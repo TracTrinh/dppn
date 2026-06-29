@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9156
+  source_order: 9152
   source_anchor: 
 aliases:
   - "Maha Salasutta 01"

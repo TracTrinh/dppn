@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Cakkavatti"
   - "Pāpanivāriya Thera"
-  - "kalpas"
 ---
 
 # Aggideva 03
 
 ## English source
 
-Aggideva 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cakkavatti</span> who lived eleven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kalpas</span> ago; a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pāpanivāriya Thera</span>. Ap.i.213.
+Aggideva 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cakkavatti</span> who lived eleven *kalpas* ago; a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pāpanivāriya Thera</span>. Ap.i.213.
 
 ## Vietnamese translation
 

@@ -13,14 +13,15 @@ source:
   source_anchor: 
 aliases:
   - "Uppadena Sutta"
-link_candidates: []
+link_candidates:
+  - "suffering"
 ---
 
 # Uppādena Sutta
 
 ## English source
 
-Uppādena Sutta. The uprising of the six sense objects – forms, sounds, etc. – is the uprising of suffering, the persisting of disease, the manifestation of decay and death. The cessation of the former leads to the disappearance of the latter. SN.iv.14.
+Uppādena Sutta. The uprising of the six sense objects – forms, sounds, etc. – is the uprising of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>, the persisting of disease, the manifestation of decay and death. The cessation of the former leads to the disappearance of the latter. SN.iv.14.
 
 ## Vietnamese translation
 

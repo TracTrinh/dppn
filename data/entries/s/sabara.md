@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sapara"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11649
+  source_order: 11644
   source_anchor: 
 aliases: []
 link_candidates:

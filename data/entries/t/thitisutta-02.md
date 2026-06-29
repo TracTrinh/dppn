@@ -9,19 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
-  source_order: 4984
+  source_order: 4981
   source_anchor: 
 aliases:
   - "Thitisutta 02"
 link_candidates:
-  - "satipaṭṭhāna"
+  - "Dhamma"
 ---
 
 # Ṭhitisutta 02
 
 ## English source
 
-Ṭhitisutta 02. When the Buddha has passed away, the Dhamma will last if people cultivate the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>s, not if they do not. SN.v.172.
+Ṭhitisutta 02. When the Buddha has passed away, the <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">Dhamma</span> will last if people cultivate the four *satipaṭṭhāna*s, not if they do not. SN.v.172.
 
 ## Vietnamese translation
 

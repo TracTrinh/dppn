@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "padavikkamana"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6971
+  source_order: 6968
   source_anchor: 
 aliases: []
 link_candidates:

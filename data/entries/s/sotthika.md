@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13357
+  source_order: 13352
   source_anchor: 
 aliases: []
 link_candidates:
   - "Sotthiya"
   - "Vessabhū Buddha"
-  - "seṭṭhi"
 ---
 
 # Sotthika
 
 ## English source
 
-Sotthika. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">seṭṭhi</span>, one of the chief lay patrons of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vessabhū Buddha</span>. Bv.xxii.25; Bv­a.208; but Ja.i.94 calls him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sotthiya</span>.
+Sotthika. A *seṭṭhi*, one of the chief lay patrons of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vessabhū Buddha</span>. Bv.xxii.25; Bv­a.208; but Ja.i.94 calls him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sotthiya</span>.
 
 ## Vietnamese translation
 

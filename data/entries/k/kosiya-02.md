@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "macchari-kosiya-01"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3542
+  source_order: 3540
   source_anchor: 
 aliases: []
 link_candidates:

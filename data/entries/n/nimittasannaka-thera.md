@@ -9,22 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6629
+  source_order: 6626
   source_anchor: 
 aliases:
   - "Nimittasannaka Thera"
 link_candidates:
-  - "Arahant"
   - "Araññasatta"
   - "Candabhāgā"
-  - "kappas"
 ---
 
 # Nimittasaññaka Thera
 
 ## English source
 
-Nimittasaññaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Ninety-four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he was a hermit on the banks of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Candabhāgā</span>, and, seeing a golden deer wandering in the forest, his mind turned to thoughts of the Buddhas. Twenty-seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappas</span> ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Araññasatta</span>. Ap.i.261.
+Nimittasaññaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a hermit on the banks of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Candabhāgā</span>, and, seeing a golden deer wandering in the forest, his mind turned to thoughts of the Buddhas. Twenty-seven *kappas* ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Araññasatta</span>. Ap.i.261.
 
 ## Vietnamese translation
 

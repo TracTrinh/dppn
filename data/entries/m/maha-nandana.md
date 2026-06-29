@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nandana"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8900
+  source_order: 8896
   source_anchor: 
 aliases:
   - "Maha Nandana"

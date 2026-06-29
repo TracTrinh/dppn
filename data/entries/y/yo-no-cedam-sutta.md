@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9788
+  source_order: 9783
   source_anchor: 
 aliases:
   - "Yo no cedam Sutta"

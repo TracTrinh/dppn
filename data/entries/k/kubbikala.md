@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kupikkala"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3158
+  source_order: 3157
   source_anchor: 
 aliases:
   - "Kubbikala"

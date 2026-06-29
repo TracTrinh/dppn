@@ -12,15 +12,14 @@ source:
   source_order: 2136
   source_anchor: 
 aliases: []
-link_candidates:
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Ekadhammasutta 01
 
 ## English source
 
-Ekadhammasutta 01. There is no other single condition which, when developed, is conducive to the abandonment of bonds as much as the seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.88.
+Ekadhammasutta 01. There is no other single condition which, when developed, is conducive to the abandonment of bonds as much as the seven *bojjhaṅgas*. SN.v.88.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mandissa"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9512
+  source_order: 9507
   source_anchor: 
 aliases:
   - "Mundiya"

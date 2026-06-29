@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Aparasutta 01"
-link_candidates:
-  - "bojjhaṅga"
+link_candidates: []
 ---
 
 # Apārasutta 01
 
 ## English source
 
-Apārasutta 01. The seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅga</span>, if cultivated, conduce to no more going to the hither or further shore. SN.v.81. On the name see KS.v.225, n.3.
+Apārasutta 01. The seven *bojjhaṅga*, if cultivated, conduce to no more going to the hither or further shore. SN.v.81. On the name see KS.v.225, n.3.
 
 ## Vietnamese translation
 

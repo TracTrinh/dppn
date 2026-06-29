@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sudatta-11"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12668
+  source_order: 12663
   source_anchor: 
 aliases: []
 link_candidates:

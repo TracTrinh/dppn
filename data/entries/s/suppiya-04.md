@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suppiya-02"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12875
+  source_order: 12870
   source_anchor: 
 aliases: []
 link_candidates:

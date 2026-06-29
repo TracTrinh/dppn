@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4844
+  source_order: 4841
   source_anchor: "a187"
 aliases:
   - "Jatiyavana"
 link_candidates:
-  - "Arahant"
   - "Bhaddaji"
   - "Bhaddiya"
   - "Buddhaghosa"
@@ -33,9 +32,9 @@ Jātiyāvana. A grove near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 The Buddha once stayed in Jātiyāvana for three months, waiting for the ripening of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bhaddaji</span>’s wisdom, ready for his conversion (Ja.ii.331; Thag­a.i.286).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Suttavibhaṅga</span> contains the story of an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Arahant</span> on whom a woman committed a misdemeanour while he was sleeping in Jātiyāvana (Vin.iii.37f).
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Suttavibhaṅga</span> contains the story of an *Arahant* on whom a woman committed a misdemeanour while he was sleeping in Jātiyāvana (Vin.iii.37f).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Buddhaghosa</span> says that the grove formed part of a forest track extending up to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Himālaya</span> (AN­a.ii.597).
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Buddhaghosa</span> says that the grove formed part of a forest track extending up to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Himālaya</span> (AN­a.ii.597).
 
 ## Vietnamese translation
 

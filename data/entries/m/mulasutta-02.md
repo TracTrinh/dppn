@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mulakasutta"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9559
+  source_order: 9554
   source_anchor: 
 aliases:
   - "Mulasutta 02"

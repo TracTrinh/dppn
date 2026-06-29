@@ -17,15 +17,13 @@ link_candidates:
   - "Dappula"
   - "Mālavatthu"
   - "Rohaṇa"
-  - "hemapaṭṭa"
-  - "uṇṇaloma"
 ---
 
 # Ariyākari
 
 ## English source
 
-Ariyākari. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rohaṇa</span> in South Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dappula</span> gave it to the village of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mālavatthu</span> and built therein an image house. He also had a valuable <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">uṇṇaloma</span> and a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">hemapaṭṭa</span> made for the image there. Cv.xlv.60-l.
+Ariyākari. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rohaṇa</span> in South Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dappula</span> gave it to the village of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mālavatthu</span> and built therein an image house. He also had a valuable *uṇṇaloma* and a *hemapaṭṭa* made for the image there. Cv.xlv.60-l.
 
 ## Vietnamese translation
 

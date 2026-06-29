@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12933
+  source_order: 12928
   source_anchor: 
 aliases:
   - "Subha 01"
 link_candidates:
   - "Appamāṇasubhā"
-  - "Brahmas"
   - "Parittasubhā"
   - "Subhakiṇhā"
 ---
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Subhā 01. A group of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Brahmas</span>; the group includes the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Parittasubhā</span>, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Appamāṇasubhā</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Subhakiṇhā</span>. MN.iii.102.
+Subhā 01. A group of *Brahmas*; the group includes the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parittasubhā</span>, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Appamāṇasubhā</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Subhakiṇhā</span>. MN.iii.102.
 
 ## Vietnamese translation
 

@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Khattiya"
   - "Maṅgala Buddha"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Uttara 15. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Khattiya</span>, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Maṅgala Buddha</span>. Bv.iv.22; Ja.i.34.
+Uttara 15. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Maṅgala Buddha</span>. Bv.iv.22; Ja.i.34.
 
 ## Vietnamese translation
 

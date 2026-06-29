@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Adukkhamasukhisutta"
-link_candidates:
-  - "suttantas"
+link_candidates: []
 ---
 
 # Adukkhamasukhīsutta
 
 ## English source
 
-Adukkhamasukhīsutta. A group of twenty-six <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">suttantas</span>, dealing with various heresies regarding the soul. SN.iii.220-2.
+Adukkhamasukhīsutta. A group of twenty-six *suttantas*, dealing with various heresies regarding the soul. SN.iii.220-2.
 
 ## Vietnamese translation
 

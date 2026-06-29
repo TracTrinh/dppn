@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6474
+  source_order: 6471
   source_anchor: 
 aliases:
   - "Nanattavagga"

@@ -18,14 +18,13 @@ link_candidates:
   - "Mithilā"
   - "Pañcālas"
   - "Vedeha"
-  - "q.v."
 ---
 
 # Upakārī 01
 
 ## English source
 
-Upakārī 01. A city of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pañcālas</span> (Ja.vi.448, 450, 458, 459). Here was the entrance to the tunnel through which King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vedeha</span> escaped to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mithilā</span>, as related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mahā Ummaggajātaka</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">q.v.</span>).
+Upakārī 01. A city of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pañcālas</span> (Ja.vi.448, 450, 458, 459). Here was the entrance to the tunnel through which King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vedeha</span> escaped to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mithilā</span>, as related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mahā Ummaggajātaka</span> (*q.v.*).
 
 ## Vietnamese translation
 

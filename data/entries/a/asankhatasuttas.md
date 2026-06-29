@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asankhatasuttas"
-link_candidates:
-  - "Suttas"
-  - "asaṅkhata"
+link_candidates: []
 ---
 
 # Asaṅkhatasuttas
 
 ## English source
 
-Asaṅkhatasuttas. A group of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> describing the way to the uncompounded (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">asaṅkhata</span>). SN.iv.362ff.
+Asaṅkhatasuttas. A group of *Suttas* describing the way to the uncompounded (*asaṅkhata*). SN.iv.362ff.
 
 ## Vietnamese translation
 

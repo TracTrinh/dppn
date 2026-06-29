@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anisamsasutta"
-link_candidates:
-  - "Sotāpattiphala"
+link_candidates: []
 ---
 
 # Ānisaṁsasutta
 
 ## English source
 
-Ānisaṁsasutta. On the six advantages of realizing the first fruit of the Path (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpattiphala</span>). AN.iii.441.
+Ānisaṁsasutta. On the six advantages of realizing the first fruit of the Path (*Sotāpattiphala*). AN.iii.441.
 
 ## Vietnamese translation
 

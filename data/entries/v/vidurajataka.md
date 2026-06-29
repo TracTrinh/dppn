@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sucirajataka"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10817
+  source_order: 10812
   source_anchor: 
 aliases:
   - "Vidurajataka"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11084
+  source_order: 11079
   source_anchor: 
 aliases:
   - "Vedanasutta 03"

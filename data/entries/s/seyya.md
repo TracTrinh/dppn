@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samyama"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13280
+  source_order: 13275
   source_anchor: 
 aliases: []
 link_candidates:

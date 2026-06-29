@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "munda"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9053
+  source_order: 9049
   source_anchor: 
 aliases:
   - "Maha Munda 01"

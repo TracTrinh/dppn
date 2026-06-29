@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-vajirabuddhi"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10361
+  source_order: 10356
   source_anchor: 
 aliases: []
 link_candidates:

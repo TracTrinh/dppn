@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
-  source_order: 5398
+  source_order: 5395
   source_anchor: 
 aliases:
   - "Theravada, Theravadins"

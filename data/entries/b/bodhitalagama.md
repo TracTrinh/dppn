@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 8010
+  source_order: 8007
   source_anchor: 
 aliases:
   - "Bodhitalagama"

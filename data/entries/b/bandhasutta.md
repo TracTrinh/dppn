@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vacchasutta"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7798
+  source_order: 7795
   source_anchor: 
 aliases: []
 link_candidates:

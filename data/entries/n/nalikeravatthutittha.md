@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6532
+  source_order: 6529
   source_anchor: 
 aliases:
   - "Nalikeravatthutittha"

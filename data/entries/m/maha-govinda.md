@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8806
+  source_order: 8803
   source_anchor: 
 aliases:
   - "Maha Govinda"
@@ -18,7 +18,6 @@ link_candidates:
   - "Mahā Govinda"
   - "Mandhātā"
   - "Rājagaha"
-  - "paṇḍita"
 ---
 
 # Mahā Govinda
@@ -27,7 +26,7 @@ link_candidates:
 
 Mahā Govinda. A primeval king, mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mandhātā</span> as reigning in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rājagaha</span>. Snp­a.ii.413; DN­a.i.132, etc.
 
-Vv-a.(p. 82) speaks of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Govinda</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">paṇḍita</span> by whom <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Rājagaha</span> was planned and built. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Jotipāla</span>.
+Vv-a.(p. 82) speaks of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Govinda</span> *paṇḍita* by whom <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Rājagaha</span> was planned and built. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jotipāla</span>.
 
 ## Vietnamese translation
 

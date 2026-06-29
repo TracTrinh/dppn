@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "alara-kalama"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2819
+  source_order: 2818
   source_anchor: 
 aliases:
   - "Kalama 01"

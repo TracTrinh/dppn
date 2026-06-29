@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sigalovadasutta"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12224
+  source_order: 12219
   source_anchor: 
 aliases:
   - "Sigala"

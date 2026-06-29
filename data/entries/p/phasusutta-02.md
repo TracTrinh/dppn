@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
-  source_order: 7756
+  source_order: 7753
   source_anchor: 
 aliases:
   - "Phasusutta 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12463
+  source_order: 12458
   source_anchor: 
 aliases:
   - "Sivala 03"

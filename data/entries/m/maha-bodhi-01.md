@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bodhirukkha"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9024
+  source_order: 9020
   source_anchor: 
 aliases:
   - "Maha Bodhi 01"

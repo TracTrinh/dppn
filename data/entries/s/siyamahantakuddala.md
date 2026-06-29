@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12266
+  source_order: 12261
   source_anchor: "a353"
 aliases:
   - "Siyamahantakuddala"

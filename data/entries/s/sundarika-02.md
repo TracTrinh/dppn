@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sundari-03"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12829
+  source_order: 12824
   source_anchor: 
 aliases:
   - "Sundarika 02"

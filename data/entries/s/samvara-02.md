@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11989
+  source_order: 11984
   source_anchor: 
 aliases:
   - "Samvara 02"

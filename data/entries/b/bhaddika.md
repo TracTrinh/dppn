@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhaddiya-03"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8171
+  source_order: 8168
   source_anchor: 
 aliases: []
 link_candidates:

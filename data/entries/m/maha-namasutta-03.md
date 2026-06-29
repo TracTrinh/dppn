@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "godhasutta"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8939
+  source_order: 8935
   source_anchor: 
 aliases:
   - "Maha Namasutta 03"

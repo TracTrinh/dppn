@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11346
+  source_order: 11341
   source_anchor: 
 aliases:
   - "Sanghadatta Thera"

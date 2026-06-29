@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12868
+  source_order: 12863
   source_anchor: 
 aliases:
   - "Suppadevi"

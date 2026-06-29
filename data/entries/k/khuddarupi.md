@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maddarupi"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3664
+  source_order: 3662
   source_anchor: 
 aliases:
   - "Khuddarupi"

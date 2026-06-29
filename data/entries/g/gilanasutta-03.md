@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3951
+  source_order: 3949
   source_anchor: 
 aliases:
   - "Gilanasutta 03"
-link_candidates:
-  - "anupādāparinibbāna"
+link_candidates: []
 ---
 
 # Gilānasutta 03
 
 ## English source
 
-Gilānasutta 03. The same as the above, except that the topic is final emancipation without grasping (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">anupādāparinibbāna</span>). SN.iv.47.
+Gilānasutta 03. The same as the above, except that the topic is final emancipation without grasping (*anupādāparinibbāna*). SN.iv.47.
 
 ## Vietnamese translation
 

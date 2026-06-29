@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5618
+  source_order: 5615
   source_anchor: 
 aliases:
   - "Dighacarikasutta"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Dīghacārikasuttā
 
 ## English source
 
-Dīghacārikasuttā. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on the five results arising from roving about. AN.iii.257.
+Dīghacārikasuttā. Two *Suttas* on the five results arising from roving about. AN.iii.257.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9208
+  source_order: 9204
   source_anchor: 
 aliases:
   - "Mahanoma"

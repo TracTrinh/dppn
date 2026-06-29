@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kandarayana"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3119
+  source_order: 3118
   source_anchor: 
 aliases:
   - "Kundarayana"

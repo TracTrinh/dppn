@@ -15,17 +15,13 @@ aliases:
   - "Upasampadavagga"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Pañcakanipāta"
-  - "Suttas"
-  - "nissaya"
-  - "upasampadā"
 ---
 
 # Upasampadāvagga
 
 ## English source
 
-Upasampadāvagga. The sixteenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Pañcakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Suttas</span> of this chapter deal with the qualities requisite for a monk who wishes to receive the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">upasampadā</span>, to give <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">nissaya</span>, to institute a novice, to become an official in the Saṅgha, etc. AN.iii.271-8.
+Upasampadāvagga. The sixteenth chapter of the *Pañcakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. The *Suttas* of this chapter deal with the qualities requisite for a monk who wishes to receive the *upasampadā*, to give *nissaya*, to institute a novice, to become an official in the Saṅgha, etc. AN.iii.271-8.
 
 ## Vietnamese translation
 

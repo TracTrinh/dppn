@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9472
+  source_order: 9467
   source_anchor: 
 aliases:
   - "Mihiranabibbila"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rohita-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10149
+  source_order: 10144
   source_anchor: 
 aliases:
   - "Rohini 07"

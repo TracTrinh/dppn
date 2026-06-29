@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6123
+  source_order: 6120
   source_anchor: 
 aliases:
   - "Dhatusutta 02"
-link_candidates:
-  - "dhātu"
+link_candidates: []
 ---
 
 # Dhātusutta 02
 
 ## English source
 
-Dhātusutta 02. On the diversity in <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dhātu</span> – e.g., object-<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">dhātu</span>, sound-<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">dhātu</span>, odour-<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">dhātu</span>, etc. SN.ii.143.
+Dhātusutta 02. On the diversity in *dhātu* – e.g., object-*dhātu*, sound-*dhātu*, odour-*dhātu*, etc. SN.ii.143.
 
 ## Vietnamese translation
 

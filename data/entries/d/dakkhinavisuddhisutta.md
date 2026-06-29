@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dakkhinasutta"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5422
+  source_order: 5419
   source_anchor: 
 aliases:
   - "Dakkhinavisuddhisutta"

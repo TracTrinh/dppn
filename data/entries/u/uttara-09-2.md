@@ -14,7 +14,6 @@ source:
 aliases:
   - "Uttara 09"
 link_candidates:
-  - "Aggasāvikā"
   - "Koṇāgamana Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Uttarā 09. A Brahmin lady, mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Koṇāgamana Buddha</span>, and also his <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Aggasāvikā</span>. Ja.i.43; DN.ii.7; Bv.xxiv.17, 23.
+Uttarā 09. A Brahmin lady, mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Koṇāgamana Buddha</span>, and also his *Aggasāvikā*. Ja.i.43; DN.ii.7; Bv.xxiv.17, 23.
 
 ## Vietnamese translation
 

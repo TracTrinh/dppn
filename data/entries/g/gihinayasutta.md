@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "balhagilayanasutta"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3963
+  source_order: 3961
   source_anchor: 
 aliases:
   - "Gihinayasutta"

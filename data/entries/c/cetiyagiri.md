@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cetiyapabbata"
 source:
   epub_file: "Ops/035.html"
-  source_order: 4607
+  source_order: 4604
   source_anchor: 
 aliases: []
 link_candidates:

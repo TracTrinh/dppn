@@ -14,19 +14,16 @@ source:
 aliases:
   - "Asanupatthayaka Thera"
 link_candidates:
-  - "Arahant"
   - "Atthadassī Buddha"
   - "Ramaṇīyakuṭika Thera"
   - "Sannibbāpakakhattiya"
-  - "kappas"
-  - "sīhāsana"
 ---
 
 # Āsanupaṭṭhāyaka Thera
 
 ## English source
 
-Āsanupaṭṭhāyaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. 118 <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago, in a previous birth, he had provided a seat (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">sīhāsana</span>) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Atthadassī Buddha</span> and had waited upon him. 107 <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">kappas</span> ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sannibbāpakakhattiya</span> (Ap.i.144). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ramaṇīyakuṭika Thera</span>. Thag­a.i.132ff.
+Āsanupaṭṭhāyaka Thera. An *Arahant*. 118 *kappas* ago, in a previous birth, he had provided a seat (*sīhāsana*) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Atthadassī Buddha</span> and had waited upon him. 107 *kappas* ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sannibbāpakakhattiya</span> (Ap.i.144). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ramaṇīyakuṭika Thera</span>. Thag­a.i.132ff.
 
 ## Vietnamese translation
 

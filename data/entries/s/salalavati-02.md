@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11959
+  source_order: 11954
   source_anchor: 
 aliases:
   - "Salalavati 02"

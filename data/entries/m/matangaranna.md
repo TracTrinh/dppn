@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9303
+  source_order: 9299
   source_anchor: 
 aliases:
   - "Matangaranna"

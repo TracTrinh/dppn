@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-padhanaghara"
 source:
   epub_file: "Ops/048.html"
-  source_order: 7035
+  source_order: 7032
   source_anchor: 
 aliases:
   - "Padhanaghara"

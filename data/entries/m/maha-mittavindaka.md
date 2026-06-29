@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "catudvarajataka"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9050
+  source_order: 9046
   source_anchor: 
 aliases:
   - "Maha Mittavindaka"

@@ -12,16 +12,14 @@ source:
   source_order: 38
   source_anchor: 
 aliases: []
-link_candidates:
-  - "agati"
-  - "gati"
+link_candidates: []
 ---
 
 # Agatisutta
 
 ## English source
 
-Agatisutta. Three discourses on <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">agati</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">gati</span> – here defined as wrong action done under the influence of desire, hate or delusion – and its opposite, right action. AN.ii.18f.
+Agatisutta. Three discourses on *agati* and *gati* – here defined as wrong action done under the influence of desire, hate or delusion – and its opposite, right action. AN.ii.18f.
 
 ## Vietnamese translation
 

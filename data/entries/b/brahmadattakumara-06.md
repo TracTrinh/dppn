@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhonasakhajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8055
+  source_order: 8052
   source_anchor: 
 aliases:
   - "Brahmadattakumara 06"

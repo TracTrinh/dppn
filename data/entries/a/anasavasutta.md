@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anasavasutta"
-link_candidates:
-  - "āsavas"
+link_candidates: []
 ---
 
 # Anāsavasutta
 
 ## English source
 
-Anāsavasutta. The Buddha teaches that which is free from <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span> and the way thereto. SN.iv.369.
+Anāsavasutta. The Buddha teaches that which is free from *āsavas* and the way thereto. SN.iv.369.
 
 ## Vietnamese translation
 

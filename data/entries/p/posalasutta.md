@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "posala"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7717
+  source_order: 7714
   source_anchor: 
 aliases:
   - "Posalasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12392
+  source_order: 12387
   source_anchor: 
 aliases:
   - "Simsapavana 01"

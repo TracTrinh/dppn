@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Saddatthabhedacintā"
   - "Sambhandhacintāṭīkā"
-  - "mahāṭīkā"
 ---
 
 # Abhaya 11
 
 ## English source
 
-Abhaya 11. Author of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">mahāṭīkā</span> on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saddatthabhedacintā</span> (Gv.63). He was a native of Pagan, and is also credited with the authorship of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sambhandhacintāṭīkā</span>. Bode, 22, and n.8.
+Abhaya 11. Author of the *mahāṭīkā* on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saddatthabhedacintā</span> (Gv.63). He was a native of Pagan, and is also credited with the authorship of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sambhandhacintāṭīkā</span>. Bode, 22, and n.8.
 
 ## Vietnamese translation
 

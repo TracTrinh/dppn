@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3310
+  source_order: 3308
   source_anchor: 
 aliases:
   - "Kutatissavihara"
 link_candidates:
-  - "Kuṭutisa-rad-maha-veher"
   - "Mahinda IV"
   - "Sena II"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Kūṭatissavihāra. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sena II</span>. gave to it a maintenance village. Cv.li.74. In the pillar inscription of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda IV</span>. in Polonnaruva it is mentioned as the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Kuṭutisa-rad-maha-veher</span> (Ep.Zey.ii.50).
+Kūṭatissavihāra. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sena II</span>. gave to it a maintenance village. Cv.li.74. In the pillar inscription of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda IV</span>. in Polonnaruva it is mentioned as the *Kuṭutisa-rad-maha-veher* (Ep.Zey.ii.50).
 
 ## Vietnamese translation
 

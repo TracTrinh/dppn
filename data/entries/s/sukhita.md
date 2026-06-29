@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "surakkhita"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12546
+  source_order: 12541
   source_anchor: 
 aliases: []
 link_candidates:

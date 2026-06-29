@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9189
+  source_order: 9185
   source_anchor: 
 aliases:
   - "Maha Summa Thera 02"

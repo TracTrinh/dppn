@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "velukajataka"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11165
+  source_order: 11160
   source_anchor: 
 aliases:
   - "Velukapita"

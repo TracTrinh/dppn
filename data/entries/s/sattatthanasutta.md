@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11488
+  source_order: 11483
   source_anchor: 
 aliases:
   - "Sattatthanasutta"
-link_candidates:
-  - "uttamapuriso"
-  - "vusitavā"
+link_candidates: []
 ---
 
 # Sattaṭṭhānasutta
 
 ## English source
 
-Sattaṭṭhānasutta. Seven points, skill in which makes a monk who is an investigator in three separate ways claim to accomplishment in the Dhammavinaya, one who has reached mastership (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vusitavā</span>), a superman (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">uttamapuriso</span>). SN.iii.61f.
+Sattaṭṭhānasutta. Seven points, skill in which makes a monk who is an investigator in three separate ways claim to accomplishment in the Dhammavinaya, one who has reached mastership (*vusitavā*), a superman (*uttamapuriso*). SN.iii.61f.
 
 ## Vietnamese translation
 

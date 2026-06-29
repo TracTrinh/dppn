@@ -14,16 +14,14 @@ source:
 aliases:
   - "Avijjapaccayasutta"
 link_candidates:
-  - "Paṭiccasamuppāda"
-  - "Suttas"
-  - "saṅkhārā"
+  - "volitions"
 ---
 
 # Avijjāpaccayasutta
 
 ## English source
 
-Avijjāpaccayasutta. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span>. Conditioned by ignorance, volitions (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">saṅkhārā</span>) come to pass, and so on for each factor of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Paṭiccasamuppāda</span>. SN.ii.60-3.
+Avijjāpaccayasutta. Two *Suttas*. Conditioned by ignorance, <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">volitions</span> (*saṅkhārā*) come to pass, and so on for each factor of the *Paṭiccasamuppāda*. SN.ii.60-3.
 
 ## Vietnamese translation
 

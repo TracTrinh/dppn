@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3568
+  source_order: 3566
   source_anchor: 
 aliases:
   - "Khantikakhipa"

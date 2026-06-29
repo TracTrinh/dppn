@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9687
+  source_order: 9682
   source_anchor: 
 aliases:
   - "Yanna"

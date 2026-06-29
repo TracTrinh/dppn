@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4111
+  source_order: 4109
   source_anchor: 
 aliases:
   - "Gola-upasaka"

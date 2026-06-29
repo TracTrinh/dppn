@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5114
+  source_order: 5111
   source_anchor: 
 aliases:
   - "Talapitthikavihara"
-link_candidates:
-  - "cetiya"
+link_candidates: []
 ---
 
 # Tālapiṭṭhikavihāra
 
 ## English source
 
-Tālapiṭṭhikavihāra. A monastery in Ceylon, where Gopakasīvali built a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">cetiya</span>. Vibh­a. p.156.
+Tālapiṭṭhikavihāra. A monastery in Ceylon, where Gopakasīvali built a *cetiya*. Vibh­a. p.156.
 
 ## Vietnamese translation
 

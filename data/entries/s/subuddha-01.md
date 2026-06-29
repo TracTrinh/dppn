@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "susuddha"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12889
+  source_order: 12884
   source_anchor: 
 aliases: []
 link_candidates:

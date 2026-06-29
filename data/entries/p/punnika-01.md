@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7563
+  source_order: 7560
   source_anchor: 
 aliases:
   - "Punnika 01"

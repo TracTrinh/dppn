@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
-  source_order: 7729
+  source_order: 7726
   source_anchor: 
 aliases:
   - "Phalaggaparivena"

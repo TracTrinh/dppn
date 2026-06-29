@@ -14,14 +14,14 @@ source:
 aliases:
   - "Iddhipadasutta 02"
 link_candidates:
-  - "iddhipādas"
+  - "Awakening"
 ---
 
 # Iddhipādasutta 02
 
 ## English source
 
-Iddhipādasutta 02. The Buddha, even as Bodhisatta, before the Awakening, developed the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādas</span> and exertion, and as a result enjoyed great psychic power. AN.iii.82-3.
+Iddhipādasutta 02. The Buddha, even as Bodhisatta, before the <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">Awakening</span>, developed the four *iddhipādas* and exertion, and as a result enjoyed great psychic power. AN.iii.82-3.
 
 ## Vietnamese translation
 

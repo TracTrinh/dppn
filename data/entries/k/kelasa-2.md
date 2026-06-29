@@ -9,24 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3346
+  source_order: 3344
   source_anchor: 
 aliases:
   - "Kelasa"
 link_candidates:
   - "Anotatta"
-  - "Epic Mythology passim"
   - "Himavā"
   - "Jambudīpa"
   - "Kanthaka"
   - "Kelāsa"
   - "Kelāsakūṭa"
-  - "Kinnaras"
   - "Kubera"
-  - "Mahā Vastu"
   - "Manosilātala"
   - "Siva"
-  - "s.v."
   - "Āḷavaka"
 ---
 
@@ -38,9 +34,9 @@ Kelāsa. A mountain range in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kelāsa</span> is often used in similes to describe an object that is perfectly white (e.g., Ja.iv.232; vi.490, 515; the horse <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Kanthaka</span>, Mbv.26; Dhp­a.i.192; Cv.lxxiii.114), very stately (e.g., an elephant’s head or a big building, Ja.i.321; v.52, 53; Cv.lxxviii.77), or difficult to destroy (e.g., Ja.v.39).
 
-In the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">Mahā Vastu</span> (ii.97, 109; see also iii.309, 438), Kailāśa is mentioned as the abode of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="11" data-dppn-term-class="t18">Kinnaras</span>.
+In the *Mahā Vastu* (ii.97, 109; see also iii.309, 438), Kailāśa is mentioned as the abode of the *Kinnaras*.
 
-In Sanskrit mythology, Kailāśa is given as the abode of the gods, chiefly <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Siva</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Kubera</span>. See, e.g., <span class="dppn-term dppn-term-t18" data-dppn-term-pos="14" data-dppn-term-class="t18">Epic Mythology passim</span> and Ved. Ind. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="15" data-dppn-term-class="t18">s.v.</span> The mountain range has been identified as belonging to the trans-Himālayan system and consisting of a group of mountains over twenty thousand feet in height (see Cv.Trs.i.280, n.4).
+In Sanskrit mythology, Kailāśa is given as the abode of the gods, chiefly <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Siva</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Kubera</span>. See, e.g., *Epic Mythology passim* and Ved. Ind. *s.v.* The mountain range has been identified as belonging to the trans-Himālayan system and consisting of a group of mountains over twenty thousand feet in height (see Cv.Trs.i.280, n.4).
 
 ## Vietnamese translation
 

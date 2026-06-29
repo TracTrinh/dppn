@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11655
+  source_order: 11650
   source_anchor: 
 aliases:
   - "Sabbakama"

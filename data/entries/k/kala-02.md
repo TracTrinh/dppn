@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2839
+  source_order: 2838
   source_anchor: 
 aliases:
   - "Kala 02"

@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7658
+  source_order: 7655
   source_anchor: 
 aliases:
   - "Puralasasutta"
 link_candidates:
   - "Sundarika Bhāradvājasutta"
-  - "q.v."
 ---
 
 # Pūraḷāsasutta
 
 ## English source
 
-Pūraḷāsasutta. Another name (Snp­a.ii.400) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sundarika Bhāradvājasutta</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>).
+Pūraḷāsasutta. Another name (Snp­a.ii.400) for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sundarika Bhāradvājasutta</span> (*q.v.*).
 
 ## Vietnamese translation
 

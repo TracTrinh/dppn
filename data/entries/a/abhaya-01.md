@@ -15,22 +15,19 @@ aliases: []
 link_candidates:
   - "Abhaya Thera"
   - "Apadāna"
-  - "Arahant"
   - "Nimmita"
   - "Sumedha Buddha"
   - "Sāvatthī"
   - "Vataṁsakiya"
-  - "kappas"
-  - "salala"
 ---
 
 # Abhaya 01
 
 ## English source
 
-Abhaya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Abhaya Thera</span>. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Arahant</span>. He was a Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāvatthī</span> who, having heard the Buddha preach, entered the Saṅgha. One day, while going to the village for alms, he was disturbed in mind by an attractively dressed woman, but he recollected himself and developed insight (Thag.v.98; Thag­a.i.201-2).
+Abhaya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Abhaya Thera</span>. An *Arahant*. He was a Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span> who, having heard the Buddha preach, entered the Saṅgha. One day, while going to the village for alms, he was disturbed in mind by an attractively dressed woman, but he recollected himself and developed insight (Thag.v.98; Thag­a.i.201-2).
 
-In a former birth he had met <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sumedha Buddha</span> in the forest and had offered him a wreath of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">salala</span>-flowers. Nineteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">kappas</span> ago he was born sixteen times as king, his name being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Nimmita</span>. He is probably to be identified with the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Vataṁsakiya</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Apadāna</span> (i.174).
+In a former birth he had met <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sumedha Buddha</span> in the forest and had offered him a wreath of *salala*-flowers. Nineteen *kappas* ago he was born sixteen times as king, his name being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Nimmita</span>. He is probably to be identified with the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vataṁsakiya</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Apadāna</span> (i.174).
 
 ## Vietnamese translation
 

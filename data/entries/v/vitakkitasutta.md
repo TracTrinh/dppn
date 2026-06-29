@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ayonisosutta-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10804
+  source_order: 10799
   source_anchor: 
 aliases: []
 link_candidates:

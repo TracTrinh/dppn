@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-paduma-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 7001
+  source_order: 6998
   source_anchor: 
 aliases: []
 link_candidates:

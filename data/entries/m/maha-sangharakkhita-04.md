@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9132
+  source_order: 9128
   source_anchor: 
 aliases:
   - "Maha Sangharakkhita 04"

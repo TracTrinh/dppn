@@ -9,21 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12397
+  source_order: 12392
   source_anchor: 
 aliases:
   - "Sihasanavijaniya Thera"
 link_candidates:
-  - "Arahant"
   - "Jambuka"
-  - "q.v."
 ---
 
 # Sihāsanavījaniya Thera
 
 ## English source
 
-Sihāsanavījaniya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jambuka</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">q.v.</span>). Ap.i.403.
+Sihāsanavījaniya Thera. An *Arahant*. He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jambuka</span> (*q.v.*). Ap.i.403.
 
 ## Vietnamese translation
 

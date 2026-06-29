@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8236
+  source_order: 8233
   source_anchor: 
 aliases:
   - "Bhagineyya Sangharakkhita 02"
-link_candidates:
-  - "Arahant"
+link_candidates: []
 ---
 
 # Bhāgineyya Saṅgharakkhita 02
 
 ## English source
 
-Bhāgineyya Saṅgharakkhita 02. A novice who ate hot food and burnt his tongue. His teacher warned him against such lack of restraint, and the novice, developing insight on that topic, became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Vsm., p. 45..
+Bhāgineyya Saṅgharakkhita 02. A novice who ate hot food and burnt his tongue. His teacher warned him against such lack of restraint, and the novice, developing insight on that topic, became an *Arahant*. Vsm., p. 45..
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kesi-01"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3356
+  source_order: 3354
   source_anchor: 
 aliases: []
 link_candidates:

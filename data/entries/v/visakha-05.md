@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10964
+  source_order: 10959
   source_anchor: 
 aliases:
   - "Visakha 05"

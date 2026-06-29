@@ -12,17 +12,14 @@ source:
   source_order: 194
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Dhamma"
-  - "adhamma"
-  - "paribbājaka"
+link_candidates: []
 ---
 
 # Ajita 02
 
 ## English source
 
-Ajita 02. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">paribbājaka</span> who visited the Buddha, and at whose instigation the Buddha preached to the Bhikkhus on the difference between <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Dhamma</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">adhamma</span>. AN.v.229ff.
+Ajita 02. A *paribbājaka* who visited the Buddha, and at whose instigation the Buddha preached to the Bhikkhus on the difference between *Dhamma* and *adhamma*. AN.v.229ff.
 
 ## Vietnamese translation
 

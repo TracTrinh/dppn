@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pamatta"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11736
+  source_order: 11731
   source_anchor: 
 aliases: []
 link_candidates:

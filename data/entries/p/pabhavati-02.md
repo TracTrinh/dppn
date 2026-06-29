@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7091
+  source_order: 7088
   source_anchor: 
 aliases:
   - "Pabhavati 02"

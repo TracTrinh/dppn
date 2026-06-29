@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "punnalakkhanadevi"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7550
+  source_order: 7547
   source_anchor: 
 aliases:
   - "Punnalakkhanadevi"

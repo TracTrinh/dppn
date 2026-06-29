@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10220
+  source_order: 10215
   source_anchor: 
 aliases:
   - "Labhagarahajataka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sikha-moggallana"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9646
+  source_order: 9641
   source_anchor: 
 aliases:
   - "Moggallana 09"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
-  source_order: 4949
+  source_order: 4946
   source_anchor: 
 aliases:
   - "Nanakatha"

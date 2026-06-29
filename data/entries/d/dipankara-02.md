@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "buddhappiya-01"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5667
+  source_order: 5664
   source_anchor: 
 aliases:
   - "Dipankara 02"

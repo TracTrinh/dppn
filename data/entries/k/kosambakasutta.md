@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kosambiyasutta"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3511
+  source_order: 3509
   source_anchor: 
 aliases: []
 link_candidates:

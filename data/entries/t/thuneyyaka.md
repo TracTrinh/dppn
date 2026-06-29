@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
-  source_order: 5379
+  source_order: 5376
   source_anchor: 
 aliases:
   - "Thuneyyaka"

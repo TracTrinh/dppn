@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11353
+  source_order: 11348
   source_anchor: 
 aliases:
   - "Sanghapala 02"

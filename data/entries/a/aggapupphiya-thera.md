@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Amita"
-  - "Arahants"
   - "Cakkavatti"
   - "Sikhī Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Aggapupphiya Thera. One of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahants</span>. In a previous birth he had offered flowers, from the top of a tree, to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span>, hence the name. In later birth he was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Cakkavatti</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Amita</span>. Ap.i.229.
+Aggapupphiya Thera. One of the *Arahants*. In a previous birth he had offered flowers, from the top of a tree, to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sikhī Buddha</span>, hence the name. In later birth he was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Amita</span>. Ap.i.229.
 
 ## Vietnamese translation
 

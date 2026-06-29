@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nalinikajataka"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6387
+  source_order: 6384
   source_anchor: 
 aliases:
   - "Nalinijataka"

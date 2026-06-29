@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 5908
+  source_order: 5905
   source_anchor: 
 aliases:
   - "Dhajadayaka Thera 01"

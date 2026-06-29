@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5120
+  source_order: 5117
   source_anchor: 
 aliases:
   - "Talipabbata"

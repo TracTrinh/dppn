@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6221
+  source_order: 6218
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Devaputta"
+link_candidates: []
 ---
 
 # Nanda 08
 
 ## English source
 
-Nanda 08. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Devaputta</span> who visited the Buddha and had a conversation with him. SN.i.62.
+Nanda 08. A *Devaputta* who visited the Buddha and had a conversation with him. SN.i.62.
 
 ## Vietnamese translation
 

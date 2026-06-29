@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gundavana"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2429
+  source_order: 2428
   source_anchor: 
 aliases:
   - "Kanhagundavana"

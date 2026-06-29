@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3206
+  source_order: 3205
   source_anchor: 
 aliases:
   - "Kumbhilajataka"

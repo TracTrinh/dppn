@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "giriguha"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3926
+  source_order: 3924
   source_anchor: 
 aliases:
   - "Giribraha"

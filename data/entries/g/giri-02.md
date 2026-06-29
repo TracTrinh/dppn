@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "giridipa"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3897
+  source_order: 3895
   source_anchor: 
 aliases: []
 link_candidates:

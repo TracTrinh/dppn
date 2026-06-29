@@ -13,6 +13,7 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
+  - "Awakening"
   - "Bhallika"
   - "Gotama Buddha"
   - "Sikhī Buddha"
@@ -24,7 +25,7 @@ link_candidates:
 
 ## English source
 
-Ojita. One of the two merchants, the other being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ujita</span>, leaders of caravans, who gave the first meal to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span> after his Awakening (Thag­a.i.48). They correspond to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tapassu</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Bhallika</span> in the account of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Gotama Buddha</span>.
+Ojita. One of the two merchants, the other being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ujita</span>, leaders of caravans, who gave the first meal to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span> after his <span class="dppn-term dppn-term-t20" data-dppn-term-pos="3" data-dppn-term-class="t20">Awakening</span> (Thag­a.i.48). They correspond to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Tapassu</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Bhallika</span> in the account of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Gotama Buddha</span>.
 
 ## Vietnamese translation
 

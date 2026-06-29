@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3663
+  source_order: 3661
   source_anchor: 
 aliases:
   - "Khuddaraja"

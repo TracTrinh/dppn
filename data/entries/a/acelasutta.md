@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Acela Kassapa"
   - "Acela Kassapa (3)"
-  - "paribbājaka"
 ---
 
 # Acelasutta
 
 ## English source
 
-Acelasutta 01. Contains a series of questions asked of the Buddha by a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">paribbājaka</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Acela Kassapa</span>, probably <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Acela Kassapa (3)</span>. SN.ii.18f.
+Acelasutta 01. Contains a series of questions asked of the Buddha by a *paribbājaka* named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Acela Kassapa</span>, probably <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Acela Kassapa (3)</span>. SN.ii.18f.
 
 ## Vietnamese translation
 

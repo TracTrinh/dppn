@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7612
+  source_order: 7609
   source_anchor: 
 aliases:
   - "Pubbangamaniya Thera"
-link_candidates:
-  - "Arahant"
-  - "kappas"
+link_candidates: []
 ---
 
 # Pubbaṅgamaniya Thera
 
 ## English source
 
-Pubbaṅgamaniya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Ninety-four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he was a leader of eighty-four thousand religieux and waited upon holy ones. Ap.i.243.
+Pubbaṅgamaniya Thera. An *Arahant*. Ninety-four *kappas* ago he was a leader of eighty-four thousand religieux and waited upon holy ones. Ap.i.243.
 
 ## Vietnamese translation
 

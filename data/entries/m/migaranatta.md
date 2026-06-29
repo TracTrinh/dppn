@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "salha-01"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9412
+  source_order: 9407
   source_anchor: 
 aliases:
   - "Migaranatta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kotamalaya"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3429
+  source_order: 3427
   source_anchor: 
 aliases:
   - "Kotthamalaya"

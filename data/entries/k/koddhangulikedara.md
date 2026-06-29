@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3454
+  source_order: 3452
   source_anchor: 
 aliases:
   - "Koddhangulikedara"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4441
+  source_order: 4438
   source_anchor: 
 aliases:
   - "Cunda Sukarika"

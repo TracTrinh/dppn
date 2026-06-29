@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ratanasutta-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 9867
+  source_order: 9862
   source_anchor: 
 aliases: []
 link_candidates:

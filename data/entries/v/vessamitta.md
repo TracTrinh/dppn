@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
-  source_order: 11196
+  source_order: 11191
   source_anchor: 
 aliases:
   - "Vessamitta"

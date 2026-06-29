@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10062
+  source_order: 10057
   source_anchor: 
 aliases:
   - "Rudradamaka"

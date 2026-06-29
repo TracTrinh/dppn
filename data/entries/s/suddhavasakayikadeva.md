@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12730
+  source_order: 12725
   source_anchor: 
 aliases:
   - "Suddhavasakayikadeva"

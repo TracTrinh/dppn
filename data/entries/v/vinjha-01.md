@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vijjha"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10785
+  source_order: 10780
   source_anchor: 
 aliases:
   - "Vinjha 01"

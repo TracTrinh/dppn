@@ -14,15 +14,14 @@ source:
 aliases:
   - "Ariyasutta"
 link_candidates:
-  - "ariyaniyyānikā"
-  - "iddhipādas"
+  - "suffering"
 ---
 
 # Ariyāsutta
 
 ## English source
 
-Ariyāsutta. The four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādas</span>, if cultivated, conduce to the utter destruction of suffering. They are <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ariyaniyyānikā</span>. SN.v.255.
+Ariyāsutta. The four *iddhipādas*, if cultivated, conduce to the utter destruction of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>. They are *ariyaniyyānikā*. SN.v.255.
 
 ## Vietnamese translation
 

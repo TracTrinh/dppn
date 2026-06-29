@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3460
+  source_order: 3458
   source_anchor: "a141"
 aliases:
   - "Kodhasutta 01"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Kodhasuttā 01
 
 ## English source
 
-Kodhasuttā 01. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on four persons showing regard to wrath, hypocrisy, gain and honour, and on the effect of these four qualities. AN.ii.46.
+Kodhasuttā 01. Two *Suttas* on four persons showing regard to wrath, hypocrisy, gain and honour, and on the effect of these four qualities. AN.ii.46.
 
 ## Vietnamese translation
 

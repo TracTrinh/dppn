@@ -15,9 +15,7 @@ aliases:
   - "Uggahamana Samana Mandikaputta"
 link_candidates:
   - "Buddhaghosa"
-  - "Further Dialogues"
   - "Mallikā"
-  - "Paribbājaka"
   - "Pañcakaṅga"
   - "Samayappavādaka"
   - "Samaṇa Maṇḍikāsutta"
@@ -26,19 +24,17 @@ link_candidates:
   - "Sumanā"
   - "Sāvatthī"
   - "Uggāhamāna"
-  - "muṇḍikā"
-  - "thapati"
 ---
 
 # Uggāhamāna Samaṇa Maṇḍikāputta
 
 ## English source
 
-Uggāhamāna Samaṇa Maṇḍikāputta. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Paribbājaka</span>. Once when he was staying near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mallikā</span>’s pleasance at the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Samayappavādaka</span> hall, the carpenter (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">thapati</span>), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Pañcakaṅga</span>, on his way to see the Buddha, visited him and had a conversation with him, which conversation <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Pañcakaṅga</span> later reported to the Buddha (MN.ii.22f). The details are given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Samaṇa Maṇḍikāsutta</span>.
+Uggāhamāna Samaṇa Maṇḍikāputta. A *Paribbājaka*. Once when he was staying near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mallikā</span>’s pleasance at the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Samayappavādaka</span> hall, the carpenter (*thapati*), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Pañcakaṅga</span>, on his way to see the Buddha, visited him and had a conversation with him, which conversation <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Pañcakaṅga</span> later reported to the Buddha (MN.ii.22f). The details are given in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Samaṇa Maṇḍikāsutta</span>.
 
-According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Buddhaghosa</span> (MN­a.ii.710), the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">Paribbājaka</span>’s original name was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Sumana</span>, but he was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Uggāhamāna</span> because he had the ability to learn a few things (because he was always learning things?).
+According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Buddhaghosa</span> (MN­a.ii.710), the *Paribbājaka*’s original name was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Sumana</span>, but he was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Uggāhamāna</span> because he had the ability to learn a few things (because he was always learning things?).
 
-Chalmers (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="13" data-dppn-term-class="t18">Further Dialogues</span> ii.12n) suggests that perhaps his mother’s name was originally <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Sumanā</span> and that it was altered to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Samaṇā</span>, just as there is the further tendency to read <span class="dppn-term dppn-term-t18" data-dppn-term-pos="16" data-dppn-term-class="t18">muṇḍikā</span> for the second part, in order to make her name mean “shaveling recluse” on familiar Pāli analogy.
+Chalmers (*Further Dialogues* ii.12n) suggests that perhaps his mother’s name was originally <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Sumanā</span> and that it was altered to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Samaṇā</span>, just as there is the further tendency to read *muṇḍikā* for the second part, in order to make her name mean “shaveling recluse” on familiar Pāli analogy.
 
 ## Vietnamese translation
 

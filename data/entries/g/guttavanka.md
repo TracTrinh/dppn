@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3978
+  source_order: 3976
   source_anchor: 
 aliases:
   - "Guttavanka"

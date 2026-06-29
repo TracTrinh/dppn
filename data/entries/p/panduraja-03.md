@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6936
+  source_order: 6933
   source_anchor: 
 aliases:
   - "Panduraja 03"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8377
+  source_order: 8374
   source_anchor: 
 aliases:
   - "Bhesakalavana"
@@ -18,11 +18,9 @@ link_candidates:
   - "Bhagga"
   - "Bhesakalā"
   - "Bhesakalāvana"
-  - "Bhīsanikāvana"
   - "Bodhi"
   - "Buddhavaṁsa Commentary"
   - "Ceti"
-  - "Divyāvadāna"
   - "Gotama Buddha"
   - "Kokanada"
   - "Mahā Moggallāna"
@@ -33,8 +31,6 @@ link_candidates:
   - "Pācīnavaṁsadāya"
   - "Siṅgālapitā"
   - "Suṁsumāragiri"
-  - "Yakkhinī"
-  - "vassa"
 ---
 
 # Bhesakalāvana
@@ -51,11 +47,11 @@ It was while staying in this grove that <span class="dppn-term dppn-term-t14" da
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Siṅgālapitā</span> is said to have retired to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Bhesakalāvana</span> for his meditations (Thag­a.i.70).
 
-The grove received its name from the fact that its presiding spirit was a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="17" data-dppn-term-class="t18">Yakkhinī</span> called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Bhesakalā</span> (SN­a.ii.181).
+The grove received its name from the fact that its presiding spirit was a *Yakkhinī* called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Bhesakalā</span> (SN­a.ii.181).
 
-According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Buddhavaṁsa Commentary</span> (Bv­a.3), the Buddha spent the eighth <span class="dppn-term dppn-term-t18" data-dppn-term-pos="20" data-dppn-term-class="t18">vassa</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Bhesakalāvana</span>.
+According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Buddhavaṁsa Commentary</span> (Bv­a.3), the Buddha spent the eighth *vassa* at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Bhesakalāvana</span>.
 
-The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="22" data-dppn-term-class="t18">Divyāvadāna</span> calls it <span class="dppn-term dppn-term-t18" data-dppn-term-pos="23" data-dppn-term-class="t18">Bhīsanikāvana</span>. Divy.182.
+The *Divyāvadāna* calls it *Bhīsanikāvana*. Divy.182.
 
 ## Vietnamese translation
 

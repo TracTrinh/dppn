@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanakapabbata"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2335
+  source_order: 2334
   source_anchor: 
 aliases:
   - "Kancanapabbata 02"

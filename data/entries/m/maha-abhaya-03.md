@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8746
+  source_order: 8743
   source_anchor: 
 aliases:
   - "Maha Abhaya 03"
-link_candidates:
-  - "Uddalokaka"
-  - "Vihāra"
+link_candidates: []
 ---
 
 # Mahā Abhaya 03
 
 ## English source
 
-Mahā Abhaya 03. A monk of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Uddalokaka</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Vihāra</span>. Ras.ii.1.f.
+Mahā Abhaya 03. A monk of *Uddalokaka* *Vihāra*. Ras.ii.1.f.
 
 ## Vietnamese translation
 

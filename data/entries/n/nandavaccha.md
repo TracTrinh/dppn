@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nanda-13"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6272
+  source_order: 6269
   source_anchor: 
 aliases: []
 link_candidates:

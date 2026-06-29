@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6129
+  source_order: 6126
   source_anchor: 
 aliases:
   - "Dhatusena 01"

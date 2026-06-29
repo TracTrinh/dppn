@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5244
+  source_order: 5241
   source_anchor: 
 aliases: []
-link_candidates:
-  - "lekhācariya"
+link_candidates: []
 ---
 
 # Tissa 18
 
 ## English source
 
-Tissa 18. A master of writing (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">lekhācariya</span>). Even after his death he was known by reason of his writing. Mil., p.70; see JRAS.xii.159.
+Tissa 18. A master of writing (*lekhācariya*). Even after his death he was known by reason of his writing. Mil., p.70; see JRAS.xii.159.
 
 ## Vietnamese translation
 

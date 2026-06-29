@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Atinivasasutta"
-link_candidates:
-  - "atinivāsa"
+link_candidates: []
 ---
 
 # Atinivāsasutta
 
 ## English source
 
-Atinivāsasutta. The five evil results of long dwelling (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">atinivāsa</span>). AN.iii.258.
+Atinivāsasutta. The five evil results of long dwelling (*atinivāsa*). AN.iii.258.
 
 ## Vietnamese translation
 

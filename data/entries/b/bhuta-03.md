@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8352
+  source_order: 8349
   source_anchor: 
 aliases:
   - "Bhuta 03"

@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9622
+  source_order: 9617
   source_anchor: 
 aliases:
   - "Medhankara 03"
 link_candidates:
-  - "Araññaka"
   - "Medhaṅkara"
   - "Medhaṅkara Thera"
   - "Parakkamabāhu III"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Medhaṅkara 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Medhaṅkara Thera</span>. Called <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Araññaka</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Medhaṅkara</span>. He presided over the Council held by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Parakkamabāhu III</span>. PLC.213.
+Medhaṅkara 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Medhaṅkara Thera</span>. Called *Araññaka* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Medhaṅkara</span>. He presided over the Council held by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Parakkamabāhu III</span>. PLC.213.
 
 ## Vietnamese translation
 

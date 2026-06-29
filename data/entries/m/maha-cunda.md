@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cunda-01"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8811
+  source_order: 8808
   source_anchor: 
 aliases:
   - "Maha Cunda"

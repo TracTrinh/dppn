@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2305
+  source_order: 2304
   source_anchor: 
 aliases:
   - "Kaccani 02"

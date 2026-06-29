@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vajira-03"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10364
+  source_order: 10359
   source_anchor: 
 aliases: []
 link_candidates:

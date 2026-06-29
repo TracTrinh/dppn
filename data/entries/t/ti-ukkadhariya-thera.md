@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5308
+  source_order: 5305
   source_anchor: 
 aliases:
   - "Ti-ukkadhariya Thera"
 link_candidates:
-  - "Arahant"
   - "Padumuttara Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Ti-ukkādhāriya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Once in the past he lit three torches, which he stood holding, at the foot of the Bodhi-tree of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padumuttara Buddha</span>. Ap.ii.404.
+Ti-ukkādhāriya Thera. An *Arahant*. Once in the past he lit three torches, which he stood holding, at the foot of the Bodhi-tree of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padumuttara Buddha</span>. Ap.ii.404.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4875
+  source_order: 4872
   source_anchor: 
 aliases:
   - "Jivaka 02"

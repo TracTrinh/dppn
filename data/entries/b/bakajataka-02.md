@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7776
+  source_order: 7773
   source_anchor: 
 aliases:
   - "Bakajataka 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12192
+  source_order: 12187
   source_anchor: 
 aliases:
   - "Saluka"

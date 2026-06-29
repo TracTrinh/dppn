@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dathasiva-02"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5549
+  source_order: 5546
   source_anchor: 
 aliases:
   - "Dathopatissa 01"

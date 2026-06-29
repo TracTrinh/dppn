@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2605
+  source_order: 2604
   source_anchor: 
 aliases:
   - "Karavitthavilatta"

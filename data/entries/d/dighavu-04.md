@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dighayu-01"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5660
+  source_order: 5657
   source_anchor: 
 aliases:
   - "Dighavu 04"

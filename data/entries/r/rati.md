@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9887
+  source_order: 9882
   source_anchor: 
 aliases:
   - "Rati"
 link_candidates:
   - "Māra"
-  - "q.v."
 ---
 
 # Ratī
 
 ## English source
 
-Ratī. One of the daughters of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Māra</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>).
+Ratī. One of the daughters of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Māra</span> (*q.v.*).
 
 ## Vietnamese translation
 

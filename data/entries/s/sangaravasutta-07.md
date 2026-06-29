@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11334
+  source_order: 11329
   source_anchor: 
 aliases:
   - "Sangaravasutta 07"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sineru"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9159
+  source_order: 9155
   source_anchor: 
 aliases:
   - "Maha Sineru"

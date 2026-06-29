@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5585
+  source_order: 5582
   source_anchor: 
 aliases:
   - "Dasiya 02"

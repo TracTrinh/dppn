@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sakunovadasutta"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11222
+  source_order: 11217
   source_anchor: 
 aliases:
   - "Sakunagghisutta"

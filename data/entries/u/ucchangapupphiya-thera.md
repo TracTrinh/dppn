@@ -14,7 +14,6 @@ source:
 aliases:
   - "Ucchangapupphiya Thera"
 link_candidates:
-  - "Arahant"
   - "Bandhumatī"
   - "Vipassī Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ucchaṅgapupphiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vipassī Buddha</span> he was a garland-maker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Bandhumatī</span>. He saw the Buddha walking along the street with a large following of monks, and taking a flower from his lap he offered it to the Buddha. Ap.ii.374-5.
+Ucchaṅgapupphiya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vipassī Buddha</span> he was a garland-maker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bandhumatī</span>. He saw the Buddha walking along the street with a large following of monks, and taking a flower from his lap he offered it to the Buddha. Ap.ii.374-5.
 
 ## Vietnamese translation
 

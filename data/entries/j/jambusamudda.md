@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jambudipa"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4778
+  source_order: 4775
   source_anchor: 
 aliases: []
 link_candidates:

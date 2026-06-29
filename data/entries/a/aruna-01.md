@@ -18,7 +18,6 @@ link_candidates:
   - "Apadāna"
   - "Aruṇa"
   - "Aruṇavā"
-  - "Khattiya"
   - "Pabhāvatī"
   - "Saṁyuttanikāya"
   - "Sikhī Buddha"
@@ -30,7 +29,7 @@ link_candidates:
 
 ## English source
 
-Aruṇa 01. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Khattiya</span>, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span> and husband of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pabhāvatī</span> (Bv.xxi.15; Ja.i.41; AN­a.i.436). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aruṇa</span>’s chief queen became the Therī <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Abhayā</span> in the present age (Thīg­a.41). Another of his wives became, in her last life, the Therī <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Somā</span> (Thīg­a.66), who is perhaps to be identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Uppaladāyikā</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Apadāna</span> (Ap.ii.601f). In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.i.155) he is called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Aruṇavā</span>.
+Aruṇa 01. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sikhī Buddha</span> and husband of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pabhāvatī</span> (Bv.xxi.15; Ja.i.41; AN­a.i.436). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aruṇa</span>’s chief queen became the Therī <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Abhayā</span> in the present age (Thīg­a.41). Another of his wives became, in her last life, the Therī <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Somā</span> (Thīg­a.66), who is perhaps to be identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Uppaladāyikā</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Apadāna</span> (Ap.ii.601f). In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.i.155) he is called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Aruṇavā</span>.
 
 ## Vietnamese translation
 

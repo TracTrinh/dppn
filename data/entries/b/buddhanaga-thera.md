@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7942
+  source_order: 7939
   source_anchor: 
 aliases:
   - "Buddhanaga Thera"

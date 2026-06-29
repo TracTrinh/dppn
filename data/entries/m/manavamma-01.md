@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mana-01"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9290
+  source_order: 9286
   source_anchor: 
 aliases:
   - "Manavamma 01"

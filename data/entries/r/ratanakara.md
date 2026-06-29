@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9877
+  source_order: 9872
   source_anchor: 
 aliases:
   - "Ratanakara"

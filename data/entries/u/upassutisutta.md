@@ -15,13 +15,14 @@ aliases: []
 link_candidates:
   - "Giñjakāvasatha"
   - "Nāṭikā"
+  - "suffering"
 ---
 
 # Upassutisutta
 
 ## English source
 
-Upassutisutta. Once when the Buddha was staying in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Giñjakāvasatha</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nāṭikā</span>, he meditated in solitude and uttered a teaching setting forth how, from the objects and the senses, arise consciousness and contact and, ultimately, the whole body of suffering. A certain monk overheard this, and when the Buddha saw him, he asked the monk to learn the discourse by heart and bear it in mind, because it would lead to the righteous life. SN.iv.90f.
+Upassutisutta. Once when the Buddha was staying in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Giñjakāvasatha</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nāṭikā</span>, he meditated in solitude and uttered a teaching setting forth how, from the objects and the senses, arise consciousness and contact and, ultimately, the whole body of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="3" data-dppn-term-class="t20">suffering</span>. A certain monk overheard this, and when the Buddha saw him, he asked the monk to learn the discourse by heart and bear it in mind, because it would lead to the righteous life. SN.iv.90f.
 
 ## Vietnamese translation
 

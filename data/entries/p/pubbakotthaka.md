@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pubbakotthaka"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7609
+  source_order: 7606
   source_anchor: 
 aliases:
   - "Pubbakotthaka"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8273
+  source_order: 8270
   source_anchor: 
 aliases:
   - "Bhikkhadayika 01"

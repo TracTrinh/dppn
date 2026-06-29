@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "buddhakula"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7945
+  source_order: 7942
   source_anchor: 
 aliases:
   - "Buddhapita"

@@ -17,7 +17,6 @@ link_candidates:
   - "Ajātasattu"
   - "Anuruddhaka"
   - "Buddhaghosa"
-  - "Divyāvadāna"
   - "Dīpavaṁsa"
   - "Kāḷāsoka"
   - "Mahā Bodhivaṁsa"
@@ -38,9 +37,9 @@ Udāyibhadda (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Buddhaghosa</span> explains (DN­a.i.153) this thought by saying that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ajātasattu</span> feared that his son might follow his own example and kill him as he had killed his own father. His fears were justified, for he was killed by his son <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Udāyibhadda</span>, who reigned for sixteen years.
 
-The latter, in his turn, was killed by his son <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Anuruddhaka</span> (Mhv.iv.1ff. According to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="9" data-dppn-term-class="t18">Divyāvadāna</span> his son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Muṇḍa</span>).
+The latter, in his turn, was killed by his son <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Anuruddhaka</span> (Mhv.iv.1ff. According to the *Divyāvadāna* his son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Muṇḍa</span>).
 
-It was in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Udāyibhadda</span>’s eighth year that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Vijaya</span>, king of Ceylon, died, and in his fifteenth year that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Paṇḍuvasudeva</span> came to the throne (Vin-a.i.72). The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Dīpavaṁsa</span> (iv.38; v.97; xi.8) calls him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Udaya</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Mahā Bodhivaṁsa</span> (p.96), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Udayabhadda</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Kāḷāsoka</span>.
+It was in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Udāyibhadda</span>’s eighth year that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Vijaya</span>, king of Ceylon, died, and in his fifteenth year that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Paṇḍuvasudeva</span> came to the throne (Vin-a.i.72). The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Dīpavaṁsa</span> (iv.38; v.97; xi.8) calls him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Udaya</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Mahā Bodhivaṁsa</span> (p.96), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Udayabhadda</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Kāḷāsoka</span>.
 
 ## Vietnamese translation
 

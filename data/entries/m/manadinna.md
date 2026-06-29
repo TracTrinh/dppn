@@ -9,14 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9339
+  source_order: 9335
   source_anchor: 
 aliases:
   - "Manadinna"
 link_candidates:
   - "Rājagaha"
-  - "orambhāgiyasaṁyojanā"
-  - "satipaṭṭhāna"
   - "Ānanda"
 ---
 
@@ -24,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Mānadinna. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span>. When he lay ill he was visited by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span>, to whom he confessed that even in his illness he practiced the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">satipaṭṭhāna</span>. He was quite free from the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">orambhāgiyasaṁyojanā</span>. SN.v.178.
+Mānadinna. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span>. When he lay ill he was visited by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span>, to whom he confessed that even in his illness he practiced the four *satipaṭṭhāna*. He was quite free from the five *orambhāgiyasaṁyojanā*. SN.v.178.
 
 ## Vietnamese translation
 

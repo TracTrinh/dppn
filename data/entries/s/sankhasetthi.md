@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sankha-01"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11310
+  source_order: 11305
   source_anchor: 
 aliases:
   - "Sankhasetthi"

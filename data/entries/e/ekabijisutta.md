@@ -15,16 +15,15 @@ aliases:
   - "Ekabijisutta"
 link_candidates:
   - "Ekābhiññāsutta"
-  - "indriyāni"
 ---
 
 # Ekabījīsutta
 
 ## English source
 
-Ekabījīsutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ekābhiññāsutta</span>. On the five controlling powers (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">indriyāni</span>) – faith, energy, mindfulness, concentration, and insight – and the results that follow from cultivating these to a greater or lesser degree (SN.v.204).
+Ekabījīsutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ekābhiññāsutta</span>. On the five controlling powers (*indriyāni*) – faith, energy, mindfulness, concentration, and insight – and the results that follow from cultivating these to a greater or lesser degree (SN.v.204).
 
-The text calls this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ekābhiññāsutta</span>, but without authority. See KS.v.180, n.1.
+The text calls this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ekābhiññāsutta</span>, but without authority. See KS.v.180, n.1.
 
 ## Vietnamese translation
 

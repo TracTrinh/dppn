@@ -9,11 +9,12 @@ status: "redirect"
 redirect_to: "dighasandana"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4519
+  source_order: 4516
   source_anchor: 
 aliases:
   - "Cula Pasada"
 link_candidates:
+  - "Cūla Pāsāda"
   - "Dīghasaṇḍana"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Pāsāda, Cūla Pāsāda. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dīghasaṇḍana</span>.
+Cūḷa Pāsāda, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Pāsāda</span>. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dīghasaṇḍana</span>.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12436
+  source_order: 12431
   source_anchor: 
 aliases:
   - "Silavimamsanajataka 02"

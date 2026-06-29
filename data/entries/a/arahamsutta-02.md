@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Arahamsutta 02"
-link_candidates:
-  - "Arahant"
-  - "upādānakkhandhā"
+link_candidates: []
 ---
 
 # Arahaṁsutta 02
 
 ## English source
 
-Arahaṁsutta 02. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span> is one who has really seen the arising, ending, etc., of the five grasping groups (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">upādānakkhandhā</span>). SN.iii.161.
+Arahaṁsutta 02. An *Arahant* is one who has really seen the arising, ending, etc., of the five grasping groups (*upādānakkhandhā*). SN.iii.161.
 
 ## Vietnamese translation
 

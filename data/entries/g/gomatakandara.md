@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4104
+  source_order: 4102
   source_anchor: 
 aliases:
   - "Gomatakandara"

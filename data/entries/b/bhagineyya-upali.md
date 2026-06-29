@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "upali-02"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8234
+  source_order: 8231
   source_anchor: 
 aliases:
   - "Bhagineyya Upali"

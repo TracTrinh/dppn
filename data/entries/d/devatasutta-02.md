@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5802
+  source_order: 5799
   source_anchor: 
 aliases:
   - "Devatasutta 02"

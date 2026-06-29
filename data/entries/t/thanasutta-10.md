@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
-  source_order: 4981
+  source_order: 4978
   source_anchor: 
 aliases:
   - "Thanasutta 10"

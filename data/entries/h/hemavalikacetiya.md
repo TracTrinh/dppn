@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-thupa"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13577
+  source_order: 13571
   source_anchor: 
 aliases:
   - "Hemavalikacetiya"

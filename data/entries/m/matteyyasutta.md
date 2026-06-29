@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8601
+  source_order: 8598
   source_anchor: 
 aliases:
   - "Matteyyasutta"

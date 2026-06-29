@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalinga-bharadvaja"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2830
+  source_order: 2829
   source_anchor: 
 aliases:
   - "Kalinga 07"

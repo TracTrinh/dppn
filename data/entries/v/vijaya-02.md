@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vijayakumara"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10730
+  source_order: 10725
   source_anchor: 
 aliases: []
 link_candidates:

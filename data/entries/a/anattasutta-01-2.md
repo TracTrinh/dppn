@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anattasutta 01"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Anattāsutta 01
 
 ## English source
 
-Anattāsutta 01. All the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> are without the self. The Ariyan disciple feels revulsion towards them realising that, for him, there is no hereafter (SN.iii.21).
+Anattāsutta 01. All the *khandhas* are without the self. The Ariyan disciple feels revulsion towards them realising that, for him, there is no hereafter (SN.iii.21).
 
 ## Vietnamese translation
 

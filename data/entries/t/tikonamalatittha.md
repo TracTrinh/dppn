@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5139
+  source_order: 5136
   source_anchor: 
 aliases:
   - "Tikonamalatittha"

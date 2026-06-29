@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 8008
+  source_order: 8005
   source_anchor: 
 aliases:
   - "Bodhigutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12522
+  source_order: 12517
   source_anchor: 
 aliases:
   - "Siha Theri"

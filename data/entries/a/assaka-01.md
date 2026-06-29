@@ -15,7 +15,6 @@ aliases: []
 link_candidates:
   - "Dudīpa"
   - "Nimijātaka"
-  - "Peta"
   - "Sela"
   - "Sāgara"
 ---
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Assaka 01. A king mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nimijātaka</span> (Ja 541), in a list of kings, such as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dudīpa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāgara</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sela</span>, etc., who, in spite of all their great sacrifices, were not able to go beyond the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Peta</span>-world. Ja.vi.99.
+Assaka 01. A king mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nimijātaka</span> (Ja 541), in a list of kings, such as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dudīpa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāgara</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sela</span>, etc., who, in spite of all their great sacrifices, were not able to go beyond the *Peta*-world. Ja.vi.99.
 
 ## Vietnamese translation
 

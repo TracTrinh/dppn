@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanhadipayana-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2427
+  source_order: 2426
   source_anchor: 
 aliases:
   - "Kanha 07"

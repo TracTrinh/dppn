@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Bhesajjamañjūsā"
   - "Pañcamūla Pariveṇa"
-  - "Pāli Literature"
 ---
 
 # Atthadassī 04
 
 ## English source
 
-Atthadassī 04. A Thera in Ceylon, supposed by some to be the author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhesajjamañjūsā</span> and to have been the head of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pañcamūla Pariveṇa</span>. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Pāli Literature</span> of Ceylon, 215.
+Atthadassī 04. A Thera in Ceylon, supposed by some to be the author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhesajjamañjūsā</span> and to have been the head of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pañcamūla Pariveṇa</span>. *Pāli Literature* of Ceylon, 215.
 
 ## Vietnamese translation
 

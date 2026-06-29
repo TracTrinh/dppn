@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10789
+  source_order: 10784
   source_anchor: 
 aliases:
   - "Vinnanasutta 02"
 link_candidates:
   - "Rāhula"
-  - "Suttas"
 ---
 
 # Viññāṇasutta 02
 
 ## English source
 
-Viññāṇasutta 02. One of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> taught by the Buddha to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rāhula</span>. Consciousness is fleeting. SN.ii.246.
+Viññāṇasutta 02. One of the *Suttas* taught by the Buddha to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rāhula</span>. Consciousness is fleeting. SN.ii.246.
 
 ## Vietnamese translation
 

@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3229
+  source_order: 3228
   source_anchor: 
 aliases: []
-link_candidates:
-  - "pañcasīla"
+link_candidates: []
 ---
 
 # Kurudhamma
 
 ## English source
 
-Kurudhamma. = the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">pañcasīla</span>
+Kurudhamma. = the *pañcasīla*
 
 ## Vietnamese translation
 

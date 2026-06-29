@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3328
+  source_order: 3326
   source_anchor: 
 aliases:
   - "Kekaraja"

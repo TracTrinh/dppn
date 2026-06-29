@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tissa-31"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5579
+  source_order: 5576
   source_anchor: 
 aliases:
   - "Darubhatikatissa"

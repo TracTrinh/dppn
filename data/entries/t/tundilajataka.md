@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5317
+  source_order: 5314
   source_anchor: "a200"
 aliases:
   - "Tundilajataka"
 link_candidates:
-  - "Arahant"
   - "Benares"
   - "Bhaddavaggiyā"
   - "Cūḷa Tuṇḍila"
@@ -32,9 +31,9 @@ The woman loved them like her own children and refused to sell them, but, one da
 
 The story was related in reference to a monk who was in constant terror of the thought of death. The monk was identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Cūḷa Tuṇḍila</span> (Ja.iii.286ff).
 
-It is said (Dhp­a.i.83) that the lewd men were identical with the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Bhaddavaggiyā</span>. Having heard <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Tuṇḍila</span> preach the five precepts, they observed them for sixty thousand years, hence their attainment of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="11" data-dppn-term-class="t18">Arahant</span>-ship in their last birth.
+It is said (Dhp­a.i.83) that the lewd men were identical with the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Bhaddavaggiyā</span>. Having heard <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Tuṇḍila</span> preach the five precepts, they observed them for sixty thousand years, hence their attainment of *Arahant*-ship in their last birth.
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Mahā Tuṇḍila</span>’s preaching is referred to as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Tuṇḍilovāda</span>.
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Mahā Tuṇḍila</span>’s preaching is referred to as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Tuṇḍilovāda</span>.
 
 ## Vietnamese translation
 

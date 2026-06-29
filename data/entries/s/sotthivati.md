@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13363
+  source_order: 13358
   source_anchor: 
 aliases:
   - "Sotthivati"

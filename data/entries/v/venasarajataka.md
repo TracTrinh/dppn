@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhonasakhajataka"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11111
+  source_order: 11106
   source_anchor: 
 aliases:
   - "Venasarajataka"

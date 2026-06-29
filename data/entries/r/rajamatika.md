@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9952
+  source_order: 9947
   source_anchor: 
 aliases:
   - "Rajamatika"

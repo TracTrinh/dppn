@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bodhitissa"
 source:
   epub_file: "Ops/052.html"
-  source_order: 8012
+  source_order: 8009
   source_anchor: 
 aliases:
   - "Bodhitissavihara"

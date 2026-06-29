@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13433
+  source_order: 13428
   source_anchor: 
 aliases:
   - "Sora Lankagiri"

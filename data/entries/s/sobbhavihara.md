@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13379
+  source_order: 13374
   source_anchor: 
 aliases:
   - "Sobbhavihara"

@@ -1,0 +1,57 @@
+(function () {
+  function fold(value) {
+    return String(value || "")
+      .replace(/\u00ad/g, "")
+      .normalize("NFKD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase();
+  }
+
+  function relPath(fromPath, toPath) {
+    var fromParts = String(fromPath || "index.html").split("/");
+    fromParts.pop();
+    var toParts = String(toPath || "index.html").split("/");
+    while (fromParts.length && toParts.length && fromParts[0] === toParts[0]) {
+      fromParts.shift();
+      toParts.shift();
+    }
+    var rel = "../".repeat(fromParts.length) + toParts.join("/");
+    return rel || "index.html";
+  }
+
+  function init(input) {
+    var results = input.parentElement.querySelector("[data-search-results]");
+    var index = (window.DPPN_SEARCH || []).map(function (item) {
+      return Object.assign({}, item, {
+        folded: fold([item.id, item.headword, item.base_headword].join(" "))
+      });
+    });
+
+    input.addEventListener("input", function () {
+      var query = fold(input.value.trim());
+      if (query.length < 2) {
+        results.hidden = true;
+        results.innerHTML = "";
+        return;
+      }
+      var matches = index.filter(function (item) {
+        return item.folded.indexOf(query) !== -1;
+      }).slice(0, 12);
+      results.innerHTML = matches.map(function (item) {
+        return '<a href="' + relPath(window.DPPN_CURRENT_PATH, item.path) + '#' + item.anchor + '"><span>' + item.headword + '</span><small>' + item.letter + '</small></a>';
+      }).join("");
+      results.hidden = matches.length === 0;
+    });
+  }
+
+  document.querySelectorAll("[data-search]").forEach(init);
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "/" && !/input|textarea/i.test(document.activeElement.tagName)) {
+      var input = document.querySelector("[data-search]");
+      if (input) {
+        event.preventDefault();
+        input.focus();
+      }
+    }
+  });
+})();

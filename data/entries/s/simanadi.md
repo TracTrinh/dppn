@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12417
+  source_order: 12412
   source_anchor: 
 aliases:
   - "Simanadi"

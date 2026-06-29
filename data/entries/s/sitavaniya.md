@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sambhuta-01"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12402
+  source_order: 12397
   source_anchor: 
 aliases:
   - "Sitavaniya"

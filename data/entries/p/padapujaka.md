@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "padapujaka"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6972
+  source_order: 6969
   source_anchor: 
 aliases:
   - "Padapujaka"

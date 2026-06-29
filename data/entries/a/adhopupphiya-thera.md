@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Abhibhū"
-  - "Arahant"
   - "Himavā"
   - "Sikhī Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Adhopupphiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In a previous birth he was a hermit of great power in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Himavā</span> and offered flowers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Abhibhū</span>, the chief disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sikhī Buddha</span>. Soon afterwards he was eaten up by a boa-constrictor. Ap.i.128-9.
+Adhopupphiya Thera. An *Arahant*. In a previous birth he was a hermit of great power in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Himavā</span> and offered flowers to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Abhibhū</span>, the chief disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sikhī Buddha</span>. Soon afterwards he was eaten up by a boa-constrictor. Ap.i.128-9.
 
 ## Vietnamese translation
 

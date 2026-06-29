@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7215
+  source_order: 7212
   source_anchor: 
 aliases:
   - "Palasinasutta"

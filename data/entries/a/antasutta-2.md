@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Antasutta"
-link_candidates:
-  - "Sakkāya"
+link_candidates: []
 ---
 
 # Antāsutta
 
 ## English source
 
-Antāsutta. The four separate divisions: <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sakkāya</span>, its arising, ceasing, and the way thereto. SN.iii.157-8.
+Antāsutta. The four separate divisions: *Sakkāya*, its arising, ceasing, and the way thereto. SN.iii.157-8.
 
 ## Vietnamese translation
 

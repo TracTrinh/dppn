@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kapila-04"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2527
+  source_order: 2526
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2764
+  source_order: 2763
   source_anchor: 
 aliases:
   - "Katiyani 02"

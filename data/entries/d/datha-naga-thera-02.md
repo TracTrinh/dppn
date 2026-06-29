@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5527
+  source_order: 5524
   source_anchor: 
 aliases:
   - "Datha Naga Thera 02"

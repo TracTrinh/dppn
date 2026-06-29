@@ -15,14 +15,13 @@ aliases:
   - "Anagamitheravatthu"
 link_candidates:
   - "Suddhāvāsā"
-  - "anāgāmi"
 ---
 
 # Anāgāmitheravatthu
 
 ## English source
 
-Anāgāmitheravatthu. Story of a monk who became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">anāgāmi</span>; when asked by his pupils, however, he did not say anything regarding his attainment. After death he was born in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suddhāvāsā</span>. His pupils, grieving for him in their ignorance, were enlightened by the Buddha. Dhp­a.iii.288-9.
+Anāgāmitheravatthu. Story of a monk who became *anāgāmi*; when asked by his pupils, however, he did not say anything regarding his attainment. After death he was born in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suddhāvāsā</span>. His pupils, grieving for him in their ignorance, were enlightened by the Buddha. Dhp­a.iii.288-9.
 
 ## Vietnamese translation
 

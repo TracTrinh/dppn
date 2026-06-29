@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mettagu-thera"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9595
+  source_order: 9590
   source_anchor: 
 aliases:
   - "Mettagupuccha"

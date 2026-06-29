@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cula-dhanuggaha-01"
 source:
   epub_file: "Ops/035.html"
-  source_order: 4585
+  source_order: 4582
   source_anchor: 
 aliases:
   - "Culupatthaka"

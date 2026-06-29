@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3167
+  source_order: 3166
   source_anchor: 
 aliases:
   - "Kumara Kassapatheravatthu"
 link_candidates:
   - "Kumāra Kassapa"
-  - "q.v."
 ---
 
 # Kumāra Kassapatheravatthu
 
 ## English source
 
-Kumāra Kassapatheravatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kumāra Kassapa</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>) and his mother. Dhp­a.iii.144ff.
+Kumāra Kassapatheravatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kumāra Kassapa</span> (*q.v.*) and his mother. Dhp­a.iii.144ff.
 
 ## Vietnamese translation
 

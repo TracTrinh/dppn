@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanhagotamaka"
 source:
   epub_file: "Ops/032.html"
-  source_order: 4048
+  source_order: 4046
   source_anchor: 
 aliases: []
 link_candidates:

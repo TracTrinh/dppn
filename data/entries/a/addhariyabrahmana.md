@@ -14,7 +14,6 @@ source:
 aliases:
   - "Addhariyabrahmana"
 link_candidates:
-  - "Brahma"
   - "Tevijjasutta"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Addhariyābrāhmaṇā. The word occurs in a list of Brahmin teachers in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tevijjasutta</span> (DN.i.237). They teach a state of union with <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Brahma</span>. These are evidently Adhvaryu Brahmins.
+Addhariyābrāhmaṇā. The word occurs in a list of Brahmin teachers in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tevijjasutta</span> (DN.i.237). They teach a state of union with *Brahma*. These are evidently Adhvaryu Brahmins.
 
 ## Vietnamese translation
 

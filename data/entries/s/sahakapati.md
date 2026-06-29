@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sahampati"
 source:
   epub_file: "Ops/068.html"
-  source_order: 12001
+  source_order: 11996
   source_anchor: 
 aliases: []
 link_candidates:

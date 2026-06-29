@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gunajataka"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12487
+  source_order: 12482
   source_anchor: 
 aliases:
   - "Sihajataka"

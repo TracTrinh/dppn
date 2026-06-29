@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 5942
+  source_order: 5939
   source_anchor: 
 aliases:
   - "Dhanapali"

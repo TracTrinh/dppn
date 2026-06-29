@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
-  source_order: 7770
+  source_order: 7767
   source_anchor: 
 aliases:
   - "Pheggu"

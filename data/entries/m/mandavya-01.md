@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8578
+  source_order: 8575
   source_anchor: 
 aliases:
   - "Mandavya 01"

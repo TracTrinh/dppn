@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vikkamabahu-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10708
+  source_order: 10703
   source_anchor: 
 aliases:
   - "Vikkantabahu"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vaddhasutta"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7601
+  source_order: 7598
   source_anchor: 
 aliases: []
 link_candidates:

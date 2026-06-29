@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tisucullasa"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5183
+  source_order: 5180
   source_anchor: 
 aliases: []
 link_candidates:

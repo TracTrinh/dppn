@@ -9,13 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12874
+  source_order: 12869
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Arahant"
   - "Kassapa Buddha"
-  - "Khattiya"
   - "Padumuttara Buddha"
   - "Sopāka"
   - "Suppiya Thera"
@@ -27,9 +25,9 @@ link_candidates:
 
 ## English source
 
-Suppiya 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suppiya Thera</span>. He was born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span> in a family of cemetery keepers. Converted by the preaching of his friend, the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sopāka</span>, he entered the Saṅgha and attained <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>-ship.
+Suppiya 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suppiya Thera</span>. He was born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span> in a family of cemetery keepers. Converted by the preaching of his friend, the Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sopāka</span>, he entered the Saṅgha and attained *Arahant*-ship.
 
-In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Padumuttara Buddha</span> he was a Brahmin, named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Varuṇa</span>, who left his ten children and became an ascetic in the forest. There he met the Buddha and his monks and gave them fruit. He belonged to a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Khattiya</span> family in the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kassapa Buddha</span>, but through pride of birth and learning used to detract his colleagues hence his birth in a low caste in his last life. Thag.vs.32; Thag­a.i.92f.; Ap.i.452f.
+In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Padumuttara Buddha</span> he was a Brahmin, named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Varuṇa</span>, who left his ten children and became an ascetic in the forest. There he met the Buddha and his monks and gave them fruit. He belonged to a *Khattiya* family in the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kassapa Buddha</span>, but through pride of birth and learning used to detract his colleagues hence his birth in a low caste in his last life. Thag.vs.32; Thag­a.i.92f.; Ap.i.452f.
 
 ## Vietnamese translation
 

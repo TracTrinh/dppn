@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mittavindaka-01"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9434
+  source_order: 9429
   source_anchor: 
 aliases: []
 link_candidates:

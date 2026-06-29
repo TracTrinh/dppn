@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Ekanipāta"
 ---
 
 # Appamattakavagga
 
 ## English source
 
-Appamattakavagga. The nineteenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ekanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. In the spiritual world, by analogy with nature, only a few are selected out of many who will be lost. AN.i.35-8.
+Appamattakavagga. The nineteenth chapter of the *Ekanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. In the spiritual world, by analogy with nature, only a few are selected out of many who will be lost. AN.i.35-8.
 
 ## Vietnamese translation
 

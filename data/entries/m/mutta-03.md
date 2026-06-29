@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9516
+  source_order: 9511
   source_anchor: 
 aliases:
   - "Mutta 03"
-link_candidates:
-  - "upāsikā"
+link_candidates: []
 ---
 
 # Muttā 03
 
 ## English source
 
-Muttā 03. An eminent <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">upāsikā</span>, mentioned in a list of such. AN.iv.347; AN­a.ii.791.
+Muttā 03. An eminent *upāsikā*, mentioned in a list of such. AN.iv.347; AN­a.ii.791.
 
 ## Vietnamese translation
 

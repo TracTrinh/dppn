@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3130
+  source_order: 3129
   source_anchor: 
 aliases:
   - "Kundali 04"

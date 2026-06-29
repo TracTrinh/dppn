@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samantapasadika-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10845
+  source_order: 10840
   source_anchor: 
 aliases:
   - "Vinayatthakatha"

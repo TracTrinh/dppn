@@ -14,19 +14,16 @@ source:
 aliases:
   - "Ekadipiya Thera 01"
 link_candidates:
-  - "Arahant"
   - "Devas"
   - "Ekadīpi"
   - "Siddhattha Buddha"
-  - "Thūpa"
-  - "kappas"
 ---
 
 # Ekadīpiya Thera 01
 
 ## English source
 
-Ekadīpiya Thera 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Ninety-four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he kept a lamp lighted all night near the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Thūpa</span> built over the relics of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Siddhattha Buddha</span>. For seventy-seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">kappas</span> he was in heaven and was thirty-one times king of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Devas</span>. Twenty-eight times be was king among men. His body shone like the sun, and he could see a distance of one hundred leagues. His palace in heaven was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ekadīpi</span>. He entered the Saṅgha at the age of four (?) and in a fortnight became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Arahant</span>. Ap.ii.373.
+Ekadīpiya Thera 01. An *Arahant*. Ninety-four *kappas* ago he kept a lamp lighted all night near the *Thūpa* built over the relics of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span>. For seventy-seven *kappas* he was in heaven and was thirty-one times king of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devas</span>. Twenty-eight times be was king among men. His body shone like the sun, and he could see a distance of one hundred leagues. His palace in heaven was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ekadīpi</span>. He entered the Saṅgha at the age of four (?) and in a fortnight became an *Arahant*. Ap.ii.373.
 
 ## Vietnamese translation
 

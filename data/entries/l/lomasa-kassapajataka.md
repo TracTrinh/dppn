@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10290
+  source_order: 10285
   source_anchor: 
 aliases:
   - "Lomasa Kassapajataka"

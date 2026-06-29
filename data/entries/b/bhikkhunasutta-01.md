@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8277
+  source_order: 8274
   source_anchor: 
 aliases:
   - "Bhikkhunasutta 01"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pancavudhajataka"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6835
+  source_order: 6832
   source_anchor: 
 aliases:
   - "Pancavudhakumara"

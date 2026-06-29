@@ -16,9 +16,7 @@ aliases:
 link_candidates:
   - "Koṭṭhitasutta"
   - "Mahā Koṭṭhita"
-  - "Sutta"
   - "Uddāna"
-  - "Vagga"
   - "Ānanda"
 ---
 
@@ -26,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Ānandasutta 13. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Koṭṭhita</span> with regard to what happens after the passionless, remainderless ending of the six spheres of contact. AN.ii.162. The PTS text puts this under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Koṭṭhitasutta</span>, but both the Commentary and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Uddāna</span> at the end of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Vagga</span> treat it as a separate <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Sutta</span>.
+Ānandasutta 13. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Koṭṭhita</span> with regard to what happens after the passionless, remainderless ending of the six spheres of contact. AN.ii.162. The PTS text puts this under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Koṭṭhitasutta</span>, but both the Commentary and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Uddāna</span> at the end of the *Vagga* treat it as a separate *Sutta*.
 
 ## Vietnamese translation
 

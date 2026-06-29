@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kuraraghara"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3247
+  source_order: 3246
   source_anchor: 
 aliases: []
 link_candidates:

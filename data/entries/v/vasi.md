@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10587
+  source_order: 10582
   source_anchor: 
 aliases:
   - "Vasi"
-link_candidates:
-  - "Mahā Brahmā"
+link_candidates: []
 ---
 
 # Vasī
 
 ## English source
 
-Vasī. An epithet of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Mahā Brahmā</span>, e.g., Ja.vi.201.
+Vasī. An epithet of *Mahā Brahmā*, e.g., Ja.vi.201.
 
 ## Vietnamese translation
 

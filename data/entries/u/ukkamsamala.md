@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ukkamsamala"
-link_candidates:
-  - "Likhananaya"
-  - "Vaṇṇabodhana"
+link_candidates: []
 ---
 
 # Ukkaṁsamāla
 
 ## English source
 
-Ukkaṁsamāla. A learned monk of Ava. He was well versed in literature and wrote two books dealing with the Pāḷi language, the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Vaṇṇabodhana</span> and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Likhananaya</span> (Sās., p.120).
+Ukkaṁsamāla. A learned monk of Ava. He was well versed in literature and wrote two books dealing with the Pāḷi language, the *Vaṇṇabodhana* and the *Likhananaya* (Sās., p.120).
 
 ## Vietnamese translation
 

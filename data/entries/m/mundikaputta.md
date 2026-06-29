@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mandikaputta"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9510
+  source_order: 9505
   source_anchor: 
 aliases:
   - "Mundikaputta"

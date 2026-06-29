@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "udena-01"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10607
+  source_order: 10602
   source_anchor: 
 aliases:
   - "Vamsaraja"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8675
+  source_order: 8672
   source_anchor: 
 aliases:
   - "Manyagama"

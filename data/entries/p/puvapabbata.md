@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7660
+  source_order: 7657
   source_anchor: 
 aliases:
   - "Puvapabbata"

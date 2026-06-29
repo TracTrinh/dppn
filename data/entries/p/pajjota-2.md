@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "candappajjota"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6772
+  source_order: 6769
   source_anchor: 
 aliases: []
 link_candidates:

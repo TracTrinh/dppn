@@ -16,7 +16,6 @@ aliases:
 link_candidates:
   - "Buddhaghosa"
   - "Kassapa Buddha"
-  - "Sutta"
   - "Tissa"
   - "Āmagandha"
 ---
@@ -27,7 +26,7 @@ link_candidates:
 
 Āmagandhasutta. The conversation between the Buddha and the Brahmin <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āmagandha</span> mentioned above (Sn.42ff). According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Buddhaghosa</span> (Snp-a.i.280ff) this was merely a reproduction of the conversation of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kassapa Buddha</span> with the ascetic <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Tissa</span>, who later became his chief disciple.
 
-The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Sutta</span> is particularly interesting as being one of the few passages in which sayings of the previous Buddhas are recorded. The Buddha’s view is put forward as being identical with that which had been enunciated long ago, with the intended implication that it was a self-evident proposition accepted by all the wise.
+The *Sutta* is particularly interesting as being one of the few passages in which sayings of the previous Buddhas are recorded. The Buddha’s view is put forward as being identical with that which had been enunciated long ago, with the intended implication that it was a self-evident proposition accepted by all the wise.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6183
+  source_order: 6180
   source_anchor: 
 aliases:
   - "Nakhasikhasutta 02"

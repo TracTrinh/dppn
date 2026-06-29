@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6911
+  source_order: 6908
   source_anchor: 
 aliases:
   - "Pandavavana"

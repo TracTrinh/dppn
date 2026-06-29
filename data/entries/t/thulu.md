@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bumu"
 source:
   epub_file: "Ops/040.html"
-  source_order: 4987
+  source_order: 4984
   source_anchor: 
 aliases:
   - "Thulu"

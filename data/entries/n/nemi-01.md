@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nimi-01"
 source:
   epub_file: "Ops/047.html"
-  source_order: 6703
+  source_order: 6700
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2767
+  source_order: 2766
   source_anchor: 
 aliases:
   - "Kapilani"

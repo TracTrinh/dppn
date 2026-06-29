@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Abhinnasutta 02"
-link_candidates:
-  - "Suttas"
-  - "rāga"
+link_candidates: []
 ---
 
 # Abhiññāsutta 02
 
 ## English source
 
-Abhiññāsutta 02. A group of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on qualities that could be obtained by an understanding of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">rāga</span> (lust). AN.iii.277.
+Abhiññāsutta 02. A group of *Suttas* on qualities that could be obtained by an understanding of *rāga* (lust). AN.iii.277.
 
 ## Vietnamese translation
 

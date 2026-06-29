@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12630
+  source_order: 12625
   source_anchor: 
 aliases:
   - "Sutana 01"

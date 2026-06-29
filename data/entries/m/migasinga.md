@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "isisinga"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9401
+  source_order: 9396
   source_anchor: 
 aliases:
   - "Migasinga"

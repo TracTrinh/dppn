@@ -14,7 +14,6 @@ source:
 aliases:
   - "Ekasanadayaka Thera 01"
 link_candidates:
-  - "Arahant"
   - "Ekāsanadāyaka"
   - "Kassapa"
   - "Kosika"
@@ -25,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Ekāsanadāyaka Thera 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padumuttara Buddha</span> he was an ascetic named Nārada <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kassapa</span>, living near the mountain <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kosika</span>. Once he saw the Buddha walking through the forest, and having provided him with a seat, spoke words in praise of him. The Buddha preached to him a short sermon. Fifty times <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ekāsanadāyaka</span> became king of the gods and eighty times he ruled over men. Wherever he wished he could find a seat, even in the forest or in a river (Ap.ii.381f).
+Ekāsanadāyaka Thera 01. An *Arahant*. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padumuttara Buddha</span> he was an ascetic named Nārada <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kassapa</span>, living near the mountain <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kosika</span>. Once he saw the Buddha walking through the forest, and having provided him with a seat, spoke words in praise of him. The Buddha preached to him a short sermon. Fifty times <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ekāsanadāyaka</span> became king of the gods and eighty times he ruled over men. Wherever he wished he could find a seat, even in the forest or in a river (Ap.ii.381f).
 
 ## Vietnamese translation
 

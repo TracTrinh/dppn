@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3207
+  source_order: 3206
   source_anchor: 
 aliases:
   - "Kumbhilavanaka"

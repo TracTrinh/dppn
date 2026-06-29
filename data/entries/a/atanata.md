@@ -15,7 +15,6 @@ aliases:
   - "Atanata"
 link_candidates:
   - "Kusināṭā"
-  - "Nāṭāpuriyā"
   - "Parakusināṭā"
   - "Uttarakuru"
 ---
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Āṭānāṭā. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uttarakuru</span>, mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kusināṭā</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Parakusināṭā</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Nāṭāpuriyā</span> (DN.iii.200).
+Āṭānāṭā. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uttarakuru</span>, mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kusināṭā</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Parakusināṭā</span> and *Nāṭāpuriyā* (DN.iii.200).
 
 ## Vietnamese translation
 

@@ -12,16 +12,14 @@ source:
   source_order: 1643
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Bālāvatāra­ṭīkā"
-  - "Liṅgatthavivaraṇa­ṭīkā"
+link_candidates: []
 ---
 
 # Uttama 01
 
 ## English source
 
-Uttama 01. Author of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Bālāvatāra­ṭīkā</span> and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Liṅgatthavivaraṇa­ṭīkā</span>. He was a native of Pagan. Gv.63, 73; see also Bode, 22 and n.1.
+Uttama 01. Author of the *Bālāvatāra­ṭīkā* and the *Liṅgatthavivaraṇa­ṭīkā*. He was a native of Pagan. Gv.63, 73; see also Bode, 22 and n.1.
 
 ## Vietnamese translation
 

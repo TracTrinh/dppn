@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10063
+  source_order: 10058
   source_anchor: 
 aliases:
   - "Rurujataka"
@@ -17,7 +17,6 @@ link_candidates:
   - "Benares"
   - "Devadatta"
   - "Ganges"
-  - "Jātakamālā"
   - "Khemā"
   - "Mahā Dhanaka"
   - "Rurumigajātaka"
@@ -32,7 +31,7 @@ Rurujātaka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 The day the man reached <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Benares</span>, proclamation was being made that the Queen Consort, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Khemā</span>, having dreamed of a golden deer preaching to her, longed for the dream to come true. Mahā Dhanaka offered to take the king to such a deer and a hunt was organized. When the Bodhisatta saw the king with his retinue, he went up to the king and told him the story of Mahā Dhanaka. The king denounced the traitor and gave the Bodhisatta a boon that henceforth all creatures should be free from danger. Afterwards the Bodhisatta was taken to the city, where he saw the queen. Flocks of deer, now free from fear, devoured men’s crops; but the king would not go against his promise and the Bodhisatta begged his herds to desist from doing damage.
 
-The story was told in reference to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Devadatta</span>’s ingratitude and wickedness. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Devadatta</span> was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Dhanaka</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Ānanda</span> the king. Ja.iv.255-63; the story is included in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="12" data-dppn-term-class="t18">Jātakamālā</span> (No. 26).
+The story was told in reference to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Devadatta</span>’s ingratitude and wickedness. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Devadatta</span> was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Dhanaka</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Ānanda</span> the king. Ja.iv.255-63; the story is included in the *Jātakamālā* (No. 26).
 
 ## Vietnamese translation
 

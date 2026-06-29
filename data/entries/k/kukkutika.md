@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gokulika"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3065
+  source_order: 3064
   source_anchor: 
 aliases:
   - "Kukkutika"

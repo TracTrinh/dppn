@@ -14,7 +14,6 @@ source:
 aliases:
   - "Aruna 04"
 link_candidates:
-  - "Aruṇa"
   - "Nāga"
   - "Uppalavaṇṇā"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Aruṇa 04. The name of the lotus that grows in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nāga</span> world. It was one of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Uppalavaṇṇā</span>’s wishes to have a body of the colour of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Aruṇa</span>-lotus. Ap.ii.554(v.39).
+Aruṇa 04. The name of the lotus that grows in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nāga</span> world. It was one of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Uppalavaṇṇā</span>’s wishes to have a body of the colour of the *Aruṇa*-lotus. Ap.ii.554(v.39).
 
 ## Vietnamese translation
 

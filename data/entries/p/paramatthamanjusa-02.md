@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7146
+  source_order: 7143
   source_anchor: 
 aliases:
   - "Paramatthamanjusa 02"

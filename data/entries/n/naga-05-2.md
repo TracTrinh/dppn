@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "coranaga"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6452
+  source_order: 6449
   source_anchor: 
 aliases:
   - "Naga 05"

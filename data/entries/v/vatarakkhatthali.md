@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10392
+  source_order: 10387
   source_anchor: 
 aliases:
   - "Vatarakkhatthali"

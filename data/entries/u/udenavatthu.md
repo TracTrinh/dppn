@@ -14,11 +14,7 @@ source:
 aliases: []
 link_candidates:
   - "Buddhaghosa"
-  - "Buddhist Legends"
   - "Dhammapada Commentary"
-  - "Divyāvadāna"
-  - "Kandjur"
-  - "Kathāsaritsāgara"
   - "Udena"
 ---
 
@@ -32,9 +28,9 @@ It consists of six stories of diverse origin and character, dealing with the for
 
 Only two of the stories are really concerned with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Udena</span>, the rest being introduced by familiar literary devices. Versions of each of the six stories occur in the writings of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Buddhaghosa</span>, indicating that they go back to a common source.
 
-Parallels to one or more stories are also to be found in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Divyāvadāna</span>, the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Kathāsaritsāgara</span> and other Sanskrit collections and in the Tibetan <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Kandjur</span>.
+Parallels to one or more stories are also to be found in the *Divyāvadāna*, the *Kathāsaritsāgara* and other Sanskrit collections and in the Tibetan *Kandjur*.
 
-For an analysis of the cycle and its parallels see Burlingame, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Buddhist Legends</span>, i., pp.51 and 62ff.
+For an analysis of the cycle and its parallels see Burlingame, *Buddhist Legends*, i., pp.51 and 62ff.
 
 ## Vietnamese translation
 

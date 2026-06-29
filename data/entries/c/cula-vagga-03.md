@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4540
+  source_order: 4537
   source_anchor: 
 aliases:
   - "Cula Vagga 03"
 link_candidates:
+  - "Cūla Vagga"
   - "Udāna"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Vagga 03. Cūla Vagga. The seventh chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Udāna</span>. Ud., pp.74ff.
+Cūḷa Vagga 03. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Vagga</span>. The seventh chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Udāna</span>. Ud., pp.74ff.
 
 ## Vietnamese translation
 

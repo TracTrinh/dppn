@@ -16,7 +16,6 @@ aliases:
 link_candidates:
   - "Jetavana"
   - "Puṇṇa Mantāṇiputta"
-  - "asmimāna"
   - "Ānanda"
 ---
 
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Ānandasutta 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> tells the monks in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span> how when he and his colleagues were novices, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Puṇṇa Mantāṇiputta</span> was very helpful to them and instructed them as to how the conceit of self (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">asmimāna</span>) arose and how it could be overcome. Having heard him, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ānanda</span> says he fully understood the Dhamma. SN.iii.105-6.
+Ānandasutta 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> tells the monks in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span> how when he and his colleagues were novices, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Puṇṇa Mantāṇiputta</span> was very helpful to them and instructed them as to how the conceit of self (*asmimāna*) arose and how it could be overcome. Having heard him, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ānanda</span> says he fully understood the Dhamma. SN.iii.105-6.
 
 ## Vietnamese translation
 

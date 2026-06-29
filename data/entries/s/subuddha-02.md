@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "subandhu"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12890
+  source_order: 12885
   source_anchor: 
 aliases: []
 link_candidates:

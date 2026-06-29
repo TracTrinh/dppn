@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4489
+  source_order: 4486
   source_anchor: 
 aliases:
   - "Cula Dhanuggaha 02"

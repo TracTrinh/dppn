@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3163
+  source_order: 3162
   source_anchor: 
 aliases:
   - "Kumara 01"

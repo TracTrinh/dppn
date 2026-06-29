@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11360
+  source_order: 11355
   source_anchor: 
 aliases:
   - "Sanghabhedasutta"

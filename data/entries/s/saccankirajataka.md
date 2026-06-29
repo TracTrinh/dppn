@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11398
+  source_order: 11393
   source_anchor: 
 aliases:
   - "Saccankirajataka"

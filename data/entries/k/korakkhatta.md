@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3473
+  source_order: 3471
   source_anchor: 
 aliases: []
 link_candidates:
@@ -18,7 +18,6 @@ link_candidates:
   - "Kāḷakañjakas"
   - "Sunakkhatta"
   - "Uttarakā"
-  - "anto vaṅkapādo"
 ---
 
 # Korakkhatta
@@ -29,7 +28,7 @@ Korakkhatta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 The prophecy proved true, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sunakkhatta</span> learnt the truth from Korakkhatta’s corpse (DN.iii.6ff; Ja.i.389f).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Buddhaghosa</span> says (DN­a.iii.819) that Korakkhattiya was so-called because his feet turned inwards (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">anto vaṅkapādo</span>).
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Buddhaghosa</span> says (DN­a.iii.819) that Korakkhattiya was so-called because his feet turned inwards (*anto vaṅkapādo*).
 
 ## Vietnamese translation
 

@@ -13,18 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anodhisutta"
-link_candidates:
-  - "Suttas"
-  - "anatta"
-  - "anicca"
-  - "dukkha"
+link_candidates: []
 ---
 
 # Anodhisuttā
 
 ## English source
 
-Anodhisuttā. Three <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on the development of unlimited reflection of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">anicca</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">dukkha</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">anatta</span>. AN.iii.443f.
+Anodhisuttā. Three *Suttas* on the development of unlimited reflection of *anicca*, *dukkha* and *anatta*. AN.iii.443f.
 
 ## Vietnamese translation
 

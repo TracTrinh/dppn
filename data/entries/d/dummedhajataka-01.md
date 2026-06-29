@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5743
+  source_order: 5740
   source_anchor: 
 aliases:
   - "Dummedhajataka 01"

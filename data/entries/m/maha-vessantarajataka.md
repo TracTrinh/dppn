@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vessantarajataka"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9124
+  source_order: 9120
   source_anchor: "a306"
 aliases:
   - "Maha Vessantarajataka"

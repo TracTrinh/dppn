@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2336
+  source_order: 2335
   source_anchor: 
 aliases:
   - "Kancanamanava"

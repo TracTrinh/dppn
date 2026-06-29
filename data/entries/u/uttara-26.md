@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Uttara"
-  - "padhānaghara"
 ---
 
 # Uttara 26
 
 ## English source
 
-Uttara 26. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">padhānaghara</span> built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Uttara</span> (25).
+Uttara 26. A *padhānaghara* built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uttara</span> (25).
 
 ## Vietnamese translation
 

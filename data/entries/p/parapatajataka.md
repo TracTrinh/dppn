@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "romakajataka"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7347
+  source_order: 7344
   source_anchor: 
 aliases:
   - "Parapatajataka"

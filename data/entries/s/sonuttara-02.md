@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13343
+  source_order: 13338
   source_anchor: 
 aliases:
   - "Sonuttara 02"

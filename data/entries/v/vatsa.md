@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vamsa"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10465
+  source_order: 10460
   source_anchor: 
 aliases:
   - "Vatsa"

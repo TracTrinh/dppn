@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11619
+  source_order: 11614
   source_anchor: 
 aliases:
   - "Sanniratittha"
 link_candidates:
   - "Mahinda II"
   - "Pulatthipura"
-  - "vihāra"
 ---
 
 # Sannīratittha
 
 ## English source
 
-Sannīratittha. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vihāra</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pulatthipura</span>, established by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahinda II</span>. Cv.xlviii.134.
+Sannīratittha. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pulatthipura</span>, established by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda II</span>. Cv.xlviii.134.
 
 ## Vietnamese translation
 

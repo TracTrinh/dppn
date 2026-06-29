@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9599
+  source_order: 9594
   source_anchor: 
 aliases:
   - "Metta Theri"
 link_candidates:
   - "Apadāna"
-  - "Arahant"
   - "Bandhumatī"
   - "Bandhumā"
   - "Ekapiṇḍadāyikā"
@@ -23,16 +22,15 @@ link_candidates:
   - "Pajāpatī Gotamī"
   - "Sākyan"
   - "Vipassī Buddha"
-  - "kappas"
 ---
 
 # Mettā Therī
 
 ## English source
 
-Mettā Therī. She belonged to a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sākyan</span> family of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kapilavatthu</span> and renounced the world with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pajāpatī Gotamī</span>, gaining <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>-ship in due course. Ninety-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">kappas</span> ago, in the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Vipassī Buddha</span>, she was one of the wives of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Bandhumā</span>, king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Bandhumatī</span>, and, pleased with a certain nun, entertained her to a meal and gave her a pair of very costly robes (Thīg.31f.; Thīg­a.36f).
+Mettā Therī. She belonged to a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sākyan</span> family of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kapilavatthu</span> and renounced the world with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pajāpatī Gotamī</span>, gaining *Arahant*-ship in due course. Ninety-one *kappas* ago, in the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Vipassī Buddha</span>, she was one of the wives of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Bandhumā</span>, king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bandhumatī</span>, and, pleased with a certain nun, entertained her to a meal and gave her a pair of very costly robes (Thīg.31f.; Thīg­a.36f).
 
-She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Ekapiṇḍadāyikā</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Apadāna</span>. Ap.ii.515f.
+She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ekapiṇḍadāyikā</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Apadāna</span>. Ap.ii.515f.
 
 ## Vietnamese translation
 

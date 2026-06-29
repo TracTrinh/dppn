@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Añjanavana"
-  - "Devaputta"
   - "Sāketa"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Uttara 03. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Devaputta</span> who visits the Buddha at the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Añjanavana</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāketa</span>. He utters a stanza, and the Buddha, in another stanza, amplifies what he has said. SN.i.54.
+Uttara 03. A *Devaputta* who visits the Buddha at the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Añjanavana</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāketa</span>. He utters a stanza, and the Buddha, in another stanza, amplifies what he has said. SN.i.54.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9973
+  source_order: 9968
   source_anchor: 
 aliases:
   - "Rajasutta 05"

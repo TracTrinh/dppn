@@ -9,21 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2669
+  source_order: 2668
   source_anchor: 
 aliases: []
-link_candidates:
-  - "attha-kavi"
-  - "cintā-kavi"
-  - "paṭibhāna"
-  - "suta-kavi"
+link_candidates: []
 ---
 
 # Kavisutta 02
 
 ## English source
 
-Kavisutta 02. On the four kinds of poets: the imaginative (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">cintā-kavi</span>), the traditional (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">suta-kavi</span>), the didactic (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">attha-kavi</span>), and the extempore (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">paṭibhāna</span>). AN.ii.230.
+Kavisutta 02. On the four kinds of poets: the imaginative (*cintā-kavi*), the traditional (*suta-kavi*), the didactic (*attha-kavi*), and the extempore (*paṭibhāna*). AN.ii.230.
 
 ## Vietnamese translation
 

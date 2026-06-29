@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhammasutta-04"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11417
+  source_order: 11412
   source_anchor: 
 aliases:
   - "Sajjhayasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2425
+  source_order: 2424
   source_anchor: 
 aliases:
   - "Kanha 05"

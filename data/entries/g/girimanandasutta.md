@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "girisutta"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3931
+  source_order: 3929
   source_anchor: 
 aliases:
   - "Girimanandasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7809
+  source_order: 7806
   source_anchor: 
 aliases:
   - "Babbara"

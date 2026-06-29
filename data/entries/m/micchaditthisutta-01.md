@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9422
+  source_order: 9417
   source_anchor: 
 aliases:
   - "Micchaditthisutta 01"

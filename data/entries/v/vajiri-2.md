@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vajirakumari"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10622
+  source_order: 10617
   source_anchor: 
 aliases:
   - "Vajiri"

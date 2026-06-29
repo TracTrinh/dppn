@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cakkavattisutta-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6734
+  source_order: 6731
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sanghabodhi"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12348
+  source_order: 12343
   source_anchor: 
 aliases:
   - "Sirisanghabodhi 01"

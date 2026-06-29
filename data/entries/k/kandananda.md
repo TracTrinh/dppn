@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanakadatta"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2495
+  source_order: 2494
   source_anchor: 
 aliases:
   - "Kandananda"

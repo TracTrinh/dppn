@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11533
+  source_order: 11528
   source_anchor: 
 aliases:
   - "Saddaniti"

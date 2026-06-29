@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11447
+  source_order: 11442
   source_anchor: 
 aliases:
   - "Sannasutta 10"

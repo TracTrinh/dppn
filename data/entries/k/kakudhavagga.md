@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Pañcakanipāta"
 ---
 
 # Kakudhavagga
 
 ## English source
 
-Kakudhavagga. The tenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Pañcakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.118-26.
+Kakudhavagga. The tenth chapter of the *Pañcakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iii.118-26.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "katthaharasutta"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2367
+  source_order: 2366
   source_anchor: 
 aliases:
   - "Katthahara Bharadvaja"

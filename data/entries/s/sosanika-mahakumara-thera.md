@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13446
+  source_order: 13440
   source_anchor: "a360"
 aliases:
   - "Sosanika Mahakumara Thera"

@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6951
+  source_order: 6948
   source_anchor: 
 aliases:
   - "Patapana"
-link_candidates:
-  - "Niraya"
-  - "ativiya tāpetī ti Patāpano"
+link_candidates: []
 ---
 
 # Patāpana
 
 ## English source
 
-Patāpana. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Niraya</span> (Ja.v.266, 453), so-called because its heat was excessive (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ativiya tāpetī ti Patāpano</span>). Ja.v.271.
+Patāpana. A *Niraya* (Ja.v.266, 453), so-called because its heat was excessive (*ativiya tāpetī ti Patāpano*). Ja.v.271.
 
 ## Vietnamese translation
 

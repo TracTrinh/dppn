@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3812
+  source_order: 3810
   source_anchor: 
 aliases:
   - "Gandhavamsa"

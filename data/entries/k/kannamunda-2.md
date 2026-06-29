@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kannamunda"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2502
+  source_order: 2501
   source_anchor: 
 aliases:
   - "Kannamunda"

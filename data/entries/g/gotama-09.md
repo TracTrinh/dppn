@@ -9,11 +9,10 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 4043
+  source_order: 4041
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Araññavāsī"
   - "Sambandhacintā"
   - "Vanaratana Ānanda"
 ---
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Gotama 09. A Thera in Ceylon who wrote a Sinhalese paraphrase to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sambandhacintā</span>. He belonged to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Araññavāsī</span> sect and was a pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vanaratana Ānanda</span> (PLC.199, 220).
+Gotama 09. A Thera in Ceylon who wrote a Sinhalese paraphrase to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sambandhacintā</span>. He belonged to the *Araññavāsī* sect and was a pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vanaratana Ānanda</span> (PLC.199, 220).
 
 ## Vietnamese translation
 

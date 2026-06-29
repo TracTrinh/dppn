@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pasenadi"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3529
+  source_order: 3527
   source_anchor: 
 aliases:
   - "Kosalaraja"

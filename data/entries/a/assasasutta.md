@@ -15,16 +15,14 @@ aliases:
   - "Assasasutta"
 link_candidates:
   - "Jambukhādaka"
-  - "Paribbājaka"
   - "Sāriputta"
-  - "assāsa"
 ---
 
 # Assāsasutta
 
 ## English source
 
-Assāsasutta. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Paribbājaka</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jambukhādaka</span> as to what constitutes comfort (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">assāsa</span>) and how it might be won. SN.iv.254.
+Assāsasutta. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and the *Paribbājaka* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jambukhādaka</span> as to what constitutes comfort (*assāsa*) and how it might be won. SN.iv.254.
 
 ## Vietnamese translation
 

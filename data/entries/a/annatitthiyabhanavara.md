@@ -15,14 +15,13 @@ aliases:
   - "Annatitthiyabhanavara"
 link_candidates:
   - "Mahā Vagga"
-  - "khandhaka"
 ---
 
 # Aññatitthiyabhāṇavāra
 
 ## English source
 
-Aññatitthiyabhāṇavāra. Ends the sixteenth chapter of the second <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhaka</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Vagga</span>. Vin.i.115.
+Aññatitthiyabhāṇavāra. Ends the sixteenth chapter of the second *khandhaka* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Vagga</span>. Vin.i.115.
 
 ## Vietnamese translation
 

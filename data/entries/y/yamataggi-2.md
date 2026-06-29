@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9769
+  source_order: 9764
   source_anchor: 
 aliases:
   - "Yamataggi"

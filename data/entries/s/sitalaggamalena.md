@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12400
+  source_order: 12395
   source_anchor: 
 aliases:
   - "Sitalaggamalena"

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13309
+  source_order: 13304
   source_anchor: 
 aliases:
   - "Sokatinna"
-link_candidates:
-  - "apsaras"
+link_candidates: []
 ---
 
 # Sokatiṇṇā
 
 ## English source
 
-Sokatiṇṇā. The name of an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">apsaras</span>, or of a divine musical instrument. Vv-a.94; cf. 211, 372.
+Sokatiṇṇā. The name of an *apsaras*, or of a divine musical instrument. Vv-a.94; cf. 211, 372.
 
 ## Vietnamese translation
 

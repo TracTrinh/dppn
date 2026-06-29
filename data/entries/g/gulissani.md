@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3990
+  source_order: 3988
   source_anchor: 
 aliases:
   - "Gulissani"

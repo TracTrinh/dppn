@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5749
+  source_order: 5746
   source_anchor: 
 aliases:
   - "Duludesa"

@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10217
+  source_order: 10212
   source_anchor: 
 aliases: []
-link_candidates:
-  - "lahuparivatta"
+link_candidates: []
 ---
 
 # Lahusutta 02
 
 ## English source
 
-Lahusutta 02. here is no other single thing so quick to change (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">lahuparivatta</span>) as mind. AN.i.10.
+Lahusutta 02. here is no other single thing so quick to change (*lahuparivatta*) as mind. AN.i.10.
 
 ## Vietnamese translation
 

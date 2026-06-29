@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Uppadasutta 03"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Uppādasutta 03
 
 ## English source
 
-Uppādasutta 03. Same as No. 2, but with the substitution of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> for the four elements. SN.iii.31f.
+Uppādasutta 03. Same as No. 2, but with the substitution of the five *khandhas* for the four elements. SN.iii.31f.
 
 ## Vietnamese translation
 

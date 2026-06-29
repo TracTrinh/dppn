@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10696
+  source_order: 10691
   source_anchor: 
 aliases:
   - "Vasettha 08"

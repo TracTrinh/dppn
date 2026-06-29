@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12599
+  source_order: 12594
   source_anchor: 
 aliases:
   - "Sujata 05"

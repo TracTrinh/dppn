@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Cora Abhaya"
-  - "q.v."
 ---
 
 # Abhaya 12
 
 ## English source
 
-Abhaya 12. A brigand, commonly called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cora Abhaya</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>).
+Abhaya 12. A brigand, commonly called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cora Abhaya</span> (*q.v.*).
 
 ## Vietnamese translation
 

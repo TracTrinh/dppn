@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Anomanāma"
   - "Suttanipāta"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Anomiyasutta. Contains verses in praise of the Buddha who is called the Peerless (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Anomanāma</span>) (SN.i.33). The verses are found also in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suttanipāta</span> (Sn.p.177).
+Anomiyasutta. Contains verses in praise of the Buddha who is called the Peerless (*Anomanāma*) (SN.i.33). The verses are found also in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttanipāta</span> (Sn.p.177).
 
 ## Vietnamese translation
 

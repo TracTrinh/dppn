@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kassapagottasutta"
 source:
   epub_file: "Ops/036.html"
-  source_order: 4708
+  source_order: 4705
   source_anchor: 
 aliases: []
 link_candidates:

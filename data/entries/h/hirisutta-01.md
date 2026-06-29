@@ -9,19 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13544
+  source_order: 13538
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Deva"
-  - "hiri"
+link_candidates: []
 ---
 
 # Hirisutta 01
 
 ## English source
 
-Hirisutta 01. A conversation between the Buddha and a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span> regarding <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">hiri</span> (conscientiousness). SN.i.7.
+Hirisutta 01. A conversation between the Buddha and a *Deva* regarding *hiri* (conscientiousness). SN.i.7.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kammasapada"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2585
+  source_order: 2584
   source_anchor: 
 aliases:
   - "Kammasa"

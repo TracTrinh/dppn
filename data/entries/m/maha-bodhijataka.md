@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9027
+  source_order: 9023
   source_anchor: 
 aliases:
   - "Maha Bodhijataka"
@@ -17,15 +17,12 @@ link_candidates:
   - "Ajita Kesakambala"
   - "Benares"
   - "Bodhi"
-  - "Jātakamālā"
-  - "Khattiya"
   - "Mahā Ummaggajātaka"
   - "Makkhali Gosāla"
   - "Nigaṇṭha Nātaputta"
   - "Pakudha Kaccāna"
   - "Pūraṇa Kassapa"
   - "Udicca"
-  - "kamma"
   - "Ānanda"
 ---
 
@@ -41,9 +38,9 @@ A tawny dog, to whom <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Bodhi</span> heard of this, he took a dried monkey skin, went to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Benares</span>, and stayed again in the royal park. The king came to do him honour, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Bodhi</span> sat silent, stroking the monkey skin. The king asked him why he did so. He answered, “This monkey was of the greatest service to me; I travelled about on its back, it carried my water pot, swept out my dwelling, and performed various other duties for me; in the end, through its simplicity, I ate its flesh and now I sit and lie on its skin.” (He had used the skin for his garment, hence “I sat on the monkey’s back”; he had the skin on his shoulder, whence his water pot was suspended, hence “it carried the water pot”; he had swept the cell with the skin, hence “swept my dwelling place”; he had eaten the flesh of the monkey, hence “I ate its flesh”).
 
-The councillors who were present made great uproar, calling him a murderer and a traitor. But <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Bodhi</span> knew that of these councillors, one denied the effect of all <span class="dppn-term dppn-term-t18" data-dppn-term-pos="19" data-dppn-term-class="t18">kamma</span>, one attributed everything to a Supreme Being, one believed that everything was a result of past actions, one believed in annihilation, and one held the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="20" data-dppn-term-class="t18">Khattiya</span> doctrine that one should secure one’s interests, even to the extent of killing one’s parents. He, therefore, argued with one after another, and proved that in accordance with their doctrines no blame whatever attached to him for having killed the monkey. Having thus completed their discomfiture, he exhorted the king not to trust in slanderers, and asked the king’s sons to obtain their father’s pardon. The king wished the councillors to be killed, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Bodhi</span> intervened, and they were disgraced and exiled from the kingdom, their hair fastened in five locks.
+The councillors who were present made great uproar, calling him a murderer and a traitor. But <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Bodhi</span> knew that of these councillors, one denied the effect of all *kamma*, one attributed everything to a Supreme Being, one believed that everything was a result of past actions, one believed in annihilation, and one held the *Khattiya* doctrine that one should secure one’s interests, even to the extent of killing one’s parents. He, therefore, argued with one after another, and proved that in accordance with their doctrines no blame whatever attached to him for having killed the monkey. Having thus completed their discomfiture, he exhorted the king not to trust in slanderers, and asked the king’s sons to obtain their father’s pardon. The king wished the councillors to be killed, but <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Bodhi</span> intervened, and they were disgraced and exiled from the kingdom, their hair fastened in five locks.
 
-The story was related in the same circumstances as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Mahā Ummaggajātaka</span> (Ja 546). The five ministers are identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Pūraṇa Kassapa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Makkhali Gosāla</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term-class="t14">Pakudha Kaccāna</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term-class="t14">Ajita Kesakambala</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" data-dppn-term-class="t14">Nigaṇṭha Nātaputta</span>; the dog was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term-class="t14">Ānanda</span>. Ja.v.227-46; ep. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="29" data-dppn-term-class="t18">Jātakamālā</span>, xxiii.
+The story was related in the same circumstances as the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Mahā Ummaggajātaka</span> (Ja 546). The five ministers are identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Pūraṇa Kassapa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Makkhali Gosāla</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Pakudha Kaccāna</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Ajita Kesakambala</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term-class="t14">Nigaṇṭha Nātaputta</span>; the dog was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term-class="t14">Ānanda</span>. Ja.v.227-46; ep. *Jātakamālā*, xxiii.
 
 ## Vietnamese translation
 

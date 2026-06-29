@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "yasa-03"
 source:
   epub_file: "Ops/061.html"
-  source_order: 9745
+  source_order: 9740
   source_anchor: 
 aliases: []
 link_candidates:

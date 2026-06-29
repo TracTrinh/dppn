@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 5994
+  source_order: 5991
   source_anchor: 
 aliases:
   - "Dhammatthavagga"

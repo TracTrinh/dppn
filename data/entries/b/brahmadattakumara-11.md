@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "surucijataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8060
+  source_order: 8057
   source_anchor: 
 aliases:
   - "Brahmadattakumara 11"

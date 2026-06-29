@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12943
+  source_order: 12938
   source_anchor: 
 aliases:
   - "Sumangala 03"

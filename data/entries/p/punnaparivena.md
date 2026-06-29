@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pujaparivena"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7542
+  source_order: 7539
   source_anchor: 
 aliases:
   - "Punnaparivena"

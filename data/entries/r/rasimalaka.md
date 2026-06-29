@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10025
+  source_order: 10020
   source_anchor: 
 aliases:
   - "Rasimalaka"

@@ -13,17 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asavakkhayasutta 03"
-link_candidates:
-  - "indriyas"
-  - "saddhā"
-  - "āsavas"
+link_candidates: []
 ---
 
 # Āsavakkhayasutta 03
 
 ## English source
 
-Āsavakkhayasutta 03. The five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indriyas</span> of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">saddhā</span>, etc., if cultivated, lead to the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">āsavas</span>. SN.v.236.
+Āsavakkhayasutta 03. The five *indriyas* of *saddhā*, etc., if cultivated, lead to the destruction of the *āsavas*. SN.v.236.
 
 ## Vietnamese translation
 

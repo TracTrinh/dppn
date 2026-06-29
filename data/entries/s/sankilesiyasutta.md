@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kilesiyasutta"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11286
+  source_order: 11281
   source_anchor: 
 aliases:
   - "Sankilesiyasutta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalakanni-03"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2914
+  source_order: 2913
   source_anchor: 
 aliases:
   - "Kali 01"

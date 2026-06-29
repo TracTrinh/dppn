@@ -14,17 +14,14 @@ source:
 aliases: []
 link_candidates:
   - "Anuruddha"
-  - "Arahant"
-  - "Suttas"
   - "Sāriputta"
-  - "amatadhātu"
 ---
 
 # Anuruddhasutta 04
 
 ## English source
 
-Anuruddhasutta 04. Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> on how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span> admonished <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anuruddha</span> to give up boasting about his attainments and concentrate on <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">amatadhātu</span>, and how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Anuruddha</span> following the advice became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Arahant</span>. AN.i.281-3.
+Anuruddhasutta 04. Two *Suttas* on how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> admonished <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anuruddha</span> to give up boasting about his attainments and concentrate on *amatadhātu*, and how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anuruddha</span> following the advice became an *Arahant*. AN.i.281-3.
 
 ## Vietnamese translation
 

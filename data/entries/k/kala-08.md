@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalahatthi"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2845
+  source_order: 2844
   source_anchor: 
 aliases:
   - "Kala 08"

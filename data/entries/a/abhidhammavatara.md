@@ -25,7 +25,6 @@ link_candidates:
   - "Uragapura"
   - "Visuddhimagga"
   - "Vācissara"
-  - "ṭīkās"
 ---
 
 # Abhidhammāvatāra
@@ -36,9 +35,9 @@ Abhidhammāvatāra. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 The work is mostly in verse with, here and there, a prose commentary supplied by the author himself (Gv.69; see PLC. 107-8 for details).
 
-Two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="9" data-dppn-term-class="t18">ṭīkās</span> on it exist, one by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Vācissara</span> Mahā Sāmi of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Mahā Vihara</span> and the other by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Sumaṅgala</span>, pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Sāriputta</span>. Sās.34.
+Two *ṭīkās* on it exist, one by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Vācissara</span> Mahā Sāmi of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Vihara</span> and the other by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Sumaṅgala</span>, pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Sāriputta</span>. Sās.34.
 
-Gv. (p.69) says that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Buddhadatta</span> wrote it at the request of his pupil <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Sumati</span>.
+Gv. (p.69) says that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Buddhadatta</span> wrote it at the request of his pupil <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Sumati</span>.
 
 ## Vietnamese translation
 

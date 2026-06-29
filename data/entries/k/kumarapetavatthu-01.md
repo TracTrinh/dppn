@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3171
+  source_order: 3170
   source_anchor: 
 aliases:
   - "Kumarapetavatthu 01"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kapisisa-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2667
+  source_order: 2666
   source_anchor: 
 aliases:
   - "Kavisisa"

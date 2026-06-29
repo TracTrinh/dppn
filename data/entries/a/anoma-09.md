@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Anomadassī"
-  - "ājīvaka"
 ---
 
 # Anoma 09
 
 ## English source
 
-Anoma 09. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">ājīvaka</span> who gave grass to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anomadassī</span> for his seat. Bv­a.142.
+Anoma 09. An *ājīvaka* who gave grass to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anomadassī</span> for his seat. Bv­a.142.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ratanamalaka"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11677
+  source_order: 11672
   source_anchor: 
 aliases:
   - "Sabbaratanamalaka"

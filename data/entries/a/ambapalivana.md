@@ -19,12 +19,8 @@ link_candidates:
   - "Anuruddha"
   - "Saṁyutta"
   - "Sunetta"
-  - "Sutta"
-  - "Suttas"
   - "Sāriputta"
   - "Vesālī"
-  - "satipaṭṭhānā"
-  - "saṅkhāras"
 ---
 
 # Ambapālivana
@@ -33,11 +29,11 @@ link_candidates:
 
 Ambapālivana. The grove presented by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambapālī</span> to the Buddha and the Saṅgha. It was in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vesālī</span> and was given to the Buddha during his last tour in that town, at the conclusion of the meal to which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ambapālī</span> had invited him (Vin.i.231-3). But both the Buddha and the monks seem to have stayed there previously during their visits to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Vesālī</span> (thus according to DN.ii.94 the Buddha was already in the grove before <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ambapālī</span> visited him; see also SN.v.301, which must refer to an incident before the Buddha’s last tour, because <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sāriputta</span> was still alive).
 
-The Buddha is stated to have preached three <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Suttas</span> in the grove, two of them being on the value of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">satipaṭṭhānā</span> (SN.v.141ff). In the third <span class="dppn-term dppn-term-t18" data-dppn-term-pos="9" data-dppn-term-class="t18">Sutta</span> (AN.iv.100-6) he dwells on the impermanence of all <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">saṅkhāras</span> and proceeds to describe the process by which the whole world will ultimately be destroyed by seven suns arising in the world and drying everything up. In this <span class="dppn-term dppn-term-t18" data-dppn-term-pos="11" data-dppn-term-class="t18">Sutta</span> appears also the story of the teacher <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Sunetta</span>, who, even after becoming the Great Brahma, is yet subject to old age and death.
+The Buddha is stated to have preached three *Suttas* in the grove, two of them being on the value of the *satipaṭṭhānā* (SN.v.141ff). In the third *Sutta* (AN.iv.100-6) he dwells on the impermanence of all *saṅkhāras* and proceeds to describe the process by which the whole world will ultimately be destroyed by seven suns arising in the world and drying everything up. In this *Sutta* appears also the story of the teacher <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sunetta</span>, who, even after becoming the Great Brahma, is yet subject to old age and death.
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Saṁyutta</span> also records a conversation that took place between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Anuruddha</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Sāriputta</span> during a stay in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Ambapālivana</span> (SN.v.301).
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Saṁyutta</span> also records a conversation that took place between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Anuruddha</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Sāriputta</span> during a stay in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Ambapālivana</span> (SN.v.301).
 
-The grove was planted with mangoes and was so-called because it belonged to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Ambapālī</span>. DN­a.ii.545.
+The grove was planted with mangoes and was so-called because it belonged to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Ambapālī</span>. DN­a.ii.545.
 
 ## Vietnamese translation
 

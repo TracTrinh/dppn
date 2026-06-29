@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sivi-01"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12263
+  source_order: 12258
   source_anchor: 
 aliases: []
 link_candidates:

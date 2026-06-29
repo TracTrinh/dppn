@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Angarapabbata"
-link_candidates:
-  - "Mahā Niraya"
+link_candidates: []
 ---
 
 # Aṅgārapabbata
 
 ## English source
 
-Aṅgārapabbata. A blazing mountain of white hot coal, one of the tortures of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Mahā Niraya</span>. Kv.597.
+Aṅgārapabbata. A blazing mountain of white hot coal, one of the tortures of the *Mahā Niraya*. Kv.597.
 
 ## Vietnamese translation
 

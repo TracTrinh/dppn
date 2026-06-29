@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "danta"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5458
+  source_order: 5455
   source_anchor: 
 aliases:
   - "Dantagama"

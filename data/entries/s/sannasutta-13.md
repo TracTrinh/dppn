@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "aniccatasutta-01"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11450
+  source_order: 11445
   source_anchor: 
 aliases:
   - "Sannasutta 13"

@@ -14,14 +14,14 @@ source:
 aliases:
   - "Indakhilasutta"
 link_candidates:
-  - "indakhīla"
+  - "suffering"
 ---
 
 # Indakhīlasutta
 
 ## English source
 
-Indakhīlasutta. Like a tuft of cotton-wool or a ball of thistledown, wafted by every wind, are recluses and Brahmins who do not understand, as they really are, the facts of suffering; like an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indakhīla</span>, unshakable, unquakable, are those who do so understand. (SN.v.443-5).
+Indakhīlasutta. Like a tuft of cotton-wool or a ball of thistledown, wafted by every wind, are recluses and Brahmins who do not understand, as they really are, the facts of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>; like an *indakhīla*, unshakable, unquakable, are those who do so understand. (SN.v.443-5).
 
 ## Vietnamese translation
 

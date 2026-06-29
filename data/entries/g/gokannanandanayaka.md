@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 4016
+  source_order: 4014
   source_anchor: 
 aliases:
   - "Gokannanandanayaka"

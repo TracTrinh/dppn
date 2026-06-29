@@ -14,13 +14,11 @@ source:
 aliases:
   - "Ariyacakkavatti"
 link_candidates:
-  - "Annual Report of Epigraphy, Southern Circle, Madras"
   - "Bhuvanekabāhu I"
   - "Damiḷa"
   - "Kulasekhara"
   - "Paṇḍu"
   - "Subhagiri"
-  - "Āriya"
   - "Āriyacakkavatti"
 ---
 
@@ -28,9 +26,9 @@ link_candidates:
 
 ## English source
 
-Āriyacakkavatti. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Damiḷa</span> general who came with a large army from the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Paṇḍu</span> kingdom and landed in Ceylon during the famine in the reign of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Bhuvanekabāhu I</span>. We are told that though he was no “<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Āriya</span>” he was a dignitary of great power. He laid waste the kingdom and entered the capital <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Subhagiri</span>. There he seized the Tooth Relic and the costly treasures which were kept with it and took them back to King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kulasekhara</span>.
+Āriyacakkavatti. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Damiḷa</span> general who came with a large army from the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Paṇḍu</span> kingdom and landed in Ceylon during the famine in the reign of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Bhuvanekabāhu I</span>. We are told that though he was no “*Āriya*” he was a dignitary of great power. He laid waste the kingdom and entered the capital <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Subhagiri</span>. There he seized the Tooth Relic and the costly treasures which were kept with it and took them back to King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kulasekhara</span>.
 
-Cv.xc.43-7. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Kulasekhara</span> reigned 1268-1308. His general <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Āriyacakkavatti</span> is mentioned in a South Indian Inscription (No. 110, in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="9" data-dppn-term-class="t18">Annual Report of Epigraphy, Southern Circle, Madras</span>, 1903).
+Cv.xc.43-7. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kulasekhara</span> reigned 1268-1308. His general <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Āriyacakkavatti</span> is mentioned in a South Indian Inscription (No. 110, in the *Annual Report of Epigraphy, Southern Circle, Madras*, 1903).
 
 ## Vietnamese translation
 

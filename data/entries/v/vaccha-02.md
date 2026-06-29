@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kisa-vaccha"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10342
+  source_order: 10337
   source_anchor: 
 aliases: []
 link_candidates:

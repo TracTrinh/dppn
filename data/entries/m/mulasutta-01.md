@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9558
+  source_order: 9553
   source_anchor: 
 aliases:
   - "Mulasutta 01"
-link_candidates:
-  - "kamma"
+link_candidates: []
 ---
 
 # Mūlasutta 01
 
 ## English source
 
-Mūlasutta 01. When a man is overcome by gains and flattery, the root of good <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kamma</span> is extirpated in him. SN.ii.240.
+Mūlasutta 01. When a man is overcome by gains and flattery, the root of good *kamma* is extirpated in him. SN.ii.240.
 
 ## Vietnamese translation
 

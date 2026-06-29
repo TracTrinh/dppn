@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-siva-02"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3879
+  source_order: 3877
   source_anchor: 
 aliases:
   - "Gamanta"

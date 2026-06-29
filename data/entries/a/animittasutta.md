@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Moggallāna"
-  - "animittacetosamādhi"
 ---
 
 # Animittasutta
 
 ## English source
 
-Animittasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span>; it records an occasion when he experienced unconditioned rapture of the heart (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">animittacetosamādhi</span>). SN.iv.268.
+Animittasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span>; it records an occasion when he experienced unconditioned rapture of the heart (*animittacetosamādhi*). SN.iv.268.
 
 ## Vietnamese translation
 

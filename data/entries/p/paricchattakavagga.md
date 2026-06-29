@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7360
+  source_order: 7357
   source_anchor: 
 aliases:
   - "Paricchattakavagga"

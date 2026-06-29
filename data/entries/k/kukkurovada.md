@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3072
+  source_order: 3071
   source_anchor: "a127"
 aliases:
   - "Kukkurovada"

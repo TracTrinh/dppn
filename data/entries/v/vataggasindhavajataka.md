@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10628
+  source_order: 10623
   source_anchor: 
 aliases:
   - "Vataggasindhavajataka"

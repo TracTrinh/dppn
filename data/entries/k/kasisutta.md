@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kasi-bharadvajasutta"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2675
+  source_order: 2674
   source_anchor: 
 aliases:
   - "Kasisutta"

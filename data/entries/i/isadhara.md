@@ -14,11 +14,9 @@ source:
 aliases:
   - "Isadhara"
 link_candidates:
-  - "Deva"
   - "Devas"
   - "Iśāndhara"
   - "Karavīka"
-  - "Mahā Vastu"
   - "Sineru"
   - "Sīdantarasamudda"
   - "Yakkhas"
@@ -30,9 +28,9 @@ link_candidates:
 
 ## English source
 
-Īsadhara. One of the seven ranges of mountains round <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sineru</span>. It is the abode of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Deva</span> kings and of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devas</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Yakkhas</span> (Snp-a.ii.443; Vin-a.i.119; Divy.217). It is higher than <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Karavīka</span>, and between these two is a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sīdantarasamudda</span>; next to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Īsadhara</span> and higher than it is <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Yugandhara</span>, and between them is another <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Sīdantarasamudda</span> (Ja.vi.125).
+Īsadhara. One of the seven ranges of mountains round <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sineru</span>. It is the abode of *Deva* kings and of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devas</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Yakkhas</span> (Snp-a.ii.443; Vin-a.i.119; Divy.217). It is higher than <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Karavīka</span>, and between these two is a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sīdantarasamudda</span>; next to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Īsadhara</span> and higher than it is <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Yugandhara</span>, and between them is another <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Sīdantarasamudda</span> (Ja.vi.125).
 
-The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">Mahā Vastu</span> (ii.300) calls it <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Iśāndhara</span> (suggesting its probable etymology).
+The *Mahā Vastu* (ii.300) calls it <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Iśāndhara</span> (suggesting its probable etymology).
 
 ## Vietnamese translation
 

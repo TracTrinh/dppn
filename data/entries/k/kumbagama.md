@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3186
+  source_order: 3185
   source_anchor: 
 aliases:
   - "Kumbagama"

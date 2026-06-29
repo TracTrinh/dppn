@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7920
+  source_order: 7917
   source_anchor: 
 aliases:
   - "Bijasutta 03"

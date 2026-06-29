@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4252
+  source_order: 4250
   source_anchor: 
 aliases: []
 link_candidates:
   - "Upāhanadāyaka"
-  - "kappas"
 ---
 
 # Candana 03
 
 ## English source
 
-Candana 03. A monk of ninety-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago to whom <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upāhanadāyaka</span> made a gift of a pair of sandals. Ap.i.228.
+Candana 03. A monk of ninety-one *kappas* ago to whom <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Upāhanadāyaka</span> made a gift of a pair of sandals. Ap.i.228.
 
 ## Vietnamese translation
 

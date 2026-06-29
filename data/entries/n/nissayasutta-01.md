@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6675
+  source_order: 6672
   source_anchor: 
 aliases: []
-link_candidates:
-  - "nissayasampanna"
+link_candidates: []
 ---
 
 # Nissayasutta 01
 
 ## English source
 
-Nissayasutta 01. The Buddha explains to a monk how one can be called <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">nissayasampanna</span>. AN.iv.353f.
+Nissayasutta 01. The Buddha explains to a monk how one can be called *nissayasampanna*. AN.iv.353f.
 
 ## Vietnamese translation
 

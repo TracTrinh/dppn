@@ -15,14 +15,13 @@ aliases:
   - "Akkamaniyavagga"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Ekanipāta"
 ---
 
 # Akkamanīyavagga
 
 ## English source
 
-Akkamanīyavagga. The third section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ekanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.i.5-6.
+Akkamanīyavagga. The third section of the *Ekanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.i.5-6.
 
 ## Vietnamese translation
 

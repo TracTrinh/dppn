@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 2947
+  source_order: 2946
   source_anchor: 
 aliases:
   - "Kikibrahmadatta"

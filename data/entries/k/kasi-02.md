@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2935
+  source_order: 2934
   source_anchor: 
 aliases:
   - "Kasi 02"

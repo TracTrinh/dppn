@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vijayabahu-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10746
+  source_order: 10741
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8325
+  source_order: 8322
   source_anchor: 
 aliases:
   - "Bhimaratha 02"

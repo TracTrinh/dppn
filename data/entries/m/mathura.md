@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "madhura-01"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8604
+  source_order: 8601
   source_anchor: 
 aliases:
   - "Mathura"

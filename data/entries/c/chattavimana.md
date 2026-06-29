@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "chatta-03"
 source:
   epub_file: "Ops/036.html"
-  source_order: 4663
+  source_order: 4660
   source_anchor: 
 aliases:
   - "Chattavimana"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9451
+  source_order: 9446
   source_anchor: 
 aliases:
   - "Mittamittajataka 01"

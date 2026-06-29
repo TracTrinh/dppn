@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10391
+  source_order: 10386
   source_anchor: 
 aliases:
   - "Vanna"

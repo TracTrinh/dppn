@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8413
+  source_order: 8410
   source_anchor: 
 aliases:
   - "Makhadeva 02"

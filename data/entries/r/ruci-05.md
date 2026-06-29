@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suruci-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10052
+  source_order: 10047
   source_anchor: 
 aliases: []
 link_candidates:

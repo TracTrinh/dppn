@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vesali"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10985
+  source_order: 10980
   source_anchor: 
 aliases:
   - "Visala"

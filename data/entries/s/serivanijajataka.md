@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13288
+  source_order: 13283
   source_anchor: 
 aliases:
   - "Serivanijajataka"

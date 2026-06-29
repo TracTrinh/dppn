@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3632
+  source_order: 3630
   source_anchor: 
 aliases:
   - "Khallatanaga"

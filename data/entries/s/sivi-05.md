@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sivirattha"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12388
+  source_order: 12383
   source_anchor: 
 aliases: []
 link_candidates:

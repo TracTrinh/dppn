@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Adittasutta 02"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Ādittasutta 02
 
 ## English source
 
-Ādittasutta 02. All the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> are on fire. Seeing this, the Ariyan disciple feels revulsion from them and, through knowledge, attains to freedom. SN.iii.71.
+Ādittasutta 02. All the *khandhas* are on fire. Seeing this, the Ariyan disciple feels revulsion from them and, through knowledge, attains to freedom. SN.iii.71.
 
 ## Vietnamese translation
 

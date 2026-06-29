@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9695
+  source_order: 9690
   source_anchor: 
 aliases:
   - "Yathabhatasutta 01"

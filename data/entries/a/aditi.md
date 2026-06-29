@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Aditiyā putto"
   - "Ādicca"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Aditi. Mother of the sun, who is called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ādicca</span>, which is explained as <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Aditiyā putto</span>. DN­a.iii.963.
+Aditi. Mother of the sun, who is called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ādicca</span>, which is explained as *Aditiyā putto*. DN­a.iii.963.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11406
+  source_order: 11401
   source_anchor: 
 aliases:
   - "Saccasamyutta"
@@ -17,14 +17,13 @@ link_candidates:
   - "Anulā"
   - "Mahinda"
   - "Saṁyuttanikāya"
-  - "Sotāpannas"
 ---
 
 # Saccasaṁyutta
 
 ## English source
 
-Saccasaṁyutta. The last section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.v.414-78). It was preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda</span> to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anulā</span> and her companions, and they became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Sotāpannas</span>. Mhv.xiv.58.
+Saccasaṁyutta. The last section of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.v.414-78). It was preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda</span> to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anulā</span> and her companions, and they became *Sotāpannas*. Mhv.xiv.58.
 
 ## Vietnamese translation
 

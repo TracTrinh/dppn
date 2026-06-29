@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9901
+  source_order: 9896
   source_anchor: 
 aliases:
   - "Rathalatthijataka"

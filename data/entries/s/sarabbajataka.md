@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sarabhamigajataka"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11928
+  source_order: 11923
   source_anchor: 
 aliases:
   - "Sarabbajataka"

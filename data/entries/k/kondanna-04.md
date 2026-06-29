@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3445
+  source_order: 3443
   source_anchor: 
 aliases:
   - "Kondanna 04"

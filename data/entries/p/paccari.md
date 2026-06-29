@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-paccari"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6744
+  source_order: 6741
   source_anchor: 
 aliases:
   - "Paccari"

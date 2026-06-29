@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9205
+  source_order: 9201
   source_anchor: 
 aliases:
   - "Maha Sona Theri"

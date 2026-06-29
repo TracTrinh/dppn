@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7804
+  source_order: 7801
   source_anchor: 
 aliases:
   - "Bandhuma 01"

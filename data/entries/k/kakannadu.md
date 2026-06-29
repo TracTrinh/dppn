@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2740
+  source_order: 2739
   source_anchor: 
 aliases:
   - "Kakannadu"

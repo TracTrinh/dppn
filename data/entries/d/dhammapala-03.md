@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6015
+  source_order: 6012
   source_anchor: 
 aliases:
   - "Dhammapala 03"

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9456
+  source_order: 9451
   source_anchor: 
 aliases:
   - "Mittena macca Sutta 01"
-link_candidates:
-  - "Sotāpatti"
+link_candidates: []
 ---
 
 # Mittena maccā Sutta 01
 
 ## English source
 
-Mittena maccā Sutta 01. All intimate friends should be advised on and established in the four limbs of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpatti</span>. SN.v.364.
+Mittena maccā Sutta 01. All intimate friends should be advised on and established in the four limbs of *Sotāpatti*. SN.v.364.
 
 ## Vietnamese translation
 

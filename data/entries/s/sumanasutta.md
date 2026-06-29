@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sumanarajakumarisutta"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12999
+  source_order: 12994
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "brahmaloka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8071
+  source_order: 8068
   source_anchor: 
 aliases:
   - "Brahmaparisajja"

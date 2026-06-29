@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-duggala"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8963
+  source_order: 8959
   source_anchor: 
 aliases:
   - "Maha Nuggala"

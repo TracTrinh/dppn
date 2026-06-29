@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12077
+  source_order: 12072
   source_anchor: 
 aliases:
   - "Sadhinajataka"

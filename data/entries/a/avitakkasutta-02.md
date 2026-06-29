@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Moggallāna"
-  - "jhāna"
 ---
 
 # Avitakkasutta 02
 
 ## English source
 
-Avitakkasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> tells the monks how he had obtained the second <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">jhāna</span> with the assistance of the Buddha. SN.iv.263.
+Avitakkasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> tells the monks how he had obtained the second *jhāna* with the assistance of the Buddha. SN.iv.263.
 
 ## Vietnamese translation
 

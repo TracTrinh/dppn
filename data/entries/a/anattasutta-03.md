@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anattasutta 03"
-link_candidates:
-  - "ajjhatta"
-  - "bāhira"
+link_candidates: []
 ---
 
 # Anattāsutta 03
 
 ## English source
 
-Anattāsutta 03. All objects of the senses (sights, sounds, etc.), both external (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bāhira</span>) and personal (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ajjhatta</span>), are void of a self. SN.iv.2, 4, 6.
+Anattāsutta 03. All objects of the senses (sights, sounds, etc.), both external (*bāhira*) and personal (*ajjhatta*), are void of a self. SN.iv.2, 4, 6.
 
 ## Vietnamese translation
 

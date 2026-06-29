@@ -12,16 +12,14 @@ source:
   source_order: 47
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Arahant"
-  - "aggadhamma"
+link_candidates: []
 ---
 
 # Aggadhammasutta
 
 ## English source
 
-Aggadhammasutta. On the six qualities requisite for the attainment of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>-ship, which is the highest state (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">aggadhamma</span>). AN.iii.433-4.
+Aggadhammasutta. On the six qualities requisite for the attainment of *Arahant*-ship, which is the highest state (*aggadhamma*). AN.iii.433-4.
 
 ## Vietnamese translation
 

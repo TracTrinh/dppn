@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kali-02"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3219
+  source_order: 3218
   source_anchor: 
 aliases:
   - "Kuraragharika"

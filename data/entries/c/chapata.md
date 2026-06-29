@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "saddhammajotipala"
 source:
   epub_file: "Ops/036.html"
-  source_order: 4685
+  source_order: 4682
   source_anchor: 
 aliases:
   - "Chapata"

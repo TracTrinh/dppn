@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7327
+  source_order: 7324
   source_anchor: 
 aliases:
   - "Paniyadvara"

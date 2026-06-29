@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ekasanikasutta"
-link_candidates:
-  - "ekāsanikaṅga"
+link_candidates: []
 ---
 
 # Ekāsanikasutta
 
 ## English source
 
-Ekāsanikasutta. On the five classes of monks who practise the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">ekāsanikaṅga</span> eating at one sitting. AN.iii.220.
+Ekāsanikasutta. On the five classes of monks who practise the *ekāsanikaṅga* eating at one sitting. AN.iii.220.
 
 ## Vietnamese translation
 

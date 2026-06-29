@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhatukatha"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8897
+  source_order: 8893
   source_anchor: 
 aliases:
   - "Maha Dhatukatha"

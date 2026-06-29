@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2324
+  source_order: 2323
   source_anchor: 
 aliases:
   - "Kancana 01"

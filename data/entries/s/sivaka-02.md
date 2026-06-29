@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "moliya-sivaka"
 source:
   epub_file: "Ops/070.html"
-  source_order: 12455
+  source_order: 12450
   source_anchor: 
 aliases:
   - "Sivaka 02"

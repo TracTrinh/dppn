@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9661
+  source_order: 9656
   source_anchor: 
 aliases:
   - "Moragiva"

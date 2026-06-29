@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dvaramandala"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5886
+  source_order: 5883
   source_anchor: 
 aliases:
   - "Dovarikamandala"

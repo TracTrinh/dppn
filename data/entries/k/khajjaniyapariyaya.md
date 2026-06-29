@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "khajjaniyasutta"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3560
+  source_order: 3558
   source_anchor: 
 aliases:
   - "Khajjaniyapariyaya"

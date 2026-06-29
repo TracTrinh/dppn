@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sinipura"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6609
+  source_order: 6606
   source_anchor: 
 aliases: []
 link_candidates:

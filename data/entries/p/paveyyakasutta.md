@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "timsamattasutta"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7382
+  source_order: 7379
   source_anchor: 
 aliases:
   - "Paveyyakasutta."

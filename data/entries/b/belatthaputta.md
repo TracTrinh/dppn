@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7981
+  source_order: 7978
   source_anchor: 
 aliases:
   - "Belatthaputta"

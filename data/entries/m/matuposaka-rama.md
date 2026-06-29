@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rama-01"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9314
+  source_order: 9310
   source_anchor: 
 aliases:
   - "Matuposaka Rama"

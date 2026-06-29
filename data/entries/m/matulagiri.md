@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9317
+  source_order: 9313
   source_anchor: 
 aliases:
   - "Matulagiri"

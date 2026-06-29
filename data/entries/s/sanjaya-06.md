@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11424
+  source_order: 11419
   source_anchor: 
 aliases:
   - "Sanjaya 06"

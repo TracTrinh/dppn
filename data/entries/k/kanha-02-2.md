@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kanhajina"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2445
+  source_order: 2444
   source_anchor: 
 aliases:
   - "Kanha 02"

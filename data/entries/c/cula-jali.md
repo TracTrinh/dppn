@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4478
+  source_order: 4475
   source_anchor: 
 aliases:
   - "Cula Jali"
 link_candidates:
+  - "Cūla Jālī"
   - "Pacceka Buddha"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Jālī, Cūla Jālī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span> mentioned in a list of these. MN.iii.70; MN­a.ii.890.
+Cūḷa Jālī, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Jālī</span>. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pacceka Buddha</span> mentioned in a list of these. MN.iii.70; MN­a.ii.890.
 
 ## Vietnamese translation
 

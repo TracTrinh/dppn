@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6682
+  source_order: 6679
   source_anchor: 
 aliases:
   - "Nila 01"

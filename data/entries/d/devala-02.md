@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kaladevala-01"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5838
+  source_order: 5835
   source_anchor: 
 aliases: []
 link_candidates:

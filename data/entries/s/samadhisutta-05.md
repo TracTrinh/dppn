@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11777
+  source_order: 11772
   source_anchor: 
 aliases:
   - "Samadhisutta 05"
-link_candidates:
-  - "Sutta"
+link_candidates: []
 ---
 
 # Samādhisutta 05
 
 ## English source
 
-Samādhisutta 05. The same as (3), but this <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> adds that those who have gained neither one nor both should strive energetically to obtain them. AN.ii.93.
+Samādhisutta 05. The same as (3), but this *Sutta* adds that those who have gained neither one nor both should strive energetically to obtain them. AN.ii.93.
 
 ## Vietnamese translation
 

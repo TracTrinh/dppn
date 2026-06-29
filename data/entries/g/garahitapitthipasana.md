@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "garahitajataka"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3841
+  source_order: 3839
   source_anchor: 
 aliases:
   - "Garahitapitthipasana"

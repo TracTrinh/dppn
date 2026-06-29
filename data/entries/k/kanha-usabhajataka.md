@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2443
+  source_order: 2442
   source_anchor: 
 aliases:
   - "Kanha-usabhajataka"

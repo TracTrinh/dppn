@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9757
+  source_order: 9752
   source_anchor: 
 aliases:
   - "Yasodhara 03"
 link_candidates:
   - "Anomadassī Buddha"
-  - "Khattiya"
   - "Yasavā"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Yasodharā 03. Wife of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Khattiya</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Yasavā</span> and mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anomadassī Buddha</span>. Ja.i.36; Dhp­a.i.105; Bv.viii.17; AN­a.i.85.
+Yasodharā 03. Wife of the *Khattiya* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Yasavā</span> and mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anomadassī Buddha</span>. Ja.i.36; Dhp­a.i.105; Bv.viii.17; AN­a.i.85.
 
 ## Vietnamese translation
 

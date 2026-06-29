@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 8995
+  source_order: 8991
   source_anchor: 
 aliases:
   - "Maha Panada 01"

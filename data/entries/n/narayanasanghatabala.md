@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6508
+  source_order: 6505
   source_anchor: 
 aliases:
   - "Narayanasanghatabala"

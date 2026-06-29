@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9045
+  source_order: 9041
   source_anchor: 
 aliases:
   - "Maha Mahindabahuparivena"

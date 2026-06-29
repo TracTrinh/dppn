@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "karakanda-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2597
+  source_order: 2596
   source_anchor: 
 aliases:
   - "Karandaka 02"

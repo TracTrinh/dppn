@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5487
+  source_order: 5484
   source_anchor: 
 aliases:
   - "Dalla Moggallana"

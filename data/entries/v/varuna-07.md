@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10523
+  source_order: 10518
   source_anchor: 
 aliases:
   - "Varuna 07"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rahulamata"
 source:
   epub_file: "Ops/061.html"
-  source_order: 9755
+  source_order: 9750
   source_anchor: 
 aliases:
   - "Yasodhara 01"

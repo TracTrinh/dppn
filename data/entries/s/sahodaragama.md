@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 12026
+  source_order: 12021
   source_anchor: "a346"
 aliases:
   - "Sahodaragama"

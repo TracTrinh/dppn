@@ -6,10 +6,10 @@ disambiguator: ""
 letter: "P"
 section: "Pi-Po."
 status: "redirect"
-redirect_to: "kaccayana"
+redirect_to: "kaccayana-01"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7607
+  source_order: 7604
   source_anchor: 
 aliases:
   - "Pubba Kaccayana"

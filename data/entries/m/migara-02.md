@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9409
+  source_order: 9404
   source_anchor: 
 aliases:
   - "Migara 02"

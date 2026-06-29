@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-dhana-01"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7862
+  source_order: 7859
   source_anchor: 
 aliases:
   - "Baranasisetthi"

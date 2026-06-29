@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2905
+  source_order: 2904
   source_anchor: 
 aliases:
   - "Kalaselasattha"

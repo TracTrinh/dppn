@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9713
+  source_order: 9708
   source_anchor: 
 aliases:
   - "Yamuna 01"

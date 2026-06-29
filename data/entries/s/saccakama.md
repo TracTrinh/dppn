@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sabbakama-01"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11396
+  source_order: 11391
   source_anchor: 
 aliases:
   - "Saccakama"

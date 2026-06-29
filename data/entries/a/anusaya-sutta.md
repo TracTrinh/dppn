@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anusaya Sutta"
-link_candidates:
-  - "anusayā"
+link_candidates: []
 ---
 
 # Anusayā Sutta
 
 ## English source
 
-Anusayā Sutta. On how the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">anusayā</span> can be uprooted. SN.iv.32.
+Anusayā Sutta. On how the *anusayā* can be uprooted. SN.iv.32.
 
 ## Vietnamese translation
 

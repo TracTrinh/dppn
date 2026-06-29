@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sammaparibbajaniyasutta"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9142
+  source_order: 9138
   source_anchor: 
 aliases:
   - "Maha Samayasutta 02"

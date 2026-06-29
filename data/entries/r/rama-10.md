@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ramma-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10012
+  source_order: 10007
   source_anchor: 
 aliases:
   - "Rama 10"

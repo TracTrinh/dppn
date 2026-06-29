@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "punna-03"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7564
+  source_order: 7561
   source_anchor: 
 aliases:
   - "Punnika 02"

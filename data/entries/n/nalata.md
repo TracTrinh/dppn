@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6382
+  source_order: 6379
   source_anchor: 
 aliases:
   - "Nalata"

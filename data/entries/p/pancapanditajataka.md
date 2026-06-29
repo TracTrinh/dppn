@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6798
+  source_order: 6795
   source_anchor: "a275"
 aliases:
   - "Pancapanditajataka"

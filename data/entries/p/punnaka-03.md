@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7533
+  source_order: 7530
   source_anchor: 
 aliases:
   - "Punnaka 03"

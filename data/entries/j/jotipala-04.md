@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4929
+  source_order: 4926
   source_anchor: 
 aliases:
   - "Jotipala 04"

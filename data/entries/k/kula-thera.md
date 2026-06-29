@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kundala"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3246
+  source_order: 3245
   source_anchor: 
 aliases: []
 link_candidates:

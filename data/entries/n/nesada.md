@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6713
+  source_order: 6710
   source_anchor: 
 aliases:
   - "Nesada"

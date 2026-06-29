@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10080
+  source_order: 10075
   source_anchor: 
 aliases:
   - "Rupasutta 03"

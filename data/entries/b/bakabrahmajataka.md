@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7777
+  source_order: 7774
   source_anchor: 
 aliases:
   - "Bakabrahmajataka"

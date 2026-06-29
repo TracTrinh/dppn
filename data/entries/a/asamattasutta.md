@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Appamatta"
-  - "Sutta"
 ---
 
 # Asamattasutta
 
 ## English source
 
-Asamattasutta. Association with the worthy, listening to the Dhamma, systematic reflection and living according to the precepts of the Dhamma – these things, if cultivated, lead to infinite insight (SN.v.412). This <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sutta</span> should probably be called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Appamatta</span>; the text gives both names.
+Asamattasutta. Association with the worthy, listening to the Dhamma, systematic reflection and living according to the precepts of the Dhamma – these things, if cultivated, lead to infinite insight (SN.v.412). This *Sutta* should probably be called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Appamatta</span>; the text gives both names.
 
 ## Vietnamese translation
 

@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12461
+  source_order: 12456
   source_anchor: 
 aliases:
   - "Sivala 01"
 link_candidates:
-  - "Aggasāvikā"
   - "Siddhattha Buddha"
   - "Sīvalī"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Sīvalā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sīvalī</span>. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Aggasāvikā</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Siddhattha Buddha</span>. Bv.xvii.19; Ja.i.40.
+Sīvalā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sīvalī</span>. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span>. Bv.xvii.19; Ja.i.40.
 
 ## Vietnamese translation
 

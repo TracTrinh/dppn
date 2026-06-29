@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jotika-01"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4932
+  source_order: 4929
   source_anchor: 
 aliases: []
 link_candidates:

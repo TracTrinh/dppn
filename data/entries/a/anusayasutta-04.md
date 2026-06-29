@@ -12,15 +12,14 @@ source:
   source_order: 532
   source_anchor: 
 aliases: []
-link_candidates:
-  - "anusayā"
+link_candidates: []
 ---
 
 # Anusayasutta 04
 
 ## English source
 
-Anusayasutta 04. Concentration on breathing conduces to the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">anusayā</span>. SN.v.340.
+Anusayasutta 04. Concentration on breathing conduces to the destruction of the *anusayā*. SN.v.340.
 
 ## Vietnamese translation
 

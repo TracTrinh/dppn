@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9458
+  source_order: 9453
   source_anchor: 
 aliases:
   - "Mithila"
@@ -34,7 +34,6 @@ link_candidates:
   - "Pabbata"
   - "Padumuttara Buddha"
   - "Reṇu"
-  - "Rāmāyaṇa"
   - "Sujāta"
   - "Suruci"
   - "Sādhīna"
@@ -66,7 +65,7 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" dat
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Mithilā</span> is generally identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term-class="t14">Janakapura</span>, a small town within the Nepal border, north of which the Mazaffarpur and Darbhanga districts meet (CAGI.718).
 
-In the Indian Epics (e.g., <span class="dppn-term dppn-term-t18" data-dppn-term-pos="36" data-dppn-term-class="t18">Rāmāyaṇa</span> i. 48) <span class="dppn-term dppn-term-t14" data-dppn-term-pos="37" data-dppn-term-class="t14">Mithilā</span>, is chiefly famous as the residence of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="38" data-dppn-term-class="t14">Janaka</span>.
+In the Indian Epics (e.g., *Rāmāyaṇa* i. 48) <span class="dppn-term dppn-term-t14" data-dppn-term-pos="36" data-dppn-term-class="t14">Mithilā</span>, is chiefly famous as the residence of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="37" data-dppn-term-class="t14">Janaka</span>.
 
 ## Vietnamese translation
 

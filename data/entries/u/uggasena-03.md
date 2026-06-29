@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Dinnā"
-  - "q.v."
 ---
 
 # Uggasena 03
 
 ## English source
 
-Uggasena 03. King, husband of Queen <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dinnā</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>)
+Uggasena 03. King, husband of Queen <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dinnā</span> (*q.v.*)
 
 ## Vietnamese translation
 

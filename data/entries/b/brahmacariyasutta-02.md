@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8034
+  source_order: 8031
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Sotāpatti"
+link_candidates: []
 ---
 
 # Brahmacariyasutta 02
 
 ## English source
 
-Brahmacariyasutta 02. The best practice is the Noble Eightfold Path. Its fruits are <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpatti</span>, etc. SN.v.26.
+Brahmacariyasutta 02. The best practice is the Noble Eightfold Path. Its fruits are *Sotāpatti*, etc. SN.v.26.
 
 ## Vietnamese translation
 

@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3055
+  source_order: 3054
   source_anchor: 
 aliases:
   - "Kukkutajataka 01"
 link_candidates:
-  - "Bharhut Stﾅｫpa"
   - "Jﾄ》aka"
 ---
 
@@ -26,7 +25,7 @@ Kukku盪ｭajﾄ》aka 01. (Ja 383). The story of a cat who tried to deceive a cock 窶
 
 The story was told to a monk who was tempted by the sight of a woman (Ja.iii.265f).
 
-This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jﾄ》aka</span> is illustrated in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Bharhut Stﾅｫpa</span>. Cunningham: Pl.xlvii.5.
+This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jﾄ》aka</span> is illustrated in the *Bharhut Stﾅｫpa*. Cunningham: Pl.xlvii.5.
 
 ## Vietnamese translation
 

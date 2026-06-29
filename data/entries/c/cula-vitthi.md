@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "hulapitthivihara"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4547
+  source_order: 4544
   source_anchor: 
 aliases:
   - "Cula Vitthi"

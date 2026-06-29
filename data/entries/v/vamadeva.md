@@ -9,21 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10647
+  source_order: 10642
   source_anchor: 
 aliases:
   - "Vamadeva"
 link_candidates:
-  - "Rāmāyaṇa"
   - "Vāmaka"
-  - "Ṛgveda"
 ---
 
 # Vāmadeva
 
 ## English source
 
-Vāmadeva. One of the great sages honoured by the Brahmins as authors of hymns, etc. Vin.i.245; DN.i.104, etc.; see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vāmaka</span>; cf. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Ṛgveda</span> iv. 26; <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Rāmāyaṇa</span> i.7, etc.
+Vāmadeva. One of the great sages honoured by the Brahmins as authors of hymns, etc. Vin.i.245; DN.i.104, etc.; see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vāmaka</span>; cf. *Ṛgveda* iv. 26; *Rāmāyaṇa* i.7, etc.
 
 ## Vietnamese translation
 

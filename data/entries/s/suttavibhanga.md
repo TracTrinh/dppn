@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vibhanga"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12651
+  source_order: 12646
   source_anchor: 
 aliases:
   - "Suttavibhanga"

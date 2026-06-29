@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4633
+  source_order: 4630
   source_anchor: 
 aliases:
   - "Corambagama"

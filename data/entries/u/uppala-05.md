@@ -12,15 +12,14 @@ source:
   source_order: 2013
   source_anchor: 
 aliases: []
-link_candidates:
-  - "gāvutas"
+link_candidates: []
 ---
 
 # Uppala 05
 
 ## English source
 
-Uppala 05. One of the treasure-troves that rose up from the earth on the day of the Bodhisatta’s birth. It was three <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">gāvutas</span> in extent. DN­a.i.284.
+Uppala 05. One of the treasure-troves that rose up from the earth on the day of the Bodhisatta’s birth. It was three *gāvutas* in extent. DN­a.i.284.
 
 ## Vietnamese translation
 

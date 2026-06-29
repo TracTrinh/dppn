@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7376
+  source_order: 7373
   source_anchor: 
 aliases:
   - "Pavarika 01"

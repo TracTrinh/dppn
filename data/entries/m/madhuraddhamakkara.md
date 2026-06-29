@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8628
+  source_order: 8625
   source_anchor: 
 aliases:
   - "Madhuraddhamakkara"

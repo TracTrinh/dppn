@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "saddhatissa-01"
 source:
   epub_file: "Ops/045.html"
-  source_order: 6098
+  source_order: 6095
   source_anchor: 
 aliases: []
 link_candidates:

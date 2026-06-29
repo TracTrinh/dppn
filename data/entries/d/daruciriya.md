@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5575
+  source_order: 5572
   source_anchor: 
 aliases:
   - "Daruciriya"

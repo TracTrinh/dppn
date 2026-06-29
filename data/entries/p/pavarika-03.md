@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dussapavarika"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7378
+  source_order: 7375
   source_anchor: 
 aliases:
   - "Pavarika 03"

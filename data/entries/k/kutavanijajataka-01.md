@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3313
+  source_order: 3311
   source_anchor: "a136"
 aliases:
   - "Kutavanijajataka 01"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lanjatissa"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10196
+  source_order: 10191
   source_anchor: 
 aliases: []
 link_candidates:

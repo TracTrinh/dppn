@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ogadhasutta"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11464
+  source_order: 11459
   source_anchor: 
 aliases: []
 link_candidates:

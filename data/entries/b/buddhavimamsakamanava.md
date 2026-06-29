@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "uttara-09"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7960
+  source_order: 7957
   source_anchor: 
 aliases:
   - "Buddhavimamsakamanava"

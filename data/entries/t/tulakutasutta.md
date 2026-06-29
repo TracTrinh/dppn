@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5323
+  source_order: 5320
   source_anchor: 
 aliases:
   - "Tulakutasutta"

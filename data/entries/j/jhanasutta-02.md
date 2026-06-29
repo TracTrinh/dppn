@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
-  source_order: 4942
+  source_order: 4939
   source_anchor: 
 aliases:
   - "Jhanasutta 02"
-link_candidates:
-  - "jhāna"
+link_candidates: []
 ---
 
 # Jhānasutta 02
 
 ## English source
 
-Jhānasutta 02. Six things one must give up in order to develop <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">jhāna</span>. AN.iii.428.
+Jhānasutta 02. Six things one must give up in order to develop *jhāna*. AN.iii.428.
 
 ## Vietnamese translation
 

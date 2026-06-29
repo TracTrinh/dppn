@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Amisakincikkhasutta"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Āmisakiñcikkhasutta
 
 ## English source
 
-Āmisakiñcikkhasutta. One of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> in a group of eight, dealing with people who will not lie for the sake of gain – and, in this case, for the sake of anything worldly whatsoever. SN.ii.234.
+Āmisakiñcikkhasutta. One of the *Suttas* in a group of eight, dealing with people who will not lie for the sake of gain – and, in this case, for the sake of anything worldly whatsoever. SN.ii.234.
 
 ## Vietnamese translation
 

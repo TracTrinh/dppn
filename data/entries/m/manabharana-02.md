@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9293
+  source_order: 9289
   source_anchor: 
 aliases:
   - "Manabharana 02"

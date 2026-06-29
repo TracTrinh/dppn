@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samuggajataka"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10651
+  source_order: 10646
   source_anchor: 
 aliases:
   - "Vayussaputta"

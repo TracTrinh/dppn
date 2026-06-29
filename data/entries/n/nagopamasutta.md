@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nagasutta-05"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6462
+  source_order: 6459
   source_anchor: 
 aliases:
   - "Nagopamasutta"

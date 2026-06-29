@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6075
+  source_order: 6072
   source_anchor: 
 aliases:
   - "Dhamma 02"

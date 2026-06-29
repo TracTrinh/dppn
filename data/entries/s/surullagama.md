@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13110
+  source_order: 13105
   source_anchor: 
 aliases:
   - "Surullagama"

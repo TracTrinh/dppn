@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4428
+  source_order: 4425
   source_anchor: 
 aliases:
   - "Cinamala"

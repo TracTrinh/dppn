@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
-  source_order: 4943
+  source_order: 4940
   source_anchor: 
 aliases:
   - "Jhanasutta 03"
-link_candidates:
-  - "jhāna"
+link_candidates: []
 ---
 
 # Jhānasutta 03
 
 ## English source
 
-Jhānasutta 03. Six other things which must be abandoned in order that <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">jhāna</span> may be developed. AN.iii.428.
+Jhānasutta 03. Six other things which must be abandoned in order that *jhāna* may be developed. AN.iii.428.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nanda-20"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6390
+  source_order: 6387
   source_anchor: 
 aliases:
   - "Nava Nanda"

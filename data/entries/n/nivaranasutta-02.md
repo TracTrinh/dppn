@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6698
+  source_order: 6695
   source_anchor: 
 aliases:
   - "Nivaranasutta 02"
-link_candidates:
-  - "nīvaraṇas"
-  - "satipaṭṭhāna"
+link_candidates: []
 ---
 
 # Nīvaraṇasutta 02
 
 ## English source
 
-Nīvaraṇasutta 02. The four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>s are to be practised in order to get rid of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">nīvaraṇas</span>. AN.iv.457f.
+Nīvaraṇasutta 02. The four *satipaṭṭhāna*s are to be practised in order to get rid of the five *nīvaraṇas*. AN.iv.457f.
 
 ## Vietnamese translation
 

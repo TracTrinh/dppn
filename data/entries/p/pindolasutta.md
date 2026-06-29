@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7432
+  source_order: 7429
   source_anchor: 
 aliases:
   - "Pindolasutta"

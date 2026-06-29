@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8640
+  source_order: 8637
   source_anchor: 
 aliases:
   - "Manasikarasutta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "valahaka-01"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10631
+  source_order: 10626
   source_anchor: 
 aliases:
   - "Vatavalahaka"

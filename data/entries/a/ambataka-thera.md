@@ -14,16 +14,14 @@ source:
 aliases:
   - "Ambataka Thera"
 link_candidates:
-  - "Arahant"
   - "Rājadatta Thera"
-  - "kappas"
 ---
 
 # Ambāṭaka Thera
 
 ## English source
 
-Ambāṭaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Fourteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he had given a mango to a Buddha (Ap.ii.394). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rājadatta Thera</span>. Thag­a.i.403.
+Ambāṭaka Thera. An *Arahant*. Fourteen *kappas* ago he had given a mango to a Buddha (Ap.ii.394). He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājadatta Thera</span>. Thag­a.i.403.
 
 ## Vietnamese translation
 

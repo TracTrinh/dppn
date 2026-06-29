@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9542
+  source_order: 9537
   source_anchor: 
 aliases:
   - "Muhunnaruggama"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6534
+  source_order: 6531
   source_anchor: 
 aliases:
   - "Nalika"

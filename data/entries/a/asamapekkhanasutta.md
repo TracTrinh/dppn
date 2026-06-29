@@ -14,7 +14,6 @@ source:
 aliases:
   - "Asamapekkhanasutta"
 link_candidates:
-  - "Paribbājaka"
   - "Sāvatthī"
   - "Vacchagotta"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Asamapekkhanāsutta. By not seeing the nature of body, etc., diverse opinions arise in the world. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span> to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Paribbājaka</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vacchagotta</span>. SN.iii.261.
+Asamapekkhanāsutta. By not seeing the nature of body, etc., diverse opinions arise in the world. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span> to the *Paribbājaka* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vacchagotta</span>. SN.iii.261.
 
 ## Vietnamese translation
 

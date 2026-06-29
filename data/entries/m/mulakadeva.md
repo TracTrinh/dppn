@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "alakadeva"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9547
+  source_order: 9542
   source_anchor: 
 aliases:
   - "Mulakadeva"

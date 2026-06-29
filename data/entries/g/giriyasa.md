@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "giri-03"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3935
+  source_order: 3933
   source_anchor: 
 aliases: []
 link_candidates:

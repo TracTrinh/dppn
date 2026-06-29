@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13328
+  source_order: 13323
   source_anchor: 
 aliases:
   - "Sonattheravagga"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6008
+  source_order: 6005
   source_anchor: 
 aliases:
   - "Dhammaddhajajataka 02"

@@ -15,15 +15,13 @@ aliases: []
 link_candidates:
   - "Pacceka Buddha"
   - "Panasaphaladāyaka Thera"
-  - "kappas"
-  - "q.v."
 ---
 
 # Ajjuna 02
 
 ## English source
 
-Ajjuna 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span>, who lived ninety-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Panasaphaladāyaka Thera</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">q.v.</span>) gave him a ripe jackfruit. Ap.i.297.
+Ajjuna 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span>, who lived ninety-one *kappas* ago. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Panasaphaladāyaka Thera</span> (*q.v.*) gave him a ripe jackfruit. Ap.i.297.
 
 ## Vietnamese translation
 

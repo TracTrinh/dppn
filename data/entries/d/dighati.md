@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dighiti"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5625
+  source_order: 5622
   source_anchor: 
 aliases:
   - "Dighati"

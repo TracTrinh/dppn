@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suciloma"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13193
+  source_order: 13188
   source_anchor: 
 aliases:
   - "Suciloma"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sattuka-02"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11528
+  source_order: 11523
   source_anchor: 
 aliases: []
 link_candidates:

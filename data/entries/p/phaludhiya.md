@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
-  source_order: 7743
+  source_order: 7740
   source_anchor: 
 aliases:
   - "Phaludhiya"

@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9699
+  source_order: 9694
   source_anchor: 
 aliases: []
-link_candidates:
-  - "dukkha"
+link_candidates: []
 ---
 
 # Yadaniccasutta 02
 
 ## English source
 
-Yadaniccasutta 02. The eye is impermanent, it is <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dukkha</span> and without the self, whether of the past, present, or future, so also are objects of sight. It is the same with all other senses. SN.iv.152ff.
+Yadaniccasutta 02. The eye is impermanent, it is *dukkha* and without the self, whether of the past, present, or future, so also are objects of sight. It is the same with all other senses. SN.iv.152ff.
 
 ## Vietnamese translation
 

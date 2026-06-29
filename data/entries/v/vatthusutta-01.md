@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10460
+  source_order: 10455
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Deva"
+link_candidates: []
 ---
 
 # Vatthusutta 01
 
 ## English source
 
-Vatthusutta 01. The Buddha declares, in answer to a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span>’s question, that children are a man’s support, wife his supreme comrade, and the spirits of the rain sustain all earthbound creatures. SN.i.37.
+Vatthusutta 01. The Buddha declares, in answer to a *Deva*’s question, that children are a man’s support, wife his supreme comrade, and the spirits of the rain sustain all earthbound creatures. SN.i.37.
 
 ## Vietnamese translation
 

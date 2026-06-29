@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10744
+  source_order: 10739
   source_anchor: 
 aliases:
   - "Vijayabahu 06"

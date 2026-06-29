@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4333
+  source_order: 4331
   source_anchor: 
 aliases:
   - "Cariyakatha"

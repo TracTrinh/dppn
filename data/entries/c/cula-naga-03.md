@@ -9,18 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4502
+  source_order: 4499
   source_anchor: 
 aliases:
   - "Cula Naga 03"
-link_candidates: []
+link_candidates:
+  - "Cūla Nāga"
 ---
 
 # Cūḷa Nāga 03
 
 ## English source
 
-Cūḷa Nāga 03. Cūla Nāga. A Thera of Ceylon. An eminent teacher of the Vinaya. Vin.v.3; Vin-a.i.62.
+Cūḷa Nāga 03. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Nāga</span>. A Thera of Ceylon. An eminent teacher of the Vinaya. Vin.v.3; Vin-a.i.62.
 
 ## Vietnamese translation
 

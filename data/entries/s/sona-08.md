@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-sona-01"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13318
+  source_order: 13313
   source_anchor: 
 aliases:
   - "Sona 08"

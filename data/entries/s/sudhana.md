@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sutanu"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12748
+  source_order: 12743
   source_anchor: 
 aliases:
   - "Sudhana"

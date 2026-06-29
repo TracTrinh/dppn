@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lumbini"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10244
+  source_order: 10239
   source_anchor: 
 aliases: []
 link_candidates:

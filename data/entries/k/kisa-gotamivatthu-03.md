@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3031
+  source_order: 3030
   source_anchor: 
 aliases:
   - "Kisa Gotamivatthu 03"
 link_candidates:
   - "Kisā Gotamī"
-  - "Sotāpanna"
 ---
 
 # Kisā Gotamīvatthu 03
 
 ## English source
 
-Kisā Gotamīvatthu 03. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kisā Gotamī</span> (1) becoming a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Sotāpanna</span>. Dhp­a.iii.432f.
+Kisā Gotamīvatthu 03. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kisā Gotamī</span> (1) becoming a *Sotāpanna*. Dhp­a.iii.432f.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7303
+  source_order: 7300
   source_anchor: 
 aliases:
   - "Patihariyakatha"

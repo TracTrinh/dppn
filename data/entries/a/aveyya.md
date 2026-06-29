@@ -15,8 +15,6 @@ aliases:
   - "Aveyya"
 link_candidates:
   - "Samādapaka Thera"
-  - "kappas"
-  - "v.l."
   - "Āvekkheyya"
 ---
 
@@ -24,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Āveyya (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Āvekkheyya</span>). A king of fifty-nine <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">kappas</span> ago, a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Samādapaka Thera</span>. Ap.i.185.
+Āveyya (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āvekkheyya</span>). A king of fifty-nine *kappas* ago, a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Samādapaka Thera</span>. Ap.i.185.
 
 ## Vietnamese translation
 

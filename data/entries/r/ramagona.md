@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10016
+  source_order: 10011
   source_anchor: 
 aliases:
   - "Ramagona"

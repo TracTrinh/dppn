@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6780
+  source_order: 6777
   source_anchor: 
 aliases:
   - "Pancagativannana"

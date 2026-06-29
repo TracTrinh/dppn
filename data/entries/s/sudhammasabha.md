@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sudhamma-03"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12764
+  source_order: 12759
   source_anchor: 
 aliases:
   - "Sudhammasabha"

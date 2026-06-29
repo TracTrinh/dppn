@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
-  source_order: 5900
+  source_order: 5897
   source_anchor: 
 aliases:
   - "Dvaravati 01"

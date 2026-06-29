@@ -15,8 +15,6 @@ aliases:
   - "Ambapindiya 01"
 link_candidates:
   - "Ambapiṇḍiya Thera"
-  - "Arahant"
-  - "Dānava"
   - "Romasa"
   - "Vipassī Buddha"
 ---
@@ -25,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Ambapiṇḍiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambapiṇḍiya Thera</span>. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Arahant</span> He had been a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Dānava</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Romasa</span> and had given a cluster of mangoes to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vipassī Buddha</span>. Ap.i.147.
+Ambapiṇḍiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambapiṇḍiya Thera</span>. An *Arahant* He had been a *Dānava* named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Romasa</span> and had given a cluster of mangoes to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vipassī Buddha</span>. Ap.i.147.
 
 ## Vietnamese translation
 

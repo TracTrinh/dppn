@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12454
+  source_order: 12449
   source_anchor: 
 aliases:
   - "Sivaka 01"

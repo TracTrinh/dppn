@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9449
+  source_order: 9444
   source_anchor: 
 aliases:
   - "Mitta 02"

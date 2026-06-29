@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
-  source_order: 8028
+  source_order: 8025
   source_anchor: 
 aliases:
   - "Bodhi Theri"

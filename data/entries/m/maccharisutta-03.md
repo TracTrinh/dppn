@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8488
+  source_order: 8485
   source_anchor: 
 aliases:
   - "Maccharisutta 03"

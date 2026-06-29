@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "varana"
 source:
   epub_file: "Ops/045.html"
-  source_order: 6104
+  source_order: 6101
   source_anchor: 
 aliases:
   - "Dharana"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "suramma"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13079
+  source_order: 13074
   source_anchor: 
 aliases:
   - "Surama 02"

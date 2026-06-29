@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ahirikamulaka Cattarosutta"
-link_candidates:
-  - "Suttas"
+link_candidates: []
 ---
 
 # Ahirikamūlakā Cattārosutta
 
 ## English source
 
-Ahirikamūlakā Cattārosutta. Four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> based on the fact that like coalesces with like, the shameless with the shameless, etc. SN.ii.162f.
+Ahirikamūlakā Cattārosutta. Four *Suttas* based on the fact that like coalesces with like, the shameless with the shameless, etc. SN.ii.162f.
 
 ## Vietnamese translation
 

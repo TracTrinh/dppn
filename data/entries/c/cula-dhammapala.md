@@ -9,14 +9,13 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4491
+  source_order: 4488
   source_anchor: 
 aliases:
   - "Cula Dhammapala"
 link_candidates:
-  - "Abhidhammamūlaṭīkā"
+  - "Cūla Dhammapāla"
   - "Saccasaṅkhepa"
-  - "anuṭīkā"
   - "Ānanda Vanaratana"
 ---
 
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Dhammapāla, Cūla Dhammapāla. Senior pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda Vanaratana</span> and author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saccasaṅkhepa</span> (Gv.60, 70; PLC.113, 203f) and of an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">anuṭīkā</span> to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Abhidhammamūlaṭīkā</span>. Ibid., 211f.
+Cūḷa Dhammapāla, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Dhammapāla</span>. Senior pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda Vanaratana</span> and author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Saccasaṅkhepa</span> (Gv.60, 70; PLC.113, 203f) and of an *anuṭīkā* to the *Abhidhammamūlaṭīkā*. Ibid., 211f.
 
 ## Vietnamese translation
 

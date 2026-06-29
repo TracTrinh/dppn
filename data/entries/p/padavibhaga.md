@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6979
+  source_order: 6976
   source_anchor: 
 aliases:
   - "Padavibhaga"

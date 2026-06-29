@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3209
+  source_order: 3208
   source_anchor: 
 aliases:
   - "Kumbhilasobbha"

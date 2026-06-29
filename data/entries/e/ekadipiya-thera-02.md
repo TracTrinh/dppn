@@ -14,18 +14,15 @@ source:
 aliases:
   - "Ekadipiya Thera 02"
 link_candidates:
-  - "Arahant"
   - "Buddha Padumuttara"
   - "Candābha"
-  - "kappas"
-  - "salala-bodhi"
 ---
 
 # Ekadīpiya Thera 02
 
 ## English source
 
-Ekadīpiya Thera 02. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the past he had lighted a lamp before the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">salala-bodhi</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddha Padumuttara</span>. Sixteen thousand <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappas</span> ago he was four times king under the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Candābha</span>. Ap.i.189.
+Ekadīpiya Thera 02. An *Arahant*. In the past he had lighted a lamp before the *salala-bodhi* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Buddha Padumuttara</span>. Sixteen thousand *kappas* ago he was four times king under the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Candābha</span>. Ap.i.189.
 
 ## Vietnamese translation
 

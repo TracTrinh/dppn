@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6620
+  source_order: 6617
   source_anchor: 
 aliases:
   - "Nibbinda"

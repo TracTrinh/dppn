@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ghotamukha"
 source:
   epub_file: "Ops/033.html"
-  source_order: 4148
+  source_order: 4146
   source_anchor: 
 aliases:
   - "Ghotamukhi"

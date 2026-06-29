@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8243
+  source_order: 8240
   source_anchor: 
 aliases:
   - "Bhati"

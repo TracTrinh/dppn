@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cula-pala"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7367
+  source_order: 7364
   source_anchor: 
 aliases:
   - "Pala"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9686
+  source_order: 9681
   source_anchor: 
 aliases:
   - "Yajamanasutta"

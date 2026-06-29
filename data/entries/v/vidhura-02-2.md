@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vidhura-01"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10838
+  source_order: 10833
   source_anchor: 
 aliases:
   - "Vidhura 02"

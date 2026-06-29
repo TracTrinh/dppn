@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3829
+  source_order: 3827
   source_anchor: 
 aliases:
   - "Gambhira 02"

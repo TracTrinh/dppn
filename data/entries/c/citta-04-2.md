@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ummadacitta"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4412
+  source_order: 4409
   source_anchor: 
 aliases:
   - "Citta 04"

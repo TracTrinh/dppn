@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jantugama"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4732
+  source_order: 4729
   source_anchor: 
 aliases:
   - "Janagama"

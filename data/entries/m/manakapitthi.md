@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9332
+  source_order: 9328
   source_anchor: 
 aliases:
   - "Manakapitthi"

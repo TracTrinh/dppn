@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bahuvedaniyasutta"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6779
+  source_order: 6776
   source_anchor: 
 aliases:
   - "Pancakangasutta"

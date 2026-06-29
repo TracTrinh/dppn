@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7252
+  source_order: 7249
   source_anchor: 
 aliases:
   - "Pamsupabbatavihara"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kasi-02"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2940
+  source_order: 2939
   source_anchor: 
 aliases:
   - "Kasipura"

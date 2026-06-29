@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-pajapati-gotami"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6764
+  source_order: 6761
   source_anchor: 
 aliases:
   - "Pajapati 03"

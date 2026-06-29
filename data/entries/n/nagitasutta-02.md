@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6460
+  source_order: 6457
   source_anchor: 
 aliases:
   - "Nagitasutta 02"

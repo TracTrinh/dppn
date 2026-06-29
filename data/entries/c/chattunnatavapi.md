@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
-  source_order: 4665
+  source_order: 4662
   source_anchor: 
 aliases:
   - "Chattunnatavapi"

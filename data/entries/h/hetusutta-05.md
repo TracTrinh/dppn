@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pubbasutta-01"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13563
+  source_order: 13557
   source_anchor: 
 aliases: []
 link_candidates:

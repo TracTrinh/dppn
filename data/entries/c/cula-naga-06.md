@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4505
+  source_order: 4502
   source_anchor: 
 aliases:
   - "Cula Naga 06"

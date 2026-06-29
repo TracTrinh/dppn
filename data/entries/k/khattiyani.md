@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3587
+  source_order: 3585
   source_anchor: 
 aliases:
   - "Khattiyani"

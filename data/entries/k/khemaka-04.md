@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "khemavati-01"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3691
+  source_order: 3689
   source_anchor: 
 aliases: []
 link_candidates:

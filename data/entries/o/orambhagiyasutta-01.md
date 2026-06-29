@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Orambhagiyasutta 01"
-link_candidates:
-  - "sakkāyadiṭṭhi"
-  - "vicikicchā"
+link_candidates: []
 ---
 
 # Orambhāgiyasutta 01
 
 ## English source
 
-Orambhāgiyasutta 01. The five fetters concerned with the lower stages of existence: <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">sakkāyadiṭṭhi</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vicikicchā</span>, etc. They could be destroyed by developing the Noble Eightfold Way. SN.v.61.
+Orambhāgiyasutta 01. The five fetters concerned with the lower stages of existence: *sakkāyadiṭṭhi*, *vicikicchā*, etc. They could be destroyed by developing the Noble Eightfold Way. SN.v.61.
 
 ## Vietnamese translation
 

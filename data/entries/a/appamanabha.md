@@ -16,15 +16,13 @@ aliases:
 link_candidates:
   - "Devas"
   - "Rūpaloka"
-  - "jhāna"
-  - "kappas"
 ---
 
 # Appamāṇābhā
 
 ## English source
 
-Appamāṇābhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rūpaloka</span>, belonging to the plane of second <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">jhāna</span> (Abhs., p.21). Their life-term is four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappas</span> (Abhs., p.23; see also Kv.207; Vibh­a.520). Beings are born there who have absorbed the idea of boundless brilliancy (MN.iii.147), or who are possessed of faith, virtue, learning, munificence and wisdom. MN.iii.102.
+Appamāṇābhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rūpaloka</span>, belonging to the plane of second *jhāna* (Abhs., p.21). Their life-term is four *kappas* (Abhs., p.23; see also Kv.207; Vibh­a.520). Beings are born there who have absorbed the idea of boundless brilliancy (MN.iii.147), or who are possessed of faith, virtue, learning, munificence and wisdom. MN.iii.102.
 
 ## Vietnamese translation
 

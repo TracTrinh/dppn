@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sajjhadayaka-thera"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6756
+  source_order: 6753
   source_anchor: 
 aliases:
   - "Pacchidayaka Thera"

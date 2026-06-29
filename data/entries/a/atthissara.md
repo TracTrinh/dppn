@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Devadatta"
   - "Pacceka Buddha"
-  - "kappa"
 ---
 
 # Aṭṭhissara
 
 ## English source
 
-Aṭṭhissara. The name under which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devadatta</span>, having suffered for five parts of a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappa</span> in purgatory, will become a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pacceka Buddha</span>.
+Aṭṭhissara. The name under which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devadatta</span>, having suffered for five parts of a *kappa* in purgatory, will become a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pacceka Buddha</span>.
 
 ## Vietnamese translation
 

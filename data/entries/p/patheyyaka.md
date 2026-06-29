@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "paveyyaka"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7307
+  source_order: 7304
   source_anchor: 
 aliases:
   - "Patheyyaka"

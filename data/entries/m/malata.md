@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "malla"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8696
+  source_order: 8693
   source_anchor: 
 aliases:
   - "Malata"

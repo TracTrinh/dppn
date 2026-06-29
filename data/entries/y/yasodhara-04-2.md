@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9758
+  source_order: 9753
   source_anchor: 
 aliases:
   - "Yasodhara 04"

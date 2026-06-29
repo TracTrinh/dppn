@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3692
+  source_order: 3690
   source_anchor: 
 aliases:
   - "Khemankara 01"

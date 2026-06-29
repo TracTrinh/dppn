@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
-  source_order: 7736
+  source_order: 7733
   source_anchor: 
 aliases:
   - "Phaladayakavimanavatthu"

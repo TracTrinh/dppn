@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Uttari"
-link_candidates:
-  - "Sotāpanna"
+link_candidates: []
 ---
 
 # Uttarī
 
 ## English source
 
-Uttarī. A nun. She continued going on her rounds for alms until she reached the age of one hundred and twenty. One day, when returning from her round, she met a monk in the street and gave him all she had in her bowl. On the second and third days she did likewise. On the fourth day, as she was going her round, she met the Buddha in a very crowded spot. She stepped back and, while doing so, she trod on the skirt of her robe which had slipped down. Unable to keep her feet, she fell down. The Buddha came up and spoke to her. She became a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpanna</span>. Dhp­a.iii.110-11.
+Uttarī. A nun. She continued going on her rounds for alms until she reached the age of one hundred and twenty. One day, when returning from her round, she met a monk in the street and gave him all she had in her bowl. On the second and third days she did likewise. On the fourth day, as she was going her round, she met the Buddha in a very crowded spot. She stepped back and, while doing so, she trod on the skirt of her robe which had slipped down. Unable to keep her feet, she fell down. The Buddha came up and spoke to her. She became a *Sotāpanna*. Dhp­a.iii.110-11.
 
 ## Vietnamese translation
 

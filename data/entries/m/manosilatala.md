@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8657
+  source_order: 8654
   source_anchor: 
 aliases:
   - "Manosilatala"

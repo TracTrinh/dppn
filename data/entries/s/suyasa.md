@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 13056
+  source_order: 13051
   source_anchor: 
 aliases:
   - "Suyasa"

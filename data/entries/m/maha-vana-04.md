@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9106
+  source_order: 9102
   source_anchor: 
 aliases:
   - "Maha Vana 04"

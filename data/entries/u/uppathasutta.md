@@ -12,15 +12,14 @@ source:
   source_order: 2007
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Deva"
+link_candidates: []
 ---
 
 # Uppathasutta
 
 ## English source
 
-Uppathasutta. Questions asked by a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span> and the Buddha’s answers to them. Lust is the road that leads astray, life perishes both night and day, women are they that stain celibacy, the higher life cleanses without bathing. SN.i.38.
+Uppathasutta. Questions asked by a *Deva* and the Buddha’s answers to them. Lust is the road that leads astray, life perishes both night and day, women are they that stain celibacy, the higher life cleanses without bathing. SN.i.38.
 
 ## Vietnamese translation
 

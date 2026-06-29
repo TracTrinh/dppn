@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4346
+  source_order: 4344
   source_anchor: 
 aliases:
   - "Catumeyyaka"

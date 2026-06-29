@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11785
+  source_order: 11780
   source_anchor: 
 aliases:
   - "Samala"

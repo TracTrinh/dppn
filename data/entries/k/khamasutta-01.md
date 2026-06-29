@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3615
+  source_order: 3613
   source_anchor: 
 aliases:
   - "Khamasutta 01"
-link_candidates:
-  - "paṭipadā"
+link_candidates: []
 ---
 
 # Khamāsutta 01
 
 ## English source
 
-Khamāsutta 01. The four modes of progress (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">paṭipadā</span>); that which is impatient, that which is patient, that which tames, and that which calms. AN.ii.152f.
+Khamāsutta 01. The four modes of progress (*paṭipadā*); that which is impatient, that which is patient, that which tames, and that which calms. AN.ii.152f.
 
 ## Vietnamese translation
 

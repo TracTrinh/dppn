@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 13006
+  source_order: 13001
   source_anchor: 
 aliases:
   - "Sumana 07"
 link_candidates:
-  - "Arahant"
   - "Mahā Pajāpatī Gotamī"
   - "Sumanā Therī"
   - "Sākyan"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Sumanā 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumanā Therī</span>. She was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sākyan</span> maiden, belonging to the harem of the Bodhisatta before his renunciation. She joined the Saṅgha under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Pajāpatī Gotamī</span>, and, as she sat meditating, the Buddha appeared before her in a ray of glory. She developed insight and became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>. Thīg.vs.14; Thīg­a.20.
+Sumanā 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sumanā Therī</span>. She was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sākyan</span> maiden, belonging to the harem of the Bodhisatta before his renunciation. She joined the Saṅgha under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Pajāpatī Gotamī</span>, and, as she sat meditating, the Buddha appeared before her in a ray of glory. She developed insight and became an *Arahant*. Thīg.vs.14; Thīg­a.20.
 
 ## Vietnamese translation
 

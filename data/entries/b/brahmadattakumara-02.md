@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rajovadajataka-01"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8051
+  source_order: 8048
   source_anchor: 
 aliases:
   - "Brahmadattakumara 02"

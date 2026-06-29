@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "magha"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8437
+  source_order: 8434
   source_anchor: 
 aliases:
   - "Maghava"

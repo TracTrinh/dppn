@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7200
+  source_order: 7197
   source_anchor: 
 aliases:
   - "Parihanasutta 03"
-link_candidates:
-  - "cha abhibhāyatanāni"
+link_candidates: []
 ---
 
 # Parihānasutta 03
 
 ## English source
 
-Parihānasutta 03. On the six stations of mastery (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">cha abhibhāyatanāni</span>) which prevent a monk from falling away. Seeing an object with the eye, he does not allow evil and unprofitable states to arise in his mind, memories and hopes akin to fetters that bind. Likewise with the other senses. SN.iv.76f.
+Parihānasutta 03. On the six stations of mastery (*cha abhibhāyatanāni*) which prevent a monk from falling away. Seeing an object with the eye, he does not allow evil and unprofitable states to arise in his mind, memories and hopes akin to fetters that bind. Likewise with the other senses. SN.iv.76f.
 
 ## Vietnamese translation
 

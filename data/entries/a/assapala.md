@@ -21,14 +21,13 @@ link_candidates:
   - "Hatthipāla"
   - "Sakka"
   - "Sāriputta"
-  - "assapālā"
 ---
 
 # Assapāla
 
 ## English source
 
-Assapāla. The second son of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Esukārī</span>’s chaplain. He was born in the world of men at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sakka</span>’s request. His father had him brought up among the keepers of horses (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">assapālā</span>) so that he might not wish to renounce the world. His brothers were <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Hatthipāla</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Gopāla</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ajapāla</span>. He followed <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Hatthipāla</span> into the ascetic life and lived on the banks of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ganges</span> (Ja.iv.476ff). He was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Sāriputta</span> in the present age (Ja.iv.491).
+Assapāla. The second son of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Esukārī</span>’s chaplain. He was born in the world of men at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sakka</span>’s request. His father had him brought up among the keepers of horses (*assapālā*) so that he might not wish to renounce the world. His brothers were <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Hatthipāla</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Gopāla</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ajapāla</span>. He followed <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Hatthipāla</span> into the ascetic life and lived on the banks of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ganges</span> (Ja.iv.476ff). He was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Sāriputta</span> in the present age (Ja.iv.491).
 
 ## Vietnamese translation
 

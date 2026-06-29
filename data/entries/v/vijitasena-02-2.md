@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jitasena"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10765
+  source_order: 10760
   source_anchor: 
 aliases:
   - "Vijitasena 02"

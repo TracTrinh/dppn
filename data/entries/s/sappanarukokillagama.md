@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11632
+  source_order: 11627
   source_anchor: 
 aliases:
   - "Sappanarukokillagama"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7931
+  source_order: 7928
   source_anchor: 
 aliases:
   - "Buddhagama"

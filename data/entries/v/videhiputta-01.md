@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10823
+  source_order: 10818
   source_anchor: 
 aliases:
   - "Videhiputta 01"

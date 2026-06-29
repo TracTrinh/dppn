@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11587
+  source_order: 11582
   source_anchor: 
 aliases:
   - "Santakaya Thera"

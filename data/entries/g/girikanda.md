@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3902
+  source_order: 3900
   source_anchor: 
 aliases:
   - "Girikanda"

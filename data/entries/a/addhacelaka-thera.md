@@ -14,7 +14,6 @@ source:
 aliases:
   - "Addhacelaka Thera"
 link_candidates:
-  - "Arahant"
   - "Samanta"
   - "Tissa Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Aḍḍhacelaka Thera. In a previous birth he gave half a garment to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissa Buddha</span>. He was thirty-two times king, under the names of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Samanta</span> and Odana. He became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Arahant</span>. Ap.i.134.
+Aḍḍhacelaka Thera. In a previous birth he gave half a garment to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissa Buddha</span>. He was thirty-two times king, under the names of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Samanta</span> and Odana. He became an *Arahant*. Ap.i.134.
 
 ## Vietnamese translation
 

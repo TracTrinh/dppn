@@ -13,7 +13,6 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "kappas"
   - "Ākāsukkhipiya Thera"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Antalikkhacara. A king who reigned thirty-two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago; <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ākāsukkhipiya Thera</span> in a previous birth. Ap.i.230.
+Antalikkhacara. A king who reigned thirty-two *kappas* ago; <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ākāsukkhipiya Thera</span> in a previous birth. Ap.i.230.
 
 ## Vietnamese translation
 

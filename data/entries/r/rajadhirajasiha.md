@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9975
+  source_order: 9970
   source_anchor: 
 aliases:
   - "Rajadhirajasiha"
 link_candidates:
-  - "Asadisajātaka"
   - "Kittisirirājasīha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Rājādhirājasīha. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kittisirirājasīha</span> and king of Ceylon (1780-98 CE.). He was a man of piety and learning, and was author of a Sinhalese poem, the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Asadisajātaka</span>. Cv.ci.1ff.
+Rājādhirājasīha. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kittisirirājasīha</span> and king of Ceylon (1780-98 CE.). He was a man of piety and learning, and was author of a Sinhalese poem, the *Asadisajātaka*. Cv.ci.1ff.
 
 ## Vietnamese translation
 

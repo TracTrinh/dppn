@@ -14,14 +14,14 @@ source:
 aliases:
   - "Andhakarasutta"
 link_candidates:
-  - "lokantarika"
+  - "suffering"
 ---
 
 # Andhakārasutta
 
 ## English source
 
-Andhakārasutta. The ignorance of suffering, its arising, etc., is greater and more fearsome than the darkness of interstellar space (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">lokantarika</span>). SN.v.454-5.
+Andhakārasutta. The ignorance of <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>, its arising, etc., is greater and more fearsome than the darkness of interstellar space (*lokantarika*). SN.v.454-5.
 
 ## Vietnamese translation
 

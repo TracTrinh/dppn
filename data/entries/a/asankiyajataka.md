@@ -15,9 +15,7 @@ aliases:
   - "Asankiyajataka"
 link_candidates:
   - "Benares"
-  - "Brahma"
   - "Sāvatthī"
-  - "upāsaka"
 ---
 
 # Asaṅkiyajātaka
@@ -26,9 +24,9 @@ link_candidates:
 
 Asaṅkiyajātaka (Ja 76). The Bodhisatta was born as a Brahmin in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Benares</span> and became an ascetic. In the course of his wanderings he once travelled with a merchant caravan. The caravan halted for the night, but while the merchants slept, the ascetic spent his time pacing up and down. Robbers, coming to plunder the caravan, were prevented from so doing by the watchfulness of the ascetic. The next day the merchants, discovering what bad happened, asked him if he had felt no fear at the sight of the robbers. “The sight of robbers causes what is known as fear only to the rich. I am penniless, why should I be afraid?” he answered.
 
-After death he was born in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Brahma</span> world.
+After death he was born in the *Brahma* world.
 
-The story was told to an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">upāsaka</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sāvatthī</span> who had likewise prevented a caravan from being robbed. “In guarding himself a man guards others; in guarding others he guards himself.” Ja.i.332-4.
+The story was told to an *upāsaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span> who had likewise prevented a caravan from being robbed. “In guarding himself a man guards others; in guarding others he guards himself.” Ja.i.332-4.
 
 ## Vietnamese translation
 

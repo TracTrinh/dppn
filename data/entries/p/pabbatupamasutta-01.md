@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7081
+  source_order: 7078
   source_anchor: 
 aliases:
   - "Pabbatupamasutta 01"

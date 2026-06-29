@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5337
+  source_order: 5334
   source_anchor: 
 aliases:
   - "Tebhatikajatila"

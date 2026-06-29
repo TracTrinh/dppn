@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6864
+  source_order: 6861
   source_anchor: 
 aliases:
   - "Patipannasutta 02"
-link_candidates:
-  - "Arahant"
-  - "indriyas"
+link_candidates: []
 ---
 
 # Paṭipannasutta 02
 
 ## English source
 
-Paṭipannasutta 02. By the completion and the fulfilment of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indriyas</span> one becomes an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Arahant</span>; their cultivation in a less degree brings lower attainments. SN.v.202.
+Paṭipannasutta 02. By the completion and the fulfilment of the five *indriyas* one becomes an *Arahant*; their cultivation in a less degree brings lower attainments. SN.v.202.
 
 ## Vietnamese translation
 

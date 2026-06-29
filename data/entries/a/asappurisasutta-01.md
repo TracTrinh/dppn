@@ -12,15 +12,14 @@ source:
   source_order: 1112
   source_anchor: 
 aliases: []
-link_candidates:
-  - "asappurisa"
+link_candidates: []
 ---
 
 # Asappurisasutta 01
 
 ## English source
 
-Asappurisasutta 01. The man who has wrong view, wrong aim, etc., is called “unworthy” (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">asappurisa</span>); he who has the opposite qualities is “worthy.” SN.v.19.
+Asappurisasutta 01. The man who has wrong view, wrong aim, etc., is called “unworthy” (*asappurisa*); he who has the opposite qualities is “worthy.” SN.v.19.
 
 ## Vietnamese translation
 

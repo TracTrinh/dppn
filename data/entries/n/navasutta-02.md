@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vasijatasutta"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6540
+  source_order: 6537
   source_anchor: 
 aliases:
   - "Navasutta 02"

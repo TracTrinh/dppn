@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11229
+  source_order: 11224
   source_anchor: 
 aliases:
   - "Sakuludayi"
@@ -19,9 +19,7 @@ link_candidates:
   - "Cūḷa Sakuludāyīsutta"
   - "Mahā Sakuludāyīsutta"
   - "Moranivāpa"
-  - "Paribbājaka"
   - "Paribbājakas"
-  - "Paribbājakārāma"
   - "Rājagaha"
   - "Sappinī"
   - "Varadhara"
@@ -32,11 +30,11 @@ link_candidates:
 
 ## English source
 
-Sakuludāyī. A famous <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Paribbājaka</span>. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Sakuludāyīsutta</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Cūḷa Sakuludāyīsutta</span> record two conversations between him and the Buddha in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Paribbājakārāma</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Moranivāpa</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Rājagaha</span>.
+Sakuludāyī. A famous *Paribbājaka*. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Sakuludāyīsutta</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cūḷa Sakuludāyīsutta</span> record two conversations between him and the Buddha in the *Paribbājakārāma* at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Moranivāpa</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Rājagaha</span>.
 
-He is also said to have been present when the Buddha visited the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Paribbājakārāma</span> on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Sappinī</span> River and talked to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Paribbājakas</span> there (AN.ii.29,176). In these contexts he is said to have been in the company of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Annabhāra</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Anugāra</span>) and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Varadhara</span>, evidently themselves eminent <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Paribbājakas</span>.
+He is also said to have been present when the Buddha visited the *Paribbājakārāma* on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sappinī</span> River and talked to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Paribbājakas</span> there (AN.ii.29,176). In these contexts he is said to have been in the company of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Annabhāra</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Anugāra</span>) and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Varadhara</span>, evidently themselves eminent <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Paribbājakas</span>.
 
-Sakuludāyī’s teacher was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Vekhanassa</span>. MN­a.ii.716.
+Sakuludāyī’s teacher was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Vekhanassa</span>. MN­a.ii.716.
 
 ## Vietnamese translation
 

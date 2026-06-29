@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11011
+  source_order: 11006
   source_anchor: 
 aliases:
   - "Vitamsa"

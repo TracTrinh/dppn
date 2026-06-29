@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sujatajataka-01"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12346
+  source_order: 12341
   source_anchor: 
 aliases:
   - "Sirivivada"

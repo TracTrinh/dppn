@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3106
+  source_order: 3105
   source_anchor: 
 aliases:
   - "Kunala 01"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6116
+  source_order: 6113
   source_anchor: 
 aliases:
   - "Dhatupujaka 02"

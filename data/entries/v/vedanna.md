@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vedhanna"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11076
+  source_order: 11071
   source_anchor: 
 aliases:
   - "Vedanna"

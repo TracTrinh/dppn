@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pipphalimanava"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7435
+  source_order: 7432
   source_anchor: 
 aliases:
   - "Pippalimanava"

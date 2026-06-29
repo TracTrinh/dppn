@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vasabha-06"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10574
+  source_order: 10569
   source_anchor: 
 aliases:
   - "Vasabhodakavara"

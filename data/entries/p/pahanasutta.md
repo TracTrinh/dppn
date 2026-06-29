@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7258
+  source_order: 7255
   source_anchor: 
 aliases:
   - "Pahanasutta"
-link_candidates:
-  - "brahmacariyā"
-  - "saṁyojanāni"
+link_candidates: []
 ---
 
 # Pahānasutta
 
 ## English source
 
-Pahānasutta. The higher life (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">brahmacariyā</span>) is for the purpose of getting rid of the seven fetters (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">saṁyojanāni</span>). AN.iv.7.
+Pahānasutta. The higher life (*brahmacariyā*) is for the purpose of getting rid of the seven fetters (*saṁyojanāni*). AN.iv.7.
 
 ## Vietnamese translation
 

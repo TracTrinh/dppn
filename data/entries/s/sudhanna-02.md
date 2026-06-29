@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12745
+  source_order: 12740
   source_anchor: 
 aliases:
   - "Sudhanna 02"

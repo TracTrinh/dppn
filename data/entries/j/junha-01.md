@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4888
+  source_order: 4885
   source_anchor: 
 aliases:
   - "Junha 01"

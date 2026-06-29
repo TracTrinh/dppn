@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12234
+  source_order: 12229
   source_anchor: 
 aliases:
   - "Sigalajataka 02"

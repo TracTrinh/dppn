@@ -12,15 +12,14 @@ source:
   source_order: 2004
   source_anchor: 
 aliases: []
-link_candidates:
-  - "appamāda"
+link_candidates: []
 ---
 
 # Uppajjantisutta
 
 ## English source
 
-Uppajjantisutta. On the power of earnestness (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">appamāda</span>). AN.i.11.
+Uppajjantisutta. On the power of earnestness (*appamāda*). AN.i.11.
 
 ## Vietnamese translation
 

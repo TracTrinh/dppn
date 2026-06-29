@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gandhabba"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3804
+  source_order: 3802
   source_anchor: 
 aliases:
   - "Gandhabbakayika"

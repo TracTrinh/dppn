@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Aparihanisutta"
-link_candidates:
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Aparihānisutta
 
 ## English source
 
-Aparihānisutta. There are seven things that decline not, viz., the seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.85; see also ibid., 94.
+Aparihānisutta. There are seven things that decline not, viz., the seven *bojjhaṅgas*. SN.v.85; see also ibid., 94.
 
 ## Vietnamese translation
 

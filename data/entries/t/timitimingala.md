@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5188
+  source_order: 5185
   source_anchor: 
 aliases:
   - "Timitimingala"

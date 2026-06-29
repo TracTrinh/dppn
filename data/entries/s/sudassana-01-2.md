@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12705
+  source_order: 12700
   source_anchor: 
 aliases:
   - "Sudassana 01"

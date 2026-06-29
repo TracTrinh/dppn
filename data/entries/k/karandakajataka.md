@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samuggajataka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2599
+  source_order: 2598
   source_anchor: 
 aliases:
   - "Karandakajataka"

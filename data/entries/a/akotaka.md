@@ -15,7 +15,6 @@ aliases:
   - "Akotaka"
 link_candidates:
   - "Asama"
-  - "Deva"
   - "Makkhali"
   - "Māṇava Gāmiya"
   - "Nigaṇṭha"
@@ -25,7 +24,6 @@ link_candidates:
   - "Sahali"
   - "Vetambarī"
   - "Veḷuvana"
-  - "sic"
   - "Ākoṭaka"
 ---
 
@@ -33,7 +31,7 @@ link_candidates:
 
 ## English source
 
-Ākoṭaka. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span> who visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Veḷuvana</span> accompanied by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Asama</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sahali</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Niṅka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Vetambarī</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Māṇava Gāmiya</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ākoṭaka</span> spoke before the Buddha in praise of various teachers of other schools: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Pakuddha Kātiyāna</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">sic</span>.), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Nigaṇṭha</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Makkhali</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Pūraṇa</span>. Veṭambarī made rejoinder to Ākoṭaka, speaking disparagingly of the teachers he had mentioned. SN.i.65.
+Ākoṭaka. A *Deva* who visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Veḷuvana</span> accompanied by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Asama</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sahali</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Niṅka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vetambarī</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Māṇava Gāmiya</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ākoṭaka</span> spoke before the Buddha in praise of various teachers of other schools: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Pakuddha Kātiyāna</span> (*sic*.), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Nigaṇṭha</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Makkhali</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Pūraṇa</span>. Veṭambarī made rejoinder to Ākoṭaka, speaking disparagingly of the teachers he had mentioned. SN.i.65.
 
 ## Vietnamese translation
 

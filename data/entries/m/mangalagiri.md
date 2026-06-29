@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8457
+  source_order: 8454
   source_anchor: 
 aliases:
   - "Mangalagiri"

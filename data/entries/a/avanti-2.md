@@ -13,7 +13,6 @@ source:
   source_anchor: "a49"
 aliases: []
 link_candidates:
-  - "Caṇḍāla"
   - "Citta"
   - "Citta Sambhūtajātaka"
   - "Ujjenī"
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Avanti. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ujjenī</span> in a past age. During his reign the Bodhisatta was born, under the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Citta</span>, in a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Caṇḍāla</span> village outside <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ujjenī</span>. His story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Citta Sambhūtajātaka</span> (Ja 498). Ja.iv.390ff.
+Avanti. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ujjenī</span> in a past age. During his reign the Bodhisatta was born, under the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Citta</span>, in a *Caṇḍāla* village outside <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ujjenī</span>. His story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Citta Sambhūtajātaka</span> (Ja 498). Ja.iv.390ff.
 
 ## Vietnamese translation
 

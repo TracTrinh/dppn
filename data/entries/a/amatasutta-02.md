@@ -12,15 +12,14 @@ source:
   source_order: 807
   source_anchor: 
 aliases: []
-link_candidates:
-  - "Satipaṭṭhānā"
+link_candidates: []
 ---
 
 # Amatasutta 02
 
 ## English source
 
-Amatasutta 02. Dwell with mind well established in the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Satipaṭṭhānā</span>, but let not that be to you the Deathless, i.e. do not confuse the means with the end. SN.v.184; also KS.v.161, n.1.
+Amatasutta 02. Dwell with mind well established in the four *Satipaṭṭhānā*, but let not that be to you the Deathless, i.e. do not confuse the means with the end. SN.v.184; also KS.v.161, n.1.
 
 ## Vietnamese translation
 

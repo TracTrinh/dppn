@@ -14,7 +14,6 @@ source:
 aliases:
   - "Avariyavagga"
 link_candidates:
-  - "Chakkanipāta"
   - "Jātakaṭṭhakatha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Avāriyavagga. The first division of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Chakkanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jātakaṭṭhakatha</span> (Ja.iii.228-74).
+Avāriyavagga. The first division of the *Chakkanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jātakaṭṭhakatha</span> (Ja.iii.228-74).
 
 ## Vietnamese translation
 

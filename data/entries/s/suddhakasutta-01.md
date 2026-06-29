@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12722
+  source_order: 12717
   source_anchor: 
 aliases: []
-link_candidates:
-  - "satipaṭṭhāna"
+link_candidates: []
 ---
 
 # Suddhakasutta 01
 
 ## English source
 
-Suddhakasutta 01. On the benefits of the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">satipaṭṭhāna</span>s. SN.v.173.
+Suddhakasutta 01. On the benefits of the four *satipaṭṭhāna*s. SN.v.173.
 
 ## Vietnamese translation
 

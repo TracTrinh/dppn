@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Aparasutta 02"
-link_candidates:
-  - "iddhipādā"
+link_candidates: []
 ---
 
 # Apārasutta 02
 
 ## English source
 
-Apārasutta 02. The same as above, regarding the four bases of psychical power (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādā</span>). SN.v.254.
+Apārasutta 02. The same as above, regarding the four bases of psychical power (*iddhipādā*). SN.v.254.
 
 ## Vietnamese translation
 

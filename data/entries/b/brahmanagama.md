@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8082
+  source_order: 8079
   source_anchor: 
 aliases:
   - "Brahmanagama"

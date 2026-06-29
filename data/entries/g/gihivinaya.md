@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sigalovadasutta"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3961
+  source_order: 3959
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11354
+  source_order: 11349
   source_anchor: "a342"
 aliases:
   - "Sanghabedakajataka"

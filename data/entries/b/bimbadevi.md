@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "rahulamata"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7898
+  source_order: 7895
   source_anchor: 
 aliases:
   - "Bimbadevi"

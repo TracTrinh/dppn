@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sabhiya-01"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11873
+  source_order: 11868
   source_anchor: 
 aliases: []
 link_candidates:

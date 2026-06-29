@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "roruka-01"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10125
+  source_order: 10120
   source_anchor: 
 aliases: []
 link_candidates:

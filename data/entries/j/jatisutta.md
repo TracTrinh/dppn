@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4845
+  source_order: 4842
   source_anchor: 
 aliases:
   - "Jatisutta"

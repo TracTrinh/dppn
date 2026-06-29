@@ -9,14 +9,16 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4342
+  source_order: 4340
   source_anchor: 
 aliases:
   - "Catumasutta"
 link_candidates:
   - "Amalakīvana"
   - "Brahma Sahampati"
+  - "Cātumasutta"
   - "Cātumā"
+  - "Sākiyan"
   - "Sākiyans"
 ---
 
@@ -24,9 +26,23 @@ link_candidates:
 
 ## English source
 
-Cātumasutta. Preached at the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Amalakīvana</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cātumā</span>. Some new members of the Saṅgha, dwelling near the Buddha, made so much noise that they were summoned and asked to leave at once. But the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sākiyans</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Cātumā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Brahma Sahampati</span> interceded on their behalf and they were allowed to return.
+Cātumasutta. Preached at the *Amalakīvana* in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cātumā</span>. Some new members of the Saṅgha, dwelling near the Buddha, made so much noise that they were summoned and asked to leave at once. But the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sākiyans</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Cātumā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Brahma Sahampati</span> interceded on their behalf and they were allowed to return.
 
 The Buddha then preached to them that just as four terrors await the man who enters the water –
+
+- waves,
+- crocodiles,
+- whirlpools
+- and sharks –
+
+so are there four terrors awaiting the monk –
+
+- temper,
+- gluttony,
+- the pleasures of the senses
+- and women. MN.i.456ff; on this see Mil.209.
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Cātumā</span>. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sākiyan</span> village containing a mote-hall; near it was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Amalakīvana</span> where the Buddha once stayed and preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Cātumasutta</span> (MN.i.456f.; MN­a.ii.660).
 
 ## Vietnamese translation
 

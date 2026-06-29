@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "serivanijajataka"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13286
+  source_order: 13281
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "revata-01"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3591
+  source_order: 3589
   source_anchor: 
 aliases: []
 link_candidates:

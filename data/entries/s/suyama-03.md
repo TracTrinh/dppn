@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 13060
+  source_order: 13055
   source_anchor: 
 aliases:
   - "Suyama 03"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2383
+  source_order: 2382
   source_anchor: 
 aliases:
   - "Kantakacetiya"
@@ -19,15 +19,13 @@ link_candidates:
   - "Kaṭṭhaka"
   - "Kāḷa Buddharakkhita"
   - "Kāḷakārāmasutta"
-  - "cetiya"
-  - "q.v."
 ---
 
 # Kaṇṭakacetiya
 
 ## English source
 
-Kaṇṭakacetiya. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">cetiya</span> on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cetiyapabbata</span>. Here <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kāḷa Buddharakkhita</span> Thera (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">q.v.</span>) preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kāḷakārāmasutta</span> (MN­a.i.469f). See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kaṭṭhaka</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Kaṇṭaka</span>.
+Kaṇṭakacetiya. A *cetiya* on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cetiyapabbata</span>. Here <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kāḷa Buddharakkhita</span> Thera (*q.v.*) preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kāḷakārāmasutta</span> (MN­a.i.469f). See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kaṭṭhaka</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kaṇṭaka</span>.
 
 ## Vietnamese translation
 

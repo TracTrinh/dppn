@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "arahamsutta-05"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7966
+  source_order: 7963
   source_anchor: 
 aliases: []
 link_candidates:

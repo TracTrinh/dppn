@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8723
+  source_order: 8720
   source_anchor: 
 aliases:
   - "Mallikasutta 02"

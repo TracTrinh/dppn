@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11626
+  source_order: 11621
   source_anchor: 
 aliases:
   - "Saparivarasana Thera"
 link_candidates:
-  - "Arahant"
   - "Padumuttara Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Saparivārāsana Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. He prepared a seat decked with jasmine for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padumuttara Buddha</span>, and, when the Buddha was seated, gave him a meal. Ap.i.107f.
+Saparivārāsana Thera. An *Arahant*. He prepared a seat decked with jasmine for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padumuttara Buddha</span>, and, when the Buddha was seated, gave him a meal. Ap.i.107f.
 
 ## Vietnamese translation
 

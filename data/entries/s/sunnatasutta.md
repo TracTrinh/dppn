@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12624
+  source_order: 12619
   source_anchor: 
 aliases:
   - "Sunnatasutta"

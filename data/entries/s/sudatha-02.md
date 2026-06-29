@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12712
+  source_order: 12707
   source_anchor: 
 aliases:
   - "Sudatha 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9282
+  source_order: 9278
   source_anchor: 
 aliases:
   - "Magha 02"

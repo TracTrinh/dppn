@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kannakujja"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2415
+  source_order: 2414
   source_anchor: 
 aliases:
   - "Kannagoccha"

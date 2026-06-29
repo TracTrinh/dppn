@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4071
+  source_order: 4069
   source_anchor: 
 aliases:
   - "Godhajataka 04"

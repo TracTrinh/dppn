@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6869
+  source_order: 6866
   source_anchor: 
 aliases:
   - "Patirupasutta"

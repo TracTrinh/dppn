@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13508
+  source_order: 13502
   source_anchor: 
 aliases:
   - "Hamsajataka 02"

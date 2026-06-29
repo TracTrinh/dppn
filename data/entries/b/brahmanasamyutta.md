@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
-  source_order: 8091
+  source_order: 8088
   source_anchor: 
 aliases:
   - "Brahmanasamyutta"

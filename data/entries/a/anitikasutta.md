@@ -15,13 +15,14 @@ aliases:
   - "Anitikasutta"
 link_candidates:
   - "Anītikadhammasutta"
+  - "suffering"
 ---
 
 # Anītikasutta
 
 ## English source
 
-Anītikasutta and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anītikadhammasutta</span>. On the state that is free from suffering and the path thereto. SN.iv.371.
+Anītikasutta and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anītikadhammasutta</span>. On the state that is free from <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">suffering</span> and the path thereto. SN.iv.371.
 
 ## Vietnamese translation
 

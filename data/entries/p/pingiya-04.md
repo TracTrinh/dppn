@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7412
+  source_order: 7409
   source_anchor: 
 aliases:
   - "Pingiya 04"

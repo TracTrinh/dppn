@@ -9,16 +9,14 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2644
+  source_order: 2643
   source_anchor: 
 aliases:
   - "Kalyanadhammajataka"
 link_candidates:
   - "Benares"
   - "Himālaya"
-  - "Jātakamālā"
   - "Sāvatthī"
-  - "Śreṣṭhijātaka"
 ---
 
 # Kalyāṇadhammajātaka
@@ -29,7 +27,7 @@ Kalyāṇadhammajātaka (Ja 171). The Bodhisatta was once a rich merchant in <sp
 
 The story was told in reference to a merchant of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāvatthī</span> to whom the same thing happened when he went to pay his respects to the Buddha (Ja.ii.63-5).
 
-The story is also given in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Jātakamālā</span>, where it is called the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Śreṣṭhijātaka</span> (Jm 20).
+The story is also given in the *Jātakamālā*, where it is called the *Śreṣṭhijātaka* (Jm 20).
 
 ## Vietnamese translation
 

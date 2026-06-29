@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7368
+  source_order: 7365
   source_anchor: 
 aliases:
   - "Palikapasada"

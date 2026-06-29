@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "talata"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4338
+  source_order: 4336
   source_anchor: 
 aliases:
   - "Calaka"

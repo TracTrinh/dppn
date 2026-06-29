@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11830
+  source_order: 11825
   source_anchor: 
 aliases:
   - "Samudda 01"

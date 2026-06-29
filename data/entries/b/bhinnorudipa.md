@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8309
+  source_order: 8306
   source_anchor: 
 aliases:
   - "Bhinnorudipa"

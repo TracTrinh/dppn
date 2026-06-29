@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5593
+  source_order: 5590
   source_anchor: 
 aliases:
   - "Ditthisutta 02"

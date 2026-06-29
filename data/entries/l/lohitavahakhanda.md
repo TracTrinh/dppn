@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10313
+  source_order: 10308
   source_anchor: "a321"
 aliases:
   - "Lohitavahakhanda"

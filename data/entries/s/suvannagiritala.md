@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13124
+  source_order: 13119
   source_anchor: 
 aliases:
   - "Suvannagiritala"
 link_candidates:
   - "Jetuttara"
   - "Kontimāra"
-  - "yojanas"
 ---
 
 # Suvaṇṇagiritāla
 
 ## English source
 
-Suvaṇṇagiritāla. A mountain five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">yojanas</span> from <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetuttara</span>. The river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kontimāra</span> was five leagues further away. Ja.vi.514.
+Suvaṇṇagiritāla. A mountain five *yojanas* from <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jetuttara</span>. The river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kontimāra</span> was five leagues further away. Ja.vi.514.
 
 ## Vietnamese translation
 

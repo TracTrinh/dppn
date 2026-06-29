@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Angasutta 03"
-link_candidates:
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Aṅgasutta 03
 
 ## English source
 
-Aṅgasutta 03. Friendship with the virtuous as potent factor for the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgas</span>. SN.v.102.
+Aṅgasutta 03. Friendship with the virtuous as potent factor for the *bojjhaṅgas*. SN.v.102.
 
 ## Vietnamese translation
 

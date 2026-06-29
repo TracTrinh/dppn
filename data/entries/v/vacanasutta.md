@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vanaropasutta"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10338
+  source_order: 10333
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3849
+  source_order: 3847
   source_anchor: 
 aliases: []
 link_candidates:

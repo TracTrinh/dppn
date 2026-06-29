@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6684
+  source_order: 6681
   source_anchor: 
 aliases:
   - "Nilagalla 01"

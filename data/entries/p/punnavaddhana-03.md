@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7553
+  source_order: 7550
   source_anchor: 
 aliases:
   - "Punnavaddhana 03"

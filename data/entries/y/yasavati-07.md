@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "yasa-06"
 source:
   epub_file: "Ops/061.html"
-  source_order: 9739
+  source_order: 9734
   source_anchor: 
 aliases:
   - "Yasavati 07"

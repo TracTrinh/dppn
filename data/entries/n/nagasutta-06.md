@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6444
+  source_order: 6441
   source_anchor: 
 aliases:
   - "Nagasutta 06"
-link_candidates:
-  - "āsavas"
+link_candidates: []
 ---
 
 # Nāgasutta 06
 
 ## English source
 
-Nāgasutta 06. Sometimes it happens that a forest dwelling elephant gets bored with the company of his fellows, his women-folk and the young elephants who get in his way and interfere with his freedom. Thereupon he breaks away from them and retires into solitude. So should the monk, wearied of the haunts of men, resort to loneliness and there rid himself of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span>. AN.iv.435.
+Nāgasutta 06. Sometimes it happens that a forest dwelling elephant gets bored with the company of his fellows, his women-folk and the young elephants who get in his way and interfere with his freedom. Thereupon he breaks away from them and retires into solitude. So should the monk, wearied of the haunts of men, resort to loneliness and there rid himself of the *āsavas*. AN.iv.435.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sakya"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11250
+  source_order: 11245
   source_anchor: 
 aliases:
   - "Sakka"

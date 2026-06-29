@@ -15,15 +15,13 @@ aliases:
   - "Anisamsavagga 01"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Chakkanipāta"
-  - "Suttas"
 ---
 
 # Ānisaṁsavagga 01
 
 ## English source
 
-Ānisaṁsavagga 01. The tenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Chakkanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It consists of eleven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Suttas</span> on various subjects. AN.iii.441-5.
+Ānisaṁsavagga 01. The tenth chapter of the *Chakkanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It consists of eleven *Suttas* on various subjects. AN.iii.441-5.
 
 ## Vietnamese translation
 

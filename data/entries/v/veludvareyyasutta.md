@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11170
+  source_order: 11165
   source_anchor: 
 aliases:
   - "Veludvareyyasutta"

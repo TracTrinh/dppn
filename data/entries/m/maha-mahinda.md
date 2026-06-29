@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mahinda-01"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9044
+  source_order: 9040
   source_anchor: 
 aliases:
   - "Maha Mahinda"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5153
+  source_order: 5150
   source_anchor: 
 aliases:
   - "Tittirajataka 03"

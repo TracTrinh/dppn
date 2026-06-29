@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13496
+  source_order: 13490
   source_anchor: 
 aliases:
   - "Harayo Deva"

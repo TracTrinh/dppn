@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4791
+  source_order: 4788
   source_anchor: 
 aliases:
   - "Jayamahalekhaka"

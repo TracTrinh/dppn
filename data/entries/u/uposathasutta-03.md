@@ -15,8 +15,6 @@ aliases: []
 link_candidates:
   - "Mahā Moggallāna"
   - "Moggallāna"
-  - "Pātimokkha"
-  - "uposatha"
   - "Ānanda"
 ---
 
@@ -24,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Uposathasutta 03. One <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">uposatha</span>-night, during the first watch, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> approaches the Buddha and asks him to recite the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Pātimokkha</span>. Three times he asks, but the Buddha remains silent, and at last says that the assembly is impure. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mahā Moggallāna</span>, who is present, looks round, and seeing there a monk given up to wicked ways, asks him to leave. On his refusing to do so, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Moggallāna</span> takes him by the hand and leads him away. Thereupon the Buddha proceeds to explain how, just as the sea is full of eight kinds of marvels, so is the Dhamma. AN.iv.204ff.
+Uposathasutta 03. One *uposatha*-night, during the first watch, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> approaches the Buddha and asks him to recite the *Pātimokkha*. Three times he asks, but the Buddha remains silent, and at last says that the assembly is impure. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Moggallāna</span>, who is present, looks round, and seeing there a monk given up to wicked ways, asks him to leave. On his refusing to do so, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Moggallāna</span> takes him by the hand and leads him away. Thereupon the Buddha proceeds to explain how, just as the sea is full of eight kinds of marvels, so is the Dhamma. AN.iv.204ff.
 
 ## Vietnamese translation
 

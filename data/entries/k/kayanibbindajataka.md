@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2589
+  source_order: 2588
   source_anchor: 
 aliases:
   - "Kayanibbindajataka"

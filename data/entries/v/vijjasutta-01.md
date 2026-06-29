@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10777
+  source_order: 10772
   source_anchor: 
 aliases:
   - "Vijjasutta 01"

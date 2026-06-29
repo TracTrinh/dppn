@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10152
+  source_order: 10147
   source_anchor: 
 aliases:
   - "Rohineyya 01"

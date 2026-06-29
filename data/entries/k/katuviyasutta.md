@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2360
+  source_order: 2359
   source_anchor: 
 aliases:
   - "Katuviyasutta"

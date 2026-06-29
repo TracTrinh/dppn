@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8821
+  source_order: 8818
   source_anchor: 
 aliases:
   - "Maha Janapada"
@@ -17,7 +17,6 @@ link_candidates:
   - "Assaka"
   - "Avanti"
   - "Aṅga"
-  - "Bhagavātī Sūtra"
   - "Cetiya"
   - "Gandhāra"
   - "Kaliṅga"
@@ -47,7 +46,7 @@ Mahā Janapadā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Niddesa</span> adds the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Kaliṅga</span>s to the sixteen and substitutes <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Yona</span> for the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Gandhāra</span> (CNid.37).
 
-The Jaina <span class="dppn-term dppn-term-t18" data-dppn-term-pos="25" data-dppn-term-class="t18">Bhagavātī Sūtra</span> gives a slightly different list: Aṅga, Baṅga, Magadha, Malaya, Mālava, Accha, Vaccha, Kocchaka, Pādha, Lādha, Bajji, Moli, Kāsi, Kosala, Avaha and Sambhuttara (PHAI. p.60).
+The Jaina *Bhagavātī Sūtra* gives a slightly different list: Aṅga, Baṅga, Magadha, Malaya, Mālava, Accha, Vaccha, Kocchaka, Pādha, Lādha, Bajji, Moli, Kāsi, Kosala, Avaha and Sambhuttara (PHAI. p.60).
 
 ## Vietnamese translation
 

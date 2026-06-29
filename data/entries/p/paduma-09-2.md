@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7026
+  source_order: 7023
   source_anchor: 
 aliases:
   - "Paduma 09"

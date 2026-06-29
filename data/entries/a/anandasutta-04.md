@@ -15,10 +15,6 @@ aliases:
   - "Anandasutta 04"
 link_candidates:
   - "Jetavana"
-  - "aññathatta"
-  - "khandhas"
-  - "uppāda"
-  - "vaya"
   - "Ānanda"
 ---
 
@@ -26,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ānandasutta 04. A conversation between the Buddha and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span>, at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ānanda</span> is asked in what things one discerns the arising (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">uppāda</span>), passing away (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">vaya</span>), and constant change (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">aññathatta</span>). The answer is “in the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">khandhas</span>.” The Buddha praises <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ānanda</span> for his answer. SN.iii.37-8.
+Ānandasutta 04. A conversation between the Buddha and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span>, at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ānanda</span> is asked in what things one discerns the arising (*uppāda*), passing away (*vaya*), and constant change (*aññathatta*). The answer is “in the five *khandhas*.” The Buddha praises <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ānanda</span> for his answer. SN.iii.37-8.
 
 ## Vietnamese translation
 

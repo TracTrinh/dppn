@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9633
+  source_order: 9628
   source_anchor: 
 aliases:
   - "Melamata"

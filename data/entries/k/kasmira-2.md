@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kasmira"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2944
+  source_order: 2943
   source_anchor: 
 aliases:
   - "Kasmira"

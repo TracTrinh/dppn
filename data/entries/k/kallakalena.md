@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2660
+  source_order: 2659
   source_anchor: 
 aliases:
   - "Kallakalena"

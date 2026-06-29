@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6941
+  source_order: 6938
   source_anchor: 
 aliases:
   - "Pandu"
@@ -40,7 +40,6 @@ link_candidates:
   - "Vijaya III"
   - "Vijayabāhu I"
   - "Vikkamabāhu III"
-  - "s.v."
 ---
 
 # Paṇḍū
@@ -53,7 +52,7 @@ Ceylon was inconstant communication with this country, both peaceful and otherwi
 
 Mention is made in the chronicles of several marriages between members of the Pāṇḍyan and the Sinhalese royal families. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Vijaya</span> himself took his consort from the Pāṇḍyan king at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Madhurā</span>, and later, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Mittā</span>, sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Vijayabāhu I</span>., married a Pāṇḍyan prince who became the grandfather of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Parakkamabāhu I</span>. This led to the establishment of a “Pāṇḍyan party” in Ceylon which was not always loyal to the reigning monarch e.g., in the case of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term-class="t14">Vikkamabāhu III</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term-class="t14">Parakkama Paṇḍu</span>, who deposed <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" data-dppn-term-class="t14">Līlāvati</span>, evidently belonged to this party and probably also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term-class="t14">Vijaya III</span>. The Pāṇḍyan kings claimed descent from the Lunar race. Codr.15.
 
-For other references, see under the names mentioned. Reference should also be made to the Index at the end of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term-class="t14">Cūḷa Vaṁsa</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="30" data-dppn-term-class="t18">s.v.</span> Paṇḍū.
+For other references, see under the names mentioned. Reference should also be made to the Index at the end of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term-class="t14">Cūḷa Vaṁsa</span>, *s.v.* Paṇḍū.
 
 ## Vietnamese translation
 

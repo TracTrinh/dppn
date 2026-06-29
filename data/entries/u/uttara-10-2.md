@@ -14,7 +14,6 @@ source:
 aliases:
   - "Uttara 10"
 link_candidates:
-  - "Aggasāvikā"
   - "Nārada Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Uttarā 10. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Aggasāvikā</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nārada Buddha</span>. Ja.i.37; Bv.x.24.
+Uttarā 10. *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nārada Buddha</span>. Ja.i.37; Bv.x.24.
 
 ## Vietnamese translation
 

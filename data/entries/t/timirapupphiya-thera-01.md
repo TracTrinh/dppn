@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5190
+  source_order: 5187
   source_anchor: 
 aliases: []
 link_candidates:
   - "Candabhāgā"
   - "Siddhattha Buddha"
-  - "timira"
 ---
 
 # Timirapupphiya Thera 01
 
 ## English source
 
-Timirapupphiya Thera 01. An Arahant. He was once an ascetic and while walking one day along the banks of the river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Candabhāgā</span>, saw <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span> and scattered over him <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">timira</span> flowers, paying him homage. Soon afterwards he was killed by a lion (Ap.i.126f).
+Timirapupphiya Thera 01. An Arahant. He was once an ascetic and while walking one day along the banks of the river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Candabhāgā</span>, saw <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span> and scattered over him *timira* flowers, paying him homage. Soon afterwards he was killed by a lion (Ap.i.126f).
 
 ## Vietnamese translation
 

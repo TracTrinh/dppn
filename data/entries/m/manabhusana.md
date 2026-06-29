@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "manabharana-01"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9341
+  source_order: 9337
   source_anchor: 
 aliases:
   - "Manabhusana"

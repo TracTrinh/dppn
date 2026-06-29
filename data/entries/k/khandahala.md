@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3580
+  source_order: 3578
   source_anchor: 
 aliases:
   - "Khandahala"

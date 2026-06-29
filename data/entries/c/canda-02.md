@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pancalacanda-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4184
+  source_order: 4182
   source_anchor: 
 aliases:
   - "Canda 02"

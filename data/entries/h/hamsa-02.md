@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13506
+  source_order: 13500
   source_anchor: 
 aliases:
   - "Hamsa 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13264
+  source_order: 13259
   source_anchor: 
 aliases:
   - "Senasenapatiparivena"
@@ -17,14 +17,13 @@ link_candidates:
   - "Kuṭṭhaka"
   - "Sena II"
   - "Senānāthapariveṇa"
-  - "senāpati"
 ---
 
 # Senasenāpatipariveṇa
 
 ## English source
 
-Senasenāpatipariveṇa. A monastic building erected by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kuṭṭhaka</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">senāpati</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sena II</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Senānāthapariveṇa</span>. Cv.li.88; see also Cv.Trs.i.156, n.2.
+Senasenāpatipariveṇa. A monastic building erected by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kuṭṭhaka</span>, *senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sena II</span>. See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Senānāthapariveṇa</span>. Cv.li.88; see also Cv.Trs.i.156, n.2.
 
 ## Vietnamese translation
 

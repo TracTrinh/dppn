@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2420
+  source_order: 2419
   source_anchor: 
 aliases:
   - "Kannikaragalla"

@@ -15,18 +15,14 @@ aliases:
   - "Arakkhadayaka Thera 01"
 link_candidates:
   - "Apassena"
-  - "Arahant"
   - "Siddhattha Buddha"
-  - "Thūpa"
-  - "kappas"
-  - "vedi"
 ---
 
 # Ārakkhadāyaka Thera 01
 
 ## English source
 
-Ārakkhadāyaka Thera 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In a previous birth he built a railing (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vedi</span>) round the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Thūpa</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Siddhattha Buddha</span> and made provision for its protection. Six <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">kappas</span> ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Apassena</span>. Ap.i.214-15.
+Ārakkhadāyaka Thera 01. An *Arahant*. In a previous birth he built a railing (*vedi*) round the *Thūpa* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span> and made provision for its protection. Six *kappas* ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Apassena</span>. Ap.i.214-15.
 
 ## Vietnamese translation
 

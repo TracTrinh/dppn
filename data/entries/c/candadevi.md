@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "canda-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4248
+  source_order: 4246
   source_anchor: 
 aliases:
   - "Candadevi"

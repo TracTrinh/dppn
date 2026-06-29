@@ -14,18 +14,15 @@ source:
 aliases:
   - "Ekanjaliya Thera 01"
 link_candidates:
-  - "Arahant"
   - "Ekañjalika"
   - "Tissa Buddha"
-  - "kappas"
-  - "udumbara"
 ---
 
 # Ekañjaliya Thera 01
 
 ## English source
 
-Ekañjaliya Thera 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Ninety-two <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he provided a place of residence for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tissa Buddha</span> in an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">udumbara</span>-grove and spread for him a carpet of flowers and paid homage to him with clasped hands. Once he was a king, called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ekañjalika</span>. Ap.i.236.
+Ekañjaliya Thera 01. An *Arahant*. Ninety-two *kappas* ago he provided a place of residence for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissa Buddha</span> in an *udumbara*-grove and spread for him a carpet of flowers and paid homage to him with clasped hands. Once he was a king, called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ekañjalika</span>. Ap.i.236.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10373
+  source_order: 10368
   source_anchor: 
 aliases:
   - "Vajirasutta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mangalappadesa"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8462
+  source_order: 8459
   source_anchor: 
 aliases:
   - "Mangalapabbata"

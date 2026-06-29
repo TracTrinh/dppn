@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gokanna-01"
 source:
   epub_file: "Ops/031.html"
-  source_order: 4015
+  source_order: 4013
   source_anchor: 
 aliases:
   - "Gokannaka"

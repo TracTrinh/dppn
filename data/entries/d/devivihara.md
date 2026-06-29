@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dipavihara"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5864
+  source_order: 5861
   source_anchor: 
 aliases:
   - "Devivihara"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6856
+  source_order: 6853
   source_anchor: 
 aliases:
   - "Patipattivagga"

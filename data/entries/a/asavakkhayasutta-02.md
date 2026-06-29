@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asavakkhayasutta 02"
-link_candidates:
-  - "āsavas"
+link_candidates: []
 ---
 
 # Āsavakkhayasutta 02
 
 ## English source
 
-Āsavakkhayasutta 02. The holy life is lived for the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span>. SN.v.28.
+Āsavakkhayasutta 02. The holy life is lived for the destruction of the *āsavas*. SN.v.28.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nandhimitta"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6307
+  source_order: 6304
   source_anchor: 
 aliases: []
 link_candidates:

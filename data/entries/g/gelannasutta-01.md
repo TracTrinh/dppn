@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 4010
+  source_order: 4008
   source_anchor: 
 aliases:
   - "Gelannasutta 01"

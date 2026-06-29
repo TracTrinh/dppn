@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Atappasutta 02"
-link_candidates:
-  - "ātappa"
+link_candidates: []
 ---
 
 # Ātappasutta 02
 
 ## English source
 
-Ātappasutta 02. On the occasions on which ardent energy (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">ātappa</span>) should be exerted. AN.i.153.
+Ātappasutta 02. On the occasions on which ardent energy (*ātappa*) should be exerted. AN.i.153.
 
 ## Vietnamese translation
 

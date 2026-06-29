@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6159
+  source_order: 6156
   source_anchor: 
 aliases:
   - "Na tumhakam Sutta"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Na tumhākaṁ Sutta
 
 ## English source
 
-Na tumhākaṁ Sutta. None of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> belong to you; therefore they should be put away. The putting of them away will be for your profit and welfare. (SN.3.33-4).
+Na tumhākaṁ Sutta. None of the *khandhas* belong to you; therefore they should be put away. The putting of them away will be for your profit and welfare. (SN.3.33-4).
 
 ## Vietnamese translation
 

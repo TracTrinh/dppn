@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7851
+  source_order: 7848
   source_anchor: 
 aliases:
   - "Bahuputtika"

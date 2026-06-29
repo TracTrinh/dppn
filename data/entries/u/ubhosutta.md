@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Ubhatobhāga"
-  - "v.l."
 ---
 
 # Ubhosutta
 
 ## English source
 
-Ubhosutta (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ubhatobhāga</span>). On the two-fold emancipation. AN.iv.453.
+Ubhosutta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ubhatobhāga</span>). On the two-fold emancipation. AN.iv.453.
 
 ## Vietnamese translation
 

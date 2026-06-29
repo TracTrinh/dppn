@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3135
+  source_order: 3134
   source_anchor: 
 aliases:
   - "Kundi 02"
@@ -19,7 +19,6 @@ link_candidates:
   - "Kuṇḍanagariya"
   - "Poṭṭhapāda"
   - "Sāṇavāsīpabbata"
-  - "q.v."
   - "Ānanda"
 ---
 
@@ -27,7 +26,7 @@ link_candidates:
 
 ## English source
 
-Kuṇḍi 02. A village of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Koḷiyans</span>, near which was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kuṇḍadhānavana</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">q.v.</span>). It was the birthplace of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kuṇḍanagariya</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Poṭṭhapāda</span>) Thera. Near it was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sāṇavāsīpabbata</span> where once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ānanda</span> stayed. Pv-a.178.
+Kuṇḍi 02. A village of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Koḷiyans</span>, near which was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kuṇḍadhānavana</span> (*q.v.*). It was the birthplace of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kuṇḍanagariya</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Poṭṭhapāda</span>) Thera. Near it was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sāṇavāsīpabbata</span> where once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ānanda</span> stayed. Pv-a.178.
 
 ## Vietnamese translation
 

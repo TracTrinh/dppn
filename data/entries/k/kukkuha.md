@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kukkuta-02"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3077
+  source_order: 3076
   source_anchor: 
 aliases: []
 link_candidates:

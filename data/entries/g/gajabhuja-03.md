@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gajabahu"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3760
+  source_order: 3758
   source_anchor: 
 aliases: []
 link_candidates:

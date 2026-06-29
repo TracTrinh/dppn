@@ -15,7 +15,6 @@ aliases:
   - "Anathapindikavagga"
 link_candidates:
   - "Anāthapiṇḍika"
-  - "Deva"
   - "Devaputtasaṁyutta"
   - "Devas"
   - "Saṁyuttanikāya"
@@ -25,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Anāthapiṇḍikavagga. The second chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devaputtasaṁyutta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saṁyuttanikāya</span> contains a series of verses spoken before the Buddha on various occasions by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devas</span>, the last of them being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Anāthapiṇḍika</span> (reborn in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Deva</span> world). SN.i.51ff.
+Anāthapiṇḍikavagga. The second chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devaputtasaṁyutta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saṁyuttanikāya</span> contains a series of verses spoken before the Buddha on various occasions by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devas</span>, the last of them being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Anāthapiṇḍika</span> (reborn in the *Deva* world). SN.i.51ff.
 
 ## Vietnamese translation
 

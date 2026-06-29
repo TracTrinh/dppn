@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lankajayamahalekhaka"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10191
+  source_order: 10186
   source_anchor: 
 aliases:
   - "Lankamahalana"

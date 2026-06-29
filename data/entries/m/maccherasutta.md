@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maccharisutta-01"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8500
+  source_order: 8497
   source_anchor: 
 aliases: []
 link_candidates:

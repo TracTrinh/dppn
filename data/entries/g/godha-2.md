@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kaligodha"
 source:
   epub_file: "Ops/032.html"
-  source_order: 4074
+  source_order: 4072
   source_anchor: 
 aliases:
   - "Godha"

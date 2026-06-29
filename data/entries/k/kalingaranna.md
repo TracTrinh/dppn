@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalinga-02"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2833
+  source_order: 2832
   source_anchor: 
 aliases:
   - "Kalingaranna"

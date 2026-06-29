@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Angasutta 04"
-link_candidates:
-  - "Sotāpatti"
+link_candidates: []
 ---
 
 # Aṅgasutta 04
 
 ## English source
 
-Aṅgasutta 04. The four limbs of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sotāpatti</span>: consorting with the good, hearing the good Dhamma, mindful attention and practice according to the Dhamma. SN.v.404.
+Aṅgasutta 04. The four limbs of *Sotāpatti*: consorting with the good, hearing the good Dhamma, mindful attention and practice according to the Dhamma. SN.v.404.
 
 ## Vietnamese translation
 

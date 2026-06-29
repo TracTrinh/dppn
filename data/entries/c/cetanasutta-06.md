@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4595
+  source_order: 4592
   source_anchor: 
 aliases:
   - "Cetanasutta 06"

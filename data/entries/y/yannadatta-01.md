@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9688
+  source_order: 9683
   source_anchor: 
 aliases:
   - "Yannadatta 01"

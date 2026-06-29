@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11039
+  source_order: 11034
   source_anchor: 
 aliases:
   - "Vutthanasutta 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12299
+  source_order: 12294
   source_anchor: 
 aliases:
   - "Sirimandapanha"

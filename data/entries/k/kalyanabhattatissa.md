@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ariyagalatissa"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2646
+  source_order: 2645
   source_anchor: 
 aliases:
   - "Kalyanabhattatissa"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sindhu"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12259
+  source_order: 12254
   source_anchor: 
 aliases:
   - "Sindhava"

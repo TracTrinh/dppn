@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "canda-07"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4265
+  source_order: 4263
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pandara-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6906
+  source_order: 6903
   source_anchor: 
 aliases:
   - "Pandarasa"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4920
+  source_order: 4917
   source_anchor: 
 aliases:
   - "Jotana"

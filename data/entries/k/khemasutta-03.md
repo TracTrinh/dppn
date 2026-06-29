@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3700
+  source_order: 3698
   source_anchor: 
 aliases: []
-link_candidates:
-  - "khema"
+link_candidates: []
 ---
 
 # Khemasutta 03
 
 ## English source
 
-Khemasutta 03. On what is meant by having attained peace (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khema</span>). AN.iv.455.
+Khemasutta 03. On what is meant by having attained peace (*khema*). AN.iv.455.
 
 ## Vietnamese translation
 

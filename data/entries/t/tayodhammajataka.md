@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5081
+  source_order: 5078
   source_anchor: 
 aliases:
   - "Tayodhammajataka"

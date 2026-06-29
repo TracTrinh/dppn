@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4528
+  source_order: 4525
   source_anchor: 
 aliases:
   - "Cula Magandiya"
 link_candidates:
+  - "Cūla Māgandiya"
   - "Kosambī"
   - "Māgandiya"
   - "Māgandiyā"
@@ -24,7 +25,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Māgandiya, Cūla Māgandiya. Brother of the Brahmin <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Māgandiya</span>. He took charge of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māgandiyā</span> when her parents renounced the world and escorted her to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kosambī</span>, where she was presented at the court of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Udena</span> and became the latter’s wife. Dhp­a.i.202f; AN­a.i.236.
+Cūḷa Māgandiya, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Māgandiya</span>. Brother of the Brahmin <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māgandiya</span>. He took charge of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Māgandiyā</span> when her parents renounced the world and escorted her to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kosambī</span>, where she was presented at the court of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Udena</span> and became the latter’s wife. Dhp­a.i.202f; AN­a.i.236.
 
 ## Vietnamese translation
 

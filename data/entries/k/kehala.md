@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kohala"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3380
+  source_order: 3378
   source_anchor: 
 aliases:
   - "Kehala"

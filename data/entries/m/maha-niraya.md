@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "avici"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8958
+  source_order: 8954
   source_anchor: 
 aliases:
   - "Maha Niraya"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "tittirajataka-01"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5156
+  source_order: 5153
   source_anchor: 
 aliases: []
 link_candidates:

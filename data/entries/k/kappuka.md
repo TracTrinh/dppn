@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kappaka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2561
+  source_order: 2560
   source_anchor: 
 aliases: []
 link_candidates:

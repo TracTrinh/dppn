@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asamahitasutta"
-link_candidates:
-  - "dhātu"
+link_candidates: []
 ---
 
 # Asamāhitasutta
 
 ## English source
 
-Asamāhitasutta. Like joins with like, e.g. the un-concentrated with the un-concentrated, because of some fundamental quality (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dhātu</span>) common to both. SN.ii.166.
+Asamāhitasutta. Like joins with like, e.g. the un-concentrated with the un-concentrated, because of some fundamental quality (*dhātu*) common to both. SN.ii.166.
 
 ## Vietnamese translation
 

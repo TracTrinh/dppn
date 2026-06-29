@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kapittha"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11342
+  source_order: 11337
   source_anchor: 
 aliases:
   - "Sanghakapittha"

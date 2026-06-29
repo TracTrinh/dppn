@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2633
+  source_order: 2632
   source_anchor: 
 aliases:
   - "Kalabu"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "surasena-01"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13202
+  source_order: 13197
   source_anchor: 
 aliases:
   - "Surasena 01"

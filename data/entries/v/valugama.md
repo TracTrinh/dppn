@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10672
+  source_order: 10667
   source_anchor: 
 aliases:
   - "Valugama"

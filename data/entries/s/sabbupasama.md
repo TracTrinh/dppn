@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11686
+  source_order: 11681
   source_anchor: 
 aliases:
   - "Sabbupasama"

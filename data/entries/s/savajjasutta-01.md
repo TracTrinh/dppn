@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12202
+  source_order: 12197
   source_anchor: 
 aliases:
   - "Savajjasutta 01"
-link_candidates:
-  - "Niraya"
+link_candidates: []
 ---
 
 # Sāvajjasutta 01
 
 ## English source
 
-Sāvajjasutta 01. Blameworthy actions of body, speech and mind, lead to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Niraya</span>; their opposites to heaven. AN.i.292.
+Sāvajjasutta 01. Blameworthy actions of body, speech and mind, lead to *Niraya*; their opposites to heaven. AN.i.292.
 
 ## Vietnamese translation
 

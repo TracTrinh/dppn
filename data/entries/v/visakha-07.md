@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10966
+  source_order: 10961
   source_anchor: 
 aliases:
   - "Visakha 07"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13527
+  source_order: 13521
   source_anchor: 
 aliases:
   - "Halavahanaka"

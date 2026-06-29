@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dhammagutta-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6886
+  source_order: 6883
   source_anchor: 
 aliases:
   - "Pathavicalaka Dhammagutta"

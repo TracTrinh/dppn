@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sakkhara"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11254
+  source_order: 11249
   source_anchor: 
 aliases:
   - "Sakkara"

@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Angasutta 02"
-link_candidates:
-  - "bojjhaṅgas"
+link_candidates: []
 ---
 
 # Aṅgasutta 02
 
 ## English source
 
-Aṅgasutta 02. Systematic attention as potent factor for the seven limbs of wisdom (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgas</span>). SN.v.101.
+Aṅgasutta 02. Systematic attention as potent factor for the seven limbs of wisdom (*bojjhaṅgas*). SN.v.101.
 
 ## Vietnamese translation
 

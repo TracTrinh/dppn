@@ -20,20 +20,18 @@ link_candidates:
   - "Asoka"
   - "Rāhula"
   - "Rāhulovādasutta"
-  - "Sutta"
   - "Veḷuvana"
-  - "v.l."
 ---
 
 # Ambalaṭṭhika Rāhulovādasutta
 
 ## English source
 
-Ambalaṭṭhika Rāhulovādasutta <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ambalaṭṭhiya</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rāhulovādasutta</span>. Preached by the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ambalaṭṭhikā</span> (near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Veḷuvana</span>) to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Rāhula</span>. It deals with falsehood. Like a minute drop of water is the recluseship of those who shrink not from deliberate lying, it is thrown away, upset; it is empty and void. There is nothing evil they will not do, they run every risk, like an elephant who guards not his trunk. One should practise constant reflection, thereby abandoning all things conducive to woe, either to oneself or to others, and develop self-control and purity (MN.i.414-20). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Rāhula</span> was evidently yet very young at the time of this sermon, for we find the Buddha making use of frequent similes, and pointing them out to him. According to the Commentary, he was at the time only 7 years old (MN­a. ii. 636).
+Ambalaṭṭhika Rāhulovādasutta *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambalaṭṭhiya</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rāhulovādasutta</span>. Preached by the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ambalaṭṭhikā</span> (near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Veḷuvana</span>) to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Rāhula</span>. It deals with falsehood. Like a minute drop of water is the recluseship of those who shrink not from deliberate lying, it is thrown away, upset; it is empty and void. There is nothing evil they will not do, they run every risk, like an elephant who guards not his trunk. One should practise constant reflection, thereby abandoning all things conducive to woe, either to oneself or to others, and develop self-control and purity (MN.i.414-20). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Rāhula</span> was evidently yet very young at the time of this sermon, for we find the Buddha making use of frequent similes, and pointing them out to him. According to the Commentary, he was at the time only 7 years old (MN­a. ii. 636).
 
-The Commentary says that it was preached because very young novices might be tempted to say things both proper and improper; they were likely to imagine things. This <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Sutta</span> is to warn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Rāhula</span> against the use of lies (MN­a.ii.635f.; AN­a.i.145; ii.547).
+The Commentary says that it was preached because very young novices might be tempted to say things both proper and improper; they were likely to imagine things. This *Sutta* is to warn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Rāhula</span> against the use of lies (MN­a.ii.635f.; AN­a.i.145; ii.547).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Ambalaṭṭhika Rāhulovādasutta</span> is among the portions of scripture mentioned in the Bhābrā Edict of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Asoka</span> as being essentially worthy of study by all monks (See Mookerji: <span class="dppn-term dppn-term-t18" data-dppn-term-pos="12" data-dppn-term-class="t18">Asoka</span>, p.119).
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ambalaṭṭhika Rāhulovādasutta</span> is among the portions of scripture mentioned in the Bhābrā Edict of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Asoka</span> as being essentially worthy of study by all monks (See Mookerji: *Asoka*, p.119).
 
 ## Vietnamese translation
 

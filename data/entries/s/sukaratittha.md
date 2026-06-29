@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13182
+  source_order: 13177
   source_anchor: 
 aliases:
   - "Sukaratittha"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8844
+  source_order: 8841
   source_anchor: 
 aliases:
   - "Maha Tissa 13"

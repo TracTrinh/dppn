@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4237
+  source_order: 4235
   source_anchor: 
 aliases:
   - "Candakumara 02"

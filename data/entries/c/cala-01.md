@@ -9,13 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4356
+  source_order: 4354
   source_anchor: 
 aliases:
   - "Cala 01"
 link_candidates:
   - "Andhavana"
-  - "Arahant"
   - "Cāla"
   - "Cālā"
   - "Cālā Therī"
@@ -34,7 +33,7 @@ Cālā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 She had two sisters, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Upacālā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sisūpacālā</span>, and all three left the world and joined the Saṅgha on hearing of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sāriputta</span>’s renunciation.
 
-In due course they attained <span class="dppn-term dppn-term-t18" data-dppn-term-pos="7" data-dppn-term-class="t18">Arahant</span>-ship (Thīg­a.162ff; Dhp­a.ii.188). It is said that one day, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Cālā</span> was taking her siesta in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Andhavana</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Māra</span> visited her, asking her various questions and trying to tempt her (Thīg.182-8; cp. SN.i.132). Her son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Cāla</span>.
+In due course they attained *Arahant*-ship (Thīg­a.162ff; Dhp­a.ii.188). It is said that one day, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Cālā</span> was taking her siesta in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Andhavana</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Māra</span> visited her, asking her various questions and trying to tempt her (Thīg.182-8; cp. SN.i.132). Her son was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Cāla</span>.
 
 ## Vietnamese translation
 

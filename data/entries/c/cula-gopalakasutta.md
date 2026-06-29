@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4473
+  source_order: 4470
   source_anchor: 
 aliases:
   - "Cula Gopalakasutta"
 link_candidates:
+  - "Cūla Gopālakasutta"
   - "Ukkācelā"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Gopālakasutta, Cūla Gopālakasutta. Preached to the monks assembled at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ukkācelā</span>. Those who will listen to and trust in the wrong kind of recluse and Brahmin and who do not understand good and evil will come to grief, whereas those who hearken to teachers of the right kind will gain deliverance.
+Cūḷa Gopālakasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Cūla Gopālakasutta</span>. Preached to the monks assembled at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ukkācelā</span>. Those who will listen to and trust in the wrong kind of recluse and Brahmin and who do not understand good and evil will come to grief, whereas those who hearken to teachers of the right kind will gain deliverance.
 
 The theme is illustrated by various similes drawn from the picture of a herdsman driving cattle across a ford. MN.i.225f.
 

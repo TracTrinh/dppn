@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ajarasasutta"
-link_candidates:
-  - "Deva"
+link_candidates: []
 ---
 
 # Ajarasāsutta
 
 ## English source
 
-Ajarasāsutta. Preached to a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Deva</span> in praise of wisdom. SN.i.36.
+Ajarasāsutta. Preached to a *Deva* in praise of wisdom. SN.i.36.
 
 ## Vietnamese translation
 

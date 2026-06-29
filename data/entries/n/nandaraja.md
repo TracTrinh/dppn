@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nanda-11"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6269
+  source_order: 6266
   source_anchor: 
 aliases:
   - "Nandaraja"

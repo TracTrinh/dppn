@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "channa-01"
 source:
   epub_file: "Ops/036.html"
-  source_order: 4671
+  source_order: 4668
   source_anchor: 
 aliases: []
 link_candidates:

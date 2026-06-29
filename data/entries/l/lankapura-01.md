@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "lankanagara"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10188
+  source_order: 10183
   source_anchor: 
 aliases:
   - "Lankapura 01"

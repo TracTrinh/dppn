@@ -14,8 +14,6 @@ source:
 aliases:
   - "Amaravati 03"
 link_candidates:
-  - "Epic Mythology"
-  - "Mahā Bhārata"
   - "Sakka"
 ---
 
@@ -23,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Amaravatī 03. The city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sakka</span>, king of the gods. Vin-a.i.49; Cv.lxxx.5; it is described in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Mahā Bhārata</span> iii.1714ff.; see also Hopkins, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Epic Mythology</span>, 140f.
+Amaravatī 03. The city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sakka</span>, king of the gods. Vin-a.i.49; Cv.lxxx.5; it is described in the *Mahā Bhārata* iii.1714ff.; see also Hopkins, *Epic Mythology*, 140f.
 
 ## Vietnamese translation
 

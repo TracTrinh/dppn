@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 4021
+  source_order: 4019
   source_anchor: 
 aliases:
   - "Gothakasamudda"

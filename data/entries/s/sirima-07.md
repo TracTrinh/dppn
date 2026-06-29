@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12306
+  source_order: 12301
   source_anchor: 
 aliases:
   - "Sirima 07"

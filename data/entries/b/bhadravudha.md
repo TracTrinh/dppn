@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8190
+  source_order: 8187
   source_anchor: 
 aliases:
   - "Bhadravudha"
 link_candidates:
-  - "Arahants"
   - "Bhadrāvudhamāṇavapuccha"
   - "Bāvarī"
   - "Cūḷa Niddesa"
@@ -30,7 +29,7 @@ Bhadrāvudha. One of the sixteen disciples of <span class="dppn-term dppn-term-t
 
 This question and answer are contained in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Bhadrāvudhamāṇavapuccha</span> (Snp.vs.1101-4), which is explained in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Cūḷa Niddesa</span> (CNid.36f).
 
-At the end of the discourse, Bhadrāvudha and his pupils became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Arahants</span> and joined the Saṅgha. Snp­a.ii.599.
+At the end of the discourse, Bhadrāvudha and his pupils became *Arahants* and joined the Saṅgha. Snp­a.ii.599.
 
 ## Vietnamese translation
 

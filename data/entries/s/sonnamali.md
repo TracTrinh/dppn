@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-thupa"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13346
+  source_order: 13341
   source_anchor: 
 aliases:
   - "Sonnamali"

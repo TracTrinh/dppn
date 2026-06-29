@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ogalhasutta"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3248
+  source_order: 3247
   source_anchor: 
 aliases:
   - "Kulagharanisutta"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "katthaka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2500
+  source_order: 2499
   source_anchor: 
 aliases:
   - "Kandarasala"

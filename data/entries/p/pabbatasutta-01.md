@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7077
+  source_order: 7074
   source_anchor: 
 aliases: []
 link_candidates:
   - "Himālaya"
-  - "sāla"
 ---
 
 # Pabbatasutta 01
 
 ## English source
 
-Pabbatasutta 01. The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">sāla</span> trees on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Himālaya</span> grow in branch, leaf and flower, in bark and shoots, in softwood and pith; similarly the folk in a devout man’s house grow in faith, virtue and wisdom. AN.i.152.
+Pabbatasutta 01. The *sāla* trees on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Himālaya</span> grow in branch, leaf and flower, in bark and shoots, in softwood and pith; similarly the folk in a devout man’s house grow in faith, virtue and wisdom. AN.i.152.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12795
+  source_order: 12790
   source_anchor: 
 aliases:
   - "Sunanda 05"

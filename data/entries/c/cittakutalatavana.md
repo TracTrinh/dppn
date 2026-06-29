@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cittalatavana-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4383
+  source_order: 4380
   source_anchor: 
 aliases:
   - "Cittakutalatavana"

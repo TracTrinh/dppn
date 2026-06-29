@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pasadabahula"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7238
+  source_order: 7235
   source_anchor: 
 aliases:
   - "Pasadabahulasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12439
+  source_order: 12434
   source_anchor: 
 aliases:
   - "Silasutta 02"

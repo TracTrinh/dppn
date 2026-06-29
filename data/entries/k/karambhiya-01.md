@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "karanvi"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2810
+  source_order: 2809
   source_anchor: 
 aliases:
   - "Karambhiya 01"

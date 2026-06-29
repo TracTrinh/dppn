@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9684
+  source_order: 9679
   source_anchor: 
 aliases:
   - "Yakkhasukaratittha"

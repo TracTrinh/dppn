@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 2954
+  source_order: 2953
   source_anchor: 
 aliases:
   - "Kinjaka"

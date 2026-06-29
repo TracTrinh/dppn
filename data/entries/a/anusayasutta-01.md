@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Rāhula"
   - "Rāhulasutta"
-  - "anusayā"
 ---
 
 # Anusayasutta 01
 
 ## English source
 
-Anusayasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rāhula</span> in reply to a question asked by him as to how insidious tendencies (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">anusayā</span>) could be got rid of. SN.ii.252; see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rāhulasutta</span> (2).
+Anusayasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rāhula</span> in reply to a question asked by him as to how insidious tendencies (*anusayā*) could be got rid of. SN.ii.252; see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rāhulasutta</span> (2).
 
 ## Vietnamese translation
 

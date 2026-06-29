@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kotapabbata"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3418
+  source_order: 3416
   source_anchor: 
 aliases:
   - "Kotipabbata"

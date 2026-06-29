@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5544
+  source_order: 5541
   source_anchor: 
 aliases:
   - "Dathasiva 04"
 link_candidates:
   - "Aggabodhi IV"
   - "Potthakuṭṭha"
-  - "Uparājā"
 ---
 
 # Dāṭhāsiva 04
 
 ## English source
 
-Dāṭhāsiva 04. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Uparājā</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggabodhi IV</span>. He was captured and imprisoned by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Potthakuṭṭha</span>. Cv.xlvi.40.
+Dāṭhāsiva 04. *Uparājā* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IV</span>. He was captured and imprisoned by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Potthakuṭṭha</span>. Cv.xlvi.40.
 
 ## Vietnamese translation
 

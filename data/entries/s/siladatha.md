@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "silameghavanna"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12361
+  source_order: 12356
   source_anchor: 
 aliases:
   - "Siladatha"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3030
+  source_order: 3029
   source_anchor: 
 aliases:
   - "Kisa Gotamivatthu 02"

@@ -14,7 +14,6 @@ source:
 aliases:
   - "Aramassa"
 link_candidates:
-  - "Loharūpa"
   - "Udaya I"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Ārāmassa. A village in Ceylon, given by King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Udaya I</span>. for the maintenance of a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Loharūpa</span> (bronze statue) of the Buddha. Cv.xlix.17.
+Ārāmassa. A village in Ceylon, given by King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Udaya I</span>. for the maintenance of a *Loharūpa* (bronze statue) of the Buddha. Cv.xlix.17.
 
 ## Vietnamese translation
 

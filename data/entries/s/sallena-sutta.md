@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sallattena-sutta"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11966
+  source_order: 11961
   source_anchor: 
 aliases: []
 link_candidates:

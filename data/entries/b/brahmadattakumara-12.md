@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sankiccajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8061
+  source_order: 8058
   source_anchor: 
 aliases:
   - "Brahmadattakumara 12"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8687
+  source_order: 8684
   source_anchor: 
 aliases:
   - "Maravara"

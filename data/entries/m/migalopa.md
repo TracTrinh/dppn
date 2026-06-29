@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "migalopajataka"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9416
+  source_order: 9411
   source_anchor: 
 aliases:
   - "Migalopa"

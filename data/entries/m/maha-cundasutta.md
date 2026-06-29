@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cundasutta-01"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8812
+  source_order: 8809
   source_anchor: 
 aliases:
   - "Maha Cundasutta"

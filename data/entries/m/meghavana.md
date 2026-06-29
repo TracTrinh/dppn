@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-meghavana-01"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9580
+  source_order: 9575
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11810
+  source_order: 11805
   source_anchor: 
 aliases: []
-link_candidates:
-  - "puthujjanas"
+link_candidates: []
 ---
 
 # Samudayasutta
 
 ## English source
 
-Samudayasutta. The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">puthujjanas</span> do not know the arising and going out of body, feelings, etc. SN.iii.82, 174.
+Samudayasutta. The *puthujjanas* do not know the arising and going out of body, feelings, etc. SN.iii.82, 174.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kokanuda"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3386
+  source_order: 3384
   source_anchor: 
 aliases: []
 link_candidates:

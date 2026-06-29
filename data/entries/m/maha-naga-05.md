@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-dathika-maha-naga"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8905
+  source_order: 8901
   source_anchor: 
 aliases:
   - "Maha Naga 05"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "medhankara-05"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10476
+  source_order: 10471
   source_anchor: 
 aliases: []
 link_candidates:

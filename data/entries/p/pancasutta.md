@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "anattalakkhanasutta"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6820
+  source_order: 6817
   source_anchor: 
 aliases:
   - "Pancasutta"

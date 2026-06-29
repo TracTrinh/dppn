@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "brahmaloka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8032
+  source_order: 8029
   source_anchor: 
 aliases:
   - "Brahmakayika Deva"

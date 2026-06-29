@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 13004
+  source_order: 12999
   source_anchor: 
 aliases:
   - "Sumana 05"

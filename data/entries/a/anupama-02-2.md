@@ -16,6 +16,7 @@ aliases:
 link_candidates:
   - "Anoma"
   - "Anupama"
+  - "Awakening"
   - "Sumana Buddha"
 ---
 
@@ -23,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Anupamā 02. Daughter of the banker <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anupama</span> (10), of the village <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anoma</span>. She gave a meal of milk-rice to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sumana Buddha</span> just prior to his Awakening. Bv­a.125.
+Anupamā 02. Daughter of the banker <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anupama</span> (10), of the village <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anoma</span>. She gave a meal of milk-rice to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sumana Buddha</span> just prior to his <span class="dppn-term dppn-term-t20" data-dppn-term-pos="4" data-dppn-term-class="t20">Awakening</span>. Bv­a.125.
 
 ## Vietnamese translation
 

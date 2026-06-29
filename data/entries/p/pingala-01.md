@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-pingala"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7402
+  source_order: 7399
   source_anchor: 
 aliases:
   - "Pingala 01"

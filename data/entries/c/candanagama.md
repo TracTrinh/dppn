@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4253
+  source_order: 4251
   source_anchor: "a168"
 aliases:
   - "Candanagama"

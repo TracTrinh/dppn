@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4887
+  source_order: 4884
   source_anchor: 
 aliases:
   - "Jivitasutta 02"

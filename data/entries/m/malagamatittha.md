@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9371
+  source_order: 9366
   source_anchor: 
 aliases:
   - "Malagamatittha"

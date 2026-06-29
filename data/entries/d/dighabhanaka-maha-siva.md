@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-siva-01"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5636
+  source_order: 5633
   source_anchor: 
 aliases:
   - "Dighabhanaka Maha Siva"

@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Annatarabhikkhusutta"
-link_candidates:
-  - "āsavā"
+link_candidates: []
 ---
 
 # Aññatarabhikkhusutta
 
 ## English source
 
-Aññatarabhikkhusutta. Two of this name containing questions on the holy life and the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavā</span>. SN.v.7-8.
+Aññatarabhikkhusutta. Two of this name containing questions on the holy life and the destruction of the *āsavā*. SN.v.7-8.
 
 ## Vietnamese translation
 

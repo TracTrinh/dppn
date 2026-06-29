@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ajitanjaya"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4863
+  source_order: 4860
   source_anchor: 
 aliases:
   - "Jitanjaya"

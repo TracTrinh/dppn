@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3507
+  source_order: 3505
   source_anchor: 
 aliases:
   - "Kovilaragama"
 link_candidates:
   - "Mahinda"
   - "Mahinda II"
-  - "Ādipādas"
 ---
 
 # Koviḷāragāma
 
 ## English source
 
-Koviḷāragāma. A village in Ceylon where a battle took place between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahinda II</span>. and the three <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Ādipādas</span> who had risen against him. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahinda</span> was victorious. Cv.xlvi.121.
+Koviḷāragāma. A village in Ceylon where a battle took place between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahinda II</span>. and the three *Ādipādas* who had risen against him. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda</span> was victorious. Cv.xlvi.121.
 
 ## Vietnamese translation
 

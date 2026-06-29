@@ -14,18 +14,16 @@ source:
 aliases:
   - "Ankolaka Thera"
 link_candidates:
-  - "Arahant"
   - "Cakkavatti"
   - "Devagajjita"
   - "Siddhattha Buddha"
-  - "aṅkola"
 ---
 
 # Aṅkolaka Thera
 
 ## English source
 
-Aṅkolaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In a previous birth he had offered an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">aṅkola</span>-flower to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Siddhattha Buddha</span>. Once, thirty-six kalpas ago, he was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Cakkavatti</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Devagajjita</span>. Ap.i.199.
+Aṅkolaka Thera. An *Arahant*. In a previous birth he had offered an *aṅkola*-flower to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span>. Once, thirty-six kalpas ago, he was a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devagajjita</span>. Ap.i.199.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dighanakhasutta"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11077
+  source_order: 11072
   source_anchor: 
 aliases:
   - "Vedanapariggahasutta"

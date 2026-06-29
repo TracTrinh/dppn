@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
-  source_order: 7572
+  source_order: 7569
   source_anchor: 
 aliases:
   - "Puttamamsasutta"

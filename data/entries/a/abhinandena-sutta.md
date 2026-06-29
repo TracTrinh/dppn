@@ -13,14 +13,15 @@ source:
   source_anchor: "a45"
 aliases:
   - "Abhinandena Sutta"
-link_candidates: []
+link_candidates:
+  - "suffering"
 ---
 
 # Abhinandena Suttā
 
 ## English source
 
-Abhinandena Suttā. 2 suttas. By taking delight in the eye, ear, etc., one takes delight in suffering; by not so doing one is released from suffering. Similarly with regard to sights, sounds, etc. SN.iv.13.
+Abhinandena Suttā. 2 suttas. By taking delight in the eye, ear, etc., one takes delight in <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">suffering</span>; by not so doing one is released from <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">suffering</span>. Similarly with regard to sights, sounds, etc. SN.iv.13.
 
 ## Vietnamese translation
 

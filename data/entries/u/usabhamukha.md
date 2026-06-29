@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Anotatta"
-  - "Usabhamukhanadī"
 ---
 
 # Usabhamukha
 
 ## English source
 
-Usabhamukha. One of the four channels leading out of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anotatta</span> lake. The river which flows out of this channel is called <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Usabhamukhanadī</span>, and cattle are abundant on its banks. Snp-a.ii.438; Ud­a.301.
+Usabhamukha. One of the four channels leading out of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anotatta</span> lake. The river which flows out of this channel is called *Usabhamukhanadī*, and cattle are abundant on its banks. Snp-a.ii.438; Ud­a.301.
 
 ## Vietnamese translation
 

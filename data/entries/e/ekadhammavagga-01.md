@@ -14,16 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Ekanipāta"
-  - "Suttas"
-  - "anussati"
 ---
 
 # Ekadhammavagga 01
 
 ## English source
 
-Ekadhammavagga 01. The sixteenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ekanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It contains ten <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Suttas</span>, in which ten subjects of reflection (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">anussati</span>) are mentioned as being conducive to inner emancipation. AN.i.30.
+Ekadhammavagga 01. The sixteenth chapter of the *Ekanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It contains ten *Suttas*, in which ten subjects of reflection (*anussati*) are mentioned as being conducive to inner emancipation. AN.i.30.
 
 ## Vietnamese translation
 

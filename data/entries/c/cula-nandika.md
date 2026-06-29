@@ -9,11 +9,12 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4497
+  source_order: 4494
   source_anchor: 
 aliases:
   - "Cula Nandika"
 link_candidates:
+  - "Culla Nandikā"
   - "Cūḷa Nandikā"
   - "Talatādevī"
 ---
@@ -22,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Cūḷa Nandikā, Culla Nandikā. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Talatādevī</span> is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cūḷa Nandikā</span> (Ja.vi.478) in the present age, but nothing further seems to be known of the latter.
+Cūḷa Nandikā, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data-dppn-term-class="t15">Culla Nandikā</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Talatādevī</span> is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Cūḷa Nandikā</span> (Ja.vi.478) in the present age, but nothing further seems to be known of the latter.
 
 ## Vietnamese translation
 

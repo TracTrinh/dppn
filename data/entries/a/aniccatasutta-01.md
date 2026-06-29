@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Aniccatasutta 01"
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Aniccatāsutta 01
 
 ## English source
 
-Aniccatāsutta 01. The disciple who realises the impermanence of all <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span> has no rebirth. SN.iii.44-5.
+Aniccatāsutta 01. The disciple who realises the impermanence of all *khandhas* has no rebirth. SN.iii.44-5.
 
 ## Vietnamese translation
 

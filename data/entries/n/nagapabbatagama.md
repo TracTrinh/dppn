@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6417
+  source_order: 6414
   source_anchor: 
 aliases:
   - "Nagapabbatagama"

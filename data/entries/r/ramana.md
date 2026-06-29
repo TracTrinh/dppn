@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9906
+  source_order: 9901
   source_anchor: 
 aliases:
   - "Ramana"

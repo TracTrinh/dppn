@@ -13,17 +13,15 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Arahant"
   - "Buddha Vessabhū"
   - "Vigatānanda"
-  - "kappas"
 ---
 
 # Ekavandiya Thera
 
 ## English source
 
-Ekavandiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. Thirty-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappas</span> ago he saw the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddha Vessabhū</span> and, with devout heart, worshipped him. Twenty-four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappas</span> ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vigatānanda</span>. Ap.i.217.
+Ekavandiya Thera. An *Arahant*. Thirty-one *kappas* ago he saw the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Buddha Vessabhū</span> and, with devout heart, worshipped him. Twenty-four *kappas* ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vigatānanda</span>. Ap.i.217.
 
 ## Vietnamese translation
 

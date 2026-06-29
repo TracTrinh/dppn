@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8530
+  source_order: 8527
   source_anchor: 
 aliases:
   - "Manikanthajataka"
@@ -21,7 +21,6 @@ link_candidates:
   - "Mahā Kassapa"
   - "Maṇikaṇṭha"
   - "Nāga"
-  - "q.v."
   - "Āḷavī"
 ---
 
@@ -35,7 +34,7 @@ The Bodhisatta noticing this, suggested that the next time <span class="dppn-ter
 
 The Buddha related this story at the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Aggāḷavacetiya</span> near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Āḷavī</span>. The monks of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Āḷavī</span> became so importunate with their requests for building materials from the householders that at the mere sight of a monk the householders would hurry indoors. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Mahā Kassapa</span> discovered this and reported it to the Buddha, who admonished the monks against begging for things from other people. (Ja.ii.282-6; also Vin.iii.146f., where the details of the story of the past are slightly different.)
 
-On the same occasion were preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Brahmadattajātaka</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Aṭṭhisenajātaka</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="14" data-dppn-term-class="t18">q.v.</span>).
+On the same occasion were preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Brahmadattajātaka</span> and the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Aṭṭhisenajātaka</span> (*q.v.*).
 
 ## Vietnamese translation
 

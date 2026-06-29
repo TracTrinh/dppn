@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9100
+  source_order: 9096
   source_anchor: 
 aliases:
   - "Maha Vajirabuddhi"

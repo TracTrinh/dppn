@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9216
+  source_order: 9212
   source_anchor: 
 aliases:
   - "Mahalisutta 02"

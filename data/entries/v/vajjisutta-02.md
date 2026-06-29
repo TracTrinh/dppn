@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10390
+  source_order: 10385
   source_anchor: 
 aliases:
   - "Vajjisutta 02"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7180
+  source_order: 7177
   source_anchor: 
 aliases:
   - "Parimandalavagga"

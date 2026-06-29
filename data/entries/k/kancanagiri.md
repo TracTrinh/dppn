@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kancanapabbata-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2329
+  source_order: 2328
   source_anchor: 
 aliases:
   - "Kancanagiri"

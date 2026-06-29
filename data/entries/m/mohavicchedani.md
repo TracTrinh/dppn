@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9681
+  source_order: 9676
   source_anchor: "a314"
 aliases:
   - "Mohavicchedani"

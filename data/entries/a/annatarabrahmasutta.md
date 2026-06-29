@@ -15,7 +15,6 @@ aliases:
   - "Annatarabrahmasutta"
 link_candidates:
   - "Anuruddha"
-  - "Brahma"
   - "Mahā Kappina"
   - "Mahā Kassapa"
   - "Moggallāna"
@@ -25,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Aññatarabrahmasutta. A certain <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Brahma</span> thought no recluse or Brahmin could come to his world. The Buddha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Moggallāna</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Kassapa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mahā Kappina</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Anuruddha</span> all appeared there and refuted his views. SN.i.144f.
+Aññatarabrahmasutta. A certain *Brahma* thought no recluse or Brahmin could come to his world. The Buddha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Kassapa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Kappina</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Anuruddha</span> all appeared there and refuted his views. SN.i.144f.
 
 ## Vietnamese translation
 

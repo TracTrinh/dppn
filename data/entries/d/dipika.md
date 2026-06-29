@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "pancadipika"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5678
+  source_order: 5675
   source_anchor: 
 aliases:
   - "Dipika"

@@ -13,18 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Utulhipupphiya Thera"
-link_candidates:
-  - "Arahant"
-  - "bodhi"
-  - "kappa"
-  - "utuḷhi"
+link_candidates: []
 ---
 
 # Utuḷhipupphiya Thera
 
 ## English source
 
-Utuḷhipupphiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. He made a garland of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">utuḷhi</span>-flowers and offered it to a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">bodhi</span>-tree. This was at the beginning of this <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappa</span>. Ap.ii.398.
+Utuḷhipupphiya Thera. An *Arahant*. He made a garland of *utuḷhi*-flowers and offered it to a *bodhi*-tree. This was at the beginning of this *kappa*. Ap.ii.398.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7127
+  source_order: 7124
   source_anchor: 
 aliases:
   - "Parakkamasagara"

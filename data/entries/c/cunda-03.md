@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "cunda-sukarika"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4439
+  source_order: 4436
   source_anchor: 
 aliases: []
 link_candidates:

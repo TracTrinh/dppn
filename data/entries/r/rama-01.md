@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10003
+  source_order: 9998
   source_anchor: 
 aliases:
   - "Rama 01"

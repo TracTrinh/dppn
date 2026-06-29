@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "chetvasutta-02"
 source:
   epub_file: "Ops/038.html"
-  source_order: 4937
+  source_order: 4934
   source_anchor: 
 aliases:
   - "Jhatvasutta"

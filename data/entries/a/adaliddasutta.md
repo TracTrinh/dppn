@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Adaliddasutta"
-link_candidates:
-  - "bojjhaṅgā"
+link_candidates: []
 ---
 
 # Adaḷiddasutta
 
 ## English source
 
-Adaḷiddasutta. The rich man is he who possesses the seven <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">bojjhaṅgā</span>. SN.v.100
+Adaḷiddasutta. The rich man is he who possesses the seven *bojjhaṅgā*. SN.v.100
 
 ## Vietnamese translation
 

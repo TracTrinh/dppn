@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "janasana"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4802
+  source_order: 4799
   source_anchor: 
 aliases:
   - "Jarasana"

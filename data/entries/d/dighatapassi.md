@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5622
+  source_order: 5619
   source_anchor: 
 aliases:
   - "Dighatapassi"
 link_candidates:
-  - "Nigaṇṭha"
   - "Nālandā"
   - "Nātaputta"
   - "Upāli"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Dīghatapassī. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Nigaṇṭha</span>, follower of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nātaputta</span>. He once visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Nālandā</span>, and there followed a discussion on actions and their efficiency. Dīghatapassī reported this discussion to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Nātaputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Upāli</span>, who was listening, went, against the advice of Dīghatapassī, to the Buddha and challenged him to a discussion, at the end of which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Upāli</span> was converted (MN.i.371ff).
+Dīghatapassī. A *Nigaṇṭha*, follower of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nātaputta</span>. He once visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Nālandā</span>, and there followed a discussion on actions and their efficiency. Dīghatapassī reported this discussion to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Nātaputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Upāli</span>, who was listening, went, against the advice of Dīghatapassī, to the Buddha and challenged him to a discussion, at the end of which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Upāli</span> was converted (MN.i.371ff).
 
 The Commentary (MN­a.ii.594) says that Dīghatapassī was long-limbed, hence his name.
 

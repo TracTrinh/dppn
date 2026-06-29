@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11557
+  source_order: 11552
   source_anchor: 
 aliases:
   - "Saddhammavilasa"
-link_candidates:
-  - "Sammohavināsinī"
+link_candidates: []
 ---
 
 # Saddhammavilāsa
 
 ## English source
 
-Saddhammavilāsa. A monk of Pagan, probably of the twelfth century; he was the author of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Sammohavināsinī</span>. Bode, 27.
+Saddhammavilāsa. A monk of Pagan, probably of the twelfth century; he was the author of the *Sammohavināsinī*. Bode, 27.
 
 ## Vietnamese translation
 

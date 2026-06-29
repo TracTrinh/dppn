@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3725
+  source_order: 3723
   source_anchor: 
 aliases:
   - "Gaggajataka"

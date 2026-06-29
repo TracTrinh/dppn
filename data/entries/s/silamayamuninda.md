@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "silasambuddha"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12364
+  source_order: 12359
   source_anchor: 
 aliases:
   - "Silamayamuninda"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11274
+  source_order: 11269
   source_anchor: 
 aliases:
   - "Sankantika"

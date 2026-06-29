@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "baluggata"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3628
+  source_order: 3626
   source_anchor: 
 aliases: []
 link_candidates:

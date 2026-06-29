@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6206
+  source_order: 6203
   source_anchor: 
 aliases:
   - "Natapubbaka"
-link_candidates:
-  - "Arahants"
+link_candidates: []
 ---
 
 # Naṭapubbaka
 
 ## English source
 
-Naṭapubbaka. The name given to two monks who were once mimes. Later, they joined the Saṅgha and became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahants</span>. Dhp­a.iv.224,225.
+Naṭapubbaka. The name given to two monks who were once mimes. Later, they joined the Saṅgha and became *Arahants*. Dhp­a.iv.224,225.
 
 ## Vietnamese translation
 

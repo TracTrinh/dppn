@@ -9,19 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11738
+  source_order: 11733
   source_anchor: 
 aliases: []
-link_candidates:
-  - "iddhi"
-  - "iddhipāda"
+link_candidates: []
 ---
 
 # Samattasutta 02
 
 ## English source
 
-Samattasutta 02. It is by practising the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipāda</span> that recluses and Brahmins can perfectly practise <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">iddhi</span> power. SN.v.256.
+Samattasutta 02. It is by practising the four *iddhipāda* that recluses and Brahmins can perfectly practise *iddhi* power. SN.v.256.
 
 ## Vietnamese translation
 

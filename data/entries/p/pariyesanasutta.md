@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7184
+  source_order: 7181
   source_anchor: 
 aliases:
   - "Pariyesanasutta"

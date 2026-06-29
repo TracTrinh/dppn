@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jambukola"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4765
+  source_order: 4762
   source_anchor: 
 aliases:
   - "Jambukolavihara 01"

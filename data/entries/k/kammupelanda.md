@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kabupelanda"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2588
+  source_order: 2587
   source_anchor: 
 aliases: []
 link_candidates:

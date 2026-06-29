@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sabbaka"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11628
+  source_order: 11623
   source_anchor: 
 aliases: []
 link_candidates:

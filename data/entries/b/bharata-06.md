@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8210
+  source_order: 8207
   source_anchor: 
 aliases: []
 link_candidates:
   - "Benares"
   - "Dasaratha"
   - "Okkāka"
-  - "q.v."
 ---
 
 # Bharata 06
 
 ## English source
 
-Bharata 06. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Benares</span>, belonging to the dynasty of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Okkāka</span>. He was the father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dasaratha</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">q.v.</span>). Mhv­ṭ. 130.
+Bharata 06. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Benares</span>, belonging to the dynasty of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Okkāka</span>. He was the father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dasaratha</span> (*q.v.*). Mhv­ṭ. 130.
 
 ## Vietnamese translation
 

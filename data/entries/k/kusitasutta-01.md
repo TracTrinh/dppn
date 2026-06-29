@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 3298
+  source_order: 3296
   source_anchor: 
 aliases:
   - "Kusitasutta 01"

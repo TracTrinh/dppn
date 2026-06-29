@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "angulimala"
 source:
   epub_file: "Ops/073.html"
-  source_order: 13549
+  source_order: 13543
   source_anchor: 
 aliases:
   - "Himsaka"

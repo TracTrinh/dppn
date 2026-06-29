@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3629
+  source_order: 3627
   source_anchor: 
 aliases:
   - "Khalunkasutta 01"

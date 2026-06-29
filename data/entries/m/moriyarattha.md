@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9675
+  source_order: 9670
   source_anchor: 
 aliases:
   - "Moriyarattha"

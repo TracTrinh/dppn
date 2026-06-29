@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "setambangana"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7671
+  source_order: 7668
   source_anchor: 
 aliases:
   - "Penambangana"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sariputtasutta-01"
 source:
   epub_file: "Ops/042.html"
-  source_order: 5390
+  source_order: 5387
   source_anchor: 
 aliases:
   - "Therapanhasutta"

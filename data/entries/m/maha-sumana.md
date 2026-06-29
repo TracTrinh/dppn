@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9186
+  source_order: 9182
   source_anchor: 
 aliases:
   - "Maha Sumana"

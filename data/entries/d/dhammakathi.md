@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 5969
+  source_order: 5966
   source_anchor: 
 aliases:
   - "Dhammakathi"

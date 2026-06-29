@@ -15,16 +15,13 @@ aliases:
   - "Uppade Sutta 02"
 link_candidates:
   - "Tathāgata"
-  - "indriyāni"
-  - "saddhā"
-  - "sati"
 ---
 
 # Uppāde Sutta 02
 
 ## English source
 
-Uppāde Sutta 02. The five controlling faculties (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">indriyāni</span>) of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">saddhā</span>, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">sati</span>, etc., arise only upon the manifestation of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Tathāgata</span>. SN.v.235.
+Uppāde Sutta 02. The five controlling faculties (*indriyāni*) of *saddhā*, *sati*, etc., arise only upon the manifestation of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tathāgata</span>. SN.v.235.
 
 ## Vietnamese translation
 

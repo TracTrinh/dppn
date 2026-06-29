@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9981
+  source_order: 9976
   source_anchor: 
 aliases:
   - "Rajini 01"

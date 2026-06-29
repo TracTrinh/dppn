@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3646
+  source_order: 3644
   source_anchor: 
 aliases:
   - "Khirarukkhasutta"

@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Atthangikasutta 01"
-link_candidates:
-  - "dhātu"
+link_candidates: []
 ---
 
 # Aṭṭhangikasutta 01
 
 ## English source
 
-Aṭṭhangikasutta 01. Things that flow together and coalesce do so because they contain a common element (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dhātu</span>) which makes possible such confluence, e.g. right views accord with right views by virtue of their common quality. SN.ii.168.
+Aṭṭhangikasutta 01. Things that flow together and coalesce do so because they contain a common element (*dhātu*) which makes possible such confluence, e.g. right views accord with right views by virtue of their common quality. SN.ii.168.
 
 ## Vietnamese translation
 

@@ -15,14 +15,13 @@ aliases:
   - "Arannavagga 01"
 link_candidates:
   - "Jātaka Commentary"
-  - "Tikanipāta"
 ---
 
 # Araññavagga 01
 
 ## English source
 
-Araññavagga 01. The third section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Tikanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jātaka Commentary</span> (Ja.ii.354ff).
+Araññavagga 01. The third section of the *Tikanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jātaka Commentary</span> (Ja.ii.354ff).
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "katakandhakara"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2349
+  source_order: 2348
   source_anchor: 
 aliases:
   - "Katandhakara"

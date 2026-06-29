@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8478
+  source_order: 8475
   source_anchor: "a291"
 aliases:
   - "Maccunabbhahata Sutta"

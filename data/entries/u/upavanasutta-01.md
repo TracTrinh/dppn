@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Sāriputta"
   - "Upavāṇa"
-  - "antakara"
 ---
 
 # Upavāṇasutta 01
 
 ## English source
 
-Upavāṇasutta 01. The conversation referred to above, between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Upavāṇa</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span>, on the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">antakara</span>. AN.ii.163f.
+Upavāṇasutta 01. The conversation referred to above, between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Upavāṇa</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span>, on the *antakara*. AN.ii.163f.
 
 ## Vietnamese translation
 

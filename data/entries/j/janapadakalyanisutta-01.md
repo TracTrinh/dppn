@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "janapadasutta"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4735
+  source_order: 4732
   source_anchor: 
 aliases:
   - "Janapadakalyanisutta 01"

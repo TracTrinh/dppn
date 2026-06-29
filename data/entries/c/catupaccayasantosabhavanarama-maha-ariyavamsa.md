@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-ariyavamsasutta"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4205
+  source_order: 4203
   source_anchor: 
 aliases:
   - "Catupaccayasantosabhavanarama Maha Ariyavamsa"

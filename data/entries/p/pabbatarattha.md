@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7074
+  source_order: 7071
   source_anchor: 
 aliases:
   - "Pabbatarattha"

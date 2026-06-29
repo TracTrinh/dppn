@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "saddhammatthitika"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11552
+  source_order: 11547
   source_anchor: 
 aliases:
   - "Saddhammapajjotika"

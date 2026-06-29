@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2755
+  source_order: 2754
   source_anchor: 
 aliases:
   - "Kanamula"
-link_candidates:
-  - "Kālavāpi"
+link_candidates: []
 ---
 
 # Kāṇamūla
 
 ## English source
 
-Kāṇamūla. A locality in Ceylon, near the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Kālavāpi</span>. Cv.lxxii.183.
+Kāṇamūla. A locality in Ceylon, near the *Kālavāpi*. Cv.lxxii.183.
 
 ## Vietnamese translation
 

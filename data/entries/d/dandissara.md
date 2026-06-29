@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5438
+  source_order: 5435
   source_anchor: 
 aliases:
   - "Dandissara"

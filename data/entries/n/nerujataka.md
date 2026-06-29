@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6712
+  source_order: 6709
   source_anchor: 
 aliases:
   - "Nerujataka"

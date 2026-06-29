@@ -15,14 +15,12 @@ aliases:
   - "Accimukhi"
 link_candidates:
   - "Accīmukhī"
-  - "Bhikkhunī"
   - "Bhūridatta"
   - "Bhūridattajātaka"
   - "Dhataraṭṭha"
   - "Nāga"
   - "Sudassana"
   - "Uppalavaṇṇā"
-  - "v.l."
   - "Ālambāna"
 ---
 
@@ -36,7 +34,7 @@ She could shoot flames from her mouth and spit the deadliest poison.
 
 The story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Bhūridattajātaka</span> (Ja 543, Ja.vi.157ff).
 
-In the present age she was the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">Bhikkhunī</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Uppalavaṇṇā</span> (Ja.vi.219) (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Accīmukhī</span>).
+In the present age she was the *Bhikkhunī* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Uppalavaṇṇā</span> (Ja.vi.219) (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Accīmukhī</span>).
 
 ## Vietnamese translation
 

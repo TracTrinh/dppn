@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9602
+  source_order: 9597
   source_anchor: 
 aliases:
   - "Mettavagga"

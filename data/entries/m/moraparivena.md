@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
-  source_order: 9668
+  source_order: 9663
   source_anchor: 
 aliases:
   - "Moraparivena"

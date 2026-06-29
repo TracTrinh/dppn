@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12427
+  source_order: 12422
   source_anchor: 
 aliases:
   - "Silavati 02"

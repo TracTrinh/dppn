@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4078
+  source_order: 4076
   source_anchor: 
 aliases:
   - "Godhikamahatissa Thera"

@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Suttanipāta"
-  - "Suttas"
 ---
 
 # Uragavagga 01
 
 ## English source
 
-Uragavagga 01. The first chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttanipāta</span>. It consists of twelve <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Suttas</span>. Sn.1ff.
+Uragavagga 01. The first chapter of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttanipāta</span>. It consists of twelve *Suttas*. Sn.1ff.
 
 ## Vietnamese translation
 

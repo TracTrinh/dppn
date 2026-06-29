@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6925
+  source_order: 6922
   source_anchor: 
 aliases:
   - "Panduka 02"

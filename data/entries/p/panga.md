@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6728
+  source_order: 6725
   source_anchor: 
 aliases:
   - "Panga"

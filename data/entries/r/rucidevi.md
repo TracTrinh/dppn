@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10054
+  source_order: 10049
   source_anchor: 
 aliases:
   - "Rucidevi"

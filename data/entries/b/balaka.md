@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7863
+  source_order: 7860
   source_anchor: 
 aliases:
   - "Balaka"

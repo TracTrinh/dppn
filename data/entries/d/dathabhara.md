@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5537
+  source_order: 5534
   source_anchor: 
 aliases:
   - "Dathabhara"

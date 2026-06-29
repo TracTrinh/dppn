@@ -18,7 +18,6 @@ link_candidates:
   - "Vinayapiṭaka"
   - "Vinayavinicchaya"
   - "Vācissara"
-  - "ṭīkā"
 ---
 
 # Uttaravinicchaya
@@ -31,7 +30,7 @@ In manuscripts the two works are usually found together.
 
 It was dedicated by the author to one of his pupils <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Saṅkhapāla</span>.
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vācissara</span> wrote a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">ṭīkā</span> on it. Gv.59, 62.
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vācissara</span> wrote a *ṭīkā* on it. Gv.59, 62.
 
 The work has been published by the PTS (1928).
 

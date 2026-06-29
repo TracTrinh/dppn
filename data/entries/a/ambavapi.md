@@ -15,7 +15,6 @@ aliases:
   - "Ambavapi"
 link_candidates:
   - "Būkakalla"
-  - "Mātambiyapadhānaghara"
   - "Potthakuṭṭha"
 ---
 
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ambavāpi. A tank at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Būkakalla</span> in Ceylon. It was given over to the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Mātambiyapadhānaghara</span> by the Damiḷa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Potthakuṭṭha</span>. Cv.xlvi.1920.
+Ambavāpi. A tank at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Būkakalla</span> in Ceylon. It was given over to the *Mātambiyapadhānaghara* by the Damiḷa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Potthakuṭṭha</span>. Cv.xlvi.1920.
 
 ## Vietnamese translation
 

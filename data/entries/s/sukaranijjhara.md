@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13183
+  source_order: 13178
   source_anchor: 
 aliases:
   - "Sukaranijjhara"

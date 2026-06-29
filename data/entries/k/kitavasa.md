@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 2961
+  source_order: 2960
   source_anchor: 
 aliases:
   - "Kitavasa"
 link_candidates:
-  - ")"
   - "Benares"
   - "Chattapāṇī"
   - "Dhammaddhajajātaka"
@@ -33,7 +32,7 @@ Kitavāsa. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 Kitavāsa is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Chattapāṇī</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Dhammaddhajajātaka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Chattapāṇī</span> himself being a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sāriputta</span> (Ja.ii.194ff).
 
-The story of Kitavāsa’s son bears close resemblance to that of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kitava</span>’s son (see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Kuṇḍinagariya Thera</span><span class="dppn-term dppn-term-t18" data-dppn-term-pos="10" data-dppn-term-class="t18">)</span>. Perhaps <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Kitava</span> and Kitavāsa are identical.
+The story of Kitavāsa’s son bears close resemblance to that of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kitava</span>’s son (see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Kuṇḍinagariya Thera</span>*)*. Perhaps <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Kitava</span> and Kitavāsa are identical.
 
 ## Vietnamese translation
 

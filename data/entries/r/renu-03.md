@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10088
+  source_order: 10083
   source_anchor: 
 aliases:
   - "Renu 03"

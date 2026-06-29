@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11722
+  source_order: 11717
   source_anchor: 
 aliases:
   - "Samanabrahmanasutta 09"
-link_candidates:
-  - "iddhipādas"
+link_candidates: []
 ---
 
 # Samaṇabrāhmaṇasutta 09
 
 ## English source
 
-Samaṇabrāhmaṇasutta 09. The results of the development of the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādas</span> by recluses and Brahmins. SN.v.273f.
+Samaṇabrāhmaṇasutta 09. The results of the development of the four *iddhipādas* by recluses and Brahmins. SN.v.273f.
 
 ## Vietnamese translation
 

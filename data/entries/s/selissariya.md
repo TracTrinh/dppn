@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "potiriya"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13306
+  source_order: 13301
   source_anchor: 
 aliases: []
 link_candidates:

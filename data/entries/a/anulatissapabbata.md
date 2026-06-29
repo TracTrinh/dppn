@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Gaṅgārājī"
   - "Kaniṭṭhatissa"
-  - "vihāra"
 ---
 
 # Anulatissapabbata
 
 ## English source
 
-Anulatissapabbata. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">vihāra</span> in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Gaṅgārājī</span> in East Ceylon, built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kaniṭṭhatissa</span>. Mhv.xxxvi.15.
+Anulatissapabbata. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gaṅgārājī</span> in East Ceylon, built by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kaniṭṭhatissa</span>. Mhv.xxxvi.15.
 
 ## Vietnamese translation
 

@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Isidatta"
-  - "sakkāyadiṭṭhi"
 ---
 
 # Isidattasutta 02
 
 ## English source
 
-Isidattasutta 02. The same, on the various views that arise in the world. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Isidatta</span> answers that they are all due to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">sakkāyadiṭṭhi</span>; he then proceeds, in reply to further questions, to explain how <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">sakkāyadiṭṭhi</span> arises and how its absence is brought about. SN.iv.286-8.
+Isidattasutta 02. The same, on the various views that arise in the world. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Isidatta</span> answers that they are all due to *sakkāyadiṭṭhi*; he then proceeds, in reply to further questions, to explain how *sakkāyadiṭṭhi* arises and how its absence is brought about. SN.iv.286-8.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5306
+  source_order: 5303
   source_anchor: 
 aliases:
   - "Tissarama 02"

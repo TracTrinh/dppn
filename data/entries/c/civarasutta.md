@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
-  source_order: 4435
+  source_order: 4432
   source_anchor: 
 aliases:
   - "Civarasutta"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12353
+  source_order: 12348
   source_anchor: 
 aliases:
   - "Siri 01"

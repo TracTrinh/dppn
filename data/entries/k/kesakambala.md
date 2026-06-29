@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "ajita-kesakambala"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3357
+  source_order: 3355
   source_anchor: 
 aliases: []
 link_candidates:

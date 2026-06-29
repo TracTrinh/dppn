@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "candapaduma-01"
 source:
   epub_file: "Ops/034.html"
-  source_order: 4264
+  source_order: 4262
   source_anchor: 
 aliases:
   - "Candapadumasiri"

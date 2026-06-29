@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8100
+  source_order: 8097
   source_anchor: 
 aliases:
   - "Bhaginisutta 01"
-link_candidates:
-  - "Saṁsāra"
+link_candidates: []
 ---
 
 # Bhaginīsutta 01
 
 ## English source
 
-Bhaginīsutta 01. It would not be easy to find a person who has not been one’s sister during <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Saṁsāra</span>. SN.ii.189.
+Bhaginīsutta 01. It would not be easy to find a person who has not been one’s sister during *Saṁsāra*. SN.ii.189.
 
 ## Vietnamese translation
 

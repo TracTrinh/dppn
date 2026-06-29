@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9469
+  source_order: 9464
   source_anchor: 
 aliases:
   - "Missaka"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 6790
+  source_order: 6787
   source_anchor: 
 aliases:
   - "Pancattayasutta"

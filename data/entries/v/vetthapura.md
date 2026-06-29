@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vethipura"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11055
+  source_order: 11050
   source_anchor: 
 aliases:
   - "Vetthapura"

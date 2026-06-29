@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3611
+  source_order: 3609
   source_anchor: 
 aliases:
   - "Khandhasutta 02"
-link_candidates:
-  - "upādānakkhandhas"
+link_candidates: []
 ---
 
 # Khandhāsutta 02
 
 ## English source
 
-Khandhāsutta 02. It is for the full comprehension of the five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">upādānakkhandhas</span> that the Noble Eightfold Path should be followed. SN.v.60.
+Khandhāsutta 02. It is for the full comprehension of the five *upādānakkhandhas* that the Noble Eightfold Path should be followed. SN.v.60.
 
 ## Vietnamese translation
 

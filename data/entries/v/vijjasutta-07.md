@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhikkhusutta-04"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10783
+  source_order: 10778
   source_anchor: 
 aliases:
   - "Vijjasutta 07"

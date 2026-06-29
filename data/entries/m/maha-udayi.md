@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "udayi-01"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8754
+  source_order: 8751
   source_anchor: 
 aliases:
   - "Maha Udayi"

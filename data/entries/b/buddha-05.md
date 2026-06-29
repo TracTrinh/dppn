@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "buddhanayaka"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7929
+  source_order: 7926
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "koliya"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3499
+  source_order: 3497
   source_anchor: 
 aliases:
   - "Kola"

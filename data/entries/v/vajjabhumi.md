@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vajji"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10376
+  source_order: 10371
   source_anchor: 
 aliases:
   - "Vajjabhumi"

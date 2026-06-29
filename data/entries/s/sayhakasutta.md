@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "abhisandasutta-02"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11907
+  source_order: 11902
   source_anchor: 
 aliases: []
 link_candidates:

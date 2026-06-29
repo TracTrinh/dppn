@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sejalaka"
 source:
   epub_file: "Ops/050.html"
-  source_order: 7664
+  source_order: 7661
   source_anchor: 
 aliases: []
 link_candidates:

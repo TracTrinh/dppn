@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kakudha-05"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3066
+  source_order: 3065
   source_anchor: 
 aliases:
   - "Kukkuttha"

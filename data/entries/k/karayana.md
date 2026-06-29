@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "digha-karayana-01"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2813
+  source_order: 2812
   source_anchor: 
 aliases:
   - "Karayana"

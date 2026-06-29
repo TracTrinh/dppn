@@ -16,14 +16,13 @@ aliases:
 link_candidates:
   - "Sāriputta"
   - "Ānanda"
-  - "ākiñcaññāyatana"
 ---
 
 # Ākiñcaññasutta 01
 
 ## English source
 
-Ākiñcaññasutta 01. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> on the sphere of Nothingness (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">ākiñcaññāyatana</span>). SN.iii.237.
+Ākiñcaññasutta 01. A conversation between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> on the sphere of Nothingness (*ākiñcaññāyatana*). SN.iii.237.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nigantha-nataputta"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8947
+  source_order: 8943
   source_anchor: 
 aliases:
   - "Maha Nigantha"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11711
+  source_order: 11706
   source_anchor: 
 aliases:
   - "Samanaguttaka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "miga"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9397
+  source_order: 9392
   source_anchor: 
 aliases: []
 link_candidates:

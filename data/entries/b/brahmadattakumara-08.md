@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kummasapindajataka"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8057
+  source_order: 8054
   source_anchor: 
 aliases:
   - "Brahmadattakumara 08"

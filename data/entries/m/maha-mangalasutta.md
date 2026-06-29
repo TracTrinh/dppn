@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mangalasutta"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9035
+  source_order: 9031
   source_anchor: 
 aliases:
   - "Maha Mangalasutta"

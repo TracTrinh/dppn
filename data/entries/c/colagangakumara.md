@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4643
+  source_order: 4640
   source_anchor: 
 aliases:
   - "Colagangakumara"

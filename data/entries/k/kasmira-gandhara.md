@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2677
+  source_order: 2676
   source_anchor: 
 aliases:
   - "Kasmira-Gandhara"

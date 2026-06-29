@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-thupa"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8815
+  source_order: 8812
   source_anchor: 
 aliases:
   - "Maha Cetiya"

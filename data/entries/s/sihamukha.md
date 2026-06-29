@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12501
+  source_order: 12496
   source_anchor: 
 aliases:
   - "Sihamukha"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5653
+  source_order: 5650
   source_anchor: 
 aliases:
   - "Dighayu 01"

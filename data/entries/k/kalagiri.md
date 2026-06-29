@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalapabbata"
 source:
   epub_file: "Ops/027.html"
-  source_order: 2869
+  source_order: 2868
   source_anchor: 
 aliases:
   - "Kalagiri"

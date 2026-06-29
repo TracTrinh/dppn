@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Dakkhiṇadesa"
   - "Dāṭhopatissa II"
-  - "Yuvarāja"
 ---
 
 # Aggabodhi 05
 
 ## English source
 
-Aggabodhi 05. Cousin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dāṭhopatissa II</span>. (CE 650-58), under whom he was <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Yuvarāja</span>, ruling <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dakkhiṇadesa</span>. Cv.xlv.23.
+Aggabodhi 05. Cousin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dāṭhopatissa II</span>. (CE 650-58), under whom he was *Yuvarāja*, ruling <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dakkhiṇadesa</span>. Cv.xlv.23.
 
 ## Vietnamese translation
 

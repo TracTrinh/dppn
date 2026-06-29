@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maragalla"
 source:
   epub_file: "Ops/059.html"
-  source_order: 9360
+  source_order: 9355
   source_anchor: 
 aliases:
   - "Marapabbata"

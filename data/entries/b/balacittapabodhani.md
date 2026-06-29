@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7865
+  source_order: 7862
   source_anchor: 
 aliases:
   - "Balacittapabodhani"
-link_candidates:
-  - "Ṭīkā"
+link_candidates: []
 ---
 
 # Bālacittapabodhanī
 
 ## English source
 
-Bālacittapabodhanī. The name of a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ṭīkā</span>. Gv.65, 67.
+Bālacittapabodhanī. The name of a *Ṭīkā*. Gv.65, 67.
 
 ## Vietnamese translation
 

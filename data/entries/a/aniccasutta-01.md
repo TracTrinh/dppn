@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Sāvatthī"
   - "Yadaniccasutta"
-  - "khandhas"
 ---
 
 # Aniccasutta 01
 
 ## English source
 
-Aniccasutta 01. (see also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Yadaniccasutta</span>). Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>; all <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">khandhas</span> are impermanent. SN.iii.21.
+Aniccasutta 01. (see also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Yadaniccasutta</span>). Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>; all *khandhas* are impermanent. SN.iii.21.
 
 ## Vietnamese translation
 

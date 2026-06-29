@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Upajjhasutta"
-link_candidates:
-  - "Arahant"
+link_candidates: []
 ---
 
 # Upajjhāsutta
 
 ## English source
 
-Upajjhāsutta. A monk goes to his teacher and confesses to him the difficulty he experiences in living the celibate life profitably. The teacher takes him to the Buddha, who suggests to him a different way of conduct. The monk acts according to the Buddha’s advice and becomes an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. On being informed of this, the Buddha makes it a topic for a sermon. AN.iii.69-71.
+Upajjhāsutta. A monk goes to his teacher and confesses to him the difficulty he experiences in living the celibate life profitably. The teacher takes him to the Buddha, who suggests to him a different way of conduct. The monk acts according to the Buddha’s advice and becomes an *Arahant*. On being informed of this, the Buddha makes it a topic for a sermon. AN.iii.69-71.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "niddesa"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8954
+  source_order: 8950
   source_anchor: 
 aliases:
   - "Maha Niddesa"

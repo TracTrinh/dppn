@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Ajjhohara"
-link_candidates:
-  - "yojanas"
+link_candidates: []
 ---
 
 # Ajjhohāra
 
 ## English source
 
-Ajjhohāra. One of the six huge mythical fishes of the Great Ocean. It was five hundred <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">yojanas</span> in length and lived on the fungi that grow on rocks. Ja.v.462.
+Ajjhohāra. One of the six huge mythical fishes of the Great Ocean. It was five hundred *yojanas* in length and lived on the fungi that grow on rocks. Ja.v.462.
 
 ## Vietnamese translation
 

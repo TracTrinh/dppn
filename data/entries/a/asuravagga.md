@@ -14,15 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Catukkanipāta"
-  - "Suttas"
 ---
 
 # Asuravagga
 
 ## English source
 
-Asuravagga. The tenth chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Catukkanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It consists of ten <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Suttas</span> containing the classification of four kinds of individuals to be found in the world, with more or less detailed descriptions of them (AN.ii.91-101).
+Asuravagga. The tenth chapter of the *Catukkanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. It consists of ten *Suttas* containing the classification of four kinds of individuals to be found in the world, with more or less detailed descriptions of them (AN.ii.91-101).
 
 ## Vietnamese translation
 

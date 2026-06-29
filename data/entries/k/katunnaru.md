@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
-  source_order: 2358
+  source_order: 2357
   source_anchor: 
 aliases:
   - "Katunnaru"

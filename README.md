@@ -1,23 +1,25 @@
 # Dictionary of Pali Proper Names
 
-Static English-only dictionary app generated from preprocessed DPPN data.
+Static English DPPN site for GitHub Pages (`dppn.bhavana.vn`).
 
-## Local preview
+This repository contains:
+
+```text
+data/                  regenerated EPUB extraction data
+<letter>/<headword>/   built static entry pages
+assets/                CSS and file-safe search assets
+.nojekyll
+CNAME
+```
+
+Build from the outer workspace:
 
 ```powershell
-python -m http.server 8080
+cd D:\Dhamma\books\DPPN
+& 'C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\preprocess_epub.py
+cd site
+$env:PATH='C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;' + $env:PATH
+& 'C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\pnpm.cmd' run build
 ```
 
-Open:
-
-```text
-http://127.0.0.1:8080/
-```
-
-Sample entry:
-
-```text
-http://127.0.0.1:8080/#/entry/tavatimsa
-```
-
-The app expects HTTP/static hosting. Direct `file://` loading is not supported because the app reads JSON and Markdown with `fetch()`.
+Preview by opening `index.html` directly or by serving this folder with a static server.

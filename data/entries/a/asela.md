@@ -29,7 +29,6 @@ link_candidates:
   - "Sena"
   - "Sūratissa"
   - "Uttiya"
-  - "cetiya"
 ---
 
 # Asela
@@ -40,7 +39,7 @@ Asela. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Asela</span> was one of nine brothers, the others being <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Abhaya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Devānampiyatissa</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Uttiya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Mahā Sīva</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Mahā Nāga</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Mattābhaya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Sūratissa</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Kīra</span> (Mhv­ṭ. 425).
 
-He built a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="19" data-dppn-term-class="t18">cetiya</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Asokamālaka</span> (Mhv­ṭ. 358).
+He built a *cetiya* in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Asokamālaka</span> (Mhv­ṭ. 358).
 
 ## Vietnamese translation
 

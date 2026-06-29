@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sakula-01"
 source:
   epub_file: "Ops/048.html"
-  source_order: 6721
+  source_order: 6718
   source_anchor: 
 aliases:
   - "Pakula"

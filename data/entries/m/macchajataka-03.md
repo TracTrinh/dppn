@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8481
+  source_order: 8478
   source_anchor: "a292"
 aliases:
   - "Macchajataka 03"

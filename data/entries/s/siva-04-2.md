@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12453
+  source_order: 12448
   source_anchor: 
 aliases:
   - "Siva 04"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7801
+  source_order: 7798
   source_anchor: 
 aliases:
   - "Bandhumati 01"

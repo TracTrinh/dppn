@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sineru"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9627
+  source_order: 9622
   source_anchor: 
 aliases: []
 link_candidates:

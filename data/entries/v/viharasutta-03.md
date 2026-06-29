@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "padesaviharasutta"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11002
+  source_order: 10997
   source_anchor: 
 aliases:
   - "Viharasutta 03"

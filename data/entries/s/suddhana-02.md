@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12728
+  source_order: 12723
   source_anchor: 
 aliases:
   - "Suddhana 02"

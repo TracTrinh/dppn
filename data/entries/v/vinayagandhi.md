@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vajirabuddhitika"
 source:
   epub_file: "Ops/065.html"
-  source_order: 10843
+  source_order: 10838
   source_anchor: 
 aliases:
   - "Vinayagandhi"

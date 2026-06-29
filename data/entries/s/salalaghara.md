@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "salalagara"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11953
+  source_order: 11948
   source_anchor: 
 aliases:
   - "Salalaghara"

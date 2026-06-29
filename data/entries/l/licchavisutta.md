@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nandakasutta-01"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10232
+  source_order: 10227
   source_anchor: 
 aliases:
   - "Licchavisutta"

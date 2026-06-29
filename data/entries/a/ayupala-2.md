@@ -14,7 +14,6 @@ source:
 aliases:
   - "Ayupala"
 link_candidates:
-  - "Arahant"
   - "Saṅghamittā"
   - "Āyupālī"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Āyupālā (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āyupālī</span>). An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Arahant</span> Therī, preceptor of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Saṅghamittā</span>. Mhv.v.208; Vin-a.i.51.
+Āyupālā (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āyupālī</span>). An *Arahant* Therī, preceptor of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saṅghamittā</span>. Mhv.v.208; Vin-a.i.51.
 
 ## Vietnamese translation
 

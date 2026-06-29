@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9940
+  source_order: 9935
   source_anchor: 
 aliases:
   - "Rajakaramavagga"

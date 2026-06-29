@@ -9,11 +9,10 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11110
+  source_order: 11105
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Garuḷa"
   - "Kuṇāla"
   - "Kākātī"
 ---
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Venateyya. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Garuḷa</span>, husband of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kākātī</span>. He is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kuṇāla</span>. Ja.v.428.
+Venateyya. A *Garuḷa*, husband of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kākātī</span>. He is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kuṇāla</span>. Ja.v.428.
 
 ## Vietnamese translation
 

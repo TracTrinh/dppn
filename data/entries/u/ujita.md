@@ -13,6 +13,7 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
+  - "Awakening"
   - "Ojita"
   - "Sikhī Buddha"
 ---
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ujita. A caravan-driver, who, with his friend <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ojita</span>, gave the first meal to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span> after his Awakening. Thag­a.i.48.
+Ujita. A caravan-driver, who, with his friend <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ojita</span>, gave the first meal to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sikhī Buddha</span> after his <span class="dppn-term dppn-term-t20" data-dppn-term-pos="3" data-dppn-term-class="t20">Awakening</span>. Thag­a.i.48.
 
 ## Vietnamese translation
 

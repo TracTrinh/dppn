@@ -13,17 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Asavasutta 02"
-link_candidates:
-  - "sammāvimutti"
-  - "sammāñāṇa"
-  - "āsavas"
+link_candidates: []
 ---
 
 # Āsavasutta 02
 
 ## English source
 
-Āsavasutta 02. Ten things that conduce to the destruction of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">āsavas</span>: the eight factors of the Noble Eightfold Path, in addition to <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">sammāñāṇa</span> and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">sammāvimutti</span>. AN.v.237.
+Āsavasutta 02. Ten things that conduce to the destruction of the *āsavas*: the eight factors of the Noble Eightfold Path, in addition to *sammāñāṇa* and *sammāvimutti*. AN.v.237.
 
 ## Vietnamese translation
 

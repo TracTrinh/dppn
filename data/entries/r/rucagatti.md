@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10046
+  source_order: 10041
   source_anchor: 
 aliases:
   - "Rucagatti"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10422
+  source_order: 10417
   source_anchor: 
 aliases:
   - "Vaddhasutta"

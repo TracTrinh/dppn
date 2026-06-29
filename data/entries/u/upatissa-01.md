@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Sāriputta"
-  - "q.v."
 ---
 
 # Upatissa 01
 
 ## English source
 
-Upatissa 01. The personal name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">q.v.</span>).
+Upatissa 01. The personal name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> (*q.v.*).
 
 ## Vietnamese translation
 

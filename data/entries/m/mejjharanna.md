@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mejjha"
 source:
   epub_file: "Ops/060.html"
-  source_order: 9588
+  source_order: 9583
   source_anchor: 
 aliases:
   - "Mejjharanna"

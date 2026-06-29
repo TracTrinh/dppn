@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sudinna-01"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2621
+  source_order: 2620
   source_anchor: 
 aliases: []
 link_candidates:

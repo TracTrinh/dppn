@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kuvera"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3157
+  source_order: 3156
   source_anchor: 
 aliases: []
 link_candidates:

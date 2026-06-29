@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sabbagahana"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11629
+  source_order: 11624
   source_anchor: 
 aliases: []
 link_candidates:

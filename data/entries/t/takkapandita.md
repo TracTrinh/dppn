@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 4990
+  source_order: 4987
   source_anchor: 
 aliases:
   - "Takkapandita"

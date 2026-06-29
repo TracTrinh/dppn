@@ -14,6 +14,7 @@ source:
 aliases: []
 link_candidates:
   - "Anāgatavaṁsa"
+  - "Awakening"
   - "Metteya Buddha"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ajita 07. The lay name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Metteya Buddha</span> in his last birth, when he will attain Awakening, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anāgatavaṁsa</span>, pp. 43, 45, 56.
+Ajita 07. The lay name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Metteya Buddha</span> in his last birth, when he will attain <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">Awakening</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anāgatavaṁsa</span>, pp. 43, 45, 56.
 
 ## Vietnamese translation
 

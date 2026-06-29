@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
-  source_order: 13489
+  source_order: 13483
   source_anchor: 
 aliases:
   - "Hadayunhaparivena"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9315
+  source_order: 9311
   source_anchor: 
 aliases:
   - "Matuposakajataka"
@@ -22,7 +22,6 @@ link_candidates:
   - "Karaṇḍaka"
   - "Mahā Māyā"
   - "Mātuposakanāgarājajātaka"
-  - "Sotāpannas"
   - "Sāmajātaka"
   - "Vedeha"
   - "Ānanda"
@@ -36,7 +35,7 @@ Mātuposakajātaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 The story was related in reference to a monk who tended his mother. For details see the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sāmajātaka</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ānanda</span> is identified with the king, whose name is given as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Vedeha</span>, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Māyā</span> with the mother-elephant (Ja.iv.90-5).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Dhammapada Commentary</span> (Dhp­a.iv.13) calls this the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="12" data-dppn-term-class="t18">Mātuposakanāgarājajātaka</span> and gives the name of the elephant as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Dhanapāla</span>. It was related to the four sons of a Brahmin who waited on their aged father. The audience shed floods of tears, so greatly were they moved, and the Brahmin and his sons became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="14" data-dppn-term-class="t18">Sotāpannas</span>.
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Dhammapada Commentary</span> (Dhp­a.iv.13) calls this the *Mātuposakanāgarājajātaka* and gives the name of the elephant as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Dhanapāla</span>. It was related to the four sons of a Brahmin who waited on their aged father. The audience shed floods of tears, so greatly were they moved, and the Brahmin and his sons became *Sotāpannas*.
 
 ## Vietnamese translation
 

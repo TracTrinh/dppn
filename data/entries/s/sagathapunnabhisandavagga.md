@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11270
+  source_order: 11265
   source_anchor: 
 aliases:
   - "Sagathapunnabhisandavagga"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vinayavinicchaya"
 source:
   epub_file: "Ops/049.html"
-  source_order: 7373
+  source_order: 7370
   source_anchor: 
 aliases:
   - "Palimuttakavinayavinicchaya"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "subhagiri"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12927
+  source_order: 12922
   source_anchor: 
 aliases: []
 link_candidates:

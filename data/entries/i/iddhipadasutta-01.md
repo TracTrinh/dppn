@@ -13,17 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Iddhipadasutta 01"
-link_candidates:
-  - "aññā"
-  - "iddhipādas"
-  - "ussoḷhi"
+link_candidates: []
 ---
 
 # Iddhipādasutta 01
 
 ## English source
 
-Iddhipādasutta 01. The cultivation of the four <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iddhipādas</span> and of exertion (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ussoḷhi</span>) brings insight (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">aññā</span>) in this life, or the Third Fruit of the Path. AN.iii.81-2.
+Iddhipādasutta 01. The cultivation of the four *iddhipādas* and of exertion (*ussoḷhi*) brings insight (*aññā*) in this life, or the Third Fruit of the Path. AN.iii.81-2.
 
 ## Vietnamese translation
 

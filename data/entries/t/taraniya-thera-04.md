@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5088
+  source_order: 5085
   source_anchor: 
 aliases:
   - "Taraniya Thera 04"

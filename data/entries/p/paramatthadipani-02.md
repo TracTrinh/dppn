@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7142
+  source_order: 7139
   source_anchor: 
 aliases:
   - "Paramatthadipani 02"

@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12115
+  source_order: 12110
   source_anchor: 
 aliases:
   - "Sama 04"
 link_candidates:
-  - "Arahant"
   - "Kosambī"
   - "Sāmā Therī"
   - "Sāmāvatī"
@@ -25,7 +24,7 @@ link_candidates:
 
 ## English source
 
-Sāmā 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāmā Therī</span>. She belonged to an eminent family of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kosambī</span>, and when her friend <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāmāvatī</span> died she left the world in distress of mind. Unable to subdue her grief, she could not grasp the Ariyan way. One day, while listening to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ānanda</span>’s preaching, she won insight, and, on the seventh day from then became an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Arahant</span>. Thīg.vs.37-8; Thīg­a.44.
+Sāmā 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāmā Therī</span>. She belonged to an eminent family of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kosambī</span>, and when her friend <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāmāvatī</span> died she left the world in distress of mind. Unable to subdue her grief, she could not grasp the Ariyan way. One day, while listening to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ānanda</span>’s preaching, she won insight, and, on the seventh day from then became an *Arahant*. Thīg.vs.37-8; Thīg­a.44.
 
 ## Vietnamese translation
 

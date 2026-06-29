@@ -15,14 +15,13 @@ aliases:
   - "Aharasutta 01"
 link_candidates:
   - "Jetavana"
-  - "āhārā"
 ---
 
 # Āhārasutta 01
 
 ## English source
 
-Āhārasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jetavana</span> on the four sustenances (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">āhārā</span>) that maintain beings by bringing them to birth and keeping them after birth; also the cause of these sustenances and the method of their cessation. SN.ii.11-12.
+Āhārasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jetavana</span> on the four sustenances (*āhārā*) that maintain beings by bringing them to birth and keeping them after birth; also the cause of these sustenances and the method of their cessation. SN.ii.11-12.
 
 ## Vietnamese translation
 

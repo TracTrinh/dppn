@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10505
+  source_order: 10500
   source_anchor: 
 aliases:
   - "Varananamuni"

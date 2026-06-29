@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11074
+  source_order: 11069
   source_anchor: 
 aliases:
   - "Vettavati 02"

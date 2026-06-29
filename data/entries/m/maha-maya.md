@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maya"
 source:
   epub_file: "Ops/058.html"
-  source_order: 9046
+  source_order: 9042
   source_anchor: 
 aliases:
   - "Maha Maya"

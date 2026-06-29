@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5017
+  source_order: 5014
   source_anchor: 
 aliases:
   - "Tanhavagga"

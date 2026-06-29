@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13213
+  source_order: 13208
   source_anchor: 
 aliases: []
-link_candidates:
-  - "sekha"
+link_candidates: []
 ---
 
 # Sekhasutta 06
 
 ## English source
 
-Sekhasutta 06. The learner (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">sekha</span>) is one imperfectly possessed of right view, etc. SN.iv.14.
+Sekhasutta 06. The learner (*sekha*) is one imperfectly possessed of right view, etc. SN.iv.14.
 
 ## Vietnamese translation
 

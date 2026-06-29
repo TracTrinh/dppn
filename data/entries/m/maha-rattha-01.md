@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9066
+  source_order: 9062
   source_anchor: 
 aliases:
   - "Maha Rattha 01"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10287
+  source_order: 10282
   source_anchor: 
 aliases:
   - "Lonaphalasutta"

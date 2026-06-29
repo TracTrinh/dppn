@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12150
+  source_order: 12145
   source_anchor: 
 aliases:
   - "Sariputta 04"
-link_candidates:
-  - "Padāvatāra"
+link_candidates: []
 ---
 
 # Sāriputta 04
 
 ## English source
 
-Sāriputta 04. A Coḷiyan monk, author of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Padāvatāra</span>. Gv.67; Svd.12, 44.
+Sāriputta 04. A Coḷiyan monk, author of the *Padāvatāra*. Gv.67; Svd.12, 44.
 
 ## Vietnamese translation
 

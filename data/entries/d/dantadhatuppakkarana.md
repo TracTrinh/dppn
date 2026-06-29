@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "dantadhatubodhivamsa"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5460
+  source_order: 5457
   source_anchor: 
 aliases:
   - "Dantadhatuppakkarana"

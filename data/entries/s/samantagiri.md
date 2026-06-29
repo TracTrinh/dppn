@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samantakuta"
 source:
   epub_file: "Ops/068.html"
-  source_order: 11744
+  source_order: 11739
   source_anchor: 
 aliases: []
 link_candidates:

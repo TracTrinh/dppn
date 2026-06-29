@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12179
+  source_order: 12174
   source_anchor: 
 aliases:
   - "Saligama"

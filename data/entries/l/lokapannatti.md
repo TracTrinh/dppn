@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10257
+  source_order: 10252
   source_anchor: 
 aliases:
   - "Lokapannatti"

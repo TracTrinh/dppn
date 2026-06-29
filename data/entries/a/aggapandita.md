@@ -23,7 +23,6 @@ link_candidates:
   - "Piṭakatthamain"
   - "Sāsanavaṁsa"
   - "Tatiya Aggapaṇḍita"
-  - "saddhivihārika"
 ---
 
 # Aggapaṇḍita
@@ -32,7 +31,7 @@ link_candidates:
 
 Aggapaṇḍita. A native of Burma and author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Lokuppattipakaraṇa</span>, written at Pagan in the thirteenth century (Gv.64, 67). The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Piṭakatthamain</span> calls the work <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Lokuppattipakāsanī</span> (Bode, 16, n.3).
 
-The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sāsanavaṁsa</span> (74) speaks of three monks by the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggapaṇḍita</span>: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Mahā Aggapaṇḍita</span> (evidently our author), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Dutiya Aggapaṇḍita</span> (his <span class="dppn-term dppn-term-t18" data-dppn-term-pos="8" data-dppn-term-class="t18">saddhivihārika</span>), and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Tatiya Aggapaṇḍita</span> (his nephew), all of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Arimaddanapura</span> and all famed for their learning.
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sāsanavaṁsa</span> (74) speaks of three monks by the name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggapaṇḍita</span>: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Mahā Aggapaṇḍita</span> (evidently our author), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Dutiya Aggapaṇḍita</span> (his *saddhivihārika*), and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Tatiya Aggapaṇḍita</span> (his nephew), all of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Arimaddanapura</span> and all famed for their learning.
 
 ## Vietnamese translation
 

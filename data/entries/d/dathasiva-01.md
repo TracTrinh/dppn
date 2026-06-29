@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
-  source_order: 5541
+  source_order: 5538
   source_anchor: 
 aliases:
   - "Dathasiva 01"
 link_candidates:
   - "Aggabodhi I"
-  - "Purohita"
 ---
 
 # Dāṭhāsiva 01
 
 ## English source
 
-Dāṭhāsiva 01. A Thera held in high esteem by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi I</span>. (Cv.xlii.22). Geiger (Cv.Trs.i.67, n.8) thinks he probably held some sort of position in the king’s court, corresponding to that of a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Purohita</span>.
+Dāṭhāsiva 01. A Thera held in high esteem by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi I</span>. (Cv.xlii.22). Geiger (Cv.Trs.i.67, n.8) thinks he probably held some sort of position in the king’s court, corresponding to that of a *Purohita*.
 
 ## Vietnamese translation
 

@@ -17,7 +17,6 @@ link_candidates:
   - "Kurunda"
   - "Mahā Siva"
   - "Theravāda"
-  - "vihāra"
 ---
 
 # Ambilapassava
@@ -26,9 +25,9 @@ link_candidates:
 
 Ambilapassava. A village in Ceylon, near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kurunda</span>, the residence of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Siva</span> (Near Mannar, Cv. trans. i.66, n.6).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aggabodhi I</span>. built a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">vihāra</span> there and gave the village for its maintenance.
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aggabodhi I</span>. built a *vihāra* there and gave the village for its maintenance.
 
-The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">vihāra</span> and the village were dedicated to the ascetics of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Theravāda</span> fraternity. Cv.xlii.17.
+The *vihāra* and the village were dedicated to the ascetics of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Theravāda</span> fraternity. Cv.xlii.17.
 
 ## Vietnamese translation
 

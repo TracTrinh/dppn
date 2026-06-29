@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kimbila-01"
 source:
   epub_file: "Ops/028.html"
-  source_order: 3001
+  source_order: 3000
   source_anchor: 
 aliases: []
 link_candidates:

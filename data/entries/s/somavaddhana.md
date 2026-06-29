@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13426
+  source_order: 13421
   source_anchor: 
 aliases:
   - "Somavaddhana"

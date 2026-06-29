@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12186
+  source_order: 12181
   source_anchor: 
 aliases:
   - "Saliya 01"

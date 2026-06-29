@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "vanasa"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10488
+  source_order: 10483
   source_anchor: 
 aliases:
   - "Vanasavatthi"

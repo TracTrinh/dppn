@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11703
+  source_order: 11698
   source_anchor: 
 aliases:
   - "Samanga 02"

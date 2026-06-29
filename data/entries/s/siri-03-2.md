@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sirijataka"
 source:
   epub_file: "Ops/069.html"
-  source_order: 12355
+  source_order: 12350
   source_anchor: 
 aliases:
   - "Siri 03"

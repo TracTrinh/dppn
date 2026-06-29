@@ -9,14 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12618
+  source_order: 12613
   source_anchor: 
 aliases:
   - "Sujata 07"
 link_candidates:
-  - "Arahant"
-  - "Sotāpanna"
-  - "upāsikā"
   - "Ñātikā"
 ---
 
@@ -24,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Sujātā 07. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">upāsikā</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ñātikā</span>. The Buddha said that she had become a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Sotāpanna</span> and had thus assured for herself the attainment of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">Arahant</span>-ship. DN.ii.92; SN.v.356f.
+Sujātā 07. An *upāsikā* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ñātikā</span>. The Buddha said that she had become a *Sotāpanna* and had thus assured for herself the attainment of *Arahant*-ship. DN.ii.92; SN.v.356f.
 
 ## Vietnamese translation
 

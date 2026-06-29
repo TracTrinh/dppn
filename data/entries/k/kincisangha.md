@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
-  source_order: 2952
+  source_order: 2951
   source_anchor: 
 aliases:
   - "Kincisangha"

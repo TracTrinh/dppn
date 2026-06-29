@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kuntamalaka"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3426
+  source_order: 3424
   source_anchor: 
 aliases:
   - "Kottamalaka"

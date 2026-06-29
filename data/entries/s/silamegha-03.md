@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12367
+  source_order: 12362
   source_anchor: 
 aliases:
   - "Silamegha 03"

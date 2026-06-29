@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13269
+  source_order: 13264
   source_anchor: 
 aliases:
   - "Senani"

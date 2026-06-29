@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maha-abhaya-01"
 source:
   epub_file: "Ops/043.html"
-  source_order: 5635
+  source_order: 5632
   source_anchor: 
 aliases:
   - "Dighabhanaka Maha Abhaya"

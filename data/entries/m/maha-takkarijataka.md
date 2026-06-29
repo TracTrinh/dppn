@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "takkariyajataka"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8824
+  source_order: 8821
   source_anchor: 
 aliases:
   - "Maha Takkarijataka"

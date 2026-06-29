@@ -14,17 +14,15 @@ source:
 aliases:
   - "Ekasankhiya Thera"
 link_candidates:
-  - "Arahant"
   - "Sudassana"
   - "Vipassī"
-  - "kappas"
 ---
 
 # Ekasaṅkhiya Thera
 
 ## English source
 
-Ekasaṅkhiya Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the past, when a festival was being held in honour of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vipassī</span>’s Bodhi-tree, be blew a conch-shell for a whole day as homage to the Buddha. Seventy-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">kappas</span> ago he became a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sudassana</span>. Ap.ii.391.
+Ekasaṅkhiya Thera. An *Arahant*. In the past, when a festival was being held in honour of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vipassī</span>’s Bodhi-tree, be blew a conch-shell for a whole day as homage to the Buddha. Seventy-one *kappas* ago he became a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sudassana</span>. Ap.ii.391.
 
 ## Vietnamese translation
 

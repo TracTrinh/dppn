@@ -15,15 +15,13 @@ aliases: []
 link_candidates:
   - "Abbuda"
   - "Avīci"
-  - "Khāris"
-  - "tila"
 ---
 
 # Abbuda 01
 
 ## English source
 
-Abbuda 01. A period of suffering in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Avīci</span> An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Abbuda</span> being reckoned as the time taken to remove twenty Kosalan <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Khāris</span> (equal to a cartload) of <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">tila</span>-seeds, taking one seed at the end of each century.
+Abbuda 01. A period of suffering in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Avīci</span> An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Abbuda</span> being reckoned as the time taken to remove twenty Kosalan *Khāris* (equal to a cartload) of *tila*-seeds, taking one seed at the end of each century.
 
 ## Vietnamese translation
 

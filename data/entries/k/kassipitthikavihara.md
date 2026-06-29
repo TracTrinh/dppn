@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2726
+  source_order: 2725
   source_anchor: 
 aliases:
   - "Kassipitthikavihara"

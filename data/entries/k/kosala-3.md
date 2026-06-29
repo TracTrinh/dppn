@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kosala"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3535
+  source_order: 3533
   source_anchor: 
 aliases:
   - "Kosala"

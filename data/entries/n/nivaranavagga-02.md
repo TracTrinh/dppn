@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6696
+  source_order: 6693
   source_anchor: 
 aliases:
   - "Nivaranavagga 02"

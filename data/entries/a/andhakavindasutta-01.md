@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Andhakavinda"
   - "Sahampati"
-  - "q.v."
 ---
 
 # Andhakavindasutta 01
 
 ## English source
 
-Andhakavindasutta 01. Records the incident of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sahampati</span> visiting the Buddha in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andhakavinda</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">q.v.</span>). SN.i.154.
+Andhakavindasutta 01. Records the incident of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sahampati</span> visiting the Buddha in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andhakavinda</span> (*q.v.*). SN.i.154.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12172
+  source_order: 12167
   source_anchor: 
 aliases:
   - "Salavanavihara 02"

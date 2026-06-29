@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
-  source_order: 4600
+  source_order: 4597
   source_anchor: 
 aliases:
   - "Cetaputta"

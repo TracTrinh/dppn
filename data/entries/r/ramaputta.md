@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "uddaka-ramaputta"
 source:
   epub_file: "Ops/062.html"
-  source_order: 10021
+  source_order: 10016
   source_anchor: 
 aliases:
   - "Ramaputta"

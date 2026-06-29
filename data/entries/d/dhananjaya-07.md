@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 5931
+  source_order: 5928
   source_anchor: 
 aliases:
   - "Dhananjaya 07"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3415
+  source_order: 3413
   source_anchor: 
 aliases:
   - "Kotalla"

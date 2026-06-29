@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gonda"
 source:
   epub_file: "Ops/029.html"
-  source_order: 3448
+  source_order: 3446
   source_anchor: 
 aliases:
   - "Konda"

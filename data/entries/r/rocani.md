@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 10111
+  source_order: 10106
   source_anchor: 
 aliases:
   - "Rocani"

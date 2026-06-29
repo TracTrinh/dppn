@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "mugapakkhajataka"
 source:
   epub_file: "Ops/041.html"
-  source_order: 5339
+  source_order: 5336
   source_anchor: 
 aliases:
   - "Temiyajataka"

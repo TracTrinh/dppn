@@ -9,12 +9,10 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12721
+  source_order: 12716
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Aggasāvaka"
-  - "Deva"
   - "Sujāta Buddha"
 ---
 
@@ -22,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Sudeva 03. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Aggasāvaka</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sujāta Buddha</span> (Bv.xiii.25); but see <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Deva</span>.
+Sudeva 03. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sujāta Buddha</span> (Bv.xiii.25); but see *Deva*.
 
 ## Vietnamese translation
 

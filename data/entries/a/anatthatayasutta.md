@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Anatthatayasutta"
-link_candidates:
-  - "pamāda"
+link_candidates: []
 ---
 
 # Anatthatāyasutta
 
 ## English source
 
-Anatthatāyasutta. Negligence (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">pamāda</span>) conduces to great loss. AN.i.16.
+Anatthatāyasutta. Negligence (*pamāda*) conduces to great loss. AN.i.16.
 
 ## Vietnamese translation
 

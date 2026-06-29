@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11266
+  source_order: 11261
   source_anchor: 
 aliases:
   - "Sakhasutta 01"

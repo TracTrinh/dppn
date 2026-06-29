@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
-  source_order: 6163
+  source_order: 6160
   source_anchor: 
 aliases:
   - "Nakanibilu"

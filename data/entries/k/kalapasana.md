@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2885
+  source_order: 2884
   source_anchor: 
 aliases:
   - "Kalapasana"

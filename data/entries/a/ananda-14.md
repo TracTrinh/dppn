@@ -14,7 +14,6 @@ source:
 aliases:
   - "Ananda 14"
 link_candidates:
-  - "Abhayagirikavicakravarti"
   - "Buddhasoma"
   - "Saddhammopāyana"
   - "Ānanda"
@@ -24,7 +23,7 @@ link_candidates:
 
 ## English source
 
-Ānanda 14. Author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saddhammopāyana</span>, also called <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Abhayagirikavicakravarti</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ānanda</span> and probably belonging to the same period as Ānanda (13). His friend and companion, for whom his book was written, was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Buddhasoma</span>. An Ānanda, probably a later writer, is also the author of a Sinhalese Commentary on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Saddhammopāyana</span>. PLC.212.
+Ānanda 14. Author of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saddhammopāyana</span>, also called *Abhayagirikavicakravarti* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> and probably belonging to the same period as Ānanda (13). His friend and companion, for whom his book was written, was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddhasoma</span>. An Ānanda, probably a later writer, is also the author of a Sinhalese Commentary on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Saddhammopāyana</span>. PLC.212.
 
 ## Vietnamese translation
 

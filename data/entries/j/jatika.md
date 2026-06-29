@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "jatila-02"
 source:
   epub_file: "Ops/037.html"
-  source_order: 4722
+  source_order: 4719
   source_anchor: 
 aliases:
   - "Jatika"

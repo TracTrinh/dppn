@@ -15,14 +15,13 @@ aliases: []
 link_candidates:
   - "Makuva"
   - "Peṭakopadesa"
-  - "ṭīkā"
 ---
 
 # Udumbara 01
 
 ## English source
 
-Udumbara 01. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Makuva</span>, author of a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">ṭīkā</span> on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Peṭakopadesa</span>. Gv.75, 65.
+Udumbara 01. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Makuva</span>, author of a *ṭīkā* on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Peṭakopadesa</span>. Gv.75, 65.
 
 ## Vietnamese translation
 

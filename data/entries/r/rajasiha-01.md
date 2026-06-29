@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9966
+  source_order: 9961
   source_anchor: 
 aliases:
   - "Rajasiha 01"

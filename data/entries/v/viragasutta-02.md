@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10928
+  source_order: 10923
   source_anchor: 
 aliases:
   - "Viragasutta 02"

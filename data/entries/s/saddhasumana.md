@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sumana-01"
 source:
   epub_file: "Ops/067.html"
-  source_order: 11575
+  source_order: 11570
   source_anchor: 
 aliases:
   - "Saddhasumana"

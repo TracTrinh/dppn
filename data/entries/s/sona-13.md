@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13323
+  source_order: 13318
   source_anchor: 
 aliases:
   - "Sona 13"

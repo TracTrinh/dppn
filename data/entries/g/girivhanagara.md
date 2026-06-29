@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "girinagara"
 source:
   epub_file: "Ops/031.html"
-  source_order: 3938
+  source_order: 3936
   source_anchor: 
 aliases: []
 link_candidates:

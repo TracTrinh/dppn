@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10166
+  source_order: 10161
   source_anchor: 
 aliases:
   - "Lakkhana 01"

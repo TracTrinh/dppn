@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
-  source_order: 8887
+  source_order: 8883
   source_anchor: "a299"
 aliases:
   - "Maha Dhanakumara"

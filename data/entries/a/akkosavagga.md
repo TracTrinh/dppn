@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Dasakanipāta"
 ---
 
 # Akkosavagga
 
 ## English source
 
-Akkosavagga. The fifth section of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Dasakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.v.77-91.
+Akkosavagga. The fifth section of the *Dasakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.v.77-91.
 
 ## Vietnamese translation
 

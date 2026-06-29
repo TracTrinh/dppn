@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9331
+  source_order: 9327
   source_anchor: 
 aliases:
   - "Mana 04"

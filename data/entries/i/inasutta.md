@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Inasutta"
-link_candidates:
-  - "iṇa"
+link_candidates: []
 ---
 
 # Iṇasutta
 
 ## English source
 
-Iṇasutta. Deals at length with the disadvantages, both material and moral, of poverty and consequent indebtedness (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">iṇa</span>). AN.iii.351-4.
+Iṇasutta. Deals at length with the disadvantages, both material and moral, of poverty and consequent indebtedness (*iṇa*). AN.iii.351-4.
 
 ## Vietnamese translation
 

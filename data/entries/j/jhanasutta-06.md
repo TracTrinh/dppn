@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
-  source_order: 4946
+  source_order: 4943
   source_anchor: 
 aliases:
   - "Jhanasutta 06"

@@ -9,21 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
-  source_order: 9184
+  source_order: 9180
   source_anchor: 
 aliases:
   - "Maha Sumana 03"
 link_candidates:
-  - ","
   - "Mahā Thūpa"
-  - "jātisumana"
 ---
 
 # Mahā Sumana 03
 
 ## English source
 
-Mahā Sumana 03. A Thera<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">,</span> present at the Foundation Ceremony of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Thūpa</span>; when the foundation was laid, he offered <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">jātisumana</span> flowers. Mhv­ṭ. 524, 527, 528.
+Mahā Sumana 03. A Thera*,* present at the Foundation Ceremony of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Thūpa</span>; when the foundation was laid, he offered *jātisumana* flowers. Mhv­ṭ. 524, 527, 528.
 
 ## Vietnamese translation
 

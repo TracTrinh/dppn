@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
-  source_order: 13078
+  source_order: 13073
   source_anchor: 
 aliases:
   - "Surama 01"

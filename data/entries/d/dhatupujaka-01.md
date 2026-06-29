@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6115
+  source_order: 6112
   source_anchor: 
 aliases:
   - "Dhatupujaka 01"
 link_candidates:
-  - "Arahant"
   - "Siddhattha Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Dhātupūjaka 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span> Thera. In the past he obtained a relic of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span>, which he honoured for five years. Ap.i.224.
+Dhātupūjaka 01. An *Arahant* Thera. In the past he obtained a relic of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span>, which he honoured for five years. Ap.i.224.
 
 ## Vietnamese translation
 

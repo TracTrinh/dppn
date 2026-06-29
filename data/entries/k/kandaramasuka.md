@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kalaramatthuka"
 source:
   epub_file: "Ops/026.html"
-  source_order: 2498
+  source_order: 2497
   source_anchor: 
 aliases: []
 link_candidates:

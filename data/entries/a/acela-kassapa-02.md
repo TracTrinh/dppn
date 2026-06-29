@@ -13,18 +13,16 @@ source:
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Arahant"
   - "Citta"
   - "Cittagapahati"
   - "Kassapa"
-  - "paribbājaka"
 ---
 
 # Acela Kassapa 02
 
 ## English source
 
-Acela Kassapa 02. An old family friend of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cittagapahati</span>. Having been for thirty years a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">paribbājaka</span>, he admits to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Citta</span> that he had thereby obtained no particular excellence of knowledge. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Citta</span> tells him of his own attainments and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kassapa</span> expresses a desire to enter the Saṅgha. He is duly ordained, and shortly afterwards becomes an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Arahant</span>. SN.iv.300ff.
+Acela Kassapa 02. An old family friend of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cittagapahati</span>. Having been for thirty years a *paribbājaka*, he admits to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Citta</span> that he had thereby obtained no particular excellence of knowledge. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Citta</span> tells him of his own attainments and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kassapa</span> expresses a desire to enter the Saṅgha. He is duly ordained, and shortly afterwards becomes an *Arahant*. SN.iv.300ff.
 
 ## Vietnamese translation
 

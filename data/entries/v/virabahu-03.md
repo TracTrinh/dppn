@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11030
+  source_order: 11025
   source_anchor: 
 aliases:
   - "Virabahu 03"

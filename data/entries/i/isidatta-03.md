@@ -14,7 +14,6 @@ source:
 aliases: []
 link_candidates:
   - "Anomadassī Buddha"
-  - "Arahants"
   - "Soreyya"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Isidatta 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Soreyya</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anomadassī Buddha</span> preached to him and to eighty thousand of his followers. They all became <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Arahants</span>. Bv­a.143-4.
+Isidatta 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Soreyya</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anomadassī Buddha</span> preached to him and to eighty thousand of his followers. They all became *Arahants*. Bv­a.143-4.
 
 ## Vietnamese translation
 

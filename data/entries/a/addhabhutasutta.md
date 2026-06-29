@@ -17,14 +17,13 @@ link_candidates:
   - "Andhabhūta"
   - "Kalandakanivāpa"
   - "Veḷuvana"
-  - "v.l."
 ---
 
 # Aḍḍhabhūtasutta
 
 ## English source
 
-Aḍḍhabhūtasutta (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andhabhūta</span>). Preached in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kalandakanivāpa</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Veḷuvana</span>. Everything is afflicted: eye, objects, eye-consciousness, etc. SN.iv.20-1.
+Aḍḍhabhūtasutta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Andhabhūta</span>). Preached in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kalandakanivāpa</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Veḷuvana</span>. Everything is afflicted: eye, objects, eye-consciousness, etc. SN.iv.20-1.
 
 ## Vietnamese translation
 

@@ -9,18 +9,17 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8294
+  source_order: 8291
   source_anchor: 
 aliases: []
-link_candidates:
-  - "khandhas"
+link_candidates: []
 ---
 
 # Bhikkhusutta 04
 
 ## English source
 
-Bhikkhusutta 04. Ignorance consists in ignorance of the nature of the body, its arising, its cessation and the way thereto; wisdom is wisdom with regard to these things. The same with the other <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">khandhas</span>. SN.iii.162f.
+Bhikkhusutta 04. Ignorance consists in ignorance of the nature of the body, its arising, its cessation and the way thereto; wisdom is wisdom with regard to these things. The same with the other *khandhas*. SN.iii.162f.
 
 ## Vietnamese translation
 

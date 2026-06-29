@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
-  source_order: 4939
+  source_order: 4936
   source_anchor: 
 aliases:
   - "Jhanasamyutta 01"

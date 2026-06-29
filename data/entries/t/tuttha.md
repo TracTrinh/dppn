@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
-  source_order: 5313
+  source_order: 5310
   source_anchor: 
 aliases:
   - "Tuttha"
 link_candidates:
-  - "Nibbāna"
   - "Suddhāvāsa"
   - "Ñātika"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Tuṭṭha. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ñātika</span> who died and was reborn in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suddhāvāsa</span>, there to attain <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Nibbāna</span>. SN.v.358, DN.ii.92.
+Tuṭṭha. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ñātika</span> who died and was reborn in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suddhāvāsa</span>, there to attain *Nibbāna*. SN.v.358, DN.ii.92.
 
 ## Vietnamese translation
 

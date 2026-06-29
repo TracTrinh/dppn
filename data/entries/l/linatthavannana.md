@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "linatthappakasini"
 source:
   epub_file: "Ops/063.html"
-  source_order: 10238
+  source_order: 10233
   source_anchor: 
 aliases:
   - "Linatthavannana"

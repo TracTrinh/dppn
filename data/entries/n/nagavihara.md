@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "nagamahavihara"
 source:
   epub_file: "Ops/046.html"
-  source_order: 6433
+  source_order: 6430
   source_anchor: 
 aliases:
   - "Nagavihara"

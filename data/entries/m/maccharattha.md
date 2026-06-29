@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "maccha"
 source:
   epub_file: "Ops/056.html"
-  source_order: 8483
+  source_order: 8480
   source_anchor: 
 aliases:
   - "Maccharattha"

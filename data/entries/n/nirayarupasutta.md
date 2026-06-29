@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6644
+  source_order: 6641
   source_anchor: 
 aliases:
   - "Nirayarupasutta"

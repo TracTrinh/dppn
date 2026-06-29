@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Mahā Summa Thera"
-  - "kappiya"
 ---
 
 # Anuruddha 07
 
 ## English source
 
-Anuruddha 07. Teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Summa Thera</span>. He once offered to the Saṅgha a bowl filled with ghee. The incident is mentioned in a discussion as to whether a bowl that had been bought for a particular monk, could be used by the community of monks (Vin-a.iii.698-9). This bowl had been bought for the Elder, but it was used by the community and was, therefore, <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">kappiya</span>.
+Anuruddha 07. Teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Summa Thera</span>. He once offered to the Saṅgha a bowl filled with ghee. The incident is mentioned in a discussion as to whether a bowl that had been bought for a particular monk, could be used by the community of monks (Vin-a.iii.698-9). This bowl had been bought for the Elder, but it was used by the community and was, therefore, *kappiya*.
 
 ## Vietnamese translation
 

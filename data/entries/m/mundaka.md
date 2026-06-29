@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9504
+  source_order: 9499
   source_anchor: 
 aliases:
   - "Mundaka"

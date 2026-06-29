@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3875
+  source_order: 3873
   source_anchor: 
 aliases:
   - "Gamani 02"

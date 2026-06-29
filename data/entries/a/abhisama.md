@@ -15,14 +15,13 @@ aliases:
   - "Abhisama"
 link_candidates:
   - "Udakāsanadāyaka Thera"
-  - "kappas"
 ---
 
 # Abhisāma
 
 ## English source
 
-Abhisāma. A king of fifteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago; a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Udakāsanadāyaka Thera</span>. Ap.i.218.
+Abhisāma. A king of fifteen *kappas* ago; a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Udakāsanadāyaka Thera</span>. Ap.i.218.
 
 ## Vietnamese translation
 

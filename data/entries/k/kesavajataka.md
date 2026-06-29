@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3369
+  source_order: 3367
   source_anchor: 
 aliases:
   - "Kesavajataka"
@@ -31,7 +31,6 @@ link_candidates:
   - "Sākyan"
   - "Sāriputta"
   - "Vāsabhakhattiyā"
-  - "q.v."
   - "Ānanda"
 ---
 
@@ -51,7 +50,7 @@ The story of the past as given in this Commentary differs considerably from the 
 
 <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" data-dppn-term-class="t14">Kesava</span> is identified with the Bodhisatta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term-class="t14">Kappa</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term-class="t14">Ānanda</span>, the king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-term-class="t14">Benares</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="31" data-dppn-term-class="t14">Moggallāna</span>, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="32" data-dppn-term-class="t14">Nārada</span> with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-term-class="t14">Sāriputta</span>.
 
-It was this reluctance of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Sākyan</span> monks to accept <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term-class="t14">Pasenadi</span>’s hospitality which led him to seek marriage with a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="36" data-dppn-term-class="t14">Sākyan</span> maiden; but the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="37" data-dppn-term-class="t14">Sākiyans</span> gave him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="38" data-dppn-term-class="t14">Vāsabhakhattiyā</span> (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="39" data-dppn-term-class="t18">q.v.</span>).
+It was this reluctance of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Sākyan</span> monks to accept <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term-class="t14">Pasenadi</span>’s hospitality which led him to seek marriage with a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="36" data-dppn-term-class="t14">Sākyan</span> maiden; but the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="37" data-dppn-term-class="t14">Sākiyans</span> gave him <span class="dppn-term dppn-term-t14" data-dppn-term-pos="38" data-dppn-term-class="t14">Vāsabhakhattiyā</span> (*q.v.*).
 
 ## Vietnamese translation
 

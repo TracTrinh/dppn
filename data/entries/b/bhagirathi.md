@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "bhagirathi"
 source:
   epub_file: "Ops/055.html"
-  source_order: 8102
+  source_order: 8099
   source_anchor: 
 aliases:
   - "Bhagirathi"

@@ -9,12 +9,11 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7304
+  source_order: 7301
   source_anchor: 
 aliases:
   - "Patihirasannaka Thera"
 link_candidates:
-  - "Arahant"
   - "Padumuttara Buddha"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Pāṭihīrasaññaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the past he had seen the miracles attending the entry of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padumuttara Buddha</span> into his city and marvelled thereat. Ap.ii.392.
+Pāṭihīrasaññaka Thera. An *Arahant*. In the past he had seen the miracles attending the entry of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padumuttara Buddha</span> into his city and marvelled thereat. Ap.ii.392.
 
 ## Vietnamese translation
 

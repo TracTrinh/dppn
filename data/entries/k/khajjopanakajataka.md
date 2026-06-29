@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "khajjopanakapanha"
 source:
   epub_file: "Ops/030.html"
-  source_order: 3565
+  source_order: 3563
   source_anchor: 
 aliases:
   - "Khajjopanakajataka"

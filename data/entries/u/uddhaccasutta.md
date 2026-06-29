@@ -12,15 +12,14 @@ source:
   source_order: 1835
   source_anchor: 
 aliases: []
-link_candidates:
-  - "samatha"
+link_candidates: []
 ---
 
 # Uddhaccasutta
 
 ## English source
 
-Uddhaccasutta. Conceit, want of restraint and of diligence, should all be destroyed by calm (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">samatha</span>), restraint and earnestness (AN.iii.449).
+Uddhaccasutta. Conceit, want of restraint and of diligence, should all be destroyed by calm (*samatha*), restraint and earnestness (AN.iii.449).
 
 ## Vietnamese translation
 

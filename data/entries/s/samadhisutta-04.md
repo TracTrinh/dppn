@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
-  source_order: 11776
+  source_order: 11771
   source_anchor: 
 aliases:
   - "Samadhisutta 04"

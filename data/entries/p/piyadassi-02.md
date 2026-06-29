@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7450
+  source_order: 7447
   source_anchor: 
 aliases:
   - "Piyadassi 02"

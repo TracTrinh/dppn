@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
-  source_order: 12494
+  source_order: 12489
   source_anchor: 
 aliases:
   - "Sihapapata"

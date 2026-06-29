@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Avijjasutta 06"
-link_candidates:
-  - "v.1."
+link_candidates: []
 ---
 
 # Avijjāsutta 06
 
 ## English source
 
-Avijjāsutta 06. When ignorance leads the way, wrong views arise, wrong aims, etc.; the reverse happens with knowledge. SN.<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.1.</span>
+Avijjāsutta 06. When ignorance leads the way, wrong views arise, wrong aims, etc.; the reverse happens with knowledge. SN.*v.1.*
 
 ## Vietnamese translation
 

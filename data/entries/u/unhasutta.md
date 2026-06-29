@@ -14,7 +14,6 @@ source:
 aliases:
   - "Unhasutta"
 link_candidates:
-  - "Devā"
   - "Uṇhavalāhaka"
 ---
 
@@ -22,7 +21,7 @@ link_candidates:
 
 ## English source
 
-Uṇhasutta. When the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uṇhavalāhaka</span> <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Devā</span> wish to revel their bodies, the weather becomes hot, according to their desire. SN.iii.251.
+Uṇhasutta. When the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uṇhavalāhaka</span> *Devā* wish to revel their bodies, the weather becomes hot, according to their desire. SN.iii.251.
 
 ## Vietnamese translation
 

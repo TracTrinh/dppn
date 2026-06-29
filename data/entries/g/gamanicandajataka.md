@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
-  source_order: 3869
+  source_order: 3867
   source_anchor: "a158"
 aliases:
   - "Gamanicandajataka"

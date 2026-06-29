@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11223
+  source_order: 11218
   source_anchor: 
 aliases:
   - "Sakunajataka"

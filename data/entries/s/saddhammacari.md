@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11545
+  source_order: 11540
   source_anchor: 
 aliases:
   - "Saddhammacari"
-link_candidates:
-  - "Ekaṁsikas"
+link_candidates: []
 ---
 
 # Saddhammacārī
 
 ## English source
 
-Saddhammacārī. A monk of Ceylon, who was quoted as their authority by the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ekaṁsikas</span> of Burma. Bode, 66; Sās.119.
+Saddhammacārī. A monk of Ceylon, who was quoted as their authority by the *Ekaṁsikas* of Burma. Bode, 66; Sās.119.
 
 ## Vietnamese translation
 

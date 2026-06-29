@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9991
+  source_order: 9986
   source_anchor: 
 aliases:
   - "Radha 01"

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10768
+  source_order: 10763
   source_anchor: 
 aliases:
   - "Vijita 02"

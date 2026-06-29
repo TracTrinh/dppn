@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
-  source_order: 11471
+  source_order: 11466
   source_anchor: 
 aliases:
   - "Satipatthanavagga"
 link_candidates:
   - "Aṅguttaranikāya"
-  - "Navakanipāta"
 ---
 
 # Satipaṭṭhānavagga
 
 ## English source
 
-Satipaṭṭhānavagga. The seventh chapter of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Navakanipāta</span> of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iv.457-61.
+Satipaṭṭhānavagga. The seventh chapter of the *Navakanipāta* of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.iv.457-61.
 
 ## Vietnamese translation
 

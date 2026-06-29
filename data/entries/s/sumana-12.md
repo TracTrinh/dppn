@@ -9,21 +9,20 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12969
+  source_order: 12964
   source_anchor: 
 aliases: []
 link_candidates:
   - "Anāthapiṇḍika"
   - "Subhūti Thera"
   - "Sāvatthī"
-  - "seṭṭhi"
 ---
 
 # Sumana 12
 
 ## English source
 
-Sumana 12. A <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">seṭṭhi</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>. He was the father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anāthapiṇḍika</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Subhūti Thera</span>. Thag­a.i.23; AN­a.i.125, 208.
+Sumana 12. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>. He was the father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anāthapiṇḍika</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Subhūti Thera</span>. Thag­a.i.23; AN­a.i.125, 208.
 
 ## Vietnamese translation
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6003
+  source_order: 6000
   source_anchor: 
 aliases:
   - "Dhammadinna 01"

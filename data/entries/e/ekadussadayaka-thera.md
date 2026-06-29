@@ -14,7 +14,6 @@ source:
 aliases:
   - "Ekadussadayaka Thera"
 link_candidates:
-  - "Arahant"
   - "Haṁsavatī"
   - "Padumuttara Buddha"
 ---
@@ -23,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ekadussadāyaka Thera. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padumuttara Buddha</span> be was a grass-cutter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Haṁsavatī</span> and gave to the Buddha his only upper garment. As a result he reigned in heaven thirty-six times and was king of men thirty-three times.
+Ekadussadāyaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Padumuttara Buddha</span> be was a grass-cutter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Haṁsavatī</span> and gave to the Buddha his only upper garment. As a result he reigned in heaven thirty-six times and was king of men thirty-three times.
 
 He had the power of obtaining garments at will wherever he happened to be. Ap.ii.379f.
 

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7957
+  source_order: 7954
   source_anchor: 
 aliases: []
 link_candidates:

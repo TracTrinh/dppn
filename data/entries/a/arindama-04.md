@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Sannidhāpaka Thera"
-  - "kappas"
 ---
 
 # Arindama 04
 
 ## English source
 
-Arindama 04. A king of forty-one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago; a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sannidhāpaka Thera</span>. Ap.i.97.
+Arindama 04. A king of forty-one *kappas* ago; a former birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sannidhāpaka Thera</span>. Ap.i.97.
 
 ## Vietnamese translation
 

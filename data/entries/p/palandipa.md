@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7209
+  source_order: 7206
   source_anchor: 
 aliases:
   - "Palandipa"

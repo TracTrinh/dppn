@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "gaddulasutta-01"
 source:
   epub_file: "Ops/052.html"
-  source_order: 7787
+  source_order: 7784
   source_anchor: 
 aliases: []
 link_candidates:

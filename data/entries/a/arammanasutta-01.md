@@ -13,16 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Arammanasutta 01"
-link_candidates:
-  - "vice versa"
-  - "ārammaṇa"
+link_candidates: []
 ---
 
 # Ārammaṇasutta 01
 
 ## English source
 
-Ārammaṇasutta 01. Some who practise meditation are skilled in concentration, but not in the object of concentration (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">ārammaṇa</span>), some <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vice versa</span>, some are skilled in both, some in neither. SN.iii.266.
+Ārammaṇasutta 01. Some who practise meditation are skilled in concentration, but not in the object of concentration (*ārammaṇa*), some *vice versa*, some are skilled in both, some in neither. SN.iii.266.
 
 ## Vietnamese translation
 

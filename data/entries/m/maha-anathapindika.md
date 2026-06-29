@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "anathapindika-01"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8742
+  source_order: 8739
   source_anchor: 
 aliases:
   - "Maha Anathapindika"

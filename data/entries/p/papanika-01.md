@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
-  source_order: 7329
+  source_order: 7326
   source_anchor: 
 aliases:
   - "Papanika 01"

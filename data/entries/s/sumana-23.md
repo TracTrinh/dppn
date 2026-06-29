@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "samiddhisumana"
 source:
   epub_file: "Ops/071.html"
-  source_order: 12980
+  source_order: 12975
   source_anchor: 
 aliases: []
 link_candidates:

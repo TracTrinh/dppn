@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2795
+  source_order: 2794
   source_anchor: 
 aliases:
   - "Kayasutta 01"
-link_candidates:
-  - "asaṅkhata"
+link_candidates: []
 ---
 
 # Kāyasutta 01
 
 ## English source
 
-Kāyasutta 01. Mindfulness relating to the body is the path to the Uncompounded (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">asaṅkhata</span>). This the Buddha has taught his disciples. SN.iv.359.
+Kāyasutta 01. Mindfulness relating to the body is the path to the Uncompounded (*asaṅkhata*). This the Buddha has taught his disciples. SN.iv.359.
 
 ## Vietnamese translation
 

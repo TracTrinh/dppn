@@ -14,6 +14,7 @@ source:
 aliases: []
 link_candidates:
   - "Anupama"
+  - "Awakening"
   - "Vessabhū"
 ---
 
@@ -21,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Anupama 02. Pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anupama</span> where <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vessabhū</span> was born and where, after Awakening, he performed the twin-miracle. Bv­a.206.
+Anupama 02. Pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anupama</span> where <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vessabhū</span> was born and where, after <span class="dppn-term dppn-term-t20" data-dppn-term-pos="3" data-dppn-term-class="t20">Awakening</span>, he performed the twin-miracle. Bv­a.206.
 
 ## Vietnamese translation
 

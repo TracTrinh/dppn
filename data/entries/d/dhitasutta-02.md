@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6141
+  source_order: 6138
   source_anchor: 
 aliases:
   - "Dhitasutta 02"
-link_candidates:
-  - "Saṁsāra"
+link_candidates: []
 ---
 
 # Dhītāsutta 02
 
 ## English source
 
-Dhītāsutta 02. Incalculable is <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Saṁsāra</span>, and it is impossible to find one who, in his wanderings, has not lost a daughter. SN.ii.190.
+Dhītāsutta 02. Incalculable is *Saṁsāra*, and it is impossible to find one who, in his wanderings, has not lost a daughter. SN.ii.190.
 
 ## Vietnamese translation
 

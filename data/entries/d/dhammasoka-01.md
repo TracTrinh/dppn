@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "asoka-01"
 source:
   epub_file: "Ops/045.html"
-  source_order: 6089
+  source_order: 6086
   source_anchor: 
 aliases:
   - "Dhammasoka 01"

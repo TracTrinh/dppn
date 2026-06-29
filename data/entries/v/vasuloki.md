@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "sudatta-11"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10590
+  source_order: 10585
   source_anchor: 
 aliases:
   - "Vasuloki"

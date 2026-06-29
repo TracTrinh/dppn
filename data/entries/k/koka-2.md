@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3392
+  source_order: 3390
   source_anchor: 
 aliases:
   - "Koka"

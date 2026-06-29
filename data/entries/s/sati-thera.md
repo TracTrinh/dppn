@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12070
+  source_order: 12065
   source_anchor: 
 aliases:
   - "Sati Thera"

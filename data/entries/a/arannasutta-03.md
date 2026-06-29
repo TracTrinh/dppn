@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Arannasutta 03"
-link_candidates:
-  - "ānāpānasati"
+link_candidates: []
 ---
 
 # Araññasutta 03
 
 ## English source
 
-Araññasutta 03. On the advantages of developing <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">ānāpānasati</span>. AN.iii.121.
+Araññasutta 03. On the advantages of developing *ānāpānasati*. AN.iii.121.
 
 ## Vietnamese translation
 

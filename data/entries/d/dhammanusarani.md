@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6083
+  source_order: 6080
   source_anchor: 
 aliases:
   - "Dhammanusarani"

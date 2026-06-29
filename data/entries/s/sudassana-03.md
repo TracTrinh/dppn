@@ -9,11 +9,10 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
-  source_order: 12671
+  source_order: 12666
   source_anchor: 
 aliases: []
 link_candidates:
-  - "Aggasāvaka"
   - "Sujāta Buddha"
 ---
 
@@ -21,7 +20,7 @@ link_candidates:
 
 ## English source
 
-Sudassana 03. Younger brother and <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Aggasāvaka</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sujāta Buddha</span>. Ja.i.38; Bv.xiii.25; Bv­a.169.
+Sudassana 03. Younger brother and *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sujāta Buddha</span>. Ja.i.38; Bv.xiii.25; Bv­a.169.
 
 ## Vietnamese translation
 

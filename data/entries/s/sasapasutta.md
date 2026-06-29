@@ -9,20 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12209
+  source_order: 12204
   source_anchor: 
 aliases:
   - "Sasapasutta"
-link_candidates:
-  - "Saṁsāra"
-  - "yojana"
+link_candidates: []
 ---
 
 # Sāsapasutta
 
 ## English source
 
-Sāsapasutta. If a man were to take once in one hundred years one seed from a heap of mustard one <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">yojana</span> in length, breadth, and height, he would come to an end of the seeds before one aeon is passed. Incalculable is <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">Saṁsāra</span>. SN.ii.182.
+Sāsapasutta. If a man were to take once in one hundred years one seed from a heap of mustard one *yojana* in length, breadth, and height, he would come to an end of the seeds before one aeon is passed. Incalculable is *Saṁsāra*. SN.ii.182.
 
 ## Vietnamese translation
 

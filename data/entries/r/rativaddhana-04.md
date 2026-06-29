@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
-  source_order: 9885
+  source_order: 9880
   source_anchor: 
 aliases:
   - "Rativaddhana 04"

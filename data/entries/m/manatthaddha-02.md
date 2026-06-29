@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9337
+  source_order: 9333
   source_anchor: 
 aliases:
   - "Manatthaddha 02"

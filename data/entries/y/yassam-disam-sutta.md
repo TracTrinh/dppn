@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
-  source_order: 9762
+  source_order: 9757
   source_anchor: 
 aliases:
   - "Yassam disam Sutta"

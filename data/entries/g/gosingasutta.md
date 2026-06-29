@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
-  source_order: 4126
+  source_order: 4124
   source_anchor: 
 aliases:
   - "Gosingasutta"

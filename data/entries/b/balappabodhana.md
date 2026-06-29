@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7874
+  source_order: 7871
   source_anchor: 
 aliases:
   - "Balappabodhana"
-link_candidates:
-  - "Ṭīkā"
+link_candidates: []
 ---
 
 # Bālāppabodhana
 
 ## English source
 
-Bālāppabodhana. A Pāli work, probably a Commentary (Gv.63, 73). There exists a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Ṭīkā</span> on it. Gv.65, 76.
+Bālāppabodhana. A Pāli work, probably a Commentary (Gv.63, 73). There exists a *Ṭīkā* on it. Gv.65, 76.
 
 ## Vietnamese translation
 

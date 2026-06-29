@@ -13,15 +13,14 @@ source:
   source_anchor: 
 aliases:
   - "Abhibhusutta 02"
-link_candidates:
-  - "abhibhāyaphanāni"
+link_candidates: []
 ---
 
 # Abhibhūsutta 02
 
 ## English source
 
-Abhibhūsutta 02. On the eight stages or stations of mastery over the senses (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">abhibhāyaphanāni</span>) (AN.iv.305f).
+Abhibhūsutta 02. On the eight stages or stations of mastery over the senses (*abhibhāyaphanāni*) (AN.iv.305f).
 
 ## Vietnamese translation
 

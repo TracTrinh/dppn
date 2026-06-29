@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "veroca"
 source:
   epub_file: "Ops/065.html"
-  source_order: 11147
+  source_order: 11142
   source_anchor: 
 aliases: []
 link_candidates:

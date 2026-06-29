@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
-  source_order: 6122
+  source_order: 6119
   source_anchor: 
 aliases:
   - "Dhatusutta 01"
-link_candidates:
-  - "dhātu"
+link_candidates: []
 ---
 
 # Dhātusutta 01
 
 ## English source
 
-Dhātusutta 01. On the diversity in <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dhātu</span> – e.g., the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">dhātu</span> of eye, of visible-object, of eye-consciousness, the ear, etc. SN.ii.140.
+Dhātusutta 01. On the diversity in *dhātu* – e.g., the *dhātu* of eye, of visible-object, of eye-consciousness, the ear, etc. SN.ii.140.
 
 ## Vietnamese translation
 

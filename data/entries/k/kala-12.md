@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2849
+  source_order: 2848
   source_anchor: 
 aliases:
   - "Kala 12"

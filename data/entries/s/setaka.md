@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "desaka"
 source:
   epub_file: "Ops/072.html"
-  source_order: 13226
+  source_order: 13221
   source_anchor: 
 aliases: []
 link_candidates:

@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
-  source_order: 8343
+  source_order: 8340
   source_anchor: 
 aliases:
   - "Bhuvanekabahu 06"

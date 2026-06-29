@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "susimajataka-01"
 source:
   epub_file: "Ops/054.html"
-  source_order: 8056
+  source_order: 8053
   source_anchor: 
 aliases:
   - "Brahmadattakumara 07"

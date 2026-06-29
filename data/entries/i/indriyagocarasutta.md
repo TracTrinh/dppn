@@ -16,8 +16,6 @@ link_candidates:
   - "Atthasālinī"
   - "Buddhaghosa"
   - "Dhammasangaṇi"
-  - "Sutta"
-  - "ekaṁ mahābhūtaṁ upādāya pāsādo paṭhavidhātuyā tīhi mahābhūtehi susaṅgahito āpodhātuyā ca tejodhātuyā ca vāyodhātuyā ca"
 ---
 
 # Indriyagocarasutta
@@ -26,7 +24,7 @@ link_candidates:
 
 Indriyagocarasutta. Mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Atthasālinī</span> (pp. 307-8), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Buddhaghosa</span>’s Commentary on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dhammasangaṇi</span>.
 
-The quotation given from it is: “<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">ekaṁ mahābhūtaṁ upādāya pāsādo paṭhavidhātuyā tīhi mahābhūtehi susaṅgahito āpodhātuyā ca tejodhātuyā ca vāyodhātuyā ca</span>, a palace, taking one great element as primary (namely the earth element), is well-supported by the other three great elements - the water element, fire element, and air element.” The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Sutta</span> has, so far, not been traced elsewhere.
+The quotation given from it is: “*ekaṁ mahābhūtaṁ upādāya pāsādo paṭhavidhātuyā tīhi mahābhūtehi susaṅgahito āpodhātuyā ca tejodhātuyā ca vāyodhātuyā ca*, a palace, taking one great element as primary (namely the earth element), is well-supported by the other three great elements - the water element, fire element, and air element.” The *Sutta* has, so far, not been traced elsewhere.
 
 ## Vietnamese translation
 

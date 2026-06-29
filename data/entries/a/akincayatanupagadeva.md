@@ -14,9 +14,7 @@ source:
 aliases:
   - "Akincayatanupagadeva"
 link_candidates:
-  - "Arūpa"
   - "Devas"
-  - "kappas"
   - "Ākiñcāyatana"
 ---
 
@@ -24,7 +22,7 @@ link_candidates:
 
 ## English source
 
-Ākiñcāyatanūpagādevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span> born in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ākiñcāyatana</span>, the third <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Arūpa</span> world (MN.iii.103). Their life term is sixty thousand <span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">kappas</span>. Abhidh-s.23.
+Ākiñcāyatanūpagādevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span> born in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ākiñcāyatana</span>, the third *Arūpa* world (MN.iii.103). Their life term is sixty thousand *kappas*. Abhidh-s.23.
 
 ## Vietnamese translation
 

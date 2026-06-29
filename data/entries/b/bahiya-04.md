@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
-  source_order: 7885
+  source_order: 7882
   source_anchor: 
 aliases:
   - "Bahiya 04"

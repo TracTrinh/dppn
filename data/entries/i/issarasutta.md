@@ -14,14 +14,13 @@ source:
 aliases: []
 link_candidates:
   - "Devatāsaṁyutta"
-  - "Suttas"
 ---
 
 # Issarasutta
 
 ## English source
 
-Issarasutta. One of the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Suttas</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devatāsaṁyutta</span>. Questions are asked as to what makes for lordship among men, what is the supreme commodity, etc., and the answer is that power of command it is which brings lordship and that women are the supreme commodity, etc. SN.i.43.
+Issarasutta. One of the *Suttas* in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devatāsaṁyutta</span>. Questions are asked as to what makes for lordship among men, what is the supreme commodity, etc., and the answer is that power of command it is which brings lordship and that women are the supreme commodity, etc. SN.i.43.
 
 ## Vietnamese translation
 

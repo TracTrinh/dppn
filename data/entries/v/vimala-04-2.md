@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 10914
+  source_order: 10909
   source_anchor: 
 aliases:
   - "Vimala 04"

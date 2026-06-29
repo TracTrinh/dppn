@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
-  source_order: 4809
+  source_order: 4806
   source_anchor: 
 aliases:
   - "Jarasutta 02"

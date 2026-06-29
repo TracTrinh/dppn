@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
-  source_order: 9534
+  source_order: 9529
   source_anchor: 
 aliases:
   - "Mundrannaddhana"

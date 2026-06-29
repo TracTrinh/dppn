@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8603
+  source_order: 8600
   source_anchor: 
 aliases:
   - "Matthala"

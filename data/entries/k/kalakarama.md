@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
-  source_order: 2865
+  source_order: 2864
   source_anchor: 
 aliases:
   - "Kalakarama"

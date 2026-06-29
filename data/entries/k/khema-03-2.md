@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
-  source_order: 3704
+  source_order: 3702
   source_anchor: 
 aliases:
   - "Khema 03"

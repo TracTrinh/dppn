@@ -9,20 +9,19 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
-  source_order: 8676
+  source_order: 8673
   source_anchor: 
 aliases: []
 link_candidates:
   - "Cayanti"
   - "Subha"
-  - "v.l."
 ---
 
 # Mayanti
 
 ## English source
 
-Mayanti. <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">v.l.</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cayanti</span>. A tank built by King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Subha</span>. Mhv.xxxv.94.
+Mayanti. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cayanti</span>. A tank built by King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Subha</span>. Mhv.xxxv.94.
 
 ## Vietnamese translation
 

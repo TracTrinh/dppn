@@ -16,7 +16,6 @@ aliases:
 link_candidates:
   - "Aḷāra"
   - "Benares"
-  - "Brahma"
   - "Himavā"
   - "Mithilā"
   - "Nāga"
@@ -36,9 +35,9 @@ Aḷāra. A landowner of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 Later, realising that the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Nāga</span>’s wonderful possessions were the fruit of good deeds done in the past, he became an ascetic in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Himavā</span> and afterwards took up his abode in the king’s park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Benares</span>. The king, seeing him on his begging-rounds, was pleased with his deportment and invited him to the palace. There, at the king’s request, he told him the story of his encounter with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Saṅkhapāla</span> and his subsequent life and exhorted the king to do acts of piety.
 
-Later he was born in the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="14" data-dppn-term-class="t18">Brahma</span>-world. See the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Saṅkhapālajātaka</span> (Ja 521). (v.161ff.).
+Later he was born in the *Brahma*-world. See the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Saṅkhapālajātaka</span> (Ja 521). (v.161ff.).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Aḷāra</span> was a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Sāriputta</span> (Ibid., 177). (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Āḷāra</span>.)
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Aḷāra</span> was a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Sāriputta</span> (Ibid., 177). (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Āḷāra</span>.)
 
 ## Vietnamese translation
 

@@ -9,19 +9,18 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
-  source_order: 6699
+  source_order: 6696
   source_anchor: 
 aliases:
   - "Nivaranani Sutta"
-link_candidates:
-  - "nīvaraṇas"
+link_candidates: []
 ---
 
 # Nīvaraṇāni Sutta
 
 ## English source
 
-Nīvaraṇāni Sutta. The five <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">nīvaraṇas</span>: sensual desire, malevolence, sloth and torpor, excitement and flurry, and doubt and wavering. SN.v.60.
+Nīvaraṇāni Sutta. The five *nīvaraṇas*: sensual desire, malevolence, sloth and torpor, excitement and flurry, and doubt and wavering. SN.v.60.
 
 ## Vietnamese translation
 

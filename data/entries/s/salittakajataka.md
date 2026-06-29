@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
-  source_order: 12181
+  source_order: 12176
   source_anchor: 
 aliases:
   - "Salittakajataka"

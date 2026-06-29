@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
-  source_order: 3483
+  source_order: 3481
   source_anchor: 
 aliases:
   - "Kolaka"

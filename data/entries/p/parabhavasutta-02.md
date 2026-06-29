@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
-  source_order: 7154
+  source_order: 7151
   source_anchor: 
 aliases:
   - "Parabhavasutta 02"

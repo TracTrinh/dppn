@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
-  source_order: 10173
+  source_order: 10168
   source_anchor: 
 aliases:
   - "Lakkhadhamma"

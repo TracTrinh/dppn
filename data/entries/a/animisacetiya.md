@@ -12,14 +12,15 @@ source:
   source_order: 449
   source_anchor: 
 aliases: []
-link_candidates: []
+link_candidates:
+  - "Awakening"
 ---
 
 # Animisacetiya
 
 ## English source
 
-Animisacetiya. The shrine built on the spot where the Buddha spent a week after the Awakening, gazing unwinking at the seat at the foot of the Bodhi-tree, the seat of his great victory.
+Animisacetiya. The shrine built on the spot where the Buddha spent a week after the <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" data-dppn-term-class="t20">Awakening</span>, gazing unwinking at the seat at the foot of the Bodhi-tree, the seat of his great victory.
 
 It was to the north of the Bodhi-tree. Ja.i.77.
 

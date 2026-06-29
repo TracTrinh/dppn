@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
-  source_order: 10639
+  source_order: 10634
   source_anchor: 
 aliases:
   - "Vanarajataka"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "candupama"
 source:
   epub_file: "Ops/064.html"
-  source_order: 10439
+  source_order: 10434
   source_anchor: 
 aliases:
   - "Vannupama"

@@ -9,7 +9,7 @@ status: "redirect"
 redirect_to: "kammasadamma"
 source:
   epub_file: "Ops/057.html"
-  source_order: 8769
+  source_order: 8766
   source_anchor: 
 aliases:
   - "Maha Kammasadamma"

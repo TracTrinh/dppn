@@ -9,7 +9,7 @@ status: "untranslated"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
-  source_order: 11130
+  source_order: 11125
   source_anchor: 
 aliases:
   - "Veranja"
