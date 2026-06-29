@@ -204,3 +204,10 @@ h2 {
   h1 { font-size: 32px; }
   main { padding-inline: 16px; }
 }
+body.theme-light-test {
+  background: #fbf6ec;
+}
+
+body.theme-light-test .site-header {
+  background: rgba(251, 246, 236, 0.96);
+}
