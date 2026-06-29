@@ -1,6 +1,6 @@
 "use strict";
 
-const DATA_BASE = "../data";
+const DATA_BASE = "data";
 const state = {
   entries: [],
   entriesById: new Map(),
