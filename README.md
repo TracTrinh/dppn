@@ -1,33 +1,28 @@
-# Dictionary of Pali Proper Names
+# Dictionary of Pāli Proper Names
 
-Static English DPPN site for GitHub Pages (`dppn.bhavana.vn`).
+Dictionary of Pāli Proper Names by G. P. Malalasekera D.Litt., PhD., M.A. (Lond.), O.B.E. Revised by Ānandajoti Bhikkhu, June 2025.
 
-This repository contains:
-
-```text
-data/                  regenerated EPUB extraction data
-<letter>/<headword>/   built static entry pages
-assets/                CSS and file-safe search assets
-.nojekyll
-CNAME
-```
-
-Git workflow note:
+This repository contains the static GitHub Pages build for:
 
 ```text
-This Git repository lives at D:\Dhamma\books\DPPN\.publish\dppn.
-The outer D:\Dhamma\books\DPPN folder is a build workspace, not the Git repo.
-Run git commands from this folder, or use git -C D:\Dhamma\books\DPPN\.publish\dppn ...
+dppn.bhavana.vn
 ```
 
-Build from the outer workspace:
+## Contents
 
-```powershell
-cd D:\Dhamma\books\DPPN
-& 'C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\preprocess_epub.py
-cd site
-$env:PATH='C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;' + $env:PATH
-& 'C:\Users\Trac\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\pnpm.cmd' run build
+- `index.html` and `<letter>/<headword>/index.html`: built static dictionary pages
+- `assets/`: shared CSS and search assets
+- `data/`: generated extraction data used by the site build
+- `CNAME` and `.nojekyll`: GitHub Pages configuration
+
+## Repository Note
+
+This Git repository lives at:
+
+```text
+D:\Dhamma\books\DPPN\.publish\dppn
 ```
 
-Preview by opening `index.html` directly or by serving this folder with a static server.
+The outer `D:\Dhamma\books\DPPN` folder is a build workspace, not the Git repo. If an empty `D:\Dhamma\books\DPPN\.git` folder appears, ignore it.
+
+Build and publish workflow notes are kept in `D:\Dhamma\books\DPPN\PUBLISH_WORKFLOW.md`.
