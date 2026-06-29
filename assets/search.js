@@ -44,7 +44,66 @@
     });
   }
 
+  function initReaderControls() {
+    var header = document.querySelector(".header-main");
+    if (!header || header.querySelector("[data-reader-controls]")) {
+      return;
+    }
+
+    var sizes = [18, 20, 22, 24, 26];
+    var storageKey = "dppn-reader-font-size";
+    var current = Number(readStoredSize()) || 20;
+    if (sizes.indexOf(current) === -1) {
+      current = 20;
+    }
+
+    function readStoredSize() {
+      try {
+        return localStorage.getItem(storageKey);
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function writeStoredSize(size) {
+      try {
+        localStorage.setItem(storageKey, String(size));
+      } catch (error) {
+        return;
+      }
+    }
+
+    function applySize(size) {
+      current = size;
+      document.documentElement.style.setProperty("--reader-font-size", size + "px");
+      writeStoredSize(size);
+    }
+
+    function step(delta) {
+      var index = sizes.indexOf(current);
+      var next = Math.max(0, Math.min(sizes.length - 1, index + delta));
+      applySize(sizes[next]);
+    }
+
+    var wrap = document.createElement("div");
+    wrap.className = "reader-controls";
+    wrap.dataset.readerControls = "";
+    wrap.setAttribute("aria-label", "Text size");
+    wrap.innerHTML = '<button class="reader-font-btn" type="button" data-reader-font="-1" aria-label="Decrease text size" title="Decrease text size">A-</button><button class="reader-font-btn" type="button" data-reader-font="1" aria-label="Increase text size" title="Increase text size">A+</button>';
+    wrap.addEventListener("click", function (event) {
+      var button = event.target.closest("[data-reader-font]");
+      if (button) {
+        step(Number(button.dataset.readerFont));
+      }
+    });
+
+    var topLinks = header.querySelector(".top-links");
+    header.insertBefore(wrap, topLinks || null);
+    applySize(current);
+  }
+
   document.querySelectorAll("[data-search]").forEach(init);
+  initReaderControls();
   document.addEventListener("keydown", function (event) {
     if (event.key === "/" && !/input|textarea/i.test(document.activeElement.tagName)) {
       var input = document.querySelector("[data-search]");
