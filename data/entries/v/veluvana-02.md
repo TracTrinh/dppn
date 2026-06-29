@@ -5,7 +5,7 @@ base_headword: "Veḷuvana"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veḷuvana 02. A bamboo grove in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvana 02. Một rừng tre tại Kajaṅgalā, nơi Đức Phật đã từng trú lại. Các cư sĩ (upāsakas) của Kajaṅgalā, sau khi đặt câu hỏi cho Tỳ-kheo-ni Kajaṅgalā, đã đến gặp Đức Phật tại đây và thỉnh cầu Ngài xác nhận những câu trả lời của bà. AN.v.54f.
 
 ## Notes

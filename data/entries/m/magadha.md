@@ -5,7 +5,7 @@ base_headword: "Magadha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -93,6 +93,28 @@ The people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="97" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Magadha. Một trong bốn vương quốc lớn nhất của Ấn Độ vào thời Đức Phật, cùng với Kosala, vương quốc của người Vaṁsas và Avanti. Magadha là một trong mười sáu Mahā Janapadas và có kinh đô tại Rājagaha hay còn gọi là Giribbaja, nơi Bimbisāra cai trị và sau đó là Ajātasattu. Về sau, Pāṭaliputta trở thành kinh đô. Đến thời Bimbisāra, Aṅga cũng là một phần của Magadha, và ông được biết đến với danh hiệu vua Aṅga-Magadha (xem, e.g., Vin.i.27 và Thag­a.i.544, nơi Bimbisāra triệu Soṇa Koḷivisa, một công dân nổi tiếng của Campā, kinh đô của Aṅga). Nhưng trước đó, hai xứ này là hai vương quốc riêng biệt, thường xuyên giao chiến với nhau (e.g., Ja.iv.454f). Một số vua Magadha được đề cập tên trong các bộ Jātaka — e.g., Arindama và Duyyodhana. Trong một câu chuyện, vương quốc Magadha được nói là đã từng nằm dưới sự thống trị của Aṅga (Ja.vi.272). Vào thời Đức Phật, Magadha (kể cả Aṅga) gồm tám mươi ngàn làng (Vin.i.179) và có chu vi khoảng ba trăm do-tuần (DN­a.i.148).
+
+Ajātasattu đã thành công trong việc sáp nhập Kosala với sự giúp đỡ của người Licchavīs, và cũng thành công trong việc đặt liên minh của những người này dưới quyền cai trị của mình; trong kinh điển có đề cập đến những sự kiện mở đầu cho cuộc tranh giành này (e.g., DN.ii.73f., 86).
+
+Dưới thời Bimbisāra và Ajātasattu, Magadha đã vươn lên đến tầm vóc chính trị lớn lao đến mức trong suốt nhiều thế kỷ, cho đến tận thời Asoka, lịch sử Bắc Ấn thực chất là lịch sử của Magadha (danh sách các vua từ Bimbisāra đến Asoka có trong Divy.369; cp. DN­a.i.153; Mbv.96, 98).
+
+Vào thời Đức Phật, vương quốc Magadha giáp ranh: phía đông là sông Campā (sông Campā chảy giữa Aṅga và Magadha; Ja.iv.454), phía nam là dãy núi Vindhyā, phía tây là sông Soṇa, và phía bắc là sông Ganges. Sông Ganges là ranh giới giữa Magadha và xứ cộng hòa của người Licchavīs, và cả người Māgadha lẫn người Licchavīs đều rõ ràng có quyền bình đẳng trên dòng sông này. Khi Đức Phật viếng thăm Vesālī, Bimbisāra đã làm một con đường dài năm do-tuần từ Rājagaha đến bờ sông và trang trí dọc đường, còn người Licchavīs cũng làm tương tự ở phía bên kia. Dhp­a.iii.439f.; *Divyāvadāna* (1p.55) cho biết các tỳ-kheo đi từ Sāvatthī đến Rājagaha có thể qua sông Ganges bằng thuyền do Ajātasattu hoặc người Licchavīs của Vesālī cung cấp.
+
+Trong thời kỳ Phật giáo sơ khai, Magadha là một trung tâm chính trị và thương mại quan trọng, được người từ khắp Bắc Ấn tìm đến để buôn bán và học hỏi. Các vua Magadha duy trì quan hệ thân thiện với các nước láng giềng — Bimbisāra và Pasenadi lấy chị em gái của nhau làm vợ. Có đề cập đến liên minh giữa Pukkusāti, vua Gandhāra, và Bimbisāra. Khi Caṇḍappajjota của Ujjenī mắc bệnh vàng da, Bimbisāra đã cử vị ngự y riêng của mình là Jīvaka đến chữa trị.
+
+Magadha chính là nơi Phật giáo thực sự ra đời (xem, e.g., lời được đặt trong miệng Sahampati tại Vin.i.5: *pātur-ahosi Magadhesu pubbe Dhammo*, v.v.), và chính từ Magadha mà Phật giáo lan truyền sau Đại Kết Tập lần thứ ba. Hai vị đệ tử hàng đầu của Đức Phật là Sāriputta và Moggallāna đều xuất thân từ Magadha. Vào thời Asoka, thu nhập từ bốn cổng thành của kinh đô Pāṭaliputta là bốn trăm ngàn *kahāpaṇa* mỗi ngày, và tại Sabhā (Hội đồng), mỗi ngày ông còn thu thêm một trăm ngàn *kahāpaṇa* nữa (Vin-a.i.52). Ruộng đồng Magadha phì nhiêu màu mỡ (Thag.vs.208), và mỗi thửa ruộng Magadha rộng khoảng một gāvuta. Vì vậy AN­a.ii.616 dùng diện tích của hai hoặc ba thửa ruộng làng Māgadha để giải thích độ lớn của thân Kakudha (AN.iii.122).
+
+Tên của nhiều địa danh trong Magadha xuất hiện trong kinh điển, e.g., Ekanāḷā, Nālakagāma, Senāṇigāma, Khānumata, Andhakavindha, Macala, Mātulā, Ambalaṭṭhikā, Pāṭaligāma, Nālandā và Sālindiya.
+
+Buddhaghosa nói (Snp­a.i.135f) rằng có nhiều cách giải thích phóng đại (*bahudhā papañcanti*) về từ Magadha. Một cách giải thích như sau: vua Cetiya, khi sắp bị đất nhấn chìm vì đã đưa sự gian dối vào thế gian, bị những người xung quanh cảnh báo: "*Mā gadhaṁ pavisa*;" một cách khác là: những người đang đào đất nhìn thấy vua và ông nói với họ: "*Mā gadhaṁ karotha*." Cách giải thích thực sự, được chính Buddhaghosa chấp nhận, có vẻ là xứ này là nơi cư trú của một tộc Sát-đế-lỵ (Khattiyas) mang tên Magadhā.
+
+*Magadhabhāsā* được coi là ngôn ngữ của người Āriya (e.g., Vin-a.i.255). Nếu trẻ em lớn lên mà không được dạy bất kỳ ngôn ngữ nào, chúng sẽ tự nhiên sử dụng ngôn ngữ Magadha; ngôn ngữ này lan rộng khắp *Niraya* (địa ngục), trong loài súc sinh, ngạ quỷ (Petas), con người và chư thiên (Devas) (Vibh­a.387f).
+
+Người dân Aṅga và Magadha có thói quen tổ chức một lễ tế lớn hằng năm dâng lên Māha Brahma, trong đó lửa được nhóm lên bằng sáu mươi xe củi. Họ cho rằng bất cứ thứ gì ném vào lửa tế lễ sẽ mang lại phần thưởng gấp nghìn lần. SN­a.i.269; nhưng đáng chú ý là trong thời kỳ Vệ-đà, Bà-la-môn và Sūtra, Magadha bị coi là nằm ngoài phạm vi văn hóa Āriya và Bà-la-môn, và do đó bị các nhà văn Bà-la-môn coi thường. Nhưng đối với Phật tử, đây lại là vùng đất thiêng liêng. Xem VT.ii.207; Thomas: *Life and Legend of the Buddha*, 13, 96.
+
+Magadha nổi tiếng với một loại tỏi đặc biệt (Vin-a.iv.920), và *nāla* Magadha là một đơn vị đo lường tiêu chuẩn (e.g., AN­a.i.101).
+
+Magadha được đồng nhất với vùng Nam Behar ngày nay. Xem thêm Magadhakhetta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veḷuvana"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -182,6 +182,32 @@ According to Xuanzang (Beal-Xuan, op.cit., ii.159), the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvana 01. Một công viên (vườn) gần Rājagaha, vườn thọ lạc của vua Bimbisāra. Khi Đức Phật lần đầu tiên đến thăm Rājagaha sau khi giác ngộ, Ngài trú tại Laṭṭhivanuyyāna (Vin.i.35). Ngày hôm sau, Ngài nhận lời mời dùng cơm tại hoàng cung của vua; khi bữa ăn kết thúc, vua tìm kiếm nơi ở cho Đức Phật — "không quá xa thành phố, không quá gần, thuận tiện cho việc đi lại, dễ tiếp cận với mọi người, ban ngày không quá đông đúc, ban đêm không ồn ào và huyên náo, sạch mùi người, kín đáo khỏi tầm mắt và thích hợp cho sự tĩnh lặng" — và quyết định chọn Veḷuvana, rồi dâng tặng nơi này cho Đức Phật và Tăng đoàn. Đây là *ārāma* (tịnh viên) đầu tiên Đức Phật nhận, và một điều luật đã được ban hành cho phép các tỳ-kheo nhận *ārāma* như vậy. Vin.i.39f.; theo Bv­a. (19; cf. Ap­a.i.75) đất chuyển rung động khi nước — được Bimbisāra rót lên tay Đức Phật để cúng dường Veḷuvana — đổ xuống đất. Đây là *ārāma* duy nhất ở Jambudīpa (châu Diêm Phù) mà lễ cúng dường được đánh dấu bằng sự rung chuyển của đất. Chính lễ cúng dường Veḷuvana được Mahinda trích dẫn làm tiền lệ khi ông quyết định nhận Mahā Meghavana tại Anurādhapura từ tay Devānampiyatissa (Mhv.xv.17). Đức Phật lập tức đến trú tại đó, và chính trong thời gian ở đây, Sāriputta và Moggallāna đã gia nhập Tăng đoàn. Vin.i.42.
+
+Kalandakanivāpa (*q.v.*) là địa điểm hầu như luôn được nhắc đến như nơi Đức Phật trú tại Veḷuvana. Tại đây nhiều điều luật Tỳ-nại-da đã được ban hành — e.g., về việc thọ an cư (Vin.i.137), sử dụng thức ăn nấu trong tu viện (Vin.i.210f), hái quả ăn được (*kappiya*) khi không có cư sĩ để xin phép (Vin.i.212), phẫu thuật cho tỳ-kheo (Vin.i.215f), ăn đường (Vin.i.226), chà xát các bộ phận cơ thể vào gỗ (Vin.ii.105), sử dụng các loại chỗ ở (Vin.ii.146) và sử dụng vàng bạc (Vin.ii.196).
+
+Trong thời gian Đức Phật trú tại Veḷuvana, Dabba Mallaputta theo lời thỉnh cầu của chính mình được bổ nhiệm làm người phân bổ chỗ ở và phân chia khẩu phần (Vin.ii.74. Đức Phật ở tại Veḷuvana khi Dabba quyết định thị tịch. Dabba đã đến từ biệt Đức Phật, Ud.viii.9). Sāriputta và Moggallāna đã đưa về năm trăm tỳ-kheo mà Devadatta đã lôi kéo đến Gayāsīsa (Vin.ii.200). Đức Phật đã trải qua mùa an cư thứ hai, ba và bốn tại Veḷuvana. Bv­a.3; chính khi Đức Phật đang ở Veḷuvana mà Devadatta đã mưu sát Ngài bằng cách thả voi Nālāgiri tấn công Ngài (Ja.v.335). Đây là một nơi rất thanh bình, và các tỳ-kheo đã tham dự Đại Kết Tập lần đầu đã nghỉ ngơi tại đó, trong khu Kalandakanivāpa, sau những nỗ lực của họ. Chính tại đây họ gặp Purāṇa, người đã từ chối công nhận tính xác thực của bài Kết Tập của họ (Vin.ii.289f).
+
+Nhiều câu chuyện Jātaka được kể tại Veḷuvana — e.g., Asampadāna, Upahāna, Ubhatobhaṭṭha, Kandagalaka, Kāḷabāhu, Kukkuṭa, Kumbhila, Kuruṅga, Kuruṅgamiga, Giridanta, Guttila, Cūḷa Dhammapāla, Cūḷa Haṁsa, Cūḷa Nandiya, Jambu, Tayodhamma, Thusa, Dummedha, Dūbhiyamakkaṭa, Dhammaddhaja, Nigrodha, Parantapa, Pucimanda, Maṅgala, Maṇicora, Manoja, Mahā Kapi, Mahā Haṁsa, Mūsika, Romaka, Rohantamiga, Ruru, Lakkhaṇa, Laṭukika, Vānara, Vānarinda, Vinīlaka, Virocana, Saccaṅkura, Sañjīva, Sabbadāṭha, Sarabhaṅga, Sāliya, Sigāla, Sīlavanāga, Suvaṇṇakakkaṭa, Haṁsa và Hāritamātā. Phần lớn các câu chuyện này liên quan đến Devadatta, một số liên quan đến Ajātasattu, và một số liên quan đến nỗ lực hiến dâng mạng sống của Ānanda vì Đức Phật.
+
+Ngoài ra, kinh điển còn đề cập nhiều bài Kinh được thuyết tại đây. Trong số những người đến thăm Đức Phật tại Veḷuvana có nhiều thiên tử (Devaputtas): Dīghalaṭṭha, Nandana, Candana, Sudatta, Subrahmā, Asama, Sahali, Niṅka, Akoṭaka, Veṭambarī và Māṇavagāmiya; cũng có Bà-la-môn Dhanañjanī; các vị Bhāradvāja: Akkosaka, Asurinda, Bilaṅgika, Aggika, Acela Kassapa, Susīma; ba mươi tỳ-kheo từ Pāvā (SN.ii.187); các Trưởng lão như Mahā Kappina, Aññā Kondañña (trước khi viên tịch); Soṇagahapatiputta, Samiddhi, Moliya Sīvaka, Tālapuṭa, Maṇicūḷaka, Mahā Cunda (khi đang ốm bệnh) (SN.v.181), Visākha (sau chuyến thăm Dhammadinnā, người đã thuyết giảng cho ông bài Cūḷa Vedallasutta), Abhayarājakumāra, Gulissāni, Vacchagotta, Bhūmija, Samiddhi, Aciravata, Sabhiya, Vassaka, Suppabuddha, Pilindavaccha, Jāṇussoṇī và công chúa Cundī; cùng với Khemā, vợ vua Bimbisāra, người đến Veḷuvana vì đã nghe rất nhiều về vẻ đẹp của nơi này. Sāriputta và Ānanda đã thỉnh thoảng đến thăm Đức Phật tại đây, khi thì một mình, khi thì cùng với người khác; và Ānanda đã sống tại đó một thời gian sau khi Đức Phật nhập diệt, và trong thời gian trú tại đó đã thuyết giảng bài Gopakamoggallānasutta.
+
+Sāriputta được nhắc đến là đã tổ chức các cuộc thảo luận tại đây với nhiều người, trong đó có Candikāputta và Lāḷudāyī. Một bài pháp thoại của Mahā Kassapa thuyết cho các tỳ-kheo tại Veḷuvana có trong AN.v.161ff.; các bài Kinh khác do Đức Phật thuyết, xem SN.i.231; ii.32, 183, 242, 254; iv.20; v.446; Ud.iv.9.
+
+Tương truyền Māra đã nhiều lần đến Veḷuvana (e.g., SN.i.106f) để thực hiện ý đồ của mình đối với Đức Phật. Đức Phật đang ở Veḷuvana khi ba vị tỳ-kheo tự sát — Vakkali, Godhika và Channa — và Ngài phải tuyên bố họ vô tội. Tin tức về bệnh tình của ba đệ tử — Assaji, Moggallāna và Dīghāvu — được đưa đến cho Đức Phật khi Ngài đang ở Veḷuvana, và Ngài đã đi thăm và an ủi họ bằng những bài pháp thoại về giáo pháp. Gần Veḷuvana có một Paribbājakārāma (tu viện của các du sĩ ngoại đạo), nơi Đức Phật đôi khi ghé đến cùng một số đệ tử trong lúc đi khất thực. Hai cuộc thảo luận của Ngài ở đó được ghi lại trong Cūḷa Sakuladāyīsutta và Mahā Sakuladāyīsutta.
+
+Trong thời Đức Phật còn tại thế, hai bảo tháp đã được dựng lên trước cổng Veḷuvana — một tháp chứa xá-lợi của Aññā Koṇḍañña (SN­a.i.219), và một tháp chứa xá-lợi của Moggallāna (Ja*.v.127).*
+
+Veḷuvana được gọi như vậy vì xung quanh được bao phủ bởi cây tre (*veḷu*). Khuôn viên được bao bọc bởi một bức tường cao mười tám cubit, có cổng tam quan và tháp canh (Snp­a.ii.419; Vin-a.iii.576).
+
+Sau khi Đức Phật nhập diệt, Dāsaka — đệ tử của Upāli — sống tại Veḷuvana và tại đây đã thọ giới cho Soṇaka cùng năm mươi lăm người đồng hành. Từ đó Soṇaka đi đến Kukkuṭārāma (Mhv.v.115f, 122; Dpv.iv.39).
+
+Cảnh lễ cúng dường Veḷuvana nằm trong số những cảnh được khắc họa trong Phòng Xá-lợi của Mahā Thūpa (Mhv.xxx.80).
+
+Một bên của công trình chính của *vihāra* Veḷuvana có một tòa nhà gọi là Ambalaṭṭhika (MN­a.ii.635). Ngoài ra còn có một *senāsana* (chỗ ở) dành cho các tỳ-kheo tu khổ hạnh (MN­a.ii.932).
+
+Tương truyền sau khi chết, Vassakāra đã đầu thai thành một con khỉ ở Veḷuvana và đáp ứng khi được gọi tên. Ông đã được báo trước rằng số phận này đang chờ đợi ông, và vì vậy đã có biện pháp phòng xa bằng cách bảo đảm nơi này được trồng nhiều cây ăn quả (MN­a.ii.854).
+
+Theo Huyền Trang (Xuanzang) (Beal-Xuan, op.cit., ii.159), Kalandakanivāpa (*Karaṇḍaveṇuvana* theo cách ông gọi) nằm cách Rājagaha một *li* về phía bắc.
 
 ## Notes

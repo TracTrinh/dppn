@@ -5,7 +5,7 @@ base_headword: "Veḷuvana"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veḷuvana 03. A bamboo grove in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvana 03. Một rừng tre tại Kimbilā, nơi Đức Phật trú lại và được Kimbila đến thăm. AN.iii.247, 339: iv.84.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veḷuvana"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -31,6 +31,6 @@ Veḷuvana 04. A monastery in Ceylon, built by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvana 04. Một tu viện ở Tích Lan (Ceylon), do Aggabodhi II. xây dựng và tặng cho phái Sāgalikas (Cv.xlii.43). Tu viện có lẽ nằm giữa Anurādhapura và Maṇihīra; Saṅghatissa đã từng ẩn náu tại đây trong lốt một tỳ-kheo (Cv.xliv.29; Cv.Trs.i.77, n.2). Jeṭṭhatissa III. đã tặng cho *vihāra* làng Kakkalaviṭṭhi. Cv.xliv.99.
 
 ## Notes

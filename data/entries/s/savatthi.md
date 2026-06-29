@@ -5,7 +5,7 @@ base_headword: "Sāvatthī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -81,6 +81,22 @@ Woodward states (KS.v.xviii) that of the four *Nikāyas*, 871 *Suttas* are said 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāvatthī là kinh đô của xứ Kosala tại Ấn Độ và là một trong sáu đại thành thị của Ấn Độ vào thời Đức Phật còn tại thế (DN.ii.147). Thành phố cách Sāketa sáu do-tuần (Vin.i.253; theo một số nguồn khác là bảy, Dhp­a.i.387), cách Rājagaha bốn mươi lăm do-tuần về phía tây bắc (SN­a.i.243), cách Saṅkassa ba mươi do-tuần (Ja.iv.265), cách Takkasilā một trăm bốn mươi bảy do-tuần (MN­a.ii.987), cách Suppāraka một trăm hai mươi do-tuần (Dhp­a.ii.213), và tọa lạc trên bờ sông Aciravatī (Vin.i.191, 293). Thành phố cách Āḷavī ba mươi do-tuần (Snp­a.i.220), cách Macchikāsaṇḍa ba mươi do-tuần (Dhp­a.ii.79), cách Kukkuṭavatī một trăm hai mươi do-tuần (Dhp­a.ii.118), và cùng khoảng cách đó từ Uggapura (Dhp­a.iii.469) và Kuraraghara (Dhp­a.iv.106). Con đường từ Rājagaha đến Sāvatthī đi qua Vesālī (Vin.ii.159f), và Pārāyaṇavagga (Snp.vss.1011-13) ghi lại các trạm dừng chân giữa hai thành phố: Setavyā, Kapilavatthu, Kusinārā, Pāvā và Bhoganagara. Ngoài ra còn có con đường chạy về phía nam từ Sāvatthī qua Sāketa đến Kosambī. Cách thành phố một gāvuta là khu rừng Andhavana (*q.v.*). Giữa Sāketa và Sāvatthī có Toraṇavatthu (SN.iv.374).
+
+Thành phố mang tên Sāvatthī vì vị hiền nhân Savattha đã sống ở đây. Theo một truyền thuyết khác, nơi này có một quán trọ lữ hành, và những người gặp nhau ở đó thường hỏi nhau "*Kiṁ bhaṇḍaṁ atthi*? — bạn có hàng hóa gì không?" — câu trả lời là "*Sabbaṁ atthi* — có đủ cả." Tên thành phố bắt nguồn từ câu trả lời đó (Snp­a.i.300; Paṭis-a.367).
+
+Đức Phật đã trải qua phần lớn cuộc đời xuất gia của Ngài tại Sāvatthī. Chuyến viếng thăm đầu tiên của Ngài là theo lời mời của Anāthapiṇḍika. Tương truyền (Dhp­a.i.4) Ngài đã trải qua hai mươi lăm mùa an cư tại đây — mười chín mùa tại Jetavana và sáu mùa tại Pubbārāma. Sāvatthī còn có tu viện Rājakārāma (*q.v.*) do Pasenadi xây dựng, đối diện với Jetavana. Ngoài cổng thành Sāvatthī có một làng ngư dân với năm trăm gia đình (Dhp­a.iv.40).
+
+Sāvatthī là nơi mỗi vị Phật thực hiện phép thần thông *Yamakapāṭihāriya* (Dhp­a.iii.205; cf. Mvu.iii.115; Ja.i.88); Đức Phật Gotama thực hiện phép thần thông này dưới cây Gaṇḍamba (*q.v.*).
+
+Các đại thí chủ của Đức Phật tại Sāvatthī là Anāthapiṇḍika, Visākhā, Suppavāsā và Pasenadi (Dhp­a.i.330). Khi Bandhula (*q.v.*) rời Vesālī, ông đến định cư tại Sāvatthī.
+
+Buddhaghosa cho biết (Vin-a.iii.614) rằng vào thời Đức Phật, Sāvatthī có năm mươi bảy ngàn gia đình, và là thành phố chính yếu của xứ Kāsi-Kosala, rộng ba trăm do-tuần và có tám mươi ngàn làng. Dân số Sāvatthī là mười tám crore (180 triệu người) (Snp­a.i.371).
+
+Sāvatthī được đồng nhất với Sāhet Māhet trên bờ sông Rapti (Cunningham, *Ancient Geography of India*. 469).
+
+Huyền Trang (Xuanzang) thấy thành phố cũ đã thành phế tích, nhưng ghi lại vị trí của nhiều công trình (Beal-Xuan, op.cit., ii.1-13).
+
+Woodward ghi nhận (KS.v.xviii) rằng trong bốn bộ Nikāya, có 871 bài Kinh được thuyết tại Sāvatthī — 844 bài tại Jetavana, 23 bài tại Pubbārāma, và 4 bài tại vùng ngoại ô. Số Kinh này bao gồm 6 bài trong Dīgha, 75 bài trong Majjhima, 736 bài trong Saṁyutta, và 54 bài trong Aṅguttara. Bà Rhys Davids suy đoán (MN.iv., Introd., p.vi) rằng điều này cho thấy hoặc là Đức Phật "chủ yếu cư trú ở đây, hoặc Sāvatthī là trung tâm lưu trữ (thư viện?) đầu tiên để sưu tập và bảo tồn (dù bằng cách nào đi nữa) những bài giảng." Phương án đầu có vẻ xác đáng hơn, vì các bộ Chú giải ghi rằng Đức Phật đã trải qua hai mươi lăm mùa an cư tại Sāvatthī (xem ở trên), và chỉ còn lại hai mươi mùa trải qua ở các nơi khác. Buddhavaṁsa Commentary (Bv­a. p.3) cung cấp danh sách các địa điểm này, cho thấy mùa an cư thứ hai, ba, bốn, mười bảy và hai mươi được trải qua tại Rājagaha; mùa thứ mười ba, mười tám và mười chín tại Cāliyapabbata; và các mùa còn lại tại những địa điểm khác nhau.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jetavana"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -55,6 +55,12 @@ The *Thūpa* at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jetavana 02. Jetavanavihāra. Một tu viện tại Anurādhapura, tọa lạc trong khu rừng Jotivana (*q.v.*), được Mahā Sena sáng lập theo sự xúi giục của một vị tỳ-kheo tên Tissa thuộc Dakkhiṇārāma. Các tỳ-kheo của Mahā Vihāra phản đối điều này, và Jetavana về sau được trao cho họ (Mhv.xxxvii.32ff). Gắn liền với *vihāra* là một bảo tháp lớn. Công trình được Sirimeghavaṇṇa hoàn tất (Cv.xxxvii.65). Dāṭhāpabhuti đã tổ chức tại *vihāra* lễ cúng dường *Dhammadhātu* (Cv.xli.40; cũng xem Cv.Trs.i.55, n.2), trong khi Mahā Nāga cúng dường cho *vihāra* làng Vasabha ở Uddhagāma và ba trăm thửa ruộng, để bảo đảm cháo gạo thường xuyên cho các tỳ-kheo (Cv.xli.97f). Aggabodhi II. đặt trên bảo tháp một cột thu lôi (*cumbata*) (Cv.xlii.66); Jeṭṭhatissa I. tặng làng Goṇḍigāma để duy trì tu viện (Cv.xliv.97); và Aggabodhi III. hiến dâng Mahā Maṇikagāma (Cv.xliv.121). Potthasāta, *senāpati* (tướng quân) của Aggabodhi IV., xây dựng trong *vihāra* khu Aggabodhipariveṇa (Cv.xlvi.22); và Aggabodhi IX. làm một pho tượng vàng để đặt trong điện thờ (Cv.xlix.77).
+
+Sena I. dựng trong khuôn viên tu viện một tòa nhà nhiều tầng (Cv., l.65). Kassapa V. hiến dâng một làng để duy trì nhà bếp (Cv.lii.59), trong khi bốn quan chức của Mahinda IV. xây bốn *pariveṇa* gắn liền với *vihāra* (Cv.liv.49).
+
+Các tỳ-kheo của Jetavana, dù danh nghĩa là một phần của hệ phái Mahā Vihāra, lại có quan điểm khác biệt về giáo pháp của Đức Phật, và được coi là một tông phái riêng biệt (phái Sāgaliyas) cho đến khi Parakkamabāhu I. thống nhất tất cả các hệ phái (Cv.lxxviii.22).
+
+Bảo tháp tại Jetavana được Parakkamabāhu I. trùng tu lên độ cao hai trăm mười feet (Cv.lxxviii.98).
 
 ## Notes

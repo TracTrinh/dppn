@@ -5,7 +5,7 @@ base_headword: "Jetavana"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -102,6 +102,38 @@ In the district of Saheth-Mabeth, with which the region of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jetavana 01. Một công viên (vườn) tại Sāvatthī, nơi xây dựng *Anāthapiṇḍikārāma* (tu viện của Anāthapiṇḍika). Khi Đức Phật nhận lời mời của Anāthapiṇḍika đến thăm Sāvatthī, ông tìm kiếm một nơi phù hợp để Đức Phật cư trú và phát hiện ra khu vườn này thuộc quyền sở hữu của Jetakumāra (MN­a.i.471 cho biết khu vườn ở phía nam Sāvatthī). Khi ông xin mua, Jeta trả lời: "Dù ông có thể lát vàng phủ kín toàn bộ khu đất cũng không mua được." Anāthapiṇḍika nói rằng ông sẽ mua với giá đó, và khi Jeta đáp rằng ông không có ý định ra giá như vậy, sự việc được đưa ra trước các quan Tư pháp, những người phán quyết rằng nếu trả đúng giá đã nêu thì Anāthapiṇḍika có quyền mua. Anāthapiṇḍika cho chở vàng đến bằng xe bò và lát đồng tiền vàng kín khắp khu Jetavana (cảnh này được minh họa trên một phù điêu tại đền Bharhut; xem Cunningham – *The Stūpa of Bharhut*, Pl.lvii., pp.84-6). Số vàng mang đến lần đầu không đủ để lát một khoảng nhỏ gần cổng. Anāthapiṇḍika sai người về lấy thêm, nhưng Jeta, cảm động trước sự chân thành của Anāthapiṇḍika, xin được dâng tặng chỗ đất đó. Anāthapiṇḍika đồng ý và Jeta dựng tại đó một cổng tam quan có phòng ở phía trên. Anāthapiṇḍika xây dựng trong khuôn viên: phòng ngủ, phòng riêng, kho lương, nhà bếp, phòng có lò sưởi, nhà vệ sinh, hành lang, nhà tập thể dục, giếng nước, phòng tắm, hồ nước, lều trống và lều có mái, v.v. (Vin.ii.158f).
+
+Tương truyền Anāthapiṇḍika đã trả mười tám crore cho việc mua khu đất, và toàn bộ số tiền đó Jeta đã dùng để xây dựng cổng tam quan do ông cúng dường (MN­a.i.50; Ud­a.56f). Cổng tam quan rõ ràng là một công trình uy nghi; xem Ja.ii.216.
+
+Ngoài ra Jeta còn tặng thêm nhiều cây gỗ quý. Bản thân Anāthapiṇḍika đã chi tất cả năm mươi bốn crore cho việc mua khu vườn và các công trình xây dựng trong đó.
+
+Lễ cúng dường khai mạc diễn ra rất long trọng. Không chỉ Anāthapiṇḍika mà cả gia đình ông đều tham gia: con trai cùng năm trăm thanh niên khác, vợ ông cùng năm trăm quý phụ khác, và các con gái là Mahā Subhaddā và Cūḷa Subhaddā cùng năm trăm thiếu nữ khác. Anāthapiṇḍika được tháp tùng bởi năm trăm trưởng giả. Các nghi lễ mừng khai mạc kéo dài chín tháng (Ja.i.92ff).
+
+Một số công trình chính trong khuôn viên Jetavana được nhắc đến bằng tên riêng: Mahā Gandhakuṭi, Kaverimaṇḍalamāla, Kosambakuṭi và Candanamāla. Snp­a.ii.403. Các công trình khác cũng được đề cập — e.g., *Ambalakoṭṭhaka-āsanasālā* (Ja.ii.246). Theo các nguồn Tây Tạng, *vihāra* được xây dựng theo bản thiết kế do chư thiên Tusita gửi xuống và bao gồm sáu mươi đại điện và sáu mươi tiểu điện. *Dulva* cũng cung cấp chi tiết về phong cách trang trí của *vihāra* (Rockhill: op.cit.48 và n.2).
+
+Tất cả các công trình trên đều do Anāthapiṇḍika xây dựng; ngoài ra còn có một công trình lớn khác do Pasenadi xây dựng, gọi là Salaḷaghara (DN­a.ii.407). Trên cổng tam quan có một vị thần hộ trì để ngăn không cho kẻ xấu vào (SN­a.i.239). Ngay ngoài tu viện có một cây *rājayatana*, là nơi cư trú của vị thần Samiddhisumana (Mhv.i.52f; Mhv­ṭ 105; nhưng xem Dhp­a.i.41, nơi vị thần hộ cổng được gọi là Sumana).
+
+Trong khuôn viên dường như có một hồ nước lớn về sau được gọi là Jetavanapokkharaṇī (AN­a.i.264); Đức Phật thường tắm ở đây (Ja.i.329ff.). Đây có phải là Pubbakoṭṭhaka được nhắc đến tại AN.iii.345 không? Nhưng xem SN.v.220; chính gần hồ này mà Devadatta bị đất nuốt chửng xuống địa ngục Avīci (Ja.iv.158).
+
+Khuôn viên bản thân được bao phủ dày đặc bởi cây cối, tạo nên diện mạo của một khu rừng (*arañña*) (Vin-a.iii.532). Ở vùng ngoại vi tu viện có một vườn xoài (Ja.iii.137). Trước cổng tam quan là cây Bồ-đề do Anāthapiṇḍika trồng, về sau được gọi là Ānandabodhi (*q.v.*, Ja.iv.228f). Không xa cổng tam quan có một hang động trở nên nổi tiếng với tên *Kapallapūva pabbhāra* do một sự kiện liên quan đến Macchariya Kosiya (Ja.i.348).
+
+Gần Jetavana rõ ràng có một tu viện của các ngoại đạo, nơi Ciñcāmāṇavikā trú qua đêm khi đang thực hiện âm mưu vu khống Đức Phật (Dhp­a.iii.179; phía sau Jetavana có một nơi các Ājīvakas thực hành khổ hạnh (Ja.i.493)). Một lần các ngoại đạo hối lộ Pasenadi để được lập một khu định cư riêng phía sau Jetavana, nhưng Đức Phật đã phá vỡ kế hoạch đó (Ja.ii.170).
+
+Dường như có một sân chơi ngay bên ngoài Jetavana dành cho trẻ em trong vùng; khi khát nước, chúng vào Jetavana uống nước (Dhp­a.iii.492). Con đường lớn đến Sāvatthī đi dọc theo rìa Jetavana, và những người đi đường sẽ vào vườn để nghỉ ngơi và giải khát (Ja.ii.203, 341; xem cũng vi.70, nơi hai con đường được đề cập).
+
+Theo *Divyāvadāna* (395f), các tháp thờ của Sāriputta và Moggallāna nằm trong khuôn viên Jetavana và tồn tại cho đến thời Asoka. Cả Pháp Hiển (Faxian) (Giles: p.33ff) lẫn Huyền Trang (Xuanzang) (Beal-Xuan.ii.7ff) đều mô tả các sự kiện khác liên quan đến Đức Phật xảy ra ở vùng lân cận Jetavana — e.g., vụ sát hại Sundarikā, lời vu cáo của Ciñcā, âm mưu đầu độc Đức Phật của Devadatta, v.v.
+
+Khoảng không gian bao phủ bởi bốn chân giường của Gandhakuṭi (hương phòng) của Đức Phật tại Jetavana là một trong bốn *avijahitaṭṭhānāni* (những nơi không bao giờ thay đổi); tất cả các vị Phật đều có cùng một nơi như vậy, dù kích thước của *vihāra* thực tế khác nhau tùy từng vị Phật. Đối với Phật Vipassī, trưởng giả Punabbasumitta đã xây một tu viện trải rộng một do-tuần; đối với Phật Sikhī, trưởng giả Sirivaḍḍha xây một tu viện rộng ba gāvuta. Saṅghārāma do Sotthiya xây cho Phật Vessabhū rộng nửa do-tuần, trong khi công trình do Accuta xây cho Phật Kakusandha chỉ bao phủ một gāvuta. Tu viện của Phật Koṇāgamana, do trưởng giả Ugga xây, trải rộng nửa gāvuta, trong khi tu viện của Phật Kassapa do Sumaṅgala xây rộng mười sáu *karīsa*. Tu viện của Anāthapiṇḍika bao phủ mười tám *karīsa* (Bv­a.2, 47; Ja.i.94; DN­a.ii.424).
+
+Đức Phật đã trải qua mười chín mùa an cư tại Jetavana (Dhp­a.i.3; Bv­a.3; AN­a.i.314). Tương truyền sau khi Migāramātupāsāda được xây dựng, Đức Phật sẽ luân phiên trú tại Jetavana và Migāramātupāsāda, thường trải qua ban ngày ở nơi này và ban đêm ở nơi kia (Snp­a.i.336).
+
+Theo mô tả của Pháp Hiển (Faxian) (Giles, pp.31, 33), *vihāra* ban đầu có bảy phần (tầng?) và chứa đầy mọi loại cúng vật, cờ phướn thêu, tán lọng, v.v.; đèn thắp sáng từ chập tối đến bình minh.
+
+Một ngày, một con chuột ngậm bấc đèn đang cháy làm cháy cờ phướn và tán lọng, và toàn bộ bảy tầng đều bị thiêu rụi. *Vihāra* được xây dựng lại với hai phần. Có hai lối vào chính, một ở phía đông và một ở phía tây; Pháp Hiển còn thấy các tháp thờ dựng lên ở tất cả những địa điểm liên quan đến Đức Phật, mỗi tháp đều có khắc tên.
+
+*Vihāra* hầu như luôn được gọi là *Jetavane Anāthapiṇḍikassa ārāme*. Các bộ Chú giải (MN­a.ii.50; Ud­a.56f, v.v.) cho biết đây là điều có chủ ý (theo đề nghị của chính Đức Phật pp.81-131; Beal: *Romantic Legend of the Buddha*, ii.5 và Rockhill: p.49), để ghi nhớ tên của cả vị chủ cũ lẫn chủ mới và nhắc nhở mọi người về hai con người — cả hai đều rất hào phóng trong việc hỗ trợ Giáo pháp — hầu người khác noi gương. *Vihāra* đôi khi được gọi là Jetārāma (e.g., Ap.i.400).
+
+Trong địa phận Saheth-Mabeth, nơi được đồng nhất với vùng Sāvatthī, Saheth được coi là Jetavana (*Arch. Survey of India*, 1907-8, pp.81-131).
 
 ## Notes

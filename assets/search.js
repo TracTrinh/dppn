@@ -102,8 +102,66 @@
     applySize(current);
   }
 
+  function initLanguageToggle() {
+    var storageKey = "dppn-language";
+    var body = document.body;
+    var toggle = document.querySelector(".lang-toggle");
+    if (!body || !toggle) {
+      return;
+    }
+
+    function readStoredLanguage() {
+      try {
+        return localStorage.getItem(storageKey);
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function writeStoredLanguage(lang) {
+      try {
+        localStorage.setItem(storageKey, lang);
+      } catch (error) {
+        return;
+      }
+    }
+
+    function pageSupportsLanguage(lang) {
+      return Boolean(document.querySelector(".lang-" + lang));
+    }
+
+    function applyLanguage(lang, persist) {
+      if (lang !== "vi" && lang !== "en") {
+        lang = body.dataset.defaultLang || "en";
+      }
+      if (!pageSupportsLanguage(lang)) {
+        lang = body.dataset.defaultLang || "en";
+      }
+      body.classList.toggle("lang-en", lang === "en");
+      body.classList.toggle("lang-vi", lang === "vi");
+      toggle.querySelectorAll("[data-lang-choice]").forEach(function (button) {
+        var active = button.dataset.langChoice === lang;
+        button.classList.toggle("active", active);
+        button.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+      if (persist) {
+        writeStoredLanguage(lang);
+      }
+    }
+
+    toggle.addEventListener("click", function (event) {
+      var button = event.target.closest("[data-lang-choice]");
+      if (button) {
+        applyLanguage(button.dataset.langChoice, true);
+      }
+    });
+
+    applyLanguage(readStoredLanguage() || body.dataset.defaultLang || "en", false);
+  }
+
   document.querySelectorAll("[data-search]").forEach(init);
   initReaderControls();
+  initLanguageToggle();
   document.addEventListener("keydown", function (event) {
     if (event.key === "/" && !/input|textarea/i.test(document.activeElement.tagName)) {
       var input = document.querySelector("[data-search]");

@@ -5,7 +5,7 @@ base_headword: "Kosala"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -114,6 +114,42 @@ Kosala is often mentioned in combination with <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosala, Kosalā, Kosalans. Một xứ do dân Kosalā sinh sống, nằm về phía tây bắc Magadha và liền kề xứ Kāsī. Xứ này được xếp thứ hai trong danh sách mười sáu Mahā Janapadas (e.g., AN.i.213; iv.252, v.v.). Vào thời Đức Phật, đây là một vương quốc hùng mạnh do Pasenadi cai trị, và người kế vị ông là con trai Viḍūḍabha. Vào thời điểm đó, Kāsī đã nằm dưới quyền cai trị của Kosala, vì ta thấy rằng khi Bimbisāra, vua Magadha, cưới Kosaladevī — con gái của Mahā Kosala và là em gái của Pasenadi — một làng ở Kāsī đã được tặng làm của hồi môn (Ja.ii.237; iv.342f). Nhiều bộ Jātaka cho thấy cuộc tranh giành giữa Kāsi và Kosala đã kéo dài rất lâu (xem, e.g., Ja.ii.21f; iii.115f; 211f; v.316, 425). Có lúc vua Kāsi tấn công Kosala, bắt giam vua và chiếm cai trị xứ này; lại có lúc vua Kosala xâm chiếm Kāsi và sáp nhập vào lãnh thổ của mình. Một số vua Kosala đã thành công trong việc này được nêu tên — e.g., Dabbasena (Ja.iii.13), Dīghāvu (Ja.iii.211f), Vaṅka (Ja.iii.168) và Kaṁsa; người cuối được phong danh hiệu đặc biệt "*Bārāṇasiggāha*" (Ja.ii.403; v.112), có lẽ để ghi nhận sự hoàn tất cuộc chinh phục Kāsi của ông. Các vua Kosala khác từng xung đột với Benares theo cách này hay cách khác cũng được đề cập — e.g., Dīghīti (Ja.iii.211f; Vin.i.342f), Mallika (Ja.ii.3) và Chatta (Ja.iii.116). Đôi khi vua của hai xứ cũng kết hôn nhân liên minh (e.g., Ja.iii.407). Với việc chinh phục Kāsi, sức mạnh của Kosala tăng trưởng nhanh chóng, đến mức cuộc tranh giành giữa xứ này và Magadha trở thành điều không thể tránh khỏi. Cuộc hôn nhân của Bimbisāra có lẽ là một liên minh chính trị, nhưng chỉ làm trì hoãn ngày u ám ấy. Ngay sau khi ông qua đời, đã xảy ra nhiều trận chiến ác liệt giữa Ajātasattu — người kế vị — và Pasenadi, với kết quả thay đổi thất thường cho các bên. Một lần Ajātasattu bị bắt sống, nhưng Pasenadi tha mạng và gả con gái là Vajirā cho ông, và trong một thời gian mọi việc diễn ra thuận lợi. Tuy nhiên về sau, sau khi chinh phục được người Licchavīs, Ajātasattu dường như đã thành công trong việc áp đặt quyền thống trị tại Kosala (xem Vincent Smith, op.cit., 32f). Vào thế kỷ thứ sáu TCN, lãnh thổ Sākyan tại Kapilavatthu chịu sự thống trị của Kosala. Suttanipāta (vs.405) nói đến nơi sinh của Đức Phật là thuộc về người Kosalans; xem cũng AN.i.276, nơi Kapilavatthu được đề cập là ở trong xứ Kosala. Ở một chỗ khác (MN.ii.124), Pasenadi được ghi lại là đã nói: "*Bhagavā pi Kosalako, ahaṁ pi Kosalako* — Đức Thế Tôn là người Kosala, và tôi cũng là người Kosala."
+
+Vào thời Đức Phật, Sāvatthī là kinh đô của Kosala. Đứng thứ hai về tầm quan trọng là Sāketa, nơi mà trong thời cổ đại đôi khi đã là kinh đô (Ja.iii.270; Mvu.i.348). Ngoài ra còn có Ayojjhā, trên bờ sông Sarayu, mà dựa vào *Rāmāyaṇa* chắc hẳn đã từng là thành phố chính; nhưng vào thế kỷ thứ sáu TCN thì hoàn toàn không còn quan trọng.
+
+Sông Sarayu chia Kosala thành hai phần: *Uttara Kosala* (Bắc Kosala) và *Dakkhiṇa Kosala* (Nam Kosala) (Law: *Geography of Early Buddhism*, p.6).
+
+Các con sông khác ở Kosala được nhắc đến trong kinh điển là Aciravatī (DN.i.235) và Sundarikā (SN.i.167; Snp. p.97; nhưng xem MN.i.39, nơi con sông này được gọi là Bāhukā).
+
+Các địa phương được nói đến là thuộc Kosala gồm:
+
+- Icchānaṅgala (AN.iii.30, 341; iv.340, v.v.),
+- Ukkaṭṭhā (DN.i.87),
+- Ekasālā (SN.i.111),
+- Opasāda (MN.ii.164),
+- Kesaputta của người Kālāmas (AN.i.188),
+- Candalakappa (MN.ii.209),
+- Toraṇavatthu (SN.iv.374),
+- Daṇḍakappa (AN.iii.402),
+- Nagaravinda (MN.iii.290),
+- Naḷakapāna (AN.v.122; MN.i.462),
+- Nālandā (SN.iv.322),
+- Paṅkadhā (AN.i.236),
+- Venāgapura (AN.i.180),
+- Veḷudvāra (SN.v.352),
+- Sālā (MN.i.285, 400; SN.v.227),
+- Sālāvatika (DN.i.244), và
+- Setavya (DN.ii.316).
+
+*Mahā Vastu* bổ sung thêm *Droṇavastuka* (Mvu.iii.377) và *Mārakaraṇḍa* (Mvu.i.317).
+
+Các bộ Chú giải (e.g., Snp­a.ii.400f; DN­a.i.239f) đưa ra một cách giải thích kỳ lạ về tên Kosalā. Tương truyền khi không có gì khiến Mahā Panāda mỉm cười được, cha ông treo thưởng lớn cho ai làm được điều đó. Vì vậy mọi người bỏ công việc kéo nhau đến triều đình, nhưng mãi đến khi Sakka sai một vị diễn viên thiên giới xuống thì Mahā Panāda mới có dấu hiệu vui vẻ. Khi điều này xảy ra, mọi người trở về công việc của mình, và trên đường về, khi gặp bạn bè, họ hỏi nhau: "*Kacci bho kusalaṁ, kacci bho kusalaṁ*." Vùng nơi điều này xảy ra được gọi là Kosalā vì sự lặp đi lặp lại của từ *kusala*.
+
+Đức Phật đã trải qua phần lớn thời gian tại Kosala — hoặc tại Sāvatthī, hoặc trong khi du hành qua các vùng khác nhau của xứ này — và nhiều điều luật Tỳ-nại-da đã được hình thành tại Kosala (xem *Vinaya Index*, *s.v.* *Kosala*). Tương truyền (SN­a.i.221) thức ăn khất thực dồi dào ở Kosala, dù rõ ràng (Ja.i.329) nạn đói do hạn hán vẫn không phải là chưa từng xảy ra. Tuy vậy, dù có nhiều vùng rừng (xem, e.g., SN­a.i.225) nơi các tỳ-kheo có thể tu thiền trong yên tịnh, số tỳ-kheo thực sự có mặt ở Kosala không nhiều (VT.i.226). Bāvarī bản thân là người Kosala (Snp.v.976), nhưng ông thích lập am thất ở Dakkhiṇāpatha hơn.
+
+Sau khi Đức Phật nhập diệt, *uṇṇaloma* (sợi lông giữa hai chân mày) của Ngài được thờ trong một bảo tháp ở Kosala (Bv.xxviii.9). Tương truyền các đơn vị đo lường ở Kosala lớn hơn ở Magadha — một *pattha* Kosala bằng bốn *pattha* Magadha (Snp­a.ii.476).
+
+Kosala thường được nhắc đến kết hợp với Kāsi trong hợp từ Kāsi-Kosala; Pasenadi là vua của Kāsi-Kosala (e.g., AN.v.59) (cf. Aṅga-Magadha). Xem thêm Pasenadi.
 
 ## Notes

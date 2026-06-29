@@ -5,7 +5,7 @@ base_headword: "Jetavana"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jetavana 03. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jetavana 03. Một tu viện tại Pulatthipura, do Parakkamabāhu I. xây dựng. Tu viện bao gồm công trình lưu giữ pho tượng Tivaṅka (Cv.lxxviii.32, 47). Kênh Nammadā chảy qua khuôn viên Jetavana. Ibid., lxxix.48. Xem thêm Cv.Trs.ii.105, n.5.
 
 ## Notes
