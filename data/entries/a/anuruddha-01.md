@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anuruddha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 01. Một Pacceka Buddha, vị mà Nanda Thera trong một đời trước đã cúng dường một tán che bằng hoa sen. Ap.ii.350.
 
 ## Notes

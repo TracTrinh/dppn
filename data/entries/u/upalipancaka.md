@@ -5,7 +5,7 @@ base_headword: "Upālipañcaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upālipañcaka. One of the chapters of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālipañcaka. Một trong các chương của Parivāra, chứa nhiều câu hỏi khác nhau do Upāli (1) nêu ra liên quan đến các điều luật Vinaya và những giải thích của Đức Phật về các điều ấy. Vin.v.180-206.
 
 ## Notes

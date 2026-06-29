@@ -5,7 +5,7 @@ base_headword: "Anuruddhasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -30,6 +30,8 @@ Anuruddhasutta 01. Preached by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasutta 01. Do Anuruddha Thera thuyết cho Pañcakaṅga, thợ mộc của vua, tại Sāvatthī, sau khi kết thúc bữa ăn mà ông đã cúng dường cho vị Trưởng lão và ba vị khác. Kinh này giải thích hai loại tâm giải thoát, “vô lượng” và “quảng đại,” cùng các kết quả của việc tu tập chúng, đưa đến sự tái sinh giữa các chư thiên sáng chói.
+
+Abhiya Kaccāna, hiển nhiên là một trong các bạn đồng hành của Anuruddha trong dịp này, hỏi ngài về lý do có sự khác nhau về mức độ rực rỡ của chư thiên; ông được trả lời thỏa đáng. MN.iii.144-52.
 
 ## Notes

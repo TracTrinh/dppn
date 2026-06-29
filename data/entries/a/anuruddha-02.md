@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "needs_check"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -181,6 +181,65 @@ In Mahāyāna books <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 02. Anuruddha Thera. Anh em con chú bác của Đức Phật và là một trong những đệ tử lỗi lạc nhất của ngài. Ông là con của người Sākyan Amitodana và là anh em của Mahā Nāma. Khi các thành viên của những gia đình Sākyan khác đã gia nhập Tăng đoàn của người họ tộc danh tiếng của họ, Mahā Nāma buồn vì không ai trong gia đình mình xuất gia. Vì vậy, ông đề nghị với em mình rằng một trong hai người nên rời đời sống gia đình. Lúc đầu Anuruddha miễn cưỡng đồng ý, vì ông đã được nuôi dưỡng hết sức mềm mại và xa hoa, sống trong một ngôi nhà khác nhau cho mỗi mùa, chung quanh có các vũ công và nghệ sĩ diễn trò. Nhưng khi nghe Mahā Nāma nói về vòng xoay bất tận của những lo toan gia đình, ông đồng ý ra đi. Tuy nhiên, ông không thể được mẹ chấp thuận cho đến khi thuyết phục người anh em họ Bhaddiya đi cùng. Họ cùng đi với Ānanda, Bhagu, Kimbila, Devadatta và người thợ cạo của họ Upāli, đến gặp Đức Thế Tôn tại vườn xoài Anupiya và được truyền giới. Trước khi mùa an cư kết thúc, Anuruddha đã đạt được *dibbacakkhu* (thiên nhãn) (Vin.ii.180-3; Mvu.iii.177f), và về sau ông được xếp là bậc đứng đầu trong những vị đã chứng đắc thành tựu này (AN.i.23).
+
+Sau đó, ông nhận từ Sāriputta, làm đề mục thiền quán, tám tư tưởng của một bậc đại nhân. Danh sách được nêu trong AN.iv.228ff. Một cuộc đối thoại khác của ông với Sāriputta trước khi trở thành một *Arahant* được ghi lại trong AN.i.281-2. Ông đi vào Pācīnavaṁsadāya trong xứ Ceṭi để thực hành những điều này. Ông nắm vững bảy điều, nhưng không thể học được điều thứ tám. Đức Phật, biết được việc này, đã đến thăm ông và dạy điều ấy cho ông. Nhờ đó Anuruddha phát triển tuệ quán và chứng quả vị *Arahant* ở bậc cao nhất (AN.iv. *loc.cit.*; AN­a.108-9; Thag.901).
+
+Anuruddha xuất hiện trong các *Suttas* như một bạn đồng tu tỳ-kheo giàu tình thương và trung thành, đầy lòng mến đối với người họ tộc của mình là Đức Phật, và ngài cũng đáp lại tình thương ấy. Trong hội chúng, ông đứng gần Đức Phật (Bv.v.60). Khi Đức Phật, chán ngán những cuộc tranh cãi của các tỳ-kheo Kosambī, rời đi để tìm một môi trường thuận hợp hơn, ngài đã đến Pācīnavaṁsadāya, nơi có Anuruddha, Nandiya và Kimbila. Upakkilesasutta (MN.iii.153f.), được thuyết về sự ngọt ngào của hòa hợp và sự không tỳ vết. Và lại nữa, trong Naḷakapānasutta (MN.i.462ff.), tuy có đông đảo các tỳ-kheo nổi tiếng hiện diện, chính Anuruddha là người được Đức Phật trực tiếp đặt câu hỏi, và chính Anuruddha trả lời thay cho tất cả họ. Xem thêm Cūḷa Gosiṅgasutta và Mahā Gosiṅgasutta.
+
+Anuruddha có mặt khi Đức Phật qua đời tại Kusinārā, và biết chính xác khoảnh khắc ngài viên tịch; bài kệ ông thốt lên nhân dịp ấy sâu sắc và cho thấy sự bình thản triết lý, trái ngược, chẳng hạn, với bài kệ của Ānanda. DN.ii.156-7. Về điều này, xem Oldenberg, *Nachrichten der Wissenschaften zu Goettingen*, 1902, pp.168f.; và Przyluski JA. mai-juin, 1918, pp.486ff.
+
+Anuruddha là người đi đầu trong việc an ủi các tỳ-kheo và khuyên dạy họ về đường hướng hành động sau này. Cũng chính Anuruddha là người mà người Mallas ở Kusinārā tham vấn về tang lễ cuối cùng của Đức Phật (DN.ii.160f). Về sau, tại Đại Kết Tập lần thứ nhất, ông giữ một vai trò nổi bật và được giao gìn giữ Aṅguttaranikāya (DN­a.i.15).
+
+Trong một trong các bài kệ được gán cho Anuruddha trong Theragāthā (904; Thag­a.ii.72), có nói rằng trong hai mươi lăm năm ông hoàn toàn không ngủ, và trong ba mươi năm cuối đời ông chỉ ngủ vào canh cuối của đêm. Cùng nguồn ấy (Thag.908; cũng SN.i.200) nhắc đến một dịp một nữ thần, Jālinī, vốn từng là vợ ông trong một đời trước, thấy ông đã già và tóc bạc vì thiền định, tìm cách cám dỗ ông bằng những lạc thú cõi trời, nhưng ông bảo nàng rằng ông không cần những thứ ấy, vì đã đạt đến sự giải thoát khỏi tái sinh (Thag­a.ii.73; câu chuyện này được trình bày chi tiết trong SN­a.i.225-6).
+
+Ông qua đời tại Veḷuvagāma trong xứ Vajjī, dưới bóng một bụi tre. Thag.919. Xem thêm *Brethren*, 331, n.1. Tôi không thể truy ra tham chiếu đến Hatthigāma. Ông một trăm mười lăm tuổi vào lúc qua đời (DN­a.ii.413).
+
+Vào thời Padumuttara Buddha, ông từng là một gia chủ giàu có. Nghe một trong các tỳ-kheo được tuyên bố là bậc tối thắng trong những vị có thiên nhãn, ông ước mong trong tương lai chính mình cũng có được vinh dự tương tự. Ông đã làm nhiều công đức lớn lao hướng đến mục tiêu ấy, gồm cả việc tổ chức một lễ hội ánh sáng lớn trước mộ tháp của Đức Phật. Trong thời đại Kassapa Buddha, ông sinh tại Benares; một ngày nọ, ông đặt các bát đầy bơ tinh luyện chung quanh mộ tháp của Đức Phật và thắp sáng chúng, còn tự mình đi vòng quanh mộ tháp suốt đêm, đội trên đầu một bát đã thắp sáng.
+
+Về sau, ông tái sinh trong một gia đình nghèo ở Benares và được đặt tên là Annabhāra (nghĩa đen là “người mang thức ăn”). Một ngày nọ, trong khi làm việc cho chủ mình là trưởng giả Sumana, ông đem bữa ăn của mình cúng dường cho một Pacceka Buddha, Upariṭṭha. Vị trưởng giả, sau khi nghe vị thần của chiếc lọng của mình kể về việc lành kính tín của Annabhāra, đã thưởng cho ông và giúp ông lập nghiệp buôn bán. Nhà vua, hài lòng với ông, ban cho ông một khu đất để dựng nhà; khi đào đất ở đó, người ta tìm thấy nhiều kho báu chôn giấu. Do sự gia tăng tài sản lớn lao này, ông được ban địa vị Dhanaseṭṭhi (Thag­a.ii.65ff.; Thag.910; Dhp­a.iv.120ff).
+
+Theo Dhammapada Commentary (Dhp-a.i.113), nhờ kết quả của món quà ông dâng cho Pacceka Buddha, Anuruddha không bao giờ thiếu bất cứ thứ gì ông mong muốn - điều ấy đúng như lời ước mà ông đã phát ra. Một câu chuyện duyên dáng được kể liên quan đến điều này. Một lần, khi chơi bóng với bạn bè, ông bị thua và phải trả bằng bánh ngọt. Mẹ ông gửi bánh ngọt cho ông, nhưng ông thua đi thua lại cho đến khi không còn bánh ngọt nữa. Mẹ ông nhắn lại như vậy, nhưng ông không hiểu ý nghĩa của những lời “không còn nữa.” Khi mẹ ông, để làm cho ông hiểu, gửi cho ông một cái bát rỗng, vị thần hộ trì thành đã làm đầy bát ấy bằng bánh cõi trời, để ông không phải thất vọng. Từ đó về sau, mỗi khi Anuruddha sai người xin bánh, mẹ ông lại gửi cho ông một bình rỗng, và bình ấy được làm đầy trên đường đi. Xem thêm Dhp­a.iv.124ff.
+
+Apadāna (i.35) nhắc đến một sự kiện khác trong quá khứ của ông. Một lần, vào thời Sumedha Buddha, Anuruddha, sau khi thấy Đức Phật đang thiền định một mình dưới gốc cây, đã đặt đèn chung quanh ngài và giữ cho chúng cháy trong bảy ngày. Kết quả là ông trị vì trong ba mươi *kappas* với tư cách vua của chư thiên, và làm vua loài người hai mươi tám lần. Ông có thể nhìn thấy xa một do-tuần cả ban ngày lẫn ban đêm.
+
+Trong nhiều dịp khác nhau, Anuruddha có những cuộc thảo luận với Đức Phật, và ông được các đệ tử, cả tỳ-kheo lẫn cư sĩ, tham vấn về các điểm giáo lý và thực hành. Trong Anuruddhasutta (MN.iii.144f) ông đi cùng Abhiya Kaccāna và hai người khác đến dùng bữa tại nhà Pañcakaṅga, thợ mộc của vua. Cuối bữa ăn, người thợ mộc hỏi ông về sự khác biệt giữa tâm giải thoát (*cetovimutti*) vô lượng (*appamāṇa*) và tâm giải thoát quảng đại (*mahaggata*). Cuộc thảo luận dẫn đến một trình bày về bốn trạng thái tái sinh giữa các chư thiên sáng chói (Ābhā), và để trả lời những câu hỏi của Abhiya Kaccāna, Anuruddha tiếp tục giải thích bản chất của họ. Ở cuối bài thuyết, ta thấy Anuruddha thừa nhận rằng chính ông từng sống giữa các vị trời ấy.
+
+Trong Saṁyuttanikāya (SN.iv.240-5), ông được nhắc đến như người hỏi Đức Phật về phụ nữ, họ do đâu được sinh vào các cảnh giới hạnh phúc và do đâu vào địa ngục khổ đau. Một câu hỏi tương tự được nhắc đến trong Aṅguttaranikāya. Anuruddha từng được một số Manāpakāyikā Devas đến thăm; họ đã chơi nhạc và ca hát cho ông nghe, đồng thời cho thấy năng lực tùy ý thay đổi sắc diện của mình. Ông đến gặp Đức Phật và hỏi làm thế nào phụ nữ có thể được sinh giữa các Devas ấy (AN.iv.262ff).
+
+Ta thấy ông (SN.v.174-6, cũng 299f) được Sāriputta và Moggallāna hỏi về *sekha* và *asekha* cũng như về thắng trí (*abhiññā*). Khi xử lý đoạn này, Chú giải (SN­a.iii.183) nói rằng Anuruddha thường dậy sớm, và sau khi tắm rửa, ông ngồi trong cốc, nhớ lại một ngàn *kappas* của quá khứ và tương lai. Với thiên nhãn, ông biết vũ trụ gồm một ngàn thế giới và mọi vận hành của nó.
+
+Anuruddha Saṁyutta (SN.v.294) trình bày một loạt câu hỏi do Moggallāna đặt ra về các *satipaṭṭhānā*, phạm vi của chúng, v.v. Rõ ràng Anuruddha nhấn mạnh rất nhiều đến việc tu tập các *satipaṭṭhānā*, vì ta thấy chúng được nhắc đi nhắc lại trong các bài thuyết của ông. Ông quy tất cả năng lực của mình cho sự phát triển chúng, và khuyên người nghe thực hành chúng. SN.v.299-306. Chính ông xem *dibbacakkhu* là thành tựu cao nhất. Vì vậy, trong Mahā Gosiṅgasutta (MN.i.213), ông tuyên bố rằng nó đáng quý hơn tri thức về giáo lý, thiền định, đời sống rừng núi, bài thuyết về Abhidhamma hay sự tự chế ngự.
+
+Một lần ông lâm bệnh nặng trong Andhavana ở Sāvatthī, nhưng cơn đau không tác động đến tâm ông, vì, như ông nói, tâm ông đã được an lập vững chắc trong các *satipaṭṭhānā* (SN.v.302, nhưng xem Dhp­a.iv.129, nơi ông mắc chứng phong trong bụng). Ngoài việc giảng dạy các *satipaṭṭhānā*, dường như ông không nổi tiếng như một vị thầy. Ông có tính kín đáo và không bao giờ can dự vào bất cứ cuộc tranh cãi nào của các tỳ-kheo.
+
+Các năng lực *iddhi* của Anuruddha thường được nhắc đến. Như vậy, ông là một trong những vị đã đi đến thế giới *Brahma* để chế ngự niềm kiêu hãnh của vị *Brahma* từng nghĩ rằng không vị sa-môn nào có thể đến được thế giới của mình (SN.i.145. Những vị khác là Moggallāna, Mahā Kassapa và Mahā Kappina). Mẹ của Yakkha Piyaṅkara, trong khi đi lang thang tìm thức ăn, ban đêm nghe ông tụng một số bài kệ từ Dhammapada và đứng sững, say mê lắng nghe (SN.i.209; SN­a.i.237-8).
+
+Tuy nhiên, *iddhi* của ông dường như không giúp ông ngăn người bạn đồng trú Abhiñjika nói quá nhiều (SN.ii.203-4), cũng không ngăn người bạn đồng trú khác là Bāhiya tìm cách gây chia rẽ trong Tăng đoàn (AN.ii.239). Trong số người Vajjians, dường như ông được đặc biệt kính trọng, cùng với Nandiya và Kimbila. Một Yakkha tên Dīgha nói với Đức Phật rằng người Vajjians được cư dân các thế giới *Deva* và *Brahma* ganh tị vì sự hiện diện của các tỳ-kheo lỗi lạc này trong xứ sở của họ (trong Cūḷa Gosiṅgasutta, MN.i.210).
+
+Trong nhiều Jātaka, Anuruddha được đồng nhất với các nhân vật xuất hiện trong *Atītavatthu*. Trong một số trường hợp, ông được nhắc đến là Sakka, nhân vật can thiệp quyết định của câu chuyện đang nói đến. Như trong Maṇicora (Ja.ii.125); Guttila (ii.257); Ayakūṭa (iii.147); Mahā Sūka (iii.494); Cūḷa Sūka (iii.496); Kaṇha (iv.14); Akitti (iv.242); Sādhīna (iv.360); Siri (iv.412); Mahā Sutasoma (v.511); Sāma (vi.95); Nimi (vi.129); Mahā Sumagga (vi.329); Vessantara (vi.593).
+
+Ở những nơi khác, ông được đồng nhất với các nhân vật khác:
+
+- ông là Pabbata trong Indriya (iii.469) và trong Sarabhaṅga (v.151);
+- vị vua trong Candakinnara (iv.288);
+- một trong bảy anh em trong Bhisa (iv.314);
+- con chim bồ câu trong Pañcūposatha (iv.332);
+- Ajapāla trong Hatthipāla (iv.491);
+- Sucirata trong Sambhava (v.67);
+- Pañcasikha trong Suddhābojana (v.412) và
+- người đánh xe trong Kurudhamma (ii.381).
+
+Tên của Anuruddha xuất hiện trong một số truyền thuyết của Dhammapada Commentary ngoài những truyền thuyết đã nhắc đến. Trong câu chuyện Cūḷa Subhaddā, có nói rằng sau khi Đức Phật đã đến thăm Ugganagara theo lời thỉnh cầu của Cūḷa Subhaddā và nhận sự tiếp đãi của bà, Anuruddha được yêu cầu ở lại Ugganagara vì lợi ích của bà và của những người mới quy y (Dhp­a.iii.471). Khi Đức Phật trải qua một mùa an cư ở Tāvatiṁsa để thuyết Abhidhamma, chính Anuruddha là người thông báo cho dân chúng trên mặt đất về những việc ngài làm. Dhp­a.iii.218f.; Snp-a. (ii.570), nói rằng Đức Phật đã đi đến Tāvatiṁsa theo lời thỉnh cầu của Anuruddha.
+
+Trong Sumanasāmaṇeravatthu (Dhp­a.iv.120ff), chúng ta được kể rằng Anuruddha, sau khi chính mình đã đạt giải thoát, đi tìm người bạn và ân nhân của mình trong một đời trước, Sumana *seṭṭhi*. Sumana *seṭṭhi* đã sinh gần rừng Vindhyā với tên Cūḷa Sumana, con trai của Mahā Muṇḍa, người quen của Anuruddha, và Anuruddha đã truyền giới cho cậu bé khi cậu lên bảy tuổi. Cậu bé trở thành *Arahant* trong nhà cạo tóc.
+
+Theo Petavatthu (Pv., p.27, vv. 58-60), chính nhờ một muỗng thức ăn mà Indaka cúng dường cho Anuruddha, Indaka đã vào Tāvatiṁsa, và cũng món quà ấy giúp ông vượt hơn Aṅkura về vinh quang, người đã dùng hết tài sản của mình để thực hành bố thí.
+
+Anuruddha có một người em gái, Rohiṇī, bị bệnh ngoài da và vì vậy ở trong nhà; bà không muốn gặp vị Trưởng lão khi ông đến thăm họ hàng. Nhưng ông nhất quyết gặp bà và thuyết phục bà bán đồ trang sức của mình để xây một nhà nghỉ cho Đức Phật và các tỳ-kheo của ngài. Về sau bà trở thành một bậc Dự lưu và tái sinh làm phối ngẫu của Sakka (Dhp­a.iii.295f).
+
+Trong các sách Mahāyāna, tên của Anuruddha xuất hiện dưới dạng Aniruddha. Trong *Lalitavistara*, ông được nhắc đến là người đeo các đồ trang sức của Bodhisatta khi vị ấy từ bỏ thế gian. Đôi khi ông được nói là con trai của Dronodana. Chẳng hạn, *Mahā Vastu* Mvu.i.75; Mvu.iii.117. Xem Beal-Xuan.ii.38 n.for ý nghĩa của Anuruddha. Theo *Dulva*, chính Anuruddha, khi thấy Ānanda vẫn còn là *asekha*, đã khiến ông bị đưa ra khỏi Đại Kết Tập lần thứ nhất cho đến khi ông trở thành một *Arahant* (Rockhill, p.151).
 
 ## Notes
+
+- [CHECK: Câu cuối theo *Dulva* trong nguồn nói Ānanda “still *asekha*” nhưng tiếp theo lại nói “until he became an *Arahant*”; đã giữ thuật ngữ Pāli theo nguyên văn.]

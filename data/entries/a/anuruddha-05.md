@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anuruddha 05. Personal attendant of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 05. Thị giả riêng của Koṇḍañña Buddha. Bv.iii.30; Ja.i.30.
 
 ## Notes

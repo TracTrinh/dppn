@@ -2,6 +2,14 @@
 
 Mỗi dòng: `Thuật ngữ Anh/Pāli → Tiếng Việt — quy tắc/ghi chú ngắn`
 
+## Nguyên tắc chung về Hán-Việt vs Pāli
+
+CHỈ dùng từ Hán-Việt khi đó là từ **quen thuộc, phổ thông** trong Phật giáo Việt Nam (vd: Pháp, Tăng đoàn,
+chư thiên, Trưởng lão, ngạ quỷ, địa ngục, niệm xứ, thần thông). **KHÔNG tự chế / không dùng các phiên âm
+Hán-Việt cổ, hiếm, nghe lạ** (vd: "Tỳ-nại-da" cho Vinaya). Với những thuật ngữ mà bản dịch Hán-Việt chỉ là
+một phiên âm xa lạ với đa số người đọc, hãy **giữ nguyên Pāli** (Vinaya, Pātimokkha, Khandhaka...). Khi
+phân vân, giữ Pāli — luôn an toàn và khớp với cơ chế gắn link của từ điển.
+
 ---
 
 ## Thuật ngữ giáo lý / tôn giáo
@@ -11,9 +19,22 @@ Sangha → Tăng đoàn
 Devas → chư thiên — số nhiều; "Deva" (số ít) → thiên thần/thiên nhân (tùy ngữ cảnh)
 Devaputtas → các thiên tử
 Thera → Trưởng lão — giữ "Thera" khi là một phần tên riêng
-Bodhisatta → Bồ-tát
-Arahant → A-la-hán
+Bodhisatta → Bodhisatta — giữ Pāli (in nghiêng khi bản gốc in nghiêng); KHÔNG dịch "Bồ-tát".
+Arahant → Arahant — giữ Pāli (in nghiêng khi bản gốc in nghiêng); KHÔNG dịch "A-la-hán". Arahant-ship → "quả vị *Arahant*".
+Stream-enterer → bậc Dự lưu
+Brahma → Phạm thiên — khi chỉ cõi/chúng sinh Brahma; giữ "Brahma" trong tên riêng hoặc cụm gốc cần đối chiếu.
+dibbacakkhu → thiên nhãn — có thể ghi "*dibbacakkhu* (thiên nhãn)" lần đầu khi cần giữ thuật ngữ Pāli.
+iddhi → thần thông — giữ "*iddhi*" khi bản gốc dùng thuật ngữ Pāli, có thể thêm nghĩa trong ngoặc.
+satipaṭṭhānā → niệm xứ — thường dịch số nhiều là "các niệm xứ"; giữ thuật ngữ Pāli khi bản gốc in nghiêng.
+cetovimutti → tâm giải thoát
+appamāṇa → vô lượng
+mahaggata → quảng đại
+sekha → bậc hữu học
+asekha → bậc vô học
 Jātaka → Bổn sinh — giữ "Jātaka" trong tên truyện/nhan đề
+Vinaya → Vinaya — giữ Pāli; "điều luật Vinaya", có thể "Luật" khi dùng chung. KHÔNG dùng "Tỳ-nại-da".
+Pātimokkha → Pātimokkha — giữ Pāli; KHÔNG dùng "Ba-la-đề-mộc-xoa".
+Khandhaka → Khandhaka — giữ Pāli; KHÔNG dùng "Kiền-độ".
 purgatory → địa ngục
 Niraya → địa ngục (Niraya)
 Petas → ngạ quỷ

@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "08"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,8 @@ He is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 08. Vua của Ramañña. Ông đã giúp Vijayabāhu I. của Ceylon tái lập Tăng đoàn ở Ceylon. Cv.lx.5-7; tuy nhiên, xem Geiger, Cv. trans. i.214, n.4.
+
+Ông cũng được gọi là Anorata.
 
 ## Notes

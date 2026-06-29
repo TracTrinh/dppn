@@ -5,7 +5,7 @@ base_headword: "Upālipucchābhāṇavāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upālipucchābhāṇavāra. The sixth chapter of the ninth <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālipucchābhāṇavāra. Chương thứ sáu của Khandhaka thứ chín thuộc Mahā Vagga. Vin.i.322-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anuruddha 04. Personal attendant of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 04. Thị giả riêng của Piyadassi Buddha. Chính để đáp lại câu hỏi của vị ấy mà Đức Phật đã tiết lộ những thành tựu tương lai của Nigrodha Thera (Thag­a.i.75; Ap.i.431) và của Tissa Thera (Thag­a.i.273).
 
 ## Notes

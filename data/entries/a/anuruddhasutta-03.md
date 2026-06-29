@@ -5,7 +5,7 @@ base_headword: "Anuruddhasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anuruddhasutta 03. The Buddha explains to <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasutta 03. Đức Phật giải thích cho Anuruddha, để đáp lại các câu hỏi của vị ấy, vì sao chúng sinh được sinh làm phụ nữ. AN.i.281.
 
 ## Notes
