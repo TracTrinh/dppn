@@ -1,0 +1,30 @@
+---
+id: "sudassana-07"
+headword: "Sudassana 07"
+base_headword: "Sudassana"
+disambiguator: "07"
+letter: "S"
+section: "Su-So."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/071.html"
+  source_order: 12675
+  source_anchor: 
+aliases: []
+link_candidates:
+  - "Piyadassī Buddha"
+  - "Sudatta"
+---
+
+# Sudassana 07
+
+## English source
+
+Sudassana 07. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Piyadassī Buddha</span> (Bv­a.172); but see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sudatta</span> (9).
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

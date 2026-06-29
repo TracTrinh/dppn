@@ -1,0 +1,32 @@
+---
+id: "bhandakucchi"
+headword: "Bhaṇḍakucchi"
+base_headword: "Bhaṇḍakucchi"
+disambiguator: ""
+letter: "B"
+section: "Bh."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/055.html"
+  source_order: 8114
+  source_anchor: 
+aliases:
+  - "Bhandakucchi"
+link_candidates:
+  - "Maṇḍavya"
+  - "Mātaṅga"
+  - "dovārikā"
+---
+
+# Bhaṇḍakucchi
+
+## English source
+
+Bhaṇḍakucchi. One of the gate-keepers (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">dovārikā</span>) of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Maṇḍavya</span>, who were ordered to cast <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mātaṅga</span> out. Ja.iv.382.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

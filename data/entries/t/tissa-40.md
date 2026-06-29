@@ -1,0 +1,31 @@
+---
+id: "tissa-40"
+headword: "Tissa 40"
+base_headword: "Tissa"
+disambiguator: "40"
+letter: "T"
+section: "T."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/041.html"
+  source_order: 5266
+  source_anchor: 
+aliases: []
+link_candidates:
+  - "Kaṇhajātaka"
+  - "Tissa"
+  - "amacca"
+---
+
+# Tissa 40
+
+## English source
+
+Tissa 40. A minister. The scholiast to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kaṇhajātaka</span> (Ja 29) mentions a story of an <span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">amacca</span> called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tissa</span> who, in a rage, killed his wife and all his retinue and, finally, himself. Ja.iv.11.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

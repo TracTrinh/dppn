@@ -1,0 +1,29 @@
+---
+id: "apattisutta-02"
+headword: "Āpattisutta 02"
+base_headword: "Āpattisutta"
+disambiguator: "02"
+letter: "A"
+section: "Ā."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/019.html"
+  source_order: 1344
+  source_anchor: 
+aliases:
+  - "Apattisutta 02"
+link_candidates: []
+---
+
+# Āpattisutta 02
+
+## English source
+
+Āpattisutta 02. Deals with the four kinds of fears produced by transgressions, involving either being taken in the act and punished or having to confess guilt and receive punishment. AN.ii.240-3.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

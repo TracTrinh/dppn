@@ -1,0 +1,2958 @@
+{
+  "epub": "DPPN-Complete.epub",
+  "html_files_processed": 74,
+  "dictionary_html_files": 59,
+  "total_entries": 13587,
+  "entries_per_letter": {
+    "A": 1468,
+    "B": 625,
+    "C": 555,
+    "D": 748,
+    "E": 102,
+    "G": 434,
+    "H": 141,
+    "I": 92,
+    "J": 238,
+    "K": 1466,
+    "L": 151,
+    "M": 1285,
+    "N": 581,
+    "O": 43,
+    "P": 1055,
+    "R": 353,
+    "S": 2232,
+    "T": 439,
+    "U": 550,
+    "V": 901,
+    "Y": 128
+  },
+  "entries_per_section": {
+    "A-An.": 626,
+    "Ap-Ah.": 591,
+    "B.": 259,
+    "Bh.": 299,
+    "Br.": 67,
+    "C.": 493,
+    "Ch.": 62,
+    "D.": 499,
+    "Dh.": 249,
+    "E.": 102,
+    "G.": 406,
+    "Gh.": 28,
+    "H.": 141,
+    "I-Ī.": 92,
+    "J.": 226,
+    "Jh.": 12,
+    "Ka-Kā.": 690,
+    "Kh.": 164,
+    "Ki-Ko.": 612,
+    "L.": 151,
+    "Ma-Maha": 343,
+    "Mahi-Mo.": 464,
+    "Mahā.": 478,
+    "N.": 562,
+    "O.": 43,
+    "Pa-Pā.": 766,
+    "Ph.": 53,
+    "Pi-Po.": 236,
+    "R.": 353,
+    "Sa.": 812,
+    "Su-So.": 920,
+    "Sā-Sī.": 500,
+    "T.": 379,
+    "Th.": 40,
+    "U-Ū.": 550,
+    "Va-Vā.": 390,
+    "Vi-Vo.": 511,
+    "Y.": 128,
+    "Ñ.": 19,
+    "Ā.": 251,
+    "Ṭ-Ṭh.": 20
+  },
+  "duplicate_headwords_count": 49,
+  "duplicate_headwords_sample": [
+    {
+      "headword": "Uttiyasutta",
+      "count": 3
+    },
+    {
+      "headword": "Cūḷa Kāḷa",
+      "count": 3
+    },
+    {
+      "headword": "Aciravatī",
+      "count": 2
+    },
+    {
+      "headword": "Amaragiri",
+      "count": 2
+    },
+    {
+      "headword": "Ambagāma",
+      "count": 2
+    },
+    {
+      "headword": "Ayojjhā",
+      "count": 2
+    },
+    {
+      "headword": "Aravāḷa",
+      "count": 2
+    },
+    {
+      "headword": "Avanti",
+      "count": 2
+    },
+    {
+      "headword": "Asibandhakaputta",
+      "count": 2
+    },
+    {
+      "headword": "Assalāyana",
+      "count": 2
+    },
+    {
+      "headword": "Ākāsagaṅgā",
+      "count": 2
+    },
+    {
+      "headword": "Ākāsagotta",
+      "count": 2
+    },
+    {
+      "headword": "Ājīvaka",
+      "count": 2
+    },
+    {
+      "headword": "Āvaṭṭagaṅgā",
+      "count": 2
+    },
+    {
+      "headword": "Isipatana",
+      "count": 2
+    },
+    {
+      "headword": "Kāḷakasutta",
+      "count": 2
+    },
+    {
+      "headword": "Kāsika",
+      "count": 2
+    },
+    {
+      "headword": "Kuṭumbiyaputtatissa",
+      "count": 2
+    },
+    {
+      "headword": "Kumbhaṇḍa",
+      "count": 2
+    },
+    {
+      "headword": "Kusinārā",
+      "count": 2
+    },
+    {
+      "headword": "Kelāsa",
+      "count": 2
+    },
+    {
+      "headword": "Korabya",
+      "count": 2
+    },
+    {
+      "headword": "Kosala",
+      "count": 2
+    },
+    {
+      "headword": "Khaṇḍa",
+      "count": 2
+    },
+    {
+      "headword": "Giriya",
+      "count": 2
+    },
+    {
+      "headword": "Gotamī",
+      "count": 2
+    },
+    {
+      "headword": "Godhāvarī",
+      "count": 2
+    },
+    {
+      "headword": "Candamukha",
+      "count": 2
+    },
+    {
+      "headword": "Candamukhī",
+      "count": 2
+    },
+    {
+      "headword": "Pacceka Buddha",
+      "count": 2
+    },
+    {
+      "headword": "Cūḷa Tissa",
+      "count": 2
+    },
+    {
+      "headword": "Jayanta",
+      "count": 2
+    },
+    {
+      "headword": "Tissa",
+      "count": 2
+    },
+    {
+      "headword": "Theraputtābhaya",
+      "count": 2
+    },
+    {
+      "headword": "Na tumhākaṁ Sutta",
+      "count": 2
+    },
+    {
+      "headword": "Nāgamuṇḍā",
+      "count": 2
+    },
+    {
+      "headword": "Pajjota",
+      "count": 2
+    },
+    {
+      "headword": "Pupphasutta",
+      "count": 2
+    },
+    {
+      "headword": "Phusatī",
+      "count": 2
+    },
+    {
+      "headword": "Bhaddasena",
+      "count": 2
+    },
+    {
+      "headword": "Bhayasīva",
+      "count": 2
+    },
+    {
+      "headword": "Mahā Gāma",
+      "count": 2
+    },
+    {
+      "headword": "Mahā Nela",
+      "count": 2
+    },
+    {
+      "headword": "Mahā Pañhasutta",
+      "count": 2
+    },
+    {
+      "headword": "Līnatthappakāsinī",
+      "count": 2
+    },
+    {
+      "headword": "Sāṇavāsī",
+      "count": 2
+    },
+    {
+      "headword": "Seriva",
+      "count": 2
+    },
+    {
+      "headword": "Hatthaka",
+      "count": 2
+    },
+    {
+      "headword": "Hatthā",
+      "count": 2
+    }
+  ],
+  "duplicate_ids_count": 0,
+  "duplicate_ids": [],
+  "id_collisions_resolved_count": 438,
+  "id_collisions_resolved_sample": [
+    {
+      "base_id": "aggisama",
+      "resolved_id": "aggisama-2",
+      "headword": "Aggisāma",
+      "source_file": "Ops/015.html",
+      "source_order": 99
+    },
+    {
+      "base_id": "aciravati",
+      "resolved_id": "aciravati-2",
+      "headword": "Aciravatī",
+      "source_file": "Ops/015.html",
+      "source_order": 156
+    },
+    {
+      "base_id": "anattasutta-01",
+      "resolved_id": "anattasutta-01-2",
+      "headword": "Anattāsutta 01",
+      "source_file": "Ops/015.html",
+      "source_order": 380
+    },
+    {
+      "base_id": "anattasutta-04",
+      "resolved_id": "anattasutta-04-2",
+      "headword": "Anattāsutta 04",
+      "source_file": "Ops/015.html",
+      "source_order": 383
+    },
+    {
+      "base_id": "anupama-01",
+      "resolved_id": "anupama-01-2",
+      "headword": "Anupamā 01",
+      "source_file": "Ops/016.html",
+      "source_order": 483
+    },
+    {
+      "base_id": "anupama-02",
+      "resolved_id": "anupama-02-2",
+      "headword": "Anupamā 02",
+      "source_file": "Ops/016.html",
+      "source_order": 484
+    },
+    {
+      "base_id": "anupama-03",
+      "resolved_id": "anupama-03-2",
+      "headword": "Anupamā 03",
+      "source_file": "Ops/016.html",
+      "source_order": 485
+    },
+    {
+      "base_id": "anula-01",
+      "resolved_id": "anula-01-2",
+      "headword": "Anulā 01",
+      "source_file": "Ops/016.html",
+      "source_order": 519
+    },
+    {
+      "base_id": "anula-02",
+      "resolved_id": "anula-02-2",
+      "headword": "Anulā 02",
+      "source_file": "Ops/016.html",
+      "source_order": 520
+    },
+    {
+      "base_id": "anupiya",
+      "resolved_id": "anupiya-2",
+      "headword": "Anūpiya",
+      "source_file": "Ops/016.html",
+      "source_order": 544
+    },
+    {
+      "base_id": "anoma-01",
+      "resolved_id": "anoma-01-2",
+      "headword": "Anomā 01",
+      "source_file": "Ops/016.html",
+      "source_order": 574
+    },
+    {
+      "base_id": "anoma-02",
+      "resolved_id": "anoma-02-2",
+      "headword": "Anomā 02",
+      "source_file": "Ops/016.html",
+      "source_order": 575
+    },
+    {
+      "base_id": "antaraganga",
+      "resolved_id": "antaraganga-2",
+      "headword": "Antarāgaṅga",
+      "source_file": "Ops/016.html",
+      "source_order": 588
+    },
+    {
+      "base_id": "antasutta",
+      "resolved_id": "antasutta-2",
+      "headword": "Antāsutta",
+      "source_file": "Ops/016.html",
+      "source_order": 593
+    },
+    {
+      "base_id": "andabhutajataka",
+      "resolved_id": "andabhutajataka-2",
+      "headword": "Andabhūtajātaka",
+      "source_file": "Ops/016.html",
+      "source_order": 597
+    },
+    {
+      "base_id": "amaragiri",
+      "resolved_id": "amaragiri-2",
+      "headword": "Amaragiri",
+      "source_file": "Ops/017.html",
+      "source_order": 813
+    },
+    {
+      "base_id": "amittatapana",
+      "resolved_id": "amittatapana-2",
+      "headword": "Amittatāpanā",
+      "source_file": "Ops/017.html",
+      "source_order": 834
+    },
+    {
+      "base_id": "ambagama",
+      "resolved_id": "ambagama-2",
+      "headword": "Ambagāma",
+      "source_file": "Ops/017.html",
+      "source_order": 839
+    },
+    {
+      "base_id": "ayojjha",
+      "resolved_id": "ayojjha-2",
+      "headword": "Ayojjhā",
+      "source_file": "Ops/017.html",
+      "source_order": 908
+    },
+    {
+      "base_id": "aravala",
+      "resolved_id": "aravala-2",
+      "headword": "Aravāḷa",
+      "source_file": "Ops/017.html",
+      "source_order": 947
+    },
+    {
+      "base_id": "avanti",
+      "resolved_id": "avanti-2",
+      "headword": "Avanti",
+      "source_file": "Ops/018.html",
+      "source_order": 1062
+    },
+    {
+      "base_id": "asama-01",
+      "resolved_id": "asama-01-2",
+      "headword": "Asamā 01",
+      "source_file": "Ops/018.html",
+      "source_order": 1120
+    },
+    {
+      "base_id": "asama-02",
+      "resolved_id": "asama-02-2",
+      "headword": "Asamā 02",
+      "source_file": "Ops/018.html",
+      "source_order": 1121
+    },
+    {
+      "base_id": "asama-03",
+      "resolved_id": "asama-03-2",
+      "headword": "Asamā 03",
+      "source_file": "Ops/018.html",
+      "source_order": 1122
+    },
+    {
+      "base_id": "asoka-01",
+      "resolved_id": "asoka-01-2",
+      "headword": "Asokā 01",
+      "source_file": "Ops/018.html",
+      "source_order": 1169
+    },
+    {
+      "base_id": "asoka-02",
+      "resolved_id": "asoka-02-2",
+      "headword": "Asokā 02",
+      "source_file": "Ops/018.html",
+      "source_order": 1170
+    },
+    {
+      "base_id": "assalayana",
+      "resolved_id": "assalayana-2",
+      "headword": "Assalāyana",
+      "source_file": "Ops/018.html",
+      "source_order": 1194
+    },
+    {
+      "base_id": "akasaganga",
+      "resolved_id": "akasaganga-2",
+      "headword": "Ākāsagaṅgā",
+      "source_file": "Ops/019.html",
+      "source_order": 1222
+    },
+    {
+      "base_id": "akasagotta",
+      "resolved_id": "akasagotta-2",
+      "headword": "Ākāsagotta",
+      "source_file": "Ops/019.html",
+      "source_order": 1224
+    },
+    {
+      "base_id": "ajivaka",
+      "resolved_id": "ajivaka-2",
+      "headword": "Ājīvaka",
+      "source_file": "Ops/019.html",
+      "source_order": 1254
+    },
+    {
+      "base_id": "ani-mandavya",
+      "resolved_id": "ani-mandavya-2",
+      "headword": "Āni Maṇḍavya",
+      "source_file": "Ops/019.html",
+      "source_order": 1334
+    },
+    {
+      "base_id": "apana",
+      "resolved_id": "apana-2",
+      "headword": "Āpāna",
+      "source_file": "Ops/019.html",
+      "source_order": 1346
+    },
+    {
+      "base_id": "ayupala",
+      "resolved_id": "ayupala-2",
+      "headword": "Āyupālā",
+      "source_file": "Ops/019.html",
+      "source_order": 1371
+    },
+    {
+      "base_id": "aravala",
+      "resolved_id": "aravala-3",
+      "headword": "Āravāla",
+      "source_file": "Ops/019.html",
+      "source_order": 1387
+    },
+    {
+      "base_id": "alara",
+      "resolved_id": "alara-2",
+      "headword": "Āḷāra",
+      "source_file": "Ops/019.html",
+      "source_order": 1425
+    },
+    {
+      "base_id": "avattaganga",
+      "resolved_id": "avattaganga-2",
+      "headword": "Āvaṭṭagaṅgā",
+      "source_file": "Ops/019.html",
+      "source_order": 1431
+    },
+    {
+      "base_id": "isipatana",
+      "resolved_id": "isipatana-2",
+      "headword": "Isipatana",
+      "source_file": "Ops/021.html",
+      "source_order": 1546
+    },
+    {
+      "base_id": "ukkacela",
+      "resolved_id": "ukkacela-2",
+      "headword": "Ukkācelā",
+      "source_file": "Ops/022.html",
+      "source_order": 1568
+    },
+    {
+      "base_id": "uttama-01",
+      "resolved_id": "uttama-01-2",
+      "headword": "Uttamā 01",
+      "source_file": "Ops/022.html",
+      "source_order": 1647
+    },
+    {
+      "base_id": "uttama-02",
+      "resolved_id": "uttama-02-2",
+      "headword": "Uttamā 02",
+      "source_file": "Ops/022.html",
+      "source_order": 1648
+    },
+    {
+      "base_id": "uttara-01",
+      "resolved_id": "uttara-01-2",
+      "headword": "Uttarā 01",
+      "source_file": "Ops/022.html",
+      "source_order": 1705
+    },
+    {
+      "base_id": "uttara-02",
+      "resolved_id": "uttara-02-2",
+      "headword": "Uttarā 02",
+      "source_file": "Ops/022.html",
+      "source_order": 1706
+    },
+    {
+      "base_id": "uttara-03",
+      "resolved_id": "uttara-03-2",
+      "headword": "Uttarā 03",
+      "source_file": "Ops/022.html",
+      "source_order": 1707
+    },
+    {
+      "base_id": "uttara-04",
+      "resolved_id": "uttara-04-2",
+      "headword": "Uttarā 04",
+      "source_file": "Ops/022.html",
+      "source_order": 1708
+    },
+    {
+      "base_id": "uttara-05",
+      "resolved_id": "uttara-05-2",
+      "headword": "Uttarā 05",
+      "source_file": "Ops/022.html",
+      "source_order": 1709
+    },
+    {
+      "base_id": "uttara-06",
+      "resolved_id": "uttara-06-2",
+      "headword": "Uttarā 06",
+      "source_file": "Ops/022.html",
+      "source_order": 1710
+    },
+    {
+      "base_id": "uttara-07",
+      "resolved_id": "uttara-07-2",
+      "headword": "Uttarā 07",
+      "source_file": "Ops/022.html",
+      "source_order": 1711
+    },
+    {
+      "base_id": "uttara-08",
+      "resolved_id": "uttara-08-2",
+      "headword": "Uttarā 08",
+      "source_file": "Ops/022.html",
+      "source_order": 1712
+    },
+    {
+      "base_id": "uttara-09",
+      "resolved_id": "uttara-09-2",
+      "headword": "Uttarā 09",
+      "source_file": "Ops/022.html",
+      "source_order": 1713
+    },
+    {
+      "base_id": "uttara-10",
+      "resolved_id": "uttara-10-2",
+      "headword": "Uttarā 10",
+      "source_file": "Ops/022.html",
+      "source_order": 1714
+    }
+  ],
+  "redirect_entries": 975,
+  "redirect_resolved_count": 753,
+  "redirect_unresolved_count": 222,
+  "redirect_match_strategies": {
+    "alias": 537,
+    "default-first-disambiguated": 216
+  },
+  "redirect_unresolved_reasons": {
+    "no-match": 222
+  },
+  "redirect_unresolved_sample": [
+    {
+      "id": "akodhanasutta",
+      "headword": "Akodhanasutta",
+      "redirect_text": "Accayaakodhanasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "aggadhanuggaha-pandita",
+      "headword": "Aggadhanuggaha Paṇḍita",
+      "redirect_text": "Cūḷa Dhanuggaha Paṇḍita",
+      "reason": "no-match"
+    },
+    {
+      "id": "aggidatta-04",
+      "headword": "Aggidatta 04",
+      "redirect_text": "Gahvaratīriya",
+      "reason": "no-match"
+    },
+    {
+      "id": "ajjuhatthapabbata",
+      "headword": "Ajjuhatthapabbata",
+      "redirect_text": "Ambahattha pabbata",
+      "reason": "no-match"
+    },
+    {
+      "id": "atthosutta",
+      "headword": "Atthosutta",
+      "redirect_text": "Verocanaasurindasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "anula-02",
+      "headword": "Anula 02",
+      "redirect_text": "Mahā Anula",
+      "reason": "no-match"
+    },
+    {
+      "id": "appamateyyasutta",
+      "headword": "Appamateyyasutta",
+      "redirect_text": "Matteyya (??)",
+      "reason": "no-match"
+    },
+    {
+      "id": "abhiya-kaccana",
+      "headword": "Abhiya Kaccāna",
+      "redirect_text": "Sabhiya Kaccāna",
+      "reason": "no-match"
+    },
+    {
+      "id": "amitta",
+      "headword": "Amitta",
+      "redirect_text": "Somamitta",
+      "reason": "no-match"
+    },
+    {
+      "id": "aritthatthapitaghara",
+      "headword": "Ariṭṭhaṭṭhapitaghara",
+      "redirect_text": "Sirivaḍḍhaghara (?)",
+      "reason": "no-match"
+    },
+    {
+      "id": "avihimsasutta",
+      "headword": "Avihiṁsāsutta",
+      "redirect_text": "Akodhasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "asoka-03",
+      "headword": "Asoka 03",
+      "redirect_text": "Vītāsoka",
+      "reason": "no-match"
+    },
+    {
+      "id": "assapurasuttas",
+      "headword": "Assapurasuttas",
+      "redirect_text": "Mahā Assapura and Cūḷa Assapura",
+      "reason": "no-match"
+    },
+    {
+      "id": "akasagotta-2",
+      "headword": "Ākāsagotta",
+      "redirect_text": "Sañjaya Akāsagotta",
+      "reason": "no-match"
+    },
+    {
+      "id": "aramasutta",
+      "headword": "Ārāmasutta",
+      "redirect_text": "Sāriputta Koṭṭhitasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "ilanga",
+      "headword": "Ilaṅga",
+      "redirect_text": "Sena Ilaṅga and Rakkhaka Ilaṅga",
+      "reason": "no-match"
+    },
+    {
+      "id": "uttaromula",
+      "headword": "Uttaromūla",
+      "redirect_text": "Uttaramūla",
+      "reason": "no-match"
+    },
+    {
+      "id": "udaya-13",
+      "headword": "Udaya 13",
+      "redirect_text": "also Udāyībhadda",
+      "reason": "no-match"
+    },
+    {
+      "id": "udayasutta-02",
+      "headword": "Udayasutta 02",
+      "redirect_text": "Udayamāṇavapucchā below",
+      "reason": "no-match"
+    },
+    {
+      "id": "udaya",
+      "headword": "Udayā",
+      "redirect_text": "Udayabhaddā below",
+      "reason": "no-match"
+    },
+    {
+      "id": "udayi-04",
+      "headword": "Udāyī 04",
+      "redirect_text": "also under Kāḷudāyī, Lāḷudāyī and Sakuludāyī",
+      "reason": "no-match"
+    },
+    {
+      "id": "udayi-theravatthu",
+      "headword": "Udāyī Theravatthu",
+      "redirect_text": "Lāḷudāyī",
+      "reason": "no-match"
+    },
+    {
+      "id": "upavala",
+      "headword": "Upavāla",
+      "redirect_text": "Uvāḷa",
+      "reason": "no-match"
+    },
+    {
+      "id": "ekadhammika",
+      "headword": "Ekadhammika",
+      "redirect_text": "Ekadhammasavaṇiya (1)",
+      "reason": "no-match"
+    },
+    {
+      "id": "ekantakasutta",
+      "headword": "Ekantakasutta",
+      "redirect_text": "Janapadasutta and Sedakasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "ekavihariya-03",
+      "headword": "Ekavihāriya 03",
+      "redirect_text": "Tissakumāra, brother of Asoka",
+      "reason": "no-match"
+    },
+    {
+      "id": "ekuttara",
+      "headword": "Ekuttara",
+      "redirect_text": "Aṅguttara",
+      "reason": "no-match"
+    },
+    {
+      "id": "kaccani-02",
+      "headword": "Kaccānī 02",
+      "redirect_text": "also Kātiyānī",
+      "reason": "no-match"
+    },
+    {
+      "id": "kaccayana-04",
+      "headword": "Kaccāyana 04",
+      "redirect_text": "also Kaccāna",
+      "reason": "no-match"
+    },
+    {
+      "id": "kancana-03",
+      "headword": "Kañcana 03",
+      "redirect_text": "Mahā Kañcana and Upakañcana",
+      "reason": "no-match"
+    },
+    {
+      "id": "kandaki",
+      "headword": "Kaṇḍakī",
+      "redirect_text": "Kaṇṭakī",
+      "reason": "no-match"
+    },
+    {
+      "id": "kanha-usabhajataka",
+      "headword": "Kaṇha-usabhajātaka",
+      "redirect_text": "Kaṇhajātaka (Ja 29) (1)",
+      "reason": "no-match"
+    },
+    {
+      "id": "kadalipupphiya",
+      "headword": "Kadalīpupphiya",
+      "redirect_text": "Kandalīpupphiya",
+      "reason": "no-match"
+    },
+    {
+      "id": "kanakamuni",
+      "headword": "Kanakamuni",
+      "redirect_text": "Koṇāgamana",
+      "reason": "no-match"
+    },
+    {
+      "id": "kanakagamana",
+      "headword": "Kanakāgamana",
+      "redirect_text": "Koṇāgamana",
+      "reason": "no-match"
+    },
+    {
+      "id": "kapijataka-03",
+      "headword": "Kapijātaka 03",
+      "redirect_text": "Mahā Kapijātaka (Ja 407, Ja 516)",
+      "reason": "no-match"
+    },
+    {
+      "id": "kappa-05",
+      "headword": "Kappa 05",
+      "redirect_text": "Nigrodha Kappa",
+      "reason": "no-match"
+    },
+    {
+      "id": "kappina",
+      "headword": "Kappina",
+      "redirect_text": "Mahā Kappina",
+      "reason": "no-match"
+    },
+    {
+      "id": "kammavibhangasutta",
+      "headword": "Kammavibhaṅgasutta",
+      "redirect_text": "Cūḷa Kammavibhaṅgasutta and Mahā Kammavibhaṅgasutta",
+      "reason": "no-match"
+    },
+    {
+      "id": "kayanibbindajataka",
+      "headword": "Kayanibbindajātaka",
+      "redirect_text": "Kāyavicchinda (Ja 293)",
+      "reason": "no-match"
+    },
+    {
+      "id": "kasmira-gandhara",
+      "headword": "Kasmīra-Gandhāra",
+      "redirect_text": "Kasmīra and Gandhāra in separate entries",
+      "reason": "no-match"
+    },
+    {
+      "id": "katiyana-04",
+      "headword": "Kātiyāna 04",
+      "redirect_text": "Pakudha",
+      "reason": "no-match"
+    },
+    {
+      "id": "katiyani-02",
+      "headword": "Kātiyānī 02",
+      "redirect_text": "Kaccānajātaka (Ja 417)",
+      "reason": "no-match"
+    },
+    {
+      "id": "kapilani",
+      "headword": "Kāpilānī",
+      "redirect_text": "Bhaddā Kāpilānī",
+      "reason": "no-match"
+    },
+    {
+      "id": "kala-12",
+      "headword": "Kāḷa 12",
+      "redirect_text": "also Cūḷa Kāḷa, Mahā Kāḷa and Kāḷudāyī",
+      "reason": "no-match"
+    },
+    {
+      "id": "kalaka-03",
+      "headword": "Kāḷaka 03",
+      "redirect_text": "Ayyakāḷaka",
+      "reason": "no-match"
+    },
+    {
+      "id": "kalaka-04",
+      "headword": "Kāḷaka 04",
+      "redirect_text": "AN",
+      "reason": "no-match"
+    },
+    {
+      "id": "kalasila-02",
+      "headword": "Kāḷasilā 02",
+      "redirect_text": "Kāḷasela",
+      "reason": "no-match"
+    },
+    {
+      "id": "kinjaka",
+      "headword": "Kiñjaka",
+      "redirect_text": "Giñjaka ??",
+      "reason": "no-match"
+    },
+    {
+      "id": "kimatthisutta-03",
+      "headword": "Kimatthisutta 03",
+      "redirect_text": "also Sāmaṇḍakasaṁyutta",
+      "reason": "no-match"
+    }
+  ],
+  "redirect_resolved_sample": [
+    {
+      "id": "akatti",
+      "headword": "Akatti",
+      "redirect_text": "Akitti",
+      "redirect_to": "akitti",
+      "strategy": "alias"
+    },
+    {
+      "id": "akittijataka",
+      "headword": "Akittijātaka",
+      "redirect_text": "Akitti",
+      "redirect_to": "akitti",
+      "strategy": "alias"
+    },
+    {
+      "id": "akkharakosa",
+      "headword": "Akkharakosa",
+      "redirect_text": "Ekakkhara Kosa",
+      "redirect_to": "ekakkharakosa",
+      "strategy": "alias"
+    },
+    {
+      "id": "aggideva-02",
+      "headword": "Aggideva 02",
+      "redirect_text": "Aggi Bhagavā",
+      "redirect_to": "aggi-bhagava",
+      "strategy": "alias"
+    },
+    {
+      "id": "aggisama-2",
+      "headword": "Aggisāma",
+      "redirect_text": "Abhisāma",
+      "redirect_to": "abhisama",
+      "strategy": "alias"
+    },
+    {
+      "id": "ankurapetavatthu",
+      "headword": "Aṅkurapetavatthu",
+      "redirect_text": "Aṅkura",
+      "redirect_to": "ankura",
+      "strategy": "alias"
+    },
+    {
+      "id": "angulimalaparitta",
+      "headword": "Aṅgulimālaparitta",
+      "redirect_text": "Aṅgulimāla; referred to also in the Milindapañha (p",
+      "redirect_to": "angulimala",
+      "strategy": "alias"
+    },
+    {
+      "id": "acchagiri",
+      "headword": "Acchagiri",
+      "redirect_text": "Acchagallaka",
+      "redirect_to": "acchagallaka",
+      "strategy": "alias"
+    },
+    {
+      "id": "ajajjarasutta",
+      "headword": "Ajajjarasutta",
+      "redirect_text": "Ajarasutta",
+      "redirect_to": "ajarasutta",
+      "strategy": "alias"
+    },
+    {
+      "id": "ancanavana",
+      "headword": "Añcanavana",
+      "redirect_text": "Añjanavana",
+      "redirect_to": "anjanavana",
+      "strategy": "alias"
+    },
+    {
+      "id": "animandavya",
+      "headword": "Aṇimaṇḍavya",
+      "redirect_text": "Maṇḍavya",
+      "redirect_to": "mandavya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "atimuttakasamaneravatthu",
+      "headword": "Atimuttakasāmaṇeravatthu",
+      "redirect_text": "Atimuttaka (2)",
+      "redirect_to": "atimuttaka-02",
+      "strategy": "alias"
+    },
+    {
+      "id": "attakaranasutta",
+      "headword": "Attakaraṇasutta",
+      "redirect_text": "Aṭṭhakaraṇasutta",
+      "redirect_to": "atthakaranasutta",
+      "strategy": "alias"
+    },
+    {
+      "id": "adinasattu",
+      "headword": "Adīnasattu",
+      "redirect_text": "Alīnasattu",
+      "redirect_to": "alinasattu",
+      "strategy": "alias"
+    },
+    {
+      "id": "adhimutta-02",
+      "headword": "Adhimutta 02",
+      "redirect_text": "Atimuttaka (2)",
+      "redirect_to": "atimuttaka-02",
+      "strategy": "alias"
+    },
+    {
+      "id": "adhoganga",
+      "headword": "Adhogaṅgā",
+      "redirect_text": "Gaṅgā",
+      "redirect_to": "ganga-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anatam-sutta",
+      "headword": "Anataṁ Sutta",
+      "redirect_text": "Antasutta",
+      "redirect_to": "antasutta",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anathapindikassarama",
+      "headword": "Anāthapiṇḍikassārāma",
+      "redirect_text": "Jetavana",
+      "redirect_to": "jetavana-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anikadatta",
+      "headword": "Anikadatta",
+      "redirect_text": "Anikaratta",
+      "redirect_to": "anikaratta",
+      "strategy": "alias"
+    },
+    {
+      "id": "anitthigandhakumaravatthu",
+      "headword": "Anitthigandhakumāravatthu",
+      "redirect_text": "Anitthigandhakumāra (3)",
+      "redirect_to": "anitthigandhakumara-03",
+      "strategy": "alias"
+    },
+    {
+      "id": "aniruddha",
+      "headword": "Aniruddha",
+      "redirect_text": "Anuruddha",
+      "redirect_to": "anuruddha-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anupama-03-2",
+      "headword": "Anupamā 03",
+      "redirect_text": "Māgandiyā",
+      "redirect_to": "magandiya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anupiya-2",
+      "headword": "Anūpiya",
+      "redirect_text": "Anupiya",
+      "redirect_to": "anupiya",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "anoja-02",
+      "headword": "Anojā 02",
+      "redirect_text": "Anujjā",
+      "redirect_to": "anujja",
+      "strategy": "alias"
+    },
+    {
+      "id": "anopama-02",
+      "headword": "Anopamā 02",
+      "redirect_text": "Māgandiyā",
+      "redirect_to": "magandiya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "antaka",
+      "headword": "Antaka",
+      "redirect_text": "Māra",
+      "redirect_to": "mara",
+      "strategy": "alias"
+    },
+    {
+      "id": "andhakarattha",
+      "headword": "Andhakaraṭṭha",
+      "redirect_text": "Andhakā (1)",
+      "redirect_to": "andhaka-01",
+      "strategy": "alias"
+    },
+    {
+      "id": "andhakavinda-brahmana",
+      "headword": "Andhakavinda Brāhmaṇa",
+      "redirect_text": "under Andhakavinda",
+      "redirect_to": "andhakavinda",
+      "strategy": "alias"
+    },
+    {
+      "id": "aparagoyma",
+      "headword": "Aparagoyma",
+      "redirect_text": "Gotama (3)",
+      "redirect_to": "gotama-03",
+      "strategy": "alias"
+    },
+    {
+      "id": "appiya",
+      "headword": "Appiyā",
+      "redirect_text": "Suppiyā",
+      "redirect_to": "suppiya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "abbhahattha",
+      "headword": "Abbhahattha",
+      "redirect_text": "Ambahattha",
+      "redirect_to": "ambahattha",
+      "strategy": "alias"
+    },
+    {
+      "id": "abhayattheri",
+      "headword": "Abhayattherī",
+      "redirect_text": "Abhayā",
+      "redirect_to": "abhaya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "abhijanasutta",
+      "headword": "Abhijānasutta",
+      "redirect_text": "Parijānasutta",
+      "redirect_to": "parijanasutta",
+      "strategy": "alias"
+    },
+    {
+      "id": "abhitatta",
+      "headword": "Abhitatta",
+      "redirect_text": "Ajitajana",
+      "redirect_to": "ajitajana",
+      "strategy": "alias"
+    },
+    {
+      "id": "amara-01",
+      "headword": "Amara 01",
+      "redirect_text": "Amaravatī",
+      "redirect_to": "amaravati-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "amitobhava",
+      "headword": "Amitobhava",
+      "redirect_text": "Amita",
+      "redirect_to": "amita",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "amittaka",
+      "headword": "Amittaka",
+      "redirect_text": "Amittabhā",
+      "redirect_to": "amittabha",
+      "strategy": "alias"
+    },
+    {
+      "id": "ambakhadaka-maha-tissa",
+      "headword": "Ambakhādaka Mahā Tissa",
+      "redirect_text": "Mahā Tissa (3)",
+      "redirect_to": "maha-tissa-03",
+      "strategy": "alias"
+    },
+    {
+      "id": "ambaramsa",
+      "headword": "Ambaraṁsa",
+      "redirect_text": "Abbhasa",
+      "redirect_to": "abbhasa",
+      "strategy": "alias"
+    },
+    {
+      "id": "ambalavana",
+      "headword": "Ambāḷavana",
+      "redirect_text": "Ambāṭakavana",
+      "redirect_to": "ambatakavana",
+      "strategy": "alias"
+    },
+    {
+      "id": "aranunjaha",
+      "headword": "Araṇuñjaha",
+      "redirect_text": "Aruṇañjaha (?)",
+      "redirect_to": "arunanjaha",
+      "strategy": "alias"
+    },
+    {
+      "id": "aranemi-03",
+      "headword": "Araṇemi 03",
+      "redirect_text": "Anoma (5)",
+      "redirect_to": "anoma-05",
+      "strategy": "alias"
+    },
+    {
+      "id": "arunabala",
+      "headword": "Aruṇabala",
+      "redirect_text": "Aruṇapāla",
+      "redirect_to": "arunapala",
+      "strategy": "alias"
+    },
+    {
+      "id": "arunava",
+      "headword": "Aruṇavā",
+      "redirect_text": "Aruṇa (1)",
+      "redirect_to": "aruna-01",
+      "strategy": "alias"
+    },
+    {
+      "id": "arundhavati",
+      "headword": "Arundhavatī",
+      "redirect_text": "Amaravatī (2)",
+      "redirect_to": "amaravati-02",
+      "strategy": "alias"
+    },
+    {
+      "id": "asiggaha-silakala",
+      "headword": "Asiggāha Silākāla",
+      "redirect_text": "Silākāla",
+      "redirect_to": "silakala",
+      "strategy": "alias"
+    },
+    {
+      "id": "asoka-02",
+      "headword": "Asoka 02",
+      "redirect_text": "Kāḷāsoka",
+      "redirect_to": "kalasoka",
+      "strategy": "alias"
+    },
+    {
+      "id": "asoka-08",
+      "headword": "Asoka 08",
+      "redirect_text": "Anoma (7)",
+      "redirect_to": "anoma-07",
+      "strategy": "alias"
+    },
+    {
+      "id": "ani-mandavya",
+      "headword": "Āṇi Maṇḍavya",
+      "redirect_text": "Maṇḍavya",
+      "redirect_to": "mandavya-01",
+      "strategy": "default-first-disambiguated"
+    },
+    {
+      "id": "ani-mandavya-2",
+      "headword": "Āni Maṇḍavya",
+      "redirect_text": "Maṇḍavya",
+      "redirect_to": "mandavya-01",
+      "strategy": "default-first-disambiguated"
+    }
+  ],
+  "entries_with_paragraph_breaks": 2237,
+  "paragraphs_per_entry_average": 1.3743,
+  "paragraphs_per_entry_max": 83,
+  "paragraph_break_samples": [
+    {
+      "id": "gotama-11",
+      "headword": "Gotama 11",
+      "paragraph_count": 83,
+      "word_count": 10832,
+      "source_file": "Ops/032.html"
+    },
+    {
+      "id": "ananda-01",
+      "headword": "Ānanda 01",
+      "paragraph_count": 80,
+      "word_count": 8062,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "pasenadi",
+      "headword": "Pasenadi",
+      "paragraph_count": 32,
+      "word_count": 2929,
+      "source_file": "Ops/049.html"
+    },
+    {
+      "id": "maha-kassapa-thera",
+      "headword": "Mahā Kassapa Thera",
+      "paragraph_count": 32,
+      "word_count": 3387,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "sariputta-01",
+      "headword": "Sāriputta 01",
+      "paragraph_count": 26,
+      "word_count": 4253,
+      "source_file": "Ops/069.html"
+    },
+    {
+      "id": "ajatasattu",
+      "headword": "Ajātasattu",
+      "paragraph_count": 25,
+      "word_count": 2105,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "mara",
+      "headword": "Māra",
+      "paragraph_count": 24,
+      "word_count": 4898,
+      "source_file": "Ops/059.html"
+    },
+    {
+      "id": "avici",
+      "headword": "Avīci",
+      "paragraph_count": 23,
+      "word_count": 815,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "khuddakanikaya",
+      "headword": "Khuddakanikāya",
+      "paragraph_count": 22,
+      "word_count": 210,
+      "source_file": "Ops/030.html"
+    },
+    {
+      "id": "bimbisara",
+      "headword": "Bimbisāra",
+      "paragraph_count": 22,
+      "word_count": 2289,
+      "source_file": "Ops/052.html"
+    },
+    {
+      "id": "anuruddha-02",
+      "headword": "Anuruddha 02",
+      "paragraph_count": 20,
+      "word_count": 1886,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "kapilavatthu",
+      "headword": "Kapilavatthu",
+      "paragraph_count": 20,
+      "word_count": 1782,
+      "source_file": "Ops/026.html"
+    },
+    {
+      "id": "kassapa",
+      "headword": "Kassapa",
+      "paragraph_count": 20,
+      "word_count": 1399,
+      "source_file": "Ops/027.html"
+    },
+    {
+      "id": "brahmaloka",
+      "headword": "Brahmaloka",
+      "paragraph_count": 20,
+      "word_count": 1330,
+      "source_file": "Ops/054.html"
+    },
+    {
+      "id": "rajagaha",
+      "headword": "Rājagaha",
+      "paragraph_count": 20,
+      "word_count": 1778,
+      "source_file": "Ops/062.html"
+    },
+    {
+      "id": "anathapindika-01",
+      "headword": "Anāthapiṇḍika 01",
+      "paragraph_count": 19,
+      "word_count": 1551,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "maha-moggallana-thera",
+      "headword": "Mahā Moggallāna Thera",
+      "paragraph_count": 19,
+      "word_count": 2772,
+      "source_file": "Ops/058.html"
+    },
+    {
+      "id": "upali-01",
+      "headword": "Upāli 01",
+      "paragraph_count": 17,
+      "word_count": 1347,
+      "source_file": "Ops/023.html"
+    },
+    {
+      "id": "jetavana-01",
+      "headword": "Jetavana 01",
+      "paragraph_count": 17,
+      "word_count": 1291,
+      "source_file": "Ops/037.html"
+    },
+    {
+      "id": "abhayagiri",
+      "headword": "Abhayagiri,",
+      "paragraph_count": 15,
+      "word_count": 1323,
+      "source_file": "Ops/017.html"
+    }
+  ],
+  "abbreviations_count": 89,
+  "abbreviations_sample": {
+    "AN": "Aṅguttara Nikāya, 5 vols. (PTS).",
+    "AN-a": "Manorathapūraṇī, Aṅguttara Commentary, 2 vols. (SHB).",
+    "Abhidh-s": "Abhidhammatthasaṅgaha (PTS Journal, 1884).",
+    "Anāg": "Anāgatavaṁsa (PTS Journal, 1886).",
+    "Ap": "Apadāna, 2 vols. (PTS).",
+    "Ap-a": "Apadāna Commentary (SHB).",
+    "Avś": "Avadāna Śataka, ed. Speyer (Bibl. Buddhica).",
+    "Bv": "Buddhavaṁsa (PTS).",
+    "Bv-a": "Buddhavaṁsa Commentary (SHB).",
+    "CAGI": "Cunningham’s Ancient Geography of India, ed. Majumdar (Calcutta).",
+    "CNid": "Culla-Niddesa (PTS).",
+    "Cp": "Cariyāpiṭaka (PTS).",
+    "Cp-a": "Cariyāpiṭaka Commentary (SHB).",
+    "Cv": "Cūlavaṁsa, ed.",
+    "Cv.Trs.": "Cūlavaṁsa, translated by Geiger, 2 vols. (PTS).",
+    "DN": "Dīgha Nikāya, 3 vols. (PTS).",
+    "DN-a": "Sumaṅgala Vilāsinī, 3 vols. (PTS).",
+    "Dhp-a": "Dhammapadaṭṭhakathā, 5 vols. (PTS).",
+    "Dial": "Dialogues of the Buddha, 3 vols. (Oxford).",
+    "Divy": "Divyāvadāna, ed. Cowell and Neill (Cambridge)."
+  },
+  "soft_hyphen_entry_count": 3313,
+  "soft_hyphen_total_count": 5886,
+  "soft_hyphen_samples": [
+    {
+      "id": "akanittha-deva",
+      "headword": "Akaniṭṭhā Devā",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 4,
+      "sample": "Akaniṭṭhā Devā. A class of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Devas</span>, living in the highest of the five <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Suddhāvās",
+      "normalized_sample": "Akaniṭṭhā Devā. A class of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Devas</span>, living in the highest of the five <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Suddhāvās"
+    },
+    {
+      "id": "akitti",
+      "headword": "Akitti",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Akitti (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Br",
+      "normalized_sample": "Akitti (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Akatti)</span>. The Bodhisatta in one of his births. He was a Br"
+    },
+    {
+      "id": "akkosaka-bharadvaja",
+      "headword": "Akkosaka Bhāradvāja",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 4,
+      "sample": "Akkosaka Bhāradvāja. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Rājagaha</span> who – incensed that his eldest brother, a member of the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-",
+      "normalized_sample": "Akkosaka Bhāradvāja. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Rājagaha</span> who – incensed that his eldest brother, a member of the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-"
+    },
+    {
+      "id": "akkosaka-bharadvajavatthu",
+      "headword": "Akkosaka Bhāradvājavatthu",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Akkosaka Bhāradvājavatthu. The story of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Akosaka Bhāradvāja</span>. Dhp­a.iv.161f.",
+      "normalized_sample": "Akkosaka Bhāradvājavatthu. The story of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Akosaka Bhāradvāja</span>. Dhpa.iv.161f."
+    },
+    {
+      "id": "akkhipuja",
+      "headword": "Akkhipūjā",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Akkhipūjā. A festival held by <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Asoka</span> in honour of the Buddha when <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Mahākāla</sp",
+      "normalized_sample": "Akkhipūjā. A festival held by <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Asoka</span> in honour of the Buddha when <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Mahākāla</sp"
+    },
+    {
+      "id": "akhila",
+      "headword": "Akhilā",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Akhilā. Chief woman disciple of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Sikhī</span> (Bv.xxi.21); the Commentary calls her <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">M",
+      "normalized_sample": "Akhilā. Chief woman disciple of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Sikhī</span> (Bv.xxi.21); the Commentary calls her <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">M"
+    },
+    {
+      "id": "agada",
+      "headword": "Agada",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Agada. <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Cakkavatti</span>, sixteen times in succession; <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Subāhu</span> Thera in a prev",
+      "normalized_sample": "Agada. <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Cakkavatti</span>, sixteen times in succession; <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Subāhu</span> Thera in a prev"
+    },
+    {
+      "id": "aggapithakapasada",
+      "headword": "Aggapīṭhakapāsāda",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggapīṭhakapāsāda. A building in the inner city of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Anurādhapura</span>.\n\nIt is said that when <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-cl",
+      "normalized_sample": "Aggapīṭhakapāsāda. A building in the inner city of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Anurādhapura</span>.\n\nIt is said that when <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-cl"
+    },
+    {
+      "id": "aggappasadasutta",
+      "headword": "Aggappasādasutta",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t18\"",
+      "normalized_sample": "Aggappasādasutta. Mentioned in the <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Visuddhimagga</span> in reference to the epithet “<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t18\""
+    },
+    {
+      "id": "aggasavakavatthu",
+      "headword": "Aggasāvakavatthu",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggasāvakavatthu. The chronicle of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Sāriputta</span> and <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Moggallāna</span>. Dhp­a.i.8",
+      "normalized_sample": "Aggasāvakavatthu. The chronicle of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Sāriputta</span> and <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Moggallāna</span>. Dhpa.i.8"
+    },
+    {
+      "id": "aggalavacetiya",
+      "headword": "Aggāḷavacetiya",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggāḷavacetiya. The chief shrine at <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Āḷavī</span> (Snp-a.i.344; SN­a.i.207) (hence probably the name), originally a pagan place of worship, but later converted into a Buddhi",
+      "normalized_sample": "Aggāḷavacetiya. The chief shrine at <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Āḷavī</span> (Snp-a.i.344; SNa.i.207) (hence probably the name), originally a pagan place of worship, but later converted into a Buddhi"
+    },
+    {
+      "id": "aggika-bharadvaja-02",
+      "headword": "Aggika Bhāradvāja 02",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggika Bhāradvāja 02. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Rājagaha</span>, evidently different from the above, also a fire-tender. He prepares a meal for sacrifice, and when the Buddha, out of co",
+      "normalized_sample": "Aggika Bhāradvāja 02. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Rājagaha</span>, evidently different from the above, also a fire-tender. He prepares a meal for sacrifice, and when the Buddha, out of co"
+    },
+    {
+      "id": "aggikkhandhopamasutta",
+      "headword": "Aggikkhandhopamasutta",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 3,
+      "sample": "Aggikkhandhopamasutta. Preached by the Buddha while touring in <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Kosala</span> with a large concourse of monks, the sight of a blazing fire being made the occasion for the di",
+      "normalized_sample": "Aggikkhandhopamasutta. Preached by the Buddha while touring in <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Kosala</span> with a large concourse of monks, the sight of a blazing fire being made the occasion for the di"
+    },
+    {
+      "id": "aggidatta-01",
+      "headword": "Aggidatta 01",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggidatta 01. Chaplain to the King of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Kosala</span>, first to <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Mahā Kosala</span>, an",
+      "normalized_sample": "Aggidatta 01. Chaplain to the King of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Kosala</span>, first to <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Mahā Kosala</span>, an"
+    },
+    {
+      "id": "aggidatta-02",
+      "headword": "Aggidatta 02",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggidatta 02. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Benares</span> and father of the Bodhisatta, when the latter was born as <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-t",
+      "normalized_sample": "Aggidatta 02. A Brahmin of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Benares</span> and father of the Bodhisatta, when the latter was born as <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-t"
+    },
+    {
+      "id": "agginibbapaka",
+      "headword": "Agginibbāpaka",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Agginibbāpaka (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term",
+      "normalized_sample": "Agginibbāpaka (<span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t18\">v.l.</span> <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Agginibbāpana</span>). A <span class=\"dppn-term dppn-term"
+    },
+    {
+      "id": "aggimukha",
+      "headword": "Aggimukha",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aggimukha. A species of snake; bodies bitten by them grow hot. Dhs­a.300; Vsm.368.",
+      "normalized_sample": "Aggimukha. A species of snake; bodies bitten by them grow hot. Dhsa.300; Vsm.368."
+    },
+    {
+      "id": "ankura",
+      "headword": "Aṅkura",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 2,
+      "sample": "Aṅkura. Tenth son of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Devagabbhā</span> and <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Upasāgara</span> (Ja.iv.81f), and one of ",
+      "normalized_sample": "Aṅkura. Tenth son of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Devagabbhā</span> and <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"2\" data-dppn-term-class=\"t14\">Upasāgara</span> (Ja.iv.81f), and one of "
+    },
+    {
+      "id": "ankurapetavatthu",
+      "headword": "Aṅkurapetavatthu",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 2,
+      "sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MN­a.i.225 and DN­a.i.178, in this story the word <span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-t",
+      "normalized_sample": "Aṅkurapetavatthu. See <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. According to MNa.i.225 and DNa.i.178, in this story the word <span class=\"dppn-term dppn-term-t18\" data-dppn-term-pos=\"2\" data-dppn-t"
+    },
+    {
+      "id": "ankuravatthu",
+      "headword": "Aṅkuravatthu",
+      "source_file": "Ops/015.html",
+      "soft_hyphen_count": 1,
+      "sample": "Aṅkuravatthu. The story of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. Dhp­a.iv.80-2.",
+      "normalized_sample": "Aṅkuravatthu. The story of <span class=\"dppn-term dppn-term-t14\" data-dppn-term-pos=\"1\" data-dppn-term-class=\"t14\">Aṅkura</span>. Dhpa.iv.80-2."
+    }
+  ],
+  "empty_or_very_short_entries": [
+    {
+      "id": "akatti",
+      "headword": "Akatti",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "akodhanasutta",
+      "headword": "Akodhanasutta",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "akkharakosa",
+      "headword": "Akkharakosa",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "aggidatta-04",
+      "headword": "Aggidatta 04",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "aggideva-02",
+      "headword": "Aggideva 02",
+      "word_count": 5,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "aggisama-2",
+      "headword": "Aggisāma",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "acchagiri",
+      "headword": "Acchagiri",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "ajajjarasutta",
+      "headword": "Ajajjarasutta",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "ajjuhatthapabbata",
+      "headword": "Ajjuhatthapabbata",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "ancanavana",
+      "headword": "Añcanavana",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "animandavya",
+      "headword": "Aṇimaṇḍavya",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "atimuttakasamaneravatthu",
+      "headword": "Atimuttakasāmaṇeravatthu",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "attakaranasutta",
+      "headword": "Attakaraṇasutta",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "adinasattu",
+      "headword": "Adīnasattu",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "adhimutta-02",
+      "headword": "Adhimutta 02",
+      "word_count": 5,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "adhoganga",
+      "headword": "Adhogaṅgā",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anatam-sutta",
+      "headword": "Anataṁ Sutta",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anathapindikassarama",
+      "headword": "Anāthapiṇḍikassārāma",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anikadatta",
+      "headword": "Anikadatta",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anitthigandhakumaravatthu",
+      "headword": "Anitthigandhakumāravatthu",
+      "word_count": 4,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "aniruddha",
+      "headword": "Aniruddha",
+      "word_count": 3,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anupama-03-2",
+      "headword": "Anupamā 03",
+      "word_count": 4,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "anula-02",
+      "headword": "Anula 02",
+      "word_count": 5,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "anupiya-2",
+      "headword": "Anūpiya",
+      "word_count": 3,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "anoja-02",
+      "headword": "Anojā 02",
+      "word_count": 4,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "anopama-02",
+      "headword": "Anopamā 02",
+      "word_count": 4,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "antaka",
+      "headword": "Antaka",
+      "word_count": 3,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "andhakarattha",
+      "headword": "Andhakaraṭṭha",
+      "word_count": 4,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "aparagoyma",
+      "headword": "Aparagoyma",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "appamateyyasutta",
+      "headword": "Appamateyyasutta",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "appiya",
+      "headword": "Appiyā",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abbhahattha",
+      "headword": "Abbhahattha",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhayattheri",
+      "headword": "Abhayattherī",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhayacala",
+      "headword": "Abhayācala",
+      "word_count": 5,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhayuttara",
+      "headword": "Abhayuttara",
+      "word_count": 5,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhijanasutta",
+      "headword": "Abhijānasutta",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhinneyyasutta",
+      "headword": "Abhiññeyyasutta",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhitatta",
+      "headword": "Abhitatta",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "abhiya-kaccana",
+      "headword": "Abhiya Kaccāna",
+      "word_count": 5,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "amara-01",
+      "headword": "Amara 01",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "amitobhava",
+      "headword": "Amitobhava",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "amitta",
+      "headword": "Amitta",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "amittaka",
+      "headword": "Amittaka",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "ambaramsa",
+      "headword": "Ambaraṁsa",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "ambalavana",
+      "headword": "Ambāḷavana",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "aranunjaha",
+      "headword": "Araṇuñjaha",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "aranemi-03",
+      "headword": "Araṇemi 03",
+      "word_count": 5,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "aritthatthapitaghara",
+      "headword": "Ariṭṭhaṭṭhapitaghara",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "arunabala",
+      "headword": "Aruṇabala",
+      "word_count": 3,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "arunavatiparitta",
+      "headword": "Aruṇavatīparitta",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "arunava",
+      "headword": "Aruṇavā",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "arundhavati",
+      "headword": "Arundhavatī",
+      "word_count": 4,
+      "source_file": "Ops/017.html"
+    },
+    {
+      "id": "avikakka",
+      "headword": "Avikakkā",
+      "word_count": 5,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "avihimsasutta",
+      "headword": "Avihiṁsāsutta",
+      "word_count": 3,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "asiggaha-silakala",
+      "headword": "Asiggāha Silākāla",
+      "word_count": 4,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "asoka-02",
+      "headword": "Asoka 02",
+      "word_count": 4,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "asoka-03",
+      "headword": "Asoka 03",
+      "word_count": 4,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "asoka-08",
+      "headword": "Asoka 08",
+      "word_count": 5,
+      "source_file": "Ops/018.html"
+    },
+    {
+      "id": "akasagotta-2",
+      "headword": "Ākāsagotta",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "ani-mandavya",
+      "headword": "Āṇi Maṇḍavya",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "ani-mandavya-2",
+      "headword": "Āni Maṇḍavya",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "apanasutta",
+      "headword": "Āpaṇasutta",
+      "word_count": 3,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "aranjara",
+      "headword": "Ārañjara",
+      "word_count": 3,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "aravala-3",
+      "headword": "Āravāla",
+      "word_count": 3,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "aramasutta",
+      "headword": "Ārāmasutta",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "alamba-02",
+      "headword": "Ālamba 02",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "alavika-01",
+      "headword": "Āḷavikā 01",
+      "word_count": 4,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "alara-2",
+      "headword": "Āḷāra",
+      "word_count": 3,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "itthiya",
+      "headword": "Iṭṭhiya",
+      "word_count": 3,
+      "source_file": "Ops/021.html"
+    },
+    {
+      "id": "iddhiya",
+      "headword": "Iddhiya",
+      "word_count": 3,
+      "source_file": "Ops/021.html"
+    },
+    {
+      "id": "isibhatta-thera",
+      "headword": "Isibhatta Thera",
+      "word_count": 5,
+      "source_file": "Ops/021.html"
+    },
+    {
+      "id": "ukkacela",
+      "headword": "Ukkacelā",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uggata-01",
+      "headword": "Uggata 01",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "ugganagara",
+      "headword": "Ugganagara",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "utta-02",
+      "headword": "Utta 02",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttara-31",
+      "headword": "Uttara 31",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttaramadhura-01",
+      "headword": "Uttaramadhurā 01",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttaravaddhamana",
+      "headword": "Uttaravaḍḍhamāna",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttarahimavanta",
+      "headword": "Uttarahimavanta",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttaromula",
+      "headword": "Uttaromūla",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttika",
+      "headword": "Uttika",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uttiya-08",
+      "headword": "Uttiya 08",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udaka",
+      "headword": "Udaka",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udakalonatissa",
+      "headword": "Udakaloṇatissa",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udangana",
+      "headword": "Udaṅgaṇa",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udaya-13",
+      "headword": "Udaya 13",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udayana",
+      "headword": "Udayana",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udayabhadda-02",
+      "headword": "Udayabhadda 02",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udayasutta-02",
+      "headword": "Udayasutta 02",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udaya",
+      "headword": "Udayā",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udayi-theravatthu",
+      "headword": "Udāyī Theravatthu",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "udumbaragiri",
+      "headword": "Udumbaragiri",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uddaka",
+      "headword": "Uddaka",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uddajataka",
+      "headword": "Uddajātaka",
+      "word_count": 5,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uddhaganga",
+      "headword": "Uddhagaṅgā",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "uddharattha",
+      "headword": "Uddharaṭṭha",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "upacara",
+      "headword": "Upacara",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "upananda-05",
+      "headword": "Upananda 05",
+      "word_count": 4,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "upariganga",
+      "headword": "Uparigaṅgā",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    },
+    {
+      "id": "upavala",
+      "headword": "Upavāla",
+      "word_count": 3,
+      "source_file": "Ops/022.html"
+    }
+  ],
+  "longest_entries": [
+    {
+      "id": "gotama-11",
+      "headword": "Gotama 11",
+      "word_count": 10832,
+      "source_file": "Ops/032.html"
+    },
+    {
+      "id": "ananda-01",
+      "headword": "Ānanda 01",
+      "word_count": 8062,
+      "source_file": "Ops/019.html"
+    },
+    {
+      "id": "mara",
+      "headword": "Māra",
+      "word_count": 4898,
+      "source_file": "Ops/059.html"
+    },
+    {
+      "id": "sariputta-01",
+      "headword": "Sāriputta 01",
+      "word_count": 4253,
+      "source_file": "Ops/069.html"
+    },
+    {
+      "id": "maha-kassapa-thera",
+      "headword": "Mahā Kassapa Thera",
+      "word_count": 3387,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "pasenadi",
+      "headword": "Pasenadi",
+      "word_count": 2929,
+      "source_file": "Ops/049.html"
+    },
+    {
+      "id": "maha-moggallana-thera",
+      "headword": "Mahā Moggallāna Thera",
+      "word_count": 2772,
+      "source_file": "Ops/058.html"
+    },
+    {
+      "id": "bimbisara",
+      "headword": "Bimbisāra",
+      "word_count": 2289,
+      "source_file": "Ops/052.html"
+    },
+    {
+      "id": "ajatasattu",
+      "headword": "Ajātasattu",
+      "word_count": 2105,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "anuruddha-02",
+      "headword": "Anuruddha 02",
+      "word_count": 1886,
+      "source_file": "Ops/016.html"
+    },
+    {
+      "id": "kapilavatthu",
+      "headword": "Kapilavatthu",
+      "word_count": 1782,
+      "source_file": "Ops/026.html"
+    },
+    {
+      "id": "rajagaha",
+      "headword": "Rājagaha",
+      "word_count": 1778,
+      "source_file": "Ops/062.html"
+    },
+    {
+      "id": "yakkha",
+      "headword": "Yakkha",
+      "word_count": 1758,
+      "source_file": "Ops/061.html"
+    },
+    {
+      "id": "rahula-01",
+      "headword": "Rāhula 01",
+      "word_count": 1572,
+      "source_file": "Ops/062.html"
+    },
+    {
+      "id": "anathapindika-01",
+      "headword": "Anāthapiṇḍika 01",
+      "word_count": 1551,
+      "source_file": "Ops/015.html"
+    },
+    {
+      "id": "vesali",
+      "headword": "Vesālī",
+      "word_count": 1544,
+      "source_file": "Ops/066.html"
+    },
+    {
+      "id": "maha-ummaggajataka",
+      "headword": "Mahā Ummaggajātaka",
+      "word_count": 1503,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "bhuridattajataka",
+      "headword": "Bhūridattajātaka",
+      "word_count": 1435,
+      "source_file": "Ops/055.html"
+    },
+    {
+      "id": "ananda-2",
+      "headword": "Ānanda",
+      "word_count": 1402,
+      "source_file": "Ops/057.html"
+    },
+    {
+      "id": "kassapa",
+      "headword": "Kassapa",
+      "word_count": 1399,
+      "source_file": "Ops/027.html"
+    }
+  ],
+  "styled_term_candidates": 72278,
+  "styled_term_candidates_by_status": {
+    "ambiguous": 22575,
+    "matched": 24784,
+    "unmatched": 24919
+  },
+  "styled_term_candidates_by_span_class": {
+    "t14": 57645,
+    "t18": 14633
+  },
+  "styled_term_candidates_t14": 57645,
+  "styled_term_candidates_t18": 14633,
+  "inline_markers_written": 72278,
+  "entries_with_inline_markers": 12428,
+  "inline_marker_candidate_position_mismatches": 0,
+  "inline_marker_candidate_position_mismatch_sample": [],
+  "html_file_stats": [
+    {
+      "file": "Ops/001.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/002.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/003.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/004.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/005.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/006.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/007.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 3
+    },
+    {
+      "file": "Ops/008.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/009.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 4
+    },
+    {
+      "file": "Ops/010.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 2
+    },
+    {
+      "file": "Ops/011.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/012.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/013.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/014.html",
+      "p14_entries": 0,
+      "h4_headings": 1,
+      "href_count": 2
+    },
+    {
+      "file": "Ops/015.html",
+      "p14_entries": 481,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/016.html",
+      "p14_entries": 145,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/017.html",
+      "p14_entries": 413,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/018.html",
+      "p14_entries": 178,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/019.html",
+      "p14_entries": 222,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/020.html",
+      "p14_entries": 29,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/021.html",
+      "p14_entries": 92,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/022.html",
+      "p14_entries": 383,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/023.html",
+      "p14_entries": 167,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/024.html",
+      "p14_entries": 102,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/025.html",
+      "p14_entries": 43,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/026.html",
+      "p14_entries": 425,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/027.html",
+      "p14_entries": 265,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/028.html",
+      "p14_entries": 423,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/029.html",
+      "p14_entries": 189,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/030.html",
+      "p14_entries": 164,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/031.html",
+      "p14_entries": 323,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/032.html",
+      "p14_entries": 83,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/033.html",
+      "p14_entries": 28,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/034.html",
+      "p14_entries": 406,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/035.html",
+      "p14_entries": 87,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/036.html",
+      "p14_entries": 62,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/037.html",
+      "p14_entries": 226,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/038.html",
+      "p14_entries": 12,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/039.html",
+      "p14_entries": 19,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/040.html",
+      "p14_entries": 20,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/041.html",
+      "p14_entries": 379,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/042.html",
+      "p14_entries": 40,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/043.html",
+      "p14_entries": 491,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/044.html",
+      "p14_entries": 8,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/045.html",
+      "p14_entries": 249,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/046.html",
+      "p14_entries": 471,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/047.html",
+      "p14_entries": 91,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/048.html",
+      "p14_entries": 518,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/049.html",
+      "p14_entries": 248,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/050.html",
+      "p14_entries": 236,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/051.html",
+      "p14_entries": 53,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/052.html",
+      "p14_entries": 250,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/053.html",
+      "p14_entries": 9,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/054.html",
+      "p14_entries": 67,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/055.html",
+      "p14_entries": 299,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/056.html",
+      "p14_entries": 343,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/057.html",
+      "p14_entries": 244,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/058.html",
+      "p14_entries": 234,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/059.html",
+      "p14_entries": 358,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/060.html",
+      "p14_entries": 106,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/061.html",
+      "p14_entries": 128,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/062.html",
+      "p14_entries": 353,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/063.html",
+      "p14_entries": 151,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/064.html",
+      "p14_entries": 390,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/065.html",
+      "p14_entries": 473,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/066.html",
+      "p14_entries": 38,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/067.html",
+      "p14_entries": 412,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/068.html",
+      "p14_entries": 400,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/069.html",
+      "p14_entries": 392,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/070.html",
+      "p14_entries": 108,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/071.html",
+      "p14_entries": 535,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/072.html",
+      "p14_entries": 385,
+      "h4_headings": 0,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/073.html",
+      "p14_entries": 141,
+      "h4_headings": 1,
+      "href_count": 1
+    },
+    {
+      "file": "Ops/notes.html",
+      "p14_entries": 0,
+      "h4_headings": 0,
+      "href_count": 7
+    }
+  ],
+  "sample_entries": [
+    {
+      "id": "akatannujataka",
+      "headword": "Akataññujātaka",
+      "base_headword": "Akataññujātaka",
+      "disambiguator": "",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 1,
+      "source_anchor": null,
+      "word_count": 48,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 1,
+      "path": "data/entries/a/akatannujataka.md"
+    },
+    {
+      "id": "akatunnatasutta-01",
+      "headword": "Akatuññatāsutta 01",
+      "base_headword": "Akatuññatāsutta",
+      "disambiguator": "01",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 2,
+      "source_anchor": null,
+      "word_count": 23,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 1,
+      "path": "data/entries/a/akatunnatasutta-01.md"
+    },
+    {
+      "id": "akatunnatasutta-02",
+      "headword": "Akatuññatāsutta 02",
+      "base_headword": "Akatuññatāsutta",
+      "disambiguator": "02",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 3,
+      "source_anchor": null,
+      "word_count": 23,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 1,
+      "path": "data/entries/a/akatunnatasutta-02.md"
+    },
+    {
+      "id": "akatti",
+      "headword": "Akatti",
+      "base_headword": "Akatti",
+      "disambiguator": "",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 4,
+      "source_anchor": null,
+      "word_count": 3,
+      "status": "redirect",
+      "redirect_to": "akitti",
+      "redirect_match_strategy": "alias",
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 1,
+      "path": "data/entries/a/akatti.md"
+    },
+    {
+      "id": "akanittha-deva",
+      "headword": "Akaniṭṭhā Devā",
+      "base_headword": "Akaniṭṭhā Devā",
+      "disambiguator": "",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 5,
+      "source_anchor": null,
+      "word_count": 300,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 5,
+      "path": "data/entries/a/akanittha-deva.md"
+    },
+    {
+      "id": "akitti",
+      "headword": "Akitti",
+      "base_headword": "Akitti",
+      "disambiguator": "",
+      "letter": "A",
+      "section": "A-An.",
+      "source_file": "Ops/015.html",
+      "source_order": 9,
+      "source_anchor": null,
+      "word_count": 240,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 2,
+      "path": "data/entries/a/akitti.md"
+    },
+    {
+      "id": "ananda",
+      "headword": "Ānandā",
+      "base_headword": "Ānandā",
+      "disambiguator": "",
+      "letter": "A",
+      "section": "Ā.",
+      "source_file": "Ops/019.html",
+      "source_order": 1327,
+      "source_anchor": null,
+      "word_count": 65,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 3,
+      "path": "data/entries/a/ananda.md"
+    },
+    {
+      "id": "buddha",
+      "headword": "Buddhā",
+      "base_headword": "Buddhā",
+      "disambiguator": "",
+      "letter": "B",
+      "section": "B.",
+      "source_file": "Ops/052.html",
+      "source_order": 7968,
+      "source_anchor": null,
+      "word_count": 32,
+      "status": "untranslated",
+      "redirect_to": null,
+      "redirect_match_strategy": null,
+      "redirect_unresolved_reason": null,
+      "paragraph_count": 1,
+      "path": "data/entries/b/buddha.md"
+    }
+  ],
+  "warnings_count": 1,
+  "warnings_sample": [
+    "Ops/072.html: p14 without t14, used text fallback at local entry 384"
+  ]
+}

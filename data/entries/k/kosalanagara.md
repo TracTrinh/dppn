@@ -1,0 +1,29 @@
+---
+id: "kosalanagara"
+headword: "Kosalanagara"
+base_headword: "Kosalanagara"
+disambiguator: ""
+letter: "K"
+section: "Ki-Ko."
+status: "redirect"
+redirect_to: "savatthi"
+source:
+  epub_file: "Ops/029.html"
+  source_order: 3526
+  source_anchor: 
+aliases: []
+link_candidates:
+  - "Sāvatthī"
+---
+
+# Kosalanagara
+
+## English source
+
+Kosalanagara. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

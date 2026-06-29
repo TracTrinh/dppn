@@ -1,0 +1,34 @@
+---
+id: "atappadeva"
+headword: "Atappādevā"
+base_headword: "Atappādevā"
+disambiguator: ""
+letter: "A"
+section: "A-An."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/015.html"
+  source_order: 283
+  source_anchor: 
+aliases:
+  - "Atappadeva"
+link_candidates:
+  - "Buddhaghosa"
+  - "Devas"
+  - "Suddhāvāsā"
+  - "anāgāmis"
+  - "na kañci sattaṁ tapenti"
+---
+
+# Atappādevā
+
+## English source
+
+Atappādevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span> whose company mortals long for (MN.i.289; iii.103). They belong to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suddhāvāsā</span> (DN.ii.52; DN.iii.237). According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddhaghosa</span> (DN­a.ii.480; Vibh­a.521) they are so-called because they torment no one (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="4" data-dppn-term-class="t18">na kañci sattaṁ tapenti</span>). They are <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">anāgāmis</span>. It-a.40.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

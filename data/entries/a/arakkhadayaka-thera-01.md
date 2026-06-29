@@ -1,0 +1,35 @@
+---
+id: "arakkhadayaka-thera-01"
+headword: "Ārakkhadāyaka Thera 01"
+base_headword: "Ārakkhadāyaka Thera"
+disambiguator: "01"
+letter: "A"
+section: "Ā."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/019.html"
+  source_order: 1377
+  source_anchor: 
+aliases:
+  - "Arakkhadayaka Thera 01"
+link_candidates:
+  - "Apassena"
+  - "Arahant"
+  - "Siddhattha Buddha"
+  - "Thūpa"
+  - "kappas"
+  - "vedi"
+---
+
+# Ārakkhadāyaka Thera 01
+
+## English source
+
+Ārakkhadāyaka Thera 01. An <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">Arahant</span>. In a previous birth he built a railing (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="2" data-dppn-term-class="t18">vedi</span>) round the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="3" data-dppn-term-class="t18">Thūpa</span> of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Siddhattha Buddha</span> and made provision for its protection. Six <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">kappas</span> ago he was a king named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Apassena</span>. Ap.i.214-15.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

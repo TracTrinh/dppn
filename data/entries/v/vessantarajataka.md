@@ -1,0 +1,69 @@
+---
+id: "vessantarajataka"
+headword: "Vessantarajātaka"
+base_headword: "Vessantarajātaka"
+disambiguator: ""
+letter: "V"
+section: "Vi-Vo."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/066.html"
+  source_order: 11193
+  source_anchor: 
+aliases:
+  - "Vessantarajataka"
+link_candidates:
+  - "Accuta"
+  - "Amittatāpanā"
+  - "Arañjaragiri"
+  - "Ceta"
+  - "Cetaputta"
+  - "Devas"
+  - "Dunniviṭṭha"
+  - "Gandhamādana"
+  - "Jambudīpa"
+  - "Jetuttara"
+  - "Jāli"
+  - "Jūjaka"
+  - "Kantimārā"
+  - "Kaṇhajinā"
+  - "Ketumatī"
+  - "Khattiyas"
+  - "Kāliṅga"
+  - "Maddī"
+  - "Mucalinda"
+  - "Nāḷika"
+  - "Paccaya"
+  - "Phusatī"
+  - "Sakka"
+  - "Sattasataka"
+  - "Sañjaya"
+  - "Sivi"
+  - "Suvaṇṇagiritāla"
+  - "Vaṅkagiri"
+  - "Vessa"
+  - "Vessantara"
+  - "Vipula"
+  - "Vissakamma"
+---
+
+# Vessantarajātaka
+
+## English source
+
+Vessantarajātaka (Ja 547). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vessantara</span> (the Bodhisatta) was the son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sañjaya</span>, king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sivi</span>, and queen <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Phusatī</span>, and was so-called because his mother started in labour as she passed through the <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Vessa</span> street in the city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Jetuttara</span>, and he was born in a house in the same street. He spoke as soon as he was born (Cf. Bv­a.228). On the same day was also born a white elephant named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Paccaya</span>. At the age of eight, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Vessantara</span> wished to make a great gift and the earth trembled. He married <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Maddī</span> at the age of sixteen, and their children were <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Jāli</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Kaṇhajinā</span>.
+
+At that time there was a great drought in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Kāliṅga</span>, and eight Brahmins came from there to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Vessantara</span> to beg his white elephant, which had the power of making rain to fall. He granted their request, and gave the elephant together with its priceless trappings (Ja.vi.488f. gives the details of these). The citizens of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Jetuttara</span> were greatly upset that their elephant should have been given away, and demanded of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Sañjaya</span> that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Vessantara</span> should be banished to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term-class="t14">Vaṅkagiri</span>. The will of the people prevailed, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Vessantara</span> was asked to take the road along which those travel who have offended. He agreed to go, but before setting out, obtained the king’s leave to hold an almsgiving called the “Gift of the Seven Hundreds” (<span class="dppn-term dppn-term-t18" data-dppn-term-pos="19" data-dppn-term-class="t18">Sattasataka</span>), in which he gave away seven hundred of each kind of thing. People came from all over <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term-class="t14">Jambudīpa</span> to accept his gifts, and the almsgiving lasted for a whole day.
+
+When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Vessantara</span> took leave of his parents and prepared for his journey, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term-class="t14">Maddī</span> insisted on accompanying him with her two children. They were conveyed in a gorgeous carriage drawn by four horses, but, outside the city, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term-class="t14">Vessantara</span> met four Brahmins who begged his horses. Four <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term-class="t14">Devas</span> then drew the chariot, but another Brahmin soon appeared and obtained the chariot. Thenceforward they travelled on foot, through <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term-class="t14">Suvaṇṇagiritāla</span>, across the river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term-class="t14">Kantimārā</span>, to beyond Mount <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" data-dppn-term-class="t14">Arañjaragiri</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term-class="t14">Dunniviṭṭha</span>, to his uncle’s city, in the kingdom of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term-class="t14">Ceta</span>. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-term-class="t14">Devas</span> shortened the way for them, and the trees lowered their fruit that they might eat. Sixty thousand <span class="dppn-term dppn-term-t18" data-dppn-term-pos="31" data-dppn-term-class="t18">Khattiyas</span> came out to welcome <span class="dppn-term dppn-term-t14" data-dppn-term-pos="32" data-dppn-term-class="t14">Vessantara</span> and offered him their kingdom, which, however, he refused. He would not even enter the city, but remained outside the gates, and, when he left early the next morning, the people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-term-class="t14">Ceta</span>, led by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term-class="t14">Cetaputta</span>, went with him for fifteen leagues, till they came to the entrance to the forest. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term-class="t14">Vessantara</span> and his family then proceeded to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="36" data-dppn-term-class="t14">Gandhamādana</span>, northwards, by the foot of Mount <span class="dppn-term dppn-term-t14" data-dppn-term-pos="37" data-dppn-term-class="t14">Vipula</span> to the river <span class="dppn-term dppn-term-t14" data-dppn-term-pos="38" data-dppn-term-class="t14">Ketumatī</span>, where a forester entertained them and gave them to eat. Thence they crossed the river to beyond <span class="dppn-term dppn-term-t14" data-dppn-term-pos="39" data-dppn-term-class="t14">Nāḷika</span>, along the bank of Lake <span class="dppn-term dppn-term-t14" data-dppn-term-pos="40" data-dppn-term-class="t14">Mucalinda</span>, to its north-eastern corner, then along a narrow footpath into the dense forest, to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="41" data-dppn-term-class="t14">Vaṅkagiri</span>. There <span class="dppn-term dppn-term-t14" data-dppn-term-pos="42" data-dppn-term-class="t14">Vissakamma</span> had already built two hermitages, by order of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="43" data-dppn-term-class="t14">Sakka</span>, one for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="44" data-dppn-term-class="t14">Vessantara</span> and one for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="45" data-dppn-term-class="t14">Maddī</span> and the children, and there they took up their residence. By <span class="dppn-term dppn-term-t14" data-dppn-term-pos="46" data-dppn-term-class="t14">Vessantara</span>’s power, the wild animals to a distance of three leagues became gentle. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="47" data-dppn-term-class="t14">Maddī</span> rose daily at dawn, and, having fetched water to wash, went into the forest for yams and fruit. In the evening she returned, washed the children, and the family sat down to eat. Thus passed four months.
+
+Then from <span class="dppn-term dppn-term-t14" data-dppn-term-pos="48" data-dppn-term-class="t14">Dunniviṭṭha</span> there came to the hermitage an old Brahmin, called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="49" data-dppn-term-class="t14">Jūjaka</span>, who had been sent by his young wife, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="50" data-dppn-term-class="t14">Amittatāpanā</span>, to find slaves for her, because when she went to the well for water the other women had laughed at her, calling her “an old man’s darling.” She told <span class="dppn-term dppn-term-t14" data-dppn-term-pos="51" data-dppn-term-class="t14">Jūjaka</span> that he could easily get <span class="dppn-term dppn-term-t14" data-dppn-term-pos="52" data-dppn-term-class="t14">Vessantara</span>’s children as slaves, and so he came to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="53" data-dppn-term-class="t14">Vaṅkagiri</span>. Asking the way of various people, including the hermit <span class="dppn-term dppn-term-t14" data-dppn-term-pos="54" data-dppn-term-class="t14">Accuta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="55" data-dppn-term-class="t14">Jūjaka</span> arrived at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="56" data-dppn-term-class="t14">Vaṅkagiri</span> late in the evening and spent the night on the hilltop. That night <span class="dppn-term dppn-term-t14" data-dppn-term-pos="57" data-dppn-term-class="t14">Maddī</span> had a dream, and, being terrified, she sought <span class="dppn-term dppn-term-t14" data-dppn-term-pos="58" data-dppn-term-class="t14">Vessantara</span>. He knew what the dream presaged, but consoled her and sent her away the next day in search of food. During her absence, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="59" data-dppn-term-class="t14">Jūjaka</span> came and made his request. He would not await the return of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="60" data-dppn-term-class="t14">Maddī</span>, and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="61" data-dppn-term-class="t14">Vessantara</span> willingly gave him the two children. But they ran away and hid in a pond till told by their father to go with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="62" data-dppn-term-class="t14">Jūjaka</span>. When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="63" data-dppn-term-class="t14">Vessantara</span> poured water on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="64" data-dppn-term-class="t14">Jūjaka</span>’s hand as a symbol of his gift, the earth trembled with joy. Once more the children escaped and ran back to their father, but he strengthened his resolve with tears in his eyes. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="65" data-dppn-term-class="t14">Jūjaka</span> led the children away, beating them along the road till their blood flowed.
+
+It was late in the evening when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="66" data-dppn-term-class="t14">Maddī</span> returned because <span class="dppn-term dppn-term-t14" data-dppn-term-pos="67" data-dppn-term-class="t14">Devas</span>, assuming the form of beasts of prey, delayed her coming, lest she should stand in the way of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="68" data-dppn-term-class="t14">Vessantara</span>’s gift. In answer to her questions, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="69" data-dppn-term-class="t14">Vessantara</span> spoke no word, and she spent the night searching for the children. In the morning she returned to the hermitage and fell down fainting. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="70" data-dppn-term-class="t14">Vessantara</span> restored her to consciousness and told her of what had happened, explaining why he had not told her earlier. When she had heard his story she expressed her joy, affirming that he had made a noble gift for the sake of omniscience. And then, lest some vile creature should come and ask for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="71" data-dppn-term-class="t14">Maddī</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="72" data-dppn-term-class="t14">Sakka</span>, assuming the form of a Brahmin, appeared and asked for her. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="73" data-dppn-term-class="t14">Vessantara</span> looked at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="74" data-dppn-term-class="t14">Maddī</span>, and she expressed her consent. So he gave <span class="dppn-term dppn-term-t14" data-dppn-term-pos="75" data-dppn-term-class="t14">Maddī</span> to the Brahmin, and the earth trembled. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="76" data-dppn-term-class="t14">Sakka</span> revealed his identity, gave <span class="dppn-term dppn-term-t14" data-dppn-term-pos="77" data-dppn-term-class="t14">Maddī</span> back to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="78" data-dppn-term-class="t14">Vessantara</span>, and allowed him eight boons. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="79" data-dppn-term-class="t14">Vessantara</span> asked that
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

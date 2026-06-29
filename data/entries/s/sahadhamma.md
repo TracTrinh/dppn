@@ -1,0 +1,31 @@
+---
+id: "sahadhamma"
+headword: "Sahadhammā"
+base_headword: "Sahadhammā"
+disambiguator: ""
+letter: "S"
+section: "Sa."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/068.html"
+  source_order: 12006
+  source_anchor: 
+aliases:
+  - "Sahadhamma"
+link_candidates:
+  - "Devas"
+  - "Mahā Samayasutta"
+---
+
+# Sahadhammā
+
+## English source
+
+Sahadhammā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span>, present at the preaching of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Samayasutta</span>. DN.ii.260; DN­a.ii.690.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

@@ -1,0 +1,493 @@
+{
+  "epub": "DPPN-Complete.epub",
+  "opf_path": "Ops/content.opf",
+  "zip_member_count": 85,
+  "manifest": {
+    "ncx": {
+      "id": "ncx",
+      "href": "toc.ncx",
+      "media-type": "application/x-dtbncx+xml"
+    },
+    "style": {
+      "id": "style",
+      "href": "style.css",
+      "media-type": "text/css"
+    },
+    "coverstyle": {
+      "id": "coverstyle",
+      "href": "cover.css",
+      "media-type": "text/css"
+    },
+    "id001": {
+      "id": "id001",
+      "href": "001.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id002": {
+      "id": "id002",
+      "href": "002.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id003": {
+      "id": "id003",
+      "href": "003.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id004": {
+      "id": "id004",
+      "href": "004.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id005": {
+      "id": "id005",
+      "href": "005.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id006": {
+      "id": "id006",
+      "href": "006.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id007": {
+      "id": "id007",
+      "href": "007.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id008": {
+      "id": "id008",
+      "href": "008.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id009": {
+      "id": "id009",
+      "href": "009.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id010": {
+      "id": "id010",
+      "href": "010.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id011": {
+      "id": "id011",
+      "href": "011.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id012": {
+      "id": "id012",
+      "href": "012.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id013": {
+      "id": "id013",
+      "href": "013.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id014": {
+      "id": "id014",
+      "href": "014.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id015": {
+      "id": "id015",
+      "href": "015.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id016": {
+      "id": "id016",
+      "href": "016.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id017": {
+      "id": "id017",
+      "href": "017.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id018": {
+      "id": "id018",
+      "href": "018.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id019": {
+      "id": "id019",
+      "href": "019.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id020": {
+      "id": "id020",
+      "href": "020.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id021": {
+      "id": "id021",
+      "href": "021.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id022": {
+      "id": "id022",
+      "href": "022.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id023": {
+      "id": "id023",
+      "href": "023.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id024": {
+      "id": "id024",
+      "href": "024.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id025": {
+      "id": "id025",
+      "href": "025.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id026": {
+      "id": "id026",
+      "href": "026.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id027": {
+      "id": "id027",
+      "href": "027.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id028": {
+      "id": "id028",
+      "href": "028.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id029": {
+      "id": "id029",
+      "href": "029.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id030": {
+      "id": "id030",
+      "href": "030.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id031": {
+      "id": "id031",
+      "href": "031.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id032": {
+      "id": "id032",
+      "href": "032.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id033": {
+      "id": "id033",
+      "href": "033.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id034": {
+      "id": "id034",
+      "href": "034.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id035": {
+      "id": "id035",
+      "href": "035.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id036": {
+      "id": "id036",
+      "href": "036.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id037": {
+      "id": "id037",
+      "href": "037.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id038": {
+      "id": "id038",
+      "href": "038.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id039": {
+      "id": "id039",
+      "href": "039.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id040": {
+      "id": "id040",
+      "href": "040.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id041": {
+      "id": "id041",
+      "href": "041.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id042": {
+      "id": "id042",
+      "href": "042.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id043": {
+      "id": "id043",
+      "href": "043.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id044": {
+      "id": "id044",
+      "href": "044.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id045": {
+      "id": "id045",
+      "href": "045.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id046": {
+      "id": "id046",
+      "href": "046.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id047": {
+      "id": "id047",
+      "href": "047.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id048": {
+      "id": "id048",
+      "href": "048.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id049": {
+      "id": "id049",
+      "href": "049.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id050": {
+      "id": "id050",
+      "href": "050.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id051": {
+      "id": "id051",
+      "href": "051.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id052": {
+      "id": "id052",
+      "href": "052.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id053": {
+      "id": "id053",
+      "href": "053.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id054": {
+      "id": "id054",
+      "href": "054.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id055": {
+      "id": "id055",
+      "href": "055.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id056": {
+      "id": "id056",
+      "href": "056.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id057": {
+      "id": "id057",
+      "href": "057.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id058": {
+      "id": "id058",
+      "href": "058.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id059": {
+      "id": "id059",
+      "href": "059.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id060": {
+      "id": "id060",
+      "href": "060.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id061": {
+      "id": "id061",
+      "href": "061.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id062": {
+      "id": "id062",
+      "href": "062.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id063": {
+      "id": "id063",
+      "href": "063.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id064": {
+      "id": "id064",
+      "href": "064.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id065": {
+      "id": "id065",
+      "href": "065.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id066": {
+      "id": "id066",
+      "href": "066.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id067": {
+      "id": "id067",
+      "href": "067.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id068": {
+      "id": "id068",
+      "href": "068.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id069": {
+      "id": "id069",
+      "href": "069.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id070": {
+      "id": "id070",
+      "href": "070.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id071": {
+      "id": "id071",
+      "href": "071.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id072": {
+      "id": "id072",
+      "href": "072.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "id073": {
+      "id": "id073",
+      "href": "073.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "idnotes": {
+      "id": "idnotes",
+      "href": "notes.html",
+      "media-type": "application/xhtml+xml"
+    },
+    "idfont1": {
+      "id": "idfont1",
+      "href": "fonts/ITM_TMS_UNI-Bold.ttf",
+      "media-type": "application/vnd.ms-opentype"
+    },
+    "idfont2": {
+      "id": "idfont2",
+      "href": "fonts/ITM_TMS_UNI-BoldItalic.ttf",
+      "media-type": "application/vnd.ms-opentype"
+    },
+    "idfont3": {
+      "id": "idfont3",
+      "href": "fonts/ITM_TMS_UNI-Italic.ttf",
+      "media-type": "application/vnd.ms-opentype"
+    },
+    "idfont4": {
+      "id": "idfont4",
+      "href": "fonts/ITM_TMS_UNI-Regular.ttf",
+      "media-type": "application/vnd.ms-opentype"
+    },
+    "cover": {
+      "id": "cover",
+      "href": "images/cover.jpg",
+      "media-type": "image/jpeg"
+    }
+  },
+  "spine": [
+    "Ops/001.html",
+    "Ops/002.html",
+    "Ops/003.html",
+    "Ops/004.html",
+    "Ops/005.html",
+    "Ops/006.html",
+    "Ops/007.html",
+    "Ops/008.html",
+    "Ops/009.html",
+    "Ops/010.html",
+    "Ops/011.html",
+    "Ops/012.html",
+    "Ops/013.html",
+    "Ops/014.html",
+    "Ops/015.html",
+    "Ops/016.html",
+    "Ops/017.html",
+    "Ops/018.html",
+    "Ops/019.html",
+    "Ops/020.html",
+    "Ops/021.html",
+    "Ops/022.html",
+    "Ops/023.html",
+    "Ops/024.html",
+    "Ops/025.html",
+    "Ops/026.html",
+    "Ops/027.html",
+    "Ops/028.html",
+    "Ops/029.html",
+    "Ops/030.html",
+    "Ops/031.html",
+    "Ops/032.html",
+    "Ops/033.html",
+    "Ops/034.html",
+    "Ops/035.html",
+    "Ops/036.html",
+    "Ops/037.html",
+    "Ops/038.html",
+    "Ops/039.html",
+    "Ops/040.html",
+    "Ops/041.html",
+    "Ops/042.html",
+    "Ops/043.html",
+    "Ops/044.html",
+    "Ops/045.html",
+    "Ops/046.html",
+    "Ops/047.html",
+    "Ops/048.html",
+    "Ops/049.html",
+    "Ops/050.html",
+    "Ops/051.html",
+    "Ops/052.html",
+    "Ops/053.html",
+    "Ops/054.html",
+    "Ops/055.html",
+    "Ops/056.html",
+    "Ops/057.html",
+    "Ops/058.html",
+    "Ops/059.html",
+    "Ops/060.html",
+    "Ops/061.html",
+    "Ops/062.html",
+    "Ops/063.html",
+    "Ops/064.html",
+    "Ops/065.html",
+    "Ops/066.html",
+    "Ops/067.html",
+    "Ops/068.html",
+    "Ops/069.html",
+    "Ops/070.html",
+    "Ops/071.html",
+    "Ops/072.html",
+    "Ops/073.html",
+    "Ops/notes.html"
+  ]
+}

@@ -1,0 +1,29 @@
+---
+id: "samadhisutta-02"
+headword: "Samādhisutta 02"
+base_headword: "Samādhisutta"
+disambiguator: "02"
+letter: "S"
+section: "Sa."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/068.html"
+  source_order: 11774
+  source_anchor: 
+aliases:
+  - "Samadhisutta 02"
+link_candidates: []
+---
+
+# Samādhisutta 02
+
+## English source
+
+Samādhisutta 02. On the six forms of concentration. SN.iv.362.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

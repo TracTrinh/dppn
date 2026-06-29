@@ -1,0 +1,33 @@
+---
+id: "usinara"
+headword: "Usīnara"
+base_headword: "Usīnara"
+disambiguator: ""
+letter: "U"
+section: "U-Ū."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/023.html"
+  source_order: 2099
+  source_anchor: 
+aliases:
+  - "Usinara"
+link_candidates:
+  - "Benares"
+  - "Kassapa Buddha"
+  - "Mahā Kaṇhajātaka"
+  - "Sakka"
+---
+
+# Usīnara
+
+## English source
+
+Usīnara. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Benares</span> in the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kassapa Buddha</span>. His story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Kaṇhajātaka</span> (Ja.iv.181ff). He is mentioned in a list of kings who, although they gave great gifts, could not get beyond the domain of sense (Ja.vi.99). He is, however, elsewhere (Ja.vi.251) mentioned as having been born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sakka</span>’s heaven as a result of waiting diligently on Brahmins and recluses.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

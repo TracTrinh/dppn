@@ -1,0 +1,28 @@
+---
+id: "aniccasutta-09"
+headword: "Aniccasutta 09"
+base_headword: "Aniccasutta"
+disambiguator: "09"
+letter: "A"
+section: "A-An."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/015.html"
+  source_order: 438
+  source_anchor: 
+aliases: []
+link_candidates: []
+---
+
+# Aniccasutta 09
+
+## English source
+
+Aniccasutta 09. All is impermanent (SN.iv.28).
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

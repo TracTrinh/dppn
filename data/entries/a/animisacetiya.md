@@ -1,0 +1,30 @@
+---
+id: "animisacetiya"
+headword: "Animisacetiya"
+base_headword: "Animisacetiya"
+disambiguator: ""
+letter: "A"
+section: "A-An."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/015.html"
+  source_order: 449
+  source_anchor: 
+aliases: []
+link_candidates: []
+---
+
+# Animisacetiya
+
+## English source
+
+Animisacetiya. The shrine built on the spot where the Buddha spent a week after the Awakening, gazing unwinking at the seat at the foot of the Bodhi-tree, the seat of his great victory.
+
+It was to the north of the Bodhi-tree. Ja.i.77.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

@@ -1,0 +1,350 @@
+{
+  "an": {
+    "source_key": "AN",
+    "value": "Aṅguttara Nikāya, 5 vols. (PTS)."
+  },
+  "an a": {
+    "source_key": "AN-a",
+    "value": "Manorathapūraṇī, Aṅguttara Commentary, 2 vols. (SHB)."
+  },
+  "abhidh s": {
+    "source_key": "Abhidh-s",
+    "value": "Abhidhammatthasaṅgaha (PTS Journal, 1884)."
+  },
+  "anag": {
+    "source_key": "Anāg",
+    "value": "Anāgatavaṁsa (PTS Journal, 1886)."
+  },
+  "ap": {
+    "source_key": "Ap",
+    "value": "Apadāna, 2 vols. (PTS)."
+  },
+  "ap a": {
+    "source_key": "Ap-a",
+    "value": "Apadāna Commentary (SHB)."
+  },
+  "avs": {
+    "source_key": "Avś",
+    "value": "Avadāna Śataka, ed. Speyer (Bibl. Buddhica)."
+  },
+  "bv": {
+    "source_key": "Bv",
+    "value": "Buddhavaṁsa (PTS)."
+  },
+  "bv a": {
+    "source_key": "Bv-a",
+    "value": "Buddhavaṁsa Commentary (SHB)."
+  },
+  "cagi": {
+    "source_key": "CAGI",
+    "value": "Cunningham’s Ancient Geography of India, ed. Majumdar (Calcutta)."
+  },
+  "cnid": {
+    "source_key": "CNid",
+    "value": "Culla-Niddesa (PTS)."
+  },
+  "cv": {
+    "source_key": "Cv",
+    "value": "Cūlavaṁsa, ed."
+  },
+  "cv trs": {
+    "source_key": "Cv.Trs.",
+    "value": "Cūlavaṁsa, translated by Geiger, 2 vols. (PTS)."
+  },
+  "cp": {
+    "source_key": "Cp",
+    "value": "Cariyāpiṭaka (PTS)."
+  },
+  "cp a": {
+    "source_key": "Cp-a",
+    "value": "Cariyāpiṭaka Commentary (SHB)."
+  },
+  "dial": {
+    "source_key": "Dial",
+    "value": "Dialogues of the Buddha, 3 vols. (Oxford)."
+  },
+  "dn": {
+    "source_key": "DN",
+    "value": "Dīgha Nikāya, 3 vols. (PTS)."
+  },
+  "dn a": {
+    "source_key": "DN-a",
+    "value": "Sumaṅgala Vilāsinī, 3 vols. (PTS)."
+  },
+  "dath": {
+    "source_key": "Dāth",
+    "value": "Dāṭhāvaṁsa (PTS Journal, 1884)."
+  },
+  "dhp a": {
+    "source_key": "Dhp-a",
+    "value": "Dhammapadaṭṭhakathā, 5 vols. (PTS)."
+  },
+  "ds": {
+    "source_key": "Ds",
+    "value": "Dhammasaṅgani (PTS)."
+  },
+  "ds a": {
+    "source_key": "Ds-a",
+    "value": "Atthasālinī (PTS)."
+  },
+  "dpv": {
+    "source_key": "Dpv",
+    "value": "Dīpavaṁsa, ed. Oldenberg (Williams and Norgate)."
+  },
+  "divy": {
+    "source_key": "Divy",
+    "value": "Divyāvadāna, ed. Cowell and Neill (Cambridge)."
+  },
+  "ep zey": {
+    "source_key": "Ep. Zey",
+    "value": "Epigraphia Zeylanica (Oxford)."
+  },
+  "ere": {
+    "source_key": "ERE",
+    "value": "Encyclopedia of Religion and Ethics."
+  },
+  "geog": {
+    "source_key": "Geog",
+    "value": "Geography of Early Buddhism."
+  },
+  "gs": {
+    "source_key": "GS",
+    "value": "Gradual Sayings, 5 vols. (PTS)."
+  },
+  "gv": {
+    "source_key": "Gv",
+    "value": "Gandhavaṁsa (PTS Journal, 1886)."
+  },
+  "ihq": {
+    "source_key": "IHQ",
+    "value": "Indian Historical Quarterly (Calcutta)."
+  },
+  "ind an": {
+    "source_key": "Ind.An.",
+    "value": "Indian Antiquary."
+  },
+  "iti": {
+    "source_key": "Iti",
+    "value": "Itivuttaka (PTS)."
+  },
+  "iti a": {
+    "source_key": "Iti-a",
+    "value": "Itivuttaka Commentary (PTS)."
+  },
+  "ja": {
+    "source_key": "JA",
+    "value": "Journal Asiatique."
+  },
+  "jm": {
+    "source_key": "Jm",
+    "value": "Jātakamālā."
+  },
+  "jpts": {
+    "source_key": "JPTS",
+    "value": "Journal of the Pali Text Society."
+  },
+  "jras": {
+    "source_key": "JRAS",
+    "value": "Journal of the Royal Asiatic Society."
+  },
+  "khp a": {
+    "source_key": "Khp-a",
+    "value": "Khuddakapāṭha Commentary (PTS)."
+  },
+  "ks": {
+    "source_key": "KS",
+    "value": "Kindred Sayings, 5 vols. (PTS)."
+  },
+  "kvu": {
+    "source_key": "Kvu",
+    "value": "Kathāvatthu (PTS)."
+  },
+  "lal": {
+    "source_key": "Lal",
+    "value": "Lalita Vistara, ed. S. Lefmann."
+  },
+  "mn": {
+    "source_key": "MN",
+    "value": "Majjhima Nikāya, 3 vols. (PTS)."
+  },
+  "mn a": {
+    "source_key": "MN-a",
+    "value": "Papañcasūdanī, Majjhima Commentary, 2 vols. (Aluvihāra Series, Colombo)."
+  },
+  "mbv": {
+    "source_key": "Mbv",
+    "value": "Mahābodhivaṁsa (PTS)."
+  },
+  "mhv": {
+    "source_key": "Mhv",
+    "value": "Mahāvaṁsa, ed. Geiger (PTS)."
+  },
+  "mhv trs": {
+    "source_key": "Mhv.Trs.",
+    "value": "Mahāvaṁsa Translation, by Geiger (PTS)."
+  },
+  "mil": {
+    "source_key": "Mil",
+    "value": "Milindapañha, ed. Trenckner (Williams and Norgate)."
+  },
+  "mnid": {
+    "source_key": "MNid",
+    "value": "Mahā Niddesa, 2 vols. (PTS)."
+  },
+  "mnid a": {
+    "source_key": "MNid-a",
+    "value": "Mahā Niddesa Commentary (SHB)."
+  },
+  "mhv t": {
+    "source_key": "Mhv-ṭ",
+    "value": "Mahāvaṁsa Ṭīkā (PTS)."
+  },
+  "mvu": {
+    "source_key": "Mvu",
+    "value": "Mahāvastu, ed."
+  },
+  "netti": {
+    "source_key": "Netti",
+    "value": "Nettippakaraṇa (PTS). Nid-a. see MNid-a."
+  },
+  "ptsped": {
+    "source_key": "PTSPED",
+    "value": "Pali Text Society, Pali-English Dictionary."
+  },
+  "phai": {
+    "source_key": "PHAI",
+    "value": "Political History of Ancient India, by Chaudhuri, 2nd. ed. (Calcutta)."
+  },
+  "plc": {
+    "source_key": "PLC",
+    "value": "The Pāli Literature of Ceylon, by Malalasekera (R.A.S.)."
+  },
+  "ps": {
+    "source_key": "Ps",
+    "value": "Paṭisambhidāmagga, 2 vols. (PTS)."
+  },
+  "ps a": {
+    "source_key": "Ps-a",
+    "value": "Paṭisambhidāmagga Commentary (SHB)."
+  },
+  "pug": {
+    "source_key": "Pug",
+    "value": "Puggalapaññatti (PTS)."
+  },
+  "pv": {
+    "source_key": "Pv",
+    "value": "Petavatthu (PTS)."
+  },
+  "pv a": {
+    "source_key": "Pv-a",
+    "value": "Petavatthu Commentary (PTS)."
+  },
+  "ras": {
+    "source_key": "RAS",
+    "value": "Royal Asiatic Society"
+  },
+  "sbe": {
+    "source_key": "SBE",
+    "value": "Sacred Books of the East."
+  },
+  "sn": {
+    "source_key": "SN",
+    "value": "Saṁyutta Nikaya, 5 vols. (PTS)."
+  },
+  "sn a": {
+    "source_key": "SN-a",
+    "value": "Sāratthappakāsinī, Saṁyutta Commentary."
+  },
+  "saddhamma s": {
+    "source_key": "Saddhamma-s",
+    "value": "Saddhammasaṅgaha (PTS Journal, 1890)."
+  },
+  "sas": {
+    "source_key": "Sās",
+    "value": "Sāsanavaṁsa (PTS)."
+  },
+  "sisters": {
+    "source_key": "Sisters",
+    "value": "Psalms of the Sisters, by Mrs. Rhys Davids (PTS)."
+  },
+  "sp": {
+    "source_key": "Sp",
+    "value": "Samantapāsādikā, 4 vols. (PTS)."
+  },
+  "snp": {
+    "source_key": "Snp",
+    "value": "Sutta Nipāta (PTS)."
+  },
+  "snp a": {
+    "source_key": "Snp-a",
+    "value": "Sutta Nipāta Commentary, 2 vols. (PTS)."
+  },
+  "svd": {
+    "source_key": "Svd",
+    "value": "Sāsanavaṁsadīpa, by Vimalasāra Thera (Colombo, 1929)."
+  },
+  "thag": {
+    "source_key": "Thag",
+    "value": "Theragāthā (PTS)."
+  },
+  "thag a": {
+    "source_key": "Thag-a",
+    "value": "Theragāthā Commentary, 2 vols. (SHB)."
+  },
+  "thig": {
+    "source_key": "Thīg",
+    "value": "Therīgāthā (PTS)."
+  },
+  "thig a": {
+    "source_key": "Thīg-a",
+    "value": "Therīgāthā Commentary (PTS)."
+  },
+  "thomas": {
+    "source_key": "Thomas",
+    "value": "The Life of Buddha (Kegan Paul)."
+  },
+  "ud": {
+    "source_key": "Ud",
+    "value": "Udāna (PTS)."
+  },
+  "ud a": {
+    "source_key": "Ud-a",
+    "value": "Udāna Commentary (PTS)."
+  },
+  "vibh a": {
+    "source_key": "Vibh-a",
+    "value": "Sammoha-Vinodanī, Vibhaṅga Commentary (PTS)."
+  },
+  "vin": {
+    "source_key": "Vin",
+    "value": "Vinaya Piṭaka, 5 vols., ed. Oldenberg (Williams and Norgate)."
+  },
+  "vsm": {
+    "source_key": "Vsm",
+    "value": "Visuddhimagga, 2 vols. (PTS)."
+  },
+  "vt": {
+    "source_key": "VT",
+    "value": "Vinaya Texts, trs. by Rhys Davids and Oldenberg, 3 vols. (SBE)."
+  },
+  "vv": {
+    "source_key": "Vv",
+    "value": "Vimānavatthu (PTS)."
+  },
+  "vv a": {
+    "source_key": "Vv-a",
+    "value": "Vimānavatthu Commentary (PTS)."
+  },
+  "zdmg": {
+    "source_key": "ZDMG",
+    "value": "Zeitschrift der Deutschen Morgenländischen Gesellschaft."
+  },
+  "pts": {
+    "source_key": "PTS",
+    "value": "published by the Pāli Text Society"
+  },
+  "shb": {
+    "source_key": "SHB",
+    "value": "published in the Simon Hewavitarne Bequest Series (Colombo)"
+  }
+}

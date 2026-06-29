@@ -1,0 +1,37 @@
+---
+id: "aggavamsa"
+headword: "Aggavaṁsa"
+base_headword: "Aggavaṁsa"
+disambiguator: ""
+letter: "A"
+section: "A-An."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/015.html"
+  source_order: 70
+  source_anchor: 
+aliases:
+  - "Aggavamsa"
+link_candidates:
+  - "Gandhavaṁsa"
+  - "Jambudīpa"
+  - "Jardine Prize Essay"
+  - "Narapatisithu"
+  - "Report"
+  - "Saddanīti"
+---
+
+# Aggavaṁsa
+
+## English source
+
+Aggavaṁsa. Thera of Pagan. He wrote a Pāli grammar, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saddanīti</span>, in 1154 (Gv.63; SvD.v.1238; Sās.74). He was tutor to King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Narapatisithu</span> of Pagan (Bode, 16).
+
+The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gandhavaṁsa</span> calls him a native of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Jambudīpa</span> (p.67), but his name occurs among the famous residents in the retired monastery of the northern plateau above Pagan, the cradle of Pāli Burmese literature. Forchhammer <span class="dppn-term dppn-term-t18" data-dppn-term-pos="5" data-dppn-term-class="t18">Report</span>, p.2; <span class="dppn-term dppn-term-t18" data-dppn-term-pos="6" data-dppn-term-class="t18">Jardine Prize Essay</span>, p.34.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

@@ -1,0 +1,31 @@
+---
+id: "ekanjalika"
+headword: "Ekañjalika"
+base_headword: "Ekañjalika"
+disambiguator: ""
+letter: "E"
+section: "E."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/024.html"
+  source_order: 2119
+  source_anchor: 
+aliases:
+  - "Ekanjalika"
+link_candidates:
+  - "Ekañjaliya"
+  - "kappas"
+---
+
+# Ekañjalika
+
+## English source
+
+Ekañjalika. A king of fourteen <span class="dppn-term dppn-term-t18" data-dppn-term-pos="1" data-dppn-term-class="t18">kappas</span> ago, a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ekañjaliya</span> Thera. Ap.i.236.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

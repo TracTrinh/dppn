@@ -1,0 +1,64 @@
+---
+id: "bhesakalavana"
+headword: "Bhesakalāvana"
+base_headword: "Bhesakalāvana"
+disambiguator: ""
+letter: "B"
+section: "Bh."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/055.html"
+  source_order: 8377
+  source_anchor: 
+aliases:
+  - "Bhesakalavana"
+link_candidates:
+  - "Anuruddha"
+  - "Bhagga"
+  - "Bhesakalā"
+  - "Bhesakalāvana"
+  - "Bhīsanikāvana"
+  - "Bodhi"
+  - "Buddhavaṁsa Commentary"
+  - "Ceti"
+  - "Divyāvadāna"
+  - "Gotama Buddha"
+  - "Kokanada"
+  - "Mahā Moggallāna"
+  - "Māra"
+  - "Māratajjanīyasutta"
+  - "Nakulamātā"
+  - "Nakulapitā"
+  - "Pācīnavaṁsadāya"
+  - "Siṅgālapitā"
+  - "Suṁsumāragiri"
+  - "Yakkhinī"
+  - "vassa"
+---
+
+# Bhesakalāvana
+
+## English source
+
+Bhesakalāvana. A grove in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhagga</span> country. It contained a Deer Park wherein <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Gotama Buddha</span> stayed, on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Suṁsumāragiri</span>. Near by was the house in which lived <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Nakulapitā</span> and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Nakulamātā</span> (AN.ii.61; iii.295; SN.iii.1; iv.116).
+
+Once, when the Buddha was at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bhesakalāvana</span>, he saw, with his divine eye, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Anuruddha</span> dwelling in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Pācīnavaṁsadāya</span> in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Ceti</span> country, and appeared before him to encourage him in his meditations (AN.iv.228ff.; Ja.iii.157).
+
+The palace <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Kokanada</span>, built for Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Bodhi</span>, was in the neighbourhood of the grove (Vin.ii.127; Dhp­a.iii.134, etc.).
+
+It was while staying in this grove that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Mahā Moggallāna</span> was molested by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Māra</span> and he preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Māratajjanīyasutta</span> (MN.i.332).
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Siṅgālapitā</span> is said to have retired to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term-class="t14">Bhesakalāvana</span> for his meditations (Thag­a.i.70).
+
+The grove received its name from the fact that its presiding spirit was a <span class="dppn-term dppn-term-t18" data-dppn-term-pos="17" data-dppn-term-class="t18">Yakkhinī</span> called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-term-class="t14">Bhesakalā</span> (SN­a.ii.181).
+
+According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term-class="t14">Buddhavaṁsa Commentary</span> (Bv­a.3), the Buddha spent the eighth <span class="dppn-term dppn-term-t18" data-dppn-term-pos="20" data-dppn-term-class="t18">vassa</span> at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" data-dppn-term-class="t14">Bhesakalāvana</span>.
+
+The <span class="dppn-term dppn-term-t18" data-dppn-term-pos="22" data-dppn-term-class="t18">Divyāvadāna</span> calls it <span class="dppn-term dppn-term-t18" data-dppn-term-pos="23" data-dppn-term-class="t18">Bhīsanikāvana</span>. Divy.182.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

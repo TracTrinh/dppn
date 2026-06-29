@@ -1,0 +1,32 @@
+---
+id: "cammasatakajataka"
+headword: "Cammasātakajātaka"
+base_headword: "Cammasātakajātaka"
+disambiguator: ""
+letter: "C"
+section: "C."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/034.html"
+  source_order: 4324
+  source_anchor: 
+aliases:
+  - "Cammasatakajataka"
+link_candidates:
+  - "Sāvatthī"
+---
+
+# Cammasātakajātaka
+
+## English source
+
+Cammasātakajātaka (Ja 324). Once a religious mendicant, clad in a leather garment, saw a ram falling back before him, and imagining that the animal was doing him obeisance, uttered its praises. The Bodhisatta, who was a merchant, hearing this, warned the ascetic that the ram was only preparing to attack him, and even as he was speaking the animal charged the mendicant and felled him to the ground.
+
+The story was related in reference to a monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, to whom a similar thing happened while he was wearing a leather jerkin. Ja.iii.82ff.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes

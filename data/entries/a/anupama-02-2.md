@@ -1,0 +1,32 @@
+---
+id: "anupama-02-2"
+headword: "Anupamā 02"
+base_headword: "Anupamā"
+disambiguator: "02"
+letter: "A"
+section: "A-An."
+status: "untranslated"
+redirect_to: 
+source:
+  epub_file: "Ops/016.html"
+  source_order: 484
+  source_anchor: 
+aliases:
+  - "Anupama 02"
+link_candidates:
+  - "Anoma"
+  - "Anupama"
+  - "Sumana Buddha"
+---
+
+# Anupamā 02
+
+## English source
+
+Anupamā 02. Daughter of the banker <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anupama</span> (10), of the village <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anoma</span>. She gave a meal of milk-rice to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sumana Buddha</span> just prior to his Awakening. Bv­a.125.
+
+## Vietnamese translation
+
+Chưa dịch.
+
+## Notes
