@@ -5,7 +5,7 @@ base_headword: "Sabhiyasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sabhiyasutta 02. Records the discussion between <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhiyasutta 02. Ghi lại cuộc đàm luận giữa Sabhiya Kaccāna (Sabhiya 2) và Vacchagotta. SN.iv.401f.
 
 ## Notes

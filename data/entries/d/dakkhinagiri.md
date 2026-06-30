@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇāgiri"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -53,6 +53,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇāgiri (*v.l.* Dakkhiṇagiri). Một *janapada* (quận) ở Ấn Độ, thủ phủ của nó là Ujjenī, và Asoka cai trị nơi này với tư cách Phó vương. Nó cũng bao gồm thành phố Vedisā (Vin-a.i.70; Mhv.xiii.5).
+
+Dakkhiṇāgiri nằm về phía nam Rājagaha, bên kia các ngọn đồi bao quanh thành phố, do đó có tên như vậy (Snp­a.i.136; MN­a.ii.795; SN­a.i.188). Trong quận này có làng Bà-la-môn Ekanāḷā (Snp., p.13). Con đường từ Sāvatthī đến Rājagaha đi qua Dakkhiṇāgiri, và Đức Phật đã đi qua đó trong các chuyến du hành định kỳ của Ngài qua Magadha, trú tại Dakkhiṇāgiri *vihāra* ở Ekanāḷā (SN.i.172; SN­a.ii.133; Vin.i.80). Chính trong một chuyến du hành như vậy, Ngài đã chuyển hóa Kasī Bhāradvāja và Dhammasava (*q.v.*) cùng cha của vị ấy. Trong một dịp khác, Đức Phật thấy Magadhakhetta, điều này gợi cho Ngài ý tưởng thiết kế y của một vị sư giống như một cánh đồng (Vin.i.287). Ānanda cũng được nói là đã đi qua Dakkhiṇāgiri, thu nhận một số đông thanh niên vào Saṅgha; tuy nhiên, họ dường như không thật sự nghiêm túc trong ý định của mình, vì hành vi của họ khiến Ānanda bị Mahā Kassapa khiển trách (SN.ii.217f). Về sau, chúng ta thấy Puṇṇa cùng một đoàn tùy tùng đông đảo ở Dakkhiṇāgiri từ chối tham gia các quyết định của Hội đồng Rājagaha, và thích đi theo Dhamma theo cách hiểu riêng của mình (Vin.ii.289).
+
+Dakkhiṇāgiri là nơi cư trú của Nandamātā ở Veḷukaṇṭakī, và bà được cả Sāriputta lẫn Moggallāna viếng thăm trong một chuyến du hành ở quận này (AN.iv.64). Tại Dakkhiṇāgiri, Sāriputta nghe nói về sự thiếu nhiệt tâm của Dhānañjāni (MN.ii.185; xem Ja.i.224 về một sự kiện khác liên quan đến chuyến du hành của Sāriputta). Arāmadūsajātaka (*q.v.*) được thuyết tại Dakkhiṇāgiri.
+
+Dakkhiṇāgiri *vihāra* trong một thời gian dài là một trung tâm tu viện lớn, và khi đặt nền móng Mahā Thūpa, có bốn mươi nghìn vị sư từ đó hiện diện, do Mahā Saṅgharakkhita dẫn đầu. Mhv.xxix.35.
 
 ## Notes

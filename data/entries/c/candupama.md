@@ -5,7 +5,7 @@ base_headword: "Candūpama"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candūpama *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candūpama *v.l.* Candasama. Một vị vua của hai mươi ba *kappa* trước, một tiền kiếp của Vaṇṇakāraka Thera. Ap.i.220.
 
 ## Notes

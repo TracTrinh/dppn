@@ -5,7 +5,7 @@ base_headword: "Saccasaññaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saccasaññaka Thera. An *Arahant*. Twenty-nine *kappas* ago he heard <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccasaññaka Thera. Một vị *Arahant*. Hai mươi chín *kappa* trước ngài đã nghe Vessabhū Buddha thuyết pháp, và được tái sinh vào cõi *Deva* (chư thiên). Hai mươi sáu *kappa* trước ngài là Vua Ekaphusita (cách đọc khác: Ekapaññita). Ap.i.209.
 
 ## Notes

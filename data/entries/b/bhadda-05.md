@@ -5,7 +5,7 @@ base_headword: "Bhadda"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhadda 05. Commander-in-chief of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadda 05. Vị tổng tư lệnh của Sena I. Ông đã xây dựng Bhaddasenāpati *pariveṇa* và quyên tặng nó cùng với những người hầu hạ và các khoản thu. Cv.l.82.
 
 ## Notes

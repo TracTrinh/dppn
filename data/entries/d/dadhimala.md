@@ -5,7 +5,7 @@ base_headword: "Dadhimāla"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dadhimāla (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dadhimāla (Dadhimāli). Một biển, được gọi như vậy vì nó lấp lánh như sữa hoặc sữa đông. Một trong những biển được nhắc đến trong Suppārakajātaka (Ja 463, Ja.iv.140).
 
 ## Notes

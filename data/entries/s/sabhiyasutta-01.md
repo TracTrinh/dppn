@@ -5,7 +5,7 @@ base_headword: "Sabhiyasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -38,6 +38,12 @@ The questions contained in the *Sutta* had been asked and answered in the time o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhiyasutta 01. *Sutta* thứ sáu của Mahā Vagga thuộc Suttanipāta (Snp., pp. 91f). Một vị *Devatā*, người mà trong tiền kiếp từng là người thân của Sabhiya (xem Sabhiya 1), đã hỏi ngài một loạt các câu hỏi và khuyên ngài nên gia nhập Tăng đoàn của bất kỳ vị sa-môn nào có thể trả lời chúng một cách thỏa đáng. Sabhiya đã lang thang đi hỏi các câu hỏi của mình cho một vài vị đạo sư nổi tiếng; không tìm được sự thỏa mãn, ngài đã đến viếng thăm Đức Phật tại Veḷuvana ở Rājagaha và được phép hỏi bất cứ điều gì ngài muốn, Gotama Buddha hứa sẽ giải đáp những khó khăn của ngài. Sau đó là một loạt các câu hỏi được Đức Phật trả lời. Sabhiya, cuối cùng, đã xin phép được gia nhập Tăng đoàn của Đức Phật. Sự cho phép này được ban ra, và sau khoảng thời gian thử thách thông thường là bốn tháng, ngài trở thành một vị *Arahant*.
+
+Theo Chú giải Theragāthā (Thag­a.i.382), cũng được trích dẫn trong Chú giải Suttanipāta, các câu hỏi được đặt ra bởi mẹ của Sabhiya, người, cảm thấy chán ghét thân phận nữ nhi của mình, đã phát triển các *jhāna* và được tái sinh vào cõi Phạm thiên. Nhưng chính Chú giải Suttanipāta (Snp­a.ii.421) nói rằng chúng được truyền dạy cho Sabhiya bởi một vị Phạm thiên *Anāgāmī*, người từng là một bạn đồng tu của Sabhiya trong thời kỳ giáo pháp của Kassapa Buddha. *Sutta* này cũng được gọi là *Sabhiyapucchā*, và được đưa ra (ví dụ: DN­a.i.155) như là một ví dụ về *sabbaññupavāraṇa* của Đức Phật, sự sẵn sàng của Ngài để trả lời bất kỳ câu hỏi nào mà không có bất kỳ sự hạn chế nào.
+
+Có nói rằng (Thag­a.i.427) Yasadatta, người bạn đồng hành của Sabhiya, đã có mặt tại cuộc đàm luận với Đức Phật và lắng nghe một cách háo hức với hy vọng có cơ hội để bắt bẻ. Nhưng Đức Phật đã đọc được suy nghĩ của ông và đã răn dạy ông ở phần cuối của *Sutta*.
+
+Những câu hỏi chứa đựng trong *Sutta* này cũng đã từng được hỏi và trả lời trong thời của Kassapa Buddha, nhưng, trong khi các câu hỏi vẫn còn lưu lại, các câu trả lời đã biến mất. Vibh­a., p. 432.
 
 ## Notes

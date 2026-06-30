@@ -5,7 +5,7 @@ base_headword: "Ekabījīsutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,8 @@ The text calls this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekabījīsutta, Ekābhiññāsutta. Nói về năm quyền chủ đạo (*indriyāni*) - tín, tấn, niệm, định và tuệ - cùng các kết quả phát sinh từ việc tu tập chúng ở mức độ nhiều hay ít khác nhau (SN.v.204).
+
+Bản văn gọi kinh này là Ekābhiññāsutta, nhưng không có thẩm quyền. Xem KS.v.180, n.1.
 
 ## Notes

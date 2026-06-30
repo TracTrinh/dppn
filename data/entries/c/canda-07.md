@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "07"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Canda 07. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 07. Một ngọn núi ở Himavā, nơi *Kinnara* Canda sống cùng với vợ của mình (Ja.iv.283, 288). Nó cũng được gọi là Candaka (Ja.v.162) và Candapassa (Ja.v.38).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddiya"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaddiya 01.<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiya 01. Bhaddiya Thera. Một vị *Anāgāmī*, một trong bảy người đã trở thành các vị *Arahant* ngay khi họ được sinh ra ở Avihā. SN.i.35, 60; Thīg­a. 222, etc.
 
 ## Notes

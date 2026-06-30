@@ -5,7 +5,7 @@ base_headword: "Caṅgoṭakiya Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Caṅgoṭakiya Thera. An *Arahant*. Ninety-four *kappas* ago he lived near the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅgoṭakiya Thera. Một *Arahant*. Chín mươi tư *kappa* trước vị ấy sống gần biển, và nhìn thấy Siddhattha Buddha, đã cúng dường ngài một bó hoa. Ap.i.235.
 
 ## Notes

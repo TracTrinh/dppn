@@ -5,7 +5,7 @@ base_headword: "Candimāsutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candimāsutta. Records the incident of the Buddha’s request to <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candimāsutta. Ghi lại sự kiện Đức Phật yêu cầu Rāhu giải thoát cho Candimā. (SN.i.50)
 
 ## Notes

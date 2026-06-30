@@ -5,7 +5,7 @@ base_headword: "Caṇḍavajji"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Caṇḍavajji. The son of a minister of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍavajji. Con trai của một vị quan đại thần ở Pāṭaliputta và là bạn của Siggava. Hai người bạn đã gia nhập Tăng đoàn dưới sự chỉ dẫn của Soṇaka và trở nên rất thành tựu. Về sau, Caṇḍavajji đã dạy cho Moggaliputtatissa *Suttapiṭaka* và *Abhidhammapiṭaka*. Mhv.v.99, 121, 129, 150; Dpv.iv.46; v.58, 70, 86; Vin-a.i.36, 40, 235.
 
 ## Notes

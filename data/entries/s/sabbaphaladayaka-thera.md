@@ -5,7 +5,7 @@ base_headword: "Sabbaphaladāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbaphaladāyaka Thera. An *Arahant*. He is evidently identical with <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbaphaladāyaka Thera. Một vị *Arahant*. Ngài hiển nhiên đồng nhất với Suppiya Thera (xem từ này). Ap.ii.452f.
 
 ## Notes

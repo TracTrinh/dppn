@@ -5,7 +5,7 @@ base_headword: "Saccanāmā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saccanāmā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccanāmā. Cách đọc khác: Sabbanāmā. Một trong hai nữ đệ tử hàng đầu của Dhammadassī Buddha. Bv.xvi.19; Ja.i.39.
 
 ## Notes

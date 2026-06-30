@@ -5,7 +5,7 @@ base_headword: "Candikāputta Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,8 @@ The Commentary (AN­a.ii.808) says that his mother’s name was <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candikāputta Thera. Một bài thuyết pháp về giáo lý của Devadatta, do Candikāputta thuyết giảng cho các nhà sư, được ghi lại trong Silāyūpasutta (AN.iv.402f) (*q.v.*).
+
+Bản Chú giải (AN­a.ii.808) nói rằng tên của mẹ vị ấy là Candikā, do đó mà có tên của chính vị ấy.
 
 ## Notes

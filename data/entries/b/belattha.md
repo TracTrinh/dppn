@@ -5,7 +5,7 @@ base_headword: "Belaṭṭha"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Belaṭṭha. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Belaṭṭha. Cha của Sañjaya (*q.v.*). Snp­a.ii.423.
 
 ## Notes

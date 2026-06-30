@@ -5,7 +5,7 @@ base_headword: "Bandhanāsutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bandhanāsutta. Those who regard the body, feelings, perceptions, etc., as self,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhanāsutta. Những ai coi sắc, thọ, tưởng, v.v..., là tự ngã, đều bị trói buộc bởi những gông cùm; những ai không coi như vậy thì được giải thoát. SN.iii.164.
 
 ## Notes

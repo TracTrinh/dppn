@@ -5,7 +5,7 @@ base_headword: "Bhaddāli Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -32,6 +32,10 @@ Thirty *kappas* ago he met <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddāli Thera. Khi Đức Phật, tại Jetavana, đặt ra điều luật rằng các tỳ-kheo nên ăn một bữa một ngày và ăn vào buổi sáng, Bhaddāli đã phản đối và từ chối giữ điều luật này vì ông nói rằng, khi ăn như vậy, ông sẽ trở thành con mồi của những sự băn khoăn và nghi ngờ. Trong ba tháng ông đã tránh mặt Đức Phật, cho đến tận trước lúc Đức Phật đang bắt đầu một chuyến hành trình, Bhaddāli, hành động theo lời khuyên của các vị tỳ-kheo đồng tu của mình, đã thú nhận lỗi lầm của mình với Đức Phật và cầu xin sự tha thứ (MN.i.437ff). Đức Phật đã ca ngợi hành động này và thuyết giảng cho ông bài Bhaddālisutta (*q.v.*).
+
+Người ta nói (MN­a.ii.648) rằng, trong một kiếp trước, Bhaddāli từng là một con quạ, do đó trong kiếp này ông luôn luôn đói và được biết đến giữa các bạn đồng tu của mình như là Người Ăn Khỏe (*Mahā Chātaka*).
+
+Ba mươi *kappa* trước ông đã gặp Sumedha Buddha trong khu rừng, đang chìm đắm trong thiền định, và, sau khi dọn dẹp gọn gàng nơi Đức Phật đang ngồi, ông đã dựng lên trên ngài một rạp che. Ap.ii.365f.
 
 ## Notes

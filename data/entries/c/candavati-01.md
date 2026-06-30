@@ -5,7 +5,7 @@ base_headword: "Candavatī"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candavatī 01. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candavatī 01. Vợ của Assalāyana và là mẹ của Mahā Koṭṭhita. Ap.ii.480.
 
 ## Notes

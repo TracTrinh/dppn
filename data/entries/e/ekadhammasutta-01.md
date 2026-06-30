@@ -5,7 +5,7 @@ base_headword: "Ekadhammasutta"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -23,6 +23,6 @@ Ekadhammasutta 01. There is no other single condition which, when developed, is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammasutta 01. Không có một điều kiện đơn lẻ nào khác, khi được tu tập, đưa đến việc đoạn trừ các trói buộc nhiều như bảy *bojjhaṅga*. SN.v.88.
 
 ## Notes

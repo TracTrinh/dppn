@@ -5,7 +5,7 @@ base_headword: "Candasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Candasutta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candasutta (Candimasutta). Giống như mặt trăng sáng hơn rất nhiều so với những vì sao, sự không phóng dật cũng là điều tốt nhất trong các điều kiện thiện ích. SN.v.44.
 
 ## Notes

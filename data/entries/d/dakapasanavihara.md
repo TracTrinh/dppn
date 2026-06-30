@@ -5,7 +5,7 @@ base_headword: "Dakapāsāṇavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dakapāsāṇavihāra. A monastery in West Ceylon built by <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakapāsāṇavihāra. Một tu viện ở Tây Ceylon do Mahallakanāga xây dựng. Mhv.xxxv.124.
 
 ## Notes

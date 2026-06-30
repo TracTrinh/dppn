@@ -5,7 +5,7 @@ base_headword: "Candana"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Candana 03. A monk of ninety-one *kappas* ago to whom <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candana 03. Một nhà sư của chín mươi mốt *kappa* trước mà Upāhanadāyaka đã cúng dường một đôi dép. Ap.i.228.
 
 ## Notes

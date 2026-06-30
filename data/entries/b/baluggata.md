@@ -5,7 +5,7 @@ base_headword: "Baluggata"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Baluggata. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baluggata. *v.l.* Khaluggata. Mười lăm *kappa* trước, có mười hai vị vua mang tên này, là những tiền kiếp của Ugga Thera (Thag­a.i.175; Ap.i.165).
 
 ## Notes

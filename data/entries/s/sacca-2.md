@@ -5,7 +5,7 @@ base_headword: "Saccā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,8 @@ She was sister to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccā. Một thiếu nữ Licchavī, con gái của một nam Nigaṇṭha và một nữ Nigaṇṭhī.
+
+Bà là chị em với Saccaka. Bà là một người hay biện luận, và, một ngày nọ, bà cùng với các chị em của mình, Paṭācārā, Lolā và Avavādakā, đã tham gia vào một cuộc tranh luận với Sāriputta. Sau khi bị đánh bại, bà đã gia nhập Tăng đoàn và trở thành một vị *Arahant*. Ja.iii.1f.
 
 ## Notes

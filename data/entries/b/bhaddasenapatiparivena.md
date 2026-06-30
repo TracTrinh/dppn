@@ -5,7 +5,7 @@ base_headword: "Bhaddasenāpatipariveṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddasenāpatipariveṇa. A monastic building erected and endowed by <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasenāpatipariveṇa. Một công trình tu viện do Bhadda, vị tướng của Sena I, xây dựng và quyên tặng. Cv.l.82.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabbadatta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sabbadatta. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbadatta. Nhà vua của Rammanagara (Benares). Ông là cha của Bodhisatta trong tiền kiếp làm Yuvañjaya (xem từ này), và được nhận diện là Suddhodana. Ja.iv.119f., 123.
 
 ## Notes

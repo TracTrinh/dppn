@@ -5,7 +5,7 @@ base_headword: "Bhaddā Kapilānī Therī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -73,6 +73,18 @@ Later, she was the queen of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddā Kapilānī Therī. Con gái của một người Bà-la-môn Kosiyagotta ở Sāgala, trong quốc độ Madda. Ap.ii.583 (vs. 57) nói rằng mẹ bà là Sucīmatī và cha bà là Kapila, từ đó, có lẽ, bà có danh xưng là Kāpilānī. Khi các sứ giả được cử đi bởi cha mẹ của Pipphali-*māṇava* (Mahā Kassapa) đang lang thang tìm kiếm một người vợ cho ông để có diện mạo giống với bức tượng mà họ mang theo bên mình, họ đã phát hiện ra Bhaddā và báo cho cha mẹ của Pipphali. Cha mẹ đã sắp xếp cuộc hôn nhân mà những người trẻ không hề hay biết và Bhaddā đã đến nhà của Pipphali. Tại đó họ sống cùng nhau, nhưng, do sự đồng thuận của cả hai, cuộc hôn nhân chưa bao giờ được viên thành. Người ta nói rằng, bà đã mang theo, vào ngày cưới của mình, năm mươi ngàn cỗ xe tài sản. Khi Pipphali khao khát từ bỏ thế gian, giao lại cho bà tài sản của ông, bà cũng mong muốn từ bỏ nó giống như vậy, và cùng nhau họ rời khỏi nhà trong bộ dạng của những đạo sĩ, tóc cạo sạch, không bị ai chú ý. Tuy nhiên, trong làng, họ bị nhận ra bởi dáng đi của mình, và người dân đã phủ phục dưới chân họ. Họ đã ban tự do cho tất cả các nô lệ của mình, và lên đường, Pipphali đi trước và Bhaddā theo sát phía sau. Khi đến một ngã ba đường, họ đồng ý rằng ông sẽ đi bên phải và bà rẽ trái. Đến lúc thích hợp bà đã đi đến Titthiyārāma (gần Jetavana), nơi bà lưu trú trong năm năm, vì phụ nữ khi đó chưa được nhận vào Tăng đoàn của Đức Phật. Về sau, khi Pajāpatī Gotamī đã xin được phép, Bhaddā đã gia nhập cùng bà và thọ giới xuất gia, đắc quả vị *Arahant* không lâu sau đó. Về sau trong hội chúng, Đức Phật đã tuyên bố bà là vị tỳ-kheo-ni đệ nhất trong số những người có thể nhớ lại các tiền kiếp.
+
+Trong thời của Padumuttara Buddha bà là vợ của Videha, một vị trưởng giả ở Haṁsavatī, và khi nghe một vị tỳ-kheo-ni được tuyên bố là đệ nhất trong số những người có thể nhớ lại các tiền kiếp, bà đã quyết tâm đạt được một thứ hạng tương tự, trong khi chồng bà (Mahā Kassapa trong kiếp này) quyết tâm trở thành vị đệ nhất trong số những người thực hành hạnh khổ hạnh (*dhutavādinaṁ*). Cùng nhau họ đã làm nhiều thiện sự và được tái sinh vào cõi trời.
+
+Trong thời của Vipassī Buddha, người chồng là người Bà-la-môn Ekasāṭaka và bà là vợ của ông. Trong kiếp sống tiếp theo của ông, ông là vua của Benares và bà là vị chánh hậu của ông. Cùng nhau họ đã cúng dường tám vị Pacceka Buddha với một quy mô rất xa hoa. Trong khoảng thời gian giữa sự xuất hiện trên thế gian của Koṇāgamana Buddha và Kassapa Buddha, người chồng là một gia trưởng và bà là vợ của ông. Một ngày nọ, một cuộc cãi vã đã nảy sinh giữa bà và người em dâu của bà. Người em dâu đã cúng dường đồ ăn cho một vị Pacceka Buddha và Bhaddā, nghĩ rằng, "Cô ta sẽ giành được vinh quang vì điều này," đã giật lấy chiếc bát từ tay của cô ấy và múc đầy bùn vào đó. Nhưng sau đó bà tràn đầy sự hối hận, lấy lại chiếc bát, đổ đi, cọ rửa nó bằng bột thơm và, sau khi đổ đầy vào đó với bốn loại thức ăn ngọt, bà đã rắc lên trên bơ lỏng có màu sắc của một đài sen. Đưa nó lại cho vị Pacceka Buddha, bà cầu nguyện với chính mình "Cầu mong tôi có được một cơ thể tỏa sáng giống như món phẩm vật này."
+
+Trong một kiếp sống sau đó, Bhaddā được sinh ra là con gái của một quan thủ quỹ giàu có ở Benares; bà được gả chồng, nhưng cơ thể bà có mùi hôi thối đến nỗi bà bị mọi người xa lánh và đã bị nhiều người chồng bỏ rơi. Rất đỗi phiền muộn, bà đã đem đồ trang sức của mình đúc thành một thỏi vàng và đặt nó lên ngôi tháp của Kassapa Buddha, vốn đang trong quá trình được xây dựng, và tôn kính nó với đôi tay đầy ắp những bông sen. Cơ thể bà ngay lập tức trở nên thơm tho và ngọt ngào, và bà đã được kết hôn lại với người chồng đầu tiên của mình. Câu chuyện Apadāna đề cập đến hai kiếp sống khác: một lần khi bà là vợ của Sumitta và đã cúng dường một chiếc chăn cho một vị Pacceka Buddha, và một lần nữa khi bà sinh ra trong số những người Koḷiya và đã hầu hạ một trăm vị Pacceka Buddha của Koḷiya.
+
+Về sau, bà là hoàng hậu của Nanda, vua của Benares (Brahmadatta, theo Apadāna, vốn đưa ra Vua Nanda là tên người chồng của bà trong một kiếp khác), cùng với người mà bà đã hầu hạ năm trăm vị Pacceka Buddha, là những người con của Padumavatī. Khi họ qua đời bà vô cùng đau buồn và đã từ bỏ thế gian để hiến mình cho các thực hành khổ hạnh. Bà lưu trú trong một khu rừng, tu tập *jhāna*, và được tái sinh vào cõi *Brahma*. (Thīg­a.67ff.; Ap.ii.578ff.; AN­a.ii.93ff., 203f.; AN.i.25; Thīg.vs.63-6).
+
+Tên của Bhaddā Kāpilānī được đề cập vài lần trong các điều luật Vinaya liên quan đến những người học trò của bà là những người bị kết tội đã vi phạm chúng (e.g., Vin.iv.227, 268, 269, etc.). Bà và Thullanandā đều nổi tiếng là những người thuyết pháp, và Thullanandā, vì ghen tị với Bhaddā, đã cố tình lăng mạ bà (Vin.iv.290). Có một lần Bhaddā đã nhắn tin đến Sāketa hỏi Thullanandā liệu bà ta có thể tìm cho bà một chỗ lưu trú ở Sāvatthī không. Nandā đã đồng ý làm điều này, nhưng đã làm cho mọi thứ trở nên rất khó chịu đối với Bhaddā khi bà đến (Vin.iv.292).
+
+Bhaddā Kāpilānī được đồng nhất với người phụ nữ Bà-la-môn trong Hatthipālajātaka (Ja 509, Ja.iv.491) và với mẹ của Sāma trong Sāmajātaka (Ja 540, Ja.vi.95).
 
 ## Notes

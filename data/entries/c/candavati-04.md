@@ -5,7 +5,7 @@ base_headword: "Candavatī"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Candavatī 04. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candavatī 04. Con gái của Brahmadatta, vua của Benares. Nhà vua đã đề nghị gả nàng cho Lomasa Kassapa với điều kiện vị ấy phải thực hiện một buổi tế lễ súc vật. Kassapa đã đồng ý nhưng sau đó đã rút lại sự ưng thuận của mình. Xem Lomasa Kassapajātaka (Ja 433). Ja.iii.515ff; Mil.220.
 
 ## Notes

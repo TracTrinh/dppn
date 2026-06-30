@@ -5,7 +5,7 @@ base_headword: "Sabbakāma"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbakāma 01. One of the chief disciples of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbakāma 01. Một trong những đệ tử hàng đầu của Sumedha Buddha. Ja.i.38; Bv.xii.23.
 
 ## Notes

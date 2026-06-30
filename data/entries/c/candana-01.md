@@ -5,7 +5,7 @@ base_headword: "Candana"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -36,6 +36,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candana 01. Một *Deva* (thiên thần), chư hầu của Tứ Đại Thiên Vương (DN.ii.258). Vị này được nhắc đến như là một trong những Yakkha chính để những người theo Đức Phật kêu cầu trong trường hợp cần thiết (DN.iii.204). Vị này từng đến thăm Lomasakaṅgiya tại Nigrodhārāma, hỏi vị ấy về Bậc Thánh Đích Thực, và đọc cho vị ấy nghe những kệ ngôn đã học được khi Đức Phật thuyết giảng Bhaddekarattasutta ở Tāvatiṁsa (MN.iii.199f) (nhưng xem bên dưới). Saṁyuttanikāya (SN.i.53) ghi lại một cuộc trò chuyện giữa Candana và Đức Phật và một chuyến viếng thăm của Candana đến Mahā Moggallāna (SN.iv.280). Buddhaghosa (MN­a.ii.951) nói rằng vị này là một *upāsaka* (cư sĩ) vào thời của Kassapa Buddha và đã cúng dường tứ vật dụng cho Đức Phật và các nhà sư, do kết quả của việc này mà vị này trở thành một *Deva*. Ở một chỗ khác có nói rằng vào thời của Kassapa, Candana và Lomasakaṅgiya là bạn bè và cả hai đều trở thành nhà sư (Thag­a.i.84f. Trong phiên bản này không phải Candana, mà là Lomasakaṅgiya, thuyết giảng *Sutta*; trong MN.iii.199f. thì đó là Candana).
+
+Khi Kassapa thuyết giảng Bhaddekarattasutta, Candana đã yêu cầu Lomasakaṅgiya giải thích bài kinh đó; vị ấy không thể làm được việc này, và vì vậy đã đưa ra một lời nguyện rằng vị ấy sẽ có thể giải thích bài kinh đó trong một đời sống tương lai, Candana nguyện rằng khi đó vị này sẽ hỏi lại những câu hỏi đó. Cả hai lời nguyện đều được thành tựu. Để biết chi tiết, xem Lomasakaṅgiya (2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddā"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhaddā 04. A woman of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddā 04. Một phụ nữ ở Kimbila; bà là vợ của Rohaka. Bà trở nên nổi tiếng trong thành phố như một người phụ nữ đức hạnh (*bhadditthī*) nhờ vào lòng tốt của mình và thậm chí còn được các vị thần ngưỡng mộ. Vào một ngày lễ hội, trong khi chồng bà đang đi vắng ở Takkasilā vì việc kinh doanh, bà vô cùng khao khát được ở bên ông. Vị thần của ngôi nhà đã đưa bà đến đó, và từ sự ân ái của họ một đứa trẻ đã chào đời. Đức hạnh của bà bị người thân nghi ngờ, nhưng bà đã thuyết phục họ bằng cách chặn đứng một trận lụt bằng một "Lời Chân thật." Chồng bà cũng nghi ngờ, nhưng bà đã thuyết phục ông bằng cách lấy ra một chiếc nhẫn tín vật, mà ông đã đưa cho bà ở Takkasilā. Do đó, bà trở nên nổi tiếng thông qua đức hạnh của mình. Sau khi qua đời bà được sinh ra ở Tāvatiṁsa, nơi bà đã gặp Đức Phật trong chuyến viếng thăm của ngài đến đó, và theo yêu cầu của ngài đã kể lại cho ngài nghe câu chuyện của bà. Vv.ii.5; Vv-a.109ff.
 
 ## Notes

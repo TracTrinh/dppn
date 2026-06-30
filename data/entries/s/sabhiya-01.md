@@ -5,7 +5,7 @@ base_headword: "Sabhiya"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabhiya 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhiya 01. (Sambhiya). Vị thị giả thường trực của Phussa Buddha. Ja.i.41; Bv.xix.19.
 
 ## Notes

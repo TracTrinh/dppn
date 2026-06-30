@@ -5,7 +5,7 @@ base_headword: "Sabbavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbavagga. The third chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbavagga. Phẩm thứ ba của Saḷāyatanasaṁyutta. SN.iv.15-26.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candana"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ Thirty-one *kappas* ago he was a tree-sprite, and having seen the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candana 02. Candana Thera. Vị ấy thuộc về một gia đình giàu có ở Sāvatthī, và sau khi nghe Đức Phật thuyết pháp, đã trở thành một *Sotāpanna* (bậc Dự lưu). Khi một người con trai được sinh ra cho vị ấy, vị ấy đã gia nhập Tăng đoàn và tiến hành thiền định trong rừng. Về sau vị ấy cư ngụ tại một bãi tha ma gần Sāvatthī. Tại đó vị ấy được vợ và con đến thăm, những người hy vọng sẽ đưa vị ấy trở lại, nhưng, nhìn thấy họ từ xa, vị ấy đã nỗ lực đặc biệt và trở thành một *Arahant*, thuyết pháp cho vợ vị ấy khi bà đến gần (Thag.vs.299-302; Thag­a.i.395f).
+
+Ba mươi mốt *kappa* trước, vị ấy là một thọ thần, và sau khi nhìn thấy Pacceka Buddha Sudassana, đã cúng dường ngài một bông hoa *kuṭaja*. Vị ấy có lẽ đồng nhất với Kuṭajapupphiya Thera của Apadāna. (ii.451; những kệ ngôn tương tự cũng được gán cho Hārita).
 
 ## Notes

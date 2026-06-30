@@ -5,7 +5,7 @@ base_headword: "Sabbamitta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbamitta 02. An eminent teacher belonging to the *udiccabrāhmaṇakula*. He w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbamitta 02. Một vị đạo sư xuất chúng thuộc gia đình *udiccabrāhmaṇakula*. Ông cực kỳ uyên bác, và là vị thầy thứ hai được Suddhodana thuê để dạy cho Đức Phật trong thời niên thiếu của Ngài. Mil. p. 236.
 
 ## Notes

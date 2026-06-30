@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "10"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 10. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 10. Em trai của Sāriputta và là một thành viên của Tăng đoàn. Dhp­a.ii.188.
 
 ## Notes

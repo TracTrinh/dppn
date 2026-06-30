@@ -5,7 +5,7 @@ base_headword: "Sacakkhu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sacakkhu. Five *kappas* ago there were twelve kings of this name, previous birth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sacakkhu. Năm *kappa* trước có mười hai vị vua mang tên này, là những tiền kiếp của Ekadhammasavanīya (hoặc Maggasaññaka) Thera. Thag­a.i.152; Ap.i.151.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bandhumatī"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bandhumatī 01. The city of birth of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhumatī 01. Thành phố nơi Đức Phật Vipassī đản sinh. Ja.i.41; Bv.xx. 23; DN.i.7, etc.
 
 ## Notes

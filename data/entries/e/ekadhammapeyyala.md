@@ -5,7 +5,7 @@ base_headword: "Ekadhammapeyyāla"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekadhammapeyyāla. Two groups of *Suttas* in which various things are mentioned 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammapeyyāla. Hai nhóm *Sutta* trong đó nhiều điều khác nhau được nêu riêng từng điều, mỗi điều được trình bày như một điều kiện hữu ích nhất cho sự sinh khởi của Bát Thánh đạo thuộc bậc Thánh. SN.v.32ff.
 
 ## Notes

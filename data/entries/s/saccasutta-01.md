@@ -5,7 +5,7 @@ base_headword: "Saccasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saccasutta 01. The Buddha visits the *Paribbājakārāma* on the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccasutta 01. Đức Phật đến thăm *Paribbājakārāma* (tu viện của các du sĩ ngoại đạo) trên sông Sappinikā, và nói với các Paribbājakas rằng, theo quan điểm của Ngài, các chân lý của Bà-la-môn là như sau: tất cả các sinh vật sống đều không thể xâm phạm, mọi thú vui dục lạc đều là vô thường, khổ não, vô ngã; tương tự với tất cả các hữu, “Ta không dự phần vào bất cứ điều gì ở bất cứ nơi đâu, và ở đây, đối với ta, không có bất kỳ sự chấp thủ nào vào bất cứ điều gì.” AN.ii.176f.
 
 ## Notes

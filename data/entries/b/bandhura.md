@@ -5,7 +5,7 @@ base_headword: "Bandhura"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,8 @@ A crow built her nest over the doorway of the elephant house, laid there her egg
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhura. Người trông coi trưởng của khu chuồng voi thuộc về nhà vua Benares. Bandhura chỉ có một con mắt.
+
+Một con quạ đã xây tổ phía trên ô cửa của khu chuồng voi, đẻ trứng ở đó và ấp nở ra những con quạ non. Nhưng mỗi lần Bandhura cưỡi trên lưng voi đi vào hoặc đi ra khỏi chuồng, ông đều lấy chiếc móc của mình đập vào tổ quạ, từ đó phá hủy nó. Quạ trong lúc tuyệt vọng đã đưa ra lời than vãn, và tiếng kêu của nó là một trong những âm thanh được nhắc đến trong Aṭṭhasaddajātaka (Ja 418). Khi nhà vua phát hiện ra hành động của Bandhura, ông đã khiển trách và sa thải Bandhura khỏi chức vụ của mình. Ja.iii.430 f.
 
 ## Notes

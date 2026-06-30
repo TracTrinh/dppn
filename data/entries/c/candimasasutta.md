@@ -5,7 +5,7 @@ base_headword: "Candimasasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Candimasasutta. Records the visit of the *Devaputta* <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candimasasutta. Ghi lại chuyến viếng thăm của *Devaputta* Candimasa đến Đức Phật và cuộc trò chuyện diễn ra sau đó. SN.i.51.
 
 ## Notes

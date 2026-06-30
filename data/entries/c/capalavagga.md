@@ -5,7 +5,7 @@ base_headword: "Cāpālavagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cāpālavagga. The first chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāpālavagga. Phẩm đầu tiên của Iddhipādasaṁyutta. SN.v.254-63.
 
 ## Notes

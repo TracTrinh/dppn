@@ -5,7 +5,7 @@ base_headword: "Bandhumatī"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bandhumatī 02. Wife of King <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhumatī 02. Vợ của Vua Bandhumā và là mẹ của Đức Phật Vipassī. Ja.i.41; Bv.xx.23; DN.i.7, etc.
 
 ## Notes

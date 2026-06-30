@@ -5,7 +5,7 @@ base_headword: "Candagutta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Candagutta 03. One of the eight *Khattiyas* sent by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagutta 03. Một trong tám *Khattiya* được Asoka phái đi tháp tùng cây Bodhi đến Ceylon. Ông đã đóng một phần quan trọng trong các lễ kỷ niệm khi Cây rời Pāṭaliputta (Mbv.152), và sau đó, khi đến Ceylon, đã được Devānampiyatissa bổ nhiệm để đánh trống vàng tại các nghi lễ cây Bodhi. Ông được trao chức vụ Malayarāja và Vīrabāhujanapada được ban cho ông để duy trì cuộc sống (Mbv.165).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddavatikā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -33,6 +33,8 @@ The town is probably identical with <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavatikā. Một thị trấn sầm uất gần Kosambī. Đức Phật đã đến đó và được những người chăn bò cùng những người khác cảnh báo không nên đến gần Ambatittha vì có một con Nāga hung dữ trú ngụ ở đó. Sāgata Thera, khi nghe điều này, đã đi đến Ambatittha và khuất phục con Nāga, sau đó ông hội ngộ cùng Đức Phật tại Bhaddavatikā (Vin.iv.108f.; Ja.i.360f).
+
+Thị trấn này có lẽ đồng nhất với Bhaddavatī (*q.v.*), và nằm trong Quốc độ Cetiya. Vin.iv.108.
 
 ## Notes

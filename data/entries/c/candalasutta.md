@@ -5,7 +5,7 @@ base_headword: "Caṇḍālasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Caṇḍālasutta. He who is without faith, without morals, is a diviner by curi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍālasutta. Người không có đức tin, không có giới hạnh, là một người bói toán bằng những nghi lễ kỳ lạ, tin vào vận may chứ không tin vào hành động, người tìm kiếm bên ngoài Tăng đoàn những người xứng đáng để cúng dường – một người như vậy là một *Caṇḍāla* (kẻ hạ tiện) trong số các cư sĩ. Người có những phẩm chất ngược lại thì giống như một hoa sen. AN.iii.206.
 
 ## Notes

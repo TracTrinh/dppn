@@ -5,7 +5,7 @@ base_headword: "Candavatī"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candavatī 02. The city wherein, at the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candavatī 02. Thành phố nơi Sujāta Buddha đã viên tịch, tại Silārāma. Bv­a.171.
 
 ## Notes

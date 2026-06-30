@@ -5,7 +5,7 @@ base_headword: "Candimā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -47,6 +47,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candimā 01. Candimasa, Canda. Tên của *Devaputta* (thiên tử) mà nơi cư ngụ (*vimāna*) của vị ấy là mặt trăng (*Canda*), đôi khi cũng được gọi là Candima. Mặt trăng có đường kính bốn mươi chín do-tuần và xuất hiện trên thế gian theo mong muốn của chư Phạm thiên Ābhassara, những cư dân đầu tiên của trái đất, do đó có tên gọi của nó (*amhākaṁ chandaṁ ñatvā viya uṭṭhito, tasmā cando hotū ti*) (Vibh­a.519; Paṭis-a.253).
+
+Candimā cũng được tính vào nhóm chư thiên Cātummahārājika bởi vì vị ấy sống trong thế giới của họ (vd: Bản Chú giải Mahā Niddesa 108). Có những chư thiên khác ngoài Canda cũng cư ngụ trên mặt trăng (DN.ii.269).
+
+Theo Biḷārikosiyajātaka (Ja 450, Ja.iv.63, 69), Sāriputta, sau khi từng bố thí, đã được sinh ra làm Canda, trong khi ở Sudhābhojanajātaka (Ja 535, Ja.v.382, 412) thì Moggallāna là người đã được sinh ra như vậy. Mặt trăng không thể di chuyển trên bầu trời nếu không có sự cho phép của Candimā, và vị ấy có thể dừng chuyển động của nó theo ý muốn (vd: Dhp­a.ii.143, 146; iii.97).
+
+Người ta nói rằng một lần nọ, khi Candimā bị Rāhu *Asurinda* (A-tu-la vương) bắt giữ, vị ấy đã kêu cầu Đức Phật bằng một bài kệ và Đức Phật đã yêu cầu Rāhu giải thoát cho vị ấy, và yêu cầu đó đã được chấp thuận (SN.i.50). *Deva* Candimasa được đề cập (SN.i.51) là đến yết kiến Đức Phật có lẽ đồng nhất với Candimā. Mặt trăng được thờ phụng khi người ta mong cầu có con cái (vd: Ja.iv.1).
+
+Sasajātaka (Ja 513) đưa ra những chi tiết của câu chuyện về việc làm thế nào, nhờ kết quả của sự hy sinh của Bodhisatta khi được sinh ra làm một con thỏ, Sakka đã vẽ hình một con thỏ trên mặt trăng, dấu hiệu này sẽ được nhìn thấy trong suốt *kappa* này (Ja.i.172).
 
 ## Notes

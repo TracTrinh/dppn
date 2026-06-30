@@ -5,7 +5,7 @@ base_headword: "Saccakāli"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saccakāli. A younger brother of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccakāli. Một người em trai của Sumedha Buddha. Đức Phật đã thuyết bài pháp đầu tiên của Ngài cho ông, và ông đã trở thành một vị *Arahant*. Bv­a.164.
 
 ## Notes

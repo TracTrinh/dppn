@@ -5,7 +5,7 @@ base_headword: "Saccaṅkirajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -35,6 +35,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccaṅkirajātaka (Ja 73). Nhà vua của Benares có một người con trai tên là Duṭṭhakumāra, người bị mọi người căm ghét. Một ngày nọ, khi ông đang tắm dưới sông, một cơn bão ập đến, và ông ra lệnh cho các người hầu đưa ông ra giữa sông và tắm cho ông ở đó. Những người hầu theo đó đã ném ông xuống nước và báo lại với nhà vua rằng ông đã bị mất tích. Khi ông đang bị cuốn theo dòng nước, ông đã bám vào một thân cây, và trên thân cây này cũng có một con rắn, một con chuột, và một con vẹt đang bám vào, tất cả chúng đều đã bị mất nơi trú ngụ trong cơn bão. Bodhisatta, lúc đó là một vị ẩn sĩ sống trên bờ sông, đã cứu Duṭṭha cùng với những người bạn đồng hành của ông và chăm sóc cho họ. Khi họ nói lời tạm biệt ngài, con rắn nói rằng nó có bốn mươi crore được giấu ở một nơi nào đó, và vị ẩn sĩ chỉ cần yêu cầu số tài sản này thì chúng sẽ là của ngài. Con chuột có ba mươi crore, cũng tùy vị ẩn sĩ sử dụng; con vẹt hứa sẽ cho vị ẩn sĩ những xe đầy gạo; và Duṭṭha đã hứa sẽ cung cấp cho ngài bốn vật dụng cần thiết. Tuy nhiên, trong sâu thẳm trái tim mình, ông ta rất căm ghét vị ẩn sĩ vì một sự coi thường tưởng tượng, và đã thề sẽ trả thù.
+
+Sau khi Duṭṭha trở thành vua, vị ẩn sĩ muốn thử thách lòng trung thành của những vị khách cũ của mình. Ngài đi đến chỗ con rắn và gọi tên của nó, và con rắn ngay lập tức xuất hiện, dâng lên kho báu của nó. Con chuột và con vẹt cũng làm như vậy, nhưng Duṭṭha, đang đi trong một đoàn rước và nhìn thấy ngài từ đằng xa, đã ra lệnh phải đánh đập vị ẩn sĩ và xử tử ngài. Trên đường đi đến nơi hành quyết, vị ẩn sĩ liên tục lặp lại: “Những người đặt ra câu ngạn ngữ này thật hiểu đời: cứu một khúc gỗ còn đáng hơn cứu một số người!” Khi được hỏi những lời này có nghĩa là gì, ngài đã kể lại toàn bộ câu chuyện. Những người dân phẫn nộ, đã bắt giữ Duṭṭha, xử tử ông ta và lập vị ẩn sĩ lên làm vua. Về sau, ngài đã mang con rắn, con chuột, và con vẹt vào cung điện và chăm sóc cho chúng.
+
+Câu chuyện này được kể lại liên quan đến những nỗ lực nhằm sát hại Đức Phật của Devadatta. Devadatta được nhận diện là Duṭṭha, con rắn là Sāriputta, con chuột là Moggallāna, và con vẹt là Ānanda. Ja.i.322-7.
 
 ## Notes

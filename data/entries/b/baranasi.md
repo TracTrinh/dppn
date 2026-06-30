@@ -5,7 +5,7 @@ base_headword: "Bārāṇasī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -133,6 +133,24 @@ In the past, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="96" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bārāṇasī (Benares). Thủ đô của *janapada* Kāsi. Đây là một trong bốn địa điểm hành hương của các phật tử – những nơi khác là Kapilavatthu, Buddhagayā và Kusināra – bởi vì chính tại Migadāya ở Isipatana gần Bārāṇasī, Đức Phật đã thuyết bài pháp đầu tiên của Ngài cho nhóm Pañcavaggiyā (DN.ii.141). Đây là địa điểm mà tất cả chư Phật đều chuyển Pháp Luân (*Dhammacakka*). Chư Phật có thói quen di chuyển qua không trung từ cây Bodhi (Bồ-đề) đến nơi thuyết bài pháp đầu tiên của các Ngài, một khoảng cách dài mười tám do-tuần (MN­a.i.388; Bv.A.242, etc.), nhưng vị Phật hiện tại đã thực hiện toàn bộ cuộc hành trình này bằng cách đi bộ để có thể gặp được vị Ājīvaka tên là Upaka trên đường đi.
+
+Benares là một trung tâm thương mại và công nghiệp quan trọng. Đã có sự giao thương trực tiếp giữa nơi này và Sāvatthī (Dhp­a.iii.429), với con đường đi qua Bhaddiya (Vin.i.189), cũng như giữa nơi này và Takkasilā (Dhp­a.i.123). Có một phong tục là những thanh niên đầy nhiệt huyết của Benares sẽ đến học tại trường đại học ở Takkasilā (ví dụ: Ja.ii.4; Dhp­a.i.250), nhưng dường như cũng có những cơ sở giáo dục ở ngay tại Benares, một số trong đó thậm chí còn lâu đời hơn cả những cơ sở ở Takkasilā (Khp­a.198; xem thêm Dhp­a.iii.445, nơi Susīma, con trai của Saṅkha, đi từ Takkasilā đến Benares với mục đích học tập).
+
+Từ Verañjā đến Benares dường như có hai tuyến đường: một tuyến khá vòng vèo, đi qua Soreyya, và tuyến còn lại đi thẳng, vượt qua sông Hằng tại Payāgatittha. Từ Benares con đường tiếp tục đến Vesālī (Vin-a.i.201). Trên con đường từ Benares đến Rājagaha có Andhakavinda (Vin.i.220). Dường như đã có sự giao thiệp hữu hảo giữa các thủ lĩnh của Benares và các vị vua của Magadha, được minh chứng qua thực tế là Bimbisāra đã cử ngự y của chính mình, Jīvaka, đến chăm sóc cho con trai của vị Quan chưởng khố Benares (Vin.i.275). Khoảng cách từ Kosambī đến Benares là ba mươi do-tuần đường sông (MN­a.ii.929).
+
+Quy mô của thành phố Benares, bao gồm cả các vùng ngoại ô của nó, vào thời điểm nó là thủ đô của một vương quốc độc lập, thường được cho là mười hai do-tuần (ví dụ: Ja.iv.377; vi.160; MN­a.ii.608). Tên của một vài vị vua được nhắc đến trong các tác phẩm Jātaka, trong đó có tên của Aṅga, Uggasena, Udaya, Kikī, Dhanañjaya, Mahā Sīlava, Vissasena, và Saṁyama (chú giải Snp­a về Khaggavisāṇasutta có chứa tên của một vài vị vua Benares, những người đã từ bỏ thế gian và trở thành các vị Pacceka Buddha).
+
+Tuy nhiên, cái tên xuất hiện thường xuyên nhất là Brahmadatta, cái tên dường như là tên vương triều của các vị vua Benares. Trong Mahā Govindasutta, sự thành lập Bārāṇasī được gán cho Mahā Govinda, vị vua đầu tiên của nó là Dhataraṭṭha, người sống cùng thời với Reṇu (DN.ii.235). Các Biên niên sử Ceylon (Mhv­ṭ. 127,129,130) đề cập đến tên của những người khác đã trị vì ở Benares, ví dụ như Duppasaha và sáu mươi hậu duệ của ông; Asoka, con trai của Samaṅkara, và tám mươi tư ngàn hậu duệ của ông; cùng mười sáu vị vua, tổ tiên của Okkāka. Bản thân thành phố này đã được biết đến bằng những cái tên khác nhau vào các thời kỳ khác nhau; theo đó, vào thời kỳ của Udayajātaka nó được gọi là Surundhana; trong thời kỳ của Sutasoma, Sudassana; trong thời kỳ của Soṇananda, Brahmavaḍḍhana; trong thời kỳ của Khaṇḍahāla, Pupphavatī; trong thời kỳ của Yuvañjaya, Rammanagara (Ja.iv.119f); và trong thời kỳ của Saṅkha, Molinī (Ja.iv.15). Nó cũng được gọi là Kāsinagara và Kāsipura (ví dụ: Ja.v.54; vi.165; Dhp­a.i.87), khi là thủ đô của Kāsi. Kinh Bhojājāniyajātaka (Ja 23, Ja.i.178) nói rằng "tất cả các vị vua xung quanh đều thèm muốn vương quốc Benares." Trong Brahāchattajātaka (Ja 336, Ja.iii.116), nhà vua của Benares được đề cập là đã chiếm được toàn bộ Kosala. Tuy nhiên, vào thời Đức Phật, Benares đã đánh mất đi tầm quan trọng chính trị to lớn của mình. Kosala đã trở thành một thế lực tối cao ở Ấn Độ, và có những bằng chứng nhắc đến vài cuộc xâm lược thành công vào Kāsi của người Kosala dưới thời các vị vua của họ là Vaṅka, Dabbasena và Kaṁsa. Cuộc chinh phục cuối cùng dường như được gán cho Kaṁsa bởi vì danh xưng Bārāṇasiggaha (kẻ chinh phục Benares) là một phần bổ sung lâu dài cho tên gọi của ông (Ja.ii.403).
+
+Sau này, khi Ajātasattu thành công trong việc thiết lập sự thống trị của mình đối với Kosala, với sự giúp đỡ của người Licchavī, thì Kāsī cũng được sáp nhập vào vương quốc của ông. Ngay cả vào thời Đức Phật, thành phố Benares vẫn rất giàu có và thịnh vượng, và đã được đưa vào danh sách các thành phố lớn do Ānanda đề xuất như là những nơi chốn phù hợp cho lễ *Parinibbāna* (Bát-niết-bàn) của Đức Phật (DN.ii.146).
+
+Cũng có những tài liệu nhắc đến một vị *Bārāṇasīseṭṭhi* (trưởng giả Bārāṇasī) (ví dụ: Dhp­a.i.412; iii. 87, 365) và một Santhāgārasālā (Hội trường Mote), tuy nhiên hội trường này khi đó không còn được sử dụng nhiều cho việc giao dịch các công việc công cộng mà chủ yếu dành cho các cuộc thảo luận công khai về những vấn đề tôn giáo và triết học, ví dụ, Ja.iv.74; các tu sĩ khổ hạnh khi đến thành phố đã tìm thấy chỗ ngủ qua đêm tại Hội trường của Thợ Gốm (ví dụ, Dhp­a.i.39).
+
+Gần Benares là một khu rừng có bảy cây *sirīsaka* nơi Đức Phật đã thuyết pháp cho vị vua Nāga là Erakapatta (Dhp­a.iii.230), và cũng là Kemiyambavana nơi Udena đã gặp Ghoṭamukha (MN.ii.158); ở bờ bên kia của con sông là Vāsabhagāma, và xa hơn nữa là một ngôi làng khác có tên Cundaṭṭhila (Pv-a.168).
+
+Đức Phật đã nhiều lần được nhắc đến là đang lưu lại Benares, nơi Ngài đã thuyết giảng nhiều bài pháp (ví dụ: AN.i.110f., 279f.; iii.392ff., 399ff.; SN.i.105; v.406; Vin.i.189, 216f., 289) và làm cho nhiều người cải đạo bao gồm Yasa, người có quê nhà ở Benares (Vin.i.15), cùng những người bạn của ông là Vimala, Subāhu, Puṇṇajī và Gavampati, tất cả đều là thành viên của những gia đình danh giá (Vin.i.19). Isipatana (xem mục từ này) đã trở thành một trung tâm tu viện trong thời Đức Phật và tiếp tục như vậy cho đến rất lâu về sau. Từ nơi đó đã có mười hai nghìn vị tỳ-kheo dưới sự dẫn dắt của Dhammasena đến tham dự buổi lễ đặt nền móng cho Mahā Thūpa (Mhv.xxix.31).
+
+Trong quá khứ, Bārāṇasī là nơi đản sinh của Đức Phật Kassapa (Bv.xxv.33). Vào thời Đức Phật Metteyya, Bārāṇasī sẽ được biết đến với tên gọi Ketumatī đứng đầu tám mươi tư ngàn thị trấn. Saṅkha sẽ là vị Cakkavatti (Chuyển luân vương) tại đó, nhưng ông sẽ từ bỏ thế gian và trở thành một vị *Arahant* dưới thời Đức Phật Metteyya (DN.iii.75f). Bārāṇasī hiển nhiên có tên gọi bắt nguồn từ thực tế là nó nằm giữa hai con sông Barṇā và Asi (CAGI.499f).
 
 ## Notes

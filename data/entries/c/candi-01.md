@@ -5,7 +5,7 @@ base_headword: "Caṇḍī"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Caṇḍī 01. One of the chief women supporters of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍī 01. Một trong những nữ thí chủ chính của Nārada Buddha. Bv.x.25.
 
 ## Notes

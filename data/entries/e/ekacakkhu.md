@@ -5,7 +5,7 @@ base_headword: "Ekacakkhu"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,6 @@ Ekacakkhu. A city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekacakkhu. Một thành phố của Jambudīpa, nơi Kambalavasana (hoặc Kambalavasabha) và các hậu duệ của ông, gồm ba mươi hai người, trị vì; cũng có Brahmadeva và các hậu duệ của ông, gồm mười lăm người. Dpv.iii.19, 24.
 
 ## Notes

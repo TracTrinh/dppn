@@ -5,7 +5,7 @@ base_headword: "Caṅkīsutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Caṅkīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅkīsutta. Caṅkī, cùng với một đoàn tùy tùng lớn gồm các Bà-la-môn, đến yết kiến Đức Phật tại Opasāda và thấy ngài đang trò chuyện với một số Bà-la-môn lỗi lạc và lớn tuổi. Một Bà-la-môn trẻ tuổi, tên là Kāpaṭhika, thường xuyên ngắt lời cuộc trò chuyện và bị Đức Phật khiển trách. Caṅkī thưa với Đức Phật rằng chàng thanh niên này là một học giả rất thông minh và xin cho anh ta một cơ hội được đặt câu hỏi với Đức Phật. Đức Phật tuyên bố rằng những lời tự phụ của giới Bà-la-môn cho rằng họ sở hữu chân lý duy nhất là vô ích, và tiếp tục giải thích làm thế nào một người có thể đi đến việc có đức tin vào chân lý, sau đó đạt được giác ngộ liên quan đến nó, và cuối cùng chứng đạt chính chân lý đó bằng phương pháp thực hành và tu tập. Vào cuối bài thuyết pháp Kāpaṭhika tuyên bố mình là tín đồ của Đức Phật. MN.ii.164ff.
 
 ## Notes

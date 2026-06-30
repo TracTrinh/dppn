@@ -5,7 +5,7 @@ base_headword: "Daḷhadhammajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhadhammajātaka (Ja 409). Xưa kia Bodhisatta sinh làm đại thần của Daḷhadhamma, vua Benares. Nhà vua có một con voi cái phục vụ ông rất đắc lực và được ông hết sức tôn trọng.
+
+Tuy nhiên, khi nó già đi, mọi vinh dự của nó đều bị rút lại và nó bị giao cho người thợ gốm của nhà vua để kéo xe phân bò. Một ngày nọ nó thấy Bodhisatta và sụp xuống dưới chân ngài. Ngài can thiệp với nhà vua thay cho nó, và mọi vinh dự của nó được khôi phục.
+
+Câu chuyện được kể liên quan đến voi cái Bhaddavatikā (*q.v.*) của Udāna. Khi về già, nó bị nhà vua bỏ mặc, nhưng một ngày nọ nó than phiền với Đức Phật, Ngài đã khuyên răn nhà vua về bổn phận biết ơn đối với những ai từng phục vụ rất lớn. Con voi trong cả hai câu chuyện là cùng một con. Ja.iii.384ff.
 
 ## Notes

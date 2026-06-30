@@ -45,6 +45,7 @@ khandha(s) → uẩn — dùng "năm uẩn" cho "five khandhas"; giữ Pāli khi
 samāpatti → samāpatti — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
 ānāpānasati → ānāpānasati — giữ Pāli khi bản gốc nêu thuật ngữ; có thể dịch nghĩa là "niệm hơi thở" khi bản gốc dùng tiếng Anh.
 puthujjana(s) → phàm phu — có thể dịch nghĩa khi không cần giữ nguyên đối chiếu thuật ngữ Pāli.
+component things → các pháp hữu vi — dùng cho "all component things" trong ngữ cảnh vô thường; không thêm diễn giải ngoài bản gốc.
 appamāṇa → vô lượng
 appamāda / heedfulness / diligence / earnestness → sự không phóng dật — dùng cho phẩm chất chuyên cần, tỉnh giác, không buông lung; giữ "Appamāda" trong tên riêng/nhan đề.
 mahaggata → quảng đại

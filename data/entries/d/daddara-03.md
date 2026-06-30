@@ -5,7 +5,7 @@ base_headword: "Daddara"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daddara 03. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daddara 03. (Daddarapura). Một thành phố do người con trai thứ năm của vua Upacara lập nên tại một nơi hai ngọn núi cọ vào nhau tạo ra âm thanh *daddara*. Ja.iii.461.
 
 ## Notes

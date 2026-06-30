@@ -5,7 +5,7 @@ base_headword: "Bandhura Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -36,6 +36,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhura Thera. Con trai của vị trưởng giả ở Sīlavatī. Sau khi đến Sāvatthī để làm ăn và được nghe Đức Phật thuyết pháp, ông đã gia nhập Tăng đoàn, và đạt được quả vị *Arahant* theo thời gian. Sau này ông trở lại Silāvatī và thuyết pháp cho nhà vua, vị vua này đã trở thành một người cải đạo, đồng thời xây dựng cho ông một *vihāra* tên là Sudassana và dành cho ông sự tôn kính to lớn. Bandhura đã cúng dường *vihāra* này cho chư tăng và trở lại Sāvatthī, nói rằng ông không cần đến những tài sản sở hữu.
+
+Vào thời Đức Phật Siddhattha, ông là một người canh gác trong cung điện nhà vua và đã dâng cúng những bông hoa *kaṇavera* lên Đức Phật cùng các tỳ-kheo của Ngài. Thag.vs.103; Thag­a.207f.
+
+Ông có lẽ cũng chính là Kaṇaverapupphiya của Apadāna (Ap.i.182). *v.l.* Sandhaya, Sandhava.
 
 ## Notes

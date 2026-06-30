@@ -5,7 +5,7 @@ base_headword: "Bandhanāgārajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -31,6 +31,10 @@ Ja.i.139ff.; cp. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhanāgārajātaka (Ja 201). Bodhisatta từng sinh ra trong một gia đình nghèo và phụng dưỡng mẹ mình. Sau khi cưới vợ cho ông, dù ông không hề mong muốn, bà đã qua đời ngay sau đó. Khi vợ ông mang thai, ông muốn ra đi và trở thành một tu sĩ khổ hạnh, nhưng vợ ông đã thuyết phục ông ở lại. Lần thứ hai vợ mang thai, ông đã bỏ trốn và, trở thành một tu sĩ khổ hạnh, ông vô cùng hoan hỷ trong sự tự do thoát khỏi sự ràng buộc của vợ và gia đình.
+
+Câu chuyện này được kể khi một số vị tỳ-kheo báo cáo với Đức Phật rằng một băng cướp đã bị Pasenadi bắt giam và cùm xích. Đức Phật nói rằng không có xiềng xích nào bền chặt hơn những xiềng xích của ái dục.
+
+Ja.i.139ff.; so sánh Bandhanasutta (2); những bài kệ được đưa ra trong Jātaka cũng được tìm thấy ở đó.
 
 ## Notes

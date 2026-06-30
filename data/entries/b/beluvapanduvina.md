@@ -5,7 +5,7 @@ base_headword: "Beluvapaṇḍuvīnā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -33,6 +33,10 @@ The *vīnā* was probably so-called partly because its base was made of a *bilva
 
 ## Vietnamese translation
 
-Chưa dịch.
+Beluvapaṇḍuvīnā. Cây đàn tỳ bà được Pañcasikha (*q.v.*) mang theo; nó vốn thuộc về Māra. Khi Māra, sau khi lãng phí bảy năm cố gắng một cách vô ích để tìm ra một khuyết điểm nào đó ở Đức Phật – sáu năm trước khi Giác ngộ và một năm sau đó – đã rời bỏ Đức Phật trong sự chán ghét và mệt mỏi, cây đàn tỳ bà mà ông ta mang đeo trên vai đã trượt và rơi xuống. Sakka nhặt nó lên và đưa nó cho Pañcasikha. Nó có sức mạnh đến nỗi khi được gảy bằng các ngón tay, âm nhạc êm ái phát ra vang vọng đến bốn tháng (Snp­a.ii.393f).
+
+Cây *vīnā* dài ba *gāvuta* (Bv­a.239) và có năm mươi phím đàn (AN­a.i.72). Sumaṅgalavilāsinī (DN­a.iii.699) miêu tả nó một cách chi tiết. Nó có màu vàng nhạt, giống như một trái *beluva* chín. Phần đế (*pokkhara*) của nó bằng vàng, cần đàn bằng ngọc bích, các dây đàn bằng bạc, và các chốt (*veṭhikā*) của nó bằng san hô.
+
+Cây *vīnā* có lẽ được gọi như vậy một phần vì phần đế của nó được làm bằng một trái *bilva*, thay vì bằng quả bầu thông thường, và một phần vì màu sắc của nó.
 
 ## Notes

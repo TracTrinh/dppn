@@ -5,7 +5,7 @@ base_headword: "Ekamandāriya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekamandāriya Thera. An *Arahant*. Ninety-one *kappas* ago he was a youth in <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekamandāriya Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ngài là một thanh niên ở Tāvatiṁsa và, khi thấy Vipassī Buddha trong *samādhi*, ngài đem một hoa *mandārava* đến và giữ nó phía trên đầu Đức Phật trong bảy ngày. Ap.i.286.
 
 ## Notes

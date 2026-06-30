@@ -5,7 +5,7 @@ base_headword: "Candagutta"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candagutta 04. An *Arahant* Thera who came from <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagutta 04. Một vị Thera *Arahant* đã đến từ Vanavāsa cùng với 80.000 người khác để dự lễ đặt nền móng cho Mahā Thūpa ở Anurādhapura. Mhv.xxix.42; Dpv.xix.8.
 
 ## Notes

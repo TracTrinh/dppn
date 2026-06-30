@@ -5,7 +5,7 @@ base_headword: "Cāpāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cāpāla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāpāla. Một Yakkha. Xem Cāpālacetiya.
 
 ## Notes

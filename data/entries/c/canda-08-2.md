@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "08"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Candā 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 08. Candā Therī. Một *Arahant*. Bà thuộc về một gia đình Bà-la-môn đã rơi vào những ngày tháng tồi tệ và bà lớn lên trong cảnh nghèo đói khốn cùng. Tất cả người thân của bà đã chết vì bệnh dịch, bà phải kiếm sống bằng cách đi ăn xin từ nhà này sang nhà khác. Một ngày nọ, bà tình cờ gặp Paṭācāra, người vừa mới ăn xong. Paṭācāra, nhìn thấy tình cảnh đáng thương của bà, đã cho bà một ít thức ăn và, khi bà đã ăn xong, liền thuyết pháp cho bà. Vui mừng trước bài pháp của Paṭācāra, Candā đã xuất gia và ngay sau đó đạt được quả vị *Arahant*. Thīg.vs.122-26; Thīg­a., p.120f.
 
 ## Notes

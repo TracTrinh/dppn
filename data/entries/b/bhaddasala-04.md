@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddasāla 04. A tree in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 04. Một cái cây trong Rakkhitavanasaṇḍa ở khu rừng Pārileyyaka nơi Đức Phật đã lưu trú trong suốt thời gian ngài ẩn cư. Ud.iv.5; Vin.i.352.
 
 ## Notes

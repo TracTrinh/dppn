@@ -5,7 +5,7 @@ base_headword: "Saccatapāvī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,8 @@ This story was related by <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccatapāvī. Một nữ tu mặc áo trắng (*setasamaṇī*) sống trong một túp lều ở một nghĩa địa gần Benares và kiêng nhịn bốn trong số mỗi năm bữa ăn. Bà được mọi người vô cùng kính trọng. Vào một ngày lễ hội nọ, có vài người thợ kim hoàn đang ngồi trong một chiếc lều để vui chơi. Một người trong số họ, nôn mửa vì say xỉn, đã nói: “Ca ngợi Saccatapāvī.” Một người khác gọi anh ta là một tên ngốc, nói rằng tất cả đàn bà đều giống nhau, và đã chấp nhận một vụ cá cược một ngàn rằng anh ta sẽ quyến rũ được Saccatapāvī. Ngày hôm sau, anh ta cải trang thành một vị ẩn sĩ và đứng gần túp lều của bà, thờ lạy mặt trời. Saccatapāvī nhìn thấy ông ta và đảnh lễ ông ta, nhưng ông ta không nhìn bà cũng không lên tiếng. Đến ngày thứ tư ông ta chào bà, và vào ngày thứ sáu, khi bà đứng gần ông ta, họ đã nói chuyện về những khổ hạnh mà họ đang thực hành, và vị ẩn sĩ đã tuyên bố rằng những pháp tu của ông ta còn khắc nghiệt hơn của bà rất nhiều. Nhưng ông ta đã thú nhận rằng ông ta không tìm thấy được một sự tĩnh lặng tâm linh nào; bà cũng vậy và họ đã đồng ý với nhau rằng tốt hơn là nên quay về và tận hưởng đời sống thế tục. Ông ta đã đưa bà về thành phố và sau khi ngủ với bà và chuốc say bà, ông ta đã giao bà lại cho những người bạn của mình.
+
+Câu chuyện này được kể lại bởi Kuṇāla (Ja 536, xem từ này), người đã nói rằng ông chính là người thợ kim hoàn trong câu chuyện. Ja.iv.424, 427f.
 
 ## Notes

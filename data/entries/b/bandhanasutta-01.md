@@ -5,7 +5,7 @@ base_headword: "Bandhanasutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Bandhanasutta 01. The world is bound by pleasure; by abandoning craving, the wor
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhanasutta 01. Thế gian bị trói buộc bởi dục lạc; nhờ từ bỏ ái dục, thế gian sẽ trở nên giải thoát. SN.i.39.
 
 ## Notes

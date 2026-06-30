@@ -5,7 +5,7 @@ base_headword: "Bhaddekarattasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -44,6 +44,12 @@ Extracts from the Bhaddekarattasutta are uttered by speakers in the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddekarattasutta. Được thuyết giảng tại Jetavana. Một vị thánh thực sự là người không khao khát quá khứ và không mong mỏi tương lai. Vị ấy không bị cuốn trôi đi bởi những trạng thái tâm thức hiện tại, mà bằng việc quán chiếu tâm mình bằng tuệ giác, vị ấy đấu tranh không ngừng nghỉ để giành được sự Bất biến vĩnh cửu (MN.iii.187 ff).
+
+Bài *Sutta* này đã được Ānanda học thuộc và được ông sử dụng trong một bài giảng giải cho các đồng tu của mình. Sự giảng giải này đã được Đức Phật chấp thuận và được gọi là Ānanda Bhaddekarattasutta (MN.iii.189 ff). Một ngày nọ, khi Samiddhi đang lau khô người sau khi tắm ở Tapodā tại Rājagaha, một vị thần đã hỏi ông về bài *Sutta* này, và ông đã phải thú nhận sự thiếu hiểu biết của mình. Samiddhi sau đó đi đến gặp Đức Phật và hỏi ngài về bài *Sutta*, và Đức Phật chỉ thuyết giảng cho ông những bài kệ, không có sự giải thích. Các tỳ-kheo, có mặt ở đó, sau đó đã yêu cầu Mahā Kaccāna cho một bài giảng giải chi tiết. Ông đã đưa ra, và các tỳ-kheo đã trình bày nó lên Đức Phật người đã khuyên họ nên ghi nhớ nó. Sự giảng giải này được gọi là Mahā Kaccāna Bhaddekarattasutta (MN.iii.192 ff).
+
+Tương tự như vậy, Lomasakaṅgiya đã được vị thần Candana hỏi về bài *Sutta*, khi ông đang lưu trú tại Nigrodhārāma ở Kapilavatthu. Đổi lại, ông cũng phải thú nhận sự thiếu hiểu biết của mình, và Candana đã dạy cho ông những bài kệ, mà, ông nói, đã được Đức Phật nói ra trong suốt chuyến viếng thăm của ngài đến Tāvatiṁsa, khi ngài đến để thuyết giảng Abhidhamma. Chú giải (MN­a.ii.962) giải thích rằng Đức Phật đã thuyết giảng bài *Sutta* này vì lợi ích của chư thiên những người không thể hiểu được Abhidhamma. Lomasakaṅgiya đã học thuộc những bài kệ, và, đi đến gặp Đức Phật, đã hỏi ngài về chúng. Đức Phật đã làm sáng tỏ chúng cho ông. Câu chuyện này được gọi là Lomasakaṅgiya Bhaddekarattasutta (MN.iii.199ff).
+
+Các trích đoạn từ Bhaddekarattasutta được nói ra bởi các diễn giả trong Hatthipālajātaka (Ja 509, Ja.iv.481) và Mahā Kapijātaka (Ja 407, Ja.v.66).
 
 ## Notes

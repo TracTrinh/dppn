@@ -5,7 +5,7 @@ base_headword: "Candakumārajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candakumārajātaka. Another name for the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candakumārajātaka. Tên gọi khác của Khaṇḍahālajātaka (Ja 542).
 
 ## Notes

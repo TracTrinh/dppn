@@ -5,7 +5,7 @@ base_headword: "Candanamālā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Candanamālā *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanamālā *v.l.* Candanasālā. Một trong những nơi cư ngụ được Đức Phật ngự (Snp­a.ii.403). Nó nằm ở Sunāparanta và được xây dựng bằng gỗ đàn hương đỏ theo sự xúi giục của Puṇṇa ở Sunāparanta. Khi công trình hoàn thành Puṇṇa đã gửi một bông hoa như một thông điệp đến Đức Phật, ngài đã đến với năm trăm nhà sư và thực hiện nghi lễ hiến cúng trước lúc bình minh (Thag­a.i.158). Trong suốt lễ hội, Đức Phật đã biểu diễn Yamakapāṭihāriya (Thag­a.i.312).
 
 ## Notes

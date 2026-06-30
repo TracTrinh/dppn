@@ -5,7 +5,7 @@ base_headword: "Candagutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -38,6 +38,6 @@ Candagutta 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagutta 01. Vua xứ Jambudīpa. Ông thuộc vương triều Moriya và giành được ngôi báu nhờ mưu kế của Cāṇakka, người đã giết vị vua hợp pháp Dhanananda và người thừa kế của ông là Pabbata (*Mahā Vaṁsaṭīkā* cung cấp chi tiết về việc Cāṇakka đã xoay xở thế nào để đưa Candagutta lên làm vua (pp.181ff)). Candagutta trị vì hai mươi bốn năm và được kế vị bởi con trai của ông là Biṇḍusāra. Cháu trai của ông là Asoka (Mhv.v.16ff). Người cùng thời lớn tuổi hơn của Candagutta ở Ceylon là Paṇḍukābhaya, người đã qua đời vào năm trị vì thứ mười bốn của Candagutta (Dpv.vi.15; Vin-a.i.72; xem thêm Dpv.v.69, 73, 81; cả Dpv. và Vin-a. đều nói về *Pakuṇḍakābhaya* (*sic*). *Kinh Milinda* đề cập đến một người lính tên là Bhaddasāla, phục vụ trong hoàng gia Nanda, người đã tiến hành chiến tranh chống lại Candagutta (p.292; xem thêm *Kathāsaritsāgara* i.30). Trong cuộc chiến này đã có tám mươi "Vũ điệu Xác chết" trong đó những thây ma nhảy múa. Chú giải *Theragāthā* (i., p.440) nói rằng cha của Thera Tekicchakāri đã chuốc lấy sự phật ý của Candagutta, người, dưới sự xúi giục của Cāṇakka, đã ném ông vào ngục.
 
 ## Notes

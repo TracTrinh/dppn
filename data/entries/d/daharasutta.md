@@ -5,7 +5,7 @@ base_headword: "Daharasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,10 @@ The Northern books call it the *Kumāradṛṣṭānta Sūtra* (Rockhill: p.49).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daharasutta. Được thuyết tại Jetavana cho Pasenadi. Pasenadi ám chỉ rằng Đức Phật còn trẻ và, so với các vị thầy khác, chưa giác ngộ hoàn toàn. Đức Phật giải thích cho ông rằng có bốn điều trong thế gian không được xem nhẹ vì còn trẻ: một vương tử quý tộc, một con rắn, một ngọn lửa và một bậc thánh (*bhikkhu*).
+
+Chính *Sutta* này đã khiến Pasenadi quy y. SN.i.68f.
+
+Các sách phương Bắc gọi kinh này là *Kumāradṛṣṭānta Sūtra* (Rockhill: p.49).
 
 ## Notes

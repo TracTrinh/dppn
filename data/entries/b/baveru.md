@@ -5,7 +5,7 @@ base_headword: "Bāveru"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bāveru. A kingdom outside India, beyond the sea. Trade was carried on between B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāveru. Một vương quốc nằm ngoài Ấn Độ, ở bên kia biển. Hoạt động thương mại đã được tiến hành giữa Bāveru và Ấn Độ. Xem Bāverujātaka (Ja 339). Bāveru được xác định là Babylon, ví dụ, *Buddhist India*, p.104.
 
 ## Notes

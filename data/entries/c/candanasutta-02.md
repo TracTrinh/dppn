@@ -5,7 +5,7 @@ base_headword: "Candanasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candanasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanasutta 02. Candana đến thăm Mahā Moggallāna và hỏi vị ấy tại sao một số chúng sinh lại được sinh ra trên cõi trời. SN.iv.280.
 
 ## Notes

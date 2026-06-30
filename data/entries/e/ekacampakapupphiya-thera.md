@@ -5,7 +5,7 @@ base_headword: "Ekacampakapupphiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekacampakapupphiya Thera. An *Arahant*. Thirty-one *kappas* ago he had given a *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekacampakapupphiya Thera. Một *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng một hoa *campaka* lên Pacceka Buddha Upasanta (Ap.i.288). Có lẽ ngài đồng nhất với Vajjita Thera. Thag­a.i.336f.
 
 ## Notes

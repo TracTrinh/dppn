@@ -5,7 +5,7 @@ base_headword: "Sabbasaṁhārakapañha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sabbasaṁhārakapañha (Ja 110). Evidently another name for the *Gaṇṭhipañ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbasaṁhārakapañha (Ja 110). Hiển nhiên là một tên khác cho *Gaṇṭhipañha* của Mahā Ummaggajātaka (Ja 546) (xem Ja.vi.336f). Ở nơi khác nó được gọi như là một Jātaka đặc biệt (Ja.i.424) ??
 
 ## Notes

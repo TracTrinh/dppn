@@ -5,7 +5,7 @@ base_headword: "Daḷhadhamma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Daḷhadhamma. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhadhamma. Vua của Benares. Xem Daḷhadhammajātaka (Ja 409). Ông được đồng nhất với Ānanda. Ja.iii.388.
 
 ## Notes

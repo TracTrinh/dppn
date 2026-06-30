@@ -5,7 +5,7 @@ base_headword: "Bhaddavatiya"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddavatiya. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavatiya. Cha của Sāmāvatī; ông là một vị trưởng giả của Bhaddavatī. Ông đã kết thành một tình bạn thân thiết với trưởng giả Ghosita ở Kosambī, thông qua sự trung gian của các thương nhân và, khi Bhaddavatī bị tấn công bởi bệnh dịch hạch, ông đã rời đi cùng với vợ và con gái của mình để đến thăm trưởng giả Ghosita. Nhưng ông đã chết vì chết đói bên ngoài thành phố trước khi ông có thể đến gặp ông ta. Dhp­a.i.187f.
 
 ## Notes

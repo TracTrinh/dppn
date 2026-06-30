@@ -5,7 +5,7 @@ base_headword: "Candamukha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candamukha. A cave in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamukha. Một hang động ở Dhūmarakkhapabbata. Malaya Mahā Deva Thera từng sống ở đó. Ras.ii.126.
 
 ## Notes

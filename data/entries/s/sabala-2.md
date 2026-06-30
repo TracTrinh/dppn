@@ -5,7 +5,7 @@ base_headword: "Sabalā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabalā. An eminent Therī of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabalā. Một vị Therī xuất chúng của Jambudīpa, thông thạo Vinaya. Dpv.xviii.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabala"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabala. A dog of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabala. Một con chó của Lokantaraniraya. Nó có hàm răng bằng sắt để dùng lên những nạn nhân của *Niraya* đó. Ja.vi.247.
 
 ## Notes

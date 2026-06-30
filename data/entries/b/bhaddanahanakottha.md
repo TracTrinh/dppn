@@ -5,7 +5,7 @@ base_headword: "Bhaddanahānakoṭṭha"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddanahānakoṭṭha. A bathing place in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddanahānakoṭṭha. Một nơi tắm rửa ở Pulatthipura, do Parakkamabāhu I xây dựng. Cv.lxxviii.45.
 
 ## Notes

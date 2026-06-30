@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -47,6 +47,10 @@ The *vihāra* is generally identified with what is now known as <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇavihāra. Một tu viện do Uttiya, một tướng quân của Vaṭṭagāmaṇī Abhaya, xây dựng ở phía nam Anurādhapura (Mhv.xxxiii.88; Dpv.xix.19). Ban đầu tu viện này do các vị sư từ Abhayagirivihāra cư trú, nhưng về sau có một cuộc ly giáo do nhóm Dakkhiṇavihārakā, tên gọi của các vị sư thuộc Dakkhiṇavihāra (Mhv.xxxiii.98).
+
+Āmaṇḍagamaṇī Abhaya xây cho tu viện hồ chứa Mahā Gāmeṇḍi (Mhv.xxxv.5), trong khi Kaniṭṭhatissaka thêm lớp bao cho *Thūpa* và xây một trai đường trên một số đất ở ranh giới Mahā Meghavana; ông cũng xây một con đường đến *vihāra*, và để làm việc này đã dời bức tường của Mahā Vihāra sang một bên (Mhv.xxxvi.12f). Vohārakatissa dựng một bức tường quanh tu viện (Mhv.vs.35) và Goṭhābhaya trùng tu giảng đường *uposatha* (Mhv.vs.107). Trưởng lão Tissa, người mà Mahā Sena xây Jetavanavihāra cho, là một vị trụ trì của Dakkhiṇavihāra, trong ngữ cảnh này được gọi là Dakkhiṇārāma (Mhv.xxxvii.32). Aggabodhi I dựng một *pāsāda* tráng lệ trong *vihāra* (Cv.xlii.14).
+
+*Vihāra* này thường được đồng nhất với nơi hiện nay được biết là mộ của Eḷāra (nhưng xem Cv.Trs.i.66, n.3).
 
 ## Notes

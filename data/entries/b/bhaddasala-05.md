@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddasāla 05. A general of King <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 05. Một vị tướng của Vua Nanda; ông đã tiến hành chiến tranh chống lại Candagutta. Trong cuộc chiến đó đã diễn ra tám mươi Điệu Nhảy Tử Thi, nơi những tử thi không đầu trỗi dậy và nhảy múa điên cuồng trên chiến trường. Mil.292.
 
 ## Notes

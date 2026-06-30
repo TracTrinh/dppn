@@ -5,7 +5,7 @@ base_headword: "Bhaddavaggiyā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -35,6 +35,10 @@ Their conversion was one of the subjects sculptured in the Relic Chamber of the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavaggiyā, Bhaddavaggiyas. Một nhóm ba mươi thanh niên, được hóa độ bởi Gotama Buddha. Họ đã đi dã ngoại cùng với những người vợ của mình trong một khoảng rừng thưa giữa Bārāṇasī và Uruvelā. Một người trong số họ không có vợ, và họ đã tìm một kỹ nữ cho anh ta; nhưng cô ta chờ đợi cơ hội và đã chạy trốn cùng với của cải của họ.
+
+Trong lúc tìm kiếm cô ta, họ nhìn thấy Đức Phật và hỏi thăm xem ngài có nhìn thấy một người phụ nữ không. Nhưng ngài trả lời, chẳng phải họ nên tìm kiếm "tự ngã" hơn là một người phụ nữ sao. Tất cả họ đều đồng ý với điều đó, và ngài đã thuyết pháp cho họ. Khi kết thúc bài pháp họ đã nhận ra Chân lý và được xuất gia (Vin.i.23f.; Dhp­a.ii.33f).
+
+Sự hóa độ của họ là một trong những chủ đề được điêu khắc trong Phòng Xá-lợi của Mahā Thūpa. Mhv.xxx.79. Theo Bản mở rộng của Mahā Vaṁsa (i.298) họ là những người anh em cùng cha khác mẹ của vua xứ Kosala.
 
 ## Notes

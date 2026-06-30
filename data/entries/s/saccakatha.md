@@ -5,7 +5,7 @@ base_headword: "Saccakathā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saccakathā. The second chapter of the Yuganandha *Vagga* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccakathā. Chương thứ hai của Yuganandha *Vagga* thuộc Paṭisambhidāmagga. Pa.ii.104-15.
 
 ## Notes

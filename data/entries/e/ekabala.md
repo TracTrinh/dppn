@@ -5,7 +5,7 @@ base_headword: "Ekabala"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekabala. A kingdom in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekabala. Một vương quốc ở Jambudīpa, vua của nơi ấy là Saṅkhapāla. Một lần, nhà vua huy động một đạo quân lớn, và các mật thám của Mahosadha đem tin này về cho ông; sau đó Mahosadha sai con vẹt của mình đi tìm hiểu toàn bộ sự việc là gì. Ja.vi.390.
 
 ## Notes

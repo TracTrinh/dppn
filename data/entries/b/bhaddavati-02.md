@@ -5,7 +5,7 @@ base_headword: "Bhaddavatī"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -30,6 +30,6 @@ Bhaddavatī 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavatī 02. Bhaddavatikā. Một con voi cái thuộc về Vua Udena. Nó vốn thuộc về Caṇḍappajjota. Nó có thể đi được mười lăm do-tuần trong một ngày (Dhp­a.i.196). Udena đã sử dụng nó trong cuộc chạy trốn của ông cùng với Vāsuladattā (Dhp­a.i.198). Lúc đầu nhà vua đã dành cho nó sự tôn vinh lớn lao, tuyên bố rằng sinh mạng, hoàng hậu và vương quốc của ông tất cả đều nhờ vào nó; chuồng của nó được trát bằng đất ướp hương và được treo những bức màn màu sắc, một chiếc đèn đốt dầu thơm và một lư hương được đặt ở một bên. Nó đứng trên một tấm thảm trải nền màu sắc và ăn thức ăn hoàng gia với nhiều hương vị. Nhưng khi nó già đi nó đã bị bỏ bê và trở nên thiếu thốn. Một ngày nọ nó nhìn thấy Đức Phật đi vào thành phố để khất thực, đã ngã gục dưới chân ngài, và than phiền về sự bỏ bê của nhà vua. Đức Phật đã báo cáo lại vấn đề này cho Udena biết, và tất cả những sự tôn vinh trước đây đã được khôi phục lại cho Bhaddavatī. Sự kiện này đã dẫn đến việc thuyết giảng bài Daḷhadhammajātaka. Ja.iii.384f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabhāsammata"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabhāsammata. Thirteen *kappas* ago there were five kings of this name, previou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhāsammata. Mười ba *kappa* trước có năm vị vua mang tên này, là những tiền kiếp của Pañcahatthiya Thera. Ap.i.193.
 
 ## Notes

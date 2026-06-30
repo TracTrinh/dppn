@@ -5,7 +5,7 @@ base_headword: "Candapadumā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Candapadumā 01. The chief consort of the *seṭṭhi* <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candapadumā 01. Vợ cả của *seṭṭhi* (trưởng giả) Meṇḍaka ở Bhaddiya, và là mẹ của Dhanañjaya (Dhp­a.i.385). Do đó, bà là bà nội của Visākhā. Bà từng là vợ của Meṇḍaka trong một đời sống trước và, trong một thời kỳ đói kém, đã cùng ông cúng dường bữa ăn duy nhất mà họ có chung cho một Pacceka Buddha. Nhờ kết quả của hành động này, nồi cơm trong nhà bà không bao giờ cạn, cho dù bà có nuôi bao nhiêu người đi chăng nữa. Trong những kiếp trước bà đã thiết đãi các nhà sư của nhiều vị Phật khác nhau, một tay bưng nồi cơm và tay kia cầm thìa. Vì vậy, trên tay trái của bà có dấu hiệu của hoa sen, che kín lòng bàn tay, và trên tay phải có dấu hiệu của mặt trăng. Hơn nữa, vì lý do bà đã múc và lọc nước cho các nhà sư, trên lòng bàn chân trái của bà có đánh dấu một hoa sen và bên phải là một mặt trăng; do đó bà có tên là Candapadumā. Khi Đức Phật đến thăm nhà của Meṇḍaka và, sau bữa ăn, thuyết pháp cho các thành viên trong gia đình, Candapadumā đã trở thành một *Sotāpanna* (Dhp­a.iii.363-86). Bà là một trong năm người có phước báu lớn (*Mahā Puññā*) (AN­a.i.219; Paṭis-a.509). Visuddhimagga (ii.383) gọi bà là Candapadumasirī.
 
 ## Notes

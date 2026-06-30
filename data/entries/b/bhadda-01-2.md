@@ -5,7 +5,7 @@ base_headword: "Bhaddā"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaddā 01. One of the two chief women disciples of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddā 01. Một trong hai vị nữ đại đệ tử của Revata Buddha. Ja.i.35; Bv.vi.22.
 
 ## Notes

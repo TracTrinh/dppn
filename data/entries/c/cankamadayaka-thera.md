@@ -5,7 +5,7 @@ base_headword: "Caṅkamadāyaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Caṅkamadāyaka Thera. An *Arahant*. Eighteen *kappas* ago he made a magnificen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅkamadāyaka Thera. Một *Arahant*. Mười tám *kappa* trước vị ấy đã xây dựng một lối đi kinh hành (*caṅkama*) tráng lệ cho Atthadassī Buddha. Trong ba *kappa* vị ấy từng là vua của các vị thần và từng ba lần làm Cakkavatti. Ap.i.99.
 
 ## Notes

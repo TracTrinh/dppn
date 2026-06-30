@@ -5,7 +5,7 @@ base_headword: "Sabhiya"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -31,6 +31,6 @@ Sabhiya 03. A *Paribbājaka*, perhaps identical with <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhiya 03. Một *Paribbājaka*, có lẽ đồng nhất với Sabhiya 2. Saṁyutta (SN.iv.401f) ghi lại một cuộc đàm luận diễn ra tại Ñātikā giữa ông và Vacchagotta về nhiều câu hỏi khác nhau, chẳng hạn như sự tồn tại của Gotama Buddha sau khi viên tịch, v.v. Trong *Sutta* này, Sabhiya được gọi là Kaccāna, và ông nói rằng khi đó ông đã ở trong Tăng đoàn được ba năm. Rất có thể vị *Paribbājaka* này cũng chính là người được nhắc đến với tên là Abhiya Kaccāna trong Anuruddhasutta. MN.iii.148f.
 
 ## Notes

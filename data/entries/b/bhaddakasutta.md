@@ -5,7 +5,7 @@ base_headword: "Bhaddakasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaddakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddakasutta. Sāriputta nói với các tỳ-kheo rằng người nào vui thích và tham gia vào các hoạt động thế gian sẽ gặp phải một số phận rủi ro, trong khi người nào từ bỏ những điều đó sẽ gặp được một số phận may mắn. AN.iii.293.
 
 ## Notes

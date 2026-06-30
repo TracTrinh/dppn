@@ -5,7 +5,7 @@ base_headword: "Daddarajātaka"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,8 @@ The story was related in reference to a choleric monk who is identified with <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daddarajātaka 02. (Ja 304). Xưa kia Bodhisatta sinh trong loài Nāga ở Daddara *pabbata*. Ngài được gọi là Mahā Daddara, cha ngài là Sūra Daddara và em trai ngài là Cūḷa Daddara. Cūḷa Daddara nóng nảy và tàn ác, thường chọc ghẹo các thiếu nữ Nāga; nhà vua muốn trục xuất cậu, nhưng cậu được Mahā Daddara cứu. Nhưng cuối cùng nhà vua rất giận và gửi cả hai người trong ba năm đến Benares. Ở đó các chàng trai đối xử tệ với họ, nhưng khi Cūḷa Daddara định giết họ, anh của cậu khuyên cậu thực hành nhẫn nhục.
+
+Câu chuyện được kể liên quan đến một vị sư nóng giận, người được đồng nhất với Cūḷa Daddara. Ja.iii.15ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabbadāṭha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sabbadāṭha. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbadāṭha. Devadatta sinh ra làm một con chó rừng. Xem Sabbadāṭha Jātaka.
 
 ## Notes

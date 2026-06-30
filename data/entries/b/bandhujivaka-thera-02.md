@@ -5,7 +5,7 @@ base_headword: "Bandhujīvaka Thera"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bandhujīvaka Thera 02. An *Arahant*. He met <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhujīvaka Thera 02. Một vị *Arahant*. Ông đã gặp Đức Phật Siddhattha trong rừng chín mươi bốn *kappa* trước và dâng cúng Ngài hoa sen cùng hoa *bandhujīvaka*. Mười bốn *kappa* trước, ông là một vị vua tên là Samuddakappa. Ap.i.192.
 
 ## Notes

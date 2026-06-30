@@ -5,7 +5,7 @@ base_headword: "Caṅkī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -41,6 +41,12 @@ We are not told that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅkī. Một Bà-la-môn *Mahā Sāla*, sống cùng thời với Đức Phật, nổi tiếng vì học vấn uyên thâm và được kính trọng cao trong các buổi tụ họp của giới Bà-la-môn – vd: tại Icchānaṅgala (Snp., p.115) và tại Manasākaṭa (DN.i.235).
+
+Ông được đề cập cùng với những Bà-la-môn lỗi lạc và giàu có như Tārukkha, Pokkharasādi, Jāṇussoṇī và Todeyya (vd: MN.ii.202).
+
+Caṅkī sống ở làng Bà-la-môn Opasāda, trên một thái ấp hoàng gia do Pasenadi ban cho ông. Khi Đức Phật đến Opasāda, Caṅkī đã đến yết kiến ngài, bất chấp sự phản đối của bạn bè và đồng nghiệp, và nhân dịp này bài kinh Caṅkīsutta đã được thuyết giảng (MN.ii.164f).
+
+Chúng ta không được cho biết rằng Caṅkī đã từng trở thành tín đồ của Đức Phật, mặc dù Buddhaghosa nói rằng ông dành cho Đức Phật sự kính trọng to lớn. MN­a.i.394; điều này cũng xuất hiện từ phần mở đầu của Caṅkīsutta.
 
 ## Notes

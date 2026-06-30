@@ -5,7 +5,7 @@ base_headword: "Sabbagandhiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbagandhiya Thera. An *Arahant*. Ninety-one *kappas* ago he offered flowers an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbagandhiya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước ngài đã cúng dường hoa và hương cho Vipassī Buddha và dâng lên Ngài một y phục bằng vải *koseyya*. Mười lăm *kappa* trước ngài là một vị vua, tên là Sucela. Ap.i.248f.
 
 ## Notes

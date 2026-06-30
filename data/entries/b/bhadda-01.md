@@ -5,7 +5,7 @@ base_headword: "Bhadda"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhadda 01. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadda 01. Một nam cư sĩ của Nādikā người mà, Đức Phật tuyên bố, đã phá hủy năm *orambhāgiyasaṁyojanā* và đã được sinh vào các cõi *Deva* cao nhất, từ đó sẽ hoàn toàn diệt tận. DN.ii.92.
 
 ## Notes

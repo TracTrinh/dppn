@@ -5,7 +5,7 @@ base_headword: "Sabbamitta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sabbamitta 04. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbamitta 04. Một nhà vua của Sāvatthī. Xem Kumbhajātaka (Ja 512). Ông được nhận diện là Ānanda. Ja.v.20.
 
 ## Notes

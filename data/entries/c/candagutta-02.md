@@ -5,7 +5,7 @@ base_headword: "Candagutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candagutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagutta 02. Candagutta Thera. Vị đệ tử nội trú (*saddhivihārika*) của Mahā Kassapa Thera. Người bạn đồng tu của ngài là Suriyagutta. SN­a.iii.125.
 
 ## Notes

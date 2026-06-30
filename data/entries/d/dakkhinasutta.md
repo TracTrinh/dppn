@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇāsutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dakkhiṇāsutta. The four purities in gifts (*dakkhiṇāvisuddhi*), depending 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇāsutta. Bốn sự thanh tịnh trong các phẩm vật cúng dường (*dakkhiṇāvisuddhi*), tùy thuộc vào việc cả người cho và người nhận đều có đức hạnh, hoặc chỉ một trong hai người có đức hạnh (AN.ii.80f; cp. MN.iii.256f). Kinh này có lẽ cũng được gọi là Dakkhiṇāvisuddhisutta. Khp-a.222.
 
 ## Notes

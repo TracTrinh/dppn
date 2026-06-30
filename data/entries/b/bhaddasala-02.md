@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaddasāla 02. A dryad; see the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 02. Một thụ thần; xem Bhaddasālajātaka (Ja 465).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saccasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saccasaṁyutta. The last section of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccasaṁyutta. Phần cuối cùng của Saṁyuttanikāya (SN.v.414-78). Nó đã được Mahinda giảng cho Anulā và những người bạn đồng hành của bà, và họ đã trở thành những vị *Sotāpanna*. Mhv.xiv.58.
 
 ## Notes

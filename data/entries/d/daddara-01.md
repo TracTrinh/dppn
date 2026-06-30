@@ -5,7 +5,7 @@ base_headword: "Daddara"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Daddara 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daddara 01. (Daddarapabbata). Một ngọn núi ở Himavā (Ja.ii.8, 67; iii.16; Ap.ii.536); núi này cũng chính là Rajatapabbata (*q.v.*), được gọi là Daddara vì sấm vang quanh nó.
 
 ## Notes

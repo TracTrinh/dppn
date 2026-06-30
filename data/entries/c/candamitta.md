@@ -5,7 +5,7 @@ base_headword: "Candamittā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candamittā. One of the two chief women disciples of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamittā. Một trong hai nữ đại đệ tử của Vipassī Buddha. Bv.xx.29; Ja.i.41.
 
 ## Notes

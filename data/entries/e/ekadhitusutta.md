@@ -5,7 +5,7 @@ base_headword: "Ekadhītusutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,6 @@ Ekadhītusutta. A devout lay-sister should admonish her only daughter to be like
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhītusutta. Một nữ cư sĩ thuần thành nên khuyên người con gái duy nhất của mình hãy giống như Khujjuttarā hoặc Veḷukaṇṭakiyā Nandamātā; hoặc, nếu cô ấy xuất gia, hãy giống như Khemā và Uppalavaṇṇā. SN.ii.236.
 
 ## Notes

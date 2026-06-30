@@ -5,7 +5,7 @@ base_headword: "Ekāhavāpi"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekāhavāpi. One of the tanks built by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekāhavāpi. Một trong các hồ chứa nước do Parakkamabāhu I xây dựng. Cv.lxxix.28.
 
 ## Notes

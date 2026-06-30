@@ -5,7 +5,7 @@ base_headword: "Candimā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candimā 02. One of the descendants of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candimā 02. Một trong những hậu duệ của Okkāka. Mhv.ii.13; Dpv.iii.42.
 
 ## Notes

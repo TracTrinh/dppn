@@ -5,7 +5,7 @@ base_headword: "Beluva"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -43,6 +43,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Beluva, Beluvagāma. Một ngôi làng gần Vesālī, nơi Gotama Buddha trải qua mùa an cư cuối cùng của ngài. Điều này là mười tháng trước khi ngài viên tịch (SN­a.iii.198). Theo các Chú giải (ví dụ, Ud­a.322; SN­a.iii.172), Đức Phật không đi thẳng từ Beluva đến Vesālī, mà quay trở lại Sāvatthī. Ngài bị lâm trọng bệnh trong thời kỳ này, nhưng, bằng một nỗ lực ý chí to lớn, ngài đã vượt qua cơn bạo bệnh của mình. Trong suốt cơn bạo bệnh này Sakka đã chăm sóc Đức Phật, hầu hạ ngài và đội trên đầu phân của Đức Phật khi ngài bị kiết lỵ cấp tính (Dhp­a.iii.269 f.).
+
+Chính tại thời điểm này, Đức Phật, khi trả lời một câu hỏi của Ānanda, đã nói rằng ngài không giấu giếm điều gì với các đệ tử của mình và không có những chỉ dẫn đặc biệt nào để Tăng đoàn làm theo sau khi ngài viên tịch. Mỗi người đệ tử phải tự mình nỗ lực giải thoát chính mình. DN.ii.98 ff.; SN.v.151ff.
+
+Ānanda cũng được đề cập là đã ở lại Beluva sau khi Đức Phật viên tịch. Vị gia chủ Dasama của Aṭṭhakanagara đã tìm gặp ông tại đó, và cuộc trò chuyện của họ được ghi lại trong Aṭṭhakanagarasutta (MN.i.349ff.; AN.v.342ff).
+
+Beluva là một ngôi làng nhỏ, và khi Đức Phật ở đó các tỳ-kheo đã lưu trú tại Vesālī. Beluva nằm ngay bên ngoài các cổng thành của Vesālī (SN­a.iii.165) và ở phía nam của thành phố này (MN­a.ii.571).
+
+Theragāthā (vs.919) nói rằng Anuruddha đã viên tịch tại Beluvagāma ở quốc độ Vajjī. Điều này có lẽ ám chỉ Beluvagāma, trong trường hợp đó *Veluva* là một *varia lectio* (dị bản).
 
 ## Notes

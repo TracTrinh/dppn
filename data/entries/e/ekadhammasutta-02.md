@@ -5,7 +5,7 @@ base_headword: "Ekadhammasutta"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -23,6 +23,6 @@ Ekadhammasutta 02. There is one condition which, if cultivated, yields great fru
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammasutta 02. Có một điều kiện, nếu được tu tập, sẽ đem lại quả lớn, đó là định trên hơi thở vào và hơi thở ra. *Sutta* này cũng mô tả phương pháp thực hành điều ấy. SN.v.311f.
 
 ## Notes

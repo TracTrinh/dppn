@@ -5,7 +5,7 @@ base_headword: "Candabhānu"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Candabhānu. A king of Jāvā. He invaded Ceylon in the eleventh year of the rei
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candabhānu. Vua xứ Jāvā. Ông đã xâm lược Ceylon vào năm trị vì thứ mười một của Parakkamabāhu II. nhưng đã bị Vīrabāhu đánh bại trong trận chiến (Cv.lxxiii.36ff). Dưới triều đại của Vijayabāhu IV., ông ta lại xuất hiện cùng với một đội quân lớn và, đổ bộ tại Mahā Tittha, đã tiến quân tấn công pháo đài của nhà vua ở Subhagiri, đòi Xá-lợi Răng, Xá-lợi Bát và vương quốc. Nhưng ông ta lại một lần nữa bị quân đội Sinhalese dưới quyền chỉ huy của Vijayabāhu và Vīrabāhu đánh bại. Sđd., lxxxviii.69-83. Để biết lịch sử sau này của ông, xem JA. xliii.
 
 ## Notes

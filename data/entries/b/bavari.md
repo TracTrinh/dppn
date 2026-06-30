@@ -5,7 +5,7 @@ base_headword: "Bāvarī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -82,6 +82,16 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="60" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāvarī. Một đạo sĩ Bà-la-môn đi từ Sāvatthī đến Dakkhiṇāpatha và sống trên bờ sông Godhāvarī trong một am thất nằm một nửa trên lãnh thổ của Assaka và một nửa thuộc về Aḷaka.
+
+Ông nhận được thuế thu nhập của một ngôi làng gần đó và đã tổ chức một cuộc tế lễ lớn, tiêu tốn tất cả những gì mình có. Sau đó, một người Bà-la-môn có vẻ mặt đáng sợ đến gặp ông, đòi năm trăm đồng tiền. Ông ta là một Bà-la-môn ở Dunniviṭṭha. Vợ ông ta là hậu duệ của gia đình Jūjaka và thường xuyên cằn nhằn ông. Chính bà ta là người đã cử ông đến gặp Bāvarī, AN­a.i.183.
+
+Khi Bāvari nói với ông ta về sự nghèo khó của mình, người Bà-la-môn nguyền rủa ông, nói rằng đầu ông sẽ vỡ thành bảy mảnh. Bāvarī vô cùng đau khổ, nhưng một *Devatā* (mẹ của ông trong một kiếp trước, AN­a.i.183), thấy ông lo lắng, đã trấn an ông bằng cách nói rằng người Bà-la-môn kia không biết nghĩa của "đầu" cũng không biết "sự vỡ của nó". Bāvarī hỏi: "Vậy thì ai biết điều đó?", và *Devatā* kể cho ông nghe về sự xuất hiện trên thế gian của Gotama Buddha. Ngay lập tức, ông cử mười sáu học trò của mình – Ajita, Tissametteyya, Puṇṇaka, Mettagū, Dhotaka, Upasīva, Nanda, Hemaka, Todeyya, Kappa, Jatukaṇṇī, Bhadrāvudha, Udaya, Posāla, Mogharāja và Piṅgiya đến Sāvatthī để diện kiến Đức Phật và để tìm hiểu xem những lời tuyên bố về quả vị Phật của ngài có chính đáng hay không. Các học trò đi về phía bắc, qua Aḷaka, Patiṭṭhāna, Māhissati, Ujjenī, Gonaddha, Vedisā, Vanasavhya (hoặc Tumbava. *v.l.* Vanasāvatthi), Kosambī, Sāketa và Sāvatthī; sau đó, khi thấy Đức Phật đã đi đến Rājagaha, họ đã đi theo ngài đến đó, tới Pāsāṇakacetiya, đi ngang qua Setavyā, Kapilavatthu, Kusinārā, Pāvā, Bhoganagara và Vesālī.
+
+Khi đến trước Đức Phật, họ đã nhân danh Bāvarī để chào hỏi ngài, và khi tin chắc rằng ngài mang những tướng tốt đặc trưng của một bậc Vĩ nhân, Ajita đã thay mặt Bāvarī hỏi Đức Phật câu hỏi của mình, và khi câu hỏi đó được trả lời, mỗi người học trò lần lượt hỏi ngài một câu hỏi, và Đức Phật đã giải đáp cho họ. Về một vấn đề phát sinh từ cách thức mà một số tướng tốt được nhìn thấy, xem Mil.168f.; DN­a.i.275f. Câu chuyện này được ghi lại trong Snp.vs.976-1148.
+
+Theo Chú giải, tất cả các đệ tử của Bāvarī và mười sáu ngàn người theo họ mà họ đã tập hợp trên đường đi, đều trở thành các vị *Arahant* khi kết thúc bài pháp của Đức Phật, chỉ trừ Piṅgiya, cháu trai của Bāvarī, người trở thành một *Anāgāmī*, vì ông đã nghĩ đến Bāvarī khi Đức Phật thuyết pháp (Snp­a.603f). Piṅgiya từ biệt Đức Phật và trở về gặp Bāvarī, để kể cho ông nghe tất cả những sự kiện này. Khi ông kể xong, Đức Phật xuất hiện trước họ trong một hào quang chói lọi và thuyết pháp cho họ. Piṅgiya ngay sau đó trở thành một *Arahant* và Bāvarī trở thành một *Anāgāmī*.
+
+Trong thời của Kassapa Buddha, Bāvarī là Vua Kaṭṭhavāhana (*q.v.*). Khi nghe nói về Đức Phật từ người bạn của mình là vua của Benares, ông đã cử các sứ giả, bao gồm cả cháu trai của mình, đi tìm hiểu về Đức Phật và báo cáo lại cho ông. Nhưng người cháu trai trở về với tin báo về sự viên tịch của Đức Phật, điều đã xảy ra trước khi họ đến Benares. Do đó, Kaṭṭhavāhana, người đã chấp nhận giáo pháp của Đức Phật, đã tham gia vào nhiều thiện sự và sau khi qua đời đã được tái sinh vào cõi Kāmāvacara *Deva*. Từ đó, ông được sinh ra trong gia đình của vị tế sư của Pasenadi và là thầy giáo thời niên thiếu của Pasenadi. Không muốn ở lại hoàng cung lâu hơn, ông đã từ biệt nhà vua và sống trong khu vườn hoàng gia như một đạo sĩ. Sau đó, vì mong muốn sự bình yên hơn nữa, ông đã lui về một hòn đảo (*antaradīpa*) trên sông Godhāvarī, nơi hai vị vua Assaka và Aḷaka đã ban cho ông một vùng đất, rộng năm do-tuần, vốn là nơi cư ngụ của các bậc hiền triết ngày xưa. Chính từ nơi này, ông đã cử các đệ tử của mình đến gặp Đức Phật (Snp­a.575ff.; AN­a.i.182ff). Vào thời điểm đó, ông đã một trăm hai mươi tuổi. Bāvarī là tên *gotta* của ông. Ông mang trên cơ thể mình ba trong số các tướng của một bậc Vĩ nhân. Snp.vs.1019.
 
 ## Notes

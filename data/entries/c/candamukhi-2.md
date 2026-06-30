@@ -5,7 +5,7 @@ base_headword: "Candamukhī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candamukhī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamukhī. Vợ của Metteyya Buddha trong đời sống cư sĩ cuối cùng của ngài. Anāgatavaṁsa, p.48.
 
 ## Notes

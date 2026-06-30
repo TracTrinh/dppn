@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "08"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 08. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 08. Một Bà-la-môn, cha của Vidhurapaṇḍita (Ja 545). Ja.vi.262.
 
 ## Notes

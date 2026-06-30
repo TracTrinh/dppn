@@ -5,7 +5,7 @@ base_headword: "Sabbaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -38,6 +38,10 @@ He is probably to be identified with <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbaka (Sappaka). Một vị *Arahant* Thera. Ngài thuộc một gia đình Bà-la-môn ở Sāvatthī, và, sau khi nghe Đức Phật thuyết pháp, đã gia nhập Tăng đoàn. Ngài sống tại *vihāra* Loṇagiri (các cách đọc khác: *vihāra* Lena), trên bờ sông Ajakaraṇī, thực hành thiền định, và, đến lúc thích hợp, đã đạt quả vị *Arahant*. Ngài đã đến thăm Sāvatthī để đảnh lễ Đức Phật, và ở lại đó vài ngày, được những người thân của ngài khoản đãi. Khi ngài muốn trở về chỗ ở của mình, họ đã cầu xin ngài ở lại và được họ cúng dường, nhưng ngài đã từ chối vì ngài yêu thích sự ẩn dật. Những vần kệ mà ngài đã thốt lên vào dịp này được ghi lại trong Thag.vs.307-10.
+
+Ba mươi mốt *kappa* trước ngài là một vị vua Nāga có quyền năng to lớn, người, sau khi nhìn thấy Pacceka Buddha Sambhavaka, chìm đắm trong *samādhi*, dưới bầu trời rộng mở, đã ở lại bên cạnh vị ấy cầm một bông hoa sen che trên đầu vị ấy (Thag­a.i.399f).
+
+Ngài có lẽ được nhận diện với Padumapūjaka của Apadāna. Ap.i.279 f; cf. Ap.ii.453f. (Padumudhāriya).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekanāḷā"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,6 @@ Ekanāḷā. A Brahmin village near <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekanāḷā. Một làng Bà-la-môn gần Dakkhiṇagiri, ở phía nam Rājagaha. Một lần, trong năm thứ mười một của đời hoằng hóa, Đức Phật đến thăm làng và thuyết cho Kāsī Bhāradvāja bài *Sutta* mang tên ông, bài kinh đã khiến ông quy hướng về đức tin (Sn.pp.12ff; Snp-a.i.136; SN.i.172ff). Gần làng là Dakkhiṇagirivihāra. SN­a.i.188.
 
 ## Notes

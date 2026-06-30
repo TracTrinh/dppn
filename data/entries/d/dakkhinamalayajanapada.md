@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇamalayajanapada"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dakkhiṇamalayajanapada. The mountainous country in South Ceylon; difficult of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇamalayajanapada. Vùng núi ở Nam Ceylon; khó tiếp cận và chỉ cung cấp một đời sống gian khổ. AN­a.i.52.
 
 ## Notes

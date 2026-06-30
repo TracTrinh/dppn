@@ -5,7 +5,7 @@ base_headword: "Sabbābhibhū"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbābhibhū. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbābhibhū. Một vị Pacceka Buddha. Ap.i.299.
 
 ## Notes

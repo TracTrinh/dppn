@@ -5,7 +5,7 @@ base_headword: "Ekabbohārā"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekabbohārā. One of the divisions of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekabbohārā. Một trong các phân phái của Mahā Saṅghikas (Dpv.v.40; Mhv.v.4). Họ được gọi như vậy vì chủ trương rằng “tất cả giáo pháp được hiểu bằng một trí tuệ độc nhất và tức thời, vì tất cả giáo pháp của Đức Phật đều được trí năng thấu triệt.” (Mhv.187f). Trong số các chủ trương khác, họ cho rằng các Tathāgata không chịu sự chi phối của các quy luật thế gian; rằng các *Dhammacakka* của tất cả Tathāgata không đồng nhất; Bodhisatta không trải qua các giai đoạn phát triển phôi thai nối tiếp nhau; rằng ngài tùy ý sinh vào giữa các chúng sinh thấp kém để cứu độ nhân loại; với trí tuệ của chúng ta, bốn chân lý được hiểu biết một cách hoàn toàn; người đã thành tựu viên mãn sự chế ngự đúng đắn thì đã đoạn bỏ mọi *yoga* (sự ràng buộc). Rockhill, op.cit., 183.
 
 ## Notes

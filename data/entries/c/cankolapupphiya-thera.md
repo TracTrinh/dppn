@@ -5,7 +5,7 @@ base_headword: "Caṅkolapupphiya Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Caṅkolapupphiya Thera. An *Arahant*. In the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅkolapupphiya Thera. Một *Arahant*. Vào thời của Vipassī Buddha vị ấy được biết đến với tên gọi Nārada Kassapa và đã cúng dường cho Đức Phật một bông hoa *caṅkola*. Bảy mươi tư *kappa* trước vị ấy là một vị vua tên là Romasa. Ap.i.215.
 
 ## Notes

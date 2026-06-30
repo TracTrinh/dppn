@@ -5,7 +5,7 @@ base_headword: "Sa-ādhānavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sa-ādhānavagga. The sixth chapter of the *Aṭṭhakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sa-ādhānavagga. Phẩm thứ sáu của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya. AN.iv.274-93.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddayānikā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,8 @@ They also held the view that the corruptions were put away by slices. Mrs. Rhys 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddayānikā. Một chi nhánh của những kẻ ngoại đạo Vajjiputtaka (Mhv.v.7; Dpv.v.46). Các giáo thuyết của họ giống với giáo thuyết của những người Dhammuttariya; trong sự sinh là vô minh và trong sự diệt của sinh là sự diệt của vô minh (Rockhill, op.cit., 194).
+
+Họ cũng giữ quan điểm rằng những sự ô nhiễm đã bị loại bỏ theo từng phần. Mrs. Rhys Davids, *Points of Controversy*, p. 130.
 
 ## Notes

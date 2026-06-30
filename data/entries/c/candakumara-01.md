@@ -5,7 +5,7 @@ base_headword: "Candakumāra"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -33,6 +33,6 @@ Candakumāra 01. The son and viceroy of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candakumāra 01. Người con trai và phó vương của Ekarāja, vua xứ Pupphavatī (Benares). Ngài chính là Bodhisatta. Để biết câu chuyện của ngài, hãy xem *Khaṇḍahālajātaka* (Ja 542, Ja.vi.131ff). Nó cũng được đưa ra trong *Cariyāpiṭaka* (p.77) với tên là *Candakumāracariyā*. Canda đôi khi được gọi là Candaka (Cp. p.144) và đôi khi là Candiya. Sđd., 137, 152, 154
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candabhāgā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candabhāgā 01. Một dòng sông ở Ấn Độ. Nó là dòng sông thứ ba mà Mahā Kappina và vợ ngài đã vượt qua trên đường từ đất nước của mình, ở phía tây bắc, đến Sāvatthī (Thag­a.i.508). Dòng sông sâu một do-tuần và rộng một do-tuần (Dhp­a.ii.120) và dài mười tám do-tuần, với dòng chảy xiết (DN­a.iii.877, 878). Trên bờ sông có một cây đa lớn nơi Đức Phật chờ đợi sự xuất hiện của Kappina (AN­a.i.177; SN­a.ii.179). Kinh *Milinda* (p.114) đề cập đến nó như một trong mười dòng sông quan trọng bắt nguồn từ Himālaya. Tên này rõ ràng là rất cổ, vì nó xuất hiện trong nhiều truyền thuyết cổ (e.g., Ap.i.75; Thag­a.i.390; Thīg­a.9, etc.).
+
+Candabhāgā thường được nhận diện với Chenab (Akesines của người Hy Lạp). Nhưng xem *Brethren*, 255, n.1.
 
 ## Notes

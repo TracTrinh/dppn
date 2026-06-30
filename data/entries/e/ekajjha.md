@@ -5,7 +5,7 @@ base_headword: "Ekajjha"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekajjha. A king of fifty-seven *kappas* ago; a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekajjha. Một vị vua của năm mươi bảy *kappa* trước; một tiền thân của Phaladāyaka Thera (Ap.i.239).
 
 ## Notes

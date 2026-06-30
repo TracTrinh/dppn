@@ -5,7 +5,7 @@ base_headword: "Caṅkamasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Caṅkamasutta. The five advantages of a *caṅkama* (cloister): it trains one t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṅkamasutta. Năm lợi ích của một *caṅkama* (lối đi kinh hành): nó rèn luyện người ta đi bộ đường dài, khuyến khích sự tinh tấn, mang lại sức khỏe, giúp tiêu hóa tốt và thúc đẩy sự tập trung. AN.iii.29.
 
 ## Notes

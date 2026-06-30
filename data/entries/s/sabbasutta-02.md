@@ -5,7 +5,7 @@ base_headword: "Sabbasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbasutta 02. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbasutta 02. Tên khác của Ambapālisutta 2 (xem từ này).
 
 ## Notes

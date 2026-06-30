@@ -5,7 +5,7 @@ base_headword: "Dakarakkhasajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dakarakkhasajātaka (Ja 517). No story is related, but the reader is referred to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakarakkhasajātaka (Ja 517). Không có câu chuyện nào được kể, nhưng người đọc được dẫn đến Mahā Ummaggajātaka (Ja 546) để biết chi tiết (Ja.v.75). Sự dẫn chiếu rõ ràng là đến Dakarakkhasapañha.
 
 ## Notes

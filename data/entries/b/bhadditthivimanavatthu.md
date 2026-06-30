@@ -5,7 +5,7 @@ base_headword: "Bhadditthivimānavatthu"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhadditthivimānavatthu. The story of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadditthivimānavatthu. Câu chuyện của Bhaddā, vợ của Rohaka. Xem Bhaddā (4).
 
 ## Notes

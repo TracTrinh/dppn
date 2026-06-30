@@ -5,7 +5,7 @@ base_headword: "Candamukhasiva"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Candamukhasiva. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamukhasiva. Con trai của Iḷanāga và là vua của Ceylon trong tám năm và bảy tháng (103-112 CN). Vợ của ông là Damiḷādevī. Ông đã bị giết bởi người em trai là Yasalālakatissa. Siva đã xây dựng một hồ chứa nước gần Maṇikāragāma mà ông đã tặng cho Issarasamaṇārāma (Dpv.xxi.44; Mhv.xxxv.46). Khi Iḷanāga bị những người Lambakaṇṇas bắt làm tù binh, hoàng hậu của ông đã gửi Candamukhasiva bé nhỏ cho voi nhà nước để voi giết chết cậu bé, nhưng con voi đã đón lấy cậu và mang lại sự giải thoát cho Iḷanāga. Ibid., vs.20ff.
 
 ## Notes

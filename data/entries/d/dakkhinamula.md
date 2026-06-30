@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇamūla"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dakkhiṇamūla. A monastery, perhaps identical with the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇamūla. Một tu viện, có lẽ đồng nhất với Dakkhiṇavihāra. Tại đó Vohārikatissa dựng một lọng che trên *Thūpa* (Mhv.xxxvi.33). Mahā Vaṁsaṭīkā (p.662) gọi nó là Dakkhiṇamūlavāsa.
 
 ## Notes

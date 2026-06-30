@@ -5,7 +5,7 @@ base_headword: "Dadhivāhana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dadhivāhana. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dadhivāhana. Vua của Benares. Xem Dadhivāhanajātaka (Ja 186).
 
 ## Notes

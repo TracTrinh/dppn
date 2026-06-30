@@ -5,7 +5,7 @@ base_headword: "Belaṭṭhasīsa Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -44,6 +44,16 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Belaṭṭhasīsa Thera. Một vị *Arahant*, vị tế sư của Ānanda. Có một lần ông bị mắc bệnh scorbut và các y của ông dính chặt vào người. Các tỳ-kheo sau đó đã vẩy nước vào các y, nhưng khi Đức Phật nghe nói về điều đó ngài đã đặt ra một điều luật cho phép các biện pháp trị liệu cần thiết (Vin.i.202, 295f).
+
+Tại một thời điểm, vị Thera này thường nằm trong khu rừng nơi ông cất giữ một kho gạo luộc phơi khô. Khi ông cần thức ăn, sau khi xuất *samāpatti* ông sẽ rắc nước lên gạo và ăn nó thay vì đi khất thực. Khi điều này được báo cáo lên Đức Phật, ngài đã khiển trách Belaṭṭhasīsa vì đã tích trữ thức ăn và ban hành một điều luật nghiêm cấm điều này (Vin.iv.86).
+
+Tuy nhiên, Chú giải Dhammapada (Dhp­a.ii.171) nói rằng lỗi này đã được thực hiện sau khi điều luật đã được đặt ra, và, bởi vì thức ăn được cất giữ, không phải vì lòng tham mà do sự thiếu tham muốn, Đức Phật đã tuyên bố Belaṭṭhasīsa vô tội.
+
+Belaṭṭhasīsa là một người Bà-la-môn ở Sāvatthī đã xuất gia dưới sự hướng dẫn của Uruvelā Kassapa trước sự Giác ngộ của Đức Phật và đã được hóa độ khi Uruvelā Kassapa trở thành người đi theo Đức Phật.
+
+Ông đã từng là một vị tỳ-kheo trong thời của Padumuttara Buddha, nhưng không thể đạt được thành tựu nào. Có một lần ông đã dâng một trái *mātuluṅga* cho Vessabhū Buddha (Thag­a.i.67 ff.; Thag.vs.16).
+
+Ông có lẽ đồng nhất với Mātuluṅgaphaladāyaka của Apadāna. Ap.ii.446.
 
 ## Notes

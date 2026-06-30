@@ -5,7 +5,7 @@ base_headword: "Ekadhammavagga"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekadhammavagga 02. The first chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammavagga 02. Chương đầu tiên của Anāpānāsaṁyutta thuộc Saṁyuttanikāya. SN.v.311-41.
 
 ## Notes

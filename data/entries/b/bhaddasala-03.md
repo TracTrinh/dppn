@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhaddasāla 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 03. Bhaddasāla Thera, *v.1.* Bhaddanāma. Một vị *Arahant*. Ông đã tháp tùng Mahinda đến Ceylon (Mhv.xii.7; Dpv.xii. 12, 38; Vin-a.i. 62, 70). Sirimeghavaṇṇa đã tạo một bức tượng của ông và đặt nó trong một điện thờ gần cung điện của mình. Cv.xxxvii.87.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candakumāra"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Candakumāra 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candakumāra 02. Con trai của Brahmadatta, vua xứ Benares; và là anh trai của Mahiṁsaka và Suriyakumāra. Ngài được nhận diện là Sāriputta. Để biết chi tiết, hãy xem *Devadhammajātaka* (Ja 6). Ja.i.127ff; Dhp­a.iii.73ff.
 
 ## Notes

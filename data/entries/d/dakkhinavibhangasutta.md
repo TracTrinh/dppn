@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇāvibhaṅgasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,8 @@ The *Sutta* is found word for word in the *Sūtrālaṅkāra* (Sylvan Levi: JA.1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇāvibhaṅgasutta. Một lần, khi Đức Phật đang trú tại Nigrodhārāma ở Kapilavatthu, Pajāpati Gotamī dâng lên Ngài hai tấm vải do chính bà dệt trên khung cửi của mình. Đức Phật bảo bà hãy dâng món quà của mình cho tăng đoàn các vị sư thay vì dâng riêng cho Ngài, vì nhờ vậy bà sẽ được công đức lớn hơn. Rồi Ngài tiếp tục mô tả các loại người nhận quà khác nhau, các loại người cho khác nhau và các mức độ thanh tịnh trong các phẩm vật cúng dường (MN.iii.253ff).
+
+*Sutta* này được tìm thấy từng chữ một trong *Sūtrālaṅkāra* (Sylvan Levi: JA.1908, xx.99) và thường được trích dẫn, e.g., Mil.258; MN­a.i.152; cũng được đưa vào các tuyển tập - e.g., Suttasaṅgaha.
 
 ## Notes

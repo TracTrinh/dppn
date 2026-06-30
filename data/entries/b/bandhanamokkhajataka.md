@@ -5,7 +5,7 @@ base_headword: "Bandhanamokkhajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,8 @@ The story was told in reference to the attempt of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhanamokkhajātaka (Ja 120). Bodhisatta từng làm vị giáo sĩ hoàng gia cho vua Brahmadatta. Trong lúc nhà vua đi vắng để dẹp yên cuộc nổi loạn ở biên giới, hoàng hậu của ông đã phạm tội ngoại tình với tất cả những sứ giả được nhà vua phái đến để hỏi thăm sức khỏe của bà. Vào ngày nhà vua trở về, vị giáo sĩ trong lúc trang hoàng cung điện đã đi vào khuê phòng của hoàng hậu, và bà yêu cầu ông thỏa mãn nhục dục cho bà. Khi ông từ chối, hoàng hậu (giả vờ ốm) đã vu khống ông có hành vi ngược đãi mình. Do đó, nhà vua ra lệnh chặt đầu vị giáo sĩ, nhưng ông đã xin được đưa đến trước nhà vua, tại đây ông khẳng định sự vô tội của mình và chứng minh tội ác của hoàng hậu bằng lời khai của các sứ giả của nhà vua. Nhà vua muốn xử tử hoàng hậu và tất cả các sứ giả, nhưng vị giáo sĩ đã can ngăn thay cho họ và họ đã được ân xá. Bản thân ông thì lui về Himālaya, nơi ông trở thành một tu sĩ khổ hạnh.
+
+Câu chuyện được kể liên quan đến âm mưu của Ciñcā nhằm bôi nhọ Đức Phật. Hoàng hậu được đồng nhất với Ciñcā và nhà vua với Ānanda. Ja.i.437ff.
 
 ## Notes

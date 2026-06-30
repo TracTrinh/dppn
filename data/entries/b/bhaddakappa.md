@@ -5,7 +5,7 @@ base_headword: "Bhaddakappa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhaddakappa. A *kappa* such as the present in which five Buddhas are born. Bv­a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddakappa. Một *kappa* giống như hiện tại trong đó có năm vị Phật ra đời. Bv­a.159.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candābha"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ In a previous birth he was a forester and formed a friendship with a merchant to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candābha 01. Candābha Thera. Một *Arahant*. Ngài thuộc về một gia đình Bà-la-môn giàu có ở Rājagaha và được gọi là Candābha vì từ vòng rốn của ngài phát ra một luồng ánh sáng giống như dĩa mặt trăng. Khi ngài lớn lên, các Bà-la-môn cho ngài ngồi trên một cỗ xe ngựa và đưa đi khắp nơi, tuyên bố rằng bất cứ ai vuốt ve cơ thể ngài sẽ nhận được sức mạnh và vinh quang. Bằng cách này, họ đã kiếm được rất nhiều tiền. Một ngày nọ, ở Sāvatthī, một cuộc tranh cãi đã nổ ra giữa các Bà-la-môn và những người theo Đức Phật về những năng lực siêu nhiên của Candābha, và cuối cùng họ đã đưa ngài đến gặp Đức Phật để ngài giải quyết cuộc tranh cãi. Khi Candābha đến gần Đức Phật, ánh sáng từ cơ thể ngài biến mất và Candābha, nghĩ rằng điều này là do một bùa chú nào đó, đã yêu cầu được dạy bùa chú đó. Đức Phật quy định rằng ngài phải gia nhập Tăng đoàn. Sau khi làm như vậy, Candābha được yêu cầu thiền định về ba mươi hai thể trược của cơ thể. Ngay sau đó ngài trở thành một *Arahant*.
+
+Trong một kiếp trước, ngài là một người kiểm lâm và đã kết bạn với một thương nhân, người mà ngài cung cấp gỗ đàn hương đỏ. Một ngày nọ, khi ngài đến thăm thương nhân ở thị trấn, ngài đã được ông đưa đến nơi đang dựng một ngôi đền trên di hài của Đức Phật Kassapa. Người kiểm lâm đã làm một dĩa mặt trăng từ gỗ đàn hương và đặt nó bên trong ngôi đền. Sau khi chết, trong suốt một khoảng thời gian giữa hai vị Phật, ngài đã ở Tāvatiṁsa và được biết đến là *Deva* Candābha. Dhp­a.iv.187ff; phiên bản của Snp­a. (ii.523ff) khác với phiên bản này ở một số chi tiết.
 
 ## Notes

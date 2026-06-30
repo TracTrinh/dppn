@@ -5,7 +5,7 @@ base_headword: "Daddarajātaka"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daddarajātaka 01. (Ja 172). Xưa kia Bodhisatta là một con sư tử và sống cùng đoàn tùy tùng trong Rajataguhā, trong khi ở một hang gần đó có một con chó rừng sống. Một ngày nọ, khi các sư tử đang rống và nô đùa, con chó rừng cố bắt chước chúng, và các sư tử im lặng vì quá xấu hổ.
+
+Câu chuyện được kể liên quan đến Kokālika, người cố bắt chước tài hùng biện của các vị sư uyên bác ở Manosilā nhưng thất bại thảm hại. Con chó rừng được đồng nhất với Kokālika. Ja.ii.65ff.
 
 ## Notes

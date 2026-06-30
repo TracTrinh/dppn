@@ -5,7 +5,7 @@ base_headword: "Candapadumā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candapadumā 02. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candapadumā 02. Vợ của Tirīṭavaccha và là mẹ của Mahā Kaccāna (Ap.ii.465).
 
 ## Notes

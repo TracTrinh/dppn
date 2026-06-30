@@ -5,7 +5,7 @@ base_headword: "Sacca"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sacca. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sacca. Một vị Pacceka Buddha. MN.iii.70; Ap­a.i.107.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candasuriya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candasuriya. A friend of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candasuriya. Một người bạn của Mahā Dhanadeva. Xem Ariyagālatissa.
 
 ## Notes

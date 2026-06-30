@@ -5,7 +5,7 @@ base_headword: "Saccabaddha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,8 @@ There is in Siam a sacred mountain called Saccabandhava, which holds a footprint
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccabaddha, Saccabandha. Một ngọn núi nằm giữa Sāvatthī và Sunāparanta. Đức Phật đã dừng lại ở đó trên đường Ngài đi gặp Puṇṇa ở Sunāparanta, và thuyết pháp cho vị ẩn sĩ sống trên ngọn núi này, người cũng mang tên là Saccabaddha. Vào cuối bài pháp, vị ẩn sĩ đã trở thành một vị *Arahant*. Từ Saccabaddha, Đức Phật đã đi đến Sunāparanta. Trên đường quay trở lại Sāvatthī, Ngài đã dừng lại tại con sông Nammadā, và từ đó Ngài đi tiếp đến Saccabaddha, nơi Ngài đã để lại dấu chân của Ngài trên mặt đá cứng một cách rõ ràng giống như trên đất sét nhào nặn. Từ Saccabaddha, Ngài đã quay về Jetavana (SN­a.iii.17f.; MN­a.ii.1017f).
+
+Ở Xiêm (Siam) có một ngọn núi thiêng tên là Saccabandhava, nơi có lưu giữ một dấu chân của Đức Phật, được cho là đã xuất hiện ở đó một cách mầu nhiệm. Có lẽ nó được nhận diện với ngọn núi kể trên. Vua Dhammika của Xiêm đã gửi một mô hình của dấu chân này, cùng với những món quà khác, cho Kittisirirājasīha, vua của Tích Lan. Cv. c. 253; Cv.Trs.ii.295, n.2.
 
 ## Notes

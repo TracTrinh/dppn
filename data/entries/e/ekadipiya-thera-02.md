@@ -5,7 +5,7 @@ base_headword: "Ekadīpiya Thera"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekadīpiya Thera 02. An *Arahant*. In the past he had lighted a lamp before the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadīpiya Thera 02. Một *Arahant*. Trong quá khứ, ngài đã thắp một ngọn đèn trước cây *salala-bodhi* của Buddha Padumuttara. Mười sáu nghìn *kappa* trước, ngài bốn lần làm vua dưới tên Candābha. Ap.i.189.
 
 ## Notes

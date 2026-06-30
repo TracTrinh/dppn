@@ -5,7 +5,7 @@ base_headword: "Sabbananda Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbananda Thera. A disciple of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbananda Thera. Một đệ tử của Kassapa Buddha, người được lưu lại ở Tích Lan (khi đó được biết đến như là Maṇḍadīpa) cùng với một ngàn vị tỳ-kheo, khi Đức Phật đã đến viếng thăm hòn đảo này. Mhv.xv.158; Dpv.xv.60, 64; xvii.25; Vin-a.i.87.
 
 ## Notes

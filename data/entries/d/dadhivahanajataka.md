@@ -5,7 +5,7 @@ base_headword: "Dadhivāhanajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ The story was related to illustrate the effects of evil association (Ja.ii.101-6
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dadhivāhanajātaka (Ja 186). Xưa kia bốn anh em ở Kāsi trở thành những nhà khổ tu trong Himālaya. Người anh cả chết và sinh làm Sakka; vị ấy đến thăm những người còn lại và lần lượt cho họ một chiếc rìu-cạo thần kỳ, có thể dùng làm dao cạo hoặc rìu; một chiếc trống, một mặt xua đuổi voi, còn mặt kia khiến chúng trở thành bạn; và một cái bát từ đó dòng sữa đông chảy ra theo ý muốn của người sở hữu. Trên một hòn đảo xinh đẹp xa xôi có một con lợn rừng sở hữu viên ngọc giúp người sở hữu nó đi được trên không. Một thủy thủ bị đắm tàu từ Kāsi đã đánh cắp viên ngọc này khi con lợn rừng ngủ, và nhờ nó đi đến Himālaya. Ở đó ông thấy các nhà khổ tu, và để đổi lấy viên ngọc, nhận từ họ các vật sở hữu thần kỳ, sau đó quay lại giết họ, nhờ vậy lấy lại viên ngọc. Rồi ông đi đến Benares và chiếm lấy ngai vàng, được biết đến là vua Dadhivāhana, vì ông tiêu diệt kẻ thù bằng cách dìm họ trong một dòng sông sữa đông. Trong vườn của ông mọc một cây xoài, nảy lên từ một quả xoài trôi xuống từ hồ Kaṇṇamuṇḍa. Ông gửi quả từ cây này làm quà cho các vua lân bang, nhưng luôn dùng gai chích vào hạt xoài để nó không thể sinh trái. Một lần, một vị vua bị xúc phạm gửi đến Dadhivāhana một người làm vườn mà ông đã hối lộ để phá hương vị của xoài. Nhà vua nhận người ấy vào làm, nhưng người làm vườn, bằng cách trồng các dây leo đắng quanh cây xoài, đã phá hương vị của trái. Bodhisatta, lúc ấy là vị cố vấn của nhà vua, phát hiện âm mưu và cho nhổ bỏ các dây leo.
+
+Câu chuyện được kể để minh họa tác động của sự giao du xấu (Ja.ii.101-6).
 
 ## Notes

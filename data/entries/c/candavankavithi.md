@@ -5,7 +5,7 @@ base_headword: "Candavaṅkavīthi"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candavaṅkavīthi. A street in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candavaṅkavīthi. Một con đường ở Anurādhapura. Ras.ii.123.
 
 ## Notes

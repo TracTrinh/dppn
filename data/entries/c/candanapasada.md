@@ -5,7 +5,7 @@ base_headword: "Candanapāsāda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candanapāsāda. A building in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanapāsāda. Một tòa nhà trong Maricavaṭṭivihāra được dựng lên bởi Mahinda IV. Nơi này là nơi cất giữ Xá-lợi Tóc của Đức Phật trong một hộp đựng thánh tích nạm ngọc. Cv.liv.40f.
 
 ## Notes

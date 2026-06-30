@@ -5,7 +5,7 @@ base_headword: "Sabbadinna"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbadinna. One of the attendants of King <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbadinna. Một trong những thị giả của Vua Milinda. Mil. pp. 29, 56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabbakāma"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -42,6 +42,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbakāma 02. (Các cách đọc khác: Sabbakāmī). Một vị *Arahant* Thera. Ngài sinh ra trong một gia đình quý tộc ở Vesālī, không lâu trước khi Gotama Buddha viên tịch. Khi đến tuổi trưởng thành, ngài đem tặng tài sản của mình cho những người thân trong họ và gia nhập Tăng đoàn dưới sự chỉ dẫn của Ānanda. Trong quá trình tu tập, ngài đã cùng vị thầy của mình trở lại Vesālī và đến thăm gia đình ngài. Người vợ trước đây của ngài, đau khổ, hốc hác, ăn mặc tiều tụy và đang rơi lệ, đã chào đón ngài và đứng cạnh ngài. Nhìn thấy bà như vậy, ngài vô cùng xúc động vì tình thương và lòng xót xa, và cảm thấy dục vọng dâng lên. Khi ngài nhận ra điều này, ngài đã tràn ngập đau đớn và vội vã đi đến nghĩa địa, ở đó để thiền định về sự bất tịnh. Ngài phát triển tuệ quán và trở thành một vị *Arahant*. Về sau, cha vợ của ngài dẫn người vợ của ngài đến *vihāra*, ăn mặc lộng lẫy, và đi cùng với một đoàn tùy tùng lớn, hy vọng sẽ làm ngài hoàn tục, nhưng vị Thera đã thuyết phục họ rằng ngài đã gột sạch bản thân khỏi tất cả những ham muốn như vậy. Xem Thag.vss.453-8.
+
+Sabbakāma sống đến một trăm hai mươi tuổi, và đã được Yasa, Soreyya Revata, và những người khác thỉnh ý, liên quan đến tà kiến Vajjiputta. Vào thời điểm đó, ngài là vị Thera lớn tuổi nhất trên thế giới. Ngài ngồi trong ủy ban được bổ nhiệm để xem xét các điểm đang tranh chấp và đã đưa ra quyết định chống lại những người Vajjiputtakas, đưa ra những lý lẽ của ngài cho từng điểm một. Để biết chi tiết, xem Vin.ii.303ff.; cũng xem Dpv.iv.49; v. 22; Mhv.iv.48, 576; Vin-a.i.34.
+
+Chú giải Theragāthā có thêm vào (Thag­a.i.467) rằng, trước khi chết, Sabbakāma đã thỉnh cầu vị Phạm thiên Tissa (sau này là Moggaliputtatissa) để mắt đến những tà kiến, thứ sẽ nảy sinh vào thời kỳ của Asoka, nhằm trấn áp chúng. Quyết tâm xóa bỏ tà kiến của Sabbakāma đã được tạo ra trong thời đại của Padumuttara Buddha. Thag­a.i.465f.
 
 ## Notes

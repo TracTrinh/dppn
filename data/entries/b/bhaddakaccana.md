@@ -5,7 +5,7 @@ base_headword: "Bhaddakaccānā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -44,6 +44,10 @@ Later, six of her brothers came to Ceylon and settled in different parts; the br
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddakaccānā. Người con út trong số những người con của Paṇḍu, người Sākyan. Bà xinh đẹp đến nỗi có bảy vị vua đã đến cầu xin được cưới bà. Cha bà, không thể quyết định giữa những người cầu hôn bà, đã đưa bà lên một chiếc thuyền cùng với ba mươi hai người bạn và hạ thủy chiếc thuyền xuống sông Ganges. Chiếc thuyền đã đến Goṇagāmaka ở Ceylon vào một ngày sau đó, nơi những người phụ nữ bước lên bờ, ăn mặc như những nữ tu. Đến lúc thích hợp họ đi đến Upatissagāma, nơi nhà vua, Paṇḍuvāsudeva, được các nhà tiên tri báo trước, đã chờ đợi sự xuất hiện của họ và kết hôn với Bhaddakaccānā.
+
+Về sau, sáu người anh em trai của bà đã đến Ceylon và định cư ở các vùng khác nhau; những người anh em trai này là Rāma, Uruvela, Anurādha, Vijita, Dīghāyu và Rohaṇa. Người anh em trai thứ bảy, Gāmaṇi, ở lại quê nhà.
+
+Bhaddakaccānā có mười người con, người lớn nhất là Abhaya và người nhỏ nhất là Ummādacittā. Mhv.viii.18ff.; ix. 1, 9 f.; Dpv.x.1ff.
 
 ## Notes

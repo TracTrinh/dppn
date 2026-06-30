@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddasāla 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 06. Bhaddasāla Thera. Một vị tỳ-kheo của Ceylon. Mahā Siva vô cùng tận tâm với ông, và đã xây dựng cho ông *Nagaraṅgaṇavihāra* ở phía đông của Anurādhapura. Mhv.xxi.2.
 
 ## Notes

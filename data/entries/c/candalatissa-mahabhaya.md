@@ -5,7 +5,7 @@ base_headword: "Caṇḍālatissa Mahābhaya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ Comparison of this story with the account given elsewhere (e.g., Vibh­a.445ff) 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍālatissa Mahābhaya. Theo Aṅguttara Commentary (AN­a.i.52), đã từng có một thời kỳ đại thảm họa ở Ceylon, được gọi là *Caṇḍālatissabhaya*. Khi đó không có thức ăn, và Sakka đã cung cấp cho các nhà sư một chiếc bè để vượt biển. Tuy nhiên, sáu mươi nhà sư vẫn ở lại Ceylon, gìn giữ kinh điển. Mười hai năm sau, khi mối nguy đã qua, các nhà sư đã rời đi nay quay trở lại và cư ngụ tại Maṇḍalārāma ở Kallagāma (Kāḷakagāma?). Tại đó hai nhóm nhà sư đã gặp nhau và, khi so sánh các bản ghi chép kinh điển của họ, người ta thấy chúng không khác nhau đến một âm tiết hay thậm chí một chữ cái nào.
+
+Sự so sánh câu chuyện này với tài liệu được đưa ra ở nơi khác (ví dụ: Vibh­a.445ff) về *Brāhmaṇatissacorabhaya* gợi ý mạnh mẽ rằng cả hai đều đề cập đến cùng một tài liệu. Để biết chi tiết, xem Brāhmaṇatissa.
 
 ## Notes

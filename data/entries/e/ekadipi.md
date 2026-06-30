@@ -5,7 +5,7 @@ base_headword: "Ekadīpi"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekadīpi. The abode of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadīpi. Nơi cư trú của Ekadīpiya khi ngài sinh vào cõi *Deva*. Luôn có một trăm nghìn ngọn đèn cháy sáng trong Ekadīpi. Ap.ii.373.
 
 ## Notes

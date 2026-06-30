@@ -5,7 +5,7 @@ base_headword: "Sabhāgatasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabhāgatasutta. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhāgatasutta. Chư thiên rất hoan hỷ trò chuyện với những ai có được lòng trung kiên không lay chuyển đối với Đức Phật, Pháp và Tăng đoàn, và những ai sở hữu các đức hạnh được các bậc Thánh yêu quý. SN.v.394.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candavatī"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Candavatī 03. The birthplace of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candavatī 03. Nơi sinh của Anomadassī Buddha (Ja.i.36; Bv.viii.17; Dhp­a.i.88; AN­a.i.85; xem thêm Ap.i.76). Tại đó Koṇḍañña Buddha đã trải qua mùa an cư (*vassa*) đầu tiên của ngài (Bv­a.110). Nó cũng tồn tại vào thời của Sumedha Buddha (Ap.ii.422). Nó từng là kinh đô của Vua Vijitāvī (Bv­a.111).
 
 ## Notes

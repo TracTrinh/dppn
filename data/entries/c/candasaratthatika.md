@@ -5,7 +5,7 @@ base_headword: "Candasāraṭṭhaṭīkā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candasāraṭṭhaṭīkā. A Commentary on the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candasāraṭṭhaṭīkā. Một bản Chú giải về Sambandhacintā được viết vào thế kỷ thứ mười bốn bởi Saddhammañāṇa của xứ Pagan. PLC.198.
 
 ## Notes

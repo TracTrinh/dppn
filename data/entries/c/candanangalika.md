@@ -5,7 +5,7 @@ base_headword: "Candanaṅgalika"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,8 @@ The story is very similar to that of the Brahmin <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanaṅgalika. Một cư sĩ đệ tử của Đức Phật ở Sāvatthī. Vị ấy có mặt khi năm vị *rājā* (vua), bao gồm cả Pasenadi, đến yết kiến Đức Phật và hỏi ngài đâu là lạc thú nhục dục cao nhất. Khi Đức Phật đã trả lời câu hỏi của họ, Candanaṅgalika đã xin phép ngài và thốt lên một bài kệ ca ngợi ngài. Các *rājā* ngay sau đó đã tặng cho Candanaṅgalika năm y phục mà vị ấy đã cúng dường cho Đức Phật (SN.i.81f).
+
+Câu chuyện này rất giống với câu chuyện của Bà-la-môn Piṅgiyāni và bài kệ được nói ra cũng giống hệt nhau. AN.iii.239.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Balisasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balisasutta. Dire are gains, favours and flattery, like to a flesh-baited hook, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balisasutta. Thật đáng sợ thay những lợi lộc, ân sủng và sự nịnh bợ, giống như một lưỡi câu móc mồi thịt, và Māra chính là người đi câu. SN.ii.226.
 
 ## Notes

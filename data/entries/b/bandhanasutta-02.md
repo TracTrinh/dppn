@@ -5,7 +5,7 @@ base_headword: "Bandhanasutta"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bandhanasutta 02. The Buddha once heard that <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhanasutta 02. Có một lần Đức Phật nghe nói rằng Pasenadi đã bắt giam những người đàn ông và trói họ bằng xiềng xích. Ngay sau đó Ngài tuyên bố rằng những sợi dây trói buộc của ái dục còn bền chặt hơn bất kỳ xiềng xích nào (SN.i.76). Chú giải nói rằng sự việc này có liên quan đến việc nhà vua bị mất chiếc vương miện đội đầu bằng khăn quấn (*turban diadem*). (SN­a.i.115; so sánh Bandhanāgārajātaka, Ja 201).
 
 ## Notes

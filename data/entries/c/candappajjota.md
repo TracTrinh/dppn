@@ -5,7 +5,7 @@ base_headword: "Caṇḍappajjota"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -66,6 +66,20 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="42" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍappajjota. Vua của Avanti vào thời của Gotama Buddha. Tên của ông là Pajjota, biệt danh này được thêm vào do tính khí hung bạo của ông.
+
+Một lần, khi bị ốm vì bệnh vàng da, ông đã nhờ Bimbisāra cho ông mượn sự phục vụ của Jīvaka, vì không có vị y sĩ nào khác có thể chữa khỏi cho ông. Phương thuốc chữa trị cho căn bệnh này là bơ lỏng (ghee), một thứ mà Pajjota có sự ác cảm mạnh mẽ. Vì vậy, Jīvaka đã quyết định cho ông uống nó được ngụy trang trong một loại thuốc sắc có vị chát, và đã xin phép nhà vua được sử dụng bất kỳ con vật nào của hoàng gia hoặc rời khỏi thành phố bất cứ lúc nào vị ấy muốn, với lý do rằng vị ấy phải đi tìm nhiều loại thuốc khác nhau. Khi mọi việc chuẩn bị đã hoàn tất, Jīvaka đã đưa cho nhà vua phương thuốc và bỏ trốn trên con voi cái của nhà vua, Bhaddavatikā, trước khi sự thật bị phát hiện (con voi có thể đi được năm mươi do-tuần (*yojana*) trong một ngày, và Kāka, sáu mươi). Nhà vua đã cử Kāka đuổi theo, nhưng Jīvaka đã cho Kāka uống thuốc xổ và do đó làm trì hoãn sự trở về của anh ta cho đến khi phương thuốc đã phát huy tác dụng đối với nhà vua. Sau đó, khi Pajjota đã được chữa khỏi, ông đã gửi cho Jīvaka nhiều món quà đắt tiền, bao gồm một bộ y phục làm từ vải Siveyyaka (Vin.i.276ff; AN­a.i.216).
+
+Vua Udena là đối thủ của Pajjota về sự tráng lệ, và Pajjota đã quyết định bắt ông làm tù binh bằng cách lợi dụng sự yêu thích voi của ông. Kế hoạch đã thành công và Udena bị bắt làm tù binh, nhưng cuối cùng Udena đã bỏ trốn cùng với con gái của Pajjota, Vāsuladattā, và biến bà thành hoàng hậu của mình. Bên cạnh con voi cái và người nô lệ Kāka, đã được nhắc đến ở trên, Pajjota còn có ba phương tiện chuyên chở nhanh chân khác: hai con ngựa cái, Celakaṇṭhī và Muñjakesī, cả hai đều có khả năng đi được một trăm do-tuần một ngày, và một con voi, Nālāgiri, có thể đi được một trăm hai mươi do-tuần một ngày. Trong một đời sống quá khứ, Pajjota từng là người hầu của một vị thủ lĩnh nọ. Một ngày nọ, khi vị thủ lĩnh đang trở về từ chỗ tắm, ông nhìn thấy một Pacceka Buddha rời khỏi thành phố, nơi ngài đã đi khất thực mà không nhận được bất cứ thứ gì. Vị thủ lĩnh vội vã về nhà và, thấy rằng bữa ăn của mình đã sẵn sàng, liền gửi nó cho Pacceka Buddha qua tay người hầu nhanh chân của mình. Người hầu đã đi với tất cả sự vội vã có thể và, sau khi dâng bữa ăn cho Pacceka Buddha, đã bày tỏ một số nguyện vọng, và kết quả là trong đời sống này ông đã giành được quyền sở hữu năm phương tiện chuyên chở. Ông có uy quyền ngang bằng với sức mạnh của các tia nắng mặt trời (đây có thể là một lời giải thích khác cho biệt danh Caṇḍa). Lời nguyện cuối cùng của ông là ông sẽ được dự phần vào Chân lý được Pacceka Buddha chứng ngộ (Dhp­a.i.196ff).
+
+Mahā Kaccāna là con trai của vị tế sư của Pajjota và về sau đã kế vị chức vụ của cha mình. Khi nhà vua nghe tin về sự xuất hiện của Đức Phật trên thế gian, ông đã cử Kaccāna cùng bảy người khác đến yết kiến Đức Phật, để rước ngài đến Ujjenī. Nhưng Đức Phật đã gửi Kaccāna và các bạn đồng hành của vị ấy, nay đã trở thành các *Arahant*, đến thuyết pháp cho nhà vua và thiết lập *Sāsana* ở Avanti. Chuyến đi sứ đã thành công. Theragāthā có chứa những kệ ngôn do Trưởng lão thốt lên để khuyên răn nhà vua. Người ta kể rằng nhà vua có niềm tin vào những người Bà-la-môn và đã tổ chức những buổi tế lễ liên quan đến việc tàn sát động vật; ông là một người độc ác trong những hành động của mình. Một đêm nọ, ông có một giấc mơ khiến ông sợ hãi và đã đến gặp Trưởng lão để nhờ giải thích. Trưởng lão đã nói với ông về sự cần thiết của việc sống một đời sống đạo đức. Chúng ta được biết rằng từ ngày đó nhà vua đã từ bỏ những con đường xấu xa của mình và sống một cách chân chính (Thag.vs.496-501; Thag­a.i.483ff; AN­a.i.116f).
+
+Theo *Dulva* (Rockhill, op.cit., 17), Pajjota là con trai của Anantanemi và được sinh ra cùng ngày với Đức Phật. Ông được gọi là Pajjota (Pradyota), bởi vì vào thời điểm ông sinh ra, thế gian được chiếu sáng như bởi một ngọn đèn. Ông trở thành vua của Ujjenī vào thời điểm Đức Phật Giác ngộ (Rockhill, op.cit., 32, n.1). Ông có một vị quan đại thần tên là Bharata, một thợ cơ khí tài ba (Rockhill, op.cit., 70, n.1).
+
+Có vẻ như từ Samantapāsādikā (Vin-a.i.214) thì Pajjota được sinh ra là do kết quả của việc một nhà ẩn tu, hoặc một bậc thánh nhân nào khác, đã chạm vào rốn của mẹ ông.
+
+Pajjota là bạn của Bimbisāra, và khi Bimbisāra bị Ajātasattu xử tử, Pajjota dường như đã chuẩn bị để tiến hành chiến tranh chống lại Ajātasattu. Lực lượng phòng thủ của Rājagaha đã được tăng cường để đối phó với cuộc tấn công bị đe dọa, nhưng không có chuyện gì xa hơn xảy ra (MN.iii.7).
+
+Sarabhaṅgajātaka (Ja 522, Ja.v.133) đề cập đến một vị vua Caṇḍapajjota, trong lãnh thổ của ông có Lambacūḷaka, nơi nhà ẩn tu Sālissara cư ngụ. Điều này hoặc đề cập đến một vị vua khác có cùng tên hoặc, có nhiều khả năng hơn, đó là một nỗ lực nhằm đồng nhất hóa Lambacūḷaka với một nơi nào đó trong đất nước mà Pajjota đã cai trị vào thời của Đức Phật.
 
 ## Notes

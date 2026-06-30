@@ -5,7 +5,7 @@ base_headword: "Candaka"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candaka 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candaka 03. *v.l.* Canda. Cung điện của Aṅgati, vua xứ Videha (Ja.vi.229, 230, 231) (Ja.vi.242).
 
 ## Notes

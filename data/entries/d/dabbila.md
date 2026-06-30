@@ -5,7 +5,7 @@ base_headword: "Dabbila"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dabbila. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dabbila. Một Pacceka Buddha, được nhắc đến trong một danh sách tên. MN.iii.70.
 
 ## Notes

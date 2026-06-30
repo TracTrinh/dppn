@@ -5,7 +5,7 @@ base_headword: "Candabhāgā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candabhāgā 02. A canal constructed by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candabhāgā 02. Một con kênh được Parakkamabāhu I. xây dựng, chảy qua trung tâm của Lakkhuyyāna. Cv.lxxix.48.
 
 ## Notes

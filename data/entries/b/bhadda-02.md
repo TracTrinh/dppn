@@ -5,7 +5,7 @@ base_headword: "Bhadda"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadda 02. Bhadda Thera. Ông sinh ra trong gia đình của một vị trưởng giả ở Sāvatthī. Cha mẹ ông đã đến gặp Đức Phật trước khi ông được thọ thai, và đã nói với ngài rằng nếu họ có một đứa con họ sẽ trao đứa bé cho Đức Phật như là người hầu của ngài. Khi ông bảy tuổi, họ đưa ông, trong bộ y phục đẹp nhất của mình, đến gặp Đức Phật, để thực hiện lời hứa của họ. Đức Phật yêu cầu Ānanda cho ông xuất gia. Ānanda đã làm như vậy và chỉ dạy ông, và ngay trong đêm đó Bhadda trở thành một vị *Arahant*. Đức Phật gọi ông và nói, "Lại đây, Bhadda," và đó là *upasampadā* của ông.
+
+Trong thời của Padumuttara Buddha ông đã cúng dường hàng trăm ngàn tấm y, v.v., cho Đức Phật và các tỳ-kheo của ngài. Thag.vss.473-9; Thag­a.i.474f.
 
 ## Notes

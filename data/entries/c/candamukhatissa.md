@@ -5,7 +5,7 @@ base_headword: "Candamukhatissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candamukhatissa. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamukhatissa. Majjhima Commentary có chứa một tài liệu tham khảo về một vị vua của Ceylon mang tên này. Ông đã đến thăm Trưởng lão Đứng đầu của Mahā Vihāra khi tất cả các nhà sư khác đều đi vắng, nhằm mục đích thử thách vị ấy. Trưởng lão có đôi mắt rất yếu, nhưng khi vị vua chạm vào chân vị ấy như một con rắn sẽ làm, vị ấy vẫn không sợ hãi và hỏi ai ở đó. Câu chuyện được liên hệ để cho thấy rằng các bậc *Arahant* không biết đến sợ hãi. MN­a.ii.869.
 
 ## Notes

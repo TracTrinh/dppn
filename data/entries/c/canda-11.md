@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "11"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Canda 11. Son of the Brahmin <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 11. Con trai của Bà-la-môn Paṇḍula. Về sau ông trở thành vị tư tế của Paṇḍukābhaya. Mhv.x.25, 79.
 
 ## Notes

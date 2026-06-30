@@ -5,7 +5,7 @@ base_headword: "Candanapūjaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,8 @@ Fourteen *kappas* ago he became king three times under the name of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanapūjaka Thera. Một *Arahant*. Vị ấy từng là một *Kinnara* ở Candabhāgā và sống nhờ vào các loài hoa. Vị ấy đã cúng dường một mảnh gỗ đàn hương cho Atthadassī Buddha.
+
+Mười bốn *kappa* trước vị ấy đã làm vua ba lần dưới tên gọi là Rohiṇī (Ap.i.165). Vị ấy có lẽ đồng nhất với Sīha Thera. Thag­a.i.179.
 
 ## Notes

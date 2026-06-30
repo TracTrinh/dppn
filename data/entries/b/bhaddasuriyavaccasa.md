@@ -5,7 +5,7 @@ base_headword: "Bhaddāsuriyavaccasā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddāsuriyavaccasā. Daughter of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddāsuriyavaccasā. Con gái của Gandhabba Timbarū và là người yêu của Pañcasikha.
 
 ## Notes

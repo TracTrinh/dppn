@@ -5,7 +5,7 @@ base_headword: "Sabbamitta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbamitta 03. The constant attendant of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbamitta 03. Vị thị giả thường trực của Kassapa Buddha. DN.ii.7; Bv.xxv.39; Ja.i.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candaka"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candaka 04. One of the palaces to be occupied by the future <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candaka 04. Một trong những cung điện sẽ được Đức Phật Metteyya tương lai cư ngụ. Anāgatavaṁsa, vs.46.
 
 ## Notes

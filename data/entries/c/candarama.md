@@ -5,7 +5,7 @@ base_headword: "Candārāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candārāma. Một tu viện ở Candavatī, nơi Koṇḍañña Buddha đã trải qua mùa an cư (*vassa*) đầu tiên của mình. Bv­a.110.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sabbosadha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sabbosadha. A king of eight *kappas* ago, a previous birth of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbosadha. Một vị vua của tám *kappa* trước, là một tiền kiếp của Tikicchaka Thera. Ap.i.190.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candanamāliya Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Candanamāliya Thera. An *Arahant*. He was a Brahmin who entered the Saṅgha at
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanamāliya Thera. Một *Arahant*. Vị ấy là một Bà-la-môn đã gia nhập Tăng đoàn ở tuổi lên năm, trở thành một *Arahant* trong lúc làm lễ cạo đầu. Vào thời của Sumedha Buddha vị ấy là một nhà ẩn tu đã từ bỏ tài sản to lớn. Sau khi gặp Đức Phật, vị ấy đã dâng cho ngài một chỗ ngồi và cúng dường ngài xoài, gỗ đàn hương và hoa *sāla*. Vị ấy từng là vua của thành phố Vebhāra (Ap.ii.423f). Vị ấy có lẽ đồng nhất với Valliya Thera. Xem Thag­a.i.293.
 
 ## Notes

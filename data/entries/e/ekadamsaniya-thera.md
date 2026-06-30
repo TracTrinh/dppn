@@ -5,7 +5,7 @@ base_headword: "Ekadaṁsaniya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -33,6 +33,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadaṁsaniya Thera. Một *Arahant*. Vào thời Atthadassī Buddha, ngài có tên là Nārada Kesava. Ngài nghe Đức Phật thuyết giảng và, hoan hỷ vì bài pháp, đã đảnh lễ ngài.
+
+Mười bảy *kappa* trước, ngài trở thành một vị vua dưới tên Amittatāpana (*v.l.* Amittavāsana?) (Ap.i.168f).
+
+Có lẽ ngài đồng nhất với Paviṭṭha Thera. Thag­a.i.185.
 
 ## Notes

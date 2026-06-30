@@ -5,7 +5,7 @@ base_headword: "Sabhiya"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -43,6 +43,10 @@ Sabhiya is mentioned as an example of a *paṇḍita Paribbājaka* (SN­a.ii.188
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhiya 02. Sabhiya Thera, Sabhiya Kaccāna. Mẹ ngài là con gái của một nhà quý tộc, người mà cha mẹ bà đã giao phó bà cho sự trông nom của một *Paribbājaka* (du sĩ ngoại đạo), để bà có thể học hỏi các giáo lý và tập quán khác nhau. Vị *Paribbājaka* đó đã quyến rũ bà, và, khi bà mang thai, cộng đồng du sĩ đã ruồng bỏ bà. Đứa con của bà được sinh ra ở chốn không che chắn (*sabhāyaṁ*), trong khi bà đang lang thang một mình, do đó ngài có tên này. Khi Sabhiya lớn lên, đến lượt mình, ngài cũng trở thành một *Paribbājaka* và nổi tiếng là một nhà biện chứng luận. Ngài có một am thất bên cổng thành, nơi ngài dạy học cho con cái của các quý tộc và những người khác. Ngài đã soạn ra hai mươi câu hỏi, để đưa ra trước các sa-môn và Bà-la-môn, nhưng không một ai có thể trả lời được. Những câu hỏi này đã được trao lại cho ngài bởi mẹ ngài, người đã phát triển tuệ quán và được tái sinh vào cõi Phạm thiên. (Nhưng xem Sabhiyasutta 1). Sau đó, như được kể trong Sabhiyasutta 1, Sabhiya đã đến viếng thăm Gotama Buddha tại Veḷuvana và, vào cuối cuộc đàm luận, đã gia nhập Tăng đoàn, ở đó, thông qua việc phát triển tuệ quán, ngài đã đạt được quả vị *Arahant*.
+
+Vào thời của Kakusandha Buddha, ngài là một gia chủ và đã cúng dường cho Đức Phật một đôi dép. Sau khi Kassapa Buddha viên tịch, ngài cùng với sáu người khác gia nhập Tăng đoàn và sống trong rừng. Không thể phát triển được *jhāna*, họ đã đi lên đỉnh một ngọn núi, quyết tâm đạt được một chứng đắc nào đó hoặc sẽ chết vì đói. Người lớn tuổi nhất trở thành một vị *Arahant*, người tiếp theo trở thành một vị *Anāgāmī* và được tái sinh vào Suddhāvāsa. Năm người còn lại đã chết mà không đạt được mục tiêu của họ. Năm người này, ở kiếp hiện tại, chính là Pukkusāti, Sabhiya, Bāhiya, Kumāra Kassapa và Dabba Mallaputta. Thag­a.i.381f.; Snp­a.ii.419ff.; Ap.ii.473; Dhp­a.ii.212.
+
+Sabhiya được nhắc đến như là một ví dụ về một *paṇḍita Paribbājaka* (du sĩ thông thái) (SN­a.ii.188). Một loạt các vần kệ do ngài thốt lên, nhằm khiển trách những vị tỳ-kheo theo phe của Devadatta, được ghi lại trong Theragāthā (vs. 275-8; cũng xem Mvu.iii.389ff.). Yasadatta (xem từ này) là người bạn đồng hành của Sabhiya.
 
 ## Notes

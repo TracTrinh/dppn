@@ -5,7 +5,7 @@ base_headword: "Caṇḍalakappa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ The Buddha once paid a visit there and stayed in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍalakappa. Một địa phương ở Kosala; đây là nơi cư ngụ của Dhānañjāni và của Saṅgārava.
+
+Đức Phật từng đến thăm nơi đây và lưu lại tại Todeyya­ambavana. Saṅgārava đã đến yết kiến ngài, và nhân dịp đó bài kinh Saṅgāravasutta được thuyết giảng. MN.ii.209f.
 
 ## Notes

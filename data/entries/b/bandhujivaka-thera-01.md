@@ -5,7 +5,7 @@ base_headword: "Bandhujīvaka Thera"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Bandhujīvaka Thera 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhujīvaka Thera 01. Bandhujīvaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông đã kết những bông hoa *bandhujīvaka* lại với nhau và dâng cúng lên Đức Phật Sikhī. Bảy *kappa* trước, ông là một vị vua tên là Samantacakkhu (Ap.i.175f). Ông có lẽ cũng chính là Devasabha. Thag­a.i.203f.
 
 ## Notes

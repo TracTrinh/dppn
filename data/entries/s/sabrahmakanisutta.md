@@ -5,7 +5,7 @@ base_headword: "Sabrahmakānisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabrahmakānisutta. Families in which parents are honoured and worshipped are li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabrahmakānisutta. Những gia đình mà trong đó cha mẹ được tôn kính và thờ phụng thì giống như những gia đình có Phạm thiên trú ngụ, hay những vị thầy nhân từ, hay chư thiên, hay những bậc xứng đáng được cúng dường. AN.ii.70.
 
 ## Notes

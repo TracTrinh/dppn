@@ -5,7 +5,7 @@ base_headword: "Candanasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candanasutta 01. The *Devaputta* <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanasutta 01. *Devaputta* Candana đến yết kiến Đức Phật tại Jetavana và hỏi ngài làm thế nào một người có thể vượt qua dòng lũ (*ogha*) và không bị chết đuối. Bằng sự nỗ lực không ngừng và sự tận diệt tham ái, Đức Phật nói (SN.i.53).
 
 ## Notes

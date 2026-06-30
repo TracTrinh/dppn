@@ -5,7 +5,7 @@ base_headword: "Bandhatisutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Bandhatisutta 01. Eight ways in which a woman attracts a man. AN.iv.196f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhatisutta 01. Tám cách một người phụ nữ thu hút một người đàn ông. AN.iv.196f.
 
 ## Notes

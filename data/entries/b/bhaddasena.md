@@ -5,7 +5,7 @@ base_headword: "Bhaddasena"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaddasena. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasena. Một trong mười người con trai của Kāḷāsoka.
 
 ## Notes

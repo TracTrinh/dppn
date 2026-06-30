@@ -5,7 +5,7 @@ base_headword: "Saccasaṅkhepa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -31,6 +31,6 @@ Saccasaṅkhepa. A short treatise of five chapters on <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccasaṅkhepa. Một chuyên luận ngắn gồm năm chương về các chủ đề Abhidhamma. Nó được viết bởi Cūḷa Dhammapāla (Gv.60, 71, 75; SaS.89; Svd.1220). Saddhammasaṅgaha (p. 64) cho rằng nó thuộc về người thầy của Dhammapāla là Ānanda. Vācissara và Sumaṅgala đã viết các *ṭīkā* (phụ sớ) cho quyển sách này, bản đầu tiên cổ hơn bản thứ hai. PLC.203f.
 
 ## Notes

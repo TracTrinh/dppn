@@ -5,7 +5,7 @@ base_headword: "Caṇḍasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Caṇḍasutta. Describes the visits of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍasutta. Mô tả những chuyến viếng thăm của Gāmaṇi Caṇḍa đến Đức Phật. Xem Caṇḍa (1).
 
 ## Notes

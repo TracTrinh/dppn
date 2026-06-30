@@ -5,7 +5,7 @@ base_headword: "Ekacāriya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ Sixty thousand *kappas* ago he was three times king under the name of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekacāriya Thera. Một *Arahant*. Một trăm nghìn *kappa* trước, khi ở Tāvatiṁsa, ngài nghe những âm thanh náo động lớn vì một Đức Phật đã sinh ra trong thế gian. Ngài đến viếng Đức Phật trên giường lâm chung và dâng một hoa *mandārava*.
+
+Sáu mươi nghìn *kappa* trước, ngài ba lần làm vua dưới tên Mahā Mallajana. Ap.i.196.
 
 ## Notes

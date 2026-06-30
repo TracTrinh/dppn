@@ -5,7 +5,7 @@ base_headword: "Sabbadassī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sabbadassī. One of the two chief disciples of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbadassī. Một trong hai đệ tử hàng đầu của Piyadassī Buddha (Bv.xiv.20; Ja.i.39). Ngài là con trai của vị tế sư của Sumaṅgalanagara và là bạn của Pālita (xem từ này). Bv­a.176.
 
 ## Notes

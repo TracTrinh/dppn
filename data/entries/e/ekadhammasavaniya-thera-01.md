@@ -5,7 +5,7 @@ base_headword: "Ekadhammasavaṇiya Thera"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -43,6 +43,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammasavaṇiya Thera 01. Ngài là con trai của một trưởng giả ở Setavyā, và ngài đến gặp Đức Phật, bấy giờ đang viếng thị trấn và trú trong rừng Siṁsapā. Đức Phật thuyết cho ngài về tính vô thường của tất cả các pháp hữu vi, và cuối bài pháp ngài trở thành một *Arahant*. Ngài được đặt tên như vậy vì đã chứng đạt tuệ giác chỉ nhờ nghe Pháp một lần.
+
+Vào thời Padumuttara Buddha, ngài là một thọ thần và, gặp một số tu sĩ bị lạc đường, ngài chăm sóc họ, cho họ thức ăn và chỉ đường cho họ đến nơi cần đến. Sau khi Kassapa Buddha qua đời, ngài sinh làm con trai của Suyāma và chắt của Kikī, rồi trở thành vua của Benares dưới tên Kikī Brahmadatta. Không tìm thấy ai có khả năng thuyết Pháp cho mình, ngài chán nản rời bỏ ngai vàng và lên đường đến Himavā. Khi ngài đi dọc đường, Sakka xuất hiện trước mặt ngài và đọc cho ngài nghe vài câu kệ về tính vô thường của tất cả mọi sự. Hài lòng với điều ấy, nhà vua trở về kinh đô của mình (Thag.v.67; Thag­a.i.151f).
+
+Các kệ Apadāna liên quan đến vị Thera này được trích trong Chú giải Theragāthā, nhưng trong chính Apadāna (i.152f) lại được quy cho một vị Trưởng lão tên Maggasaññaka, người mà rõ ràng ngài được đồng nhất với. Năm *kappa* trước, ngài trở thành vua mười hai lần dưới tên Sacakkhu.
 
 ## Notes

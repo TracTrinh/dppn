@@ -5,7 +5,7 @@ base_headword: "Bālisikasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bālisikasutta. Like baited hooks cast by a fisherman are the objects cognisable
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālisikasutta. Giống như những lưỡi câu được thả bởi một người đi câu, chính là các đối tượng được nhận thức bởi các trần cảnh bên ngoài. Người nào tránh được chúng thì đã thoát khỏi nanh vuốt của Māra. SN.iv.158.
 
 ## Notes

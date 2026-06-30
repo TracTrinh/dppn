@@ -5,7 +5,7 @@ base_headword: "Bhaddasālajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -37,6 +37,10 @@ The story was related in reference to the Buddha’s interference with <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasālajātaka (Ja 465). Brahmadatta, vua của Benares, với mong muốn có một cung điện được xây dựng trên một chiếc cột, đã cử những người thợ mộc của mình đi tìm một cái cây thích hợp. Họ đã tìm thấy nhiều cái cây như vậy trong khu rừng, nhưng không có con đường nào để vận chuyển chúng. Cuối cùng họ phát hiện ra một cây *sāla* uy nghi trong khu vườn của nhà vua và tiến hành các công tác chuẩn bị để đốn hạ nó. Vị thụ thần của cái cây (Bhaddasāla 2), vốn là Bodhisatta, vô cùng đau khổ trước viễn cảnh về sự hủy diệt của những đứa con mình. Vì thế, ngài đã đến gặp nhà vua vào ban đêm và cầu xin ông đừng đốn hạ cái cây. Khi nhà vua từ chối yêu cầu này, Bhaddasāla yêu cầu rằng cái cây nên được đốn hạ thành từng khúc, để trong lúc đổ xuống nó có thể không gây tổn hại đến dòng họ của mình xung quanh. Tình cảm này của Bhaddasāla dành cho những người bà con của ngài đã làm nhà vua cảm động, và ông đã từ bỏ ý định tiêu diệt cái cây.
+
+Câu chuyện được kể liên quan đến sự can thiệp của Đức Phật với Viḍūḍabha (*q.v.*) khi ông ta muốn tiêu diệt những người Sākyan.
+
+Ānanda được đồng nhất với nhà vua (Ja.iv.153-7). Nhân dịp này Kukkurajātaka (Ja 22), Kākajātaka (Ja 140), và Mahā Kapijātaka (Ja 407) cũng được thuyết giảng.
 
 ## Notes

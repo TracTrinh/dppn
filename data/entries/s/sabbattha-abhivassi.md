@@ -5,7 +5,7 @@ base_headword: "Sabbattha-abhivassī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbattha-abhivassī. Thirty-eight *kappas* ago there were sixteen kings of this
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbattha-abhivassī. Ba mươi tám *kappa* trước có mười sáu vị vua mang tên này, là những tiền kiếp của Kuṭidāyaka Thera. Ap.i.229.
 
 ## Notes

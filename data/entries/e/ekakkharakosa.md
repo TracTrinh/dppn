@@ -5,7 +5,7 @@ base_headword: "Ekakkharakosa"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekakkharakosa. A well-known Pāli vocabulary, composed in the sixteenth century 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekakkharakosa. Một bộ từ vựng Pāli nổi tiếng, được soạn vào thế kỷ mười sáu bởi Saddhammakitti, học trò của Ariyavaṁsa (Bode, 45). Rõ ràng tác phẩm này dựa trên các tác phẩm Sanskrit tương tự. Cũng có một *ṭīkā* cho tác phẩm này.
 
 ## Notes

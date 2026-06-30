@@ -5,7 +5,7 @@ base_headword: "Caṇḍorana"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Caṇḍorana. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍorana. Một ngọn núi ở vùng Himālaya. Bodhisatta, với tư cách là một con voi, từng sống ở đó để chăm sóc mẹ mình. Ja.iv.90, 93.
 
 ## Notes

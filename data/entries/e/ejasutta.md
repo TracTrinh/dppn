@@ -5,7 +5,7 @@ base_headword: "Ejāsutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ejāsutta. Two *Suttas* on the evils of passion (*ejā*) and the ways of getting
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ejāsutta. Hai *Sutta* nói về những tai hại của tham ái (*ejā*) và các phương cách đoạn trừ nó. SN.iv.64-6.
 
 ## Notes

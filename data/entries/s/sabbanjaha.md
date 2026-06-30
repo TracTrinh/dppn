@@ -5,7 +5,7 @@ base_headword: "Sabbañjaha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbañjaha. One of the sons of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbañjaha. Một trong những người con trai của Kāḷāsoka (xem từ này).
 
 ## Notes

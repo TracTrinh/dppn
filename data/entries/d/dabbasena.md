@@ -5,7 +5,7 @@ base_headword: "Dabbasena"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dabbasena. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dabbasena. Vua của Kosala. Ông bắt Ekarāja, vua Benares, và giam vào ngục, nhưng về sau, khi nhận ra các đức hạnh của vị ấy, ông thả ra và khôi phục vương quốc cho vị ấy. Dabbasena được đồng nhất với Ānanda (Ja.iii.13ff; Cpxiv.3).
 
 ## Notes

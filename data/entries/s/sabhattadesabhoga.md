@@ -5,7 +5,7 @@ base_headword: "Sabhattadesabhoga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabhattadesabhoga. A monastic building, erected by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabhattadesabhoga. Một tòa nhà tu viện, được xây dựng bởi Aggabodhi VI, trong Abhayuttaravihāra. Cv.xlviii.64.
 
 ## Notes

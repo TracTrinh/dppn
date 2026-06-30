@@ -5,7 +5,7 @@ base_headword: "Cāpā Therī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāpā Therī (*v.l.* Chāvā Therī). Con gái của một người thợ săn ở Vaṅkahāra, người đã trở thành vợ của tu sĩ Ājīvaka Upaka và sinh cho vị ấy một người con trai, Subhadda.
+
+Khi Upaka, không thể chịu đựng được những lời chế nhạo của vợ, đã từ bỏ thế gian và gia nhập Tăng đoàn, bà đã đi theo vị ấy đến Sāvatthī, và tại đó, sau khi trở thành một nữ tu (Tỳ-kheo-ni), bà đã chứng quả vị *Arahant*. Thīg.291-311; Thīg­a.220ff; Snp­a.i.259f.
 
 ## Notes

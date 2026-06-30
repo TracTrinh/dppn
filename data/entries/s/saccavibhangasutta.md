@@ -5,7 +5,7 @@ base_headword: "Saccavibhaṅgasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -32,6 +32,8 @@ Parts of this *Sutta* are incorporated in the concluding portion of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccavibhaṅgasutta. Gotama Buddha gọi các vị tỳ-kheo tại Migadāya ở Isipatana và kể cho họ nghe về việc Ngài đã thuyết Bốn Chân lý Cao quý (Tứ Diệu Đế) lần đầu tiên ở đó như thế nào. Ngài khuyên họ hãy làm theo Sāriputta và Moggallāna, và sau đó Ngài rút lui về phòng của mình. Sāriputta tiếp tục bài pháp và đưa ra một sự giải thích chi tiết về các Chân lý này. MN.iii.248-52.
+
+Một vài phần của *Sutta* này đã được kết hợp vào phần kết luận của Mahā Satipaṭṭhānasutta.
 
 ## Notes

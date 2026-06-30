@@ -5,7 +5,7 @@ base_headword: "Ekacintita"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekacintita 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekacintita 02. Ekacintita Thera. Một *Arahant*. Khi ở cõi *Deva*, thọ mạng của ngài đã chấm dứt, ngài đầy lo lắng không biết nên tìm nơi tái sinh nào. Một đệ tử của Padumuttara tên Sumana, thấy cảnh ngộ của ngài, khuyên ngài nương tựa vào Đức Phật. Ngài làm theo lời khuyên và thoát khỏi sầu khổ. Ap.i.194f.
 
 ## Notes

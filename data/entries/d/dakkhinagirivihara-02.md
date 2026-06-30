@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇāgirivihāra"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ It was once the residence of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇāgirivihāra 02. Một tu viện do Saddhātissa xây dựng ở Ceylon (Mhv.xxxiii.7). Nó được Dhātusena trùng tu (Cv.xxxviii.46), và Kassapa V cấp một ngôi làng để duy trì tu viện (Cv.lii.60). Có lẽ nó đồng nhất với *Dakkhiṇāgiridaḷhavihāra*, nơi Aggabodhi I xây dựng một giảng đường (Cv.xlii.27). Đôi khi nó được đồng nhất với Mulkirigalavihāra hiện nay (Cv.Trs.i.33, n.3).
+
+Nó từng là nơi cư trú của Appihā *Sāmaṇera* (Mhv­ṭ.552) và của Kāḷa Buddharakkhita (MN­a.i.469).
 
 ## Notes

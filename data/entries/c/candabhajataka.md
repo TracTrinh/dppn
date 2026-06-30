@@ -5,7 +5,7 @@ base_headword: "Candābhajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candābhajātaka (Ja 135). Bồ-tát từng là một vị khổ hạnh và, vào lúc lâm chung, đã trả lời những câu hỏi của các đệ tử bằng những từ "ánh trăng và ánh nắng mặt trời." Khi người đệ tử chính của ngài (được nhận diện là Sāriputta) giải thích những từ đó, các đồng môn đã không tin ông cho đến khi Bồ-tát xuất hiện giữa không trung và nói rằng bất cứ ai thiền định về mặt trời và mặt trăng sẽ được sinh ra ở cõi Ābhassara (Ja.i.474).
+
+*Jātaka* đã được thuyết về sự giải thích một vấn đề của Sāriputta tại các cổng của Saṅkassa.
 
 ## Notes

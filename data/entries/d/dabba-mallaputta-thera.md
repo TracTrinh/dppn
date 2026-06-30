@@ -5,7 +5,7 @@ base_headword: "Dabba Mallaputta Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -58,6 +58,14 @@ He was a *seṭṭhiputta* in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dabba Mallaputta Thera, Dabba Mallaputtatissa Thera. Một vị *Arahant*. Ngài sinh tại Anupiya trong một gia đình thuộc bộ tộc Malla (Kusinārā, theo Apadāna). Khi lên bảy tuổi, ngài thấy Gotama Buddha đang viếng thăm xứ Malla, và hỏi bà ngoại của mình (mẹ ngài đã mất khi sinh ngài) rằng ngài có thể gia nhập Saṅgha dưới sự hướng dẫn của Đức Phật hay không. Bà đưa ngài đến gặp Đức Phật, và cậu bé chứng quả *Arahant* trong nhà cạo tóc. Ngài trở về Rājagaha cùng Đức Phật, tại đó, với sự chuẩn thuận của Đức Phật và vì muốn phục vụ Saṅgha, ngài nhận lãnh nhiệm vụ phân phối chỗ nghỉ qua đêm cho các vị sư đi đường và hướng dẫn họ đến nơi thọ thực. Ngài thi hành bổn phận rất chuyên cần và đầy trí tuệ, và tiếng tăm của ngài lan truyền xa rộng. Các vị sư từ phương xa đến, muốn chứng kiến tài khéo của ngài, thường cố ý đến muộn và xin chỗ nghỉ ở một nơi xa Rājagaha; Dabba sẽ "bừng cháy" và đi trước họ, với ngón tay phát sáng để soi đường cho họ. Chính cảnh thấy Dabba trong một chuyến đi như vậy đã dẫn đến việc một nữ nô lệ, Puṇṇā, được Đức Phật viếng thăm, kết quả là bà trở thành một *Sotāpanna* (Dhp­a.iii.321ff).
+
+Một lần xảy ra việc các bữa ăn được Dabba phân phối cho nhóm Mettiya Bhummajakā tại nhà một người giàu có; người này, khi biết họ là ai, ra lệnh cho họ được cho ăn thế nào cũng được. Nhóm Mettiya Bhummajakā vô cùng phật ý, và tin rằng Dabba đã cố ý khinh miệt họ, nên xúi một người ủng hộ họ là Mettiyā tố cáo Dabba đã quyến rũ cô. Lời buộc tội được điều tra, Mettiyā bị trục xuất, và danh tiếng của Dabba càng tăng thêm (Thag.v.5; Vin.ii.74ff; iii.158f, 166f, iv.37f; Vin-a.iii.598f). Nhóm Mettiya Bhummajakā thuyết phục vị Licchavī tên Vaḍḍha đưa ra một lời buộc tội tương tự chống Dabba liên quan đến vợ của ông (Vin.ii.124f). Taṇḍulanālijātaka (Ja 5, Ja.i.123f) nhắc đến một tranh chấp khác, trong đó Lāḷudāyi buộc tội Dabba không thi hành nhiệm vụ một cách tận tâm. Khi ấy Lāḷudāyi được giao nhiệm vụ ấy, nhưng tỏ ra thất bại.
+
+Dabba được ban địa vị đứng đầu trong những vị phân phối chỗ ở (*senāsanapaññāpakānaṁ*) và được thọ giới *upasampadā* khi mới bảy tuổi (AN.i.24). Ngài được gọi là Dabba vì người ta nói ngài được sinh ra từ mẹ mình khi bà đang bị thiêu trên giàn hỏa táng; khi lửa tắt, đứa trẻ được tìm thấy đang nằm trên một cột của giàn hỏa (*dabbatthambhe*) (Thag­a.i.41; AN­a.i.152f).
+
+Ngài từng là một *seṭṭhiputta* ở Haṁsavatī vào thời Padumuttara Buddha, và chính khi ấy ngài khởi nguyện đạt địa vị người phân phối chỗ ở đứng đầu. Một trăm lẻ ba lần ngài làm vua giữa chư thiên và một trăm lẻ năm lần làm vua loài người. Vào thời Vipassī Buddha, ngài đã nói lời vu khống về một Trưởng lão *Arahant*, do đó có âm mưu chống lại ngài bởi nhóm Mettiya Bhummajakā. Vào thời Kassapa Buddha, ngài cùng sáu người khác đi lên đỉnh một ngọn đồi, quyết không trở về cho đến khi họ hoàn thành mục đích, nhưng năm người trong số họ chết trước khi điều ấy xảy ra. Bốn người kia là Pukkusāti, Sabhiya, Bāhiya và Kumāra Kassapa (Dhp­a.ii.212; Thag­a.i.44ff; Ap.ii.471f; Ud­a.81; Vin-a.ii.578f).
+
+Dabba rõ ràng đã mất khi còn trẻ. Udāna có ghi lại câu chuyện về cái chết của ngài (Ud.viii.9; Ud­a.431f). Một ngày nọ, khi trở về sau vòng khất thực ở Rājagaha, ngài thấy mình chỉ còn sống một thời gian ngắn nữa. Vì vậy ngài đến gặp Đức Phật và, với sự cho phép của Ngài, biểu hiện nhiều năng lực *iddhi* khác nhau rồi viên tịch.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇadesa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -42,6 +42,10 @@ Among the strongholds of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇadesa. Một tỉnh của Ceylon, vùng lãnh thổ ở phía tây các dãy núi và kéo dài đến biển. Nó được gọi như vậy dựa trên vị trí của nó so với Anurādhapura. Có thời nó được hợp nhất với Malayaraṭṭha và tạo thành một phần lãnh thổ do người con trai thứ hai của nhà vua cai quản (e.g., Cv.xli.35; nhưng xem Cv.Trs.i.54, n.4). Về sau, dường như nó trở thành tỉnh riêng của người thừa kế ngôi vua (e.g., Cv.xliii.8; xliv.84; lxv.23; lxviii.33; li.12, etc.).
+
+Nó cũng được gọi là Dakkhiṇapassa (e.g., Cv.lviii.41) và Dakkhiṇabhāga.
+
+Trong số các thành lũy của Dakkhiṇadesa có nhắc đến Muhunnaru, Badalatthala, Vāpināgara, Buddhagāma, Tilagulla, Mahā Galla và Maṇḍagalla (Cv.lviii.42), và trong số các làng của nó có Puṅkhagāma (Cv.lxi.42) và Bodhisenapabbata (Cv.lxi.33).
 
 ## Notes

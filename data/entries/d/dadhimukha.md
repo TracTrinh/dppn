@@ -5,7 +5,7 @@ base_headword: "Dadhimukha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dadhimukha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dadhimukha. Một thủ lĩnh Yakkha cần được các đệ tử của Đức Phật khẩn cầu trong lúc cần thiết. DN.iii.205.
 
 ## Notes

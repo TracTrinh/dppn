@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "09"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 09. One of the palaces occupied by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 09. Một trong những cung điện được Đức Phật Sumana cư ngụ trong đời sống tại gia cuối cùng của ngài (Bv.xxiv.22).
 
 ## Notes

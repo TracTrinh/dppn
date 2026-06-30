@@ -5,7 +5,7 @@ base_headword: "Cānura"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cānura. A wrestler employed by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cānura. Một đô vật được Kaṁsa thuê để chiến đấu với những người Andhakaveṇhudāsaputtā. Nhưng Baladeva đã quấn một sợi dây đai quanh người ông ta và, nhấc bổng ông ta lên, rồi quật vỡ đầu ông ta xuống đất. Ja.iv.81f.
 
 ## Notes

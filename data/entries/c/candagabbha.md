@@ -5,7 +5,7 @@ base_headword: "Candagabbha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Candagabbha. One of the seven mountain ranges which must be crossed on the way t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagabbha. Một trong bảy dãy núi phải vượt qua trên đường đến Gandhamādana. Snp­a.i.66.
 
 ## Notes

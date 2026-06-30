@@ -5,7 +5,7 @@ base_headword: "Bhaddajisutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddajisutta. A discussion between <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddajisutta. Một cuộc thảo luận giữa Bhaddaji và Ānanda tại Ghositārāma. Để trả lời cho các câu hỏi của Ānanda, Bhaddaji nói rằng *Brahma* là cảnh tượng tốt nhất; âm thanh tốt nhất là tiếng của chư thiên Quang Âm hô vang "Hân hoan, hân hoan," v.v. Ānanda nói rằng đó là lời nói của hàng phàm phu. Cảnh tượng tốt nhất, theo quan điểm của ông, là sự phá hủy các *āsava*; âm thanh tốt nhất là âm thanh của sự phá hủy chúng, v.v. AN.iii.202f.
 
 ## Notes

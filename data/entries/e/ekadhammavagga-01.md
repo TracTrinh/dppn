@@ -5,7 +5,7 @@ base_headword: "Ekadhammavagga"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekadhammavagga 01. The sixteenth chapter of the *Ekanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammavagga 01. Chương thứ mười sáu của *Ekanipāta* thuộc Aṅguttaranikāya. Chương này gồm mười *Sutta*, trong đó mười đề mục quán niệm (*anussati*) được nêu là dẫn đến sự giải thoát nội tâm. AN.i.30.
 
 ## Notes

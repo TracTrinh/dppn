@@ -5,7 +5,7 @@ base_headword: "Bhaddavatī"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaddavatī 03. A princess, sister of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavatī 03. Một công chúa, em gái của Parakkamabāhu I. Cv.lxvi.147.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candanagāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candanagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candanagāma. Một ngôi làng ở Rohaṇa. Các quý tộc của ngôi làng đã tham gia vào lễ hội đón cây *bodhi* đến Ceylon, và tại ngôi làng này một trong tám cây con *bodhi* đã được trồng. Mhv.xix.54, 62; Vin-a.i.100; Mbv.161.
 
 ## Notes

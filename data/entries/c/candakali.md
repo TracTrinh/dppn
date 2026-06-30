@@ -5,7 +5,7 @@ base_headword: "Caṇḍakālī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,10 @@ She was charged with frequenting gatherings of laymen (Vin.iv.293, 309), and it 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍakālī. Một tỳ-kheo-ni, nổi tiếng với những khuynh hướng hay cãi vã của mình. Bà là bạn của Thullanandā, trong thời gian vắng mặt của bà này, các tỳ-kheo-ni khác có lần đã trục xuất Caṇḍakālī khỏi Tăng chúng của họ. Hành động này bị Thullanandā phản đối kịch liệt và Caṇḍakālī đã được nhận lại (Vin.iv.230).
+
+Bà được nhắc đến nhiều lần là người khơi mào các cuộc cãi vã với các tỳ-kheo-ni khác, và khi họ bất đồng với bà, bà đe dọa sẽ tố cáo Đức Phật cùng các tỳ-kheo-ni và sẽ gia nhập một Tăng đoàn nào đó khác, tuyên bố rằng có những Giáo hội khác, về mọi mặt, cũng tốt như của Đức Phật. Có lần, khi một số đồng môn hỏi bà xem có nhìn thấy món đồ mà họ làm mất hay không, bà đã nguyền rủa họ thậm tệ và bắt đầu khóc lóc và làm ầm ĩ (Vin.iv.276, 277).
+
+Bà bị buộc tội thường xuyên tham gia các cuộc tụ họp của cư sĩ (Vin.iv.293, 309), và người ta nói (Vin.iv.333) rằng bà đã cùng với Thullanandā thực hiện nhiều thực hành đồi bại khác nhau. Có lần bà đã xin phép để phong chức cho các tỳ-kheo-ni (*vuṭṭhāpanasammuti*) nhưng bị từ chối, và khi phát hiện ra rằng các tỳ-kheo-ni khác đã xin được sự cho phép này, bà trở nên lăng mạ dữ dội (Vin.iv.331).
 
 ## Notes

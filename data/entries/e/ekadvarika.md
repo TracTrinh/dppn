@@ -5,7 +5,7 @@ base_headword: "Ekadvārika"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -29,6 +29,6 @@ Ekadvārika also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadvārika cũng là Ekadvāra. Một *vihāra* do Vua Subha xây ở phía đông Anurādhapura, dưới chân *pabbata* Ekadvārika. Mhv.xxxv.58; Mhv­ṭ.648. *Pabbata* Ekadvārika cũng được gọi là *pabbata* Vaṅganta. Mhv­ṭ. 424.
 
 ## Notes

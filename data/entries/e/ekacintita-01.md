@@ -5,7 +5,7 @@ base_headword: "Ekacintita"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekacintita 01. Sixteen *kappas* ago there were eighteen kings of this name. They
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekacintita 01. Mười sáu *kappa* trước có mười tám vị vua mang tên này. Họ là những tiền thân của Sumaṅgala Thera. Ap.i.148; Thag­a.i.111.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Caṇḍāsoka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Caṇḍāsoka. The name given to <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍāsoka. Cái tên được đặt cho Asoka, bởi vì ông đã tàn nhẫn giết chết những người anh em của mình. Cái tên về sau được đổi thành Dhammāsoka. Mhv.v.189.
 
 ## Notes

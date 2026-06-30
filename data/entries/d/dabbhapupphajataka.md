@@ -5,7 +5,7 @@ base_headword: "Dabbhapupphajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dabbhapupphajātaka (Ja 400). Xưa kia có một con chó rừng tên là Māyāvī. Vợ nó thèm ăn cá tươi, và trong khi nó đang tìm cá, nó thấy hai con rái cá, Anutīracārī và Gambhīracārī, đang tranh cãi về việc chia một con cá *rohita* mà chúng cùng bắt được. Chúng nhờ Māyāvī phân xử, và nó cho một con phần đầu, con kia phần đuôi, còn nó giữ phần giữa cho mình!
+
+Câu chuyện được kể liên quan đến Upananda, người được đồng nhất với con chó rừng. Hai vị sư già đã nhận được quà là hai chiếc áo choàng thô và một tấm chăn tốt, và họ nhờ ông chia các món quà. Ông cho mỗi người một chiếc áo choàng và giữ tấm chăn cho mình. Ja.iii.332ff; câu chuyện được trích tại Dhp­a.iii.139ff.
 
 ## Notes

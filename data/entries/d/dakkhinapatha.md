@@ -5,7 +5,7 @@ base_headword: "Dakkhiṇāpatha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -43,6 +43,12 @@ The Dakkhiṇāpatha is famous in literature as the birthplace of strong bullock
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakkhiṇāpatha (Dakkhiṇapatha). Trong văn học Pāli cổ, tên Dakkhiṇāpatha dường như chỉ biểu thị một khu định cư hoặc thuộc địa xa xôi trên bờ thượng lưu Godhāvarī. Như vậy, chúng ta được cho biết rằng Bāvarī có ẩn thất của mình trong lãnh thổ Dakkhiṇāpatha, ở giữa các vương quốc Assaka và Aḷaka (Snp., vs.976). Ở nơi khác, tên này được ghép với Avanti thành Avantidakkhiṇāpatha và dường như chỉ, nhưng mơ hồ hơn, cùng một quận giới hạn ấy. Vin.i.195, 196; ii.298. Tuy nhiên, trong Ja.v.133, Avanti được nói là một phần của Dakkhiṇāpatha (*Dakkhiṇūpathe Avantiraṭṭha*), nhưng xem Ja.iii.463, nơi Avantidakkhiṇāpatha được nói đến.
+
+Chú giải Suttanipāta (ii.580) dường như giải thích Dakkhiṇāpatha là con đường dẫn đến Dakkhiṇajanapada, trong khi Sumaṅgalavilāsinī (DN­a.i.265) xem Dakkhiṇāpatha đồng nghĩa với Dakkhiṇajanapada và nói rằng đó là quận (*janapada*) ở phía nam sông Ganges (*Gaṅgāya dakkhiṇato pākatajanapadaṁ*).
+
+Rõ ràng, ít nhất trong văn học sớm hơn, từ này không có nghĩa là toàn bộ vùng đất được bao hàm trong từ hiện đại Dekkhan. Có thể Dakkhiṇāpatha ban đầu là tên của con đường dẫn về phía nam - khu định cư Aryan ở cuối con đường, trên bờ Godhāvarī, cũng được gọi bằng cùng tên ấy - và về sau con đường đã cho cả vùng mà nó đi qua mượn tên của nó (để biết mô tả chi tiết, xem Law: *Geography of Early Buddhism*, pp.60ff). Trong Chú giải Petavatthu (Pv-a., p.133), xứ Damiḷa (*Damiḷavisaya*) được bao gồm trong Dakkhiṇāpatha.
+
+Dakkhiṇāpatha nổi tiếng trong văn học là nơi sinh của những con bò đực khỏe mạnh (Dhs-a.141; NidA.16; Dhp­a.iii.248, etc.). Nơi này cũng có rất nhiều nhà khổ tu (DN­a.i.265), và ở "các quận phía nam" (*Dakkhiṇesu janapadesu*) người dân tổ chức một lễ hội gọi là Dharaṇa (AN.v.216). Xem Dharaṇasutta.
 
 ## Notes

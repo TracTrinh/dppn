@@ -5,7 +5,7 @@ base_headword: "Bandhula"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -52,6 +52,16 @@ From the time of her husband’s death <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhula. Con trai của một thủ lĩnh tộc người Mallas ở Kusinārā. Ông theo học tại Takkasilā cùng với Mahāli và Pasenadi. Khi trở về nhà, ông muốn phô diễn kỹ năng của mình, và các gia đình quý tộc của người Mallas đã buộc những cây tre thành từng bó sáu mươi cây, chèn một thanh sắt vào trong mỗi bó; sau đó họ treo những bó tre này lên không trung và thách thức Bandhula chém đứt chúng. Ông nhảy lên không trung và dùng gươm chém đứt chúng, nhưng khi phát hiện ra sự xảo trá của những người bà con mình, ông đe dọa sẽ giết tất cả bọn họ; tuy nhiên, cha mẹ ông đã can ngăn ông, và ông đến sống ở Sāvatthī, nơi Pasenadi bổ nhiệm ông làm *Senāpati* (Tướng quân).
+
+Vợ của Bandhula là Mallikā (được biết đến với tên gọi Bandhula Mallikā để phân biệt với vợ của Pasenadi). Vì bà không sinh được người con nào, Bandhula muốn gửi bà về với gia đình; nhưng khi bà đến chào từ biệt Đức Phật trước khi khởi hành, Ngài đã bảo bà hãy quay lại với chồng. Ông đã chấp nhận bà, qua đó thể hiện đức tin của ông đối với Đức Phật. Không lâu sau, bà thụ thai một đứa trẻ, và sự thèm muốn khi mang thai của bà là được bước vào hồ sen mà các hoàng tử Vesālī sử dụng vào lễ đăng quang của họ và uống nước trong hồ. Bandhula đưa bà đến Vesālī, đánh đuổi những người lính canh mạnh mẽ được bố trí tại hồ sen, và để Mallikā tận hưởng hồ sen thỏa thích. Khi các hoàng tử Licchavī nghe tin về chuyện này, họ vô cùng tức giận và đuổi theo xe ngựa của Bandhula, bất chấp lời cảnh báo của Mahāli. Khi những cỗ xe ngựa của người Licchavī xếp thành hàng, Bandhula, để dọa họ, đã gảy dây cung của mình; nhưng khi họ vẫn tiếp tục truy đuổi ông, ông đã bắn một mũi tên duy nhất, xuyên qua đai lưng của mỗi người trong số năm trăm hoàng tử Licchavī mà họ không hề hay biết mình bị thương. Bandhula nói cho họ biết về tình trạng của họ; nhưng họ không chịu tin ông cho đến khi họ cởi bỏ đai lưng của người đi đầu và người đó ngã lăn ra chết. Ngay sau đó họ trở về nhà, từ biệt gia đình, và ngã xuống chết ngay tại thời điểm cởi bỏ áo giáp.
+
+Mallikā đã sinh đôi mười sáu lần; mỗi người con trai của bà đều trở nên hoàn hảo trong các môn nghệ thuật khác nhau, và mỗi người đều có một đoàn tùy tùng gồm một nghìn người. Một ngày nọ, Bandhula xét xử lại một vụ án từng bị vị quan tòa phán quyết bất công, và quyết định của ông được hoan nghênh nhiệt liệt. Nhà vua, khi nghe thấy tiếng hoan hô và biết được lý do, đã bổ nhiệm ông làm quan tòa. Rất có thể đây chính là sự kiện được nhắc đến ở SN.i.74 (Aṭṭhakaraṇasutta); xem thêm KS.i.101, chú thích 3.
+
+Nhưng các vị quan tòa tiền nhiệm đã tiêm nhiễm chất độc vào tâm trí nhà vua để chống lại Bandhula, và nhà vua, nghe theo họ, đã cử Bandhula cùng các con trai đi dẹp một cuộc nổi loạn ở biên giới, với mệnh lệnh rằng tất cả họ phải bị sát hại trên đường trở về nhà. Việc này đã được thực hiện, và tin tức về vụ thảm sát được mang đến cho Mallikā khi bà đang thết đãi năm trăm vị tỳ-kheo do hai vị Đại Đệ tử dẫn đầu (theo MN­a.ii.753 thì Đức Phật cũng có mặt). Mallikā đọc bức thư, nhét nó vào một nếp gấp trên áo và tiếp tục với các nhiệm vụ của mình. Sāriputta phát hiện ra sự can đảm của bà vào cuối bữa ăn và đã hết lời khen ngợi bà. Mallikā cho gọi các con dâu của mình đến, báo hung tin cho họ, và khuyên họ không được nuôi lòng oán giận nhà vua. Các điệp viên của nhà vua, khi phát hiện ra điều này, đã mang tin tức về báo cho Pasenadi. Nhà vua vô cùng xúc động, và sau khi cho người gọi Mallikā đến, ông đã cầu xin sự tha thứ của bà và ban cho bà một ân huệ. Bà đã chọn ân huệ là bà cùng ba mươi hai người con dâu sẽ được phép trở về nhà ở Kusinārā. Cháu trai của Bandhula, Dīgha Kārāyaṇa, được bổ nhiệm làm tổng tư lệnh, nhưng ông chưa bao giờ tha thứ cho tổn thất đã gây ra với Bandhula, và cuối cùng, ông đã gây ra sự phế truất và cái chết sau đó của Pasenadi (Dhp­a.i.228f., 349-56; Ja.iv.148 ff.; MN­a.ii.753f). Bandhula đôi khi được gọi là Bandhulamalla. (ví dụ, Ja.iv.148.)
+
+Vợ của Bandhula, Mallikā, là một trong ba người sở hữu Mahā Latāpasādhana (đồ trang sức quý giá), những người còn lại là Visākhā và Devadāniyacora (nhưng xem Dhp­a.i.412, nơi con gái của vị trưởng giả ở Bārāṇasī được thay thế cho Devadāniya).
+
+Kể từ lúc chồng bà qua đời, Mallikā đã cất giữ món đồ *pasādhana*, nhưng vào ngày thi thể Đức Phật được đưa đi hỏa táng, bà đã gột rửa món đồ *pasādhana* bằng nước hoa và đặt nó lên thi hài, món đồ đó đã che phủ hoàn toàn thi thể. Bà bày tỏ ước nguyện rằng, chừng nào bà còn ở trong *Saṁsāra*, cơ thể bà sẽ không cần đến món đồ trang sức nào nữa. DN­a.ii.597.
 
 ## Notes

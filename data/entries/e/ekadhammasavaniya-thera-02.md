@@ -5,7 +5,7 @@ base_headword: "Ekadhammasavaṇiya Thera"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,6 @@ Ekadhammasavaṇiya Thera 02. An *Arahant*. In the time of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadhammasavaṇiya Thera 02. Một *Arahant*. Vào thời Padumuttara, ngài là một Jaṭila có đại năng lực. Một lần, khi đang du hành trên không, ngài thấy đường đi của mình đột nhiên bị chặn lại; sau khi tìm hiểu, ngài phát hiện rằng bên dưới mình, trên mặt đất, Đức Phật đang thuyết pháp. Ngài lắng nghe bài pháp, nói về vô thường, rồi trở về am thất và thiền quán về đề mục này. Về sau ngài sinh vào Tāvatiṁsa. Trong ba mươi nghìn *kappa*, ngài đã trị vì năm mươi mốt lần làm vua cõi trời và hai mươi mốt lần làm vua loài người. Trong đời cuối cùng này, ngài nghe một vị tu sĩ trong nhà cha mình thuyết một bài pháp liên quan đến tính vô thường của tất cả các pháp hữu vi. Cuối bài pháp, ngài nhớ lại các chứng đạt trước kia của mình và, ngay khi đang ngồi tại đó, chứng quả vị *Arahant*. Lúc ấy ngài chỉ mới bảy tuổi. Ap.ii.385.
 
 ## Notes

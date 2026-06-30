@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "09"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Candā 09. The *kinnārī*-maiden of whom <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 09. Nữ nhân *kinnārī* mà Brahmadatta đã trở nên say đắm, thích nàng hơn cả người vợ của mình là Asitābhū. Vibh­a.470f.; *Asitābhūjātaka* (Ja.ii.231f.) không đề cập đến tên của nàng.
 
 ## Notes

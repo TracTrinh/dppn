@@ -5,7 +5,7 @@ base_headword: "Candagutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Candagutta. A king of twenty *kappas* ago, a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagutta. Một vị vua cách đây hai mươi *kappa*, một tiền kiếp của Tamālapupphiya. Ap.i.197.
 
 ## Notes

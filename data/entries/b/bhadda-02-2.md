@@ -5,7 +5,7 @@ base_headword: "Bhaddā"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaddā 02. One of the chief women patrons of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddā 02. Một trong những nữ thí chủ chính của Kassapa Buddha. Bv.xxv.41.
 
 ## Notes

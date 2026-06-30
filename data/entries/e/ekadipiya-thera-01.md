@@ -5,7 +5,7 @@ base_headword: "Ekadīpiya Thera"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,6 @@ Ekadīpiya Thera 01. An *Arahant*. Ninety-four *kappas* ago he kept a lamp light
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadīpiya Thera 01. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài giữ một ngọn đèn cháy suốt đêm gần *Thūpa* được dựng trên xá-lợi của Siddhattha Buddha. Trong bảy mươi bảy *kappa*, ngài ở cõi trời và ba mươi mốt lần làm vua của chư thiên. Hai mươi tám lần ngài làm vua giữa loài người. Thân ngài chiếu sáng như mặt trời, và ngài có thể nhìn xa một trăm do-tuần. Cung điện của ngài ở cõi trời được gọi là Ekadīpi. Ngài gia nhập Tăng đoàn lúc bốn tuổi (?) và trong nửa tháng trở thành một *Arahant*. Ap.ii.373.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekachattiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ Seventy-seven *kappas* ago he lived in the *Deva*-world as king of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekachattiya Thera. Một *Arahant*. Vào thời Atthadassī, ngài là một vị khổ hạnh có đông đảo đồ chúng, sống bên bờ sông Candabhāgā. Ngài cùng các đồ chúng đến viếng Đức Phật và che một chiếc lọng trắng trên đầu Đức Phật.
+
+Bảy mươi bảy *kappa* trước, ngài sống trong cõi *Deva* với tư cách vua của chư thiên. Ngài đã làm vua loài người một nghìn lần (Ap.ii.367ff).
 
 ## Notes

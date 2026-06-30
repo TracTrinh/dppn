@@ -5,7 +5,7 @@ base_headword: "Bandhumatī"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bandhumatī 03. A river near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhumatī 03. Một dòng sông gần Bandhumatī. Snp­a.i.190.
 
 ## Notes

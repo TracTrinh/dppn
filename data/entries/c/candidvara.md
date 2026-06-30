@@ -5,7 +5,7 @@ base_headword: "Caṇḍīdvāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Caṇḍīdvāra. One of the gates erected in <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caṇḍīdvāra. Một trong những cổng thành được dựng lên ở Pulatthipura bởi Parakkamabāhu I. Nó được sơn màu rực rỡ (Cv.lxxiii.161; lxxix.45). Caṇḍī là một trong những tên gọi của Durgā, vợ của Siva.
 
 ## Notes

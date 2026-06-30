@@ -5,7 +5,7 @@ base_headword: "Bhaddavatī"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddavatī 01. A city, the residence of Bhaddavatiya *seṭṭhi*, father of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddavatī 01. Một thành phố, nơi cư ngụ của vị trưởng giả ở Bhaddavatī, cha của Sāmāvati. Hoạt động thương mại đã được tiến hành giữa Kosambī và Bhaddavatī (Dhp­a.i.187). Xem thêm Bhaddavatikā.
 
 ## Notes

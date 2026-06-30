@@ -5,7 +5,7 @@ base_headword: "Belaṭṭhānika Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -36,6 +36,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Belaṭṭhānika Thera (Belaṭṭhakāni Thera). Ông thuộc về một gia đình Bà-la-môn ở Sāvatthī, và, sau khi nghe Đức Phật thuyết pháp, ông đã gia nhập Tăng đoàn. Trong khi thiền định tại một khu rừng ở Kosala, ông trở nên lười biếng và thô lỗ trong lời nói. Một ngày nọ Đức Phật, nhìn thấy tuệ giác đang chín muồi của ông, đã xuất hiện trước ông trong một hào quang chói lọi và khiển trách ông bằng một bài kệ. Belaṭṭhānika tràn đầy sự bàng hoàng và không lâu sau đó đã trở thành một vị *Arahant*.
+
+Trong thời của Vipassī Buddha, ông là một vị thầy Bà-la-môn, và, trong khi đi lang thang cùng các học trò của mình, ông đã nhìn thấy Đức Phật và dâng lên ngài bảy bông hoa. Hai mươi chín *kappa* trước, ông trở thành vua dưới tên là Vipulābhāsa (Thag.vs.101; Thag­a.i.205f).
+
+Ông có lẽ đồng nhất với Campakapupphiya của Apadāna. Ap.i.167.
 
 ## Notes

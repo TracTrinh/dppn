@@ -5,7 +5,7 @@ base_headword: "Daḷhadhammasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Daḷhadhammasutta. Mentioned in the introduction to the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhadhammasutta. Được nhắc đến trong phần dẫn nhập của Javanahaṁsajātaka (Ja.iv.211). Đây rõ ràng là một tên khác của Dhanuggahasutta. SN.ii.266f.
 
 ## Notes

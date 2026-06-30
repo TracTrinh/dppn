@@ -5,7 +5,7 @@ base_headword: "Bhaddasena"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddasena. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasena. Con trai của Ekarāja và anh em trai của Candakumāra (Ja.vi.134). Ông được đồng nhất với Moggallāna. Ja.vi.157.
 
 ## Notes

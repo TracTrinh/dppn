@@ -5,7 +5,7 @@ base_headword: "Ekadussadāyaka Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ He had the power of obtaining garments at will wherever he happened to be. Ap.ii
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekadussadāyaka Thera. Một *Arahant*. Vào thời Padumuttara Buddha, ngài là người cắt cỏ ở Haṁsavatī và đã dâng lên Đức Phật tấm thượng y duy nhất của mình. Nhờ kết quả ấy, ngài trị vì ở cõi trời ba mươi sáu lần và làm vua loài người ba mươi ba lần.
+
+Ngài có năng lực đạt được y phục theo ý muốn ở bất cứ nơi nào ngài có mặt. Ap.ii.379f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddā"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhaddā 03. Wife of King <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddā 03. Vợ của Vua Muṇḍa. Lúc bà qua đời nhà vua đã đặt thi hài bà trong một vại dầu và thương khóc bà cho đến khi người bạn của ông là Piyaka đưa ông đến gặp Nārada Thera tại Kukkuṭārāma, và ở đó đã giúp ông nhận ra sự ngu ngốc của việc thương khóc. AN.iii.57ff.
 
 ## Notes

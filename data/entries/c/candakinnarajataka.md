@@ -5,7 +5,7 @@ base_headword: "Candakinnarajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -35,6 +35,8 @@ The king was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candakinnarajātaka (Ja 485). Có lần, Bồ-tát, được sinh ra làm một *Kinnara* tên là Canda, sống cùng với người bạn đời của ngài là Candā tại núi Canda ở Himavā. Một ngày nọ, trong khi họ đang vui đùa gần một dòng suối nhỏ, ca hát và nhảy múa, vua xứ Benares, người đi săn, đã nhìn thấy Candā và đem lòng yêu nàng. Do đó, ông ta đã bắn Canda bằng một mũi tên, và khi Candā than khóc lớn tiếng lúc nhìn thấy người chồng đã chết của mình, nhà vua đã lộ diện và dâng cho nàng tình yêu cùng vương quốc của ông. Candā đã khinh bỉ lời đề nghị đó và phản đối các vị thần rằng họ lẽ ra không nên để tai họa giáng xuống chồng nàng. Ngai vàng của Sakka trở nên nóng vì lòng trung thành to lớn như vậy của nàng và, đi đến dưới hình dáng một Bà-la-môn, ngài đã phục hồi sự sống cho Canda.
+
+Nhà vua là Anuruddha và Candā là Rāhulamātā. Câu chuyện được Đức Phật kể khi ngài về thăm cung điện của vua cha ở Kapilavatthu và nghe từ Suddhodana về việc Rāhulamātā đã tiếp tục yêu Đức Phật một cách tận tụy như thế nào. Ngài nói đó không phải là lần đầu tiên nàng thể hiện tình cảm bất diệt của mình. Ja.iv.282ff; Dhp­a.i.97.
 
 ## Notes

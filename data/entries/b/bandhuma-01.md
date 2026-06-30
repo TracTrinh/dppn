@@ -5,7 +5,7 @@ base_headword: "Bandhumā"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,6 @@ Bandhumā 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bandhumā 01. Vua của Bandhumatī và là cha của Đức Phật Vipassī. Vợ ông là Bandhumatī (Ja.1.41, etc.). Ông có hai người con gái, trong những kiếp sau của họ, chính là Mahā Māyā và Uracchadā (Ja.vi.480f). Xem thêm Ekasāṭaka và Mettā Therī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaddasāla"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaddasāla 01. One of the chief disciples of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddasāla 01. Một trong những đại đệ tử của Nārada Buddha (Ja.i.37; Bv.x.23). Ông là một người Bà-la-môn ở Thullakoṭṭhita và, cùng với người bạn của mình là Vijitamitta, ông đã đi tìm kiếm Hồ Bất tử (*Amatarahada*). Trong suốt những chuyến đi của mình họ đã gặp Nārada Buddha và gia nhập Tăng đoàn dưới sự hướng dẫn của ngài, về sau trở thành các vị *Arahant*. Bv­a.154.
 
 ## Notes

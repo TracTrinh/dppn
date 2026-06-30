@@ -5,7 +5,7 @@ base_headword: "Bhadda"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhadda 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadda 03. Bhadda Thera. Có lẽ được đồng nhất với Bhadda (2). Ông được đề cập là đang lưu trú tại Kukkuṭārāma ở Pāṭaliputta cùng với Ānanda, người mà ông cùng thảo luận về đời sống chính đạo và phi đạo (SN.v.15f) và việc tu tập các *satipaṭṭhāna*. SN.v.171f.
 
 ## Notes

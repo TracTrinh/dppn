@@ -5,7 +5,7 @@ base_headword: "Bhaddaji Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -54,6 +54,14 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddaji Thera. Con trai của một vị trưởng giả ở Bhaddiya. Ông có tài sản trị giá tám mươi crore (800 triệu), và được nuôi dưỡng trong sự xa hoa giống như của Bodhisatta trong kiếp sống cuối cùng của ngài. Khi Bhaddaji lớn lên, Gotama Buddha đã đến Bhaddiya để tìm ông, và lưu trú tại Jātiyāvana cùng với một số lượng lớn các tỳ-kheo. Bhaddaji đã đến đó để nghe ngài thuyết pháp. Ông trở thành một vị *Arahant*, và, với sự đồng ý của cha mình, đã được Đức Phật cho xuất gia. Bảy tuần sau đó ông đã tháp tùng Đức Phật đến Koṭigāma, và, trong khi Đức Phật đang đáp lễ cho một thí chủ mộ đạo trên đường đi, Bhaddaji đã lui về bờ sông Ganges bên ngoài ngôi làng, nơi ông đứng chìm đắm trong *jhāna*, chỉ xuất định khi Đức Phật đi ngang qua, không để ý đến các vị đại Thera đi trước. Ông bị khiển trách vì điều này; nhưng, để chứng minh những thành tựu của Bhaddaji, Đức Phật đã mời ông lên chiếc thuyền phà của mình và yêu cầu ông làm một phép lạ. Bhaddaji ngay sau đó đã nâng từ dưới lòng sông lên không trung, cao mười lăm do-tuần, một cung điện bằng vàng cao hai mươi do-tuần, trong đó ông đã từng sống dưới tên là Mahā Panāda. Nhân dịp này Mahā Panāda hoặc Surucijātaka (Ja 489) đã được thuyết giảng.
+
+Câu chuyện trong Mahā Vaṁsa (xxxi.37ff) nói rằng, trước khi nâng cung điện của Mahā Panāda lên, Bhaddaji đã bay lên không trung tới chiều cao của bảy cây thốt nốt, cầm Dussa Thūpa từ cõi *Brahma* trong tay ông. Sau đó ông lặn xuống sông Ganges và trở về với cung điện. Người Bà-la-môn Nanduttara, người có sự hiếu khách mà Đức Phật và các tỳ-kheo của ngài đã chấp nhận, đã nhìn thấy phép lạ này của Bhaddaji, và bản thân ông cũng ao ước có được năng lực tương tự nhờ đó ông có thể lấy được các xá-lợi đang nằm trong tay người khác. Ông được tái sinh làm sa-di Soṇuttara, người đã lấy được xá-lợi cho các bảo tháp của Ceylon.
+
+Trong thời của Padumuttara Buddha, Bhaddaji là một đạo sĩ Bà-la-môn người, khi nhìn thấy Đức Phật đi lại qua không trung, đã dâng lên ngài mật ong, ngó sen, v.v. Ngay sau đó ông bị sét đánh và tái sinh ở Tusita. Trong thời của Vipassī Buddha ông là một vị trưởng giả rất giàu có và đã dâng thức ăn cho sáu mươi tám ngàn tỳ-kheo, cúng dường cho mỗi người trong số họ ba bộ y. Về sau, ông đã hầu hạ năm trăm vị Pacceka Buddha. Trong một kiếp sống sau đó con trai ông là một vị Pacceka Buddha, và ông đã chăm sóc vị ấy và xây dựng một *cetiya* để tôn thờ xá-lợi của vị ấy sau khi vị ấy qua đời. Thag.vs.163f.; Thag­a.i.285ff.; cũng xem Ja.ii.331ff., nơi các chi tiết có phần khác nhau; Ja.iv.325; cũng xem Mhv­ṭ.560f.
+
+Bhaddaji được đồng nhất với Sumana của Mahā Nāradakassapajātaka (Ja 544, Ja.vi.255).
+
+Ông có lẽ đồng nhất với Bhisadāyaka của Apadāna (Ap.ii.420f). Bhaddaji được nhắc đến trong số những người đã truyền lại Abhidhamma cho Kỳ Kết Tập Thứ Ba (Dhs-a.32). Xem thêm Bhaddajisutta.
 
 ## Notes

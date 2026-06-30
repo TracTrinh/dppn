@@ -5,7 +5,7 @@ base_headword: "Belaṭṭha Kaccāna"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Belaṭṭha Kaccāna. A sugar dealer. On his way from <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Belaṭṭha Kaccāna. Một người buôn đường. Trên đường đi từ Andhakkavinda đến Rājagaha, ông đã gặp Đức Phật đang ngồi dưới gốc cây, và, với sự cho phép của ngài, đã dâng một hũ đường (*gulakumbha*) cho các tỳ-kheo. Khi các tỳ-kheo đã chia nhau số đường vừa đủ như họ muốn, vẫn còn dư rất nhiều, và Đức Phật đã yêu cầu Kaccāna ném nó xuống nước. Ông làm như vậy, và nước kêu xèo xèo. Đức Phật đã thuyết pháp cho Kaccāna, người đã chấp nhận giáo pháp của ngài. Vin.i.224ff.
 
 ## Notes

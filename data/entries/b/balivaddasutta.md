@@ -5,7 +5,7 @@ base_headword: "Balivaddasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balivaddasutta. On four kinds of oxen: those that are fierce to the cows of thei
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balivaddasutta. Về bốn loại bò đực: những con hung dữ với bò cái trong bầy của mình, hung dữ với bò cái của bầy khác, những con không hung dữ với bầy của mình cũng không hung dữ với bầy khác; và bốn loại người tương ứng. AN.ii.108.
 
 ## Notes

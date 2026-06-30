@@ -5,7 +5,7 @@ base_headword: "Sabbhisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sabbhisutta. A conversation between the Buddha and a group of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sabbhisutta. Một cuộc đối thoại giữa Đức Phật và một nhóm chư thiên Satullapakāyikā. Đức Phật khắc sâu cho họ về sự cần thiết của việc kết bạn với những người hiền thiện. SN.i.16f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saccaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -47,6 +47,12 @@ It is said (MN­a.i.469f) that, in a later birth, long after the Buddha’s deat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saccaka. Một Nigaṇṭha người đã có hai cuộc tiếp kiến với Đức Phật, như được ghi lại trong Cūḷa Saccakasutta và Mahā Saccakasutta. Ông được gọi là Aggivessana, đó là tên *gotta* (thị tộc) của ông (những người thuộc dòng *Agniveṣyāyanas*).
+
+Buddhaghosa kể lại (MN­a.i.450; cf. Ja.iii.1, ở đó Sivāvatikā được gọi là Avavādakā) rằng cả cha và mẹ ông đều là những Nigaṇṭhas, những người tranh luận khéo léo, những người đã kết hôn với nhau theo lời đề nghị của những người Licchavīs, bởi vì họ không thể đánh bại lẫn nhau trong các cuộc biện luận. Những người Licchavīs đã cung cấp sinh kế cho họ. Bốn người con gái đã được sinh ra cho họ: Saccā, Lolā, Paṭācārā và Sivāvatikā. Những người này đã tham gia vào một cuộc tranh luận với Sāriputta, và đã bị ngài đánh bại. Sau khi gia nhập Tăng đoàn, họ đã trở thành những vị *Arahant*. Saccaka là anh em trai của họ và là người nhỏ tuổi nhất trong số họ. Ông là một vị thầy của những người Licchavīs và sống tại Vesālī.
+
+Khi Saccaka bị Đức Phật đánh bại như đã nói ở trong Cūḷa Saccakasutta, một người Licchavī tên là Dummukha đã so sánh ông với một con cua trong vũng nước, các càng của nó lần lượt bị đập nát và không thể trở về vũng nước nữa. Saccaka đã nhận thua, và cầu xin Đức Phật thọ nhận một bữa ăn tại nhà của ông. Đức Phật đã nhận lời, và Saccaka trở thành người môn đệ của Ngài (MN.i.234f).
+
+Có nói rằng (MN­a.i.469f), trong một kiếp sau, rất lâu sau khi Đức Phật viên tịch, Saccaka được tái sinh ở Tích Lan dưới tư cách là vị Thera Kāḷa Buddharakkhita và đã chứng đắc quả vị *Arahant*. Saccaka, được nhận diện là Senaka của Mahā Ummaggajātaka (Ja 546). Ja.vi.478.
 
 ## Notes

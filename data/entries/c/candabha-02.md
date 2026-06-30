@@ -5,7 +5,7 @@ base_headword: "Candābha"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candābha 02. Sixteen thousand *kappas* ago there were four kings of this name, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candābha 02. Mười sáu ngàn *kappa* trước có bốn vị vua mang tên này, tất cả đều là các tiền kiếp của Ekadīpiya (Ap.i.189).
 
 ## Notes

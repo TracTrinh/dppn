@@ -2124,3 +2124,305 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 343 | c/canda-07-2 | — |  |
 | 344 | c/campa-01 | — |  |
 | 345 | c/campeyyajataka | — |  |
+
+## Batch: b_04-e_01 review_queue — 222 entries
+
+- Ngày review: 2026-07-01
+- Người/model: Codex GPT-5 (review-queue pass)
+- Phạm vi: review queue manifests `b_04_result.md`, `b_05_result.md`, `b_06_result.md`, `c_03_result.md`, `c_04_result.md`, `c_05_result.md`, `d_01_result.md`, `e_01_result.md`; excluded entries already in review-log.md (none in these manifests).
+- Kết quả: 222/222 đạt; 21 file sửa low-risk; 0 file đặt needs_check. Glossary merge: accepted `component things → các pháp hữu vi`; rejected/deferred: none.
+
+| # | Entry (<letter>/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | b/balisasutta | clean |  |
+| 2 | b/balisikasutta | clean |  |
+| 3 | b/balivaddasutta | clean |  |
+| 4 | b/baluggata | clean |  |
+| 5 | b/bandhanagarajataka | clean |  |
+| 6 | b/bandhanamokkhajataka | clean |  |
+| 7 | b/bandhanasutta-01 | clean |  |
+| 8 | b/bandhanasutta-02 | clean |  |
+| 9 | b/bandhanasutta | clean |  |
+| 10 | b/bandhatisutta-01 | clean |  |
+| 11 | b/bandhatisutta-02 | clean |  |
+| 12 | b/bandhujivaka-thera-01 | fixed | italicized *Arahant* |
+| 13 | b/bandhujivaka-thera-02 | fixed | italicized *Arahant* |
+| 14 | b/bandhula | clean |  |
+| 15 | b/bandhuma-01 | fixed | restored citation etc. |
+| 16 | b/bandhuma-02 | clean |  |
+| 17 | b/bandhumati-01 | fixed | restored citation etc. |
+| 18 | b/bandhumati-02 | fixed | restored citation etc. |
+| 19 | b/bandhumati-03 | clean |  |
+| 20 | b/bandhura-thera | clean |  |
+| 21 | b/bandhura | clean |  |
+| 22 | b/barabbala | clean |  |
+| 23 | b/baranasi | fixed | restored citation etc.; italicized *Arahant* |
+| 24 | b/bavari | clean |  |
+| 25 | b/baverujataka | clean |  |
+| 26 | b/belattha-kaccana | clean |  |
+| 27 | b/belattha | clean |  |
+| 28 | b/belatthanika-thera | clean |  |
+| 29 | b/belatthasisa-thera | clean |  |
+| 30 | b/beluva | clean |  |
+| 31 | b/beluvapanduvina | clean |  |
+| 32 | b/bhadda-01-2 | clean |  |
+| 33 | b/bhadda-01 | clean |  |
+| 34 | b/bhadda-02-2 | clean |  |
+| 35 | b/bhadda-02 | clean |  |
+| 36 | b/bhadda-03-2 | clean |  |
+| 37 | b/bhadda-03 | clean |  |
+| 38 | b/bhadda-04-2 | clean |  |
+| 39 | b/bhadda-04 | clean |  |
+| 40 | b/bhadda-05 | clean |  |
+| 41 | b/bhadda-kapilani-theri | fixed | restored citation e.g./etc. |
+| 42 | b/baveru | clean |  |
+| 43 | b/bhadda-kundalakesa | clean |  |
+| 44 | b/bhaddaji-thera | clean |  |
+| 45 | b/bhaddajisutta | clean |  |
+| 46 | b/bhaddakaccana | clean |  |
+| 47 | b/bhaddakappa | clean |  |
+| 48 | b/bhaddakasutta | clean |  |
+| 49 | b/bhaddali-thera | clean |  |
+| 50 | b/bhaddalisutta | clean |  |
+| 51 | b/bhaddanahanakottha | clean |  |
+| 52 | b/bhaddasala-01 | clean |  |
+| 53 | b/bhaddasala-02 | clean |  |
+| 54 | b/bhaddasala-03 | clean |  |
+| 55 | b/bhaddasala-04 | clean |  |
+| 56 | b/bhaddasala-05 | clean |  |
+| 57 | b/bhaddasala-06 | clean |  |
+| 58 | b/bhaddasalajataka | clean |  |
+| 59 | b/bhaddasena-2 | clean |  |
+| 60 | b/bhaddasena | clean |  |
+| 61 | b/bhaddasenapatiparivena | clean |  |
+| 62 | b/bhaddasuriyavaccasa | clean |  |
+| 63 | b/bhaddavaggiya | clean |  |
+| 64 | b/bhaddavati-01 | fixed | restored Sāmāvati spelling |
+| 65 | b/bhaddavati-02 | clean |  |
+| 66 | b/bhaddavati-03 | clean |  |
+| 67 | b/bhaddavatika | clean |  |
+| 68 | b/bhaddavatiya | clean |  |
+| 69 | b/bhaddekarattasutta | clean |  |
+| 70 | b/bhadditthivimanavatthu | clean |  |
+| 71 | b/bhaddiya-01 | fixed | restored citation etc. |
+| 72 | b/bhaddayanika | clean |  |
+| 73 | c/canda-07 | clean |  |
+| 74 | c/canda-08-2 | clean |  |
+| 75 | c/canda-08 | clean |  |
+| 76 | c/canda-09-2 | clean |  |
+| 77 | c/canda-09 | clean |  |
+| 78 | c/canda-10 | clean |  |
+| 79 | c/canda-11 | clean |  |
+| 80 | c/candabha-01 | clean |  |
+| 81 | c/candabha-02 | clean |  |
+| 82 | c/candabhaga-01 | fixed | restored citation e.g./etc. |
+| 83 | c/candabhaga-02 | clean |  |
+| 84 | c/candabhajataka | clean |  |
+| 85 | c/candabhanu | clean |  |
+| 86 | c/candadeva | fixed | restored Andhakaveṇhudāsaputtā |
+| 87 | c/candadhara | clean |  |
+| 88 | c/candagabbha | clean |  |
+| 89 | c/candagiri | clean |  |
+| 90 | c/candagutta-02 | clean |  |
+| 91 | c/candagutta-03 | clean |  |
+| 92 | c/candagutta-04 | clean |  |
+| 93 | c/candagutta | clean |  |
+| 94 | c/candaka-01 | clean |  |
+| 95 | c/candaka-02 | clean |  |
+| 96 | c/candaka-03 | clean |  |
+| 97 | c/candaka-04 | clean |  |
+| 98 | c/candakali | clean |  |
+| 99 | c/candakinnarajataka | clean |  |
+| 100 | c/candakumara-01 | fixed | Bồ-tát → Bodhisatta |
+| 101 | c/candakumara-02 | clean |  |
+| 102 | c/candagutta-01 | clean |  |
+| 103 | c/candakumarajataka | clean |  |
+| 104 | c/candalakappa | clean |  |
+| 105 | c/candalasutta | clean |  |
+| 106 | c/candalatissa-mahabhaya | clean |  |
+| 107 | c/candamitta | clean |  |
+| 108 | c/candamukha-2 | clean |  |
+| 109 | c/candamukha | fixed | preserved Malaya Mahā Deva Thera |
+| 110 | c/candamukhasiva | clean |  |
+| 111 | c/candamukhatissa | clean |  |
+| 112 | c/candamukhi | clean |  |
+| 113 | c/candana-01 | clean |  |
+| 114 | c/candana-02 | fixed | preserved Candana Thera and Kuṭajapupphiya Thera |
+| 115 | c/candana-03 | clean |  |
+| 116 | c/candanagama | clean |  |
+| 117 | c/candanamala | clean |  |
+| 118 | c/candanamaliya-thera | fixed | preserved Valliya Thera |
+| 119 | c/candanangalika | clean |  |
+| 120 | c/candanapasada | clean |  |
+| 121 | c/candanapujaka-thera | fixed | preserved Sīha Thera |
+| 122 | c/candanasutta-01 | clean |  |
+| 123 | c/candanasutta-02 | clean |  |
+| 124 | c/candapaduma-01 | clean |  |
+| 125 | c/candapaduma-02 | clean |  |
+| 126 | c/candappajjota | clean |  |
+| 127 | c/candarama | clean |  |
+| 128 | c/candasaratthatika | clean |  |
+| 129 | c/candasoka | clean |  |
+| 130 | c/candasuriya | clean |  |
+| 131 | c/candasutta-2 | clean |  |
+| 132 | c/candamukhi-2 | clean |  |
+| 133 | c/candasutta | clean |  |
+| 134 | c/candavajji | clean |  |
+| 135 | c/candavankavithi | clean |  |
+| 136 | c/candavati-01 | clean |  |
+| 137 | c/candavati-02 | clean |  |
+| 138 | c/candavati-03 | clean |  |
+| 139 | c/candavati-04 | clean |  |
+| 140 | c/candi-01 | clean |  |
+| 141 | c/candi-02 | clean |  |
+| 142 | c/candidvara | clean |  |
+| 143 | c/candika | clean |  |
+| 144 | c/candikaputta-thera | clean |  |
+| 145 | c/candima-01 | clean |  |
+| 146 | c/candima-02 | clean |  |
+| 147 | c/candimasasutta | clean |  |
+| 148 | c/candimasutta | clean |  |
+| 149 | c/candorana | clean |  |
+| 150 | c/candupama | fixed | preserved Vaṇṇakāraka Thera |
+| 151 | c/candupamasutta | clean |  |
+| 152 | c/cangotakiya-thera | clean |  |
+| 153 | c/cankamadayaka-thera | clean |  |
+| 154 | c/cankamasutta | clean |  |
+| 155 | c/canki | clean |  |
+| 156 | c/cankisutta | clean |  |
+| 157 | c/cankolapupphiya-thera | clean |  |
+| 158 | c/canura | clean |  |
+| 159 | c/capa-theri | clean |  |
+| 160 | c/capala | clean |  |
+| 161 | c/capalacetiya | clean |  |
+| 162 | c/capalavagga | clean |  |
+| 163 | d/dabba-mallaputta-thera | clean |  |
+| 164 | d/dabbasena | clean |  |
+| 165 | d/dabbhapupphajataka | clean |  |
+| 166 | d/dabbila | clean |  |
+| 167 | d/daddabhajataka | clean |  |
+| 168 | d/daddara-01 | clean |  |
+| 169 | d/daddara-02 | clean |  |
+| 170 | d/daddara-03 | clean |  |
+| 171 | d/daddarajataka-01 | clean |  |
+| 172 | d/daddarajataka-02 | clean |  |
+| 173 | d/dadhimala | clean |  |
+| 174 | d/dadhimukha | clean |  |
+| 175 | d/dadhivahana | clean |  |
+| 176 | d/dadhivahanajataka | clean |  |
+| 177 | d/daharasutta | clean |  |
+| 178 | d/dakapasanavihara | clean |  |
+| 179 | d/dakarakkhasajataka | clean |  |
+| 180 | d/dakarakkhasapanha | clean |  |
+| 181 | d/dakkhinadesa | fixed | translated leftover “but see” |
+| 182 | d/dakkhinagiri | fixed | translated leftover “see ...” note |
+| 183 | d/dakkhinagirivihara-02 | clean |  |
+| 184 | d/dakkhinamalayajanapada | clean |  |
+| 185 | d/dakkhinamula | clean |  |
+| 186 | d/dakkhinapatha | fixed | translated leftover English note phrase |
+| 187 | d/dakkhinasutta | clean |  |
+| 188 | d/dakkhinavibhangasutta | clean |  |
+| 189 | d/dakkhinavihara | fixed | translated leftover “But see” |
+| 190 | d/dalhadhamma | clean |  |
+| 191 | d/dalhadhammajataka | clean |  |
+| 192 | d/dalhadhammasutta | clean |  |
+| 193 | e/ejasutta | clean |  |
+| 194 | e/ekabala | clean |  |
+| 195 | e/ekabbohara | clean |  |
+| 196 | e/ekabijisutta | clean |  |
+| 197 | e/ekacakkhu | clean |  |
+| 198 | e/ekacampakapupphiya-thera | clean |  |
+| 199 | e/ekacariya-thera | clean |  |
+| 200 | e/ekachattiya-thera | clean |  |
+| 201 | e/ekacintita-01 | clean |  |
+| 202 | e/ekacintita-02 | clean |  |
+| 203 | e/ekadamsaniya-thera | clean |  |
+| 204 | e/ekadhammapeyyala | clean |  |
+| 205 | e/ekadhammasavaniya-thera-01 | clean |  |
+| 206 | e/ekadhammasavaniya-thera-02 | clean |  |
+| 207 | e/ekadhammasutta-01 | clean |  |
+| 208 | e/ekadhammasutta-02 | clean |  |
+| 209 | e/ekadhammavagga-01 | clean |  |
+| 210 | e/ekadhammavagga-02 | clean |  |
+| 211 | e/ekadhitusutta | clean |  |
+| 212 | e/ekadipi | clean |  |
+| 213 | e/ekadipiya-thera-01 | clean |  |
+| 214 | e/ekadipiya-thera-02 | clean |  |
+| 215 | e/ekadussadayaka-thera | clean |  |
+| 216 | e/ekadvara | clean |  |
+| 217 | e/ekadvarika | clean |  |
+| 218 | e/ekahavapi | clean |  |
+| 219 | e/ekajjha | clean |  |
+| 220 | e/ekakkharakosa | clean |  |
+| 221 | e/ekamandariya-thera | clean |  |
+| 222 | e/ekanala | clean |  |
+
+## Batch: s_01-s_02 review_queue — 60 entries
+
+- Ngày review: 2026-07-01
+- Người/model: Codex GPT-5 (review-queue pass)
+- Phạm vi: review queue manifests `s_01_result.md`, `s_02_result.md`; excluded entries already in review-log.md (none in these manifests).
+- Kết quả: 60/60 đạt; 9 file sửa low-risk; 0 file đặt needs_check. Glossary merge: no active glossary proposal files found.
+
+| # | Entry (<letter>/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/sa-adhanavagga | clean |  |
+| 2 | s/sabala-2 | clean |  |
+| 3 | s/sabala | clean |  |
+| 4 | s/sabbabhibhu | clean |  |
+| 5 | s/sabbadassi | fixed | removed unsupported `(chaplain)` gloss |
+| 6 | s/sabbadatha | clean |  |
+| 7 | s/sabbadathajataka | fixed | corrected `flour` translation |
+| 8 | s/sabbadatta | clean |  |
+| 9 | s/sabbadayaka-thera | clean |  |
+| 10 | s/sabbadinna | clean |  |
+| 11 | s/sabbagahana | clean |  |
+| 12 | s/sabbagandhiya-thera | clean |  |
+| 13 | s/sabbaka | clean |  |
+| 14 | s/sabbakama-01 | clean |  |
+| 15 | s/sabbakama-02 | clean |  |
+| 16 | s/sabbakama | clean |  |
+| 17 | s/sabbakittika-thera | clean |  |
+| 18 | s/sabbalahusasutta | fixed | corrected Five Precepts parenthetical |
+| 19 | s/sabbalokasutta | clean |  |
+| 20 | s/sabbamitta-01 | clean |  |
+| 21 | s/sabbamitta-02 | clean |  |
+| 22 | s/sabbamitta-03 | clean |  |
+| 23 | s/sabbamitta-04 | clean |  |
+| 24 | s/sabbananda-thera | fixed | corrected `left behind` nuance |
+| 25 | s/sabbanjaha | clean |  |
+| 26 | s/sabbaphaladayaka-thera | clean |  |
+| 27 | s/sabbasamharakapanha | clean |  |
+| 28 | s/sabbasavasutta | clean |  |
+| 29 | s/sabbasutta-01 | clean |  |
+| 30 | s/sabbasutta-02 | clean |  |
+| 31 | s/sabbattha-abhivassi | clean |  |
+| 32 | s/sabbatthivadi | clean |  |
+| 33 | s/sabbavagga | clean |  |
+| 34 | s/sabbhisutta | clean |  |
+| 35 | s/sabbosadha | clean |  |
+| 36 | s/sabhagatasutta | clean |  |
+| 37 | s/sabhasammata | clean |  |
+| 38 | s/sabhattadesabhoga | clean |  |
+| 39 | s/sabhiya-01 | clean |  |
+| 40 | s/sabhiya-02 | fixed | removed unsupported glosses and corrected `fraternity`, `sandals` |
+| 41 | s/sabhiya-03 | fixed | removed unsupported Saṁyutta gloss; normalized `v.v.` |
+| 42 | s/sabhiyasutta-01 | clean |  |
+| 43 | s/sabhiyasutta-02 | clean |  |
+| 44 | s/sabrahmakanisutta | clean |  |
+| 45 | s/sacakkhu | clean |  |
+| 46 | s/sacca-2 | clean |  |
+| 47 | s/sacca | clean |  |
+| 48 | s/saccabaddha | clean |  |
+| 49 | s/saccaka | clean |  |
+| 50 | s/saccakali | clean |  |
+| 51 | s/saccakatha | clean |  |
+| 52 | s/saccanama | clean |  |
+| 53 | s/saccankirajataka | fixed | removed unsupported gloss/addition; corrected procession and proverb |
+| 54 | s/saccasamyutta | clean |  |
+| 55 | s/saccasannaka-thera | clean |  |
+| 56 | s/saccasutta-01 | fixed | preserved Paribbājakas; removed unsupported `(becomings)` gloss |
+| 57 | s/saccasutta-02 | clean |  |
+| 58 | s/saccatapavi | fixed | removed unsupported wager detail; corrected tent wording and quote punctuation |
+| 59 | s/saccavibhangasutta | clean |  |
+| 60 | s/saccasankhepa | clean |  |

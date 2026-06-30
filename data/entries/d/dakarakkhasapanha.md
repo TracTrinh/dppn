@@ -5,7 +5,7 @@ base_headword: "Dakarakkhasapañha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The king answered that he would sacrifice all but the last, in the order given, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dakarakkhasapañha. Theo gợi ý của Mahosadha, nhà khổ tu Bherī hỏi vua Cūḷanī rằng ông sẽ làm gì nếu ông đang đi biển cùng mẹ, vợ, anh em, bạn bè, tế sư và Mahosadha, rồi một thủy quỷ đang tìm vật tế là người bắt giữ con tàu.
+
+Nhà vua trả lời rằng ông sẽ hiến tế tất cả trừ người cuối cùng, theo thứ tự đã nêu, rồi đến chính mình, nhưng Mahosadha thì không được hiến tế. Bherī thuyết phục nhà vua tuyên bố điều này trước công chúng, để vinh quang của Mahosadha có thể lan truyền xa rộng. Ja.vi.469ff., 477, 478.
 
 ## Notes

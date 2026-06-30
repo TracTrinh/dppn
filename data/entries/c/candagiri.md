@@ -5,7 +5,7 @@ base_headword: "Candagiri"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candagiri. A *vihāra* in Ceylon built by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candagiri. Một *vihāra* ở Ceylon do Vijayabāhu I. xây dựng (Cv.lx.61). Geiger (Cv.Trs.i.220, n.2) nhận diện nó với *Thūpa* Sandagiri ở Tissamahārāma.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cāpālacetiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -36,6 +36,12 @@ Faxian found a pagoda there and relates a story in connection with it (p.43).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāpālacetiya. Một điện thờ gần Vesālī. Tại đây Đức Phật, ba tháng trước khi *Parinibbāna*, đã dứt khoát quyết định chấp thuận lời thỉnh cầu của Māra rằng ngài nên viên tịch.
+
+Khi ngài tuyên bố quyết định này, trái đất đã rung chuyển (DN.ii.102ff; AN.iv.308f; SN.v.260f.; Ud.vi.1; Divy.201, 207; Mvu.i.209f; iii.306).
+
+Aṅguttara Commentary (i.457) nói rằng trong suốt hai mươi năm đầu tiên của sứ mạng hoằng pháp của Đức Phật, đôi khi ngài ngự tại Cāpālacetiya. Nó từng là nơi cư ngụ của Yakkha Cāpāla, nhưng, về sau, một *vihāra* đã được dựng lên trên địa điểm này để Đức Phật sử dụng (Ud­a.322f).
+
+Pháp Hiển (Faxian) đã tìm thấy một ngôi chùa ở đó và kể lại một câu chuyện liên quan đến nó (p.43).
 
 ## Notes

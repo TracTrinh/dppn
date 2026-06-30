@@ -5,7 +5,7 @@ base_headword: "Candaka"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candaka 01. Another name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candaka 01. Tên gọi khác của Canda (Candakumāra).
 
 ## Notes

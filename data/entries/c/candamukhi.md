@@ -5,7 +5,7 @@ base_headword: "Candamukhī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candamukhī. The wife of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candamukhī. Vợ của *Devaputta* (thiên tử) Meghavaṇṇa. Ras.ii.126.
 
 ## Notes
