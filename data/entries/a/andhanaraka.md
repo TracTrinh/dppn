@@ -5,7 +5,7 @@ base_headword: "Andhanāraka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Andhanāraka. One of the villages given by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhanāraka. Một trong các làng được Aggabodhi IV cấp để duy trì Padhānaghara được xây cho Trưởng lão Dāṭhāsiva. Cv.xlvi.13.
 
 ## Notes

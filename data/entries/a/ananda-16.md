@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "16"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 16. Người Haṁsavatī. Tác giả của Madhusāraṭṭhadīpanī, một *ṭīkā* về Abhidhamma. Sās.48; nhưng xem Bode, 47-8.
 
 ## Notes

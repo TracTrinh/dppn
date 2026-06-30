@@ -5,7 +5,7 @@ base_headword: "Aṅga"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aṅga 03. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅga 03. Một vị vua của Benares, trên hai bàn chân có lông mọc. Ông hỏi các Bà-la-môn con đường đến cõi trời, và được bảo hãy lui vào rừng và chăm sóc ngọn lửa thiêng. Ông đi đến Himavā cùng nhiều bò và phụ nữ, và làm như lời được khuyên. Sữa và bơ sữa còn lại từ các tế lễ của ông bị đổ bỏ, và từ chúng sinh khởi nhiều con sông nhỏ, chính sông Ganges, và cả biển. Về sau ông trở thành bạn đồng hành của Indra. Ja.vi.203
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "10"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 10. Giống như trên, điểm khác biệt duy nhất cũng giống như giữa 7 và 8.
 
 ## Notes

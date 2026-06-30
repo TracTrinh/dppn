@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "07"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 07. Được thuyết tại Jetavana. Ānanda hỏi Đức Phật về thần thông (*iddhi*), nền tảng và sự tu tập của nó, cùng việc thực hành nó. Đức Phật khai sáng cho ông. SN.v.285-6.
 
 ## Notes

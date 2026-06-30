@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍika"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -147,6 +147,74 @@ During the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="85"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍika 01. Một trưởng giả (*seṭṭhi*) ở Sāvatthī, người trở nên nổi tiếng vì lòng hào phóng vô song đối với Đức Phật. Lần đầu ông gặp Đức Phật là trong năm đầu tiên sau Giác ngộ, tại Rājagaha (câu chuyện được kể trong Vin.ii.154ff; SN­a.i.240ff, v.v.), nơi Anāthapiṇḍika đã đến vì công việc làm ăn.
+
+Vợ ông là em gái của vị *seṭṭhi* ở Rājagaha, và khi đến nơi, ông thấy vị *seṭṭhi* đang chuẩn bị một bữa ăn cho Đức Phật và các vị tăng với quy mô lộng lẫy đến mức ông nghĩ rằng đang có một đám cưới hoặc nhà vua đã được mời. Khi biết sự thật, ông nóng lòng muốn đến thăm Đức Phật, và đã làm như vậy rất sớm vào sáng hôm sau (Vin.ii.155-6). Ông xúc động trước ý nghĩ về chuyến thăm đến nỗi trong đêm đã thức dậy ba lần. Cuối cùng, khi ông khởi hành đến Sītavana, đường đi hoàn toàn tối, nhưng một Yakkha thân thiện, Sīvaka, đã thúc giục ông bằng những lời khích lệ. Nhờ sức mạnh lòng mộ đạo của ông, bóng tối tan biến.
+
+Đức Phật đang trú tại Sītavana, và khi Anāthapiṇḍika đến đó, các thần linh mở cửa cho ông. Ông thấy Đức Phật đang đi kinh hành, thiền định trong làn khí mát của buổi bình minh sớm. Đức Phật chào ông và nói với ông về nhiều phương diện trong giáo pháp của Ngài. Anāthapiṇḍika lập tức chuyển hóa và trở thành một *Sotāpanna*. Ông thỉnh Đức Phật dùng bữa vào ngày hôm sau, tự mình cung cấp mọi thứ, mặc dù vị *seṭṭhi*, thị trưởng Rājagaha và vua Bimbisāra đều xin được giúp. Sau bữa ăn, do chính tay ông phục vụ Đức Phật, ông thỉnh Đức Phật an cư mùa mưa tại Sāvatthī, và Đức Phật chấp nhận, nói rằng "các Tathāgata, này gia chủ, hoan hỷ trong sự tĩnh cư." "Con hiểu, bạch Thế Tôn, con hiểu," là lời đáp.
+
+Khi Anāthapiṇḍika hoàn tất công việc ở Rājagaha, ông lên đường về Sāvatthī, dọc đường ra lệnh cho bạn bè và người quen chuẩn bị trú xứ, công viên, nhà nghỉ và phẩm vật cúng dường suốt tuyến đường đến Sāvatthī để chuẩn bị cho chuyến viếng thăm của Đức Phật. Ông có nhiều bạn bè và người quen, và ông là *ādeyyavaco* (lời nói của ông được xem là có trọng lượng), *loc.cit.*, p.158. Nhưng xem Ja.i.92, nơi nói rằng Anāthapiṇḍika chịu toàn bộ chi phí cho những chuẩn bị này. Các *vihāras* được xây, mỗi nơi tốn l,000 đồng tiền, cách nhau một *yojana*.
+
+Hiểu lời thỉnh cầu hàm ý trong lời Đức Phật khi Ngài nhận lời mời, Anāthapiṇḍika tìm một nơi yên tĩnh gần Sāvatthī để Đức Phật và các vị tăng có thể cư trú, và ông để mắt đến khu vườn của Jetakumāra. Ông mua khu vườn ấy với chi phí rất lớn và dựng tại đó Jetavanārāma nổi tiếng. Do việc này và nhiều sự bảo trợ khác cho sự nghiệp của *Sāsana*, Anāthapiṇḍika được công nhận là người đứng đầu trong các thí chủ cúng dường vật thực (AN.i.25).
+
+Tên riêng của Anāthapiṇḍika là Sudatta, nhưng ông luôn được gọi là Anāthapiṇḍika (người nuôi kẻ khốn cùng) (AN­a.i.208; MN­a.i.50) vì lòng hào phóng của ông; tuy nhiên, ông rất hoan hỷ khi Đức Phật gọi ông bằng tên riêng (Vin.ii.156). Ông đã chi mười tám crore để mua Jetavana và một khoản tương tự để xây *vihāra*; thêm mười tám crore nữa được chi cho lễ khánh thành. Hằng ngày ông nuôi một trăm vị tăng tại nhà, ngoài các bữa ăn dành cho khách, dân làng, người bệnh, v.v. Năm trăm chỗ ngồi luôn sẵn sàng trong nhà ông cho bất cứ khách nào có thể đến (AN­a.i.208-9. Dhp­a.i.128 nói rằng ông nuôi 1,000 vị tăng hằng ngày; nhưng xem Ja.iii.119, nơi một vị tăng từ xa đến và lỡ giờ ăn đã phải chịu đói.).
+
+Cha của Anāthapiṇḍika là trưởng giả (*seṭṭhi*) Sumana (AN­a. loc.cit.). Tên của em trai Anāthapiṇḍika là Subhūti.
+
+Anāthapiṇḍika cưới một phụ nữ tên Puññalakkhaṇā (Ja.ii.410; Ja.iii.435, bà là em gái của vị *seṭṭhi* ở Rājagaha. SN­a.i.240); ông có một con trai là Kāḷa và ba con gái là Mahā Subhaddā, Cūḷa Subhaddā và Sumanā. (Ngoài Kāḷa, Anāthapiṇḍika còn có một con trai khác, người đã gia nhập Tăng đoàn dưới sự hướng dẫn của Subhūti Thera*;* AN­a.ii.865). Cũng có nhắc đến một nàng dâu tên Sujātā, con gái của Dhanañjaya và là em út của Visākhā. Nàng rất kiêu căng và đối xử tệ với các gia nhân (Ja.ii.347).
+
+Người con trai, bất chấp những nỗ lực của cha, không biểu lộ lòng mộ đạo nào cho đến khi cuối cùng được mua chuộc để đi đến *vihāra* và nghe Đức Phật thuyết pháp (xem Kāḷa). Trái lại, các con gái rất hiếu thuận và giúp cha phụng sự các vị tăng. Hai người con gái lớn chứng Sơ quả của Đạo, kết hôn và về sống với gia đình chồng. Sumanā chứng Nhị quả của Đạo, nhưng vẫn chưa kết hôn. Bị thất vọng lấn át vì không tìm được chồng, nàng từ chối ăn và chết; nàng được tái sinh ở Tusita (Dhp­a.i.128f).
+
+Bhadraghaṭajātaka (Ja 291, Ja.ii.431) cho chúng ta biết về một người cháu trai của Anāthapiṇḍika, kẻ đã phung phí gia sản bốn mươi crore của mình. Người chú trước hết cho anh ta một nghìn, rồi thêm năm trăm nữa để buôn bán. Anh ta cũng phung phí số này. Sau đó Anāthapiṇḍika cho anh ta hai bộ y phục. Khi anh ta xin giúp thêm, người ấy bị nắm cổ và đẩy ra khỏi cửa. Ít lâu sau, anh ta được tìm thấy đã chết bên một bức tường.
+
+Các sách cũng nhắc đến một cô gái tên Puṇṇā, vốn là nữ nô trong gia đình Anāthapiṇḍika. Vào một dịp, khi Đức Phật sắp khởi hành từ Jetavana trong một chuyến du hành định kỳ, nhà vua, Anāthapiṇḍika và các vị hộ trì lỗi lạc khác đã không ngăn được Ngài; tuy nhiên Puṇṇā đã thành công, và để ghi nhận việc phục vụ này, Anāthapiṇḍika nhận nàng làm con gái (MN­a.i.347-8). Vào các ngày *uposatha*, toàn bộ gia đình ông giữ trai giới; trong mọi dịp họ giữ *pañcasīla* không vi phạm (Ja.iii.257).
+
+Có kể một câu chuyện về một người làm công của ông, người đã quên ngày và đi làm; nhưng về sau nhớ ra, người ấy nhất quyết giữ trai giới và chết vì đói. Người ấy tái sinh làm một thiên nhân (MN­a.i.540-1).
+
+Anāthapiṇḍika có một làng kinh doanh ở Kāsi, và người quản lý làng được lệnh nuôi ăn bất cứ vị tăng nào đến đó (Vin.iv.162f). Một trong các gia nhân của ông mang cái tên không lành Kāḷakaṇṇi (điềm gở); người ấy và vị trưởng giả từng là bạn chơi khi còn nhỏ, và Kāḷakaṇṇi, sau khi sa vào cảnh khó khăn, vào phục vụ vị trưởng giả. Bạn bè của vị trưởng giả phản đối việc ông để một người có cái tên xui rủi như vậy trong nhà, nhưng ông từ chối nghe họ. Một ngày nọ, khi Anāthapiṇḍika vắng nhà vì công việc, bọn trộm đến cướp nhà ông, nhưng Kāḷakaṇṇi với sự bình tĩnh lớn đã xua đuổi chúng (Ja.i.364f).
+
+Một câu chuyện tương tự được kể về một người bạn khác của ông, người cũng phục vụ ông (Ja.i.441).
+
+Tuy nhiên, không phải tất cả gia nhân của ông đều thông minh như vậy. Một nữ nô của ông, thấy một con ruồi đậu trên người mẹ mình, đã dùng chày đánh bà để đuổi nó đi, và giết chết bà (Ja.i.248f).
+
+Một nữ nô của ông mượn một món trang sức của vợ ông và đi với các bạn đến vườn vui chơi. Tại đó nàng trở nên thân thiết với một người đàn ông rõ ràng muốn cướp trang sức của nàng. Khi phát hiện ý định của hắn, nàng đẩy hắn xuống giếng và dùng đá giết hắn (Ja.iii.435).
+
+Câu chuyện về người chăn bò của Anāthapiṇḍika, Nanda, được kể ở nơi khác.
+
+Không phải tất cả bạn bè của vị trưởng giả đều đức hạnh; một người trong số họ giữ một quán rượu (Ja.i.251). Do lòng bố thí vô ngã của Anāthapiṇḍika, ông dần rơi vào cảnh nghèo khó. Nhưng ông vẫn tiếp tục bố thí ngay cả khi chỉ còn hạt cho chim ăn và cháo chua. Vị *Devatā* trú trên cổng nhà ông hiện ra trước ông vào một đêm và cảnh báo ông về cảnh túng thiếu sắp đến; người ta nói rằng mỗi lần Đức Phật hoặc các vị tăng của Ngài đến nhà, nàng phải rời nơi ở trên cổng, và điều này bất tiện cho nàng, khiến nàng sinh lòng ganh tị. Anāthapiṇḍika không chú ý đến những lời cảnh báo của nàng và yêu cầu nàng rời khỏi nhà. Nàng rời đi cùng các con, nhưng không tìm được chỗ trú nào khác và tìm lời khuyên từ nhiều vị trời, kể cả Sakka. Sakka khuyên nàng thu hồi cho Anāthapiṇḍika mười tám crore mà các con nợ còn nợ ông, mười tám crore khác nằm dưới đáy biển, và thêm mười tám crore nữa không ai nhận. Nàng làm như vậy và được nhận trở lại (Dhp­a.iii.10ff; Ja.i.227ff).
+
+Anāthapiṇḍika thường xuyên đến thăm Đức Phật hai lần mỗi ngày, đôi khi cùng nhiều bạn bè (Ja.i.95ff.; Ja.i.226 nói rằng ông đi ba lần), và luôn mang theo vật thực cúng dường cho các Sa-di trẻ. Nhưng chúng ta được cho biết rằng ông không bao giờ hỏi Đức Phật một câu nào, sợ rằng mình sẽ làm Ngài mệt. Ông không muốn Đức Phật cảm thấy phải thuyết pháp cho ông để đáp lại lòng hào phóng của ông (Dhp­a.i.3). Nhưng Đức Phật tự ý thuyết pháp cho ông trong nhiều dịp; một số bài thuyết như vậy được nhắc đến trong Aṅguttaranikāya:
+
+- về tầm quan trọng của việc có một tâm được hộ trì tốt như nóc nhà được che chắn kỹ (AN.i.261f);
+- về các lợi ích mà người nhận thức ăn đạt được (tuổi thọ, sắc đẹp, hạnh phúc, sức mạnh);
+- về bốn bổn phận tạo thành con đường bổn phận của người gia chủ mộ đạo (gihisāmikiccāni - phụng sự Tăng đoàn bằng y phục, thức ăn, chỗ ở, thuốc men. Cũng được nhắc trong SN.v.387, nơi Anāthapiṇḍika bày tỏ sự hài lòng rằng ông chưa bao giờ thất bại trong các bổn phận này);
+- về bốn điều kiện thành công khó đạt được (tài sản kiếm được bằng phương tiện hợp pháp, tiếng tốt, sống lâu, tái sinh hạnh phúc);
+- về bốn loại hạnh phúc mà một gia chủ nên tìm cầu (quyền sở hữu, tài sản, không mắc nợ, không lỗi lầm) (các nhóm bốn này được nêu trong AN.ii.64ff).
+- về năm loại hưởng thụ phát sinh từ tài sản được thủ đắc đúng pháp (sự hưởng thụ - do chính mình và bạn bè, quyến thuộc của mình trải nghiệm, sự an toàn trong lúc cần, khả năng nộp thuế và chi dùng cho tôn giáo của mình, việc bố thí để đem lại một tái sinh hạnh phúc, AN.iii.45-6);
+- năm điều rất đáng mong muốn nhưng khó đạt được (sống lâu, sắc đẹp, hạnh phúc, vinh quang, trạng thái tái sinh tốt, AN.iii.47-8);
+- năm hành vi tội lỗi biện minh cho việc gọi một người là ác (làm hại mạng sống, v.v. AN.iii.204);
+- sự không thích đáng của việc hài lòng với việc cung cấp các vật dụng cần thiết cho các vị tăng mà không tự hỏi liệu mình cũng có trải nghiệm niềm vui sinh ra từ sự thanh thản của tâm hay không (rõ ràng là một lời cảnh báo nhẹ nhàng dành cho Anāthapiṇḍika, AN.iii.206-7).
+
+Đức Phật thuyết Velāmasutta để khích lệ Anāthapiṇḍika khi ông đã rơi vào cảnh nghèo và cảm thấy thất vọng vì không còn có thể cung cấp các vật dụng xa hoa cho các vị tăng (AN.iv.392ff). Trong một dịp khác, Đức Phật nói với Anāthapiṇḍika rằng vị *Sotāpanna* là người hạnh phúc vì vị ấy thoát khỏi nhiều nỗi sợ: sợ sinh vào địa ngục, giữa loài thú, trong cảnh giới ngạ quỷ hoặc trong một trạng thái bất hạnh nào khác; vị ấy chắc chắn đạt đến Giác ngộ (AN.iv.405f, cũng SN.v.387f).
+
+Ở nơi khác, Đức Phật nói với Anāthapiṇḍika rằng không phải mọi người giàu đều biết cách hưởng thụ các dục lạc một cách hợp pháp và có lợi (AN.v.177ff).
+
+Tuy nhiên, có ít nhất một *Sutta* được thuyết do một câu hỏi do chính Anāthapiṇḍika đặt ra về các vật bố thí và những người xứng đáng nhận chúng (AN.i.62-3); và chúng ta cũng thấy ông tham vấn Đức Phật về việc kết hôn của con gái mình, Cūḷa Subhaddā (Dhp­a.iii.466).
+
+Anāthapiṇḍika qua đời trước Đức Phật. Khi nằm bệnh nặng, ông gửi một thông điệp đặc biệt đến Sāriputta, thỉnh vị ấy đến (một lần nữa, có lẽ vì ông không muốn làm phiền Đức Phật). Sāriputta đi cùng Ānanda và thuyết cho ông Anāthapiṇḍikovādasutta (MN.iii.258f.; xem thêm SN.v.380-7, nơi ghi lại các sự việc liên quan đến chuyến thăm này). Các cơn đau của ông rời khỏi ông khi ông tập trung tâm vào đời sống đức hạnh mà ông đã sống và nhiều hành động mộ đạo mà ông đã làm. Về sau, ông dâng thức ăn cho các Trưởng lão từ chính nồi nấu của mình, nhưng chẳng bao lâu sau ông qua đời và sinh lên cõi trời Tusita. Chính đêm ấy, ông đến thăm Đức Phật tại Jetavana và thốt lên một bài ca tán thán Jetavana và Sāriputta, người sống ở đó, khuyên những người khác noi theo giáo pháp của Đức Phật. Ở cõi trời, ông sẽ sống lâu bằng Visākhā và Sakka (DN­a.iii.740).
+
+Nhiều sự kiện khác nhau liên hệ đến Anāthapiṇḍika được tìm thấy trong các Jātakas. Vào một dịp, sự phục vụ của ông được yêu cầu để tiến hành một cuộc điều tra về một Tỳ-kheo-ni đã mang thai (Ja.i.148).
+
+Một lần khi Đức Phật đi du hành khỏi Jetavana, Anāthapiṇḍika bối rối vì không còn ai ở lại để ông lễ bái; theo lời đề nghị của Đức Phật, một nhánh cây từ cây Bodhi ở Gayā được trồng tại lối vào Jetavana (Ja.iv.229).
+
+Một lần, một Bà-la-môn nghe về vận may của Anāthapiṇḍika, đến gặp ông để tìm xem vận may ấy nằm ở đâu để ông ta có thể lấy được nó. Vị Bà-la-môn phát hiện rằng nó nằm trong mào của một con gà trống trắng thuộc về Anāthapiṇḍika; ông ta xin con gà trống, và nó được trao cho ông ta, nhưng vận may bay đi nơi khác, đầu tiên đậu vào một chiếc gối, rồi vào một viên ngọc, một cây gậy, và cuối cùng vào tóc của vợ Anāthapiṇḍika. Do vậy, ước muốn của vị Bà-la-môn bị thất bại (Ja.ii.410f).
+
+Trong hai dịp, ông bị những kẻ bất lương chặn đường. Một lần chúng cố bắt ông uống rượu thốt nốt có pha thuốc. Ban đầu ông bị sốc trước sự hỗn xược của chúng, nhưng về sau, muốn cải hóa chúng, ông dọa chúng bỏ chạy (Ja.i.268).
+
+Trong dịp khác, bọn cướp phục kích ông khi ông trở về từ một trong các làng của mình; bằng cách vội quay lại, ông thoát khỏi chúng (Ja.ii.413). Mỗi khi Anāthapiṇḍika đến thăm Đức Phật, ông có thói quen thuật lại với Đức Phật nhiều việc khác nhau mà ông đã chứng kiến, và Đức Phật sẽ kể cho ông các câu chuyện quá khứ có những sự kiện tương tự. Trong số các Jātakas được thuyết như vậy có: Apaṇṇaka, Khadiraṅgāra, Rohiṇī, Vāruṇī, Puṇṇapāti, Kāḷakaṇṇi, Akataññū, Verī, Kusaṇāli, Siri, Bhadraghaṭa, Visayha, Hiri, Sirikālakaṇṇī và Sulasā.
+
+Anāthapiṇḍika không chỉ là một thương nhân sắc sảo mà còn là một nhà biện luận nhạy bén. Aṅguttaranikāya (AN.v.185-9) ghi lại một lần ông đến thăm các Paribbājakas khi không nghĩ ra việc gì tốt hơn để làm. Một cuộc tranh luận sôi nổi diễn ra về quan điểm của họ và quan điểm của Đức Phật như Anāthapiṇḍika trình bày. Ông làm cho các đối thủ của mình im lặng. Khi sự việc được thuật lại với Đức Phật, Ngài hết lời tán thán Anāthapiṇḍika và bày tỏ sự khâm phục cách ông xử lý cuộc thảo luận.
+
+Vào thời Padumuttara Buddha, Anāthapiṇḍika từng là một gia chủ ở Haṁsavatī. Một ngày nọ, ông nghe Đức Phật nói về một nam cư sĩ đệ tử của Ngài là người đứng đầu trong các thí chủ cúng dường vật thực. Vị gia chủ phát nguyện sẽ được gọi như vậy trong một đời tương lai nào đó và đã làm nhiều thiện nghiệp hướng đến mục tiêu ấy. Ước nguyện của ông được thành tựu trong đời hiện tại này. Anāthapiṇḍika đôi khi được gọi là Mahā Anāthapiṇḍika để phân biệt với Cūḷa Anāthapiṇḍika.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anattāsutta"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anattāsutta 04. Everything is void of self. SN.iv.28.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattāsutta 04. Mọi thứ đều không có tự ngã. SN.iv.28.
 
 ## Notes

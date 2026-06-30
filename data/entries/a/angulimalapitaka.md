@@ -5,7 +5,7 @@ base_headword: "Aṅgulimālapiṭaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgulimālapiṭaka. Given in a list of heretical works. SN­a.ii.150; Vin-a.i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgulimālapiṭaka. Được nêu trong một danh sách các tác phẩm ngoại đạo. SN­a.ii.150; Vin-a.iv.742.
 
 ## Notes

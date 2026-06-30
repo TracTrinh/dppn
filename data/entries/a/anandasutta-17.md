@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "17"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 17. Bài pháp thoại do Ānanda thuyết giảng cho các tỳ-kheo về người hiền thiện và kẻ ác. AN.v.6f.
 
 ## Notes

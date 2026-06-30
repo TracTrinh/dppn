@@ -5,7 +5,7 @@ base_headword: "Aṅgikasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgikasutta. On the development of the fivefold Ariyan *Samādhi*. AN.iii.25-9
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgikasutta. Về sự tu tập *Samādhi* bậc Thánh gồm năm phần. AN.iii.25-9.
 
 ## Notes

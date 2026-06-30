@@ -5,7 +5,7 @@ base_headword: "Andhakā"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -39,6 +39,8 @@ In the *Aitareya Brāhmaṇa* (vii.18) the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakā 01. Được nhắc đến trong một danh sách các bộ tộc đã đến đảnh lễ Trưởng lão Jatukaṇṇika khi vị ấy sinh làm một trưởng giả ở Haṁsavatī (Ap.ii.359). Andhakaraṭṭha ở bên bờ sông Godhāvarī và gần nơi Bāvarī sinh sống. Assaka và Aḷaka, được nhắc đến trong *vatthugāthā* của Pārāyaṇavagga (Sn.977), được Chú giải Suttanipāta mô tả là các vua Andhaka. Snp-a.ii.581; Vincent Smith đặt họ nguyên thủy ở Đông Ấn Độ, giữa các sông Kṛṣṇa và Godhāvarī (Z.D.M.G. 56, 657ff.); xem thêm Burgess: *Arch. Reports on W. India*, ii.132 và iii.54. Cunningham: 603-607.
+
+Trong *Aitareya Brāhmaṇa* (vii.18), Andhakas được nhắc cùng với Pulindas, v.v., như một bộ tộc bị loại khỏi giai cấp. Họ lại xuất hiện trong mối liên hệ với nhau vào thời Asoka (Vincent Smith: Z.D.M.G. 56, 652f). *Mahā Bhārata* (xii.207, 42) đặt Pulindas, Andhas và Sabaras ở *Dakṣiṇapatha*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anattasutta"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anattasutta 04. The idea of “not-self,” when cultivated, conduces to great p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattasutta 04. Ý niệm "vô ngã", khi được tu tập, dẫn đến lợi ích lớn. SN.v.133.
 
 ## Notes

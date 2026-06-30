@@ -5,7 +5,7 @@ base_headword: "Anaṅganasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anaṅganasutta. A record of a conversation between <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anaṅganasutta. Ghi lại cuộc hội thoại giữa Sāriputta và Moggallāna về bản chất của các cấu uế (*aṅganāni*), cùng với lợi ích của việc nhận diện và loại bỏ chúng. MN.i.24ff.
 
 ## Notes

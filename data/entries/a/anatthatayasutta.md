@@ -5,7 +5,7 @@ base_headword: "Anatthatāyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anatthatāyasutta. Negligence (*pamāda*) conduces to great loss. AN.i.16.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anatthatāyasutta. Sự phóng dật (*pamāda*) dẫn đến tổn thất lớn. AN.i.16.
 
 ## Notes

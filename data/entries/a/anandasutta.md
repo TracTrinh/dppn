@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta hay Atthattasutta. Paribbājaka Vacchagotta đến thăm Đức Phật và hỏi ngài có ngã hay không. Đức Phật không trả lời, ngay cả khi câu hỏi được lặp lại, và Vacchagotta bỏ đi. Về sau, Đức Phật giải thích cho Ānanda, để đáp lại câu hỏi của ông, rằng ngài giữ im lặng vì bất cứ câu trả lời nào ngài đưa ra cho câu hỏi của Vacchagotta đều có thể bị hiểu lầm và giải thích sai. SN.iv.400-1.
 
 ## Notes

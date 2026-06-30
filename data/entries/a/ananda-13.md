@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "13"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -37,6 +37,8 @@ He was the teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 13. Thầy của Buddhappiya, tác giả của Rūpasiddhi. Ông là người gốc Ceylon, vì Buddhappiya gọi ông là “*Tambapaṇṇiddhaja*.” Ông cũng thuộc giáo phái *Vanavāsi* và viết một bản dịch Sinhala xen kẽ từng từ cho Padasādhana của Piyadassi và một bản khác cho Khuddasikkhā. Ông là đệ tử của Udumbaragiri Medhaṅkara, học trò của Sāriputta, và có lẽ sống vào thời Vijayabāhu III. (PLC. 211).
+
+Ông là thầy của Vedeha, tác giả của Samantakūṭavaṇṇanā (PLC. 220). Xem thêm *Buddhavaṁsa Vanaratana* Ānanda.
 
 ## Notes

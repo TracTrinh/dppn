@@ -5,7 +5,7 @@ base_headword: "Ānandabhaddekarattasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,8 @@ The Buddha recites it himself from beginning to end and praises <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandabhaddekarattasutta. Được thuyết tại Jetavana. Ānanda giảng cho các vị Tỳ-kheo đang tụ họp về bản chất của bậc Thánh chân thật. Đức Phật xuất hiện tại đó và khi được kể về bài giảng của Ānanda, ngài hỏi ông đã trình bày chính xác như thế nào. Ānanda lặp lại cho ngài Bhaddekarattasutta, bài kinh mà trước đó ông đã học từ Đức Phật.
+
+Đức Phật tự mình tụng lại bài ấy từ đầu đến cuối và khen ngợi Ānanda về sự khéo léo của ông. MN.iii.18991.
 
 ## Notes

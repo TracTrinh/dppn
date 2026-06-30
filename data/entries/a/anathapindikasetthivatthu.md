@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikaseṭṭhivatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anāthapiṇḍikaseṭṭhivatthu. Story of the goddess, guardian of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikaseṭṭhivatthu. Câu chuyện về nữ thần hộ trì cổng nhà của Anāthapiṇḍika. Dhp-a.3.10
 
 ## Notes

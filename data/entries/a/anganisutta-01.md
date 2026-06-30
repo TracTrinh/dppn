@@ -5,7 +5,7 @@ base_headword: "Aṅgānisutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgānisutta 01. The five qualities of exertion (*padhāna*) AN.iii.65.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgānisutta 01. Năm phẩm chất của sự tinh tấn (*padhāna*) AN.iii.65.
 
 ## Notes

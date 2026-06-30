@@ -5,7 +5,7 @@ base_headword: "Anattena Sutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anattena Sutta. Lust and desire for that which is without a self should be put a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattena Sutta. Tham ái và dục vọng đối với điều không có tự ngã phải được đoạn trừ. SN.iii.178.
 
 ## Notes

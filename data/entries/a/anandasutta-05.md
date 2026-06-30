@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "05"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 05. Giống như trên, ngoại trừ việc sự nhận rõ không chỉ liên quan đến hiện tại mà còn đến quá khứ và tương lai. SN.iii.38-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "09"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 09. Một Yakkha được hiến cúng một đền thờ gọi là Ānanda Cetiya. Cetiya ấy ở Bhoganagara và về sau được chuyển thành một *Vihāra* Phật giáo (AN-a.ii.550). Tại đó Đức Phật đã trú trong lần lưu lại cuối cùng của ngài, và có nhắc đến một bài kinh ngài thuyết ở đó cho các vị Tỳ-kheo về Bốn Đại Căn Cứ (*cattāro mahāpadesā*) (DN.ii.123-6; AN.ii.167). Từ đó ngài đi đến Pāvā.
 
 ## Notes

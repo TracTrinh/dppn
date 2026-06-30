@@ -5,7 +5,7 @@ base_headword: "Āṇañjasappāyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āṇañjasappāyasutta (Ānañjasappāyasutta). Được Đức Phật thuyết giảng cho các tỳ-kheo, với Ānanda dẫn đầu, tại Kammassadhamma ở xứ Kuru. Kinh này bàn về sự Thường hằng thực sự (*āṇañjasappāya*) và về các phương pháp thiền định khác nhau về sự bất động, các chứng đạt cùng sự giải thoát chân thật. Sự bất tử chân thật chỉ là sự giải thoát của tâm không chấp thủ (*anupādā cittassa vimokkho*), và có một vài giai đoạn của các con đường dẫn đến trạng thái ấy (MN.ii.261ff). Buddhaghosa (MN­a.ii.851) nói rằng bản *Sutta* này mô tả quả vị *Arahant* của các bậc *Sukkavipassakā* (bậc tu khô quán). Quả vị *Arahant* được đề cập trong chín mối liên hệ khác nhau trong bản *Sutta*, vì thế bản kinh này được ca ngợi là được thuyết giảng khéo (*sukathitaṁ*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anattaniyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anattaniyasutta. For that which does not belong to the self, desire must be put 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattaniyasutta. Đối với điều không thuộc về tự ngã, dục vọng phải được đoạn trừ. SN.iii.78.
 
 ## Notes

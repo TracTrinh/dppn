@@ -5,7 +5,7 @@ base_headword: "Ānāpānasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānāpānasutta. Ý niệm về hơi thở vào và hơi thở ra, nếu được tu tập và phát triển, sẽ mang lại nhiều lợi ích lớn. SN.v.132.
 
 ## Notes

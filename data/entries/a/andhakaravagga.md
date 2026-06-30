@@ -5,7 +5,7 @@ base_headword: "Andhakāravagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Andhakāravagga. The second section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakāravagga. Phẩm thứ hai của Pācittiya trong Bhikkhunīvibhaṅga. Vin.iv.268-71.
 
 ## Notes

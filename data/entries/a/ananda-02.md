@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -36,6 +36,8 @@ One of Ānanda’s sons was the prince <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 02. Một vị vua *Khattiya* của Haṁsavatī, cha của Padumuttara Buddha (Ja.i.37; Bv.xii.19). Với một người vợ khác, ông có một con gái là Nandā, người trở thành Therī Pakulā trong thời hiện tại (Thīg-a.91). Một lần, cùng với hai mươi vị đại thần và hai mươi ngàn thần dân, ông xuất hiện trước Padumuttara Buddha tại Mithilā và, sau khi nhận “*ehibhikkhu pabbajjā*,” họ trở thành các *Arahants* (MN-a.ii.722; DN-a.ii.488). Đức Phật trở về cùng họ đến Haṁsavatī, nơi ngài thuyết Buddhavaṁsa (Bv-a.160).
+
+Một trong các con trai của Ānanda là vương tử Sumana, người anh em cùng cha khác mẹ của Padumuttara, về sau trở thành Ānanda Thera*,* thị giả riêng của Buddha Gotama. Thag-a.ii.122.
 
 ## Notes

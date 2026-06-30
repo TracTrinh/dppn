@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "08"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 08. Giống như trên, với phần thêm là lời tuyên bố của Ānanda rằng các vị Tỳ-kheo xem Đức Phật là người dẫn đường của họ, v.v. SN.v.286.
 
 ## Notes

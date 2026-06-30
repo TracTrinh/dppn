@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "11"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 11. Ghi lại cuộc viếng thăm của Sāriputta đến gặp Ānanda tại Jetavana, người cũng đang trú ngụ ở đó. Sāriputta nói với Ānanda rằng các *Sotāpanna* là những người không có lòng bất trung đối với Đức Phật, Pháp và Tăng đoàn. Họ không có sự vô đạo đức như các *puthujjana* (phàm phu) thất học. SN.v.362-4.
 
 ## Notes

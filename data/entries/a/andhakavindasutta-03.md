@@ -5,7 +5,7 @@ base_headword: "Andhakavindasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Andhakavindasutta 03. Evidently another name for the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakavindasutta 03. Hiển nhiên là một tên khác của Yāgudānānumodanāsutta trong Vinaya. Vin.i.220f.
 
 ## Notes

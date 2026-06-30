@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 01. Do Ānanda thuyết cho Vaṅgīsa. Một lần, khi họ cùng đi khất thực đến Sāvatthī, Vaṅgīsa thú nhận rằng ông đang bất mãn. Ānanda khuyên ông về cách vượt qua sự bất mãn bằng sự tu tập đúng đắn các căn. SN.i.188.
 
 ## Notes

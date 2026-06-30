@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Anāthapiṇḍikavagga. The second chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikavagga. Chương thứ hai của Devaputtasaṁyutta thuộc Saṁyuttanikāya chứa một loạt các bài kệ được chư thiên nói trước Đức Phật trong nhiều dịp khác nhau, bài cuối trong số đó là của Anāthapiṇḍika (tái sinh trong thiên giới). SN.i.51ff.
 
 ## Notes

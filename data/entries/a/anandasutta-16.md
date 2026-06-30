@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "16"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 16. Cuộc hội thoại giữa Ānanda và Udāyī về những điều kỳ diệu trong sự chứng đạt của một vị Tathāgata và bản chất của tri giác. Trong cuộc đối thoại, Ānanda đề cập đến cuộc viếng thăm của một vị tỳ-kheo-ni, người theo phái *Jaṭila*, và những câu hỏi của bà về *samādhi*. AN.iv.426.
 
 ## Notes

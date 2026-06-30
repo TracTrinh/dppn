@@ -5,7 +5,7 @@ base_headword: "Anātha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anātha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anātha. Một Pacceka Buddha của ba mươi mốt *kappa* trước. Uddālapupphiya Thera, trong một đời trước, đã dâng Ngài một hoa *uddāla*. Ap.i.288.
 
 ## Notes

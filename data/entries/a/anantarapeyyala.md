@@ -5,7 +5,7 @@ base_headword: "Anantarapeyyāla"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anantarapeyyāla. One of the sections of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantarapeyyāla. Một trong những phần của Vidhurajātaka. Ja.vi.304.
 
 ## Notes

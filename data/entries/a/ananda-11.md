@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "11"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 11. Tác giả của *Mūlaṭīkā* về các Chú giải của Buddhaghosa đối với Abhidhamma (Gv 60, 69; Sās.69). Ban đầu ông là người gốc Ấn Độ, nhưng sang Ceylon và trở thành người đứng đầu hội đoàn *Vanavāsi* trên đảo. Có lẽ ông sống vào khoảng thế kỷ thứ tám hoặc thứ chín CN và viết *Mūlaṭīkā* theo lời thỉnh cầu của một vị sư tên là Buddhamitta. Ông có lẽ đồng nhất với Ānanda, thầy của Cūḷa Dhammapāla (xem dưới đây) (PLC.202f.; 216f). Ông cũng được biết đến với tên Vanaratana Tissa do mối liên hệ của ông với trường phái *Vanavāsi*.
 
 ## Notes

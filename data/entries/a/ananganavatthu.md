@@ -5,7 +5,7 @@ base_headword: "Anaṅganavatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anaṅganavatthu. Mentioned in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anaṅganavatthu. Được nhắc đến trong Samantapāsadikā (i.158), nhưng lời đề cập không rõ ràng, và có lẽ ám chỉ đến Anaṅganasutta (dưới đây).
 
 ## Notes

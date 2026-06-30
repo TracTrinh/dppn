@@ -5,7 +5,7 @@ base_headword: "Anekavaṇṇa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -31,6 +31,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anekavaṇṇa. Một *Devaputta* ở Tāvatiṁsa, người nhờ các thiện nghiệp của mình mà vượt trội cả Sakka về uy nghi. Khi vị ấy xuất hiện trên các đường phố của Tāvatiṁsa, Sakka bỏ chạy vì hổ thẹn (Dhp­a.i.426-7).
+
+Vimānavatthu (pp.74-5; Vv-a.318ff) thuật lại câu chuyện quá khứ của vị ấy, do vị ấy kể cho Moggallāna. Vị ấy từng là một vị tăng dưới thời Sumedha Buddha, nhưng về sau, cảm thấy chán nản, đã rời Tăng đoàn. Khi Đức Phật qua đời, vị ấy bị sự hối hận chiếm lấy vì đã đánh mất cơ hội của mình, và đã đảnh lễ bảo tháp của Đức Phật và thọ trì các giới.
 
 ## Notes

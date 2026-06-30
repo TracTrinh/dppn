@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 04. Một cuộc đối thoại giữa Đức Phật và Ānanda tại Jetavana. Ānanda được hỏi trong những pháp nào người ta nhận rõ sự sinh khởi (*uppāda*), sự hoại diệt (*vaya*), và sự biến đổi liên tục (*aññathatta*). Câu trả lời là “trong năm uẩn.” Đức Phật khen ngợi Ānanda về câu trả lời của ông. SN.iii.37-8.
 
 ## Notes

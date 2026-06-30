@@ -5,7 +5,7 @@ base_headword: "Ananutappiyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ananutappiyasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ananutappiyasutta. Được Sāriputta thuyết giảng về việc một vị tỳ-kheo nên hành xử thế nào để không phải hối hận về sau. AN.iii.294f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ānāpānasaṁyutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānāpānasaṁyutta. Chương thứ năm mươi tư của Saṁyuttanikāya. SN.v.311-41.
 
 ## Notes

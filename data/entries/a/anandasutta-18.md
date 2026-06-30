@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "18"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 18. Nói về mười phẩm chất mà một vị tỳ-kheo cần sở hữu nếu muốn có được lợi ích từ việc thực hành giáo pháp của Đức Phật. AN.v.152ff.
 
 ## Notes

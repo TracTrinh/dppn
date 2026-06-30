@@ -5,7 +5,7 @@ base_headword: "Andhakavindasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Andhakavindasutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakavindasutta 02. Được thuyết tại Andhakavinda cho Ānanda về năm điều mà những người mới gia nhập Tăng đoàn cần được khuyên dạy (AN.iii.138f).
 
 ## Notes

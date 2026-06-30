@@ -5,7 +5,7 @@ base_headword: "Anattalakkhaṇasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -35,6 +35,12 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattalakkhaṇasutta. Được thuyết năm ngày sau Dhammacakkappavattanasutta cho các vị tăng Pañcavaggiya, tất cả đều trở thành các *Arahant* khi bài giảng kết thúc (Vin.i.13-14; Ja.i.82; iv.180; Dpv.i.34; MN­a.i.390; AN­a.i.57, 84).
+
+Không thể tìm thấy tự ngã trong bất cứ uẩn nào trong năm uẩn, tất cả đều vô thường và chịu khổ.
+
+*Sutta* này không bàn đến câu hỏi tự ngã có tồn tại hay không; nó chỉ cho thấy rằng các uẩn không phải là tự ngã.
+
+Trong Saṁyuttanikāya (SN.iii.66f), bài kinh này được gọi là Pañcasutta, "năm" ở đây chỉ năm vị Pañcavaggīyā đã nghe bài kinh ấy.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "07"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -32,6 +32,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 07. Một vị vua của loài kền kền. Ông sống cùng mười ngàn con kền kền ở Gijjhakūṭa và đến nghe Kuṇāla thuyết giảng. Cuối bài thuyết giảng của Kuṇāla, Ānanda cũng diễn giảng theo cùng mạch ấy, nói về những phẩm chất xấu của phụ nữ, “giữ theo các sự kiện trong hiểu biết của mình” (Ja.v.424, 447-50). Ông sống trong Kuṇāladaha cùng Nārada, Devala, Puṇṇamukha, con chim cu cu, và Kuṇāla (Snp-a.i.359). Trong thời hiện tại, vị vua kền kền ấy là Ānanda Thera*,* thị giả của Đức Phật (Ja.v.456).
 
 ## Notes

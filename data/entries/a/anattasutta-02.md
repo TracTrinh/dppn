@@ -5,7 +5,7 @@ base_headword: "Anattāsutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anattāsutta 02. Same as above (SN.iii.77).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattāsutta 02. Giống bài trên (SN.iii.77).
 
 ## Notes

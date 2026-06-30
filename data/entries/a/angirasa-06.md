@@ -5,7 +5,7 @@ base_headword: "Aṅgīrasa"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṅgīrasa 06. An ascetic. The name occurs in a list of eleven ascetics who, be
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgīrasa 06. Một vị khổ hạnh. Tên này xuất hiện trong danh sách mười một vị khổ hạnh, những người nhờ đời sống thánh thiện đã vượt qua cõi *Peta* và sinh vào cõi trời *Brahma* (Ja.vi.99; Ja.v.267). Về những vị còn lại, xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span>.
 
 ## Notes

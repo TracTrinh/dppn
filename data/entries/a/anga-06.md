@@ -5,7 +5,7 @@ base_headword: "Aṅgā"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṅgā 06. Chieftains of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgā 06. Các thủ lĩnh của Aṅga, được gọi như vậy, theo Chú giải Dīgha (i.279), vì vẻ đẹp của các thân phần của họ. Tên của họ theo quy ước (*rūḷhi-vasena*) được dùng để chỉ xứ của họ.
 
 ## Notes

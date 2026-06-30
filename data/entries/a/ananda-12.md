@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "12"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 12. Thầy của Cūḷa Dhammapāla, tác giả của Saccasaṅkhepa. Saddhamma Saṅghala (ix) nói rằng Ānanda là tác giả của Saccasaṅkhepa. Xem thêm ở trên (Ānanda 11).
 
 ## Notes

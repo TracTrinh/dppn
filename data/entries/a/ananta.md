@@ -5,7 +5,7 @@ base_headword: "Ananta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Ananta. The serpent king referred to under <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ananta. Vua rắn được đề cập dưới mục Anantapokkharaṇī, nhưng không thấy nhắc đến ở nơi khác trong các thư tịch cổ. Ông còn được gọi là Anantabhoga. Để biết chi tiết, xem *Epic Mythology* của Hopkins (tr. 23-4).
 
 ## Notes

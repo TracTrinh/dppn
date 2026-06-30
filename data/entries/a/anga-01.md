@@ -5,7 +5,7 @@ base_headword: "Aṅga"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -70,6 +70,18 @@ Several discourses were preached in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅga 01. (xem thêm Aṅgā). Một trong danh sách cố định gồm mười sáu Cường quốc hay Đại quốc (Mahā Janapadā), được nhắc đến trong các *Piṭakas*, ví dụ AN.i.213; iv.252, 256, 260.
+
+Các xứ được nhắc đến là Aṅga, Magadha, Kāsī, Kosala, Vajjī, Mallā, Cetī, Vaṁsā, Kuru, Pañcāla, Macchā, Sūrasena, Assaka, Avanti, Gandhāra, và Kamboja. Những danh sách tương tự khác xuất hiện ở nơi khác, ví dụ DN.ii.200 (nơi mười xứ được nhắc đến); xem thêm Mvu.i.34 và Mvu.i.198; và Lalitavistara.24(22).
+
+Xứ này nằm ở phía đông Magadha, được ngăn cách với Magadha bởi sông Campā, và có kinh đô là Campā, gần Bhagalpur hiện đại (Cunningham, pp. 546-7). Các thành phố khác được nhắc đến là Bhaddiya (DN­a.i.279; Dhp­a.i.384) và Assapura (MN.i.271).
+
+Xứ này thường được gọi bằng tên của dân chúng nơi ấy, tức Aṅgā, mặc dù đôi khi (ví dụ Dhp­a.i.384) tên Aṅgaraṭṭha được dùng. Vào thời Đức Phật, xứ này lệ thuộc Magadha (Thag­a.i.548), vua của Magadha là Bimbisāra, chúng ta được kể, cũng được dân Aṅga kính trọng (MN­a.i.394), và dân hai xứ hiển nhiên thường xuyên qua lại thăm nhau (Ja.ii.211). Chúng ta không hề nghe nói xứ này đã giành lại được nền độc lập trước kia, nhưng các truyền thống về chiến tranh giữa hai xứ có được nhắc đến (ví dụ Ja.iv.454; Ja.v.316; Ja.vi.271).
+
+Vào thời Đức Phật, Aṅgarājā chỉ là một nhà quý tộc giàu có, và ông chỉ được nhắc đến như người đã cấp một khoản trợ cấp cho một vị Bà-la-môn (MN.ii.163). Dân Aṅga và Magadha thường được nhắc chung với nhau, vì vậy chúng ta có thể hiểu rằng vào thời Đức Phật họ đã trở thành một dân tộc. Họ cung cấp lễ vật cho Uruvelā Kassapa để làm đại tế lễ của ông (Vin.i.27). Phong tục của họ là dâng một tế lễ hằng năm cho Mahā Brahma với hy vọng đạt được phần thưởng gấp một trăm ngàn lần. Trong một dịp, Sakka đích thân xuất hiện và đi cùng họ đến gặp Đức Phật để họ không lãng phí sức lực vào những tế lễ vô ích (SN­a.i.269-70).
+
+Nhiều bài kinh được thuyết trong xứ Aṅga, trong số đó có Soṇadaṇḍasutta và hai Assapurasuttas (Mahā – và Cūḷa). Mahā Govindasutta dường như cho thấy rằng một lần, trong quá khứ, Dhataraṭṭha là vua của Aṅga. Nhưng điều này, có lẽ, chỉ đến một xứ khác (Dial.ii.270 n.; xem thêm The *Rāmāyaṇa* i.8, 9, 17, 25).
+
+Soṇa Koḷivisa, trước khi gia nhập Tăng đoàn, là một thân hào (*paddhagu*) của Aṅga. Thag.v.632.
 
 ## Notes

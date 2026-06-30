@@ -5,7 +5,7 @@ base_headword: "Aṅguttara Ṭīkā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṅguttara Ṭīkā. By <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅguttara Ṭīkā. Do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Candagomi</span> biên soạn, rõ ràng là một tác giả của Ceylon. Svd.v.1201.
 
 ## Notes

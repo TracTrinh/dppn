@@ -5,7 +5,7 @@ base_headword: "Andhasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -23,6 +23,6 @@ Andhasutta. On the three classes of persons: the blind, the one-eyed, and the tw
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhasutta. Về ba hạng người: người mù, người một mắt và người hai mắt (AN.iii.128f).
 
 ## Notes

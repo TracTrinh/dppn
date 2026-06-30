@@ -5,7 +5,7 @@ base_headword: "Andhapura"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Andhapura. A city in the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhapura. Một thành phố trong xứ Seriva, bên bờ sông Telavāha. Chính khi làm nghề buôn rong ở đây, Bodhisatta, sinh làm Seriva, đã làm trái ý một người buôn rong khác, người trong hiện tại là Devadatta. Đây là khởi đầu sự thù nghịch của Devadatta đối với Đức Phật. Ja.i.111, 113.
 
 ## Notes

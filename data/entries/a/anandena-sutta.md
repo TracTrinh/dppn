@@ -5,7 +5,7 @@ base_headword: "Ānandena Sutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandena Sutta. Đức Phật được Ānanda thỉnh cầu dạy cho ông về một giáo lý giúp ông trở nên nhiệt tâm và chuyên chú hơn. Đức Phật đã dạy cho ông về giáo lý vô thường. SN.iii.187-8.
 
 ## Notes

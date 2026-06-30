@@ -5,7 +5,7 @@ base_headword: "Aṅgasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgasutta 02. Systematic attention as potent factor for the seven limbs of wis
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgasutta 02. Sự chú tâm có hệ thống như yếu tố mạnh mẽ đối với bảy chi giác ngộ (*bojjhaṅgas*). SN.v.101.
 
 ## Notes

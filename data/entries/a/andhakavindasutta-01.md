@@ -5,7 +5,7 @@ base_headword: "Andhakavindasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Andhakavindasutta 01. Records the incident of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakavindasutta 01. Ghi lại sự kiện Sahampati đến thăm Đức Phật ở Andhakavinda (*q.v.*). SN.i.154.
 
 ## Notes

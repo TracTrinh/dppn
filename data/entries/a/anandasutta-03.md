@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 03. Do Đức Phật thuyết cho Ānanda, người hỏi làm thế nào có thể đạt được *nirodha*. Đức Phật trả lời: bằng sự diệt tận của năm uẩn. SN.iii.24-5.
 
 ## Notes

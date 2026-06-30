@@ -5,7 +5,7 @@ base_headword: "Anāsavasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anāsavasutta. The Buddha teaches that which is free from *āsavas* and the way 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāsavasutta. Đức Phật thuyết giảng về điều thoát khỏi các *āsavas* và con đường đưa đến điều ấy. SN.iv.369.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anāthapiṇḍikasutta 02. The same as the above, but <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikasutta 02. Giống bài trên, nhưng Ānanda được nêu là người khuyến giáo, và Anāthapiṇḍika được kể là đã khẳng định rằng ông chưa vi phạm một điều nào trong các bổn phận ràng buộc người gia chủ (*gihisāmīcakāni sikkhāpadāni*). SN.v.385-7.
 
 ## Notes

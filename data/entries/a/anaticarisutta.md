@@ -5,7 +5,7 @@ base_headword: "Anaticārīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anaticārīsutta. A woman who is no adulteress will be born in heaven. SN.iv.244
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anaticārīsutta. Một người phụ nữ không ngoại tình sẽ được sinh lên cõi trời. SN.iv.244.
 
 ## Notes

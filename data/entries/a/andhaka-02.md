@@ -5,7 +5,7 @@ base_headword: "Andhakā"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -38,6 +38,8 @@ There were various doctrines held by all the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakā 02. Andhakas. Một nhóm tăng sĩ quan trọng đã ly khai khỏi Theravāda. Họ bao gồm, như các bộ phái nhỏ, Pubbaseliyas, Aparaseliyas, Rājagirikas và Siddhatthikas (*Points of Controversy*, p. 104, trích từ Chú giải Kathāvatthu). Họ vẫn còn thế lực vào thời Buddhaghosa (Ibid., xxxiv). Andhakas không được nhắc đến như một bộ phái riêng biệt trong Mahā Vaṁsa hay trong Dīpavaṁsa, mặc dù trong Mahā Vaṁsa có nêu các bộ phái được nói ở trên là các nhánh của Andhakas (Rājagiriyā, Siddhatthikā, Pubbaseliyas và Aparaseliyas) (Mhv.v.12f.; cũng xem Mbv.97). Để có một trình bày rất có giá trị về các trường phái khác nhau và mối liên hệ giữa chúng, xem *Points of Controversy*, pp. xxxv-xlv. Về Andhakas, xem đặc biệt pp. xliii.ff.
+
+Có nhiều giáo thuyết khác nhau được toàn thể Andhakas chủ trương, hoặc chung với các bộ phái khác hoặc riêng họ, và nhiều giáo thuyết khác chỉ được một số nhóm nhỏ của Andhakas chủ trương. Để xem phần tóm lược các giáo thuyết này, xem *Points of Controversy*, pp. xx-xxiv.
 
 ## Notes

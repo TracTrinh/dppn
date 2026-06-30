@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍika"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -31,6 +31,6 @@ Anāthapiṇḍika 02. known as <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍika 02. Được biết đến với tên Cūḷa Anāthapiṇḍika. Một nam cư sĩ lỗi lạc của Đức Phật. Vị ấy là một *Anāgāmī*, và đã xin tự mình thực hiện một phép thần thông trước khi Đức Phật thị hiện Yamakapāṭihāriya (Dhp­a.iii.210). Cūḷa Anāthapiṇḍika cung cấp thức ăn trong ba tháng cho đại chúng, trải trên một khu vực rộng mười hai do-tuần, đã tụ hội tại Sāvatthī để chờ Đức Phật từ Tāvatiṁsa trở xuống sau khi Ngài thuyết Abhidhammapiṭaka (Dhp­a.iii.218; AN­a.i.71). Năm trăm vị tăng được thọ thực hằng ngày tại nhà của Cūḷa Anāthapiṇḍika ở Sāvatthī (Dhp­a.i.339). Vị ấy là một trong bảy nam cư sĩ của Đức Phật, mỗi người có năm trăm tùy tùng (SN­a.iii.223). Cūḷa Anāthapiṇḍika thường được nhắc đến (ví dụ, Ja.i.148; ii.287, iii.520) cùng với Pasenadi, Visākhā và Anāthapiṇḍika như những nam thí chủ lỗi lạc của Đức Phật. Tên riêng của vị ấy không được biết. Biệt danh này có lẽ được đặt do lòng bố thí của vị ấy, sánh với lòng bố thí của Mahā Anāthapiṇḍika.
 
 ## Notes

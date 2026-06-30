@@ -5,7 +5,7 @@ base_headword: "Aṅgamu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgamu. A place in Ceylon identified with the modern Ambagamuva (Geiger Cv. tr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgamu. Một địa điểm ở Ceylon, được đồng nhất với Ambagamuva hiện nay (Geiger Cv. trans. i.298, n.3). Tướng quân *Deva* từng đóng quân ở đó. Cv.lxx.130.
 
 ## Notes

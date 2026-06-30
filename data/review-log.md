@@ -697,6 +697,141 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 12 | ananda | — |  |
 | 13 | ananda-01 | — | dài; spot-check đầu+cuối đầy đủ, khớp |
 
+## Batch: a/ (Ānanda 02 → Ānanda 12) — 11 entry [RESUME: tập a/ draft MỚI sau ananda-01]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: Phát hiện ledger trước kết luận nhầm "HẾT tập draft a/" tại ananda-01. Codex/Antigravity đã
+  dịch thêm ~150 entry a/ (từ ananda-02 trở đi). Batch này review 11 entry đầu của tập mới. Danh sách
+  150 entry còn lại ghi ở `review-pending.md` (cùng thư mục data). Lưu ý: bash mount truncate/corrupt
+  thân entry (UTF-8 vỡ) và phục vụ bản review-log.md cũ — đã dùng host Read/Edit cho mọi thân file.
+- Kết quả: 11/11 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. (Chất lượng bản dịch
+  mới cao: citation chính xác, Pāli giữ nguyên, khớp glossary — crore, do-tuần, trưởng giả, Bất tử.)
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | ananda-02 | — | citation Ja.i.37; Bv.xii.19; Thīg-a.91 … đầy đủ |
+| 2 | ananda-03 | — |  |
+| 3 | ananda-04 | — |  |
+| 4 | ananda-05 | — |  |
+| 5 | ananda-06 | — | *kappas*, Pacceka Buddhas giữ nguyên |
+| 6 | ananda-07 | — | đoạn dài về vua kền kền, đầy đủ |
+| 7 | ananda-08 | — | đoạn rất dài về vua cá; do-tuần khớp glossary |
+| 8 | ananda-09 | — | *cattāro mahāpadesā* giữ nguyên |
+| 9 | ananda-10 | — | crore, trưởng giả, Caṇḍāla, Bất tử khớp glossary |
+| 10 | ananda-11 | — |  |
+| 11 | ananda-12 | — |  |
+
+## Batch: a/ (Ānanda 13 → Anaṅganajātaka) — 30 entry
+
+- Ngày review: 2026-06-30
+- Người/model: Codex (GPT-5 review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file trong tập status=draft/needs_check chưa có trong review-log; từ `a/ananda-13` đến `a/ananganajataka`.
+- Kết quả: 30/30 đạt; 3 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | a/ananda-13 | — |  |
+| 2 | a/ananda-14 | — |  |
+| 3 | a/ananda-15 | — |  |
+| 4 | a/ananda-16 | — |  |
+| 5 | a/anandabhaddekarattasutta | — | clean sample; VI có Jetavana, Ānanda, Bhaddekarattasutta; citation MN.iii.18991 khớp |
+| 6 | a/anandabodhi | — | clean sample; VI có Jetavana, Sāvatthī, Anāthapiṇḍika, Ānandabodhi; citations Ja.iv.228-30, Ja.ii.321, Ja 261, Ja 479 khớp |
+| 7 | a/anandakumara | — |  |
+| 8 | a/anandamanava | — | Dhp­a.ii.49-50 và Dhp­a.ii.51f khớp |
+| 9 | a/anandasutta | — |  |
+| 10 | a/anandasutta-01 | — |  |
+| 11 | a/anandasutta-02 | — | Deva số ít dịch "thiên thần" đúng phạm vi glossary |
+| 12 | a/anandasutta-03 | — |  |
+| 13 | a/anandasutta-04 | — |  |
+| 14 | a/anandasutta-05 | — |  |
+| 15 | a/anandasutta-06 | — |  |
+| 16 | a/anandasutta-07 | — |  |
+| 17 | a/anandasutta-08 | — |  |
+| 18 | a/anandasutta-09 | ✅ | *bojjhaṅgas* → *bojjhaṅga* theo glossary |
+| 19 | a/anandasutta-10 | — |  |
+| 20 | a/anandasutta-11 | ✅ | Dhamma/Saṅgha → Pháp/Tăng đoàn theo glossary |
+| 21 | a/anandasutta-12 | — |  |
+| 22 | a/anandasutta-13 | — |  |
+| 23 | a/anandasutta-14 | ✅ | Dhamma → Pháp theo glossary |
+| 24 | a/anandasutta-15 | — |  |
+| 25 | a/anandasutta-16 | — |  |
+| 26 | a/anandasutta-17 | — |  |
+| 27 | a/anandasutta-18 | — |  |
+| 28 | a/anandavagga | — |  |
+| 29 | a/anandena-sutta | — |  |
+| 30 | a/ananganajataka | — |  |
+
+## Batch: a/ (Anaṅganasutta → Anāthapiṇḍikavagga) — 30 entry
+
+- Ngày review: 2026-06-30
+- Người/model: Codex (GPT-5 review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file trong tập status=draft/needs_check chưa có trong review-log; từ `a/ananganasutta` đến `a/anathapindikavagga`.
+- Kết quả: 30/30 đạt; 5 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | a/ananganasutta | — | clean sample; VI có Sāriputta, Moggallāna; citation MN.i.24ff khớp |
+| 2 | a/ananganavatthu | — |  |
+| 3 | a/ananjasappayasutta | — | Arahant, Deathlessness/Bất tử, citation MN­a.ii.851 khớp |
+| 4 | a/ananta | — |  |
+| 5 | a/anantajali | — | *kappa* khớp glossary |
+| 6 | a/anantajina | — |  |
+| 7 | a/anantakaya | — |  |
+| 8 | a/anantapokkharani | — |  |
+| 9 | a/anantarabhandakatittha | — |  |
+| 10 | a/anantarapeyyala | — |  |
+| 11 | a/anantavasutta | — |  |
+| 12 | a/ananusociyajataka | — | clean sample; VI có Bodhisatta, Benares, Takkasilā, Kāsi; citations Ja 328, Ja.iii.92-7 khớp |
+| 13 | a/ananussutasutta | — |  |
+| 14 | a/ananutappiyasutta | — |  |
+| 15 | a/anapanakatha | — |  |
+| 16 | a/anapanasamyutta | — |  |
+| 17 | a/anapanasatisutta | — | *satipaṭṭhāna*, *bojjhaṅga* giữ/chuẩn theo glossary |
+| 18 | a/anapanasutta | ✅ | "hơi thở vô" → "hơi thở vào" |
+| 19 | a/anapanavagga | — |  |
+| 20 | a/anasava | — | Pacceka Buddha giữ theo glossary |
+| 21 | a/anasavasutta | — |  |
+| 22 | a/anatha | ✅ | *kappas* → *kappa* theo glossary |
+| 23 | a/anathapindika-01 | ✅ | dịch các cụm English sót; Saṅgha → Tăng đoàn; *bhikkhunī* → Tỳ-kheo-ni |
+| 24 | a/anathapindika-02 | ✅ | "e.g." → "ví dụ" |
+| 25 | a/anathapindikaputtakalavatthu | ✅ | "sự cải đạo" → "sự chuyển hóa" |
+| 26 | a/anathapindikasetthivatthu | — |  |
+| 27 | a/anathapindikasutta-01 | — |  |
+| 28 | a/anathapindikasutta-02 | — |  |
+| 29 | a/anathapindikasutta-03 | — |  |
+| 30 | a/anathapindikavagga | — | Devas → chư thiên khớp glossary |
+
+## Batch: a/ (Anāthapiṇḍikovādasutta → Aṇḍhabharīgāmakūṭakasutta) — 20 entry
+
+- Ngày review: 2026-06-30
+- Người/model: Codex (GPT-5 review pass)
+- Phạm vi: 20 entry kế tiếp theo thứ tự tên file trong tập status=draft/needs_check chưa có trong review-log; từ `a/anathapindikovadasutta` đến `a/andhabharigamakutakasutta`.
+- Kết quả: 20/20 đạt; 9 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | a/anathapindikovadasutta | — | clean sample; VI có Sāriputta, Anāthapiṇḍika, Jetavana; citation MN.iii.258-63 khớp |
+| 2 | a/anaticarisutta | — |  |
+| 3 | a/anattalakkhanasutta | ✅ | *Arahants* → các *Arahant*; *khandhas* → uẩn theo glossary |
+| 4 | a/anattalakkhanavatthu | ✅ | *khandhas* → uẩn theo glossary |
+| 5 | a/anattaniyasutta | — |  |
+| 6 | a/anattasutta | ✅ | "and" trong citation → "và" |
+| 7 | a/anattasutta-01 | — |  |
+| 8 | a/anattasutta-01-2 | ✅ | *khandhas* → uẩn theo glossary |
+| 9 | a/anattasutta-02 | — |  |
+| 10 | a/anattasutta-03 | ✅ | chỉnh "trống rỗng tự ngã" → "không có tự ngã" |
+| 11 | a/anattasutta-04 | — |  |
+| 12 | a/anattasutta-04-2 | ✅ | chỉnh "trống rỗng tự ngã" → "không có tự ngã" |
+| 13 | a/anattena-sutta | — |  |
+| 14 | a/anatthapucchakabrahmanavatthu | ✅ | "làm yên các nghi ngờ" → "giải tỏa các nghi ngờ" |
+| 15 | a/anatthatayasutta | — |  |
+| 16 | a/andabharigamakutakasutta | — | clean sample; VI có Mahā Moggallāna, Gijjhakūṭa, Rājagaha, Lakkhaṇa; citations SN.ii.258, SN­a.ii.162 khớp |
+| 17 | a/andabhutajataka | ✅ | bỏ dấu nháy thừa trước "bị các dục vọng..." |
+| 18 | a/andabhutajataka-2 | — |  |
+| 19 | a/andha | ✅ | "see also" → "xem thêm" |
+| 20 | a/andhabharigamakutakasutta | — |  |
+
 ## Các batch đã review trước đó (tham chiếu)
 
 - Sonnet trial: s/savatthi, k/kosala, m/magadha, j/jetavana-01..03, v/veluvana-01..04

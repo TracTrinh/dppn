@@ -5,7 +5,7 @@ base_headword: "Ānandamāṇava"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,8 @@ In order that such assaults should not be repeated, <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandamāṇava. Được gọi là *māṇava* để phân biệt ông với các Ānanda khác. Ông là một thanh niên Bà-la-môn, anh em họ bên mẹ của Therī Uppalavaṇṇā, người mà ông đã yêu khi bà còn là một nữ cư sĩ. Một ngày nọ, khi Uppalavaṇṇā trở về am của bà trong Andhavana sau vòng khất thực, nơi bà đang sống lúc ấy, Ānandamāṇava, người đang trốn dưới giường của bà, nhảy lên và bắt lấy bà. Bất chấp những lời phản đối và khuyên răn của bà, ông dùng vũ lực chế ngự sự chống cự của bà và, sau khi cưỡng hiếp bà, bỏ đi. Như thể không thể chịu nổi sự độc ác của ông, mặt đất nứt ra và ông bị nuốt xuống Avīci (Dhp­a.ii.49-50).
+
+Để những cuộc tấn công như vậy không lặp lại, Pasenadi Kosala, theo đề nghị của Đức Phật, dựng một trú xứ cho các Tỳ-kheo-ni bên trong cổng thành, và từ đó về sau họ chỉ sống trong phạm vi thành phố (Dhp­a.ii.51f).
 
 ## Notes

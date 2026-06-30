@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 02. Một lần Ānanda đang sống trong một vùng rừng ở xứ Kosala và bận rộn nhiều với việc nói chuyện với các cư sĩ đến gặp ông. Một thiên thần trong rừng, mong muốn điều tốt lành cho ông, đến gần ông và gợi ý rằng ông có thể ngừng nói huyên thuyên liên tục và thay vào đó nên hành thiền (SN.i.199). Theo Buddhaghosa (SN­a.i.225), việc này xảy ra không lâu sau khi Đức Phật qua đời, ngay trước khi Ānanda chứng quả vị *Arahant*. Người ta, biết việc ông đã thân cận hầu hạ Bậc Đạo sư, luôn hỏi về các chi tiết liên quan đến *Parinibbāna*, và khi họ than khóc, ông phải khuyên răn họ. Ông thường đi quanh, mang theo bát khất thực và y của Đức Phật. Trong Theragāthā (ver.119; Thag­a.i.237), cùng lời khuyên ấy được đặt vào miệng của một vị sư Vajjiputta.
 
 ## Notes

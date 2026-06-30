@@ -5,7 +5,7 @@ base_headword: "Anāsava"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Anāsava. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāsava. Một Pacceka Buddha được nêu trong danh sách các Pacceka Buddha. Ngài sống ở Isigili. MN.iii.70; Ap.i.107.
 
 ## Notes

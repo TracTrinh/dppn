@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikaputtakālavatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anāthapiṇḍikaputtakālavatthu. Story of the conversion of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikaputtakālavatthu. Câu chuyện về sự chuyển hóa của Kāḷa, con trai của Anāthapiṇḍika. Dhp­a.iii.189-92.
 
 ## Notes

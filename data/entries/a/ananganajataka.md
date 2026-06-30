@@ -5,7 +5,7 @@ base_headword: "Anaṅganajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -31,6 +31,8 @@ No story of this name is found in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anaṅganajātaka. Được đề cập trong Chú giải Aṅguttara (i.74), trong số các bản Jātaka được Đức Phật thuyết giảng tại Saṅkassa để trả lời các câu hỏi của Sāriputta.
+
+Không tìm thấy câu chuyện nào có tên này trong Chú giải Jātaka, nhưng bài kệ được trích dẫn trong Chú giải Aṅguttara lại được tìm thấy trong Jhānasodhanajātaka (Ja 134, Ja.i.473f), và rõ ràng đây là một tên gọi khác của bản Jātaka đó.
 
 ## Notes

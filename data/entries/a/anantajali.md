@@ -5,7 +5,7 @@ base_headword: "Anantajālī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anantajālī. A king. A previous birth of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantajālī. Một vị vua. Tiền kiếp của Bhājanadāyaka cách đây năm mươi ba *kappa* (Antarajāli). Ap.i.218.
 
 ## Notes

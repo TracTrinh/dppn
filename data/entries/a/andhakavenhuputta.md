@@ -5,7 +5,7 @@ base_headword: "Andhakaveṇhuputtā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -79,6 +79,24 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="61" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakaveṇhuputtā, hoặc Andhakaveṇhudāsaputtā. Mười anh em, con của Devagabbhā và Upasāgara. Vì khi Devagabbhā sinh ra đã được tiên đoán rằng một trong các con trai của bà sẽ hủy diệt dòng dõi của Kaṁsa, nên mỗi khi bà sinh một con trai, sợ rằng đứa trẻ sẽ bị giết, bà bí mật gửi nó đến nữ tỳ của mình là Nandagopā; người này đã kết hôn với Andhakaveṇhu và, do may mắn, các con gái được sinh cho bà cùng lúc với các con trai được sinh cho Devagabbhā; các con gái này bà gửi cho Devagabbhā để đổi lấy các con trai của bà ấy.
+
+Mười người con trai được đặt tên là Vāsudeva, Baladeva, Candadeva, Suriyadeva, Aggideva, Varuṇadeva, Ajjuna, Pajjuna, Ghatapaṇḍita và Aṅkura. Cowell thấy trong câu chuyện này hạt nhân của một thần thoại tự nhiên (Jātaka, trans. iv. 51 n.); so sánh với truyền thuyết Kṛṣṇa trong Harivaṁsa; xem thêm Viṣṇu Purāṇa của Wilson (Hall’s Ed.), v. 147f.; và bài viết về Kṛṣṇa trong *Epic Mythology* của Hopkins, pp.214f.
+
+Họ cũng có một người em gái là Añjanadevī. Khi lớn lên, họ trở thành những kẻ cướp đường, thậm chí chiếm đoạt một lễ vật được gửi cho cậu của họ, vua Kaṁsa. Do đó họ trở nên khét tiếng với tên Andakaveṇhudāsaputtā. Nhà vua, sau khi biết được nguồn gốc thật của họ, bày ra nhiều kế hoạch khác nhau để tiêu diệt họ. Hai đô vật nổi tiếng, Cānura và Muṭṭhika, được thuê để đấu vật công khai với họ. Các anh em chấp nhận lời thách đấu và cướp phá nhiều cửa hàng để lấy y phục, hương liệu, v.v., dùng cho dịp ấy. Baladeva giết cả hai đô vật. Trong cơn hấp hối, Muṭṭhika phát lời nguyện được sinh làm một Yakkha; ước nguyện của ông ta được thành tựu và ông ta sinh làm như vậy trong rừng Kāḷamattiya. Khi người của nhà vua tìm cách bắt các anh em, Vāsudeva ném một bánh xe chặt đứt đầu của cả nhà vua lẫn em trai ông, vị phó vương Upakaṁsa.
+
+Dân chúng kinh hãi, cầu xin các anh em làm người bảo hộ cho họ. Sau đó họ nắm quyền cai trị Asitañjana. Từ đó họ lên đường chinh phục toàn bộ Jambudīpa, bắt đầu với Ayojjhā (vua của nơi ấy là Kāḷasena bị họ bắt làm tù binh) và Dvāravatī, nơi họ chiếm được với sự trợ giúp của Kaṇhadīpāyana.
+
+Họ đặt Dvāravatī làm kinh đô và chia vương quốc thành mười phần, quên mất người em gái Añjanadevī. Khi phát hiện sai sót của mình, Aṅkura trao phần của mình cho cô và chuyển sang buôn bán. Lịch sử về sau của Aṅkura được tìm thấy trong Pv-a.111ff. Xem Aṅkura.
+
+Theo thời gian, các anh em có nhiều con trai và con gái, tuổi thọ trung bình của con người lúc ấy là 20,000 năm. Về sau, các con trai của họ chọc tức ẩn sĩ Kaṇhadīpāyana bằng cách hóa trang một chàng trai thành phụ nữ và hỏi ông nàng sẽ sinh đứa con nào. “Một mấu gỗ keo,” ông đáp, “bằng vật ấy dòng dõi của Vasudeva sẽ bị hủy diệt.”
+
+Họ cười nhạo vị ẩn sĩ và đá ông. Vào ngày thứ bảy, chàng trai thải từ bụng ra một mấu gỗ keo; họ đốt nó và ném tro xuống sông. Từ những tro ấy, mắc lại gần cổng thành, một cây Eraka mọc lên. Một ngày kia, khi đang vui chơi dưới nước, các vị vua cùng gia đình và tùy tùng khởi một cuộc cãi vã giả và bứt lá từ cây Eraka để dùng làm gậy. Những chiếc lá biến thành vũ khí trong tay họ, và tất cả đều bị giết, ngoại trừ Vāsudeva, Baladeva, Añjanadevī và vị tế sư của họ, tất cả những người này chạy trốn trên một cỗ xe. Như vậy lời của vị ẩn sĩ đã ứng nghiệm.
+
+Trong lúc chạy trốn, họ đến rừng Kāḷamattiya, nơi Muṭṭhika đã sinh làm một Yakkha. Khi Muṭṭhika thấy Baladeva, ông ta mang hình dạng một đô vật và thách đấu với ông. Baladeva chấp nhận lời thách đấu và “bị nuốt chửng như một củ cải.”
+
+Vāsudeva tiếp tục lên đường với những người khác và ban đêm nằm trong một bụi cây để trú ẩn. Một thợ săn, tưởng lầm ông là một con heo, đâm ông bằng giáo; khi Vāsudeva nghe rằng tên của người thợ săn là Jarā (Tuổi già), ông đành chấp nhận cái chết. Như vậy tất cả họ đều chết, ngoại trừ Añjanadevī (Ja.iv.79ff), về lịch sử về sau của bà thì không có gì được nhắc đến.
+
+Trong Kumbhajātaka (Ja 512, Ja.v. p.18) có gợi ý rằng Andhakaveṇhus bị tiêu diệt do buông mình trong việc uống rượu. Câu chuyện này hiển nhiên được truyền thống biết rõ, vì nó thường được nhắc đến, ví dụ trong Saṅkiccajātaka (Ja 530). (v. 267) và trong Vv., p.58.
 
 ## Notes

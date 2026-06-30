@@ -5,7 +5,7 @@ base_headword: "Andhakavindavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Andhakavindavagga. The twelfth section of the *Pañcakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakavindavagga. Phẩm thứ mười hai của *Pañcakanipāta* trong Aṅguttaranikāya (AN.iii.136-42).
 
 ## Notes

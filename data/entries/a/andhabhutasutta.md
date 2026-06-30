@@ -5,7 +5,7 @@ base_headword: "Andhabhūtasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Andhabhūtasutta. Another name for the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhabhūtasutta. Một tên khác của Aḍḍhabhūtasutta. Được thuyết tại Kalandakanivāpa trong Veḷuvana. Mọi thứ đều bị bức bách: mắt, các đối tượng, nhãn thức, v.v. SN.iv.201.
 
 ## Notes

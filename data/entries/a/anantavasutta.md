@@ -5,7 +5,7 @@ base_headword: "Anantavāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anantavāsutta. On the world as being unlimited. SN.iii.215.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantavāsutta. Bàn về việc thế giới là vô biên. SN.iii.215.
 
 ## Notes

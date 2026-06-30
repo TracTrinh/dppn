@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "15"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 15. Được Đức Phật thuyết giảng để trả lời câu hỏi của Ānanda về việc làm thế nào các ý niệm về 'tôi' và 'của tôi' cùng xu hướng ngã mạn có thể bị tiêu trừ hoàn toàn (AN.i.132f). Bản *Sutta* này đề cập đến Puṇṇakapañha thuộc Pārāyaṇa.
 
 ## Notes

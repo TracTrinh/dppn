@@ -5,7 +5,7 @@ base_headword: "Ānandabodhi"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -44,6 +44,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandabodhi. Cây *bodhi* do Ānanda trồng ở lối vào Jetavana. Dân chúng Sāvatthī, do Anāthapiṇḍika dẫn đầu, đề nghị với Ānanda rằng nên có một nơi để họ có thể dâng hoa và hương nhân danh Gotama Buddha khi Đức Phật vắng mặt trong các chuyến du hành định kỳ của ngài.
+
+Sau khi tham khảo ý kiến Đức Phật, Ānanda, với sự trợ giúp của Moggallāna, lấy được một quả từ cây *bodhi* tại Gayā, và cho trồng nó ở cổng vào Jetavana trước sự hiện diện của một hội chúng đông đảo và lỗi lạc, gồm cả Pasenadi Kosala và Visākhā.
+
+Hạt giống được Anāthapiṇḍika trồng trong một bình vàng chứa đất thơm. Ngay lập tức một cây non mọc lên, cao năm mươi cubit, với năm cành, mỗi cành dài năm mươi cubit. Nhà vua tưới quanh cây nước thơm từ tám trăm bình vàng và bạc. Để thánh hóa cây mới, Đức Phật, theo lời thỉnh cầu của Ānanda, ngồi dưới cây ấy trong một đêm, trong niềm hỷ lạc của *samāpatti*. Vì cây được Ānanda trồng, nó được biết đến với tên Ānandabodhi (Ja.iv.228-30).
+
+Những người hành hương đến gặp Đức Phật tại Jetavana thường có thói quen đảnh lễ Ānandabodhi (Ja.ii.321).
+
+Padumajātaka (Ja 261) và Kāliṅgabodhijātaka (Ja 479) đều được thuyết liên quan đến cây *bodhi* này.
 
 ## Notes

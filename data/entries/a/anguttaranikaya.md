@@ -5,7 +5,7 @@ base_headword: "Aṅguttaranikāya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -39,6 +39,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅguttaranikāya. Phân bộ thứ tư của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttapiṭaka</span>, gồm mười một *nipāta* (phần) và 9.557 *Sutta* (AN.v.361; DN­a.i.23; Gv.56). Các *Sutta* được sắp xếp thành những danh sách đánh số, có lẽ để hỗ trợ trí nhớ. Vì vậy, chúng ta thấy được trình bày theo thứ tự trước hết là các đơn vị, rồi các cặp, các bộ ba, v.v., cho đến các nhóm mười một. Cách sắp xếp này rõ ràng cũng đã ảnh hưởng đến nội dung, vì chúng ta hiếm khi thấy những lập luận có lý lẽ. Các danh sách thường được nêu ngắn gọn và giải thích ngắn gọn (xem thêm nhận xét của Hardy, AN.v. introd. p.vii).
+
+Tại Đại Kết Tập lần thứ nhất, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anuruddha</span> được yêu cầu làm người giữ gìn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Nikāya</span> này gồm 120 *bhāṇavāra* và đọc lại cho các đệ tử của mình (DN­a.i.15; Mbv.94).
+
+Khi giáo pháp của Đức Phật suy tàn, phần đầu tiên của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Suttapiṭaka</span> biến mất sẽ là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aṅguttaranikāya</span>, từ phần thứ mười một đến phần thứ nhất, và theo thứ tự ấy (MN­a.881).
+
+Nó đôi khi cũng được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ekuttara</span>. Mil. 392. Điều đáng lưu ý là *Ekottarāgama Sūtra* của Trung Hoa không giống với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Aṅguttaranikāya</span> (AN.i. introd. ix., n.4).
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Aṅguttaranikāya</span> trích dẫn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Pārāyaṇa</span>, điều này là bằng chứng cho sự biên tập muộn của nó (i.133 and 134; ii.45. Về các trích dẫn khác trong và từ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Aṅguttaranikāya</span>, xem AN.v., introd. p.ix., nn. 3 and 4.) Chú giải cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Aṅguttaranikāya</span> được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Manorathapūraṇī</span>.
 
 ## Notes

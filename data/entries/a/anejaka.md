@@ -5,7 +5,7 @@ base_headword: "Anejakā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anejakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anejakā. Một hạng chư thiên được nhắc đến là đã hiện diện vào dịp thuyết Mahā Samayasutta. DN.ii.160.
 
 ## Notes

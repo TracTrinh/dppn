@@ -5,7 +5,7 @@ base_headword: "Aṅga"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,6 @@ Aṅga 02. King. Chief lay supporter of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅga 02. Vua. Vị hộ trì tại gia chính của Sumana Buddha (Bv­a.130); Buddhavaṁsa nhắc Varuṇa và Saraṇa là các *aggupaṭṭhākā* của Sumana, và Udena là *upaṭṭhāka*. Bv.v.28.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anantajina"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,10 @@ Later, when having quarrelled with his wife <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantajina. Một tôn hiệu của Đức Phật.
+
+Khi Upaka, du sĩ Ājīvaka, nhìn thấy Đức Phật và nghe về những chứng đạt của Ngài, Anantajina là một trong những cái tên ông đã dùng khi ca ngợi Đức Phật (Thag­a.i.220).
+
+Sau đó, khi cãi nhau với vợ là Cāpā, ông đi tìm Đức Phật tại Sāvatthī, và ông đã hỏi tìm "Anantajina". Ibid., 222; Snp-a.i.260; MN­a.i.389.
 
 ## Notes

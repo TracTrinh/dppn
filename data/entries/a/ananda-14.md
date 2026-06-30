@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "14"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 14. Tác giả của Saddhammopāyana, cũng được gọi là *Abhayagirikavicakravarti* Ānanda và có lẽ thuộc cùng thời kỳ với Ānanda (13). Bạn và bạn đồng hành của ông, người mà sách của ông được viết cho, là Buddhasoma. Một Ānanda, có lẽ là một tác giả muộn hơn, cũng là tác giả của một Chú giải bằng tiếng Sinhala về Saddhammopāyana. PLC.212.
 
 ## Notes

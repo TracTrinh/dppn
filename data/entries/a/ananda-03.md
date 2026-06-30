@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "03"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 03. Anh em cùng cha khác mẹ của Maṅgala Buddha. Ông đến gặp Maṅgala Buddha cùng chín mươi crore người đi theo; sau khi nghe Đức Phật thuyết giảng, tất cả họ đều trở thành các *Arahants*. Ja.i.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "04"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 04. Con trai của Tissa Buddha, mẹ là Subhaddā Bv.xviii.18.
 
 ## Notes

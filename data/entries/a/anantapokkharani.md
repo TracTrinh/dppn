@@ -5,7 +5,7 @@ base_headword: "Anantapokkharaṇī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Anantapokkharaṇī. A pond constructed by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantapokkharaṇī. Một hồ nước được xây dựng bởi Parakkamabāhu I tại Pulatthipura. Các bậc thềm xung quanh hồ được thiết kế giống như các khoanh cuộn của vua rắn Ananta. Cv.lxxiii.120.
 
 ## Notes

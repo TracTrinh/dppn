@@ -5,7 +5,7 @@ base_headword: "Aṅgasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgasutta 03. Friendship with the virtuous as potent factor for the *bojjhaṅ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgasutta 03. Tình thân với người đức hạnh như yếu tố mạnh mẽ đối với các *bojjhaṅgas*. SN.v.102.
 
 ## Notes

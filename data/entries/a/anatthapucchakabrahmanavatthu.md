@@ -5,7 +5,7 @@ base_headword: "Anatthapucchakabrāhmaṇavatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anatthapucchakabrāhmaṇavatthu. Story of a Brahmin who asked the Buddha whethe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anatthapucchakabrāhmaṇavatthu. Câu chuyện về một Bà-la-môn hỏi Đức Phật rằng Ngài chỉ biết điều thiện, hay Ngài cũng biết điều ác? Đức Phật giải tỏa các nghi ngờ của ông. Dhp­a.ii.227-9.
 
 ## Notes

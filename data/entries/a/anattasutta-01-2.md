@@ -5,7 +5,7 @@ base_headword: "Anattāsutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anattāsutta 01. All the *khandhas* are without the self. The Ariyan disciple fe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattāsutta 01. Tất cả các uẩn đều không có tự ngã. Vị đệ tử bậc Thánh cảm thấy nhàm chán đối với chúng, nhận ra rằng đối với mình không còn đời sau (SN.iii.21).
 
 ## Notes

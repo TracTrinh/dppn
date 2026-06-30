@@ -5,7 +5,7 @@ base_headword: "Aṅgīrasa"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṅgīrasa 05. A king, mentioned among the descendants of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgīrasa 05. Một vị vua, được nhắc đến trong số các hậu duệ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Sammata</span>. Mhv.ii.4; and Dpv.iii.6.
 
 ## Notes

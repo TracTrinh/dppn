@@ -5,7 +5,7 @@ base_headword: "Aṅgasutta"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgasutta 04. The four limbs of *Sotāpatti*: consorting with the good, hearin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgasutta 04. Bốn chi phần của *Sotāpatti*: thân cận người lành, nghe Chánh pháp, chú tâm tỉnh giác và thực hành theo Pháp. SN.v.404.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anantakāya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -33,6 +33,10 @@ He is probably to be identified with Antiochus, attendant of Menander. *Milinda 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantakāya. Một hầu cận của vua Milinda, người được nhà vua cử đi hộ tống Nāgasena từ tu viện đến Sāgala.
+
+Trên đường đi, ông đã hỏi Trưởng lão về linh hồn, và câu chuyện kể lại rằng Trưởng lão đã giảng giải cho ông dựa trên Abhidhamma hiệu quả đến mức Anantakāya đã quy y (Mil.30-1).
+
+Ông có lẽ được đồng nhất với Antiochus, hầu cận của Menander. *Milinda Questions*, I.xix., I.xlii.
 
 ## Notes

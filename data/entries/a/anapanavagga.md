@@ -5,7 +5,7 @@ base_headword: "Ānāpānavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānāpānavagga. Chương thứ bảy của Bojjhaṅgasaṁyutta thuộc Saṁyuttanikāya. SN.v.129-32.
 
 ## Notes

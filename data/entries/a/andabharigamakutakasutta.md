@@ -5,7 +5,7 @@ base_headword: "Andabharīgāmakūṭakasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -34,6 +34,12 @@ He had been a corrupt judge in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andabharīgāmakūṭakasutta. Câu chuyện về một kẻ lừa đảo trong làng, sinh làm một ngạ quỷ.
+
+Cơ quan kín (*anda*) của hắn có kích thước rất lớn.
+
+Hắn nằm trong số các ngạ quỷ mà Mahā Moggallāna thấy trên đường từ Gijjhakūṭa đến Rājagaha, cùng đi với Trưởng lão Lakkhaṇa.
+
+Hắn từng là một quan tòa tham nhũng ở Rājagaha, đã nhận hối lộ và đưa ra các phán quyết bất công. SN.ii.258, SN­a.ii.162.
 
 ## Notes

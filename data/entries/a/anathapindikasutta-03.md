@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anāthapiṇḍikasutta 03. Records a visit paid by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikasutta 03. Ghi lại một lần Anāthapiṇḍika đến thăm Đức Phật; Ngài nói với ông về năm nỗi sợ hãi tội lỗi (*pañca-bhayāni verāni*) được làm lắng dịu nơi vị đệ tử bậc Thánh, và về bốn chi phần của bậc Dự lưu (*Sotāpattiyangāni*). SN.v.387-9.
 
 ## Notes

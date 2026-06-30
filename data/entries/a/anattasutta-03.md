@@ -5,7 +5,7 @@ base_headword: "Anattāsutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anattāsutta 03. All objects of the senses (sights, sounds, etc.), both external
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattāsutta 03. Tất cả các đối tượng của giác quan (sắc, thanh, v.v.), cả bên ngoài (*bāhira*) lẫn thuộc cá nhân (*ajjhatta*), đều không có tự ngã. SN.iv.2, 4, 6.
 
 ## Notes

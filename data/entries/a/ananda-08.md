@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "08"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 08. – Một vị vua của loài cá, do chính các loài cá cử lên để cai trị chúng (Ja 207; Ja.ii.352). Ông là một trong sáu quái vật của biển sâu. Ông sống ở một phía của đại dương, và mọi loài cá đều đến với ông vào buổi sáng và buổi chiều để tỏ lòng kính trọng. Ông sống bằng rêu đá (*sevāla*) cho đến một ngày ông nuốt nhầm một con cá. Rất thích mùi vị ấy, ông tìm hiểu đó là gì, và từ ngày đó ông ăn cá mà các thần dân của mình không hay biết. Thấy số lượng của chúng giảm đi, chúng bắt đầu tò mò, và một ngày nọ, một con cá khôn ngoan trong bọn trốn trong dái tai của Ānanda và phát hiện ông đang ăn những con cá tụt lại phía sau. Khi việc này được báo cho các cá khác, chúng sợ hãi bỏ chạy và ẩn mình. Ānanda, muốn ăn chúng, tìm kiếm khắp nơi; tin rằng chúng nằm bên trong một ngọn núi, ông quấn thân mình quanh ngọn núi ấy. Thấy chính đuôi mình ở phía bên kia ngọn núi và tưởng đó là một con cá đang cố thoát, ông giận dữ cắn nát nó. Cái đuôi dài năm mươi do-tuần và ông chịu đau đớn dữ dội. Bị mùi máu thu hút, các loài cá tụ tập quanh ông và ăn ông từng chút một. Bộ xương của ông lớn như một ngọn núi, và các đạo sĩ thánh thiện, khi bay qua không trung và nhìn thấy nó bên dưới, đã kể cho người đời về nó, và câu chuyện trở nên nổi tiếng khắp Jambudīpa. Kāḷahatthi được kể là đã thuật lại câu chuyện này cho nhà vua trong Mahā Sutasomajātaka (Ja.v.462-4). Ānanda được nhắc đến như một ví dụ về sự lừa dối lớn lao. MN-a.i.138.
 
 ## Notes

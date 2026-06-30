@@ -5,7 +5,7 @@ base_headword: "Aṅgulimālasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgulimālasutta. Contains the story of the bandit’s conversion and the blis
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgulimālasutta. Chứa câu chuyện về sự giáo hóa tên cướp và niềm an lạc trong sự giải thoát của ông. MN 86, MN.ii.97ff.
 
 ## Notes

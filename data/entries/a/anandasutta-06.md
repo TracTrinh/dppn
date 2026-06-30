@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "06"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 06. Ānanda kể cho các vị Tỳ-kheo ở Jetavana rằng khi ông và các đồng bạn còn là sa-di, Puṇṇa Mantāṇiputta đã giúp ích rất nhiều cho họ và chỉ dạy họ về cách ngã mạn (*asmimāna*) sinh khởi và cách nó có thể được vượt qua. Sau khi nghe ông ấy, Ānanda nói rằng ông đã thấu hiểu trọn vẹn Pháp. SN.iii.105-6.
 
 ## Notes

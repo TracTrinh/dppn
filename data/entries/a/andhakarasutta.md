@@ -5,7 +5,7 @@ base_headword: "Andhakārasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Andhakārasutta. The ignorance of <span class="dppn-term dppn-term-t20" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakārasutta. Sự không biết về khổ, sự sinh khởi của khổ, v.v., còn lớn hơn và đáng sợ hơn bóng tối của không gian giữa các thế giới (*lokantarika*). SN.v.454-5.
 
 ## Notes

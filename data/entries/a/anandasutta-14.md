@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "14"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 14. Ānanda đến gặp Sāriputta và hỏi ông đến mức độ nào một vị tỳ-kheo có thể học hỏi Pháp, ghi nhớ, suy ngẫm và giảng dạy Pháp cho người khác. Sāriputta đề nghị Ānanda tự mình trả lời câu hỏi ấy, và Ānanda đã làm như vậy. Vào cuối bài pháp thoại, Sāriputta đã tán thán Ānanda và gọi ông là hình mẫu của một vị tỳ-kheo chân chính. AN.iii.361-2.
 
 ## Notes

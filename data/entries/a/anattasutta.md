@@ -5,7 +5,7 @@ base_headword: "Anattasuttā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anattasuttā 02. and 03. The occasion is the same. That which is without a self 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattasuttā 02. và 03. Bối cảnh thì giống nhau. Điều gì không có tự ngã thì phải được đoạn trừ. SN.iii.199 và 201.
 
 ## Notes

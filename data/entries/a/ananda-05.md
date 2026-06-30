@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "05"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 05. Con trai của Phussa Buddha, mẹ là Kisāgotami (Bv.ix.16). Tuy nhiên, Buddhavaṁsa Commentary (p.192) ghi tên ông là Anupama.
 
 ## Notes

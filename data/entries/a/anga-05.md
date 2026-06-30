@@ -5,7 +5,7 @@ base_headword: "Aṅga"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṅga 05. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅga 05. Một trong các Pacceka Buddhas được nhắc đến trong danh sách ở Chú giải Apadāna Ap­a.i.107.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aṅga"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aṅga 04. King of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅga 04. Vua của xứ Aṅga, giữa ông và vua Magadha luôn có chiến tranh, với vận may đổi thay. Cuối cùng, Magadha, với sự trợ giúp của vua Nāga Campeyya, chiếm Aṅga và giết ông. Ja.iv.453.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Andhakaṭṭhakathā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Andhakaṭṭhakathā. One of the Commentaries used by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakaṭṭhakathā. Một trong các bộ Chú giải được Buddhaghosa sử dụng (Vin-a.iv.747). Bộ này được truyền thừa tại Kāñcipura (Conjevaram) ở Nam Ấn Độ.
 
 ## Notes

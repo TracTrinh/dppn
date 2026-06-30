@@ -5,7 +5,7 @@ base_headword: "Anekavaṇṇavimāna"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anekavaṇṇavimāna. The abode of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anekavaṇṇavimāna. Trú xứ của thiên tử Anekavaṇṇa *Devaputta*. Vv.74-5.
 
 ## Notes

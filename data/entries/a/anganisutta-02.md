@@ -5,7 +5,7 @@ base_headword: "Aṅgānisutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgānisutta 02. On the five qualities which a monk should have and the five w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgānisutta 02. Về năm phẩm chất mà một vị tỳ-kheo nên có và năm điều vị ấy nên từ bỏ để hoàn thành bổn phận trong giáo pháp và đạt đến đỉnh cao nhất của giáo pháp ấy. AN.v.1617.
 
 ## Notes

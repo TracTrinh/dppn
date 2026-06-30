@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "13"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 13. Cuộc hội thoại giữa Ānanda và Mahā Koṭṭhita liên quan đến những gì xảy ra sau sự diệt tận không còn tham ái, không còn dư tàn của sáu xúc xứ. AN.ii.162. Văn bản PTS xếp bản kinh này vào Koṭṭhitasutta, nhưng cả Chú giải lẫn Uddāna ở cuối *Vagga* đều xem đây là một bản *Sutta* riêng biệt.
 
 ## Notes

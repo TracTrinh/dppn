@@ -5,7 +5,7 @@ base_headword: "Ānanda"
 disambiguator: "15"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda 15. Bạn đồng hành của Chapaṭa và là người đồng sáng lập Sīhala Saṅgha của Burma (Sās 5). Về sau ông bị khai trừ khỏi cộng đồng vì cố gửi cho thân quyến một con voi do vua Narapati tặng cho ông. Các bạn đồng hành của ông đề nghị nên thả con vật ấy vào rừng, phù hợp với lời dạy của Đức Phật về lòng từ đối với loài vật. Câu trả lời của Ānanda là Đức Phật cũng đã thuyết về lòng từ đối với thân quyến (Bode, 24). Ông qua đời năm 1246 (Forehammer: *Jardine Prize Essay*, p.35).
 
 ## Notes

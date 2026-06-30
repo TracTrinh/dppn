@@ -38,7 +38,11 @@ satipaṭṭhānā → niệm xứ — thường dịch số nhiều là "các n
 cetovimutti → tâm giải thoát
 kamma → kamma — giữ Pāli khi bản gốc dùng thuật ngữ Pāli; in nghiêng nếu bản gốc in nghiêng.
 Nibbāna → Nibbāna — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
+Parinibbāna → Parinibbāna — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
 Deathless / Amata → Bất tử — khi chỉ mục tiêu/trạng thái "Deathless"; giữ "Amata" khi là tên riêng/nhan đề.
+khandha(s) → uẩn — dùng "năm uẩn" cho "five khandhas"; giữ Pāli khi cần đối chiếu thuật ngữ.
+samāpatti → samāpatti — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
+ānāpānasati → ānāpānasati — giữ Pāli khi bản gốc nêu thuật ngữ; có thể dịch nghĩa là "niệm hơi thở" khi bản gốc dùng tiếng Anh.
 puthujjana(s) → phàm phu — có thể dịch nghĩa khi không cần giữ nguyên đối chiếu thuật ngữ Pāli.
 appamāṇa → vô lượng
 mahaggata → quảng đại
@@ -61,6 +65,8 @@ vassa → mùa an cư — khi nói về kỳ an cư của tỳ-kheo; "rainy seas
 rainy season → mùa an cư — khi nói về vassa tu sĩ
 austerities → khổ hạnh — dịch chung; KHÔNG dùng "đầu-đà" (đầu-đà = dhutaṅga, hẹp hơn) trừ khi bản gốc nói rõ
 Brahmin(s) → Bà-la-môn
+Caṇḍāla → Caṇḍāla — giữ Pāli cho nhóm xã hội; in nghiêng nếu bản gốc in nghiêng.
+Paribbājaka → Paribbājaka — giữ Pāli cho du sĩ ngoại đạo; in nghiêng nếu bản gốc in nghiêng.
 Ariyan → bậc Thánh / thuộc bậc Thánh — tùy ngữ cảnh; giữ tên riêng Pāli nếu là một phần của danh xưng.
 Noble Eightfold Path → Bát Thánh đạo — dùng "Bát Thánh đạo" nhất quán; KHÔNG dùng biến thể "Bát Chi Thánh Đạo".
 
@@ -86,6 +92,7 @@ Sākyan → người Sākyan — giữ tên tộc; không dịch thành "ngườ
 
 vihāra → vihāra — giữ nguyên khi là thành phần tên riêng; "tu viện" hoặc "tịnh xá" khi dùng chung
 ārāma → tịnh viên / tu viện — khu vườn/khuôn viên tu hành
+bodhi-tree → cây bodhi — giữ "bodhi" theo Pāli trong cụm này; in nghiêng nếu bản gốc in nghiêng.
 Thūpa → bảo tháp — tháp thờ xá-lợi; giữ "Thūpa" trong tên riêng
 pariveṇa → pariveṇa — giữ nguyên; khu vực phụ trong tu viện
 Gandhakuṭi → Gandhakuṭi — hương phòng (phòng thơm) của Đức Phật; giữ tên riêng

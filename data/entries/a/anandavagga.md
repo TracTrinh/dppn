@@ -5,7 +5,7 @@ base_headword: "Ānandavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandavagga. Chương thứ tám của *Tikanipāta* thuộc Aṅguttaranikāya. Chương này gồm mười bản *Sutta*, bản kinh cuối cùng trong số đó có chứa lời tiên tri liên quan đến Ānanda. AN.i.215-28.
 
 ## Notes

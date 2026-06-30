@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "09"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 09. Được thuyết tại Jetavana. Ānanda được chỉ dạy về cách định niệm hơi thở (*ānāpānasati*) dẫn đến bốn niệm xứ và cách những niệm xứ này, lần lượt, đưa bảy *bojjhaṅga* đến viên mãn. Những điều sau cùng này dẫn đến tri kiến và giải thoát viên mãn (*vijjāvimutti*). Các phương pháp phát triển chúng được giải thích chi tiết. SN.v.328-33.
 
 ## Notes

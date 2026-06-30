@@ -5,7 +5,7 @@ base_headword: "Anattasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anattasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anattasutta 01. Được thuyết cho Rādha tại Sāvatthī để trả lời câu hỏi của vị ấy: "Cái gì là vô ngã?" SN.iii.196.
 
 ## Notes

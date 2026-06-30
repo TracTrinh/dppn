@@ -5,7 +5,7 @@ base_headword: "Aṅgasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṅgasutta 01. The five powers of woman: beauty, wealth, kin, sons and virtue. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅgasutta 01. Năm sức mạnh của người phụ nữ: sắc đẹp, tài sản, thân tộc, con trai và đức hạnh. SN.iv.247.
 
 ## Notes

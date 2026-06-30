@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikovādasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -31,6 +31,10 @@ In this *Sutta* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikovādasutta. Do Sāriputta nói với Anāthapiṇḍika khi ông nằm trên giường bệnh lúc sắp qua đời. Đó là lời khuyến giáo ông không nên bám víu vào các sự vật thế gian. Người ta nói rằng khi bài giảng kết thúc, vị trưởng giả đã khóc lớn, vì trước đó chưa từng nghe một bài pháp như vậy. Không lâu sau, ông qua đời và sinh làm một thiên nhân; trong hình dạng ấy, ông đến Jetavana và đảnh lễ Đức Phật (MN.iii.258-63).
+
+Trong *Sutta* này, Sāriputta nói rằng những bài giảng như thế không được dành cho hàng cư sĩ áo trắng mà được dành riêng cho những vị đã thọ cụ túc giới (MN.iii.261), một phát biểu đôi khi được trích dẫn như chứng cứ về một giáo lý bí truyền trong Phật giáo.
+
+Anāthapiṇḍika thỉnh cầu rằng những *Suttas* như thế cũng nên được thuyết cho cư sĩ, vì có những người trẻ tuổi mà mắt chỉ bị che mờ rất ít.
 
 ## Notes

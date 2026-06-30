@@ -5,7 +5,7 @@ base_headword: "Andhakāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Andhakāra. A village in Ceylon, one of the villages given by <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakāra. Một ngôi làng ở Ceylon, một trong các làng được Aggabodhi IV cấp để duy trì *Padhānaghara* do nhà vua xây cho Trưởng lão Dāṭhāsiva. Cv.xlvi.12.
 
 ## Notes

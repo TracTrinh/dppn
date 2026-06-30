@@ -5,7 +5,7 @@ base_headword: "Anantarabhaṇḍakatittha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anantarabhaṇḍakatittha. A ford in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anantarabhaṇḍakatittha. Một bến nước trên sông Mahā Vālukagaṅgā ở Ceylon. Cv.lxxii.16.
 
 ## Notes

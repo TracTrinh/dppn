@@ -5,7 +5,7 @@ base_headword: "Aṇḍabhūtajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,8 @@ The story was related concerning a monk who ‘was worried by his passions, Ja 6
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṇḍabhūtajātaka (Ja 62). Về tính xấu ác bẩm sinh của phụ nữ. Một cô gái được nuôi dưỡng từ thuở ấu thơ chỉ giữa phụ nữ, không bao giờ thấy bất cứ người đàn ông nào ngoài chồng mình, vị tế sư của nhà vua. Vị này đã bắt tay vào việc nuôi cô gái như thế để đánh bại nhà vua trong trò xúc xắc, vì nhà vua thường thắng bằng một lời tuyên bố chân thật rằng tất cả phụ nữ đều phản trắc; vị tế sư muốn tìm một ngoại lệ để bác bỏ lời tuyên bố ấy. Trong một thời gian, cuộc thử nghiệm thành công, nhưng về sau, do mưu kế của nhà vua, cô gái bắt đầu một mối tư tình với một người bán hoa làm tình nhân và bị phát hiện. Jātaka được gọi như vậy vì người phụ nữ trong câu chuyện đã được canh giữ từ khi còn nằm trong bụng mẹ như một bào thai (*aṇḍabhūta*).
+
+Câu chuyện được kể liên quan đến một vị tăng bị các dục vọng của mình quấy nhiễu, Ja 62 J.i.28.
 
 ## Notes

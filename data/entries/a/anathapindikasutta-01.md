@@ -5,7 +5,7 @@ base_headword: "Anāthapiṇḍikasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Anāthapiṇḍikasutta 01. Similar to the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāthapiṇḍikasutta 01. Tương tự Anāthapiṇḍikovādasutta (*infra*), nhưng phần lớn bài kinh này gồm những lời an ủi, khích lệ và khuyến nhủ mà Sāriputta nói với vị trưởng giả, và chúng ta được cho biết rằng các cơn đau của ông đã dịu xuống. Không có nhắc đến lời khuyên không bám víu vào các pháp thế gian, cũng không nhắc đến việc vị trưởng giả qua đời hầu như ngay sau đó. Thay vào đó, bài kinh nói rằng Sāriputta và Ānanda được dâng một bữa ăn từ chính nồi nấu của vị trưởng giả, rồi các vị ra đi sau khi cảm tạ ông. Ānanda thuật lại với Đức Phật tin tức về chuyến thăm của họ, và Đức Phật tán thán trí tuệ của Sāriputta. SN.v.380-5.
 
 ## Notes

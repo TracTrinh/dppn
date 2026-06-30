@@ -5,7 +5,7 @@ base_headword: "Andhakavinda"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -46,6 +46,12 @@ Once when the Buddha was staying at <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhakavinda. Một ngôi làng trong xứ Magadha, cách Rājagaha ba *gāvuta*. Giữa làng này và Rājagaha là sông Sappinī, bắt nguồn từ Gijjhakūṭa (Vin.i.109; Vin. Texts i.254, n.2). Một lần Đức Phật đi từ Benares đến Andhakavinda cùng 1,250 vị tăng, và nhiều người đi theo, mang các xe chất đầy vật thực để có thể lần lượt cúng dường cho các ngài. Có quá nhiều người chờ đến lượt đến nỗi một vị Bà-la-môn (được gọi là Andhakavinda Brāhmaṇa) phải chờ hai tháng mới đến lượt mình. Sau hai tháng, thấy công việc riêng của mình sắp suy sụp và không có khả năng lượt của mình sẽ sớm đến, vị Bà-la-môn đi đến kho vật thực để xem mình có thể bổ sung thứ gì còn thiếu. Thấy ở đó không có gạo, sữa hay các viên mật, ông đến gặp Ānanda, và nhờ vị ấy xin được sự cho phép của Đức Phật, vị Bà-la-môn chuẩn bị một bữa cơm sữa và các viên mật cho Đức Phật và các vị tăng. Khi bữa ăn kết thúc, Đức Phật nói về mười phẩm chất tốt đẹp của cơm sữa. Vin.i.220f.; chính lời tán thán này do Đức Phật nói ra đã khiến Visākhā xin ngài, như một ân huệ, cho phép bà được cúng dường cơm sữa cho các vị tăng suốt đời (ibid., 293); xem thêm Ud­a.112.
+
+Trong cùng chuyến viếng thăm của Đức Phật, một vị quan mới quy y trong vùng chuẩn bị các món thịt cho Tăng đoàn, nhưng vì thất vọng rằng các vị tăng, trước đó đã dùng một bữa cơm sữa đặc, không thể ăn nhiều các món của ông, ông tỏ ra khá thô lỗ với họ. Về sau ông bày tỏ sự hối hận, và Đức Phật bảo đảm với ông rằng cõi trời sẽ là phần thừa hưởng của ông (Vin.i.222f. Đây là dịp đặt ra điều luật rằng các vị tăng đã được mời dùng bữa ở một nơi thì không nên nhận cơm sữa ở nơi khác sớm hơn trong cùng ngày.). Chính trên đường trở về từ Andhakavinda đến Rājagaha, Đức Phật gặp Belaṭṭha Kaccāna (Vin.i.224f).
+
+Một lần, khi Đức Phật đang trú tại Andhakavinda, Brahma Sahampati đến và chiếu sáng nơi ấy bằng vẻ đẹp rực rỡ của mình cho đến khuya; rồi vị ấy đến gặp Đức Phật và hát trước ngài những kệ khuyến tấn dành cho các vị tăng, thúc giục họ sống đời phạm hạnh (SN.i.154). Cũng tại đây, Đức Phật nói với Ānanda về sự cần thiết phải khuyên dạy và khích lệ các thành viên mới của Tăng đoàn về năm điều: giới hạnh tốt đẹp, chế ngự các căn, tránh nói quá nhiều, yêu thích sự độc cư và tu tập chánh kiến (AN.iii.138-9; được nhắc đến trong Vin-a.iv.789). Một lần ở Andhakavinda, Đức Phật mắc chứng bệnh do gió. Ānanda được yêu cầu tìm cháo cho chứng bệnh ấy. Vợ của vị thầy thuốc trong làng cúng dường cháo với lòng sùng kính lớn, và kết quả là bà sinh vào Tāvatiṁsa, nơi trú xứ của bà được biết đến là Kañjikādāyika Vimāna (Vv-a.185-6). Một cư sĩ khác xây một Gandhakuṭi cho Đức Phật tại Andhakavinda, và đích thân chăm sóc Đức Phật khi ngài ở đó. Vị *upāsaka* này cũng, do kết quả ấy, sinh vào Tāvatiṁsa trong một *vimāna* bằng vàng (Vv-a.302-3).
+
+Con gái của Cūḷa Seṭṭhi, Anulā, sống ở Andhakavinda sau khi kết hôn, và chính tại đó bà đã bố thí nhân danh người cha đã mất của mình (Pv-a.105-9).
 
 ## Notes

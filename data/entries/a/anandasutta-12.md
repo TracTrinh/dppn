@@ -5,7 +5,7 @@ base_headword: "Ānandasutta"
 disambiguator: "12"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandasutta 12. Được thuyết giảng tại Ghositārāma ở Kosambi. Ānanda hỏi Đức Phật làm thế nào các vị sư có thể sống an lạc (*phāsuvihāra*), và Đức Phật đã chỉ dạy cho ông (AN.iii.132-4).
 
 ## Notes

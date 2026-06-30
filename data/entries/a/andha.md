@@ -5,7 +5,7 @@ base_headword: "Andhā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Andhā. Mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Andhā. Được nhắc trong Samantapāsādikā, cùng với các Damiḷas, như những người không thuộc Ariyan (*milakkha*); tên này có lẽ cũng là Andhaka(ā) (*q.v.*). Vin-a.i.255; xem thêm Vibh­a.387-8, nơi ngôn ngữ Andhaka được nhắc đến. Vào thời Buddhaghosa, các Vedas cũng được dạy bằng ngôn ngữ Andha (MN­a.i.113).
 
 ## Notes

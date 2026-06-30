@@ -5,7 +5,7 @@ base_headword: "Ānandakumāra"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandakumāra. Một thợ đóng thuyền, người cùng với ba trăm người khác được Mahosadha phái đến Thượng Ganges để lấy gỗ dùng đóng ba trăm chiếc thuyền, chuẩn bị cho chuyến viếng thăm của Mahosadha đến kinh đô của Pañcāla nhằm dựng các tòa nhà cho vua Vedeha. AN.vi.427.
 
 ## Notes
