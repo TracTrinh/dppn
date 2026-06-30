@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Ajita 02. A *paribbājaka* who visited the Buddha, and at whose instigation the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 02. Một *paribbājaka* đã đến thăm Đức Phật, và theo sự khởi xướng của ông, Đức Phật đã thuyết giảng cho các tỳ-kheo về sự khác biệt giữa *Dhamma* và *adhamma*. AN.v.229ff.
 
 ## Notes

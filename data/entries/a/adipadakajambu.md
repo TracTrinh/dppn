@@ -5,7 +5,7 @@ base_headword: "Ādipādakajambu"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādipādakajambu. Một địa phương ở Ceylon, nơi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ādipāda Vikkamabāhu</span> đánh bại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māṇābharaṇa</span> và các anh em của ông ta. Cv.lxi.15.
 
 ## Notes

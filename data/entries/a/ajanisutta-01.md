@@ -5,7 +5,7 @@ base_headword: "Ājānisutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājānisutta 01. Năm phẩm chất của một con ngựa thuần chủng phục vụ nhà vua, và những phẩm chất tương tự của một vị sư tốt. AN.iii.248.
 
 ## Notes

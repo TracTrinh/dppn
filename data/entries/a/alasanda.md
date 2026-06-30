@@ -5,7 +5,7 @@ base_headword: "Alasandā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -46,6 +46,14 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alasandā. Một thành phố trong xứ của người Yonas. Ở đó có một cộng đồng Phật giáo lớn, và trong Mahā Vaṁsa (xxix.40) có nói rằng nhân dịp Duṭṭhagāmaṇī đặt nền móng cho Mahā Thūpa, Trưởng lão Yonaka Mahā Dhammarakkhita từ Alasandā đến Anurādhapura cùng 30,000 vị tỳ-kheo.
+
+Trong Milindapañha (p.327), Alasandā được nhắc đến trong một danh sách các địa điểm, trong đó có China, Benares và Gandhāra.
+
+Ở chỗ khác trong cùng sách ấy (82,83), vua Milinda được nhắc đến như nói rằng ông sinh ra trong một ngôi làng tên Kalasi ở Alasandā, nhưng ông nói về Alasandā như một hòn đảo. Nơi ấy cách Sāgala khoảng hai trăm do-tuần.
+
+Nhìn chung người ta chấp nhận (ví dụ, trong *Questions of King Milinda*, i., p.xxiii, xem thêm CHI., p.550) rằng Alasandā là tên của một hòn đảo trên sông Indus trong lãnh thổ Baktria. Geiger (Mhv.trs.194, n.3) cho rằng có lẽ nó được đồng nhất với thành phố do vị vua Macedonian lập nên ở xứ Paropanisadae gần Kabul.
+
+Trong Apadāna (i.359), người Alasandakā được nhắc đến trong một danh sách các bộ tộc.
 
 ## Notes

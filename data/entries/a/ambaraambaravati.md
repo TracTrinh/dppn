@@ -5,7 +5,7 @@ base_headword: "Ambaraambaravatī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambaraambaravatī. The double name of a city in <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaraambaravatī. Tên kép của một thành phố ở Uttarakuru. DN.iii.201; DN­a.iii.966.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "10"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhaya 10. A monk, chief of the ascetics who dwelt in the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 10. Một vị sư, đứng đầu các ẩn sĩ sống trong tu viện Pañcapariveṇamūla. Vị ấy được vua Kittisirimegha (*q.v.*) phái đi đón con trai của nhà vua (Cv.lxvii.61).
 
 ## Notes

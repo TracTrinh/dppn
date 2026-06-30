@@ -5,7 +5,7 @@ base_headword: "Akkhantisutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Akkhantisutta 01. The five evil results of the want of forbearance. AN.iii.254.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkhantisutta 01. Năm quả báo xấu của việc thiếu nhẫn nại. AN.iii.254.
 
 ## Notes

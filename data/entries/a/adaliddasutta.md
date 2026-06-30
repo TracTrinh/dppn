@@ -5,7 +5,7 @@ base_headword: "Adaḷiddasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Adaḷiddasutta. The rich man is he who possesses the seven *bojjhaṅgā*. SN.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adaḷiddasutta. Người giàu là người sở hữu bảy *bojjhaṅgā*. SN.v.100
 
 ## Notes

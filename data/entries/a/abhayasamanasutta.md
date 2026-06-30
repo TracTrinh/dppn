@@ -5,7 +5,7 @@ base_headword: "Abhayasamānasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhayasamānasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayasamānasutta. Được thuyết cho Jāṇussoṇī về những người không sợ hãi khi cái chết đến với họ. AN.ii.173f.
 
 ## Notes

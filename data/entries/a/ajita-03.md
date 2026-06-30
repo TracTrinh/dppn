@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajita 03. A Brahmin, the Bodhisatta in the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 03. Một Bà-la-môn, là Bodhisatta vào thời Sobhita Buddha. Ja.i.35.
 
 ## Notes

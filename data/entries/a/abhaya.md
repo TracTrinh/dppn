@@ -5,7 +5,7 @@ base_headword: "Abhayā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -40,6 +40,12 @@ Seventy times she reigned as queen of heaven and she was chief queen of sixty-th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayā. Một Therī. Bà thuộc một gia đình ở Ujjenī và là bạn chơi của Abhayamātā (Padumavatī). Khi người sau gia nhập Saṅgha, Abhayā cũng xuất gia. Trong lúc bà đang thiền định tại Sītavana, Đức Phật phóng một tia hào quang để khích lệ và trợ giúp bà; nhờ đó bà trở thành một *Arahant* (Thīg­a.33-4).
+
+Hai bài kệ được quy cho bà trong Therīgāthā (35, 46).
+
+Vào thời Sikhī Buddha, bà sinh trong một gia đình quý tộc và trở thành chánh hậu của cha Đức Phật, Aruṇavā. Một ngày nọ, bà dâng lên Đức Phật vài hoa sen mà vua đã ban cho bà. Do quả báo ấy, trong các đời sau thân bà có màu sắc của hoa sen và mang hương thơm của hoa sen.
+
+Bảy mươi lần bà trị vì với tư cách hoàng hậu cõi trời, và bà là chánh hậu của sáu mươi ba vị *cakkavatti* (Thīg­a. *loc.cit.*). Hiển nhiên bà được đồng nhất với Sattuppalamālikā trong Apadāna (ii.517-18).
 
 ## Notes

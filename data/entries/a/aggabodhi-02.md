@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aggabodhi 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 02. Aggabodhi I. Vua của Ceylon (CE 568-601), cháu gọi Mahā Nāga là chú/bác. Để xem tường thuật về triều đại của ông, xem Cv.xlii.1-39. Ông đôi khi được đồng nhất với con trai của Bhayasīva. Xem Geiger, Cv., trans.i.64, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhirāmā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhirāmā. One of the three palaces occupied, as a layman, by <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhirāmā. Một trong ba cung điện mà Nārada Buddha cư ngụ khi còn là người tại gia (Bv.x.19).
 
 ## Notes

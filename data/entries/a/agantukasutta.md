@@ -5,7 +5,7 @@ base_headword: "Āgantukasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āgantukasutta. Như một nhà khách nơi người từ mọi phương đến cư trú, một vị sư tu tập Bát Thánh đạo chứng ngộ những pháp (năm *upādānakkhandhā*) cần được chứng ngộ, đoạn trừ những pháp (*avijjā* và *bhavataṇhā*) cần được đoạn trừ, và tu tập *samatha* cùng *vipassanā*. SN.v.51-2.
 
 ## Notes

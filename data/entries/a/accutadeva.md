@@ -5,7 +5,7 @@ base_headword: "Accutadevā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Accutadevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accutadevā. Một hạng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">chư thiên</span> được nhắc đến trong số những vị tụ hội nhân dịp thuyết giảng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Samayasutta</span>. DN.ii.260.
 
 ## Notes

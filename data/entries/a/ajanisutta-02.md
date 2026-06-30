@@ -5,7 +5,7 @@ base_headword: "Ājānisutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājānisutta 02. Ba *Suttas* nêu sáu phẩm chất tương tự. AN.iii.282-4.
 
 ## Notes

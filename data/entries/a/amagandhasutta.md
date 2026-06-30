@@ -5,7 +5,7 @@ base_headword: "Āmagandhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,8 @@ The *Sutta* is particularly interesting as being one of the few passages in whic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmagandhasutta. Cuộc đàm thoại giữa Đức Phật và vị Bà-la-môn Āmagandha đã được đề cập ở trên (Sn.42ff). Theo Buddhaghosa (Snp-a.i.280ff), đây chỉ là sự tái hiện lại cuộc đàm thoại giữa Kassapa Buddha với đạo sĩ Tissa, người về sau trở thành thượng thủ đệ tử của Ngài.
+
+Bài kinh (Sutta) này đặc biệt thú vị vì là một trong số ít những đoạn trích ghi lại những lời dạy của các chư Phật quá khứ. Quan điểm của Đức Phật được trình bày là đồng nhất với quan điểm đã được tuyên bố từ lâu trước đây, với hàm ý sâu xa rằng đó là một chân lý hiển nhiên được chấp nhận bởi tất cả các bậc hiền trí.
 
 ## Notes

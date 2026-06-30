@@ -5,7 +5,7 @@ base_headword: "Āhuneyyasutta"
 disambiguator: "05"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhuneyyasutta 05. Về mười hạng người, được mô tả khác với các hạng ở trên, đáng được tôn kính, v.v. AN.v.23.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhidhammatthasaṅgaha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,10 @@ According to Gv.(p.71) the work was written at the request of an *upāsaka* name
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammatthasaṅgaha. Một bản cương yếu về Abhidhamma do Anuruddha, vị trụ trì Mūlasoma *Vihāra*, biên soạn (xem chi tiết PLC. 168-72). Có một *ṭīkā* gọi là *Porāṇa Ṭīkā*, do Nava Vimalabuddhi của Ceylon biên soạn (*Compendium of Philosophy*, Preface ix).
+
+Các tác phẩm giải thích khác về Abhidhammatthasaṅgaha là những tác phẩm của Sumaṅgala và Chappaṭa, Sīhalavyākhyāna của Candagomi, *Anuṭīkā* của Vepullabuddhi, hai *Navānuṭīkā*, một của Ariyavaṁsa và bản thứ hai của một tác giả khuyết danh, cùng một *Vivaraṇa*. Xem Sās.69. 71; Svd.1202, 1223; Gv.64, 65, 75.
+
+Theo Gv.(p.71), tác phẩm được viết theo lời thỉnh cầu của một *upāsaka* tên là Nambha (Nampa).
 
 ## Notes

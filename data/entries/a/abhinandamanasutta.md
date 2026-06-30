@@ -5,7 +5,7 @@ base_headword: "Abhinandamānasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhinandamānasutta. One who is enamoured of body, etc., becomes <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinandamānasutta. Người say đắm thân, v.v., trở thành kẻ bị Māra trói buộc; nhờ không say đắm, người ấy trở nên tự do. SN.iii.75.
 
 ## Notes

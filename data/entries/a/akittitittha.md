@@ -5,7 +5,7 @@ base_headword: "Akittitittha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akittitittha. The ford by which <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akittitittha. Bến sông mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span> đã băng qua sau khi rời <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Benares</span>. Ja.iv.237.
 
 ## Notes

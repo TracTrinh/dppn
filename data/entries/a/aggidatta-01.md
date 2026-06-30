@@ -5,7 +5,7 @@ base_headword: "Aggidatta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -33,6 +33,6 @@ Aggidatta 01. Chaplain to the King of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggidatta 01. Tế sư của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kosala</span>, trước hết là của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Kosala</span>, rồi đến con trai ông là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pasenadi</span>. Về sau ông từ bỏ thế gian và, cùng một nhóm đông đảo môn đồ, du hành khắp <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aṅga</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Magadha</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kururaṭṭha</span>, giảng dạy một tín ngưỡng thờ phụng thiên nhiên. Đức Phật, thấy *upanissaya* (tiềm năng) của ông, sai <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Moggallāna</span> đến chuyển hóa ông. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Moggallāna</span> đi đến ẩn xá của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Aggidatta</span>, nhưng khi bị từ chối chỗ trú ở đó, bằng sự hiển bày năng lực *iddhi*, ông khuất phục một *Nāgarāja*, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Ahicchatta</span>, sống gần đó, và chiếm chỗ ở của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Nāga</span>. Trong khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Aggidatta</span> và các môn đồ của ông đứng kinh ngạc trước sự việc này, Đức Phật xuất hiện, và nhận ra rằng Đức Phật còn vĩ đại hơn cả <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Moggallāna</span>, họ đảnh lễ Ngài. Đức Phật thuyết giảng cho họ về sai lầm trong đường lối của họ. Cuối bài giảng, họ trở thành các *Arahants* (Dhp­a.iii.241-7).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ajjuka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Ajjuka. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuka. Một tỳ-kheo ở Vesālī. Khi giải quyết một tranh chấp liên quan đến tài sản của người hộ trì cư sĩ của mình, ngài bị một trong các bên liên quan cáo buộc thiên vị và bị trình báo với Ānanda. Vụ việc được đưa lên trước Upāli, người đã phán quyết có lợi cho Ajjuka (Vin.iii.66-7), và được Đức Phật khen ngợi vì quyết định này. Thag­a.i.370; AN­a.i.172.
 
 ## Notes

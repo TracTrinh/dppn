@@ -5,7 +5,7 @@ base_headword: "Akkhaṇasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akkhaṇasutta. On the eight inopportune occasions for the living of the higher 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkhaṇasutta. Về tám thời điểm không thuận lợi cho việc sống đời sống phạm hạnh. AN.iv.225f.
 
 ## Notes

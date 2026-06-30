@@ -5,7 +5,7 @@ base_headword: "Ambadugga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ambadugga. A tank in Ceylon, built by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambadugga. Một hồ chứa nước ở Ceylon, do Kuṭakaṇṇatissa xây dựng. Mhv.xxxiv.33.
 
 ## Notes

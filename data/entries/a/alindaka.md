@@ -5,7 +5,7 @@ base_headword: "Ālindaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālindaka. Có lẽ là tên của một tu viện ở Ceylon, nơi Trưởng lão Mahā Phussadeva từng sinh sống. SN­a.iii.154; Vibh­a.352.
 
 ## Notes

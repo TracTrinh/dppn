@@ -5,7 +5,7 @@ base_headword: "Agada"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Agada. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agada. Cakkavatti, mười sáu lần liên tiếp; Subāhu Thera trong một kiếp trước. Thag­a.i.124.
 
 ## Notes

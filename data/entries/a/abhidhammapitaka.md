@@ -5,7 +5,7 @@ base_headword: "Abhidhammapiṭaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -88,6 +88,32 @@ An *Anuṭīkā* was written by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammapiṭaka. Phần thứ ba của các *Piṭakas*. Bộ này gồm bảy sách: (1) Dhammasaṅgaṇī, (2) Vibhaṅga, (3) Dhātukathā, (4) Puggalapaññati, (5) Kathāvatthu, (6) Yamaka và (7) Paṭṭhāna, tất cả đều được gọi bằng tên -pakaraṇa. Chỉ trong các Biên niên sử và Chú giải, từ này mới được dùng làm nhan đề của một *Piṭaka* thứ ba (xem thảo luận về điều này trong DN­a.i.15, 18f). Trong chính Kinh tạng (ví dụ, Vin.i.64; iii.144; iv.344), từ này có nghĩa là “Pháp đặc biệt,” tức là Pháp thuần túy và giản dị (không pha lẫn lối trình bày văn chương hay các nhân vật, v.v.), và đôi khi được ghép với từ *abhivinaya* (ví dụ, DN.iii.267; MN.i.272).
+
+Đã có ý kiến cho rằng (New Pāli Dict. *s.v.*), vì từ *abhidhamma* đứng riêng không thấy xuất hiện trong Suttanipāta, Saṁyutta hay Aṅguttara, và chỉ một hai lần trong Dīgha và Majjhima, nên có lẽ nó chỉ đi vào cách dùng vào giai đoạn cuối của thời kỳ hình thành bốn *Nikāyas* lớn (xem Dial.iii.199 về một nguồn gốc có thể có của Adhidhamma).
+
+Mahā Saṅghikas từ chối đưa Adhidhamma vào các *Piṭakas*, vì họ không xem nó là lời của Đức Phật. (Dpv.v.32-8).
+
+Theo các *Dīghabhāṇakas*, Abhidhammapiṭaka cũng bao gồm toàn bộ Khuddakanikāya, ngoại trừ Cariyāpiṭaka, Apadāna và Buddhavaṁsa (DN­a.i.15).
+
+Theo một cách phân chia khác, năm *Nikāyas* không phải là các phần của Pháp mà là của toàn bộ Kinh điển, và trong phần thứ năm có cả Vinaya lẫn Adhidhamma (DN­a.i.28).
+
+Có một truyền thuyết do Buddhaghosa ghi lại rằng Adhidhamma lần đầu được Đức Phật thuyết tại Tāvatiṁsa, dưới gốc cây Pāricchataka, khi ngài ngồi trên ngai của Sakka, trong chuyến viếng thăm mẹ ngài ở Tāvatiṁsa. Về sau, ngài dạy pháp ấy cho Sāriputta bên bờ hồ Anotatta, nơi Sāriputta đã đến để hầu Đức Phật trong thời gian ngài thăm Tāvatiṁsa (Vibh­a. p.1; AN­a.i.71, etc.).
+
+Truyền thuyết kể thêm rằng sau khi Giác ngộ, Đức Phật trải qua tuần thứ tư tại Ratanaghara, quán xét trong tâm các giáo lý vi tế của Adhidhamma với mọi chi tiết của chúng (Ja.i.78).
+
+Theo bản tường thuật về các kỳ Kết tập trong Cūḷa Vagga (Chaps. xi. and xii; nhưng xem DN­a.i.15 *contra*), Abhidhammapiṭaka đã không được tụng đọc tại bất cứ kỳ Kết tập nào trong hai kỳ ấy.
+
+Việc Adhidhamma không được nhắc đến trong các *Suttas*, và việc thông thường chỉ nói đến Dhamma và Vinaya, chỉ chứng tỏ rằng có một thời Adhidhamma chưa hình thành một *Piṭaka* riêng biệt. Thật ra, ngay cả các nhà chú giải cũng không xem nó là lời của Đức Phật theo cùng một nghĩa như các *Suttas*. Một phần của nó, Kathāvatthu (nhưng xem Kathāvatthu), chỉ được giảng tại kỳ Kết tập thứ ba.
+
+Theo những gì chúng ta biết, bảy sách của Abhidhamma là riêng của Theravādins, dù có bằng chứng rằng các học phái khác, chủ yếu là Vaibhāsikas (Sarvāstivādins) và Sautrāntikas, cũng tôn kính các sách Adhidhamma. Xem Tāranātha: *Geschichte des Buddhismus* (56) 156 (296).
+
+Về nội dung của Adhidhamma, chúng không tạo thành một triết học có hệ thống, mà là một cách xử lý đặc biệt đối với Pháp như được thấy trong Suttapiṭaka. Phần lớn chất liệu thuộc về tâm lý học và luận lý; các giáo lý căn bản được nhắc đến hoặc thảo luận là những điều đã được nêu trong các *Suttas* và vì thế được mặc nhiên thừa nhận. Về thảo luận nội dung, xem bài về Abhidhamma trong ERE.
+
+Ngoài các Chú giải về bảy sách, một tác phẩm chú giải về toàn bộ *Piṭaka*, gọi là Abhidhamma *Mūlaṭīkā*, được Ānanda Vanaratanatissa thuộc phái Vanavāsī ở Ceylon biên soạn.
+
+*Ṭīkā* này rõ ràng dựa trên các Chú giải của Buddhaghosa, nhưng Ānanda thỉnh thoảng bất đồng với Buddhaghosa. Tác phẩm được viết theo lời thỉnh cầu của một Trưởng lão, Buddhamitta, và được Mahā Kassapa ở Pulatthipura hiệu đính.
+
+Một *Anuṭīkā* được Cūḷa Dhammapāla biên soạn. Gv.60, 69. Xem chi tiết trong PLC., pp. 210-12. Gv.(72) cũng nhắc đến Abhidhammagaṇḍhi, có lẽ là một bảng thuật ngữ.
 
 ## Notes

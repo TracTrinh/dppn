@@ -5,7 +5,7 @@ base_headword: "Ababa Niraya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ababa Niraya. A name given not to a special purgatory but to a period of time in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ababa Niraya. Một tên gọi không chỉ một địa ngục đặc biệt, mà chỉ một khoảng thời gian trong Avīci. Một kỳ hạn Ababa bằng bốn trăm Abbuda; một Abbuda được tính là thời gian cần để lấy hết hai mươi *Khāris* của xứ Kosala (tương đương một xe chở đầy) hạt *tila*, cứ mỗi cuối thế kỷ lấy một hạt. Sn.p.126; SN.i.152; SN­a.i.170; xem thêm KS.i.190, n.1 and 2. Snp-a. (ii.477) cho một Abbuda bằng 100,000 *ninnahutas*; AN­a.ii.853.
 
 ## Notes

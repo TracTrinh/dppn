@@ -5,7 +5,7 @@ base_headword: "Ambasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Ambasutta. The four kinds of mangoes (ripe, etc.) and four corresponding classes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasutta. Bốn loại xoài (chín, v.v.) và bốn hạng tỳ-kheo tương ứng. AN.ii.106f.
 
 ## Notes

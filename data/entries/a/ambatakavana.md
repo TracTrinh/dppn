@@ -5,7 +5,7 @@ base_headword: "Ambāṭakavana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -46,6 +46,16 @@ Behind Ambaṭaka was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambāṭakavana (dị bản (*v.l.*) Ambāḷavana). Một khu vườn tại Macchikāsaṇḍa, thuộc sở hữu của gia chủ Citta (Cittagahapati). Vì kính mến Trưởng lão Mahā Nāma của vùng Macchikāsaṇḍa, Citta đã thỉnh mời vị ấy dùng bữa, và sau khi nghe thời pháp thoại của vị ấy, ông đã dâng cúng khu vườn lên Tăng đoàn. Khi lễ dâng cúng diễn ra, mặt đất đã rung chuyển. Về sau ông đã xây dựng một tu viện lộng lẫy ở đó, tức *Ambāṭakārāma*, làm nơi lưu trú cho chư tăng từ khắp các phương (AN­a.i.209; Dhp­a.ii.74). Nơi đây trở thành trú xứ của rất nhiều tỳ-kheo, và các cuộc thảo luận thường xuyên diễn ra ở đó giữa gia chủ Citta (Cittagahapati) và các tỳ-kheo trú xứ (SN.iv.281-97).
+
+Trong số những vị Trưởng lão kiệt xuất từng ghé thăm nơi này có:
+
+- Isidatta của xứ Avanti (người đã trả lời các câu hỏi của Citta liên quan đến nguyên nhân tồn tại của các quan điểm khác nhau trên thế giới) (SN.iv.283-8),
+- Mahaka (người bằng thần thông của mình đã tạo ra mưa gió và sấm sét, và sau đó đã thị hiện một phép lạ đặc biệt cho Citta) (SN.iv.288-91),
+- Kāmabhū (người đã thuyết giảng cho Citta về nhiều chủ đề khác nhau) (SN.iv.291-5), và
+- Godatta (SN.iv.295-7).
+- Trưởng lão Lakuṇṭaka Bhaddiya cũng sống ở đó trong cảnh độc cư thiền định (Thag.v.466).
+
+Phía sau Ambaṭaka là Migapathaka, vốn là ngôi làng trực thuộc của Citta (SN­a.iii.93).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āmisakiñcikkhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmisakiñcikkhasutta. Một trong các *Suttas* thuộc nhóm tám bài, bàn về những người sẽ không nói dối vì lợi lộc - và, trong trường hợp này, vì bất cứ điều gì thuộc thế gian. SN.ii.234.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "09"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aggabodhi 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 09. Aggabodhi VI. Vua của Ceylon (CE 727-66), con trai của Kassapa, anh/em trai của Mahinda I., và có một thời là người cai trị Pācīnadesa (Cv.xlviii.32). Ông trở thành vua dưới tên Silāmegha. Cv.vv.42, 60, 61, 76, 90; xem Geiger, Cv. trans. i.114, n.2.
 
 ## Notes

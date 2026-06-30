@@ -5,7 +5,7 @@ base_headword: "Āḷavakagajjita"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavakagajjita. Được nhắc đến trong một danh sách các tác phẩm mà Buddhaghosa xem là dị giáo. SN­a.ii.150; Vin-a.iv.742.
 
 ## Notes

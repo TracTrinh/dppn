@@ -5,7 +5,7 @@ base_headword: "Accutagāmī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Accutagāmī. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accutagāmī. Một trong những người đồng hành của Vijaya trong việc khai phá Ceylon. Ông lập một khu định cư tại Ujjenī 2 (Dpv.ix.32, 36). Mahā Vaṁsa (Dpv.vii.45) có nhắc đến việc lập Ujjenī 2, nhưng không nêu tên Accutagāmī.
 
 ## Notes

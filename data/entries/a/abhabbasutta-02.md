@@ -5,7 +5,7 @@ base_headword: "Abhabbasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhabbasutta 02. The ten conditions essential for *Arahant*-ship (AN.v.209).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhabbasutta 02. Mười điều kiện thiết yếu cho quả vị *Arahant* (AN.v.209).
 
 ## Notes

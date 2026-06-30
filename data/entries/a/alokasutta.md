@@ -5,7 +5,7 @@ base_headword: "Ālokasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālokasutta. Có bốn loại ánh sáng: ánh sáng của mặt trăng, mặt trời, của lửa và của trí tuệ, trong đó ánh sáng của trí tuệ là tối thượng. AN.ii.139.
 
 ## Notes

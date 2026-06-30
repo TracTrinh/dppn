@@ -5,7 +5,7 @@ base_headword: "Āḷakamandā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -34,6 +34,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷakamandā. Một thành phố của chư thiên, hùng mạnh, thịnh vượng và đầy chư thiên (DN.ii.147, 170; Mil.2). Đây là một trong những thành phố chính của Uttarakuru, và là một nơi cư trú hoàng gia của Kuvera (DN.iii.201; Cv.xxxix.5). Có lẽ đây là một tên khác của Alakā.
+
+Tên này được dùng như một ví dụ ví von để mô tả những thành phố rất giàu có (e.g., Cv.xxxvii.106; lxxxi.3; Mhv­ṭ.411; Bv­a.55).
+
+Trong Cūḷa Vagga (Vin.ii.152), từ này được dùng như một tính từ (*vihārā āḷakamandā honti*) để chỉ nghĩa đông người, và Buddhaghosa giải thích bằng câu “*āḷakamandā ti ekaṅganā manussābhikiṇṇā*.”
 
 ## Notes

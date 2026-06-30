@@ -5,7 +5,7 @@ base_headword: "Ambaṭṭhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Ambaṭṭhasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭhasutta. Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Icchānaṅkala</span> khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ambaṭṭhamāṇava</span> đến viếng Đức Phật (DN.i.87ff). Có dẫn chiếu đến Chú giải của *Sutta* này, nơi thuật ngữ *cārikā* được giải thích chi tiết (AN­a.i.407). Sutta này được xem, cùng với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Soṇadaṇḍa</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kūṭadantasutta</span>, là một trong những cuộc luận bàn chính mà Đức Phật đã có với các đối phương của Ngài (MN­a.ii.697). Tám loại *vijjā* được trình bày chi tiết trong đó. Vin-a.i.116; ii.495.
 
 ## Notes

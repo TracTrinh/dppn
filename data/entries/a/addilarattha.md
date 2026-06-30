@@ -5,7 +5,7 @@ base_headword: "Addilaraṭṭha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Addilaraṭṭha. A kingdom where once lived a poor man named <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Addilaraṭṭha. Một vương quốc nơi từng có một người nghèo tên Kotūhalaka sinh sống; trong thời hiện tại, người ấy trở thành Ghositaseṭṭhi. Vì lương thực trong xứ rất khan hiếm, Kotūhalaka và gia đình rời khỏi nơi ấy. DN­a.i.317; MN­a.i.539.
 
 ## Notes

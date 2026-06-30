@@ -5,7 +5,7 @@ base_headword: "Ādittajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -43,6 +43,12 @@ This is evidently the story referred to as the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittajātaka (Ja 424). Một lần, Bodhisatta sinh làm Bharata, vua của Roruva, trong xứ Sovīra. Ông rất chính trực và được yêu mến nhiều, còn chánh hậu của ông, Samuddavijayā, thì hiền trí và đầy hiểu biết.
+
+Nhà vua muốn bố thí cho các Pacceka Buddhas thay vì cho những người khác kém thánh thiện hơn nhiều, nên hỏi ý kiến hoàng hậu; làm theo lời khuyên của bà, ông ra tuyên cáo cho dân chúng rằng họ nên giữ các giới. Chính ông giữ tất cả các ngày thánh và bố thí lớn lao. Một ngày nọ, ông dâng hoa về phương đông và, sau khi đảnh lễ, ước nguyện rằng bất cứ Pacceka Buddha nào ở phương ấy cũng có thể đến nhận vật bố thí của ông. Ước nguyện không thành, trong những ngày kế tiếp ông lặp lại nghi thức ấy đối với các phương khác, cho đến ngày thứ tư, bảy Pacceka Buddhas từ phương bắc, nơi các vị sống tại Nandamūlapabbhāra, đến với ông. Nhà vua và hoàng hậu cúng dường thức ăn cho các vị trong bảy ngày và dâng y cùng mọi vật dụng khác của một vị tu khổ hạnh. Các Pacceka Buddhas lần lượt ra đi, mỗi vị bày tỏ lời cảm tạ bằng một bài kệ và khuyến khích nhà vua cùng hoàng hậu sống đời thanh tịnh.
+
+Câu chuyện được kể liên quan đến Asadisadāna của Pasenadi, để cho thấy rằng những bậc hiền trí thuở xưa cũng bố thí cho các bậc thánh, với sự suy xét (Ja.iii.469-74).
+
+Đây rõ ràng là câu chuyện được nhắc đến với tên Sucirajātaka trong phần dẫn nhập của Dasabrāhmaṇajātaka (Ja 495, Ja.iv.360), và lại được gọi là Sovīrajātaka trong câu chuyện dẫn nhập của Sivijātaka (Ja 499, Ja.iv.401).
 
 ## Notes

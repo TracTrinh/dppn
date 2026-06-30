@@ -5,7 +5,7 @@ base_headword: "Abhisandasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhisandasutta 04. The eight yields of merit that a monk can obtain by practisin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisandasutta 04. Tám dòng phước mà một vị tỳ-kheo có thể đạt được bằng cách tu tập các phẩm chất khác nhau. AN.iv.245f.
 
 ## Notes

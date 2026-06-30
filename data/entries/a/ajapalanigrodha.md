@@ -5,7 +5,7 @@ base_headword: "Ajapālanigrodha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -51,6 +51,16 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajapālanigrodha. Một cây đa nổi tiếng trong văn học Phật giáo. Nó ở Uruvelā, bên bờ Nerañjarā, gần cây Bodhi; một tuần sau khi Giác ngộ, Đức Phật đến đó và ngồi kiết già suốt một tuần dưới gốc cây. Tại đó Ngài gặp Bà-la-môn Huhuṅkajātika (Vin.i.2-3). Hai tuần sau, Ngài lại đi từ Rājāyatana đến đó (Vin.i.4). Chính khi ấy, Brahma Sahampati hiện ra với Ngài và thuyết phục Ngài giảng Pháp, bất chấp sự khó khăn của việc ấy (Vin.i.5-7; theo Buddhaghosa, là vào tuần thứ tám sau khi Giác ngộ, SN­a.i.152). Majjhima Commentary nói rằng việc này xảy ra ngay sau bữa ăn do Tapassu và Bhalluka dâng cúng (i.385; Ja.i.81). Khi Đức Phật muốn có một người làm thầy của mình, Sahampati lại hiện ra và đề nghị với Ngài rằng hãy xem Pháp là thầy của mình (AN.ii.20f.; SN.i.138f).
+
+Cũng tại Ajapālanigrodha, ngay sau khi Giác ngộ, Māra đã cố thuyết phục Đức Phật nhập diệt ngay lập tức (DN.ii.112). Nhiều cuộc đối thoại khác diễn ra tại đây với Māra được ghi lại trong Saṁyutta (SN.i.103f).
+
+Cũng tại đây, Đức Phật đã trải qua một thời gian trước khi Giác ngộ (DN.ii.267), và chính tại đây Sujāta dâng cho Ngài một bữa cơm sữa (Ja.i.16, 69).
+
+Tại đây, vào tuần thứ năm sau khi Giác ngộ, các con gái của Māra đã cố cám dỗ Đức Phật (Ja.i.78, 469).
+
+Nhiều cách giải thích từ nguyên được đề xuất cho tên này: (a) trong bóng cây ấy, những người chăn dê (*ajapālā*) nghỉ ngơi; (b) các Bà-la-môn già, không còn khả năng tụng đọc Vedas, sống tại đây trong những nơi cư trú được tường và thành lũy bảo vệ (cách dẫn xuất này như sau: *na japantī ti = ajapā, mantānaṁ anajjhāyakā = ajapā, ālenti arīyan-ti nivāsam etthā ti = Ajapālo ti*); (c) nó che chở cho những con dê tìm bóng mát của nó vào giữa trưa (Ud­a.51). Các Phật tử phương Bắc nói rằng cây này được một cậu bé chăn cừu trồng trong sáu năm khổ hạnh của Bodhisatta để che chở cho ngài (Beal, *Romantic Legend of Buddha*,192, 238; Mhv.iii.302).
+
+Brahmasutta (SN.v.167) và Maggasutta (SN.v.185), cả hai đều nói về bốn *satipaṭṭhāna*, cùng một Brahmasutta khác (SN.v.232f) nói về năm *indriyāni*, liên quan đến những ý nghĩ khởi lên nơi Đức Phật trong nhiều dịp khác nhau dưới gốc cây này, khi Ngài ngồi tại đó không lâu sau khi Giác ngộ. Trong tất cả các dịp ấy, Brahma Sahampati hiện ra với Ngài và xác nhận những suy nghĩ của Ngài. Nhiều Bà-la-môn già, tuổi đã cao, đến thăm Đức Phật trong thời kỳ này và hỏi Ngài có đúng là Ngài không kính trọng tuổi tác hay không. Ngài thuyết cho họ bốn *Therakaraṇā Dhamma*. AN.ii.22.
 
 ## Notes

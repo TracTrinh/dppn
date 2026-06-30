@@ -5,7 +5,7 @@ base_headword: "Ājaññasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājaññasutta 01. Giống như một con ngựa thuần chủng của nhà vua có đủ vẻ đẹp, sức mạnh, tốc độ và tỷ lệ cân đối, một vị sư xứng đáng nhận vật cúng dường cũng nên có vẻ đẹp (của đời sống), sức mạnh (của phẩm cách), tốc độ (của tuệ giác) và tỷ lệ cân đối (của các vật dụng cần thiết). AN.ii.250-1.
 
 ## Notes

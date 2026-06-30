@@ -5,7 +5,7 @@ base_headword: "Aggavaṁsa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggavaṁsa. Trưởng lão của Pagan. Ông viết một ngữ pháp Pāli, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saddanīti</span>, vào năm 1154 (Gv.63; SvD.v.1238; Sās.74). Ông là thầy dạy của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Narapatisithu</span> của Pagan (Bode, 16).
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gandhavaṁsa</span> gọi ông là người gốc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Jambudīpa</span> (p.67), nhưng tên ông xuất hiện trong số các cư dân nổi tiếng tại tu viện ẩn cư trên cao nguyên phía bắc phía trên Pagan, cái nôi của văn học Pāli Miến Điện. Forchhammer *Report*, p.2; *Jardine Prize Essay*, p.34.
 
 ## Notes

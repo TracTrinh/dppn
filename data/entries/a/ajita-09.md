@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "09"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Ajita 09. A Brahmin, a previous birth of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 09. Một Bà-la-môn, một đời trước của Citapūjaka Thera*;* ông đã dâng hoa cho Sikhī Buddha. Ap.i.243.
 
 ## Notes

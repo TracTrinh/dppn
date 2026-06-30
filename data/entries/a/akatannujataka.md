@@ -5,7 +5,7 @@ base_headword: "Akataññujātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akataññujātaka (Ja 90). A merchant is befriended by a colleague in another co
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akataññujātaka (Ja 90). Một thương nhân được một đồng nghiệp ở quốc gia khác giúp đỡ nhưng lại từ chối đáp lễ. Gia nhân của người đồng nghiệp kia sau đó đã trả thù. Câu chuyện được kể cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anāthapiṇḍika</span> nghe, người cũng trải qua sự vô ơn tương tự từ một thương nhân đồng nghiệp. Ja.i.377-9.
 
 ## Notes

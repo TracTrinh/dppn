@@ -5,7 +5,7 @@ base_headword: "Ambasakkharapetavatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambasakkharapetavatthu. The story of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasakkharapetavatthu. Câu chuyện về Ambasakkhara và ngạ quỷ (*Peta*), như được kể dưới mục Ambasakkhara. Trưởng lão Kappiṭaka đã kể lại câu chuyện này cho Đức Phật, và Đức Phật đã nhân cơ hội đó để thuyết giảng một thời pháp thoại cho đại chúng tụ họp. Pv-a.243-4.
 
 ## Notes

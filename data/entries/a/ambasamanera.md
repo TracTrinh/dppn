@@ -5,7 +5,7 @@ base_headword: "Ambasāmaṇera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambasāmaṇera. Name of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasāmaṇera. Tên gọi của Silākāla. Khi còn là một sa-di trong Tăng đoàn tại Bodhimaṇḍa *Vihāra*, vị này đã nhiệt thành và khéo léo hoàn thành các bổn phận của mình đối với hội chúng. Có một lần, vị này dâng cúng một quả xoài lên Tăng đoàn, chư tăng hoan hỷ nên đã đặt cho vị này tên gọi đó. Cv.xxxix.48ff.
 
 ## Notes

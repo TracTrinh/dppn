@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "15"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Abhaya 15. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 15. Được gọi là Ābhidhammika Abhaya. Một vị tăng của Vālikapiṭṭhi *Vihāra* (*q.v.*). Về những người khác tên Abhaya, xem dưới các mục tên riêng của họ, ví dụ Mahā Gatimba, Dīghabhāṇaka, Meghavaṇṇa, v.v.
 
 ## Notes

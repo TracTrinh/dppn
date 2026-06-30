@@ -5,7 +5,7 @@ base_headword: "Ambilajanapada"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ambilajanapada. A district in Ceylon. In it was the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambilajanapada. Một vùng ở Ceylon. Trong vùng này có <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rajatalena</span>. Mhv­ṭ.400.
 
 ## Notes

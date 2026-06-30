@@ -5,7 +5,7 @@ base_headword: "Amara"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Amara 02. A city in the time of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amara 02. Một thành phố vào thời Đức Phật Siddhattha (Siddhattha Buddha). Khi Đức Phật ở đó, Ngài đã đi đến khu ngự uyển (*Amaruyyāna*) của thành phố, để lại các dấu chân biểu thị đường đi của mình. Hai anh em Sambahula và Sumitta, những người đứng đầu thành phố này, khi nhìn thấy các dấu chân, đã tự mình đến khu ngự uyển, và sau khi lắng nghe Đức Phật thuyết pháp, họ đã đắc quả vị *Arahant* (Bv­a.186).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ambahattha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambahattha (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambahattha (*v.l.* Ajjuhattha, Abbhahattha). Một ngọn đồi ở Sunāparanta, nơi Trưởng lão Puṇṇa ở lại một thời gian sau khi đến xứ ấy. Em trai của ngài sống gần đó trong làng thương nhân và cúng dường vật thực cho ngài. MN­a.ii.1015; SN­a.iii.15)
 
 ## Notes

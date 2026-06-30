@@ -5,7 +5,7 @@ base_headword: "Amadha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amadha aka <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amadha, cũng gọi là Damatha. Một vị vua vào một trăm mười lăm *kappa* trước, tiền kiếp của Bodhiupatthāyaka (Ap.i.194).
 
 ## Notes

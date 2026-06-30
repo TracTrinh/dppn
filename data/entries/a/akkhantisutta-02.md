@@ -5,7 +5,7 @@ base_headword: "Akkhantisutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Akkhantisutta 02. The same as above with slight variations in detail. AN.iii.255
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkhantisutta 02. Giống như trên với một vài khác biệt nhỏ ở chi tiết. AN.iii.255.
 
 ## Notes

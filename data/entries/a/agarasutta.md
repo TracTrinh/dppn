@@ -5,7 +5,7 @@ base_headword: "Āgārasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āgārasutta. Như một nhà khách để trú ngụ, nơi người từ mọi phương đến, gồm quý tộc và Bà-la-môn, thường dân và nô bộc, cũng vậy, trong thân, các cảm thọ khác nhau phát sinh: lạc, khổ và trung tính, thuộc xác thịt (*sāmisa*) và không thuộc xác thịt. SN.iv.219.
 
 ## Notes

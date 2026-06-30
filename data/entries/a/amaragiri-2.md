@@ -5,7 +5,7 @@ base_headword: "Amaragiri"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,8 @@ Bv.xv.15.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaragiri. Một trong ba cung điện mà Atthadassī Buddha cư ngụ trong đời sống tại gia của ngài.
+
+Bv.xv.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhidhammavibhānavā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,8 @@ It is the most famous of the exegetical works on the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammavibhānavā. Một *ṭīkā* về Abhidhammatthasaṅgaha của Sumaṅgala, đệ tử của Sāriputta (Nava Vimalabuddhi) (Gv.p. 62; Svd.1227).
+
+Đây là tác phẩm nổi tiếng nhất trong các tác phẩm chú giải về Abhidhammatthasaṅgaha. *Compendium of Philosophy*, Preface ix.
 
 ## Notes

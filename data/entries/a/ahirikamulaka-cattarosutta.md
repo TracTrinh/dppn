@@ -5,7 +5,7 @@ base_headword: "Ahirikamūlakā Cattārosutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Ahirikamūlakā Cattārosutta. Four *Suttas* based on the fact that like coalesc
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahirikamūlakā Cattārosutta. Bốn *Suttas* dựa trên sự thật rằng đồng loại kết hợp với đồng loại: người không biết hổ thẹn với người không biết hổ thẹn, v.v. SN.ii.162f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "08"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggabodhi 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 08. Aggabodhi V. Vua của Ceylon (CE 711-17), có lẽ là con trai trưởng của Māṇavamma. Cv.xlviii.1 và lvii.25; xem Geiger, Cv. trans. i.108 n. và 195, n.2.
 
 ## Notes

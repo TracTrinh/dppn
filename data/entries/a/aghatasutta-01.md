@@ -5,7 +5,7 @@ base_headword: "Āghātasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āghātasutta 01. Về chín điều làm phát sinh oán hận. AN.iv.408..
 
 ## Notes

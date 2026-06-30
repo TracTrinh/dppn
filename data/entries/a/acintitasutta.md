@@ -5,7 +5,7 @@ base_headword: "Acintitasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Acintitasutta. The four unthinkables: the Buddhas, their musings, world-speculat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acintitasutta. Bốn điều không thể nghĩ bàn: chư Phật, sự tư lự của các Ngài, suy luận về thế giới và điểm của nghiệp. AN.ii.80.
 
 ## Notes

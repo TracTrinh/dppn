@@ -5,7 +5,7 @@ base_headword: "Ajapāla"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajapāla. Son of the chaplain of King <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajapāla. Con trai của vị giáo sĩ tế lễ của vua Esukārī. Ông xuất gia cùng ba người anh. Trong thời hiện tại, ông là Anuruddha (Ja.iv.476ff).
 
 ## Notes

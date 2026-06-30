@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aggabodhi 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 01. Con trai của Bhayasīva, thuộc dòng Moriya. Ông trở thành phó vương của Mahā Nāga. Cv.xli.70, 93.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Alasaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Alasaka. The name of a disease, of which <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alasaka. Tên của một chứng bệnh mà Korakhattiya đã chết vì nó (DN.iii.7). Rhys Davids dịch là “động kinh” và gợi ý rằng tên của nó là dạng phủ định của *lasikā*, chất hoạt dịch. Dial.iii.12, n.2.
 
 ## Notes

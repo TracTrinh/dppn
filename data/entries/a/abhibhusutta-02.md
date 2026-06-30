@@ -5,7 +5,7 @@ base_headword: "Abhibhūsutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhibhūsutta 02. On the eight stages or stations of mastery over the senses (*a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhibhūsutta 02. Về tám giai đoạn hay trú xứ của sự làm chủ các giác quan (*abhibhāyaphanāni*) (AN.iv.305f).
 
 ## Notes

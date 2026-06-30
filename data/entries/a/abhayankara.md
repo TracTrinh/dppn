@@ -5,7 +5,7 @@ base_headword: "Abhayaṅkara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abhayaṅkara. One of the royal elephants of King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayaṅkara. Một trong các voi ngự của vua Vasavatti xứ Benares. Ja.vi.135.
 
 ## Notes

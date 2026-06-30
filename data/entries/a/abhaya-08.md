@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "08"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abhaya 08. Eldest son of King <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 08. Con trai trưởng của vua Muṭasīva xứ Ceylon. Ông từ bỏ quyền kế vị để nhường cho em trai mình, Tissa, người về sau được biết đến là Devānampiyatissa (Mhv­ṭ.302).
 
 ## Notes

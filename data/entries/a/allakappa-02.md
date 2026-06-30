@@ -5,7 +5,7 @@ base_headword: "Allakappa"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -34,6 +34,10 @@ Some time later, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Allakappa 02. Vua xứ Allakappa và là bạn của Vua Veṭhadīpaka. Cả hai đều từ bỏ vương quốc của mình và trở thành các đạo sĩ ẩn tu ở vùng núi Himālaya. Ban đầu, họ sống chung trong một thảo am, nhưng sau đó đã tách ra sống riêng, chỉ gặp nhau mỗi hai tuần một lần vào các ngày Uposatha (ngày trai giới).
+
+Veṭhadīpaka qua đời và tái sinh làm một vị vua chư thiên (Devas) đầy quyền năng. Không lâu sau đó, khi xuống viếng thăm Allakappa, ngài biết được rằng việc tu tập của vị đạo sĩ Allakappa đang bị quấy nhiễu bởi đàn voi rừng. Veṭhadīpaka đã tặng cho ông một cây đàn tỳ-bà để thuần hóa đàn voi, cùng với những câu thần chú để ông có thể gây ảnh hưởng lên chúng. Cây đàn có ba dây; khi gảy dây thứ nhất, đàn voi lập tức bỏ chạy; gảy dây thứ hai, chúng bỏ chạy nhưng cứ mỗi bước lại ngoảnh đầu nhìn lại; nhưng khi gảy dây thứ ba, con voi đầu đàn sẽ tiến lại gần và cúi lưng để người chơi đàn cưỡi lên.
+
+Một thời gian sau, Allakappa gặp Vương hậu của Parantapa, Vua xứ Kosambi, cùng với con trai của bà là Udena, đứa trẻ được sinh ra trong rừng sau khi vương hậu bị một con chim săn mồi lớn mang đến đó. Allakappa đưa họ về thảo am chăm sóc mà không hề biết về thân thế cao quý của họ. Sau đó, ông sống chung với vương hậu như vợ chồng. Một ngày nọ, qua sự lu mờ của ngôi sao mệnh hoàng đế Parantapa, ông nhận biết rằng nhà vua đã băng hà; ông nói điều này với vương hậu, bà sau đó đã thú nhận thân phận thực sự của mình cùng đứa con Udena, người thừa kế ngai vàng hợp pháp. Allakappa trao cho Udena cây đàn thần cùng các câu thần chú để nhờ sức mạnh của chúng, thái tử có thể giành lại vương vị của mình. Xem Udena.
 
 ## Notes

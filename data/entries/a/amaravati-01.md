@@ -5,7 +5,7 @@ base_headword: "Amaravatī"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Amaravatī 01. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaravatī 01. Cũng gọi là Amara. Một thành phố vào thời Dīpaṅkara Buddha. Sumedha sinh ra tại đó trong một gia đình rất giàu có và xuất gia sau khi đã bố thí tài sản của mình (Bv.ii.5; Ja.i.6; Dhp­a.i.83, etc.). Theo Mahā Bodhivaṁsa (p.2), thành phố được gọi như vậy vì nơi ấy có những người sống như chư thiên.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Amatasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Amatasutta 02. Dwell with mind well established in the four *Satipaṭṭhānā*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amatasutta 02. Hãy sống với tâm được an lập vững chắc trong bốn *Satipaṭṭhānā*, nhưng đừng xem điều ấy là Bất tử đối với mình, tức là đừng lẫn lộn phương tiện với cứu cánh. SN.v.184; cũng xem KS.v.161, n.1.
 
 ## Notes

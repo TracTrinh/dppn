@@ -5,7 +5,7 @@ base_headword: "Aciravatī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -61,6 +61,22 @@ Two occasions are mentioned on which monks hit geese flying over the river in th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aciravatī. Một con sông, tức Rāpti hiện nay ở Oudh; một trong Pañca Mahā Nadī (Vin.ii.237), năm con sông lớn chảy từ Himālaya về phía đông (*pācīnaninnā*) (SN.v.39, etc.) ra biển. Vào mùa nóng, sông cạn khô, để lại một lòng cát (AN.iv.101). Sông chảy qua Kosala, và tại Sāvatthī, một khu rừng *udumbara* mọc bên bờ sông; từ sân thượng cung điện của Pasenadi có thể nhìn thấy khu rừng ấy (Vin.iv.111-12; Snp-a.i.19). Phía nam sông là Manasākaṭa, và trên bờ nam sông có một vườn xoài nơi Đức Phật thỉnh thoảng cư trú (DN.i.235-6). Tevijjasutta được thuyết tại đây, và Aciravatī được dùng trong một ví dụ để chứng minh sự vô ích của tế lễ và cầu nguyện: đứng ở một bờ sông mà gọi bờ bên kia đi qua thì chẳng ích gì.
+
+Trong sông có nhiều chỗ tắm, tại một số nơi kỹ nữ tắm lõa thể; các Tỳ-kheo-ni cũng làm như vậy cho đến khi một điều luật được ban hành để cấm việc ấy (Vin.i.293; iv.278). Tuy nhiên, các Tỳ-kheo-ni *Chabbaggiya* vẫn tiếp tục làm như vậy ngay cả sau đó (Vin.iv.259f).
+
+Người ta qua sông bằng bè (Vin.iii.63); đôi khi sông dâng đầy nước đến mức (DN.i.244-5; MN.iii.117; Ja.iv.167) xảy ra những trận lụt tai hại, trong một trận như vậy Viḍūḍabha và quân đội của ông bị cuốn ra biển (Dhp­a.i.360).
+
+Ở những nơi kín gió, các vị sư và Bà-la-môn thường tắm (Vin.iv.161), và một lần chính Sāriputta cũng tắm ở đó (AN­a.i.315). Các vị sư Sattarasavaggiya thường lui tới con sông để vui chơi dưới nước (Vin.iv.111-12).
+
+Một lần Đức Phật được báo rằng các vị sư Chavaggiya có thói quen bắt những con bò băng qua sông (Vin.i.191).
+
+Trưởng lão Sīvali dừng lại bên bờ Aciravatī khi đang trên đường đến Himālaya cùng năm trăm vị sư (AN­a.i.139). Vào thời Kassapa Buddha, con sông chảy quanh Sāvatthī và, tại pháo đài phía đông, đổ vào một hồ rộng và sâu, nơi các chỗ tắm riêng được làm lần lượt cho vua, dân chúng, Đức Phật và Saṅgha (MN­a.i.371).
+
+Người dân hai bên bờ có thói quen thả lưới bắt cá (Ud­a.366). Gần sông là Daṇḍakappa, một làng Kosalan, và trong khi ở đó Ānanda tắm trong sông cùng nhiều vị sư khác (AN.iii.402).
+
+Có nhắc đến hai dịp các vị sư bắn trúng mắt những con ngỗng bay qua sông (Ja.i.418 and ii.366. See also Dhp­a.iv.5 and 8f). Chính tại đây đứa con của Paṭācārā bị chết đuối (Dhp­a.ii.264).
+
+Kapila sinh ở đây làm một con cá vàng do hậu quả các ác nghiệp của mình (Dhp­a.iv.41; see also Kapila S ?). Trong *Avadānaśataka* (Dhp­a.i.63; also ii.60), tên này được ghi là Ajiravatī, và theo I Tsing (p.156), nó có nghĩa là con sông của *Aji* (rồng).
 
 ## Notes

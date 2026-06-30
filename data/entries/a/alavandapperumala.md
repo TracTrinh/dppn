@@ -5,7 +5,7 @@ base_headword: "Āḷavandapperumāla"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavandapperumāla. Một tướng Damiḷa bị Parakkamabāhu I đánh bại, (Cv.lxxvi.128). Ông thuộc đoàn tùy tùng thân cận của vua Kulasekhara. Trong trận Pātapa, ông bị thương và bỏ chạy, nhưng kẻ thù của ông đã giết được con ngựa mà ông cưỡi (Cv.lxxvi.223, 232). Có lẽ ông được đồng nhất với Āḷavanda, người bị Parakkamabāhu giết tại làng Vaḍali (Cv.lxxvi.134).
 
 ## Notes

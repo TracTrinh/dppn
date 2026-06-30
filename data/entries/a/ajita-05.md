@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ He is evidently to be identified with <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 05. Ajita Thera. Ngài thuộc một gia đình Bà-la-môn nghèo ở Sāvatthī, và được gọi như vậy vì khi sinh ra ngài được bọc trong một tấm da linh dương. Ngài chứng kiến việc dâng cúng Jetavana và, cảm phục oai nghi của Đức Phật, gia nhập Saṅgha rồi về sau trở thành một *Arahant*. Nhưng vì những nghiệp xấu trong quá khứ, ngài vẫn không được tôn kính và không được biết đến, và vì lý do này bị các sa-di thế tục khinh thường (Thag.129-30; Thag­a.i.250f).
+
+Rõ ràng ngài nên được đồng nhất với Ghatamaṇḍadāyaka Thera trong Apadāna (ii.436). Trong một đời trước, ngài đã dâng bơ làm thuốc cho Pacceka Buddha Sucintita.
 
 ## Notes

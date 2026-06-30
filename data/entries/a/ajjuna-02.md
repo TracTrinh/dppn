@@ -5,7 +5,7 @@ base_headword: "Ajjuna"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Ajjuna 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuna 02. Một Pacceka Buddha, sống cách đây chín mươi mốt *kappas*. Panasaphaladāyaka Thera (*q.v.*) đã dâng ngài một quả mít chín. Ap.i.297.
 
 ## Notes

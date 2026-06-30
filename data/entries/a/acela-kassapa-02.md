@@ -5,7 +5,7 @@ base_headword: "Acela Kassapa"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Acela Kassapa 02. An old family friend of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acela Kassapa 02. Một người bạn lâu năm của gia đình Cittagapahati. Sau ba mươi năm làm một *paribbājaka*, ông thừa nhận với Citta rằng nhờ vậy ông không đạt được sự thù thắng đặc biệt nào về tri thức. Citta kể cho ông nghe về những chứng đạt của chính mình, và Kassapa bày tỏ mong muốn gia nhập Saṅgha. Ông được xuất gia đúng phép, và không lâu sau trở thành một *Arahant*. SN.iv.300ff.
 
 ## Notes

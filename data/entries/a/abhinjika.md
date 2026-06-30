@@ -5,7 +5,7 @@ base_headword: "Abhiñjika"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,8 @@ The Buddha sends for them and admonishes them. Having heard his discourse, they 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiñjika *v.l.* Abhijika, Ābhiñjika. Một Thera. Một vị đồng trú với Anuruddha. Một dịp nọ, khi Đức Phật bảo Mahā Kassapa thuyết pháp cho các Tỳ-kheo, vị sau trình rằng không thể nói với họ, vì các Tỳ-kheo như Bhaṇḍa, đồng sự của Ānanda, và Abhiñjika đang tham gia vào cuộc khẩu chiến dài lời.
+
+Đức Phật sai gọi họ đến và khiển trách họ. Sau khi nghe bài thuyết pháp của ngài, họ bày tỏ sự hối tiếc về hành vi của mình và hứa sẽ tu tập tự chế trong tương lai. SN.ii.204-5.
 
 ## Notes

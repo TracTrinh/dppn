@@ -5,7 +5,7 @@ base_headword: "Ambasakkhara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -38,6 +38,14 @@ The impaled thief was set free and was cured by the royal physician; he later at
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasakkhara. Một trong những thủ lĩnh Licchavī của thành Vesālī vào thời Đức Phật Gotama. Ông là người theo thuyết hư vô.
+
+Một lần nọ, khi đi qua thành phố, ông nhìn thấy một người phụ nữ xinh đẹp. Để chiếm đoạt nàng, ông đã cưỡng bách chồng nàng phục dịch cho mình, và một ngày nọ ra lệnh cho anh ta phải mang bùn và hoa sen từ một đầm ao cách xa ba do-tuần về, nếu không trở về vào ngay tối hôm đó thì sẽ phải chịu tội chết. Trong khi đó, Ambasakkhara ra lệnh cho lính canh đóng cổng thành sớm hơn thường lệ. Chồng của người phụ nữ trở lại thành phố trước khi trời tối, nhưng thấy cổng thành đã đóng, anh đã xin một tên trộm đang bị đóng cọc hành hình ngay bên ngoài làm chứng rằng anh đã về đến nơi trước khi mặt trời lặn.
+
+Người chú của tên trộm từng là một thương gia mộ đạo ở Vesālī, nhưng đã bị chém đầu vì bị cáo buộc có liên quan đến vụ trộm của người cháu. Ông đã tái sinh làm một ngạ quỷ (*Peta*), và nhờ những việc lành đã làm nên ông sở hữu nhiều thần lực khác nhau. Tuy nhiên, vì trước đây từng đùa nghịch giấu quần áo của một người bạn đang tắm dưới sông, nên ông bị sinh ra trong tình trạng trần truồng. Mỗi đêm ông đều đến thăm cháu mình và động viên anh ta tiếp tục sống, bất chấp việc đang bị đóng cọc hành hình, bởi vì vị ngạ quỷ (*Peta*) biết rằng sự khổ đau nơi địa ngục đang chờ đợi tên trộm sau khi chết.
+
+Khi người đàn ông mang sen xin tên trộm giúp đỡ để chứng minh sự vô tội của mình, anh được khuyên nên đợi ngạ quỷ (*Peta*) đến vào đêm đó và xin lời khuyên từ vị ấy. Người đàn ông làm theo, và ngày hôm sau, khi bị triệu tập trước Ambasakkhara, anh đã dẫn vị ngạ quỷ (*Peta*) làm chứng để tự bào chữa. Ambasakkhara đồng ý kiểm chứng sự thật của câu chuyện, và trong đêm ông đã nhìn thấy ngạ quỷ (*Peta*) và biết được toàn bộ sự việc. Vô cùng kinh ngạc, ông đề nghị giúp ngạ quỷ (*Peta*) thoát khỏi tình trạng trần truồng. Ông được yêu cầu đi tìm vị Trưởng lão Kappiṭaka thánh thiện đang sống ở Kapinaccanā thuộc xứ Vajjī và dâng cúng y áo lên vị này nhân danh ngạ quỷ (*Peta*). Việc cúng dường được thực hiện, và vị ngạ quỷ (*Peta*) lập tức xuất hiện trước mặt họ, khoác trên mình những y áo cõi trời. Từ thời điểm đó, Ambasakkhara quy hướng Chánh pháp, và sau khi nghe một thời pháp thoại của Trưởng lão Kappiṭaka, ông đã chứng đắc quả vị Sotāpanna (Dự lưu).
+
+Tên trộm bị đóng cọc được phóng thích và được ngự y chữa trị; về sau anh ta đã chứng đắc quả vị *Arahant*. Pv.45-57; Pv-a.215-44.
 
 ## Notes

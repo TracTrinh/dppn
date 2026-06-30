@@ -5,7 +5,7 @@ base_headword: "Amata"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amata. The Lake of Immortality, in searching for which <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amata. Hồ Bất tử, trong khi tìm kiếm hồ ấy Bhaddasāla đã gặp Buddha Nārada. Bv­a.154.
 
 ## Notes

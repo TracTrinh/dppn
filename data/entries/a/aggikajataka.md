@@ -5,7 +5,7 @@ base_headword: "Aggikajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggikajātaka (Ja 129). The story of a jackal, who, when his hair is singed by a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggikajātaka (Ja 129). Câu chuyện về một con chó rừng, khi lông bị cháy xém bởi lửa rừng, giả làm một vị thánh tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhāradvāja</span> và ăn những con chuột tin tưởng nó. Ja.i.461f.
 
 ## Notes

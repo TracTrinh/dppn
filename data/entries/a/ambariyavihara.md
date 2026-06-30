@@ -5,7 +5,7 @@ base_headword: "Ambariyavihara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambariyavihara. A monastery in Ceylon, the residence of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambariyavihara. Một tu viện ở Ceylon, nơi lưu trú của Piṅgala Buddharakkhita Thera. Tu viện này nằm gần núi (*pabbata*) Antaravaḍḍhamāna (SN­a.ii.113; MN­a.i.165; Dhs­a.103). Đây cũng là nơi lưu trú của Piṇḍapātikatissa Thera. AN­a.i.277.
 
 ## Notes

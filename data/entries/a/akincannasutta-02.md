@@ -5,7 +5,7 @@ base_headword: "Ākiñcaññasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākiñcaññasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> kể cho các vị tỳ-kheo nghe về cách ngài đã nhập vào và an trú trong Vô sở hữu xứ. SN.iv.267.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abbhutadhammasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abbhutadhammasutta. Three *Suttas* on the marvel that when a <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhutadhammasutta. Ba *Suttas* về điều kỳ diệu rằng khi một Tathāgata thuyết giảng Pháp, người ta từ bỏ các khuynh hướng thường có của mình và lắng nghe Pháp ấy. (AN.ii.131f.).
 
 ## Notes

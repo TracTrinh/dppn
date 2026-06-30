@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "11"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhaya 11. Author of the *mahāṭīkā* on <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 11. Tác giả của *mahāṭīkā* về Saddatthabhedacintā (Gv.63). Ông là người gốc Pagan, và cũng được ghi nhận là tác giả của Sambhandhacintāṭīkā. Bode, 22, and n.8.
 
 ## Notes

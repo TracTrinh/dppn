@@ -5,7 +5,7 @@ base_headword: "Abhayanāga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Abhayanāga. Younger brother of King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayanāga. Em trai của vua Vohārikatissa. Với sự giúp đỡ của người chú Subhadeva, ông âm mưu chống lại nhà vua và, sau khi nhận được sự trợ giúp của người Damiḷa, ông lật đổ và giết vua. Abhayanāga trị vì tám năm (CE 291-9). Mhv.xxvi.42-53.
 
 ## Notes

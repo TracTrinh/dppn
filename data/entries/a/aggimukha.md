@@ -5,7 +5,7 @@ base_headword: "Aggimukha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aggimukha. A species of snake; bodies bitten by them grow hot. Dhs­a.300; Vsm.3
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggimukha. Một loài rắn; thân thể bị chúng cắn sẽ trở nên nóng bỏng. Dhs­a.300; Vsm.368.
 
 ## Notes

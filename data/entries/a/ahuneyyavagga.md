@@ -5,7 +5,7 @@ base_headword: "Āhuneyyavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhuneyyavagga. Chương đầu của *Chakkanipāta* thuộc Aṅguttaranikāya. Chương này gồm mười *Suttas*. AN.iii.279-88.
 
 ## Notes

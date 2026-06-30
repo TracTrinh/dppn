@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajita 04. General of the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 04. Tướng quân của Licchavīs và là người theo Đức Phật. Ngay sau khi chết, ông được sinh lên Tāvatiṁsa; ông đến thăm Đức Phật để bác bỏ một lời tuyên bố về mình do đạo sĩ lõa thể Pāṭikaputta đưa ra, rằng ông đã sinh vào *Mahā Niraya* do đã theo giáo pháp của Đức Phật. DN.iii.15-16; DN­a.iii.825.
 
 ## Notes

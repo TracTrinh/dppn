@@ -5,7 +5,7 @@ base_headword: "Aggivessa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggivessa. One of the guards of King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggivessa. Một trong những người canh gác của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Eḷeyya</span> (AN.ii.181). Đây có phải là một tên *gotta* không? (Xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggivessana</span>.)
 
 ## Notes

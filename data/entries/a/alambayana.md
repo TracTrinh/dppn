@@ -5,7 +5,7 @@ base_headword: "Ālambāyana"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -45,6 +45,14 @@ The name <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālambāyana (Ālambāna, Ālamba). Ban đầu là tên của một chú thuật được một vua Garuḍa dạy cho một ẩn sĩ, sau khi vị vua ấy vô ý nhổ bật gốc một cây đa mọc ở cuối lối đi kinh hành của vị ẩn sĩ. Vị ẩn sĩ dạy chú thuật ấy cho một Bà-la-môn nghèo ở Benares, người đã vào rừng để trốn các chủ nợ và đã phục vụ vị ẩn sĩ.
+
+Vị Bà-la-môn được biết đến với tên Ālambāyana sau khi học được chú thuật. Học xong, ông rời rừng và đang đi dọc bờ Yamunā thì gặp một đoàn Nāgas, sau khi vui chơi, đang ngồi quanh viên ngọc Nāga ban mọi điều ước. Các Nāgas nghe người ấy đọc chú thuật, kinh hãi bỏ chạy vì tin rằng ông là Garuḍa, và ông chiếm lấy viên ngọc của họ. Không lâu sau, Ālambāyana gặp một Bà-la-môn ngoại cấp cùng con trai là Somadatta, và khi họ đồng ý chỉ cho ông vua Nāga, Bhūridatta, ông trao viên ngọc cho họ.
+
+Nhờ chú thuật của mình, Ālambāyana thuần phục Bhūridatta và đi khắp nơi biểu diễn tài năng của Nāga. Cuối cùng Bhūridatta được anh trai Sudassana và em gái Accimukhī cứu thoát. Trong cuộc tranh tài giữa Ālambāyana và Sudassana, Accimukhī hóa thành một con ếch và nhỏ ba giọt độc lên tay anh trai mình; những giọt ấy được để rơi vào một cái hố đã được chuẩn bị riêng và đầy phân bò. Một ngọn lửa bùng lên, và Ālambāyana bị sức nóng đánh trúng. Da của ông đổi màu và ông trở thành một người mắc bệnh phong trắng.
+
+Câu chuyện được kể trong Bhūridattajātaka (Ja 543, Ja.vi.179-97).
+
+Tên Ālambāyana cũng xuất hiện dưới dạng Ālambāna và Ālamba.
 
 ## Notes

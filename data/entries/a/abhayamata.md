@@ -5,7 +5,7 @@ base_headword: "Abhayamātā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -43,6 +43,14 @@ She is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayamātā. Một Therī. Bà là một kỹ nữ tên Padumavatī, giai nhân nổi tiếng của Ujjenī. Vua Bimbisāra, sau khi nghe nói về sắc đẹp của bà, bày tỏ với *Purohita* của mình mong muốn được gặp bà. Vị *Purohita*, bằng uy lực của các chú thuật, nhờ đến sự trợ giúp của một Yakkha, Kumbhīra, vị này đưa nhà vua đến Ujjenī.
+
+Bà sinh cho nhà vua một người con trai, Abhayarājakumāra, người về sau gia nhập Saṅgha và trở thành một *Arahant*. Chính vì người con ấy mà Padumavatī được gọi là Abhayamātā. Bà nghe Abhayarājakumāra thuyết pháp, rồi tự mình xuất gia và trở thành một *Arahant* (Thīg­a.31-2).
+
+Hai bài kệ được quy cho bà được tìm thấy trong Therīgāthā (33,34).
+
+Vào thời Tissa Buddha, thấy Ngài đi khất thực, với tâm hoan hỷ bà dâng Ngài một muỗng thức ăn. Do quả báo ấy, bà ba mươi sáu lần làm hoàng hậu giữa chư thiên và là chánh hậu của năm mươi vị *cakkavatti* (Thīg­a.32).
+
+Hiển nhiên bà đồng nhất với Kaṭacchubhikkhadāyikā trong Apadāna (ii.516-7).
 
 ## Notes

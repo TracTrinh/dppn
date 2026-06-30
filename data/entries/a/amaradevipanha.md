@@ -5,7 +5,7 @@ base_headword: "Amarādevīpañha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,10 @@ This riddle referred to in Ja.i.425 as the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amarādevīpañha. Tên gọi đặt cho câu đố mà qua đó Amarā chỉ đường đến nhà mình cho Mahosadha: “*Yena sattu bilaṅgā ca dviguṇapalāso ca pupphito, yenādāmi tena vadāmi yena nādāmi na tena vadāmi esa maggo yavamajjhakassa etaṁ channapathaṁ vijānāhī ti*.”
+
+Nhà chú giải giải thích câu đố này như sau: đi vào làng bạn sẽ thấy một tiệm bánh và sau đó là một tiệm cháo; xa hơn nữa là một cây mun (ebony tree) đang nở hoa, hãy rẽ vào con đường bên phải.
+
+Tuy nhiên, câu đố này, vốn được đề cập trong Ja.i.425 là Amarādevīpañha, lại được gọi là Channapathapañha trong chính bản thân chuyện Ummaggajātaka, nơi nó thực sự xuất hiện trong câu chuyện. Ja.vi.365-6.
 
 ## Notes

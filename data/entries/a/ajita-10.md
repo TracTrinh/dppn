@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "10"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajita 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 10. Ajitamāṇava. (xem mục riêng)
 
 ## Notes

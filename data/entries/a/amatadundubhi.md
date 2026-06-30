@@ -5,7 +5,7 @@ base_headword: "Amatadundubhi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Amatadundubhi. One of the names under which the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amatadundubhi. Một trong những tên gọi mà Bahudhātukasutta được biết đến (MN.iii.67). Như các chiến sĩ trên chiến trường, cũng vậy các đệ tử trên đạo lộ, khi phát triển tuệ quán theo phương pháp của *Sutta* này, giương cao ngọn cờ của quả vị *Arahant* - do đó có tên ấy. MN­a.ii.888.
 
 ## Notes

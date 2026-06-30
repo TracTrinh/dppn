@@ -5,7 +5,7 @@ base_headword: "Ambapāsāṇa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambapāsāṇa. A monastery in the village of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapāsāṇa. Một tu viện ở ngôi làng Aṅganakola thuộc Nam Ceylon, nơi Trưởng lão Cittagutta từng trú ngụ. Mhvṭ.552.
 
 ## Notes

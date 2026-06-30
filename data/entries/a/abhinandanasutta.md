@@ -5,7 +5,7 @@ base_headword: "Abhinandanasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhinandanasutta. He who takes delight in any or all of the five *khandhas* take
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinandanasutta. Người hoan hỷ trong bất kỳ hoặc toàn bộ năm *khandhas* là hoan hỷ trong khổ; người không làm như vậy thì được giải thoát khỏi khổ ấy. SN.iii.31.
 
 ## Notes

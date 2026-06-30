@@ -5,7 +5,7 @@ base_headword: "Aggika Bhāradvājasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggika Bhāradvājasutta. Another name for the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggika Bhāradvājasutta. Một tên khác của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vasalasutta</span>.
 
 ## Notes

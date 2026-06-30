@@ -5,7 +5,7 @@ base_headword: "Āghātavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āghātavagga. Chương thứ mười bảy của *Pañcakanipāta* trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. Chương này chứa mười *Sutta* về các chủ đề khác nhau, bao gồm một cuộc tranh luận giữa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Udāyī</span> (AN.iii.185-202).
 
 ## Notes

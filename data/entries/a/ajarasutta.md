@@ -5,7 +5,7 @@ base_headword: "Ajarasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Ajarasutta. The Buddha teaches the undecaying and the path thereto (*Ajajjara*).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajarasutta. Đức Phật dạy về điều không suy hoại và con đường dẫn đến đó (*Ajajjara*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Akusalamūlasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akusalamūlasutta. On the three roots of demerit: greed, malice and delusion. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akusalamūlasutta. Về ba căn bất thiện: tham, sân và si. AN.i.201; đối chiếu MN.i.47, 489.
 
 ## Notes

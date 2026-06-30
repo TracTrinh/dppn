@@ -5,7 +5,7 @@ base_headword: "Ādittavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittavagga. Chương thứ năm của Devatāsaṁyutta thuộc Saṁyuttanikāya. SN.i.31-6.
 
 ## Notes

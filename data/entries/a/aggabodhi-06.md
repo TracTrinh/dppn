@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aggabodhi 06. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 06. Con trai của Mahā Tissa, tuyên bố có dòng dõi từ Okkāka và Saṅghasivā. Ông là vị cai trị độc lập của Rohaṇa. Cv.xlv.38-48.
 
 ## Notes

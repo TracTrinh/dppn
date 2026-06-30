@@ -5,7 +5,7 @@ base_headword: "Abhiṇhajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,8 @@ The story was told in reference to two monks of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiṇhajātaka (Ja 27). Câu chuyện về một con chó và một con voi lớn lên thành đôi bạn thân thiết và trở nên không thể thiếu đối với nhau. Con chó thường tự vui bằng cách đu qua đu lại trên vòi voi. Một ngày nọ, người thương nhân bán con chó. Con voi bỏ ăn và không thể được an ủi cho đến khi con chó được đưa trở lại.
+
+Câu chuyện được kể liên quan đến hai vị sư ở Sāvatthī, những người rất thân thiết với nhau và dành toàn bộ thời gian ở bên nhau. Ja.i.189f.
 
 ## Notes

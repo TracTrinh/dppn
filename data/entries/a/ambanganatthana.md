@@ -5,7 +5,7 @@ base_headword: "Ambaṅganaṭṭhāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ The Elder ate the mango and had the stone planted in the ground. Immediately a t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṅganaṭṭhāna. Nơi Devānampiyatissa dâng một quả xoài cho Mahinda.
+
+Trưởng lão ăn quả xoài và cho gieo hạt xuống đất. Ngay lập tức một cái cây mọc lên từ đó và mặt đất rung chuyển. Trưởng lão tuyên bố rằng nơi này sẽ trở thành nơi hội họp của Tăng đoàn Ceylon (Tích Lan) và sẽ được gọi là Ambaṅgana. Vin-a.i.101.
 
 ## Notes

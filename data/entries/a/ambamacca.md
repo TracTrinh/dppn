@@ -5,7 +5,7 @@ base_headword: "Ambāmacca"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ The Thera retired into the forest and attained *Arahant*-ship before eating it. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambāmacca. Con trai của Venigāma. Ông rất giàu có; nhưng một lần, trong một kỳ hạn hán, vì không có thức ăn, ông chuẩn bị đi lên núi cùng đoàn tùy tùng. Ngay trước khi khởi hành, họ tìm thấy một phần gạo, và sau khi nấu xong, họ sắp ăn thì Amba thấy Cūḷa Piṇḍapāṭika Nāga Thera đang trở về từ làng với bình bát trống. Ông mời vị Tăng ấy và dâng thức ăn cho ngài.
+
+Vị Thera lui vào rừng và chứng quả vị *Arahant* trước khi ăn thức ăn ấy. Mệt mỏi và đói, Amba ngủ thiếp đi, và khi thức dậy, hỏi vợ mình còn lại chút cơm vét nồi nào không. Bà đi vào bếp và thấy nồi đầy thức ăn, rồi họ chia sẻ với cả làng. Ras.ii.145f.
 
 ## Notes

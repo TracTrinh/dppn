@@ -5,7 +5,7 @@ base_headword: "Ambapiṇḍiya"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambapiṇḍiya 02. An *Arahant*. He had been an elephant in the time of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapiṇḍiya 02. Một vị *Arahant*. Ngài từng là một con voi vào thời Đức Phật Siddhattha. Sau khi nhìn thấy Đức Phật trong rừng, con voi ấy đã dâng lên Ngài một chùm xoài. Nhờ vậy, ngài được tái sinh vào cõi Tusita. Ap.i.395.
 
 ## Notes

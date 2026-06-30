@@ -5,7 +5,7 @@ base_headword: "Ahiṁsakasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Ahiṁsakasutta. Records the interview between the Buddha and <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahiṁsakasutta. Ghi lại cuộc gặp gỡ giữa Đức Phật và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ahiṁsaka Bhāradvāja</span> (SN.i.164).
 
 ## Notes

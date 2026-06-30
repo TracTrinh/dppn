@@ -5,7 +5,7 @@ base_headword: "Accutavaṇṇadanta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Accutavaṇṇadanta. One of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accutavaṇṇadanta. Một trong những con voi của Ekarāja. Ja.vi.135. Nhưng xem bản dịch Jātaka vi.72.
 
 ## Notes

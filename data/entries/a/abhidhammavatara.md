@@ -5,7 +5,7 @@ base_headword: "Abhidhammāvatāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,12 @@ Gv. (p.69) says that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammāvatāra. Một luận thư Abhidhamma của Buddhadatta ở Uragapura. Sách được viết tại Ấn Độ, trong xứ Coḷa. Đây là phần nhập môn cho việc học Abhidhamma, và có nhiều điểm tương đồng giữa tác phẩm này với Visuddhimagga, tuy văn phong của Buddhadatta ít rối rắm và mơ hồ hơn văn phong của Buddhaghosa; vốn từ của ông phong phú lạ thường và lối viết sinh động hơn.
+
+Tác phẩm phần lớn viết bằng kệ, thỉnh thoảng có phần chú giải văn xuôi do chính tác giả cung cấp (Gv.69; xem PLC. 107-8 để biết chi tiết).
+
+Có hai *ṭīkās* về tác phẩm này, một của Vācissara Mahā Sāmi thuộc Mahā Vihara và bản kia của Sumaṅgala, đệ tử của Sāriputta. Sās.34.
+
+Gv. (p.69) nói rằng Buddhadatta viết tác phẩm này theo lời thỉnh cầu của đệ tử ông là Sumati.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Acchariyasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Acchariyasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acchariyasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gotama Buddha</span> giảng về điều kỳ diệu và con đường đưa đến điều ấy. SN.iv.371.
 
 ## Notes

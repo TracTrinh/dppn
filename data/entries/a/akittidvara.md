@@ -5,7 +5,7 @@ base_headword: "Akittidvāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akittidvāra. The gate through which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akittidvāra. Cổng thành mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span> đã đi qua khi rời thành. Ja.iv.237.
 
 ## Notes

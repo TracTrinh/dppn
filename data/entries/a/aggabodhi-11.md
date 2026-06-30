@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "11"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggabodhi 11. Maternal cousin of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 11. Anh em họ phía mẹ của Saṅghā, vợ của Aggabodhi VII. Khi Saṅghā, vì xa cách với chồng, gia nhập ni chúng theo lời khuyên của cha mình, ông bỏ trốn với bà, nhưng về sau bị bắt, và gia đình được hòa giải. Cv.xlviii.50, 60-1.
 
 ## Notes

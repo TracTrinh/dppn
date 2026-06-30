@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aggabodhi 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 04. Aggabodhi III. Vua của Ceylon (CE 628 và 641), con trai của Silāmeghavaṇṇa; cũng được gọi là Sirisaṅghabodhi. Ông phải nhiều lần trốn khỏi ngai vàng. Cv.xliv.83-144.
 
 ## Notes

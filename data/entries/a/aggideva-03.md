@@ -5,7 +5,7 @@ base_headword: "Aggideva"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggideva 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggideva 03. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cakkavatti</span> sống cách đây mười một *kappa*; một đời trước của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pāpanivāriya Thera</span>. Ap.i.213.
 
 ## Notes

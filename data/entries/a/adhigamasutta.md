@@ -5,7 +5,7 @@ base_headword: "Adhigamasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Adhigamasutta. On the qualities requisite for acquiring good states and for fost
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhigamasutta. Về những phẩm chất cần có để đạt được các thiện pháp và nuôi dưỡng chúng. AN.iii.431f.
 
 ## Notes

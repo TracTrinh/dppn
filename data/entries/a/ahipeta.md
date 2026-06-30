@@ -5,7 +5,7 @@ base_headword: "Ahipeta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,6 @@ Ahipeta. Seen by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahipeta. Được Moggallāna nhìn thấy khi ngài đi từ Gijjhakūṭa đến Rājagaha cùng với Lakkhaṇa. Ngài thuật lại câu chuyện của *Peta* ấy trước sự hiện diện của Đức Phật. Trong quá khứ xa xưa, người ta đã dựng một am lá và cỏ bên bờ sông gần Benares cho một Pacceka Buddha. Tại đây, cư dân trong thành thường đến viếng ngài buổi sáng và buổi chiều với các phẩm vật cúng dường. Trên đường đi, họ phải băng qua một cánh đồng; vì đi lại nhiều lần, họ giẫm đạp và làm hư hại cánh đồng ấy. Người nông phu cố ngăn họ nhưng vô ích. Một ngày nọ, trong cơn bực tức, khi vị Pacceka Buddha đi vắng, người nông phu đốt am của ngài, phá hủy mọi thứ trong đó. Khi ông thú nhận tội lỗi của mình, những người đi theo vị Pacceka Buddha đánh ông đến chết. Ông chịu khổ trong Avīci cho đến khi mặt đất được nâng lên một do-tuần, rồi sau đó sinh làm một *Peta*, dài hai mươi lăm do-tuần, thân bị lửa bao phủ. Dhp­a.ii.64 ff.; xem thêm SN.ii.254.
 
 ## Notes

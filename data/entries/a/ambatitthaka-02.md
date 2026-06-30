@@ -5,7 +5,7 @@ base_headword: "Ambatitthaka"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambatitthaka 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambatitthaka 02. Một đạo sĩ tóc bính (Jaṭila) sống tại Ambatittha (1).
 
 ## Notes

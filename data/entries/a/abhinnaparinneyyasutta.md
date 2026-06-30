@@ -5,7 +5,7 @@ base_headword: "Abhiññāpariññeyyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhiññāpariññeyyasutta. Everything should be known and comprehended as impe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiññāpariññeyyasutta. Mọi thứ cần được biết và thấu hiểu là vô thường, khổ, không có tự ngã. SN.iv.29.
 
 ## Notes

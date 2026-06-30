@@ -5,7 +5,7 @@ base_headword: "Ambaṭṭha"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambaṭṭha 02. A king of old, at whose court <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭha 02. Một vị vua thời xưa, tại triều đình của vị này, Rāhulamātā trong một tiền kiếp từng là một nữ tỳ. Trong kiếp sống đó, bà đã dâng vật thực cúng dường cho một vị tu sĩ thánh thiện, và kết quả là trong kiếp sau, bà đã trở thành vương hậu của vua xứ Benares. Ja.iii.413-14.
 
 ## Notes

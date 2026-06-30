@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajita 07. The lay name of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 07. Tên cư sĩ của Metteya Buddha trong kiếp cuối cùng của ngài, khi ngài sẽ đạt Giác ngộ, Anāgatavaṁsa, pp. 43, 45, 56.
 
 ## Notes

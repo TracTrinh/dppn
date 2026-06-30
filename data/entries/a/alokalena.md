@@ -5,7 +5,7 @@ base_headword: "Ālokalena"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālokalena, Ālokavihāra. Một hang đá nằm trong khe nứt của một vụ sạt lở đất nguyên thủy khổng lồ, không xa khu vực Matale ngày nay ở Ceylon. Theo truyền thống, đây là nơi kinh điển Phật giáo lần đầu tiên được chép lại thành chữ viết ở Ceylon dưới sự bảo trợ của một vị tù trưởng dưới quyền Vua Vaṭṭagāmaṇī. Người Miến Điện tin rằng các tập chú giải (*aṭṭhakathā*) của Buddhaghosa cũng được biên soạn tại địa điểm này (Mhv.xxiii.100f. Xem PLC.43f). Vào thế kỷ thứ mười tám, Vua Vijayarājasīha đã cho tạc các tượng Phật trong hang đá này. Cv.xcviii.65.
 
 ## Notes

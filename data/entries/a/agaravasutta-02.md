@@ -5,7 +5,7 @@ base_headword: "Agāravasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Agāravasutta 02. A monk who is rebellious will never lead the higher life nor a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agāravasutta 02. Một vị sư chống đối sẽ không bao giờ sống đời cao thượng, cũng không cuối cùng đạt được sự an tĩnh của tâm. AN.iii.14f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āghātavinayasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,8 @@ A.iii.185-6.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āghātavinayasutta 01. Năm cách để đối trị sân hận: bằng cách phát khởi *mettā*, *karuṇā* và *upekkhā*, bằng cách loại bỏ sự thất niệm và bằng cách quán xét năng lực của *kamma*.
+
+A.iii.185-6.
 
 ## Notes

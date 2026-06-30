@@ -5,7 +5,7 @@ base_headword: "Ahogaṅgā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -39,6 +39,10 @@ Ahogaṅgā. A mountain in North India, on the Upper <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahogaṅgā. Một ngọn núi ở Bắc Ấn, trên thượng nguồn Ganges. Tại đó, Trưởng lão Sambhūta Sāṇavāsi đã sống một thời gian, và cũng chính tại đó Yasa Kākaṇḍakaputta gặp ngài. Cuộc họp của các *Arahants* để bàn xem cần áp dụng biện pháp nào đối với các vị sư Vesālī cũng được tổ chức tại đó; trong cuộc họp có các vị sư từ miền Tây và từ Avanti Dakkhiṇāpatha tham dự (Vin.ii.298-9).
+
+Moggaliputta sống một mình tại Ahogaṅgā trong bảy năm trước Đại Kết Tập lần thứ ba, mà ngài đang chờ đúng thời điểm để tiến hành (Mhv.v.233; xem thêm Vin. Texts, ii.146, n.1. Mbv., p.106, nói là *upari Gaṅgāya*; xem thêm Vin-a.i.57). Mahā Vaṁsa mô tả nơi ấy là “xa hơn về phía thượng nguồn Ganges” (*uddhaṁ Gaṅgāya*).
+
+Moggaliputtatissa đi từ Ahogaṅgā đến Pāṭaliputta trên một chiếc bè. Vin-a.i.57.
 
 ## Notes

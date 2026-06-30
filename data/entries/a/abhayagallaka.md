@@ -5,7 +5,7 @@ base_headword: "Abhayagallaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhayagallaka. A *vihāra* in Ceylon built by King <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayagallaka. Một *vihāra* ở Ceylon do vua Mahā Cūḷi Mahā Tissa xây dựng. Mhv.xxxiv.8.
 
 ## Notes

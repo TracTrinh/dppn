@@ -5,7 +5,7 @@ base_headword: "Aḍḍhabhūtasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aḍḍhabhūtasutta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhabhūtasutta (*v.l.* Andhabhūta). Được thuyết tại Kalandakanivāpa ở Veḷuvana. Mọi thứ đều bị khổ não: mắt, các đối tượng, nhãn thức, v.v. SN.iv.20-1.
 
 ## Notes

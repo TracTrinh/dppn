@@ -5,7 +5,7 @@ base_headword: "Amaccharīsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Amaccharīsutta. A woman should not be stingy and she should be wise. SN.iv.244.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaccharīsutta. Một người phụ nữ không nên keo kiệt và nàng nên có trí tuệ. SN.iv.244.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ājaññasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājaññasutta 03. Về tám phẩm chất mà một con ngựa cần có để xứng đáng được nhà vua sử dụng, và về tám phẩm chất tương tự thiết yếu nơi vị sư lý tưởng. AN.iv.188ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhiññāsutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhiññāsutta 01. On higher knowledge and its applications AN.ii.246f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiññāsutta 01. Về thắng trí và các ứng dụng của nó. AN.ii.246f.
 
 ## Notes

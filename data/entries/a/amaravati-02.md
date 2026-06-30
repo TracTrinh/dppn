@@ -5,7 +5,7 @@ base_headword: "Amaravatī"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Amaravatī 02. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaravatī 02. (*v.l.* Arundhavatī). Một thành phố vào thời Koṇḍañña Buddha, rộng mười tám do-tuần. Chính tại Devavanā, gần thành phố, Koṇḍañña đã thuyết bài pháp đầu tiên của ngài. Bv­a.108-9.
 
 ## Notes

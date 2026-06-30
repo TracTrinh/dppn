@@ -5,7 +5,7 @@ base_headword: "Ambuṭṭhi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambuṭṭhi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambuṭṭhi. Một hồ chứa nước do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Upatissa II</span> xây dựng. Cv.xxxvii.185.
 
 ## Notes

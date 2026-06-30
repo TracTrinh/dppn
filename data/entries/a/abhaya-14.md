@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "14"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhaya 14. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 14. Cháu trai của Khallāṭanāga. Mhv­ṭ.444.
 
 ## Notes

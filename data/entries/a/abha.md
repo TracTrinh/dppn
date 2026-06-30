@@ -5,7 +5,7 @@ base_headword: "Ābhā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ābhā. Một tên gọi chung cho chư thiên nổi bật bởi ánh sáng rực rỡ của họ, như Parittābhā và Āppamāṇābhā. MN.iii.102; MN­a.ii.902.
 
 ## Notes

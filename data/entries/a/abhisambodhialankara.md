@@ -5,7 +5,7 @@ base_headword: "Abhisambodhialankāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Abhisambodhialankāra. A Pāli poem in one hundred stanzas written by <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisambodhialankāra. Một thi phẩm Pāli gồm một trăm kệ, do Saraṇaṅkara Saṅgharāja của Ceylon biên soạn vào thế kỷ thứ mười tám. Tác phẩm bàn về cuộc đời của Gotama Buddha từ lúc ngài sinh làm Sumedha, vào thời Dīpaṅkara, cho đến lần sinh cuối cùng làm Siddhattha. PLC.281.
 
 ## Notes

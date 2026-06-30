@@ -5,7 +5,7 @@ base_headword: "Abbhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abbhasutta. Thunder clouds arise sometimes because the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhasutta. Mây sấm đôi khi khởi lên vì chư thiên Abbhāvalāhaka muốn đem lại niềm vui cho thân họ. SN.iii.256.
 
 ## Notes

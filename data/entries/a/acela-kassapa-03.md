@@ -5,7 +5,7 @@ base_headword: "Acela Kassapa"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Acela Kassapa 03. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acela Kassapa 03. Kassapa được nhắc đến trong Acelasutta (SN.ii.18f.; see also SN­a.ii.26f), có lẽ nên được đồng nhất với Acela Kassapa (1), mặc dù các câu chuyện về sự quy hóa của họ khác nhau.
 
 ## Notes

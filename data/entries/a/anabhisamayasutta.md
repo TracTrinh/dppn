@@ -5,7 +5,7 @@ base_headword: "Anabhisamayasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anabhisamayasutta. Preached to the wanderer <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anabhisamayasutta. Được thuyết cho du sĩ Vacchagotta. Các quan điểm dị biệt khởi lên ở thế gian do không thấy được bản chất của thân, v.v. SN.iii.260.
 
 ## Notes

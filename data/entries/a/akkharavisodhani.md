@@ -5,7 +5,7 @@ base_headword: "Akkharavisodhanī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akkharavisodhanī. A late Pāḷi work written in Burma. Sās.154.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkharavisodhanī. Một tác phẩm Pāli muộn được viết ở Miến Điện (Burma). Sās.154.
 
 ## Notes

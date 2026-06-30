@@ -5,7 +5,7 @@ base_headword: "Aḷattūru"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Aḷattūru. Name of two <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḷattūru. Tên của hai thủ lĩnh Damiḷa trong quân đội của Kulasekhara. Họ tham gia nhiều trận chiến khác nhau và cuối cùng bị lực lượng của Parakkamabāhu I chinh phục. Cv.lxxvi.140, 184, 214, 217, 220, 305.
 
 ## Notes

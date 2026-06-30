@@ -5,7 +5,7 @@ base_headword: "Abhinīhārasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhinīhārasutta 02. Same as above, but “range of concentration” is substit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinīhārasutta 02. Giống như trên, nhưng “phạm vi của định” được thay cho “định.” (SN.iii.276).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ahināga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Ahināga. Dr. A. K. Coomaraswamy suggests that the word “<span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahināga. Tiến sĩ A. K. Coomaraswamy gợi ý rằng từ “<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ahināga</span>,” xuất hiện trong Vinaya (i.25), là một tên riêng, giống như <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ahicchatta</span>. Về cuộc thảo luận, xem JAOS. vol. 55, 391-392 (notes).
 
 ## Notes

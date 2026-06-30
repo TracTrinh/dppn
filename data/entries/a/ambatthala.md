@@ -5,7 +5,7 @@ base_headword: "Ambatthala"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -45,6 +45,12 @@ Other names for the place are <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambatthala. Một vùng bình nguyên nhỏ nằm ngay phía dưới Silakūṭa của ngọn núi Missaka ở Ceylon. Chính tại gần nơi này, ngài Mahinda cùng các vị đồng hành đã hạ cánh sau chuyến du hành trên không trung từ Jambudīpa (Mhv.xiii.20). Tại đó, vua Mahā Dāṭhika Mahā Nāga đã xây dựng bảo tháp Ambatthala Thūpa, chấp nhận mạo hiểm cả mạng sống của mình để đảm bảo công trình được an toàn vững chắc. Vua đã làm một mái che bao phủ toàn bộ bảo tháp (*Thūpa*) và tại lễ dâng cúng bảo tháp, đã tổ chức đại lễ cúng dường Giribhaṇḍapūjā (Mhv.xxiv.68-81). Vua Kaniṭṭhatissaka đã xây dựng một tu viện gắn liền với bảo tháp (*Thūpa*) (Mhv.xxxvi.9), và sau đó Goṭhābhaya đã trùng tu công trình này (Mhv.xxxvi.106).
+
+Tu viện (*vihāra*) được xây dựng lại hoặc mở rộng bởi vua Dhātusena. Vua đã có ý định giao tu viện cho những người theo truyền thống Theravāda (Thượng tọa bộ) cai quản, nhưng cuối cùng lại giao cho tông phái Dhammarucika theo lời thỉnh cầu của tông phái này (Cv.xxxviii.76). Vua Sirimeghavaṇṇa đã cho đặt một bức tượng vàng kích thước như người thật của ngài Mahinda tại bảo tháp Ambatthala Cetiya (Cv.xxxvii.69).
+
+Tương truyền rằng địa danh này được gọi tên như vậy dựa theo câu đố về cây xoài (Mhv.xiv.17ff.) mà ngài Mahinda đã dùng để thử thách sự nhận thức của vua Devānampiyatissa. Ngay cả cho đến nay, các cây xoài vẫn được trồng gần bảo tháp (*cetiya*) để tưởng niệm sự kiện đó (Cv.trans. i.4. n.5).
+
+Các tên gọi khác của địa danh này là Cetiyambatthala (Cv.xxxvii.69) và Therambatthalaka (Mhv.xxxvi.106).
 
 ## Notes

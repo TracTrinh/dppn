@@ -5,7 +5,7 @@ base_headword: "Abhayarājakumārasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -38,6 +38,14 @@ At the end of the discourse <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayarājakumārasutta. Bài kinh chứa câu chuyện vương tử Abhaya đến thăm Gotama Buddha tại Rājagaha và đặt ra cho Ngài các câu hỏi do Nigaṇṭha Nātaputta gợi ý:
+
+- Một Tathāgatha có nói điều gì khó chịu hay không vừa ý người khác không?
+- Nếu Ngài có nói, Ngài khác gì người thường?
+- Nếu Ngài không nói, vậy tại sao Đức Phật lại nói về Devadatta như một kẻ đọa lạc, một đứa con của sự hủy diệt, v.v. - những lời khiến Devadatta tức giận và buồn bực?
+
+Đức Phật đáp rằng câu hỏi cần được phân biệt rõ hơn, và khi thấy vương tử đang bồng đứa con nhỏ nằm trong lòng, Ngài hỏi ông sẽ làm gì nếu một viên sỏi hay một que gỗ lọt vào miệng đứa trẻ. "Con sẽ kéo nó ra, dù máu có chảy." - "Cũng vậy, một Đức Phật sẽ nói những sự thật khó nghe đúng thời, nếu cần thiết và hữu ích."
+
+Cuối bài thuyết giảng, Abhaya chấp nhận Đức Phật làm Thầy của mình (MN.i.391ff).
 
 ## Notes

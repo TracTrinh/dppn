@@ -5,7 +5,7 @@ base_headword: "Accimukhī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -38,6 +38,12 @@ In the present age she was the *Bhikkhunī* <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accimukhī. Một công chúa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nāga</span>, con gái của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dhataraṭṭha</span>, vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Nāga</span>. Nàng là em gái cùng cha khác mẹ của Bodhisatta <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Bhūridatta</span> và đã giúp anh của ngài, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sudassana</span>, cứu Bodhisatta khỏi tay người luyện rắn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ālambāna</span>.
+
+Nàng có thể phun lửa từ miệng và nhổ ra chất độc chết người nhất.
+
+Câu chuyện được kể trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Bhūridattajātaka</span> (Ja 543, Ja.vi.157ff).
+
+Trong thời hiện tại, nàng là *Tỳ-kheo-ni* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Uppalavaṇṇā</span> (Ja.vi.219) (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Accīmukhī</span>).
 
 ## Notes

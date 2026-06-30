@@ -5,7 +5,7 @@ base_headword: "Ajita Kesakambala"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -40,6 +40,14 @@ References to ascetics wearing hair garments are found in several passages of th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita Kesakambala (Ajita Kesakambalī). Người đứng đầu một trong sáu giáo phái dị giáo được nhắc đến trong *Piṭakas* như những phái cùng thời với Đức Phật. Ông được mô tả là một *Titthakara* (đạo sư dị giáo), lãnh đạo một đoàn tùy tùng đông đảo, có đức hạnh và được dân chúng kính trọng (SN.i.68).
+
+Theo Sāmaññaphalasutta (DN.i.55), nơi Ajātasattu mô tả một lần đến thăm Ajita, ông dạy học thuyết “đoạn diệt,” tức là sự tiêu diệt khi chết. Ông là một người theo chủ nghĩa hư vô, không tin có thiện hay ác. Trong các nguồn Tây Tạng, ông được nói là đã dạy rằng mọi chúng sinh phải ở trong *Saṁsāra* trong 84,000 *mahākalpas* trước khi đi đến chỗ chấm dứt; không gì có thể ngăn điều đó (Rockhill: 103-4). Câu trả lời Ajita đưa cho Ajātasattu được nêu ở nơi khác (e.g., SN.iii.207; MN.i.515) như quan điểm của một nhà ngụy biện điển hình. Tên ông thường được đưa vào danh sách khuôn mẫu gồm sáu vị thầy, ngay cả ở những nơi các quan điểm được cho là họ đã bày tỏ không trùng với những quan điểm được gán cho Ajita trong Sāmaññaphalasutta, e.g., SN.iv.398, nơi ông được trình bày như đang nói về các lần tái sinh của những người theo mình - trong khi chính ông phủ nhận tái sinh. Trong AN.i.286, dường như ông đã bị nhầm với Makkhali Gosāla. Ông được gọi là Kesakambalī vì mặc một tấm mền bằng tóc người, được mô tả là loại y phục khốn khổ nhất. Nó lạnh khi trời lạnh, nóng khi trời nóng, hôi hám và thô kệch (DN­a.i.144; MN­a.i.422-3).
+
+Theo Mahā Bodhijātaka (Ja 528), Đức Phật đã bác bỏ quan điểm của Ajita trong các đời trước (Ja.v.246). Ajita rõ ràng lớn tuổi hơn Đức Phật nhiều, vì chúng ta thấy Pasenadi, trong những năm đầu của tình bạn với Đức Phật, nói với ngài rằng ngài là một người mới tu trẻ tuổi so với Ajita, SN.i.68.
+
+Trong Milindapañha, nhà vua nói rằng ông đã đến thăm một vị thầy tên là Ajita Kesakambala. Điều này không thể nào chỉ đến Ajita của chúng ta; tham chiếu có lẽ là đến một vị thầy thuộc cùng trường phái tư tưởng (“không có quả hay kết quả của nghiệp thiện hoặc ác,” p.4. Các quan điểm của ông được nêu ở p.25 mà không nhắc đến tên ông. Nhưng xem ghi chú 2 trong bản dịch Mil., p.8.).
+
+Các tham chiếu đến những đạo sĩ mặc y phục bằng tóc được thấy trong nhiều đoạn của kinh điển Pāḷi. DN.i.167; MN.i.77, 238; AN.i.240; về một thảo luận về các quan điểm của Ajita, xem Barua: *Pre-Buddhistic Indian Philosophy*, pp.287ff.
 
 ## Notes

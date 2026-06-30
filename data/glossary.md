@@ -15,18 +15,31 @@ phân vân, giữ Pāli — luôn an toàn và khớp với cơ chế gắn link
 ## Thuật ngữ giáo lý / tôn giáo
 
 Dhamma → Pháp — khi nói về giáo pháp; giữ "Dhamma" trong tên riêng/nhan đề.
+adhamma → phi Pháp — khi đối lập với Dhamma/Pháp trong nghĩa điều không phải Pháp; giữ "*adhamma*" nếu bản gốc in nghiêng và cần đối chiếu thuật ngữ.
 Sangha → Tăng đoàn
-Devas → chư thiên — số nhiều; "Deva" (số ít) → thiên thần/thiên nhân (tùy ngữ cảnh)
+Devas → chư thiên — số nhiều; "Deva" (số ít) → thiên thần/thiên nhân (tùy ngữ cảnh). KHÔNG để nguyên "Devas"/"các Devas" trong bản dịch — luôn dịch "chư thiên" (lưu ý: "chư" đã hàm số nhiều, không viết "các chư thiên").
 Devaputtas → các thiên tử
+Asura(s) → Asura(s) — giữ Pāli cho loài/chúng sinh; không Việt hóa tên riêng liên quan.
 Thera → Trưởng lão — giữ "Thera" khi là một phần tên riêng
 Bodhisatta → Bodhisatta — giữ Pāli (in nghiêng khi bản gốc in nghiêng); KHÔNG dịch "Bồ-tát".
 Arahant → Arahant — giữ Pāli (in nghiêng khi bản gốc in nghiêng); KHÔNG dịch "A-la-hán". Arahant-ship → "quả vị *Arahant*".
 Stream-enterer → bậc Dự lưu
+Sotāpanna → Sotāpanna — giữ Pāli khi bản gốc dùng thuật ngữ Pāli; có thể gloss là "bậc Dự lưu" nếu cần làm rõ.
+kappa → kappa — giữ Pāli cho đơn vị thời gian/kiếp trong văn cảnh DPPN; in nghiêng nếu bản gốc in nghiêng. Khi bản gốc dùng dạng Sanskrit "kalpa(s)", vẫn dịch là "kappa" để nhất quán.
+jhāna → jhāna — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
+abhiññā → abhiññā — giữ Pāli cho các thắng trí; in nghiêng nếu bản gốc in nghiêng.
+bojjhaṅga → bojjhaṅga — giữ Pāli cho các chi giác ngộ; in nghiêng nếu bản gốc in nghiêng.
 Brahma → Phạm thiên — khi chỉ cõi/chúng sinh Brahma; giữ "Brahma" trong tên riêng hoặc cụm gốc cần đối chiếu.
+Brahma-world → cõi Brahma — giữ "Brahma" trong cụm này để khớp thuật ngữ và liên kết.
+Arūpa worlds → các cõi Arūpa — giữ Pāli "Arūpa"; in nghiêng nếu bản gốc in nghiêng.
 dibbacakkhu → thiên nhãn — có thể ghi "*dibbacakkhu* (thiên nhãn)" lần đầu khi cần giữ thuật ngữ Pāli.
 iddhi → thần thông — giữ "*iddhi*" khi bản gốc dùng thuật ngữ Pāli, có thể thêm nghĩa trong ngoặc.
 satipaṭṭhānā → niệm xứ — thường dịch số nhiều là "các niệm xứ"; giữ thuật ngữ Pāli khi bản gốc in nghiêng.
 cetovimutti → tâm giải thoát
+kamma → kamma — giữ Pāli khi bản gốc dùng thuật ngữ Pāli; in nghiêng nếu bản gốc in nghiêng.
+Nibbāna → Nibbāna — giữ Pāli; in nghiêng nếu bản gốc in nghiêng.
+Deathless / Amata → Bất tử — khi chỉ mục tiêu/trạng thái "Deathless"; giữ "Amata" khi là tên riêng/nhan đề.
+puthujjana(s) → phàm phu — có thể dịch nghĩa khi không cần giữ nguyên đối chiếu thuật ngữ Pāli.
 appamāṇa → vô lượng
 mahaggata → quảng đại
 sekha → bậc hữu học
@@ -40,9 +53,16 @@ Niraya → địa ngục (Niraya)
 Petas → ngạ quỷ
 Bhikkhunī → Tỳ-kheo-ni
 upāsakas → cư sĩ (nam)
+Yakkha → Yakkha — giữ Pāli cho tên loài/chúng sinh; có thể thêm nghĩa "dạ-xoa" trong ngoặc nếu cần làm rõ.
+Nāga → Nāga — giữ Pāli cho loài/rồng thần và các tên liên quan; không Việt hóa tên riêng.
+Pacceka Buddha(s) → Pacceka Buddha(s) — giữ Pāli; có thể gloss "Phật Độc giác" khi cần làm rõ lần đầu.
+vimāna → vimāna — giữ Pāli cho cung điện/cõi trời trong ngữ cảnh Vv/Vimānavatthu.
 vassa → mùa an cư — khi nói về kỳ an cư của tỳ-kheo; "rainy season" = mùa an cư (mùa mưa)
 rainy season → mùa an cư — khi nói về vassa tu sĩ
 austerities → khổ hạnh — dịch chung; KHÔNG dùng "đầu-đà" (đầu-đà = dhutaṅga, hẹp hơn) trừ khi bản gốc nói rõ
+Brahmin(s) → Bà-la-môn
+Ariyan → bậc Thánh / thuộc bậc Thánh — tùy ngữ cảnh; giữ tên riêng Pāli nếu là một phần của danh xưng.
+Noble Eightfold Path → Bát Thánh đạo — dùng "Bát Thánh đạo" nhất quán; KHÔNG dùng biến thể "Bát Chi Thánh Đạo".
 
 ## Đơn vị đo lường / tiền tệ
 

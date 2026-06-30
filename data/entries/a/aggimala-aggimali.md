@@ -5,7 +5,7 @@ base_headword: "Aggimāla (Aggimāli"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggimāla (Aggimāli). A mythological sea, which stands like a blazing bonfire a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggimāla (Aggimāli). Một biển thần thoại, đứng sừng sững như một đống lửa cháy rực và chứa đầy vàng (Ja.iv.139-40). Đây là một trong những biển mà các thương nhân được đề cập trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suppārakajātaka</span> (Ja 463) đã vượt qua.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ahicchatta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,6 @@ Ahicchatta. A king of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahicchatta. Một vua của các <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nāga</span>. Vị ấy sống trong đống cát được tạo ra bởi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggidatta</span> (*q.v.*) và các đệ tử của ông, những người đã phát nguyện mang từ đâu đó một bình cát và đổ tại một điểm đã thỏa thuận mỗi khi một ý nghĩ tội lỗi xảy ra. Khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Moggallāna</span> đến thăm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aggidatta</span> và xin chỗ trú ngụ, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggidatta</span> từ chối, nhưng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Moggallāna</span>, bất chấp sự phản đối của ông, vẫn chiếm lấy đống cát. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Moggallāna</span> khuất phục năng lực của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Nāga</span> bằng thần thông (*iddhi*), và khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Aggidatta</span> cùng các đệ tử đến thăm ngài vào sáng hôm sau, họ thấy <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Ahicchatta</span> đứng với mào che đầu <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Moggallāna</span> để che nắng cho ngài. Dhp­a.iii.241ff.
 
 ## Notes

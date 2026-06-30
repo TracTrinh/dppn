@@ -5,7 +5,7 @@ base_headword: "Ambapālisutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambapālisutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapālisutta 01. Được thuyết giảng tại Ambapālivana. Bốn *satipaṭṭhānā* là con đường duy nhất dẫn đến sự thanh tịnh của chúng sinh, và đến sự chứng ngộ *Nibbāna*, v.v. SN.v.140.
 
 ## Notes

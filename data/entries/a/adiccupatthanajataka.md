@@ -5,7 +5,7 @@ base_headword: "Ādiccupaṭṭhānajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,8 @@ The story was related concerning a rogue.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādiccupaṭṭhānajātaka (Ja 175). Câu chuyện về một con khỉ thường đến thăm am thất của một số ẩn sĩ, vị đứng đầu là Bodhisatta; khi họ đi vắng vào làng, nó lật tung mọi thứ trong tầm tay và nói chung gây rất nhiều hư hại. Khi các ẩn sĩ sắp từ làng trở về am thất sau mùa an cư, dân chúng mang đến cho họ nhiều loại thức ăn, và con khỉ, nghĩ rằng sẽ kiếm được phần cho mình, đứng bên ngoài lều của họ thờ mặt trời. Dân chúng, bị ấn tượng bởi dáng vẻ thánh thiện của con khỉ, bắt đầu ca ngợi các đức tính của nó; lúc ấy Bodhisatta tiết lộ cho họ biết bản chất thật của nó (Ja.ii.72-3).
+
+Câu chuyện được kể liên quan đến một kẻ gian trá.
 
 ## Notes

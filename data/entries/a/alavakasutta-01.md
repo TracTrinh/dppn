@@ -5,7 +5,7 @@ base_headword: "Āḷavakasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -33,6 +33,8 @@ The *Sutta* appears both in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavakasutta 01. Ghi lại tám câu hỏi mà Āḷavaka Yakkha hỏi Đức Phật và các câu trả lời do Đức Phật đưa ra. Có nói rằng (Snp-a.i.228) cha mẹ của Āḷavaka đã học các câu hỏi và câu trả lời ấy từ Kassapa Buddha và đã dạy chúng cho Āḷavaka khi vị ấy còn trẻ; nhưng vị ấy không thể nhớ chúng, và để chúng được bảo tồn, vị ấy cho viết chúng trên một lá vàng bằng sơn đỏ, rồi cất giữ trong cung điện của mình. Khi Đức Phật trả lời các câu hỏi, vị ấy nhận thấy các câu trả lời hoàn toàn giống với những câu trả lời do Kassapa đưa ra (Snp-a.i.231).
+
+*Sutta* này xuất hiện cả trong Suttanipāta (pp.31-3) và trong Saṁyuttanikāya (i.213ff). Āḷavakasutta cũng được đưa vào bộ sưu tập Parittas.
 
 ## Notes

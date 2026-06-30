@@ -5,7 +5,7 @@ base_headword: "Ajelakasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Ajelakasutta. Many are those who do not abstain from accepting goats and sheep. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajelakasutta. Nhiều người không kiêng nhận dê và cừu. SN.v.472.
 
 ## Notes

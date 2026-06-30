@@ -5,7 +5,7 @@ base_headword: "Ambajātaka"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambajātaka 01. (Ja 124). During a very severe drought a hermit, living in the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambajātaka 01. (Ja 124). Trong một kỳ hạn hán rất nghiêm trọng, một ẩn sĩ sống ở Himālaya, đứng đầu năm trăm đạo sĩ khổ hạnh, đã cung cấp nước cho các loài vật, dùng thân cây khoét rỗng làm máng. Để tỏ lòng biết ơn, các loài vật mang đến cho ông nhiều loại trái cây, đủ cho chính ông và năm trăm bạn đồng hành. Câu chuyện được kể liên quan đến một vị Tăng rất nhiệt thành trong các bổn phận của mình, làm mọi việc tốt đẹp và hết lòng. Do lòng tốt lớn lao của vị ấy, dân chúng đều đặn mỗi ngày cúng dường thức ăn cho năm trăm vị Tăng. Ja.i.449-51.
 
 ## Notes

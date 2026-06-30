@@ -5,7 +5,7 @@ base_headword: "Ajātasattu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -125,6 +125,54 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="110" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajātasattu. Con của Bimbisāra, vua Magadha, và do đó là anh em cùng cha khác mẹ với Abhayarājakumāra. Ông kế vị cha lên ngôi. Mẹ ông là con gái của Mahā Kosala (Ja.iii.121), và ông cưới Vajirā, con gái của Pasenadi (Ja.iv.343); với bà, ông có một người con trai là Udāyibhadda (DN.i.50).
+
+Ajātasattu lớn lên thành một thanh niên cao quý và tuấn tú. Lúc bấy giờ, Devadatta đang tìm mọi phương cách để trả thù Đức Phật; thấy vị vương tử là một công cụ rất đáng mong muốn, ông dốc hết sức để kéo vị ấy về phía mình. Ajātasattu rất ấn tượng trước các năng lực *iddhi* của Devadatta và trở thành người theo ông hết lòng (Vin.ii.185; Ja.i.185-6). Ông xây cho Devadatta một tu viện tại Gayāsīsa và hầu hạ ông sáng chiều, mang thức ăn đến cho ông, đôi khi nhiều đến năm trăm xe chở trong năm trăm nồi nấu (SN.ii.242).
+
+Devadatta xúi giục ông chiếm ngôi, nếu cần thì giết cha mình. Khi Bimbisāra biết được ý định của vương tử, ông nhường ngôi cho con. Nhưng Devadatta không thỏa mãn cho đến khi Bimbisāra, một trong những người hộ trì hàng đầu của Đức Phật, bị giết. (DN­a.i.135-7). Theo Saṅkiccajātaka (Ja.v.262ff.) ông cũng đã giết cha mình trong các đời trước.
+
+Ajātasattu giúp Devadatta trong nhiều lần người sau cố giết Đức Phật (xem Devadatta). Trong Sañjīvajātaka (Ja. i.510 ff.) chúng ta được kể rằng trong các đời quá khứ ông đã giao du với kẻ tội lỗi và có lần mất mạng vì điều đó.
+
+Về sau, ông đầy hối hận vì những ác nghiệp quá khứ này, như chính ông thú nhận (DN.i.85); nhưng hiển nhiên vì quá xấu hổ, ông tránh đến thăm Đức Phật cho đến khi được thầy thuốc của mình là Jīvaka Komārabhacca thuyết phục. Và cuối cùng, khi ông đến gặp Đức Phật, ông đến trong nỗi sợ hãi và run rẩy lớn; ông lo lắng đến mức tưởng tượng có những kẻ âm mưu ngay trong sự tĩnh lặng bao quanh nơi Đức Phật cư trú trong tu viện, tại vườn xoài của Jīvaka ở Rājagaha (DN.i.49-50; Ja.v.262-9. Một minh họa về cuộc viếng thăm này là chủ đề của một trong các phù điêu trên Barhut Tope; Cunningham, Pl. xvi., fig.36, và p.135).
+
+Chính trong dịp viếng thăm này, Sāmaññaphalasutta được thuyết. Nhà vua thừa nhận rằng trước đó ông đã đến gặp nhiều vị thầy khác nhau, nhưng không tìm được sự thỏa mãn trong giáo huấn của họ. Đáng chú ý là Đức Phật chào đón nhà vua một cách thân tình khi ông đến và hoàn toàn không nhắc đến sự bất kính của nhà vua. Thay vào đó, khi Ajātasattu bày tỏ sự hối hận ở cuối bài giảng, Đức Phật chấp nhận lời thú tội của ông và dường như tha thứ cho ông một cách quá nhẹ nhàng. Nhưng sau khi nhà vua rời đi, Đức Phật nói với các vị sư rằng những ác nghiệp của nhà vua đã gây nên sự suy sụp cho ông cả trong đời này lẫn đời sau; vì nếu ông không phạm những điều ấy, Pháp nhãn (*Sotāpattimagga*, theo Chú giải) đã mở ra cho ông nhân dịp bài pháp này (DN.i.85-6). Người ta nói rằng từ ngày cha ông chết, ông không thể ngủ vì những giấc mộng kinh hoàng, đặc biệt sau khi ông nghe về số phận khủng khiếp của Devadatta (Ja.i.508). Ông ngủ được sau khi thăm Đức Phật (DN­a.i.238).
+
+Từ đó trở đi, nhà vua trở thành một người trung thành với đức tin nơi Đức Phật, mặc dù, theo như chúng ta biết, ông không bao giờ lại hầu Đức Phật hay bất cứ thành viên nào của Tăng đoàn để bàn luận các vấn đề đạo đức (nhưng xem DN­a.i.238, nơi chúng ta được kể: *tiṇṇaṁ ratanānaṁ mahāsakkāraṁ akāsi*, ông đã hết sức tôn kính Tam bảo). Ông đầy lòng thương kính Đức Phật đến mức khi nghe Upaka Maṇḍikāputta nói với Đức Phật có phần thiếu lễ độ, ông lập tức nổi giận (AN.ii.182).
+
+Sakka nói về ông rằng trong số các *puthujjanas*, ông là người có nhiều lòng mộ đạo nhất (DN­a.ii.610). Khi Đức Phật qua đời, vào năm thứ tám triều đại của Ajātasattu (Mhv.ii.32), các đại thần của ông quyết định không báo tin ngay cho ông, phòng khi ông chết vì đau lòng. Lấy cớ ngăn ngừa hậu quả xấu của một giấc mộng, họ đặt ông vào một bồn chứa bốn loại đồ ngọt (*catumadhura*) và nhẹ nhàng báo tin buồn cho ông. Ông lập tức ngất đi, và mãi đến khi họ đặt ông vào hai bồn khác rồi lặp lại tin ấy, ông mới hiểu ý nghĩa của nó (DN­a.ii.605-6). Ông liền chìm vào than khóc và tuyệt vọng lớn, “như một người điên,” nhớ lại các đức hạnh khác nhau của Đức Phật và đi thăm những nơi khác nhau gắn trong tâm ông với Đức Phật. Về sau, ông sai sứ giả đi yêu cầu phần xá-lợi Đức Phật thuộc về mình; khi nhận được, ông kéo dài các nghi lễ tôn kính xá-lợi cho đến khi các *Arahants* phải nhờ Sakka giúp khiến nhà vua đưa xá-lợi về Rājagaha, nơi ông dựng trên đó một bảo tháp bằng đá (DN­a.ii.610). Hai tháng sau, khi Đại Kết Tập lần thứ nhất được tổ chức, ông bảo trợ công việc ấy với tư cách vương quyền và hỗ trợ các vị sư tham dự bằng tất cả khả năng của mình (Vin-a.i.10-11; DN­a.i.8-9).
+
+Nhiều sự kiện liên quan đến triều đại của Ajātasattu được nhắc đến trong các sách.
+
+Bimbisāra đã cưới một em gái của Pasenadi, và khi ông bị giết, bà chết vì đau buồn.
+
+Thu nhập của một làng ở Kāsī đã được cha bà, Mahā Kosala, trao cho bà như một phần của hồi môn; nhưng sau vụ sát hại Bimbisāra, Pasenadi từ chối tiếp tục trao khoản ấy. Vì vậy Ajātasattu tuyên chiến với cậu của mình. Trước đó, cậu và cháu dường như có quan hệ rất thân thiện. Có lần Ajātasattu gửi cho Pasenadi một tấm vải ngoại quốc kỳ diệu, dài mười sáu cubit và rộng tám cubit, được dựng trên một cọc để làm lọng che. Pasenadi trao tấm vải này cho Ānanda (MN.ii.116).
+
+Ban đầu ông chiến thắng trong ba trận, nhưng về sau ông bị Pasenadi đánh bại, người đã theo lời khuyên quân sự của một vị sư già, Trưởng lão Dhanuggahatissa; Ajātasattu bị bắt cùng quân đội của mình. Sau khi cam kết không dùng bạo lực nữa, ông được thả, và để củng cố tình hữu nghị, Pasenadi gả con gái mình là Vajirā cho ông làm vợ, còn thu nhập của ngôi làng đang tranh chấp được tặng cho bà làm tiền tắm (SN.i.82-5; Ja.ii.403-4; Avas. 54-7; Ja.iv.343f.; Dhp­a.iii.259.).
+
+Ajātasattu rõ ràng đón nhận những thất bại của mình một cách rất thiếu phong độ (xem Haritamātajātaka, Ja.ii.237f.)
+
+Về sau, khi vì sự phản bội của đại thần Dīgha Kārāyaṇa của Pasenadi, con trai ông là Viḍūḍabha đoạt ngôi, Pasenadi thấy mình bị bỏ rơi nên đi về phía Rājagaha để tìm sự giúp đỡ của Ajātasattu; nhưng trên đường ông chết vì phơi mình ngoài trời, và Ajātasattu lo việc mai táng cho ông (xem Pasenadi).
+
+Khoảng một năm trước khi Đức Phật qua đời, Ajātasattu sai vị đại thần đứng đầu và người tâm phúc của mình, Bà-la-môn Vassakāra, đến gặp Đức Phật để báo cho Ngài biết ý muốn của ông là gây chiến với người Vajjians, đồng thời tìm xem Đức Phật sẽ tiên đoán gì về cơ hội chiến thắng của ông. Đức Phật cho vị Bà-la-môn biết rằng người Vajjians thực hành bảy điều kiện thịnh vượng mà họ đã học từ Ngài, và do đó họ không thể bị đánh bại (DN.ii.72f). Saṁyuttanikāya nhắc đến lời Đức Phật nói rằng sẽ đến lúc người Vajjians từ bỏ lối sống chuyên cần của họ, và khi ấy cơ hội của Ajātasattu sẽ đến. (SN.ii.268). Theo các Jainas, Ajātasattu giao chiến với Ceḍaga, vua Vesālī, để giành quyền sở hữu một con voi phi thường (Hoernle on Ājīvaka in ERE i.).
+
+Cơ hội ấy đến khoảng ba năm sau, vì nhờ sự phản bội của Vassakāra, ông đã gieo được bất hòa giữa các gia đình đứng đầu của Vesālī. Sau khi làm họ suy yếu như vậy, ông đổ quân xuống nơi ấy với một lực lượng áp đảo và phá hủy hoàn toàn nó (chi tiết xem Licchavī). Có những tin đồn được nhắc đến rằng vua Caṇḍappajjota đang chuẩn bị chiến tranh với Ajātasattu để trả thù cho cái chết của bạn mình là Bimbisāra, nhưng không có chỗ nào nói đến giao tranh thực sự (MN.iii.7; MN­a.ii.853; xem thêm *Buddhist India*, p.13).
+
+Về cuối triều đại của Ajātasattu, các sách nhắc rất ít, ngoại trừ việc ông bị con trai mình là Udaya hoặc Udāyībhadda giết (Mhv.iv.l), người đã sinh vào ngày Bimbisāra chết do các sự tra tấn của ông (DN­a.i.137).
+
+Chúng ta được kể rằng Ajātasattu từng sợ con mình có thể giết mình, và vì thế đã thầm hy vọng Udaya sẽ trở thành một vị sư (DN­a.i.153). Triều đại của Ajātasattu kéo dài ba mươi hai năm (Mhv.ii.31; nhưng xem Geiger’s Introd. to Mhv. trans. xi ff.; cũng xem Samaddar: *Glories of Magadha*, 17, n.3; cũng xem Vincent Smith: *Early History of India*, pp. 26 ff.).
+
+Chính ông là người xây pháo đài Pāṭaliputta, nơi về sau trở thành kinh đô của Magadha.
+
+Chúng ta không biết tên thật của Ajātasattu là gì. Người Jains gọi ông là Kuṇika hoặc Koṇika, nghĩa là cong vẹo, điều này có lẽ lại là một biệt danh (Dial. ii.79, n.1). Tước hiệu Vedehiputta luôn đi kèm tên ông có lẽ nghĩa là “con trai của người phụ nữ Videha.” Vào thời Buddhaghosa, dường như có nhiều lẫn lộn về ý nghĩa của từ này. Theo Buddhaghosa (DN­a.i.139), *Vedehi* nghĩa là “khôn ngoan.” Dường như có một cách giải thích khác mà Buddhaghosa bác bỏ – rằng Ajātasattu là con trai của hoàng hậu Videha. Videhī có lẽ là tên thời con gái, tên gia đình hoặc tên bộ tộc (không phải tên cá nhân) của mẹ ông. Theo một thẩm quyền Tây Tạng, tên cá nhân của bà là Vāsavī, và bà được gọi là Videhī vì bà đến từ Videha (Rockhill, p. 63. Trong các sách Pāḷi, bà thường được nhắc đến là Kosaladevī) (xem thêm Vedehikā.)
+
+Có hai cách giải thích danh hiệu Ajātasattu. Theo Buddhaghosa, ông được gọi như vậy vì các thầy đoán tướng đã tiên đoán sự thù địch của ông với cha mình ngay cả trước khi ông sinh ra; và một câu chuyện được kể về việc mẹ ông, vào lúc mang thai ông, đã thèm uống máu từ đầu gối phải của Bimbisāra. Cơn thèm được thỏa mãn, nhưng khi hoàng hậu nghe lời tiên đoán của thầy đoán tướng, bà đã thử nhiều cách để gây sảy thai (DN­a.i.133ff.; Ja.iii.121-2). Công viên nơi bà cố gây sảy thai được gọi là Maddakucchi, “nghiền nát bào thai” (SN­a.i.61).
+
+Trong việc này, bà bị nhà vua ngăn lại. Về sau, cả cha lẫn mẹ đều trở nên rất yêu thương ông. Có một câu chuyện về vị vương tử, đang nắm ngón tay của cha, đến thăm cung điện kỳ diệu của Jotika và nghĩ rằng cha mình thật ngu ngốc vì không lấy tài sản của Jotika. Khi trở thành vua, ông chiếm cung điện của Jotika. (Dhp­a.iv.211 và 222f). Khi còn là một cậu bé, ông thường cùng cha đến thăm Đức Phật (DN­a.i.152).
+
+Để cho thấy tình thương của Bimbisāra đối với đứa trẻ, một sự kiện được nhắc đến: một lần, khi vị vương tử đang la khóc vì đau do một nhọt ở ngón tay, các nhũ mẫu đưa cậu đến chỗ nhà vua, lúc ấy đang thiết triều. Để dỗ đứa trẻ, nhà vua đặt ngón tay đau vào miệng mình, và nhọt vỡ ra trong đó. Không thể nhổ mủ ra, nhà vua đã nuốt nó (DN­a.i.138). Cách giải thích khác cũng là cách được thấy trong Upaniṣads (Dial.ii.78f), và đây có lẽ là cách đúng. Cách ấy nói rằng từ này nghĩa là “người chưa có kẻ thù nào sinh khởi chống lại.”
+
+Theo Dīgha Commentary, (i.237-8) Ajātasattu sinh vào Lohakumbhīya Niraya sau khi chết. Ông sẽ chịu khổ tại đó trong 60,000 năm, và về sau sẽ đạt *Nibbāna* với tư cách một Pacceka Buddha tên là Viditavisesa (Vijitāvī). Tội giết cha của Ajātasattu thường được nêu làm ví dụ về một *upacchedaka-kamma* có năng lực hủy diệt quả của các thiện nghiệp (e.g., AN­a.i.369). Ông cũng được nhắc đến như loại người giết cha tệ hại nhất (e.g. AN­a.i.335).
+
+Ajātasattu dường như bị người Nigaṇṭhas căm ghét. Lý do có lẽ là điều được nêu trong Dhammapada Commentary (Dhp-a.iii.66f), nơi nói rằng khi Moggallāna bị bọn cướp giết, nhà vua sai gián điệp đi tìm những kẻ sát nhân. Khi bị bắt, những kẻ sát nhân thú nhận rằng chúng đã bị người Nigaṇṭhas xúi giục. Nhà vua bèn chôn năm trăm người Nigaṇṭhas xuống các hố đào trong sân cung điện, sâu đến thắt lưng, rồi cho cày đứt đầu họ.
 
 ## Notes

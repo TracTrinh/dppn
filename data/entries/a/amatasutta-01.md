@@ -5,7 +5,7 @@ base_headword: "Amatasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Amatasutta 01. The Buddha teaches the Deathless and the path thereto. SN.iv.370.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amatasutta 01. Đức Phật dạy về Bất tử và con đường đưa đến đó. SN.iv.370.
 
 ## Notes

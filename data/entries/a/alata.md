@@ -5,7 +5,7 @@ base_headword: "Alāta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -43,6 +43,12 @@ In the text he is sometimes (e.g., pp.221, 230) also called <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alāta. Một đại thần và tướng quân của Aṅgati, vua Videha. Ông được mô tả là khôn ngoan, hay mỉm cười, là cha của nhiều người con và đầy kinh nghiệm. Khi Aṅgati hỏi ý kiến các đại thần về phương cách tìm thú tiêu khiển cho chính mình và thần dân, lời khuyên của Alāta là họ nên xuất quân ra trận với một đạo quân vô số người. Đề nghị của một đại thần khác, Vijaya, là nhà vua nên viếng thăm một *samaṇa* hay Bà-la-môn nào đó, và chính ý kiến này được nhà vua chấp thuận. Sau đó, Alāta thuyết phục Aṅgati đến thăm Ājīvaka Guṇa thuộc gia tộc Kassapa, người hiển nhiên được Alāta bảo trợ. Khi Guṇa giảng giáo thuyết rằng các hành động thiện và ác đều không có quả, ông được Alāta ủng hộ; Alāta nói rằng trong một đời trước ông là Piṅgala, một thợ săn giết bò ở Benares, và rằng ông đã phạm nhiều tội lỗi nhưng chưa từng chịu bất cứ hậu quả xấu nào vì chúng.
+
+Về sau, con gái của Aṅgati là Rujā giải thích rằng sự thịnh vượng hiện tại của Alāta là kết quả của một số việc làm chân chính trong quá khứ, và thời gian cuối cùng sẽ đem lại đau khổ cho ông vì những ác nghiệp của ông. Nàng nói, chính Alāta không biết điều này vì ông chỉ có thể nhớ một đời trước, trong khi chính nàng có thể nhớ bảy đời. Xem Mahā Nāradakasappajātaka (Ja.vi.222ff).
+
+Alāta là một đời trước của Devadatta (Ja.vi.255).
+
+Trong bản văn, đôi khi ông cũng được gọi là Alātaka (e.g., pp.221, 230), có lẽ vì mục đích vần luật.
 
 ## Notes

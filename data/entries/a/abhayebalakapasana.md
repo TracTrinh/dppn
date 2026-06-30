@@ -5,7 +5,7 @@ base_headword: "Abhayebalākapāsāṇa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ It was on the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayebalākapāsāṇa. Một địa điểm ở Anurādhapura, một trong những nơi được bao gồm trong *Sīmā* (ranh giới) do Devānampiyatissa đánh dấu (Mhv.xv.13; xem Phụ lục B trong bản của Geiger).
+
+Nơi ấy nằm trên Abhayavāpi. Mbv.135.
 
 ## Notes

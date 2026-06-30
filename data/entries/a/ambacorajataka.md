@@ -5,7 +5,7 @@ base_headword: "Ambacorajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,8 @@ The story was told about an Elder who had entered the Saṅgha in his old age an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambacorajātaka (Ja 344). Câu chuyện về một đạo sĩ ác độc, người đã dựng cho mình một túp lều trong vườn xoài bên bờ sông gần Benares và ăn những quả xoài chín khi chúng rụng xuống. Để làm ông ta sợ, Sakka khiến vườn cây trông như thể đã bị bọn trộm cướp phá. Vị đạo sĩ, trở về sau vòng khất thực và thấy điều đã xảy ra, cáo buộc bốn cô con gái của một thương nhân vừa vào vườn là đã trộm xoài. Họ phủ nhận lời buộc tội và thề những lời thề đáng sợ để xác nhận lời nói của mình. Sau đó ông ta để họ đi.
+
+Câu chuyện được kể về một Trưởng lão đã gia nhập Tăng đoàn khi tuổi đã cao và, thay vì thực hành các bổn phận của mình, lại chăm nom xoài. Bọn trộm đã lấy xoài của ông, và ông cáo buộc bốn cô con gái của một thương nhân giàu có tình cờ đến thăm công viên là đã trộm. Họ thề để chứng minh rằng mình không có tội và được thả. Ja.iii.137-9.
 
 ## Notes

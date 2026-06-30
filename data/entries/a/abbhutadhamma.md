@@ -5,7 +5,7 @@ base_headword: "Abbhutadhamma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abbhutadhamma. Name given to one of the nine divisions (*aṅga*) of the Dhamma 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhutadhamma. Tên gọi một trong chín phần (*aṅga*) của Pháp (Vin.iii.8; MN.i.133; AN.ii.103; Pug.43; Mil.344, etc.). Buddhaghosa (DN­a.i.24) định nghĩa nó là bao gồm tất cả các đoạn bàn về những điều kỳ diệu, chẳng hạn bốn điều kỳ diệu được mô tả trong Mahā Parinibbānasutta. DN.ii.145.
 
 ## Notes

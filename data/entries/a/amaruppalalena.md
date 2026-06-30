@@ -5,7 +5,7 @@ base_headword: "Amaruppalalena"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amaruppalalena. A cave in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaruppalalena. Một hang động ở tỉnh Malaya của Ceylon. Kākavaṇṇatissa từng sinh ra trong một làng thợ săn gần nơi ấy. Ras.ii.56.
 
 ## Notes

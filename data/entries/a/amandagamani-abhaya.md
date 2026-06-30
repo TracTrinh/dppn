@@ -5,7 +5,7 @@ base_headword: "Āmaṇḍagāmaṇī Abhaya"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -45,6 +45,12 @@ His brother <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmaṇḍagāmaṇī Abhaya (cũng gọi là Āmaṇḍa và Amaṇḍiya). Con trai của Mahā Dāṭhika và là Vua xứ Ceylon trong chín năm tám tháng. Em trai của ông, người cuối cùng đã sát hại ông, là Kanirajānutissa. Ông có hai người con: con trai Cūḷābhaya và con gái Sīvalī. Iḷanāga là cháu trai của ông.
+
+Āmaṇḍagāmaṇī đã làm cao thêm phần đỉnh chóp của bảo tháp Mahā Thūpa và xây dựng thêm các công trình phụ tại Lohapāsāda và Thūpārāma. Ông cũng xây dựng tu viện Rajatalena Vihāra và hồ chứa nước Mahā Gāmeṇḍi ở phía nam Anurādhapura, hồ chứa này về sau được ông dâng cúng để sử dụng cho tu viện Dakkhiṇavihāra.
+
+Ông đã ban hành một sắc lệnh cấm giết mổ động vật ở Ceylon và cho trồng bầu bí khắp nơi. Có lần ông đã cúng dường y và bình bát chứa đầy quả *kumbhaṇḍaka* (bí ngô) cho toàn bộ Tăng chúng trên đảo, và kể từ đó ông được biết đến với tên gọi Āmaṇḍagāmaṇī (từ *Āmaṇḍa* rõ ràng là một từ đồng nghĩa với *Kumbhaṇḍaka*).
+
+Em trai ông là Kanirajānutissa, sau khi sát hại ông, đã kế vị ngôi vua (Mhv.xxxv.1-10; Mhv­ṭ.640). Āmaṇḍagāmaṇī cũng được gọi là Āmaṇḍa và Amaṇḍiya.
 
 ## Notes

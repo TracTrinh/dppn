@@ -5,7 +5,7 @@ base_headword: "Abhidhammatthavikāsinī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Abhidhammatthavikāsinī. A *ṭīkā* on <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammatthavikāsinī. Một *ṭīkā* về Abhidhammāvatāra của Buddhadatta, do Sumaṅgala biên soạn. Gv.62; Svd.v.1227.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhisāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhisāma. A king of fifteen *kappas* ago; a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisāma. Một vị vua cách đây mười lăm *kappas*; một tiền thân của Udakāsanadāyaka Thera. Ap.i.218.
 
 ## Notes

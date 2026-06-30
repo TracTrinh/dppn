@@ -5,7 +5,7 @@ base_headword: "Ādāsamaṇḍapa"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādāsamaṇḍapa. Một trong nhiều tòa nhà do Parakkamabāhu I dựng lên trong Dīpuyyāna ở Pulatthipura. Nó được gọi như vậy vì các bức tường được làm bằng gương. Cv.lxxiii.119.
 
 ## Notes

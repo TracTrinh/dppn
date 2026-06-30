@@ -5,7 +5,7 @@ base_headword: "Adharaṭṭeri"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Adharaṭṭeri. A district in S. India. Cv.lxxvii.69.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adharaṭṭeri. Một quận ở Nam Ấn Độ. Cv.lxxvii.69.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āḷisāra"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷisāra 01. Một địa hạt ở Ceylon, ngày nay là Elahera thuộc địa hạt Matale, về phía đông bắc của Nālanda trên sông Ambaṅgaṅga. Một thời, toàn bộ địa hạt này đã được Vijayabāhu hiến cúng để hộ độ cho các tỳ-kheo ở Pulatthipura (Cv.lx.14, và chú thích của Geiger về vấn đề này trong Cv.Trs.i.215, n.6). Về sau, địa hạt này là nơi diễn ra nhiều cuộc giao tranh giữa quân đội của Gajabāhu và Parakkamabāhu I. Việc chinh phục Āḷisāra đã giúp Parakkamabāhu chiếm được Pulatthipura.
 
 ## Notes

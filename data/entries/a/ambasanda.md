@@ -5,7 +5,7 @@ base_headword: "Ambasaṇḍā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -32,6 +32,8 @@ The name arose from the fact that the village lay in the vicinity of many mango 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasaṇḍā. Một ngôi làng Bà-la-môn ở Magadha, nằm về phía đông thành Rājagaha. Về phía bắc của ngôi làng là núi Vediyaka, nơi có động Indasālaguhā, là nơi kinh Sakkapañhasutta được thuyết giảng. Vào dịp thuyết pháp đó, khi thiên chủ Sakka cùng đoàn tùy tùng đến hầu Phật, cả ngôi làng đã ngập tràn trong ánh sáng rực rỡ (DN.ii.263f).
+
+Tên gọi này phát sinh từ thực tế là ngôi làng nằm ở khu vực lân cận của nhiều vườn xoài. DNa.iii.697.
 
 ## Notes

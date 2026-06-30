@@ -5,7 +5,7 @@ base_headword: "Aḍḍhacelaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aḍḍhacelaka Thera. In a previous birth he gave half a garment to <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhacelaka Thera. Trong một đời trước, ngài dâng một nửa tấm y cho Tissa Buddha. Ngài đã ba mươi hai lần làm vua, dưới các tên Samanta và Odana. Ngài trở thành một *Arahant*. Ap.i.134.
 
 ## Notes

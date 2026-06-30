@@ -5,7 +5,7 @@ base_headword: "Ādiccasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādiccasutta. Cũng như bình minh là điềm báo trước sự mọc lên của mặt trời, tình bạn với người thiện (*kaḷyānamittatā*) cũng là điềm báo trước sự sinh khởi của bảy *bojjhaṅga*. SN.v.101; cp. SN.v.29.
 
 ## Notes

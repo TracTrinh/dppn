@@ -5,7 +5,7 @@ base_headword: "Akusalasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Akusalasutta. The man who is sinful in action of body, speech and mind is born i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akusalasutta. Người có hành vi tội lỗi về thân, khẩu và ý sẽ sinh vào địa ngục. AN.i.292.
 
 ## Notes

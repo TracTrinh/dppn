@@ -5,7 +5,7 @@ base_headword: "Accima"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,8 @@ He had twenty-eight sons and grandsons, of immeasurably long life, who reigned i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accima. Một vị vua. Một trong những hậu duệ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Sammata</span> (Dpv.iii.8; Mvu.ii.5ff.; xem thêm Mvu.i.348. Mhv­ṭ. 126).
+
+Ông có hai mươi tám con và cháu, tuổi thọ dài không thể đo lường, họ trị vì ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kusāvatī</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rājagaha</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mithilā</span>.
 
 ## Notes

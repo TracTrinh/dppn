@@ -5,7 +5,7 @@ base_headword: "Āḷambara"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷambara. Chiếc trống của các Asuras, làm từ càng của con cua ở *Kulīradaha*. (Về câu chuyện, xem Ānaka.) Khi các Asuras bị đánh bại trong trận chiến, họ bỏ chiếc trống lại trong lúc chạy trốn, và Sakka chiếm lấy nó. Âm thanh của nó giống như một tiếng sấm rền, và có lẽ vì lý do đó nó được gọi là Āḷambaramegha. Ja.ii.344.
 
 ## Notes

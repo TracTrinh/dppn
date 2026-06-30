@@ -5,7 +5,7 @@ base_headword: "Adhicittasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Adhicittasutta. The qualities necessary for the monk developing higher conscious
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhicittasutta. Những phẩm chất cần thiết cho vị tỳ-kheo đang tu tập thượng tâm. AN.ii.256f. Bài này được trích trong Chú giải <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vibhaṅga</span>, 229 ff.
 
 ## Notes

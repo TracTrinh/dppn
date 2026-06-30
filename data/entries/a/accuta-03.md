@@ -5,7 +5,7 @@ base_headword: "Accuta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Accuta 03. A hermit, black-toothed and with matted hair, who lived in the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accuta 03. Một ẩn sĩ, răng đen và tóc bện, sống trong rừng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vaṅka</span> gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vaṅkagiri</span>. Ông chỉ đường cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jūjaka</span> đến nơi cư trú của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Vessantara</span> trong rừng (Ja.vi.532). Ông là một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sāriputta</span> (Ja.vi.593).
 
 ## Notes

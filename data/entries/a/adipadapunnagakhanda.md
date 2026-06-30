@@ -5,7 +5,7 @@ base_headword: "Ādipādapunnāgakhaṇḍa"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādipādapunnāgakhaṇḍa. Một địa phương ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rohaṇa</span> phía nam Ceylon. Nơi này thuộc quận <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Guttasāla</span>. Tại đây đã diễn ra một cuộc chạm trán giữa các lực lượng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Parakkamabāhu I</span> và lực lượng của quân nổi dậy ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Rohaṇa</span>. Cv.lxxv.14.
 
 ## Notes

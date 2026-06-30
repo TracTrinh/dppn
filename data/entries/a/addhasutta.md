@@ -5,7 +5,7 @@ base_headword: "Aḍḍhasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aḍḍhasutta. That Ariyan disciple is wealthy who possesses four things: unwav
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhasutta. Vị đệ tử bậc Thánh nào sở hữu bốn điều thì vị ấy là người giàu có: lòng trung thành không lay chuyển đối với Đức Phật, Dhamma và Saṅgha, cùng các đức hạnh được bậc Thánh tôn trọng. SN.v.402.
 
 ## Notes

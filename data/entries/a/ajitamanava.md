@@ -5,7 +5,7 @@ base_headword: "Ajitamāṇava"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -49,6 +49,16 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitamāṇava. Một trong các đệ tử của Bāvarī đã đến thăm Đức Phật theo yêu cầu của thầy mình. Ông là người đầu tiên hỏi Đức Phật, và những câu hỏi do ông nêu tạo thành Ajitamāṇavapucchā thuộc Pārāyaṇavagga của Suttanipāta (Sn.197f). Vào cuối cuộc đàm thoại, ông trở thành *Arahant* cùng với một nghìn người theo và gia nhập Saṅgha (Snp-a.587, nhưng xem Thag­a. (*infra*), nơi ông được nói là về sau mới trở thành một *Arahant*).
+
+Ông là con trai của một Bà-la-môn ở Sāvatthī, người định giá (*aggāsaniya*) cho vua Kosala (Thag­a.i.73f).
+
+Theo Aṅguttara Commentary (i.184), ông là cháu trai của Bāvarī, và vị sau đặc biệt yêu cầu ông trở về báo tin về cuộc gặp với Đức Phật (Thag­a.loc cit).
+
+Trong một đời trước, ông đã dâng một quả *kapiṭṭha* cho Vipassī Buddha. Có lẽ ông nên được đồng nhất với Kapiṭṭhaphaladāyaka Thera trong Apadāna (Ap.ii.449).
+
+Một bài kệ được gán cho Ajitamāṇava được tìm thấy trong Theragāthā (v.20).
+
+Ajitapucchā được nhắc đến trong Saṁyutta, (ii.47f) nơi chúng được Đức Phật giải thích cho Sāriputta.
 
 ## Notes

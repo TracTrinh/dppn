@@ -5,7 +5,7 @@ base_headword: "Abbhasa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abbhasa *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhasa *v.l.* Ambaraṁsa. Mười một *kappas* trước có ba mươi lăm vị vua tên Abbhasa, tất cả đều là các đời trước của Nīta Thera (Thag­a.i.182).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Amitodana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -38,6 +38,10 @@ In Sanskrit sources (e.g., Rockhill, p.13, and Bigandet i.13; see also Mvu.i.352
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amitodana. Con trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sīhahanu</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kaccānā</span> (con gái của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devadahasakka</span>) và là anh em trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Suddhodana</span> (Mhv.ii.20; Snp-a.i.357).
+
+Ông là cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Mahā Nāma</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Anuruddha</span> (Dhp­a.iv.124). Ở nơi khác (DN­a.ii.492; AN­a.i.162) <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ānanda</span> cũng được gọi là con trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Amitodana</span>.
+
+Trong các nguồn Sanskrit (ví dụ, Rockhill, p.13, và Bigandet i.13; xem thêm Mvu.i.352), ông được nói đến với tên Amṛtodana và là cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Devadatta</span>. Cũng có nhắc đến một người con trai khác của ông, Sakka Paṇḍu, người đã thoát khỏi cuộc tàn sát người <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Sākiyans</span> bởi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Viḍūḍabha</span>. Mhv.viii.18,19.
 
 ## Notes

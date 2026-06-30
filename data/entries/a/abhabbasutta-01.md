@@ -5,7 +5,7 @@ base_headword: "Abhabbasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhabbasutta 01. Various events and the conditions requisite for their presence 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhabbasutta 01. Nhiều sự kiện khác nhau và các điều kiện cần thiết để chúng hiện diện AN.v.144f.
 
 ## Notes

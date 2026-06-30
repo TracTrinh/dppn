@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggabodhi 05. Cousin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 05. Anh em họ của Dāṭhopatissa II. (CE 650-58), dưới thời vị này ông là *Yuvarāja*, cai trị Dakkhiṇadesa. Cv.xlv.23.
 
 ## Notes

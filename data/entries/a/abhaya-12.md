@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "12"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhaya 12. A brigand, commonly called <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 12. Một tên cướp, thường được gọi là Cora Abhaya (*q.v.*).
 
 ## Notes

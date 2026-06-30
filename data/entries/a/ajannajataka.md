@@ -5,7 +5,7 @@ base_headword: "Ājaññajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,10 @@ The story was told to a monk who had given up striving. Ja.i.181-2.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājaññajātaka (Ja 24). Một lần, khi Brahmadatta đang trị vì ở Benares, bảy vị vua bao vây thành. Một chiến sĩ được Brahmadatta sai đi đã thắng hai con ngựa (anh em) vào xe, rồi xông ra khỏi thành, đánh bại sáu doanh trại và bắt sáu vị vua. Ngay lúc ấy, con ngựa anh (chính là Bodhisatta) bị thương. Người đánh xe tháo giáp của con ngựa khi nó nằm nghiêng, rồi bắt đầu trang bị cho một con ngựa khác. Bodhisatta nói với người đánh xe rằng, là một con ngựa Ājañña, ngài phải tiếp tục chiến đấu. Người đánh xe đỡ ngài đứng dậy, và với sự trợ giúp của ngài, chiếm được doanh trại thứ bảy cùng vị vua của doanh trại ấy.
+
+Bodhisatta, sau khi khuyên vị vua chiến thắng hãy tỏ lòng khoan dung với các tù binh, đã chết; thân ngài được hỏa táng với đầy đủ nghi lễ tôn kính.
+
+Câu chuyện được kể cho một vị sư đã từ bỏ nỗ lực tinh tấn. Ja.i.181-2.
 
 ## Notes

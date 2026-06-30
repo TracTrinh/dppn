@@ -5,7 +5,7 @@ base_headword: "Acelakavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Acelakavagga. Fifth of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acelakavagga. Phẩm thứ năm thuộc Pācittiya của Vinayapiṭaka. Vin.iii.195ff.; ibid., v.19-21.
 
 ## Notes

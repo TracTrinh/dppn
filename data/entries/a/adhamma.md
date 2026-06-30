@@ -5,7 +5,7 @@ base_headword: "Adhamma"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Adhamma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhamma. Một vị thần Kāmāvacara, tức Devadatta trong một đời trước. Ông hiện ra với người ta vào các ngày trai giới và khuyên họ sống đời ác. Một lần ông gặp Dhamma (Bodhisatta), và hai vị thảo luận giữa không trung; cuối cùng Adhamma lao đầu xuống địa ngục (Ja.iv.100-3). Cỗ xe của ông được gọi là Adhammayāna.
 
 ## Notes

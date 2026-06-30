@@ -5,7 +5,7 @@ base_headword: "Akatuññatāsutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akatuññatāsutta 01. One who is of bad conduct in deed, word and thought, and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akatuññatāsutta 01. Người có ác hạnh về thân, khẩu và ý, và bất tri ân; sẽ tái sinh vào địa ngục. AN.ii.226.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Addhavagga"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Addhavagga 01. Third section of the *Pañcakanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Addhavagga 01. Phần thứ ba của *Pañcakanipāta* thuộc Jātaka Commentary Ja.iii.211-227.
 
 ## Notes

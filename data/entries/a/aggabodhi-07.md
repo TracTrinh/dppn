@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggabodhi 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 07. Aggabodhi IV. Vua của Ceylon; cũng được gọi là Sirisaṅghabodhi; ông trị vì trong khoảng CE 626 và 641 và chết vì một căn bệnh không thể chữa khỏi. Cv.xlvi.1-38.
 
 ## Notes

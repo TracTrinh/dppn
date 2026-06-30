@@ -5,7 +5,7 @@ base_headword: "Accuta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Accuta 01. A treasurer who, in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accuta 01. Một vị trưởng giả, vào thời <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kakusandha</span>, đã xây một *saṅghārāma* bằng gạch vàng tại nơi về sau <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Anāthapiṇḍika</span> xây <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jetavanārāma</span> (Ja.i.94; Ap­a.i.82). Ông là nam cư sĩ đệ tử chính của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kakusandha</span> và là một *Mahā Sāla seṭṭhi*. DN­a.ii.424; xem thêm Bv.xxiii.22.
 
 ## Notes

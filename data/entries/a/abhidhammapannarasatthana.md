@@ -5,7 +5,7 @@ base_headword: "Abhidhammapaṇṇarasaṭṭhāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhidhammapaṇṇarasaṭṭhāna. A treatise by Nava <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhidhammapaṇṇarasaṭṭhāna. Một luận thư của Nava Vimalabuddhi. Gv.64, 74.; Bode, 27-8.
 
 ## Notes

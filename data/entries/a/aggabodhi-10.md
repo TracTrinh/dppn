@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "10"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aggabodhi 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 10. Aggabodhi VII. Vua của Ceylon (CE 766-72), con trai của Mahinda I. Trước tiên ông là người cai trị Dakkhiṇadesa và, về sau, đồng vương với Aggabodhi VI. Ông cưới Saṅghā, con gái của vị sau, và trở thành vua khi vị ấy qua đời. Cv.xlviii.39, 60, 61, 68, 80.
 
 ## Notes

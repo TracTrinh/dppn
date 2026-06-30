@@ -5,7 +5,7 @@ base_headword: "Abbhañjanadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Abbhañjanadāyaka Thera. An *Arahant*. In a previous birth he had given ointmen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhañjanadāyaka Thera. Một *Arahant*. Trong một đời trước, vị ấy đã dâng thuốc xức cho Koṇḍañña Buddha. Do kết quả ấy, mười lăm *kappas* trước vị ấy sinh làm một Cakkavatti tên Cirappa. Ap.i.236.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Alomā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,8 @@ She thought constantly of her gift, and after death was born in a *vimāna* in <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alomā (Alonā?) (dị bản: Ālomā). Một phụ nữ nghèo ở Benares. Bà nhìn thấy Đức Phật đang đi khất thực, và vì không có gì khác để cúng dường, bà đã dâng lên Ngài, với tâm tịnh tín sâu sắc, một ít thịt khô đã cũ và không có muối.
+
+Bà liên tục nghĩ về vật phẩm cúng dường của mình, và sau khi qua đời, bà được tái sinh vào một *vimāna* ở cõi trời Tāvatiṁsa, nơi Moggallāna đã tình cờ gặp bà và được nghe kể lại câu chuyện của bà. Vv.39; Vv-a.184.
 
 ## Notes

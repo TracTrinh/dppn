@@ -5,7 +5,7 @@ base_headword: "Abhayagiri,"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -131,6 +131,34 @@ In the chronicles <span class="dppn-term dppn-term-t14" data-dppn-term-pos="113"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayagiri, Abhayagirivihāra, Abhayuttaravihāra. Một cơ sở tu viện nổi tiếng ở phía bắc Anurādhapura, gồm một *vihāra* và một *Thūpa* lớn. Hiện nay chỉ còn *Thūpa* đứng đó. Công trình được vua Vaṭṭagāmaṇī Abhaya xây trên nền Titthārāma cổ, 217 năm, 10 tháng và 10 ngày sau khi Mahā Vihāra được thành lập (Mhv.xxxvii.78-83). Truyền thống kể rằng khi vua chạy trốn khỏi người Tamil, ông đi ngang Titthārāma, và *Nigaṇṭha* Giri, khi ấy sống tại đó, đã buông lời xúc phạm ông. Nhà vua nguyện rằng nếu ông được trở lại ngai vàng, ông sẽ xây một *vihāra* tại nơi ấy (Mhv.xxxvii.43-4); ông đã thực hiện lời nguyện, và tên của *vihāra* là sự kết hợp giữa tên của chính ông và tên của vị *Nigaṇṭha*. Tu viện được giao cho Thera Mahā Tissa xứ Kuppikala và hai vị tăng khác phụ trách, vì Kuppikala đã giúp đỡ nhà vua trong cơn hoạn nạn.
+
+*Vihāra* ấy nhanh chóng tăng tiến về tài sản và quyền thế, nhưng chẳng bao lâu các vị tăng ly khai khỏi huynh đệ đoàn Mahā Vihāra bởi vì, theo Mahā Vaṁsa (Mhv.xxxvii.95ff), một vị trụ trì của Mahā Vihāra tên Mahā Tissa bị trục xuất khỏi tu viện vì thường lui tới các gia đình cư sĩ. Đệ tử của vị ấy, Bahalamassutissa, tức giận đi đến Abhayagiri và lập một phe riêng.
+
+Một biên niên sử Sinhala, Nikāya Saṅgraha (pp.11, 12; also PLC.42), nói rằng không lâu sau các phần tử bất đồng ấy được một nhóm tăng Vajjiputtaka từ Pallārāma ở Ấn Độ, dưới sự lãnh đạo của một thầy tên Dhammaruci, gia nhập; giáo phái mà họ cùng lập ở Ceylon được gọi là Dhammarucinikāya, đặt trụ sở tại Abhayagiri.
+
+Trong một thời gian khá dài, hai huynh đệ đoàn, tức Mahā Vihāra và Abhayagiri, dường như sống trong hòa thuận, cùng hưởng sự bảo trợ rộng rãi của các thí chủ (Ibid., 52f.; Mhv.xxxv.20, 57, 119-22; xxxvi.7-14). Như vậy, Gajabāhukagāmaṇi nâng chiều cao của Abhayuttarathūpa (dường như *Thūpa* tại Abhayagiri được gọi như vậy) và làm hồ Gāmaṇitissa để dùng cho việc canh tác đất đai nhằm duy trì *vihāra* (ibid., xxxv.119-22); Kaniṭṭhatissa xây một công trình nguy nga trong cùng *vihāra* ấy cho Thera Mahā Nāga; công trình được gọi là Ratanapāsāda (xxxvi.7, 8.).
+
+Nhưng dưới triều Vohārakatissa, các vị tăng Abhayagiri công khai chấp nhận *Vaitulya Piṭaka* dị giáo (của những người Mahāyāna, xem Mhv. trans. 259, n.2). Nhà vua mở một cuộc điều tra với sự trợ giúp của đại thần Kapila; các sách dị giáo bị đốt và các vị tăng Abhayagiri bị làm nhục (Mhv.xxxvi.40-1).
+
+Tuy nhiên, không lâu sau đó, những người dị giáo lôi kéo được vua Mahā Sena về phía họ và phá hủy cơ sở Mahā Vihāra, mang tất cả vật liệu về Abhayagiri (PLC. 53; Mhv.xxxvii.10-16). Về sau, Mahā Sena hối cải, đốt sách của các vị tăng Abhayagiri và chuyển sự bảo trợ của mình sang Mahā Vihāra. Nhưng huynh đệ đoàn Abhayagiri hẳn đã sớm khôi phục uy tín, vì ta thấy người kế vị Mahā Sena là Sirimeghavaṇṇa trồng một cây Bodhi (gọi là Tissavasabha) (Cv.trans. i.9, n.3) tại Abhayagiri và xây quanh nó một thềm đá (Cv.xxxvii.91). Vài năm sau, cả Mahā Nāma (409-31) và hoàng hậu của ông đều trở thành những người tích cực ủng hộ Abhayagiri (Cv.xxxvii.212). Dhātusena được nói là đã mở rộng Abhayuttaravihāra (Cv.xxxviii.61), và Silākāla được ghi nhận có nhiều cúng dường cho *vihāra* và cây Bodhi của nơi ấy (Cv.xli.31-2); Mahā Nāga tặng làng thợ dệt Jambela cho Uttaravihāra (một tên khác của Abhayagiri; xem Cv. trans. i.8, n.2; 61, n.6.); Aggabodhi I. xây một hồ tắm tại đó (Cv.xlii.28), trong khi người kế vị ông, Aggabodhi II, xây nhà Dāṭhāggabodhi, được gọi như vậy theo tên ông và hoàng hậu của ông (Cv.xlii.63-5).
+
+Trong tu viện Abhayagiri dường như có một tượng đá của Đức Phật, được gọi bằng nhiều tên khác nhau: Silāsambuddha, Kāḷasela, Kāḷasatthā, Silāsatthā và Silāmayamuninda. Cv.xxxix.7; xxxviii.65; 61.2; see also vv.51, 77, 87. Cũng có một tượng khác tại Abhayagiri gọi là Abhiseka (*q.v.*).
+
+Tượng ấy rõ ràng được xem là đặc biệt linh thiêng. Buddhadāsa đặt một *nāgamaṇi* vào mắt tượng (Cv.xxxvii.123); vật này sớm bị mất, và ta thấy Dhātusena thay thế nó, trang hoàng và tô điểm pho tượng theo nhiều cách khác nhau (chi tiết xem Cv.xxxviii.62ff). Silāmeghavaṇṇa cho phục dựng và trang trí lại tượng, đồng thời lập sự cấp dưỡng để duy trì tượng (Cv.xliv.68). Cũng vị vua ấy, theo lời kể, đã cố tiến hành cải cách các vị tăng Abhayagiri, nhưng nỗ lực này cuối cùng đem tai họa đến cho ông (Cv.xliv.75ff). Jeṭṭhatissa tặng cho *vihāra* làng Mahā Dāragiri (Cv.xliv.96). Dāṭhopatissa xây Kappūrapariveṇa gắn với *vihāra*, và cũng xây một tu viện Tiputthulla, lấn vào khuôn viên Mahā Vihāra bất chấp sự phản đối của các vị tăng thuộc nơi sau (Cv.xlv.29ff). Aggabodhi VII thêm Sabhattudesabhoga (Cv.xlviii.64), và Mahinda II. thêm pariveṇa Mahā Lekha cũng như Ratanapāsāda nhiều tầng với đồ trang hoàng quý giá (Cv.xlviii.135-40; see also Geiger’s trans. 123, n.2).
+
+Sena I. xây Viraṅkurārāma và trao nó cho Mahā Saṅghikas (Cv.l.68-9), trong khi vương hậu Saṅghā của ông dựng một nhà ở, Mahindasena (Cv.l.79), và cận thần Uttara của ông dựng thêm một nhà ở khác, gọi là Uttarasena, mà ông cũng cung cấp phương tiện duy trì. Hai cận thần khác, Vajira và Rakkhasa, xây hai nhà ở, lần lượt gọi là Vajirasenaka và Rakkhasa (Cv.l.83).
+
+Dưới triều Sena II., các vị tăng Paṁsukūlika, trước đó hiển nhiên đã sống tại Abhayagiri (Cv. trans. i.108, n.1), tách ra và lập các nhóm riêng. Saṅghā, hoàng hậu của Udaya II., dựng và cấp dưỡng công trình được gọi là Saṅghasenapabbata (Cv.li.86-7). Kassapa IV. xây một *pāsāda* mang tên mình và cấp cho nó một làng (Cv.lii.13; Cv.trs. i.162, n.4), trong khi người kế vị ông, Kassapa V., dựng Bhaṇḍikāpariveṇa và Silāmeghapabbata, cấp cho mỗi nơi một làng (Cv.lii.58-9).
+
+Sena III. chi 40,000 *kahāpaṇas* để lát đá quanh *cetiya*. Các vị tăng Abhayagiri giúp đỡ cả Vijayabāhu I. (khi ấy gọi là Kitti) và em trai ông, và vì biết ơn, Vijayabāhu xây Uttaramūla *pariveṇa*, có lẽ gắn với chính *vihara* ấy (Cv.lvii.18, 23).
+
+Dưới triều Parakkamabāhu I., khi vị quân vương ấy đã củng cố ngôi báu, người ta nói rằng ông cố cải cách các vị tăng của Abhayagiri, nhưng thấy công việc ấy vô vọng (Cv.lxxviii.21ff). Ông thấy Abhayagirithūpa đã bị sự phá hoại của người Tamil hủy hoại, và cho phục dựng nó đến chiều cao 160 cubit (Cv.lxxviii.98). Khi Anurādhapura cuối cùng bị bỏ hoang, Abhayagiri rơi vào cảnh hoang phế và suy tàn, tu viện bị phá hủy hoàn toàn.
+
+Rõ ràng ngay từ đầu đã có sự kình địch đáng kể giữa các vị tăng Abhayagiri và các vị tăng Mahā Vihāra. Sự kình địch ban đầu dường như chủ yếu mang tính cá nhân, nhưng về sau phát triển thành những khác biệt trong quan điểm giáo lý. Về bản chất chính xác của những khác biệt sau này, chúng ta không có thông tin, chủ yếu vì việc đốt sách được các vị vua sùng đạo thực hiện trong nhiệt tâm quá mức đối với sự thanh tịnh của Giáo pháp. Vì cùng lý do đó, chúng ta không thể xác định huynh đệ đoàn Abhayagiri đã đóng vai trò gì, nếu có, trong hoạt động văn học. Tuy nhiên, đã có ý kiến cho rằng cả Jātaka Commentary (PLC.124, 125) và Sahassavatthuppakaraṇa (PLC.128), một tuyển tập truyện khác, đều là tác phẩm của các vị tăng Abhayagiri.
+
+Fa-Hsien hiển nhiên đã ở hai năm tại Ceylon với huynh đệ đoàn Abhayagiri, vì những sách ông mang đi là sách của các trường phái không chính thống. Theo ông, vào thời ấy có 5,000 vị tăng tại Abhayagiri (Faxian’s *Travels*, 67ff).
+
+Trong các biên niên sử, Abhayagiri được nhắc đến bằng nhiều tên: Abhayuttara, Abhayavihāra, Abhayācala và Uttaravihāra.
 
 ## Notes

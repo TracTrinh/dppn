@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "06"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Abhaya 06. King of Ceylon (414-394 B.C.). He was the eldest son of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 06. Vua của Ceylon (414-394 B.C.). Ông là con trai trưởng của Paṇḍuvāsudeva và trị vì ở Upatissagāma. Về sau, khi kẻ tiếm vị Paṇḍukābhaya lên ngôi, ông ta giết cả chín người cậu khác của mình, chỉ tha cho Abhaya, vì người sau đã đối xử thân thiện với cả ông ta và mẹ ông ta, Ummādacittā (chính ông đã ngăn không cho Cittā bị giết lúc mới sinh, Mhv.ix.3). Abhaya được đặt làm *Nagaraguttika* (Người Bảo Vệ Thành), điều hành chính quyền vào ban đêm; ông là người đầu tiên giữ chức vụ ấy. Mhv.ix.3, 9; x.52, 80, 105.
 
 ## Notes

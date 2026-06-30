@@ -5,7 +5,7 @@ base_headword: "Abhayarājapariveṇa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ He built it in order that he might give the merits arising there from to his fat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayarājapariveṇa. Một công trình do vua Vijayabāhu IV. dựng lên liên quan đến Vanaggāmapāsāda *Vihāra*.
+
+Ông xây nó để có thể hồi hướng công đức phát sinh từ đó cho cha mình, Parakkamabāhu II. Công trình được cấp dưỡng dồi dào (Cv.lxxxviii.51-2; Cv. trans. ii.186, n.4).
 
 ## Notes

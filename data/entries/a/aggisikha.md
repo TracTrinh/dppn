@@ -5,7 +5,7 @@ base_headword: "Aggisikha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggisikha. The name borne by the Thera <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggisikha. Tên mà Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gatasaññaka</span> mang khi trong các tiền kiếp, ngài là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> ba lần liên tiếp. Ap.i.127.
 
 ## Notes

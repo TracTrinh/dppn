@@ -5,7 +5,7 @@ base_headword: "Ākaṅkheyyasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,10 @@ This *Sutta* is often mentioned (e.g., DN­a.i.50; MN­a.i.13) as an example of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākaṅkheyyasutta 01. Bài kinh thứ sáu của kinh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Majjhimanikāya</span>, được thuyết giảng tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span>.
+
+Một vị tỳ-kheo phải tuân giữ giới hạnh (*sīla*), *Pātimokkha* và các điều học (*sikkhāpadas*), cho dù ước nguyện của vị ấy là gì, dù là được các đồng phạm hạnh yêu mến, được dâng cúng y phục v.v..., đạt được bốn tầng thiền chứng (*jhāna*), chấm dứt khổ đau (*dukkha*) hay sở hữu các thần thông như *dibbacakkhu* (thiên nhãn), v.v... (MN.i.33-6)
+
+Bài kinh này thường được đề cập đến (ví dụ: DN­a.i.50; MN­a.i.13) như là một ví dụ về bài kinh do Đức Phật tự thuyết giảng theo ý nguyện của riêng Ngài (*attano ajjhāsayeneva*).
 
 ## Notes

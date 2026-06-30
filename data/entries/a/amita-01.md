@@ -5,7 +5,7 @@ base_headword: "Amitā"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Amitā 01. One of the two chief women disciples of Padumuttara Buddha (Bv.xi.25;
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amitā 01. Một trong hai nữ đệ tử chính của Padumuttara Buddha (Bv.xi.25; Ja.i.37; SN­a.ii.68; DN­a.ii.489).
 
 ## Notes

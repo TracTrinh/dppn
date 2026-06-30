@@ -5,7 +5,7 @@ base_headword: "Ānandā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -33,6 +33,10 @@ The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānandā. Một trong năm người con gái của chánh cung vương hậu của vua thuộc vương triều Okkāka thứ ba (DN­a.i.258: Snp-a.i.352).
+
+Tác phẩm Mahā Vaṁsaṭīkā (tr. 84) nói rằng Okkāka là vị vua trẻ nhất trong số mười sáu vị vua của vương triều Mahā Sammata và không đề cập đến ba vương triều Okkāka.
+
+Tên chánh cung vương hậu của Okkāka là Hatthā (*v.l.* Bhattā).
 
 ## Notes

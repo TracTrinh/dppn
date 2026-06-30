@@ -5,7 +5,7 @@ base_headword: "Āḷāra Kālāma"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -44,6 +44,12 @@ As already stated above, the aim of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷāra Kālāma. Một trong hai vị thầy mà Gotama, sau khi xuất gia, trước tiên nương theo; vị kia là Uddaka Rāmaputta. Trong Milindapañha (p.236), Āḷāra được nhắc đến như vị thầy thứ tư của Gotama. Thīg­a. (p.2) nói rằng ngài đến với Bhaggava trước khi đến với Āḷāra. *Mahā Vastu* (ii.117f.) và *Lalitavistara* (330f), đưa ra những tường thuật hoàn toàn khác.
+
+Trong Ariyapariyesanāsutta (MN.i.163-5; cũng 240ff; ii.94ff, 212ff), Đức Phật mô tả chuyến viếng thăm của ngài đến Āḷāra. Gotama nhanh chóng nắm vững giáo thuyết của ông và có thể tụng lại thuộc lòng; nhưng vì tin chắc rằng Āḷāra không chỉ biết giáo thuyết ấy mà còn đã chứng nghiệm nó, ngài đến gặp ông và hỏi ông về điều ấy. Khi đó Āḷāra tuyên bố *Ākiñcaññāyatana*, và Gotama, phát khởi tinh tấn và định lực lớn hơn của Āḷāra, tự mình làm chủ trạng thái ấy. Āḷāra nhận ra sự lỗi lạc của đệ tử mình và đối xử với ngài như một người ngang hàng, nhưng Gotama, vì chưa thành công trong cuộc tìm cầu của mình, từ biệt Āḷāra để đi nơi khác (Vibh­a.432). Khi, sau khi đã thực hành khổ hạnh trong sáu năm, Đức Phật đạt Giác ngộ và chấp thuận lời thỉnh cầu của Sahampati về việc thuyết giảng giáo pháp, ngài trước hết nghĩ đến Āḷāra như người thích hợp nhất để nghe giáo pháp. Nhưng Āḷāra đã chết bảy ngày trước đó (Vin.i.7).
+
+Các sách nhắc rất ít điều khác về Āḷāra. Mahā Parinibbānasutta (DN.ii.130; Vsm.330) nhắc đến một người Mallian, Pukkusa, người nói rằng ông từng là đệ tử của Āḷāra, nhưng khi nghe bài pháp của Đức Phật, ông tuyên bố niềm tin nơi Đức Phật. Pukkusa mô tả Āḷāra với Đức Phật là một người thực hành đại định. Có lần Āḷāra đang ngồi ngoài trời và dù thức tỉnh và có ý thức, ông không thấy cũng không nghe năm trăm cỗ xe đi ngang qua.
+
+Như đã nói ở trên, mục tiêu các thực hành của Āḷāra được nêu là đạt đến *Ākiñcaññāyatana*, tầng bậc của vô sở hữu. Liệu lời này được truyền lại với bất kỳ tri thức thực sự nào về các sự kiện trong giáo thuyết của ông hay không, nay không thể nói được. Aśvaghoṣa, trong *Buddhacarita* (xii.17ff), đặt vào miệng Ārāda hay Āḷāra một bản tường thuật ngắn về triết học của ông. Nó có một số nét tương tự - dù rất ít - với triết học *Sāṅkhya*, nhưng trong giáo thuyết của Āḷāra, một số đặc điểm nổi bật của hệ thống *Sāṅkhya* lại vắng mặt. Để trả lời các câu hỏi của Gotama về đời sống tôn giáo và việc đạt được giải thoát cuối cùng, Āḷāra mô tả một hệ thống phát triển tâm linh đồng nhất với các phương pháp của vị tỳ-kheo Phật giáo cho đến thành tựu áp chót. Vị tỳ-kheo đạt đến bốn *jhānas*, rồi lần lượt đạt đến các trạng thái về không gian, vô biên và vô sở hữu. Ba tầng bậc cuối được mô tả bằng thuật ngữ của ba tầng đầu trong bốn Chứng đắc (để xem thảo luận về điều này, xem Thomas: *Life and Legend of the Buddha*, p.229-30; xem thêm MN­a.ii.881; Vibh­a.432). Theo Buddhaghosa (AN­a.i.458), Bharaṇḍu Kālāma là đệ tử của Āḷāra cùng thời với Gotama, và do đó được mô tả là *purāṇa-sabrahmacārī* của Đức Phật (AN.i.277). Buddhaghosa còn cho chúng ta biết (DN­a.ii.569) rằng trong Āḷāra Kālāma, Āḷāra là tên riêng của ông. Ông được gọi như vậy vì ông là *dīgha-piṅgala* (dài và nâu vàng) (tên này thật ra có nghĩa là “cong”).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aggabodhi"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aggabodhi 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggabodhi 03. Aggabodhi II, vua của Ceylon (CE 601-611). Cháu gọi Aggabodhi I là chú/bác. Cũng được gọi là Khuddaggabodhi hoặc Khuddarāja. Cv.xlii.38f.
 
 ## Notes

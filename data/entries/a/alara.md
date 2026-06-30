@@ -5,7 +5,7 @@ base_headword: "Aḷāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -41,6 +41,12 @@ Later he was born in the *Brahma*-world. See the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḷāra. Một địa chủ ở Mithilā, cũng được mô tả là Videha và Videhīputta, một cư dân của xứ Videha (Ja.v.166, 167). Khi đang đi công việc trên một cỗ xe, cùng với năm trăm xe hàng tháp tùng, ông thấy vua Nāga Saṅkhapāla bị những người phóng đãng đã bắt được vị ấy ngược đãi; vì thương xót Nāga, Aḷāra tặng quà cho những người ấy và vợ của họ, nhờ đó giải thoát cho vị ấy. Sau đó, Saṅkhapāla mời Aḷāra đến vương quốc Nāga, nơi Aḷāra sống trong mọi sự huy hoàng suốt một năm.
+
+Về sau, nhận ra rằng những sở hữu kỳ diệu của Nāga là quả của những thiện nghiệp đã làm trong quá khứ, ông trở thành một ẩn sĩ ở Himavā và sau đó cư trú trong vườn thượng uyển của vua ở Benares. Nhà vua thấy ông trong khi ông đi khất thực, hoan hỷ với phong thái của ông và mời ông vào cung. Ở đó, theo lời thỉnh cầu của nhà vua, ông kể cho vua nghe câu chuyện về cuộc gặp gỡ với Saṅkhapāla và đời sống sau đó của mình, rồi khuyên nhà vua làm các việc phước thiện.
+
+Về sau ông được sinh vào cõi Brahma. Xem Saṅkhapālajātaka (Ja 521). (v.161ff.).
+
+Aḷāra là một đời trước của Sāriputta (Ibid., 177). (Āḷāra.)
 
 ## Notes

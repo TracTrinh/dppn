@@ -5,7 +5,7 @@ base_headword: "Acelasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Acelasutta 01. Contains a series of questions asked of the Buddha by a *paribbā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acelasutta 01. Chứa một loạt câu hỏi do một *paribbājaka* tên là Acela Kassapa, có lẽ là Acela Kassapa (3), đặt ra với Đức Phật. SN.ii.18f.
 
 ## Notes

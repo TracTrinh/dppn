@@ -5,7 +5,7 @@ base_headword: "Āmagandha"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -32,6 +32,8 @@ Then one day the Buddha, with his monks, visited the same village, and the peopl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmagandha. Một Bà-la-môn. Trước khi Đức Phật xuất hiện trên thế gian, Āmagandha đã trở thành một đạo sĩ ẩn tu và sống ở vùng núi Himālaya cùng với năm trăm đệ tử. Họ không ăn cá lẫn thịt. Mỗi năm họ đều xuống núi để tìm muối và giấm, và cư dân ở một ngôi làng gần đó đã đón tiếp họ với lòng tôn kính lớn và thể hiện sự hiếu khách chu đáo trong suốt bốn tháng.
+
+Thế rồi một ngày nọ, Đức Phật cùng các tỳ-kheo ghé thăm chính ngôi làng đó, và người dân sau khi nghe Ngài thuyết pháp đã trở thành đệ tử của Ngài. Năm đó, khi Āmagandha và các đệ tử đến làng như thường lệ, các gia chủ không còn thể hiện sự nhiệt tình đối với họ như trước nữa. Vị Bà-la-môn gặng hỏi chuyện gì đã xảy ra, và vô cùng phấn khích khi nghe tin Đức Phật đã ra đời. Ông muốn biết liệu Ngài có ăn “*āmagandha*” hay không, qua đó ông ám chỉ cá hoặc thịt. Ông rất thất vọng khi biết rằng Đức Phật không cấm ăn *āmagandha*, nhưng với mong muốn được nghe chính Đức Phật giải thích về điều đó, ông đã tìm đến bái kiến Ngài tại Jetavana. Đức Phật nói với ông rằng *āmagandha* thực chất không phải là cá hay thịt, mà là để chỉ các ác hạnh, và ai muốn tránh xa nó thì nên kiêng cữ mọi loại hành vi bất thiện. Câu hỏi tương tự cũng đã được một đạo sĩ tên là Tissa đặt ra cho vị Kassapa Buddha, đạo sĩ này về sau trở thành thượng thủ đệ tử của Ngài. Trong lúc thuật lại cuộc đàm thoại giữa Kassapa Buddha và Tissa, Đức Phật đã thuyết giảng kinh Āmagandhasutta cho Āmagandha. Vị Bà-la-môn cùng các đệ tử của mình đã gia nhập Tăng đoàn (Saṅgha) và trong vòng vài ngày, họ đã đắc quả vị *Arahant*. Sn., tr.42-5; Snp-a.i.278ff.
 
 ## Notes

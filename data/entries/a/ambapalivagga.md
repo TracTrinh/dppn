@@ -5,7 +5,7 @@ base_headword: "Ambapālivagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambapālivagga. The first chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapālivagga. Phẩm đầu tiên của Satipaṭṭhānasaṁyutta thuộc Mahā Vagga của Saṁyuttanikāya (SN.v.141-8).
 
 ## Notes

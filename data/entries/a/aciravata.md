@@ -5,7 +5,7 @@ base_headword: "Aciravata"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,8 @@ The novice is throughout addressed as <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aciravata. Một sa-di đã có cuộc đối thoại với vương tử Jayasena về đời sống của vị bhikkhu. Aciravata thuật lại cuộc đối thoại này với Gotama Buddha, và nhân đó Ngài thuyết Dantabhūmisutta (MN.iii.128ff).
+
+Vị sa-di ấy trong suốt bản văn được gọi là Aggivessana.
 
 ## Notes

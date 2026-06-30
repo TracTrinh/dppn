@@ -5,7 +5,7 @@ base_headword: "Āḷavaka"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -74,6 +74,30 @@ The conversion of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="68" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavaka 02. Yakkha. Vua Āḷavaka, với sự giúp đỡ của vị thị trưởng thành phố (*Nagaraguttika*) và các đại thần của mình, đã có thể giữ lời hứa trong một thời gian bằng cách gửi các tội phạm đến cho Yakkha. Sức mạnh của Yakkha đến mức chỉ cần nhìn thấy vị ấy, thân thể người ta trở nên mềm như bơ. Chẳng bao lâu không còn tội phạm nào, và mỗi gia đình buộc phải đóng góp một đứa trẻ để hiến tế cho Yakkha.
+
+Khi đó, những phụ nữ sắp sinh con bắt đầu rời kinh đô của nhà vua. Mười hai năm trôi qua như vậy, và đứa trẻ duy nhất còn lại là chính con trai của nhà vua, Āḷavaka *Kumāra*. Khi nhà vua biết điều này, ông ra lệnh cho đứa trẻ được mặc trang phục hết sức lộng lẫy và đưa đến chỗ Yakkha. Đức Phật, bằng Con mắt Bi mẫn của ngài, thấy điều sắp xảy ra và đi đến nơi ở của Yakkha.
+
+Āḷavaka đang vắng mặt tại một cuộc họp của các Yakkhas ở Himavā. Người giữ cửa của vị ấy là Gadrabha cho Đức Phật vào, sau khi cảnh báo ngài về tính cách thô lỗ của Yakkha. Đức Phật đi vào và ngồi trên ngai của Āḷavaka, trong khi Gadrabha đi đến Himavā để báo cho chủ mình biết Đức Phật đã đến. Khi Đức Phật ở đó, đang thuyết pháp cho nữ quyến của Āḷavaka, các Yakkhas Sātāgira và Hemavata, đi qua không trung trên đường đến hội chúng ở Himavā, nhận biết sự hiện diện của Đức Phật vì không thể bay vượt qua ngài, đã hạ xuống cung điện của Āḷavaka và đảnh lễ Đức Phật trước khi tiếp tục hành trình.
+
+Khi Āḷavaka nghe từ Gadrabha và từ Sātāgira cùng Hemavata về chuyến viếng thăm của Đức Phật, vị ấy vô cùng tức giận; lớn tiếng xướng tên mình, vị ấy vội vã trở về nơi ở. Ở đó, bằng mọi loại thần thông mà mình có thể sai sử, vị ấy cố làm Đức Phật rời khỏi chỗ ngồi, nhưng không thành công; ngay cả vũ khí đặc biệt của vị ấy, Dussāvudha, cũng không có hiệu quả trước Đức Phật. Rồi, đến gần Đức Phật, Āḷavaka bảo ngài ra khỏi nhà mình, và Đức Phật làm theo. Sau đó vị ấy gọi Đức Phật trở lại, và ngài đến. Việc này xảy ra ba lần và Đức Phật vâng theo ba lần, xét thấy thuận theo là cách tốt nhất để làm dịu cơn giận của vị ấy, nhưng đến lần thứ tư Đức Phật từ chối quay lại. Khi ấy Āḷavaka bày tỏ ý muốn hỏi Đức Phật các câu hỏi, hy vọng nhờ đó làm ngài mệt mỏi. Đức Phật đồng ý, và khi ngài đã trả lời tất cả các câu hỏi làm Āḷavaka hài lòng, vị ấy trở thành một *Sotāpanna* (Snp-a.i.239).
+
+Lúc rạng đông, người của vua Āḷavaka đưa hoàng tử trẻ, Āḷavaka Kumāra, đến cho Yakkha để hiến tế. Nghe tiếng reo vui của Yakkha khi bài pháp của Đức Phật kết thúc, họ hết sức kinh ngạc. Khi họ báo với Āḷavaka rằng họ đã mang lễ vật đến và trao đứa trẻ cho vị ấy, vị ấy rất hổ thẹn vì sự hiện diện của Đức Phật. Āḷavaka trao đứa trẻ cho Đức Phật; ngài chúc phúc cho nó và trao lại cho các sứ giả của nhà vua. Cậu bé, vì đã đi từ tay Yakkha sang tay Đức Phật, rồi từ đó đến tay người của nhà vua, từ đó về sau được biết đến là Hatthaka Āḷavaka (Snp-a.i.239-40).
+
+Khi nhà vua và dân chúng nghe rằng Yakkha đã trở thành người theo Đức Phật, họ xây cho vị ấy một nơi ở đặc biệt gần nơi ở của Vessavaṇa và cung cấp cho vị ấy vô số lễ vật hoa, hương, v.v., để sử dụng. Câu chuyện về Āḷavaka, mà phần trên là một bản tóm tắt, được trình bày đầy đủ trong Snp-a.i.217-40 và trong SN­a.i.244-59. Nó cũng được trình bày ngắn gọn trong AN­a.i.211-12 và với một số chi tiết khác biệt.
+
+Nơi ở của Āḷavaka cách Sāvatthī ba mươi do-tuần, và Đức Phật đi hết toàn bộ hành trình trong một ngày (Snp-a.i.220). Nơi ở ấy ở gần một cây đa và trên mặt đất (*bhummaṭṭhaṁ*), được bảo vệ kỹ bằng tường, v.v., và được phủ phía trên bằng một lưới kim loại; nó giống như một cỗ xe được bao kín mọi phía. Nó rộng ba do-tuần, và phía trên nó là đường hàng không đến Himavā (Snp-a.i.222). Các ẩn sĩ, khi thấy cung điện lấp lánh, thường ghé qua để tìm hiểu nó là gì. Āḷavaka sẽ hỏi họ các câu hỏi về đức tin của họ, và khi họ không thể trả lời, vị ấy sẽ hóa thành một hình dạng vi tế, đi vào tim họ và làm họ phát điên (Snp-a.i.228).
+
+Āḷavaka xướng tên mình trước khi khởi hành từ Himavā để đánh bại Đức Phật. Vị ấy đứng với chân trái trên Manosilātala và chân phải trên Kelāsakūṭa. Tiếng thét của vị ấy được nghe khắp Jambudīpa và là một trong bốn tiếng thét, được truyền thống nhắc đến, đã vang xa đến mức ấy (Snp-a.i.223; về các tiếng thét khác, xem Puṇṇaka, Vissakamma và Kusā). Āḷavaka có một vũ khí đặc biệt, Dussāvudha, có thể so sánh với Vajirāvudha của Sakka, Gadāvudha của Vessavaṇa và Nayanāvudha của Yama. Nếu bị ném lên trời, nó có sức ngăn mưa trong mười hai năm; nếu ném xuống đất, nó hủy diệt tất cả cây cối và mùa màng trong một thời gian tương tự. Nếu bị phóng xuống biển, nó sẽ làm khô cạn toàn bộ nước, và nó có thể đập Sineru thành từng mảnh. Nó được làm bằng vải và được mô tả là một *vatthāvudha*, và được đeo như một phần thượng y (*uttariya*) của Yakkha.
+
+Có ba đặc điểm nổi bật trong câu chuyện về Āḷavaka liên kết nó chặt chẽ với vòng truyện lớn được Giáo sư Watanabe (JPTS1909-10, pp.240ff) nhóm lại dưới nhan đề các truyện Kalmāsapāda:
+
+- (1) Yakkha ăn thịt người;
+- (2) vị vua bị bắt tự cứu mình bằng lời hứa cung cấp lễ vật cho Yakkha, và tính thiêng liêng của lời hứa ấy; và
+- (3) sự cải đạo của Yakkha.
+
+Sự cải đạo của Āḷavaka được xem là một trong những sự kiện chính trong đời Đức Phật (e.g., Ja.iv.180; vi.329; Mhv.xxx.84).
+
+Tên của Āḷavaka xuất hiện trong Āṭānāṭiyasutta, giữa các Yakkhas mà những người theo Đức Phật nên kêu cầu để được bảo hộ khi cần thiết (DN.iii.205) (xem thêm Āḷavakasutta.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aghamūlasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aghamūlasutta. On the root of pain. SN.iii.32.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aghamūlasutta. Về căn nguyên của khổ đau. SN.iii.32.
 
 ## Notes

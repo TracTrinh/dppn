@@ -5,7 +5,7 @@ base_headword: "Ajitasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajitasutta. Preached by the Buddha to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitasutta. Do Đức Phật thuyết cho Ajita, vị *paribbājaka*, về sự khác biệt giữa Pháp và phi Pháp. AN.v.229ff.
 
 ## Notes

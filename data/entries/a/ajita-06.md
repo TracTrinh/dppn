@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Ajita 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 06. Ajita Thera. (Ap.i.335ff), có lẽ nên được đồng nhất với Ajitamāṇava, nhưng câu chuyện về quá khứ của ngài hoàn toàn khác với câu chuyện về Ajitamāṇava được nêu trong Chú giải Thag. Vào thời Buddha Padumuttara, ngài thắp một ngọn đèn trước bậc Giác Ngộ. Do kết quả của việc này, ngài hưởng hạnh phúc trên cõi trời trong 60,000 *kappas*, và khi ngài sinh xuống từ Tusita trong thời Đức Phật này, có ánh sáng lớn vào ngày ngài ra đời. Ngài được nói là đệ tử của Bāvarī (Ap.i.337, 28), nhưng ngài nghe nói về Đức Phật khi đang ở Himavā. Về sau ngài trở thành một *Arahant*.
 
 ## Notes

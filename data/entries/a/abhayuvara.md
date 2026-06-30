@@ -5,7 +5,7 @@ base_headword: "Abhayūvara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Abhayūvara. The name of the eighth *bhāṇavāra* (portion for recitation) of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayūvara. Tên của *bhāṇavāra* thứ tám (phần để tụng đọc) của Khandhaka thứ nhất thuộc Mahā Vagga của Vinayapiṭaka.
 
 ## Notes

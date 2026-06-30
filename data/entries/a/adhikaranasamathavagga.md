@@ -5,7 +5,7 @@ base_headword: "Adhikaraṇasamathavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Adhikaraṇasamathavagga. One of the divisions of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhikaraṇasamathavagga. Một trong các phân mục của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttavibhaṅga</span> về thủ tục giải quyết các tranh chấp.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ādhipateyyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādhipateyyasutta. Ba “nguyên tắc chủ đạo” nên hướng dẫn một vị tỳ-kheo: tự thân, thế gian, Pháp. AN.i.147f.; về ý nghĩa của *Sutta* này, xem Mrs. Rhys Davids, JRAS., April 1933, pp.329ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Agahyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Agahyasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agahyasutta. Chư thiên và loài người hoan hỷ trong các đối tượng, âm thanh, v.v., nhưng do tính không bền vững của những thứ ấy, họ sống trong sầu khổ. SN.iv.126f.
 
 ## Notes

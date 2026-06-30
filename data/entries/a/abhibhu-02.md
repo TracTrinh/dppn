@@ -5,7 +5,7 @@ base_headword: "Abhibhū"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,6 @@ Abhibhū 02. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhibhū 02. Một hạng chư thiên thuộc tầng *Arūpa* (MN.i.1). Họ sống cùng tầng với Vehapphalā. Trong Mūlapariyāyasutta, từ này được dùng để chỉ tất cả Asaññasattādevā. Buddhaghosa giải thích từ này bằng câu *abhibhavī ti abhibhū; kiṁ abhibhavī ti? Cattāro khandhe, arūpino*. Họ đẹp đẽ và sống lâu, do đó được xem là vĩnh cửu và đồng nhất với *Brahma* (MN­a.i.30). Trong Brahmanimantanikasutta (MN.i.329), Đức Phật tuyên bố mình là Abhibhū (= bậc chiến thắng).
 
 ## Notes

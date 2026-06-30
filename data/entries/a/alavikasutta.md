@@ -5,7 +5,7 @@ base_headword: "Āḷavikāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavikāsutta. Chứa đựng cuộc hội thoại giữa Āḷavikā (Selā) và Māra, kết thúc bằng sự bối rối thất bại của Māra. SN.i.128f.
 
 ## Notes

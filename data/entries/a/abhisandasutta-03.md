@@ -5,7 +5,7 @@ base_headword: "Abhisandasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhisandasutta 03. The five yields of merit (*puññābhisandā*) which accrue t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisandasutta 03. Năm dòng phước (*puññābhisandā*) phát sinh cho một vị tỳ-kheo nhờ sự định tâm trong các hoạt động khác nhau. AN.iii.51f.
 
 ## Notes

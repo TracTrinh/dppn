@@ -5,7 +5,7 @@ base_headword: "Abhinandena Suttā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhinandena Suttā. 2 suttas. By taking delight in the eye, ear, etc., one takes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinandena Suttā. Hai sutta. Do hoan hỷ nơi mắt, tai, v.v., người ta hoan hỷ trong khổ; do không làm như vậy, người ta được giải thoát khỏi khổ. Tương tự đối với các sắc, âm thanh, v.v. SN.iv.13.
 
 ## Notes

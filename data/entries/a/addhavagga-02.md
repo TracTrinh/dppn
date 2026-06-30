@@ -5,7 +5,7 @@ base_headword: "Addhavagga"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Addhavagga 02. The seventh chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Addhavagga 02. Chương thứ bảy của Devatāsaṁyutta thuộc Saṁyuttanikāya (SN.i.39-41). Saṁyutta Commentary (SN­a.i.75. See also KS.i.54, n.4) gọi chương này là Anvavagga.
 
 ## Notes

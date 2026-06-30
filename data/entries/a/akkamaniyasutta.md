@@ -5,7 +5,7 @@ base_headword: "Akkamanīyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akkamanīyasutta. The uncultivated mind is an intractable thing and conduces to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkamanīyasutta. Tâm không được tu tập là một thứ khó điều phục và dẫn đến tổn hại lớn; tâm được tu tập có những phẩm chất ngược lại. AN.i.5f.
 
 ## Notes

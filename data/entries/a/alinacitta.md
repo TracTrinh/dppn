@@ -5,7 +5,7 @@ base_headword: "Alīnacitta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Alīnacitta. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alīnacitta. Vua của Benares; một trong các tiền kiếp của Bodhisatta. Ông được gọi như vậy (“Chinh phục lòng người” - Win-heart) vì sinh ra để chinh phục lòng dân. Ông làm lễ đăng quang ngôi vua vào năm bảy tuổi. Câu chuyện của ông được thuật lại trong Alīnacittajātaka (Ja 156).
 
 ## Notes

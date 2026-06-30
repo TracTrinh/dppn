@@ -5,13 +5,13 @@ base_headword: "Ambaṭṭha"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
   source_order: 844
   source_anchor: "a46"
-aliases:
+  aliases:
   - "Ambattha 01"
 link_candidates:
   - "Ambaṭṭha"
@@ -50,6 +50,16 @@ It is conjectured that the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭha 01. Một thanh niên Bà-la-môn thuộc dòng tộc Ambaṭṭha, sống cùng với thầy của mình là Pokkharasādi tại Ukkaṭṭhā. Anh ta là người thông hiểu Ba bộ Veda và các ngành tri thức liên quan, bao gồm cả học thuyết Thuận Thế (*Lokāyata*), như được ghi lại trong kinh Ambaṭṭhasutta (DN.i.87ff). Một lần nọ, theo yêu cầu của thầy, anh đã đến hầu Đức Phật tại khu rừng Icchānaṅkala và dường như đã mở đầu cuộc trò chuyện bằng cách lăng mạ người Sākyan và gọi họ là những kẻ hạ tiện. Dường như trước đây Ambaṭṭha từng đi lo công chuyện cho Pokkharasādi đến Kapilavatthu, tại Hội trường của người Sākyan, và đã bị xúc phạm tại đó (DN.i.91).
+
+Khi được Đức Phật hỏi thuộc dòng họ nào, Ambaṭṭha trả lời rằng anh xuất thân từ dòng họ *Kaṇhāyanagotta*; ngay lập tức Đức Phật đã truy nguyên gia phả của dòng họ này về tổ tiên của họ, vốn là con của một nữ tỳ của vua Okkāka tên là Disā. Đứa trẻ này đã có thể nói chuyện ngay khi vừa mới sinh ra và vì đặc tính quỷ quái này, đứa trẻ được gọi là Kaṇha (quỷ), từ đó có tên dòng họ. Kaṇha về sau trở thành một vị tiên nhân có đại thần lực và kết hôn với Maddarūpī, con gái của vua Okkāka (DN.i.96-7).
+
+Ambaṭṭha không phản kháng lại dòng dõi gia phả này và dưới sức ép đã thừa nhận đó là sự thật. Điều này tạo cơ duyên cho Đức Phật thuyết giảng về sự vô ích của lòng tự phụ giai cấp và về giá trị của đạo đức cùng hành kiểm.
+
+Cuối thời thuyết pháp, Đức Phật đi kinh hành bên ngoài tịnh thất của Ngài để Ambaṭṭha có thể thấy rõ trên thân Ngài ba mươi hai tướng tốt của một bậc Đại nhân. Ambaṭṭha trở về gặp Pokkharasādi và trình báo toàn bộ cuộc trò chuyện. Pokkharasādi vô cùng tức giận, mắng nhiếc Ambaṭṭha và đá anh ta. Sau đó, đích thân Pokkharasādi đến gặp Đức Phật và thỉnh mời Ngài thọ trai. Cuối bữa ăn, Đức Phật thuyết giảng cho ông nghe về Pháp và được chấp nhận làm bậc Đạo sư của chính Pokkharasādi cùng những người tùy tùng và gia nhân của ông tại Ukkaṭṭhā. Bản thân Pokkharasādi sau đó đã chứng đắc quả vị *Sotāpanna* (DN­a.i.278).
+
+Chúng ta không được biết liệu Ambaṭṭha có trở thành một đệ tử của Đức Phật hay không. Ngài Buddhaghosa nói rằng (DN­a.i.274) Đức Phật biết rõ Ambaṭṭha sẽ không đạt được lợi ích từ bài thuyết pháp của Ngài trong kiếp sống này (*iminā attabhāvena magga-pātubhāvo natthi*), và vì thế việc thuyết pháp nhằm độ hóa anh ta chỉ làm tốn thời gian vô ích. Bản thân Ambaṭṭha chỉ đến gặp Đức Phật vì sự quan tâm đối với nhân tướng học. Theo Buddhaghosa, mục đích của Đức Phật khi thuyết giảng kinh Ambaṭṭhasutta chi tiết và dài như thế là để câu chuyện có thể được thuật lại cho Pokkharasādi.
+
+Người ta phỏng đoán rằng nhân vật Ambaṭṭha, người được xác định là Kāvinda, một trong các cố vấn của vua Vedeha trong truyện Ummaggajātaka (Ja.vi.478), có lẽ chính là nhân vật Ambaṭṭha trong kinh (*Sutta*) này.
 
 ## Notes

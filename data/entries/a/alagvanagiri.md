@@ -5,7 +5,7 @@ base_headword: "Alagvānagiri"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Alagvānagiri. A locality in South India, captured by the forces of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alagvānagiri. Một địa danh ở Nam Ấn Độ, bị quân đội của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span> đánh chiếm. Cv.lxxvii.12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aggibrahmā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aggibrahmā. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggibrahmā. Cháu trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Asoka</span> và chồng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Saṅghamittā</span>. Ông gia nhập Tăng đoàn cùng ngày với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tissakumāra</span>, em trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Asoka</span>. Mhv.v.169; Vin-a.i.51; Mbv.102.
 
 ## Notes

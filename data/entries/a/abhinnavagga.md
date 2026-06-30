@@ -5,7 +5,7 @@ base_headword: "Abhiññāvagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhiññāvagga. The twenty-sixth section of the *Catukkanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiññāvagga. Phẩm thứ hai mươi sáu của *Catukkanipāta* thuộc Aṅguttaranikāya. Phẩm này gồm mười *Suttas*. AN.ii.246-53.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ahindasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,6 @@ Ahindasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahindasutta, Khandhaparitta, Khandhakaparitta. Để tự bảo hộ, người ta nên thực hành tâm từ đối với bốn vương tộc rắn: Virūpakkha, Erāpatha, Chabyāputta, Kaṇhā Gotamaka. Bài này được thuyết khi một vị sư bị rắn cắn tại Sāvatthī. AN.ii.72. Cp. Vin.ii.109; SN­a.ii.144.
 
 ## Notes

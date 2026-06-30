@@ -5,7 +5,7 @@ base_headword: "Aggikasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,8 @@ Aggikasutta. Preached by the Buddha to <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggikasutta. Được Đức Phật thuyết cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggika Bhāradvāja</span> (2). Vị Bà-la-môn tán dương tri thức về ba Veda. Đức Phật nói với ông rằng chỉ lẩm bẩm những câu chú Veda không làm cho một người bị ô nhiễm bên trong và dối trá trở thành Bà-la-môn. Người ấy nên có tri thức về các đời trước, về các thế giới khác và về tri thức cao hơn (*abhiññā*) đem lại sự chấm dứt sinh.
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggika Bhāradvāja</span> dâng Đức Phật bữa ăn đã chuẩn bị như một khoản thù lao cho lời dạy của Ngài, nhưng Đức Phật từ chối vì “các vị Phật không nhận tiền công.” Vị Bà-la-môn, nếu muốn, nên bày tỏ lòng hiếu khách với Ngài vì sự thánh thiện của Ngài, chứ không phải vì khả năng tụng các bài kệ. SN.i.166-7.
 
 ## Notes

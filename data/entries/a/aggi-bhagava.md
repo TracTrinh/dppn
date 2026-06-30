@@ -5,7 +5,7 @@ base_headword: "Aggi Bhagavā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -40,6 +40,12 @@ In the exegesis to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggi Bhagavā. Một vị thần (có lẽ đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Agni</span> trong Veda), việc thờ phụng vị này đem lại phần thưởng là tái sinh vào cõi *Brahma*. Vào ngày một người con trai được sinh ra, một ngọn lửa (*jātaggi*) được nhóm lên; khi người con trai đến tuổi trưởng thành và muốn từ bỏ đời sống gia đình, ngọn lửa này được mang vào rừng và sự tôn kính được dâng lên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggi Bhagavā</span> (Ja.i.285).
+
+Trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Naṅguṭṭhajātaka</span> (Ja 144, Ja.i.494-5), Bodhisatta, sau khi nhận một con bò làm quà, muốn dâng thịt nó cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aggi Bhagavā</span>, nhưng nghĩ rằng vị thần sẽ không thích một bữa ăn không có muối, ông đi tìm muối. Ông trở về thì thấy con bò đã bị các thợ săn ăn mất, chỉ còn lại đuôi, một chân và bộ da. “Nếu ngài, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggi Bhagavā</span>, không có quyền năng trông coi những gì của chính mình, thì làm sao ngài có thể bảo vệ tôi?” Nói vậy, ông dập tắt lửa bằng nước và trở thành một ẩn sĩ. Trong các kệ của ngữ cảnh này, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Aggi</span> được xưng hô là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Jātaveda</span>.
+
+Trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Santhavajātaka</span> (Ja 162, Ja.ii.43-5), Bodhisatta cũng là một người sùng phụng vị thần này. Một lần, khi ông cúng dường sữa pha với bơ lỏng, ngọn lửa bùng lên và đốt cháy am của ông, và vì vậy ông mất lòng tin. Trong truyện này, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Aggi Bhagavā</span> dường như được đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Brahma</span>. Xem thêm KS.i.209, n.4.
+
+Trong phần chú giải cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Bhuridattajātaka</span> (Ja 543, Ja.vi.202), vị thần này được nói đến với tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Aggideva</span>, và có nhắc đến một cuộc hỏi ý kiến các Bà-la-môn thông thái của một vị vua, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Mujalinda</span>, về con đường lên thiên giới. Đáp lại, ông được bảo rằng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Aggideva</span> là *Brāhmaṇadevatā par excellence*, và rằng nên cúng dường bơ lỏng mới cho vị ấy. Xem thêm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Jātaveda</span>.
 
 ## Notes

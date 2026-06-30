@@ -5,7 +5,7 @@ base_headword: "Amatasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Amatasutta 03. On the nature of deathlessness. AN.iv.455.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amatasutta 03. Về bản chất của tính bất tử. AN.iv.455.
 
 ## Notes

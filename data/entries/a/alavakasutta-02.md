@@ -5,7 +5,7 @@ base_headword: "Āḷavakasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavakasutta 02. Một cuộc đối thoại giữa Đức Phật và Hatthaka Āḷavaka, trong đó Đức Phật nói rằng ngài thuộc số những người hưởng hạnh phúc chân thật. AN.i.136f.
 
 ## Notes

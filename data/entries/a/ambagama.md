@@ -5,7 +5,7 @@ base_headword: "Ambagāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,6 @@ Ambagāma. A village in Ceylon near <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambagāma. Một ngôi làng ở Ceylon gần Pulatthipura, được đồng nhất với Ambagamuva ngày nay. Một trận chiến đã diễn ra tại đó giữa lực lượng của Gajabāhu và Parakkamabāhu I. (Cv.lxx.321) Parakkamabāhu II. đã xây một cây cầu dài ba mươi bốn cubit bắc qua Khajjotanadī tại Ambagāma. Ibid., lxxxvi.23.
 
 ## Notes

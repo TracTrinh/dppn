@@ -5,7 +5,7 @@ base_headword: "Abhinīhārasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhinīhārasutta 01. Of those who engage in meditation, some are possessed of b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinīhārasutta 01. Trong số những người thực hành thiền định, có người có cả sự thiện xảo về định và năng lực quyết tâm, những người khác thì không như vậy (SN.iii.267).
 
 ## Notes

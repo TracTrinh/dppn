@@ -5,7 +5,7 @@ base_headword: "Akkosaka Bhāradvājavatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akkosaka Bhāradvājavatthu. The story of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkosaka Bhāradvājavatthu. Câu chuyện về <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akosaka Bhāradvāja</span>. Dhp­a.iv.161f.
 
 ## Notes

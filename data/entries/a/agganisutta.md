@@ -5,7 +5,7 @@ base_headword: "Aggānisutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aggānisutta. The four perfections: of virtue, concentration, wisdom and release
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggānisutta. Bốn sự viên mãn: về giới, định, tuệ và giải thoát. AN.ii.79; xem GS.ii.88, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ādittasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittasutta 02. Tất cả các *khandhas* đều đang cháy. Thấy vậy, vị đệ tử bậc Thánh sinh tâm nhàm chán đối với chúng và, nhờ tri kiến, đạt đến giải thoát. SN.iii.71.
 
 ## Notes

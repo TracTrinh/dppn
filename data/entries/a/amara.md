@@ -5,7 +5,7 @@ base_headword: "Amarā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -36,6 +36,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amarā (Amarādevī). Vợ của Mahosadha. Nàng là con gái của một thương nhân sa cơ lỡ vận. Mahosadha, trong lúc đang tìm kiếm vợ, đã gặp nàng khi nàng đang mang thức ăn cho cha mình và bắt chuyện với nàng. Ông hỏi nàng nhiều câu hỏi khác nhau và nàng đã trả lời bằng những câu đố. Mahosadha đến nhà cha nàng và làm nghề thợ may để tận dụng cơ hội quan sát hành vi của cô gái. Ông đã thử thách tính khí và phẩm hạnh của nàng bằng nhiều cách khác nhau, và khi hài lòng rằng nàng là một người hoàn hảo về mọi mặt, ông đã kết hôn với nàng dưới sự chấp thuận của Hoàng hậu Udumbarā. Nàng được mọi người yêu mến và đã giúp đỡ chồng rất nhiều trong việc ngăn chặn các âm mưu làm hại ông của kẻ thù (Ja.vi.364-72, 392; câu chuyện này cũng xuất hiện trong Mvu.ii.83).
+
+Trong kiếp hiện tại, Amarā chính là nàng Bimbādevī xinh đẹp (Ja.vi.478).
+
+Trong tác phẩm Milinda (tr.205ff), nhà vua đề cập đến câu chuyện Amarādevī bị bỏ lại trong làng khi chồng nàng đang đi xa, và việc nàng cưỡng lại sự cám dỗ để không phản bội chồng. Vua hỏi: “Nếu điều đó là đúng, làm sao ông có thể lý giải cho lời tuyên bố của Đức Phật rằng tất cả phụ nữ đều sẽ lầm lạc, nếu không tìm được ai khác thì ngay cả với một kẻ tàn tật?”. Nói thêm, những lời này thực chất không phải của Đức Phật. Chúng xuất hiện trong Kuṇālajātaka (Ja.v.435), vốn là một ví dụ về văn học dân gian Ấn Độ chứ không phải là giáo lý Phật giáo. Nāgasena giải thích điều này bằng cách nói rằng Amarā không phạm tội vì nàng không có được sự bí mật thực sự, không có cơ hội, và cũng không có người theo đuổi thích hợp!
 
 ## Notes

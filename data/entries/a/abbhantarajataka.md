@@ -5,7 +5,7 @@ base_headword: "Abbhantarajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -38,6 +38,10 @@ The *atītavatthu* is about the chief queen of a king of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhantarajātaka (Ja 281). Ni sư Bimbādevī mắc chứng đầy hơi, và được chữa khỏi bằng nước xoài pha đường mà Sāriputta đã xin được từ vua Kosala theo lời thỉnh cầu của Rāhula. Nhà vua, sau khi nghe về bệnh trạng của Bimbādevī, ra lệnh rằng bà phải thường xuyên được cấp si-rô xoài. Khi được kể lại sự việc, Đức Phật thuật lại câu chuyện quá khứ này để cho thấy rằng đây không phải lần đầu Sāriputta xin được si-rô xoài cho Bimbādevī.
+
+*Atītavatthu* kể về vị chánh hậu của một vua Benares. Sakka, sinh tâm lo lắng vì các khổ hạnh của một vị ẩn sĩ, muốn hủy hoại vị ấy, và khơi dậy nơi hoàng hậu lòng thèm muốn một "Trái Xoài Chính Giữa" (*abbhantara­amba*). Sau một cuộc tìm kiếm kéo dài - trong đó vị ẩn sĩ và các bạn đồng tu của ông bị đuổi khỏi ngự viên vì có tin rằng họ đã ăn xoài ở đó - một con vẹt được sủng ái trong cung được giao nhiệm vụ tìm Trái Xoài Chính Giữa. Nó đi đến Himavā, và biết từ những con vẹt ở dãy núi thứ bảy rằng trái xoài ấy mọc trên một cây thuộc về Vessavaṇa và được canh giữ hết sức nghiêm ngặt. Nó lén bay đến cây ấy vào ban đêm, nhưng bị các quỷ canh giữ bắt được, chúng quyết định giết nó. Nó nói với họ rằng nó vui lòng chết trong khi thi hành phận sự, và nhờ vậy được họ kính trọng. Theo lời khuyên của họ, nó tìm sự giúp đỡ của một vị ẩn sĩ, Jotirasa, sống trong một am gọi là Kañcanapatti, người mà Vessavaṇa gửi cúng dường bốn trái xoài mỗi ngày. Vị ẩn sĩ cho con vẹt hai trái xoài, một trái cho nó và một trái cho hoàng hậu. Ja.ii.392-400.
+
+Ānanda là con vẹt và Sāriputta là Jotirasa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Amatavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amatavagga. The fifth chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amatavagga. Chương thứ năm của Satipaṭṭhānasaṁyutta thuộc Saṁyuttanikāya. SN.v.184-90.
 
 ## Notes

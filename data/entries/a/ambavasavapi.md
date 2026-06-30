@@ -5,7 +5,7 @@ base_headword: "Ambavāsavāpi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambavāsavāpi. One of the tanks restored by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambavāsavāpi. Một trong những hồ chứa nước được <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span> tu sửa trước cuộc đại chiến của ông. Cv.lxviii.43. Về việc định vị, xem Cv. trans. i.280, n.5.
 
 ## Notes

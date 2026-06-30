@@ -5,7 +5,7 @@ base_headword: "Ajitapuccha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Ajitapuccha or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitapuccha hay Ajitapañhā. *Sutta* thứ hai của Pārāyaṇavagga thuộc Suttanipāta. Xem Ajitamāṇava.
 
 ## Notes

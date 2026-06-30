@@ -5,7 +5,7 @@ base_headword: "Abhirūpanandā Therī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -49,6 +49,18 @@ The verses quoted in the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhirūpanandā Therī. Bà sinh ở Kapilavatthu, là con gái của thủ lĩnh Sākiyan Khemaka, và được đặt tên là Nandā. Do vẻ đẹp và sức quyến rũ lớn lao, bà được biết đến với tên Abhirūpānandā.
+
+Vào ngày được ấn định để bà chọn chồng, chàng trai Sākiyan mà bà dự định chọn đã chết, và cha mẹ buộc bà xuất gia trái với ý muốn của bà.
+
+Tường thuật trong Apadāna (ii. 609) không nhắc đến cái chết của người cầu hôn, nhưng nói rằng nhiều người tìm cách cưới bà và gây nhiều rắc rối, để tránh điều ấy cha mẹ bà buộc bà gia nhập Tăng đoàn.
+
+Ngay cả sau khi đã vào Tăng đoàn, bà vẫn tránh đi vào trước mặt Đức Phật, vì say mê sắc đẹp của chính mình và sợ lời quở trách của Bậc Đạo Sư. Để khiến bà đến gặp ngài, Đức Phật chỉ thị Mahā Pajāpatī bảo đảm rằng tất cả các Tỳ-kheo-ni đều đến nghe giáo giới. Khi đến lượt Nandā, bà sai một người khác đi thay. Đức Phật từ chối công nhận người thay thế, và Nandā buộc phải tự mình đến. Khi bà lắng nghe Đức Phật thuyết pháp, bằng thần lực của ngài, ngài hóa hiện một người phụ nữ xinh đẹp và cho bà thấy người ấy trở nên già nua và tàn phai, khiến nỗi đau khởi lên trong lòng Nandā. Đúng lúc thích hợp, Đức Phật làm cho chân lý về sự vô thường của sắc đẹp thấm sâu. Thiền quán về đề tài này, về sau bà trở thành một *Arahant* (Thīg­a.81f.; Snp-a.i.241-2).
+
+Hai bài kệ Đức Phật thuyết cho bà, mà bà lấy làm đề mục thiền quán, được ghi trong Therīgāthā (vv.19, 20).
+
+Vào thời Vipassī Buddha, Nandā từng là con gái của một thị dân giàu có tại quê hương Bandhumatī của Đức Phật. Sau khi nghe Đức Phật thuyết pháp, bà trở thành một tín nữ mộ đạo của ngài, và khi ngài qua đời, bà cúng dường một chiếc lọng vàng trang sức bằng châu báu đến bảo tháp được xây trên tro xá-lợi của ngài (Ap.ii.608).
+
+Các kệ được Chú giải Therīgāthā trích dẫn, nói là lấy từ Apadāna, thật ra thuộc về Mettā, và được tìm thấy trong Apadāna (ii. 515), quy cho Ekapiṇḍadāyikā. Các kệ đúng được tìm thấy trong Apadāna dưới tên Abhirūpanandā, và phù hợp với câu chuyện được nêu trong văn bản của Chú giải Therīgāthā.
 
 ## Notes

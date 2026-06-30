@@ -5,7 +5,7 @@ base_headword: "Aggadhammasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aggadhammasutta. On the six qualities requisite for the attainment of *Arahant*-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggadhammasutta. Về sáu phẩm chất cần thiết để đạt quả vị *Arahant*, tức trạng thái cao nhất (*aggadhamma*). AN.iii.433-4.
 
 ## Notes

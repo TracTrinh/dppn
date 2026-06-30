@@ -5,7 +5,7 @@ base_headword: "Ambalaṭṭhikā"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -34,6 +34,8 @@ Ambalaṭṭhikā 02. A park in the Brahmin village <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambalaṭṭhikā 02. Một công viên trong làng Bà-la-môn Khānumata. Đức Phật đã đến đó trong một chuyến du hành qua Magadha. Nhân dịp này, Kūṭadantasutta được thuyết (DN.i.127). Buddhaghosa (DN­a.i.294) nói công viên ấy giống như khu vườn tiêu dao cùng tên giữa Rājagaha và Nālandā.
+
+4. Ambalaṭṭhikā. Theo Buddhaghosa (MN­a.ii.635), Ambalaṭṭhikā, nơi Rāhulovādasutta mang tên ấy được thuyết, không phải là một khu vườn tiêu dao, mà là một *pāsāda*, một loại thiền đường (*padhānagharasaṅkhepa*) được xây ở vùng ngoại vi của *vihāra* Veḷuvana để những người mong muốn sống độc cư sử dụng. Người ta nói rằng Rāhula đã dành phần lớn thời gian ở đó, kể từ ngày thọ giới khi còn là một cậu bé bảy tuổi.
 
 ## Notes

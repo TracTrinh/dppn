@@ -5,7 +5,7 @@ base_headword: "Ajjhattikaṅgasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajjhattikaṅgasutta. The name given in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjhattikaṅgasutta. Tên được nêu trong Suttasaṅgaha (No. 77) cho một *Sutta* thuộc Itivuttaka về các đức tính của *yoniso-manasikāra*. Iti.9f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aḍḍhamāsaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aḍḍhamāsaka. A king. He was a poor man of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhamāsaka. Một vị vua. Ông từng là một người nghèo ở Benares. Ông dành dụm được nửa xu (*aḍḍhamāsaka*) và giấu nó trong một bức tường gạch. Khi lễ hội đến, vì muốn cùng vợ dự cuộc vui, mà bà cũng đã dành dụm được nửa xu, ông đi sáu do-tuần dưới nắng nóng để lấy khoản tiết kiệm từ nơi cất giấu. Vua Udaya thấy ông đi ngang qua cung điện vừa hát, và sau khi biết được mục đích của ông, ban cho ông một nửa vương quốc. Người ấy chọn nửa phần trong đó có nửa xu của mình được giấu. Về sau ông trở thành một nhà khổ hạnh. Câu chuyện của ông được kể trong Gaṅgamālajātaka Ja 421 (Ja.iii.449 ff.; iv.174). Ông là Ānanda trong thời hiện tại. Ja.iii.454.
 
 ## Notes

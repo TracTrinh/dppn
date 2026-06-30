@@ -5,7 +5,7 @@ base_headword: "Amarinda"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Amarinda. Name given to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amarinda. Tên được gọi cho Sakka, vua của chư thiên, chẳng hạn Thag­a.151, 112.
 
 ## Notes

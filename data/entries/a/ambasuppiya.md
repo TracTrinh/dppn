@@ -5,7 +5,7 @@ base_headword: "Ambasuppiya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambasuppiya. A *Sāmaṇera* who lived in the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambasuppiya. Một vị sa-di (*Sāmaṇera*) sống tại Suvaṇṇakuṭi trong tu viện (*vihāra*) Dakkhiṇāgiri. Vào ngày hôm sau sau lễ xuất gia của vị này, mẹ của vị này đã chuẩn bị chỗ ngồi và vật thực cúng dường cho tám vị tỳ-kheo, và bằng thần thông (*iddhi*), số vật thực và chỗ ngồi này đã đủ dùng cho 68,000 vị tỳ-kheo. Câu chuyện được kể nhằm thể hiện thần thông (*iddhi*) liên quan đến các đại lễ tại Mahā Thūpa (dị bản (*v.l.*) Appihā). (Mhv­ṭ.552)
 
 ## Notes

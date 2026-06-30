@@ -5,7 +5,7 @@ base_headword: "Addhuvasīla"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Addhuvasīla. A youth who stole ornaments to win the daughter of his teacher. He
 
 ## Vietnamese translation
 
-Chưa dịch.
+Addhuvasīla. Một thanh niên đã trộm đồ trang sức để giành được con gái của thầy mình. Anh thất bại trong việc theo đuổi ấy. Câu chuyện được kể trong Sīlavīmaṁsanajātaka. Ja.iii.18-20.
 
 ## Notes

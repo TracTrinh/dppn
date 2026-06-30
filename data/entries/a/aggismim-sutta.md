@@ -5,7 +5,7 @@ base_headword: "Aggismiṁ Sutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aggismiṁ Sutta. The five evil qualities of fire. AN.iii.256.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggismiṁ Sutta. Về năm phẩm tính xấu của lửa. AN.iii.256.
 
 ## Notes

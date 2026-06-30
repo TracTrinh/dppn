@@ -5,7 +5,7 @@ base_headword: "Ajjuna"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajjuna 04. The seventh son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuna 04. Người con trai thứ bảy của Devagabbhā và Upasāgara; một trong Andhakaveṇhuputtā. Ja.iv.81; Pv.93.
 
 ## Notes

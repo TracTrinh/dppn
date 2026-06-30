@@ -5,7 +5,7 @@ base_headword: "Acala Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Acala Thera. One of the eminent monks present at the foundation of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acala Thera. Một trong những vị tăng nổi bật có mặt tại lễ đặt nền móng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Thūpa</span>. Mhv­ṭ.526.
 
 ## Notes

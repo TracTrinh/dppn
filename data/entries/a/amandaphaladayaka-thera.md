@@ -5,7 +5,7 @@ base_headword: "Āmaṇḍaphaladāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmaṇḍaphaladāyaka Thera. Một vị *Arahant*. Trong một tiền kiếp, khi đang gánh một đòn gánh đầy trái cây, ông đã nhìn thấy Đức Phật Padumuttara (Buddha Padumuttara) và cúng dường lên Ngài một quả *āmaṇḍa* (bí ngô?). Trong thời kỳ hiện tại, ông đã chứng quả vị *Arahant*. Ap.ii.459.
 
 ## Notes

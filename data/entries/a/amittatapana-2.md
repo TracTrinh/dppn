@@ -5,7 +5,7 @@ base_headword: "Amittatāpanā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -34,6 +34,10 @@ In the present Buddha­age, <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amittatāpanā. Người vợ trẻ của Bà-la-môn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jūjaka</span> xứ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kāliṅga</span>.
+
+Bà đã bị cha mẹ đem cho để trả một món nợ. Bị những người bạn gặp ở nơi lấy nước chế giễu, bà khăng khăng đòi phải được cấp người hầu. Chính để đáp ứng mong muốn của bà mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jūjuka</span> đã đến gặp <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Vessantara</span> để xin các con của vị ấy về làm nô lệ (Ja.vi.521-4).
+
+Trong thời đại Đức Phật hiện tại, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Amittatāpanā</span> là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Ciñcamāṇavikā</span>. Ibid., 593.
 
 ## Notes

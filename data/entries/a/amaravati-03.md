@@ -5,7 +5,7 @@ base_headword: "Amaravatī"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amaravatī 03. The city of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaravatī 03. Thành phố của Sakka, vua của chư thiên. Vin-a.i.49; Cv.lxxx.5; nó được mô tả trong *Mahā Bhārata* iii.1714ff.; xem thêm Hopkins, *Epic Mythology*, 140f.
 
 ## Notes

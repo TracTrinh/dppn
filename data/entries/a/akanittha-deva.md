@@ -5,7 +5,7 @@ base_headword: "Akaniṭṭhā Devā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -43,6 +43,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akaniṭṭhā</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devā</span>. Một hạng chư thiên, sống ở tầng cao nhất trong năm cõi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suddhāvāsā</span> (Tịnh Cư thiên) (DN.iii.237). Trong kinh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahāpadānasutta</span> (DN.ii.52f), Đức Phật đề cập rằng Ngài đã viếng thăm trú xứ của họ và đàm thoại với các chúng sinh được sinh về nơi đó nhờ kết quả của đời sống phạm hạnh mà họ đã sống dưới thời các Đức Phật khác nhau.
+
+Trong kinh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sakkapañhasutta</span> (DN.ii.286), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sakka</span> nói về họ như là những vị chư thiên cao nhất (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Devas</span>), và bày tỏ sự hài lòng rằng ông cũng sẽ được tái sinh vào cõi họ trong kiếp sống cuối cùng của mình.
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Buddhaghosa</span> nói rằng họ được gọi như vậy vì sự tối thắng về đức hạnh và hạnh phúc của họ, và vì không có ai nhỏ tuổi (kém hơn) trong số họ (*sabbeh’eva saguṇehi ca bhavasampattiyā ca jeṭṭhā n’atth’ettha kaniṭṭhāti akaniṭṭhā*). DN­a.ii.480. VbhA.521 (*āyunā ca paññāya ca Akaniṭṭhā jeṭṭhakā sabba-devehi paṇītatarā devā*, các vị thiên tử Akaniṭṭha là những bậc trưởng thượng về tuổi thọ lẫn trí tuệ, và là những bậc cao thượng nhất trong tất cả chư <span class="dppn-term dppn-term-t19" data-dppn-term-pos="8" data-dppn-term-class="t19">Devas</span>). (=DN­a.iii.739).
+
+Trong tác phẩm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Visuddhimagga</span> (tr. 634), thế giới của họ được nói đến như là một *Brahma loka* (Phạm thiên giới) nơi các bậc *Anāgāmī* sinh về và nhập vào *Nibbāna* hoàn toàn (tr. 710) (cũng xem Iti-a.40; DN­a.iii.740). Tuổi thọ của các vị chư thiên (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Devas</span>) này là 16.000 kappa (Kv.207). Đôi khi các vị *Anāgāmī* được sinh ra trong cõi chư thiên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Avihā</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-class="t14">Devas</span> và hoàn tất sự hữu (sự tồn tại) của họ, trong một kiếp sinh sau đó, ở cõi *Akaniṭṭhā*. Những vị này được gọi là “*Uddhaṁsotā*” (Dhp­a.iii.289f.; xem thêm SN.v.201).
+
+Cõi trời <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Akaniṭṭhabhavana</span> là giới hạn trên của *rūpāvacārabhūmi* (Paṭis.i.84); nó cũng được nói đến như là điểm cao nhất của vũ trụ, với địa ngục <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Avīci</span> là điểm thấp nhất. Do đó, cuộc tranh cãi giữa các vị tỳ-kheo ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term-class="t14">Kosambī</span> đã lan rộng lên đến tận cõi chư thiên *Akaniṭṭhā devā* (Ja.iii.487), cũng như tiếng reo hò của hội chúng khi chiết nhánh cây Bồ-đề (Mbv. 150-1; xem thêm Mil. 284).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ācāraviṭṭhigāma"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ācāraviṭṭhigāma. Một ngôi làng cách <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anurādhapura</span> ba do-tuần về phía đông bắc. Khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Duṭṭhagāmaṇī</span> đang tìm vật liệu để xây dựng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Thūpa</span>, những thỏi vàng tự nhiên, có kích thước từ một gang tay đến bề ngang một ngón tay, đã xuất hiện trong làng. Mhv.xxviii.13-15.
 
 ## Notes

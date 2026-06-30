@@ -5,7 +5,7 @@ base_headword: "Ākāsagaṅgā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -32,6 +32,8 @@ The fine clay to be found in the area (thirty *yojanas* in extent) over which th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākāsagaṅgā. Con sông chảy về phía nam từ hồ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anotatta</span> mang nhiều tên khác nhau ở từng đoạn. Phần chảy sáu mươi do-tuần qua không trung được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ākāsagaṅgā</span> (Snp-a.ii.439; MN­a.586, v.v.). Bài thuyết giảng của Đức <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Buddha</span> về các đề tài khác nhau (*pakiṇṇakakathā*) được ví như dòng chảy xuôi của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ākāsagaṅgā</span> (AN­a.i.94; Dhp­a.iii.360); tài hùng biện của các vị thuyết pháp tài giỏi cũng vậy (v.d., Dhp­a.iv.18; Ja.ii.65).
+
+Loại đất sét mịn tìm thấy trong khu vực (rộng ba mươi *yojana*) nơi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ākāsagaṅgā</span> đổ xuống mặt đất được gọi là “đất bơ” (*navanīta-mattikā*) vì độ mịn của nó. Đất sét này được các vị *sāmaṇera* Arahant mang đến để trải lên nền móng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Mahā Thūpa</span> (Đại Bảo Tháp) ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Anurādhapura</span> (Mhv.xxix.5f). Nơi tìm thấy loại đất này được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Tintasīsakola</span>. Mhv­ṭ.515
 
 ## Notes

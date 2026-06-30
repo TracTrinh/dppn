@@ -5,7 +5,7 @@ base_headword: "Aciravatī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Aciravatī. A canal which ran westwards from the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aciravatī. Một con kênh chảy về phía tây từ Mahā Vālukagaṅgā ở Ceylon; từ đó bốn con kênh khác chảy về phía đông: Sataruddhā, Nibbindā, Dhavalā và Sīdā. Cv.lxxix.51-3.
 
 ## Notes

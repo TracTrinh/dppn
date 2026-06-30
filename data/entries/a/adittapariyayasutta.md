@@ -5,7 +5,7 @@ base_headword: "Ādittapariyāyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -42,6 +42,14 @@ It is also called the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittapariyāyasutta. Tên được đặt cho bài giảng do Gotama Buddha thuyết tại Gayāsīsa ở Gayā, sau khi ngài cải hóa các Tebhātikajaṭilā (Uruvelā Kassapa, Nadī Kassapa và Gayā Kassapa).
+
+Mọi thứ đều đang cháy: mắt, nhãn thức (*cakkhuviññāṇa*), sự tiếp xúc của mắt với các đối tượng (*cakkhusamphassa*), và những cảm thọ phát sinh từ đó. Đối với các căn khác cũng như vậy: chúng bốc cháy bởi tham, sân, vô minh và những lo âu của sinh, hoại, chết, v.v.; biết điều này, người đi theo Bát Thánh đạo sinh tâm nhàm chán đối với chúng, lìa bỏ tham ái đối với chúng, và cuối cùng đạt đến giải thoát tối thượng.
+
+Vào cuối bài giảng, một nghìn vị sư, trước kia là các *jaṭila*, đang lắng nghe, đã trở thành các *Arahants* (Vin.i.34-5; Ja.i.82; iv.180).
+
+Người ta nói rằng Ādittapariyāya được thuyết trên Piṭṭhipāsāṇa tại Gayāsīsa (AN­a.i.166; Thag­a.i.435). Đây là bài thuyết pháp thứ ba được ghi lại của Đức Phật.
+
+Bài này cũng được gọi là Ādittasutta (xem Ādittasutta 3).
 
 ## Notes

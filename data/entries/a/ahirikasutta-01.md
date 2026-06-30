@@ -5,7 +5,7 @@ base_headword: "Ahirikasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Ahirikasutta 01. A man who is void of faith, virtue and shame is destined to be 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahirikasutta 01. Người không có đức tin, giới hạnh và sự hổ thẹn thì chắc chắn sẽ sinh vào địa ngục. AN.ii.227.
 
 ## Notes

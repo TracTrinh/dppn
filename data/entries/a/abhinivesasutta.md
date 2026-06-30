@@ -5,7 +5,7 @@ base_headword: "Abhinivesasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Abhinivesasutta. Bondage of, and dependence upon, the fetters arise as a result 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhinivesasutta. Sự trói buộc bởi các kiết sử và sự lệ thuộc vào chúng phát sinh do bám chấp năm *khandhas* (SN.iii.186).
 
 ## Notes

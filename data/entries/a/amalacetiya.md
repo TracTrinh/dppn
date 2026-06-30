@@ -5,7 +5,7 @@ base_headword: "Āmalacetiya"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmalacetiya. Một bảo tháp (*Thūpa*) ở Ceylon. Không rõ ai đã xây dựng nó. Aggabodhi I đã dựng một chiếc lọng che lên trên tháp. Cv.xlii.62.
 
 ## Notes

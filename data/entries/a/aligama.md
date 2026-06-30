@@ -5,7 +5,7 @@ base_headword: "Āḷigāma"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷigāma. Một thành lũy ở địa hạt Āḷisāra bên bờ sông Ambaṅgaṅga ngày nay. Tại đây, quân đội của Parakkamabāhu đã đánh một trận quyết định với quân đội của Gajabāhu. Cv.lxx.113ff, và chú thích của Geiger về vấn đề này trong Cv.Trs.i.296, n.4.
 
 ## Notes

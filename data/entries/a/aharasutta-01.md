@@ -5,7 +5,7 @@ base_headword: "Āhārasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhārasutta 01. Được thuyết giảng tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jetavana</span> về bốn loại vật thực (*āhārā*) duy trì các chúng sinh bằng cách đưa họ đến sự sinh ra và duy trì họ sau khi sinh; cũng như nguyên nhân của các loại vật thực này và phương pháp đoạn diệt chúng. SN.ii.11-12.
 
 ## Notes

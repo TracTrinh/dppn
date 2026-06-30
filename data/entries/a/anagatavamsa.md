@@ -5,7 +5,7 @@ base_headword: "Anāgatavaṁsa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ The introductory verses of the poem state that the story was preached by the Bud
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāgatavaṁsa. Một bài thơ về câu chuyện của Metteyya, Đức Phật tương lai, bởi một vị trưởng lão tên là Kassapa (Gv.61), một cư dân của xứ Coḷa (Svd.v.1204). Bài thơ có lẽ dựa trên một tác phẩm cổ hơn (PLC.,160f). Có một bản *ṭīkā* được viết bởi một vị Upatissa, người có khả năng là tác giả của Mahā Bodhivaṁsa.
+
+Các câu thơ mở đầu của bài thơ cho biết câu chuyện này đã được Đức Phật thuyết giảng theo yêu cầu của Sāriputta. Về văn bản, xem JPTS,1886, pp.32ff.
 
 ## Notes

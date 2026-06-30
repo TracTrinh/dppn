@@ -5,7 +5,7 @@ base_headword: "Akkhamasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Akkhamasutta. The qualities which an elephant used by the king should have, and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkhamasutta. Những phẩm chất mà một con voi dùng cho nhà vua cần phải có, và những phẩm chất tương tự mà một tỳ-kheo nên sở hữu. AN.iii.157f.
 
 ## Notes

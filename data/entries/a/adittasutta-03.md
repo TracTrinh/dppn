@@ -5,7 +5,7 @@ base_headword: "Ādittasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittasutta 03. Tương tự như Ādittapariyāyasutta. SN.iv.19.
 
 ## Notes

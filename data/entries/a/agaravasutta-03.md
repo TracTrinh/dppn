@@ -5,7 +5,7 @@ base_headword: "Agāravasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Agāravasutta 03. The rebellious monk will never live according to the Dhamma, n
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agāravasutta 03. Vị sư chống đối sẽ không bao giờ sống theo Pháp, cũng không nhờ đó cuối cùng đạt được tuệ quán. AN.iii.15f.
 
 ## Notes

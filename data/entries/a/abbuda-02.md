@@ -5,7 +5,7 @@ base_headword: "Abbuda"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abbuda 02. A king of long ago; a former birth of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbuda 02. Một vị vua thời xưa; một đời trước của Nigganthipupphiya Thera. Ap.i.263.
 
 ## Notes

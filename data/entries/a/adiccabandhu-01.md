@@ -5,7 +5,7 @@ base_headword: "Ādiccabandhu"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -33,6 +33,8 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādiccabandhu 01. Một biệt hiệu thường dùng của Đức Phật (ví dụ, DN.iii.197; Sn.vs.1128; Thag. 26, 158, 417, v.v.). Chú giải <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vimanavatthu</span> (p.116) nói rằng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ādicca</span> (Mặt trời) thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gotamagotta</span>, cũng như Đức Phật, vì thế có biệt hiệu <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ādiccabandhu</span>; các giải thích khác được đưa ra trong cùng bối cảnh: Đức Phật được sinh trong cùng *ariyā jāti* và là hậu duệ của Mặt trời (*taṁ paṭicca tassa ariyāya jātiya jātattā*), hoặc Mặt trời là thân tộc của Đức Phật vì Mặt trời là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">orasaputta</span> (người con sinh từ ngực) của Đức Phật, bởi Mặt trời là đệ tử của Đức Phật. Chính theo nghĩa này mà trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.i.57), Đức Phật nói về mặt trời là “*mama pajā*,” điều mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Buddhaghosa</span> (SN­a.i.86) giải thích là có nghĩa đệ tử và con tinh thần.
+
+<span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Ādicca</span> được mô tả là *tapataṁ mukhaṁ* (đứng đầu các vật tạo ra sức nóng). MN­a.ii.783.
 
 ## Notes

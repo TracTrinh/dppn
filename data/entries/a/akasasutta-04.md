@@ -5,7 +5,7 @@ base_headword: "Ākāsasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākāsasutta 04. Giống như các loại gió khác nhau thổi trên bầu trời, cũng vậy khi một vị tỳ-kheo tu tập Bát Thánh đạo, các *satipaṭṭhāna* (niệm xứ), các *sammappadhāna* (chánh cần), các *iddhipāda* (thần túc), các *indriya* (căn), các *bāla* (lực) và các *bojjhaṅga* (giác chi) đạt đến sự viên mãn. SN.v.49.
 
 ## Notes

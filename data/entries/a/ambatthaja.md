@@ -5,7 +5,7 @@ base_headword: "Ambaṭṭhaja"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambaṭṭhaja. Seventy *kappas* ago there were fourteen kings of this name, all
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭhaja. Bảy mươi *kappa* trước có mười bốn vị vua mang tên này, tất cả đều là tiền kiếp của Ambadāyaka Thera. Ap.i.117.
 
 ## Notes

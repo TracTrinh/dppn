@@ -5,7 +5,7 @@ base_headword: "Āḷavasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavasutta, Āḷavakasutta, Āḷavīsutta. Ghi lại cuộc đối thoại giữa Đức Phật và Āḷavaka Yakkha (*q.v.*) tại Āḷavī. SN.i.213-15.
 
 ## Notes

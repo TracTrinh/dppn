@@ -5,7 +5,7 @@ base_headword: "Acchagallaka ("
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -35,6 +35,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acchagallaka (hay <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Acchagiri)</span>. Một *vihāra* do vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sūratissa</span> xây ở phía đông <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anurādhapura</span> và gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Dahegallaka</span> (Mhv.xxi.60).
+
+Theo <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Mahā Vaṁsa Ṭīka</span> (Mhv­ṭ.424), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Devānampiyatissa</span> cũng đã xây một Acchavihāra ở phía nam thành phố, và để có thể phân biệt nơi này với nơi kia, công trình của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sūratissa</span> được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Purimāyacchagallaka</span>. Chính tại đó, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Vaṭṭāgamaṇi Abhaya</span> đã tổ chức một lễ hội tôn vinh Đức Phật với sự trợ giúp của Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Tissa</span> ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Kuppikkala</span>. Mhv.xxxiii.678.
 
 ## Notes

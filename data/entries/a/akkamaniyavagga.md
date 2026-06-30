@@ -5,7 +5,7 @@ base_headword: "Akkamanīyavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akkamanīyavagga. The third section of the *Ekanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkamanīyavagga. Phần thứ ba của *Ekanipāta* thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.i.5-6.
 
 ## Notes

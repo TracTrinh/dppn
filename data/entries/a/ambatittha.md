@@ -5,7 +5,7 @@ base_headword: "Ambatittha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Ambatittha. A village in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambatittha. Một ngôi làng ở xứ Cetiya gần Bhaddavatikā. Khi Đức Phật đang du hành gần đó, Ngài đã nhiều lần được các mục đồng cảnh báo không nên đến Ambatittha vì trong thảo am của vị đạo sĩ tóc bính (Jaṭila) ở làng đó có một vị Nāga hùng mạnh trú ngụ. Trong khi Đức Phật vẫn còn ở Bhaddavatikā, Trưởng lão Sāgata đã đi đến thảo am của vị đạo sĩ tóc bính (Jaṭila) và lưu trú gần nhà lửa. Vị Nāga tỏ ra tức giận, nhưng Sāgata đã hàng phục được vị ấy bằng các thần lực (*iddhi*). Về sau, Sāgata đến hầu Đức Phật tại Bhaddavatikā và cùng đi với Ngài đến Kosambī. Tiếng tăm về chiến thắng của vị Trưởng lão trước vị Nāga đã lan truyền đến trước, và dân chúng thành Kosambī đã đón tiếp ngài hết sức nồng hậu. Ngài đã uống rượu tại các nhà dân và phải được người ta khiêng đi gặp Đức Phật. Đức Phật đã lấy sự việc này làm duyên khởi để ban hành học giới quy định việc uống chất say là một tội *pācittiya* (Ba-dật-đề). Vin.iv.108-10; AN­a.i.178.
 
 ## Notes

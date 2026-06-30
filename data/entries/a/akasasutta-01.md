@@ -5,7 +5,7 @@ base_headword: "Ākāsasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākāsasutta 01. Cuộc đàm thoại giữa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāvatthī</span> về sự chứng đạt và an trú trong Không vô biên xứ (SN.iii.237). Tên đầy đủ của bài kinh nên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ākāsānañcāyatana</span>.
 
 ## Notes

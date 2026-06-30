@@ -5,7 +5,7 @@ base_headword: "Abhisammataka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Abhisammataka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisammataka. Một thủ lĩnh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Yakkha</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upavāṇa</span> Thera*,* vào thời <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Padumuttara Buddha</span> vốn là một người rất nghèo, đã dựng tấm *uttarāsaṅga* của mình làm cờ trên bảo tháp được xây trên xá-lợi của Đức Phật. Abhisammataka đã được <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">chư thiên</span> chỉ định làm người trông coi các lễ vật cúng dường tại bảo tháp, và ông đi quanh bảo tháp ba vòng, mang theo lá cờ, trong khi chính ông vẫn ẩn hình. Thag­a.i.308; Ap.i.72.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Acelasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Acelasutta 02. Contains the story of the conversion of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acelasutta 02. Chứa câu chuyện về sự quy hóa của Acela Kassapa (2).
 
 ## Notes

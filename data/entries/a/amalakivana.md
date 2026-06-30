@@ -5,7 +5,7 @@ base_headword: "Āmalakīvana"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmalakīvana. Một khu rừng ở Cātumā. Đức Phật đã từng trú tại đó, và nhân dịp này kinh Cātumasutta đã được thuyết giảng. MN.i.456.
 
 ## Notes

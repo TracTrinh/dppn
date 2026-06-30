@@ -5,7 +5,7 @@ base_headword: "Agāravasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Agāravasutta 01. On the five qualities that make a monk rebellious and unamenab
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agāravasutta 01. Về năm phẩm chất khiến một vị sư trở nên chống đối và khó thuận theo kỷ luật. AN.iii.7f.
 
 ## Notes

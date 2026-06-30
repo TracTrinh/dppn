@@ -5,7 +5,7 @@ base_headword: "Ālambanadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālambanadāyaka Thera. Một *Arahant*. Trong một đời trước, ngài đã dâng một *ālambana* (giá đỡ?) cho Đức Phật Atthadassī. Sáu mươi *kappas* trước, ngài được sinh ba lần làm vua dưới tên Ekāpassita. Ap.i.213.
 
 ## Notes

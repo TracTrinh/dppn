@@ -5,7 +5,7 @@ base_headword: "Āluvadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āluvadāyaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông đã cúng dường một quả *āluva* (một loại quả?) cho vị Pacceka Buddha (Phật Độc giác) Sudassana gần vùng núi Himavā. Ap.i.237.
 
 ## Notes

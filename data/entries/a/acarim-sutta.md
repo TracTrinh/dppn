@@ -5,7 +5,7 @@ base_headword: "Acariṁ Sutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Acariṁ Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acariṁ Sutta. Khi đi qua lại, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gotama Buddha</span> tìm kiếm sự thỏa mãn, sự khổ đau và sự thoát ly đến từ địa đại. Ngài tìm thấy những điều ấy và khám phá rằng chúng cũng hiện hữu trong ba đại còn lại. SN.ii.171.
 
 ## Notes

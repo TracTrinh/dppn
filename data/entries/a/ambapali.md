@@ -5,7 +5,7 @@ base_headword: "Ambapālī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -61,6 +61,24 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="32" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapālī (Ambapālikā). Một kỹ nữ của thành Vesālī. Tương truyền bà đã hóa sanh tại Vesālī trong ngự uyển của vua. Người làm vườn tìm thấy bà dưới gốc một cây xoài – do đó có tên gọi này – và đưa bà vào thành. Bà lớn lên với vẻ đẹp và sự duyên dáng tuyệt trần đến nỗi nhiều vương tử trẻ tuổi đã cạnh tranh nhau để có được vinh dự cưới bà. Cuối cùng, để chấm dứt sự tranh chấp giữa họ, họ đã phong bà làm kỹ nữ. Về sau bà trở thành một đệ tử thuần thành của Đức Phật, xây dựng một tu viện trong chính khu vườn của mình rồi dâng cúng lên Ngài và Tăng đoàn. Sự việc này diễn ra trong chuyến viếng thăm cuối cùng của Đức Phật đến Vesālī, không lâu trước khi Ngài nhập Niết-bàn. Tương truyền rằng khi Ambapālī nghe tin Đức Phật đến thăm Koṭigāma gần Vesālī, bà cùng đoàn tùy tùng đã ra ngoài thành trên những cỗ xe lộng lẫy để gặp Ngài, và sau khi nghe một thời pháp thoại, đã thỉnh mời Ngài cùng chư tăng thọ trai vào ngày hôm sau. Đức Phật đã nhận lời và kết quả là phải từ chối lời mời của người Licchavī ở Vesālī.
+
+Khi trở về sau cuộc gặp với Đức Phật, Ambapālī đã quá phấn khích trước ý nghĩ được cúng dường bữa ăn cho Đức Phật vào ngày hôm sau đến mức bà từ chối nhường đường cho các vương tử Licchavī đang trên đường đến gặp Đức Phật. Bà từ chối nhượng lại lời mời thọ trai của mình với bất cứ giá nào trên đời. Chú giải nói rằng ngay trước khi Ambapālī đến gặp Ngài, Đức Phật đã nhắc nhở các tỳ-kheo phải kiên định và chánh niệm, kẻo họ bị mất tự chủ vì bà (DNa.ii.545).
+
+Chính sau bữa ăn này, Ambapālī đã dâng cúng khu vườn của mình, tức Ambapālivana, lên Đức Phật và Tăng đoàn. Đức Phật đã chấp nhận món quà dâng cúng và ở lại đó một thời gian trước khi tiếp tục đi đến Beluva. Vin.i.231-3; DN.ii.95-8; hai lời kể khác nhau về chi tiết, ví dụ trong phiên bản Dīgha, Đức Phật đã ở tại Ambapālivana, chứ không phải ở Koṭigāma, khi nàng kỹ nữ đến gặp Ngài.
+
+Ambapālī có một người con trai tên là Vimala Koṇḍañña, một vị Trưởng lão kiệt xuất. Sau khi nghe vị này thuyết pháp vào một ngày nọ, bà đã xuất gia, nỗ lực tu tập tuệ quán qua việc quán chiếu quy luật vô thường hiển hiện trên thân thể già nua của chính mình, và đã chứng đắc quả vị *Arahant* (Thīga.206-7).
+
+Mười chín bài kệ được cho là của bà được tìm thấy trong Therīgāthā (252-70).
+
+Vào thời Đức Phật Sikhī, bà đã gia nhập Tăng đoàn. Khi còn là một sa-di-ni, bà tham gia vào một đoàn diễu hành của các Tỳ-kheo-ni, và đang đảnh lễ trước một tháp thờ thì một vị Trưởng lão ni *Arahant* đi phía trước bà đã vô ý nhổ nước bọt trên sân tháp. Nhìn thấy bãi nước bọt và không biết ai đã phạm lỗi, bà đã lên tiếng trách móc: "Ả điếm nào đã nhổ nước bọt ở đây?" Chính vì lời nói này mà bà đã phải sinh làm kỹ nữ trong kiếp sống cuối cùng của mình (Thīga.206-7).
+
+Tập Apadāna (cũng được trích dẫn trong Thīga) cung cấp thêm một số chi tiết về bà. Bà từng là con gái của một gia đình Sát-đế-lỵ vào thời Đức Phật Phussa và đã làm nhiều thiện sự để có được dung mạo xinh đẹp trong các kiếp sau. Do hậu quả của việc xúc phạm vị tỳ-kheo-ni (nói trên), bà đã bị đọa vào địa ngục và sau đó phải làm kỹ nữ trong mười ngàn kiếp. Vào thời Đức Phật Kassapa, bà đã giữ gìn phạm hạnh (Ap.ii.613ff.; Thīga.213f).
+
+Tương truyền rằng bà thu phí năm mươi kahāpaṇa một đêm từ những người khách của mình và thành Vesālī đã trở nên rất phồn vinh nhờ có bà. Chính điều này đã thúc đẩy vua Bimbisāra tìm một kỹ nữ cho thành Rājagaha của mình (Vin.i.268).
+
+Trong số những vị khách của Ambapālī có cả vua Bimbisāra, và ông chính là cha của con trai bà, Vimala Koṇḍañña (Thaga.i.146).
+
+Trong Theragāthā (kệ số 1020-21; Thag.ii.129) có hai bài kệ mà theo truyền thuyết, đã được tôn giả Ānanda thuyết giảng để cảnh tỉnh các tỳ-kheo bị mất tự chủ khi nhìn thấy Ambapālī. Lời kể không cho biết điều này xảy ra trước hay sau khi bà gia nhập Tăng đoàn.
 
 ## Notes

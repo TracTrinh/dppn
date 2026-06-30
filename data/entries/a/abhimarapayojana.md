@@ -5,7 +5,7 @@ base_headword: "Abhimārapayojanā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Abhimārapayojanā. Name given to the conspiracy into which <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhimārapayojanā. Tên được đặt cho âm mưu mà Devadatta và Ajātasattu cùng tham gia, nhằm khiến các cung thủ bắn Gotama Buddha và nhờ đó giết ngài (Ja.i.141; vi.130f.; DN­a.i.154).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Adhikaraṇavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Adhikaraṇavagga. The second chapter of the *Dukanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhikaraṇavagga. Chương thứ hai của *Dukanipāta* thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. Chương này gồm mười *Sutta* về giá trị của việc tự xét mình trong các tranh chấp và nhiều đề tài khác, như các nguyên nhân được sinh lên thiên giới và vào địa ngục, sự tránh xa bất thiện hạnh, tính thiêng liêng của từng chữ trong Pháp, v.v. AN.i.52-8.
 
 ## Notes

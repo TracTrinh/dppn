@@ -5,7 +5,7 @@ base_headword: "Ālambagāma"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālambagāma. Một hồ chứa ở Ceylon do Jeṭṭhatissa xây dựng. Mhv.xxxvi.131.
 
 ## Notes

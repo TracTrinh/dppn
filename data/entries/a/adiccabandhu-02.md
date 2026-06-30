@@ -5,7 +5,7 @@ base_headword: "Ādiccabandhu"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,8 @@ He, therefore, visited the prince and persuaded him to go into the forest by sho
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādiccabandhu 02. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span>, người đã góp phần giúp tác giả (con trai của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Benares</span>) của bài kệ thứ hai mươi trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Khaggavisāṇasutta</span> trở thành một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Pacceka Buddha</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ādiccabandhu</span> thấy rằng vị vương tử trẻ, người đã xuất gia và đang sống trong khu vườn của cha mình gần thành phố, do những lần thăm viếng của cha mẹ và những người khác, không có đủ sự an tĩnh trong tâm để phát triển năng lực thiền định.
+
+Vì vậy, ngài đến thăm vị vương tử và thuyết phục ông đi vào rừng bằng cách chỉ cho ông thấy những *pabbajita* chân chính sống như thế nào. Hai dòng đầu của bài kệ trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Suttanipāta</span> (No. 54) do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ādiccabandhu</span> nói ra. Sn.vs.54; Snp-a.i.104-5; xem thêm Ap­a.i.105, 152.
 
 ## Notes

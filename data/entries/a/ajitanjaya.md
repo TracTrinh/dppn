@@ -5,7 +5,7 @@ base_headword: "Ajitañjaya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajitañjaya. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitañjaya. Vua của Ketumati. Ông là một đời trước của Todeyya Thera *q.v.*
 
 ## Notes

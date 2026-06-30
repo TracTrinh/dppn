@@ -5,7 +5,7 @@ base_headword: "Abbhantaravagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abbhantaravagga. The fourth division of the *Tikanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhantaravagga. Phẩm thứ tư của *Tikanipāta* trong Jātaka Commentary. Ja.ii.392-430.
 
 ## Notes

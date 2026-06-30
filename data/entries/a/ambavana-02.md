@@ -5,7 +5,7 @@ base_headword: "Ambavana"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -35,6 +35,8 @@ See also under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambavana 02. Một vùng ở Ceylon, gần làng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Khīravāpi</span>. Nó không xa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pulatthinagara</span>. Tên này còn được bảo tồn trong tên Ambaṅgaṅga, con sông chảy qua thung lũng Matale. Cv.lxvi.85; lxix.9; lxx.98, 191-6. Xem thêm Cv. trans. i.260, n.1.
+
+Xem thêm dưới các mục <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anupiya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Kakuṭṭha</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Jīvaka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Cunda</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Todeyya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Pāvārika</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Vedaññā</span> để biết các địa phương khác được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Ambavana</span> và có liên hệ với những tên này.
 
 ## Notes

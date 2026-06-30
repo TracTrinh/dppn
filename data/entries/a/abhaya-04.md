@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Abhaya 04. A Thera. He and <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 04. Một Thera. Vị ấy và Tissadatta Thera được nhắc đến cùng nhau trong nhiều Chú giải (DN­a.iii.786; MN­a.i.234; AN­a.i.273; Vibh­a.275) như những ví dụ về những người đáng được thân cận, vì họ có niệm hiện tiền (*upaṭṭhitasati*). Điều này có lẽ chỉ Abhaya (1), hoặc có khả năng hơn là một trong ba vị Abhaya được nhắc cùng các danh hiệu của họ trong Dīgha Commentary về Mahā Parinibbānasutta (DN­a.ii.530: Mahā Gatimba Abhaya, *Dīghabhāṇaka* Abhaya và Tipiṭaka Cūḷābhaya) trong phần chú giải từ *upaṭṭhitasati*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ambala"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambala. Probably the name of a tower in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambala. Có lẽ là tên của một tháp trong tu viện Jetavana. Sunakhajātaka (Ja 242) được thuyết tại đó về một con chó sống trong nhà nghỉ của tháp ấy (Ja.ii.246).
 
 ## Notes

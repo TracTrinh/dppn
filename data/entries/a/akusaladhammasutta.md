@@ -5,7 +5,7 @@ base_headword: "Akusaladhammasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Akusaladhammasutta. On the unprofitable and profitable states. SN.v.18.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akusaladhammasutta. Về các trạng thái bất thiện và thiện. SN.v.18.
 
 ## Notes

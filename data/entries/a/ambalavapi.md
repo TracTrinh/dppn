@@ -5,7 +5,7 @@ base_headword: "Ambālavāpi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ambālavāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambālavāpi. Một hồ chứa nước được Parakkamabāhu I phục hồi. (Cv.lxviii.46) Một con kênh gọi là Tambapaṇṇī chảy từ hồ ấy về phía bắc. Cv.lxxix.50.
 
 ## Notes

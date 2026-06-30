@@ -5,7 +5,7 @@ base_headword: "Ambatitthaka"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambatitthaka 01. A Tamil stronghold surrounded by a river and a moat; it was cap
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambatitthaka 01. Một thành lũy của người Tamil được bao quanh bởi một con sông và một hào nước; thành lũy này đã bị Duṭṭhagāmaṇī đánh chiếm sau bốn tháng vây hãm (Mhv.xxv.7-9). Người Damiḷa xảo quyệt tên là Titthamba đã sống ở đó, và tương truyền rằng cuối cùng y đã bị khuất phục bởi một mưu kế, trong đó Duṭṭhagāmaṇī đề nghị gả mẹ của mình cho y (Mhv­ṭ.473f). Gần nơi này có một bến vượt sông Mahā Vālukagaṅgā.
 
 ## Notes

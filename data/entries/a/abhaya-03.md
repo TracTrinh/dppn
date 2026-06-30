@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,6 @@ Abhaya 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 03. Một Licchavī ở Vesālī, thường (e.g., GS.i.200, n.2; ii.211, n.2; KS.v.107, n.2.), nhưng sai lầm, được đồng nhất với Abhayarājakumāra. Trong một dịp, ông cùng một Licchavī khác, *Paṇḍita* Kumāraka, đến gặp Ānanda trong Kūṭāgārasālā ở Vesālī, và bàn luận với vị ấy về một số quan điểm do Nigaṇṭha Nātaputta chủ trương. Ānanda dạy ông ba cách thanh tịnh của Đức Phật (xem chi tiết AN.i.220-2). Trong một dịp khác, ông đến thăm Đức Phật, cũng tại Vesālī, cùng với Licchavī Sāḷha; người sau hỏi quan điểm của Đức Phật về sự thanh tịnh của giới hạnh và việc tự hành xác. Đức Phật nói với ông về Thánh đạo và giải thích các hàm ý của con đường ấy bằng nhiều ví dụ (xem AN.ii.202-4). Chúng ta không được cho biết rằng một trong hai người đã trở thành người cải đạo trong dịp này.
 
 ## Notes

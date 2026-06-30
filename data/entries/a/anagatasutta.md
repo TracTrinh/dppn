@@ -5,7 +5,7 @@ base_headword: "Anāgatasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anāgatasutta. The five kinds of anticipatory fears that should make a forest-dw
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāgatasutta. Năm loại hiểm họa tương lai nên làm cho một vị tỳ-kheo trú rừng trở nên nhiệt tâm và tinh tấn. AN.iii.100f.
 
 ## Notes

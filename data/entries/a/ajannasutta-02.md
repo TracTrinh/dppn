@@ -5,7 +5,7 @@ base_headword: "Ājaññasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājaññasutta 02. Giống như trên, nhưng tốc độ tuệ giác ở một vị sư được mô tả là khả năng nhập vào bốn *jhānas*. AN.ii.251-2.
 
 ## Notes

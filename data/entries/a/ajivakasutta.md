@@ -5,7 +5,7 @@ base_headword: "Ājīvakasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājīvakasutta. Một cuộc đàm thoại giữa Ānanda và một gia chủ, một người theo Ājīvakas. Gia chủ hỏi Ānanda về giáo thuyết của ai được khéo giảng, ai là những người thực hành đúng đắn và ai là những người đem lại lợi ích trong thế gian. Ānanda nói cho ông các đặc điểm hữu ích để đi đến quyết định về những câu hỏi này, mà không tán dương tín điều của mình hay chê bai tín điều của người khác. Người ấy bày tỏ sự rất hài lòng. AN.i.217ff.
 
 ## Notes

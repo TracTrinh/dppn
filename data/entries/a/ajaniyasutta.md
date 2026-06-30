@@ -5,7 +5,7 @@ base_headword: "Ājāniyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ājāniyasutta. Ba bài giảng về cơ bản giống với Ājaññasutta (1), nhưng phẩm chất thứ tư (tỷ lệ cân đối) bị lược bỏ. Các *Suttas* này khác nhau ở định nghĩa về “tốc độ” trong trường hợp vị sư. AN.i.244.
 
 ## Notes

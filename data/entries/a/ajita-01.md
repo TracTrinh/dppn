@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Ajita 01. A monk. He devoted his time to explaining the *Pātimokkha* rules to t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 01. Một tỳ-kheo. Ngài dành thời gian giải thích các điều luật *Pātimokkha* cho các tỳ-kheo. Vào thời kỳ Đại Kết Tập lần thứ hai, ngài là một tỳ-kheo đã tu được mười năm và được chỉ định phân chỗ ngồi cho các Trưởng lão. Vin.ii.305
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhibhū"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -45,6 +45,14 @@ The Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhibhū 01. Thượng thủ đệ tử của Sikhī Buddha (DN.ii.9; Ja.i.41; Bv.xxi.20). Trong Aruṇavatīsutta có nói rằng ông cùng Sikhī đi đến một cõi *Brahma* và, theo lời thỉnh cầu của Đức Phật, thuyết một bài pháp kèm theo những thần lực lớn. Ông chứng minh rằng chỉ bằng cách dùng lời nói như thể đang thuyết cho một hội chúng tăng sĩ, ông có thể, khi đứng trong cõi *Brahma*, làm cho tiếng nói của mình được nghe trong một nghìn thế giới của cõi ấy (SN.i.154f). Các bài kệ được nói trong dịp này, trong Theragāthā, lại được gán cho Abhibhūta (v.1147-8).
+
+Trong Aṅguttaranikāya (AN.i.226f.; AN­a.i.436f), chúng ta thấy Ānanda hỏi Đức Phật quyền năng của Abhibhū liên hệ đến quyền năng của một Đức Phật đến mức nào, và Đức Phật đáp rằng Abhibhū chỉ là một đệ tử, rồi tiếp tục mô tả các năng lực vô lượng của Tathāgata.
+
+Abhibhū là một Bà-la-môn, vì chúng ta thấy ông được xưng hô như vậy trong Aruṇavatīsutta đã nhắc ở trên; nhưng trong Buddhavaṁsa Commentary (p.202), ông được nói là một rājaputta.
+
+Trong Paṭisambhidhāmagga Commentary (488f), câu chuyện của ông được nêu như một ví dụ về *vikubbana-iddhi*, nhờ đó một người có thể làm cho mình được thấy ở nhiều nơi cùng lúc. Chúng ta được kể rằng ông tu tập *nīlakasiṇa* để thu hút sự chú ý của các hệ thống thế giới về phía mình.
+
+Thera Adhopupphiya từng là một ẩn sĩ ở Himavā vào thời Sikhī Buddha và đã dâng hoa cho Abhibhū. Ap.i.128-9.
 
 ## Notes

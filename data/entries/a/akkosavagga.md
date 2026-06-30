@@ -5,7 +5,7 @@ base_headword: "Akkosavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Akkosavagga. The fifth section of the *Dasakanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akkosavagga. Phần thứ năm của *Dasakanipāta* thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.v.77-91.
 
 ## Notes

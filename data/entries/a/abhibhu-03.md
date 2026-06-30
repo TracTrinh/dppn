@@ -5,7 +5,7 @@ base_headword: "Abhibhū"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abhibhū 03. The name of a Bodhisatta who obtained *vivaraṇa* under <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhibhū 03. Tên của một Bodhisatta đã nhận được *vivaraṇa* dưới thời Gotama. Vị ấy sẽ trở thành vị Phật thứ sáu sau Gotama. Anāgatavaṁsa, p.37.
 
 ## Notes

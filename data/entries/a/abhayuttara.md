@@ -5,7 +5,7 @@ base_headword: "Abhayuttara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhayuttara. Another name for <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayuttara. Một tên khác của Abhayagiri.
 
 ## Notes

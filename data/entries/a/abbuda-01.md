@@ -5,7 +5,7 @@ base_headword: "Abbuda"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abbuda 01. A period of suffering in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbuda 01. Một thời kỳ chịu khổ trong Avīci. Một Abbuda được tính là thời gian cần để lấy hết hai mươi *Khāris* của xứ Kosala (tương đương một xe chở đầy) hạt *tila*, cứ mỗi cuối thế kỷ lấy một hạt.
 
 ## Notes

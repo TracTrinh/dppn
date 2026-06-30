@@ -5,7 +5,7 @@ base_headword: "Alakkhī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Alakkhī. The goddess of ill-luck. She delights in men of evil deeds. Ja.v.112-1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alakkhī. Nữ thần của sự bất hạnh. Bà vui thích nơi những người làm ác. Ja.v.112-14.
 
 ## Notes

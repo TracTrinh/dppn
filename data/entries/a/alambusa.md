@@ -5,7 +5,7 @@ base_headword: "Alambusā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Alambusā. The nymph sent by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alambusā. Tiên nữ được Sakka phái đến để cám dỗ hiền giả Isisiṅga, như được thuật trong Alambusājātaka (Ja 523). Trong đời hiện tại, nàng là vợ của vị tỳ-kheo mà liên quan đến vị ấy Alambusājātaka đã được kể (Ja.v.152-61). Tên của nàng xuất hiện trong Vimānavatthu (p.16, v.10. Xem thêm CSB.29, Pl.15) trong một danh sách các tiên nữ phục vụ Sakka và các hoàng hậu của vị ấy bằng ca múa.
 
 ## Notes

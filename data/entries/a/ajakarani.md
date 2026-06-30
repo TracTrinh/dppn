@@ -5,7 +5,7 @@ base_headword: "Ajakaraṇī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,6 @@ Ajakaraṇī. The river on whose banks was the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajakaraṇī. Con sông bên bờ có vihāra Loṇagiri (hoặc Lenagiri), nơi Trưởng lão Sabbaka (Sappaka) sống (Thag.307ff). Cũng tại đây, trong một hang động, Trưởng lão Bhūta cư trú (Thag.518f.; Thag­a.i.493f). Con sông này có lẽ là một nhánh của Aciravatī. *Brethren*, 187, n.2.
 
 ## Notes

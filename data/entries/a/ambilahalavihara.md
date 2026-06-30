@@ -5,7 +5,7 @@ base_headword: "Ambilahālavihāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -32,6 +32,12 @@ At the end of the sermon a thousand monks became *Arahants*. MN­a.ii.1025.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambilahālavihāra. Một tu viện ở Ceylon.
+
+Trong một dịp, Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tipiṭaka Cūḷa Nāga</span> thuyết <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Saḷāyatanikasutta</span> tại đó.
+
+Hội chúng loài người rộng một *gāvuta*, còn hội chúng chư thiên rộng một do-tuần.
+
+Cuối thời pháp, một ngàn vị sư trở thành *Arahants*. MN­a.ii.1025.
 
 ## Notes

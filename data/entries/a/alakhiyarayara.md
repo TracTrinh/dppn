@@ -5,7 +5,7 @@ base_headword: "Aḷakhiyarāyara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Aḷakhiyarāyara. One of the Tamil generals who fought on the side of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḷakhiyarāyara. Một trong các tướng Tamil đã chiến đấu về phía Kulasekhara chống lại Parakkamabāhu I. Cv.lxxvi.145.
 
 ## Notes

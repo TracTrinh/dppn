@@ -5,7 +5,7 @@ base_headword: "Ajjunapupphiya Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajjunapupphiya Thera. Probably identical with <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjunapupphiya Thera (Trưởng lão Ajjunapupphiya). Có lẽ đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sambhūta Thera</span> (Trưởng lão Sambhūta).
 
 ## Notes

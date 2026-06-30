@@ -5,7 +5,7 @@ base_headword: "Ajacca"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajacca. One of the disciples mentioned in the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajacca. Một trong những đệ tử được nhắc đến trong Sīlavīmaṁsana Jātaka là đã cố giành được con gái của thầy mình nhưng thất bại. Ja.iii.19.
 
 ## Notes

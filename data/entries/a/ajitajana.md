@@ -5,7 +5,7 @@ base_headword: "Ajitajana"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajitajana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitajana, Abhitatta. Một vị vua thuộc dòng dõi Mahā Sammata. Hậu duệ của ông trị vì ở Kapilapura. Mhv­ṭ.127; Dpv.iii.17 gọi ông là Abhitatta.
 
 ## Notes

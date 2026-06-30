@@ -5,7 +5,7 @@ base_headword: "Ajitaraṭṭha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Ajitaraṭṭha (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajitaraṭṭha (Addikaraṭṭha hay Addilaraṭṭha). Xứ nơi *seṭṭhi* Ghosita, trong một đời trước, sinh ra làm một người nghèo tên Kotūhalaka. DN­a.i.317; Dhp­a.i.169f.
 
 ## Notes

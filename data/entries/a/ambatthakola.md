@@ -5,7 +5,7 @@ base_headword: "Ambaṭṭhakola"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -42,6 +42,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭhakola, Ambaṭṭhakolalena. Một vùng ở Ceylon gần Kurunegala ngày nay, cách Anurādhapura năm mươi lăm dặm. Khi Duṭṭhagāmaṇī lên kế hoạch xây dựng bảo tháp Mahā Thūpa, bạc đã xuất hiện gần một hang động ở vùng này nhờ thần lực của chư thiên và được một thương nhân phát hiện, người này đã trình báo phát hiện đó cho nhà vua; đích thân nhà vua đã đến để thu nhận số bạc cho bảo tháp (*Thūpa*) (Mhv.xxviii.20-35; Mhv­ṭ.512).
+
+Về sau, Āmaṇḍagāmaṇī Abhaya đã xây dựng tu viện Rajatalena *Vihāra* tại đây (Mhv.xxxv.4, 5). Chính tại vùng này, ở khu vực lân cận của Kuṭhārivihāra, Moggallāna đã đánh bại người anh trai giết cha của mình là Kassapa I. (Cv.xxxix.21ff)
+
+Theo bộ chú giải Mahā Vaṁsaṭīkā, chính tại Ambaṭṭhakola, vua Mahā Cūlī Mahā Tissa đã làm việc tại một xưởng mía đường ở Soṇṇagiri để kiếm tiền thực hiện một lễ bố thí cúng dường (Mhv­ṭ.624; Mhv.xxxiv.4f).
 
 ## Notes

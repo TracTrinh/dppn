@@ -5,7 +5,7 @@ base_headword: "Allakappa"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,8 @@ Allakappa 01. A country near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Allakappa 01. Một quốc gia gần Magadha. Khi bộ tộc Bulis ở Allakappa nghe tin Đức Phật nhập Niết-bàn, họ đã cử sứ giả đến bộ tộc Mallas xin một phần xá-lợi, với lý do rằng họ cũng giống như Đức Phật, đều thuộc dòng dõi *Khattiya* (Sát-đế-lỵ). Sau khi nhận được xá-lợi, về sau họ đã xây dựng một bảo tháp (*Thūpa*) để tôn thờ xá-lợi (DN.ii.166-7; Bv.xxviii.2).
+
+Allakappa dường như theo thể chế cộng hòa, nhưng tầm quan trọng của quốc gia này không lớn lắm. Theo Dhammapada Commentary (Dhp­a.i.161), Allakappa rộng mười do-tuần (leagues) và vua của nước này có mối quan hệ hữu nghị thân thiết với Vua xứ Veṭhadīpaka. Họ dành rất nhiều thời gian bên nhau, do đó hai quốc gia chắc hẳn phải ở gần nhau.
 
 ## Notes

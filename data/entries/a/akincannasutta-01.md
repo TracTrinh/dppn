@@ -5,7 +5,7 @@ base_headword: "Ākiñcaññasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākiñcaññasutta 01. Cuộc đàm luận giữa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> về Vô sở hữu xứ (*ākiñcaññāyatana*). SN.iii.237.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Alambusājātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -35,6 +35,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alambusājātaka (Ja 523). Isisiṅga, con trai của Bodhisatta và một con nai cái đã uống nước nơi tinh dịch của Bodhisatta rơi vào, sống đời ẩn sĩ như cha mình. Ông đã được cha cảnh báo về những mưu mẹo của phụ nữ, và sống trong rừng thực hành những khổ hạnh khắc nghiệt nhất. Nhờ năng lực của các khổ hạnh ấy, nơi ở của Sakka rung chuyển, và Sakka, sợ ông trở thành đối thủ, đã phái xuống một tiên nữ cõi trời xinh đẹp, Alambusā, để cám dỗ ông và làm ông mất giới hạnh.
+
+Nàng đã thành công trong việc này, và trong ba năm ông nằm bất tỉnh trong vòng tay của nàng. Cuối cùng, nhận ra điều đã xảy ra, ông lập tức từ bỏ dục vọng, và phát triển thiền định huyền nhiệm, đạt đến *jhāna*. Alambusā xin được tha thứ, và ông sẵn lòng tha thứ. Câu chuyện được kể liên quan đến việc một vị tỳ-kheo bị cám dỗ bởi người vợ mà vị ấy từng có khi còn sống đời cư sĩ (Ja.v.152-61. Xem thêm Naḷinikājātaka (v.193f.), nơi Isisiṅga bị Naḷinikā cám dỗ).
+
+Trong Dīgha Commentary (ii.370; xem thêm Vin-a.i.214. So sánh câu chuyện về Ṛṣyaśiṅga trong *Rāmāyaṇa* i.9. Câu chuyện được tìm thấy trong Bharhut Tope, xem Cunningham, CSB.29, P1.15), tên của vị ẩn sĩ được ghi là Migasiṅgi, và câu chuyện được trích dẫn như một ví dụ về cách giải thích sai về sự đoạn diệt của ý thức.
 
 ## Notes

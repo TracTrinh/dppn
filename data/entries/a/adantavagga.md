@@ -5,7 +5,7 @@ base_headword: "Adantavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Adantavagga. The fourth chapter of the *Ekanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adantavagga. Chương thứ tư của *Ekanipāta* thuộc Aṅguttaranikāya. Chương này gồm mười *Suttas* về tâm chưa được điều phục. AN.i.6f.
 
 ## Notes

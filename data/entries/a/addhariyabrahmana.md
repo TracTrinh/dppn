@@ -5,7 +5,7 @@ base_headword: "Addhariyābrāhmaṇā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Addhariyābrāhmaṇā. The word occurs in a list of Brahmin teachers in the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Addhariyābrāhmaṇā. Từ này xuất hiện trong một danh sách các vị thầy Bà-la-môn trong Tevijjasutta (DN.i.237). Họ dạy một trạng thái hợp nhất với *Brahma*. Hiển nhiên đây là các Bà-la-môn Adhvaryu.
 
 ## Notes

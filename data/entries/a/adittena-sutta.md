@@ -5,7 +5,7 @@ base_headword: "Ādittena Sutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādittena Sutta. Sẽ là điều tốt nếu các căn bị nung cháy bằng một thanh sắt đỏ rực, vì khi ấy sẽ không có sự nắm bắt các tướng hay chi tiết của những đối tượng mà các căn có thể nhận biết. Sẽ là điều tốt nếu được ngủ, vì khi ấy tâm sẽ không hướng đến các mục đích xấu. Nhưng tốt hơn là quán xét về tính vô thường của các căn, các cảm thọ của chúng, thức và các xúc liên hệ với chúng, cùng tất cả những gì liên quan đến tâm, bởi sự quán xét ấy sẽ tạo ra nhàm chán và ly tham, giải thoát và sự chứng ngộ giải thoát. SN.iv.168f.
 
 ## Notes

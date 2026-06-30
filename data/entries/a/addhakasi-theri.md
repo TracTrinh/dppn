@@ -5,7 +5,7 @@ base_headword: "Aḍḍhakāsī Therī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -37,6 +37,10 @@ Another explanation is, however, given by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhakāsī Therī. Vào thời Kassapa Buddha, bà từng là một Tỳ-kheo-ni an trú vững chắc trong giới luật. Nhưng bà đã mắng nhiếc một Therī *Arahant* bằng cách gọi vị ấy là kỹ nữ, và vì điều này bà sinh vào địa ngục. Trong thời hiện tại, bà là con gái của một công dân giàu có và nổi bật ở Benares, nhưng do lời ác khẩu trước kia, bà trở thành một kỹ nữ ở Rājagaha. Sau khi nghe Đức Phật thuyết pháp, bà gia nhập Saṅgha của các Tỳ-kheo-ni. Muốn được thọ đại giới từ Đức Phật, bà lên đường đi Sāvatthī, nhưng bị những kẻ phóng đãng phục kích và chặn lại. Vì vậy bà sai một người đến hỏi lời khuyên của Đức Phật, và Ngài cho phép bà được xuất gia qua một sứ giả (Thīg.vv.25-6; Thīg­a.30ff.; Vin.ii.277; Ap. ii. 610-11). Trường hợp của bà lập thành một tiền lệ (Vin-a.i.242). Về sau bà chứng đạt quả vị *Arahant*.
+
+Đã có gợi ý (VT.iii.360, n.3; and VT.ii.195-6, n.3) rằng tên của bà, “nửa *Kāsī*”, có thể nghĩa là bà lấy năm trăm đồng từ các khách hàng của mình. Vì theo Buddhaghosa, *Kāsī* nghĩa là một nghìn, và bất cứ thứ gì đáng giá một nghìn đều được gọi là *kāsiya*.
+
+Tuy nhiên, Dhammapāla (Thīg­a.32) đưa ra một giải thích khác. Thu nhập mà nhà vua nhận được trong một ngày từ Kāsī là một nghìn. Khách của Aḍḍhakāsī phải đưa một khoản tương tự để qua một đêm với bà. Điều này được nhắc đến trong một trong những câu kệ được gán cho bà trong Therīgāthā (v.25). Vì lý do này bà được gọi là Kāsī. Nhưng về sau, nhiều người đàn ông không đủ khả năng trả một nghìn, sẽ trả một nửa số ấy và ở lại ban ngày với bà. Do đó bà được biết đến với tên Aḍḍhakāsī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ajjuna"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Ajjuna 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuna 03. Một Pacceka Buddha sống cách đây chín mươi bốn *kappas*. Ajelaphaladāyaka Thera đã dâng ngài một quả *ajela*. Ap.ii.446.
 
 ## Notes

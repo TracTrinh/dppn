@@ -5,7 +5,7 @@ base_headword: "Aḍḍhacandiya Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aḍḍhacandiya Thera. An *Arahant*. In a previous birth he gave <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḍḍhacandiya Thera. Một *Arahant*. Trong một đời trước, ngài dâng lên Tissa Buddha một bó hoa có hình vầng trăng lưỡi liềm. Ngài từng là một vị vua tên Devapa. Ap.i.231.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Agāriya Vimāna"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Agāriya Vimāna. A palace in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Agāriya Vimāna. Một cung điện trong cõi Tāvatiṁsa, do một cặp vợ chồng trú ngụ, những người khi còn là người ở Rājagaha đã làm nhiều việc đạo đức. Vv.vi.; Vv-a.286-7.
 
 ## Notes

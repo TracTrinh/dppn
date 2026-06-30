@@ -5,7 +5,7 @@ base_headword: "Anamataggasaṁyutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -38,6 +38,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anamataggasaṁyutta. Chương thứ mười lăm của Saṁyuttanikāya. Chương này chứa đựng một tập hợp các bài thuyết giảng về điểm khởi đầu không thể tính đếm của *Saṁsāra* (SN.ii.178ff). Sau kỳ Đại Kết Tập lần thứ Ba, Trưởng lão Rakkhita, người đã đi đến Vanavāsa, đã thuyết giảng Anamataggasaṁyutta tại đó và hóa độ cho 60.000 người (Mhv.xii.32f).
+
+Vào ngày thứ tư trong chuyến viếng thăm Ceylon của Mahinda, ngài đã thuyết giảng chương Saṁyutta này tại Nandanavana ở Anurādhapura (Mhv.xv.186; Vin-a.i.81; Mbv.114).
+
+Các tỳ-kheo Pātheyyaka đã đắc quả vị *Arahant* sau khi nghe Đức Phật thuyết giảng Anamataggāni. Dhp­a.ii.32.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "13"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhaya 13. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 13. (Abhayupassaya). Một ni viện do vua Mahā Sena xây dựng. Mhv.xxxvii.43.
 
 ## Notes

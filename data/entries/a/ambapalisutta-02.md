@@ -5,7 +5,7 @@ base_headword: "Ambapālisutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambapālisutta 02. A conversation between <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapālisutta 02. Cuộc đàm thoại giữa Anuruddha và Sāriputta tại Ambapālivana. Sāriputta hỏi nguyên nhân của sự an tịnh và dung sắc rạng rỡ của Anuruddha. Anuruddha trả lời rằng đó là nhờ tu tập bốn *satipaṭṭhānā*; chính ngài dành tất cả thời gian của mình để thực hành chúng, và nói chung tất cả các bậc Arahant cũng đều làm như vậy. SN.v.301.
 
 ## Notes

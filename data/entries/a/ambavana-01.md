@@ -5,7 +5,7 @@ base_headword: "Ambavana"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ambavana 01. A *padhānaghara* in Ceylon, built by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambavana 01. Một *padhānaghara* ở Ceylon, do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kassapa III</span> xây dựng. Cv.x1viii.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Amaruppala"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amaruppala. The name borne by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaruppala. Tên mà Kākavaṇṇatissa mang khi ông là một thợ săn trong một ngôi làng gần Amaruppalalena. Ras.ii.56.
 
 ## Notes

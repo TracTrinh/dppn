@@ -5,7 +5,7 @@ base_headword: "Ambayāgadāyaka Thera"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambayāgadāyaka Thera 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambayāgadāyaka Thera 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Appayāgadāyaka Thera</span>. Một *Arahant*. Chín mươi mốt *kappas* trước, khi đi vào rừng để theo đuổi nghề của mình, ngài gặp Đức Phật và dâng lên Ngài xoài.
 
 ## Notes

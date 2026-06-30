@@ -5,7 +5,7 @@ base_headword: "Āghātasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āghātasutta 02. Về chín cách đoạn trừ cảm giác oán hận. AN.iv.408-9.
 
 ## Notes

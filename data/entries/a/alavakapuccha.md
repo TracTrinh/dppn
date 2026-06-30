@@ -5,7 +5,7 @@ base_headword: "Āḷavakapucchā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavakapucchā. Một tên gọi cho các câu hỏi mà Āḷavaka hỏi Đức Phật và được nhắc đến trong Āḷavakasutta (*q.v.*). Khi *Sāsana* dần dần suy tàn, những câu hỏi như các câu hỏi này và các câu hỏi trong Sabhiyapucchā sẽ còn lại trong ký ức của con người, nhưng chúng sẽ không đủ để giữ cho tôn giáo tồn tại (Vibh­a.432).
 
 ## Notes

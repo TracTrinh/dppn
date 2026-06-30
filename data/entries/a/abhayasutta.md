@@ -5,7 +5,7 @@ base_headword: "Abhayasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhayasutta. On what fearlessness means. AN.iv.455. See <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayasutta. Về ý nghĩa của sự vô úy. AN.iv.455. Xem Gijjhakūṭasutta.
 
 ## Notes

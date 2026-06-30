@@ -5,7 +5,7 @@ base_headword: "Ākaṅkheyyasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākaṅkheyyasutta 02. Được thuyết giảng cho các vị tỳ-kheo tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jetavana</span> về những hoài bão cần làm lay động tâm của một vị tỳ-kheo. AN.v.131-3.
 
 ## Notes

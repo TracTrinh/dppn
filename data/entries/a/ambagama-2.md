@@ -5,7 +5,7 @@ base_headword: "Ambagāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -35,6 +35,8 @@ It is noteworthy that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambagāma. Một trong những ngôi làng gần Vesālī mà Đức Phật viếng thăm trong chuyến du hành cuối cùng của ngài (DN.ii.123). Nó nằm giữa Bhaṇḍagāma và Bhoganagara, trên con đường từ Vesālī đến Kusināra. Hiển nhiên đây là con đường dẫn từ Vesālī về phía bắc đến xứ Malla, vì các làng khác ở vùng lân cận Ambagāma là Hatthigāma và Jambugāma.
+
+Điều đáng chú ý là Anupiya, mặc dù ở trong xứ Malla, lại không được nhắc đến trong danh sách các làng này. Thomas (op. cit., 148, n.1) cho rằng điều này là vì tuyến đường đến Kusināra đi qua phía đông của Anupiya.
 
 ## Notes

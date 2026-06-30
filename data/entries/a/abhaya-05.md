@@ -5,7 +5,7 @@ base_headword: "Abhaya"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abhaya 05. King of Ceylon (then known as <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhaya 05. Vua của Ceylon (khi ấy được biết đến là Ojadīpa) vào thời Kakusandha Buddha. Kinh đô của ông là Abhayanagara. Vin-a.i.86; Mhv.xv.59.
 
 ## Notes

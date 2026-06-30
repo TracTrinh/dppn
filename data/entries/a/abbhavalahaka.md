@@ -5,7 +5,7 @@ base_headword: "Abbhavalāhakā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abbhavalāhakā. One of the Cloud-group of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhavalāhakā. Một trong nhóm chư thiên Mây. Họ hiện thân trong mây sấm (mây tích), và khi họ muốn vui chơi, hoan hỷ, mây sấm xuất hiện trên bầu trời. SN.iii.256.
 
 ## Notes

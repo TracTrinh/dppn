@@ -5,7 +5,7 @@ base_headword: "Ākoṭaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -35,6 +35,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākoṭaka. Một vị thiên thần (*Deva*) đã đến thăm Đức Phật tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Veḷuvana</span> cùng đi với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Asama</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sahali</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Niṅka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Vetambarī</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Māṇava Gāmiya</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Ākoṭaka</span> đã phát biểu trước Đức Phật để ca ngợi nhiều bậc đạo sư thuộc các tông phái khác: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Pakuddha Kātiyāna</span> (*sic*.), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Nigaṇṭha</span> <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Makkhali</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Pūraṇa</span>. Veṭambarī đã đáp lại Ākoṭaka bằng cách nói những lời chê bai các vị đạo sư mà vị ấy đã đề cập. SN.i.65.
 
 ## Notes

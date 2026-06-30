@@ -5,7 +5,7 @@ base_headword: "Aggideva"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aggideva 01. Fifth son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggideva 01. Con trai thứ năm của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devagabbhā</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upasāgara</span> (Ja.iv.81f.; Pv-a.93 và 111), và là một trong mười anh em nổi tiếng với tên gọi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Andhaveṇhudāsaputtā</span>.
 
 ## Notes

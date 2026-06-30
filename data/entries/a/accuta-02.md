@@ -5,7 +5,7 @@ base_headword: "Accuta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Accuta 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accuta 02. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span>, được nhắc đến trong một danh sách các <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pacceka Buddhas</span>. MN.iii.70; Ap­a.i.106-7.
 
 ## Notes

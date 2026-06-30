@@ -5,7 +5,7 @@ base_headword: "Ajjuna"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ He used to offer sacrifices to the gods (Ja.vi.201).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuna 05. Vua của Kekakā, và là một cung thủ vĩ đại. Ông đã làm phật ý hiền giả Gotama và bị hủy diệt bất chấp thân hình đồ sộ và một nghìn cánh tay của mình (Ja.v.267). Trong Sarabhaṅgajātaka, ông được nhắc đến là đã phạm tội với Aṅgīrasa (Ja.v.135; cũng DN­a.i.266). Ông được đồng nhất với Arjuna, được gọi là Kārtavīraya trong *Kathāsaritsāgara* (ii.639), và trong Uttarakaṇḍa của *Rāmāyaṇa* (Sarga 32).
+
+Ông từng cúng tế các vị thần (Ja.vi.201).
 
 ## Notes

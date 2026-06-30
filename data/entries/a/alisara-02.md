@@ -5,7 +5,7 @@ base_headword: "Āḷisāra"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷisāra 02. Một con kênh ở Ceylon, có lẽ dẫn nước từ sông Ambaṅgaṅga. Vua Vasabha đã chia một phần nguồn nước của con kênh này cho tu viện Mucelavihāra ở Tissavaḍḍhamānaka. Mhv.xxxv.84.
 
 ## Notes

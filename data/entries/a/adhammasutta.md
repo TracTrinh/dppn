@@ -5,7 +5,7 @@ base_headword: "Adhammasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Adhammasutta. Three *Suttas* describing *Dhamma* and *adhamma* and their differe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adhammasutta. Ba *Sutta* mô tả Pháp và *adhamma* (phi Pháp) cùng những phẩm tính khác nhau của chúng (AN.v.222ff). Trong bài cuối, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānanda</span> giải thích chi tiết điều Đức Phật đã dạy tóm tắt cho các vị tỳ-kheo.
 
 ## Notes

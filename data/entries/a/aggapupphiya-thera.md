@@ -5,7 +5,7 @@ base_headword: "Aggapupphiya Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aggapupphiya Thera. One of the *Arahants*. In a previous birth he had offered fl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggapupphiya Thera. Một trong các *Arahants*. Trong một đời trước, ông đã dâng hoa từ ngọn cây lên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sikhī Buddha</span>, do đó có tên này. Trong một đời sau, ông là một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Amita</span>. Ap.i.229.
 
 ## Notes

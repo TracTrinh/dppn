@@ -5,7 +5,7 @@ base_headword: "Ajarasāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Ajarasāsutta. Preached to a *Deva* in praise of wisdom. SN.i.36.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajarasāsutta. Được thuyết cho một thiên nhân để tán thán trí tuệ. SN.i.36.
 
 ## Notes

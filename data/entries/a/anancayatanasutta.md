@@ -5,7 +5,7 @@ base_headword: "Ānañcāyatanasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānañcāyatanasutta. Về ba xứ vô biên: Không vô biên xứ, Thức vô biên xứ, và Vô sở hữu xứ. AN.i.267.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ajinadāyaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Ajinadāyaka. A Thera who later became *Arahant*. He gave a piece of antelope sk
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajinadāyaka. Một Trưởng lão về sau trở thành *Arahant*. Ngài đã dâng một miếng da linh dương cho Sikhī Buddha. Năm *kappas* trước, ngài là một Cakkavatti, Sudāyaka. Ap.i.213-14.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhirādhana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Abhirādhana. A friend of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhirādhana. Một người bạn của Sambhūta Sītavaniya. Ông cùng với Sambhūta, Bhūmija và Jeyyasena đi nghe Gotama Buddha thuyết pháp. Thag­a.i.47.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ambāṭaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambāṭaka Thera. An *Arahant*. Fourteen *kappas* ago he had given a mango to a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambāṭaka Thera. Một vị *Arahant*. Mười bốn *kappa* trước, ngài đã dâng một quả xoài lên một Đức Phật (Ap.ii.394). Ngài có lẽ chính là Rājadatta Thera. Thag­a.i.403.
 
 ## Notes

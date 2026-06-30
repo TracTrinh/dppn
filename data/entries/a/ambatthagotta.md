@@ -5,7 +5,7 @@ base_headword: "Ambaṭṭhagotta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,10 @@ The Ambaṭṭhas were of an old stock and were well-known. Besides the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambaṭṭhagotta. Gia tộc mà Ambaṭṭhamāṇava thuộc về. Kaṇhāyanagotta có lẽ là một trong những phân nhánh chính, hoặc có lẽ là dòng họ của những tổ tiên ban đầu của họ. Vào thời Đức Phật, gia tộc này rõ ràng được coi là rất quý tộc, ít nhất là bởi chính các thành viên của nó, vì họ coi thường ngay cả người Sākyan là lớp cặn bẩn từ bàn chân của quyến thuộc họ, mặc dù bản thân người Sākyan dường như đã cười nhạo sự tự phụ của dòng họ Ambaṭṭha (Xem mục Ambaṭṭhamāṇava ở trên). Người Ambaṭṭha cũng không phải là người Bà-la-môn bẩm sinh; một số người trong họ là nông dân và thương nhân, thậm chí một số người còn bán con gái mình lấy vàng. Ja.iv.363; họ được gọi là Bà-la-môn theo quy ước (*vohāravasena*) (sđd., 366).
+
+Theo luật thư *Māṇavadhammaśāstra*, họ không phải là dòng dõi từ người cha Kṣatriya và người mẹ nô lệ (có lẽ là Śūdra) như được ghi trong kinh Ambaṭṭhasutta, mà là từ người cha Bà-la-môn và người mẹ Vaiśya.
+
+Dòng họ Ambaṭṭha thuộc dòng dõi lâu đời và rất nổi tiếng. Bên cạnh nhân vật Ambaṭṭhamāṇava được đề cập ở trên, một người Ambaṭṭha khác tên là Sūra cũng được nhắc đến trong các Tạng kinh (*Piṭaka*) (ví dụ: AN.i.26; iii.451).
 
 ## Notes

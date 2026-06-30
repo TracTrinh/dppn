@@ -5,7 +5,7 @@ base_headword: "Ajakalāpakacetiya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajakalāpakacetiya. A shrine at <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajakalāpakacetiya. Một đền thờ tại Pāvā, nơi các lễ hiến tế được dâng cho Ajakalāpaka (Ud.4).
 
 ## Notes

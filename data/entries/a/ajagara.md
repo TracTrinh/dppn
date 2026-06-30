@@ -5,7 +5,7 @@ base_headword: "Ajagara"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Ajagara. A *Peta* who lived in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajagara. Một *Peta* sống ở Gijjhakūṭa. Tại đó, vị ấy được Moggallāna nhìn thấy, nhưng người đồng hành của Moggallāna là Trưởng lão Lakkhaṇa thì không thấy. Về sau, khi trả lời một câu hỏi của Trưởng lão Lakkhaṇa, Đức Phật thuật lại quá khứ của *Peta* ấy. Vị ấy từng là một tên cướp vào thời Kassapa Buddha; vì vô tình bị trưởng giả Sumaṅgala xúc phạm, người đã xây một Gandhakuṭi cho Kassapa Buddha, y tìm cách trả thù ông và làm ông nổi giận bằng cách phạm nhiều tội ác ghê gớm đối với ông. Nhưng người sau không hề tỏ ra phẫn nộ, và một lần, sau khi cúng dường vật thực cho Kassapa Buddha, ông hồi hướng công đức đạt được ấy cho tên cướp. Khi ấy y hối hận, nhưng *kamma* xấu của y quá nặng nên y không thể đạt được bất cứ thành tựu đặc biệt nào. Dhp­a.iii.60ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āgantuka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -37,6 +37,12 @@ The reason for Āgantuka being heirless is related in the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āgantuka. Một trưởng giả ở Sāvatthī. Ông giàu có, nhưng không tự mình thọ hưởng tài sản của mình cũng không cho người khác; ông ăn cám gạo với cháo chua, mặc áo thô và đi lại trên một cỗ xe cũ, với một chiếc lọng bằng lá trên đầu. Sau khi chết, ông sinh vào Roruva *niraya*.
+
+Ông chết mà không có người thừa kế, và người của nhà vua mất bảy ngày bảy đêm để chuyển tài sản của ông vào ngân khố hoàng gia.
+
+Đáp lại một câu hỏi của Pasenadi, Đức Phật tiết lộ vì sao Āgantuka đã là một kẻ keo kiệt: trong một kiếp trước, khi đang đi đến triều đình của nhà vua, ông gặp Pacceka Buddha Tagarasikhī đang khất thực và đã ra lệnh cho người hầu dâng phần thức ăn chuẩn bị cho chính ông (Āgantuka) cho Pacceka Buddha. Trên đường trở về, khi thấy Pacceka Buddha quay lại với món ăn tuyệt hảo từ nhà của người thương nhân trong bình bát, ông ước rằng lẽ ra mình đã phân phát nó cho các người hầu của chính mình, vì họ hẳn sẽ làm một việc gì đó để đáp lại (Ja.iii.199-300).
+
+Lý do Āgantuka không có người thừa kế được kể trong Mayhakajātaka (Ja 390).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ālamba"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ālamba 01. Có lẽ là tên của một nhạc công chư thiên, một trong số đông những người hầu cận Sakka và các phu nhân của vị ấy (Vv., pp.16, 47). Dhammapāla (Vv-a.96) trích dẫn quan điểm này và phản đối, nói rằng tên ấy không phải là tên của một nhạc công mà là của một nhạc cụ. Tuy nhiên, ý kiến cho rằng tên này chỉ một nhạc công cõi trời dường như là đúng. Để xem thảo luận, xem Hardy: Vimānavatthu Commentary (PTS Ed.), 372-3.
 
 ## Notes

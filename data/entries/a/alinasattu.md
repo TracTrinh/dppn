@@ -5,7 +5,7 @@ base_headword: "Alīnasattu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,10 @@ In lists of births in which the Bodhisatta is mentioned as having practised *sī
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alīnasattu (dị bản: Adīnasattu, Alīnasatta, Ālīnasatta). Bodhisatta, sinh làm con trai của Jayaddisa (*q.v.*), Vua xứ Uttarapañcāla ở Kampilla. Khi người con lớn khôn, được dạy dỗ chu đáo tất cả các môn nghệ thuật, vua cha đã tấn phong ông làm Phó vương. Về sau, khi mạng sống của Jayaddisa bị rơi vào tay một con quỷ ăn thịt người (porisāda), Alīnasattu đã tình nguyện hiến mạng thay cho cha mình. Con quỷ, trước sự cảm kích bởi lòng dũng cảm của thái tử và sự sẵn lòng khi thái tử thực hiện lời đề nghị của mình, đã từ chối ăn thịt thái tử và giải phóng thái tử khỏi lời cam kết.
+
+Alīnasattu đã thuyết giảng ngũ giới cho nó, và sau khi phát hiện ra con quỷ thực chất là một con người, ông đã nhường ngôi vua cho nó, tuy nhiên nó đã từ chối không nhận (Ja.v.22ff).
+
+Trong danh sách các tiền kiếp mà Bodhisatta được đề cập là đã thực hành giới ba-la-mật (*sīlapāramitā*), Alīnasattujātaka cũng được nhắc đến (ví dụ, Ja.i.45).
 
 ## Notes

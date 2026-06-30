@@ -5,7 +5,7 @@ base_headword: "Adinnasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Adinnasutta. Few are they that abstain from taking what is not given. SN.v.469.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adinnasutta. Ít người từ bỏ việc lấy của không được cho. SN.v.469.
 
 ## Notes

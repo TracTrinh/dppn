@@ -5,7 +5,7 @@ base_headword: "Ajjuna"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ In <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajjuna 01. Ajjuna Thera. Con trai của một vị cố vấn ở Sāvatthī. Khi còn trẻ, trước hết ngài gia nhập Saṅgha của Nigaṇṭhas; vì không hài lòng, ngài được cảm hóa bởi Yamakapāṭihāriya của Đức Phật và, khi gia nhập Saṅgha Phật giáo, đạt quả vị *Arahant* (Thag.v.88; Thag­a.i.186). Rõ ràng ngài nên được đồng nhất với Sālapupphadāyaka Thera trong Apadāna (i.169).
+
+Vào thời Vipassī Buddha, ngài sinh làm một con sư tử và dâng Đức Phật một cành cây *sāla* đang trổ hoa. Ngài cũng từng là một *cakkavattī*, tên Verocana.
 
 ## Notes

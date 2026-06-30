@@ -5,7 +5,7 @@ base_headword: "Alakadeva"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Alakadeva. A Thera who accompanied <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Alakadeva. Một Trưởng lão đã tháp tùng Majjhima đến Himavā (Vin-a.i.68). Ngài đã cải đạo một trong năm khu vực ở đó và truyền giới cho 100,000 vị tỳ-kheo (Mbv.115). Dīpavaṁsa (viii.10) ghi tên ngài là Mūlakadeva.
 
 ## Notes

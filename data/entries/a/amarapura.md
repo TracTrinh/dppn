@@ -5,7 +5,7 @@ base_headword: "Amarapura"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amarapura. A city of Burma, founded by King Bodōpayā (Bode, 74; Sās.130). The
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amarapura. Một thành phố của Burma, do vua Bodōpayā sáng lập (Bode, 74; Sās.130). Trưởng lão Nāṇābhivaṁsa sống tại đó và là người đứng đầu nhóm Tăng sĩ được biết đến như phái Amarapura. Về sau, các vị Tăng này mang đến Ceylon một số văn bản Pāli, hoặc do các tác giả Burma biên soạn, hoặc được hội chúng Burma biết đến rõ hơn so với người Sinhalese. Bode, 78.
 
 ## Notes

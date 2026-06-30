@@ -5,7 +5,7 @@ base_headword: "Ābhavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ābhavagga. Chương thứ mười lăm của *Catukkanipāta* trong Aṅguttaranikāya. Chương này gồm mười *Suttas* về các đề tài như bốn ánh sáng huy hoàng, bốn mùa thích hợp, bốn tội và đức của lời nói, và bốn phần tinh túy nhất (*sāras*). A.ii.139-41.
 
 ## Notes

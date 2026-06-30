@@ -5,7 +5,7 @@ base_headword: "Anāgāmitheravatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anāgāmitheravatthu. Story of a monk who became *anāgāmi*; when asked by his 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāgāmitheravatthu. Câu chuyện về một vị tỳ-kheo đã chứng đắc quả vị *anāgāmi*; tuy nhiên, khi được các đệ tử hỏi, ngài đã không nói bất cứ điều gì về chứng đắc của mình. Sau khi qua đời, ngài được tái sinh vào cõi Suddhāvāsā. Các đệ tử của ngài, vì vô minh nên sầu muộn tiếc thương ngài, đã được Đức Phật khai sáng. Dhp­a.iii.288-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ambāṭakiya Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ambāṭakiya Thera. An *Arahant*. Thirty-one *kappas* ago he had met the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambāṭakiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã gặp Đức Phật Vessabhū trên núi và dâng lên Ngài một quả xoài. Ap.ii.399.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ahipāraka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,6 @@ Ahipāraka. Commander-in-chief and friend and counsellor of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ahipāraka. Tổng tư lệnh, bạn và cố vấn của Sivi, vua xứ Ariṭṭhapura. Họ đã cùng đến Takkasilā và là bạn từ thuở thiếu thời. Vợ của Ahipāraka là Ummadantī, có sắc đẹp mê hồn. Câu chuyện của họ được kể trong Ummadantījātaka (Ja 527, Ja.v.209ff). Trong thời hiện tại, ông là Sāriputta (Ja.v.227).
 
 ## Notes

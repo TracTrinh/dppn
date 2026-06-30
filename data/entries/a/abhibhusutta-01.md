@@ -5,7 +5,7 @@ base_headword: "Abhibhūsutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Abhibhūsutta 01. On the immeasurableness of a <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhibhūsutta 01. Về tính vô lượng của các năng lực của một Buddha. AN.i.226f.; trong Chú giải cũng được gọi là Sīhanādasutta
 
 ## Notes

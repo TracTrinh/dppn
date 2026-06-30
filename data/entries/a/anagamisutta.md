@@ -5,7 +5,7 @@ base_headword: "Anāgāmīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anāgāmīsutta. The six qualities necessary for the third Fruit of the Path. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anāgāmīsutta. Sáu phẩm chất cần thiết để đạt quả vị thứ ba của Đạo lộ. AN.iii.421.
 
 ## Notes

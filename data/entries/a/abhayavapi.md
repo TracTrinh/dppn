@@ -5,7 +5,7 @@ base_headword: "Abhayavāpi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -43,6 +43,14 @@ The tank is generally identified with the modern Basavakkulam (Geiger, Mhv. tran
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayavāpi. Một hồ chứa ở Anurādhapura do vua Paṇḍukābhaya xây dựng (Mhv.x.88). Ở đầu thấp của hồ là khu định cư của Yakkha Cittarāja (Mhv.x.84).
+
+Vào mùa nóng, hồ cạn nước; trong một dịp, Devānampiyatissa dùng bùn của hồ để xây một công trình tạm thời, nơi đặt các xá-lợi được mang từ Jambudīpa về (Mhv.xvii.35).
+
+Đại sảnh mà Duṭṭhagāmaṇī xây quanh *vihāra* Maricavaṭṭi mở rộng vào một phần của hồ Abhaya (Mhv.xxvi.20).
+
+Dưới triều Bhātikābhaya, nước được lấy từ hồ bằng máy móc đưa lên đỉnh Mahā Thūpa để rảy lên những hoa được cúng dường tại đó (Mhv.xxxiv.45).
+
+Hồ này thường được đồng nhất với Basavakkulam ngày nay (Geiger, Mhv. trans. 74, n.3).
 
 ## Notes

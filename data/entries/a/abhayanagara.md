@@ -5,7 +5,7 @@ base_headword: "Abhayanagara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhayanagara. The capital of King Abhaya (5), King of Ceylon, when the island wa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayanagara. Kinh đô của vua Abhaya (5), vua xứ Ceylon, khi hòn đảo được biết đến với tên Ojadīpa. Nó nằm về phía đông sông Kadamba (Mhv.xv.58-9).
 
 ## Notes

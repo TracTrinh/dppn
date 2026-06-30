@@ -5,7 +5,7 @@ base_headword: "Āhārasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhārasutta 02. Một nhóm các *Sutta* bàn về vật thực của các *nīvaraṇa* và của các *bojjhaṅga*, và về tình trạng xảy ra khi thiếu vắng vật thực của chúng. SN.v.102-7.
 
 ## Notes

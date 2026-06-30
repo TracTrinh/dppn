@@ -5,7 +5,7 @@ base_headword: "Ābhāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ābhāsutta. Có bốn loại ánh sáng: ánh sáng của mặt trăng, của mặt trời, của lửa, và của trí tuệ; loại sau cùng là tối thắng. AN.ii.139.
 
 ## Notes

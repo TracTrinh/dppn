@@ -5,7 +5,7 @@ base_headword: "Ānaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -38,6 +38,10 @@ Later, when the original drumhead had vanished, it could hardly be heard even in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānaka (*v.l.* Āṇaka). Một cái trống *mutiṅga* (kettle-drum) thuộc về dòng tộc Dasārahas. Khi trống cũ đi và bắt đầu nứt, họ đóng thêm một cái chốt gỗ khác, và quá trình này cứ thế tiếp diễn cho đến khi, cuối cùng, mặt trống nguyên bản biến mất, chỉ còn lại bộ khung chốt (SN.ii.266). Nguồn gốc của cái trống được kể lại trong Kakkaṭajātaka. Khi con Cua Vàng được đề cập ở đó bị những con voi giẫm chết, hai chiếc càng của nó lìa khỏi thân và nằm riêng lẻ ở hồ Kulīradaha, nơi nó sinh sống. Trong suốt mùa lũ, nước chảy từ sông Ganges vào hồ này, và chảy ngược lại khi nước lũ rút. Do đó, hai chiếc càng bị cuốn trôi vào sông Ganges. Một chiếc càng trôi ra biển, và các Asura đã nhặt được nó rồi làm thành chiếc trống tên là Āḷambara. Chiếc càng còn lại được Mười Anh Em Hoàng Gia (rõ ràng là dòng tộc Dasārahas được đề cập ở trên) nhặt được khi đang vui chơi dưới sông, và họ đã làm ra chiếc trống nhỏ Ānaka từ chiếc càng đó (Ja.ii.344; truyện Jātaka này được trích dẫn trong SN­a.ii.167-8, với một vài điểm khác biệt chi tiết).
+
+Trong Saṁyutta Commentary (ii.167-8), có nói rằng trống có màu sắc như sáp nóng chảy, vì càng cua đã bị gió và mặt trời làm khô. Tiếng trống có thể nghe thấy từ khoảng cách mười hai do-tuần, và do đó, nó chỉ được sử dụng trong các dịp lễ hội. Khi nghe tiếng trống, người dân vội vã tụ họp lại bằng nhiều loại phương tiện được trang hoàng lộng lẫy. Nó được gọi là Ānaka vì nó mang mọi người lại gần nhau như thể triệu tập họ (*mahājanaṁ pakkositvā viya ānetī ti Ānako*).
+
+Về sau, khi mặt trống nguyên bản đã biến mất, tiếng trống hầu như không thể nghe thấy ngay cả trong một đại sảnh. Trống Ānaka được sử dụng làm ví dụ so sánh trong Āṇisutta (SN.ii.266-7; xem thêm KS.ii.178, chú thích 4).
 
 ## Notes

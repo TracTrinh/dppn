@@ -5,7 +5,7 @@ base_headword: "Āḷavakā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -32,6 +32,8 @@ In the introductory story of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavakā (*v.l.* Āḷavikā). Một tên gọi dành cho các vị tỳ-kheo ở Āḷavī. Buddhaghosa (Vin-a.iii.561) nói rằng tất cả trẻ em sinh ra ở Āḷavī đều được gọi là Āḷavakā. Các *bhikkhū* Āḷavakā được nhắc đến nhiều lần trong Vinaya (ii.172ff.; iii.85; iv.34-5) liên quan đến các vi phạm về *navakamma* (sửa chữa và tái thiết các công trình), và Đức Phật đặt ra các quy tắc hạn chế hoạt động của các vị tỳ-kheo này. Một lần, khi một trong các vị tỳ-kheo đang chặt một cây là nơi trú ngụ của một *Devatā*, vị linh thần ấy rất muốn giết vị ấy, nhưng kìm nén cơn giận, bà đến gặp Đức Phật và than phiền với ngài. Đức Phật khen ngợi sự nhẫn nhịn của bà và thuyết Uragasutta (Snp-a.i.4-5).
+
+Trong câu chuyện dẫn nhập của Maṇikaṇṭhajātaka (Ja 253, Ja.ii.282-3), có nói rằng những lời nài nỉ quấy rầy của các vị tỳ-kheo này làm cư dân Āḷavī bực mình đến mức họ bỏ chạy khi bất cứ vị tỳ-kheo mặc y vàng nào đến gần.
 
 ## Notes

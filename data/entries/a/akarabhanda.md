@@ -5,7 +5,7 @@ base_headword: "Akarabhaṇḍa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Akarabhaṇḍa. A village in Ceylon dedicated by King <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Akarabhaṇḍa. Một ngôi làng ở Ceylon được vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kittisirirājasīha</span> dâng cúng cho Xá-lợi Răng Phật. Cv.c.23.
 
 ## Notes

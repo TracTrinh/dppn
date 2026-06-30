@@ -5,7 +5,7 @@ base_headword: "Ambajātaka"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,10 @@ The youth was a former birth of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambajātaka 02. (Ja 474). Câu chuyện về một thanh niên Bà-la-môn học được một chú thuật từ một *Caṇḍāla* trí tuệ. Chú thuật ấy có năng lực khiến những quả xoài đẹp và thơm mọc trái mùa. Chàng thanh niên phô diễn tài năng của mình trước nhà vua, nhưng khi được hỏi tên thầy mình, anh ta nói dối và nói rằng mình đã được dạy ở Takkasilā. Ngay lập tức chú thuật biến khỏi trí nhớ của anh ta và mọi năng lực đều rời bỏ anh. Theo lời khuyên của nhà vua, anh trở lại với vị thầy để xin tha thứ và học lại chú thuật, nhưng vị thầy không chấp nhận anh nữa, và chàng thanh niên lang thang vào rừng rồi chết tại đó.
+
+Câu chuyện được kể liên quan đến Devadatta, người đã phủ nhận Đức Phật là thầy của mình và kết quả là sinh vào Avīci (Ja.iv.200-7).
+
+Chàng thanh niên là một tiền thân của Devadatta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aggisutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggisutta 01. A number of monks go to the *Paribbājakārāma* at <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggisutta 01. Một số tỳ-kheo đến *Paribbājakārāma* tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, và có cuộc thảo luận lịch sự với các <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Paribbājaka</span>, những người tuyên bố rằng giáo lý của họ giống với giáo lý của Đức Phật. Các tỳ-kheo không thể bác bỏ tuyên bố của họ và tìm lời khuyên của Đức Phật. Ngài dạy rằng các *bojjhaṅga* là nét đặc trưng của Pháp và rằng các <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Paribbājaka</span>, nếu bị chất vấn về chúng, sẽ không thể trả lời. SN.v.112.
 
 ## Notes

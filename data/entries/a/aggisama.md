@@ -5,7 +5,7 @@ base_headword: "Aggisama"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aggisama. The Thera <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aggisama. Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pupphathūpiya</span> đã sinh ra mười sáu lần liên tiếp làm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> và trị vì dưới tên này. Ap.i.156.
 
 ## Notes

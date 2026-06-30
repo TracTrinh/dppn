@@ -5,7 +5,7 @@ base_headword: "Adinnapubbaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,10 @@ At the conclusion of the meal <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Adinnapubbaka. Một Bà-la-môn ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Maṭṭakuṇḍalī</span>, được gọi như vậy vì ông chưa từng cho bất cứ ai thứ gì.
+
+Về sau, khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Maṭṭakuṇḍalī</span>, sau khi được sinh lên thiên giới, đến thăm ông và thuyết phục ông quy y với Đức Phật, ông thỉnh Đức Phật cùng các vị tỳ-kheo đến dùng bữa tại nhà mình.
+
+Khi bữa ăn kết thúc, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Maṭṭakuṇḍalī</span> lại xuất hiện và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Adinnapubbaka</span>, sau khi nghe Đức Phật thuyết pháp, chứng đắc Sơ quả của Đạo. Dhp­a.i.25-30; Vv-a.322f.
 
 ## Notes

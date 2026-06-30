@@ -5,7 +5,7 @@ base_headword: "Acela Kassapa"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Acela Kassapa 01. Một nhà khổ hạnh lõa thể. Ông đến gặp Gotama Buddha tại Ujuññā trong vườn nai Kaṇṇakatthala và hỏi Ngài có đúng là Ngài chê bai mọi sự khổ hạnh và mắng nhiếc các nhà khổ hạnh hay không. Cuộc đối thoại của họ được ghi lại trong Kassapasīhanādasutta (DN.i.161ff). Sau thời gian thử thách bốn tháng thường lệ, ông gia nhập Saṅgha và đúng thời trở thành một *Arahant* (DN.i.177; nhưng theo DN­a.i.363, ông được xuất gia ngay lập tức).
+
+Trong Majjhimanikāya (MN.iii.124ff.; also AN­a.i.171), chúng ta được cho biết rằng ông là bạn cũ của Bakkula Thera, và sau một cuộc đối thoại với vị ấy, ông được xuất gia (dưới vị ấy). Xem thêm Acela Kassapa (3).
 
 ## Notes

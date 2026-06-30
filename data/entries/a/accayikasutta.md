@@ -5,7 +5,7 @@ base_headword: "Accāyikasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Accāyikasutta. The urgent duties of a farmer and of a monk. AN.i.239-40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Accāyikasutta. Những phận sự cấp bách của một nông dân và của một vị tỳ-kheo. AN.i.239-40.
 
 ## Notes

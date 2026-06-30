@@ -5,7 +5,7 @@ base_headword: "Āmakadhaññapeyyāla"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āmakadhaññapeyyāla. Chương thứ chín của tương ưng Saccasaṁyutta thuộc bộ kinh Saṁyuttanikāya. Chương này chứa đựng danh sách các vật phẩm cúng dường mà các vị tỳ-kheo bậc Thánh kiêng nhận. SN.v.470-3.
 
 ## Notes

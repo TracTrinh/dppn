@@ -5,7 +5,7 @@ base_headword: "Ambapiṇḍiya"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ambapiṇḍiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambapiṇḍiya 01. Ambapiṇḍiya Thera. Một vị *Arahant*. Ngài từng là một *Dānava* tên Romasa và đã dâng một chùm xoài lên Đức Phật Vipassī. Ap.i.147.
 
 ## Notes

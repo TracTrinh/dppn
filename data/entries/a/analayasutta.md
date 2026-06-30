@@ -5,7 +5,7 @@ base_headword: "Anālayasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anālayasutta. The Buddha teaches the destruction of attachment and the path lea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anālayasutta. Đức Phật giảng dạy về sự đoạn tận chấp trước và con đường dẫn đến sự đoạn tận ấy. SN.iv.372.
 
 ## Notes

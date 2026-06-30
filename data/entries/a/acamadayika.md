@@ -5,7 +5,7 @@ base_headword: "Ācāmadāyikā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -35,6 +35,12 @@ Her story forms the basis of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ācāmadāyikā. Một gia đình ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span> bị bệnh dịch hoành hành và tất cả thành viên đều chết, trừ một người phụ nữ. Bà phá tường đi ra (đó là cách thường dùng để tránh lây nhiễm) rồi đến sống ở sân sau của một ngôi nhà khác. Những người trong nhà, vì thương xót bà, đã cho bà phần thức ăn thừa của họ.
+
+Một ngày nọ, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Kassapa</span>, sau khi xuất khỏi *nirodha-samāpatti* kéo dài bảy ngày bảy đêm, biết rằng mình có thể giúp ích cho người phụ nữ nghèo ấy, đã hiện ra trước mặt bà để xin vật thực. Không có gì ngoài nước cơm để dâng cho ngài, bà thỉnh ngài đi nơi khác, nhưng vị Trưởng lão bày tỏ ý muốn nhận món cúng dường của bà và từ chối vật thực do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sakka</span> cũng như những người trong ngôi nhà phía sau nơi bà sống dâng cúng.
+
+Với niềm hoan hỷ lớn, bà dâng nước cơm cho ngài, rồi vị Trưởng lão nói với bà rằng ba đời trước bà từng là mẹ của ngài. Đêm ấy bà qua đời và được sinh vào một *vimāna* giữa các thiên nhân <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Nimmānaratī</span>.
+
+Câu chuyện của bà là nền tảng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ācāmadāyikāvimānavatthu</span>. Vv. p.17; Vv-a.99ff.
 
 ## Notes

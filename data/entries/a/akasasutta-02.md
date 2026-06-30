@@ -5,7 +5,7 @@ base_headword: "Ākāsasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ākāsasutta 02. Giống như các loại gió khác nhau thổi trên bầu trời, theo các hướng khác nhau – nóng, lạnh, trong lành, v.v... – thì các cảm thọ khác nhau cũng phát sinh trong thân như vậy. SN.iv.218.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āḷavī Gotama"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,8 @@ He is mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavī Gotama. Một vị Thera (Trưởng lão) mà theo Buddhaghosa (Snp-a.ii.606), đã chứng đạt quả vị *Arahant* nhờ lòng tin.
+
+Ông được đề cập trong kinh Suttanipāta (kệ số 1146) trong một bài kệ Đức Phật thuyết cho Piṅgiya khi Đức Phật xuất hiện trong một luồng hào quang tại tịnh thất (hermitage) của Bāvarī.
 
 ## Notes

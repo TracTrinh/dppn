@@ -5,7 +5,7 @@ base_headword: "Abhiññāsutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhiññāsutta 02. A group of *Suttas* on qualities that could be obtained by a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhiññāsutta 02. Một nhóm *Suttas* về những phẩm chất có thể đạt được nhờ sự hiểu biết về *rāga* (tham dục). AN.iii.277.
 
 ## Notes

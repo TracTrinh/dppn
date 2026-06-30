@@ -5,7 +5,7 @@ base_headword: "Aḷajanapada"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,6 @@ Aḷajanapada. A district which the Thera <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aḷajanapada. Một hạt (district) mà Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Isidatta</span> đã viếng thăm trên hành trình trở về sau chuyến hành hương đến chùa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Vihāra</span>. Trẻ em ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aḷajanapada</span> đã thu nhặt một số vỏ quả do những người hái quả để lại, rồi đưa cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Isidatta</span> và người bạn đồng hành của vị ấy là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Mahā Soṇa</span>. Nghe nói đây là bữa ăn duy nhất họ có trong suốt một tuần. Vibh­a.447.
 
 ## Notes

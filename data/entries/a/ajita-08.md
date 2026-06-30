@@ -5,7 +5,7 @@ base_headword: "Ajita"
 disambiguator: "08"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Ajita 08. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ajita 08. (*v.l.* Ajina). Một Pacceka Buddha sống cách đây chín mươi mốt *kappas*. Dāsaka Thera*,* trong một đời trước, đã dâng xoài cho ngài ăn). Thag­a.i.68.
 
 ## Notes

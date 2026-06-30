@@ -5,7 +5,7 @@ base_headword: "Ambadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ As a result of this he enjoyed happiness in *Deva* worlds for fifty-seven *kappa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ambadāyaka Thera. Một vị *Arahant*. Vào thời Anomadassī Buddha, ngài từng là một con khỉ và, sau khi thấy Đức Phật ở Himavā, đã dâng lên ngài một quả xoài.
+
+Do kết quả của việc này, ngài hưởng hạnh phúc trong các cõi *Deva* suốt năm mươi bảy *kappas* và mười bốn lần làm vua dưới tên Ambaṭṭhaja. Ap.i.116-17.
 
 ## Notes

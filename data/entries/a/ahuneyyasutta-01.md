@@ -5,7 +5,7 @@ base_headword: "Āhuneyyasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhuneyyasutta 01. Được thuyết tại Jetavana. Sáu lý do liên quan đến sự chế ngự các căn, nhờ đó một vị sư trở nên đáng được tôn kính và cúng dường. AN.iii.279.
 
 ## Notes

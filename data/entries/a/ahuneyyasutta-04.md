@@ -5,7 +5,7 @@ base_headword: "Āhuneyyasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āhuneyyasutta 04. Về chín hạng người đáng được tôn kính: những vị đã chứng bốn Quả của Đạo, bốn vị đang trên đường đến đó, và *Gotrabhū* (người đã bước vào dòng dõi của bậc Thánh). AN.iv.373.
 
 ## Notes

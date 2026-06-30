@@ -5,7 +5,7 @@ base_headword: "Amaragiri"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Amaragiri. A monastery in Ceylon, in which lived the Elder <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Amaragiri. Một tu viện ở Ceylon, nơi Trưởng lão (Elder) Vanaratana từng sinh sống. Vào thời Bhuvanekabāhu IV, nơi đây dường như là trú xứ của các vị tỳ-kheo thuộc phái chính thống. PLC.240.
 
 ## Notes

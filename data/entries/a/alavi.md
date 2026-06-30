@@ -5,7 +5,7 @@ base_headword: "Āḷavī"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -48,6 +48,14 @@ Mrs. Rhys Davids states that <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āḷavī. Một thị trấn cách Sāvatthī ba mươi *yojana* (Snp-a.i.220) và có lẽ cách Benares mười hai *yojana* (Xem Watters: ii.61; Fa Hsein, 60, 62). Nơi đây nằm giữa Sāvatthī và Rājagaha. (Đức Phật đi từ Sāvatthī đến Kiṭāgiri, từ đó đến Āḷavī, và cuối cùng đến Rājagaha). Đức Phật, trong nhiều dịp, đã trú tại Āḷavī ở Aggāḷavacetiya (*q.v.*) gần thị trấn này. Vào năm thứ mười sáu sau khi Giác ngộ, Đức Phật đã dành trọn mùa an cư tại Āḷavī và thuyết giảng giáo pháp cho 84.000 thính chúng (Bv­a.3). Vua của Āḷavī được gọi là Āḷavaka và người dân ở đây được gọi là Āḷavakā. Thị trấn này về sau trở nên nổi tiếng là nơi cư trú của Yakkha Āḷavaka và Hatthaka Āḷavaka. Vị Therī (Trưởng lão Ni) Selā sinh ra ở Āḷavī và do đó được gọi là Āḷavikā (Thīg­a.62-3). Rõ ràng có một cộng đồng lớn các tỳ-kheo ở Āḷavī, một số người trong họ dường như chủ yếu bận rộn với việc tự xây dựng các *vihāra* cho riêng mình (Xem Āḷavakā).
+
+Một lần nọ, khi đang ở Sāvatthī, Đức Phật thấy một người nông dân nghèo ở Āḷavī đã sẵn sàng để được hóa độ và quyết định đến thuyết pháp tại thị trấn đó. Con bò của người nông dân đã bị lạc, và ông đã tìm kiếm nó trong một thời gian khá dài trước khi tìm thấy; ông biết rằng Đức Phật đang ở Āḷavī và quyết định rằng mình vẫn còn thời gian để đến bái kiến Đức Phật, thế là ông lên đường mà không ăn uống gì. Trong khi đó tại Āḷavī, Đức Phật và các tỳ-kheo đã được người dân dâng cúng một bữa ăn, nhưng Đức Phật đã đợi cho đến khi người nông dân đến trước khi thực hiện lời chúc nguyện tùy hỷ. Khi người nông dân đến nơi, Đức Phật truyền lệnh dâng một ít thức ăn cho ông, và khi người đàn ông này đã được thư thái và tâm trí sẵn sàng, Đức Phật đã thuyết một bài pháp thoại, và khi kết thúc bài pháp, người đàn ông này đã đắc quả *Sotāpanna* (Dự lưu) (Dhp­a.iii.262-3).
+
+Vào một dịp khác, Đức Phật đã đi suốt quãng đường từ Jetavana đến Āḷavī vì lợi ích của con gái người thợ dệt (về câu chuyện này, xem Dhp­a.iii.170f).
+
+Āḷavī đã được Cunningham và Hoernle xác định là Newal hoặc Nawal ở quận Urao thuộc Các Tỉnh Thống Nhất (United Provinces), và bởi Nandalal Dey là Aviwa, cách Etwah hai mươi dặm về phía đông bắc, Law: *Geography of Early Buddhism*, trang 24).
+
+Bà Rhys Davids nhận định rằng Āḷavī nằm trên bờ sông Hằng (Brethren, 408), có lẽ dựa trên lời tuyên bố của Āḷavaka trong kinh Suttanipāta (trang 32) rằng ông ta sẽ ném Đức Phật “*pāragaṅgāya*” (sang bờ bên kia sông Hằng) trừ khi các câu hỏi của ông được giải đáp. Tôi tin rằng từ “*pāragaṅgāya*” ở đây chỉ là một lối nói mang tính tu từ chứ không có ý nghĩa về mặt địa lý.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Abhisammata"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Abhisammata. A king of sixty-three *kappas* ago; a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhisammata. Một vị vua vào sáu mươi ba *kappas* trước; là một đời trước của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pāṭalipupphiya Thera</span>. Ap.i.123.
 
 ## Notes

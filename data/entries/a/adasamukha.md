@@ -5,7 +5,7 @@ base_headword: "Ādāsamukha"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -34,6 +34,10 @@ The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ādāsamukha. Bodhisatta sinh làm vua xứ Benares. Ông là con của Janasandha (cũng gọi là Dasaratha), và vì khuôn mặt ông rạng rỡ vẻ đẹp như một tấm gương vàng được đánh bóng kỹ, ông được gọi là Ādāsamukha. Cha ông mất khi ông bảy tuổi, và các triều thần thử thách cậu bé bằng nhiều cách trước khi tôn ông lên làm vua.
+
+Tin tức về trí tuệ của ông sớm lan truyền khắp nơi, và một lần, khi một người hầu già của cha ông (Gāmaṇi Canda) được đưa đến triều đình để trả lời nhiều cáo buộc khác nhau, mười bốn vấn đề được các cư dân khác nhau trong vương quốc giao cho người ấy để trình lên vua xin giải quyết. Nhà vua giải quyết tất cả và trị vì một cách chân chính.
+
+Câu chuyện được kể trong Gāmaṇi Candajātaka (Ja 257). Ja.ii.297-310.
 
 ## Notes
