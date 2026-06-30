@@ -5,7 +5,7 @@ base_headword: "Appamādavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -35,6 +35,6 @@ Appamādavagga 02. In the fifth division of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādavagga 02. Trong phân bộ thứ năm của Saṁyuttanikāya (Mahā Vagga), có một số chương được gọi là Appamādavagga. Đó là chương thứ năm của Maggasaṁyutta (SN.v.41-5), chương thứ mười và thứ mười lăm của Bojjhaṅga (135, 138), chương thứ bảy của Satipaṭṭhāna (191), chương thứ chín và thứ mười bốn của Indriya (240, 242), chương thứ hai của Sammappadhāna (245), chương thứ hai và thứ bảy của Bala (250, 252), chương thứ năm của Iddhipāda (291) và chương thứ hai của Jhāna (308).
 
 ## Notes

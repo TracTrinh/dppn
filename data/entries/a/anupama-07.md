@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anupama 07. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 07. Một Ājīvaka đã dâng cỏ cho Sumana Buddha làm chỗ ngồi (Bv­a.125).
 
 ## Notes

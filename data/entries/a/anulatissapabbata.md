@@ -5,7 +5,7 @@ base_headword: "Anulatissapabbata"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anulatissapabbata. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulatissapabbata. Một *vihāra* ở Gaṅgārājī thuộc Đông Ceylon, do Kaniṭṭhatissa xây dựng. Mhv.xxxvi.15.
 
 ## Notes

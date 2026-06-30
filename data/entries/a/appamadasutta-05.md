@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamādasutta 05. On four occasions on which earnestness should be applied. AN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 05. Về bốn trường hợp cần vận dụng sự không phóng dật. AN.ii.119f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Apacāyikasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Apacāyikasutta. Another name for <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apacāyikasutta. Một tên khác của Pacāyikasutta. Những người kính trọng các bậc trưởng thượng trong dòng tộc thì ít; những người không kính trọng thì nhiều hơn (SN.v.468). Cả bản kinh và *uddāna* đều gọi *Sutta* này là Pacāyika, nhưng tên đúng là Apacāyika, và nên sửa thành tên này.
 
 ## Notes

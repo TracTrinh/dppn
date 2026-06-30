@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamādasutta 04. Diligence is most useful for the arising of the Ariyan Eightf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 04. Sự không phóng dật hữu ích nhất cho sự sinh khởi của Bát Thánh đạo (SN.v.33); không có một điều kiện đơn lẻ nào khác giống như nó cho sự sinh khởi và viên mãn của Đạo. SN.v.35, 36, 37.
 
 ## Notes

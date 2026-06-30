@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anuruddha 07. Teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 07. Thầy của Mahā Summa Thera. Một lần ông dâng cho Tăng đoàn một bát đầy bơ lỏng. Sự việc được nhắc đến trong một cuộc thảo luận về việc liệu một chiếc bát đã được mua cho một vị tăng cụ thể có thể được cộng đồng tăng dùng hay không (Vin-a.iii.698-9). Chiếc bát này đã được mua cho vị Trưởng lão, nhưng nó được cộng đồng sử dụng và vì vậy là *kappiya*.
 
 ## Notes

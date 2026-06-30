@@ -5,7 +5,7 @@ base_headword: "Anupadavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupadavagga. The second section of the *Uparipaññāsa* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupadavagga. Phẩm thứ hai của *Uparipaññāsa* thuộc Majjhimanikāya. MN.iii.25ff.
 
 ## Notes

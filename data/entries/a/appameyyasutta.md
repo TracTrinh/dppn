@@ -5,7 +5,7 @@ base_headword: "Appameyyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Appameyyasutta. Of three classes of persons, the *Arahant* is the immeasurable (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appameyyasutta. Trong ba hạng người, *Arahant* là bậc không thể đo lường (*appameyya*). AN.i.266.
 
 ## Notes

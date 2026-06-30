@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "07"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appamādasutta 07. Same as <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 07. Giống như Aparihāniyasutta (2), với phần thêm *samādhigāravatā* (AN.iv.27f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Appakasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appakasutta. Pasenadi thưa với Đức Buddha rằng theo quan điểm của ông, ít người không bị say đắm bởi tài sản lớn và không hành xử sai trái khi trở nên giàu có. Đức Buddha đồng ý. SN.73; bài *Sutta* này cũng được gọi là Pamādasutta.
 
 ## Notes

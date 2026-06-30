@@ -5,7 +5,7 @@ base_headword: "Antaramegiri"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antaramegiri. A monastery built by King <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antaramegiri. Một tu viện do vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dhātusena</span> xây dựng. Cv.xxxviii.48.
 
 ## Notes

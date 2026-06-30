@@ -5,7 +5,7 @@ base_headword: "Apheggusāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Apheggusāra. A treatise, of about the fourteenth century, on <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apheggusāra. Một luận thư, khoảng thế kỷ thứ mười bốn, về các chủ đề Abhidhamma, do một học giả ở Haṁsavatī tại Miến Điện viết. Bode, 36 và n.2; Sās.48.
 
 ## Notes

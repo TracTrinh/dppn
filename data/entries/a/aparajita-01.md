@@ -5,7 +5,7 @@ base_headword: "Aparājita"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aparājita 01. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparājita 01. Một trong các Pacceka Buddhas được nhắc đến trong Isigilisutta. MN.iii.70; cũng xem Ap­a.i.107 và MN­a.ii.890.
 
 ## Notes

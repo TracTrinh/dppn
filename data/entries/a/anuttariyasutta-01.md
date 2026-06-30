@@ -5,7 +5,7 @@ base_headword: "Anuttāriyasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anuttāriyasutta 01. The six unsurpassables. AN.iii.284.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuttāriyasutta 01. Sáu pháp vô thượng. AN.iii.284.
 
 ## Notes

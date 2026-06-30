@@ -5,7 +5,7 @@ base_headword: "Anuttarasaṅgāmavijaya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anuttarasaṅgāmavijaya. One of the names by which the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuttarasaṅgāmavijaya. Một trong những tên gọi của Bahudhātukasutta. MN.iii.68.
 
 ## Notes

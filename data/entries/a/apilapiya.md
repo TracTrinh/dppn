@@ -5,7 +5,7 @@ base_headword: "Apilāpiya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Apilāpiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apilāpiya. Một Cakkavatti cách đây tám mươi sáu *kappa*; một đời trước của Tikaṇḍīpupphiya Thera. Ap.i.202.
 
 ## Notes

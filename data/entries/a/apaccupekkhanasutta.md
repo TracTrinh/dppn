@@ -5,7 +5,7 @@ base_headword: "Apaccupekkhanāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apaccupekkhanāsutta. Same as the above, but substituting “through not looking
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaccupekkhanāsutta. Giống như kinh trên, nhưng thay “do không phân biệt” bằng “do không quán sát.” SN.iii.262.
 
 ## Notes

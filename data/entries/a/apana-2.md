@@ -5,7 +5,7 @@ base_headword: "Āpāna"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpāna. Một trong các thủ lĩnh Vanni của Tích Lan, bị Bhuvanekabāhu I khuất phục. (Cv.xc.33)
 
 ## Notes

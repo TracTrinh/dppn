@@ -5,7 +5,7 @@ base_headword: "Appaṁsupatisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appaṁsupatisutta. The five kinds of persons who sleep but little. AN.iii.156.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appaṁsupatisutta. Năm hạng người ngủ ít. AN.iii.156.
 
 ## Notes

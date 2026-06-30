@@ -5,7 +5,7 @@ base_headword: "Anumānapañha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,8 @@ It also includes a description of the City of Righteousness – <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anumānapañha. Một trong những chương nổi tiếng nhất của Milinda Pañha (329-47). Chương này bàn về vấn đề suy luận sự hiện hữu của Đức Phật từ những sự kiện đã biết về Ngài và liên quan đến Ngài.
+
+Chương này cũng gồm một mô tả về Thành phố Công chính - Dhammanagara - cõi lý tưởng Phật giáo, và cho một ý niệm xuất sắc về đời sống đô thị vào thời chương này được biên soạn.
 
 ## Notes

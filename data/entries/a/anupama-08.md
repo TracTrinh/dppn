@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "08"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupama 08. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 08. Con trai của Sumana Buddha. Bv.v.23.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anulepadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anulepadāyaka Thera. An *Arahant*. In <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulepadāyaka Thera. Một *Arahant*. Vào thời Atthadassī, vị ấy cung cấp vữa cho một vị tăng để thực hiện một số sửa chữa đối với một tòa nhà. Ap.i.251.
 
 ## Notes

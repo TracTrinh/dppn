@@ -5,7 +5,7 @@ base_headword: "Anotatta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anotatta 01. One of the tanks built by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anotatta 01. Một trong các hồ chứa do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span>. của Ceylon xây dựng. Một con kênh gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bhagīrathī</span> chảy ra từ đó. Cv.lxxxix.49.
 
 ## Notes

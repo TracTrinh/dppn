@@ -5,7 +5,7 @@ base_headword: "Anottāpīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Anottāpīsutta. Records a conversation between <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anottāpīsutta. Ghi lại một cuộc đối thoại giữa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Kassapa</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāriputta</span> tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Isipatana</span>. Người không có nhiệt tâm (*anātāpī*) và không có sự hổ thẹn sợ hãi điều sai trái (*anottāpī*) thì không có khả năng đạt <span class="dppn-term dppn-term-t20" data-dppn-term-pos="4" data-dppn-term-class="t20">Giác ngộ</span> và *Nibbāna*. SN.ii.195f.
 
 ## Notes

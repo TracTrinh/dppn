@@ -5,7 +5,7 @@ base_headword: "Appassutasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Appassutasutta 02. Four classes of persons, some of small learning and some of w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appassutasutta 02. Bốn hạng người, một số ít học và một số học rộng. AN.ii.6f.
 
 ## Notes

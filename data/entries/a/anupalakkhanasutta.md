@@ -5,7 +5,7 @@ base_headword: "Anupalakkhaṇāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anupalakkhaṇāsutta. Diverse views are the result of want of discrimination. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupalakkhaṇāsutta. Các quan điểm khác nhau là kết quả của sự thiếu phân biệt. SN.iii.261.
 
 ## Notes

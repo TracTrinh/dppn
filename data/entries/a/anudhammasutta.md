@@ -5,7 +5,7 @@ base_headword: "Anudhammasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anudhammasutta. The bhikkhu, who conforms to the Dhamma, should live in disgust 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anudhammasutta. Vị bhikkhu, người sống thuận theo Dhamma, nên sống với sự nhàm chán đối với thân, cảm thọ, v.v. SN.iii.40-1.
 
 ## Notes

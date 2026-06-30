@@ -5,7 +5,7 @@ base_headword: "Anurādha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Anurādha 01. An Elder. Once when he was staying in a forest hut in the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurādha 01. Một Trưởng lão. Một lần, khi ngài đang trú trong một am rừng tại Mahā Vana ở Vesālī, gần nơi Đức Phật ở, một số du sĩ khổ hạnh đến gặp ngài và hỏi liệu một Tathāgata có tồn tại sau khi chết hay không; không hài lòng với câu trả lời của ngài, họ gọi ngài là “kẻ ngu” rồi bỏ đi. Sau đó Anurādha tìm lời chỉ dạy từ Đức Phật; ngài hỏi: “Vì ngay trong đời này cũng không thể nói về một Tathāgata rằng vị ấy thật sự tồn tại, thì có thể nói gì về vị ấy sau khi chết?” SN.iii.116-19; câu chuyện tương tự được lặp lại, với vài phần mở rộng nhỏ, trong SN.iv.380-6.},
 
 ## Notes

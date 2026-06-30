@@ -5,7 +5,7 @@ base_headword: "Apāyiṁhavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Apāyiṁhavagga. The ninth section of the *Ekanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apāyiṁhavagga. Phần thứ chín của *Ekanipāta* thuộc Jātaka. Ja.i.360-79.
 
 ## Notes

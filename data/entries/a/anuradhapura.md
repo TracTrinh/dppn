@@ -5,7 +5,7 @@ base_headword: "Anurādhapura"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -82,6 +82,30 @@ The city wall, which existed at the time the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurādhapura. Kinh đô của Ceylon trong gần mười lăm thế kỷ. Thành được xây trên địa điểm các khu định cư do hai Anurādha khởi lập bên bờ sông Kadamba, và được thành lập dưới chòm sao Anurādha, vì thế có tên ấy. Mhv­ṭ.293; Mhv.x.76; truyền thống này dường như về sau đã bị quên lãng, vì trong Mbv. (116) có gợi ý rằng thành được gọi như vậy vì là nơi cư trú của những người mãn nguyện (*anurodhijana*); hay đây chỉ là phép điệp âm?
+
+Paṇḍukābhaya (394-307 B.C.) là người sáng lập thành phố, nơi ông dời kinh đô đến từ Upatissagāma (Mhv.x.75-7), và nó vẫn là kinh đô cho đến thời Aggabodhi IV. (CE 626-41). Sau một thời gian ngắn, nó lại trở thành kinh đô, và tiếp tục như vậy cho đến khi vương cư được dời đi nơi khác (xem Cv.xlvi.34, nơi kinh đô mới Pulatthinagara lần đầu được nhắc đến như một vương cư). Cuối cùng thành bị bỏ hoang vào thế kỷ thứ mười một.
+
+Paṇḍukābhaya làm đẹp thành phố bằng các hồ nhân tạo Jayavāpi và Abhayavāpi. Chính quanh hồ được nhắc sau cùng, nhà vua quy hoạch thành phố, gồm bốn vùng ngoại ô, một nghĩa địa, các làng riêng cho thợ săn và người quét dọn, đền thờ các thần ngoại giáo khác nhau và nơi ở cho kỹ sư cùng các quan chức khác. Nơi cư trú cũng được cung cấp cho tín đồ của nhiều giáo phái khác nhau, như Jainas, Ājīvakas, các tu sĩ du phương và Bà-la-môn. Cũng có bệnh viện và nhà hộ sinh. Những người canh giữ thành phố (*Nagaraguttikā*) được bổ nhiệm, một người cho ban ngày và một người cho ban đêm. Để xem mô tả đầy đủ, xem Mhv.x.80-102.
+
+Con trai và người kế vị Paṇḍukābhaya, Muṭasiva, quy hoạch Mahā Megha Park xinh đẹp với các cây ăn quả và cây có hoa (Mhv.xi.2); công viên này ở phía nam thành phố; giữa nó và tường thành phía nam là một công viên khác gọi là Nandana hoặc Jotivana (Mhv.xv.2, 11).
+
+Dưới triều Piyatissa, người kế vị Muṭasiva (khi Phật giáo đã được truyền vào xứ này), nhà vua cùng với các quý tộc và dân chúng đã dựng nhiều công trình cao quý để hỗ trợ tôn giáo mới. Mười công trình nổi tiếng nhất ở Anurādhapura (xem danh sách tại Mhv.xx.17ff), và Mahā Meghavana, được hiến cho Tăng đoàn Phật giáo, từ đó trở thành trung tâm Phật giáo trên đảo. Trong công viên này, Piyatissa cũng trồng nhánh của Cây Bodhi Thiêng đến từ Bodhgayā (chi tiết xem Mhv.xviii. và Mhv.xix).
+
+Không lâu sau đó, thành phố bị người Tamil chiếm, nhưng được Duṭṭhagāmaṇī (101-77 B.C.), vị anh hùng của Mahā Vaṁsa, chiếm lại. Nhiều chương của biên niên sử được dành để mô tả vô số công trình do ông dựng lên tại Anurādhapura nhằm tôn vinh quốc giáo (Mhv.xxvi–xxxvi), quan trọng nhất trong số đó là Maricavaṭṭivihāra, Lohapāsāda và Mahā Thūpa.
+
+Vài năm sau, người Tamil một lần nữa chế ngự thành phố và giữ nó cho đến khi Vaṭṭagāmaṇī (29-17 B.C.) đánh đuổi họ. Dưới triều ông, Abhayagiri Thūpa đồ sộ và *vihāra* gắn với tháp ấy được xây dựng (Mhv.xxxiii.80-83).
+
+Lịch sử về sau của thành phố là bản ghi về việc các vị vua kế tiếp sửa chữa, thêm vào hoặc làm đẹp các di tích khác nhau này, và những biện pháp họ thực hiện để bảo tồn chúng. Di tích duy nhất về sau có tầm quan trọng thật sự là Jetavanārāma do vua Mahā Sena xây dựng (Mhv.xxxvii.33f) (CE 334-61).
+
+Vào khoảng thời gian này, danh tiếng của Anurādhapura như trung tâm chính của văn hóa Phật giáo đã thu hút nhiều khách từ nước ngoài đến tìm học. Nổi tiếng nhất trong số đó là đại luận sư Buddhaghosa (Mhv.xxxvii.215ff.; cũng xem Faxian). Cũng trong thời kỳ này, Dhātusena (CE 460-78) tổ chức lại hệ thống cấp nước của thành phố và xây *Kālavāpi* (Mhv.xxxviii.42).
+
+Từ thời điểm này trở đi, đất nước chịu một loạt âm mưu triều đại và nội chiến, mỗi phe đều cầu viện người Tamil ở Nam Ấn để được giúp đỡ và bảo hộ. Kết quả là vùng quanh Anurādhapura bị các toán cướp Tamil tràn ngập và trở nên không thể phòng thủ; vì vậy trung tâm chính quyền được dời đến Pulatthipura vào khoảng đầu thế kỷ thứ chín, nơi nó tiếp tục tồn tại, ngoại trừ một khoảng gián đoạn ngắn, cho đến thế kỷ thứ mười một. Cuối cùng, khoảng CE 1300, vào một thời điểm không được biết chính xác, toàn bộ khu vực bị bỏ hoang, trở thành một dạng vùng đất vô chủ; rồi nhanh chóng trở lại thành rừng rậm. Tuy nhiên, trong một thời gian khá dài, và ngay cả sau khi Pulatthipura trở thành kinh đô quốc gia, Anurādhapura vẫn được xem là một trung tâm hoạt động tôn giáo, và các di tích của nó thỉnh thoảng được trùng tu (Mhv.lxxvi.106-120; lxxviii.96f.; lxxviii.80f.
+
+Nhiều mẩu thông tin khác nhau về Anurādhapura và cư dân của nó được tìm thấy rải rác trong các chú giải, chẳng hạn, thành có hai *indakhīlas* (Vin-a.iii.299); con đường chính của nó chạy từ Thūpārāma, nơi có cổng chính vào thành (Ud­a.238; DN­a.ii.573).
+
+Thành nổi tiếng khắp Jambudīpa vì các vị tăng đức hạnh của nó, và người ta từ đó đến thăm các vị ấy, chẳng hạn vị Bà-la-môn từ Pāṭaliputta đến gặp Mahā Nāga Thera (AN­a.i.384).
+
+Bức tường thành, vốn tồn tại vào thời Mahā Vaṁsa được biên soạn, đã được vua Vasabha xây dựng (Mhv.xxxv.97), và theo *Ṭīkā* (p. 654), cao mười tám cubit.
 
 ## Notes

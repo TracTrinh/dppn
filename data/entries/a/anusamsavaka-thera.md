@@ -5,7 +5,7 @@ base_headword: "Anusaṁsāvaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anusaṁsāvaka Thera. An *Arahant*. In a past birth he gave a spoonful of rice 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusaṁsāvaka Thera. Một *Arahant*. Trong một đời quá khứ, ngài đã dâng một muỗng cơm cho Vipassī Buddha. Ap.i.247.
 
 ## Notes

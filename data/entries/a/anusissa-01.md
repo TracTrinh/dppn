@@ -5,7 +5,7 @@ base_headword: "Anusissa"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anusissa 01. An ascetic. He was the chief student of the Bodhisatta <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusissa 01. Một đạo sĩ khổ hạnh. Ông là đệ tử chính của Bodhisatta Sarabhaṅga, người sống cùng ông. Ông được đồng nhất với Ānanda. Ja.iii.463, 469.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Apagatasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Apagatasutta. Records a conversation between the Buddha and <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apagatasutta. Ghi lại một cuộc đối thoại giữa Đức Phật và Rāhula tại Jetavana. Đức Phật giải thích cách tâm được giải thoát khỏi các ý niệm “tôi” và “của tôi.” SN.ii.253; xem Rāhulasutta (3).
 
 ## Notes

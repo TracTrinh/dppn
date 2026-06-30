@@ -5,7 +5,7 @@ base_headword: "Anupadasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Anupadasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupadasutta. Được thuyết tại Sāvatthī trong Jetavana để tán thán sự học rộng và hiểu biết của Sāriputta. Kinh này thực ra là một mô tả về vị đệ tử hoàn hảo đã đạt đến sự thuần thục và viên mãn trong thánh giới, thánh định, thánh tuệ và thánh giải thoát. Kinh chứa các phân tích tâm lý nội quán, được triển khai rộng trong Dhammasangaṇi. MN.iii.25ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anuruddhasaṁyutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -35,6 +35,6 @@ Anuruddhasaṁyutta. The fifty-second section of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasaṁyutta. Phần thứ năm mươi hai của Saṁyuttanikāya. Nó là phần thứ tám của Mahā Vagga, và chứa các tường thuật về những sự kiện liên quan đến Anuruddha, các buổi thiền của ngài tại Jetavana về *satipaṭṭhānā* và lợi ích của việc tu tập các pháp ấy, lời khuyến giáo của ngài cho các vị tăng bên bờ sông Sutana, các cuộc đàm đạo của ngài với Sāriputta và Moggallāna tại Sāketa và trong Ambapālī Grove, bài thuyết pháp của ngài tại Saḷalāgāra, bệnh tình của ngài khi đang trú ở Andhavana, và các tường thuật của ngài về việc ngài đạt được các năng lực tâm linh như thế nào, v.v. SN.v.294ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Apadāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -69,6 +69,18 @@ According to Gv (p. 69) the Commentary on the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apadāna. Phần thứ mười ba của Khuddakanikāya. Đây là một *Vitae Sanctorum* Phật giáo và chứa 547 tiểu sử của các tỳ-kheo cùng bốn mươi tiểu sử của các tỳ-kheo-ni, tất cả đều được nói là đã sống vào thời Đức Phật. Chú giải cung cấp chi tiết về mười một Trưởng lão nữa không thấy trong bản kinh: Yasa, Nadī Kassapa, Gayā Kassapa, Kimbila, Vajjiputta, Uttara, Apara Uttara, Bhaddaji, Sivika, Upavāṇa và Raṭṭhapāla.
+
+Ngoài những phần này, còn có hai chương mở đầu, Buddhāpadāna và Paccekabuddhāpadāna, lần lượt bàn về Đức Phật và các Pacceka Buddhas. Đáng chú ý là Buddhāpadāna không chứa tường thuật nào về đời Đức Phật, dù là Gotama hay trước đó, với tư cách Bodhisatta (tuy nhiên, xem Pubbakammapiloti). Paccekabuddhāpadāna cũng không chứa bất kỳ truyện đời nào. Các kệ này có lẽ được mô tả thích hợp hơn là *udāna*, và xuất hiện trong Khaggavisāṇasutta của Suttanipāta. So sánh Mahāpadānasutta (DN.ii.1ff), nơi từ Apadāna được dùng với nghĩa truyền thuyết hay truyện đời của một vị Buddha hay một bậc Đại nhân – trong trường hợp này là bảy vị Buddha. Hay Mahāpadāna có nghĩa là Đại Truyện, tức câu chuyện về Pháp cùng những người gìn giữ và truyền bá Pháp: so sánh nhan đề *Mahā Vastu* (Dial.ii.3).
+
+Phần lớn các câu chuyện được tìm thấy trong Paramatthadīpanī, Chú giải của Theragāthā và Therīgāthā, được trích từ Apadāna với lời mở đầu, “*tena vuttaṁ Apadāne*.” Nhưng trong nhiều trường hợp, các tên mà dưới đó các kệ xuất hiện trong Paramatthadīpanī khác với các tên đặt sau các kệ trong Apadāna. Trong vài trường hợp, vấn đề là Chú giải cho một tên trong khi Apadāna chỉ cho một danh hiệu, chẳng hạn Usabha Thera (Thag­a.i.320), được gọi là Kosumbaphaliya (Ap.ii.449); và Isidinna (Thag­a.i.312), được gọi là (Ap.ii.415) Sumanavījaniya.
+
+Đôi khi các câu chuyện bị lặp lại ngay trong Apadāna, cùng một câu chuyện xuất hiện ở hai chỗ với lời văn chỉ thay đổi rất nhẹ, thậm chí tên của người được nói đến cũng giống nhau. Thường thì không thể nêu lý do nào cho điều này, ngoại trừ có lẽ là sự biên tập cẩu thả, chẳng hạn Annasaṁsāvaka Ap.i.78 và lại ở Ap.i.261; xem thêm Introduction to the PTS Edition.
+
+Apadāna được xem là một trong những sách rất muộn trong Thánh điển, một lý do cho quan điểm này là trong khi các sách muộn hơn như Buddhavaṁsa chỉ nhắc đến hai mươi bốn vị Buddha trước Gotama, Apadāna chứa tên của ba mươi lăm vị. Rất có khả năng các truyền thuyết khác nhau trong bộ sưu tập thuộc các niên đại khác nhau. Về những vấn đề này và các vấn đề khác liên quan đến Apadāna, xem bài viết của Rhys Davids trong ERE và *Les Apadānas du Sud* của Muller (Congress of Orientalists, Leyden, 1895).
+
+Theo Sumaṅgalavilāsinī (i.15. Xem thêm Przyluski: *La Legende de l’Empereur Açoka*, pp. viii f., 214), các *Dīghabhāṇakas*, những người đưa Khuddakanikāya vào Abhidhammapiṭaka, đã không công nhận Apadāna. Các *Majjhimabhāṇakas* đưa sách này vào Khuddakanikāya, mà họ xem là thuộc Suttapiṭaka. Có một Chú giải của Apadāna gọi là Visuddhajanavilāsinī.
+
+Theo Gv (p. 69), Chú giải về Apadāna được Buddhaghosa viết theo lời thỉnh cầu của năm vị tỳ-kheo.
 
 ## Notes

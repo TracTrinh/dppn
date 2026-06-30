@@ -5,7 +5,7 @@ base_headword: "Apalokinasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apalokinasutta, also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apalokinasutta, cũng là Apalokitasutta. Đức Phật dạy về pháp không suy hoại và con đường dẫn đến đó. SN.iv.370. Về tên gọi, xem KS.iv.262, n.2.
 
 ## Notes

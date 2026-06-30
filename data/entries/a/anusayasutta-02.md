@@ -5,7 +5,7 @@ base_headword: "Anusayasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -23,6 +23,6 @@ Anusayasutta 02. The holy life is lived for the uprooting of the *anusayā*. SN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusayasutta 02. Đời sống thánh hạnh được sống vì sự nhổ tận gốc các *anusayā*. SN.v.28.
 
 ## Notes

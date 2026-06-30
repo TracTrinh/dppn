@@ -5,7 +5,7 @@ base_headword: "Anvavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Anvavagga. Another name for the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anvavagga. Một tên khác của Addhavagga (2) – chương thứ bảy của Devatāsaṁyutta thuộc Saṁyuttanikāya (SN.i.39-41). Saṁyutta Commentary (SN­a.i.75. Xem thêm KS.i.54, n.4) gọi chương này là Anvavagga.
 
 ## Notes

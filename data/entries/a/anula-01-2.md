@@ -5,7 +5,7 @@ base_headword: "Anulā"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -37,6 +37,8 @@ After her ordination <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulā 01. Con gái của Muṭasiva, vua Ceylon, và là vợ của Mahā Nāga, em trai và phó vương của Devānampiyatissa. Cùng với năm trăm phụ nữ khác, bà nghe Mahinda thuyết Petavatthu, Vimānavatthu và Saccasaṁyutta, và cùng với những người khác trở thành bậc Dự lưu (Mhv.xiv.56-7; Dpv.xi.8; xii.82). Về sau, khi nghe bài pháp do Mahinda thuyết tại Mahā Meghavana, bà, cùng với những người khác, trở thành một *Sakadāgāmī*, và bày tỏ với nhà vua nguyện vọng được thọ giới xuất gia. Chính để những người này có thể được thọ giới mà Saṅghamittā được thỉnh mời đến (Mhv.xv.18-19; Vin-a.i.90ff.; Dpv.xv.73ff). Cho đến khi Saṅghamittā đến, Anulā và các bạn đồng hành của bà giữ mười giới và sống trong Upāsikāvihāra. Mhv.xviii.9-12. *Ṭīkā* (p.388) nói rằng họ cũng thọ trì hạnh nguyện *ekāsanikaṅga*, ăn trong một lần ngồi; xem thêm Mbv. pp.121, 144, 167.
+
+Sau khi thọ giới, Anulā trở thành một *Arahant* (Mhv.xix.65; xvi.41) và là nữ *Arahant* đầu tiên ở Ceylon.
 
 ## Notes

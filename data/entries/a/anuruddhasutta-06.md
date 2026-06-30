@@ -5,7 +5,7 @@ base_headword: "Anuruddhasutta"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anuruddhasutta 06. The Buddha explains to <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasutta 06. Đức Phật giải thích cho Anuruddha cách phụ nữ có thể được sinh vào hàng Manāpakāyikā *Devā*. AN.iv.262ff.
 
 ## Notes

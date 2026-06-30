@@ -5,7 +5,7 @@ base_headword: "Anurāja"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anurāja. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurāja. Con trai của Sunanda, vua của Surabhi, vào thời Maṅgala Buddha. Ông đến thăm Đức Phật cùng với cha mình, và sau khi nghe ngài thuyết pháp, trở thành một *Arahant*. Bv­a.119-20.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "08"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamādasutta 08. Earnestness is the best and highest of all qualities. AN.v.21
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 08. Sự không phóng dật là phẩm chất tốt nhất và cao nhất trong mọi phẩm chất. AN.v.21f.
 
 ## Notes

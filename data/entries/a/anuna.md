@@ -5,7 +5,7 @@ base_headword: "Anūna"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anūna. The name used by the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anūna. Tên mà Yakkha Puṇṇaka dùng để che giấu tên thật của mình với Dhanañjaya, kẻo ông bị lầm là một nô lệ. Từ này có cùng nghĩa với Puṇṇaka. Ja.vi.273-4.
 
 ## Notes

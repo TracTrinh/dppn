@@ -5,7 +5,7 @@ base_headword: "Āpattivagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpattivagga. Chương thứ hai mươi lăm của *Catukkanipāta* thuộc Aṅguttaranikāya, gồm mười *Suttas* về nhiều chủ đề khác nhau. AN.ii.239-46.
 
 ## Notes

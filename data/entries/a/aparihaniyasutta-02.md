@@ -5,7 +5,7 @@ base_headword: "Aparihāniyasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Aparihāniyasutta 02. A *Devatā* visits the Buddha at <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparihāniyasutta 02. Một *Devatā* đến thăm Đức Phật tại Jetavana và nêu sáu điều dẫn ra khỏi sự suy vong. Đức Phật lấy điều đó làm đề tài cho một bài thuyết pháp với các tỳ-kheo. AN.iii.330f.
 
 ## Notes

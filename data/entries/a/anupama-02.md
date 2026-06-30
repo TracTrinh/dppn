@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anupama 02. Pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 02. Khu vườn tiêu dao ở Anupama, nơi Vessabhū sinh ra và nơi, sau khi Giác ngộ, Ngài thực hiện Yamakapāṭihāriya (phép thần thông song hành). Bv­a.206.
 
 ## Notes

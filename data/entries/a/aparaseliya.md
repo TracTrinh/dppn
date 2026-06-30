@@ -5,7 +5,7 @@ base_headword: "Aparaseliyā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,10 @@ According to one tradition they were connected with the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparaseliyā. Một chi phái của Andhakā. Niềm tin của họ dường như tương tự niềm tin của Pubbaseliyā. Kv-a. được trích trong *Points of Controversy*, pp. 5 and 104. Xem thêm Dpv.v.54; Mhv.v.12; Mbv.97. Về niềm tin của họ, xem de la Vallee Poussin: JRAS., April, 1910, pp.413ff.
+
+Trung tâm của họ là Dhanakaṭaka, trong xứ Andhaka, ở đâu đó gần Kañcipura và Amarāvati trên bờ biển đông nam Ấn Độ (*Points of Controversy*, xliii; xem thêm Watters: *On Yuan Chwang*, ii.214ff).
+
+Theo một truyền thống, họ có liên hệ với Cetiyavādins. Về một cuộc thảo luận về điều này, xem *Points of Controversy*, xliii-iv.
 
 ## Notes

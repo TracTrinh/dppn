@@ -5,7 +5,7 @@ base_headword: "Āpāyikavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpāyikavagga. Chương thứ mười hai của *Tikanipāta* thuộc Aṅguttaranikāya (AN.i.265-73). Chương này gồm mười *Suttas* về nhiều chủ đề khác nhau.
 
 ## Notes

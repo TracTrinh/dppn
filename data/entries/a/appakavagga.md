@@ -5,7 +5,7 @@ base_headword: "Appakāvagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Appakāvagga (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appakāvagga (hoặc Viratavagga). Chương thứ tám của Saccasaṁyutta thuộc Saṁyuttanikāya. SN.v.468-70.
 
 ## Notes

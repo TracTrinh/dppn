@@ -5,7 +5,7 @@ base_headword: "Āpaṇa"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -53,6 +53,17 @@ According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpaṇa. Một thành phố trong xứ Aṅguttarāpa (có lẽ là thủ đô của xứ ấy). Đức Phật một lần đến thăm thành phố này cùng 1,250 vị tỳ-kheo, và toàn thể hội chúng được Jaṭila Keniya khoản đãi (Vin.i.245ff). Từ Āpaṇa, Đức Phật tiếp tục đi đến Kusinārā (Vin.i.247). Trong Saṁyuttanikāya (SN.v.225), Āpaṇa được nói đến như một thị trấn của Aṅgas (*Aṅgānaṁ nigamo*) và Đức Phật được nhắc là đã ở đó cùng Sāriputta.
+
+Nhiều *Suttas* được thuyết tại Āpaṇa, trong số đó có
+
+- Poṭaliyasutta (liên quan đến Poṭaliya), (MN.i.359ff)
+- Laṭukikopamasutta (cho Udāyī) (MN.i.447ff),
+- Selasutta (liên quan đến Sela) (MN.ii.146ff; Sn.pp.102ff) và
+- Saddhasutta hay Āpaṇasutta (SN.v.225-7).
+
+Āpaṇa là một làng Bà-la-môn và là quê nhà của Trưởng lão Sela (Thag­a.ii.47). Nhân dịp Đức Phật đến thăm Āpaṇa, trong thời gian đó ngài cảm hóa Sela và Keniya, dường như ngài đã ở Āpaṇa hơn một tuần và truyền giới cho ba trăm vị tỳ-kheo trong đoàn của Sela (Sn., p.112).
+
+Theo Buddhaghosa (MN­a.ii.586), làng này được gọi là Āpaṇa vì nó có hai mươi nghìn khu chợ (*āpaṇā*) và do đó nổi tiếng vì các cửa hàng (*āpaṇānaṁ ussannattā*). Gần làng, bên bờ sông Mahī, là khu rừng nơi Đức Phật ở trong các lần ngài đến thăm.
 
 ## Notes

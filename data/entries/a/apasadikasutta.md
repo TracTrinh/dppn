@@ -5,7 +5,7 @@ base_headword: "Apāsādikasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apāsādikasutta. Two discourses on the evils of being unamiable. AN.iii.255-6.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apāsādikasutta. Hai bài kinh về những tai hại của việc không hòa nhã. AN.iii.255-6.
 
 ## Notes

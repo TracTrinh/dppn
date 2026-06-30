@@ -5,7 +5,7 @@ base_headword: "Apalāla"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,12 @@ According to the Vinaya of the Mūlasarvāstivādins, the Buddha converted <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apalāla. Một vua *nāga*, được Đức Phật cảm hóa. Ông được nhắc đến cùng với Āravāla, Dhanapāla và Pārileyyaka. Tên này xuất hiện trong các đoạn bàn về năng lực của Đức Phật (ví dụ, Bv­a.29). “Chẳng phải Đức Phật được tôn kính ngay cả bởi các loài vật như Āravāla, v.v. sao?”
+
+Câu chuyện về sự cảm hóa Apalāla, theo như tôi có thể tìm thấy, không xuất hiện trong các sách thuộc Thánh điển. Trong Samantapāsādikā (iv.742), câu chuyện về sự cảm hóa Apalāla (*Apalāladamana*) được nêu trong số các câu chuyện không được đưa vào Ba kỳ Kết tập (*saṅgīti*), nhưng việc câu chuyện ấy đã được biết khá sớm ở Tích Lan được chứng minh bởi sự kiện là, trong số các cảnh đời Đức Phật được trình bày trong phòng xá-lợi của Mahā Thūpa, sự cảm hóa Apalāla được nhắc đến (Mhv.xxx.84). *Divyāvadāna* (pp.348, 385) nhắc đến câu chuyện này, và nói rằng *nāga* ấy được cảm hóa không lâu trước khi Đức Phật qua đời. Xuanzang kể câu chuyện chi tiết (Beal-Xuan.i.122; cũng xem Legge: *Faxian’s Travels*, p.29n.). Vào thời Kassapa Buddha, Apalāla từng là một người có thế lực tên Gaṅgi. Bằng các chú thuật của mình, ông khuất phục những con rồng tấn công xứ sở, và dân chúng, để tỏ lòng biết ơn, đồng ý nộp cống cho ông. Về sau một số người quên lời hứa của họ và ông, trong cơn phẫn nộ, sau khi chết đã trở thành một con rồng.
+
+Gotama Buddha đến thăm ông và thuyết pháp cho ông. Ông được cảm hóa, nhưng để nuôi sống mình, ông được phép lấy một đợt thu hoạch mùa màng mỗi mười hai năm. Vì lý do này mà Sông Trắng (Subhavastu) tràn bờ mỗi năm thứ mười hai. Câu chuyện được tìm thấy trong *Sūtrālaṅkāra* và các sách Mahāyāna khác. Xem Nariman: *Sanskrit Buddhism*, pp.194, 274.
+
+Theo Vinaya của phái Mūlasarvāstivādins, Đức Phật cảm hóa Apalāla trong một chuyến thăm Kashmir cùng với Yakṣa Vajrapānī (JA.1914, vol. iv.510).
 
 ## Notes

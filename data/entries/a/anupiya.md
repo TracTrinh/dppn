@@ -5,7 +5,7 @@ base_headword: "Anupiya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -55,6 +55,16 @@ The name is sometimes spelt *Anopiya* and *Anūpiyā* (Ja.i.140). See also <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupiya (Anupiyā). Một thị trấn trong xứ Malla, ở phía đông Kapilavatthu. Trong vườn xoài ở đó (Anupiyaambavana), Đức Phật, sau khi đến từ Anomā và tự mình xuất gia, đã trải qua tuần đầu tiên sau khi từ bỏ đời sống thế tục, trước khi đi đến Rājagaha, cách đó ba mươi do-tuần (Ja.i.65-6). Ngài lại đến đó sau khi trở về từ Kapilavatthu, nơi ngài đã đi để gặp thân quyến của mình, và nhiều vương tử Sākiyan đã gia nhập Tăng đoàn, gồm Bhaddiya, Anuruddha, Ānanda, Bhagu, Kimbila, Devadatta và người thợ cạo của họ, Upāli (Vin.ii.180f.; AN­a.i.108; Dhp­a.i.133; iv.127).
+
+Chính trong thời gian lưu trú này, Đức Phật đã thuyết Sukhavihārijātaka (Ja.i.140). Từ Anupiya, Đức Phật đi đến Kosambi (Vin.ii.184). Gần Anupiya là khu vườn ngoạn cảnh nơi *paribbājaka* thuộc Bhaggavagotta sinh sống. Đức Phật từng thăm vị ấy một lần khi đang trú tại Anupiya, và khi ấy ngài thuyết Pāṭikasutta (DN.iii.1ff).
+
+Anupiya là nơi sinh của Dabba Mallaputta. Thag­a.i.41; tuy nhiên, Apadāna nói là Kusinārā (ii.473).
+
+Một lần, khi Soṇa Potiriyaputta đang hành thiền, Đức Phật phóng một tia hào quang từ vườn xoài để khích lệ ông (Thag­a.i.316).
+
+Vườn xoài thuộc về các Malla*-rājās*; họ xây một *vihāra* trong đó để Đức Phật cư trú (Ud­a.161; DN­a.iii.816).
+
+Tên này đôi khi được viết là *Anopiya* và *Anūpiyā* (Ja.i.140). Xem thêm Anomā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamādasutta 02. Diligence must be practiced by those who know not the nature 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 02. Sự không phóng dật phải được thực hành bởi những người chưa biết bản chất của sinh, hữu, v.v. SN.ii.132.
 
 ## Notes

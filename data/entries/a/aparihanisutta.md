@@ -5,7 +5,7 @@ base_headword: "Aparihānisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Aparihānisutta. There are seven things that decline not, viz., the seven *bojjh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparihānisutta. Có bảy pháp không suy giảm, tức bảy *bojjhaṅga*. SN.v.85; xem thêm ibid., 94.
 
 ## Notes

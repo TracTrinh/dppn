@@ -5,7 +5,7 @@ base_headword: "Anutīracārī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anutīracārī. An otter who had a dispute with another otter, <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anutīracārī. Một con rái cá tranh chấp với một con rái cá khác, Gambhīracārī, về một con cá. Chúng nhờ một con chó rừng, Māyāvī, phân xử và bị thiệt trong vụ ấy, vì chó rừng đòi phần giữa của con cá làm giá cho sự phân xử của nó, chỉ để lại đầu và đuôi cho hai con rái cá. Ja.iii.333f.; Dhp­a.iii.141-2.
 
 ## Notes

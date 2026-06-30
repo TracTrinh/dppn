@@ -5,7 +5,7 @@ base_headword: "Antaragaṅga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antaragaṅga. A district in Ceylon. Ras.ii.10.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antaragaṅga. Một quận ở Ceylon. Ras.ii.10.
 
 ## Notes

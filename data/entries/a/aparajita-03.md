@@ -5,7 +5,7 @@ base_headword: "Aparājita"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,6 @@ Aparājita 03. A householder of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparājita 03. Một gia chủ ở Bandhumatī. Khi người anh cả của ông, Sena, rời đời sống thế tục và trở thành một *Arahant* dưới thời Vipassī Buddha, Aparājita xin lời khuyên của ngài về cách ông có thể dùng tài sản của mình để thực hiện một việc có đại công đức. Ông được bảo xây một Gandhakuṭi cho Đức Phật; ông đã làm như vậy, dùng đủ loại kim loại quý và đá quý, và bao quanh nơi ấy bằng nhiều thứ xa hoa, như nước thơm. Căn phòng ba lần được đổ đầy châu báu đến ngang đầu gối để bất cứ ai đến nghe Đức Phật thuyết pháp đều có thể lấy. Vào lễ khai mở Gandhakuṭi, Aparājita đã thiết đãi 6,800,000 vị tỳ-kheo trong chín tháng. Trong thời đại này, ông sinh làm trưởng giả Jotika. Trong một đời trước, ông đã dâng mía cho một vị Pacceka Buddha. Dhp­a.iv.199-207.
 
 ## Notes

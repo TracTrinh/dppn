@@ -5,7 +5,7 @@ base_headword: "Appacintī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Appacintī. A fish who lived in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appacintī. Một con cá sống ở sông Ganges cùng với các anh em của mình là Bahucintī và Mitacintī. Appacintī và Bahucintī bị mắc vào lưới của một người đánh cá và được Mitacintī cứu thoát. Câu chuyện được kể trong Mitacintījātaka (Ja 114) (i.427-8).
 
 ## Notes

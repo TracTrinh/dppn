@@ -5,7 +5,7 @@ base_headword: "Apaṇṇakasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -32,6 +32,10 @@ MN.i.400-13. For a derivation of the name see Weber: Ind. Str. iii.150, and Kuhn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaṇṇakasutta 01. Được thuyết cho một hội chúng Bà-la-môn ở Sālā. Khi họ cho Đức Phật biết rằng họ không có vị thầy ưa thích nào mà họ tin tưởng, họ được dạy rằng họ nên tiếp nhận và thực hành viên mãn Pháp chắc chắn (apaṇṇak*a-Dhamma*), rồi Đức Phật tiếp tục giải thích pháp ấy. Trong quá trình giải thích này, có nhắc đến giáo lý của một số trường phái tư tưởng khác, đặc biệt là của các Jainas và Ājīvakas, bao gồm sáu môi trường sinh tồn (*abhijāti*). Về một thảo luận liên quan đến một số điều này, xem Further Dial. i.293, n.1.
+
+*Sutta* kết thúc với lý tưởng *Arahant* như đỉnh cao cần đạt đến bởi chúng sinh không tự hành hạ mình cũng không hành hạ người khác, và không chuyên tự hành hạ mình hay hành hạ người khác, mà sống ngay tại đây và bây giờ vượt khỏi mọi tham muốn, an lạc và viên mãn.
+
+MN.i.400-13. Về nguồn gốc của tên gọi, xem Weber: Ind. Str. iii.150, và Kuhn: Beitr., nơi từ này được dẫn xuất từ a*-praśna-ka*. Buddhaghosa định nghĩa nó là *aviruddho advejjhagāmī ekasaṅgāhiko* (MN­a.ii.630).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -31,6 +31,6 @@ Anuruddha 03. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 03. (hay Anuruddhaka). Một trong các vua giết cha của Magadha. Ông giết cha mình là Udayabhaddaka và chính ông bị con trai mình là Muṇḍa giết. Mhv.iv.2-3; Mbv., p.96; nhưng xem DN­a.i.153, nơi Anuruddha được nêu là con của Mahā Muṇḍa và cha của Nāgadāsa. Trong *Divyāvadāna* (p.359), tên của Anuruddha hoàn toàn không xuất hiện trong danh sách những người kế vị Bimbisāra.
 
 ## Notes

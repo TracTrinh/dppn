@@ -5,7 +5,7 @@ base_headword: "Apassena"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Apassena. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apassena. Một vị Cakkavatti sống cách đây sáu *kappa*; một đời trước của Ārakkhadāyaka Thera. Ap.i.215.
 
 ## Notes

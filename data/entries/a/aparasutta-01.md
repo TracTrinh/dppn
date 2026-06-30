@@ -5,7 +5,7 @@ base_headword: "Apārasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apārasutta 01. The seven *bojjhaṅga*, if cultivated, conduce to no more going
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apārasutta 01. Bảy *bojjhaṅga*, nếu được tu tập, đưa đến việc không còn đi sang bờ bên này hay bờ bên kia nữa. SN.v.81. Về tên gọi, xem KS.v.225, n.3.
 
 ## Notes

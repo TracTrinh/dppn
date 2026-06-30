@@ -5,7 +5,7 @@ base_headword: "Aparaṇṇa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,10 @@ The Bodhisatta is identified with <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparaṇṇa, Aparaṇṇagijjha. Một con kền kền sống ở Gijjhapabbata.
+
+Nó có một người con là Migālopa, mạnh mẽ và hùng dũng, có thể bay cao hơn đồng loại. Bất chấp lời cảnh báo của cha, nó bay quá cao và bị các luồng gió Verambha đánh tan xác.
+
+Bodhisatta được nhận diện là Aparaṇṇa. Ja.iii.255-6.
 
 ## Notes

@@ -1161,6 +1161,286 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 66 | anomarama-01 | — |  |
 | 67 | anomarama-02 | — |  |
 
+## Batch: a/ (Anomasatta → Anujjā) — 30 entry [RESUME tập a/ mới; fallback không review_queue]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check entries without review_queue manifest. Re-scan phát hiện
+  ~180 entry a/ draft mới (dịch trong phiên ~07:46–07:49 hôm nay) chưa có trong review-log. Batch này
+  review 30 entry đầu theo thứ tự tên file, từ `a/anomasatta` đến `a/anujja`. Không có
+  `.sandbox/glossary_terms_*.md` và không có `review_queue` manifest → bỏ qua bước merge glossary.
+  Dùng host Read cho mọi thân file (bash mount truncate/corrupt).
+- Kết quả: 30/30 đạt; 3 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Citation
+  chính xác (gồm soft-hyphen Dhp­a/MN­a/SN­a/AN­a/Thag­a; cả OCR "AN.iii.20-l." giữ nguyên theo nguồn);
+  Pāli giữ nguyên diacritic; khớp glossary (do-tuần [leagues], *kappa*, *mahākappa*, chư thiên [Devas],
+  Pacceka Buddhas, Trưởng lão [Thera], Tăng đoàn [Saṅgha], Bậc Vô Song [Peerless], *iddhi*). anotatta-02
+  rất dài (81 span, 11 đoạn): đối chiếu đầy đủ + trung thực, mọi citation giữ nguyên.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anomasatta | — |  |
+| 2 | anomiyasutta | — | Bậc Vô Song (*Anomanāma*) |
+| 3 | anopama | — |  |
+| 4 | anopama-01 | ✅ | Saṅgha → Tăng đoàn (glossary) |
+| 5 | anorata | — |  |
+| 6 | anotatta-01 | — |  |
+| 7 | anotatta-02 | — | RẤT DÀI; do-tuần, *mahākappa*, *iddhi*; đầy đủ |
+| 8 | anottapisutta | ✅ | "Awakening" (text span) → "Giác ngộ" (glossary) |
+| 9 | anottappamulakatinisutta | — |  |
+| 10 | antajataka | — |  |
+| 11 | antalikkhacara | — | *kappa* khớp glossary |
+| 12 | antaraganga | — |  |
+| 13 | antaraganga-2 | — |  |
+| 14 | antaramegiri | — |  |
+| 15 | antarapeyyala | — |  |
+| 16 | antarasobbha | — |  |
+| 17 | antaravaddhamana | — |  |
+| 18 | antaravitthi | ✅ | "n.4, and 229" → "n.4, và 229" (citation) |
+| 19 | antasutta | — |  |
+| 20 | antasutta-2 | — |  |
+| 21 | antavagga | — |  |
+| 22 | antavasutta | — |  |
+| 23 | antevasisutta | — |  |
+| 24 | antureli | — | Trưởng lão [Thera] |
+| 25 | anubuddhasutta | — |  |
+| 26 | anudhammasutta | — |  |
+| 27 | anugara | — | *Paribbājakārāma* giữ nguyên |
+| 28 | anuggahasutta | — | OCR "AN.iii.20-l." giữ theo nguồn |
+| 29 | anujivisamiddha | — |  |
+| 30 | anujja | — |  |
+
+## Batch: a/ (Anukampakasutta → Anūpama Thera) — 32 entry [RESUME tập a/ mới; fallback]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check không review_queue; 32 entry kế tiếp theo thứ tự tên file
+  sau anujja, từ `a/anukampakasutta` đến `a/anupama-thera`. Host Read cho mọi thân file.
+- Kết quả: 32/32 đạt; 2 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Lưu ý: các
+  bản dịch mới này render tên riêng dạng plain-text (KHÔNG còn span marker trong VI) — tên giữ nguyên
+  diacritic, hợp lệ; không thêm span. Citation chính xác (soft-hyphen Dhp­a/Bv­a/Thag­a/MN­a giữ nguyên);
+  khớp glossary (Trưởng lão [Thera], trưởng giả [banker], Bà-la-môn, bậc Dự lưu [Stream-enterer], thiên
+  nhãn [celestial eye], *kappa*, Pacceka Buddha, Giác ngộ [Awakening]).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anukampakasutta | — |  |
+| 2 | anukevatta | — |  |
+| 3 | anula-01 | — | thiên nhãn [celestial eye] |
+| 4 | anula-01-2 | — | DÀI; *Sakadāgāmī*, *ekāsanikaṅga* giữ nguyên |
+| 5 | anula-02-2 | — |  |
+| 6 | anula-03 | — |  |
+| 7 | anula-04 | — |  |
+| 8 | anula-05 | — | Bà-la-môn |
+| 9 | anula-06 | — |  |
+| 10 | anulatissapabbata | — | *vihāra* |
+| 11 | anulepadayaka-thera | — |  |
+| 12 | anulomadayaka-thera | — | cây bodhi |
+| 13 | anumanapanha | — | Milinda Pañha |
+| 14 | anumanasutta | ✅ | "e.g." → "ví dụ" |
+| 15 | anuna | — | Yakkha |
+| 16 | anupadasutta | — | thánh giới/định/tuệ/giải thoát |
+| 17 | anupadavagga | — |  |
+| 18 | anupadayasutta | — |  |
+| 19 | anupalakkhanasutta | — |  |
+| 20 | anupama-01 | — |  |
+| 21 | anupama-01-2 | — | Giác ngộ [Awakening] |
+| 22 | anupama-02 | ✅ | twin-miracle → Yamakapāṭihāriya (glossary) |
+| 23 | anupama-02-2 | — | Giác ngộ |
+| 24 | anupama-03 | — |  |
+| 25 | anupama-04 | — |  |
+| 26 | anupama-05 | — |  |
+| 27 | anupama-06 | — |  |
+| 28 | anupama-07 | — | Ājīvaka |
+| 29 | anupama-08 | — |  |
+| 30 | anupama-09 | — | trưởng giả [banker] |
+| 31 | anupama-10 | — | trưởng giả [banker] |
+| 32 | anupama-thera | — | *upanissaya*, *kappa*, Pacceka Buddha |
+
+## Batch: a/ (Anupanāhīsutta → Anusāsikajātaka) — 22 entry [RESUME tập a/ mới; fallback]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check không review_queue; 22 entry kế tiếp theo thứ tự tên file
+  sau anupama-thera, từ `a/anupanahisutta` đến `a/anusasikajataka`. BỎ QUA 7 entry Codex-trial đã log
+  (anuruddha-01/02/04/05/08, anuruddhasutta-01/03). Host Read cho mọi thân file.
+- Kết quả: 22/22 đạt; 1 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+  anuradhapura rất dài (45 span, 10 đoạn): đối chiếu đầy đủ + trung thực, mọi citation/niên đại giữ
+  nguyên. Khớp glossary (Trưởng lão [Elder/Thera], Tăng đoàn [Saṅgha], do-tuần, *karīsa*, tướng quân
+  [general], Bà-la-môn, bậc Dự lưu, *satipaṭṭhānā*, Yakkha). Lưu ý: anuradha.md có artifact "}," cuối
+  câu — GIỮ NGUYÊN vì có sẵn trong nguồn EN; "Ambapālī Grove"/"Mahā Megha Park" giữ theo dạng tên nguồn.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anupanahisutta | — |  |
+| 2 | anupiya | — | DÀI; do-tuần, *paribbājaka*, Tăng đoàn; đầy đủ |
+| 3 | anupubba | — | trưởng giả [Seṭṭhi], bậc Dự lưu |
+| 4 | anura | — | tướng quân |
+| 5 | anuradha | — | artifact "}," giữ theo nguồn EN |
+| 6 | anuradha-02 | — |  |
+| 7 | anuradha-03 | — |  |
+| 8 | anuradhagama | — |  |
+| 9 | anuradhapura | ✅ | "; also Faxian" → "; cũng xem Faxian" (DÀI; đầy đủ) |
+| 10 | anuraja | — |  |
+| 11 | anurarama | — | *karīsa*, *uposatha*, *vihāra* |
+| 12 | anuruddha-03 | — | các vua giết cha Magadha |
+| 13 | anuruddha-06 | — | tác giả Abhidhammatthasaṅgaha |
+| 14 | anuruddha-07 | — | *kappiya*; Tăng đoàn |
+| 15 | anuruddhasamyutta | — | *satipaṭṭhānā* |
+| 16 | anuruddhasutta-02 | — |  |
+| 17 | anuruddhasutta-04 | — | *amatadhātu* |
+| 18 | anuruddhasutta-05 | — | *mahāpurisa vitakka*; quả vị *Arahant* |
+| 19 | anuruddhasutta-06 | — | Manāpakāyikā *Devā* |
+| 20 | anusamsavaka-thera | — |  |
+| 21 | anusasika | — |  |
+| 22 | anusasikajataka | — |  |
+
+## Batch: a/ (Anusayā Sutta → Apalokinasutta) — 31 entry [RESUME tập a/ mới; fallback]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check không review_queue; 31 entry kế tiếp theo thứ tự tên file
+  sau anusasikajataka, từ `a/anusaya-sutta` đến `a/apalokinasutta`. Host Read cho mọi thân file.
+- Kết quả: 31/31 đạt; 6 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Loại sửa:
+  stray English trong VI ("See also"/"see"/"also" trong chuỗi citation → "Xem thêm"/"xem"/"cũng xem";
+  *kappas* → *kappa* theo glossary). apadana & apacara & apalala dài: đối chiếu đầy đủ + trung thực,
+  citation/tham chiếu học thuật (ERE, PTS Ed., Przyluski, Nariman…) giữ nguyên. Khớp glossary
+  (*anusayā* / khuynh hướng tiềm ẩn, *iddhi*, chư thiên [Devas], Pacceka Buddhas, Trưởng lão, trưởng giả,
+  *kappa*, Cakkavatti, *cetiya*, *jaṭila*, *nāga*).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anusaya-sutta | — | *anusayā* giữ Pāli |
+| 2 | anusayasutta-01 | — | khuynh hướng tiềm ẩn [anusayā] |
+| 3 | anusayasutta-02 | — |  |
+| 4 | anusayasutta-03 | — | năm căn [indriyāni] |
+| 5 | anusayasutta-04 | — |  |
+| 6 | anusissa-01 | — | Bodhisatta |
+| 7 | anusissa-02 | — | Sakka, Bodhisatta |
+| 8 | anusotasutta | — |  |
+| 9 | anussatisutta-01 | — |  |
+| 10 | anussatisutta-02 | — |  |
+| 11 | anutiracari | — |  |
+| 12 | anuttarasangamavijaya | — |  |
+| 13 | anuttariyasutta-01 | — |  |
+| 14 | anuttariyasutta-02 | — |  |
+| 15 | anuttariyavagga | — | *Chakkanipāta* |
+| 16 | anuvattanasutta | — | Cakkavatti |
+| 17 | anuvindaka | — | trưởng giả [banker] |
+| 18 | anvavagga | ✅ | "See also" → "Xem thêm" (citation) |
+| 19 | apa | — | chư thiên [Devas], *āpokasiṇa* |
+| 20 | apacara | ✅ | "see also" → "xem thêm" (citation); *iddhi*, *kappa* |
+| 21 | apacayikasutta | — | *uddāna* |
+| 22 | apaccakkhakammasutta | — | "volitions" → hành |
+| 23 | apaccupalakkhanasutta | — |  |
+| 24 | apaccupekkhanasutta | — |  |
+| 25 | apadana | ✅ | "See also Przyluski" → "Xem thêm" (DÀI; đầy đủ) |
+| 26 | apadaniya-thera | ✅ | *kappas* → *kappa* (glossary) |
+| 27 | apadika | — | *jaṭila*, *cetiya* |
+| 28 | apagatasutta | ✅ | "see Rāhulasutta" → "xem Rāhulasutta" |
+| 29 | apalala | ✅ | "also Legge" → "cũng xem Legge" (DÀI; *nāga*; đầy đủ) |
+| 30 | apalaladamana | — | redirect "Xem Apalāla." |
+| 31 | apalokinasutta | — |  |
+
+## Batch: a/ (Āpaṇa → Appakāvagga) — 40 entry [RESUME tập a/ mới; fallback]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check không review_queue; 40 entry kế tiếp theo thứ tự tên file
+  sau apalokinasutta, từ `a/apana` đến `a/appakavagga`. Host Read cho mọi thân file.
+- Kết quả: 40/40 đạt; 6 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Loại sửa:
+  *kappas* → *kappa* (aparajita-02, apassena, apilapiya); stray "and" trong citation → "và" (apheggusara);
+  anusvāra ṃ → ṁ khớp nguồn/link_candidates (apheggusaradipani: Haṁsavatī; appakavagga:
+  Saccasaṁyutta/Saṁyuttanikāya). aparagoyana & aparantaka dài: đối chiếu đầy đủ + trung thực, mọi
+  tham chiếu địa lý/học thuật giữ nguyên. Khớp glossary (*kappa*, Cakkavatti, Pacceka Buddhas, Tăng đoàn,
+  trưởng giả [banker], Gandhakuṭi, *bojjhaṅga*, *iddhipādā*, địa ngục [purgatory], Đại Kết Tập [Council],
+  Phạm thiên [Brahma]). Lưu ý: "yojana" trong nguồn giữ "*yojana*" (không đổi do-tuần); OCR "AN.ii.76-53"
+  giữ theo nguồn.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | apana | — | DÀI (Āpaṇa); Selasutta, Keniya; đầy đủ |
+| 2 | apana-2 | — | Āpāna; thủ lĩnh Vanni |
+| 3 | apannakajataka | — | Kāliyuga giữ nguyên |
+| 4 | apannakasutta-01 | — | DÀI; *abhijāti*, Buddhaghosa def; đầy đủ |
+| 5 | apannakasutta-02 | — | *apaṇṇakamaṇi* |
+| 6 | apannakatasutta | — | *apaṇṇakapaṭipadā* |
+| 7 | apannakavagga-01 | — | OCR "AN.ii.76-53" giữ nguồn |
+| 8 | apannakavagga-02 | — |  |
+| 9 | apanthaka | — |  |
+| 10 | aparaditthisutta | — | Phạm thiên [Brahma] |
+| 11 | aparagoyana | — | RẤT DÀI; bốn đại châu; *yojana*; đầy đủ |
+| 12 | aparajita-01 | — | Pacceka Buddhas |
+| 13 | aparajita-02 | ✅ | *kappas* → *kappa* |
+| 14 | aparajita-03 | — | Gandhakuṭi; trưởng giả [banker] |
+| 15 | aparajita-04 | — | trưởng giả Meṇḍaka |
+| 16 | aparanna | — | Bodhisatta |
+| 17 | aparanta | — |  |
+| 18 | aparantaka | — | DÀI; Asoka missionaries; đầy đủ |
+| 19 | aparaseliya | — | chi phái Andhakā |
+| 20 | aparasutta-01 | — | *bojjhaṅga* |
+| 21 | aparasutta-02 | — | *iddhipādā* |
+| 22 | aparihanisutta | — | *bojjhaṅga* |
+| 23 | aparihaniyasutta-01 | — | "cf." giữ (viết tắt học thuật) |
+| 24 | aparihaniyasutta-02 | — | *Devatā* |
+| 25 | aparika | — | *jaṭila*, *cetiya* |
+| 26 | apasadikasutta | — |  |
+| 27 | apassena | ✅ | *kappas* → *kappa* |
+| 28 | apatti | — | Vinayapiṭaka/Parivāra |
+| 29 | apattisutta-01 | — | Tăng đoàn |
+| 30 | apattisutta-02 | — |  |
+| 31 | apattivagga | — |  |
+| 32 | apayikasutta | — | địa ngục [purgatory] |
+| 33 | apayikavagga | — |  |
+| 34 | apayimhavagga | — |  |
+| 35 | apheggusara | ✅ | "36 and n.2" → "36 và n.2" |
+| 36 | apheggusaradipani | ✅ | Haṃsavatī → Haṁsavatī (khớp nguồn) |
+| 37 | apilapiya | ✅ | *kappas* → *kappa* |
+| 38 | appacinti | — |  |
+| 39 | appakasutta | — | Pasenadi |
+| 40 | appakavagga | ✅ | Saccasaṃyutta/Saṃyuttanikāya → ṁ (khớp nguồn) |
+
+## Batch: a/ (Appamādasutta 01 → Aputtaka) — 25 entry [HẾT tập a/ draft tại lần scan này; fallback]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork fallback review pass)
+- Phạm vi: fallback pending draft/needs_check không review_queue; 26 entry CUỐI theo thứ tự tên file
+  sau appakavagga, từ `a/appamadasutta-01` đến `a/aputtaka`. Hoàn tất toàn bộ ~180 entry a/ draft mới
+  (anomasatta → aputtaka) phát hiện ở lần re-scan hôm nay. Host Read cho mọi thân file.
+- Kết quả: 26/26 đạt; 5 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Loại sửa:
+  anusvāra ṃ → ṁ khớp nguồn (appamadavagga-02: Saṁyuttanikāya/Maggasaṁyutta; appamsupatisutta:
+  Appaṁsupatisutta; aputtaka ×2: Saṁyuttanikāya/Saṁyutta); *kappas* → *kappa* (appamanabha,
+  appamanasubha). Khớp glossary (sự không phóng dật [appamāda/diligence/earnestness/heedfulness], Bát
+  Thánh đạo [Ariyan Eightfold Way], chư thiên [Devas], *kappa*, *jhāna*, *iddhi*, địa ngục [purgatory],
+  Pacceka Buddha, trưởng giả [banker]). aputtaka dài: đối chiếu đầy đủ + trung thực.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | appamadasutta-01 | — | sự không phóng dật; Pasenadi |
+| 2 | appamadasutta-02 | — |  |
+| 3 | appamadasutta-03 | — | Bát Thánh đạo |
+| 4 | appamadasutta-04 | — | Bát Thánh đạo |
+| 5 | appamadasutta-05 | — |  |
+| 6 | appamadasutta-06 | — | Bà-la-môn |
+| 7 | appamadasutta-07 | — | *samādhigāravatā* |
+| 8 | appamadasutta-08 | — |  |
+| 9 | appamadasutta-09 | — | *appamāda* giữ Pāli |
+| 10 | appamadavagga-01 | — | Dhammapada |
+| 11 | appamadavagga-02 | ✅ | Saṃyuttanikāya/Maggasaṃyutta → ṁ |
+| 12 | appamadovada | — |  |
+| 13 | appamanabha | ✅ | *kappas* → *kappa*; chư thiên Rūpaloka |
+| 14 | appamanasubha | ✅ | "(*kappas*)" → "*kappa*" |
+| 15 | appamattakavagga | — |  |
+| 16 | appamattasutta | — | nguồn EN có "</p>" thừa; VI bỏ đúng |
+| 17 | appameyyasutta | — | *appameyya* |
+| 18 | appamsupatisutta | ✅ | Appaṃ → Appaṁ (headword) |
+| 19 | appassutasutta-01 | — | địa ngục [purgatory] |
+| 20 | appassutasutta-02 | — |  |
+| 21 | appativanisutta | — |  |
+| 22 | appativedhasutta | — | Vacchagotta |
+| 23 | appatividitasutta | — | thiên nhân [Deva số ít] |
+| 24 | appiha | — | *Sāmaṇera*, *iddhi*, Mahā Thūpa |
+| 25 | aputtaka | ✅ | DÀI; Saṃyutta(nikāya) ×2 → ṁ; trưởng giả; địa ngục |
+
 ## Các batch đã review trước đó (tham chiếu)
 
 - Sonnet trial: s/savatthi, k/kosala, m/magadha, j/jetavana-01..03, v/veluvana-01..04

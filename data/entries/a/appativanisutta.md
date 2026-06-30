@@ -5,7 +5,7 @@ base_headword: "Appaṭivānisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appaṭivānisutta. By him who knows not birth and becoming, grasping, craving, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appaṭivānisutta. Đối với người chưa biết sinh và hữu, chấp thủ, ái, thọ, xúc, v.v., không được có sự thoái lui trong việc tìm cầu tri thức. SN.ii.132.
 
 ## Notes

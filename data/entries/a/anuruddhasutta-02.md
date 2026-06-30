@@ -5,7 +5,7 @@ base_headword: "Anuruddhasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anuruddhasutta 02. Records the incident of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasutta 02. Ghi lại sự việc Jālinī đến thăm Anuruddha Thera*,* và những nỗ lực không thành của nàng nhằm cám dỗ ngài bằng các lạc thú cõi trời. SN.i.200.
 
 ## Notes

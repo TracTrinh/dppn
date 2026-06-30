@@ -5,7 +5,7 @@ base_headword: "Anusayasutta"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -23,6 +23,6 @@ Anusayasutta 03. The five faculties (*indriyāni*), when cultivated, conduce to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusayasutta 03. Năm căn (*indriyāni*), khi được tu tập, đưa đến sự nhổ tận gốc các *anusayā*. SN.v.236.
 
 ## Notes

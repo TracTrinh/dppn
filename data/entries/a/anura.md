@@ -5,7 +5,7 @@ base_headword: "Anura"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anura. A general of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anura. Một tướng quân trong quân đội của vua Vaṅga, anh em họ bên mẹ của Sīhabāhu, cha của Vijaya. Khi Sīhabāhu rời hang sư tử cùng mẹ và em gái, họ gặp Anura, người đang cai trị vùng biên địa. Về sau Anura cưới mẹ của Sīhabāhu. Mv.vi.16-20; Mhv­ṭ.246.
 
 ## Notes

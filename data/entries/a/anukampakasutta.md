@@ -5,7 +5,7 @@ base_headword: "Anukampakasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anukampakasutta. The five ways in which a resident monk shows his sympathy for h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anukampakasutta. Năm cách một vị tỳ-kheo trú xứ biểu lộ lòng thương tưởng đối với các thí chủ tại gia của mình. AN.iii.263f.
 
 ## Notes

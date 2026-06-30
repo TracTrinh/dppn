@@ -5,7 +5,7 @@ base_headword: "Anopamā"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anopamā 01. Daughter of the Treasurer <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anopamā 01. Con gái của trưởng giả <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Majjha</span> ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāketa</span>. Nàng được gọi như vậy (“Vô Song”) vì sắc đẹp của mình. Khi nàng trưởng thành, đủ hạng người quyền quý tìm cách cầu hôn nàng bằng những tặng phẩm phong phú, nhưng nàng không muốn kết hôn. Nàng nghe Buddha thuyết pháp và, sau khi thiền quán về bài pháp ấy, chứng đắc Quả thứ ba của Đạo. Về sau nàng gia nhập Tăng đoàn, và vào ngày thứ bảy sau đó trở thành một *Arahant*. Thīg.vv.151-6; Thīg­a.138f.
 
 ## Notes

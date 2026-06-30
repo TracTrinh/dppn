@@ -5,7 +5,7 @@ base_headword: "Anusissa"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Anusissa 02. Probably the same as <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusissa 02. Có lẽ là cùng một người với Anusissa (1). Một ẩn sĩ và học trò của Bodhisatta Jotipāla, người ở phần sau của câu chuyện được đồng nhất với Sarabhaṅga, nhưng không có lời giải thích nào được đưa ra. Khi nhiều vị vua khác nhau, cùng với Sakka, đến thăm Sarabhaṅga để hỏi ngài về những điều nghi hoặc của họ, chính Anusissa, theo lời thỉnh cầu của các ẩn sĩ đồng tu, đã giới thiệu họ với Bodhisatta. Ở đây nữa, ông được đồng nhất với Ānanda. Ja.v.133-40; 151.
 
 ## Notes

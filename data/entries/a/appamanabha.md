@@ -5,7 +5,7 @@ base_headword: "Appamāṇābhā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Appamāṇābhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamāṇābhā. Một hạng chư thiên thuộc Rūpaloka, thuộc tầng của *jhāna* thứ hai (Abhs., p.21). Thọ mạng của họ là bốn *kappa* (Abhs., p.23; xem thêm Kv.207; Vibh­a.520). Chúng sinh được sinh ở đó là những người đã hấp thụ ý niệm về ánh sáng vô lượng (MN.iii.147), hoặc là những người có đức tin, giới hạnh, học vấn, sự rộng lượng và trí tuệ. MN.iii.102.
 
 ## Notes

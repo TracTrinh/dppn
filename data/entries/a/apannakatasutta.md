@@ -5,7 +5,7 @@ base_headword: "Apaṇṇakatāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apaṇṇakatāsutta. On the three qualities which make a monk proficient in fol
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaṇṇakatāsutta. Về ba phẩm chất khiến một vị tỳ-kheo thành thạo trong việc đi theo con đường chắc chắn (*apaṇṇakapaṭipadā*): hộ trì các căn, tiết độ trong ăn uống và tỉnh thức. AN.i.113f.
 
 ## Notes

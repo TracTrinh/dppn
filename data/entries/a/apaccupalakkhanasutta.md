@@ -5,7 +5,7 @@ base_headword: "Apaccupalakkhaṇāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apaccupalakkhaṇāsutta. Same as the above, only substituting “through not di
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaccupalakkhaṇāsutta. Giống như kinh trên, chỉ thay “do thiếu sự rõ ràng” bằng “do không phân biệt.” SN.iii.261.
 
 ## Notes

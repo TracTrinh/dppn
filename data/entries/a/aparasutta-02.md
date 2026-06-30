@@ -5,7 +5,7 @@ base_headword: "Apārasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apārasutta 02. The same as above, regarding the four bases of psychical power (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apārasutta 02. Giống như trên, liên quan đến bốn cơ sở của thần thông (*iddhipādā*). SN.v.254.
 
 ## Notes

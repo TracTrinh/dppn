@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "09"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Appamādasutta 09. The name given in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 09. Tên được đặt trong Suttasaṅgaha cho một bài *Sutta* trích từ Itivuttaka về giá trị của *appamāda*. Iti.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aputtaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -42,6 +42,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aputtaka. Một thị dân giàu có ở Sāvatthī, chết không để lại di chúc. Trong Saṁyuttanikāya (SN.i.89-91), chúng ta thấy Pasenadi, vua Kosala, đến thăm Đức Buddha vào giữa trưa và kể với Ngài rằng ông vừa hoàn tất việc cho chuyển tài sản của vị trưởng giả vào quốc khố, “tám triệu đồng vàng, chưa kể bạc.” Thế nhưng Aputtaka không ăn gì ngoài cháo cám chua còn lại từ ngày hôm trước và chỉ mặc áo bằng vải gai.
+
+Trong bài *Sutta* kế tiếp của cùng *Nikāya* ấy (SN.i.91-3), Đức Buddha được thuật lại là đã tiết lộ quá khứ của vị trưởng giả. Trong một đời trước, ông đã bố thí vật thực cho một Pacceka Buddha tên Tagarasikhī, nhưng sau đó ông hối tiếc và ước rằng mình đã đem thức ăn ấy cho nô lệ và người làm công.
+
+Cũng trong đời ấy, ông đã giết người con trai duy nhất của anh mình vì tài sản của người ấy.
+
+Do kết quả của việc bố thí, ông được sinh bảy lần trong các cõi *Deva* và bảy lần làm một người giàu có ở Sāvatthī. Sự hối tiếc của ông khiến ông có khuynh hướng tự khước từ việc hưởng thụ các dục lạc. Do đã giết cháu trai trong đời trước, đời này ông không có con và chết không để lại di chúc. Sau đời này, ông được sinh vào địa ngục Mahā Roruva.
+
+Mayhakajātaka (Ja.iii.299f.) chứa toàn bộ câu chuyện về quá khứ và hiện tại của vị trưởng giả, đưa ra nhiều chi tiết sinh động không thấy trong bản tường thuật của Saṁyutta, nhưng không nhắc đến bảy lần sinh ở thiên giới hay ở Sāvatthī. Truyện ấy nói thêm rằng người của nhà vua mất bảy ngày bảy đêm để chuyển kho báu. Ở đó Aputtaka được nhắc đến không phải là Aputtaka mà là Āgantuka (Người Lạ). Xem thêm Dhp­a.iv.76-80.
 
 ## Notes

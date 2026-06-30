@@ -5,7 +5,7 @@ base_headword: "Anupādāyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anupādāyasutta. The holy life is lived with final emancipation, free from gras
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupādāyasutta. Phạm hạnh được sống với mục tiêu là sự giải thoát cuối cùng, không còn chấp thủ. SN.v.29.
 
 ## Notes

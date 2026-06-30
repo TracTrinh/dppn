@@ -5,7 +5,7 @@ base_headword: "Anuvindakā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anuvindakā. Name of a people, mentioned with hosts of others, as seeking and fi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuvindakā. Tên của một tộc người, được nhắc đến cùng với nhiều nhóm khác như những người tìm và nhận được sự tiếp đãi trong nhà của Jatukaṇṇika, khi trong một đời trước, ông là một trưởng giả ở Haṁsavatī. Ap.ii.359.
 
 ## Notes

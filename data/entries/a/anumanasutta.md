@@ -5,7 +5,7 @@ base_headword: "Anumānasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -32,6 +32,8 @@ Anumānasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anumānasutta. Do Mahā Moggallāna thuyết tại Bhesakalāvana ở Suṁsumāragiri trong xứ Bhagga. Kinh này bàn về việc khuyên răn các vị tăng và về sự tự quán xét. Điều đáng chú ý là trong suốt bài kinh không có chỗ nào nhắc đến Đức Phật (MN.i.95-100).
+
+Buddhaghosa nói rằng bài kinh này được các *Porāṇā* biết đến với tên Bhikkhupātimokkha, và thêm rằng sự tự quán xét này nên diễn ra ba lần mỗi ngày (MN­a.i.294). Mô tả về vị tăng có tâm xấu được nêu trong *Sutta* này thường được trích dẫn (ví dụ, Vin-a.iii. 612).
 
 ## Notes

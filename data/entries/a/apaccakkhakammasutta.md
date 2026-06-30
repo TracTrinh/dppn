@@ -5,7 +5,7 @@ base_headword: "Apaccakkhakammasuttā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Apaccakkhakammasuttā. Five discourses in which the Buddha explains to <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaccakkhakammasuttā. Năm bài kinh trong đó Đức Phật giải thích cho Vacchagotta cách các quan điểm khác nhau sinh khởi do thiếu sự rõ ràng về các sự kiện liên quan đến thân, thọ, tưởng, hành và thức. SN.iii.262.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anupama 01. City where <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 01. Thành phố nơi Vessabhū Buddha sinh ra (Bv­a.205, 206). Tuy nhiên, Buddhavaṁsa (xxii.v.18) nêu tên thành phố là Anomā.
 
 ## Notes

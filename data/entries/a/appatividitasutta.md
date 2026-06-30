@@ -5,7 +5,7 @@ base_headword: "Appaṭividitāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appaṭividitāsutta. Spoken by a *Deva*; a Buddha has arisen, now is the time f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appaṭividitāsutta. Do một thiên nhân nói; một vị Buddha đã xuất hiện, nay là lúc để những người chưa nhận ra chân lý làm điều ấy. SN.i.4.
 
 ## Notes

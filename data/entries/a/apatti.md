@@ -5,7 +5,7 @@ base_headword: "Āpatti"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpatti. Một phần của Vinayapiṭaka, chương thứ tư của Parivāra. Vin.v.91ff.
 
 ## Notes

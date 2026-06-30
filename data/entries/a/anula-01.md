@@ -5,7 +5,7 @@ base_headword: "Anula"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anula 01. A Thera*,* incumbent of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anula 01. Một Trưởng lão, vị trụ trì *Mahā Vihāra* Koṭipabbata ở Ceylon. Rõ ràng vị ấy có thiên nhãn và, khi thấy Sumana, vợ của Lakuṇṭaka Atimbara, từng là một con heo, vị ấy bày tỏ sự kinh ngạc rằng những việc như vậy lại xảy ra. Bà nghe lời cảm thán của vị ấy, và sau khi biết từ vị ấy câu chuyện về đời sống quá khứ ấy, chính bà cũng đạt được năng lực thấy các đời sống quá khứ của mình. Dhp­a.iv.50-1.
 
 ## Notes

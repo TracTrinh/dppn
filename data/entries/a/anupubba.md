@@ -5,7 +5,7 @@ base_headword: "Anupubba"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anupubba. *Seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupubba. Một trưởng giả ở Sāvatthī. Ông được gọi như vậy vì chuyên làm một chuỗi thiện sự, mỗi việc có công đức lớn hơn việc trước, với mục đích giải thoát mình khỏi khổ đau. Cuối cùng ông gia nhập Tăng đoàn, nhưng vì thấy các điều luật quá nhiều và phiền phức, ông muốn trở lại đời sống cư sĩ. Các bạn đồng tu đưa ông đến gặp Đức Phật; ngài bảo ông chỉ giữ một điều luật: hộ trì tâm mình. Ông đồng ý và trở thành bậc Dự lưu. Dhp­a.i.297-300.
 
 ## Notes

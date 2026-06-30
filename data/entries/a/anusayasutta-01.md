@@ -5,7 +5,7 @@ base_headword: "Anusayasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anusayasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusayasutta 01. Được thuyết cho Rāhula để trả lời câu hỏi do ông nêu về cách các khuynh hướng tiềm ẩn (*anusayā*) có thể được đoạn trừ. SN.ii.252; xem Rāhulasutta (2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aparājita"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,8 @@ In the present age he was the banker <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparājita 04. Cháu trai của người vừa nói trên. Ông xin chú mình cho ông được góp phần trong việc xây Gandhakuṭi, nhưng bị từ chối. Vì vậy ông xây một chuồng voi bên cạnh nơi ấy.
+
+Trong thời đại hiện nay, ông là trưởng giả Meṇḍaka. Dhp­a.iv.203.
 
 ## Notes

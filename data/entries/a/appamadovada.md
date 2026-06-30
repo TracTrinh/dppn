@@ -5,7 +5,7 @@ base_headword: "Appamādovāda"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appamādovāda. The name given to the stanzas in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādovāda. Tên được đặt cho các kệ trong Dhammapada (Nos. 21-23) về sự không phóng dật. Ja.v.66.
 
 ## Notes

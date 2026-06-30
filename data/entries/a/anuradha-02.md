@@ -5,7 +5,7 @@ base_headword: "Anurādha"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anurādha 02. One of those that accompanied <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurādha 02. Một trong những người đi cùng Vijaya đến Ceylon. Về sau ông trở thành một trong các đại thần của Vijaya và thành lập Anurādhagāma. Mhv.vii.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anurādhagāma"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anurādhagāma. The name given to the settlement founded by the two <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurādhagāma. Tên được đặt cho khu định cư do hai Anurādha thành lập. Nó ở gần Kadambanadi (Mhv.ix.9; x.76). Kinh đô Anurādhapura về sau được thành lập gần nơi ấy.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anupamā"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anupamā 01. Daughter of the banker <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupamā 01. Con gái của trưởng giả Anupama (9), thuộc ngôi làng cùng tên. Bà dâng một bữa cơm sữa cho Anomadassī Buddha ngay trước khi Ngài Giác ngộ. Bv­a.142.
 
 ## Notes

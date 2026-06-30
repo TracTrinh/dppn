@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupama 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 04. Con trai của Siddhattha Buddha. Bv.xvii.15.
 
 ## Notes

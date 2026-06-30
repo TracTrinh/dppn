@@ -5,7 +5,7 @@ base_headword: "Anūpama Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -31,6 +31,8 @@ Thirty-seven *kappas* ago he had offered flowers to a <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anūpama Thera. Ngài thuộc một gia đình giàu có ở Kosala và có tên ấy (“Vô song”) vì vẻ đẹp của mình. Khi đến tuổi trưởng thành, được thúc đẩy bởi tác động của *upanissaya* (tiềm năng) (hoặc, nguyên nhân hữu hiệu), ngài xuất gia và sống trong rừng, thực hành tuệ quán. Trong một thời gian tâm ngài dao động, nhưng về sau ngài nỗ lực mạnh mẽ và trở thành một *Arahant* (Thag.vv.213-14).
+
+Ba mươi bảy *kappa* trước, ngài đã dâng hoa cho một Pacceka Buddha tên là Paduma (Thag­a.i.334-6). Rõ ràng ngài được đồng nhất với Aṅkolapupphiya Thera trong Apadāna i.287.
 
 ## Notes

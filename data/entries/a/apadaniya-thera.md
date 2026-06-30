@@ -5,7 +5,7 @@ base_headword: "Apadāniya Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Apadāniya Thera. An *Arahant*. Ninety-two *kappas* ago he had eulogized the lif
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apadāniya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài đã tán dương truyện đời (*apadānaṁ kittayissaṁ*) của Đức Phật. Ap.i.241.
 
 ## Notes

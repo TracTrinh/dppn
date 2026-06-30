@@ -5,7 +5,7 @@ base_headword: "Aparagoyāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -48,6 +48,14 @@ Some of the inhabitants came with <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparagoyāna. Một trong bốn đại châu mà trái đất được chia thành. Châu này nằm ở phía tây của Sineru và có phạm vi bảy nghìn *yojanas*. Nó được bao quanh bởi năm trăm hòn đảo (Snp-a.ii.443). Theo Aṅguttaranikāya (i.227; v.59), mỗi *cakkavāla* (hệ thế giới) có một Aparagoyāna. Châu này có loài người cư trú (Khp­a.123), nhưng họ không có nhà cửa và ngủ trên mặt đất (Thag­a.ii.187-8). Ở trung tâm châu có một cây Kadamba, thân cây có chu vi mười lăm *yojanas*, còn thân và cành của nó dài năm mươi *yojanas*.
+
+Cây này tồn tại suốt một *kappa* (Dhs­a.298; AN­a.i.264; Vm.206). Khi mặt trời mọc ở Jambudīpa, thì ở Aparagoyāna là canh giữa của đêm; hoàng hôn ở Aparagoyāna là nửa đêm ở Jambudīpa, và bình minh là buổi trưa ở Jambudīpa, hoàng hôn ở Pubbavideha và nửa đêm ở Uttarakuru (DN­a.iii.868). Một vị vua Cakkavatti trước hết chinh phục Pubbavideha ở phía đông và Jambudīpa ở phía nam, rồi lên đường để chiếm Aparagoyāna ở phía tây và Uttarakuru ở phía bắc (Mbv.73-4; Bv­a.113). Vì vậy vua Mandhātā, sau khi chinh phục Jambudīpa, tiếp tục đi cùng đoàn tùy tùng đến Aparagoyāna và chinh phục châu ấy ngay lập tức (Divy.215).
+
+Puṇṇaka, trong cuộc chơi với Dhanañjaya, đã đặt cược một viên ngọc; bằng cách nhìn vào viên ngọc ấy, có thể thấy châu Aparagoyāna. Ja.vi.278; cũng như vậy trong chuỗi ngọc được nhắc đến trong *Hārapradāna Jātaka*. (Mvu.ii.68).
+
+Trong bối cảnh này tên được nêu là Goyāniya. Cũng như vậy trong *Mahā Vastu*: Aparagodānika, Aparagodāniya (ii.159, 378, v.v.). Trong *Dulva*, châu này được gọi là Aparagaudani (Rockhill, 84).
+
+Một số cư dân đã cùng Mandhātā từ Aparagoyāna đến Jambudīpa và định cư ở đó. Xứ sở mà họ lập thuộc địa được gọi là Aparanta. DN­a.ii.482; MN­a.i.484.
 
 ## Notes

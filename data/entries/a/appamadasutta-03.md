@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamādasutta 03. Diligence is the harbinger of the arising of the Ariyan Eight
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 03. Sự không phóng dật là điềm báo trước cho sự sinh khởi của Bát Thánh đạo. SN.v.30, 32.
 
 ## Notes

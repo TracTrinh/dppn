@@ -5,7 +5,7 @@ base_headword: "Antāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antāsutta. The four separate divisions: *Sakkāya*, its arising, ceasing, and t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antāsutta. Bốn phần riêng biệt: *Sakkāya*, sự sinh khởi của nó, sự đoạn diệt của nó, và con đường đưa đến đó. SN.iii.157-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āpā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,8 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpā. Một hạng thiên chúng có mặt khi Mahā Samayasutta được thuyết giảng (DN.ii.259).
+
+Buddhaghosa (DN­a.ii.689) nói rằng họ được sinh làm chư thiên vì đã tu tập *āpokasiṇa* trong các đời trước.
 
 ## Notes

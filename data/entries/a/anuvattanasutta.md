@@ -5,7 +5,7 @@ base_headword: "Anuvattanāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anuvattanāsutta. Like a <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuvattanāsutta. Như người con trai trưởng của một Cakkavatti, nhờ năm phẩm chất, cai quản vương quốc giống như cha mình, Sāriputta cũng vậy, cai quản Vương quốc của Chính pháp do Buddha thiết lập. AN.iii.148-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "09"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupama 09. A banker, father of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 09. Một trưởng giả, cha của Anupamā (1). Bv­a.122.
 
 ## Notes

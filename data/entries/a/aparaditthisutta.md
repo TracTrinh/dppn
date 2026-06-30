@@ -5,7 +5,7 @@ base_headword: "Aparādiṭṭhisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,8 @@ The *Brahma* was at first agitated by their presence, but later he was delighted
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparādiṭṭhisutta. Một vị Phạm thiên nọ nghĩ rằng không sa-môn hay Bà-la-môn nào có thể đến thế giới của mình. Để bác bỏ quan điểm ấy, Đức Phật đến đó và ngồi trên không trung phía trên vị Phạm thiên, với lửa tỏa ra từ thân Ngài. Theo sau Đức Phật là Moggallāna, Mahā Kassapa, Mahā Kappina và Anuruddha.
+
+Ban đầu vị Phạm thiên bị khuấy động bởi sự hiện diện của các vị ấy, nhưng về sau ông hoan hỷ khi được Moggallāna cho biết, sau khi một vị Phạm thiên hầu cận hỏi, rằng còn có nhiều đệ tử khác của Đức Phật có thể làm như ngài và các vị kia đã làm, và rằng họ là những bậc thánh thiện. SN.i.144-6. Xem thêm Bakabrahmasutta.
 
 ## Notes

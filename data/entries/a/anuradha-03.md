@@ -5,7 +5,7 @@ base_headword: "Anurādha"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anurādha 03. A Sākiya prince, brother of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurādha 03. Một vương tử Sākiya, anh em của Bhaddakaccānā; ông bác của Paṇḍukābhaya. Ông lập một khu định cư tại Anurādhagāma và xây một hồ chứa nước, ở phía nam hồ ấy ông dựng một ngôi nhà cho mình. Về sau ông trao nơi này lại cho Paṇḍukābhaya. Mhv.vii.43-4.
 
 ## Notes

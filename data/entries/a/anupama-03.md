@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anupama 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 03. Con trai của Phussa Buddha (Bv­a.193, 194). Buddhavaṁsa (xix.16) nêu tên ông là Ānanda.
 
 ## Notes

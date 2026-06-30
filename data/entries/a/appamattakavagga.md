@@ -5,7 +5,7 @@ base_headword: "Appamattakavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamattakavagga. The nineteenth chapter of the *Ekanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamattakavagga. Chương thứ mười chín của *Ekanipāta* thuộc Aṅguttaranikāya. Trong thế giới tâm linh, theo phép loại suy với tự nhiên, chỉ có một số ít được chọn ra từ rất nhiều người sẽ bị mất đi. AN.i.35-8.
 
 ## Notes

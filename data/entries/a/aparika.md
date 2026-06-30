@@ -5,7 +5,7 @@ base_headword: "Aparika"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,6 @@ Aparika. Another name for Apadika. A river. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparika. Một tên khác của Apadika. Một con sông. Vasabha Thera*,* trong một đời trước là *jaṭila* Nārada, đã dựng trên bờ sông ấy một *cetiya* để tưởng niệm Đức Phật. Thag­a.i.258; Ap.ii.437. Trong Apadāna, Vasabha Thera được nhắc đến là Pulinathūpiyatthera, và sông Apadika là Amarika (var. Aparika Ap.ii.p.437).
 
 ## Notes

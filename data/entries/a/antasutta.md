@@ -5,7 +5,7 @@ base_headword: "Antasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antasutta. The Buddha teaches the end, as well as the way thereto. See also <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antasutta. Buddha dạy về sự kết thúc, cũng như con đường đưa đến đó. Xem thêm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Antāsutta</span>. (SN.iv.373).
 
 ## Notes

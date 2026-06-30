@@ -5,7 +5,7 @@ base_headword: "Aparantā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Aparantā. Mentioned in a list of tribes. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparantā. Được nhắc đến trong một danh sách các bộ tộc. Ap.ii.359.
 
 ## Notes

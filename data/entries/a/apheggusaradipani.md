@@ -5,7 +5,7 @@ base_headword: "Apheggusāradīpanī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Apheggusāradīpanī. A book composed at Haṁsavatī, probably by <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apheggusāradīpanī. Một tác phẩm được soạn tại Haṁsavatī, có lẽ bởi Mahā Suvaṇṇadīpa, thầy của Hoàng hậu Sīvalī. Trong Catalogue bản thảo của Nevill ở British Museum, tác phẩm này được mô tả là một *anuṭīkā* bàn về nội dung trong Abhidhammatthavibhāvanī. Bode, 36, n.2.
 
 ## Notes

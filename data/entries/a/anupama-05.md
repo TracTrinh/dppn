@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anupama 05. City where, in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 05. Thành phố nơi, tại Anomārāma, Atthadassī Buddha qua đời. Bv­a.181.
 
 ## Notes

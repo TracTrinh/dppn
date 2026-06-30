@@ -5,7 +5,7 @@ base_headword: "Āpattisutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpattisutta 02. Bàn về bốn loại sợ hãi do các vi phạm gây ra, liên quan đến việc hoặc bị bắt quả tang và bị phạt, hoặc phải thú nhận tội lỗi và nhận hình phạt. AN.ii.240-3.
 
 ## Notes

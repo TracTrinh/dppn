@@ -5,7 +5,7 @@ base_headword: "Anulā"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anulā 06. One of the chief women-supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulā 06. Một trong những nữ thí chủ chính của Maṅgala Buddha (Bv.iv.25).
 
 ## Notes

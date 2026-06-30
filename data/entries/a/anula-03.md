@@ -5,7 +5,7 @@ base_headword: "Anulā"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -33,6 +33,8 @@ In the end she was killed by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulā 03. Vợ của Coranāga và là hoàng hậu Ceylon trong bốn tháng (vào CE 12-16). Bà là một phụ nữ dâm đãng và đã giết chồng để có thể cưới Tissa, con trai của Mahā Cūḷa. Chẳng bao lâu bà chán ông ta và đầu độc ông ta. Rồi, lần lượt, bà lấy làm chồng Siva, một lính canh cung điện; Vaṭuka, một thợ mộc Tamil; Tissa, một người gánh củi; Damiḷa Niliya, một tế sư cung điện - tất cả những người này bà đều loại bỏ bằng thuốc độc. Người cuối cùng bị bà giết vì bà muốn sống buông thả với ba mươi hai lính canh cung điện.
+
+Cuối cùng bà bị Kuṭakaṇṇatissa giết (Mhv.xxxiv.16-34; Dpv.xix.50ff).
 
 ## Notes

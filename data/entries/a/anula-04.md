@@ -5,7 +5,7 @@ base_headword: "Anulā"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anulā 04. The chief woman-disciple of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulā 04. Nữ đệ tử hàng đầu của Kassapa Buddha. Bv.xxv.40; Ja.i.43.
 
 ## Notes

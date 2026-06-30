@@ -5,7 +5,7 @@ base_headword: "Anusāsikā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anusāsikā. The name of the greedy bird in the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anusāsikā. Tên của con chim tham lam trong Anusāsikajātaka. Ja.i.429.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Appassutasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Appassutasutta 01. A woman who has small knowledge is born in purgatory. SN.iv.2
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appassutasutta 01. Một phụ nữ có ít tri thức được sinh vào địa ngục. SN.iv.242.
 
 ## Notes

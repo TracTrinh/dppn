@@ -5,7 +5,7 @@ base_headword: "Anupama"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupama 06. A Brahmin village in the time of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupama 06. Một làng Bà-la-môn vào thời Anomadassī Buddha. Bv­a.142.
 
 ## Notes

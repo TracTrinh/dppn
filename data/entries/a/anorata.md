@@ -5,7 +5,7 @@ base_headword: "Anorata"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anorata. The name by which <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anorata. Tên gọi mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anuruddha</span> (Anawrata), vua của Burma (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ramañña</span>), thường được biết đến. Ông là một nhà cải cách tôn giáo và được một tu sĩ Talaing, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Arahanta</span>, giúp đỡ trong công việc ấy. Bode, pp. 1113.
 
 ## Notes

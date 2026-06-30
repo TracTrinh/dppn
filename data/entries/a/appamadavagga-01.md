@@ -5,7 +5,7 @@ base_headword: "Appamādavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appamādavagga 01. The second chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādavagga 01. Chương thứ hai của Dhammapada.
 
 ## Notes

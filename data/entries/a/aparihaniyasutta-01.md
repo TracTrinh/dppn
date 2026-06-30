@@ -5,7 +5,7 @@ base_headword: "Aparihāniyasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Aparihāniyasutta 01. On the six things that lead away from ruin. AN.iii.310; cf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparihāniyasutta 01. Về sáu điều dẫn ra khỏi sự suy vong. AN.iii.310; cf. AN.iii.329-30.
 
 ## Notes

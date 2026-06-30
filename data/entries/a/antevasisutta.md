@@ -5,7 +5,7 @@ base_headword: "Antevāsīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antevāsīsutta. A monk dwells at ease without a pupil or a teacher, the pupil o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antevāsīsutta. Một vị tăng sống an ổn không có học trò hay thầy; học trò hay người cùng trú (*antevāsī*) là tên gọi dành cho các trạng thái tâm xấu ác và bất thiện sinh khởi nơi vị ấy và tồn tại nơi vị ấy qua các giác quan. Những trạng thái như vậy cũng được gọi là “thầy” (*ācariya*) vì chúng vây hãm và chế ngự vị ấy. SN.iv.136-8.
 
 ## Notes

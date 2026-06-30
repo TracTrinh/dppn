@@ -5,7 +5,7 @@ base_headword: "Anuruddhasutta"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anuruddhasutta 04. Two *Suttas* on how <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddhasutta 04. Hai *Suttas* về việc Sāriputta khuyên Anuruddha từ bỏ sự khoe khoang về các chứng đắc của mình và tập trung vào *amatadhātu*, và về việc Anuruddha làm theo lời khuyên ấy rồi trở thành một *Arahant*. AN.i.281-3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anubuddhasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anubuddhasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anubuddhasutta. Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhaṇḍagāma</span>, về tầm quan trọng của sự hiểu biết. AN.ii.1f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Apacara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -54,6 +54,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apacara *v.l.* Upacara. Một vị vua của kappa đầu tiên. Ông là con trai của Cara và trị vì ở Sotthivatīnagara trong xứ Cetiya. Ông là một trong các tổ tiên của dòng Sākiyan. Ông thuộc dòng dõi Mahā Sammata và có bốn năng lực *iddhi*: đi trên không, được bốn chư thiên hộ vệ, tỏa hương chiên đàn từ thân và hương hoa sen từ miệng.
+
+Khi còn là vương tử, ông đã hứa sẽ bổ nhiệm người bạn đồng học Kosakalamba, em của vị tư tế hoàng gia Kapila, làm tư tế gia tộc khi ông lên làm vua. Nhưng khi Apacara lên ngôi, Kapila giành được chức ấy cho con trai mình và trở thành một ẩn sĩ. Khi nhà vua nhận ra điều đã xảy ra, ông đề nghị dùng một lời nói dối để lấy lại chức ấy cho Kosakalamba. Người này phản đối, vì từ trước đến bấy giờ lời nói dối chưa từng được biết đến trong thế gian; nhưng nhà vua vẫn khăng khăng giữ ý muốn của mình, bất chấp cả lời cảnh cáo của Kapila, và bảy lần liên tiếp thốt ra lời nói dối rằng chức tư tế theo quyền trưởng thượng thuộc về Kosakamba chứ không phải con trai của Kapila. Ngay lời nói dối đầu tiên, ông mất các năng lực *iddhi* và rơi xuống đất; với mỗi lời nói dối tiếp theo, ông lại lún sâu hơn vào lòng đất cho đến khi những ngọn lửa của Avīci bắt lấy ông. Ông là người nói dối đầu tiên của thế gian.
+
+Ông có năm người con trai, họ tìm sự che chở của Kapila và rời thành, lập ra năm thành phố, được gọi là Hatthipura, Assapura, Sīhapura, Uttarapañcāla và Daddarapura, do những dấu hiệu nào đó liên quan đến họ (chi tiết xem dưới các tên ấy).
+
+Theo Chú giải Suttanipāta (ii.352), Makhādeva là con trai của ông. Nhà vua là một đời trước của Devadatta. Câu chuyện được kể trong Cetiyajātaka (Ja.iii.454-61; xem thêm Mhv.ii.2.; DN­a.i.258f.; Dpv.iii.5). Upavara và Uparuvara. Milinda (p.202) gọi ông là Suraparicara.
 
 ## Notes

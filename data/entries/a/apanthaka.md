@@ -5,7 +5,7 @@ base_headword: "Apanthaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Apanthaka. Given as a personal name in a passage where it is stated that names a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apanthaka. Được nêu như một tên người trong một đoạn nói rằng tên gọi chỉ là các danh xưng, chúng không biểu thị điều gì. Vì thế “*Panthakas*” (những người dẫn đường) cũng lạc đường, và “*Apanthakas*” cũng vậy. Ja.i.403.
 
 ## Notes

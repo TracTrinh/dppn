@@ -5,7 +5,7 @@ base_headword: "Anussatisutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anussatisutta 01. The six topics of recollectedness AN.iii.284. In the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anussatisutta 01. Sáu đề mục niệm tưởng AN.iii.284. Trong Visuddhimagga (p. 226), kinh này được gọi là Gedhasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anugāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Anugāra. An eminent wandering ascetic. He is mentioned as living in the *Paribb
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anugāra. Một du sĩ khổ hạnh lỗi lạc. Ông được nhắc đến là sống trong *Paribbājakārāma* tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moranivāpa</span> trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Veḷuvana</span> gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Rājagaha</span>. Có lẽ ông là một trong nhóm người đang ở cùng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sakuludāyi</span> khi Buddha đến thăm vị này. MN.ii.1.
 
 ## Notes

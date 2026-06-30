@@ -5,7 +5,7 @@ base_headword: "Appaṭivedhāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appaṭivedhāsutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appaṭivedhāsutta. Được thuyết cho Vacchagotta. Nhiều quan điểm khác nhau phát sinh trong thế gian do thiếu nhận thức về bản chất của thân, v.v. SN.iii.261.
 
 ## Notes

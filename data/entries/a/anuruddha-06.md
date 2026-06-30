@@ -5,7 +5,7 @@ base_headword: "Anuruddha"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -27,6 +27,6 @@ Anuruddha 06. Author of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha 06. Tác giả của Abhidhammatthasaṅgaha, Paramatthavinicchaya, Nāmarūpapariccheda và, có lẽ, của *Anuruddhaśataka* (Gv.61, 67; SdS. 64; Sās.69). Ông là vị trụ trì Mūlasoma *Vihāra* và có lẽ sống vào thế kỷ thứ mười một hoặc mười hai. Chi tiết xem PLC., *s.v.*
 
 ## Notes

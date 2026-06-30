@@ -5,7 +5,7 @@ base_headword: "Antavāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Antavāsutta. The origin of the view that the world is limited. SN.iii.214.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Antavāsutta. Nguồn gốc của quan điểm cho rằng thế giới là hữu hạn. SN.iii.214.
 
 ## Notes

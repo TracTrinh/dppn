@@ -5,7 +5,7 @@ base_headword: "Anurārāma"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -34,6 +34,10 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anurārāma. Một tu viện ở phía bắc Mahā Gāma tại Nam Ceylon, do vua Vasabha xây dựng; ông cũng ban cho tu viện một nghìn *karīsa* đất ở làng Heḷigāma (Mhv.xxxv.83; Mhv­ṭ.652).
+
+Vào thời Vohāratissa, Thera Mahā Tissa sống ở đó (Mhv.xxxvi.30). Vua Vasabha cũng xây một giảng đường *uposatha* cho *vihāra* này (Mhv.xxxvi.37).
+
+Xem thêm Mahā Devarattakurava.
 
 ## Notes

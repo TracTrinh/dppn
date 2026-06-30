@@ -5,7 +5,7 @@ base_headword: "Apaṇṇakavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Apaṇṇakavagga 02. The first section of the *Ekanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaṇṇakavagga 02. Phần đầu của *Ekanipāta* thuộc Jātaka Commentary Ja.i.95-142.
 
 ## Notes

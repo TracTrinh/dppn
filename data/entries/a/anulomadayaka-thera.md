@@ -5,7 +5,7 @@ base_headword: "Anulomadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -28,6 +28,6 @@ Anulomadāyaka Thera. An *Arahant*. He built a railing round <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anulomadāyaka Thera. Một *Arahant*. Vị ấy xây một lan can quanh cây bodhi của Anomadassī, và Đức Phật bày tỏ sự hoan hỷ với việc ấy. Do đó, trong một đời sau vị ấy trở thành một vị vua tên Sabbagghana (*v.l.* Sabbaghana) (Ap.i.173). Rõ ràng vị ấy được đồng nhất với Mettaji Thera. Thag­a.i.194.
 
 ## Notes

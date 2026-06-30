@@ -5,7 +5,7 @@ base_headword: "Anuttariyavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anuttariyavagga. The third chapter of the *Chakkanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuttariyavagga. Chương thứ ba của *Chakkanipāta* thuộc Aṅguttaranikāya. AN.iii.309-29.
 
 ## Notes

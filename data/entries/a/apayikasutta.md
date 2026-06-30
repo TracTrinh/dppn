@@ -5,7 +5,7 @@ base_headword: "Āpāyikasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpāyikasutta. Về ba hạng người bị định đọa vào địa ngục (AN.i.265).
 
 ## Notes

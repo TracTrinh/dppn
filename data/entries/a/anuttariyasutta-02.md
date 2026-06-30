@@ -5,7 +5,7 @@ base_headword: "Anuttāriyasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anuttāriyasutta 02. A detailed explanation of the above. AN.iii.325f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuttāriyasutta 02. Một giải thích chi tiết về phần trên. AN.iii.325f.
 
 ## Notes

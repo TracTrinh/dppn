@@ -5,7 +5,7 @@ base_headword: "Appamādasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Appamādasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamādasutta 01. Được thuyết cho Pasenadi. Sự không phóng dật là phẩm chất duy nhất đem lại và giữ gìn an lạc cả trong đời này lẫn đời sau; cũng như bàn chân voi là lớn nhất trong mọi bàn chân, sự không phóng dật là phẩm chất tối thắng. SN.i.86, 87.
 
 ## Notes

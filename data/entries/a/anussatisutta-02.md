@@ -5,7 +5,7 @@ base_headword: "Anussatisutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anussatisutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anussatisutta 02. Anussatisutta – Một giải thích chi tiết về phần trên. AN.iii.312ff.
 
 ## Notes

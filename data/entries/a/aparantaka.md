@@ -5,7 +5,7 @@ base_headword: "Aparantaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,14 @@ It is said that when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparantaka (Aparanta). Một trong những xứ sở mà Asoka phái các nhà truyền giáo đến sau Đại Kết Tập lần thứ ba. Vị trưởng đoàn truyền giáo là Yonaka Dhammarakkhita (Mhv.xii.5; Dpv.viii.7). Ngài thuyết cho dân chúng Aggikkhandhopamāsutta và 37,000 người tiếp nhận đức tin mới, một nghìn nam giới và thậm chí nhiều phụ nữ hơn gia nhập Tăng đoàn (Mhv.xii.34-6; Vin-a.i.67).
+
+Xứ này bao gồm lãnh thổ của Bắc Gujarat, Kāthiāwar, Kachch và Sindh. Fleet JRAS. 1910, p.427; Bhaṇḍarkar trong tác phẩm Early History of Dekkan đặt nó ở Bắc Konkan (p.23); xem thêm Burgess: *Arch. Reports* ii.131.
+
+Theo Xuanzang, xứ này dường như bao gồm Sindh, Tây Rājaputāna, Cutch, Gujarat và một phần bờ biển liền kề ở hạ lưu sông Narmadā. Cunningham *Ancient Geography of India*, notes, p.690; và Dhamma: Early G*eography* 56ff.
+
+Có lẽ Phật giáo đã được biết đến ở Aparanta trong chính thời Đức Phật. Dutt: *Early Hist. of Bsm.* p.190; Divy., pp.45ff; nhưng đoạn tham chiếu là đến Sunāparanta.
+
+Người ta nói rằng khi Mandhātā đưa cả bốn châu vào dưới quyền cai trị của mình, người từ ba châu kia đã đến Jambudīpa và sống ở đó. Khi nhà vua qua đời, họ thấy mình không thể trở về, và cầu xin vị đại thần của ông cho phép họ lập các khu định cư ngay tại Jambudīpa. Ông đồng ý, và khu định cư của những người đến từ Aparagoyāna vì lý do đó được gọi là Aparanta (DN­a.ii.482; MN­a.i.184) (Aparantaka).
 
 ## Notes

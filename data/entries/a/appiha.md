@@ -5,7 +5,7 @@ base_headword: "Appihā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Appihā *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appihā, dị bản là Ambasuppiya. Một *Sāmaṇera* sống trong Suvaṇṇakuṭi ở Dakkhiṇagirivihāra. Vào ngày sau lễ xuất gia của vị ấy, mẹ vị ấy đã chuẩn bị chỗ ngồi và vật thực cúng dường cho tám vị tỳ-kheo, và nhờ năng lực *iddhi*, những thứ ấy được làm cho đủ dùng cho 68,000 vị tỳ-kheo. Câu chuyện được kể nhằm cho thấy năng lực của *iddhi* liên quan đến các nghi lễ Mahā Thūpa. (Mhv­ṭ.552)
 
 ## Notes

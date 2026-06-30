@@ -5,7 +5,7 @@ base_headword: "Āpattisutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āpattisutta 01. Ānanda báo cho Đức Phật tại Ghositārāma ở Kosambī rằng những nỗ lực của Bāhiya nhằm gây chia rẽ trong Tăng đoàn chưa bị dập tắt vì Anuruddha, là đồng sự của Bāhiya, không muốn can thiệp. Đức Phật nói với ngài rằng họ không nên trông cậy vào Anuruddha để can thiệp vào các tranh chấp, vì về tính khí ngài không thích hợp với hành động như vậy. Rồi Ngài tiếp tục thuyết cho Ānanda về bốn lý do có thể khiến một vị tỳ-kheo muốn tạo ra sự chia rẽ (AN.ii.239f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Apalāladamana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Apalāladamana. The Taming of Apalāla. See Apa<span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apalāladamana. Sự điều phục Apalāla. Xem Apalāla.
 
 ## Notes

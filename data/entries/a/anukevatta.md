@@ -5,7 +5,7 @@ base_headword: "Anukevaṭṭa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Anukevaṭṭa. A Brahmin, clever in stratagem. He was used by <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anukevaṭṭa. Một Bà-la-môn, khéo mưu lược. Ông được Mahosadha dùng để đánh bại Cūḷanī Brahmadatta khi vị sau bao vây Videha. Anukevaṭṭa giả vờ là kẻ phản bội chính dân mình, và sau khi chiếm được lòng tin của Brahmadatta, đã thuyết phục ông dỡ vòng vây và quay về. Ja.vi.406-9.
 
 ## Notes

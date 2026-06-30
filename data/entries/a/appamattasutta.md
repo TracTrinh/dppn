@@ -5,7 +5,7 @@ base_headword: "Appamattasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Appamattasutta. Also called <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Appamattasutta. Cũng được gọi là Asamattasutta. Sự thân cận với bậc xứng đáng, lắng nghe Pháp, suy xét có hệ thống và sống theo các giới điều của Pháp - những điều này, nếu được tu tập, sẽ đưa đến tuệ giác vô lượng (SN.v.412). Bài *Sutta* này có lẽ nên được gọi là Appamatta; văn bản ghi cả hai tên.
 
 ## Notes

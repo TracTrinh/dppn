@@ -5,7 +5,7 @@ base_headword: "Aparājita"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aparājita 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aparājita 02. Một vị Cakkavatti sống cách đây bảy *kappa*, là một đời trước của Avyādhika Thera. Ap.i.215.
 
 ## Notes

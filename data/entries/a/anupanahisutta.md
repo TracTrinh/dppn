@@ -5,7 +5,7 @@ base_headword: "Anupanāhīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anupanāhīsutta. The woman who is not wrathful will be born in a happy conditio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anupanāhīsutta. Người phụ nữ không nóng giận sẽ được sinh vào cảnh giới an vui. SN.iv.244.
 
 ## Notes

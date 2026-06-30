@@ -5,7 +5,7 @@ base_headword: "Apaṇṇakavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Apaṇṇakavagga 01. The eighth chapter of the *Catukkanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Apaṇṇakavagga 01. Chương thứ tám của *Catukkanipāta* thuộc Aṅguttaranikāya. Chương này gồm mười *Suttas* về nhiều chủ đề khác nhau, trong đó có một trích đoạn từ Mahā Parinibbānasutta và một *Sutta* nêu các lý do vì sao phụ nữ bị loại khỏi các hội chúng công cộng và các công việc hệ trọng. AN.ii.76-53.
 
 ## Notes
