@@ -5,7 +5,7 @@ base_headword: "Aññaṇāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aññaṇāsutta. Five of the same name recording conversations with the *Paribb
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aññaṇāsutta. Năm bài cùng tên ghi lại các cuộc đàm thoại với Paribbājaka <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vacchagotta</span> về kết quả của vô minh. SN.iii.257-9.
 
 ## Notes

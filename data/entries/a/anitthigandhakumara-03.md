@@ -5,7 +5,7 @@ base_headword: "Anitthigandhakumāra"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -31,6 +31,8 @@ The story in which this account is given is called <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anitthigandhakumāra 03. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anitthigandha</span> khác, ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>. Chàng từ chối kết hôn trừ khi tìm được một người phụ nữ có nhan sắc sánh ngang với bức tượng chàng đã tạo ra. Sứ giả được phái đi và tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāgala</span>, họ tìm được một cô gái mười sáu tuổi đáp ứng đủ những tiêu chuẩn mong muốn. Cuộc hôn nhân được sắp xếp, nhưng cô gái vốn rất mong manh, đã qua đời trên đường đến nhà chú rể. Khi nghe tin cô mất, chàng vô cùng đau khổ và chìm vào tuyệt vọng. Đức Phật, thấy được căn cơ của chàng, đã đến thăm nhà chàng và thuyết pháp. Cuối thời pháp thoại, chàng chứng đắc quả Dự lưu.
+
+Câu chuyện kể về điều này được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Anitthigandhakumāravatthu</span>. Dhp­a.iii.281-4. So sánh với câu chuyện <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kusajātaka</span> (Ja 531).
 
 ## Notes

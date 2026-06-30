@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 01. Birth-city of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 01*. Thành phố nơi sinh của Vessabhū (xem Anopama).
 
 ## Notes

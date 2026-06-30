@@ -5,7 +5,7 @@ base_headword: "Annasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -23,6 +23,6 @@ Annasutta 01. All creatures desire food, so food should be given in charity (SN 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Annasutta 01. Tất cả chúng sinh đều muốn có thực phẩm, vì vậy cần bố thí thực phẩm (SN 1.32).
 
 ## Notes

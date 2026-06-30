@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 04. An ascetic of great power, who lived in the time of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 04*. Một vị tu sĩ khổ hạnh có thần lực lớn, sống vào thời Đức Phật Piyadassī. Vị ấy đã dâng một chuỗi ngọc lên Đức Phật và cúng dường Ngài một bữa ăn trái cây. Trong thời đại hiện nay, vị ấy trở thành Trưởng lão Hemaka. Ap.ii.351-4.
 
 ## Notes

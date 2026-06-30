@@ -5,7 +5,7 @@ base_headword: "Aññatarabhikkhusutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññatarabhikkhusutta. Two of this name containing questions on the holy life a
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatarabhikkhusutta*. Hai kinh có cùng tên này chứa các câu hỏi về đời sống phạm hạnh và sự đoạn trừ các *āsavā* (lậu hoặc). SN.v.7-8.
 
 ## Notes

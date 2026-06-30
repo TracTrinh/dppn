@@ -5,7 +5,7 @@ base_headword: "Aṅguttaraṭṭhakathā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṅguttaraṭṭhakathā. Quoted in the exegesis to the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅguttaraṭṭhakathā. Được trích dẫn trong phần chú giải Bổn sinh (Jātaka). Ja.i.131.
 
 ## Notes

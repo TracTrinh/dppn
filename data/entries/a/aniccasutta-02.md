@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aniccasutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 02. Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, để trả lời câu hỏi của một vị tỳ-kheo. SN.iii.21.
 
 ## Notes

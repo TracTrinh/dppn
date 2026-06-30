@@ -5,7 +5,7 @@ base_headword: "Aññatitthiyasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññatitthiyasutta 01. The answers that should be given to followers of other f
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatitthiyasutta 01*. Những câu trả lời cần được đưa ra cho những người theo các giáo phái khác nếu họ hỏi về tham dục, sân hận và si mê. AN.i.199-201.
 
 ## Notes

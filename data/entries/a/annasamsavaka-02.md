@@ -5,7 +5,7 @@ base_headword: "Annasaṁsāvaka"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Annasaṁsāvaka 02. A second Thera of the same name whose story is identical wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Annasaṁsāvaka 02. Một vị Trưởng lão thứ hai cùng tên mà câu chuyện giống hệt như trên và rất có thể là cùng một người. Ap.i.261.
 
 ## Notes

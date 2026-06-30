@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccasutta 07. The same. Personal senses, past, present and future, are imperma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 07. Tương tự. Các căn của bản thân, trong quá khứ, hiện tại và tương lai, đều vô thường. SN.iv.3-4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Annasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -23,6 +23,6 @@ Annasutta 02. AN.i.86f.; but see GS.ii.96. n.1.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Annasutta 02. AN.i.86f.; xem thêm GS.ii.96. n.1.
 
 ## Notes

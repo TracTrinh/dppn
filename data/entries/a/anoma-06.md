@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 06. A township in the time of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 06*. Một thị trấn vào thời Đức Phật Sumana; là nơi cư ngụ của Anupamā, người đã cúng dường Đức Phật một bữa cháo sữa. Bv­a.125.
 
 ## Notes

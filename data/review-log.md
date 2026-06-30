@@ -832,6 +832,335 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 19 | a/andha | ✅ | "see also" → "xem thêm" |
 | 20 | a/andhabharigamakutakasutta | — |  |
 
+## Batch: a/ (Ānanda 13 → Ānandasutta 03) — 12 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 12 entry kế tiếp theo thứ tự tên file sau ananda-12. Danh sách còn lại (229 → 217) ở
+  `review-pending.md`. Dùng host Read cho mọi thân file (bash mount truncate/corrupt).
+- Kết quả: 12/12 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. Citation chính xác
+  (kể cả dạng soft-hyphen Dhp­a/SN­a/Thag­a), Pāli giữ nguyên, khớp glossary (năm uẩn, Paribbājaka,
+  thiên thần [Deva số ít], Tỳ-kheo-ni, *samāpatti*, *nirodha*, *Parinibbāna*).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | ananda-13 | — |  |
+| 2 | ananda-14 | — |  |
+| 3 | ananda-15 | — |  |
+| 4 | ananda-16 | — | nguồn EN có thẻ `</p>` thừa; VI bỏ đúng |
+| 5 | anandabhaddekarattasutta | — | citation "MN.iii.18991" khớp y nguồn |
+| 6 | anandabodhi | — | đoạn dài về cây bodhi; cubit, *samāpatti* đầy đủ |
+| 7 | anandakumara | — |  |
+| 8 | anandamanava | — | Dhp­a soft-hyphen giữ nguyên |
+| 9 | anandasutta | — |  |
+| 10 | anandasutta-01 | — |  |
+| 11 | anandasutta-02 | — | Deva số ít → thiên thần (khớp glossary) |
+| 12 | anandasutta-03 | — | năm uẩn, *nirodha* |
+
+## Batch: a/ (Ānandasutta 04 → Ananusociyajātaka) — 30 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file sau anandasutta-03. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. Citation chính xác
+  (soft-hyphen Thag­a/MN­a/SN­a giữ nguyên), Pāli giữ nguyên, khớp glossary (năm uẩn, thần thông [iddhi],
+  niệm xứ [satipaṭṭhāna], bojjhaṅga, Sotāpanna, puthujjana [phàm phu], Bodhisatta, Trưởng lão, Tăng đoàn,
+  *Arahant*-ship → quả vị *Arahant*). Gloss Pāli trong ngoặc lần đầu (Sukkavipassakā→bậc tu khô quán;
+  upanissaya→căn cơ) — hợp lệ theo quy tắc.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anandasutta-04 | — | *uppāda*/*vaya*/*aññathatta*, năm uẩn |
+| 2 | anandasutta-05 | — |  |
+| 3 | anandasutta-06 | — | *asmimāna* |
+| 4 | anandasutta-07 | — | *iddhi* → thần thông |
+| 5 | anandasutta-08 | — |  |
+| 6 | anandasutta-09 | — | ānāpānasati, niệm xứ, bojjhaṅga, vijjāvimutti |
+| 7 | anandasutta-10 | — |  |
+| 8 | anandasutta-11 | — | Sotāpanna, puthujjana (phàm phu) |
+| 9 | anandasutta-12 | — | *phāsuvihāra* |
+| 10 | anandasutta-13 | — | sáu xúc xứ; Uddāna/Vagga/Sutta |
+| 11 | anandasutta-14 | — |  |
+| 12 | anandasutta-15 | — |  |
+| 13 | anandasutta-16 | — | Tathāgata, *Jaṭila*, *samādhi* |
+| 14 | anandasutta-17 | — |  |
+| 15 | anandasutta-18 | — |  |
+| 16 | anandavagga | — | *Tikanipāta* |
+| 17 | anandena-sutta | — |  |
+| 18 | ananganajataka | — |  |
+| 19 | ananganasutta | — | *aṅganāni* |
+| 20 | ananganavatthu | — |  |
+| 21 | ananjasappayasutta | — | *Sukkavipassakā* (bậc tu khô quán); quả vị *Arahant* |
+| 22 | ananta | — |  |
+| 23 | anantajali | — | năm mươi ba *kappa* |
+| 24 | anantajina | — |  |
+| 25 | anantakaya | — | Milinda/Nāgasena; Trưởng lão |
+| 26 | anantapokkharani | — |  |
+| 27 | anantarabhandakatittha | — |  |
+| 28 | anantarapeyyala | — |  |
+| 29 | anantavasutta | — |  |
+| 30 | ananusociyajataka | — | dài; Bodhisatta, *upanissaya* (căn cơ), Sơ quả |
+
+## Batch: a/ (Ananussutasutta → Anattāsutta 04) — 30 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file sau ananusociyajataka. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. Gồm anathapindika-01
+  (rất dài ~69 đoạn + danh sách bullet): đối chiếu đầy đủ, trung thực, mọi citation + soft-hyphen giữ
+  nguyên. Khớp glossary: trưởng giả [seṭṭhi/banker], chư thiên [Devas], thiên nhân [Deva số ít], năm uẩn,
+  Yamakapāṭihāriya [Twin Miracle], do-tuần [leagues], crore, Tỳ-kheo-ni, bậc Dự lưu/đệ tử bậc Thánh,
+  Sotāpanna, Paribbājakas, ngạ quỷ [Petas], Giác ngộ [Awakening].
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | ananussutasutta | — |  |
+| 2 | ananutappiyasutta | — |  |
+| 3 | anapanakatha | — |  |
+| 4 | anapanasamyutta | — |  |
+| 5 | anapanasatisutta | — | satipaṭṭhāna, bojjhaṅga, Komudī |
+| 6 | anapanasutta | — |  |
+| 7 | anapanavagga | — |  |
+| 8 | anasava | — | Pacceka Buddha |
+| 9 | anasavasutta | — | *āsavas* |
+| 10 | anatha | — | *kappa*, *uddāla* |
+| 11 | anathapindika-01 | — | RẤT DÀI; đầy đủ + bullet list; soft-hyphen giữ |
+| 12 | anathapindika-02 | — | Yamakapāṭihāriya; do-tuần; *Anāgāmī* |
+| 13 | anathapindikaputtakalavatthu | — |  |
+| 14 | anathapindikasetthivatthu | — | citation "Dhp-a.3.10" khớp nguồn |
+| 15 | anathapindikasutta-01 | — |  |
+| 16 | anathapindikasutta-02 | — | *gihisāmīcakāni sikkhāpadāni* |
+| 17 | anathapindikasutta-03 | — | bậc Dự lưu (*Sotāpattiyangāni*) |
+| 18 | anathapindikavagga | — | Devas → chư thiên |
+| 19 | anathapindikovadasutta | — | Deva → thiên nhân |
+| 20 | anaticarisutta | — |  |
+| 21 | anattalakkhanasutta | — | Pañcavaggiya; năm uẩn |
+| 22 | anattalakkhanavatthu | — | Kassapa Buddha |
+| 23 | anattaniyasutta | — |  |
+| 24 | anattasutta | — | (Anattasuttā 02 & 03) |
+| 25 | anattasutta-01 | — | Rādha; vô ngã |
+| 26 | anattasutta-01-2 | — | đệ tử bậc Thánh |
+| 27 | anattasutta-02 | — |  |
+| 28 | anattasutta-03 | — | *bāhira*/*ajjhatta* |
+| 29 | anattasutta-04 | — |  |
+| 30 | anattasutta-04-2 | — |  |
+
+## Batch: a/ (Anattena Sutta → Anekavaṇṇavimāna) — 30 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file sau anattasutta-04-2. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. Gồm các entry rất dài
+  (andhaka-01, andhaka-02, andhakavenhuputta, andhakavinda, andhavana): đối chiếu đầy đủ + trung thực,
+  citation + soft-hyphen giữ nguyên. Khớp glossary: ngạ quỷ [Peta], chư thiên [Devas], Trưởng lão,
+  Tỳ-kheo-ni, gāvuta, Gandhakuṭi, *vimāna*, *upāsaka*, Bodhisatta, Nibbāna, samādhi.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anattena-sutta | — |  |
+| 2 | anatthapucchakabrahmanavatthu | — |  |
+| 3 | anatthatayasutta | — | *pamāda* → phóng dật |
+| 4 | andabharigamakutakasutta | — | Peta → ngạ quỷ |
+| 5 | andabhutajataka | — |  |
+| 6 | andabhutajataka-2 | — | bản trùng nội dung |
+| 7 | andha | — | non-Ariyan (*milakkha*) |
+| 8 | andhabharigamakutakasutta | — | bản trùng số 4 |
+| 9 | andhabhutasutta | — |  |
+| 10 | andhaka-01 | — | dài; bộ tộc Andhaka; đầy đủ |
+| 11 | andhaka-02 | — | dài; bộ phái; Theravāda/Kathāvatthu |
+| 12 | andhakara | — |  |
+| 13 | andhakarasutta | — | *lokantarika* |
+| 14 | andhakaravagga | — | Pācittiya/Bhikkhunīvibhaṅga |
+| 15 | andhakatthakatha | — |  |
+| 16 | andhakavenhu | — |  |
+| 17 | andhakavenhuputta | — | RẤT DÀI; truyện 10 anh em; đầy đủ |
+| 18 | andhakavinda | — | DÀI; gāvuta, Gandhakuṭi; đầy đủ |
+| 19 | andhakavindasutta-01 | — |  |
+| 20 | andhakavindasutta-02 | — |  |
+| 21 | andhakavindasutta-03 | — |  |
+| 22 | andhakavindavagga | — |  |
+| 23 | andhanaraka | — |  |
+| 24 | andhapura | — | Bodhisatta; Devadatta |
+| 25 | andhasutta | — |  |
+| 26 | andhavana | — | DÀI; Māra, Pārājikā, Nibbāna; đầy đủ |
+| 27 | andu | — |  |
+| 28 | anejaka | — | Devas → chư thiên |
+| 29 | anekavanna | — | *Devaputta*; Sumedha Buddha |
+| 30 | anekavannavimana | — | "thiên tử ... *Devaputta*" hơi lặp (nitpick) |
+
+## Batch: a/ (Aṅga 01 → Aṅgīrasī) — 30 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file sau anekavannavimana. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 3 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Sửa: stray
+  English "and"/"also" còn sót trong chuỗi citation tiếng Việt → "và"/"cũng" (đồng bộ với quy ước các batch
+  trước). Một số entry còn giữ marker <span data-dppn-term…> ngay trong bản dịch VI — KHÔNG đụng theo quy
+  tắc; tên riêng vẫn nguyên vẹn. Khớp glossary: Mahā Janapadā, tướng quân [senāpati], *abhiññā*, bojjhaṅga,
+  Sotāpatti, Bodhisatta, Pacceka Buddhas.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anga-01 | — | DÀI; 16 Mahā Janapadā; đầy đủ |
+| 2 | anga-02 | — | *aggupaṭṭhākā*/*upaṭṭhāka* |
+| 3 | anga-03 | — |  |
+| 4 | anga-04 | — | Nāga Campeyya |
+| 5 | anga-05 | — |  |
+| 6 | anga-06 | — | *rūḷhi-vasena* |
+| 7 | angagama | — |  |
+| 8 | angaka | — | span trong VI (giữ nguyên) |
+| 9 | angamu | — | Tướng quân *Deva* |
+| 10 | anganakola | — | span trong VI (giữ nguyên) |
+| 11 | anganasalaka | — | span trong VI |
+| 12 | anganika-bharadvaja | — | *abhiññā*; span trong VI |
+| 13 | anganisutta-01 | — | *padhāna* |
+| 14 | anganisutta-02 | — | citation "AN.v.1617" khớp nguồn |
+| 15 | angaraja | — | span trong VI |
+| 16 | angarapabbata | — | *Mahā Niraya* |
+| 17 | angasutta-01 | — |  |
+| 18 | angasutta-02 | — | bojjhaṅgas |
+| 19 | angasutta-03 | — |  |
+| 20 | angasutta-04 | — | *Sotāpatti* |
+| 21 | angati | — | DÀI; Bodhisatta; đầy đủ |
+| 22 | angikasutta | — | *Samādhi* bậc Thánh |
+| 23 | angirasa-01 | — | DÀI; *gotra*/Kṣatriya; đầy đủ |
+| 24 | angirasa-02 | ✅ | "and 27 ff.; also" → "và 27 ff.; cũng" |
+| 25 | angirasa-03 | — |  |
+| 26 | angirasa-04 | — |  |
+| 27 | angirasa-05 | ✅ | "Mhv.ii.4; and" → "; và" |
+| 28 | angirasa-06 | — | *Peta*/*Brahma* |
+| 29 | angirasa-07 | ✅ | "144 and 145" → "144 và 145" |
+| 30 | angirasi | — | *aṅge rasmiyo…* giữ nguyên |
+
+## Batch: a/ (Aṅgulimāla → Anīkaṅga 02) — 30 entry [RESUME tập a/ mới]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 30 entry kế tiếp theo thứ tự tên file sau angirasi. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 7 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+  Sửa: (a) stray "also"/"see also"/"and" trong citation VI → "cũng"/"xem thêm"/"và" (angulimala ×2,
+  anguttaranikaya ×2); (b) sửa tên Pāli sai chính tả TRONG text của span (KHÔNG đụng thuộc tính marker):
+  Khandhasṁyutta→Khandhasaṁyutta, Saḷāyatanasṁyutta→Saḷāyatanasaṁyutta (sót 'a'),
+  Vikkantacāmūnakka→Vikkantacamūnakka (thừa dấu macron) — khớp lại link_candidates/nguồn.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | angulimala | ✅ | DÀI; đầy đủ; "also"→"cũng", "see also"→"xem thêm" |
+| 2 | angulimalapitaka | — |  |
+| 3 | angulimalasutta | — |  |
+| 4 | anguttara-tika | — |  |
+| 5 | anguttaranavatika | — |  |
+| 6 | anguttaranikaya | ✅ | DÀI; "i.133 and 134"→"và", "nn. 3 and 4"→"và" |
+| 7 | anguttarapa | — | trích Pāli giữ nguyên |
+| 8 | anguttaratthakatha | — |  |
+| 9 | aniccadhammasutta | — |  |
+| 10 | aniccasutta | — | citation "AN.iv.1314" khớp nguồn |
+| 11 | aniccasutta-01 | — | khandha (uẩn); "xem thêm" |
+| 12 | aniccasutta-02 | — |  |
+| 13 | aniccasutta-03 | — |  |
+| 14 | aniccasutta-04 | — |  |
+| 15 | aniccasutta-05 | — |  |
+| 16 | aniccasutta-06 | — |  |
+| 17 | aniccasutta-07 | — |  |
+| 18 | aniccasutta-08 | — |  |
+| 19 | aniccasutta-09 | — |  |
+| 20 | aniccasutta-10 | — |  |
+| 21 | aniccasutta-11 | — |  |
+| 22 | aniccatasutta-01 | — |  |
+| 23 | aniccatasutta-02 | — |  |
+| 24 | aniccavagga-01 | ✅ | Khandhasṁyutta → Khandhasaṁyutta (text span) |
+| 25 | aniccavagga-02 | ✅ | Saḷāyatanasṁyutta → Saḷāyatanasaṁyutta (text span) |
+| 26 | aniccavagga-03 | — |  |
+| 27 | anidassanasutta | — |  |
+| 28 | anigha | — | Pacceka Buddha |
+| 29 | anikanga-01 | — |  |
+| 30 | anikanga-02 | ✅ | Vikkantacāmūnakka → Vikkantacamūnakka (text span) |
+
+## Batch: a/ (Anikaratta → Anomārāma 02) — 67 entry [HẾT tập a/ draft đã có tại lần scan này]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review pass)
+- Phạm vi: 67 entry còn lại trong review-pending.md (anikaratta → anomarama-02), theo thứ tự tên file.
+  Host Read cho mọi thân file. (Lưu ý: cụm Añjana và một số entry batch này có NHIỀU lỗi OCR/diacritic
+  và lỗi chính tả tiếng Việt hơn các batch trước.)
+- Kết quả: 67/67 đạt; 11 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+  Loại lỗi đã sửa: (a) tên Pāli sai dấu/chính tả trong text span → khớp nguồn/link_candidates
+  (Vāranavatī, Mantāvatī, Devagabbhā, Upasāgara, Jambudīpa, Dvāravatī, Dhanañjaya, Añjanavaniya,
+  Sappinī, Sakuludāyi, Himavā, Theragāthā…); (b) lỗi chính tả tiếng Việt (Giác ngộ, ngắm, hủy diệt,
+  trú, bởi, luân phiên, tôi tớ, tụ họp, ba bộ Kinh Vệ-đà, đó là); (c) "cô-đư"→"crore", glossary
+  Twin-Miracle→Yamakapāṭihāriya. RESIDUAL: 1 dấu phụ "Therá→Thera" trong span annata-kondanna chưa
+  khớp được old_string (rất nhỏ) — để lại cho lần build/sửa sau.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | anikaratta | ✅ | tên Pāli + "huy hoá"→"giáo hoá" |
+| 2 | animisacetiya | ✅ | "Giảc ngộ"→"Giác ngộ"; "ngắi"→"ngắm" |
+| 3 | animittasutta | — | *animittacetosamādhi* |
+| 4 | anisamsasutta | — | *Sotāpattiphala* |
+| 5 | anisamsavagga-01 | — |  |
+| 6 | anisamsavagga-02 | — |  |
+| 7 | anissukisutta | — |  |
+| 8 | anisutta | — | Ānaka drum; đầy đủ |
+| 9 | anitikasutta | — |  |
+| 10 | anitthigandhakumara-01 | — | Bodhisatta |
+| 11 | anitthigandhakumara-02 | — |  |
+| 12 | anitthigandhakumara-03 | — | quả Dự lưu |
+| 13 | anitthigandhakumara-04 | — | Pacceka Buddha |
+| 14 | anivatta-brahmadatta | — |  |
+| 15 | aniyata | — | Pārājika/Suttavibhaṅga |
+| 16 | anjali | — |  |
+| 17 | anjana | — | "người Sākyan" (span gốc render plain — giữ) |
+| 18 | anjanadevi | ✅ | Devagabbhā/Upasāgara/Jambudīpa/Dvāravatī; "hủy diệt" |
+| 19 | anjanapabbata | — |  |
+| 20 | anjanavana | ✅ | DÀI; Añjanavaniya; "trú"; "bởi" |
+| 21 | anjanavaniya-thera | ✅ | "Añjanavāniya"→"Añjanavaniya" |
+| 22 | anjanavasabha | ✅ | "Voi chía"→"Voi chúa"; Dhanañjaya ×2 |
+| 23 | anjasa | — |  |
+| 24 | ankolaka-thera | — | kalpas→*kappa* |
+| 25 | ankolakapupphiya-thera | — |  |
+| 26 | ankura | ✅ | DÀI; Devagabbhā/Upasāgara/Dvāravatī; "tôi tớ", "tụ họp" |
+| 27 | ankuravatthu | — |  |
+| 28 | annabhara-01 | ✅ | Sappinī, Sakuludāyi |
+| 29 | annabhara-02 | — |  |
+| 30 | annamjivam-annamsariram-sutta | ✅ | "Aññaṁjīvaṁ"→"Aññaṁjivaṁ" (khớp headword) |
+| 31 | annanasutta | — | Paribbājaka |
+| 32 | annasamsavaka-01 | — |  |
+| 33 | annasamsavaka-02 | — |  |
+| 34 | annasutta | — | satipaṭṭhāna |
+| 35 | annasutta-01 | — |  |
+| 36 | annasutta-02 | — |  |
+| 37 | annata-kondanna-thera-anna-kondanna-thera | ✅ | DÀI; 9 lỗi sửa; còn 1 residual "Therá→Thera" |
+| 38 | annatarabhikkhusutta | — | *āsavā* (lậu hoặc) |
+| 39 | annatarabrahmasutta | — |  |
+| 40 | annatarasutta-01 | — |  |
+| 41 | annatarasutta-02 | — | Bốn Thánh đế |
+| 42 | annataravatthu | — |  |
+| 43 | annatitthiyabhanavara | — |  |
+| 44 | annatitthiyasutta-01 | — |  |
+| 45 | annatitthiyasutta-02 | — |  |
+| 46 | annatitthiyavagga | — |  |
+| 47 | anodhisutta | — | anicca/dukkha/anatta |
+| 48 | anoja-01 | — | saccakiriyā; Dự lưu |
+| 49 | anoma-01 | — |  |
+| 50 | anoma-01-2 | — | DÀI (sông Anomā); đầy đủ |
+| 51 | anoma-02 | — |  |
+| 52 | anoma-02-2 | — |  |
+| 53 | anoma-03 | — |  |
+| 54 | anoma-04 | — |  |
+| 55 | anoma-05 | — |  |
+| 56 | anoma-06 | — |  |
+| 57 | anoma-07 | — | *Aggasāvaka*, *tāpasa* |
+| 58 | anoma-08 | — |  |
+| 59 | anoma-09 | — | *ājīvaka* |
+| 60 | anoma-10 | — |  |
+| 61 | anoma-11 | — |  |
+| 62 | anomadassi-01 | ✅ | DÀI (Phật Anomadassī); Twin-Miracle→Yamakapāṭihāriya |
+| 63 | anomadassi-02 | — |  |
+| 64 | anomadassi-03 | — | *Saṅgharāja* |
+| 65 | anomadassi-04 | — | *Tipiṭaka*, *Bhāṇavāras* |
+| 66 | anomarama-01 | — |  |
+| 67 | anomarama-02 | — |  |
+
 ## Các batch đã review trước đó (tham chiếu)
 
 - Sonnet trial: s/savatthi, k/kosala, m/magadha, j/jetavana-01..03, v/veluvana-01..04

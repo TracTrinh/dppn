@@ -5,7 +5,7 @@ base_headword: "Aññatarabrahmasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aññatarabrahmasutta. A certain *Brahma* thought no recluse or Brahmin could co
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatarabrahmasutta*. Một vị Phạm thiên (*Brahma*) nọ nghĩ rằng không có vị sa-môn hay Bà-la-môn nào có thể đến được cõi của mình. Đức Phật, Moggallāna, Mahā Kassapa, Mahā Kappina và Anuruddha thảy đều xuất hiện ở đó và bác bỏ quan điểm của vị ấy. SN.i.144f.
 
 ## Notes

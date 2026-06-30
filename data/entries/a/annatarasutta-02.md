@@ -5,7 +5,7 @@ base_headword: "Aññatarasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññatarasutta 02. Few are born among men because beings do not see the four Ar
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatarasutta 02*. Rất ít chúng sinh được tái sinh vào loài người bởi vì các chúng sinh không thấy được Bốn Thánh đế. SN.v.465.
 
 ## Notes

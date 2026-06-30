@@ -5,7 +5,7 @@ base_headword: "Aniccatāsutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aniccatāsutta 01. The disciple who realises the impermanence of all *khandhas* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccatāsutta 01. Vị đệ tử nhận ra sự vô thường của tất cả các *khandha* (uẩn) sẽ không còn tái sinh. SN.iii.44-5.
 
 ## Notes

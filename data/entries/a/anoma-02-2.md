@@ -5,7 +5,7 @@ base_headword: "Anomā"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anomā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomā 02*. Thân mẫu của Đức Phật Nārada. Bv.x.18; Ja.i.37.
 
 ## Notes

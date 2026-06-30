@@ -5,7 +5,7 @@ base_headword: "Ānisaṁsavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānisaṁsavagga 01. Chương thứ mười của *Chakkanipāta* trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. Gồm mười một *Sutta* về nhiều chủ đề khác nhau. AN.iii.441-5.
 
 ## Notes

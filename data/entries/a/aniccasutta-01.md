@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aniccasutta 01. (see also <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 01. (xem thêm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Yadaniccasutta</span>). Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sāvatthī</span>; tất cả các *khandha* (uẩn) đều vô thường. SN.iii.21.
 
 ## Notes

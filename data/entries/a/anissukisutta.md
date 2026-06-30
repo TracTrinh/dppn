@@ -5,7 +5,7 @@ base_headword: "Anissukīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Anissukīsutta. A woman who is faithful, modest, scrupulous, not wrathful and ri
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anissukīsutta. Một người phụ nữ có đức tin, biết xấu hổ, có tâm hổ thẹn, không sân hận và giàu trí tuệ sẽ được tái sinh vào cảnh giới an lạc. SN.iv.244.
 
 ## Notes

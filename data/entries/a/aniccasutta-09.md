@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "09"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccasutta 09. All is impermanent (SN.iv.28).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 09. Tất cả đều vô thường (SN.iv.28).
 
 ## Notes

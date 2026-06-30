@@ -5,7 +5,7 @@ base_headword: "Aññasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññasutta. On the results of developing the four *satipaṭṭhāna*. SN.v.181
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aññasutta. Về kết quả của việc tu tập bốn *satipaṭṭhāna* (niệm xứ). SN.v.181.
 
 ## Notes

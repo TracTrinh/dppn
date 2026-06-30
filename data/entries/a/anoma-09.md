@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "09"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anoma 09. An *ājīvaka* who gave grass to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 09*. Một tu sĩ *ājīvaka* đã dâng cỏ cho Anomadassī để làm chỗ ngồi. Bv­a.142.
 
 ## Notes

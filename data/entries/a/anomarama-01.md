@@ -5,7 +5,7 @@ base_headword: "Anomārāma"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anomārāma 01. A pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomārāma 01*. Một lâm viên ở Anupama. Đức Phật Atthadassī đã nhập diệt tại đó (Bv.xv.26).
 
 ## Notes

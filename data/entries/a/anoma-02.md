@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anoma 02. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 02*. Một ngọn núi gần Himavā. Ap.ii.345.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aññatitthiyasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aññatitthiyasutta 02. Describes a visit of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatitthiyasutta 02*. Mô tả chuyến viếng thăm của Sāriputta đến một số đạo sư ngoại đạo ở Rājagaha và các cuộc thảo luận diễn ra sau đó. Ānanda trình bày lại sự việc với Đức Phật, Ngài đã tán đồng và giải thích rõ hơn về các câu hỏi này. SN.ii.32f.
 
 ## Notes

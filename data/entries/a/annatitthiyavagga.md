@@ -5,7 +5,7 @@ base_headword: "Aññatitthiyavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññatitthiyavagga. Several discourses on the views of other teachers. SN.v.27f
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatitthiyavagga*. Một số bài kinh về các quan điểm của các đạo sư khác. SN.v.27f.
 
 ## Notes

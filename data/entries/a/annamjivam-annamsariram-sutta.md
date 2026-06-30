@@ -5,7 +5,7 @@ base_headword: "Aññaṁjivaṁ aññaṁsarīraṁ Sutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññaṁjivaṁ aññaṁsarīraṁ Sutta. That the body is one thing and the s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aññaṁjivaṁ aññaṁsarīraṁ Sutta. Quan niệm rằng thân xác là một thứ và linh hồn là thứ khác là quan điểm của một số người. SN.iii.215.
 
 ## Notes

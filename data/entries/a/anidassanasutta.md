@@ -5,7 +5,7 @@ base_headword: "Anidassanasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Anidassanasutta. The invisible and the path leading thereto. SN.iv.370.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anidassanasutta. Về điều không thể nhìn thấy được và con đường dẫn đến đó. SN.iv.370.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Annabhāra"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -30,6 +30,8 @@ On another occasion they discuss the “Brahmin truth.” The Buddha visits them
 
 ## Vietnamese translation
 
-Chưa dịch.
+Annabhāra 01. Một Paribbājaka nổi tiếng sống tại tu viện của các du sĩ ngoại đạo trên bờ sông <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sappinī</span> gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rājagaha</span>. Ông được nhắc đến khi cư ngụ cùng các Paribbājaka nổi tiếng là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Varadhara</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sakuludāyi</span>. Đức Phật đến gặp họ và nói về bốn yếu tố của Pháp (*dhammapadāni*) được mọi người tôn trọng: không tham, không sân, chánh niệm, chánh định (AN.ii.29-31).
+
+Một lần khác họ cùng bàn luận về "chân lý của người Bà-la-môn". Đức Phật đến gặp họ và nói rõ những gì Ngài xem là chân lý Bà-la-môn (*Brāhmaṇasaccāni*): không sinh vật nào được hại; tất cả dục lạc đều vô thường, đau khổ và biến đổi; tất cả mọi hữu đều vô thường, v.v.; một người Bà-la-môn là người không còn dính dáng hay chấp thủ bất cứ điều gì nữa (AN.ii.176-7).
 
 ## Notes

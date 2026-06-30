@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "10"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anoma 10. The city in whose park <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 10*. Thành phố mà trong công viên của nó, Atthadassī đã thuyết giảng bài pháp đầu tiên. Bv.xv.18.
 
 ## Notes

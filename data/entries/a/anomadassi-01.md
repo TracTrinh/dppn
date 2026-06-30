@@ -5,7 +5,7 @@ base_headword: "Anomadassī"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -72,6 +72,18 @@ It is said that at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="44"
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomadassī 01*. Đức Phật Anomadassī. Vị Phật thứ bảy. Ngài đản sinh tại công viên Sunanda ở Candavatī, cha mẹ Ngài là Yasavā và Yasodharā. Ngài đã sống trong ba cung điện: Siri, Upasiri và Vaḍḍha (theo Bv­a. là Sirivaḍḍha). Vợ Ngài là Sirimā và con trai Ngài là Upavāṇa. Ngài từ bỏ đời sống gia đình ở tuổi 10.000, rời nhà trên một chiếc kiệu, và thực hành khổ hạnh trong mười tháng. Một thiếu nữ tên là Anupamā đã dâng cúng một bữa cháo sữa cho Ngài trước khi Ngài chứng ngộ, và tu sĩ *ājīvaka* Anoma đã dâng cỏ để làm chỗ ngồi cho Ngài; cây Bodhi của Ngài là một cây *ajjuna*.
+
+Bài pháp đầu tiên của Ngài được thuyết giảng tại công viên Sudassana ở Subhavatī. Yamakapāṭihāriya được thị hiện tại Osadhī dưới gốc cây *asana*. Nisabha và Asoka (*v.l.* Anoma) là các vị thượng thủ đệ tử tăng, còn Sundarī và Sumanā là các vị thượng thủ đệ tử ni. Về phía cận sự nam, Nandivaḍḍha và Sirivaḍḍha là các hộ pháp hàng đầu của Ngài, còn về phía cận sự nữ là Uppalā và Padumā.
+
+Vua Dhammaka là vị quốc vương hộ độ của Ngài; thị giả thường trực của Ngài là Varuṇa. Ngài thọ 100.000 tuổi và nhập diệt tại Dhammārāma. Ngài đã tổ chức ba đại hội thuyết pháp với sự tham dự lần lượt của 800.000, 700.000 và 600.000 vị.
+
+Bodhisatta (khi ấy) là một thủ lĩnh Yakkha đầy quyền năng và đã cúng dường Đức Phật cùng hội chúng của Ngài (Bv.x.; Bv­a.141-6).
+
+Chính bài pháp do Nisabha và Anoma, các vị thượng thủ đệ tử của Đức Phật này thuyết giảng, đã khiến đạo sĩ khổ hạnh (*tāpasa*) Sarada (tiền thân của Sāriputta trong kiếp cuối cùng) mong muốn tự mình trở thành một thượng thủ đệ tử (*Aggasāvaka*). Về sau, Sirivaḍḍha (tiền thân của Moggallāna), theo lời gợi ý của Sarada, đã cúng dường Đức Phật và phát nguyện chứng đạt vị trí đệ tử thứ hai dưới thời Đức Phật Gotama (Dhp­a.i.88-94).
+
+Bakkula Thera (khi ấy) là một vị đạo sĩ khổ hạnh vào thời Đức Phật Anomadassī. Đức Phật có lần đã bị một chứng bệnh về bụng và chính vị đạo sĩ này đã chữa khỏi cho Ngài (AN­a.i.169; Mil.216).
+
+Người ta nói rằng khi Anomadassī đản sinh, có bảy loại báu vật từ trên trời mưa xuống và đó chính là lý do cho tên gọi của Ngài. Từ khi Ngài hoài thai, hào quang từ thân Ngài đã lan tỏa xung quanh đến một khoảng cách là tám mươi hắc-tay. Bv­a.141.
 
 ## Notes

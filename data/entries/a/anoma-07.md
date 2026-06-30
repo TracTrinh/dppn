@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "07"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anoma 07. One of the two chief disciples of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 07*. Một trong hai vị thượng thủ đệ tử của Đức Phật Anomadassī. Ja.i.36; Bv­a.145; Dhp­a.i.88ff. Tác phẩm Bv.viii.22 gọi vị ấy là Asoka. Vị ấy đã thuyết pháp cho đạo sĩ khổ hạnh (*tāpasa*) Sarada vào dịp mà vị đạo sĩ này quyết định tự mình sẽ trở thành một thượng thủ đệ tử (*Aggasāvaka*).
 
 ## Notes

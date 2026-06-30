@@ -5,7 +5,7 @@ base_headword: "Aniccāsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aniccāsutta. On the seven kinds of persons who are worthy of homage and of gift
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccāsutta. Về bảy hạng người xứng đáng được kính lễ và được dâng cúng phẩm vật. AN.iv.1314.
 
 ## Notes

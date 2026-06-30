@@ -5,7 +5,7 @@ base_headword: "Aniccadhammasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccadhammasutta. Desire for that whose nature is impermanent should be destroy
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccadhammasutta. Cần phải đoạn trừ tham muốn đối với những gì có bản chất vô thường. SN.iii.199.
 
 ## Notes

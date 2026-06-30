@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anoma 05. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 05*. *v.l.* Araṇemi. Một vị vua của Jambudīpa cách đây năm mươi *kappas*; tiền thân của Trưởng lão Bakkula. Ap.i.329.
 
 ## Notes

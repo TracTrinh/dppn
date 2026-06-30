@@ -5,7 +5,7 @@ base_headword: "Anitthigandhakumāra"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anitthigandhakumāra 01. The Bodhisatta, born as the son of a king of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anitthigandhakumāra 01. Bodhisatta, sinh ra là con trai của một vị vua xứ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Benares</span>. Ngài ghét nhìn thấy phụ nữ cho đến khi bị một vũ nữ quyến rũ. Ngài bị đuổi ra khỏi nhà cùng với cô gái đó và họ sống trong một túp lều trong rừng, nơi cô gái cám dỗ một vị ẩn sĩ và cướp đi thần lực của ông. Bodhisatta, nhận ra điều này, đã từ bỏ người phụ nữ và tự mình trở thành ẩn sĩ. Câu chuyện được kể trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cūḷa Palobhanajātaka</span> (Ja 263). Ja.ii.329-31.
 
 ## Notes

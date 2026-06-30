@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "11"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 11. The birth-city of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 11*. Thành phố nơi sinh của Đức Phật Piyadassī, và là kinh đô của Vua Sudinna. Ja.i.39. Theo tác phẩm Bv.(xiv. 15), nơi này được gọi là Sudhañña.
 
 ## Notes

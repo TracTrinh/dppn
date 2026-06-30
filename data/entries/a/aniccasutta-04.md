@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccasutta 04. Same as (3); desire for what is impermanent should be repelled. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 04. Tương tự kinh (3); cần phải đẩy lùi tham muốn đối với những gì vô thường. SN.iii.199.
 
 ## Notes

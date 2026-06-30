@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 03. A pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 03*. Một lâm viên ở Khema nơi Đức Phật Tissa đản sinh. Bv­a.188.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Añjanavaniya Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -37,6 +37,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Añjanavaniya Thera. Con trai của một vị *rājā* tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vesālī</span>, trong vùng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vajjī</span>. Vào thời đó, Vesālī được đối mặt với ba mối đe dọa: hạn hán, dịch bệnh và quỷ. Đức Phật đã dẹp yên cơn hoảng loạn bằng cách thuyết <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ratanasutta</span>. Trong đại chúng thính giả có con trai của vị *rājā*, người đó liền xuất gia. Ông cư ngụ tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Añjanavana</span>, và trong mùa an cư, sau khi tìm được một chiếc giường cũ, ông đặt trên bốn hòn đá và phủ cỏ xung quanh, để hở một khoảng dùng làm cửa; tại đó ông thiền tập cho đến khi chứng đắc Arahant (Thag.v.55; Thag­a.i.127f).
+
+Trong một tiền kiếp, ông là một người đan kết hoa, tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sudassana</span>, và đã dâng hoa cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Padumuttara Buddha</span>. Ông được sinh làm vua mười sáu lần, mang tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Devuttara</span>.
+
+Ông rất có thể đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Muṭṭhipupphiya</span> trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Apadāna</span> (i.142).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aññatarasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aññatarasutta 01. On the chain of causation. SN.ii.75-6.
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatarasutta 01*. Về chuỗi nhân quả. SN.ii.75-6.
 
 ## Notes

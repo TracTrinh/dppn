@@ -5,7 +5,7 @@ base_headword: "Anomadassī"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -29,6 +29,6 @@ Anomadassī 03. A *Saṅgharāja* of Ceylon, at whose request the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomadassī 03*. Một vị Tăng thống (*Saṅgharāja*) của Ceylon, theo thỉnh nguyện của vị này tác phẩm Hatthavanagallavihāravaṁsa đã được viết (ấn bản của DN’Alwis, p.7, n.6). Vị ấy là tác giả của một tác phẩm tiếng Sinhala về chiêm tinh học tên là *Daivajña-kāma-dhenu*, và thường được đồng nhất với vị Trưởng lão mà vì vị này, theo tác phẩm Cūḷa Vaṁsa (lxxxviii. vv.37-9; xem thêm PLC., 219), Patirājadeva — tể tướng của vua Parakkamabāhu II — đã tuân lệnh vua xây dựng tại Hatthavanaggalla một ngôi đền ba tầng với đỉnh tháp cao vút.
 
 ## Notes

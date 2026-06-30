@@ -5,7 +5,7 @@ base_headword: "Aniccavagga"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccavagga 03. The fifth chapter of the same. SN.iv.25-30.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccavagga 03. Chương thứ năm của tập đó. SN.iv.25-30.
 
 ## Notes

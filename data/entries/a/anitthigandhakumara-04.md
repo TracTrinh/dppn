@@ -5,7 +5,7 @@ base_headword: "Anitthigandhakumāra"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,6 @@ Anitthigandhakumāra 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anitthigandhakumāra 04. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pacceka Buddha</span>. Ngài là con trai của vua xứ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Benares</span>. Trong một tiền kiếp, Ngài đã là tu sĩ trong 20.000 năm, dưới thời giáo pháp của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Kassapa Buddha</span>. Câu chuyện của Ngài rất giống với câu chuyện số 3 ở trên, người vợ được chọn là con gái của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Maddava</span>, vua xứ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sāgala</span>. Khi công chúa qua đời trên đường đến hôn lễ, vị vương tử đắm mình vào thiền định và chứng đắc quả vị <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Pacceka Buddha</span> (Snp-a.67ff.; Ap­a.i.126-7). Một kệ được gán cho Ngài được đưa vào <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Khaggavisāṇasutta</span>. Sn.p.6, v.36.
 
 ## Notes

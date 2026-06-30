@@ -5,7 +5,7 @@ base_headword: "Anitthigandhakumāra"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Anitthigandhakumāra 02. Similar to the above, the story being called the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anitthigandhakumāra 02. Tương tự như trên, câu chuyện được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Palobhanajātaka</span>. Ja 507 Ja.iv.469-73.
 
 ## Notes

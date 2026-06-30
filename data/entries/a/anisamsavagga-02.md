@@ -5,7 +5,7 @@ base_headword: "Ānisaṁsavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānisaṁsavagga 02. Chương thứ nhất của *Dasakanipāta* trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>, gồm mười *Sutta*. AN.v.1-14.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Anītikasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Anītikasutta and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anītikasutta và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anītikadhammasutta</span>. Về trạng thái thoát khỏi <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">khổ đau</span> và con đường dẫn đến đó. SN.iv.371.
 
 ## Notes

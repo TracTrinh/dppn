@@ -5,7 +5,7 @@ base_headword: "Aniccavagga"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aniccavagga 01. The second chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccavagga 01. Chương thứ hai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Khandhasaṁyutta</span>. SN.iii.21-5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Añjanadevī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -30,6 +30,6 @@ Añjanadevī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Añjanadevī. Con gái của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devagabbhā</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upasāgara</span>. Khi mười người em trai của bà, những người <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Andhakaveṇhuputtā</span>, đã chinh phục toàn bộ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Jambudīpa</span> và đang sống tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Dvāravatī</span>, họ chia vương quốc thành mười phần mà quên mất người chị gái. Tuy nhiên, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Aṅkura</span> đã nhường phần của mình cho bà và đi làm thương mại. Sau đó, khi tất cả những người thân của bà, trừ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Aṅkura</span>, đều bị diệt vong, bà thoát khỏi sự hủy diệt. Ja.iv.80, 84, 88, 89; Pv-a.111-12.
 
 ## Notes

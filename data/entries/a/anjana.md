@@ -5,7 +5,7 @@ base_headword: "Añjana"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -40,6 +40,10 @@ In addition to the daughters mentioned above he had two sons, <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Añjana. Người Sākyan, con trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devadaha</span>, và là cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Māyā</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Mahā Pajāpatī</span>, hai người vợ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Suddhodana</span>. Vợ ông là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sulakkhaṇā</span> (Ap.ii.538, v.115; xem thêm Thag­a.152).
+
+Theo <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Mahā Vaṁsa</span> (ii.17ff), ông là con trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Devadahasakka</span> và có một người em gái là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Kaccānā</span>; hoàng hậu của ông là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Yasodharā</span>.
+
+Ngoài những người con gái nêu trên, ông có hai người con trai là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Daṇḍapāṇī</span> và người Sākyan <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term-class="t14">Suppabuddha</span>. Xem thêm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term-class="t14">Suppabuddha</span>.
 
 ## Notes

@@ -27,6 +27,6 @@ Aṅgīrasa 07. An ascetic, <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Aṅgīrasa 07. Một vị khổ hạnh, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅgīrasa Gotama</span>, bị <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ajjuna</span> nghìn tay giết chết. Vị khổ hạnh làm náo động các con vật khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ajjuna</span> đang chờ đi săn, và nhà vua trong cơn giận đã bắn ông bằng một mũi tên tẩm độc (Ja.v.135, 144 and 145; DN­a.i.266). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aṅgīrasa</span> này có lẽ nên được đồng nhất với một trong những vị đã nói ở trên.
+Aṅgīrasa 07. Một vị khổ hạnh, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅgīrasa Gotama</span>, bị <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ajjuna</span> nghìn tay giết chết. Vị khổ hạnh làm náo động các con vật khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ajjuna</span> đang chờ đi săn, và nhà vua trong cơn giận đã bắn ông bằng một mũi tên tẩm độc (Ja.v.135, 144 và 145; DN­a.i.266). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aṅgīrasa</span> này có lẽ nên được đồng nhất với một trong những vị đã nói ở trên.
 
 ## Notes

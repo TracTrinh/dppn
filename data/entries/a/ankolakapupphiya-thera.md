@@ -5,7 +5,7 @@ base_headword: "Aṅkolakapupphiya Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,8 @@ In the Thag­a.i.335-6 the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅkolakapupphiya Thera. Một Arahant. Trong một tiền kiếp, ông đã dâng một bông hoa *aṅkola* lên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Paduma Buddha</span> (Ap.i.287).
+
+Trong Thag­a.i.335-6, các kệ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Apadāna</span> được gán cho Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anūpama</span>, người mà ông rất có thể được đồng nhất.
 
 ## Notes

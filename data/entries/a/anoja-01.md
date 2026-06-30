@@ -5,7 +5,7 @@ base_headword: "Anojā"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -32,6 +32,10 @@ When she saw the Buddha and heard him preach, she and her companions became Stre
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anojā 01*. Vợ của Mahā Kappina khi ông còn là vua, trước khi ông xuất gia vào Tăng đoàn. Bà cũng từng là vợ của ông trong các kiếp trước và đã giúp đỡ ông trong các thiện sự. Trong kiếp này, bà có xuất thân bình đẳng với Mahā Kappina và trở thành hoàng hậu chính của ông. Bà được gọi tên như vậy vì sắc da của bà có màu giống như hoa *anoja*.
+
+Khi Kappina xuất gia, bà cùng các bạn đồng hành đi xe theo ông, vượt qua các con sông bằng một sự phát nguyện chân thật (*saccakiriyā*), và nói rằng "Đức Phật xuất thế không thể chỉ vì lợi ích của nam giới, mà còn cả của nữ giới nữa."
+
+Khi bà gặp Đức Phật và nghe Ngài thuyết pháp, bà cùng các bạn đồng hành đã chứng đắc quả vị Dự lưu. Bà được Uppalavaṇṇā truyền giới xuất gia (AN­a.i. pp.176ff.; SN­a.ii., pp.178ff). Trong Visuddhimagga chép rằng Mahā Kappina có mặt lúc bà nghe Đức Phật thuyết pháp, nhưng Đức Phật đã làm cho ông trở nên vô hình. Khi bà hỏi liệu đức vua có ở đó không, Đức Phật trả lời rằng: "Bà muốn tìm đức vua hay tìm tự ngã?" Câu trả lời là: "Tự ngã" (p.393. Cuộc đối thoại về "tự ngã" dường như được mượn từ Vin.i.23.
 
 ## Notes

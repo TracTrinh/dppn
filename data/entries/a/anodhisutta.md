@@ -5,7 +5,7 @@ base_headword: "Anodhisuttā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -24,6 +24,6 @@ Anodhisuttā. Three *Suttas* on the development of unlimited reflection of *anic
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anodhisuttā*. Ba kinh (*Sutta*) về sự phát triển quán tưởng vô lượng về *anicca* (vô thường), *dukkha* (khổ) và *anatta* (vô ngã). AN.iii.443f.
 
 ## Notes

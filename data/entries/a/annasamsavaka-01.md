@@ -5,7 +5,7 @@ base_headword: "Annasaṁsāvaka"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Annasaṁsāvaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Annasaṁsāvaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Annasaṁsāvaka Thera</span>. Một Arahant. Bốn *kappa* trước, ông đã dâng một bữa ăn cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span>. Ap.i.78.
 
 ## Notes

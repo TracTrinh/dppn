@@ -5,7 +5,7 @@ base_headword: "Anoma"
 disambiguator: "08"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -25,6 +25,6 @@ Anoma 08. The personal attendant of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anoma 08*. Thị giả của Đức Phật Sobhita. Ja.i.35; Bv­a.140; Tác phẩm Bv.vii. 21 gọi vị ấy là Anuma.
 
 ## Notes

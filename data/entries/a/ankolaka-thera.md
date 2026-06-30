@@ -5,7 +5,7 @@ base_headword: "Aṅkolaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aṅkolaka Thera. An *Arahant*. In a previous birth he had offered an *aṅkola*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṅkolaka Thera. Một Arahant. Trong một tiền kiếp, ông đã dâng một bông hoa *aṅkola* lên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span>. Một lần, cách đây ba mươi sáu *kappa*, ông là một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> mang tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Devagajjita</span>. Ap.i.199.
 
 ## Notes

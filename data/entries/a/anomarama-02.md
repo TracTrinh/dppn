@@ -5,7 +5,7 @@ base_headword: "Anomārāma"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anomārāma 02. A pleasaunce in the city of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomārāma 02*. Một lâm viên ở thành phố Kañcanavelu. Đức Phật Siddhattha đã nhập diệt tại đó. Bv.xvii.24; Bv­a.188.
 
 ## Notes

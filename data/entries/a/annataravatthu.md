@@ -5,7 +5,7 @@ base_headword: "Aññataravatthu"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Aññataravatthu. Several stories given in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññataravatthu*. Một số câu chuyện được ghi lại trong Dhammapada Commentary chỉ được gọi bằng các tiêu đề như Aññatara-itthivatthu, Aññatarakutumbikavatthu, v.v. Để tham khảo các câu chuyện như vậy, xem Chỉ mục (Index) của Dhammapada Commentary (Tập v.).
 
 ## Notes

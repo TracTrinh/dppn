@@ -5,7 +5,7 @@ base_headword: "Aniccasutta"
 disambiguator: "06"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Aniccasutta 06. All the external senses are impermanent. SN.iv.1-2.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aniccasutta 06. Tất cả các căn bên ngoài đều vô thường. SN.iv.1-2.
 
 ## Notes

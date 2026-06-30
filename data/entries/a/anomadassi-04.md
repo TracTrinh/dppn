@@ -5,7 +5,7 @@ base_headword: "Anomadassī"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/016.html"
@@ -26,6 +26,6 @@ Anomadassī 04. An Elder of Ceylon, at whose request a pupil of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Anomadassī 04*. Một vị Trưởng lão của Ceylon, theo thỉnh nguyện của vị này, một học trò của Ānanda Vanaratana đã viết một cuốn chú giải mang tên *Sāraṭṭhasamuccaya* giải thích về bốn *Bhāṇavāras* của *Tipiṭaka*. PLC., 227. Tác phẩm này hiện đã được xuất bản trong Simon Hewavitarana Bequest Series (Colombo), tập xxvii. Để xem phần thảo luận về vị Anomadassī này, xem phần Giới thiệu (Introduction), p. x-xi.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Animittasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Animittasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Animittasutta. Do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> thuyết; ghi lại một lần Ngài an trú trong trạng thái định tâm vô tướng (*animittacetosamādhi*) không có điều kiện. SN.iv.268.
 
 ## Notes

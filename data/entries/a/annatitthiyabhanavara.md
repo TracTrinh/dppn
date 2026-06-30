@@ -5,7 +5,7 @@ base_headword: "Aññatitthiyabhāṇavāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aññatitthiyabhāṇavāra. Ends the sixteenth chapter of the second *khandhaka
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aññatitthiyabhāṇavāra*. Kết thúc chương thứ mười sáu của *khandhaka* thứ hai thuộc Mahā Vagga. Vin.i.115.
 
 ## Notes
