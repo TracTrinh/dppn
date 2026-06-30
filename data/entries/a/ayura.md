@@ -5,7 +5,7 @@ base_headword: "Āyūra"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -32,6 +32,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyūra. Một vị cận thần của Maddava, vua xứ Benares. Khi Maddava đau buồn trước sự ra đi của hoàng hậu, Āyūra cùng người đồng sự của ông là Pukkusa đã giúp cố vấn của nhà vua là Senaka dập tắt nỗi buồn của nhà vua. Câu chuyện được kể trong Dasaṇṇakajātaka (Ja 401, Ja.iii.337ff). Trong kiếp sống hiện tại Āyūra trở thành Moggallāna (Ja.iii.341).
 
 ## Notes

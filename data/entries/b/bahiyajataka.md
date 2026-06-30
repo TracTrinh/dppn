@@ -5,7 +5,7 @@ base_headword: "Bāhiyajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -33,6 +33,10 @@ In the course of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiyajātaka (Ja 108). Xưa kia Brahmadatta, vua của Benares, từ cửa sổ của mình đã nhìn thấy một người phụ nữ to béo, ăn mặc tồi tàn đang đi vệ sinh một cách khiêm tốn và kín đáo khi đi ngang qua sân điện lúc nhu cầu cấp bách ập đến với bà. Nhà vua rất hài lòng với sự nhanh nhẹn và ý tứ của bà, nên đã cho người gọi bà đến và phong bà làm chánh hậu. Con trai của họ sau này trở thành một vị Cakkavatti (Chuyển luân vương).
+
+Câu chuyện được kể liên quan đến người vợ to béo của một hoàng tử Licchavī. Các tỳ-kheo tỏ ra ngạc nhiên khi thấy hoàng tử lại yêu thương cô, nhưng Đức Phật chỉ ra rằng cô có sức khỏe tốt và luôn dọn dẹp nhà cửa sạch sẽ (Ja.i.420 ff).
+
+Trong quá trình diễn tiến của Jātaka, người phụ nữ được gọi là một *bāhiyā*, từ này được chú giải sư giải thích là *bahijanapadavāsī* - một người sống ở một đất nước bên ngoài. Do đó, Bāhiya ở đây có lẽ có nghĩa là "người mộc mạc".
 
 ## Notes

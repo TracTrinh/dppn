@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Canda 04. A *māṇava*, son of a rich Brahmin, <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 04. Một *māṇava*, con trai của một Bà-la-môn giàu có, Sucindara. Canda và bạn của mình, Subhadda, đã trở thành những *Arahant* tại hội chúng đầu tiên của Đức Phật Koṇḍañña. Bv­a.110f.
 
 ## Notes

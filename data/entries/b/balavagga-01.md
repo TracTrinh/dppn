@@ -5,7 +5,7 @@ base_headword: "Balavagga"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balavagga 01. The second chapter of the *Pañcakanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balavagga 01. Phẩm thứ hai của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.9-14.
 
 ## Notes

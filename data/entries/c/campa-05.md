@@ -5,7 +5,7 @@ base_headword: "Campā"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Campā 05. A channel branching off from the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campā 05. Một con kênh rẽ nhánh từ Parakkamasamudda, từ cống nước gần cổng Candī. Cv.lxxix.4.5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ayyakāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ayyakāsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayyakāsutta. Bà nội của Pasenadī qua đời ở tuổi 120. Ông rất yêu thương bà, và sẽ làm bất cứ điều gì để giữ bà lại. Ông vô cùng đau buồn trước cái chết của bà đến mức đã tìm đến Đức Phật để được an ủi. Đức Phật nói với ông rằng mọi sinh vật đều phải chết. SN.i.96ff.
 
 ## Notes

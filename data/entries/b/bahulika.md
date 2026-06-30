@@ -5,7 +5,7 @@ base_headword: "Bahulikā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -29,6 +29,6 @@ Bahulikā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahulikā, Bāhulikā. Một bộ phái dị giáo trong Phật giáo, một nhánh tách ra hoặc Gokulikā (Mhv.v.5; Mbv.p.97). Dīpavaṁsa (Dpv.v.41) gọi những người theo phái này là Bahusuttakā. Theo các nguồn tài liệu Tây Tạng (Rockhill, p.183), họ lấy tên từ vị thầy của mình là Bahuśrutiya. Ngoài năm mệnh đề được phái Mahā Saṅghikas ủng hộ, họ coi đó là một giáo lý căn bản rằng không có lối sống nào dẫn đến sự giải thoát thực sự, rằng sự thật về khổ đau là Thánh đế, rằng nhận thức được nỗi khổ của các *saṁskāra* (hành) là bước vào sự thanh tịnh hoàn hảo, rằng không có con đường nào để thấy được nỗi khổ đau của sự khổ và nỗi khổ đau của sự biến hoại; Tăng đoàn chỉ chịu sự chi phối của các quy luật và điều kiện thế gian, các vị *Arahant* thâu thập giáo lý của những người khác, có một con đường được thuyết giảng đúng đắn và một sự thâm nhập đúng đắn vào *samāpatti*. Rockhill, p.189.
 
 ## Notes

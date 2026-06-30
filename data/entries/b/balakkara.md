@@ -5,7 +5,7 @@ base_headword: "Balakkāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Balakkāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balakkāra. Một vị hoàng tử Kāliṅga, bà con của Tilokasundarī. Ông đã đến Ceylon và được Vijayabāhu I ban tặng danh dự và những món quà. Cv.lix.46.
 
 ## Notes

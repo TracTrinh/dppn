@@ -5,7 +5,7 @@ base_headword: "Bāhunasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bāhunasutta. The questions asked by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhunasutta. Những câu hỏi do Bāhuna (xem mục từ này) đặt ra và các câu trả lời của Đức Phật cho những câu hỏi đó. AN.v.151 f.
 
 ## Notes

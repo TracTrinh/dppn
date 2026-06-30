@@ -5,7 +5,7 @@ base_headword: "Āvāsikavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvāsikavagga. Phẩm thứ hai mươi tư của *Pañcakanipāta* thuộc Aṅguttaranikāya. Nó bao gồm mười *Sutta* nói về những phẩm chất của một nhà sư thường trú khiến cho ngài xứng đáng được tôn vinh và dễ mến, hoặc ngược lại. AN.iii.261-7.
 
 ## Notes

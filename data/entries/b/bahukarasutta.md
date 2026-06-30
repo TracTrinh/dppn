@@ -5,7 +5,7 @@ base_headword: "Bahukārasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahukārasutta. Three persons who are very helpful to one another he who leads t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahukārasutta. Ba người có ích to lớn cho một người khác: người dẫn dắt đến quy y Tam bảo, người nhờ họ mà một người liễu ngộ được khổ đau, v.v., và người dẫn dắt một người đi đến sự đoạn tận các āsava. AN.i.123.
 
 ## Notes

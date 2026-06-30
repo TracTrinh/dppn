@@ -5,7 +5,7 @@ base_headword: "Badaravallī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Badaravallī. The scene of a battle between the forces of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Badaravallī. Nơi diễn ra trận chiến giữa quân đội của Māṇābharaṇa và quân đội của Parakkamabāhu I. Cv.lxxii.96.
 
 ## Notes

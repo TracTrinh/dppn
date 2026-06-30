@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "07"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 07. The practice of these five powers (*saddhā*, *viriya*, *sati*, *s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 07. Việc thực hành năm sức mạnh này (*saddhā*, *viriya*, *sati*, *samādhi*, *paññā*) là con đường dẫn đến sự Vô vi. SN.iv.366.
 
 ## Notes

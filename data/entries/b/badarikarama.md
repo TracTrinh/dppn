@@ -5,7 +5,7 @@ base_headword: "Badarikārāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -31,6 +31,6 @@ Badarikārāma. A park about three miles from <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Badarikārāma. Một công viên cách Kosambī khoảng ba dặm, nơi Khemaka lưu lại trong thời gian ngã bệnh (SN.iii.126). Các tỳ-kheo từ Ghositārāma đã đến thăm ông (SN­a.ii.230). Đức Phật được cho là đã ngụ tại đó và thuyết giảng Tipallatthamigajātaka (Ja 16, Ja.i.160) cùng Tittirajātaka (Ja 319, Ja.iii.64) liên quan đến Rāhula (xem mục từ này), người đã trải qua trọn một đêm trong nhà vệ sinh của Đức Phật tại Badarikārāma vì không muốn vi phạm giới luật do Đức Phật đặt ra rằng không sa-di nào được ngủ chung phòng với một vị tỳ-kheo đã thọ cụ túc giới (xem thêm Vin.iv.16).
 
 ## Notes

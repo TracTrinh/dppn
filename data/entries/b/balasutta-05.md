@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "05"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 05. On the ten powers of an *Arahant*, whereby he knows that his *āsa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 05. Về mười sức mạnh của một vị *Arahant*, nhờ đó vị ấy biết rằng các *āsava* của mình đã đi đến chỗ đoạn tận. AN.v.174f.
 
 ## Notes

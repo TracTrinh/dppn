@@ -5,7 +5,7 @@ base_headword: "Atthadassī"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Atthadassī 04. A Thera in Ceylon, supposed by some to be the author of the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthadassī 04. Một vị Thera ở Ceylon, được một số người cho là tác giả của Bhesajjamañjūsā và từng là người đứng đầu Pañcamūla Pariveṇa. *Pāli Literature* của Ceylon, 215.
 
 ## Notes

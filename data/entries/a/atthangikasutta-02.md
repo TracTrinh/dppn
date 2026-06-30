@@ -5,7 +5,7 @@ base_headword: "Aṭṭhangikasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhangikasutta 02. On the unworthy man, the still more unworthy man and the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhangikasutta 02. Bàn về người không xứng đáng, người còn kém xứng đáng hơn và người xứng đáng. AN.ii.220f.
 
 ## Notes

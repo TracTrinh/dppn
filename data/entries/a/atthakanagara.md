@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakanagara"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Aṭṭhakanagara. A city, from which came the householder <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakanagara. Một thành phố, nơi xuất thân của gia chủ Dasama, người mà trong khi đến thăm Pāṭaliputta vì công việc làm ăn, đã đến gặp Ānanda ở Beluvagāma và đặt câu hỏi cho ngài (MN.i.349f.; AN.v.342-7). Cuộc trò chuyện được ghi lại trong Aṭṭhakanāgarasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bakkulasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Bakkulasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakkulasutta. Người bạn của Bakkula, Acela Kassapa, đến thăm ông tại Veḷuvana ở Rājagaha. Bakkula kể cho ông nghe về cuộc đời mình trong suốt tám mươi năm làm tỳ-kheo, và Kassapa mong muốn được xuất gia dưới sự chỉ dẫn của ông. Ngay sau đó, Kassapa trở thành một vị Arahant, và Bakkula viên tịch khi đang ngồi trên giàn thiêu của chính mình. MN.iii.124ff.
 
 ## Notes

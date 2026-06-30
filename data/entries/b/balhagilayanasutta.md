@@ -5,7 +5,7 @@ base_headword: "Bāḷhagilāyanasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bāḷhagilāyanasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāḷhagilāyanasutta (hoặc Bāḷhagihīnayasutta, nhưng xem KS.v.268, chú thích 2). Một số tỳ-kheo đến thăm Anuruddha, người đang ốm nặng tại Andhakavana, và hỏi ông tại sao những cảm giác đau đớn lại không tạo ra sự ấn tượng nào trong tâm trí ông. Ông trả lời rằng đó là vì ông đã có nền tảng vững chắc trong bốn *satipaṭṭhāna* (bốn niệm xứ). SN.v.302.
 
 ## Notes

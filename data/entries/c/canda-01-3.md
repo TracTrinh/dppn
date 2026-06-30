@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Candā 01. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 01. Vợ của Sudinna và là mẹ của Đức Phật Piyadassī (Ja.i.39). Trong *Buddhavaṁsa* (xiv.15), bà được gọi là Sucandā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aṭaṭa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṭaṭa. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭaṭa. Một trong những địa ngục Avīci xuất hiện trong danh sách tên các địa ngục (SN.i.150; Sn.126). Buddhaghosa (SN­a.i.170; Snp-a.476) nói rằng đây không phải là tên của các địa ngục riêng biệt, mà chỉ là những khoảng thời gian trong Avīci được phân bổ cho mỗi người bước vào bởi sự vận hành của Kamma.
 
 ## Notes

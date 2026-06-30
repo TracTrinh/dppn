@@ -5,7 +5,7 @@ base_headword: "Āvaraṇanīvaraṇasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvaraṇanīvaraṇasutta (Nīvaraṇāvaraṇasutta). Năm điều chế ngự tâm trí và làm suy yếu tuệ giác: *kāmacchanda*, *vyāpāda*, *thīnamiddha*, *uddhaccakukkucca* và *vicikicchā*, tức là năm triền cái, và bảy *bojjhaṅga* đối trị chúng và dẫn đến việc đạt được sự giải thoát thông qua sự hiểu biết. SN.v.94-6.
 
 ## Notes

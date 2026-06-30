@@ -5,7 +5,7 @@ base_headword: "Āyāgadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyāgadāyaka Thera. Một vị *Arahant*. Trong một kiếp trước ngài đã thành kính bái lạy *Thūpa* của Sikhī Buddha với một trái tim hân hoan và đưa tiền cho thợ mộc xây một *āyāga* (một sảnh đường dài để dùng bữa bố thí, theo Ap-a.). Kết quả là ngài được tái sinh vào cõi trời và có thể thu phục được cả chư thiên. Ngài có thể tạo ra mưa theo ý muốn. Ap.i.89-90.
 
 ## Notes

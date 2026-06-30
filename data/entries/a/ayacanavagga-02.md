@@ -5,7 +5,7 @@ base_headword: "Āyācanavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyācanavagga 02. Phẩm thứ ba của Rādha Saṁyutta thuộc Saṁyuttanikāya. SN.iii.198-200.
 
 ## Notes

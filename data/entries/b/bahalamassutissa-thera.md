@@ -5,7 +5,7 @@ base_headword: "Bahalamassutissa Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bahalamassutissa Thera. He was a pupil of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahalamassutissa Thera. Ông là học trò của Mahā Tissa, và khi Mahā Tissa bị các tỳ-kheo Mahā Vihāra trục xuất vì hành vi sai trái, Bahalamassutissa đã tức giận rời khỏi Mahā Vihāra và, khi cư trú tại Abhayagiri, đã thành lập một phe phái riêng biệt tại đó. Mhv.xxxiii.96.
 
 ## Notes

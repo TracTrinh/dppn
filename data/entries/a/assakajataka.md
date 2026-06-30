@@ -5,7 +5,7 @@ base_headword: "Assakajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Assakajātaka (Ja 207). The story of King <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assakajātaka (Ja 207). Câu chuyện về vua Assaka (2). Câu chuyện này được kể cho một vị tỳ-kheo đang bị xao nhãng bởi hồi tưởng về người vợ trước của mình. Vị ấy chính là Assaka trong kiếp trước. Ja.ii.158.
 
 ## Notes

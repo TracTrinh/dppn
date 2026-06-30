@@ -5,7 +5,7 @@ base_headword: "Cālā"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cālā 03. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cālā 03. Một trong hai nữ đệ tử chính của Đức Phật Phussa. Bv.xix.20; Ja.i.41.
 
 ## Notes

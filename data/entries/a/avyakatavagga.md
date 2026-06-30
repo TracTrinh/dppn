@@ -5,7 +5,7 @@ base_headword: "Avyākatavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Avyākatavagga. The fourth chapter of the *Sattakanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avyākatavagga. Phẩm thứ tư của *Sattakanipāta* thuộc Aṅguttaranikāya (AN.iv.67-98). Nó chứa mười *Sutta* về nhiều chủ đề khác nhau như bảy cõi của con người (*purisagati*), *anupādā Parinibbāna*, sự hiểu biết mà các Phạm thiên có được về *sa-upādisesanibbāna* và *anupādisesanibbāna*, được Moggallāna truyền thụ cho họ, lý do tại sao Pháp sẽ không tồn tại lâu dài, bảy loại người vợ giống như những kẻ sát nhân, v.v.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atthakaraṇasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,8 @@ The Buddha tells him that their action in doing so will be a source of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthakaraṇasutta. (*v.l.* Aṭṭakaraṇasutta). Pasenadi kể cho Đức Phật nghe về việc khi ông đang ngồi trong sảnh phán quyết (*atthakaraṇa*), những quý tộc, những Bà-la-môn và những trưởng giả xuất chúng đã cố tình nói dối vì những ham muốn trần tục của họ và ông đã cảm thấy kinh tởm như thế nào.
+
+Đức Phật nói với ông rằng hành động làm như vậy của họ sẽ là nguồn gốc gây ra đau khổ cho họ trong một thời gian dài. SN.i.74f.
 
 ## Notes

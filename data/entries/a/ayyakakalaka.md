@@ -5,7 +5,7 @@ base_headword: "Ayyakākālaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,8 @@ But the bull would not let him go till all the money had been paid. The earnings
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayyakākālaka. Bodhisatta đã từng giáng sinh làm một con bò mộng đen nhánh như than. Khi còn là một con bê con, chú đã được những người chủ trao cho một bà lão, người đã nuôi nấng chú như một người con trai; do đó chú có tên gọi là (“Con đen của bà”). Những cậu bé trong làng thường cưỡi trên lưng chú để chơi đùa. Một lần chú nhìn thấy một thương gia đang cố gắng đưa năm trăm cỗ xe của mình vượt qua một khúc sông cạn; những con bò mộng của người thương gia không đủ khỏe để làm công việc này, và khi nhìn thấy Bodhisatta, người thương gia đã cố gắng tận dụng sức lực của chú. Bodhisatta chỉ đồng ý sau khi được hứa trả một ngàn. Công việc hoàn thành, người thương gia cố gắng lừa chú, chỉ trả một nửa số tiền đã hứa.
+
+Nhưng con bò mộng nhất quyết không để ông ta đi cho đến khi tất cả số tiền được trả đủ. Chú mang số tiền kiếm được theo cách đó về cho bà lão, người đã vô cùng vui mừng. Xem Ja 29, Kaṇhajātaka, Ja.i.194-6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atimbara"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atimbara. Minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atimbara. Vị đại thần của Dūṭṭhagāmaṇi. SdS.77.
 
 ## Notes

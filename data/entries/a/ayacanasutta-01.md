@@ -5,7 +5,7 @@ base_headword: "Āyācanasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -33,6 +33,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyācanasutta 01. Vị sư chân chính, nếu muốn phát nguyện một cách hoàn hảo, nên mong ước được giống như Sāriputta và Moggallāna; tỳ-kheo-ni thì giống như Khemā và Uppalavaṇṇā; nam cư sĩ giống như Citta và Hatthaka; nữ gia chủ giống như Khujjuttarā và Veḷukaṇṭakī, mẹ của Nanda. AN.ii.164.
 
 ## Notes

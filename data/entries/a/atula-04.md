@@ -5,7 +5,7 @@ base_headword: "Atula"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Atula 04. A celebrated physician of old, mentioned in a list with six others. Mi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atula 04. Một danh y thời xưa, được đề cập trong một danh sách cùng với sáu người khác. Mil.272.
 
 ## Notes

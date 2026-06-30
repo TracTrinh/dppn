@@ -5,7 +5,7 @@ base_headword: "Baka"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -43,6 +43,12 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baka 01. Bakabrahma. Khi Đức Phật từng trú tại Ukkaṭṭhā trong khu rừng Subhagavana, Ngài đọc được tâm tư của Baka, người đã nảy sinh ý nghĩ rằng thế giới này là thường hằng và thoát khỏi sự suy tàn và cái chết; và Đức Phật đã đến thăm ông để chỉ ra sai lầm của ông.
+
+Baka chào đón Đức Phật nhưng, do sự tác động của Māra, đã từ chối thừa nhận lỗi lầm của mình, cho đến khi Đức Phật, bằng cách sử dụng thần thông của Ngài, ngăn không cho Baka biến mất khỏi tầm nhìn, trong khi chính Ngài thì tan hòa vào trong bóng tối hoàn toàn. Sau đó, Đức Phật tiến hành kể cho ông nghe về bốn sự kiện liên quan đến các tiền kiếp của ông (MN.i.326ff.; SN.i.142ff).
+
+Baka từng sinh ra trong một gia đình quý tộc, nhưng ông đã từ bỏ thế gian và trở thành một tu sĩ khổ hạnh tên là Kesava. Một ngày nọ, khi thấy một đoàn lữ hành đang gặp nạn trên sa mạc, bằng thần thông của mình, ông đã hóa phép ra một dòng sông chảy vào sa mạc, qua đó cứu thoát các thành viên của đoàn lữ hành. Trong một dịp khác, khi đang ở bên bờ sông Eṇī, gần một ngôi làng biên giới, ông phát hiện ngôi làng đang bị tấn công bởi những tên cướp, ông đã xua đuổi chúng bằng cách tạo ra một ảo ảnh cho chúng thấy cảnh sát hoàng gia đang tiến đến, với chính ông đi đầu. Vào một ngày khác, ông nhìn thấy người ta đang thả trôi trên những chiếc thuyền xuôi dòng sông, vui đùa, ca hát và uống rượu. Vị Nāga của dòng sông, tức giận trước hành vi của họ, đã hiện ra trước mặt họ, đe dọa sự hủy diệt. Kesava, mang hình dạng của một Garuḍa, đã dọa Nāga bỏ chạy. Sự kiện thứ tư được kể trong Kesavajātaka (Ja 346). Bodhisatta, được biết đến với tên Kappa, là học trò của Kesava. Kesava, qua việc thực hành thiền định, đã phát triển được *jhāna* thứ tư và tái sinh vào cõi Vehapphala. Trong thời gian ở đó, ông đã phát triển *jhāna* thứ ba và tái sinh vào cõi Subhakiṇha. Từ đó, ông giáng xuống cõi Ābhassara, và sau này, nhờ thực hành *jhāna* thứ nhất, ông lại tái sinh vào cõi đó, nhưng với thọ mạng chỉ dài một *kappa* (Ja.iii.358 ff.; SN­a.i.164 f.; MN­a.i.553 ff).
+
+Xem thêm Bakabrahmasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āvaraṇatāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvaraṇatāsutta. Sáu điều kiện khiến một người không thể nào, ngay cả khi người đó có nghe Pháp, bước vào Đạo (*niyāmaṁ okkamituṁ*) vốn bao gồm những việc làm tốt lành: giết cha, giết mẹ hoặc giết *Arahant*, cố ý gây thương tích cho cơ thể của Đức Phật, gây chia rẽ trong giới nhà sư, ngu ngốc, đần độn, điếc và câm. AN.iii.436-7.
 
 ## Notes

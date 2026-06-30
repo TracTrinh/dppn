@@ -5,7 +5,7 @@ base_headword: "Avavādakā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -38,6 +38,6 @@ In <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avavādakā. Một cô gái người Licchavī. Cha của cô là một Nigaṇṭha, người đã đến Vesālī để tổ chức các cuộc thảo luận và tại đó đã gặp một phụ nữ Nigaṇṭhī, người mà ông đã kết hôn cùng. Avavādakā có ba người chị em gái là Saccā, Lolā và Paṭācārā cùng một người anh em trai tên là Saccaka. Những người con này đã học từ cha mẹ mình một ngàn luận điểm để thảo luận, và sau khi cha mẹ qua đời, các chị em gái đã trở thành những *Paribbājaka*. Trong suốt những chuyến đi lang thang của mình, bất cứ khi nào họ vào một thành phố, họ đều đặt tại cổng thành một nhánh cây *jambu*, như một lời thách thức đối với bất cứ ai có thể muốn tổ chức một cuộc đàm luận triết học với họ.\n\nỞ Sāvatthī, Sāriputta đã chấp nhận lời thách thức, và ở cuối cuộc đàm luận ngài đã cải hóa được họ. Sau này họ đã trở thành những vị *Arahant*. Câu chuyện về quá khứ của họ được đưa ra trong Cūḷa Kāliṅgajātaka (Ja 301). Ja.iii.1ff.
 
 ## Notes

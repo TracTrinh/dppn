@@ -5,7 +5,7 @@ base_headword: "Bālavagga"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bālavagga 04. The first chapter of the *Tikanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālavagga 04. Phẩm thứ nhất của *Tikanipāta* thuộc Aṅguttaranikāya. AN.iii.101-5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ayya Uttiya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ayya Uttiya (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayya Uttiya (Ayya Uttika). Anh trai của Tissa, vua xứ Kalyāṇī. Ông là người tình của hoàng hậu và, bị phát hiện, ông đã chạy trốn khỏi thủ đô và sống tại một khu vực sau này được đặt theo tên của ông. Ông đã gửi một bức thư cho hoàng hậu thông qua một người đàn ông cải trang thành một nhà sư, nhưng âm mưu này đã bị phát hiện (Mhv.xxii.13ff; Mhv­ṭ.307). Đối với phần còn lại của câu chuyện, xem Kalyāṇitissa. Để biết thông tin tham khảo, hãy đọc Mhv­ṭ.431. Tỉnh này nằm gần biển (*samuddatīrasamipe*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Avijjāsutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avijjāsutta 01. The ignorance of *puthujjanas* consists in not knowing the natu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāsutta 01. Sự vô minh của những *puthujjana* nằm ở chỗ không biết được bản chất, sự phát sinh, sự đoạn diệt và con đường dẫn đến điều đó, đối với năm uẩn. SN.iii.162.
 
 ## Notes

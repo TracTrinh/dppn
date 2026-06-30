@@ -5,7 +5,7 @@ base_headword: "Bakajātaka"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,8 @@ The story was told in reference to a hypocrite who is identified with the crane.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakajātaka 02. (Ja 236). Bodhisatta từng là thủ lĩnh của một đàn cá lớn. Một con sếu, muốn ăn thịt chúng, đã đứng trên bờ ao với đôi cánh dang rộng, ánh mắt ngây dại nhìn vào khoảng không. Bầy cá bị ấn tượng bởi vẻ bề ngoài đạo mạo của nó, nhưng đã được Bodhisatta cảnh báo về nó.
+
+Câu chuyện được kể liên quan đến một kẻ đạo đức giả được đồng nhất với con sếu. Ja.ii.233f.
 
 ## Notes

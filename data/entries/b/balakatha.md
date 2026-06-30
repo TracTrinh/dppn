@@ -5,7 +5,7 @@ base_headword: "Balakathā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Balakathā. The ninth chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balakathā. Phẩm thứ chín của Yuganandhavagga thuộc Paṭisambhidāmagga.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Attasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Attasutta 01. Self-possession is the forerunner of the Eightfold Path. SN.v.36.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attasutta 01. Sự tự chủ (*Self-possession*) là tiền đề của Bát Thánh đạo. SN.v.36.
 
 ## Notes

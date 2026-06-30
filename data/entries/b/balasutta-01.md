@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 01. The four powers: energy, mindfulness, concentration and wisdom. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 01. Bốn sức mạnh: tấn, niệm, định và tuệ. AN.ii.252.
 
 ## Notes

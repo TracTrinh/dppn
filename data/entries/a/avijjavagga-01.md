@@ -5,7 +5,7 @@ base_headword: "Avijjāvagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāvagga 01. The thirteenth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāvagga 01. Phẩm thứ mười ba của Khandhasaṁyutta. SN.iii.170-7.
 
 ## Notes

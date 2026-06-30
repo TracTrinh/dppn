@@ -5,7 +5,7 @@ base_headword: "Assaka"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assaka 01. A king mentioned in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaka 01. Một vị vua được đề cập trong Nimijātaka (Ja 541), trong một danh sách các vị vua, chẳng hạn như Dudīpa, Sāgara, Sela, v.v., những người mà mặc dù đã thực hiện nhiều cuộc tế lễ lớn, vẫn không thể vượt qua khỏi thế giới của ngạ quỷ (*Peta*). Ja.vi.99.
 
 ## Notes

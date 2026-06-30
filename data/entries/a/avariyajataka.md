@@ -5,7 +5,7 @@ base_headword: "Avāriyajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -32,6 +32,6 @@ The story was told regarding a foolish ferryman of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avāriyajātaka (Ja 376). Ngày xưa, khi Bodhisatta là một vị ẩn sĩ, nhận lời mời của Vua xứ Benares, ngài đã cư ngụ trong khu vườn hoàng gia, khuyên răn vị vua về các đức tính của sự công chính và lòng trắc ẩn. Vui lòng với ngài, nhà vua muốn tặng ngài một ngôi làng có doanh thu là một ngàn, nhưng vị ẩn sĩ đã từ chối món quà đó. Trong mười hai năm vị ẩn sĩ đã sống trong khu vườn; sau đó, mong muốn có sự thay đổi, ngài đã rời đi, và trong quá trình du hành của mình, ngài đã đến một bến phà trên sông Ganges, nơi có một người lái đò ngu ngốc tên là Avāriyapitā sinh sống. Ông ta đưa Bodhisatta sang sông, theo lời hứa của ngài là sẽ cho ông ta biết cách gia tăng tài sản, sự an vui và đức hạnh của mình. Khi đến bờ bên kia, Bodhisatta khuyên người lái đò về sự mong muốn nhận được tiền vé của ông ta trước khi sang sông nếu ông ta muốn gia tăng tài sản; sau đó ngài tiếp tục đọc cho ông ta những bài kệ về đức tính của lòng trắc ẩn, điều mà trong mười hai năm, ngài đã đọc hàng ngày cho vị vua nghe. Tức giận khi cảm thấy mình bị lừa mất tiền, người lái đò bắt đầu đánh vị ẩn sĩ; vợ ông ta, mang thức ăn đến cho ông ta, đã cố gắng ngăn cản. Ngay lập tức ông ta đánh bà, làm đổ thức ăn và khiến thai nhi trong bụng bà bị sẩy. Ông ta bị đưa ra trước mặt vua và bị trừng phạt.\n\nLời khuyên tốt đẹp thật lãng phí đối với những kẻ ngu ngốc, giống như vàng khối ròng đối với loài cầm thú.\n\nCâu chuyện này được kể lại về một người lái đò ngu ngốc ở sông Aciravatī. Khi một vị sư nhất định đến chỗ ông ta vào một buổi chiều để được đưa sang sông, người lái đò đã bực mình và bẻ lái tệ đến mức làm ướt y phục của vị sư và làm chậm trễ chuyến đi của ngài. Hai người lái đò này là cùng một người (Ja.iii.228-32).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cakkhusutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cakkhusutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkhusutta 01. Được thuyết cho Rāhula tại Jetavana. Đức Phật chỉ cho ông thấy làm thế nào con mắt và tất cả các giác quan khác đều chóng vánh và dẫn đến sự khổ đau. Do đó, người đệ tử được dạy dỗ chu đáo nên nhàm chán các giác quan. SN.ii.244, cũng như 249.
 
 ## Notes

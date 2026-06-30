@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 04. On the seven powers: faith, self respect (*hiri*), fear of blame, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 04. Về bảy sức mạnh: tín, lòng tự trọng (*hiri*), sự e ngại khiển trách, tấn, tuệ, niệm và định. AN.iv.3.
 
 ## Notes

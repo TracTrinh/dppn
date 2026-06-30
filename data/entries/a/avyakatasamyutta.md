@@ -5,7 +5,7 @@ base_headword: "Avyākatasaṁyutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avyākatasaṁyutta. The forty-fourth section of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avyākatasaṁyutta. Phần thứ bốn mươi bốn của Saṁyuttanikāya. SN.iv.374.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Badarībhātikamāna"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Badarībhātikamāna. A locality in Ceylon, mentioned in the account of the camp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Badarībhātikamāna. Một địa danh ở Ceylon, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxx.148.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assāroha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Assāroha. Probably a nickname for the horse-trainer whose visit to the Buddha i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assāroha. Có thể là một biệt danh của người huấn luyện ngựa mà chuyến viếng thăm Đức Phật của ông được ghi lại trong Assasutta. Ông được miêu tả là một *gāmaṇi* (trưởng làng). SN.iv.310.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assapāla"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,6 @@ Assapāla. The second son of King <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assapāla. Người con trai thứ hai của vị giáo sĩ của vua Esukārī. Ông sinh ra ở thế giới loài người theo yêu cầu của Sakka. Cha ông đã cho người nuôi dưỡng ông ở giữa những người chăn ngựa (*assapālā*) để ông không muốn từ bỏ thế gian. Các anh em của ông là Hatthipāla, Gopāla và Ajapāla. Ông đã theo Hatthipāla vào cuộc sống ẩn sĩ và sống trên bờ sông Ganges (Ja.iv.476ff). Ông chính là Sāriputta trong thời hiện tại (Ja.iv.491).
 
 ## Notes

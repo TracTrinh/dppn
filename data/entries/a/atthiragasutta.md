@@ -5,7 +5,7 @@ base_headword: "Atthirāgasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atthirāgasutta. All existence is the result of attachment to the four kinds of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthirāgasutta. Mọi sự tồn tại đều là kết quả của sự dính mắc vào bốn loại thức ăn: *kabaliṅkāra* (đoàn thực), *phassa* (xúc thực), *mano sañcetanā* (tư niệm thực), và *viññāṇa* (thức thực). Điều này được giải thích bằng nhiều ví dụ so sánh khác nhau. SN.ii.101-4.
 
 ## Notes

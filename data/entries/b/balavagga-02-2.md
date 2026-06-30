@@ -5,7 +5,7 @@ base_headword: "Bālavagga"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bālavagga 02. The third chapter of the *Dukanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālavagga 02. Phẩm thứ ba của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.59-61.
 
 ## Notes

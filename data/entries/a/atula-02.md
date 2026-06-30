@@ -5,7 +5,7 @@ base_headword: "Atula"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atula 02. A *nāga* king. The Bodhisatta in the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atula 02. Một vua *nāga*. *Bodhisatta* trong thời của Đức Phật Sumana. Ngài đã cho chơi nhạc trước Đức Phật và dâng cho ngài một cặp y. Ja.i.34; Bv.v.15f.; Mbv.10.
 
 ## Notes

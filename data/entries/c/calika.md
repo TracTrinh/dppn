@@ -5,7 +5,7 @@ base_headword: "Cālikā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -35,6 +35,10 @@ Outside the city gate and all around the city was a bog (*calapaṅka*), owing t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cālikā *v.l.* Jālikā. Một ngôi làng gần Cālikapabbata, nơi Đức Phật đã trải qua các *mùa an cư* của những năm thứ mười ba, mười tám và mười chín sau khi Giác ngộ (Bv­a.3).
+
+Thị giả của ngài trong một trong những chuyến viếng thăm này là Meghiya. Gần Cālikā là ngôi làng Jantu nơi Meghiya đã đến khất thực. Ở khu vực lân cận có con sông Kimikālā, trên bờ sông có một vườn xoài (AN.iv.354; Ud.iv.1; Dhp­a.i.287f).
+
+Bên ngoài cổng thành và xung quanh thành phố là một bãi lầy (*calapaṅka*), do đó thành phố tạo ấn tượng đang di chuyển, do đó có tên như vậy (Ud­a.217; AN­a.ii.793).
 
 ## Notes

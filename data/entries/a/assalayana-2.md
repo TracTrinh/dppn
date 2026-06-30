@@ -5,7 +5,7 @@ base_headword: "Assalāyana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,10 @@ Assalāyana sits silent and upset at the end of the discourse, but when the Budd
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assalāyana ngồi im lặng và buồn bực ở cuối bài giảng, nhưng khi Đức Phật kể cho vị ấy nghe một câu chuyện về quá khứ nơi Asitadevala đã đánh bại những người Bà-la-môn có cùng quan điểm này, Assalāyana cảm thấy nhẹ nhõm và bày tỏ sự ngưỡng mộ đối với sự giải thích của Đức Phật. Vị ấy tuyên bố mình là một người theo Đức Phật (MN.ii.147ff). Buddhaghosa (MN­a.ii.785) còn cho chúng ta biết thêm rằng Assalāyana đã trở thành một tín đồ sùng đạo và xây dựng một *cetiya* ngay tại tư dinh của mình để thờ phụng, và tất cả con cháu của ông, cho đến tận thời của Buddhaghosa, đều xây dựng những *cetiya* tương tự trong nhà của họ.
+
+Assalāyana có thể được đồng nhất với cha của Mahā Koṭṭhita, vợ của ông là Candavatī. Tuy nhiên, có một khó khăn liên quan đến giả thuyết này: Mahā Koṭṭhita nói rằng ngài đã được thu phục vào đức tin sau khi nghe cùng một bài thuyết pháp của Đức Phật đã chuyển hóa cha mình (*yadā me pitaraṁ Buddho vinayī sabbasuddhiyā*) (Thag­a.i.31; Ap.ii.480). Thật khó xảy ra, nếu sự đồng nhất này là chính xác, rằng điều này đề cập đến Assalāyanasutta, bởi vì vào thời điểm *Sutta* đó diễn ra, Assalāyana mới chỉ mười sáu tuổi; nhưng không có bất kỳ ghi chép nào về một *Sutta* khác được thuyết giảng cho Assalāyana, đề cập đến “*sabbasuddhi*”.
+
+Tên của Assalayāna xuất hiện trong một danh sách các Bà-la-môn nổi tiếng được tìm thấy trong Bản chú giải Suttanipāta (i.372).
 
 ## Notes

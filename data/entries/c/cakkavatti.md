@@ -5,7 +5,7 @@ base_headword: "Cakkavatti"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -82,6 +82,36 @@ A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="43" data-dppn-term-c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavatti. Tên đặc biệt được đặt trong kinh điển cho một vị vua cai trị thế giới (Chuyển luân vương). Bản thân từ này có nghĩa là "Người xoay chuyển bánh xe", Bánh xe (*Cakka*) là biểu tượng đế chế nổi tiếng của Ấn Độ. Có một số tính ngữ tiêu chuẩn được dùng để mô tả một Cakkavatti:
+
+- dhammiko, dhammarājā, cāturanto (bậc trị vì bốn phương),
+- vijitāvī (người chinh phục),
+- janapadatthavāriyappatto (người bảo vệ lợi ích của dân chúng), và
+- sattaratanasamannāgato (người sở hữu Bảy Báu vật).
+
+Ngài có hơn một ngàn người con trai; lãnh thổ của ngài trải rộng khắp trái đất cho đến tận đại dương (*sāgarapariyantaṁ*); và được thiết lập không phải bằng đòn roi, không phải bằng gươm giáo, mà bằng sự công chính (*adaṇḍena asatthena dhammeneva abhivijiva*). Các chi tiết cụ thể chủ yếu được tìm thấy trong các bài kinh Mahā Sudassana, Mahāpadāna, Cakkavattisīhanāda, Bālapaṇḍita và Ambaṭṭhasutta. Xem thêm SN.v.98.
+
+Từ kinh Mahāpadānasutta, có vẻ như sự ra đời của một Cakkavatti cũng kèm theo những phép mầu giống như sự ra đời của một vị Phật. Thời niên thiếu của một Cakkavatti cũng giống như của Đức Phật; ngài cũng sở hữu trên thân mình những Mahā Purisalakkhaṇāni, và các nhà tiên tri chỉ có thể dự đoán khi đứa trẻ chào đời rằng một trong hai định mệnh đang chờ đợi ngài.
+
+Trong số Bảy Báu vật của một Cakkavatti, Cakkaratana là báu vật chính. Khi ngài đã đi qua Bốn Châu lục: Pubbavideha, Jambudīpa, Aparagoyāna, Uttarakuru cùng với Cakkaratana, nhận được sự trung thành của tất cả cư dân và khuyên bảo họ sống cuộc đời đạo đức, ngài trở về thành phố quê hương của mình.
+
+Sau Bánh xe, các Báu vật khác lần lượt xuất hiện:
+
+- đầu tiên là Voi, Hatthiratana; nó hoặc là con voi trẻ nhất của Chaddantakula hoặc là con lớn nhất của Uposathakula.
+- Tiếp theo là Ngựa, Assaratana, tên là Valāhaka, toàn thân màu trắng với đầu đen như quạ, và bờm sẫm màu, có khả năng bay qua không trung.
+- Sau đó là viên ngọc Veḷuriya từ Vepullapabbata, với tám mặt, đẹp nhất trong loại của nó, tỏa ánh sáng khắp một do-tuần xung quanh.
+- Tiếp theo là Người Nữ, thuộc dòng dõi hoàng gia của Madda hoặc Uttarakuru, đáng mong cầu về mọi mặt, cả vì vẻ đẹp hình thể lẫn phẩm hạnh đạo đức của nàng.
+- Kế đến là Vị Thủ Quỹ (Gahapati) sở hữu tầm nhìn kỳ diệu, cho phép vị ấy khám phá ra các kho báu,
+- và cuối cùng là Vị Cố vấn (Parināyaka), thường là người con trai cả của Cakkavatti.
+
+(Để biết mô tả về những điều này, hãy xem DN.ii.174f; DN­a.ii.624f; MN­a.ii.941f).
+
+Đánh giá từ câu chuyện về Mahā Sudassana, vị Cakkavatti tiêu biểu, Hoàng đế Thế giới cũng có bốn ân tứ (*iddhi*) khác: vóc dáng tuyệt vời, tuổi thọ dài hơn những người đàn ông khác, sức khỏe tốt, và sự mến mộ của tất cả các tầng lớp thần dân của ngài. Hương thơm của gỗ đàn hương tỏa ra từ miệng ngài, trong khi thân thể ngài giống như một bông hoa huệ. Khi Cakkavatti sắp băng hà, Bánh xe trượt khỏi vị trí của nó và chìm xuống một chút. Khi nhà vua nhìn thấy điều này, ngài từ bỏ đời sống gia đình, và lui về sống không nhà, để nếm trải những niềm vui của sự chiêm nghiệm, sau khi trao lại vương quốc cho người con trai cả. Khi nhà vua băng hà, Voi, Ngựa và Ngọc trở về nơi chúng đã xuất phát, Người Nữ đánh mất vẻ đẹp của mình, Vị Thủ Quỹ mất đi tầm nhìn chư thiên, và Vị Cố vấn mất đi năng lực của mình (DN­a.ii.635).
+
+Cakkavatti rất hiếm trên thế giới, và sinh ra trong những *kappa* mà chư Phật không xuất hiện (SN­a.iii.131). Tuy nhiên, kinh Cakkavattisīhanādasutta đưa ra tên của bảy vị đã kế vị nhau. Trong trường hợp của mỗi người, Bánh xe đã biến mất, nhưng, khi người kế vị thực hành bổn phận bậc Thánh của một Cakkavatti, tôn vinh Pháp và tuân theo một cách hoàn hảo, Bánh xe lại xuất hiện. Trong trường hợp của vị thứ bảy, những phẩm hạnh của ngài dần dần biến mất do sự lãng quên; tội ác lan rộng trong số thần dân của ngài, và Bánh xe biến mất vĩnh viễn.
+
+Trong các văn học thời kỳ đầu, thuật ngữ Cakkavatti dường như được dành riêng cho một vị vua cai trị Thế giới; nhưng sau đó có ba loại Cakkavatti được đề cập: *cakkavāḷacakkavatti* hay *cāturantacakkavatti* (cai trị bốn châu lục), *dīpacakkavatti* (cai trị một châu lục), và *padesacakkavatti* (cai trị một phần của một châu lục) (DN­a.i.249). Không có người phụ nữ nào có thể trở thành một Cakkavatti (những lý do cho điều này được đưa ra ở AN­a.i.254).
+
+Một Cakkavatti xứng đáng có một *Thūpa* (bảo tháp) như một vị Phật. DN.ii.143.
 
 ## Notes

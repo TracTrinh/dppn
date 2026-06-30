@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "09"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 09. Just as all deeds requiring strength are done with the earth as th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 09. Giống như tất cả các công việc cần đến sức lực đều được thực hiện với mặt đất làm nền tảng, cũng vậy, một vị tỳ-kheo, dựa vào giới luật làm nền tảng, tiến hành tu tập Bát Thánh đạo. SN.v.45 = SN.v.135.
 
 ## Notes

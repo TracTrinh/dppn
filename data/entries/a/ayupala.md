@@ -5,7 +5,7 @@ base_headword: "Āyupāla"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyupāla. Một vị Thera cư ngụ tại Saṅkheyya *Pariveṇa* gần Sāgala. Nhà chiêm tinh hoàng gia của Vua Milinda đã thông báo cho Trưởng lão rằng nhà vua muốn đến gặp ngài, và nhà vua, sau khi có được sự cho phép của ngài, đã đến thăm ngài tại *Pariveṇa*, có năm trăm người Yonaka đi theo tháp tùng. Nhà vua đã thảo luận với Trưởng lão về mục đích của những người trở thành nhà sư, và Āyupāla đã không thể đáp lại những lập luận của nhà vua. Mil.19f.
 
 ## Notes

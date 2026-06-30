@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Candā 02. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 02. Một trong hai nữ đệ tử chính của Đức Phật Vipassī. Ja.i.41; Bv.xx.29.
 
 ## Notes

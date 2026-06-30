@@ -5,7 +5,7 @@ base_headword: "Attasutta"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Attasutta 02. The self-possessed monk develops the Eightfold Path. SN.v.37.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attasutta 02. Vị tỳ-kheo có sự tự chủ thì phát triển Bát Thánh đạo. SN.v.37.
 
 ## Notes

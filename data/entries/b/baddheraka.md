@@ -5,7 +5,7 @@ base_headword: "Baddheraka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Baddheraka. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baddheraka. *v.l.* Pāveyyaka. Một con voi của nhà vua Kosala. Voi này trước kia rất cường tráng, nhưng khi già đi thì trở nên yếu ớt và, một ngày nọ, bị mắc kẹt sâu trong vũng bùn. Theo lệnh vua, người quản tượng mang trang phục chiến đấu tiến đến con voi và ra lệnh gióng trống trận. Lòng kiêu hãnh của voi được khơi dậy và nó đã vươn mình đứng dậy khỏi vũng bùn. (Dhp­a.iv.25f).
 
 ## Notes

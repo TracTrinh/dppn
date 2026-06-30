@@ -5,7 +5,7 @@ base_headword: "Baliharaṇa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Baliharaṇa. A forest tract (*vanasaṇḍa*) near <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baliharaṇa. Một khu rừng (*vanasaṇḍa*) gần Kusinārā nơi Đức Phật được cho là đã lưu lại (AN.i.274;v.79). Nó được gọi như vậy vì những người ở đó đã dâng đồ cúng tế cho nhiều loại tinh linh khác nhau (AN­a.i.457; MN­a.ii.826). Kinh Kintisutta đã được thuyết giảng tại đó (MN.ii.238).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Attadattha Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Attadattha Thera. When the Buddha announced that he would pass away in four mont
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attadattha Thera. Khi Đức Phật thông báo rằng ngài sẽ viên tịch trong bốn tháng nữa, nhiều vị tỳ-kheo phàm phu (*puthujjana*), vì lòng kính mến ngài, đã ở gần bên ngài, không biết phải làm gì. Nhưng Atthadattha, quyết tâm thực hiện mục tiêu xuất gia (*pabbajjā*) của mình ngay khi Đức Phật còn tại thế, đã sống ẩn cư, trong sự nỗ lực tinh tấn nghiêm túc. Hành động của vị ấy được báo cáo cho Đức Phật, ngài, khi biết mục đích của vị ấy là gì, đã khen ngợi vị ấy hết lời và lấy vị ấy làm tấm gương cho những người khác. Vào cuối bài thuyết pháp của Đức Phật, vị Thera đã trở thành một bậc *Arahant*. Dhp­a.iii.158-64.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Baladeva"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -29,6 +29,6 @@ Baladeva. The second of the sons of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baladeva. Người con trai thứ hai trong số các con trai của Devagabbhā, những anh em được biết đến với tên gọi Andhakaveṇhuputtā. Baladeva đã giết Cānura và Muṭṭhika. Muṭṭhika khi hấp hối đã thề sẽ trả thù và, sau khi tái sinh làm một con dạ xoa trong khu rừng Kāḷamattikā, đã mang hình dáng của một đô vật khi Baladeva đi ngang qua đó, rồi giết và ăn thịt ông. Ja.iv.81, 82, 88; Pv-a.11, 93.
 
 ## Notes

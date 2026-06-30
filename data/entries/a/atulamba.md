@@ -5,7 +5,7 @@ base_headword: "Atulamba"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Atulamba. The mango tree produced by the juggler <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atulamba. Cây xoài do nhà ảo thuật Bhaṇḍukaṇṇa biến ra để làm Hoàng tử Mahā Panāda bật cười. Cây xoài được biết đến như là cây xoài của Vessavaṇa và không ai có thể đến gần nó. Ja 489 Ja.iv.324; xem thêm ii.397.
 
 ## Notes

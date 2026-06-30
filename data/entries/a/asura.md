@@ -5,7 +5,7 @@ base_headword: "Asura"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -81,6 +81,30 @@ A story is told by the Buddha (SN.2, v.446) of a man who once saw a whole army w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asura, Asurakāya, Asuras. Trong Văn học Pāḷi, các *Asura* được xếp vào loại các vị thần thấp kém cùng với Supaṇṇa, Gandhabbas, Yakkha (DN­a.i.51), *Garuḷa* và Nāga (Mil.117).
+
+Sự tái sinh làm một Asura được coi là một trong bốn cõi tái sinh bất hạnh hay ác thú (*apāyā*), ba cõi còn lại là địa ngục (*niraya*), súc sinh (*tiracchānayoni*) và ngạ quỷ (*pettivisaya*) (ví dụ, It.93; Ja.vi.595; Ja.v.186; Pv.iv.11).
+
+Cuộc chiến giữa chư thiên và các *Asura* được đề cập ngay cả trong những cuốn sách cổ nhất của *Tipiṭaka* và được miêu tả bằng những từ ngữ giống hệt nhau trong một số đoạn văn (ví dụ, DN.ii.285; SN.i.222; iv.201ff; v.447; MN.i.253; AN.iv.432; xem thêm SN.i.216ff).
+
+Một thủ lĩnh hay vua của các *Asura* thường được gọi là *Asurinda*, một số *Asura* được cho là đóng vai trò lãnh đạo, tuy nhiên, phổ biến nhất là Vepacitti (ví dụ, SN.i.222; iv.201ff; Ja.i.205) và Rāhu (AN.ii.17, 53; iii.243). Sakka cũng được gọi là *Asurinda* và *Asurādhipa*; xem, ví dụ, Ja.i.66 (*Asurindena Paviṭṭha Devanagaraṁ viya*) và Ja.v.245, nơi chúng ta được biết rằng kể từ thời điểm vị ấy chinh phục các *Asura*, vị ấy được gọi là *Asurādhipa*.
+
+Bên cạnh những vị này, chúng ta còn thấy Pahārāda (AN.iv.197, 200) (*v.l.* Mahā Bhadda), Sambara (SN.i.227), Verocana (SN.i.225; có thể là một tên khác của Rāhu, xem DN­a.ii.689), Bali (DN.ii.259), Sucitti (DN.ii.269) và Namucī (DN.ii.269).
+
+Các *Asura* được cho là cư trú trong đại dương sau khi bị Vajirahattha (Indra, ở nơi khác, (Ja.v.139) gọi là Asurappamaddana) chinh phục và được gọi là những anh em của Vāsava, có thần thông kỳ diệu và vinh quang to lớn. Họ đã có mặt tại buổi thuyết giảng Mahā Samayasutta (xem DN­a.ii.689). Buddhaghosa nói rằng tất cả họ đều là hậu duệ của một thiếu nữ Asura tên là Sujātā. Đây không thể là Sujātā, con gái của Vepacitti, người mà Sakka đã kết hôn (Ja.i.205-6). Xem thêm Dānavā.
+
+Rõ ràng là có một số giai cấp *Asura*, và hai giai cấp được đề cập trong *Piṭaka*, Kāḷakañjaka và *Dānaveghasa*. Các *Dānaveghasa* mang cung trên tay. Các Kāḷakañjaka có hình thù đáng sợ (DN.ii.259), và được coi là tầng lớp thấp nhất trong số các *Asura* (DN.iii.7; xem thêm Kāḷaṅkajaka và Vepacitti).
+
+Có thời các *Asura* cư trú ở Tāvatiṁsa cùng với chư thiên. Khi Magha Māṇavaka sinh ra làm Sakka, vị ấy không thích ý tưởng chia sẻ một vương quốc với những người khác, và sau khi làm cho các *Asura* say xỉn, vị ấy đã sai người ném họ bằng chân xuống những sườn dốc của Sineru. Tại đó, họ lăn lộn vào nơi sau này được gọi là *Asurabhavana*, ở tầng thấp nhất của Sineru, có diện tích ngang bằng với Tāvatiṁsa. Ở đây có cây Cittapātalī mọc lên, và khi nó nở hoa, các *Asura* biết rằng họ không còn ở cõi trời nữa.
+
+Mong muốn giành lại vương quốc của mình, họ đã leo lên Sineru, “giống như đàn kiến leo lên một cây cột.” Khi báo động được ban ra, Sakka ra ngoài để giao chiến với họ trên đại dương, nhưng bị thất bại trong trận chiến, vị ấy đã bỏ chạy trên cỗ xe Vejayantaratha của mình. Lo sợ rằng cỗ xe của mình có thể làm bị thương những *Garuḷa* non, vị ấy đã cho quay xe lại. Các *Asura*, nghĩ rằng Sakka đã nhận được viện binh, liền quay đầu bỏ chạy thẳng vào *Asurabhavana*. Sakka quay trở lại thành phố của mình và trong khoảnh khắc chiến thắng đó, Vejayantapāsāda đã mọc lên từ mặt đất. Để ngăn chặn các *Asura* quay lại lần nữa, Sakka đã thiết lập năm trạm gác bao gồm các Nāga, *Garuḷa*, *Kumbhaṇḍa*, Yakkha và Tứ Đại Thiên Vương. Khắp nơi đều là hình ảnh của Indra tay cầm sấm sét. (Ja.i.202-4; Dhp­a.i.272-80; câu chuyện tương tự, hơi khác một chút về chi tiết, được tìm thấy trong Snp-a.484-5). Ở đó người ta nói rằng khi Sakka sinh ra giữa họ, các *Asura* đã tiếp đón vị ấy với sự thân mật lớn; xem thêm các sự kiện khác nhau của cuộc chiến *Asura* được đề cập trong Saṁyuttanikāya I. 216ff.
+
+Các *Asura* đôi khi được gọi là *Pubbadevā* (Snp-a.484) và vương quốc của họ rộng 10.000 do-tuần. Snp-a.485; ở một chỗ khác, trong cùng một trang, nó được cho là 100.000 do-tuần.
+
+Vào thời của Buddhaghosa, vẻ rực rỡ đã qua của từ *Asura* (tương đương với *Ahura*) dường như đã phai nhạt. Sự giải thích của ngài (SN­a.i.260) về cái tên này rất thú vị. Khi Sakka cùng những người theo mình sinh ra trong thế giới *Asura* (sau này trở thành Tāvatiṁsa), các *Asura* đã chuẩn bị một loại đồ uống gọi là *gaṇḍapāna*. Sakka cảnh báo các bạn đồng hành của mình không được uống nó, nhưng các *Asura* đã say xỉn và bị ném xuống Sineru. Nửa chừng rơi xuống, họ tỉnh lại và thề sẽ không bao giờ uống các chất say (*surā*) nữa; do đó họ có tên là *Asura*.
+
+Bản chú giải Aṅguttara (ii.526) định nghĩa *Asura* là *bībhaccha*, kinh khủng, đê tiện. Họ có một cái trống gọi là Āḷambara (*q.v.*), làm bằng càng của một con cua. Họ đã bỏ lại nó trong lúc bỏ chạy khỏi Sakka, và kể từ đó Sakka đã sử dụng nó (Ja.ii.344).
+
+Đức Phật kể một câu chuyện (SN.2, v.446) về một người đàn ông có lần nhìn thấy toàn bộ một đội quân với bốn quân chủng của nó đi vào trong một cọng sen và người đàn ông nghĩ rằng mình bị điên. Nhưng Đức Phật nói rằng đó là một đội quân *Asura* đang tháo chạy. Ở đây, các *Asura* dường như là các tiên linh hoặc tinh linh thiên nhiên.
 
 ## Notes

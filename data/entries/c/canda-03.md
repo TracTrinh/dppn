@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 03. One of the palaces occupied by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 03. Một trong những cung điện được Đức Phật Sumaṅgala cư ngụ trong đời sống tại gia cuối cùng của ngài (Bv.v.22).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asurindaka Bhāradvāja"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,8 @@ Asurindaka Bhāradvāja. One of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asurindaka Bhāradvāja. Một trong những người nhà Bhāradvāja. Cuộc phỏng vấn của ông với Đức Phật được miêu tả ở trên, trong Asurindasutta. Ông là người thứ ba trong số các anh em nhà Bhāradvāja, tất cả họ cuối cùng đều trở thành những người theo Đức Phật (MN­a.ii.808).
+
+"Cái tên (chúa tể ma quỷ) quá dị giáo đối với một Bà-la-môn" bà Rhys Davids nói (KS.i.203,n.2), và "câu trả lời của Đức Phật gợi nhớ quá nhiều đến của Sakka (trong Saṁyutta i.221) nên một truyền thuyết bị chia nhánh hoặc được chuyển giao có vẻ khá hợp lý."
 
 ## Notes

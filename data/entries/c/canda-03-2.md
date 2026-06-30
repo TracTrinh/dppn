@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Candā 03. A *kinnarī*, wife of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 03. Một *kinnarī*, vợ của Canda, vị Bồ-tát. Xem *Candakinnarajātaka* (Ja 485, Ja.iv.283ff). Bà đôi khi được gọi là Candī, ví dụ, Ja.iv.284.
 
 ## Notes

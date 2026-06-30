@@ -5,7 +5,7 @@ base_headword: "Bāhumatī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bāhumatī. A holy river where men bathe in order to expiate their sins. MN.i.39
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhumatī. Một dòng sông thiêng nơi người ta tắm rửa để tẩy sạch tội lỗi. MN.i.39; MN­a.i.145.
 
 ## Notes

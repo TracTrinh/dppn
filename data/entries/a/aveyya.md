@@ -5,7 +5,7 @@ base_headword: "Āveyya"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āveyya (*cách đọc khác.* Āvekkheyya). Một vị vua của năm mươi chín *kappa* trước, một kiếp sống trước đây của Samādapaka Thera. Ap.i.185.
 
 ## Notes

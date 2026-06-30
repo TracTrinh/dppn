@@ -5,7 +5,7 @@ base_headword: "Campā"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Campā 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campā 03. Campakā. Nơi sinh của Đức Phật Paduma (Bv.ix.16; Ja.i.36). Gần đó là *uyyāna* Campaka.
 
 ## Notes

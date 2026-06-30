@@ -5,7 +5,7 @@ base_headword: "Ayojjhā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ The King of Siam showed the embassy every mark of favour and granted them the mo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayojjhā. Thủ đô của Siam. Từ nơi đó Vijayarājasīha, Vua xứ Ceylon, đã thỉnh các nhà sư về cho quốc gia của mình (Cv.xcviii.91f). Vài năm sau, người kế vị ông, Kittisirirājasīha, đã gửi một phái bộ ngoại giao đến đó vì mục đích tương tự.
+
+Vua xứ Siam đã thể hiện mọi sự ân sủng với phái bộ và chấp thuận việc cử các nhà sư đi. Các nhà sư, những người đến Ceylon từ Ayojjhā, đã tái lập việc truyền giới cho các nhà sư trên Đảo quốc này. Cv.xcviii.60-139; cũng xem JRAS (Chi nhánh Ceylon), 1903, Số 54, pp.17ff.
 
 ## Notes

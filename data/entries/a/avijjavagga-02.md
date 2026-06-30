@@ -5,7 +5,7 @@ base_headword: "Avijjāvagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāvagga 02. The sixth chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāvagga 02. Phẩm thứ sáu của Saḷāyatanasaṁyutta. SN.iv.30-5.
 
 ## Notes

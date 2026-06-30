@@ -5,7 +5,7 @@ base_headword: "Āvaṭṭagaṅgā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvaṭṭagaṅgā. Tên gọi được đặt cho dòng sông mà, chảy từ dòng kênh phía nam của Anotatta, bao quanh hồ ba vòng trước khi trở thành Kaṇhagaṅgā. Snp-a.ii.439, v.v.
 
 ## Notes

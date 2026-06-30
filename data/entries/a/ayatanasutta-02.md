@@ -5,7 +5,7 @@ base_headword: "Āyatanasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyatanasutta 02. Bốn chân lý của bậc Thánh có liên quan đến sáu xứ giác quan cá nhân. Cần phải nỗ lực để nhận ra điều này. SN.v.426.
 
 ## Notes

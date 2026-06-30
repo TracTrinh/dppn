@@ -5,7 +5,7 @@ base_headword: "Cala"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cala. A Sinhalese chieftain, who once joined the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cala. Một thủ lĩnh người Sinhalese, người từng gia nhập phe Coḷas chống lại Vijayabāhu I., (Cv.lviii.16) nhưng người mà sau đó (Cv.vs.55; xem Cv.Trs.i.207, n.3), rõ ràng đã trở về với ngài và chiến đấu dũng cảm bên phe ngài.
 
 ## Notes

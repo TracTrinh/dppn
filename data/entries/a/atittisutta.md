@@ -5,7 +5,7 @@ base_headword: "Atittisutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Atittisutta. There is no satiety in sleep, in drinking liquor and in sexual inte
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atittisutta. Không có sự thỏa mãn trong giấc ngủ, trong việc uống rượu và trong quan hệ tình dục. AN.i.261.
 
 ## Notes

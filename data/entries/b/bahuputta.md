@@ -5,7 +5,7 @@ base_headword: "Bāhuputta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,6 @@ Bāhuputta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhuputta, Bahuputtaka. Vua của Benares và là chồng của Khemā. Ông được đồng nhất với Sāriputta. Xem chi tiết ở Haṁsajātakā Ja 502, Ja.iv.423ff.; so sánh Seyya.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ayakūṭajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,8 @@ The reason for the telling of the story is given in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayakūṭajātaka (Ja 347). Có một thời Bodhisatta giáng sinh tại Benares và trở thành vua của quốc gia này. Lúc bấy giờ, người dân có thói quen hiến tế động vật cho các vị thần linh để mong giành được ân sủng của họ, nhưng Bodhisatta đã ban bố chiếu chỉ rằng không một sinh vật sống nào được phép bị sát hại. Quá tức giận vì bị mất đi nguồn thức ăn, những Yakkha đã cử một người trong số họ đến gặp Bodhisatta. Hắn ta đi đến giường của Bodhisatta vào ban đêm với ý định tung một đòn chí mạng vào ngài. Ngay lúc đó, ngai vàng của Sakka trở nên nóng rực, và khi biết được nguyên nhân, đích thân Sakka đã đến và đứng canh gác cho Bodhisatta. Về sau ngài thấy tên Yakkha đang đứng trên người mình sẵn sàng ra đòn nhưng lại tỏ ra bất lực, và chỉ mãi sau này ngài mới biết, với sự khích lệ to lớn, rằng Sakka đã ở đó để bảo vệ mình (Ja.iii.145-7).
+
+Lý do cho việc kể lại câu chuyện này được đưa ra trong Mahā Kaṇhajātaka.
 
 ## Notes

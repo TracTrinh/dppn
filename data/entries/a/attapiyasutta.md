@@ -5,7 +5,7 @@ base_headword: "Attapiyasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Attapiyasutta. A name given in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attapiyasutta. Một tên gọi được đưa ra trong Suttasaṅgaha (Số 46) cho Piyasutta (2).
 
 ## Notes

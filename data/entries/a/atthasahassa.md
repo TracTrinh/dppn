@@ -5,7 +5,7 @@ base_headword: "Aṭṭhasahassa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṭṭhasahassa. A district of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhasahassa. Một quận của Rohaṇa ở Ceylon (Cv.lxi.24; lxxv.154) nằm ở phía đông của Valavegaṅga ngày nay. Xem Geiger, bản dịch Cv., i.227, n.4.
 
 ## Notes

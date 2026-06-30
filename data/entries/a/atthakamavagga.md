@@ -5,7 +5,7 @@ base_headword: "Atthakāmavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atthakāmavagga. The fifth section of *Ekanipāta* of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthakāmavagga. Phần thứ năm của *Ekanipāta* thuộc Bản chú giải Jātaka. Ja.i.234-61.
 
 ## Notes

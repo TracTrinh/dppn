@@ -5,7 +5,7 @@ base_headword: "Campā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Campā 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campā 02. Campakā. Một trong hai nữ đệ tử chính của Đức Phật Kakusandha. Bv.xxiii.21; Ja.i.42.
 
 ## Notes

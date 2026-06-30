@@ -5,7 +5,7 @@ base_headword: "Cakkhulola Brahmadatta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,8 @@ His *Udānagāthā* is included in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkhulola Brahmadatta. Vua xứ Benares. Ngài rất thích xem múa và có ba sảnh đường khiêu vũ, nơi các cô gái và phụ nữ, ở nhiều độ tuổi khác nhau, nhảy múa để làm ngài vui. Một ngày nọ, ngài chú ý đến vợ của một gia chủ đến xem múa và khao khát chiếm đoạt nàng. Khi nhận ra sự xấu xa trong ham muốn của mình, ngài đã từ bỏ vương quốc và trở thành một Pacceka Buddha.
+
+*Udānagāthā* (kệ cảm hứng) của ngài được bao gồm trong kinh Khaggavisāṇasutta. Snp.vs.63; Snp­a.i.115f.; Ap.i., tr. II. (vs.37); Ap­a.i.160f.
 
 ## Notes

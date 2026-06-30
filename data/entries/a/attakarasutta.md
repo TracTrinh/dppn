@@ -5,7 +5,7 @@ base_headword: "Attakārasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Attakārasutta. On individuality and non-individuality; preached in answer to a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attakārasutta. Bàn về cá tính và phi cá tính (individuality and non-individuality); được thuyết giảng để trả lời cho các câu hỏi của một người Bà-la-môn. AN.iii.337f.
 
 ## Notes

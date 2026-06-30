@@ -5,7 +5,7 @@ base_headword: "Aṭṭhaka"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṭṭhaka 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhaka 05. *Pacceka Buddha*. Được đề cập trong một danh sách tên gọi. MN.iii.70; Ap.i.107.
 
 ## Notes

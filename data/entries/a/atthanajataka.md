@@ -5,7 +5,7 @@ base_headword: "Aṭṭhānajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,8 @@ The story is related to a monk who wished to leave the Saṅgha on account of a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhānajātaka. Bàn về sự không đáng tin cậy và sự phản trắc của phụ nữ. Một thương gia trẻ tuổi, Mahā Dhana, đã bao nuôi một kỹ nữ, cho cô ta một ngàn kahāpaṇa mỗi ngày. Một ngày nọ, vì không có thời gian để lấy tiền, anh ta đã đi tay không đến và bị tống cổ ra ngoài. Vì thế, trong sự chán ghét, anh ta đã trở thành một ẩn sĩ (Ja.iii.474ff).
+
+Câu chuyện này liên quan đến một tỳ-kheo muốn rời khỏi Tăng đoàn vì một người phụ nữ.
 
 ## Notes

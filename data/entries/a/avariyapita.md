@@ -5,7 +5,7 @@ base_headword: "Avāriyapitā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avāriyapitā. The ferryman of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avāriyapitā. Người lái đò trong Avāriyajātaka (Ja 376).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Avijjāsutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avijjāsutta 02. In him who knows and sees the eye, objects, etc., as impermanen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāsutta 02. Đối với người nào biết và thấy được con mắt, các đối tượng, v.v., là vô thường, sự vô minh sẽ tan biến và sự hiểu biết phát sinh. SN.iv.30.
 
 ## Notes

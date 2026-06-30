@@ -5,7 +5,7 @@ base_headword: "Baddhagunavihāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Baddhagunavihāra. A monastery in Ceylon. The *cetiya* there, destroyed by the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baddhagunavihāra. Một tu viện ở Ceylon. *cetiya* tại đây đã bị phá hủy bởi người Coḷa, sau đó được phục hồi bởi Vīrabāhu, phó vương của Vijayabāhu I. (Cv.lx.80).
 
 ## Notes

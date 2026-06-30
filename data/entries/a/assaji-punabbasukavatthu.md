@@ -5,7 +5,7 @@ base_headword: "Assaji-Punabbasukavatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Assaji-Punabbasukavatthu. The story of the visit of the Aggasāvakas to the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaji-Punabbasukavatthu. Câu chuyện về chuyến viếng thăm của các vị Aggasāvaka đến nhóm Assaji-Punabbasukā. Dhp­a.ii.108-10.
 
 ## Notes

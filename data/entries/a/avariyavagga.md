@@ -5,7 +5,7 @@ base_headword: "Avāriyavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avāriyavagga. The first division of the *Chakkanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avāriyavagga. Phẩm đầu tiên của *Chakkanipāta* của Jātakaṭṭhakatha (Ja.iii.228-74).
 
 ## Notes

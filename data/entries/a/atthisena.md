@@ -5,7 +5,7 @@ base_headword: "Aṭṭhisena"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṭṭhisena. The Bodhisatta. He came of a Brahmin family of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhisena. *Bodhisatta*. Ngài xuất thân từ một gia đình Bà-la-môn ở Benares, học tại Takkasilā và sau đó trở thành một tu sĩ. Ngài sống trong khu vườn hoàng gia theo yêu cầu của nhà vua, nhưng sẽ không bao giờ xin nhà vua bất cứ điều gì ngay cả khi bị ép buộc phải làm như vậy. Ja.iii.352f.
 
 ## Notes

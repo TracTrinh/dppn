@@ -5,7 +5,7 @@ base_headword: "Āyācanavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyācanavagga 01. Phẩm thứ mười hai của *Dukanipāta* thuộc Aṅguttaranikāya. Nó chứa mười một *Sutta* về các chủ đề khác nhau. AN.i.89-91.
 
 ## Notes

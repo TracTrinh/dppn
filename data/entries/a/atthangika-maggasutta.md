@@ -5,7 +5,7 @@ base_headword: "Aṭṭhaṅgika Maggasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhaṅgika Maggasutta. The Ariyan eightfold path, called the path that goe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhaṅgika Maggasutta. Bát Thánh đạo, được gọi là con đường đi đến những gì vô vi (*asaṅkhata*). SN.iv.367.
 
 ## Notes

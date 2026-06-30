@@ -5,7 +5,7 @@ base_headword: "Campeyya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Campeyya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campeyya, Campeyyaka. Một vị vua Nāga sống ở dòng sông Campā. Xem *Campeyyajātaka* (Ja 506).
 
 ## Notes

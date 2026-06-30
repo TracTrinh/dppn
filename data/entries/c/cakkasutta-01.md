@@ -5,7 +5,7 @@ base_headword: "Cakkasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cakkasutta 01. On the four wheels that lead to prosperity: dwelling in fit place
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkasutta 01. Về bốn bánh xe dẫn đến sự thịnh vượng: cư trú ở những nơi phù hợp, kết giao với người tốt, hoàn thiện bản thân (*attasammāpaṇidhi*) và công đức đã làm từ trước. AN.ii.32 f.; DN.iii.276; so sánh Maṅgalasutta.
 
 ## Notes

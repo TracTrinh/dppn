@@ -5,7 +5,7 @@ base_headword: "Balāni Sutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balāni Sutta. The four powers of faith, energy, mindfulness, concentration. AN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balāni Sutta. Bốn sức mạnh của tín, tấn, niệm, định. AN.ii.141f.
 
 ## Notes

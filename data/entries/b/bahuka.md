@@ -5,7 +5,7 @@ base_headword: "Bahukā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahukā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahukā. *v.l.* Bāhukā. Một con sông nơi diễn ra các lễ tế tự (MN.i.39; Ja.v.388f.).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assaji-Punabbasukā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -49,6 +49,20 @@ They were five hundred in number.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaji-Punabbasukā. Những người theo Assaji và Punabbasu. Họ sống ở Kīṭāgiri, giữa Sāvatthī và Āḷavī, và phạm nhiều ác hạnh khác nhau. Họ thường trồng hoa, kết hoa thành vòng và chuỗi hoa, rồi gửi cho các cô gái và phụ nữ thuộc các gia đình gia giáo cũng như các nữ nô tỳ, ăn nằm với những phụ nữ đó, và phớt lờ các giới luật liên quan đến việc ăn uống phi thời, sử dụng hương liệu, đi xem các buổi biểu diễn, ca hát và chơi các trò chơi đủ loại (họ đã vi phạm mười tám giới luật, Vin-a.iii.625). Lối sống buông thả của họ đã khiến họ trở nên nổi tiếng, và những vị tỳ-kheo đức hạnh không thuộc nhóm của họ không được người dân trong vùng chào đón.
+
+Đức Phật nghe được những việc làm xấu xa của họ từ một vị tỳ-kheo từng lưu trú trong vùng, và sau khi triệu tập Tăng đoàn, ngài cử Sāriputta và Moggallāna, cùng với một số tỳ-kheo khác (vì những kẻ ngoan cố này rất nóng nảy và bạo lực), đến thực hiện *Pabbājaniyakamma* (hành phạt tẩn xuất) đối với họ. Phái đoàn của Tăng đoàn đã đến Kīṭāgiri và ban hành lệnh rằng Assaji-Punabbasukā không được sống ở đó nữa, nhưng những người này, thay vì tuân theo lệnh, đã chửi mắng các tỳ-kheo, buộc tội họ thiên vị, và không những rời khỏi Kīṭāgiri mà còn rời bỏ cả Tăng đoàn. Khi sự việc được báo cáo lên Đức Phật, ngài đã thu hồi *Pabbājaniyakamma* (“vì nó không phục vụ mục đích gì”) (Vin.ii.9-13, 14, 15).
+
+Trong Dhammapada Commentary (Dhp-a.ii.109), chúng ta được biết rằng Assaji và Punabbasu vốn dĩ là đệ tử của Sāriputta và Moggallāna, và khi hai vị Aggasāvaka khuyên can họ và những người theo họ về sự độc ác trong hành vi của họ, một số người đã tự sửa đổi và một số ít thì hoàn tục.
+
+Các *Assaji-Punabbasukas* dường như đặc biệt không thích Sāriputta và Moggallāna. Có lần Đức Phật, trên đường đi từ Sāvatthī đến một nơi nào đó, được Sāriputta, Moggallāna và năm trăm người khác tháp tùng, đã nhắn tin cho các *Assaji-Punabbasukas* chuẩn bị chỗ ngủ cho họ. Họ trả lời rằng Đức Phật được chào đón nhiệt liệt, nhưng Sāriputta và Moggallāna thì không, vì "họ là những người có dục vọng tội lỗi và bị những dục vọng đó chi phối (Vin.ii.171)."
+
+Nhưng ở nơi khác (Kīṭāgirisutta, MN.i.473ff), ngay cả Đức Phật cũng được miêu tả là bị họ coi nhẹ. Khi được báo cáo rằng Đức Phật chỉ ăn một bữa mỗi ngày và thấy rằng điều đó làm cho ngài khỏe mạnh, họ trả lời rằng bản thân họ ăn vào buổi tối, sáng sớm và giữa trưa và ngoài giờ quy định, và rằng họ thấy điều này khá dễ chịu và không thấy lý do gì để thay đổi lối sống của mình. Tuy nhiên, sự thật là ngay cả trong dịp này, khi Đức Phật cho gọi họ, họ vẫn ngoan ngoãn đến và kiên nhẫn lắng nghe lời khuyên của ngài về sự cần thiết của sự vâng lời tuyệt đối đối với một vị thầy mà họ có đức tin, và chúng ta được biết rằng họ “thậm chí đã vui mừng trong lòng” sau khi nghe Đức Phật. Tuy nhiên, không có bằng chứng nào cho thấy họ đã thay đổi sau khi nghe ngài.
+
+Trong các Bản chú giải (ví dụ: DN­a.ii.525), Assaji-Punabbasukā được đề cập như một ví dụ về những người không chú ý đến các giới luật lớn hay nhỏ mà họ đã cam kết tuân giữ.
+
+Samantapāsādikā (iii.614) đề cập rằng Kīṭāgiri được họ chọn làm nơi cư trú vì nó được tưới nước bởi cả hai mùa gió mùa, sản xuất ba vụ mùa và có những địa điểm thích hợp cho các tòa nhà.
+
+Họ có số lượng năm trăm người.
 
 ## Notes

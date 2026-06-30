@@ -5,7 +5,7 @@ base_headword: "Assakaṇṇa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assakaṇṇa. One of the mountains round <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assakaṇṇa. Một trong những ngọn núi xung quanh Sineru (Snp-a.ii.443; Vin-a.i.119). Nó cao hơn Vinataka, và giữa hai ngọn núi này là dòng chảy của Sīdantara Samudda. Ja.vi.125.
 
 ## Notes

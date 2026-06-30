@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Candā 05. Daughter of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 05. Con gái của vua xứ Madda và là chánh hậu của người cai trị xứ Benares. Bà là mẹ của Mūgapakkha (Temiya). Để biết chi tiết, hãy xem *Mūgapakkhajātaka* (Ja 538). Ja.vi.1ff.
 
 ## Notes

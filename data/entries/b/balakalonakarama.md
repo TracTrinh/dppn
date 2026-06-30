@@ -5,7 +5,7 @@ base_headword: "Bālakaloṇakārāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -41,6 +41,12 @@ The other explanation is that the word *bālakiniyā* in the text is an adjectiv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālakaloṇakārāma, Bākaloṇakārāgama. Một địa danh gần Kosambī. Khi các tỳ-kheo ở Kosambī bắt đầu cãi vã, Đức Phật đã rời bỏ họ và đi đến Bālakaloṇakārāma, nơi Ngài đến thăm Bhagu và thuyết giảng cho ông về những lợi ích của đời sống độc cư. Từ đó, Đức Phật tiếp tục đi đến Pācīnavaṁsadāya (Vin.i.350; MN.iii.154; Dhp­a.i.47; Ja.iii.489).
+
+Các cách đọc của các văn bản không chắc chắn, và không thể nói liệu ý nghĩa ở đây là một ngôi làng (*gāma*) hay chỉ là một khu rừng (*ārāma*).
+
+Cách đọc Bālakaloṇakāragāma xuất hiện trong Chú giải Majjhima (MN­a.ii.596); nhưng ngay cả ở đây cũng có hai lời giải thích được đưa ra: một nói rằng Bālaka là tên của một ngôi làng làm muối (? *loṇakāragāma*) thuộc về *gahapati* (gia chủ) Upāli. Khi những cư dân của ngôi làng mang thuế đến nộp cho Upāli, ông đã cùng đi với họ (*bālakagāmavāsiniyā... parisāya*) đến gặp Nigaṇṭha Nātaputta.
+
+Lời giải thích còn lại là từ *bālakiniyā* trong văn bản là một tính từ có nghĩa là "bao gồm những kẻ ngu ngốc" (*bālavatiyā bālussannāya*, so sánh với Ja.i.246, nơi có nhắc đến *bālagāmikamanussā*, rõ ràng là chỉ những kẻ ngu ngốc). Do đó, sự nhầm lẫn dường như đã phát sinh từ rất sớm. Ngôi làng của Upāli (của Bāka), nếu một nơi như vậy thực sự tồn tại, thì có lẽ nằm gần Nālandā.
 
 ## Notes

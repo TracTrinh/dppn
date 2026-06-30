@@ -5,7 +5,7 @@ base_headword: "Aṭṭhama"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṭṭhama. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhama. *Pacceka Buddha*, một trong những cái tên được đưa ra trong một danh sách những vị như vậy. MN.iii.70; Ap­a.i.106.
 
 ## Notes

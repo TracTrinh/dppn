@@ -5,7 +5,7 @@ base_headword: "Cakkasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Cakkasutta 02. A king who knows the good (*attha*) Dhamma, the measure (*matta*)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkasutta 02. Một vị vua biết lợi ích (*attha*), Pháp, chừng mực (*matta*), thời điểm (*kāla*), và bản chất của các hội chúng của mình (*parisā*) nắm giữ quyền thống trị không thể bị tước đoạt khỏi ngài. Sự thống trị của một vị Phật cũng giống như vậy. AN.iii.147f.
 
 ## Notes

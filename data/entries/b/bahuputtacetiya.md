@@ -5,7 +5,7 @@ base_headword: "Bahuputtacetiya"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -33,6 +33,8 @@ Bahuputtacetiya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahuputtacetiya, Bahuputtakacetiya. Một điện thờ ở khu vực lân cận Vesālī, nằm về phía bắc của thành phố đó (DN.iii.9). Đức Phật được cho là đã từng lưu lại đó (DN.ii.118;, Ud.vi.1; SN.v.259). Đó là một điện thờ có từ trước thời Phật giáo và, theo các Chú giải (ví dụ: Ud­a.323; SN­a.ii.128, v.v...), là một cây *nigrodha* (cây bàng) nhiều cành nơi người ta đến cầu nguyện xin con trai với vị thiên thần của cây. Từ đó mà có tên gọi này.
+
+Mahā Kassapa nói rằng khi còn là một "bậc hữu học", ông đã đảnh lễ Đức Phật tại một cây Bahuputtaka-*nigrodha* nơi Đức Phật đã đến để gặp ông. Đức Phật đã dạy ông phương pháp tu tập cần tuân theo và, nhờ hưởng lợi từ bài học này, tám ngày sau Mahā Kassapa đã trở thành một vị Arahant. Tuy nhiên, cây *nigrodha* này lại nằm trên con đường từ Rājagaha đến Nālandā và cách Rājagaha ba do-tuần. Do đó, nó không thể là cùng một cây đã mang lại tên gọi cho Bahuputtacetiya. SN.ii.220; xem Mahā Kassapa. Chính tại đây, Đức Phật đã đổi y của Ngài với y của Kassapa, SN­a.ii.128; Thag­a.ii.145; AN­a.i.102; Mvu.iii.50.
 
 ## Notes

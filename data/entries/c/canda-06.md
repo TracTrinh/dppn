@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 06. The Bodhisatta, born as a *Kinnara*. For details see the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 06. Bồ-tát, được sinh ra làm một *Kinnara*. Để biết chi tiết, hãy xem *Candakinnarajātaka* (Ja 485).
 
 ## Notes

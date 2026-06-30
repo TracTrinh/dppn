@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 01. A king, one of the chief lay supporters of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 01. Một vị vua, một trong những nam thí chủ cư sĩ hộ độ chính của Đức Phật Koṇḍañña (Bv­a.114).
 
 ## Notes

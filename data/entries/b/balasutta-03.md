@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 03. On the six powers: faith, energy, mindfulness, concentration, insi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 03. Về sáu sức mạnh: tín, tấn, niệm, định, tuệ, sự đoạn tận các *āsava*. AN.iii.280.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "07"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Candā 07. Chief consort of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 07. Chánh hậu của Sutasoma. Bà được nhận diện là Rāhulamātā. Ja.v.177, 182, 192.
 
 ## Notes

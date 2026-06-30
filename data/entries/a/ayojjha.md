@@ -5,7 +5,7 @@ base_headword: "Ayojjhā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -50,6 +50,12 @@ According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayojjhā. Một thành phố nằm bên bờ sông Ganges (nhưng hãy xem bên dưới trong bài viết này). Hai chuyến viếng thăm của Đức Phật đến thành phố này được ghi lại trong Kinh điển; vào một dịp ngài đã thuyết giảng Phenasutta (SN.iii.140ff) và vào dịp khác là Dārukkhandhasutta (SN.iv.179f). Trong cả hai tài liệu tham khảo này, thành phố được cho là nằm bên bờ sông Ganges; thị trấn thường được gọi là Ayojjhā (*Ayodhya*) chắc chắn không nằm trên con sông này. Do đó, các ghi chép có thể bắt nguồn từ một truyền thuyết sai lệch hoặc không chính xác (xem Thomas: *Life and Legend of the Buddha*, 15; so sánh Sāketa), hoặc có khả năng ám chỉ đến một khu định cư khác được lập nên bởi những cư dân từ Ayojjhā nguyên thủy. Điều đáng lưu ý là trong Dārukkhandhasutta, một số Bản thảo chép tay đọc là Kosambī thay vì Ayojjhā. Nhưng ngay cả Kosambī (*xem mục từ*) cũng nằm trên sông Jumnā chứ không phải sông Ganges.
+
+Trong thời kỳ Phật giáo, Ayojjhā trên sông Sarayū là thủ đô của Dakkhiṇa Kosala, một *janapada* gần tương ứng với vùng Oudh hiện đại. Đây, Ayodhyā của *Rāmāyaṇa*, cách Fyzabad hiện đại khoảng một dặm. Trong Jātakaṭṭhakathā (Ja.iv.82) có đề cập đến Ayojjhā, mà ở đây rõ ràng ám chỉ đến thành phố trong các bản sử thi Sanskrit. Nó được gọi là thủ đô của Vua Kāḷasena. Nó bị bao vây bởi những người Andhaveṇhuputtā, những người này đã chọc thủng bức tường thành và bắt nhà vua làm tù binh. Sau khi khuất phục thành phố theo cách này, họ đã đi đến Dvāravatī.
+
+Dīpavaṁsa (iii.15) đề cập đến Ayujjhanagara như là thủ đô của Vua Arindama và năm mươi lăm hậu duệ của ông.
+
+Theo Buddhaghosa (SN­a.ii.233-4), người dân Ayujjhanagara đã xây dựng cho Đức Phật một *vihāra* tại một địa điểm được bao quanh bởi khu rừng gần một khúc quanh của con sông. Có một thời, một chiến binh tên là Jagatipāla, thuộc dòng dõi Rāma, đã đến Ceylon từ Ayojjhā, và sau khi giết Vikkampaṇḍu, thái tử kế vị ngai vàng, ông đã cai trị ở Rohaṇa trong năm năm. Cv.lvi.13ff.
 
 ## Notes

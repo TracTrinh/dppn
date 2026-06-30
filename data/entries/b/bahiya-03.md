@@ -5,7 +5,7 @@ base_headword: "Bāhiya"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,8 @@ It is perhaps the same monk – called <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiya 03. Một vị tỳ-kheo. Ông được cho là đã đến gặp Đức Phật để cầu xin một lời dạy tóm tắt và Đức Phật đã khuyên ông quán niệm về sự vô thường của các căn và các đối tượng của giác quan. Hưởng lợi từ bài học này, Bāhiya đã sống ẩn cư và nỗ lực tinh tấn, chẳng bao lâu sau đã trở thành một vị Arahant (SN.iv.63f).
+
+Có lẽ cũng chính vị tỳ-kheo này – được gọi là Bāhiya hoặc Bāhika – đã được nhắc đến ở nơi khác là đã xin Đức Phật một lời giảng và được khuyên hãy thiền định về bốn niệm xứ (SN.v.165f). Sự quán chiếu này đã đưa đến quả vị *Arahant*.
 
 ## Notes

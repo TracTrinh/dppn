@@ -5,7 +5,7 @@ base_headword: "Ayonisosutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ayonisosutta 01. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayonisosutta 01. (hoặc Vitakkitasutta). Một nhà sư nọ đang cư ngụ trong một khu vực rừng ở Kosala đã bị vướng bận bởi những suy nghĩ xấu xa và sai trái. Vị thiên thần của khu rừng, mong muốn sự an vui cho ngài, đã đến gần và khuyên ngài nên từ bỏ những lề lối rối rắm của mình và tập trung suy nghĩ vào Đức Phật, Pháp và Tăng đoàn (SN.i.203).
 
 ## Notes

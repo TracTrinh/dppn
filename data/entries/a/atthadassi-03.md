@@ -5,7 +5,7 @@ base_headword: "Atthadassī"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atthadassī 03. One of the mythological kings of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthadassī 03. Một trong những vị vua thần thoại của Kapilavatthu. Dip.iii.41.
 
 ## Notes

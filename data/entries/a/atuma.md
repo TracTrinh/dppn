@@ -5,7 +5,7 @@ base_headword: "Ātumā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -36,6 +36,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ātumā. Một thị trấn nằm giữa Kusinārā và Sāvatthī. Một lần Đức Phật, cùng với một hội chúng lớn các tỳ-kheo, đã đến thăm thị trấn này. Vào thời điểm đó, có một tỳ-kheo cư ngụ tại đó, người đã xuất gia khi tuổi đã xế chiều (một *buḍḍhapabbajita*, được Buddhaghosa (DN­a.ii.599) xác định là *buḍḍhapabbajita* Subhadda) và trước đây từng là một thợ cắt tóc. Vị ấy có hai người con trai, đẹp trai, thanh lịch và rất am hiểu nghệ thuật cắt tóc. Khi vị tỳ-kheo nghe tin Đức Phật sắp đến, vị ấy đã cử các con trai của mình đi từ nhà này sang nhà khác để gom góp muối, dầu, gạo và thức ăn. Những thanh niên này, sử dụng mọi khả năng thuyết phục của mình, đã thu thập được một số lượng lớn mỗi thứ đó, và khi Đức Phật đến Ātumā và vào ở trong Bhūsāgāra, họ đã chuẩn bị sẵn cháo gạo và dâng cúng cho ngài. Tuy nhiên, Đức Phật sẽ không chấp nhận nó vì vị tỳ-kheo, người đã bảo thu thập thức ăn, đã phạm tội với một hành động phi pháp ở chỗ một tỳ-kheo lại đi xin ăn cho những người khác.
+
+Chính trong dịp này, người ta tuyên bố rằng một tỳ-kheo, người trước đây từng là một thợ cắt tóc, mang theo dụng cụ cắt tóc bên mình, là một vi phạm tác ác (*dukkaṭa*) (Vin.i.249-50).
+
+Trong Mahā Parinibbānasutta (DN.ii.131-2), Đức Phật kể cho Pukkusa nghe về một dịp khác khi ngài đang ở trong Bhūsāgāra ở Ātumā. Có một cơn giông bão lớn, và hai nông dân (là anh em) cùng bốn con bò đã bị sét đánh trúng. Một số lượng lớn người dân đã tụ tập tại nơi đó, một người trong số họ đã hỏi Đức Phật xem ngài có biết về vụ tai nạn hay không. Nhưng Đức Phật khi đó đang trong trạng thái định tâm và không hề nhìn thấy hay nghe thấy bất cứ điều gì về nó. Trạng thái tĩnh lặng trong tâm ngài là như vậy đó.
 
 ## Notes

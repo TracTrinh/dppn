@@ -5,7 +5,7 @@ base_headword: "Avijjāpaccayasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāpaccayasutta. Two *Suttas*. Conditioned by ignorance, <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāpaccayasutta. Hai *Sutta*. Với điều kiện là sự vô minh, các ý chí (*saṅkhārā*) sẽ hình thành, và tương tự như vậy đối với mỗi yếu tố của *Paṭiccasamuppāda*. SN.ii.60-3.
 
 ## Notes

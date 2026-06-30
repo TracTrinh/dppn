@@ -5,7 +5,7 @@ base_headword: "Bakabrahmajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bakabrahmajātaka (Ja 405). Relates the story of the Buddha’s visit to <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakabrahmajātaka (Ja 405). Kể lại câu chuyện về chuyến viếng thăm của Đức Phật tới Bakabrahma và những sự kiện được đề cập liên quan đến tiền kiếp của Baka là Kesava. Ja.iii.358 ff.
 
 ## Notes

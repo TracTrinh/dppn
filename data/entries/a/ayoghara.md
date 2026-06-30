@@ -5,7 +5,7 @@ base_headword: "Ayoghara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,8 @@ Meanwhile the she-goblin had died, but yet the Bodhisatta grew up in the iron ho
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayoghara. Bodhisatta đã từng giáng sinh làm con trai của vua xứ Benares. Cả hai người con trước của Hoàng hậu Chánh cung đều đã bị một nữ dạ-xoa ăn thịt. Vì thế, đối với người con thứ ba, một ngôi nhà bằng sắt (*Ayoghara*) đã được xây dựng, và trong đó Bodhisatta đã chào đời, do đó ngài có tên gọi là Ayoghara.
+
+Trong khi đó, nữ dạ-xoa đã chết, nhưng Bodhisatta vẫn lớn lên trong ngôi nhà bằng sắt. Khi ngài lên mười sáu, cha ngài, muốn trao vương quốc cho ngài, đã ra lệnh đưa ngài đi diễu hành vòng quanh thành phố với nghi lễ long trọng. Ngạc nhiên trước tất cả những gì mình nhìn thấy, ngài đã hỏi tại sao trước đây mình lại không được nhìn thấy tất cả những thứ này. Khi được cho biết lý do, ngài suy ngẫm rằng mọi kiếp sống đều là một nhà tù, rằng mặc dù ngài đã thoát khỏi con dạ-xoa, vẫn còn đó tuổi già và cái chết. Do đó, vào cuối buổi diễu hành, ngài tuyên bố ý định xuất gia của mình. Cha mẹ ngài cùng nhiều người khác bị thuyết phục bởi quan điểm của ngài, họ đã theo ngài vào rừng, nơi một am thất đặc biệt được Vissakamma xây dựng cho họ theo lệnh của Sakka. Ja.iv.490-99.
 
 ## Notes

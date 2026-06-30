@@ -5,7 +5,7 @@ base_headword: "Āvaraṇasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvaraṇasutta. Có năm điều chế ngự tâm trí và làm suy yếu tuệ giác: *kāmacchanda*, *vyāpāda*, *thīnamiddha*, *uddhaccakukkucca* và *vicikicchā*, tức là năm triền cái. AN.iii.63-4.
 
 ## Notes

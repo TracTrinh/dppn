@@ -5,7 +5,7 @@ base_headword: "Ātuma Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -34,6 +34,10 @@ Thirty-one *kappas* ago he was a king named <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ātuma Thera. Con trai của một *seṭṭhi* ở Sāvatthī. Khi ngài lớn lên, mẹ ngài đề nghị tìm cho ngài một người vợ, nhưng do nhân duyên (*upanissaya* - potential) của mình, ngài đã rời bỏ thế tục và xuất gia. Mẹ ngài đã cố gắng lôi kéo ngài trở lại nhưng ngài đã tuyên bố quyết tâm to lớn của mình và, nhờ phát triển sự thấu triệt, đã trở thành một bậc *Arahant* (Thag.v.72; Thag­a.i.160).
+
+Trong thời của Vipassī, ngài từng là một gia chủ và đã dâng cúng cho Vipassī nước hoa và bột thơm.
+
+Ba mươi mốt *kappa* trước, ngài từng là một vị vua tên là Sugandha. Ātuma có lẽ đồng nhất với Gandhodakiya Thera trong Apadāna. Ap.i.157-8.
 
 ## Notes

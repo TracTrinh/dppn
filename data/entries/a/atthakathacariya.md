@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakathācariyā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṭṭhakathācariyā. Composers (?) of the Commentaries. They lived prior to <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakathācariyā. Các nhà soạn giả (?) của các Bản chú giải. Họ đã sống trước thời của Buddhaghosa, bởi vì ngài có tham chiếu đến họ, ví dụ, AN­a.i.273.
 
 ## Notes

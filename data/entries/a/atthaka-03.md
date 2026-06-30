@@ -5,7 +5,7 @@ base_headword: "Aṭṭhaka"
 disambiguator: "03"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṭṭhaka 03. A King. Mentioned in a list of former kings who had followed rig
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhaka 03. Một vị vua. Được đề cập trong danh sách các cựu vương đã theo đuổi sự công bình và nhờ cần mẫn phục vụ các ẩn sĩ và sa-môn, đã đi đến cõi trời của Sakka. Ja.vi.251.
 
 ## Notes

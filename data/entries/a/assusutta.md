@@ -5,7 +5,7 @@ base_headword: "Assusutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Assusutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assusutta. Được thuyết giảng tại Sāvatthī. Những giọt nước mắt mà một người trôi lăn trong sinh tử (*Saṁsāra*) đã rơi, do nhiều nỗi thống khổ khác nhau, còn nhiều hơn cả nước của bốn đại dương. Do đó, người ta nên cảm thấy nhàm chán đối với tất cả mọi thứ của thế gian này. SN.ii.179-80.
 
 ## Notes

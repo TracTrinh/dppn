@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Canda 02. Chief lay supporter of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 02. Nam thí chủ cư sĩ hộ độ chính của Đức Phật Sikhī. Bv.xxi.122; nhưng Bv­a. (204) gọi ông là Nanda.
 
 ## Notes

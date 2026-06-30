@@ -5,7 +5,7 @@ base_headword: "Avyāpajjhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avyāpajjhasutta. The Buddha teaches the harmless and the path thereto. SN.iv.37
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avyāpajjhasutta. Đức Phật giảng dạy về người không gây tổn hại và con đường dẫn đến điều đó. SN.iv.371.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atthasandassaka Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Atthasandassaka Thera. An *Arahant*. In <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthasandassaka Thera. Một bậc *Arahant*. Trong thời của Padumuttara, ngài là một Bà-la-môn tên là Nārada. Nhìn thấy Đức Phật đi ngang qua, được các tỳ-kheo theo hầu, ngài đã thốt lên những lời ca ngợi Đức Phật trong ba bài kệ. Cách đây 130 *kappa*, ngài sinh ra làm một vị vua tên là Sukhitta. Ngài có lẽ đồng nhất với Nāgita Thera. Ap.i.168.
 
 ## Notes

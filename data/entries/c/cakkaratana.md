@@ -5,7 +5,7 @@ base_headword: "Cakkaratana"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -34,6 +34,14 @@ It is the most precious and the most honoured thing in the world. Ud­a.356.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkaratana. Một trong bảy báu vật của một Cakkavatti. Khi một Cakkavatti giáng sinh vào thế giới, Cakkaratana xuất hiện trước mặt ngài từ Cakkadaha, du hành xuyên qua không trung (Ja.iv.232, nhưng xem Vepulla).
+
+Cakkaratana là biểu tượng quyền lực chính của Cakkavatti; khi nó xuất hiện trước ngài, ngài rưới nước lên nó và yêu cầu nó đi đến các phương khác nhau của thế giới, chinh phục chúng cho ngài. Cakkaratana làm điều này, mang theo nó qua không trung Cakkavatti cùng với đội quân bốn binh chủng của ngài. Bất cứ nơi nào Cakkaratana dừng lại, tất cả các thủ lĩnh của phương đó đều tung hô Cakkavatti là chúa tể của họ và tuyên bố lòng trung thành với ngài. Sau khi đã đi qua bốn phương của trái đất như vậy, nó quay trở lại thủ đô của Cakkavatti, và đứng yên như một vật trang trí trên sân thượng mở phía trước các căn phòng bên trong của ngài (DN.ii.173f; MN.iii.173ff).
+
+Các Chú giải (ví dụ: DN­a.ii.617ff; MN­a.ii.942ff) chứa những mô tả dài dòng về Cakkaratana: nó có hình dạng giống như một bánh xe, trục của nó làm bằng ngọc bích, tâm của nó tỏa sáng như quả cầu mặt trăng, và bao quanh nó là một dải bạc. Nó có một ngàn nan hoa, mỗi nan hoa được trang trí bằng nhiều họa tiết khác nhau; vành của nó làm bằng san hô sáng; cứ cách mười nan hoa lại có một thanh san hô, rỗng bên trong, tạo ra âm thanh của năm loại nhạc cụ khi gió thổi qua. Trên thanh là một lọng trắng, hai bên có những tràng hoa. Khi bánh xe di chuyển, nó trông giống như ba bánh xe chuyển động lồng vào nhau.
+
+Khi một Cakkavatti qua đời hoặc rời bỏ thế giới, Cakkaratana biến mất khỏi tầm nhìn của con người trong bảy ngày; nó báo hiệu về cái chết sắp tới của một Cakkavatti bằng cách trượt khỏi vị trí của nó một thời gian trước sự kiện đó (DN.iii.59f.; MN­a.ii.885). Khi người kế vị của ngài đã sống đạo đức trong bảy ngày, nó xuất hiện trở lại (DN.iii.64).
+
+Đó là thứ quý giá nhất và được tôn vinh nhất trên thế giới. Ud­a.356.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assamaṇḍala"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Assamaṇḍala 02. One of the spots included in the area marked off by <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assamaṇḍala 02. Một trong những địa điểm nằm trong khu vực được Devānampiyatissa đánh dấu ranh giới cho *Sīmā* của Mahā Vihāra. Mv.xv.15 trong Phụ lục B của Bản in Geiger.
 
 ## Notes

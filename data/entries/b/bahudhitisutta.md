@@ -5,7 +5,7 @@ base_headword: "Bahudhītisutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahudhītisutta. Relates the story of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahudhītisutta. Kể lại câu chuyện của Bahudhīti Bhāradvāja. SN.i.170f.
 
 ## Notes

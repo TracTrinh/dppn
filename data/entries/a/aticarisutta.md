@@ -5,7 +5,7 @@ base_headword: "Aticārisutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aticārisutta. That an adulteress is born in purgatory. SN.iv.242.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aticārisutta. Rằng một người phụ nữ ngoại tình sẽ tái sinh vào địa ngục. SN.iv.242.
 
 ## Notes

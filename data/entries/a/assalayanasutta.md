@@ -5,7 +5,7 @@ base_headword: "Assalāyanasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Assalāyanasutta. Records the conversation between the Buddha and <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assalāyanasutta. Ghi lại cuộc trò chuyện giữa Đức Phật và Assalāyana khi người này đến thăm ngài. MN.ii.147ff.
 
 ## Notes

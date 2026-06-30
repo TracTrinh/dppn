@@ -5,7 +5,7 @@ base_headword: "Bahussutasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Bahussutasutta. Five qualities which make a man learned and wise. SN.iv.244.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahussutasutta. Năm phẩm chất làm cho một người trở nên uyên bác và khôn ngoan. SN.iv.244.
 
 ## Notes

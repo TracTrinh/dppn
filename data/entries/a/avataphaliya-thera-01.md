@@ -5,7 +5,7 @@ base_headword: "Avaṭaphaliya Thera"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Avaṭaphaliya Thera 01. An *Arahant*. In a previous birth, ninety-four *kappas*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avaṭaphaliya Thera 01. Một vị *Arahant*. Trong một kiếp sống trước đó, chín mươi tư *kappa* trước, ngài đã dâng một trái *avaṭa* (*tāla*?) cho vị Pacceka Buddha Sataraṁsī (Ap.ii.409). Ngài có lẽ chính là Sambula Kaccāyana. Thag­a.i.314.
 
 ## Notes

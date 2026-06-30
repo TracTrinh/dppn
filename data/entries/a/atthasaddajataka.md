@@ -5,7 +5,7 @@ base_headword: "Aṭṭhasaddajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aṭṭhasaddajātaka. Preached at <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhasaddajātaka. Được thuyết giảng tại Jetavana. Pasenadi, một đêm nọ sau khi nghe thấy một tiếng kêu thét phát ra bởi bốn cư dân của địa ngục, đã tìm đến xin lời khuyên của Đức Phật (câu chuyện được kể lại đầy đủ trong Lohakumbhījātaka (Ja 314); Ja.iii.43f). Đức Phật kể cho ông nghe về một vị cựu vương của Benares, người mà khi đang ngồi trên giường vào lúc nửa đêm, đã nghe thấy tám âm thanh bất thường khiến ông kinh hãi cho đến khi chúng được *Bodhisatta* chỉ ra là hoàn toàn tự nhiên. Ja.iii.428-34.
 
 ## Notes

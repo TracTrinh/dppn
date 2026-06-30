@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhakasutta. Two of the same name. They deal with the methods of mastering 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakasutta. Hai bài kinh có cùng tên. Chúng bàn về các phương pháp làm chủ những cảm thọ, mang lại sự chấm dứt của chúng và sáu cách làm dịu chúng. SN.iv.221f.
 
 ## Notes

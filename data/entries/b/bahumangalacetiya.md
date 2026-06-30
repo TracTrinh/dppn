@@ -5,7 +5,7 @@ base_headword: "Bahumaṅgalacetiya"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -29,6 +29,6 @@ Bahumaṅgalacetiya. A shrine in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahumaṅgalacetiya. Một điện thờ ở Anurādhapura, trong ngôi nhà hình tượng của điện thờ này Dhātusena đã dựng lên các tượng Bodhisatta. Ông cũng cung cấp một vương miện tỏa hào quang cho các tượng Phật trong *cetiya*. Những tượng này được biết đến với tên gọi Kāselasatthā và Upasumbha (Cv.xxxviii.65). *cetiya* này có lẽ cũng chính là Maṅgala *cetiya* (xem mục từ này).
 
 ## Notes

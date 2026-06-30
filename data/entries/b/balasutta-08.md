@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "08"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 08. The eight powers of eight beings: weeping in children, anger in wo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 08. Tám sức mạnh của tám đối tượng: sự khóc lóc ở trẻ em, sự giận dữ ở phụ nữ, vũ khí với những kẻ trộm cướp, quyền lực ở các vị vua, sự phẫn nộ với những kẻ ngu si, sự hiểu biết với những người khôn ngoan, sự thận trọng với những người uyên bác, lòng khoan dung với các tu sĩ khổ hạnh và sa-môn. AN.iv.223.
 
 ## Notes

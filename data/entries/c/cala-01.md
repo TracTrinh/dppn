@@ -5,7 +5,7 @@ base_headword: "Cālā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -37,6 +37,10 @@ In due course they attained *Arahant*-ship (Thīg­a.162ff; Dhp­a.ii.188). It i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cālā 01. Cālā Therī. Con gái của Surūpasārī và do đó, là em gái của Sāriputta.
+
+Bà có hai người em gái, Upacālā và Sisūpacālā, và cả ba đều rời bỏ thế giới và gia nhập Tăng đoàn khi nghe tin về sự xuất gia của Sāriputta.
+
+Đến đúng thời điểm họ đã đạt được quả vị *Arahant* (Thīg­a.162ff; Dhp­a.ii.188). Người ta nói rằng một ngày nọ, khi Cālā đang nghỉ trưa trong Andhavana, Māra đã đến thăm bà, hỏi bà nhiều câu hỏi khác nhau và cố gắng cám dỗ bà (Thīg.182-8; so sánh SN.i.132). Con trai của bà là Cāla.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assamaṇḍala"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assamaṇḍala 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assamaṇḍala 01. Assamaṇḍalatittha. Một bến cạn trên sông Mahā Vālukagaṅgā ở Ceylon (Cv.l.xxii.27). Geiger đề cập đến một truyền thuyết kết nối nơi này với Kacchakatittha, trong trường hợp đó nó phải ở gần Mahā Gantoṭa, phía đông của Polounaruva. Cv.Trs.ii.321, n.5.
 
 ## Notes

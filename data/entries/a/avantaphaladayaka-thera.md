@@ -5,7 +5,7 @@ base_headword: "Avantaphaladāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Avantaphaladāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he had given a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avantaphaladāyaka Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ngài đã dâng một trái cây không có cuống (*avaṇṭa*) cho một vị Pacceka Buddha tên là Sataraṁsī. Ap.i.294.
 
 ## Notes

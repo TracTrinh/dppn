@@ -5,7 +5,7 @@ base_headword: "Bakajātaka"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,8 @@ The story was told in reference to a monk of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakajātaka 01. (Ja 38). Một con sếu, sống gần một cái ao nơi nước đã cạn kiệt vào mùa hè, đã đề nghị mang bầy cá đến một cái ao xa xôi nơi có nguồn nước dồi dào. Bầy cá, rất đa nghi, đã cử một con trong số chúng đi cùng sếu để xác minh lời nói của nó, và khi con cá đó quay về với một báo cáo thuận lợi, chúng đã chấp nhận lời đề nghị của sếu. Từng con cá một bị sếu mang đi và ăn thịt, cho đến khi chỉ còn lại một con cua. Con cua ranh mãnh cũng đồng ý đi, nhưng nó bám quanh cổ sếu trong lúc bị mang đi và đã dùng đôi càng của mình kẹp đứt đầu sếu khi phát hiện ra dã tâm của sếu.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo của Jetavana, người là một thợ may y khéo léo. Ông có thể làm ra những bộ y từ các mảnh giẻ rách, được ông nhuộm màu khéo léo đến mức trông chúng như mới và đắt tiền. Các tỳ-kheo khách, khi nhìn thấy chúng, sẽ đổi những bộ y mới của họ để lấy những bộ y cũ của ông và không phát hiện ra sự dại dột của mình cho đến mãi về sau. Một người thợ may y tương tự sống trong một xóm nhỏ cách Jetavana một quãng đường, khi nghe tin về vị tỳ-kheo Jetavana, đã tìm cách lừa gạt ông ta thành công. Vị tỳ-kheo là con sếu và người sống trong xóm nhỏ là con cua trong câu chuyện. Ja.i.220 ff.
 
 ## Notes

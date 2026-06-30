@@ -5,7 +5,7 @@ base_headword: "Balataṁ Sutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balataṁ Sutta. Six qualities, the possession of which destroys strength in con
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balataṁ Sutta. Sáu phẩm chất mà việc sở hữu chúng sẽ phá hủy sức mạnh trong thiền định. AN.iii.427.
 
 ## Notes

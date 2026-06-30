@@ -5,7 +5,7 @@ base_headword: "Avijjāsutta"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāsutta 05. The ninth *Sutta* of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāsutta 05. *Sutta* thứ chín của Sāmaṇḍakasaṁyutta. SN.iv.261-2.
 
 ## Notes

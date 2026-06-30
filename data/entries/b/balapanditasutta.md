@@ -5,7 +5,7 @@ base_headword: "Bālapaṇḍitasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -38,6 +38,12 @@ The *Sutta* forms a kind of prose background to the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālapaṇḍitasutta. *Sutta* thứ 129 của Majjhimanikāya, được thuyết giảng tại Jetavana. Kinh này đề cập đến những sự bất lực của sự ngu si cùng với nỗi đau đớn và thống khổ xuất phát từ đó, cũng như những lợi ích của trí tuệ và niềm hỷ lạc mà nó mang lại.
+
+Kinh này, ngoài ra, còn chứa đựng những mô tả về sự kinh hoàng của các địa ngục, được diễn đạt thông qua nhiều sự so sánh khác nhau (MN.iii.163ff.; so sánh SN.ii.23f).
+
+*Sutta* này tạo thành một loại bối cảnh văn xuôi cho Bālavagga và Paṇḍitavagga của Dhammapada.
+
+Mahinda đã thuyết giảng *Sutta* này tại Nandapavana ở Anurādhapura, và một nghìn phụ nữ, những người đã lắng nghe ông, đã trở thành những vị *Sotāpanna* (bậc Dự lưu). Mhv.xv.4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bahuvedanīyasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Bahuvedanīyasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahuvedanīyasutta. Pañcakaṅga hỏi Udāyī (Paṇḍita Udāyī, theo MN­a.ii.629) rằng Đức Phật có đề cập đến bao nhiêu loại cảm thọ. Udāyī trả lời rằng có ba: khổ, lạc và không khổ không lạc (xả). Tuy nhiên, Pañcakaṅga một mực cho rằng chỉ có hai: lạc và khổ. Ānanda, khi nghe lỏm được cuộc trò chuyện, đã báo cáo lại với Đức Phật, và Ngài nói rằng cả Pañcakaṅga và Udāyī đều đúng vì chính Ngài đã phân loại cảm thọ theo nhiều cách khác nhau; những thú vui nhục dục có thể mang lại sự dễ chịu, nhưng không phải là những niềm vui sướng cao tột nhất; tốt đẹp hơn và thù thắng hơn nhiều là những niềm hỷ lạc mà một vị tỳ-kheo thọ hưởng khi phát triển bốn *jhāna*, cõi Không vô biên xứ và cõi Vô sở hữu xứ. MN.i.396ff.; *Sutta* này được lặp lại ở SN.iv.223ff., dưới tên gọi là Pañcakaṅgasutta.
 
 ## Notes

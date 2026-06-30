@@ -5,7 +5,7 @@ base_headword: "Āyasmanta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -34,6 +34,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyasmanta. Một vị tướng quân của Vua Sāhasamalla. Āyasmanta đã phế truất nhà vua và đưa Kalyāṇavatī, hoàng hậu trưởng của Kittinissaṅka, lên ngai vàng của Ceylon. Ông mới chính là người thực sự điều hành chính phủ, trong khi quyền lực của hoàng hậu chỉ là trên danh nghĩa. Cūḷa Vaṁsa gọi ông là một người có lòng can đảm gần như không thể vượt qua được, một hậu duệ của dòng họ Khandhāvara. Ông đã giết chết vị *Adhikārī* Deva và xây dựng một *vihāra* tại Valliggāma. Ông cũng xây một *pariveṇa* được đặt theo tên mình là Sarājakulavaḍḍhana (đây rõ ràng là một trong những danh hiệu danh dự của ông) và ban đất đai cùng các tài sản khác để duy trì công trình này. Ông đã cho biên soạn một quyển sách luật để các quan lại sử dụng. Ông bị giết bởi vị *Mahādipāda* Anīkaṅga. Cv.lxxx.33-44. Để biết thêm thông tin chi tiết, hãy xem Geiger Cv.Trs.ii.130, chú thích 2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atappādevā"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Atappādevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atappādevā. Một hạng chư thiên mà người phàm luôn mong mỏi được kết giao (MN.i.289; iii.103). Họ thuộc về Suddhāvāsā (DN.ii.52; DN.iii.237). Theo Buddhaghosa (DN­a.ii.480; Vibh­a.521), họ được gọi như vậy vì họ không hành hạ bất cứ ai (*na kañci sattaṁ tapenti*). Họ là những bậc *anāgāmi*. It-a.40.
 
 ## Notes

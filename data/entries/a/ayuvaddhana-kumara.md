@@ -5,7 +5,7 @@ base_headword: "Āyuvaḍḍhana Kumāra"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -33,6 +33,8 @@ They did so and the Buddha, who was then staying at the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyuvaḍḍhana Kumāra. Hai người Bà-la-môn ở Dīghalambika trở thành ẩn sĩ và thực hành khổ hạnh trong bốn mươi tám năm. Sau đó một người trong số họ trở về đời sống thế tục và sau khi kiếm được gia súc cùng tiền bạc, ông ta đã kết hôn và sinh ra một người con trai được ông đặt tên là Dīghāyu. Về sau, khi người bạn đồng tu trước đây của ông đến thành phố, vị gia chủ cùng vợ và con đã đến thăm ngài. Khi họ cúi lạy ngài, vị ẩn sĩ nói với người đàn ông và vợ ông ta rằng "Chúc hai người sống lâu", nhưng không nói với đứa bé. Khi được hỏi, vị ẩn sĩ nói với họ rằng con trai họ chỉ còn sống được bảy ngày, và khuyên họ nên đến thăm Đức Phật và hỏi ngài xem có cách nào ngăn chặn được số mệnh của đứa trẻ hay không.
+
+Họ đã làm như vậy và Đức Phật, khi đó đang cư ngụ tại Āraññakuṭikā ở Dīghalambika, bảo họ dựng một gian nhà bên ngoài cửa nhà của họ. Họ đã làm như vậy, và trong gian nhà, các nhà sư đã liên tục trì tụng *Paritta* trong bảy ngày với đứa trẻ ngồi trước mặt họ trên một chiếc ghế dài. Vào ngày thứ bảy đích thân Đức Phật đã ngự đến và rất đông chư thiên cũng tụ tập quanh ngài. Yakkha Avaruddhaka, kẻ đã được ban đặc ân là được ăn thịt Dīghāyu, xuất hiện để đòi cậu bé vào thời điểm được ấn định cho cái chết của cậu, nhưng vì sự hiện diện của chư thiên, hắn không thể đến gần cậu bé. Đức Phật đã trì tụng *Paritta* suốt cả đêm, và khi ngày thứ bảy trôi qua Avaruddhaka không thể đòi đứa trẻ được nữa. Đức Phật tuyên bố rằng cậu bé sẽ sống được một trăm hai mươi năm và cậu được đổi tên thành Āyuvaḍḍhana. Khi lớn lên cậu trở thành người đứng đầu của năm trăm nam cư sĩ. Dhp­a.ii.235ff.
 
 ## Notes

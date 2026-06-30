@@ -5,7 +5,7 @@ base_headword: "Avitakkasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avitakkasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avitakkasutta 01. Ānanda, nhìn thấy Sāriputta, đưa ra lời nhận xét về phong thái điềm tĩnh và màu da trong trẻo của ngài và hỏi ngài làm thế nào lại có được như vậy. Sāriputta giải thích rằng ngài đã dành cả ngày trong *jhāna* thứ hai, với sự nhất tâm, không còn tầm và tứ (*avitakka avicāra*). SN.iii.236.
 
 ## Notes

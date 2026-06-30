@@ -5,7 +5,7 @@ base_headword: "Avaroja"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -33,6 +33,6 @@ A story similar to that of the two Avarojas is told of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avaroja. Một cư sĩ trong thời của Vipassī Buddha; ông có một người cháu trai cũng tên là Avaroja được đặt theo tên của người chú mình. Khi người chú đảm nhận việc xây dựng một *gandhakuṭi* cho Đức Phật, người cháu trai mong muốn có phần trong công việc này, nhưng người chú không cho phép. Ngay sau đó người cháu trai đã tiến hành xây dựng một Kuñjarasālā (Đại Sảnh Voi), trên một địa điểm đối diện với *gandhakuṭi*, được trang trí bằng bảy loại khoáng sản quý giá. Ở giữa Kuñjarasālā là một gian nhà nạm ngọc mà bên dưới là một Pháp Tòa. Tại chân của tòa ngồi được đặt bốn con cừu đực bằng vàng, trong đó có thêm hai con nữa ở dưới chỗ gác chân và sáu con xung quanh gian nhà. Tại lễ cúng dường, Avaroja đã mời Đức Phật cùng sáu mươi tám ngàn nhà sư, bố thí đủ dùng trong bốn tháng và tặng nhiều món quà khác nhau cho các nhà sư và sa-di.\n\nAvaroja, tức là người cháu trai này, đã trở thành Meṇḍaka, một vị *seṭṭhi* nổi tiếng của xứ Benares, trong thời hiện tại (Dhp­a.iii.364ff).\n\nMột câu chuyện tương tự như câu chuyện của hai người Avaroja được kể lại về Aparājita, người chú và người cháu trai có cùng tên, cũng là những cư sĩ trong thời của Vipassī Buddha. Chúng ta được biết rằng người cháu trai này cũng trở thành vị *seṭṭhi* Meṇḍaka trong kiếp sống cuối cùng của mình. Có lẽ ở đây, rõ ràng là có sự nhầm lẫn giữa các truyền thuyết (Dhp­a.iv.202-3).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aṭṭhipesīsutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,6 @@ Aṭṭhipesīsutta. Preached about a *Peta*, a mere skeleton, seen near <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhipesīsutta. Được thuyết giảng về một ngạ quỷ (*Peta*), chỉ là một bộ xương, được Moggallāna và Lakkhaṇa nhìn thấy gần Gijjhakūṭa. Anh ta từng là một người mổ bò ở Rājagaha. SN.ii.254.
 
 ## Notes

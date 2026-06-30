@@ -5,7 +5,7 @@ base_headword: "Bakabrahmasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -39,6 +39,12 @@ When the Buddha and his followers had departed, the *Brahma* sent one of his ret
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakabrahmasutta. Kể lại câu chuyện về chuyến viếng thăm của Đức Phật tới Baka và cuộc trò chuyện giữa Baka và Đức Phật trong dịp đó. Những sự kiện về tiền kiếp của Baka có được nhắc đến nhưng không đi vào chi tiết (SN.i.142 f). So sánh Brahmanimantikasutta.
+
+*Sutta* này không thể là cùng một kinh với Bakabrahmasutta được nhắc đến trong Chú giải Theragāthā và được trích dẫn đầy đủ tại đó (ii. 185 f). Ở đó nói rằng có một lần khi Đức Phật đang ở Jetavana, một vị Phạm thiên nọ nảy sinh tà kiến rằng không một tỳ-kheo hay sa-môn nào có thể đến được cõi của mình. Đức Phật, biết được điều này, đã đi đến cõi Phạm thiên và đứng giữa hư không, toàn thân bao bọc bởi ngọn lửa.
+
+Ngài được theo sau bởi Moggallāna, Kassapa, Kappina và Anuruddha. Moggallāna đã hỏi vị Phạm thiên xem ông ta có còn giữ tà kiến đó không, và ông ta đáp rằng mình không còn nghĩ rằng bản thân là thường hằng nữa (điều này cho thấy vị Phạm thiên trong câu chuyện rất có thể là Baka.)
+
+Khi Đức Phật và những người theo Ngài đã rời đi, vị Phạm thiên đã sai một người trong đoàn tùy tùng của mình đến gặp Moggallāna để tìm hiểu xem liệu có những đệ tử nào khác của Đức Phật cũng hùng mạnh như ông hay không. Câu trả lời của Moggallāna là có rất nhiều người như vậy (Kinh này được đưa ra ở SN.i.144 ff., nhưng ở đó tên được đưa ra là Aparādiṭṭhisutta).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bahubhāṇijātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahubhāṇijātaka. Evidently another name (given in Dhp­a.iv.92) for the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahubhāṇijātaka. Hiển nhiên là một tên gọi khác (được đưa ra trong Dhp­a.iv.92) cho Kacchapajātaka (Ja 215).
 
 ## Notes

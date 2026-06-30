@@ -5,7 +5,7 @@ base_headword: "Cakkhusutta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Cakkhusutta 03. In the arising and the rebirth of the eye lies the origin of suf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkhusutta 03. Trong sự sinh khởi và sự tái sinh của con mắt nằm ở nguồn gốc của khổ đau, bệnh tật, già suy và cái chết; đối với các giác quan khác cũng vậy. Sự chấm dứt của những trạng thái này được mang lại bởi sự chấm dứt trong sự sinh ra của các giác quan. SN.iii.228.
 
 ## Notes

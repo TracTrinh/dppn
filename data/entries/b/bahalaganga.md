@@ -5,7 +5,7 @@ base_headword: "Bahalagaṅgā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bahalagaṅgā. The name given to a portion of the river flowing from the south 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahalagaṅgā. Tên gọi được đặt cho một đoạn của dòng sông chảy từ phía nam của Himavā. Đoạn này là phần chảy giữa Tiyaggala *pokkharaṇī* (hồ sen Tiyaggala) và Ummaggagaṅgā. Nó chảy xuyên qua một tảng đá trên khoảng cách dài sáu mươi do-tuần. Snp­a.ii.439; AN­a.ii.760; Ud­a.302; MN­a.i.586.
 
 ## Notes

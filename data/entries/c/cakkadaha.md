@@ -5,7 +5,7 @@ base_headword: "Cakkadaha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cakkadaha. The home of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkadaha. Nơi xuất phát Cakkaratana của một Cakkavatti. Ja.iv.232.
 
 ## Notes

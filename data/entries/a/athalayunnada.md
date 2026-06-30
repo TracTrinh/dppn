@@ -5,7 +5,7 @@ base_headword: "Athalayunnāḍa"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Athalayunnāḍa. A district in S. India. Cv.lxxvi.261.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Athalayunnāḍa. Một quận ở Nam Ấn Độ. Cv.lxxvi.261.
 
 ## Notes

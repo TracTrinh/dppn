@@ -5,7 +5,7 @@ base_headword: "Avaruddhaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Avaruddhaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avaruddhaka. Một Yakkha. Sau khi phục vụ Vessavaṇa trong mười hai năm, ông nhận được phần thưởng là sự cho phép bắt đứa bé trai, người sau này được biết đến với tên gọi là Āyuvaḍḍhana. Vào ngày định mệnh cho cái chết của cậu bé, Avaruddhaka, đến để đòi lại phần thưởng của mình, thấy Đức Phật và các đệ tử của ngài đang ở đó, trì tụng kinh điển và thực hiện các biện pháp khác để ngăn chặn cái chết của cậu bé. Avaruddhaka phải lùi lại mười hai do-tuần để nhường chỗ cho những người cao hơn mình và cuối cùng phải bỏ đi mà không bắt được cậu bé. Dhp­a.ii.237-8.
 
 ## Notes

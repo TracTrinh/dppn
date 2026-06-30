@@ -5,7 +5,7 @@ base_headword: "Cāla Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ He is mentioned as living at the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāla Thera. Con trai của Cālā và là cháu trai của Sāriputta. Ngài được thọ giới bởi Khadiravaniya Revata (Thag.vs.42; Thīg­a.i.110).
+
+Ngài được nhắc đến là sống tại Kūṭāgārasālā, nơi ngài đã rời đi khi những người Licchavī gây ra sự xáo trộn bằng những chuyến viếng thăm Đức Phật của họ (AN.v.133). Trong ngữ cảnh này, ngài được nói đến như một vị Trưởng lão rất lỗi lạc và do đó, rõ ràng là một *Arahant*.
 
 ## Notes

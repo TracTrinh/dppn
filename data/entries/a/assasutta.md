@@ -5,7 +5,7 @@ base_headword: "Assasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assasutta. Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assasutta. Có lần Assa, "Người huấn luyện ngựa" (*assāroha*) của Rājagaha đã đến gặp Đức Phật để hỏi xem có đúng là một người huấn luyện ngựa, nếu anh ta nỗ lực thực hiện nhiệm vụ của mình, thì sẽ được sinh ra giữa chư thiên Sarañjita không? Đức Phật nói với anh ta rằng một quan điểm như vậy là một quan điểm sai lầm và kết quả của nó là tái sinh vào địa ngục hoặc làm súc sinh. Assa bày tỏ sự kinh hoàng và tuyên bố mình từ đó trở đi là một tín đồ của Đức Phật. SN.iv.310.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atideva"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atideva. The Bodhisatta born as a Brahmin in the time of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atideva. *Bodhisatta* sinh ra như một Bà-la-môn vào thời của Đức Phật Revata. Sau khi nghe Đức Phật thuyết pháp, ngài đã dâng cúng chiếc y phần trên của mình (Ja.i.35; Bv.vi.10; Mbv.10). Ngài thuộc về Rammavatī. Bv­a.134.
 
 ## Notes

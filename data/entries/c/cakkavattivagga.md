@@ -5,7 +5,7 @@ base_headword: "Cakkavattivagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cakkavattivagga. The fifth chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavattivagga. Chương thứ năm của Bojjhaṅgasaṁyutta. SN.v.98-102.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asubhasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Asubhasutta 01. There are four modes of progress with reference to a monk who li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asubhasutta 01. Có bốn phương thức tiến bộ liên quan đến một vị tỳ-kheo sống quán chiếu sự không tịnh của cơ thể, sự đáng ghê tởm của thức ăn, v.v. Tuy nhiên, sự chứng đắc của vị ấy có thể chậm chạp nếu năm căn (*indriyas*) của vị ấy (về tín, tấn, v.v.) bị cùn nhụt (AN.ii.150f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assajisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,8 @@ SN.iii.124-6.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assajisutta. Ghi lại sự kiện Đức Phật đến thăm Assaji (1).
+
+SN.iii.124-6.
 
 ## Notes

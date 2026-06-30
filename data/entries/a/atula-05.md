@@ -5,7 +5,7 @@ base_headword: "Atula"
 disambiguator: "05"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Atula 05. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atula 05. Con trai của Sikhī, người sau này trở thành Đức Phật Sikhī. Mẹ ngài là Sabbakāmā. Bv.xxi.17; DN­a.ii.422.
 
 ## Notes

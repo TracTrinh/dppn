@@ -5,7 +5,7 @@ base_headword: "Assamukha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Assamukha. One of the four rivers that flow out of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assamukha. Một trong bốn dòng sông chảy ra khỏi hồ Anotatta Lake. Có nhiều ngựa được tìm thấy trên hai bờ của nó. Snp-a.ii.438; Ud­a.301.
 
 ## Notes

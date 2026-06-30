@@ -5,7 +5,7 @@ base_headword: "Aṭṭhasatasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Aṭṭhasatasutta – (<span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhasatasutta – (Aṭṭhasatapariyāya). Phương pháp mô tả 108 cảm thọ - ba mươi sáu cảm thọ trong quá khứ, ba mươi sáu trong hiện tại và ba mươi sáu trong tương lai. SN.iv.231.
 
 ## Notes

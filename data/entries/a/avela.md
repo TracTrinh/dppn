@@ -5,7 +5,7 @@ base_headword: "Avela"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avela. One of the palaces used by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avela. Một trong những cung điện được Revata Buddha sử dụng trong khoảng thời gian còn là cư sĩ ở kiếp sống cuối cùng của ngài. Bv.vi.17.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aṭṭhissara"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṭṭhissara. The name under which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhissara. Cái tên mà dưới đó Devadatta, sau khi đã chịu đau khổ trong năm phần của một *kappa* dưới địa ngục, sẽ trở thành một *Pacceka Buddha*.
 
 ## Notes

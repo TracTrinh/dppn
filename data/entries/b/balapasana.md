@@ -5,7 +5,7 @@ base_headword: "Balapāsāṇa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Balapāsāṇa. A locality in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balapāsāṇa. Một địa danh ở Rohaṇa, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.178; lxxv.3, 5.
 
 ## Notes

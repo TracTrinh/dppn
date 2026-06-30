@@ -5,7 +5,7 @@ base_headword: "Campakapupphiya Thera"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Campakapupphiya Thera 01. An Arahant. Thirty-one *kappas* ago he offered seven f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campakapupphiya Thera 01. Một Arahant. Ba mươi mốt *kappa* trước, ngài đã dâng bảy bông hoa trong một chiếc giỏ cho Đức Phật Vessabhū. Hai *kappa* sau đó, ngài trở thành một vị vua tên là Vihatābhā (Ap.i.167). Rất có thể ngài chính là Belaṭṭhānika (Thag­a.i.205).
 
 ## Notes

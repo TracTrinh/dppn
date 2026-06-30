@@ -5,7 +5,7 @@ base_headword: "Avikakkā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avikakkā. (*v.l.* for <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avikakkā. (*cách đọc khác.* cho Adhikakkā).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Assāsasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Assāsasutta. A conversation between <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assāsasutta. Một cuộc trò chuyện giữa Sāriputta và vị *Paribbājaka* Jambukhādaka về điều gì tạo nên sự an ủi (*assāsa*) và làm thế nào để đạt được nó. SN.iv.254.
 
 ## Notes

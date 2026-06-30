@@ -5,7 +5,7 @@ base_headword: "Assalāyana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,10 @@ The Buddha points out to him that such pretensions are baseless, and that virtue
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assalāyana. Một nam thanh niên Bà-la-môn, mười sáu tuổi, ở Sāvatthī, rất uyên bác về kinh Veda và các môn học liên quan. Năm trăm Bà-la-môn đang ở lại trong thành phố đã yêu cầu anh ta tổ chức một cuộc thảo luận với Đức Phật Gotama và bác bỏ quan điểm của ngài. Anh ta chỉ đồng ý sau những yêu cầu lặp đi lặp lại, bởi vì, anh ta nói, Gotama là một nhà tư tưởng có quan điểm riêng của ngài và, do đó, rất khó để đánh bại trong một cuộc tranh luận.
+
+Anh ta đến gặp Đức Phật và hỏi ngài có ý kiến gì liên quan đến những tuyên bố của các Bà-la-môn rằng họ là giai cấp thượng đẳng duy nhất, là những người con trai hợp pháp của Phạm thiên (*Brahma*).
+
+Đức Phật chỉ ra cho anh ta thấy rằng những đòi hỏi tự phụ như vậy là vô căn cứ, và rằng đức hạnh, điều duy nhất dẫn đến sự thanh tịnh, có thể được trau dồi bởi bất kỳ giai cấp nào trong bốn giai cấp.
 
 ## Notes

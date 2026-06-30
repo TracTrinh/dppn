@@ -5,7 +5,7 @@ base_headword: "Asubhasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Asubhasutta 02. The idea of the foul, if cultivated, leads to great profit. SN.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asubhasutta 02. Ý tưởng về sự bất tịnh, nếu được trau dồi, sẽ dẫn đến lợi ích to lớn. SN.v.132.
 
 ## Notes

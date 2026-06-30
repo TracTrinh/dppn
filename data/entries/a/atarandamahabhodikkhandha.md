@@ -5,7 +5,7 @@ base_headword: "Atarandāmahābhodikkhandha"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Atarandāmahābhodikkhandha. A village in <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atarandāmahābhodikkhandha. Một ngôi làng ở Rohaṇa nơi quân đội của Damiḷādhikāri đã tiêu diệt quân nổi loạn. Cv.lxxv.97.
 
 ## Notes

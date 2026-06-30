@@ -5,7 +5,7 @@ base_headword: "Āṭānāṭiyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -53,6 +53,22 @@ DN­a.iii.969 gives a long description of the ritual to be followed when recitin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āṭānāṭiyasutta. *Sutta* thứ ba mươi hai của Dīghanikāya, được thuyết giảng tại Gijjhakūṭa (DN.iii.194ff).
+
+Tứ Đại Thiên Vương (Cattāro Mahā Rājāno) sau khi đã thiết lập đội gác khắp bốn phương, đã đến thăm Đức Phật. Sau khi đảnh lễ ngài và ngồi xuống cùng với vô số Yakkha khác, Vessavaṇa thưa với Đức Phật rằng phần lớn các Yakkha không tin tưởng vào Đức Phật vì lý do họ không thấy thoải mái hoặc dễ chịu khi phải kiêng tránh những điều mà ngài tuyên bố là xấu ác - chẳng hạn như sát sinh, trộm cắp, v.v. Và để cho các đệ tử của Đức Phật, những người thường lui tới những nơi hoang vắng và hẻo lánh của khu rừng nơi các Yakkha sinh sống, có thể tìm thấy sự bảo vệ khỏi họ, Vessavaṇa đề nghị Đức Phật có thể học bài chú ngữ Āṭānāṭiya (*rakkha*). Đức Phật đồng ý, và Vessavaṇa bắt đầu tụng nó.
+
+Nó mở đầu bằng lời đảnh lễ bảy vị Phật, bắt đầu với Vipassī. Phần còn lại chứa danh sách các vị thần và những sinh mệnh siêu nhiên khác, Tứ Đại Thiên Vương đứng đầu danh sách; những vị sau cùng này được miêu tả khá dài; bốn mươi mốt vị thần khác được đề cập đến như một loại phụ lục hoặc ý nghĩ chợt nảy ra, tất cả được kể tên lần lượt mà không có nỗ lực phân chia nhóm và không có bất kỳ chi tiết nào, trong những bài thơ có vẻ như là những bài vè dễ nhớ.
+
+Một phần của Mahā Samayasutta (các phần 10-20) trông rất giống một phiên bản được cải thiện và mở rộng của danh sách những cái tên trần trụi này.
+
+Đức Phật đã học bài chú ngữ này và dạy nó cho các tỳ-kheo.
+
+Āṭānāṭiyasutta hiện được coi là một Paritta, và ảnh hưởng của nó lan tỏa khắp một trăm triệu hệ thống thế giới (Vibh­a.430).
+
+Ví dụ ở Ceylon, nó được tụng với lòng nhiệt thành lớn vào lúc kết thúc các nghi lễ Paritta, đặc biệt là trong những lúc ốm đau, nhằm xua đuổi các ác linh.
+
+Nó được bao gồm trong danh sách các Paritta được tìm thấy trong Milindapañha, p.151; về tầm quan trọng của *Sutta* này trong lịch sử Ấn Độ, xem Rhys Davids, *Buddhist India*, pp.219-37.
+
+DN­a.iii.969 đưa ra một mô tả dài gọn về nghi thức cần tuân theo khi tụng Āṭānāṭiyaparitta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aṭṭhisenajātaka"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Aṭṭhisenajātaka (Ja 403). The story of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhisenajātaka (Ja 403). Câu chuyện về Aṭṭhisena. Một số tỳ-kheo ở Āḷavī đã đi ăn xin khắp nơi để xin vật liệu và sự viện trợ để xây nhà cho chính họ. Mọi người tỏ ra khó chịu vì những lời nài nỉ của họ và đã lẩn tránh họ. Khi Mahā Kassapa đến Āḷavī, mọi người đã bỏ chạy khỏi ngài vì nghĩ rằng ngài cũng là một trong những tỳ-kheo đó. Khi dò hỏi, ngài biết được lý do và nói lại với Đức Phật, người lúc đó đang ở Aggāḷavacetiya. Đức Phật đã khiển trách các tỳ-kheo, nói rằng trước đây các *samaṇa* và các sa-môn, mặc dù được các vị vua ban cho quyền lựa chọn, cũng không bao giờ xin của bố thí, cho rằng việc ăn xin từ người khác không dễ chịu cũng không thoải mái. Maṇikaṇṭhajātaka (Ja.ii.282ff) cũng được thuyết giảng trong cùng dịp này.
 
 ## Notes

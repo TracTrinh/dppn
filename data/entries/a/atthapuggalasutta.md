@@ -5,7 +5,7 @@ base_headword: "Aṭṭhapuggalasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhapuggalasutta. Two *Suttas* on the eight persons who are worthy of homag
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhapuggalasutta. Hai *Sutta* về tám hạng người đáng được đảnh lễ và cúng dường. AN.iv.292, 293.
 
 ## Notes

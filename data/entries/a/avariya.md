@@ -5,7 +5,7 @@ base_headword: "Avāriyā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avāriyā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avāriyā. Con gái của Avāriyapitā. Ja.iii.230.
 
 ## Notes

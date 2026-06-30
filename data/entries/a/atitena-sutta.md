@@ -5,7 +5,7 @@ base_headword: "Atītena Sutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atītena Sutta. Seeing that the eye, ear, etc., of the past are impermanent, the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atītena Sutta. Nhận thấy rằng mắt, tai, v.v., của quá khứ là vô thường, vị đệ tử bậc Thánh nên chấm dứt sự ham muốn đối với chúng. SN.iv.151.
 
 ## Notes

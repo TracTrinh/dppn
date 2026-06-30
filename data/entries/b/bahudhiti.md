@@ -5,7 +5,7 @@ base_headword: "Bahudhīti"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bahudhīti. A Brahmin of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahudhīti. Một vị Bà-la-môn thuộc dòng dõi Bhāradvāja, có bảy người con gái góa bụa và đang ngập trong nợ nần. Một ngày nọ, ông bị mất mười bốn con bò, và sau sáu ngày tìm kiếm, ông tình cờ gặp Đức Phật trong một khu rừng. Ông đã nói lời ca ngợi sự tự tại của Đức Phật, không bị lay động bởi những lo âu mà chính ông đang phải làm mồi - vì Đức Phật không có một người vợ hay cằn nhằn, không có các chủ nợ, không có những loài bọ quấy rầy giấc ngủ. Đức Phật đồng tình với ông, và ông vô cùng hoan hỉ với những lời của Đức Phật đến nỗi đã xin được xuất gia. Đức Phật đã cho ông xuất gia (SN.i.170f); Chú giải cho biết thêm (SN­a.i.187ff), rằng Ngài đã đưa vị tỳ-kheo mới xuất gia này đến gặp vua Pasenadi và kể lại những chuyện đã xảy ra. Nhà vua đã triệu tập các chủ nợ của ông đến và trả sạch nợ cho họ, rồi cho người đón vợ cùng các con gái ông và đưa họ vào sự bảo hộ của mình. Không lâu sau đó, người đàn ông này đã trở thành một vị Arahant.
 
 ## Notes

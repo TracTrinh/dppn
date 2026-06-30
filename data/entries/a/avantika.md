@@ -5,7 +5,7 @@ base_headword: "Āvantikā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvantikā. Tên được đặt cho các nhà sư xứ Avanti, những người đã giúp Yasa Kākaṇḍakaputta vượt qua tà giáo của những người Vajjiputtaka. Mhv.iv.19ff.
 
 ## Notes

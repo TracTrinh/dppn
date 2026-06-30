@@ -5,7 +5,7 @@ base_headword: "Cakkavattisīhanādasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,10 @@ The *Sutta* also records the prophecy of the coming of the Buddha <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavattisīhanādasutta. Được thuyết cho các tỳ-kheo tại Mātulā. Đó là một bài pháp thoại về sự cần thiết phải sống phù hợp với Pháp, lấy Pháp làm nơi nương tựa.
+
+*Kinh* chứa đựng câu chuyện về Cakkavatti Daḷhanemi và người con trai cả của ngài, và cách thức một Cakkavatti thực thi luật pháp, cai trị bằng sự công chính, đối với một dân tộc được trở nên đạo đức nhờ sự hướng dẫn của ngài. Nhưng, sau đó, có sự băng hoại dần dần về đạo đức, kéo theo đó là sự suy tàn và hủy diệt của đời sống con người cùng với tất cả những tiện nghi đi kèm của nó. Tiếp theo điều này là sự phục hồi dần dần của đạo đức, đi kèm với sự trở lại của sự thịnh vượng và tuổi thọ.
+
+*Kinh* cũng ghi lại lời tiên tri về sự xuất hiện của Đức Phật Metteyya (DN.iii.58ff). Người ta nói (DN­a.iii.858) rằng vào cuối bài thuyết pháp này, hai mươi ngàn tỳ-kheo đã trở thành *Arahant* và tám mươi bốn ngàn người khác đã chứng ngộ Chân lý.
 
 ## Notes

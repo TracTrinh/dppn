@@ -5,7 +5,7 @@ base_headword: "Babbarā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Babbarā. Name of a tribe. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Babbarā. Tên của một bộ tộc. Ap.ii.359.
 
 ## Notes

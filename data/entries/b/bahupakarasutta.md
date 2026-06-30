@@ -5,7 +5,7 @@ base_headword: "Bahūpakārasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bahūpakārasutta. Five things which make a monk of great service to his residen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahūpakārasutta. Năm điều khiến một vị tỳ-kheo mang lại lợi ích to lớn cho nơi cư trú của mình. AN.iii.263.
 
 ## Notes

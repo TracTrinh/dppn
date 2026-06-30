@@ -5,7 +5,7 @@ base_headword: "Balasaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Balasaṁyutta. The sixth section of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasaṁyutta. Phần thứ sáu của Mahā Vagga thuộc Saṁyuttanikāya. SN.v.249-53.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atthasālinī"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Atthasālinī. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthasālinī. Bản chú giải của Buddhaghosa cho Dhammasaṅgaṇippakaraṇa thuộc Abhidhammapiṭaka. Nó ban đầu được viết ở Ấn Độ (Mhv.xxxvi.225; Sās.31), nhưng có lẽ đã được chỉnh sửa lại ở Ceylon vì nó có đề cập (pp. 97-8) đến Samantapāsādikā, cũng như nhiều *aṭṭhakathā* (chú giải) khác nhau và Visuddhimagga.
 
 ## Notes

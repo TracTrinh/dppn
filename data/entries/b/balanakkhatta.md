@@ -5,7 +5,7 @@ base_headword: "Bālanakkhatta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bālanakkhatta. A festival lasting for seven days, during which people smeared t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālanakkhatta. Một lễ hội kéo dài bảy ngày, trong đó người ta bôi tro và phân bò lên người rồi đi khắp nơi buông những lời lẽ thô tục. Họ không tôn trọng một ai, và khi đến thăm một nhà nào đó mà câu chuyện của họ không được hưởng ứng, họ sẽ nhận một đồng xu rồi mới chịu bỏ đi. Có một lần khi lễ hội đang được tổ chức ở Sāvatthī, những người đi theo Đức Phật đã thỉnh cầu Ngài đừng rời khỏi tu viện, và họ đã cung cấp cho Ngài cùng các vị tỳ-kheo mọi vật dụng cần thiết để họ không phải ra ngoài. Dhp­a.i.256 f.
 
 ## Notes

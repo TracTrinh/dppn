@@ -5,7 +5,7 @@ base_headword: "Atītānāgatapaccuppannasuttas"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atītānāgatapaccuppannasuttas. Three in number. Seeing that the *saṅkhāras*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atītānāgatapaccuppannasuttas. Gồm ba bài kinh. Thấy rằng các hành (*saṅkhāra*) là (1) vô thường, (2) khổ (*dukkha*), và (3) vô ngã, vị đệ tử bậc Thánh không quan tâm đến những gì thuộc về quá khứ, không say mê với hiện tại và tìm kiếm sự ly tham đối với tương lai. SN.iii.19-20.
 
 ## Notes

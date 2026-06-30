@@ -5,7 +5,7 @@ base_headword: "Bālādicca"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bālādicca. A monastery in South India, the residence of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālādicca. Một tu viện ở Nam Ấn Độ, nơi cư trú của Coḷiya Dīpaṅkara (Buddhappiya), tác giả của Rūpasiddhi. PLC.220.
 
 ## Notes

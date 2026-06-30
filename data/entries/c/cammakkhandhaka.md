@@ -5,7 +5,7 @@ base_headword: "Cammakkhandhaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cammakkhandhaka. The fifth chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cammakkhandhaka. Chương thứ năm của *Mahā Vagga* thuộc *Vinayapiṭaka*. Vin.i.179ff.
 
 ## Notes

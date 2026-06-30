@@ -5,7 +5,7 @@ base_headword: "Avijjāsutta"
 disambiguator: "07"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāsutta 07. Ignorance is ignorance about <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāsutta 07. Vô minh là sự thiếu hiểu biết về khổ đau, sự phát sinh của nó, sự đoạn diệt của nó và con đường dẫn đến điều đó. SN.v.429.
 
 ## Notes

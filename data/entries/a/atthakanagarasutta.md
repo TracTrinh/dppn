@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakanāgarasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Aṭṭhakanāgarasutta. Gives an account of questions asked by <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakanāgarasutta. Đưa ra lời tường thuật về những câu hỏi do Dasama của Aṭṭhakanagara đặt ra cho Ānanda trong khi ngài đang ở Beluvagāma. Bài kinh bàn về mười một cánh cửa dẫn đến Nibbāna (*Nibbāna*) qua đó một người có thể tự cứu mình. MN.i.349f.; AN.v.342-7. *Sutta* này cũng được gọi là Dasamasutta.
 
 ## Notes

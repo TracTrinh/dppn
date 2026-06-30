@@ -5,7 +5,7 @@ base_headword: "Attadīpavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Attadīpavagga. Of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attadīpavagga. Thuộc Saṁyuttanikāya (SN.iii.42ff), bao gồm mười *Sutta* về bản chất của cơ thể và tự ngã.
 
 ## Notes

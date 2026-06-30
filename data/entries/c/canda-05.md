@@ -5,7 +5,7 @@ base_headword: "Canda"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Canda 05. The moon; generally spoken of as a *Deva*. See <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Canda 05. Mặt trăng; thường được nói đến như một vị thiên thần. Xem Candimā.
 
 ## Notes

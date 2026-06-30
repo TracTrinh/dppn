@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakathā Thera"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Aṭṭhakathā Thera. Mentioned in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakathā Thera. Được nhắc đến trong Bản chú giải Dīgha (iii.728) là người có khả năng giải quyết những nghi ngờ nảy sinh trong tâm trí của Mahā Sīvali Thera ở ẩn thất của ngôi làng.
 
 ## Notes

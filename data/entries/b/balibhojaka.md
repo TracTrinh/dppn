@@ -5,7 +5,7 @@ base_headword: "Balibhojakā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Balibhojakā. Probably the totemistic name of a Sinhalese clan; they are mention
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balibhojakā. Có lẽ là tên gọi theo vật tổ của một gia tộc Sinhalese; họ được đề cập liên quan đến các lễ kỷ niệm để tôn vinh Xá-lợi Răng dưới triều đại của Parakkamabāhu II. Cv.lxxxv.51; xem thêm Cv.Trs.i.29, chú thích 2.
 
 ## Notes

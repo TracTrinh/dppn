@@ -5,7 +5,7 @@ base_headword: "Avaṭaphaliya Thera"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Avaṭaphaliya Thera 02. His story is similar to that of (1) except that the nam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avaṭaphaliya Thera 02. Câu chuyện của ngài tương tự như của (1) ngoại trừ việc tên của vị Pacceka Buddha dường như là Sahassaraṁsī (hoặc đây là một tước hiệu?) (Ap.i.445). Ngài có lẽ có thể được nhận dạng là Meḷajina Thera. Thag­a.i.252.
 
 ## Notes

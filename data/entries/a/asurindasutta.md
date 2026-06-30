@@ -5,7 +5,7 @@ base_headword: "Asurindasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Asurindasutta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asurindasutta (Asurindakasutta). Kể lại một cuộc trò chuyện giữa Đức Phật và Asurinda Bhāradvāja tại Veḷuvana. Khi Asurinda nghe nói rằng Bhāradvāja (có thể là trưởng tộc) đã gia nhập Tăng đoàn, ông vô cùng tức giận, và đi đến gặp Đức Phật, ông đã mắng chửi ngài. Đức Phật vẫn im lặng, *Asurinda* nghĩ rằng ngài đã thừa nhận thất bại. Nhưng Đức Phật đã khai sáng cho ông, nói rằng người tồi tệ hơn trong hai người là người khi bị chửi bới, lại chửi bới trả lại; người không chửi bới như vậy sẽ giành được một chiến thắng kép: người ấy tìm kiếm điều tốt đẹp cho cả bản thân và người kia (SN.i.163f.; SN­a.i.178).
 
 ## Notes

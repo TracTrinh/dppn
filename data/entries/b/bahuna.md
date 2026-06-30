@@ -5,7 +5,7 @@ base_headword: "Bāhuna"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bāhuna. A monk who is said to have asked the Buddha, while on the banks of the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhuna. Một vị tỳ-kheo được cho là đã hỏi Đức Phật, khi Ngài đang ở bên bờ hồ Gaggarā tại Campā, về những trạng thái mà từ đó Tathāgata được giải thoát và tự tại. Đức Phật đã liệt kê mười trạng thái như vậy. AN.v.151f.
 
 ## Notes

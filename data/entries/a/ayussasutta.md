@@ -5,7 +5,7 @@ base_headword: "Āyussasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyussasutta. Hai *Sutta*, nói về năm điều kiện (chẳng hạn như ăn quá nhiều) không mang lại sự trường thọ, và về năm điều kiện mang lại điều đó. AN.iii.145.
 
 ## Notes

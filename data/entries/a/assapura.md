@@ -5,7 +5,7 @@ base_headword: "Assapura"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -33,6 +33,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assapura. Một thành phố trong vương quốc Aṅga. Chính tại đây, Mahā Assapura và Cūḷa Assapura *Suttas* đã được Đức Phật thuyết giảng (MN.i.271ff.; 281ff.; MN­a.i.483).
+
+Theo Cetiyajātaka, Assapura được xây dựng bởi người con trai thứ hai trong số năm người con trai của vua Upacara nước Ceti, trên chính nơi mà ông đã nhìn thấy một con ngựa trắng tinh. Nó nằm ở phía nam của Sotthivatī, kinh đô của Upacara. Ja.iii.460.
 
 ## Notes

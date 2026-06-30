@@ -5,7 +5,7 @@ base_headword: "Campā"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Campā 04. The river which flowed between <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campā 04. Con sông chảy giữa Aṅga và Magadha (nay gọi là Chāndan). Nāga vương Campeyya cai quản con sông này. Ja.iv.454f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cakkavāḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -56,6 +56,16 @@ A sun can illuminate only one <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavāḷa, các Cakkavāḷa. Tên gọi được dùng cho toàn bộ một hệ thống thế giới, có vô số hệ thống như vậy. Mỗi Cakkavāḷa rộng 123.450 *do-tuần* và bao gồm trái đất, thể tích 240.000 *nahuta* *do-tuần*, được bao quanh bởi một vùng nước có thể tích 480.000 *nahuta* *do-tuần*. Phần này tựa trên không khí, có độ dày 960.000 *nahuta* *do-tuần*. Ở trung tâm của Cakkavāḷa là ngọn núi Sineru, cao 168 *do-tuần*, một nửa trong số đó ngập dưới đại dương.
+
+Xung quanh Sineru là bảy dãy núi, Yugandhara, Īsadhara, Karavīka, Sudassana, Nemindhara, Vinataka và Assakaṇṇa. Những ngọn núi này là nơi sinh sống của các Tứ Đại Thiên Vương (Mahā Rājas) và những người theo họ, các Yakkha.
+
+Bên trong Cakkavāḷa là ngọn núi Himavā, cao một trăm do-tuần, với 84.000 đỉnh. Bao quanh toàn bộ Cakkavāḷa là *Cakkavāḷasilā*. Thuộc về mỗi Cakkavāḷa là một mặt trăng, đường kính bốn mươi chín do-tuần, một mặt trời năm mươi do-tuần, Tāvatiṁsabhavana, *Asurabhavana*, Avīcimahāniraya và bốn *mahādīpa* – Jambudīpa, Aparagoyāna, Pubbavideha và Uttarakuru, mỗi *mahādīpa* được bao quanh bởi năm trăm *dīpa* nhỏ.
+
+Giữa các Cakkavāḷa tồn tại địa ngục *Lokantarikaniraya* (SN­a.ii.442f.; Dhs­a.297f).
+
+Trong mỗi Cakkavāḷa có Bốn Vị Hộ Thế (Cattāro Mahā Rājā) (AN­a.i.439).
+
+Một mặt trời chỉ có thể chiếu sáng một Cakkavāḷa; những tia sáng từ thân thể của Đức Phật có thể chiếu sáng tất cả các Cakkavāḷa (AN­a.i.440).
 
 ## Notes

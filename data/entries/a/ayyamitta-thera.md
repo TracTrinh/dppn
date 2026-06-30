@@ -5,7 +5,7 @@ base_headword: "Ayyamitta Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ayyamitta Thera. An Elder who lived in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayyamitta Thera. Một vị Trưởng lão cư ngụ tại Kassakalena. Trong ngôi làng khất thực của ngài có một *upāsikā* đã chăm sóc ngài như con trai ruột của bà. Một ngày nọ vị Trưởng lão, trong lúc đang đi khất thực, đã nghe bà dặn dò con gái về thức ăn cho ngài. Ngài nhận ra rằng người phụ nữ này đang phải chịu đựng những sự thiếu thốn to lớn để cung cấp cho ngài những thứ xa xỉ, và cảm thấy rằng ngài không xứng đáng với sự quan tâm như vậy, ngài đã quay lại Kassakalena và ngồi xuống trên chiếc chõng của mình, quyết tâm không đứng lên cho đến khi đạt được quả vị *Arahant*. Trong đêm đó, mục tiêu của ngài đã đạt được và vị thiên thần trong hang động đã thốt lên lời ca ngợi ngài qua tiếng hát. Sáng hôm sau, ngài đi khất thực như thường lệ và người *upāsikā* biết rằng ngài đã nhận thức được mục tiêu mà ngài tìm kiếm (DN­a.iii.790-1). Ngài cũng được gọi là Mahā Mitta. VbhA.279.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atimuttaka"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -26,6 +26,6 @@ Atimuttaka 01. A cemetery near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atimuttaka 01. Một nghĩa trang gần Benares, nơi những tên cướp thường gửi những món đồ ăn trộm của chúng. Hai vị ẩn sĩ, Maṇḍavya và Dīpāyana, đã sống ở đó. Ja.iv.28f.
 
 ## Notes

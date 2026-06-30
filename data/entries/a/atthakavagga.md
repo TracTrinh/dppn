@@ -5,7 +5,7 @@ base_headword: "Aṭṭhakavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -38,6 +38,10 @@ In Sanskrit the title was known as Arthavarga and was so understood by the Chine
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhakavagga. Phần thứ tư của Suttanipāta. Nó bao gồm mười sáu *Sutta*, tất cả đều được giải thích trong Mahā Niddesa. Nó cũng có thể là tên của các phần trong các cuốn sách khác, vì chúng ta được biết rằng có lần Soṇa Thera đã tụng trước Đức Phật tất cả các bài kệ của Kinh Tám (Aṭṭhaka*-vaggikāni)* Vin.i.196-7. Dhammapada Commentary (Dhp-a.iv.101-2) nói ngài đã tụng 16 phần của Aṭṭhakavagga.
+
+Nữ cư sĩ (*Upāsikā*) Nandamātā có lần đang tụng Aṭṭhakavagga và Pārāyaṇavagga trên mái nhà của mình, và Vessavaṇa, trong lúc đang trên đường cùng những người theo mình đến gặp Đức Phật, đã lắng nghe lời tụng của bà (Snp-a.i.370; nhưng xem AN.iv.63, nơi chỉ có Pārāyaṇa được nhắc đến). Theo truyền thống này, Aṭṭhakavagga đã được tụng đọc ngay trong thời của chính Đức Phật.
+
+Trong tiếng Phạn, tiêu đề được biết đến là Arthavarga và được các dịch giả người Hoa hiểu như vậy. Chưa có ai giải thích ý nghĩa của tiêu đề cũng như không ai diễn giải bài kinh (*Sutta*) thứ hai (*Guhaṭṭhaka*) ngoại trừ việc hiểu nó là “Tám Bài Kệ về Cái Hang”, và tương tự với ba *Sutta* tiếp theo: Duṭṭhaṭṭhaka, Suddhaṭṭha và Paramaṭṭhaka, mỗi bài gồm tám bài kệ. Thực tế là nó được chú giải riêng trong Mahā Niddesa và được dịch sang tiếng Hoa khiến cho có vẻ như rất có khả năng nó từng là một tác phẩm riêng biệt. Xem Thomas: *Life and Legend of the Buddha*, 274.
 
 ## Notes

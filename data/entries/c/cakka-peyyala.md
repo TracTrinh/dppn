@@ -5,7 +5,7 @@ base_headword: "Cakka Peyyāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,8 @@ When the Buddha’s teaching disappears, the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakka Peyyāla. Chương thứ bảy của Saccasaṁyutta (SN.v.456-8).
+
+Khi giáo pháp của Đức Phật biến mất, Saṁyuttanikāya, từ Cakka Peyyāla cho đến Oghataraṇa, sẽ nằm trong số những phần biến mất sớm nhất. Vibh­a.432.
 
 ## Notes

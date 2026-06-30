@@ -5,7 +5,7 @@ base_headword: "Cakkhupāla Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -37,6 +37,10 @@ It is said that in a previous birth he had been a physician, and because a woman
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkhupāla Thera. Một *Arahant*. Ngài là con trai của một điền chủ, Mahā Suvaṇṇa ở Sāvatthī, và được gọi là Mahā Pāla (Pāla lớn), em trai ngài là Cūḷa Pāla. Các cậu bé được gọi là Pāla do được sinh ra nhờ sự phù hộ của một vị thần cây.
+
+Mahā Pāla nghe Đức Phật thuyết pháp tại Jetavana và gia nhập Tăng đoàn. Sau năm năm làm sa-di, ngài cùng sáu mươi người khác đến một khu rừng để thiền định. Ở đó, ngài mắc bệnh viêm mắt và được một bác sĩ kê đơn thuốc; nhưng ngài đã phớt lờ đôi mắt của mình, cống hiến toàn bộ thời gian cho những bổn phận của đời sống ẩn sĩ. Ngài trở thành một *Arahant* nhưng mất đi thị lực, do đó có tên như vậy. Sau đó, những người bạn đồng tu của Cakkhupāla trở về Sāvatthī và, theo yêu cầu của chính ngài, anh trai của Cakkhupāla đã phái cháu trai của mình là Pālita, lúc này đã xuất gia làm tỳ-kheo, đến đón ngài. Trên đường đi qua khu rừng, Pālita bị thu hút bởi bài hát của vợ một người tiều phu và, bảo chú của mình đợi, đã đi đến và phạm tội với cô ấy. Khi Cakkhupāla, bằng cách gặng hỏi vị sa-di, biết được điều này, ngài đã từ chối đi cùng cậu, ngay cả khi ngài phải chết trên đường. Ngai vàng của Sakka trở nên nóng, và ngài đã dẫn đường cho vị Trưởng lão an toàn đến Sāvatthī, nơi ngài được anh trai chăm sóc cho đến cuối đời (Thag.95; Thag­a.i.195f).
+
+Người ta kể rằng trong một kiếp trước ngài là một thầy thuốc, và vì một người phụ nữ, người mà ngài đã chữa khỏi bệnh về mắt, cố tình lừa gạt ngài khỏi phần thưởng đã hứa, ngài đã cho cô ta một loại thuốc làm hỏng hoàn toàn đôi mắt của cô. Dhp­a.i.15ff, nơi có một số chi tiết được cung cấp liên quan đến Cakkhupāla không được đề cập ở đây.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bahucintī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahucintī. A fish. See the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahucintī. Một con cá. Xem Mitacintījātaka (Ja 114). Ja.i.427f.
 
 ## Notes

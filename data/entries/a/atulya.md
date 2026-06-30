@@ -5,7 +5,7 @@ base_headword: "Atulya"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atulya. A king. A previous birth of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atulya. Một vị vua. Một tiền kiếp của Āsanatthavika Thera. Hai mươi bảy *kappa* trước, ngài đã bảy lần làm vua dưới tên gọi này. Ap.i.255.
 
 ## Notes

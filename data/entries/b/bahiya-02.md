@@ -5,7 +5,7 @@ base_headword: "Bāhiya"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Bāhiya 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiya 02. Một kẻ cướp ngôi người Damiḷa, đã trị vì ở Anurādhapura trong hai năm (từ 43 đến 29 TCN). Ông từng là tổng tư lệnh của Puḷahattha, người mà ông đã giết, và sau đó đến lượt ông lại bị chính vị tổng tư lệnh của mình là Panayamāra giết chết. Mhv.xxxiii.56ff.; Dpv.xx.15.
 
 ## Notes

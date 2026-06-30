@@ -5,7 +5,7 @@ base_headword: "Bālavagga"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bālavagga 03. The tenth chapter of the *Dukanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālavagga 03. Phẩm thứ mười của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.184-6.
 
 ## Notes

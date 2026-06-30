@@ -5,7 +5,7 @@ base_headword: "Bāhiyasutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bāhiyasutta 01. Relates the incident of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiyasutta 01. Kể lại sự việc Bāhiya (3) xin Đức Phật một bài giảng. SN.iv.63.
 
 ## Notes

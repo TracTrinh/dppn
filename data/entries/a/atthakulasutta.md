@@ -5,7 +5,7 @@ base_headword: "Atthakulasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -23,6 +23,6 @@ Atthakulasutta. The reasons why certain families, having attained great possessi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthakulasutta. Những lý do tại sao một số gia đình nhất định, sau khi đạt được khối tài sản lớn, lại không thể duy trì được lâu dài. AN.ii.249f.
 
 ## Notes

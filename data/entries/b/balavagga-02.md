@@ -5,7 +5,7 @@ base_headword: "Balavagga"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balavagga 02. The third and eighth chapters of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balavagga 02. Các phẩm thứ ba và thứ tám của Balasaṁyutta. SN.v.250, 252.
 
 ## Notes

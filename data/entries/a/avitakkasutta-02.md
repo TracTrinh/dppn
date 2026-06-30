@@ -5,7 +5,7 @@ base_headword: "Avitakkasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avitakkasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avitakkasutta 02. Moggallāna kể cho các nhà sư nghe ngài đã đạt được *jhāna* thứ hai như thế nào với sự trợ giúp của Đức Phật. SN.iv.263.
 
 ## Notes

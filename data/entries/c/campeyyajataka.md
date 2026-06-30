@@ -5,7 +5,7 @@ base_headword: "Campeyyajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -43,6 +43,12 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campeyyajātaka (Ja 506). Có lần, vua xứ Magadha, khi đang có chiến tranh liên miên với vua xứ Aṅga, đã nhận được sự giúp đỡ của Nāga vương, người sống ở sông Campā, để đánh bại đối thủ của mình. Sau đó, ngài đã tổ chức một lễ hội hàng năm để tôn vinh vị Nāga vương. Bồ-tát, một người đàn ông rất nghèo, đã nhìn thấy sự huy hoàng của Campeyya trên đường đến bữa tiệc và khao khát có được một sự vĩ đại như vậy. Kết quả là, sau khi chết, ngài đã được sinh ra ở thế giới Nāga, nơi ngài trở thành vua với tên gọi là Campeyya. Nhận ra điều gì đã xảy ra, ngài cảm thấy ghê tởm với vị trí là một Nāga của mình và đã nỗ lực nhiều lần để giữ các lời thệ nguyện tôn giáo, hy vọng, bằng cách này, để đạt được sự giải thoát. Nhưng những nỗ lực của ngài đã bị người vợ Sumanā cản trở. Cuối cùng, ngài đã đến thế giới loài người, nơi ngài nhịn ăn vào những ngày nhất định, nằm trên một gò mối. Ở đó, ngài bị bắt bởi một người dụ rắn, người này đã tra tấn ngài bằng nhiều cách khác nhau và mang ngài đi khắp nơi, trưng bày ngài để kiếm lợi. Nhờ những dấu hiệu nhất định mà Campeyya đã cảnh báo cho nàng từ trước, Sumanā biết rằng chồng mình đã bị bắt và, sau nhiều lần tìm kiếm, nàng đã tìm thấy ngài ngay khi người dụ rắn chuẩn bị biểu diễn trước Uggasena, vua xứ Benares. Toàn bộ câu chuyện sau đó đã được tiết lộ, và người dụ rắn đã thả tự do cho Campeyya. Để Uggasena có thể bị thuyết phục về sự thật của câu chuyện, ngài đã được mời đến thế giới Nāga, nơi ngài và đoàn tùy tùng của mình đã được thiết đãi thịnh soạn.
+
+Câu chuyện được kể liên quan đến việc giữ các lời thệ nguyện *uposatha*. Devadatta là người dụ rắn và Sāriputta là Uggasena. Rāhulamātā là Sumanā (Ja.iv.454-68).
+
+*Campeyyacariyā* được đưa vào *Cariyāpiṭaka* (p.85f) để minh họa cho *sīlapāramitā*.
+
+*Jātaka* này thường được nhắc đến (ví dụ, Ja.i.45; MN­a.ii.617) như một trong những kiếp mà Bồ-tát thực hành *sīla* một cách hoàn hảo.
 
 ## Notes

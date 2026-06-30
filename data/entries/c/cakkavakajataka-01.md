@@ -5,7 +5,7 @@ base_headword: "Cakkavākajātaka"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,8 @@ The story was told in reference to a greedy monk who went from house to house in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavākajātaka 01. (Ja 434). Một con quạ tham ăn, không thỏa mãn với cá từ sông Ganges, đã bay đến Himālaya và tại đó, khi nhìn thấy hai con ngỗng lông vàng (*cakkavāka*), đã hỏi chúng ăn gì mà lại xinh đẹp như vậy. Những con ngỗng trả lời rằng không phải thức ăn mà chính phẩm cách mới làm cho người ta trở nên xinh đẹp; con quạ quá tham lam nên không bao giờ có thể xinh đẹp được.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo tham ăn, người đã đi từ nhà này sang nhà khác để tìm kiếm thức ăn ngon, thường xuyên lui tới nơi ở của những người giàu có. Vị tỳ-kheo được nhận diện là con quạ. Ja.iii.520-4; so sánh Kākajātaka (Ja 140).
 
 ## Notes

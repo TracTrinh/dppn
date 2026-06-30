@@ -5,7 +5,7 @@ base_headword: "Attāḷhidhātusenavihāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Attāḷhidhātusenavihāra. A monastery built by King <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attāḷhidhātusenavihāra. Một tu viện do Vua Dhātusena xây dựng. Cv.xxxviii.49.
 
 ## Notes

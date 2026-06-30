@@ -5,7 +5,7 @@ base_headword: "Balasutta"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Balasutta 02. On the five powers: faith, self respect (*hiri*), fear of blame, e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasutta 02. Về năm sức mạnh: tín, lòng tự trọng (*hiri*), sự e ngại khiển trách, tấn và tuệ. AN.iii.248.
 
 ## Notes

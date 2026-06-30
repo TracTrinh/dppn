@@ -5,7 +5,7 @@ base_headword: "Bahudhātukasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -33,6 +33,8 @@ Other names for the *Sutta* are <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahudhātukasutta. Được thuyết giảng tại Jetavana. Kinh này bao gồm một loạt các câu hỏi do Ānanda đặt ra và những câu trả lời của Đức Phật Gotama. Đức Phật mô tả những phương pháp khác nhau để một vị tỳ-kheo có thể đạt được sự tinh thông về các giới (*dhātu*), các căn, chuỗi nhân duyên, những điều hợp lý có thể xảy ra và những điều hợp lý không thể xảy ra.
+
+Các tên gọi khác của Kinh là Catuparivaṭṭa, Dhammādāsa, Amatadundubhi và Anuttarasaṅgāmavijaya. MN.iii.61ff.
 
 ## Notes

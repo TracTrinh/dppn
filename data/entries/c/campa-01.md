@@ -5,7 +5,7 @@ base_headword: "Campā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -63,6 +63,18 @@ The Buddha’s bathing-robe was enshrined in Campā (Bv.xxviii.9). See also <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campā 01. Một thành phố ở Ấn Độ nằm trên bờ sông cùng tên; nó là thủ đô của Aṅga và nổi tiếng với hồ nước tuyệt đẹp, *pokkharaṇī* Gaggarā, được Hoàng hậu Gaggarā đào. Trên bờ hồ có một khu rừng cây *campaka*, nổi tiếng với hương thơm của những bông hoa trắng kỳ diệu, và ở đó, vào thời Đức Phật, các du sĩ ngoại đạo thường đến ngụ lại. Bản thân Đức Phật cũng đã ở đó nhiều lần (Vin.i.312; SN.i.195; AN.iv.59, 168; v.151, 189). Sāriputta (AN.iv.59) và Vaṅgīsa (SN.i.195) cũng được nói là đã ở lại đó. *Mahā Parinibbānasutta* (DN.ii.147) đề cập đến Campā như một trong sáu thành phố quan trọng của Ấn Độ, sự thành lập của nó được gán cho Mahā Govinda (DN.ii.235). Nó nằm cách Mithilā sáu mươi do-tuần (Ja.iv.32). Vào thời Đức Phật, người dân Campā chịu sự cai trị của Bimbisāra, với tư cách là vua xứ Magadha, và Bimbisāra đã ban một thái ấp hoàng gia ở Campā cho Bà-la-môn Soṇadaṇḍa (DN.i.111). Campā rõ ràng là một trung tâm thương mại quan trọng, và chúng ta được biết rằng các thương nhân đã từ đó đi đến Suvaṇṇabhūmi vì mục đích buôn bán (ví dụ, Ja.vi.539). Rất có thể những người dân thực dân Ấn Độ từ Campā đã đặt tên một trong những khu định cư quan trọng nhất của họ ở Đông Dương theo tên thị trấn cổ nổi tiếng này. Tên cổ của Campā có lẽ là *Mālini* hoặc *Mālina* (*Campasya tu puri Campā, yā Mālinyabhavat purā*. *Mahā Bhārata*.xii.5, 6, 7; *Matsyapurāṇa* 48, 97, v.v.; Law, *Ancient Geography of India* p.6, n.2).
+
+Chương thứ chín của *Mahā Vagga* thuộc *Vinayapiṭaka* (Vin.i.312ff; xem thêm Vin.iī.307) chứa một số quy định quan trọng được Đức Phật đặt ra tại Campā liên quan đến tính hợp lệ và không hợp lệ của các hành sự chính thức của Tăng đoàn.
+
+Campā được nhắc đến là nơi sinh của Soṇa Koḷivisa, Jambugāmika, Nandaka và Bharata, và trong số những người đã cư trú ở đó có Bāhuna, Vajjiyamāhita và Thullanandā cùng với những người bạn của bà.
+
+Các bài kinh *Soṇadaṇḍasutta*, *Dasuttarasutta*, *Kandarakasutta* và *Kāraṇḍavasutta* đã được thuyết tại đó.
+
+Theo Buddhaghosa (MN­a.ii.565), Campā được gọi như vậy vì toàn bộ nơi đó có rất nhiều cây *Campaka* lớn.
+
+Campā thường được nhận diện với một địa điểm cách Bhagalpur hiện đại khoảng hai mươi bốn dặm về phía đông, gần các ngôi làng Campānagara và Campāpura (C.A.G.I.5). Xuanzang đã đến thăm nó (Beal-Xuan.ii.187f), và Faxian gọi nó là một vương quốc vĩ đại với nhiều nơi thờ phụng (p.65).
+
+Áo tắm của Đức Phật được tôn trí tại Campā (Bv.xxviii.9). Xem thêm Kāḷa Campā, có lẽ là một tên gọi khác của Campā.
 
 ## Notes

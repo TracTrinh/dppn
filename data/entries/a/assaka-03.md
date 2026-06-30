@@ -5,7 +5,7 @@ base_headword: "Assaka"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assaka 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaka 03. Vua của Potanagara ở đất nước Assaka, ngay sau khi Đức Phật viên tịch. Ông là cha của Sujāta và có hai người vợ. Ông đã để lại vương quốc của mình cho con trai của người vợ lẽ (Vv-a.259-60). Xem thêm Aruṇa (2).
 
 ## Notes

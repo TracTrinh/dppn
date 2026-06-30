@@ -5,7 +5,7 @@ base_headword: "Aṭṭhaka"
 disambiguator: "04"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -31,6 +31,6 @@ Aṭṭhaka 04. A King. When <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhaka 04. Một vị vua. Khi Daṇḍaka, do đã phạm tội chống lại Kisavaccha, bị tiêu diệt cùng với vương quốc của mình, ba vị lãnh chúa dưới quyền trong vương quốc của ông ta – Kaliṅga, Aṭṭhaka và Bhīmaratha – đã đến hỏi ý kiến *Bodhisatta* Sarabhaṅga về số phận của Daṇḍaka và những người cùng phạm tội với ông ta. Những nghi ngờ của họ đã được giải tỏa, và ở phần cuối của bài thuyết pháp của Sarabhaṅga, họ đã được giải thoát khỏi nhục dục (*kāmarāga*, Ja.v.135-49). Chính Sakka cũng có mặt tại cuộc vấn đáp và đã đặt những câu hỏi cho Sarabhaṅga.
 
 ## Notes

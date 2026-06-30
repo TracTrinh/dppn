@@ -5,7 +5,7 @@ base_headword: "Atipaṇḍita"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -27,6 +27,6 @@ Atipaṇḍita. The Bodhisatta was once born as the son of a merchant family in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atipaṇḍita. *Bodhisatta* từng được sinh ra làm con trai của một gia đình thương gia ở Benares và được đặt tên là Paṇḍita. Vị ấy đã hợp tác kinh doanh với một người đàn ông khác, tên là Atipaṇḍita, kẻ đã cố gắng lừa gạt vị ấy nhưng vô ích. Ja.i.405f.
 
 ## Notes

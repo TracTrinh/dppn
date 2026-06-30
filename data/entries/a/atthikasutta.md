@@ -5,7 +5,7 @@ base_headword: "Aṭṭhikasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhikasutta. A group of *Suttas* dealing with the benefits occurring from m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhikasutta. Một nhóm các *Sutta* bàn về những lợi ích nảy sinh từ việc thiền quán về các bộ xương. SN.v.129ff.
 
 ## Notes

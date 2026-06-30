@@ -5,7 +5,7 @@ base_headword: "Avyādhika Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Avyādhika Thera. An *Arahant*. In a previous birth he built an *aggisālā* for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avyādhika Thera. Một vị *Arahant*. Trong một kiếp trước ngài đã xây một *aggisālā* cho Vipassī Buddha và một bệnh viện cùng nhà tắm nước nóng cho người bệnh. Sau này, bảy *kappa* trước, ngài là một vị vua tên là Aparājita. Ap.i.215.
 
 ## Notes

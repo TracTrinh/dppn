@@ -5,7 +5,7 @@ base_headword: "Avidūrenidāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -32,6 +32,8 @@ The whole of the story agrees word for word with the account given in the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avidūrenidāna. Câu chuyện về Gotama Buddha, từ lúc ngài rời khỏi cõi trời Tusita cho đến khi đạt được sự Giác ngộ tại gốc cây Bodhi, được gọi là Avidūrenidāna (Ja.i.2;47-77).
+
+Toàn bộ câu chuyện trùng khớp từng từ một với lời kể được đưa ra trong Madhuratthavilāsinī, Chú giải của Buddhaghosa về Buddhavaṁsa; có thể cả hai đều được rút ra từ cùng một nguồn. PLC.125-6.
 
 ## Notes

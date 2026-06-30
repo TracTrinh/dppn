@@ -5,7 +5,7 @@ base_headword: "Cakkavattisutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cakkavattisutta 02. With the appearance of a <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavattisutta 02. Cùng với sự xuất hiện của một Cakkavatti thì bảy báu vật xuất hiện trên thế giới; tương tự như vậy, cùng với sự xuất hiện của một Tathāgata thì bảy báu vật trí tuệ xuất hiện – chánh niệm, trạch Pháp, tinh tấn, hỷ, khinh an, định, xả. SN.v.99. Rõ ràng nó cũng được gọi là Ratanasutta. Xem DN­a.i.250.
 
 ## Notes

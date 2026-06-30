@@ -5,7 +5,7 @@ base_headword: "Assutavāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Assutavāsutta. From the adjusted friction of two sticks fire is born; if there 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assutavāsutta. Do sự cọ xát của hai thanh củi mà lửa được sinh ra; nếu không có sự cọ xát thì không có lửa. Tương tự như vậy, từ xúc mà thọ được sinh ra: nếu xúc diệt thì thọ diệt. Vị đệ tử đa văn biết điều này và đạt được sự giải thoát. SN.iv.95.
 
 ## Notes

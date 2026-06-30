@@ -5,7 +5,7 @@ base_headword: "Atthadassī"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -59,6 +59,6 @@ Atthadassī 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthadassī 01. Đức Phật Atthadassī. Vị Phật thứ mười bốn trong số hai mươi bốn vị Phật. Ngài sinh ra ở Sobhana trong hoa viên Sucindhanu, cha mẹ ngài là Sāgara và Sudassanā (Bv.xv.; Bv­a.178ff). Ngài được gọi như vậy vì khi ngài sinh ra, mọi người đã tìm lại được những kho báu bị chôn vùi từ lâu. Vợ ngài là Visākhā và con trai ngài là Sena (Sela theo Bản chú giải Buddhavaṁsa). Ngài đã sống 10.000 năm như một gia chủ trong ba cung điện – Amaragiri, Suragiri và Girivāhana. Ngài đã rời bỏ gia đình trên một con ngựa tên là Sudassana. Thời gian khổ hạnh của ngài kéo dài tám tháng, và bữa ăn cơm sữa của ngài được dâng bởi một người phụ nữ *nāga* tên là Sucindharā. Một *nāga* tên là Dhammaruci, đã cho ngài cỏ để trải dưới gốc cây *campaka*, nơi ngài đạt được sự Giác ngộ (*Awakening*). Bài thuyết pháp đầu tiên của ngài được thuyết giảng trong công viên Anomā gần Anoma. Các đệ tử chính của ngài là Santa, con trai của nhà vua, và Upasanta, con trai của vị giáo sĩ của Sucandaka. Các nữ đệ tử chính của ngài là Dhammā và Sudhammā. Abhaya là thị giả của ngài, và những vị hộ pháp của ngài là Nakula và Nisabha trong số các nam cư sĩ, và Makilā cùng Sunandā trong số các nữ cư sĩ. *Bodhisatta* khi đó là một *jaṭila*, tên Susīma ở Campaka, và ngài đã cúng dường cho Đức Phật một lọng hoa được mang từ cõi trời xuống. Atthadassī viên tịch ở độ tuổi 100.000 năm tại Anomārāma ở Anupama và xá-lợi của ngài được rải rác ở nhiều nơi. Ngài đã xuất hiện trong Maṇḍakappa, cùng với hai vị khác là Piyadassī và Dhammadassī. Ja.i.39.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Atthadassī"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Atthadassī 02. A Thera in Ceylon who, in company with two others, <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthadassī 02. Một vị Thera ở Ceylon, người đã cùng với hai vị khác là Buddhamitta và Buddhadeva, yêu cầu viết Jātakaṭṭhakatha (Ja.i.1; Gv.68). Vị ấy có lẽ là một vị trụ trì của Mahā Vihara ở Anurādhapura. Xem *Pāli Literature* của Ceylon, 125.
 
 ## Notes

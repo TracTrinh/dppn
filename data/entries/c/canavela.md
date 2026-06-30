@@ -5,7 +5,7 @@ base_headword: "Cānavela"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cānavela. *v.l.* for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cānavela. *v.l.* của Tanaveli (*q.v.*).
 
 ## Notes

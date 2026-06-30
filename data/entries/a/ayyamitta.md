@@ -5,7 +5,7 @@ base_headword: "Ayyamitta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ayyamitta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayyamitta (*cách đọc khác.* Mahā Mitta). Một nhà sư tại Kassakalena. Một phụ nữ rất nghèo đã cung cấp thức ăn cho ngài. Khi một vị thần cây chỉ ra điều này cho ngài, ngài đã nỗ lực và trở thành một vị *Arahant*. MN­a.i.237f; DN­a.iii.790.
 
 ## Notes

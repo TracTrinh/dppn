@@ -5,7 +5,7 @@ base_headword: "Āyusutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyusutta 02. Được thuyết giảng tại cùng một địa điểm, vào một dịp khác. Māra thốt ra quan điểm tương tự và Đức Phật đã bác bỏ quan điểm của hắn. Māra thoái lui trong sự thất bại. SN.i.108-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āveṇikasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āveṇikasutta. Có năm nỗi khổ đặc biệt (*āveṇika*) mà một người phụ nữ phải trải qua hoàn toàn khác biệt so với một người đàn ông: khi còn nhỏ tuổi, người ấy phải đến sống với gia đình của chồng mình, rời xa người thân; người ấy phải chịu kinh nguyệt; phải chịu mang thai; phải chịu quá trình sinh con; và người ấy phải hầu hạ một người đàn ông. SN.iv.239.
 
 ## Notes

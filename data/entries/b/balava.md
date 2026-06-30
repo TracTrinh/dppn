@@ -5,7 +5,7 @@ base_headword: "Bālava"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bālava. A maintenance village, given by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālava. Một ngôi làng bảo trì, được Aggabodhi IV ban tặng cho *padhānaghara* của Dāṭhāsiva. Cv.xlvi.13.
 
 ## Notes

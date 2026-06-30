@@ -5,7 +5,7 @@ base_headword: "Ayogharajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ayogharajātaka (Ja 510). The story of Prince <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ayogharajātaka (Ja 510). Câu chuyện về Hoàng tử Ayoghara. Câu chuyện này được kể lại liên quan đến sự Xuất gia của Đức Phật. Trong *Jātakamālā*, tên gọi này xuất hiện dưới dạng Ayogṛha. *Jātakamālā* Số 32.
 
 ## Notes

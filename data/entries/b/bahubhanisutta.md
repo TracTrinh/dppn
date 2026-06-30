@@ -5,7 +5,7 @@ base_headword: "Bahubhāṇisutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bahubhāṇisutta. The five disadvantages of excessive talking: liability to fal
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahubhāṇisutta. Năm tác hại của việc nói quá nhiều: dễ rơi vào sự dối trá, ác ý, thô lỗ, nhiều lời và sự đau khổ sau khi chết. AN.iii.254.
 
 ## Notes

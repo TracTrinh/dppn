@@ -5,7 +5,7 @@ base_headword: "Atula"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -29,6 +29,6 @@ Atula 01. An *upāsaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atula 01. Một cư sĩ (*upāsaka*) ở Sāvatthī. Anh ta cùng năm trăm người khác đến nghe Revata thuyết pháp, tuy nhiên, vì thích sự tĩnh lặng, vị ấy không thuyết pháp cho anh ta. Trong cơn tức giận, anh ta đã đến gặp Sāriputta, người khi nghe những lời phàn nàn của anh ta, đã giảng giải dài dòng về Abhidhamma. Bực mình vì điều đó, anh ta đã tìm đến Ānanda, kể lại câu chuyện cho vị ấy nghe. Ānanda đã thuyết cho họ một bài pháp rất ngắn, và những *upāsaka* này trong sự tuyệt vọng đã tìm đến Đức Phật. Đức Phật đã chỉ ra cho họ thấy rằng họ đã quá vội vàng trong sự lên án của mình. Vào cuối bài thuyết pháp, Atula và những người bạn đồng hành của mình đã đạt được Đạo quả đầu tiên (*First Fruit of the Path*). Dhp­a.iii.325-9.
 
 ## Notes

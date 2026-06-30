@@ -5,7 +5,7 @@ base_headword: "Aṭṭhaka"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -43,6 +43,12 @@ It is said that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhaka 01. Một nhà hiền triết lừng danh, người sáng tác và tụng xướng các chú ngữ thiêng liêng, được nhắc đến cùng với chín người khác (Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha và Bhagu. Vin.i.245; DN.i.104; DN­a.i.273), như những *ṛsi* (tiên nhân) cổ đại của những người Bà-la-môn. Họ đã kiêng ăn phi thời. Họ là những bậc thầy đầu tiên của các Bà-la-môn Tevijja (DN.i.238) và những cuộc tế lễ lớn đã được họ tiến hành (AN.iv.61).
+
+Nhiều giáo lý khác nhau được cho là của họ, ví dụ như họ đã công nhận năm loại Bà-la-môn – *Brahmasama*, *Devasama*, *mariyāda*, *sambhinnamariyāda*, và *Brāhmaṇacaṇḍāla* (AN.iii.224ff). Các vị hiền triết này đã không tuyên bố rằng họ đã nhận thức và liễu ngộ năm phẩm chất - sự thật, khổ hạnh, sự khiết tịnh, việc học tập và sự hào phóng - được các Bà-la-môn chỉ định để đạt được phước báu và thành tựu được điều đúng đắn (MN.ii.199-200), mặc dù những người theo họ cư xử như thể họ đã làm vậy. Họ cũng không tuyên bố rằng cá nhân họ đã nhìn thấy và biết rằng “chỉ ở đây mới có sự thật và mọi thứ khác đều là phù phiếm” (MN.ii.169). Trong Bản chú giải Vimānavatthu, người ta nói rằng Đức Phật đã liễu ngộ được những điều mà các nhà hiền triết này đã suy nghĩ và mong muốn đạt được (p.265) (*Brahmacintitan-ti brahmehi Aṭṭhakādīhi cintitaṁ, pañcacakkhunā diṭṭhaṁ*).
+
+Người ta nói rằng Aṭṭhaka và các vị tiên nhân khác có thiên nhãn và đã kết hợp các giáo lý của Đức Phật Kassapa vào chính các kinh điển của họ. Do đó (vào thời điểm đó) ba kinh Veda đã phù hợp với Pháp. Nhưng về sau, những người Bà-la-môn đã quay lưng lại với những giáo lý này (DN­a.i.273).
+
+Aṭṭhaka thường được đồng nhất với Aṣṭaka, người được cho là tác giả của Ṛg-veda x.104, trừ khi cái tên này bị coi là một cách đọc sai lệch mà dưới đó một số đại diện của Atri có thể ẩn giấu. VT.ii.130, n.2.
 
 ## Notes

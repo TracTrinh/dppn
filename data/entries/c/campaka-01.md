@@ -5,7 +5,7 @@ base_headword: "Campaka"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Campaka 01. A city in the time of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campaka 01. Một thành phố vào thời Đức Phật Atthadassī. Bồ-tát, khi đó là Susīma, đã được sinh ra tại đó. Bv­a.180.
 
 ## Notes

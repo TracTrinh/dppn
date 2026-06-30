@@ -5,7 +5,7 @@ base_headword: "Assatara"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -34,6 +34,8 @@ They were among the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assatara, Assataras. Một bộ tộc Nāga hiện diện tại buổi thuyết giảng Mahā Samayasutta (DN.ii.259). Buddhaghosa (DN­a.ii.688) nói rằng họ sống dưới chân núi Sineru và hùng mạnh đến mức họ có thể chống cự lại ngay cả những Supaṇṇa (DN­a.ii.688).
+
+Họ nằm trong số những Nāga được Dhataraṭṭha tập hợp lại để giúp vị này giành được Samuddajā (Ja.vi.165). Họ luôn được nhắc đến cùng với các Kambala Nāga.
 
 ## Notes

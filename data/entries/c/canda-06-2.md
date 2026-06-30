@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Candā 06. Chief consort of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 06. Chánh hậu của Candakumāra. Bà là con gái của vua xứ Pañcāla và là mẹ của Vāsula. Chính lời nguyện chân thật (*saccakiriyā*) của bà đã cứu mạng chồng bà. Bà được nhận diện là Rāhulamātā. Ja.vi.151ff.
 
 ## Notes

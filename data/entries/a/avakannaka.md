@@ -5,7 +5,7 @@ base_headword: "Avakaṇṇaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avakaṇṇaka. Given in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avakaṇṇaka. Được đưa ra trong các điều luật Pācittiya như một ví dụ về tên gọi thấp kém (*hīnanāma*). Vin.iv.6ff.
 
 ## Notes

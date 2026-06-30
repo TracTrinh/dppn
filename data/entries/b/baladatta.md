@@ -5,7 +5,7 @@ base_headword: "Baladatta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Baladatta. A king, last of the dynasty of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baladatta. Một vị vua, người cuối cùng của triều đại Brahmadeva, trị vì ở Ekacakkhu. Dpv.iii.25; Mhv­ṭ. 128.
 
 ## Notes

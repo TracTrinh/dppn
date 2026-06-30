@@ -5,7 +5,7 @@ base_headword: "Aṭṭhangikasutta"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhangikasutta 01. Things that flow together and coalesce do so because the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhangikasutta 01. Những thứ chảy cùng nhau và hòa quyện vào nhau làm như vậy là vì chúng chứa đựng một yếu tố chung (*dhātu*) giúp cho sự hội tụ đó trở nên khả thi, ví dụ như chánh kiến phù hợp với chánh kiến nhờ vào phẩm chất chung của chúng. SN.ii.168.
 
 ## Notes

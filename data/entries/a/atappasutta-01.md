@@ -5,7 +5,7 @@ base_headword: "Ātappasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ātappasutta 01. Đối với người không nhìn thấy và không biết rõ về sự hoại diệt, cái chết, v.v., đúng như bản chất của chúng, thì phải thể hiện sự nỗ lực tinh tấn. SN.ii.132.
 
 ## Notes

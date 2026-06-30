@@ -5,7 +5,7 @@ base_headword: "Āyupālā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyupālā (Āyupālī). Một vị *Arahant* Therī, thầy tế độ của Saṅghamittā. Mhv.v.208; Vin-a.i.51.
 
 ## Notes

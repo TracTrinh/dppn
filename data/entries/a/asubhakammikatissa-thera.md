@@ -5,7 +5,7 @@ base_headword: "Asubhakammikatissa Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asubhakammikatissa Thera. Referred to in the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asubhakammikatissa Thera. Được đề cập trong Bản chú giải Majjhima (MN­a.i.228; Ja.iii.534; xem thêm Mhv­ṭ.401) như một ví dụ về một vị tỳ-kheo đã dập tắt các dục vọng vì vị ấy thường quán chiếu về sự bất tịnh và chỉ kết giao với những người bạn xứng đáng. Vị ấy là một bậc *Arahant*.
 
 ## Notes

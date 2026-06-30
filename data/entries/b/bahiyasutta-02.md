@@ -5,7 +5,7 @@ base_headword: "Bāhiyasutta"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bāhiyasutta 02. The same as the above, but the lesson given is on the *satipa�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiyasutta 02. Giống như kinh trên, nhưng bài giảng được ban thuyết là về các niệm xứ. SN.v.165.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Athalayūrunaḍāḷvāra"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Athalayūrunaḍāḷvāra. A <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Athalayūrunaḍāḷvāra. Một thủ lĩnh người Damiḷa. Cv.lxxvi.140, 260; lxxvii.27.
 
 ## Notes

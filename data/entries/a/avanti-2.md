@@ -5,7 +5,7 @@ base_headword: "Avanti"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Avanti. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avanti. Vua xứ Ujjenī trong một thời quá khứ. Trong triều đại của ông, Bodhisatta đã giáng sinh với tên gọi Citta trong một ngôi làng của người *Caṇḍāla* bên ngoài Ujjenī. Câu chuyện của ngài được kể trong Citta Sambhūtajātaka (Ja 498). Ja.iv.390ff.
 
 ## Notes

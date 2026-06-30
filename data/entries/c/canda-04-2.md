@@ -5,7 +5,7 @@ base_headword: "Candā"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Candā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Candā 04. Vợ của Mahā Patāpa, vua xứ Benares, và là mẹ của Dhammapāla. Bà được nhận diện là Mahā Pajāpatī Gotamī. Để biết chi tiết, hãy xem *Cūḷa Dhammapālajātaka* (Ja 358). Ja.iii.178-ff.
 
 ## Notes

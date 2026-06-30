@@ -5,7 +5,7 @@ base_headword: "Cālā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cālā 02. Chief of the lay women supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cālā 02. Nữ thí chủ cư sĩ hộ độ chính của Đức Phật Sumaṅgala. Bv.v.28.
 
 ## Notes

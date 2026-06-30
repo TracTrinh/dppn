@@ -5,7 +5,7 @@ base_headword: "Cālāsutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cālāsutta. Records <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cālāsutta. Ghi lại chuyến viếng thăm của Māra đến Cālā Therī và cuộc trò chuyện của họ. SN.i.132.
 
 ## Notes

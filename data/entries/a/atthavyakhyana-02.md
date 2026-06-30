@@ -5,7 +5,7 @@ base_headword: "Atthavyākhyāna"
 disambiguator: "02"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atthavyākhyāna 02. By <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthavyākhyāna 02. Do Cūḷa Vajira (của Ceylon) sáng tác. Gv.60.
 
 ## Notes

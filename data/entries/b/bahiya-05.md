@@ -5,7 +5,7 @@ base_headword: "Bāhiya"
 disambiguator: "05"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Bāhiya 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiya 05. Bāhika. Tên của một quốc gia, nơi cư trú của Bharata, người thợ săn được nhắc đến trong Aṭṭhasaddajātaka (Ja.iii.432). Xem thêm Bāhiyajātaka (Ja 108).
 
 ## Notes

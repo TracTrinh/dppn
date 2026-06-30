@@ -5,7 +5,7 @@ base_headword: "Avijjāvagga"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Avijjāvagga 03. The first chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāvagga 03. Phẩm thứ nhất của Maggasaṁyutta. SN.v.1-12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Campaka"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Campaka 02. A king of fifty-seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campaka 02. Một vị vua cách đây năm mươi bảy *kappa*, một tiền kiếp của Khadiravaniya Revata. Ap.i.52; Thag­a.i.109.
 
 ## Notes

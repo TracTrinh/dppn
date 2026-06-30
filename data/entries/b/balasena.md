@@ -5,7 +5,7 @@ base_headword: "Balasena"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Balasena. A king of fifty-seven *kappas* ago; a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Balasena. Một vị vua của năm mươi bảy *kappa* trước; một tiền kiếp của Upaṭṭhāyaka Thera. Ap.i.241.
 
 ## Notes

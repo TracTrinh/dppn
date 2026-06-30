@@ -5,7 +5,7 @@ base_headword: "Bahudhanaseṭṭhi"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bahudhanaseṭṭhi. The name conferred by the king of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahudhanaseṭṭhi. Tên gọi được vua của Rājagaha ban cho Puṇṇa, khi Puṇṇa được phong lên tước vị trưởng giả (Dhp­a.iii.307). Xem Puṇṇa (2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Attadaṇḍasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -32,6 +32,8 @@ The *Sutta* deals with various aspects of self-control and a description of one 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Attadaṇḍasutta. *Sutta* thứ mười lăm của Aṭṭhakavagga thuộc Suttanipāta (Sn.182f). Nó được Đức Phật thuyết giảng khi ngài đến để giải quyết cuộc tranh cãi giữa những người Sākyan và những người Koḷiyan. Đây là bài kinh cuối cùng được thuyết giảng trong dịp đó. Khi kết thúc bài giảng, những cuộc cãi vã của họ đã chấm dứt và năm trăm thanh niên Sākyan cùng năm trăm thanh niên Koḷiyan đã gia nhập Tăng đoàn thông qua *ehibhikkhu* *pabbajjā* (lời gọi: "Hãy đến, Tỳ-kheo") (Snp-a.566-9; Ja.v.413-4).
+
+*Sutta* này đề cập đến các khía cạnh khác nhau của sự tự chủ và một mô tả về một người có thể được gọi là một *muni* (ẩn sĩ).
 
 ## Notes

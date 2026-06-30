@@ -5,7 +5,7 @@ base_headword: "Campakapupphiya Thera"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Campakapupphiya Thera 02. An Arahant. Thirty-one *kappas* ago, while travelling 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campakapupphiya Thera 02. Một Arahant. Ba mươi mốt *kappa* trước, trong khi đang du hành qua không trung, ngài đã nhìn thấy một Pacceka Buddha tên là Sudassana, và đã thả bảy bông hoa xuống để dâng lên vị ấy (Ap.i.279).
 
 ## Notes

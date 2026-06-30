@@ -5,7 +5,7 @@ base_headword: "Avijjāsutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Avijjāsutta 03. When ignorance is abandoned, knowledge springs up. This state i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avijjāsutta 03. Khi sự vô minh bị từ bỏ, sự hiểu biết nảy sinh. Trạng thái này đạt được nhờ việc biết, nhờ việc thấy được con mắt, v.v., là vô thường. SN.iv.49-50.
 
 ## Notes

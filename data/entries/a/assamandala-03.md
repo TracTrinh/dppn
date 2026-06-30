@@ -5,7 +5,7 @@ base_headword: "Assamaṇḍala"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Assamaṇḍala 03. A village near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assamaṇḍala 03. Một ngôi làng gần Hallolagāma. Ras.ii.121.
 
 ## Notes

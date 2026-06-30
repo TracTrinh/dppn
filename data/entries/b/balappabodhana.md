@@ -5,7 +5,7 @@ base_headword: "Bālāppabodhana"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bālāppabodhana. A Pāli work, probably a Commentary (Gv.63, 73). There exists 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bālāppabodhana. Một tác phẩm Pāli, có lẽ là một Chú giải (Gv.63, 73). Có một bản *Ṭīkā* về tác phẩm này. Gv.65, 76.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Badalatthala"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -31,6 +31,6 @@ Badalatthala, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Badalatthala, Badalatthalī. Một địa danh ở Dakkhiṇadesa của Ceylon (Cv.lviii.42; lxv.26). Đó là nơi ở của tướng quân Saṅkha, người đã bị giết tại đó (Cv.lxiv.9). Gần đó là Piliṁvatthu (Cv.lxv.4); Badalatthala chính là nơi Parakkamabāhu trẻ tuổi tìm đến đầu tiên khi ngài trốn khỏi những người giám hộ mình. Từ đó, ngài đi đến Buddhagāma (Cv.lxvi.19), và sau đó quay trở lại Baddalatthala để gặp mẹ mình là Ratanāvalī và tướng quân Deva, nhằm mục đích cùng họ đến thăm cha (Cv.lxvii.81).
 
 ## Notes

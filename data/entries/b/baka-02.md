@@ -5,7 +5,7 @@ base_headword: "Baka"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Baka 02. The Bodhisatta, born as the king of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baka 02. Bodhisatta, tái sinh làm vua của Benares. Để biết câu chuyện của ông, xem Pañcapāpā. Ja.v.440ff.
 
 ## Notes

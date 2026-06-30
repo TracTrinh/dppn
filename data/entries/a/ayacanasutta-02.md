@@ -5,7 +5,7 @@ base_headword: "Āyācanasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,8 @@ The *Sutta* appears verbatim in the Vinaya (i.4ff) and almost verbatim in the <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyācanasutta 02. Chứa đựng câu chuyện về sự ngần ngại mà Đức Phật cảm thấy, trong khi đang thiền định tại Uruvelā, vào tuần thứ tám sau khi Giác ngộ, đối với việc thuyết giảng giáo lý của mình cho thế giới, vì cảm thấy rằng nó sẽ không thu hút được tâm tính của con người; và về sự xuất hiện trước mặt ngài của Phạm thiên Sahampati, người đã đọc được suy nghĩ của ngài và cầu xin ngài vượt qua sự ngần ngại này. Ông quả quyết với Đức Phật rằng có nhiều người trên thế giới sẽ lĩnh hội được Pháp nếu họ được nghe. Đức Phật thấy rằng lời quả quyết này là có cơ sở và đã đồng ý lên đường với tư cách là một bậc đạo sư (SN.i.136ff).
+
+*Sutta* này xuất hiện nguyên văn trong Vinaya (i.4ff) và gần như nguyên văn trong Dīghanikāya (ii.36ff), như một giai thoại trong cuộc đời của mỗi vị Phật được đề cập ở đó, nhưng với hai điểm khác biệt; vị Phạm thiên lặp lại thỉnh cầu của mình ba lần và những bài kệ đưa ra thỉnh cầu đó, như được đưa ra trong Saṁyutta, thì bị lược bỏ.
 
 ## Notes

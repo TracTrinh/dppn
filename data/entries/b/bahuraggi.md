@@ -5,7 +5,7 @@ base_headword: "Bāhuraggi"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bāhuraggi. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhuraggi. *v.l.* Bahunandi. Một trong bảy chúng sinh được tái sinh ở cõi Avihā, để rồi nhập diệt hoàn toàn tại đó. SN.i.35, 60; Thīg­a. 222.
 
 ## Notes

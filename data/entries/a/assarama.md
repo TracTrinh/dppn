@@ -5,7 +5,7 @@ base_headword: "Assārāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Assārāma. The place of death of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assārāma. Nơi viên tịch của Đức Phật Sikhī (Bv­a.204). Buddhavaṁsa (Bv.xxi.28) gọi nơi đó là Dussārāma.
 
 ## Notes

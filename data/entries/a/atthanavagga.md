@@ -5,7 +5,7 @@ base_headword: "Aṭṭhānavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Aṭṭhānavagga. A group of the “impossibilities”; examples of such are th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhānavagga. Một nhóm các “điều không thể”; các ví dụ cho những điều như vậy là sự tồn tại đồng thời của hai vị Phật, hoặc kết quả tốt đẹp theo sau từ một hành động xấu xa. AN.i.26-30.
 
 ## Notes

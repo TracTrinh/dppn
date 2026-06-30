@@ -5,7 +5,7 @@ base_headword: "Cakkavagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cakkavagga. The fourth chapter of the *Catukkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkavagga. Chương thứ tư của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.32-44.
 
 ## Notes

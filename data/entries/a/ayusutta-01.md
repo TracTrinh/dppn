@@ -5,7 +5,7 @@ base_headword: "Āyusutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyusutta 01. Được thuyết giảng tại Kalandakanivāpa ở Rājagaha. Đức Phật nói với các nhà sư rằng kiếp người rất ngắn ngủi và có sự tiếp diễn ở nơi khác. Vì vậy, cần phải làm việc tốt và sống đời phạm hạnh. Māra tiến đến Đức Phật và đề nghị rằng con người không nên để ý đến cái chết, mà nên tận hưởng cuộc sống giống như một em bé say sưa bú sữa. Đức Phật chỉ ra cho hắn thấy sự sai lầm của một quan điểm như vậy (SN.i.108).
 
 ## Notes

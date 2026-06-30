@@ -5,7 +5,7 @@ base_headword: "Bāhiya"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bāhiya 04. A monk, fellow dweller of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bāhiya 04. Một vị tỳ-kheo, bạn đồng tu của Anuruddha tại Ghositārāma. Ông dường như đã đóng một vai trò nổi bật trong các cuộc tranh cãi của chư tăng ở Kosambī, giúp đỡ họ, nhưng Anuruddha đã để ông tự đi theo con đường riêng của mình mà không hề phản đối. AN.ii.239; xem thêm Khp­a.115.
 
 ## Notes

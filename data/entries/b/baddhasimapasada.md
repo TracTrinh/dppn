@@ -5,7 +5,7 @@ base_headword: "Baddhasīmāpāsāda"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Baddhasīmāpāsāda. A twelve storied *uposatha*-house built in <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Baddhasīmāpāsāda. Một ngôi nhà *uposatha* mười hai tầng được xây dựng ở Pulatthipura bởi Parakkamabāhu I. Cv.lxxviii.56, 67.
 
 ## Notes

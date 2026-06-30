@@ -5,7 +5,7 @@ base_headword: "Asuravagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asuravagga. The tenth chapter of the *Catukkanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asuravagga. Chương thứ mười của *Catukkanipāta* thuộc Aṅguttaranikāya. Nó bao gồm mười *Sutta* chứa đựng sự phân loại bốn hạng người được tìm thấy trên thế giới, với những miêu tả ít nhiều chi tiết về họ (AN.ii.91-101).
 
 ## Notes

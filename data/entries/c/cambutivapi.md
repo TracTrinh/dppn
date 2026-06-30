@@ -5,7 +5,7 @@ base_headword: "Cambutivāpi"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cambutivāpi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cambutivāpi. Một hồ chứa nước được Vasabha xây dựng. Mhv.xxxv.95.
 
 ## Notes

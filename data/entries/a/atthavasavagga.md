@@ -5,7 +5,7 @@ base_headword: "Atthavasavagga"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Atthavasavagga. The seventeenth chapter of the *Dukanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthavasavagga. Chương thứ mười bảy của *Dukanipāta* thuộc Aṅguttaranikāya (AN.i.98-100). Nó bàn về những mục đích đằng sau những lời căn dặn của Đức Phật dành cho các tỳ-kheo liên quan đến việc thực hành *samatha* (chỉ) và *vipassanā* (quán), được sử dụng như những phương thuốc để chống lại dục vọng, v.v.
 
 ## Notes

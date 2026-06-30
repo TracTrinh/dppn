@@ -5,7 +5,7 @@ base_headword: "Bahusodarī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bahusodarī. A goddess (*devadhītā*) living in <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahusodarī. Một vị nữ thần (*devadhītā*) sống ở Gandhamādana (Ja.vi.83). Xem Sāmajātaka (Ja 540).
 
 ## Notes

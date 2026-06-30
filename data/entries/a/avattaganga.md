@@ -5,7 +5,7 @@ base_headword: "Āvaṭṭagaṅgā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āvaṭṭagaṅgā. Một con kênh chảy nhánh về phía nam từ Anotattavāpī được Parakkamabāhu I xây dựng, hiển nhiên được gọi theo tên của (1). Cv.ixxix.50.
 
 ## Notes

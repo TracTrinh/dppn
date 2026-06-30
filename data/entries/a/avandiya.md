@@ -5,7 +5,7 @@ base_headword: "Avandiya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Avandiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Avandiya. Một thủ lĩnh người Damiḷa đã chiến đấu về phe Kulasekhara chống lại Parakkamabāhu I. Cv.lxxvi.146.
 
 ## Notes

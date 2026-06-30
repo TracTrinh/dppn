@@ -5,7 +5,7 @@ base_headword: "Aṭṭhānaparikappasutta"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -28,6 +28,8 @@ The *Sutta* states that it were easier for the four great elements to change the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aṭṭhānaparikappasutta. Được nhắc đến trong Atthasālinī (p.336); nó hiển nhiên đề cập đến Aṅguttara i.222.
+
+*Sutta* này nói rằng tứ đại nguyên tố thay đổi các đặc tính của chúng còn dễ dàng hơn là một đệ tử bậc Thánh sở hữu đức tin không lay chuyển vào Phật, Pháp và Tăng, lại bị sinh vào địa ngục giữa những loài súc sinh thấp kém hoặc trong thế giới của ngạ quỷ (*Peta*).
 
 ## Notes

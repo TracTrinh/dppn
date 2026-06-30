@@ -5,7 +5,7 @@ base_headword: "Atthavyākhyāna"
 disambiguator: "01"
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -25,6 +25,6 @@ Atthavyākhyāna 01. By <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Atthavyākhyāna 01. Do Cūḷabuddha Thera của Ceylon sáng tác; một cuốn sách về ngữ pháp hoặc chú giải. Sās.34; Bode, 28.
 
 ## Notes

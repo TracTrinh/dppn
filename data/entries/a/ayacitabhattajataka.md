@@ -5,7 +5,7 @@ base_headword: "Āyācitabhattajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -31,6 +31,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āyācitabhattajātaka (Ja 19). Ngày xưa, một điền chủ của một ngôi làng nọ, thuộc quốc gia Kāsi, đã hứa với vị thần linh của một cây đa sẽ dâng vật hiến tế nếu công việc kinh doanh của ông ta thành công. Khi ông ta đi xa trở về, ông ta đã giết nhiều sinh vật và mang chúng đến cội cây. Vị thần của cái cây đã hiện ra và khiển trách tên điền chủ, nói rằng không một ai có thể đạt được sự giải thoát bằng cách sát sinh.
+
+Câu chuyện này được kể lại để trả lời cho một câu hỏi của một số nhà sư, những người đã nhận thấy rằng có nhiều người khi đi kinh doanh xa thường giết các sinh vật sống và dâng chúng cho nhiều vị thần linh khác nhau để mong sao các chuyến đi của họ được thành công. Các nhà sư muốn biết liệu những cuộc cúng tế như vậy có mang lại điều gì tốt đẹp hay không (Ja.i.169).
+
+Jātaka này còn được biết đến với tên gọi là Pāṇavadhajātaka (Feer: JA.1876, p.516).
 
 ## Notes

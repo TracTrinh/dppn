@@ -5,7 +5,7 @@ base_headword: "Campeyyakkhandhaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Campeyyakkhandhaka. The ninth chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Campeyyakkhandhaka. Chương thứ chín của *Mahā Vagga* thuộc *Vinayapiṭaka*. Vin.i.312ff.
 
 ## Notes

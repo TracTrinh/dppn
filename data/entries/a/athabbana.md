@@ -5,7 +5,7 @@ base_headword: "Athabbana"
 disambiguator: ""
 letter: "A"
 section: "A-An."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/015.html"
@@ -24,6 +24,6 @@ Athabbana (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Athabbana (Āthabbana). Một nhánh kiến thức, mà việc nhúng tay vào đó là bị cấm đối với các tỳ-kheo (Sn.vs.927). Khi được nói kết hợp với ba kinh Veda, nó được đề cập như một nhánh thứ tư của kinh Veda cùng với *itihāsa* là nhánh thứ năm (DN­a.i.247). Nó được giải thích là *āthabbaṇika-manta-payoga* (nghề nghiệp của những người làm phép lạ). Snp-a.ii.564.
 
 ## Notes

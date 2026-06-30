@@ -5,7 +5,7 @@ base_headword: "Bahutarāsattā vagga"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bahutarāsattā vagga. The tenth chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahutarāsattā vagga. Phẩm thứ mười của Saccasaṁyutta. SN.v.473.
 
 ## Notes

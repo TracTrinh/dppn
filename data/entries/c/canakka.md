@@ -5,7 +5,7 @@ base_headword: "Cāṇakka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -35,6 +35,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāṇakka. Một Bà-la-môn ở Takkasilā, người đã giết vua Dhanananda và đưa Candagutta lên ngôi (Mhv.v.16f.; Mbv.98). Khi còn trẻ, Cāṇakka chăm sóc mẹ mình, và nhận thấy rằng bà đang lo lắng sợ ngài, người được định sẵn cho quyền lực nhà vua, sẽ rời bỏ bà, ngài đã bẻ gãy chiếc răng của mình, sau khi được cho biết rằng sự may mắn của ngài nằm ở đó. Một ngày nọ, khi đi khất thực đến cung điện của Dhanananda, ngài đã bị xúc phạm, và để trả thù cho sự xúc phạm đó, ngài đã bắt cóc con trai của nhà vua, Pabbatakumāra. Sau đó ngài nhận nuôi Candagutta và, nhận thấy ông phù hợp với ngôi vua hơn Pabbata, ngài đã sắp xếp để người sau bị giết. Khi mọi việc chuẩn bị đã xong, ngài đã xúi giục Candagutta nổi dậy chống lại Dhanananda, và cuối cùng, giết ông ta và lên ngôi (xem Mhv­ṭ.181ff để biết chi tiết, và cả Candagutta).
+
+Chú giải *Theragāthā* (i.440) nói rằng cha của Tekicchānī, Subandhu, đã đánh thức sự ghen tị của Cāṇakka, người đã bắt giam ông.
 
 ## Notes

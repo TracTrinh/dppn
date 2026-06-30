@@ -5,7 +5,7 @@ base_headword: "Assaka"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -64,6 +64,20 @@ In the Buddha’s time the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaka 04. Quốc gia Assaka là một trong mười sáu Mahā Janapadas được đề cập trong Aṅguttaranikāya (AN.i.213; iv.252, 256, 260). Tuy nhiên, nó không xuất hiện trong danh sách mười hai quốc gia được đưa ra trong Janavasabhasutta. Người Assaka được cho là đã có các khu định cư trên sông Godhāvarī, và ẩn thất của Bāvarī (Sn.vs.977) nằm trong lãnh thổ của họ, rất gần với Aḷaka hoặc Mulaka (khu vực quanh Paithan) (Law, *Geography of Early Buddhism*, 21).
+
+Quốc gia này được đề cập cùng với Avanti (Ja.v.317) giống như cách Aṅga với Magadha, và vị trí của nó trong danh sách nằm giữa Sūrasena và Avanti khiến cho nhiều khả năng khi danh sách được lập ra, vị trí của nó là ngay phía tây bắc của Avanti. Trong trường hợp đó, rất có thể khu định cư ở Godhāvarī, thuộc Dakkhiṇāpatha, là một thuộc địa sau này.
+
+Trong Assakajātaka (Ja.ii.155) có đề cập đến một vị vua tên là Assaka, người có vương quốc nằm trong vương quốc Kāsī. Điều quan trọng trong mối liên hệ này là thủ đô của Assaka, được gọi với các tên khác nhau là Potana (ví dụ: DN.ii.235; Ja.iii.3) hoặc Potali (ví dụ: Ja.ii.155), lại không được nhắc đến trong phần đề cập đến dòng sông Godhāvarī.
+
+Theo Cūḷa Kāliṅgajātaka (Ja.iii.3-5), có một thời, vua của Assaka (Arum) đã chấp nhận lời thách đấu chiến tranh của vua Kāliṅga xứ Dantapura, và đã đánh bại ông ta. Sau này, Assaka kết hôn với con gái của Kāliṅga và quan hệ giữa hai nước trở nên hòa hảo. Trong Bia ký Hāthigumphā của Khāravela, có kể lại rằng Khāravela, bất chấp vua Sātakarṇī, đã cử một đội quân lớn về phía tây (*pacchime disaṁ*) để reo rắc nỗi kinh hoàng cho Assaka (hoặc *Asika*) *nagara*. Law (op.cit., p.21) cho rằng Assaka trong Cūḷa Kāliṅgajātaka, Asikanagara trong Bia ký Hāthigumphā và Assaka trong Suttanipāta là cùng một địa điểm. Điều này có thể đúng nếu Potana và Potali được coi là hai thành phố khác nhau, thủ đô của hai khu định cư khác nhau có cùng tên.
+
+Các tác giả tiếng Phạn nói về cả Asmakā và Asvakā. Không thể nói liệu đây là hai bộ tộc khác biệt hay chúng là những tên gọi khác nhau của cùng một dân tộc. Asaṅga đề cập đến Asmaka trong *Sūtrālaṅkāra* của ông như một lãnh thổ nằm trên lưu vực sông Ấn. Điều này sẽ khiến nó đồng nhất với người Assakenus của các nhà văn Hy Lạp, tức là ở phía đông sông Sarasvati, cách biển khoảng hai mươi lăm dặm trên thung lũng Swat. Pāṇini đề cập đến người Asmaka (iv.173). *Mārkaṇḍeya Purāṇa* và *Bṛhat Saṁhitā* đặt Assaka ở phía tây bắc. Thủ đô của Assaka, Potana, đã được gợi ý, chính là Paudanya trong *Mahā Bhārata* (i.77, 47). Trong Bản chú giải cho *Arthaśāstra* của Kautilya, Bhaṭṭasvāmi đồng nhất Asmaka với Mahā Rāstra (Law, sđd., 22).
+
+Ngay sau khi Đức Phật viên tịch, một vị vua tên là Assaka là người cai trị Potali, và ông cùng con trai mình là Sūjata đã được Mahā Kaccāna cải đạo (Vv-a.259-67).
+
+Trong thời của vua Reṇu, vị vua Assaka của Potana là Brahmadatta (DN.ii.236).
+
+Trong thời của Đức Phật, vị vua Assaka được mô tả là một Andhakarājā. Ông đã lấy một ngàn cho mảnh đất được bán để làm ẩn thất cho Bāvarī (Snp-a.ii.581).
 
 ## Notes

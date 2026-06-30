@@ -5,7 +5,7 @@ base_headword: "Bahulasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -23,6 +23,6 @@ Bahulasutta. Four conditions which conduce to the growth of insight. SN.v.412.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bahulasutta. Bốn điều kiện dẫn đến sự tăng trưởng của tuệ giác. SN.v.412.
 
 ## Notes

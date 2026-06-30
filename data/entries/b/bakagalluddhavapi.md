@@ -5,7 +5,7 @@ base_headword: "Bakagalluddhavāpī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bakagalluddhavāpī. A locality in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bakagalluddhavāpī. Một địa danh ở Rohaṇa, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv.124.
 
 ## Notes

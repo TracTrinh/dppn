@@ -5,7 +5,7 @@ base_headword: "Cakkana"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Cakkana. An *upāsaka* of Ceylon. While he was a boy, his mother once fell griev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cakkana. Một nam cư sĩ (upāsaka) ở Ceylon. Khi còn là một cậu bé, mẹ ông có lần bị ốm nặng và các bác sĩ yêu cầu bà phải ăn thịt thỏ rừng. Cakkana được anh trai phái ra đồng, nơi cậu bắt được một con thỏ rừng nhưng vì lòng từ bi, cậu đã thả nó đi. Anh trai khiển trách cậu, nhưng Cakkana đã chữa khỏi bệnh cho mẹ bằng một lời nguyện chân thật (*saccakiriyā*), nói rằng, vì cậu chưa từng tước đoạt sinh mạng của bất kỳ loài nào, nhờ sức mạnh của sự thật đó, mẹ cậu sẽ bình phục (SN­a.ii.112; câu chuyện có chút khác biệt trong MN­a.i.165). Sự kiêng cữ của Cakkana là sự kiêng cữ được duy trì "bất chấp cơ hội" (*sampattivirati*) và ngay cả khi cậu chưa hề thọ nhận giới luật nào. Dhs­a., p. 103.
 
 ## Notes
