@@ -5,7 +5,7 @@ base_headword: "Araññasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araññasutta 04. On the qualities a monk should have to benefit by living in fo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññasutta 04. Về các phẩm chất mà một vị tỳ-kheo nên có để được lợi ích nhờ sống trong các am thất trong rừng. AN.iii.135f.
 
 ## Notes

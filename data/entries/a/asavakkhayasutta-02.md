@@ -5,7 +5,7 @@ base_headword: "Āsavakkhayasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavakkhayasutta 02. Đời sống thánh hạnh được sống vì sự đoạn tận các āsava. SN.v.28.
 
 ## Notes

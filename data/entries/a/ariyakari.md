@@ -5,7 +5,7 @@ base_headword: "Ariyākari"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ariyākari. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyākari. Một tu viện ở Rohaṇa thuộc Nam Ceylon. Dappula trao tu viện ấy cho làng Mālavatthu và xây trong đó một nhà thờ tượng. Ông cũng cho làm một *uṇṇaloma* quý giá và một *hemapaṭṭa* cho pho tượng ở đó. Cv.xlv.60-l.
 
 ## Notes

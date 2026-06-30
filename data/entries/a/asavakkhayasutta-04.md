@@ -5,7 +5,7 @@ base_headword: "Āsavakkhayasutta"
 disambiguator: "04"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavakkhayasutta 04. Định tâm chuyên chú vào hơi thở vào và hơi thở ra đưa đến sự đoạn tận các āsava. SN.v.340.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "06"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahaṁsutta 06. Arahants, fully enlightened ones, have full understanding of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 06. Các Arahants, những bậc toàn giác, có sự hiểu biết đầy đủ về bốn chân lý của bậc Thánh như chúng thật sự là. SN.v.433.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arahāsutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahāsutta 02. Same as above, the six sense-faculties being substituted for the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahāsutta 02. Giống như trên, với sáu căn được thay cho năm nhóm chấp thủ. SN.v.205.
 
 ## Notes

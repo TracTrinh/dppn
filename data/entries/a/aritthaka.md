@@ -5,7 +5,7 @@ base_headword: "Ariṭṭhakā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ariṭṭhakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭhakā. Một loại chư thiên có mặt khi Mahā Samayasutta được thuyết giảng. Họ có sắc tướng như những đóa hoa màu xanh thẫm (*ummāpupphanibhāsino*). DN.ii.260. Tuy nhiên, Buddhaghosa giải thích “*ummāpupphanibhāsina*” là tên của một loại chư thiên khác (DN­a.ii.690).
 
 ## Notes

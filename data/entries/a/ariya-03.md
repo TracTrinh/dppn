@@ -5,7 +5,7 @@ base_headword: "Ariya"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariya 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariya 03. Một Pacceka Buddha được nhắc đến trong danh sách của Isigilisutta. MN.iii.70; cũng xem Ap­a.i.107.
 
 ## Notes

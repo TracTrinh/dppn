@@ -5,7 +5,7 @@ base_headword: "Asītinipāta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asītinipāta. The twenty-first section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asītinipāta. Phần thứ hai mươi mốt của Jātaka Commentary (Ja.v.333-511).
 
 ## Notes

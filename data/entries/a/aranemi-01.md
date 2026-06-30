@@ -5,7 +5,7 @@ base_headword: "Araṇemi"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -32,6 +32,8 @@ They practised *ahiṁsā* and, abstaining from flesh, got rid of their lusts. A
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇemi 01. Một vị thầy Bà-la-môn thời quá khứ, được nêu trong danh sách sáu vị thầy từng là *Purohitas*. AN.iii.373. Những vị khác là Sunetta, Mūgapakkha, Kuddālaka, Hatthipāla và Jotipāla. Trong AN.iv.135f có thêm tên thứ bảy là Araka; xem thêm *Divy*, 632.
+
+Họ thực hành *ahiṃsā* và, kiêng ăn thịt, đã đoạn trừ các dục vọng của mình. Nhờ kết quả ấy, họ sinh vào *Brahma*loka. Họ có nhiều đệ tử.
 
 ## Notes

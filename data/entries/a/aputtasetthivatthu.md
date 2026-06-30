@@ -5,7 +5,7 @@ base_headword: "Aputtaseṭṭhivatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Aputtaseṭṭhivatthu. The story of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aputtaseṭṭhivatthu. Câu chuyện về Aputtaka đã nêu ở trên. Dhp­a.iv.76-80.
 
 ## Notes

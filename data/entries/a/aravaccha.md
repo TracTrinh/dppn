@@ -5,7 +5,7 @@ base_headword: "Aravacchā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,10 @@ No boat was available, but the king and his retinue crossed it on horseback by m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aravacchā. Một trong những con sông mà Kappina đã vượt qua trên đường từ vương quốc Kukkuṭavatī của mình để đến gặp Đức Phật tại Sāvatthī.
+
+Con sông sâu một do-tuần và rộng hai do-tuần.
+
+Không có thuyền, nhưng nhà vua cùng đoàn tùy tùng đã vượt sông trên lưng ngựa bằng cách quán tưởng Tam bảo và uy lực tối thượng của Đức Phật (Dhp­a.ii.119-20). Về sau, hoàng hậu của Kappina cũng làm như vậy (Dhp­a.ii.124).
 
 ## Notes

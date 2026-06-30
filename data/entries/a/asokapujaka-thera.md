@@ -5,7 +5,7 @@ base_headword: "Asokapūjaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,8 @@ Seventy *kappas* ago he became king sixteen times under the name <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokapūjaka Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ông là người giữ vườn của nhà vua tại Tivarā và dâng một hoa Asoka lên Paduma Buddha.
+
+Bảy mươi *kappa* trước, ông trở thành vua mười sáu lần dưới tên Aruṇañjaha. Ap.i.199.
 
 ## Notes

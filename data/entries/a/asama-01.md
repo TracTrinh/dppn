@@ -5,7 +5,7 @@ base_headword: "Asama"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asama 01. The chief disciple of Sobhita Buddha (Bv.vii.21; Ja.i.35). He was the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asama 01. Đệ tử trưởng của Sobhita Buddha (Bv.vii.21; Ja.i.35). Ông là anh em cùng cha khác mẹ của Đức Phật, và chính cho ông cùng anh em trai Sunetta của ông mà Đức Phật đã thuyết bài pháp đầu tiên. Bv­a.137.
 
 ## Notes

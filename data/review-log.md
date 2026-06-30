@@ -1441,6 +1441,330 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 24 | appiha | — | *Sāmaṇera*, *iddhi*, Mahā Thūpa |
 | 25 | aputtaka | ✅ | DÀI; Saṃyutta(nikāya) ×2 → ṁ; trưởng giả; địa ngục |
 
+## Batch: a/ (Aputtakasutta 01 → Ārakkhadāyaka Thera 02) — 30 entry [review_queue a_s01]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s01_result.md` (30 entry, aputtakasutta-01 → arakkhadayaka-thera-02). Glossary merge: nhận
+  āsava, indriya, cetiya (giữ Pāli) từ `glossary_terms_a_s06.md`. Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 1 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Citation chính xác
+  (soft-hyphen Dhp­a/SN­a/MN­a giữ nguyên), Pāli giữ diacritic, khớp glossary (Bát Thánh đạo, năm indriya,
+  *āsava*, Thūpa, Paribbājaka). arakajataka: "seven aeons" dịch "bảy kappa" — chấp nhận (kappa khớp glossary).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | aputtakasutta-01 | — |  |
+| 2 | aputtakasutta-02 | — |  |
+| 3 | aputtasetthivatthu | — |  |
+| 4 | arabbhavatthusutta | — |  |
+| 5 | arabhatisutta | — |  |
+| 6 | araddhaviriyasutta | — |  |
+| 7 | arahamsutta-01 | — |  |
+| 8 | arahamsutta-02 | — |  |
+| 9 | arahamsutta-03 | — | năm *indriyas* (giữ Pāli, glossary mới) |
+| 10 | arahamsutta-04 | — |  |
+| 11 | arahamsutta-05 | — |  |
+| 12 | arahamsutta-06 | — |  |
+| 13 | arahamsutta-07 | — |  |
+| 14 | arahanta | — |  |
+| 15 | arahantasutta | — |  |
+| 16 | arahantavagga-01 | — |  |
+| 17 | arahantavagga-02 | — |  |
+| 18 | arahasutta-01 | — |  |
+| 19 | arahasutta-02 | — |  |
+| 20 | arahasutta-03 | — |  |
+| 21 | arahattasutta-01 | — | Bát Thánh đạo |
+| 22 | arahattasutta-02 | — |  |
+| 23 | arahattavagga-01 | — |  |
+| 24 | arahattavagga-02 | — |  |
+| 25 | araja | — |  |
+| 26 | araka | — | cõi *Brahma*; địa ngục [purgatory] |
+| 27 | arakajataka | — | "seven aeons" → "bảy kappa" |
+| 28 | arakasutta | — |  |
+| 29 | arakkhadayaka-thera-01 | ✅ | *kappas* → *kappa* (glossary) |
+| 30 | arakkhadayaka-thera-02 | — |  |
+
+## Batch: a/ (Ārakkhasutta → Araññavagga 02) — 30 entry [review_queue a_s02]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s02_result.md` (30 entry, arakkhasutta → arannavagga-02). Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 3 file sửa low-risk (*kappas* → *kappa*); 0 file đặt needs_check; tất cả giữ status=draft.
+  Khớp glossary (do-tuần [leagues], Tăng đoàn, Trưởng lão, Bà-la-môn, Sa-môn, Bát Thánh đạo, *ānāpānasati*).
+  aramadusakajataka-01 & aranavibhangasutta dài: đối chiếu đầy đủ + trung thực.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | arakkhasutta | — |  |
+| 2 | aramadanda | — | DÀI; đầy đủ |
+| 3 | aramadayaka-thera | ✅ | *kappas* → *kappa* |
+| 4 | aramadusakajataka-01 | — | DÀI; đầy đủ |
+| 5 | aramadusakajataka-02 | — |  |
+| 6 | aramassa | — |  |
+| 7 | aramavagga | — |  |
+| 8 | aramikagama | — |  |
+| 9 | aramma | — |  |
+| 10 | arammanasutta-01 | — |  |
+| 11 | arammanasutta-02 | — |  |
+| 12 | aranadipiya-thera | ✅ | 2× *kappas* → *kappa* |
+| 13 | aranasutta | — |  |
+| 14 | aranavibhangasutta | — | DÀI; Bát Thánh đạo |
+| 15 | aranemi-01 | — |  |
+| 16 | aranemi-02 | — |  |
+| 17 | aranisutta | — | năm *indriyas* |
+| 18 | aranjaragiri | — | do-tuần [leagues] |
+| 19 | aranna | — | chư thiên [gods] |
+| 20 | arannajataka | — |  |
+| 21 | arannaka-maha-abhaya | — | Yakkha |
+| 22 | arannakasutta | — |  |
+| 23 | arannakutika | — | Tăng đoàn |
+| 24 | arannasatta | ✅ | *kappas* → *kappa* |
+| 25 | arannasutta-01 | — |  |
+| 26 | arannasutta-02 | — |  |
+| 27 | arannasutta-03 | — | *ānāpānasati* |
+| 28 | arannasutta-04 | — |  |
+| 29 | arannavagga-01 | — |  |
+| 30 | arannavagga-02 | — |  |
+
+## Batch: a/ (Araññavāsīnikāya → Ariya 01) — 30 entry [review_queue a_s03]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s03_result.md` (30 entry, arannavasinikaya → ariya-01). Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. arindama-01 & arati dài:
+  đối chiếu đầy đủ + trung thực. Khớp glossary (Tăng đoàn, Pacceka Buddha, Nāga, cõi *Brahma*, Giác ngộ
+  [Awakening], crore, do-tuần, *Sotāpanna*, *upanissaya*). arindama-04 dùng *kappa* (chuẩn).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | arannavasinikaya | — | Tích Lan; Mahā Vihāra |
+| 2 | arati | — | DÀI; con gái Māra; Giác ngộ |
+| 3 | aratisutta-01 | — |  |
+| 4 | aratisutta-02 | — |  |
+| 5 | aravaccha | — | do-tuần [leagues] |
+| 6 | aravala-2 | — |  |
+| 7 | aravala | — | Nāga; Tam quy/Ngũ giới |
+| 8 | arikari | — |  |
+| 9 | arimaddana | — | DÀI; Pagan/Miến Điện; đầy đủ |
+| 10 | arimaddavijayagama | — |  |
+| 11 | arimanda | — |  |
+| 12 | arindama-01 | — | RẤT DÀI; Soṇaka/Pacceka Buddha; đầy đủ |
+| 13 | arindama-02 | — | crore |
+| 14 | arindama-03 | — | crore; do-tuần |
+| 15 | arindama-04 | — | *kappa* (chuẩn) |
+| 16 | arindama-05 | — |  |
+| 17 | arindama-06 | — | Cakkavatti |
+| 18 | arittha-01 | — | DÀI; *ukkhepanīyakamma*; đầy đủ |
+| 19 | arittha-02 | — | Bất tử; bậc Thánh |
+| 20 | arittha-03 | — | Pacceka Buddha |
+| 21 | arittha-04 | — |  |
+| 22 | arittha-05 | — | Nāga |
+| 23 | arittha-06 | — |  |
+| 24 | aritthajanaka | — |  |
+| 25 | aritthaka | — | chư thiên [Devas] |
+| 26 | aritthapabbata | — | DÀI; *vihāra*; đầy đủ |
+| 27 | aritthapura | — |  |
+| 28 | aritthasutta | — |  |
+| 29 | aritthavihara | — |  |
+| 30 | ariya-01 | — | Nam Ấn |
+
+## Batch: a/ (Ariya 02 → Aruṇa 02) — 30 entry [review_queue a_s04]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s04_result.md` (30 entry, ariya-02 → aruna-02). Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. ariyagalatissa,
+  ariyapariyesanasutta, aruna-02 dài: đối chiếu đầy đủ + trung thực. Khớp glossary (Tăng đoàn, tướng quân,
+  *karīsa*, Bát Thánh đạo, *satipaṭṭhāna*, *bojjhaṅga*, *iddhipāda*, Giác ngộ, *Nibbāna*, *Sotāpanna*).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | ariya-02 | — | *upanissaya*; *Sotāpanna* |
+| 2 | ariya-03 | — | Pacceka Buddha |
+| 3 | ariyabalisikavatthu | — |  |
+| 4 | ariyacakkavatti | — | tướng quân; Xá-lợi Răng |
+| 5 | ariyagalatissa | — | RẤT DÀI; *karīsa*; chư thiên; đầy đủ |
+| 6 | ariyagalatittha | — |  |
+| 7 | ariyakaravihara | — |  |
+| 8 | ariyakari | — | *uṇṇaloma* |
+| 9 | ariyakavihara | — |  |
+| 10 | ariyakkhattayodha | — | *Senapāti*; tướng quân |
+| 11 | ariyakoti | — |  |
+| 12 | ariyalankara | — | DÀI; học vấn Pāli |
+| 13 | ariyamaggasutta | — | con đường bậc Thánh |
+| 14 | ariyamaggavagga-01 | — |  |
+| 15 | ariyamaggavagga-02 | — |  |
+| 16 | ariyamuni | — |  |
+| 17 | ariyapariyesanasutta | — | RẤT DÀI; *Nibbāna*; Giác ngộ; đầy đủ |
+| 18 | ariyasavakasutta-01 | — | Bất tử |
+| 19 | ariyasavakasutta-02 | — |  |
+| 20 | ariyasutta-01 | — | *bojjhaṅga* |
+| 21 | ariyasutta-02 | — | *satipaṭṭhāna* |
+| 22 | ariyasutta | — | *iddhipāda* |
+| 23 | ariyavamsa-01 | — | Tăng đoàn |
+| 24 | ariyavamsa-02 | — | DÀI; tác giả Miến Điện |
+| 25 | ariyavamsalankara | — |  |
+| 26 | ariyavasasutta | — |  |
+| 27 | arohanta | — |  |
+| 28 | arukasutta | — |  |
+| 29 | aruna-01 | — | Therī; *Khattiya* |
+| 30 | aruna-02 | — | RẤT DÀI; Kāliṅga/Assaka; chư thiên; đầy đủ |
+
+## Batch: a/ (Aruṇa 03 → Asamāhitasutta) — 30 entry [review_queue a_s05]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s05_result.md` (30 entry, aruna-03 → asamahitasutta). Host Read cho mọi thân file.
+- Kết quả: 30/30 đạt; 3 file sửa low-risk (*kappas* → *kappa*); 0 file đặt needs_check; tất cả giữ status=draft.
+  asa, asadisa-01, asadisadana dài: đối chiếu đầy đủ + trung thực. Khớp glossary (chư thiên, cõi *Brahma*,
+  Trưởng lão, *upāsaka*, *Khattiya*, Tāvatiṁsa, *jhāna*, Theravādins).
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | aruna-03 | — |  |
+| 2 | aruna-04 | — | Nāga |
+| 3 | aruna-05 | — | chư thiên [Devas] |
+| 4 | arunaka | ✅ | *kappas* → *kappa* |
+| 5 | arunanjaha | ✅ | *kappas* → *kappa* |
+| 6 | arunapala | ✅ | *kappas* → *kappa* |
+| 7 | arunapura | — |  |
+| 8 | arunavati-01 | — | cõi *Brahma* |
+| 9 | arunavati-02 | — |  |
+| 10 | arunavatiparitta | — | redirect |
+| 11 | arunavatisutta | — | *Anāgāmī*, *Arahant*; *Tipiṭaka* |
+| 12 | aruppala | — |  |
+| 13 | asa | — | DÀI; bốn con gái Sakka; đầy đủ |
+| 14 | asaddhamulakapancasutta | — |  |
+| 15 | asaddhasutta | — |  |
+| 16 | asadisa-01 | — | DÀI; Cātummahārājikā/Tāvatiṁsa; đầy đủ |
+| 17 | asadisa-02 | — |  |
+| 18 | asadisadana | — | DÀI; *Khattiya*; đầy đủ |
+| 19 | asadisadanavatthu | — |  |
+| 20 | asadisajataka | — | OCR "*Śarakṣepanajātaka" giữ nguồn |
+| 21 | asadisavagga | — |  |
+| 22 | asallakkhanasutta | — | Paribbājaka Vacchagotta |
+| 23 | asama-01-2 | — | chư thiên [Devas] |
+| 24 | asama-01 | — |  |
+| 25 | asama-02-2 | — |  |
+| 26 | asama-02 | — |  |
+| 27 | asama-03-2 | — |  |
+| 28 | asama-03 | — | cư sĩ [lay-supporter] |
+| 29 | asama-04 | — | *Devaputta*; Pūraṇa Kassapa |
+| 30 | asamahitasutta | — | *dhātu* |
+
+## Batch: a/ (Asamapekkhanāsutta → Asiggāhakapariveṇa) — 38 entry [review_queue a_s06]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_s06_result.md` (38 entry, asamapekkhanasutta → asiggahakaparivena). Host Read cho mọi thân
+  file.
+- Kết quả: 38/38 đạt; 0 file sửa; 0 file đặt needs_check; tất cả giữ status=draft. asandhimitta, asayha,
+  asibandhakaputta dài: đối chiếu đầy đủ + trung thực. Khớp glossary (āsava, indriya [glossary mới], chư thiên,
+  địa ngục [purgatory], Tāvatiṁsa, Yakkha, Bát Thánh đạo, *kamma*, *Tathāgata*, *cetiya*, Đại Kết Tập [Council],
+  Theravādins, *jhāna*, *seṭṭhi*). asandhimitta OCR "two says" giữ theo nguồn.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | asamapekkhanasutta | — | Paribbājaka Vacchagotta |
+| 2 | asamattasutta | — |  |
+| 3 | asampadanajataka | — | DÀI; crore; đầy đủ |
+| 4 | asampadanavagga | — |  |
+| 5 | asanabodhiya-thera | — | Cakkavatti; *kappa* |
+| 6 | asanatthavika-thera | — | *cetiya*; *kappa* |
+| 7 | asandhimitta | — | DÀI; Pacceka Buddha; OCR "two says" giữ |
+| 8 | asanisutta | — | *sekha* (hữu học) |
+| 9 | asanka | — |  |
+| 10 | asankajataka | — | DÀI; Sakka/Tāvatiṁsa; đầy đủ |
+| 11 | asankhatasamyutta | — |  |
+| 12 | asankhatasuttas | — | *asaṅkhata* (vô vi) |
+| 13 | asankiyajataka | — | cõi *Brahma*; *upāsaka* |
+| 14 | asannasatta | — | *jhāna*; Theravādins |
+| 15 | asannataparikkharabhikkhuvatthu | — |  |
+| 16 | asanupatthayaka-thera | — | *kappa* |
+| 17 | asappurisasutta-01 | — | *asappurisa* |
+| 18 | asappurisasutta-02 | — |  |
+| 19 | asatamantajataka | — | DÀI; Mahā Kassapa/Ānanda; đầy đủ |
+| 20 | asatarupajataka | — | DÀI; Sīvalī/Suppavāsā; đầy đủ |
+| 21 | asattharama | — |  |
+| 22 | asavagga | — |  |
+| 23 | asavakkhayasutta-01 | — | *āsava* (glossary mới) |
+| 24 | asavakkhayasutta-02 | — | *āsava* |
+| 25 | asavakkhayasutta-03 | — | năm indriya; *āsava* |
+| 26 | asavakkhayasutta-04 | — | *āsava* |
+| 27 | asavakkhayasutta-05 | — | *āsava* |
+| 28 | asavanam-khayasutta | — | năm indriya; *āsava* |
+| 29 | asavasutta-01 | — | *āsava* |
+| 30 | asavasutta-02 | — | Bát Thánh đạo; *āsava* |
+| 31 | asavati | — | Tāvatiṁsa |
+| 32 | asayha | — | *seṭṭhi*; Yakkha; Peta |
+| 33 | asekhiyasutta | — |  |
+| 34 | asela | — | *cetiya* |
+| 35 | asevasutta | — |  |
+| 36 | asevitabbasutta | — |  |
+| 37 | asibandhakaputta | — | DÀI; *kamma*; *Tathāgata*; đầy đủ |
+| 38 | asiggahakaparivena | — | Thūpārāma |
+
+## Batch: a/ (Asilakkhaṇajātaka → Asokā 01) — 19 entry [review_queue a_07]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_07_result.md` (19 entry, asilakkhanajataka → asoka-01-2). Host Read cho mọi thân file.
+- Kết quả: 19/19 đạt; 2 file sửa low-risk (*kappas* → *kappa*); 0 file đặt needs_check; tất cả giữ status=draft.
+  asita-01 & asitabhujataka & asilakkhanajataka dài: đối chiếu đầy đủ + trung thực. Khớp glossary (Bodhisatta,
+  *iddhi*, cõi *Arūpa*, Pacceka Buddha, địa ngục [purgatory], ngạ quỷ [Peta], *Nibbāna*, Tỳ-kheo-ni, do-tuần,
+  Saḷāyatanasaṁyutta). asivisasutta-01 OCR "SN.iv.172-b" giữ theo nguồn.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | asilakkhanajataka | — | DÀI; truyện thử kiếm; đầy đủ |
+| 2 | asimsavagga | — |  |
+| 3 | asipattavana | — | địa ngục [purgatory] |
+| 4 | asisukarikasutta | — | ngạ quỷ [Peta] |
+| 5 | asita-01 | ✅ | 2× *kappas* → *kappa* (DÀI; cõi *Arūpa*; đầy đủ) |
+| 6 | asita-02 | — | Pacceka Buddha |
+| 7 | asita-03 | ✅ | *kappas* → *kappa* |
+| 8 | asitabhu | — |  |
+| 9 | asitabhujataka | — | DÀI; *kinnarī*/*iddhi*; đầy đủ |
+| 10 | asitadevala-01 | — | Bodhisatta; *Brahma* |
+| 11 | asitadevala-02 | — | DÀI; Sarabhaṅga; đầy đủ |
+| 12 | asitanjala | — | "mười bốn *kappas*" (số đếm + Pāli) giữ |
+| 13 | asitanjana | — |  |
+| 14 | asitinipata | — |  |
+| 15 | asivisasutta-01 | — | DÀI; *upādānakkhandhā*/*Nibbāna*; OCR giữ |
+| 16 | asivisasutta-02 | — |  |
+| 17 | asivisavagga | — | Saḷāyatanasaṁyutta |
+| 18 | asivisopamasutta | — | Nāga |
+| 19 | asoka-01-2 | — | Tỳ-kheo-ni; Suddhāvāsā |
+
+## Batch: a/ (Asoka 01 → Assaji 02) — 15 entry [review_queue a_08]
+
+- Ngày review: 2026-06-30
+- Người/model: Opus (Cowork review-queue pass)
+- Phạm vi: manifest `a_08_result.md` (15 entry, asoka-01 → assaji-02). Host Read cho mọi thân file.
+- Kết quả: 15/15 đạt; 1 file sửa low-risk (2× *kappas* → *kappa*); 0 file đặt needs_check; tất cả giữ status=draft.
+  asoka-01 (Hoàng đế Asoka) & asokamala & asokarama & assaji-01 dài: đối chiếu đầy đủ + trung thực, mọi
+  citation/niên đại/bia ký giữ nguyên. Khớp glossary (Tăng đoàn, Đại Kết Tập [Council], *yojana*, chư thiên,
+  Yakkha/Nāga, *Caṇḍāla*, Pacceka Buddha, *Nibbāna*, *Sotāpanna*, *jhāna*, Trưởng lão).
+  asoka-01 trích kệ Pāli "ye dhammā hetuppabhavā…" giữ nguyên.
+
+| # | Entry (a/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | asoka-01 | — | RẤT DÀI; Hoàng đế Asoka; đầy đủ |
+| 2 | asoka-02-2 | — |  |
+| 3 | asoka-04 | — |  |
+| 4 | asoka-05 | — |  |
+| 5 | asoka-06 | — | Metteyya Buddha |
+| 6 | asoka-07 | — | *Arahant*; *Nibbāna* |
+| 7 | asoka-09 | — |  |
+| 8 | asokamala | — | DÀI; *Caṇḍāla*; đầy đủ |
+| 9 | asokamalaka | — | *cetiya* |
+| 10 | asokapujaka-thera | ✅ | 2× *kappas* → *kappa* |
+| 11 | asokarama | — | DÀI; Đại Kết Tập; Mahā Thūpa; đầy đủ |
+| 12 | assagutta-01 | — | *Sotāpanna*; *kaḷyānamitta*; Tăng đoàn |
+| 13 | assagutta-02 | — | *senāsana* |
+| 14 | assaji-01 | — | RẤT DÀI; Pañcavaggiya; kệ Pāli giữ; đầy đủ |
+| 15 | assaji-02 | — | Chabbaggiyā |
+
 ## Các batch đã review trước đó (tham chiếu)
 
 - Sonnet trial: s/savatthi, k/kosala, m/magadha, j/jetavana-01..03, v/veluvana-01..04

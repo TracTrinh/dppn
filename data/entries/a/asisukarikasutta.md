@@ -5,7 +5,7 @@ base_headword: "Asisūkarikasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,6 @@ Asisūkarikasutta. Records the incident of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asisūkarikasutta. Ghi lại sự việc Moggallāna thấy một ngạ quỷ khi đang trên đường cùng Lakkhaṇa đi từ Gijjhakūṭa đến Rājagaha. Ngạ quỷ ấy đi qua không trung, nơi tua tủa những lưỡi kiếm. Các thanh kiếm liên tục trồi lên và rơi xuống ngay trên thân nó, trong khi nó thốt lên những tiếng kêu đau đớn. SN.ii.257.
 
 ## Notes

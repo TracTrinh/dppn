@@ -5,7 +5,7 @@ base_headword: "Asadisa"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -32,6 +32,10 @@ He soon afterwards became an ascetic and at his death was born in the *Brahma* w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asadisa 01. Bodhisatta sinh làm con trai của Brahmadatta, vua xứ Benares. Brahmadatta cũng là tên của anh em trai của Asadisa. Khi người cha qua đời, vương quốc được dâng cho Asadisa, nhưng ông từ chối và trao lại cho anh em trai mình. Nhận thấy sự hiện diện của mình trong thành khiến người kia lo lắng, ông rời Benares và vào phục vụ một vị vua khác với tư cách cung thủ. Ông đạt danh tiếng lớn nhờ những kỳ công bắn cung phi thường. Có lần ông bắn hạ một quả xoài bằng cú bắn tên hướng xuống; mũi tên ấy, trong đường bay lên, vươn đến cõi Cātummahārājikā, từ đó nó bị một mũi tên khác làm quay trở lại; mũi tên thứ hai, sau khi hoàn thành mục đích, bay lên Tāvatiṁsa.
+
+Về sau, khi nghe tin bảy vị vua đã vây hãm vương quốc của anh em trai mình, Asadisa bắn một mũi tên mang thông điệp vào chiếc đĩa mà các vị vua đang ăn, và tất cả họ đều bỏ chạy.
+
+Không lâu sau đó ông trở thành một ẩn sĩ và khi chết được sinh vào cõi *Brahma*. Ja.ii.86-92.
 
 ## Notes

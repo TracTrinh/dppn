@@ -5,7 +5,7 @@ base_headword: "Ariyasāvakasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ariyasāvakasutta 02. Same as above, with a very slight variation in the final p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyasāvakasutta 02. Giống như trên, với một khác biệt rất nhỏ trong đoạn cuối, về cách diễn đạt chứ không về ý nghĩa. SN.ii.79.
 
 ## Notes

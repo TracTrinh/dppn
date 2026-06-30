@@ -5,7 +5,7 @@ base_headword: "Aruṇaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aruṇaka. Thirty-six *kappas* ago there were seven kings of the name of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇaka. Ba mươi sáu *kappa* trước, có bảy vị vua mang tên Aruṇaka, tất cả đều là các tiền thân của Trưởng lão Vatthadāyaka (Ap.i.116).
 
 ## Notes

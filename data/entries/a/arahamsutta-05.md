@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Arahaṁsutta 05. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 05. (hoặc Buddhasutta). Chính nhờ sự tu tập bốn *iddhipadā* mà Tathāgata được gọi là *Arahant* hay Bậc Toàn Giác (SN.v.257).
 
 ## Notes

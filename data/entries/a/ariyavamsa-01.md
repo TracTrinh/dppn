@@ -5,7 +5,7 @@ base_headword: "Ariyavaṁsa"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Ariyavaṁsa 01. A compilation, probably of the life-histories of men eminent in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyavaṁsa 01. Một tuyển tập, có lẽ gồm tiểu sử của những người lỗi lạc trong Tăng đoàn Phật giáo, được biên soạn ở Ceylon và đọc công khai để giáo hóa dân chúng. Việc đọc Ariyavaṁsa dường như từng là một đặc điểm thường lệ của các buổi tụ họp trong các *vihāra* Phật giáo vào những ngày lễ. Vua Vohārakatissa lập các khoản cúng dường để bố thí vật thực khắp Ceylon vào những dịp Ariyavaṁsa được đọc (Mhv.xxxvi.38; Mhv.trans.258, n.6). Một *Sutta* gọi là Ariyavaṁsasutta được nhắc đến trong các Chú giải (DN­a.i.50; MN­a.i.14) như một ví dụ về bài giảng do Đức Phật tự khởi ý thuyết (*attajjhāsaya*). Điều này có lẽ chỉ bài giảng về bốn *Ariyavaṁsā* trong Aṅguttaranikāya (AN.ii.27). Cũng xem Mahā Ariyavaṁsa.
 
 ## Notes

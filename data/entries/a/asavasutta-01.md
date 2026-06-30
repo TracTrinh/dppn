@@ -5,7 +5,7 @@ base_headword: "Āsavasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavasutta 01. Về sáu phẩm chất làm cho một vị sư xứng đáng được tôn kính và cúng dường, do sự đoạn tận các āsava, và cũng về các phương pháp dẫn đến sự đoạn tận ấy. AN.iii.387-94.
 
 ## Notes

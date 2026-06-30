@@ -5,7 +5,7 @@ base_headword: "Āsaṅkā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsaṅkā. Con gái nuôi của Bodhisatta trong Āsaṅkajātaka (Ja 380). Cô được gọi như vậy vì cô đến với ngài khi ngài băng qua nước do sự nghi ngờ (*āsaṅkā*) của ngài về điều gì ở trong hoa sen. Ja.iii.250.
 
 ## Notes

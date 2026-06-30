@@ -5,7 +5,7 @@ base_headword: "Ariyāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariyāsutta. The four *iddhipādas*, if cultivated, conduce to the utter destruc
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyāsutta. Bốn *iddhipāda*, nếu được tu tập, đưa đến sự đoạn diệt hoàn toàn khổ đau. Chúng là *ariyaniyyānikā*. SN.v.255.
 
 ## Notes

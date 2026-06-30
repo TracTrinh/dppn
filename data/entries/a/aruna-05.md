@@ -5,7 +5,7 @@ base_headword: "Aruṇa"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aruṇa 05. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇa 05. Một hạng chư thiên có mặt khi Mahā Samayasutta được thuyết giảng. Họ có sắc tướng đa dạng, những ân tứ kỳ diệu, thần lực lớn lao, dung mạo đẹp đẽ và tùy tùng rực rỡ. DN.ii.260.
 
 ## Notes

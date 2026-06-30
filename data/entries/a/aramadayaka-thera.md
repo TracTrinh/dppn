@@ -5,7 +5,7 @@ base_headword: "Ārāmadāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmadāyaka Thera. Một *Arahant*. Trong một đời quá khứ, ngài đã trồng một khu vườn có cây che bóng cho Siddhattha Buddha, và dâng lên Đức Phật những trái cây cùng hoa mọc ở đó. Ba mươi bảy *kappa* trước, ngài sinh làm vua bảy lần, với tên Mudusītala. Ap.i.251.
 
 ## Notes

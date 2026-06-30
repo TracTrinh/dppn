@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asoka 04. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 04. Một Bà-la-môn vào thời Kassapa Buddha. Ông cung cấp tám bữa ăn mỗi ngày cho các vị sư và giao việc phân phối chúng cho nữ tỳ Bīraṇī của mình. Mhv.xxvii.11.
 
 ## Notes

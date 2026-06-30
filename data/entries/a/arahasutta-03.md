@@ -5,7 +5,7 @@ base_headword: "Arahāsutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahāsutta 03. Same as above, the five controlling faculties being substituted 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahāsutta 03. Giống như trên, với năm căn chủ đạo được thay cho các nhóm chấp thủ. SN.v.208.
 
 ## Notes

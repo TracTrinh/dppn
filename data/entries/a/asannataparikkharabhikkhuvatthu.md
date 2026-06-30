@@ -5,7 +5,7 @@ base_headword: "Asaññataparikkhārabhikkhuvatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asaññataparikkhārabhikkhuvatthu. The story of a monk who failed to keep his r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaññataparikkhārabhikkhuvatthu. Câu chuyện về một vị sư không giữ các vật dụng cần thiết của mình cho ngăn nắp. Bị phơi dưới mưa, nắng và mối trắng, chúng chẳng bao lâu bị hư nát. Hành vi của vị ấy được trình lên Đức Phật, nhưng khi được hỏi về điều đó, vị ấy không tỏ ra quan tâm nhiều, nói rằng đó chỉ là chuyện nhỏ nhặt. Đức Phật chỉ cho vị ấy thấy sự ngu xuẩn trong hành vi của mình và chế định một điều luật rằng không vị sư nào được quên dọn đi chiếc giường mình đã trải ngoài trời. Dhp­a.iii.15-16.
 
 ## Notes

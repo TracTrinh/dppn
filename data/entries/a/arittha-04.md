@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ariṭṭha 04. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 04. Cháu trai của Devānampiyatissa. Xem Mahā Ariṭṭha.
 
 ## Notes

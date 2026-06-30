@@ -5,7 +5,7 @@ base_headword: "Ārammaṇasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārammaṇasutta 01. Một số người thực hành thiền thiện xảo về định, nhưng không thiện xảo về đối tượng của định (*ārammaṇa*); một số thì ngược lại; một số thiện xảo về cả hai; một số không thiện xảo về cả hai. SN.iii.266.
 
 ## Notes

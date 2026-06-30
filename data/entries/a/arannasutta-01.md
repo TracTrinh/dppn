@@ -5,7 +5,7 @@ base_headword: "Araññasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araññasutta 01. Spoken before the Buddha by a forest-dwelling spirit who had b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññasutta 01. Được một vị thần trú trong rừng nói trước Đức Phật, vị này đã cảm phục đời sống giản dị của các huynh đệ trong rừng. Đức Phật nói cho vị ấy biết lý do sự an nhiên và vẻ đẹp sắc diện của họ (SN.i.5).
 
 ## Notes

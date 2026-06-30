@@ -5,7 +5,7 @@ base_headword: "Āsevitabbasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsevitabbasutta. Về các đặc tính của người nên được noi theo. AN.i.124f.
 
 ## Notes

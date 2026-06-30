@@ -5,7 +5,7 @@ base_headword: "Araññavāsīnikāya"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -39,6 +39,8 @@ The Araññavāsins were specially esteemed by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññavāsīnikāya. Một nhóm tu sĩ ở Tích Lan dường như đã dành phần lớn thời gian tại những nơi vắng vẻ, chuyên tâm thiền định. Họ trung thành với Mahā Vihāra. Lần đầu tiên họ được nhắc đến là vào thế kỷ thứ sáu, khi dưới triều Aggabodhi II., vua Kaliṅga sang Tích Lan và gia nhập Tăng đoàn dưới sự hướng dẫn của Trưởng lão danh tiếng Jotipāla. Hội chúng này dường như đã có liên hệ mật thiết với các Phật tử ở Kaliṅga. Trong số các học giả nổi tiếng thuộc hội chúng này có: Ānanda Vanaratanatissa, Vedeha, Coḷa Buddhappiya, Cūḷa Dhammapāla, Medhaṅkara, học trò của ông là Ānanda, và Siddhattha.
+
+Các Araññavāsin đặc biệt được Parakkamabāhu xứ Dambadeniya kính trọng. Để biết chi tiết về họ, xem PLC. 210-13, 226, 229.
 
 ## Notes

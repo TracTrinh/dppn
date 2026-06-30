@@ -5,7 +5,7 @@ base_headword: "Arahattavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arahattavagga 02. The seventh chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahattavagga 02. Chương thứ bảy của Khandhasaṃyutta thuộc Saṃyuttanikāya (SN.iii.73-81).
 
 ## Notes

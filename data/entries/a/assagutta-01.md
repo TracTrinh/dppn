@@ -5,7 +5,7 @@ base_headword: "Assagutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -35,6 +35,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assagutta 01. Assagutta Thera. Một người cư trú trong ẩn thất Vattaniya. Thầy của Nāgasena gửi ông đến Assagutta để trải qua mùa an cư với vị ấy. Có một bà lão, một tín đồ mộ đạo của Giáo pháp, đã chăm sóc Assagutta trong ba mươi năm hoặc hơn; chính trong khi thuyết giảng cho bà mà Nāgasena trở thành một *Sotāpanna*. Bà cũng trở thành một *Sotāpanna* (Mil.16).
+
+Khi Nāgasena hoàn tất khóa học của mình, Assagutta gửi ông tiếp đến Pāṭaliputta, đến Dhammarakkhita. Chính Assagutta đã can thiệp với Sakka để thuyết phục Mahā Sena rời cõi *Deva* và tái sinh trong thế giới loài người làm Nāgasena. Rõ ràng vị ấy là lãnh đạo của Tăng đoàn lúc bấy giờ, vì chính vị ấy đã triệu tập một hội chúng tại Yugandhara để thảo luận về mối nguy do các cuộc tranh luận của Milinda gây ra (Mil.6). Trong các Chú giải (DN­a.iii.779; AN­a.i.28; Vibh­a.272), vị ấy được trích dẫn như một ví dụ về một *kaḷyānamitta*, đầy lòng bi mẫn, mà sự thân cận với vị ấy dẫn đến sự đoạn diệt sân hận.
 
 ## Notes

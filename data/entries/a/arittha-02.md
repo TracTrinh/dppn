@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariṭṭha 02. An *upāsaka* mentioned in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 02. Một *upāsaka* được nhắc trong Aṅguttaranikāya (iii.451), trong danh sách các gia chủ và *upāsakas* đã thấy và chứng ngộ Bất tử, và có niềm tin không lay chuyển nơi Đức Phật, Pháp và Tăng đoàn. Họ thực hành hạnh của bậc Thánh và đã đạt được trí tuệ cùng sự giải thoát.
 
 ## Notes

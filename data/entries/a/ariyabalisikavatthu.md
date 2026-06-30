@@ -5,7 +5,7 @@ base_headword: "Ariyabālisikavatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariyabālisikavatthu. The story of the fisherman <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyabālisikavatthu. Câu chuyện về người đánh cá Ariya được nêu ở trên, Ariya 2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ariyasāvakasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariyasāvakasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyasāvakasutta 01. Được thuyết tại Sāvatthī. Vị đệ tử Thánh được khéo dạy không băn khoăn về nhân và quả của các sự vật; vị ấy biết rằng đó thật sự là sự sinh khởi và hoại diệt của thế gian. Vị ấy có tri kiến của người đã được rèn luyện; vị ấy có tuệ quán yểm ly, đứng gõ cửa Bất tử. SN.ii.77.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arammā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arammā. A tribe mentioned in a list of tribes. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arammā. Một bộ tộc được nhắc đến trong một danh sách các bộ tộc. Ap.ii.359.
 
 ## Notes

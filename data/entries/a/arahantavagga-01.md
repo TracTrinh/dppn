@@ -5,7 +5,7 @@ base_headword: "Arahantavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arahantavagga 01. The first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahantavagga 01. Chương đầu tiên của Brāhmaṇasaṃyutta thuộc Saṃyuttanikāya. SN.i.160-72.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asibandhakaputta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -39,6 +39,14 @@ Asibandhakaputta’s conversation with the Buddha, in which the Buddha tells him
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asibandhakaputta. Một *gāmaṇi* (thôn trưởng). Ông đến gặp Đức Phật trong vườn xoài Pārileyyaka ở Nālandā và hỏi ngài nhiều câu hỏi khác nhau, được ghi trong Saṁyuttanikāya (iv.312ff). Một trong những câu hỏi này liên quan đến phong tục của các Bà-la-môn Pacchābhūmaka (người miền Tây) (có lẽ chính ông cũng thuộc nhóm ấy), là nâng một người đã chết lên và khiêng ra ngoài, gọi tên người ấy để thúc đẩy người ấy lên cõi trời. Chắc hẳn Đức Phật, bậc Arahant, v.v., có thể khiến cả thế giới lên cõi trời như vậy nếu ngài muốn. Đức Phật đáp rằng không, và giải thích bằng nhiều ví dụ rằng chỉ kamma của một người mới có thể quyết định nơi người ấy sẽ tái sinh. Trong một dịp khác, Đức Phật nói với ông, để trả lời một câu hỏi, rằng Đức Phật giảng Pháp đầy đủ chỉ cho một số đệ tử nhất định chứ không cho những người khác; cũng như một người nông dân gieo hạt chọn trước hết cánh đồng tốt nhất, rồi cánh đồng trung bình, và cuối cùng là cánh đồng có đất xấu nhất.
+
+Asibandhakaputta nói với Đức Phật rằng, theo Nigaṇṭha Nātaputta (ông được mô tả là một *Nigaṇṭha Sāvaka*, SN.iv.317), một người sống theo thói quen thế nào thì đi đến vận mệnh của mình như thế. Đức Phật chỉ ra sự phi lý của quan điểm này và nói với ông rằng tất cả các Tathāgata đều đặt ra những quy tắc xác định để hướng dẫn các đệ tử của mình, để họ có thể đạt đến sự phát triển.
+
+Có ghi lại (SN.iv.322ff) rằng một lần, khi Nālandā bị nạn đói hoành hành, Asibandhaka đến thăm Nigaṇṭha Nātaputta, người bảo ông đi đánh bại Đức Phật trong tranh luận. Lúc đầu Asibandhaka do dự, nhưng thầy ông nêu cho ông một thế lưỡng nan để đặt ra cho Đức Phật, và ông đồng ý đi.
+
+Có đúng là Đức Phật tán dương lòng bi mẫn đối với các gia chủ không? Vậy tại sao Đức Phật lại đi khất thực ở một nơi bị nạn đói hoành hành? Câu trả lời của Đức Phật là có tám cách gây tổn hại cho các gia chủ, và việc khất thực không phải là một trong số đó. Và Asibandhakaputta, hài lòng với câu trả lời, tuyên bố mình là một người theo Đức Phật.
+
+Cuộc trò chuyện của Asibandhakaputta với Đức Phật, trong đó Đức Phật nói với ông rằng chỉ kamma của một người mới có thể quyết định trạng thái tái sinh của người ấy, được trích trong Nettippakaraṇa (pp.45-47).
 
 ## Notes

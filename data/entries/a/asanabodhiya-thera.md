@@ -5,7 +5,7 @@ base_headword: "Asanabodhiya Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -33,6 +33,10 @@ Twenty-five *kappas* ago he was a *Khattiya*, <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asanabodhiya Thera. Một Arahant. Vào thời Tissa Buddha, ngài trồng cây Asana, vốn là cây Bodhi của Đức Phật ấy, và chăm sóc nó trong năm năm. Đức Phật rất hoan hỷ với ngài và tiên tri cho ngài một tương lai rạng rỡ.
+
+Trong ba mươi kappa, ngài sống giữa chư thiên; bảy mươi bảy kappa trước, ngài là một Cakkavatti tên Daṇḍasena, và một kappa sau đó, ngài bảy lần làm vua dưới tên Samantanemi.
+
+Hai mươi lăm kappa trước, ngài là một Khattiya, tên Puṇṇaka. Ap.i.110-11.
 
 ## Notes

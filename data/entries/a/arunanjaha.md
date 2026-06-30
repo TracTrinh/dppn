@@ -5,7 +5,7 @@ base_headword: "Aruṇañjaha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aruṇañjaha. Seventy *kappas* ago there were sixteen kings of the name of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇañjaha. Bảy mươi *kappa* trước, có mười sáu vị vua mang tên Aruṇañjaha. Tất cả họ đều là các tiền thân của Asokapūjaka Thera (Ap.i.199).
 
 ## Notes

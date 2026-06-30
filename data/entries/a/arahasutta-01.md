@@ -5,7 +5,7 @@ base_headword: "Arahāsutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Arahāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahāsutta 01. Được thuyết tại Sāvatthī cho Rādha. Một vị tỳ-kheo thấy, trong bản chất chân thật của chúng, sự sinh khởi và sự diệt mất, sự thỏa mãn nơi, sự khổ trong, và sự thoát khỏi năm nhóm chấp thủ, được gọi là một *Arahant*. SN.iii.193.
 
 ## Notes

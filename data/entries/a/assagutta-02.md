@@ -5,7 +5,7 @@ base_headword: "Assagutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Assagutta 02. An *Arahant* Thera of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assagutta 02. Một *Arahant* Thera của *senāsana* Vattaniya, người đã cho Jarasāna (*q.v.*) xuất gia.
 
 ## Notes

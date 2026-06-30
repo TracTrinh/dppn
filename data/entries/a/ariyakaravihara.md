@@ -5,7 +5,7 @@ base_headword: "Ariyākaravihāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ariyākaravihāra. A monastery in Ceylon. Ras.ii.189.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyākaravihāra. Một tu viện ở Ceylon. Ras.ii.189.
 
 ## Notes

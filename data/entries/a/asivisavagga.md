@@ -5,7 +5,7 @@ base_headword: "Āsīvisavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsīvisavagga. Chương thứ mười chín của Saḷāyatanasaṁyutta thuộc Saṁyuttanikāya. Ja.iv.172-204.
 
 ## Notes

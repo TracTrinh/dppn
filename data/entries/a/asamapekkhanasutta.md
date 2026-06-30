@@ -5,7 +5,7 @@ base_headword: "Asamapekkhanāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asamapekkhanāsutta. By not seeing the nature of body, etc., diverse opinions ar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamapekkhanāsutta. Do không thấy bản chất của thân, v.v., nên trong thế gian phát sinh nhiều ý kiến khác nhau. Được thuyết tại Sāvatthī cho Paribbājaka Vacchagotta. SN.iii.261.
 
 ## Notes

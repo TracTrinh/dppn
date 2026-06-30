@@ -5,7 +5,7 @@ base_headword: "Asaddhamūlakāpañcasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asaddhamūlakāpañcasutta. The same in its main features as the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaddhamūlakāpañcasutta. Về các điểm chính thì giống với Asaddhasutta. SN.ii.160-1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aratisutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Aratisutta 01. Once when <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aratisutta 01. Một lần, khi Vaṅgīsa ở Āḷavī, ông nhận thấy thầy mình là Nigrodha Kappa không bao giờ rời tịnh thất sau khi trở về từ vòng khất thực. Sự bất mãn khởi lên trong lòng Vaṅgīsa, và ông bị các ý nghĩ tham dục quấy nhiễu. Ông sáng tác một số bài kệ như lời tự răn mình và tự đọc cho chính mình nghe. Những bài kệ này tạo thành Aratisutta. SN.i.186-7.
 
 ## Notes

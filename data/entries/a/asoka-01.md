@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -160,6 +160,45 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="159" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 01. Vua của Magadha. Ông là con trai của Biṇḍusāra. Biṇḍusāra có mười sáu người vợ, sinh cho ông 101 người con trai. Các nguồn Pāli chính cung cấp thông tin về Asoka là Dīpavaṁsa (chaps. i., v., vi., vii., xi., etc.), Mahā Vaṁsa (v., xi., xx., etc.), Samantapāsādikā (pp.35 ff.). Các nguồn khác là *Divyāvadāna* *passim*, và *Avadānaśataka* ii.200ff. Để xem một khảo luận đầy đủ về các nguồn và nội dung của chúng, xem Prszlyski, *La Legende de l’Empereur Asoka*.
+
+Các biên niên sử Pāli (Dīpavaṁsa và Mahā Vaṁsa) chỉ nhắc đến ba người con trai, tức là Sumana (theo các truyền thuyết phương bắc là Susīma), người con trưởng, Asoka, và Tissa (em cùng mẹ của Asoka), người con út. Mahā Vaṁsaṭīkā cho biết tên mẹ của ông là Dhammā và gọi bà là Aggamahesī (chánh hậu của Biṇḍusāra); bà thuộc Moriyavaṁsa (p.125; Mbv.98. Trong truyền thống phương bắc, chẳng hạn *Asokāvadānamālā*, bà được gọi là Subhadrāṅgī, con gái của một Bà-la-môn ở Campā). Vị thầy của gia đình Dhammā là một Ājīvaka tên Janasāna (điều này có lẽ giải thích sự bảo trợ trước kia của Asoka đối với các Ājīvakas).
+
+Khi còn trẻ, Asoka được bổ nhiệm làm Thống đốc Avanti, đặt kinh đô tại Ujjenī. *Divyāvadāna* nói rằng ông ở Takkasilā với tổng hành dinh tại Uttarāpatha, nơi ông thay thế Susīma và dẹp yên một cuộc nổi loạn. Khi Biṇḍusāra nằm trên giường bệnh sắp mất, Asoka rời Ujjenī và đến Pāṭaliputta, tại đó ông chiếm quyền làm chủ thành phố và ngôi báu. Trong Mahā Vaṁsa (v.20; Mbv.98), người ta nói rằng ông đã giết tất cả anh em của mình, ngoại trừ Tissa, để đạt được mục đích, và vì hành động tàn bạo này ông được gọi là Caṇḍāsoka (Mhv.v.189). Không thể nói có bao nhiêu sự thật trong câu chuyện về việc lên ngôi này. Các sắc dụ khắc trên đá của Asoka dường như cho thấy rằng vào thời điểm các sắc dụ ấy được viết tại Pāṭaliputta và các thành phố khác, ông vẫn còn nhiều anh em trai, chị em gái và thân quyến đang sống (see Mookherji, *Asoka*, pp. 3-6). Ông bổ nhiệm người em Tissa làm *Uparāja* (Mhv.v.33), nhưng Tissa (*q.v.*) trở thành một người chuyên tâm tôn giáo và chứng đắc quả vị *Arahant*. Chú giải Theragāthā nhắc đến một người em trai khác của Asoka, Vītasoka, cũng trở thành một *Arahant* (i.295f. Các tác phẩm phương bắc đưa ra một câu chuyện hoàn toàn khác về anh em của ông. See Mookherji, p.6).
+
+Asoka có nhiều vợ. Người vợ đầu của ông là con gái của một thương nhân ở Vedisagiri, người mà ông gặp khi dừng lại tại nhà thương nhân ấy trên đường đến Ujjenī (Mhv.xiii.8ff). Tên bà là Devī, cũng gọi là Vedisa Mahā Devī, và bà là một người Sākyan, xuất thân từ một gia đình Sākyan đã di cư đến Vedisa để tránh Viḍūḍabha (Mbv., pp.98, 116). Devī sinh một con trai là Mahinda và một con gái là Saṅghamittā, người trở thành vợ của Aggibrahmā và mẹ của Sumana. Rõ ràng Devī không theo Asoka đến Pāṭaliputta, vì *aggamahesī* của ông tại đó là Asandhamittā (Mhv.v.85). Asandhamittā mất vào năm thứ ba mươi triều đại Asoka, và bốn năm sau ông nâng Tissarakkhā lên địa vị hoàng hậu. Mhv.xx.1-3. Bia trụ Allahabad nhắc đến một hoàng hậu khác, Kāruvākī, mẹ của Tivara. *Divyāvadāna* (chap. xxvii.) nêu một người khác nữa là Padmāvatī, mẹ của Kuṇāla. Ngoài những người con đã nói ở trên, còn có tên của những người khác được nêu ra: Jalauka, Cārumatī (Mookherji. p.9).
+
+Theo Mahā Vaṁsa (v.21, 22), Asoka lên ngôi 218 năm sau khi Đức Phật qua đời, và lễ đăng quang của ông diễn ra bốn năm sau đó. Các biên niên sử (v.22ff) chứa nhiều câu chuyện khác nhau về thần thông của ông. Mệnh lệnh của ông lan rộng một *yojana* lên không trung và một *yojana* xuống dưới đất. Chư thiên hằng ngày cung cấp cho ông nước từ hồ Anotatta và những thứ xa hoa khác từ nơi khác. Yakkhas, Nāgas và ngay cả chuột cùng các chim *karavīka* cũng phụng sự sự tiện nghi của ông, và những con vật biết nghĩ đến gần rồi chết bên ngoài nhà bếp của ông để cung cấp thức ăn cho ông.
+
+Lúc đầu Asoka duy trì việc bố thí do cha mình thiết lập, nhưng chẳng bao lâu, thất vọng về những người nhận, ông bắt đầu tìm kiếm những bậc thánh thiện. Khi ấy, từ cửa sổ, ông nhìn thấy người cháu của mình, vị sa-di trẻ Nigrodha. Do tình bạn của họ trong một đời quá khứ (Asoka, Devānampiyatissa và Nigrodha từng là anh em, những người buôn mật ong, và họ đã dâng mật ong cho một Pacceka Buddha. Asandhamittā từng là cô gái chỉ cửa hàng mật ong cho vị Pacceka Buddha. Câu chuyện được kể trong Mhv.v.49ff), Asoka lập tức bị thu hút bởi vị ấy và mời vị ấy vào cung điện. Nigrodha thuyết Appamādavagga cho ông và nhà vua rất hoan hỷ. Ông chấm dứt việc ban ân cho các giáo phái khác và chuyển sự bảo trợ của mình sang Nigrodha cùng các thành viên của Tăng đoàn Phật giáo. Tài sản của ông, theo Samantapāsādikā (i.52), lên đến 500,000 đồng mỗi ngày; nay ông dùng để làm các việc công đức – cho Nigrodha 100,000 để sử dụng theo bất cứ cách nào vị ấy muốn, một số tương tự để dâng hương và hoa tại các tháp thờ của Đức Phật, 100,000 cho việc thuyết Pháp, 100,000 để cung cấp tiện nghi cho các thành viên của Tăng đoàn, và phần còn lại cho thuốc men dành cho người bệnh. Ngoài các tặng phẩm khác, ông gửi đến Nigrodha các bộ y ba lần mỗi ngày, đặt chúng trên lưng một con voi được trang hoàng bằng những tràng hoa. Nigrodha trao các y này cho những vị sư khác (MN­a.ii.931).
+
+Sau khi học từ Moggaliputtatissa rằng có 84,000 phần Pháp, ông xây dựng trong nhiều thành phố một số lượng *vihāras* tương ứng, và tại Pāṭaliputta ông dựng Asokārāma. Với sự trợ giúp của vua Nāga Mahā Kāḷa, ông tạo ra một tượng Đức Phật kích thước như người thật, và dâng lên tượng ấy những lễ vật lớn.
+
+Hai người con của ông, Mahinda và Saṅghamittā, lần lượt hai mươi và mười tám tuổi, được ông cho xuất gia dưới sự hướng dẫn của Moggaliputtatissa và Dhammapālā, vào năm thứ sáu triều đại của ông (MN­a.v.197, 209). Điều này nâng ông từ một *paccadāyaka* lên thành một *sāsanadāyādin*.
+
+Để thanh lọc Tăng đoàn khỏi những vị sư không thích hợp và các giáo thuyết dị giáo, Moggaliputtatissa tổ chức Đại Kết Tập lần thứ ba dưới sự bảo trợ của nhà vua. Người ta nói rằng các vị sư mộ đạo từ chối làm lễ *uposatha* với những người mà họ xem là không xứng đáng. Nhà vua, mong muốn đem lại sự hòa hợp trong Tăng đoàn, sai một vị đại thần khôi phục tình thân ái, nhưng vị đại thần hiểu sai mệnh lệnh của ông và chém đầu nhiều vị sư thánh thiện, cuối cùng bị người em của nhà vua là Tissa, lúc ấy là một vị sư, ngăn lại (MN­a.vs.240ff).
+
+Khi Đại Kết Tập, được tổ chức vào năm thứ mười bảy triều đại của ông, kết thúc, Asoka phái các Trưởng lão đi truyền bá tôn giáo của Đức Phật:
+
+- Majjhantika đến Kasmīra và Gandhāra,
+- Mahā Deva đến Mahisamaṇḍala,
+- Rakkhita đến Vanavāsa,
+- Yona Dhammarakkhita đến Aparantaka,
+- Mahā Rakkhita đến Yona,
+- Majjhima đến xứ Himālaya và
+- Soṇa và Uttara đến Suvaṇṇabhūmi;
+- Mahinda cùng Iṭṭhiya, Uttiya, Sambala và Bhaddasāla, ông phái đến Laṅkā (Ibid., xii.1-8).
+
+Để biết chi tiết về các sứ mạng này và việc nhận diện những nơi được nêu, xem dưới các tên khác nhau; danh sách này cũng xuất hiện trong Samantapāsādikā, nơi có thêm những chi tiết thú vị. Để xem một khảo luận về các sứ mạng ấy, xem Mookherji, pp.33ff) (Ibid., 280; trong các bản văn phương bắc, tên Moggaliputtatissa được nêu là Upagupta. Chính vì Đại Kết Tập này mà Kathāvatthu được viết). Vào năm thứ mười tám triều đại của mình, theo yêu cầu của Devānampiyatissa, ông gửi Saṅghamittā đến Laṅkā cùng một nhánh của cây Bodhi lớn tại Buddhagayā (Mhv.xx.1). Trước đó ít lâu, thông qua người cháu Sumana, ông đã gửi một số xá-lợi của Đức Phật và bình bát của Đức Phật để được đặt trong các *Thūpas* ở Laṅkā (Mhv.xvii.10f).
+
+Asoka trị vì ba mươi bảy năm (Mhv.xx.6). Về cuối đời, ông được gọi là Dhammāsoka vì những việc mộ đạo của mình (Mhv.v.189). Dīpavaṁsa nhiều nơi nêu tên ông là Piyadassī, chẳng hạn vi.1, 2, 25. Danh hiệu Devānampiya mà Asoka dùng trong các bia ký của mình cũng được Tissa, người cùng thời với Asoka ở Ceylon, và Dasaratha, cháu nội của Asoka, sử dụng (Nāgarjunī Hill Cave Inscription). Danh hiệu ấy cũng được các vua khác ở Ceylon dùng: Vaṅkanāsikatissa, Gajabāhukagāminī và Mahallakanāga (Ep. Zeyl. i.60.f).
+
+Các biên niên sử nói rằng Asoka và Devānampiyatissa của Ceylon đã là bạn hữu – dù họ chưa từng gặp nhau – ngay cả trước sứ mạng của Mahinda đến Ceylon. Tissa đã gửi cho ông nhiều tặng phẩm như một cử chỉ thân hữu, và Asoka đáp lại lễ nghĩa ấy. Ông phái một sứ đoàn gồm các đại thần được chọn của mình, mang theo những tặng phẩm huy hoàng kỳ diệu, để Tissa có thể thực hiện một lễ đăng quang lần thứ hai; và các sứ giả được chỉ thị truyền thông điệp đặc biệt này cho nhà vua: “Ta đã quy y Đức Phật, Pháp và Tăng đoàn, và tuyên bố mình là một người theo tôn giáo của Sākyaputta. Vậy ngươi cũng hãy, hỡi bậc tối thắng trong loài người, chuyển tâm mình với lòng tin, tìm nơi nương tựa nơi những báu vật tối thượng này.” (Mhv.xi.18-36)
+
+Milindapañha (p.121) nhắc đến một cuộc gặp giữa Asoka và một kỹ nữ ở Pāṭaliputta, Biṇḍumatī, người đã làm cho nước sông Ganges chảy ngược để cho nhà vua thấy sức mạnh của một Hành động Chân thật. Theo chú giải Petavatthu (244ff), có một vị vua của Suraṭṭha tên Piṅgala, thường đến thăm Asoka để cố vấn cho ông. Có lẽ ông ấy là một người bạn cũ hoặc thầy cũ của nhà vua.
+
+Asoka được gọi là một *dīpacakkavatti*, đối lập với các *padesarājās* như Bimbisāra và Pasenadi (Vin-a.ii.309).
+
+Asoka có ba cung điện cho ba mùa: Mahā Sappika, Moragīva và Maṅgala (Ras.i.93).
 
 ## Notes

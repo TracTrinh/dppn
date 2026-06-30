@@ -5,7 +5,7 @@ base_headword: "Ariyavaṁsālaṅkāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ariyavaṁsālaṅkāra. A book written by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyavaṁsālaṅkāra. Một cuốn sách do Ñāṇābhisāsanadhaja Mahā Dhammarājaguru Thera của Burma viết, ngài là tác giả của Petakālaṅkāra và các sách khác. Sās.134.
 
 ## Notes

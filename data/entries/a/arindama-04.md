@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arindama 04. A king of forty-one *kappas* ago; a former birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 04. Một vị vua cách đây bốn mươi mốt *kappa*; một đời trước của Sannidhāpaka Thera. Ap.i.97.
 
 ## Notes

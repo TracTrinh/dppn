@@ -5,7 +5,7 @@ base_headword: "Araka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,8 @@ His name appears again in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araka. Bodhisatta, sinh ra làm một vị thầy Bà-la-môn. Câu chuyện của ông được kể trong Arakajātaka. Ông cũng được nhắc đến trong Dhammaddhajajātaka (Ja.ii.195), nơi Bodhisatta kể rằng, khi là Araka, ông đã phát triển các tư tưởng về tâm từ và thực hành các *brahmavihārā* trong bảy năm, rồi sau đó sinh vào cõi *Brahma*.
+
+Tên ông lại xuất hiện trong Aṅguttaranikāya (AN.iv.136-8) trong một danh sách các vị thầy, và chúng ta được biết rằng trong số các học trò của Araka, những người theo lời dạy của ông được sinh vào cõi *Brahma*, trong khi những người khác sinh vào các địa ngục khác nhau. Trong ngữ cảnh Aṅguttara, không có đề cập đặc biệt nào đến việc ông đã dạy các *brahmavihāras*.
 
 ## Notes

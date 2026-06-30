@@ -5,7 +5,7 @@ base_headword: "Ariyamaggasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Ariyamaggasutta. The Ariyan way consists of deeds neither dark nor bright with r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyamaggasutta. Con đường bậc Thánh gồm những hành động không đen cũng không sáng, với quả không đen cũng không sáng. AN.ii.235f.
 
 ## Notes

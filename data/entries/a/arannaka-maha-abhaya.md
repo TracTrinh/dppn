@@ -5,7 +5,7 @@ base_headword: "Āraññaka Mahā Abhaya"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āraññaka Mahā Abhaya. Một vị tỳ-kheo. Trong mười hai năm, một tín đồ đã cúng dường cho ngài các vật dụng cần thiết, kể cả vải may y; nhưng một tên trộm, Harantika, luôn đánh cắp vải. Khi phát hiện việc này, vị tín đồ bắt được kẻ bất lương, đánh hắn một trận nặng, rồi sau khi trói hắn vào một xác chết, cảnh báo dân làng rằng một Yakkha sẽ đi lảng vảng đêm ấy, tự xưng là Harantika. Dân làng cài chặt cửa và không cho hắn vào, ngay cả vợ hắn cũng từ chối nhận ra giọng nói của hắn. Khi ấy Harantika đến gặp Mahā Abhaya, và sau khi thú nhận tội lỗi của mình, xin được che chở. Mahā Abhaya tắm cho hắn bằng nước ấm và xoa dầu lên thân thể hắn, nói rằng việc trả thù không phải là bổn phận của ngài. Về sau Harantika trở thành tỳ-kheo và chứng quả vị *Arahant*. Ras.ii.5f.
 
 ## Notes

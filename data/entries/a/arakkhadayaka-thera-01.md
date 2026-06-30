@@ -5,7 +5,7 @@ base_headword: "Ārakkhadāyaka Thera"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārakkhadāyaka Thera 01. Một *Arahant*. Trong một đời trước, ngài xây một lan can (*vedi*) quanh *Thūpa* của Siddhattha Buddha và lập sự sắp đặt để bảo vệ tháp ấy. Sáu *kappa* trước, ngài là một vị vua tên Apassena. Ap.i.214-15.
 
 ## Notes

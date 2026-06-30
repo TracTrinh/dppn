@@ -5,7 +5,7 @@ base_headword: "Asadisa"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asadisa 02. A Brahmin village, the residence of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asadisa 02. Một làng Bà-la-môn, nơi cư trú của Sunettā, người đã dâng cơm sữa cho Siddhattha Buddha. Bv­a.185.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asanisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,8 @@ The Commentary explains that a thunderbolt destroys one life-span only, while ga
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asanisutta. Sự rơi xuống của một tia sét có đáng gì so với mối nguy cho một bậc hữu học (*sekha*) phát sinh từ lợi dưỡng, ân huệ và lời nịnh hót? (SN.ii.229).
+
+Chú giải giải thích rằng một tia sét chỉ hủy diệt một đời sống, trong khi lợi dưỡng, v.v., đưa một người đến khổ đau kéo dài vô hạn. SN­a.ii.154.
 
 ## Notes

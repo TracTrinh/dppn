@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "06"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Asoka 06. The chief disciple of the future <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 06. Vị đệ tử đứng đầu của Metteyya Buddha trong tương lai (Anāgatavaṁsa. v.97). Theo Mahā Vaṁsa (xxxii.81), vị này nên được đồng nhất với Duṭṭhagāmaṇī.
 
 ## Notes

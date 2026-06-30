@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "06"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arindama 06. The name given to the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 06. Tên được đặt cho *cakkaratana* của Cakkavatti vì nó khiến mọi kẻ thù của ông phải quy phục. Mbv.72.
 
 ## Notes

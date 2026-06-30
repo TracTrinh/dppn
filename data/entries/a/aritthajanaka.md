@@ -5,7 +5,7 @@ base_headword: "Ariṭṭhajanaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Ariṭṭhajanaka. Son of King <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭhajanaka. Con trai của vua Mahā Janaka, người mà ông kế vị làm vua Mithilā. Anh em của ông là Polajanaka, vị phó vương, người về sau giết ông và chiếm lấy vương quốc của ông. Con trai của Ariṭṭhajanaka là vương tử Mahā Janaka, chính là Bodhisatta. Ja.vi.3042.
 
 ## Notes

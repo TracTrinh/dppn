@@ -5,7 +5,7 @@ base_headword: "Ārakkhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārakkhasutta. Cần chuyên cần giữ gìn để bảo vệ tư tưởng của mình khỏi phóng túng theo các sự vật đầy tham ái, khỏi ác ý, khỏi si mê và khỏi đi theo con đường do các Sa-môn khác nhau đặt ra (các đạo sư giả?). AN.ii.120.
 
 ## Notes

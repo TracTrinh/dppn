@@ -5,7 +5,7 @@ base_headword: "Ariyamaggavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ariyamaggavagga 02. The nineteenth chapter of the *Dasakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyamaggavagga 02. Chương thứ mười chín của *Dasakanipāta* thuộc Aṅguttaranikāya (AN.v.278-81). Chương này gồm mười *Sutta* về mười điều vi phạm và sự kiêng tránh chúng.
 
 ## Notes

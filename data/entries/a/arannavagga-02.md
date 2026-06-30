@@ -5,7 +5,7 @@ base_headword: "Araññavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Araññavagga 02. The nineteenth section of the *Pañcakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññavagga 02. Phần thứ mười chín của *Pañcakanipāta* thuộc Aṅguttaranikāya. Phần này gồm mười *Suttas*, mô tả mười hạng người, mỗi hạng vượt trội trong một loại khổ hạnh đặc biệt, và trong mỗi hạng có một người được nêu tên là bậc tốt nhất trong số năm người dấn mình vào cùng một đời sống ấy, tuy do những động cơ khác nhau. AN.iii.219-21.
 
 ## Notes

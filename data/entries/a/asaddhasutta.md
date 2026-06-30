@@ -5,7 +5,7 @@ base_headword: "Asaddhasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Asaddhasutta. Like joins with (literally “flows together with”) like, unbeli
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaddhasutta. Đồng loại kết hợp với đồng loại (nghĩa đen là “cùng chảy với nhau”), người không có lòng tin với người không có lòng tin, người lười biếng với người lười biếng, v.v. SN.ii.159.
 
 ## Notes

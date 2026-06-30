@@ -5,7 +5,7 @@ base_headword: "Araññajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ The reason for telling the story is given in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññajātaka (Ja 348). Bodhisatta từng sinh trong một gia đình Bà-la-môn. Ngài học tất cả các nghệ thuật ở Takkasilā, nhưng khi vợ qua đời, ngài cùng con trai đi đến Himālaya để làm ẩn sĩ. Một ngày nọ, một cô gái chạy trốn bọn cướp đến am thất và làm hư hỏng đức hạnh của người thanh niên. Nhưng khi cô cố dụ anh rời đi với cô, anh muốn hỏi ý kiến cha mình. Người cha khuyên anh không nên rời am thất và dạy anh con đường đi đến thiền định huyền nhiệm (Ja.iii.147-9).
+
+Lý do kể câu chuyện này được nêu trong Cūḷa Nāradakassapajātaka (Ja 544)
 
 ## Notes

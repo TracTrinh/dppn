@@ -5,7 +5,7 @@ base_headword: "Aruṇa"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,6 @@ Aruṇa 01. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇa 01. Một *Khattiya*, cha của Sikhī Buddha và chồng của Pabhāvatī (Bv.xxi.15; Ja.i.41; AN­a.i.436). Hoàng hậu chính của Aruṇa trở thành Therī Abhayā trong thời đại hiện tại (Thīg­a.41). Một người vợ khác của ông, trong đời cuối cùng của bà, trở thành Therī Somā (Thīg­a.66), có lẽ nên được đồng nhất với Uppaladāyikā trong Apadāna (Ap.ii.601f). Trong Saṁyuttanikāya (SN.i.155), ông được gọi là Aruṇavā.
 
 ## Notes

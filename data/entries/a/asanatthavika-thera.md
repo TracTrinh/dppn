@@ -5,7 +5,7 @@ base_headword: "Āsanatthavika Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -29,6 +29,8 @@ Twenty-seven *kappas* ago he was king seven times under the name of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsanatthavika Thera. Một Arahant. Trong một đời trước, khi lang thang trong rừng và bị lạc đường, ngài gặp cetiya tên Uttama của Sikhī Buddha. Nhớ nghĩ đến các đức hạnh của Đức Phật, ngài thốt lời tán thán và đảnh lễ ngài tại bàn thờ trong cetiya.
+
+Hai mươi bảy kappa trước, ngài bảy lần làm vua dưới tên Atulya (Ap.i.255).
 
 ## Notes

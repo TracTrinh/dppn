@@ -5,7 +5,7 @@ base_headword: "Asitañjala"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asitañjala, (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asitañjala, (Amitañjala). Một vị vua cách đây mười bốn *kappas*; một tiền thân của Sālapupphiya Thera. Ap.i.219.
 
 ## Notes

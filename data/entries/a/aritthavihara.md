@@ -5,7 +5,7 @@ base_headword: "Ariṭṭhavihāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ariṭṭhavihāra. The monastery built by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭhavihāra. Tu viện do Lañjakatissa xây ở Ariṭṭhapabbata. Mhv.xxxiii.27; Mhv.trans.230, n.6.
 
 ## Notes

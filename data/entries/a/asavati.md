@@ -5,7 +5,7 @@ base_headword: "Asāvatī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asāvatī. A creeper which grows in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asāvatī. Một loại dây leo mọc trong Cittalatāvana ở Tāvatiṁsa. Trong trái của nó có ẩn một thức uống của chư thiên, và những ai uống một lần sẽ say trong bốn tháng và nằm trên một chiếc giường của chư thiên. Nó chỉ ra trái một lần trong một nghìn năm, và các vị thần kiên nhẫn chờ đợi suốt thời gian ấy để được uống từ trái đó. Ja.iii.250-1; Ap.i.41.
 
 ## Notes

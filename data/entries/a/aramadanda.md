@@ -5,7 +5,7 @@ base_headword: "Ārāmadaṇḍa"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmadaṇḍa. Một Bà-la-môn. Một lần, khi Mahā Kaccāna đang ở Varaṇā bên bờ Kaddamadaha, Ārāmadaṇḍa đến gặp ngài và hỏi vì sao các quý tộc tranh cãi với các quý tộc, các Bà-la-môn với các Bà-la-môn, và các gia chủ với các gia chủ. “Vì họ bị trói buộc và làm nô lệ cho các dục tham,” Mahā Kaccāna đáp; và cũng vì lý do ấy, các Sa-môn tranh cãi với các Sa-môn. “Trong thế gian có ai đã vượt qua sự trói buộc này không?” “Có,” Mahā Kaccāna nói, “ở Sāvatthī có Đức Thế Tôn đang sống,” rồi ngài tiếp tục mô tả các đức hạnh của Đức Phật. Ārāmadaṇḍa đứng dậy, chắp tay, quay về hướng Sāvatthī và thốt lời tôn kính Đức Phật. Từ đó về sau ông trở thành đệ tử của Mahā Kaccāna. AN.i.65-7.
 
 ## Notes

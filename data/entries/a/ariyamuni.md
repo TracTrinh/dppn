@@ -5,7 +5,7 @@ base_headword: "Ariyamuni"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Ariyamuni. One of the monks who were sent to Ceylon by the King of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyamuni. Một trong các vị tỳ-kheo được vua Ayojjhā phái đến Ceylon, theo lời thỉnh cầu của Kittisirirājasīha, để tái lập lễ truyền giới *upasampadā* ở Ceylon. Ngài được nhắc đến ở vị trí thứ hai sau Upāli, vị trưởng đoàn của phái đoàn tỳ-kheo Siam. Cv.c.95; cũng xem Cv.trans.ii.282, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Arindama 02. King in the time of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 02. Vua vào thời Sumana Buddha. Lúc ấy đã nảy sinh một cuộc tranh luận lớn về *nirodha*, và tất cả cư dân của nhiều nghìn thế giới hệ bị chia thành hai phe. Để giải quyết những nghi ngờ của mình, những người tranh luận, do Arindama đứng đầu, tìm đến Đức Phật. Đức Phật ngồi trên núi Yugandhara, trong khi Arindama cùng chín mươi nghìn crore tùy tùng ngồi trên một tảng đá vàng, nhờ năng lực phước báu của ông mà trồi lên từ mặt đất gần Saṅkassa. Đức Phật thuyết pháp cho họ, và cuối bài giảng, tất cả đều trở thành *Arahants*. Bv­a.128-9.
 
 ## Notes

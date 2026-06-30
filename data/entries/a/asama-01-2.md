@@ -5,7 +5,7 @@ base_headword: "Asamā"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Asamā 01. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamā 01. Một hạng chư thiên có mặt khi Mahā Samayasutta được thuyết giảng. Họ được nhắc đến cùng với cặp song sinh Yama. DN.ii.259.
 
 ## Notes

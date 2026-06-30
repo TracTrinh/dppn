@@ -5,7 +5,7 @@ base_headword: "Aravāḷa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Aravāḷa-*daha*. The lake in which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aravāḷa-*daha*. Hồ nơi Aravāḷa sinh sống.
 
 ## Notes

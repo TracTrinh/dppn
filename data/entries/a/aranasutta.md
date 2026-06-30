@@ -5,7 +5,7 @@ base_headword: "Araṇāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araṇāsutta. On the Undefiled. Preached in answer to a *Deva*’s questions as
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇāsutta. Về những người Không nhiễm ô. Được thuyết để trả lời các câu hỏi của một thiên nhân về ai là người không nhiễm ô và xứng đáng nhận sự tôn kính từ mọi người. Đức Phật nói rằng các vị tỳ-kheo xứng đáng như vậy (SN.i.44-5).
 
 ## Notes

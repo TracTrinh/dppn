@@ -5,7 +5,7 @@ base_headword: "Āsaṅkajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -30,6 +30,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsaṅkajātaka (Ja 380). Một lần, Bodhisatta là một vị ẩn sĩ trong Himālaya. Lúc ấy, một chúng sinh có phước lớn rời Tāvatiṁsa và sinh làm một bé gái giữa một hoa sen trong hồ gần am thất của Bodhisatta. Bodhisatta nhận thấy một điều khác thường trong sự phát triển của hoa sen, bơi đến đó và tìm thấy bé gái, rồi nuôi cô như con gái mình, đặt cho cô tên Āsaṅkā, nghĩa là: Khả nghi. Sakka đến thăm ngài, thấy cô gái, và hỏi mình có thể làm gì để cô được tiện nghi; ông cung cấp cho cô một cung điện bằng pha lê cùng thức ăn và y phục của chư thiên. Cô dành thời gian hầu hạ Bodhisatta. Vua Benares, nghe nói về sắc đẹp lớn lao của cô, đến rừng với đoàn tùy tùng đông đảo và xin cưới cô. Bodhisatta đồng ý, với điều kiện nhà vua phải nói cho ngài biết tên của cô. Nhà vua trải qua trọn một năm cố đoán tên ấy, nhưng thất bại; khi đang tuyệt vọng quay về, cô gái nhìn ra từ cửa sổ và kể cho ông nghe về dây leo Āsāvatī, trái của nó được các vị thần chờ đợi suốt một nghìn năm. Như vậy cô khích lệ ông thử lại. Một năm nữa trôi qua, và cô lại khơi dậy hy vọng nơi vị vua thất vọng bằng cách kể cho ông câu chuyện về một con hạc mà Sakka đã làm tròn các hy vọng của nó. Cuối năm thứ ba, nhà vua chán nản vì thất bại và bắt đầu về nhà, nhưng cô gái lại gợi chuyện với ông, và trong cuộc trò chuyện ấy tên của cô được nhắc đến. Khi nhà vua được báo rằng từ ấy đã xuất hiện trong lời nói của ông, ông trở lại gặp Bodhisatta và nói từ ấy cho ngài. Bấy giờ Bodhisatta gả Āsaṅkā cho nhà vua (Ja.iii.248-54). Xem thêm Indriyajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asaṅkiyajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,10 @@ The story was told to an *upāsaka* of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaṅkiyajātaka (Ja 76). Bodhisatta sinh làm một Bà-la-môn ở Benares và trở thành một vị ẩn sĩ. Trong những chuyến du hành, có lần ngài đi cùng một đoàn thương nhân. Đoàn lữ hành dừng lại qua đêm, nhưng trong khi các thương nhân ngủ, vị ẩn sĩ dành thời gian đi qua đi lại. Bọn cướp đến để cướp phá đoàn lữ hành, nhưng bị sự cảnh giác của vị ẩn sĩ ngăn cản. Hôm sau, các thương nhân biết điều đã xảy ra và hỏi ngài có thấy sợ khi thấy bọn cướp không. “Thấy bọn cướp chỉ gây ra cái gọi là sợ hãi cho người giàu. Tôi không có tiền của, vì sao tôi phải sợ?” ngài đáp.
+
+Sau khi chết, ngài sinh vào cõi Brahma.
+
+Câu chuyện được kể cho một upāsaka ở Sāvatthī, người cũng đã ngăn một đoàn lữ hành khỏi bị cướp. “Khi bảo vệ mình, một người bảo vệ người khác; khi bảo vệ người khác, người ấy bảo vệ mình.” Ja.i.332-4.
 
 ## Notes

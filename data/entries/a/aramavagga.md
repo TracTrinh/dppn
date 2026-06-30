@@ -5,7 +5,7 @@ base_headword: "Ārāmavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmavagga. Phần thứ sáu của Pācittiya thuộc Bhikkhunī Vibhaṅga (Vin.iv.306-17).
 
 ## Notes

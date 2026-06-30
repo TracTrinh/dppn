@@ -5,7 +5,7 @@ base_headword: "Assaji"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -52,6 +52,18 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaji 01. Assaji Thera. Vị thứ năm trong các vị sư Pañcavaggiya. Khi Đức Phật thuyết Dhammacakkappavattanasutta, ông là người cuối cùng phát sinh con mắt Chân lý, và Đức Phật phải thuyết giảng cho ông và Mahā Nāma trong khi ba vị đồng tu của họ đi khất thực (Vin.i.13. Ông trở thành một *Sotāpanna* vào ngày thứ tư của tuần trăng, AN­a.i.84). Ông trở thành một *Arahant*, cùng với những vị khác, khi nghe thuyết Anattalakkhaṇasutta (Vin.i.14; Ja.i.82).
+
+Ông chịu trách nhiệm trong việc cải hóa Sāriputta và Moggallāna. Trong khi du hành tìm kiếm Chân lý Vĩnh cửu, Sāriputta thấy Assaji đang khất thực ở Rājagaha, và hài lòng với dáng vẻ của ông nên đi theo cho đến khi ông kết thúc vòng khất thực. Tìm được dịp thích hợp, Sāriputta hỏi Assaji về vị thầy của ông và các giáo lý ông noi theo. Lúc đầu Assaji do dự không muốn thuyết giảng cho ông, vì, như ông nói, ông chỉ mới gia nhập Tăng đoàn. Nhưng Sāriputta thúc giục ông nói những gì ông biết, và bài kệ mà Assaji thốt ra khi ấy, từ đó về sau, đã nổi tiếng như lời tiêu biểu cho điểm then chốt trong giáo pháp của Đức Phật:
+
+“*ye dhammā hetuppabhavā tesaṁ hetuṁ Tathāgato āha tesañ ca yo nirodho, evaṁvādī Mahā Samaṇo*.”
+
+Sāriputta lập tức hiểu ra và vội vã đi báo tin vui cho Moggallāna rằng ông đã thành công trong cuộc tìm kiếm của mình. Vin.i.39ff.; sự việc được kể trong Dhammapada Commentary (Dhp-a.i.75ff.) với một vài khác biệt nhỏ về chi tiết.
+
+Sāriputta dành cho Assaji sự tôn kính cao nhất, và chúng ta được kể rằng từ ngày gặp gỡ đầu tiên ấy, bất cứ khi nào ông nghe Assaji đang trú ở phương nào, ông đều chắp tay hướng về phương ấy trong tư thế khẩn cầu tôn kính, và khi nằm xuống ngủ ông cũng quay đầu về phương ấy (Dhp­a.iv.150-1).
+
+Một ngày nọ, khi Assaji đang đi khất thực quanh Vesālī, Nigaṇṭha Saccaka, người đang lang thang tìm những người tranh luận để đánh bại, thấy ông và hỏi ông về giáo pháp của Đức Phật vì ông là một đệ tử nổi tiếng (*ñātaññatara-sāvaka*). Assaji trình bày cho ông một bản tóm lược giáo lý có trong Anattalakkhaṇasutta. Tin chắc rằng mình có thể bác bỏ những quan điểm này được quy cho Đức Phật, Saccaka đi cùng một đoàn đông Licchavīs đến gặp Đức Phật và chất vấn ngài. Đây là dịp thuyết Cūḷa Saccakasutta (MN.i.227ff). Chú giải (MN­a.i.452) cho chúng ta biết rằng Assaji quyết định cách trình bày này vì ông không muốn để cho Saccaka bất cứ kẽ hở nào cho sự chất vấn tranh luận.
+
+Saṁyuttanikāya (SN.iii.124ff) ghi lại một chuyến viếng thăm của Đức Phật đến Assaji khi ông đang nằm bệnh nặng tại Kassapārāma gần Rājagaha. Ông thưa với Đức Phật rằng ông không thể nhập *jhāna* vì khó thở và rằng ông không thể đạt được sự quân bình tâm. Đức Phật khuyến khích ông và bảo ông an trú trong các tư tưởng về vô thường và vô ngã.
 
 ## Notes

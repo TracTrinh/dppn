@@ -5,7 +5,7 @@ base_headword: "Asitadevala"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,8 @@ In this present age <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asitadevala 02. Thường được gọi là Kāḷadevala hơn, có lẽ đồng nhất với (1) ở trên, và được nhắc đến trong Indriyajātaka (Ja 423, Ja.iii.463ff). Ông là một trong bảy đệ tử chính của Bodhisatta Sarabhaṅga và sống với nhiều ngàn đạo sĩ ở Avanti Dakkhiṇāpatha. Ông có một người em trai là Nārada, cũng là một nhà khổ hạnh, sống ở Arañjara. Khi Nārada say mê một kỹ nữ trên bờ sông gần Arañjara, Kāḷadevala bay đến với ông, và đúng lúc đưa Sālissara, Meṇḍissara và Pabbatissara đến để khuyên răn ông. Khi cả họ cũng thất bại trong nỗ lực cảm hóa Nārada, Kāḷadevala đưa bậc thầy của tất cả các đạo sĩ, Sarabhaṅga, đến; với sự giúp đỡ của họ, Sarabhaṅga thuyết phục Nārada từ bỏ tình yêu của mình.
+
+Trong thời hiện tại này, Kāḷadevala trở thành Mahā Kaccāna (Ja.iii.469).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asampadānajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -31,6 +31,6 @@ Asampadānajātaka (Ja 131). The Bodhisatta was born in <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asampadānajātaka (Ja 131). Bodhisatta sinh tại Rājagaha và được biết đến với tên Saṅkhaseṭṭhi, có tài sản trị giá tám mươi crore. Ngài có một người bạn, Piliyaseṭṭhi, ở Benares, cũng giàu có như vậy. Piliya mất hết tài sản, tìm đến Saṅkha nhờ giúp đỡ, và Saṅkha đã cho ông một nửa toàn bộ tài sản của mình. Về sau, chính Saṅkha bị phá sản, cùng vợ đi đến Benares để cầu cứu Piliya; tuy nhiên, người này đuổi ông đi với nửa phần tư cám. Trên đường trở về, Saṅkha được một người hầu cũ của ông nhận ra, người mà ông đã từng cho Piliya. Người hầu này kết bạn với Saṅkha và vợ ông, rồi với sự giúp đỡ của các bạn mình, đưa sự vô ơn của Piliya đến tai nhà vua. Nhà vua, sau khi xét xử vụ việc, muốn trao toàn bộ tài sản của Piliya cho Saṅkha, nhưng theo yêu cầu của Saṅkha, vua chỉ trả lại cho ông những gì ông đã cho Piliya trong thời thịnh vượng. Câu chuyện được kể liên quan đến sự vô ơn của Devadatta. Ja.i.465-9.
 
 ## Notes

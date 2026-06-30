@@ -5,7 +5,7 @@ base_headword: "Arukasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Arukasutta. On the man whose mind is like an open sore, as opposed to one who is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arukasutta. Về người có tâm như một vết thương hở, đối lập với người có tâm như chớp hoặc có tâm như kim cương. AN.i.123f.
 
 ## Notes

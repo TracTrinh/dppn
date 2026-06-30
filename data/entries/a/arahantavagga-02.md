@@ -5,7 +5,7 @@ base_headword: "Arahantavagga"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahantavagga 02. The seventh section of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahantavagga 02. Phẩm thứ bảy của Dhammapada.
 
 ## Notes

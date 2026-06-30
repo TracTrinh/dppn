@@ -5,7 +5,7 @@ base_headword: "Asandhimittā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,12 @@ In a previous birth, when <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asandhimittā. Chánh hậu của Dhammāsoka. Ông dành cho bà sử dụng một trong tám gánh nước được mang về cho ông từ Anotatta (Mhv.v.85; two says Vin-a.i.42). Bà là một tín đồ trung thành của giáo pháp Đức Phật và mất vào năm thứ ba mươi triều đại Asoka (Mhv.xx.2). Khi các việc chuẩn bị đang được tiến hành để đưa nhánh cây Bodhi sang Ceylon, bà dâng lên cây ấy mọi loại trang sức và nhiều loại hoa thơm (Mbv.152).
+
+Sau khi nghe các vị sư nói rằng tiếng chim karavīka giống giọng Đức Phật, bà được nhà vua ban cho một con karavīka và lắng nghe tiếng hót của nó. Tràn đầy hoan hỷ khi nghĩ đến sự ngọt ngào trong giọng nói của Đức Phật, bà chứng Đạo quả thứ nhất (DN­a.ii.453; MN­a.ii.771).
+
+Bà được gọi là Asandhimittā vì các khớp nơi tay chân bà chỉ hiện rõ khi bà co hoặc duỗi chúng (Mhv­ṭ.136).
+
+Trong một đời trước, khi Asoka sinh làm người buôn mật ong và dâng mật ong cho Pacceka Buddha, bà là người hầu gái đã chỉ kho mật ong cho Pacceka Buddha. Khi ấy bà đã ước rằng mình có thể trở thành hoàng hậu của vua Jambudīpa và có được dung mạo đáng yêu với các khớp không lộ ra. Mhv.v.59-60.
 
 ## Notes

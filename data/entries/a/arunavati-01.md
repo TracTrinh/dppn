@@ -5,7 +5,7 @@ base_headword: "Aruṇavatī"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,6 @@ Aruṇavatī 01. The city and the country of King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇavatī 01. Thành phố và quốc độ của vua Aruṇavā, và là nơi sinh của Sikhī Buddha (Bv.xxi.15). Chính từ đó Sikhī và Abhibhū đã đi đến cõi *Brahma* để thuyết pháp cho *Brahma* và các tùy tùng của vị ấy (SN.i.155f). Vào thời ấy, Salaḷapupphiya Thera là một người làm bánh kẹo ở Aruṇavatī (Ap.i.218). Xem thêm Aruṇapura.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ariyavaṁsa"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,10 @@ Among his other works are the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyavaṁsa 02. Một vị thầy và tác giả nổi tiếng của thế kỷ mười lăm. Ngài đến từ Pagan và là thành viên của phái Chapaṭa. Ngài là học trò của vị Ye-din (“người gánh nước”) nổi tiếng ở Sagaing (về tường thuật về vị ấy, xem Bode, 41f), và với lòng nhiệt thành cùng hăng hái lớn lao, đã học Abhidhammatthavibhāvanī từ thầy mình. Về sau, Ariyavaṁsa viết một chú giải về tác phẩm này và gọi nó là Maṇisāramañjūsā. Một giai thoại thú vị được kể lại về việc ngài đọc tác phẩm cho các đồng sự nghe và sẵn lòng tiếp nhận những sửa chữa của họ với lòng biết ơn.
+
+Trong số các tác phẩm khác của ngài có Maṇidīpa, một *Ṭīkā* về Atthasālinī, một chuyên luận ngữ pháp, Gandhābharaṇa, và một nghiên cứu về các Jātaka gọi là Jātakavisodhana.
+
+Ariyavaṁsa chỉ sống một phần đời tại Sagaing và sau đó giảng dạy tại Ava, nơi nhà vua đôi khi có mặt trong số thính giả của ngài. Ngài là một trong những văn nhân Burmese đầu tiên viết một tác phẩm siêu hình học bằng tiếng bản địa - một *Anuṭīkā* về Abhidhamma (Sās. p.41ff). Gandhavaṁsa (64-5) gán cho ngài một tác phẩm khác, Mahā Nissara (Mahā Nissaya?), nhưng tác phẩm ấy không được nhắc đến trong Sāsanavaṁsa.
 
 ## Notes

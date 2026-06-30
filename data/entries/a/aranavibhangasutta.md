@@ -5,7 +5,7 @@ base_headword: "Araṇavibhaṅgasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,8 @@ At the end of the discourse a young man, <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇavibhaṅgasutta. Bài *Sutta* thứ 139 của Majjhimanikāya. Bài này được thuyết tại Jetavana và gồm một trình bày cùng phần giảng giải về con đường trung đạo đưa đến an bình giữa hai cực đoan: các dục lạc, thấp kém, không cao quý và không lợi ích; và sự hành xác, đau đớn và không lợi ích. Con đường ấy là Bát Thánh đạo: khi thuyết giảng giáo lý, người thuyết không nên tán dương cũng không nên chê bai nó; người ấy nên dạy chân lý bằng các thuật ngữ trừu tượng của nguyên tắc phổ quát. Người ấy không nên là kẻ kể chuyện ngồi lê đôi mách, cũng không nên đối chất bất kỳ ai bằng những lời không thích đáng; người ấy nên nói chậm rãi chứ không vội vàng; người ấy không nên bắt chước cách nói địa phương cũng không nên rời khỏi lối dùng lời đã được thừa nhận.
+
+Cuối bài giảng, một thanh niên, Subhūti, được tán thán vì đã bước đi nơi sự tĩnh lặng trú ngụ (MN.iii.230-7; MN­a.ii.977-8).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āsavasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavasutta 02. Mười điều đưa đến sự đoạn tận các āsava: tám chi phần của Bát Thánh đạo, cùng với *sammāñāṇa* và *sammāvimutti*. AN.v.237.
 
 ## Notes

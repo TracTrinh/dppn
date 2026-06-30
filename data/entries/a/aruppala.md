@@ -5,7 +5,7 @@ base_headword: "Aruppala"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Aruppala. One of the villages given by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruppala. Một trong những ngôi làng được Kittisirirājasīha cấp để duy trì Gaṅgārāmavihāra. Cv.c.212.
 
 ## Notes

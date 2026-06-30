@@ -71,6 +71,8 @@ Caṇḍāla → Caṇḍāla — giữ Pāli cho nhóm xã hội; in nghiêng n
 Paribbājaka → Paribbājaka — giữ Pāli cho du sĩ ngoại đạo; in nghiêng nếu bản gốc in nghiêng.
 Ariyan → bậc Thánh / thuộc bậc Thánh — tùy ngữ cảnh; giữ tên riêng Pāli nếu là một phần của danh xưng.
 Noble Eightfold Path → Bát Thánh đạo — dùng "Bát Thánh đạo" nhất quán; KHÔNG dùng biến thể "Bát Chi Thánh Đạo".
+āsava(s) → āsava(s) — giữ Pāli cho thuật ngữ (lậu hoặc); có thể dịch nghĩa quanh nó là "đoạn tận các āsava" để giữ đối chiếu; in nghiêng nếu bản gốc in nghiêng.
+indriya(s) → indriya(s) — giữ Pāli cho các căn/quyền khi bản gốc dùng thuật ngữ Pāli; có thể gloss "năm indriya" theo ngữ cảnh.
 
 ## Đơn vị đo lường / tiền tệ
 
@@ -98,6 +100,7 @@ bodhi-tree → cây bodhi — giữ "bodhi" theo Pāli trong cụm này; in nghi
 Thūpa → bảo tháp — tháp thờ xá-lợi; giữ "Thūpa" trong tên riêng
 pariveṇa → pariveṇa — giữ nguyên; khu vực phụ trong tu viện
 Gandhakuṭi → Gandhakuṭi — hương phòng (phòng thơm) của Đức Phật; giữ tên riêng
+cetiya → cetiya — giữ Pāli cho tháp/điện thờ/di tích thờ phụng khi bản gốc dùng thuật ngữ Pāli; "bảo tháp" khi dùng chung (xem Thūpa).
 senāsana → senāsana — giữ nguyên; chỗ ở của tỳ-kheo
 
 ## Sự kiện / thể chế

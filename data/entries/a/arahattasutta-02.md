@@ -5,7 +5,7 @@ base_headword: "Arahattasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Arahattasutta 02. Six qualities requisite for *Arahant*-ship. AN.iii.430.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahattasutta 02. Sáu phẩm chất cần thiết cho quả vị *Arahant*. AN.iii.430.
 
 ## Notes

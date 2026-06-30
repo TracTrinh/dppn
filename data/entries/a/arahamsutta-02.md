@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahaṁsutta 02. An *Arahant* is one who has really seen the arising, ending, e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 02. Một *Arahant* là người đã thật sự thấy sự sinh khởi, sự chấm dứt, v.v., của năm nhóm chấp thủ (*upādānakkhandhā*). SN.iii.161.
 
 ## Notes

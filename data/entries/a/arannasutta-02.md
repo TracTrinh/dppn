@@ -5,7 +5,7 @@ base_headword: "Araññasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araññasutta 02. On the kind of monk who should seek the forest. AN.ii.252.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññasutta 02. Về loại tỳ-kheo nên tìm đến rừng. AN.ii.252.
 
 ## Notes

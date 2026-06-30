@@ -5,7 +5,7 @@ base_headword: "Arahanta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahanta. A Talaing monk, the preceptor and advisor of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahanta. Một vị sư Talaing, thầy tế độ và cố vấn của Anuruddha, vua Miến Điện. Ông đã thực hiện những cải cách sâu rộng trong Saṅgha Miến Điện thời ông (Bode, 12-13).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Araṇemi"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -29,6 +29,6 @@ Araṇemi 02. Tibetan sources mention a king, <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇemi 02. Các nguồn Tây Tạng nhắc đến một vị vua, Araṇemi Brahmadatta của Sāvatthī, là cha của Pasenadi. Ông bị đày khỏi vương quốc của mình và sống ở Campā (Rockhill, pp.16, 70). Nhưng xem Mahā Kosala.
 
 ## Notes

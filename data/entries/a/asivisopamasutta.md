@@ -5,7 +5,7 @@ base_headword: "Āsīvisopamasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -35,6 +35,8 @@ It was also preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsīvisopamasutta. Có lẽ chỉ Āsīvisasutta (1), nhưng cũng có thể là (2). Kinh này được Trưởng lão Majjhantika thuyết cho vua Nāga Aravāḷa và dân chúng Kasmīra cùng Gandhāra. Tám mươi ngàn người nghe đã chấp nhận tôn giáo mới và một trăm ngàn người được xuất gia sau bài thuyết pháp (Vin-a.i.66; Mhv.xii.26).
+
+Kinh này cũng được Mahinda thuyết ở Ceylon trong Nandanavana tại Anurādhapura vào ngày thứ ba sau khi ngài vào thành. Ba mươi ngàn người được cải hóa. Ibid., xv.178-9; Vin-a.i.80; Mbv.133.
 
 ## Notes

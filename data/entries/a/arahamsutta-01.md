@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arahaṁsutta 01. Would an *Arahant* by speaking of “I” and “mine” show 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 01. Liệu một *Arahant*, khi nói “tôi” và “của tôi”, có qua đó cho thấy khuynh hướng nghiêng về các quan niệm về tự ngã hay linh hồn không? Đức Phật nói “Không.” Vị ấy qua đó chỉ thuận theo cách dùng thông thường trong những vấn đề như vậy (SN.i.14-15). Buddhaghosa nói rằng câu hỏi này được một *Devatā* ở rừng nêu ra, người đã nghe các *Arahants* sống trong rừng nói như thế. Vị ấy băn khoăn về câu hỏi liệu họ có chút “*māna*” nào không. SN­a.i.41.
 
 ## Notes

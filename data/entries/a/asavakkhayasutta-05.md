@@ -5,7 +5,7 @@ base_headword: "Āsavakkhayasutta"
 disambiguator: "05"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavakkhayasutta 05. Nơi người biết khổ, v.v., các āsava được đoạn tận. SN.v.434.
 
 ## Notes

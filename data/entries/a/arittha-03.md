@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ariṭṭha 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 03. Một Pacceka Buddha, được nhắc trong danh sách các Pacceka Buddhas. MN.iii.69; APA.i.106; cũng xem Netti, 143.
 
 ## Notes

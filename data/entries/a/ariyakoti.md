@@ -5,7 +5,7 @@ base_headword: "Ariyakoṭi"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariyakoṭi. A monastery (probably in Ceylon), the residence of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyakoṭi. Một tu viện (có lẽ ở Ceylon), trú xứ của Mahā Datta Thera. MN­a.i.131.
 
 ## Notes

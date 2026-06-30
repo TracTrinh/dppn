@@ -5,7 +5,7 @@ base_headword: "Asokamālā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -35,6 +35,8 @@ Her name was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokamālā. Vợ của hoàng tử Sāli. Bà là một phụ nữ *Caṇḍāla* có sắc đẹp vô cùng lớn, và hoàng tử cưới bà, do đó từ bỏ quyền lên ngôi của mình (Mhv.xxiii.2-4). Hai người từng là vợ chồng trong một đời trước, tên là Tissa và Nagā, và sống tại Muṇḍagaṅgā ở Ceylon. Một ngày nọ, người chồng nhận được một con heo từ một thợ săn để trả công cho một số việc rèn mà ông đã làm. Sau khi chuẩn bị con vật làm thức ăn, ông phát nguyện mong tám vị sư thánh thiện đến nhận vật thực cúng dường từ mình. Vợ ông cùng tham gia lời nguyện này; họ trang hoàng nhà cửa, chuẩn bị tám chỗ ngồi, rải cát trên đường làng và chờ đợi các vị khách. Dhammadinna Thera ở Piyaṅgudīpa, sau khi biết được bằng thần thông ước nguyện của người ấy, đến làng cùng bảy vị đồng tu. Sau khi các vị ấy ăn xong, họ nói lời tùy hỷ rồi ra đi. Người đàn ông tái sinh thành Sāli, con trai của Duṭṭhagāmaṇī, nhưng vợ ông tái sinh làm một *Caṇḍāla* như hình phạt cho một lỗi lầm trong một đời khác. Bà từng là con gái út trong bảy người con gái của một thợ mộc, và một ngày nọ bị mẹ mắng vì không gọn gàng. Trong cơn giận, bà dùng với mẹ mình chính những lời lăng mạ đã bị ném vào bà. Hành vi bất hiếu này khiến bà tái sinh làm con gái của một *Caṇḍāla*. Mhv­ṭ.606 ff.
+
+Tên bà là Devī, và cha bà là người đứng đầu các *Caṇḍāla* tại Hallolagāma. Câu chuyện của bà được kể rất dài trong Ras.ii.117f.
 
 ## Notes

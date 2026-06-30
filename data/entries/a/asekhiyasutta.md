@@ -5,7 +5,7 @@ base_headword: "Asekhiyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Asekhiyasutta. Five things which make a monk worthy of offerings, etc. AN.iii.13
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asekhiyasutta. Năm điều làm cho một vị sư xứng đáng được cúng dường, v.v. AN.iii.134.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asaṅkhatasaṁyutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asaṅkhatasaṁyutta. Also called <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaṅkhatasaṁyutta. Cũng được gọi là Nibbānasaṁyutta. Phần thứ bốn mươi ba của Saṁyuttanikāya. SN.iv.359-73.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ārāmassa"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmassa. Một ngôi làng ở Ceylon, do vua Udaya I ban cấp để duy trì một *Loharūpa* (tượng đồng) của Đức Phật. Cv.xlix.17.
 
 ## Notes

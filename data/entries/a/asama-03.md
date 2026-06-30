@@ -5,7 +5,7 @@ base_headword: "Asama"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asama 03. Chief lay-supporter of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asama 03. Cư sĩ hộ trì chính của Paduma Buddha (Bv.ix.23); có lẽ chính là cha của ngài. Xem Asama (2).
 
 ## Notes

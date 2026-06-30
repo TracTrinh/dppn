@@ -5,7 +5,7 @@ base_headword: "Aravāḷa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -31,6 +31,6 @@ Aravāḷa (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aravāḷa (*v.l.* Āravāḷa). Một vua Nāga sống trong Aravāḷadaha ở Kasmīra-Gandhāra. Ông có thói quen phá hoại mùa màng của dân chúng bằng cách gây ra mưa đá. Khi Majjhantika Thera được Hội đồng của Moggaliputtatissa phái đi giáo hóa Kasmīra-Gandhāra, vị Trưởng lão đến Aravāḷadaha và đứng trên không phía trên hồ, hiện thân cho các Nāga thấy. Nghe chuyện này, vua *nāga* đi ra và cố làm vị Trưởng lão sợ hãi bằng nhiều điều kinh khiếp khác nhau. Khi mọi nỗ lực của ông đều thất bại, ông thừa nhận mình bị khuất phục, và vị Trưởng lão thuyết giảng cho ông. Ông cùng 84,000 tùy tùng của mình được an lập trong Tam quy và Ngũ giới. Vin-a.i.65; Mhv.xii.9-20.
 
 ## Notes

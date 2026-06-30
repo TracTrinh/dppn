@@ -5,7 +5,7 @@ base_headword: "Asama"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asama 02. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asama 02. Cha của Paduma Buddha và là vua xứ Campā. Bv.ix.9; Bv­a.146.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aruṇa"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -26,6 +26,6 @@ Aruṇa 04. The name of the lotus that grows in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇa 04. Tên của hoa sen mọc trong cõi Nāga. Một trong những nguyện ước của Uppalavaṇṇā là có thân màu như hoa sen *Aruṇa*. Ap.ii.554(v.39).
 
 ## Notes

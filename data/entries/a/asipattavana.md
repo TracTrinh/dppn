@@ -5,7 +5,7 @@ base_headword: "Asipattavana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -23,6 +23,6 @@ Asipattavana. One of the tortures of purgatory. In the distance the grove appear
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asipattavana. Một trong những hình phạt của địa ngục. Nhìn từ xa, khu rừng ấy hiện ra như một rừng xoài, và khi những chúng sinh trong địa ngục bước vào, muốn ăn xoài, những chiếc lá sắc như kiếm rơi xuống trên họ, chặt đứt tay chân họ. Sn.vs.673; Snp-a.ii.481.
 
 ## Notes

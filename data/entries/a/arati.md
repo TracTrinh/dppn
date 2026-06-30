@@ -5,7 +5,7 @@ base_headword: "Aratī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -36,6 +36,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aratī. Một trong ba người con gái của Māra, hai người kia là Taṇhā và Ragā. (Trong *Buddhacarita* (xiii.), tên của họ là Ratī, Prītī và Tṛṣṇā; trong *Lalitavistara* (353), là Ratī, Aratī và Tṛṣṇā).
+
+Thấy cha mình buồn bã sau những nỗ lực lặp đi lặp lại nhằm cản trở cuộc tìm cầu Giác ngộ của Gotama, họ xin được dùng mưu chước để cám dỗ Đức Phật. Việc này xảy ra vào tuần thứ năm sau khi Giác ngộ. Với sự chấp thuận của Māra, họ đến trước Đức Phật dưới nhiều hình dạng và nhiều dáng vẻ khác nhau, khi Ngài đang ngồi dưới gốc cây đa Ajapāla, rồi múa hát trước mặt Ngài. Cuối cùng, Đức Phật nói với họ rằng Ngài đã vượt ngoài sự cám dỗ của các dục lạc giác quan, và họ trở về với cha mình (SN.i.124-7; Ja.i.78-80, 469; Dhp­a.i.201f., iii.196,199; Snp.v.835).
+
+Trong bản tường thuật của Saṁyutta, họ được nói là đã hỏi Đức Phật những câu hỏi về chính Ngài và giáo pháp của Ngài. Câu hỏi của Aratī là làm thế nào một người đã vượt qua năm dòng lũ lại có thể vượt qua dòng lũ thứ sáu. Để biết giải thích, xem KS.i.158, n.3.
 
 ## Notes

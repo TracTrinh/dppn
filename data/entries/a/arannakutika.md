@@ -5,7 +5,7 @@ base_headword: "Araññakuṭikā"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,6 @@ Araññakuṭikā. Mention is made of several forest hermitages in the Buddha’
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññakuṭikā. Có nhắc đến một số am thất trong rừng vào thời Đức Phật. Chẳng hạn, có một am thất gần Rājagaha, nơi Mahā Moggallāna (Ja.iii.33) thường ở lại, và Mahā Kassapa cũng vậy (Ja.iii.71). Rõ ràng các tỳ-kheo khác của Tăng đoàn thỉnh thoảng cũng cư trú ở đó, ví dụ sa-di Aciravata (MN.iii.128). Có một am thất gần Dīghambalika (Dhp­a.ii.235) và một am thất khác gần Himavā (Dhp­a.ii.31, 129), nơi Đức Phật đôi khi đến.
 
 ## Notes

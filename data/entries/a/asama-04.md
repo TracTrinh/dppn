@@ -5,7 +5,7 @@ base_headword: "Asama"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -32,6 +32,6 @@ Asama 04. A *Devaputta* who once visited the Buddha at <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asama 04. Một *Devaputta* từng viếng thăm Đức Phật tại Veḷuvana, cùng với Sahali, Niṅka, Ākoṭaka, Vetambarī và Māṇava Gāmiya. Họ là đệ tử của các vị thầy khác nhau và, đứng trước Đức Phật, mỗi người nói lời tán dương vị thầy của mình. Asama tán dương Pūraṇa Kassapa (SN.i.65). Có lẽ Asama là tên của một hạng; xem Asamā (1).
 
 ## Notes

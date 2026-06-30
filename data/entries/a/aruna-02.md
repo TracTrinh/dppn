@@ -5,7 +5,7 @@ base_headword: "Aruṇa"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,8 @@ Later, at the suggestion of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇa 02. Vua Assaka của Potali trong xứ Assaka. (Trong câu chuyện chính, tên của vua được nêu là Assaka, nhưng vị chú giải nói tên thật của ông là Aruṇa). Vua Kāliṅga thời ấy, khao khát một cuộc chiến, nhưng không tìm được ai sẵn sàng nhận lời thách đấu của mình, cuối cùng nghĩ ra một kế. Ông phái bốn cô con gái xinh đẹp của mình, trong một cỗ xe có màn che và với đội hộ tống có vũ trang, đến các thành phố khác nhau trong vùng lân cận, tuyên bố rằng bất cứ vị vua nào nhận họ làm vợ sẽ phải giao chiến với cha họ. Không ai sẵn sàng chấp nhận rủi ro cho đến khi họ đến Potali trong xứ Assaka. Ngay cả vua Assaka lúc đầu cũng chỉ gửi cho họ một món quà theo phép lịch sự, nhưng đại thần của ông, Nandisena, người giàu mưu kế, thúc giục vua cưới họ, nói rằng chính ông sẽ đảm nhận việc đối mặt với các hậu quả. Vua Kāliṅga lập tức lên đường cùng quân đội của mình. Trên đường đến Potali, ông gặp Bodhisatta, người đang sống đời khổ hạnh, và không tiết lộ danh tính, hỏi ý kiến ngài về cơ hội thành công của mình trong trận chiến. Bodhisatta hứa rằng ngài sẽ gặp Sakka về việc ấy vào ngày hôm sau và, sau khi làm vậy, báo cho vua biết rằng quân Kāliṅga sẽ thắng. Nandisena nghe được lời tiên tri này nhưng không hề nao núng; ông tập hợp quân Assaka và tất cả đồng minh của họ; rồi, bằng một chiến thuật được hoạch định kỹ, ông xoay xở khiến vị thần hộ trì của Kāliṅga (vị đang chiến đấu cho vua Kāliṅga) bị Assaka giết. Do đó vua Kāliṅga bị đánh tan và bỏ chạy. Bodhisatta, thấy rằng lời tiên tri của mình hóa ra sai, trong cơn khổ tâm tìm đến Sakka; Sakka an ủi ngài như sau: “Ngài chưa từng nghe rằng ngay cả chư thiên cũng ủng hộ vị anh hùng dũng cảm có quyết tâm không sợ hãi, người không bao giờ chịu khuất phục sao?”
+
+Về sau, theo đề nghị của Nandisena, vua Assaka đòi người cai trị Kāliṅga trao của hồi môn cho bốn cô con gái của ông, và vua Kāliṅga chấp thuận yêu cầu của ông. Câu chuyện được kể trong Kāliṅgajātaka (Ja.iii.3ff.).
 
 ## Notes

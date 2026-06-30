@@ -5,7 +5,7 @@ base_headword: "Asokamālaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Asokamālaka. One of the spots in the Mahā Sāgara garden, north of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokamālaka. Một trong những địa điểm trong vườn Mahā Sāgara, phía bắc Nāgamālaka, nơi Kassapa Buddha thuyết pháp cho dân chúng tụ họp khi ngài viếng Ceylon. Bốn nghìn người được cải hóa (Mhv.xv.153ff). Về sau vua Asela dựng một *cetiya* tại đó. Mhv­ṭ. 358.
 
 ## Notes

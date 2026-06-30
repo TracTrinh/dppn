@@ -5,7 +5,7 @@ base_headword: "Arikārī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arikārī. A monastery in Ceylon. It is not recorded by whom it was first built.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arikārī. Một tu viện ở Tích Lan. Không có ghi chép ai là người đầu tiên xây dựng nó. Udaya I. thấy nó trong tình trạng đổ nát và cho sửa chữa. Ông cũng xây tại đó một nhà để phân phát thực phẩm và thêm một *pāsāda* (Cv.xlix.32).
 
 ## Notes

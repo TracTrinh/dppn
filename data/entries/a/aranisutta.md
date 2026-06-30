@@ -5,7 +5,7 @@ base_headword: "Araṇisutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araṇisutta. There are five *indriyas*: those of ease, discomfort, happiness, u
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇisutta. Có năm *indriyas*: những căn về dễ chịu, khó chịu, hạnh phúc, bất hạnh và xả. Cũng như từ sự cọ xát của hai que củi mà hơi ấm và nhiệt được sinh ra, rồi khi chúng tách rời, hơi ấm và nhiệt đã sinh ấy bị dập tắt; tương tự, từ xúc được kinh nghiệm là dễ chịu, căn dễ chịu (*sukhindriya*) khởi lên, v.v. SN.v.211-13.
 
 ## Notes

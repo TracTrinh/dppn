@@ -5,7 +5,7 @@ base_headword: "Aruṇapāla"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Aruṇapāla, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇapāla, Aruṇabala. Một vị vua cách đây ba mươi lăm *kappa*, là một tiền thân của Kaṇikārapupphiya Thera (hiển nhiên đồng nhất với Ujjaya, Ap.i.203). Trong Chú giải Theragāthā (i.119), ông được gọi là Aruṇabala.
 
 ## Notes

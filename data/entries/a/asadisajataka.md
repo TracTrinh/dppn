@@ -5,7 +5,7 @@ base_headword: "Asadisajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,8 @@ The story is figured in the *Bharhut Stūpa* (Cunningham, p.70, and Plate xxvii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asadisajātaka (Ja 181). Câu chuyện về vương tử Asadisa. Nó được kể liên quan đến cuộc Đại Xuất Ly để cho thấy rằng trong những đời trước Bodhisatta cũng đã từ bỏ vương quyền (Ja.ii.86-92). Phần sau của câu chuyện được đưa ra trong *Mahā Vastu* và được gọi là *Śarakṣepanajātaka (*Mvu.ii.82-3).
+
+Câu chuyện được khắc họa tại *Bharhut Stūpa* (Cunningham, p.70, and Plate xxvii.13) và tại Sanchi Tope (Fergusson, *Tree and Serpent Worship*, p.181, Plate xxxvi). Vua Kittisiri của Ceylon đã viết một bài thơ đẹp bằng tiếng Sinhala dựa trên Jātaka này. Cv. Supplement 101, vs.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asela"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -43,6 +43,10 @@ He built a *cetiya* in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asela. Con trai của Muṭasiva và là em út của Devānampiyatissa. Khi hai người Damiḷas, Sena và Guttaka, chinh phục Sūratissa và chiếm ngai, Asela đánh bại họ và trị vì ở Anurādhapura trong mười năm (155-145 B.C.). (Mhv.xxi.11; Cv.lxxxii.20; Epy. Zeyl. iii., Introd., p.5, n.1). Cuối cùng ông bị Eḷāra chinh phục (Mhv.xxi.13).
+
+Asela là một trong chín anh em, những người khác là Abhaya, Devānampiyatissa, Uttiya, Mahā Sīva, Mahā Nāga, Mattābhaya, Sūratissa và Kīra (Mhv­ṭ. 425).
+
+Ông xây một cetiya trong Asokamālaka (Mhv­ṭ. 358).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arimaddana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -38,6 +38,10 @@ According to some authorities, quoted by Minayeff (*Récherches sur Bouddhisme*,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arimaddana. Tên được dùng trong các biên niên sử Pāli để chỉ thành Pagan ở Miến Điện (Rāmañña) (Bode, 14). Vào thời Parakkamabāhu I. của Tích Lan, vua Arimaddana tranh chấp với ông, ngược đãi các sứ thần của ông, và dùng vũ lực bắt giữ một công chúa được phái từ Tích Lan đến Kamboja. Parakkama phái một đoàn viễn chinh trừng phạt dưới quyền Damiḷādhikārī Ādicca, người đã khuất phục đất nước ấy (Cv.lxxvi.10-75).
+
+Về sau, Vijayabāhu II. của Tích Lan tiến hành thương nghị hữu nghị với người cai trị Arimaddana, và viết cho ông một bức thư bằng ngôn ngữ Māgadha do chính mình soạn. Kết quả là một hiệp ước hữu nghị được lập giữa họ, cũng dẫn đến sự tiếp xúc gần gũi hơn giữa các tu sĩ của hai nước (Cv.lxxx.6-8).
+
+Theo một số thẩm quyền được Minayeff trích dẫn (*Récherches sur Bouddhisme*, p.70), thành này đầy những phụ nữ có học. Gandhavaṁsa (p.67) nêu một danh sách hai mươi ba vị thầy đã viết tác phẩm của họ tại Arimaddana. Từ ngữ cảnh này, có vẻ Arimaddana cũng được biết đến là Pukkāma (*Pukkāmasankhāte Arimaddananagare*). Điều này được chứng minh bằng bằng chứng ở nơi khác (Forchhammer: *Jardine Prize Essay*, pp.29, 32. Ind.An.1893, p.17). Chính một vị đại thần ở Arimaddana đã viết Nyāsappadīpaṭīkā (Svd.v.1240). Arimaddana cũng là thành nơi sinh của Thera Chapaṭa (Svd.v.1247).
 
 ## Notes

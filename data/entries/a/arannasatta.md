@@ -5,7 +5,7 @@ base_headword: "Araññasatta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Araññasatta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññasatta (*v.l.* Araññamanna; Araññasanta). Một vị vua hai mươi *kappa* trước; một tiền thân của Nimittasaññaka Thera. Ap.i.261.
 
 ## Notes

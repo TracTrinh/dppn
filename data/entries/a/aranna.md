@@ -5,7 +5,7 @@ base_headword: "Arañña"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -32,6 +32,10 @@ Details of these are found under each respective name.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arañña. Bốn *Araññas* lớn thường được nhắc đến trong văn học (e.g., MN.i.378). Chúng từng là địa điểm của những vương quốc rất đông dân và thịnh vượng, nhưng về sau đã bị chư thiên hủy diệt vì những tội lỗi mà các vua của chúng phạm đối với các bậc thánh thiện.
+
+Bốn Mahā Araññas là: Daṇḍakārañña, Kāliṅgārañña, Mejjhārañña, và Mātaṅgārañña.
+
+Chi tiết về các nơi này được tìm thấy dưới từng tên tương ứng.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -39,6 +39,16 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 01. Một tu sĩ. Ông bị Tăng đoàn áp dụng *ukkhepanīyakamma* vì từ chối từ bỏ một giáo thuyết tội lỗi, tức là quan điểm cho rằng các trạng thái tâm mà Đức Phật tuyên bố là những chướng ngại thật ra hoàn toàn không phải như vậy đối với người đắm mình trong chúng. Ariṭṭha rời Tăng đoàn và không chịu trở lại cho đến khi *ukkhepanīyakamma* được hủy bỏ (Vin.ii.25-8). Ông là người huấn luyện kền kền (*gaddhabādhiputta*) (Xem ghi chú trong VT.ii.377).
+
+Trường hợp của ông được nêu như một tội *pācittaya*, vì ông từ chối từ bỏ một tà thuyết ngay cả sau khi các tu sĩ đã ba lần yêu cầu ông làm như vậy (Vin.iv.135).
+
+Bất chấp *ukkhepanīyakamma*, các tu sĩ Chabbaggiya vẫn giao du với Ariṭṭha, do đó phạm một tội *pācittaya* (Vin.iv.137). Ta thấy Đức Phật khiển trách ni cô Thullanandā vì giao du với Ariṭṭha sau *ukkhepanīyakamma* (Vin.iv.218).
+
+Chính tà kiến của Ariṭṭha đã dẫn đến việc thuyết giảng Alagaddūpamasutta (MN.i.130ff).
+
+Trong Saṁyuttanikāya (SN.v.314-15), Ariṭṭha được nhắc đến là đã nói với Đức Phật rằng ông thực hành định trong hơi thở và đã mô tả cách mình thực hành. Sau đó, Đức Phật chỉ dạy ông cách thức để sự định ấy có thể được thực hiện một cách hoàn hảo và đầy đủ mọi chi tiết.
+
+Trong Samantapāsādikā Ariṭṭha được nhắc trong danh sách các kẻ thù của *Sāsana*. Vin-a.iv.874.
 
 ## Notes

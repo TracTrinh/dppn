@@ -5,7 +5,7 @@ base_headword: "Arakajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Arakajātaka (Ja 169). The Bodhisatta was once born in a Brahmin’s family and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arakajātaka (Ja 169). Bodhisatta từng sinh trong một gia đình Bà-la-môn và được đặt tên là Araka; khi trưởng thành, ngài xuất gia và sống ở Himālaya như một vị thầy với đông đảo môn đồ. Ngài dạy các học trò giá trị của bốn *brahmavihāras*. Sau khi chết, ngài sinh vào cõi *Brahma* và ở đó trong bảy kappa. Câu chuyện được kể cho các vị tỳ-kheo tại Jetavana liên quan đến Mettasutta (Ja.ii.60-2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asokā"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,6 @@ Asokā 01. A nun of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokā 01. Một Tỳ-kheo-ni ở Ñātikā. Khi Ānanda báo tin bà qua đời cho Đức Phật tại Ñātikā trong Giñjakāvasatha, và hỏi bà đã sinh về đâu, Đức Phật nói rằng bà đã hóa sinh trong Suddhāvāsā, tại đó sẽ qua đời, được định không bao giờ trở lại. SN.v.358.
 
 ## Notes

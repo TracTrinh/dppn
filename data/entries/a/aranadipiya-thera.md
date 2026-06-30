@@ -5,7 +5,7 @@ base_headword: "Araṇadīpiya Thera"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -30,6 +30,8 @@ As a result, fifty-five *kappas* ago he was born as a king, <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araṇadīpiya Thera (*v.l.* Apaṇṇadīpiya, Araṇṇadīpiya, Araṇadīpaka). Một *Arahant*. Chín mươi bốn *kappa* trước, ngài từng là một thiên nhân, và khi trở lại cõi đất, với lòng sùng kính lớn lao, ngài đã thắp năm ngọn đèn để người khác sử dụng.
+
+Nhờ kết quả ấy, năm mươi lăm *kappa* trước ngài sinh làm vua Samantacakkhu (Ap.i.231).
 
 ## Notes

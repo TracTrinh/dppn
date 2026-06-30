@@ -5,7 +5,7 @@ base_headword: "Ārāmadūsakajātaka"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -29,6 +29,8 @@ The story is told in reference to a lad in <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmadūsakajātaka 02. (Ja 268). Giống truyện trên, ngoại trừ việc bầy khỉ được yêu cầu tưới khu vườn trong bảy ngày, và cuộc đối thoại giữa người trí (trong trường hợp này là một thanh niên thuộc gia đình lương thiện ở Benares) với vua khỉ thì khác.
+
+Câu chuyện được kể liên quan đến một cậu bé ở Dakkhiṇāgiri, chứ không phải ở Kosala như trên. Ja.ii.345-7.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Aruṇa"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Aruṇa 03. The pleasaunce near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇa 03. Khu lạc viên gần Anupama, nơi Buddha Vessabhū lần đầu thuyết pháp cho các đệ tử trưởng của ngài là Soṇa và Uttara. Bv.xxii.22, Bv­a.205.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Araññasutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araññasutta 03. On the advantages of developing *ānāpānasati*. AN.iii.121.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññasutta 03. Về các lợi ích của việc phát triển *ānāpānasati*. AN.iii.121.
 
 ## Notes

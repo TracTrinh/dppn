@@ -5,7 +5,7 @@ base_headword: "Āsīvisasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsīvisasutta 01. Được thuyết tại Sāvatthī. Con người phải chăm nom bốn con rắn có sức nóng dữ dội và nọc độc đáng sợ – bốn *mahābhūtas*; người ấy luôn bị năm kẻ thù sát nhân theo sau – năm *upādānakkhandhā*; người ấy bị một tên phá nhà sát nhân cầm kiếm giơ cao truy đuổi – dục ái (*nandirāga*); trong khi cố trốn thoát khỏi chúng, người ấy đi lạc vào một ngôi làng trống, nơi mọi thứ đều trống rỗng – sáu xứ nội tại của cá nhân (*ajjhattikāyatana*), và các kẻ cướp làng đi vào đó – sáu xứ ngoại tại (*bāhirāyatana*.) Chạy khỏi đó, người ấy đến một vùng nước rộng, bờ bên này đầy nguy hiểm; bờ bên kia an toàn khỏi sợ hãi, nhưng không có thuyền và không có cầu – dòng lũ năm phần (*ogha*), bờ bên này là *sakkāya* và bờ bên kia là *Nibbāna*. SN.iv.172-b.
 
 ## Notes

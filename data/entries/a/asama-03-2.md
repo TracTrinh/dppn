@@ -5,7 +5,7 @@ base_headword: "Asamā"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asamā 03. Chief woman-disciple of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamā 03. Nữ đệ tử trưởng của Padumuttara Buddha. Bv.xi.25; DN­a.ii.489; Ja.i.37.
 
 ## Notes

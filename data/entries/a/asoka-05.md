@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asoka 05. Attendant to <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 05. Thị giả của Vipassī Buddha (Ja.i.41; Bv.xx.28). Một lần ông bị bệnh và được một thầy thuốc chữa khỏi; trong thời đại này, vị thầy thuốc ấy là Tikicchaka Thera (*Tekicchakānī* Thera*)*. Ap.i.190; Thag­a.i.442.
 
 ## Notes

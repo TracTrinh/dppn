@@ -5,7 +5,7 @@ base_headword: "Ariya"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariya 02. A fisherman of a settlement near the north gate of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariya 02. Một người đánh cá ở một khu cư trú gần cổng bắc của Sāvatthī. Đức Phật, thấy *upanissaya* (tiềm năng) của ông đối với Sotāpatti, đi cùng hội chúng tỳ-kheo đến gần chỗ ông đang đánh cá và dừng lại không xa ông. Rồi Đức Phật hỏi tên các tỳ-kheo, và nhận thấy chính người đánh cá cũng mong được hỏi, Ngài hỏi tên ông. Khi biết tên ông là Ariya, Đức Phật gợi ý với ông rằng ông không xứng với tên ấy, vì một Ariya thật sự không bao giờ làm hại bất cứ sinh vật nào. Khi bài thuyết giảng kết thúc, người đánh cá trở thành một *Sotāpanna*. Dhp­a.iii.396-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asātarūpajātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,12 @@ The story was related by the Buddha to explain to the monks the reason for <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asātarūpajātaka (Ja 100). Một lần, Bodhisatta là vua Benares. Vua Kosala gây chiến với ngài, giết ngài và đem hoàng hậu của ngài đi để lấy làm vợ mình. Con trai của vua trốn thoát qua một cống thoát nước và về sau trở lại với một đội quân lớn để giao chiến. Mẹ của chàng, nghe tin về những việc chàng làm, đề nghị chàng nên phong tỏa thành thay vì đánh trận.
+
+Chàng làm như vậy, và cuộc phong tỏa chặt đến mức vào ngày thứ bảy dân chúng chặt đầu nhà vua và mang đến cho hoàng tử.
+
+Chính hoàng tử này trở thành Sīvalī trong thời hiện tại; cuộc phong tỏa là nguyên nhân khiến ngài ở trong bụng mẹ bảy năm, và khiến bà phải mất bảy ngày để sinh ngài. Mẹ của ngài là Suppavāsā, con gái của vua Koḷiya.
+
+Câu chuyện được Đức Phật kể để giải thích cho các vị sư nguyên nhân việc Suppavāsā mang thai lâu. Ja.i.407-10. Jātaka này xuất hiện, với những khác biệt trong chi tiết, trong Dhp­a.ii.198ff.
 
 ## Notes

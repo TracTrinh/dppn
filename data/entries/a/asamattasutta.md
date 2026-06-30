@@ -5,7 +5,7 @@ base_headword: "Asamattasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asamattasutta. Association with the worthy, listening to the Dhamma, systematic 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamattasutta. Thân cận bậc xứng đáng, nghe Pháp, suy xét có hệ thống và sống theo các điều học của Pháp - những điều này, nếu được tu tập, sẽ dẫn đến tuệ giác vô lượng (SN.v.412). Sutta này có lẽ nên được gọi là Appamatta; bản văn nêu cả hai tên.
 
 ## Notes

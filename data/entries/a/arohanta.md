@@ -5,7 +5,7 @@ base_headword: "Ārohanta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārohanta. Một trong các đại thần ở Sāvatthī. Ông gia nhập Tăng đoàn tỳ-kheo và vợ ông trở thành một ni cô. Họ dùng bữa cùng nhau và bà phục vụ ông, đem nước cho ông và quạt cho ông. Ông cấm bà phục vụ mình vì điều đó không thích hợp, và tức giận vì lời ông, bà đổ nước lên đầu ông và đánh ông bằng chiếc quạt. Vì việc này bà bị Đức Phật quở trách. Vin.iv.263.
 
 ## Notes

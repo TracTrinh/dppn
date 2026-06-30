@@ -5,7 +5,7 @@ base_headword: "Āsanupaṭṭhāyaka Thera"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsanupaṭṭhāyaka Thera. Một Arahant. 118 kappa trước, trong một đời trước, ngài đã cung cấp một chỗ ngồi (*sīhāsana*) cho Atthadassī Buddha và đã hầu hạ ngài. 107 kappa trước, ngài là một vị vua tên Sannibbāpakakhattiya (Ap.i.144). Ngài có lẽ đồng nhất với Ramaṇīyakuṭika Thera. Thag­a.i.132ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asamāhitasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asamāhitasutta. Like joins with like, e.g. the un-concentrated with the un-conc
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamāhitasutta. Đồng loại kết hợp với đồng loại, ví dụ người không định tĩnh với người không định tĩnh, do một tính chất căn bản nào đó (*dhātu*) chung cho cả hai. SN.ii.166.
 
 ## Notes

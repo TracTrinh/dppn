@@ -5,7 +5,7 @@ base_headword: "Arimanda"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arimanda. A city in which the Bodhisatta was born as the *Khattiya* <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arimanda. Một thành nơi Bodhisatta sinh ra làm *Khattiya* Vijatāvī vào thời Phussa Buddha. Bv­a.194.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asokārāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -44,6 +44,14 @@ It was from <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokārāma. Một tu viện ở Pāṭaliputta, do Asoka xây dựng và hoàn thành trong ba năm. Chính tại đó người em của nhà vua là Tissa được xuất gia. Khi các vị sư đã từ chối cử hành lễ *uposatha* trong bảy năm, Asoka phái vị đại thần của mình triệu họ đến Asokārāma. Tại đó vị đại thần lầm lạc đã chém đầu nhiều Trưởng lão từ chối tuân theo mệnh lệnh của ông. Chính tại đó Moggaliputtatissa tổ chức Đại Kết Tập lần thứ ba và thực hiện một sự biên tập Pháp (Mhv.v.80, 163, 174, 236, 276).
+
+Asoka thường cúng dường thức ăn cho 60,000 vị sư mỗi ngày tại Asokārāma.
+
+Vào ngày đặt nền móng Mahā Thūpa ở Anurādhapura, sáu mươi nghìn vị sư dưới sự dẫn đầu của Mittiṇṇa đến từ Asokārāma (Mhv.xxix.36). Tại đó cũng có Dhammarakkhita, thầy của Nāgasena, sinh sống (Mil.16-18).
+
+Indagutta Thera được nhà vua bổ nhiệm giám sát việc xây dựng *vihāra* (Vin-a.i.48-9).
+
+Chính từ Asokārāma mà Mahinda khởi hành trong sứ mạng của mình đến Ceylon (Vin-a.i.69).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Araja"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Araja. One of the palaces occupied by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araja. Một trong các cung điện mà Dhammadassī ở trước khi ngài thành Phật. Bv.xvi.14.
 
 ## Notes

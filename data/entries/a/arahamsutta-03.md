@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahaṁsutta 03. That noble disciple is released by perfect insight (*sammadañ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 03. Vị Thánh đệ tử ấy được giải thoát nhờ tuệ giác hoàn toàn (*sammadaññā*), người đã thật sự thấy sự thỏa mãn trong, sự khổ nơi, và sự thoát khỏi năm *indriyas*. SN.v.194.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asayha"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,6 @@ Asayha. A rich *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asayha. Một seṭṭhi giàu có ở Bheruva. Ông bố thí rộng rãi cho các bậc thánh thiện và người thiếu thốn. Sau khi chết, ông sinh vào Tāvatiṁsa. Một người hầu cũ của Aṅkura, người đã định cư làm thợ may ở Bheruva, thường chỉ đường cho những ai tìm nhà của Asayha, và vì thế được tái sinh làm một Yakkha đầy quyền lực (Pv-a.112). Trong các kệ Petavatthu, Asayha có một lần được nói đến với tên Aṅgīrasa (p.25, v.23).
 
 ## Notes

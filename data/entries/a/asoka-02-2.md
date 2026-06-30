@@ -5,7 +5,7 @@ base_headword: "Asokā"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asokā 02. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asokā 02. Một trong hai nữ đệ tử đứng đầu của Maṅgala Buddha. Bv.iv.24; Ja.i.34.
 
 ## Notes

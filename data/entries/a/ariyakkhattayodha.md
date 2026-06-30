@@ -5,7 +5,7 @@ base_headword: "Āriyakkhattayodhā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,8 @@ Geiger (Cv.Tra.ii.202, n.3) thinks that these mercenaries must have come from So
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āriyakkhattayodhā. Những lính đánh thuê được sử dụng ở Ceylon. Người đứng đầu họ là một tướng quân tên Ṭhakuraka. Khi *Senapāti* Mitta chiếm được ngai vàng, ông tìm cách lấy lòng những binh sĩ này bằng cách cho họ tiền. Họ từ chối nhận, và Ṭhakuraka, tiến đến chỗ Mitta khi ông đang ngồi trên ngai, chém đầu ông. Khi bị hỏi, ông nói rằng ông đã làm việc ấy theo lệnh của vị vua hợp pháp, Bhuvanekabāhu I., người đã trở thành một kẻ tị nạn. Sau đó các binh sĩ Āriya hợp lực với quân Sīhala và khôi phục Bhuvanekabāhu lên ngai vàng (Cv.xc.16-30).
+
+Geiger (Cv.Tra.ii.202, n.3) cho rằng những lính đánh thuê này hẳn đã đến từ Nam Ấn. Tuy nhiên, tên của tướng quân họ, Ṭhakuraka, dường như cho thấy họ là Rajput.
 
 ## Notes

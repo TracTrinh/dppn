@@ -5,7 +5,7 @@ base_headword: "Ārāmikagāma"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -30,6 +30,8 @@ It was near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmikagāma. Tên được đặt cho ngôi làng nơi năm trăm người giữ vườn sinh sống, những người được Bimbisāra giao cho Trưởng lão Pilindavaccha.
+
+Làng ấy ở gần Rājagaha và cũng được gọi là Pilindagāma. Pilindavaccha nương vào cư dân của làng này để khất thực. Vin.i.207-8; iii.249.
 
 ## Notes

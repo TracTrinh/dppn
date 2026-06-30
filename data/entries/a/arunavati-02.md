@@ -5,7 +5,7 @@ base_headword: "Aruṇavatī"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Aruṇavatī 02. A *vihāra* in the village of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇavatī 02. Một *vihāra* trong làng Itthakāvatī ở Magadha. Sāriputta từng sống ở đó (Pv-a.67).
 
 ## Notes

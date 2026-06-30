@@ -5,7 +5,7 @@ base_headword: "Arimaddavijayagāma"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Arimaddavijayagāma. A village and a tank. The <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arimaddavijayagāma. Một ngôi làng và một hồ chứa. Kênh Somavatī được Parakkamabāhu I. xây để nối Arimaddavijayagāma với hồ chứa Kaddūravaḍḍhamāna. Cv.lxxix.56.
 
 ## Notes

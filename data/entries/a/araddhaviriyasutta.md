@@ -5,7 +5,7 @@ base_headword: "Araddhaviriyasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Araddhaviriyasutta. A name given in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araddhaviriyasutta. Một tên được nêu trong Suttasaṅgaha (số 80) cho một *Sutta* trong Itivuttaka (p.115f.), được gọi trong Aṅguttara là Carasutta (*q.v.*).
 
 ## Notes

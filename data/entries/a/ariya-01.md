@@ -5,7 +5,7 @@ base_headword: "Ariya"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ariya 01. A country and people in South India. <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariya 01. Một xứ và một dân tộc ở Nam Ấn Độ. Palandīpa là một trong các phân khu của nó. Xứ này từng có một vị vua tên Vīradeva, người đã dẫn một đoàn viễn chinh chống lại Jayabāhu I. của Tích Lan (Cv.lxi.36f). Đây cũng là tên của một triều đại, triều đại Aryan của người Pāṇḍya (Paṇḍu) ở Nam Ấn Độ. Cv.lxiii.15; xem thêm Cv. trans. i.239, n.1.
 
 ## Notes

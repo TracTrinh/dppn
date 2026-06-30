@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Ariṭṭha 05. Son of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 05. Con trai của vua Nāga, Dhataraṭṭha. Xem Kāṇāriṭṭha.
 
 ## Notes

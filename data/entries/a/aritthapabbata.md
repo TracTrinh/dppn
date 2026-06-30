@@ -5,7 +5,7 @@ base_headword: "Ariṭṭhapabbata"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -41,6 +41,12 @@ At the present day the place is extremely rich in ruins. See Hocart: *Memoirs of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭhapabbata. Một ngọn núi ở Tích Lan, nằm giữa đường từ Anurādhapura đến Pulatthipuva. Nó được đồng nhất với Riṭigala ngày nay, và ở gần Habarane hiện đại trong North-Central Province (Mhv.trans.72, n.3). Paṇḍukābhaya sống ở đó trong bảy năm, chờ cơ hội gây chiến với các chú của mình, và chính gần nơi ấy ông cuối cùng đã đánh bại họ (Mhv.x.63-72). Dưới chân núi, Sūratissa xây Makulaka *Vihāra* (Mhv.xxi.6). Lañjatissa xây một *vihāra* trên núi và gọi nó là Ariṭṭha *Vihāra* (Mhv.xxxiii.27).
+
+Jeṭṭhatissa chiếm ngọn núi trước cuộc chiến với Aggabodhi III., và chính tại đó ông tổ chức lực lượng của mình (Cv.xliv.86).
+
+Sena I. xây một tu viện trên núi để các Paṁsukūlikas sử dụng và cấp cho nó nguồn lợi tức lớn (Cv.l.63).
+
+Ngày nay nơi này cực kỳ phong phú về di tích đổ nát. Xem Hocart: *Memoirs of the Arch. Survey of Ceylon* i.44.
 
 ## Notes

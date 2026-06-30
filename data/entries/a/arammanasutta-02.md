@@ -5,7 +5,7 @@ base_headword: "Ārammaṇasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārammaṇasutta 02. Một số người thiện xảo về đối tượng của định nhưng không thiện xảo về phạm vi của định, v.v. (như trước.) SN.iii.275.
 
 ## Notes

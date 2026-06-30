@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "07"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -27,6 +27,6 @@ Asoka 07. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 07. Một vị sư ở Ñātikā. Một lần, khi Đức Phật đang ở Ñātikā trong Giñjakāvasatha, Ānanda thưa với Đức Phật rằng Asoka Thera đã qua đời, và hỏi vị ấy đã đi về đâu. Đức Phật nói với ông rằng Asoka là một *Arahant* và đã chứng ngộ *Nibbāna*. SN.i.358.
 
 ## Notes

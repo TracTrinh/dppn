@@ -5,7 +5,7 @@ base_headword: "Arahaṁsutta"
 disambiguator: "04"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahaṁsutta 04. The monk who has really seen the arising, the perishing, etc.,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahaṃsutta 04. Vị tỳ-kheo đã thật sự thấy sự sinh khởi, sự hoại diệt, v.v., như trên (SN.v.194).
 
 ## Notes

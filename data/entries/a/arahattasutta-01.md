@@ -5,7 +5,7 @@ base_headword: "Arahattasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arahattasutta 01. Records a conversation between the *Paribbājaka* <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahattasutta 01. Ghi lại một cuộc đối thoại giữa *Paribbājaka* Jambukhādaka và Sāriputta. “Quả vị *Arahant* là gì?” “Sự đoạn diệt tham, sân và si.” “Và con đường dẫn đến đó?” “Bát Thánh đạo.” SN.iv.252.
 
 ## Notes

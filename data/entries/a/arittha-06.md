@@ -5,7 +5,7 @@ base_headword: "Ariṭṭha"
 disambiguator: "06"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Ariṭṭha 06. A messenger of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭha 06. Một sứ giả của Vessavaṇa, được ông dùng để mang các tuyên cáo của mình đi công bố. DN.iii.201.
 
 ## Notes

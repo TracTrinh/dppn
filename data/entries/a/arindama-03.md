@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arindama 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 03. Vua xứ Uttara. Khi Revata Buddha viếng thành của ông, nhà vua đến yết kiến Ngài, cùng với ba crore người. Ngày hôm sau, một cuộc đại bố thí được tổ chức cho Đức Phật và các tu sĩ, đồng thời có một lễ hội ánh sáng bao phủ một vùng rộng ba do-tuần. Đức Phật thuyết pháp cho hội chúng, và một nghìn crore người chứng ngộ Chân lý. Bv.vi.4; Bv­a.133.
 
 ## Notes

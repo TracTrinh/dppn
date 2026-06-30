@@ -5,7 +5,7 @@ base_headword: "Asallakkhaṇāsutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asallakkhaṇāsutta. Preached to the *Paribbājaka* <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asallakkhaṇāsutta. Được thuyết cho *Paribbājaka* Vacchagotta. Do thiếu sự nhận rõ bản chất của thân, v.v., những quan điểm khác nhau phát sinh trong thế gian. SN.iii.261.
 
 ## Notes

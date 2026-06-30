@@ -5,7 +5,7 @@ base_headword: "Aputtakasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Aputtakasutta 02. Contains an account of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aputtakasutta 02. Chứa một tường thuật về quá khứ của Aputtaka; tài sản mà một người tích trữ ở đây phải để lại cho người khác; vì vậy, hãy tạo một kho tích lũy tốt cho đời sống ở nơi khác bằng cách sử dụng tài sản này một cách đúng đắn. SN.i.91-3.
 
 ## Notes

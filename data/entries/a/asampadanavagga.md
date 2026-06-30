@@ -5,7 +5,7 @@ base_headword: "Asampadānavagga"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asampadānavagga. The fourteenth section of the *Ekanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asampadānavagga. Phẩm thứ mười bốn của Ekanipāta trong Jātaka Commentary. Ja.i.465-86.
 
 ## Notes

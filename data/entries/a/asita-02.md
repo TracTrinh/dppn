@@ -5,7 +5,7 @@ base_headword: "Asita"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -25,6 +25,6 @@ Asita 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asita 02. Một Pacceka Buddha, được nhắc đến trong một danh sách các Pacceka Buddhas (MN.iii.70; Ap­a.i.107).
 
 ## Notes

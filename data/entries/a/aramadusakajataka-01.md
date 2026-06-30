@@ -5,7 +5,7 @@ base_headword: "Ārāmadūsakajātaka"
 disambiguator: "01"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -28,6 +28,8 @@ The story was told by the Buddha while staying in a hamlet in <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārāmadūsakajātaka 01. (Ja 46). Một lần tại Benares có lễ hội và toàn thể dân thành tụ họp để vui chơi. Người làm vườn của vua, muốn tham dự lễ hội, đến gặp vua khỉ sống trong vườn thượng uyển và, sau khi chỉ cho nó thấy tất cả lợi ích mà bầy khỉ đã nhận được nhờ cư trú ở đó, hỏi liệu nó có thể khiến bầy khỉ tưới cây trong lúc người làm vườn vắng mặt không. Vua khỉ đồng ý, và khi người ấy đã đi, nó phân phát các túi nước và bình nước cho bầy khỉ. Để nước khỏi bị lãng phí, nó dặn bầy khỉ phải nhổ cây lên cả rễ và tưới nhiều nước cho những cây có rễ ăn sâu, còn tưới ít cho những cây có rễ nhỏ. Một người trí tình cờ thấy việc ấy đang diễn ra, và suy xét rằng dù có mọi ý muốn làm điều tốt, kẻ ngu chỉ thành công trong việc gây hại, bèn quở trách vua khỉ.
+
+Câu chuyện được Đức Phật kể khi Ngài đang ở trong một thôn nhỏ tại Kosala. Vị địa chủ của làng thỉnh Đức Phật và các vị tỳ-kheo của Ngài đến dùng bữa, và sau bữa ăn cho phép các ngài đi dạo trong khu vườn. Trong lúc đi dạo, các tỳ-kheo gặp một khoảnh đất trơ trụi và biết từ người làm vườn rằng đó là do một cậu bé được giao tưới cây ở đó gây ra; trước khi tưới, cậu đã nhổ chúng lên để xem chúng mọc thế nào. Việc này được trình lên Đức Phật, và Ngài kể câu chuyện quá khứ. Ja.i.249-51. Câu chuyện được chạm khắc trên *Bharhut Stūpa*: Xem Cunningham, Pl.xlv.5.
 
 ## Notes

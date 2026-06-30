@@ -5,7 +5,7 @@ base_headword: "Assaji"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -30,6 +30,6 @@ Assaji 02. One of the leaders of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Assaji 02. Một trong những người đứng đầu nhóm Assaji-Punabbasukā (*q.v.*), người kia là Punabbasu. Ông là một trong các Chabbaggiyā, những người khác là Mettiya, Bhummajaka, Paṇḍuka và Lohitaka. Ja.ii.387; MN­a.ii.668.
 
 ## Notes

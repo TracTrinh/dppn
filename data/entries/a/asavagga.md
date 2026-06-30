@@ -5,7 +5,7 @@ base_headword: "Āsāvagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsāvagga. Chương thứ mười một của Ekanipāta trong Aṅguttaranikāya (AN.i.86-8). Chương này gồm mười hai Sutta về nhiều chủ đề khác nhau.
 
 ## Notes

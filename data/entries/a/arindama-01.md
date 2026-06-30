@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -44,6 +44,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 01. (*v.l.* Arindamaka). Bodhisatta, sinh làm vua Benares và là con trai của vua Magadha ở Rājagaha. Vào thời Sikhī Buddha, ông tổ chức một cuộc đại bố thí cho Đức Phật và các tu sĩ của Ngài; ông dâng cho Tăng đoàn một con voi được trang sức đầy đủ, rồi chuộc lại bằng cách trao các phẩm vật thích hợp chất cao bằng một con voi (Ja.i.41; Bv.xxi.9). Ông có người bạn là con trai vị giáo sĩ cung đình, Soṇaka. Cả hai cùng học ở Takkasilā, và khi học xong, họ đi khắp nơi để tìm kinh nghiệm. Trong chuyến đi ấy, Arindama được chọn để kế vị vua Benares vừa mất mà không có con, còn Soṇaka trở thành một Pacceka Buddha. Bốn mươi năm sau, Arindama muốn gặp Soṇaka, nhưng không ai có thể cho ông biết Soṇaka ở đâu, dù ông treo một phần thưởng lớn. Mười năm sau, Soṇaka gặp nhà vua nhờ sự giúp đỡ của một cậu bé bảy tuổi, thuộc hậu cung và đã học một bài hát do nhà vua sáng tác, bày tỏ mong muốn gặp Soṇaka. Tuy nhiên, trong cuộc gặp, nhà vua không nhận ra ông. Soṇaka, không tiết lộ thân phận của mình, nói với nhà vua về niềm vui của sự xuất ly, rồi biến mất qua không trung. Nhà vua xúc động trước lời nói của ông, quyết định từ bỏ ngai vàng và theo đời sống khổ hạnh. Ông lập con trai trưởng Dīghāvu làm vua thay mình, giao lại cho con tất cả tài sản, và sau khi phát triển các thần thông, được sinh vào cõi *Brahma* (Ja.v.247-61).
+
+Arindama được nhắc cùng với Mahā Janaka như một ví dụ về vị vua đã từ bỏ một vương quốc hùng mạnh để sống đời ẩn sĩ (Ja.iii.489). Câu chuyện cũng xuất hiện trong *Mahā Vastu* (iii.449ff), nhưng các chi tiết được nêu khác với bản Jātaka. Ở đó, Arindama được nói là vua Mithilā.
+
+Trong cả hai bản tường thuật, mẹ của Dīghāvu, chánh hậu của nhà vua, được nói là đã mất trước khi nhà vua xuất ly.
+
+Theo Buddhavaṁsa Commentary (Bv­a.203), kinh đô của Arindama là Paribhuttanagara.
 
 ## Notes

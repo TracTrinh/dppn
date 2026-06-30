@@ -5,7 +5,7 @@ base_headword: "Ariyālaṅkāra"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -33,6 +33,8 @@ The two others do not seem to have written any works which have been preserved.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyālaṅkāra. Có bốn vị Thera mang tên này ở Burma, tất cả đều nổi tiếng về học vấn Pāli. Vị thứ nhất (Ariyālaṅkāra của Ava) xuất sắc trong *dhātupaccayavibhāga*, tức là một nhà ngữ pháp thành tựu (Sās.p.106-12). Đệ tử của ngài, Ariyālaṅkāra trẻ hơn, được cho là tác giả các tác phẩm chú giải về Atthasālinī, Saṅkhepavaṇṇanā, Abhidhammatthavibhāvanī và Vibhaṅga. Ngài cũng viết một *ṭīkā* bằng Pāli gọi là Sāraṭṭhavikāsinī về Kaccāyanabheda, và soạn bằng tiếng Burmese một tác phẩm tương đương với một bản hiệu đính văn phạm của Kaccāyana (Sās.p.110-11; Bode, 52-3).
+
+Hai vị còn lại dường như không viết tác phẩm nào còn được bảo tồn.
 
 ## Notes

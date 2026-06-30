@@ -5,7 +5,7 @@ base_headword: "Ariyagālatissa"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -55,6 +55,12 @@ As <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyagālatissa. Con trai của Mahā Dhanadeva, ở Mahā Gāma. Khi còn nhỏ, ông được gọi là Keḷiyatissa, vì ông thích chơi đùa. Về sau ông gia nhập Tăng đoàn. Sau năm năm không thỏa mãn, ông bỏ y và bơi xuôi theo một con sông. Hai phụ nữ đang tắm trông thấy ông và cả hai đều nhận ông là của mình. Khi thấy ông trần truồng, một người đi lấy quần áo; người kia trao cho ông nửa tấm y của mình, đưa ông về với cha mẹ nàng và cưới ông. Người vợ là Sumanā. Vì ông được tìm thấy trong sông, ông được gọi là Gaṅgatissa; nhưng vì ông lười biếng, họ gọi ông là Nikkammatissa. Người nhà của Sumanā phàn nàn về ông và đuổi hai người đi. Tissa tìm việc dưới quyền một vị trưởng làng, Candasuriya, bạn của Mahā Dhanadeva, và gặt rồi đập một cánh đồng 500 *karīsa* trong một ngày. Candasuriya, kinh ngạc trước sức mạnh của ông, trao cho ông toàn bộ thóc.
+
+Sau đó, Tissa và vợ hằng ngày cúng dường vật thực cho tám vị tỳ-kheo, nhưng vì bữa ăn của ông không ngon, các vị tỳ-kheo gọi ông là Udakaloṇatissa. Khi biết điều này, ông cúng dường các vị ấy cơm sữa và được gọi là Khīrabhattatissa. Về sau ông cúng dường cơm trộn bơ lỏng và tên ông trở thành Kalyāṇabhattatissa. Theo thời gian, ông nuôi 500 vị tỳ-kheo mỗi ngày. Một hôm, trong khi tìm củ ở Kumbulapabbata, ông phát hiện 60 kho báu và đem chúng về nhà. Về sau ông cúng dường vật thực cho nhiều ngàn tỳ-kheo ở Cetiyambavihāra, Anurādhapura và Nāgadīpa, và sống tại Ariyagālatittha như một người lái đò, đưa người qua sông miễn phí. Sakka, muốn thử ông, đến trong hình dáng một Bà-la-môn già và, sau khi thử lòng kiên nhẫn của ông, chất đầy nhà ông bằng các vật quý và cho ông một ruộng lúa.
+
+Một lần, tại Piyaṅgudīpa nảy sinh một cuộc thảo luận về nơi có thể tìm thấy những người mộ đạo nhất. Satisambodhi Thera nói rằng họ ở Ceylon, còn Yonakarājaputta Mahā Buddharakkhita nói rằng họ ở Yonakaraṭṭha. Để kiểm chứng điều này, Satisambodhi đến nhà của Tissa. Vợ ông, sau khi cúng dường vật thực cho 12,000 vị tỳ-kheo, đang nghỉ, nhưng khi thấy vị Trưởng lão, bà chuẩn bị cho ngài một bát *catumadhura*. Ngài bảo bà ném bát ấy lên không trung. Nó bay đến Piyaṅgudīpa, và Sumanā thấy các vị tỳ-kheo khi họ ăn những thứ trong bát.
+
+Khi Tissa nằm hấp hối, chư thiên đem đến cho ông những cỗ xe từ sáu cõi *Deva*; ông chọn được sinh vào Tusita. Vợ ông, biết ý nguyện của ông, lui vào phòng mình và chết trước ông. Cả hai đều sinh vào Tusita. Trong một đời trước, Tissa từng ở Chagāma và tôn kính cây Bodhi ở đó. Ras.ii.34f.
 
 ## Notes

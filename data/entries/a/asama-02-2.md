@@ -5,7 +5,7 @@ base_headword: "Asamā"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asamā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asamā 02. Mẹ của Paduma Buddha và vợ của vua Asama. Bv.ix.16; Ja.i.36.
 
 ## Notes

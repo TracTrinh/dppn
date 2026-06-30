@@ -5,7 +5,7 @@ base_headword: "Arahattavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Arahattavagga 01. The eighth section of the *Chakkanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahattavagga 01. Phẩm thứ tám của *Chakkanipāta* thuộc Aṅguttaranikāya. Phẩm này bàn về sáu phẩm chất để chứng ngộ quả vị *Arahant* và để sống trong sự an tịnh hoàn toàn. AN.iii.429-34.
 
 ## Notes

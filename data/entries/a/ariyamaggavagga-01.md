@@ -5,7 +5,7 @@ base_headword: "Ariyamaggavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ariyamaggavagga 01. The fifteenth chapter of the *Dasakanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyamaggavagga 01. Chương thứ mười lăm của *Dasakanipāta* thuộc Aṅguttaranikāya (AN.v.244-7). Chương này gồm mười *Sutta* về chánh kiến và tà kiến cùng chuỗi hệ quả của chúng.
 
 ## Notes

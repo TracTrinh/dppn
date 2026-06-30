@@ -5,7 +5,7 @@ base_headword: "Ariṭṭhapura"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -28,6 +28,6 @@ Ariṭṭhapura. A city in the kingdom of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariṭṭhapura. Một thành trong vương quốc Sivi, nơi vua Sivi trị vì (Ja.iv.401). Đây cũng là nơi sinh của Ummadantī (Ja.v.212). Nó nằm trên đường từ Mithilā đến Pañcāla. Ja.vi.419.
 
 ## Notes

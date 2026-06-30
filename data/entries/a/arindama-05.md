@@ -5,7 +5,7 @@ base_headword: "Arindama"
 disambiguator: "05"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Arindama 05. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arindama 05. Vua Haṁsavatī. Khi nhà vua, do bất cẩn, đã mất của cải, vị *seṭṭhi* của ông (Jatukaṇṇika trong một đời trước) bù đắp sự mất mát bằng cách trao cho ông bảy loại châu báu. Ap.ii.360.
 
 ## Notes

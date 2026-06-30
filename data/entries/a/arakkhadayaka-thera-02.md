@@ -5,7 +5,7 @@ base_headword: "Ārakkhadāyaka Thera"
 disambiguator: "02"
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/019.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ārakkhadāyaka Thera 02. Một *Arahant*. Ngài đặt một hàng rào quanh *Thūpa* của Buddha Dhammadinna và sắp đặt việc bảo vệ tháp ấy. Hành động này đưa đến việc ngài trở thành một *Arahant* trong thời đại hiện tại. Ap.i.253.
 
 ## Notes

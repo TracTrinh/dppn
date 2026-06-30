@@ -5,7 +5,7 @@ base_headword: "Aruṇapura"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -27,6 +27,6 @@ Aruṇapura. A city in the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Aruṇapura. Một thành phố vào thời Sikhī Buddha. Ambapālī sinh tại đó trong một gia đình Bà-la-môn (Ap.ii.613; Thīg­a.i.213). Có lẽ nó đồng nhất với Aruṇavatī.
 
 ## Notes

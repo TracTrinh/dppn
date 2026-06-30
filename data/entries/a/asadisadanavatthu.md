@@ -5,7 +5,7 @@ base_headword: "Asadisadānavatthu"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -28,6 +28,6 @@ Asadisadānavatthu. The story of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asadisadānavatthu. Câu chuyện về Asadisadāna (1) và phần tiếp theo của nó, câu chuyện về hai vị đại thần của Pasenadi là Kāḷa và Juṇha. Xem Kāḷa.
 
 ## Notes

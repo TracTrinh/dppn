@@ -5,7 +5,7 @@ base_headword: "Āsiṁsavagga"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsiṁsavagga. Phần thứ sáu của *Ekanipāta* thuộc Jātaka Commentary. Ja.i.261-84.
 
 ## Notes

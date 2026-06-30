@@ -5,7 +5,7 @@ base_headword: "Ariyasutta"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Ariyasutta 01. The seven *bojjhaṅgas*, if cultivated, lead to the Ariyan quali
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyasutta 01. Bảy *bojjhaṅga*, nếu được tu tập, dẫn đến các phẩm chất thuộc bậc Thánh đưa đến giải thoát (*ariyāniyyānikā*). SN.v.82.
 
 ## Notes

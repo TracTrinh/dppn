@@ -5,7 +5,7 @@ base_headword: "Asitābhujātaka"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -37,6 +37,12 @@ The story is referred to in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asitābhujātaka (Ja 234). Bodhisatta từng là một nhà khổ hạnh thánh thiện sống trong Himālaya. Vào thời ấy, vua xứ Benares, vì sinh lòng ghen ghét con trai mình là Hoàng tử Brahmadatta, đã đày cả chàng và vợ chàng là Asitābhū. Họ đi đến Himālaya và sống trong một túp lều lá. Một ngày nọ, hoàng tử say mê một Candakinnarī và đi theo nàng, bỏ rơi vợ mình (tên của *kinnarī* là Candā, xem Candā (9). Asitābhū đến gặp Bodhisatta và, sau khi phát triển nhiều năng lực siêu phàm khác nhau, trở về túp lều của mình. Brahmadatta, sau khi không đạt được điều mình tìm kiếm, trở về túp lều, nơi chàng thấy vợ mình lơ lửng giữa không trung, hát những khúc ca vui mừng về sự tự do mới tìm được. Khi nàng rời đi, chàng sống trong cô độc cho đến khi cha chàng qua đời, chàng kế vị ngai vàng.
+
+Câu chuyện được kể liên quan đến một thiếu nữ, con gái của một người hầu của hai vị thượng thủ đệ tử. Nàng đã kết hôn, nhưng thấy chồng lơ là với mình, nàng đến thăm hai vị thượng thủ đệ tử. Dưới sự hướng dẫn của các ngài, nàng chứng Quả đầu tiên của Đạo và xuất gia, cuối cùng trở thành một *Arahant*.
+
+Nàng là Asitābhū trong đời trước (Ja.ii.229ff).
+
+Câu chuyện được nhắc đến trong Vibhaṅga Commentary (p.470f) liên quan đến một vị vua xứ Benares, người đã vào rừng với hoàng hậu của mình để ăn thịt nướng, rồi phải lòng một *kinnarī* và bỏ rơi vợ. Khi ông trở lại với hoàng hậu, ông thấy bà bay qua không trung rời xa ông, sau khi đã phát triển các năng lực *iddhi*. Một thần cây sau đó thốt lên một bài kệ, nêu ví dụ của Asitābhū.
 
 ## Notes

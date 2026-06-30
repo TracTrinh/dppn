@@ -5,7 +5,7 @@ base_headword: "Āsā"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -38,6 +38,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsā. Con gái của Sakka. Một lần, khi Nārada đang trên đường đến Kañcanaguhā, nơi ông cư trú và nằm ở đầu Manosilātala, ông cầm trong tay một hoa Pāricchattaka; bốn người con gái của Sakka - Āsā, Saddhā, Siri và Hirī - đang ở Manosilātala, nghỉ ngơi sau những cuộc vui chơi tại Anotatta, khi thấy ông, đã xin ông bông hoa ấy. Ông nói sẽ trao nó cho người trong số họ mà họ chọn làm nữ vương của mình. Chính ông được yêu cầu chọn nữ vương, nhưng ông chuyển việc ấy cho Sakka; đến lượt mình, Sakka sai họ đến gặp ẩn sĩ Macchariya Kosiya ở Himālaya. Sakka gửi trước cho ẩn sĩ một chén cam lộ và nói với các con gái rằng người trong số họ được Kosiya chia sẻ cam lộ của ông sẽ được xem là người tốt nhất. Khi họ xuất hiện trước Kosiya, ông hỏi tên họ, và chọn Hirī cho vinh dự được cùng dùng bữa với ông. Khi từ chối Āsā, Kosiya nói: “Người ta bảo ta rằng ai làm vừa lòng nàng thì nàng, bằng cách hoàn thành thành quả của hy vọng, ban cho người ấy sự sống; ai không làm vừa lòng nàng thì nàng không ban cho người ấy điều đó. Trong trường hợp này, thành công không đến với người ấy qua nàng, mà nàng gây ra sự hủy hoại của người ấy.” Ông nói với hai người kia bằng những lời tương tự. Câu chuyện xuất hiện trong Sudhābhojanajātaka. Ja.v.392ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ariyavāsasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -24,6 +24,6 @@ Ariyavāsasutta. The ten dwellings of Ariyans, past, present and future. AN.v.29
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyavāsasutta. Mười trú xứ của các bậc Thánh, quá khứ, hiện tại và tương lai. AN.v.29.
 
 ## Notes

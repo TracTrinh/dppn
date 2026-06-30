@@ -5,7 +5,7 @@ base_headword: "Asita"
 disambiguator: "03"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asita 03. A garland-maker in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asita 03. Một người làm vòng hoa vào thời Sikhī Buddha. Khi đang mang một vòng hoa đến cung điện, ông thấy Đức Phật và dâng nó lên Ngài. Do kết quả ấy, hai mươi lăm *kappa* trước ông trở thành một vị vua tên Dvebhāra. Trong thời hiện tại ông được biết đến là Sukatāveḷiya Thera (Ap.i.217).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Āsavānaṁ khayasutta"
 disambiguator: ""
 letter: "A"
 section: "Ā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/020.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Āsavānaṁ khayasutta. Bằng cách tu tập năm indriya (*saddhā*, v.v.), một vị sư ngay trong đời này chứng ngộ sự giải thoát bằng tuệ giác, không có các āsava. SN.v.203.
 
 ## Notes

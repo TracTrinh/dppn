@@ -5,7 +5,7 @@ base_headword: "Ariyasutta"
 disambiguator: "02"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Ariyasutta 02. The four *satipaṭṭhāna*s, if cultivated, lead to the utter d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ariyasutta 02. Bốn *satipaṭṭhāna*, nếu được tu tập, dẫn đến sự đoạn diệt hoàn toàn khổ đau. SN.v.166.
 
 ## Notes

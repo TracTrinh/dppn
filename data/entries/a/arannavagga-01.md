@@ -5,7 +5,7 @@ base_headword: "Araññavagga"
 disambiguator: "01"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Araññavagga 01. The third section of the *Tikanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Araññavagga 01. Phần thứ ba của *Tikanipāta* thuộc Jātaka Commentary (Ja.ii.354ff).
 
 ## Notes

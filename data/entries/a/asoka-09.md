@@ -5,7 +5,7 @@ base_headword: "Asoka"
 disambiguator: "09"
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -26,6 +26,6 @@ Asoka 09. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asoka 09. Một ngọn núi gần Himavā. Tại đó, vào thời Sumedha Buddha, Vissakamma xây một ẩn thất. Ap.ii.342.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asadisadāna"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -36,6 +36,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asadisadāna. Cuộc bố thí nổi tiếng mà Pasenadi, dưới sự hướng dẫn và khích lệ của Mallikā, đã tổ chức nhằm vượt hơn dân chúng của ông về lòng rộng rãi đối với Đức Phật và Saṅgha. Cuộc bố thí diễn ra với vẻ huy hoàng vô song: các thiếu nữ *Khattiya* quạt cho các vị tỳ-kheo, trong khi voi cầm những lọng trắng che trên họ, và những thuyền vàng chứa đầy hương liệu cùng hoa được đặt trong ngôi đình rực rỡ nơi các vị tỳ-kheo được cúng dường thức ăn.
+
+Bốn vật cúng dường vô giá được dâng lên Đức Phật: một lọng trắng, một chiếc giường để nghỉ, một giá đỡ và một ghế kê chân.
+
+Những vật cúng dường này về sau không bao giờ được ai khác sánh bằng; mỗi vị Phật chỉ nhận những vật cúng dường này một lần trong đời (DN­a.ii.653-4; Dhp­a.iii.183-6).
+
+Ādittajātaka (Ja 424), Dasabrāhmaṇajātaka (Ja 495) và Sivijātaka (Ja 499) đều được thuyết liên quan đến Asadisadāna.
 
 ## Notes

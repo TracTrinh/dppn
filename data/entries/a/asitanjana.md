@@ -5,7 +5,7 @@ base_headword: "Asitañjana"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -32,6 +32,8 @@ It was also the birthplace of the two merchants <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asitañjana. Một thành phố trong quận Kaṁsa ở Uttarāpatha và là kinh đô của Vua Mahā Kaṁsa và Andhakaveṇhudāsaputta (Ja.iv.79; Pv-a.111).
+
+Đó cũng là nơi sinh của hai thương nhân Tapassu và Bhalluka. AN­a.i.207.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Arahantasutta"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/017.html"
@@ -23,6 +23,6 @@ Arahantasutta. Of all the forms of becoming, the *Arahants* have the best in all
 
 ## Vietnamese translation
 
-Chưa dịch.
+Arahantasutta. Trong tất cả các hình thái hiện hữu, các *Arahants* có điều tốt đẹp nhất trong tất cả các thế giới. Họ đạt được điều này nhờ chánh kiến đối với các *saṅkhāras* (SN.iii.82-4).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Asaṅkhatasuttas"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/018.html"
@@ -24,6 +24,6 @@ Asaṅkhatasuttas. A group of *Suttas* describing the way to the uncompounded (*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asaṅkhatasuttas. Một nhóm các Sutta mô tả con đường đưa đến cái vô vi (*asaṅkhata*). SN.iv.362ff.
 
 ## Notes
