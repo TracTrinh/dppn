@@ -5,7 +5,7 @@ base_headword: "Abhayattherī"
 disambiguator: ""
 letter: "A"
 section: "Ap-Ah."
-status: "redirect"
+status: "draft"
 redirect_to: "abhaya-01"
 source:
   epub_file: "Ops/017.html"
@@ -25,6 +25,6 @@ Abhayattherī. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abhayattherī. Xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Abhayā</span>.
 
 ## Notes
