@@ -24,6 +24,6 @@ Abbhahattha. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Abbhahattha. Xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambahattha</span>.
 
 ## Notes
