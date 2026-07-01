@@ -5,7 +5,7 @@ base_headword: "Ekāpassita"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekāpassita. Sixty-two *kappas* ago there were three kings of this name, all pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekāpassita. Sáu mươi hai *kappa* trước, có ba vị vua mang tên này, tất cả đều là tiền thân của Ālambanadāyaka Thera. Ap.i.213.
 
 ## Notes

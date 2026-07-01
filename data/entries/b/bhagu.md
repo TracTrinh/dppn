@@ -5,7 +5,7 @@ base_headword: "Bhagu"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhagu. A famous sage (*Isi*) of old (Vin.i.245; DN.i.104, 238, 243; MN.ii. 169, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhagu. Một đạo sĩ (*Isi*) danh tiếng thời xưa (Vin.i.245; DN.i.104, 238, 243; MN.ii. 169, 200; AN.iii.224; AN.iv.61). Ông là một trong những đạo sư đã sáng tác các bài kệ chú kết hợp với giáo lý của Kassapa Buddha. DN­a.i.273, v.v.
 
 ## Notes

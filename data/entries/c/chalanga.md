@@ -5,7 +5,7 @@ base_headword: "Chalaṅga"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -29,6 +29,8 @@ He had one thousand eight hundred pupils with whose assistance he built a bridge
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chalaṅga. Một vị Bà-la-môn của Haṁsavatī.
+
+Ông có một ngàn tám trăm đệ tử và với sự giúp đỡ của họ, ông đã xây dựng một cây cầu bắc qua sông Bhagīrathī cho Đức Phật Padumuttara và các đệ tử của ngài. Ông là một tiền kiếp của Dhotaka Thera. Ap.ii.344.
 
 ## Notes

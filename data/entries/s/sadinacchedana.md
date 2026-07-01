@@ -5,7 +5,7 @@ base_headword: "Sadinacchedana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sadinacchedana. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sadinacchedana. *v.l.* Sarītacchedana. Một Cakkavatti của tám mươi bảy *kappa* về trước; một tiền kiếp của Trưởng lão Māṇava (Sammukhāthavika). Ap.i.159; Thag­a.i.163.
 
 ## Notes

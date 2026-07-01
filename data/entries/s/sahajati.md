@@ -5,7 +5,7 @@ base_headword: "Sahajāti"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -47,6 +47,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahajāti, Sahajātā. Một thị trấn nơi Yasa Kākaṇḍakaputta gặp Soreyya Revata, người mà ông muốn tham khảo ý kiến về Mười Điểm do các Vajjiputtaka đưa ra. Revata đã đi đến đó từ Soreyya, và Yasa đi theo ông, đi qua Saṅkassa, Kaṇṇakujja, Udumbara và Aggaḷapura. Sahajāti nằm trên dòng sông (Ganges?), và các Vajjiputtaka đã đi thuyền từ Vesālī đến đó. Vin.ii.299f., 301; Mhv.iv.23-8.
+
+Trong Aṅguttaranikāya, Sahajāti được mô tả là một *nigama* của dân Ceti, và Mahā Cunda được nhắc đến là đã lưu trú tại đó và thuyết ba bài pháp (AN.iii.355; v.41, 157).
+
+Theo Saṁyutta, Gavampati cũng từng sống ở đó một thời gian. SN.v.436; văn bản nói là Sahañcanika, nhưng để có cách đọc chính xác, hãy xem KS.v.369, n.3.
 
 ## Notes

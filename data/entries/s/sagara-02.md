@@ -5,7 +5,7 @@ base_headword: "Sāgara"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sāgara 02. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara 02. Một người *Khattiya*, cha của Atthadassī Buddha và là chồng của Sudassanā. Ông sống ở Sobhana (Bv.xv.14; Ja.i.39). Apadāna (Ap.i.153; cf. Thag­a.i.153) có đề cập đến một vị tỳ-kheo, tên là Sāgara, một đệ tử của Atthadassī Buddha, người tiếp tục sống sau khi Đức Phật viên tịch. Hai người này có thể là một.
 
 ## Notes

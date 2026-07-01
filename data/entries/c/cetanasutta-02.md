@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 02. Same as above, with “name­and-form” substituted for rebirt
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 02. Giống như trên, với "danh-sắc" được thay thế cho sự tái sanh, và các chi phần khác của *paticcasamuppāda* tiếp nối từ đó. SN.ii.66.
 
 ## Notes

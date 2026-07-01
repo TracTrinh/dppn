@@ -5,7 +5,7 @@ base_headword: "Chalaṅgakumāra"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -29,6 +29,6 @@ Chalaṅgakumāra. A general sent by the king of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chalaṅgakumāra. Một vị tướng được vua xứ Benares cử đi để hướng dẫn Eḷakamāra về binh pháp; sau đó ông đã trở thành tổng tư lệnh của Eḷakamāra. Vợ của Eḷakamāra đã có hành vi gian díu với Chalaṅgakumāra và cả với người hầu của ông là Dhanantevāsī. Kuṇāla đã nói rằng chính ông từng là Chalaṅgakumāra và do đó, ông là một hiện thân của Đức Phật. Ja.v.425, 430.
 
 ## Notes

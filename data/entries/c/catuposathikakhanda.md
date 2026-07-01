@@ -5,7 +5,7 @@ base_headword: "Catuposathikakhaṇḍa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ It relates how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catuposathikakhaṇḍa. Phần đầu tiên của Vidhurapaṇḍitajātaka (Ja 545).
+
+Nó kể lại cách Sakka, vua Nāga, vua *Garuḷa*, và Dhanañjaya Koravya, đã thực hành nhiều đức hạnh khác nhau và yêu cầu Vidhura đánh giá về sự tốt lành tương ứng của họ. Ja.vi.262.
 
 ## Notes

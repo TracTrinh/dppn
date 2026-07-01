@@ -5,7 +5,7 @@ base_headword: "Bhallatittha"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhallatittha. A landing place in Ceylon where <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallatittha. Một bến đổ bộ ở Ceylon, nơi Abhayanāga từng sinh sống. Mhv.xxxvi.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhāsutta 03. The perfect monk is he who has faith, virtue, learning, is mast
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 03. Vị tỳ-kheo hoàn hảo là người có đức tin, giới hạnh, sự học hỏi, là bậc thầy về Pháp, nhập vào các *jhāna*, v.v. AN.iv.314.
 
 ## Notes

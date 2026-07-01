@@ -5,7 +5,7 @@ base_headword: "Cetā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Cetā 02. The people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetā 02. Người dân của xứ Cetiya. Ja.i.256; vi.516.
 
 ## Notes

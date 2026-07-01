@@ -5,7 +5,7 @@ base_headword: "Bhañña"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ The Commentaries (AN­a.ii.497; MN­a.ii.894; SN­a.ii.201 says, *dve pi te mūl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhañña. Từ này xuất hiện trong từ ghép Ukkalāvassabhaññā (Okkalā vassabhaññā) (SN.iii.73; MN.iii.78; AN.ii.31), một nhóm được miêu tả là *ahetuvādā*, *akiriyavādā*, *natthikavāda*, nhưng, dù vậy, họ đã đồng ý rằng các *khandha* có thể được phân chia thành quá khứ, hiện tại và tương lai và họ đã chấp nhận giáo lý của Đại Tứ Thập (xem Mahā Cattārīsakasutta). Họ cũng chấp nhận không tham ái, không sân hận, chánh niệm và chánh định là những pháp cao quý.
+
+Các bộ Chú giải (AN­a.ii.497; MN­a.ii.894; SN­a.ii.201 nói, *dve pi te mūladiṭṭhigatikā*) giải thích rằng *Vassa* và *Bhañña* là hai người (*dvejanā*) (? bộ tộc).
 
 ## Notes

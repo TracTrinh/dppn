@@ -5,7 +5,7 @@ base_headword: "Ekapiṇḍadāyikā Therī"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -30,6 +30,8 @@ She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapiṇḍadāyikā Therī. Một *Arahant*. Chín mươi mốt *kappa* trước, bà là vợ của vua Bandhumā, ở Bandhumatī. Mong muốn làm một thiện sự để bảo đảm cho mình một tái sinh hạnh phúc, bà xin nhà vua chấp thuận, rồi cúng dường thức ăn cho một Tỳ-kheo-ni và trao cho vị ấy nhiều phẩm vật khác nhau. Về sau, bà sinh ba mươi lần ở Tāvatiṃsa làm hoàng hậu của chư thiên. Bà là vợ của hai mươi vị vua trong loài người (Ap.ii.515f).
+
+Bà có lẽ đồng nhất với Mettā Therī (Thīg­a.36f).
 
 ## Notes

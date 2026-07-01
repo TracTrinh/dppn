@@ -5,7 +5,7 @@ base_headword: "Cetokhilasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Cetokhilasutta 02. The five fallows (*cetokhilā*) mentioned in (1). In order to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetokhilasutta 02. Năm trạng thái hoang vu của tâm (*cetokhilā*) được đề cập đến trong (1). Để tiêu diệt chúng, bốn *Satipaṭṭhāna* nên được tu tập. AN.iv.460.
 
 ## Notes

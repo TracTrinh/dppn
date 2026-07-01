@@ -5,7 +5,7 @@ base_headword: "Caturakkha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,10 @@ In the Ṛg Veda, Caturakṣa is mentioned as one of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caturakkha. Một trong những con chó mà con dê Melamātā đề nghị mang theo trong chuyến viếng thăm con chó rừng Pūtimaṁsa (Ja.iii.535).
+
+Để biết chi tiết, xem Pūtimaṁsajātaka.
+
+Trong Ṛg Veda, Caturakṣa được nhắc đến là một trong những con chó của Yama. Jātaka trans.iii.318, n.1.
 
 ## Notes

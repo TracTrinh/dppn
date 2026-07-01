@@ -5,7 +5,7 @@ base_headword: "Sagaradeva"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sagaradeva. A king who dug the ocean (DN­a.i.91; MN­a.ii.689). The reference i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sagaradeva. Một vị vua đã đào ra đại dương (DN­a.i.91; MN­a.ii.689). Dẫn chiếu này hiển nhiên là nói về Sagara (*q.v.*), người mà, do sự tức giận, đã ra lệnh đào xới trái đất, và do đó trái đất có đại dương như bộ ngực của nó. Từ đây, đại dương bắt đầu được gọi là Sāgara. *Mahā Bhārata* xii.29.
 
 ## Notes

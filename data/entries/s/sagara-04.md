@@ -5,7 +5,7 @@ base_headword: "Sāgara"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāgara 04. A king of long ago, mentioned in a list of persons, who, though they
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara 04. Một vị vua từ thời xa xưa, được nhắc đến trong một danh sách những người mà dù đã tổ chức những buổi bố thí lớn, vẫn không thể chứng đạt vượt ra khỏi các cõi Kāmāvacara (Ja.vi.99). Có lẽ đây cũng chính là vị vua được nhắc đến trong Bhūridattajātaka (Ja.vi.203) là đã trở thành một chư thiên có đại oai lực (*mahesakkha Deva*) sau khi chết.
 
 ## Notes

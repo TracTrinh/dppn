@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "09"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 09. In a monk possessed of good conduct spiritual life proceeds spo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 09. Nơi một vị tỳ-kheo có được hạnh kiểm tốt đẹp thì đời sống tâm linh sẽ tiến triển một cách tự nhiên, không phải một cách có chủ ý. AN.v.2f.
 
 ## Notes

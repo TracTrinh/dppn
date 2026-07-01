@@ -5,7 +5,7 @@ base_headword: "Cetiyajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Cetiyajātaka (Ja 422). Contains the story of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyajātaka (Ja 422). Chứa đựng câu chuyện về Apacara, vị vua của Ceti, và là kẻ nói dối đầu tiên trên thế giới. Nó được kể lại liên quan đến việc Devadatta bị trái đất nuốt chửng. Ja.iii.454ff.
 
 ## Notes

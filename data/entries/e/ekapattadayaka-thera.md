@@ -5,7 +5,7 @@ base_headword: "Ekapattadāyaka Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapattadāyaka Thera. Một *Arahant*. Trong quá khứ, chín mươi mốt *kappa* trước, ngài là một thợ gốm ở Haṃsavatī, và một lần đã cúng dường Đức Phật một chiếc bát bằng đất sét được làm khéo. Do kết quả ấy, ngài luôn có thức ăn trong các bát vàng và bạc (Ap.ii.444).
+
+Ngài có lẽ đồng nhất với Mahā Cunda Thera. Xem Thag­a.i.262.
 
 ## Notes

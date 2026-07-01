@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "08"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 08. Where there is action of body, speech or mind, there arises ple
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 08. Nơi nào có hành động của thân, khẩu hoặc ý, thì nơi đó sinh ra lạc hoặc khổ được gây ra bởi ý định (*cetanā*). Điều này là do vô minh; khi vô minh bị đoạn tận, thì không còn môi trường hay nền tảng nào cho hành động như vậy nữa. AN.ii.157f.
 
 ## Notes

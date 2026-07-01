@@ -5,7 +5,7 @@ base_headword: "Ekapadumiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekapadumiya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapadumiya Thera. Một *Arahant*. Vào thời Padumuttara Buddha, ngài là vua của loài ngỗng, và khi thấy Đức Phật gần hồ nơi ngài sống, ngài hái một bông sen và ngậm nó trong mỏ, giữ phía trên Đức Phật. Ap.i.276f.
 
 ## Notes

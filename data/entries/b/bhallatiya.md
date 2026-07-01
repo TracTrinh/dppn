@@ -5,7 +5,7 @@ base_headword: "Bhallāṭiya"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhallāṭiya. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallāṭiya. Vua nước Benares. Xem Bhallāṭiyajātaka (Ja 504).
 
 ## Notes

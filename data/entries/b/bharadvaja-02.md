@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -37,6 +37,8 @@ Thirty-one *kappas* ago, <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 02. Bhāradvāja Thera. Ngài thuộc *gotta* Bhāradvāja và là một người Bà-la-môn ở Rājagaha. Ngài đã gửi con trai mình là Kaṇhadinna đến Takkasilā, để theo học một người thầy, nhưng, trên đường đến đó, cậu bé đã gặp một vị Trưởng lão, gia nhập Tăng đoàn và trở thành một *Arahant*. Bhāradvāja cũng đã nghe Đức Phật thuyết pháp tại Veḷuvana, trở thành một tỳ-kheo, và đạt được quả vị *Arahant*. Sau đó, khi Kaṇhadinna đến thăm Đức Phật tại Rājagaha, cậu đã gặp cha mình và được nghe ngài kể về những thành tựu của ngài.
+
+Ba mươi mốt *kappa* trước, Bhāradvāja đã gặp Pacceka Buddha Sumana và dâng cho ngài một quả *vallīkāra* (Thag.vss.177-8; Thag­a.i.302f). Ngài có lẽ chính là Vallīkāraphaladāyaka trong Apadāna. Ap.ii.416; nhưng những bài kệ Apadāna tương tự lại được xếp dưới mục Bhalliya (Thag­a.i.49).
 
 ## Notes

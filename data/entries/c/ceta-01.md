@@ -5,7 +5,7 @@ base_headword: "Cetā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Cetā 01. Daughter-in-law of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetā 01. Con dâu của Vidhura và Anujjā. J.vi.516.
 
 ## Notes

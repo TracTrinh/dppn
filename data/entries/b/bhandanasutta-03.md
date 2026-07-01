@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍanasutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaṇḍanasutta 03. The Buddha rebukes some monks at <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍanasutta 03. Đức Phật khiển trách một số tỳ-kheo ở Jetavana đang tham gia vào sự tranh cãi và dạy họ quán chiếu về mười pháp dẫn đến sự tử tế, an bình và hòa hợp. AN.v.88 ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Chabbisodhanasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -23,6 +23,6 @@ Chabbisodhanasutta. On the six-fold scrutiny by which a monk can know whether he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chabbisodhanasutta. Nói về sự xem xét kỹ lưỡng sáu phần mà qua đó một vị tỳ-kheo có thể biết liệu ông có được biện minh hay không khi nói rằng đối với ông sự tái sanh không còn nữa, rằng tâm của ông đã được giải thoát hoàn toàn khỏi các *āsava*. MN.iii.29-37.
 
 ## Notes

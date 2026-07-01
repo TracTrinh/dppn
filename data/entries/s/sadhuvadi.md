@@ -5,7 +5,7 @@ base_headword: "Sādhuvādī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sādhuvādī. A celestial musician. Vv.ii.1; Vv-a.324; but see Vv-a.374.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhuvādī. Một nhạc công cõi trời. Vv.ii.1; Vv-a.324; nhưng xem Vv-a.374.
 
 ## Notes

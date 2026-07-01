@@ -5,7 +5,7 @@ base_headword: "Sāgara"
 disambiguator: "07"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāgara 07. One of the eminent monks present at the Foundation Ceremony of the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara 07. Một trong những vị tỳ-kheo lỗi lạc có mặt tại Lễ Đặt Nền Móng của Mahā Thūpa. Dpv.xix.8; Mhv­ṭ.525.
 
 ## Notes

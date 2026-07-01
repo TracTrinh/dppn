@@ -5,7 +5,7 @@ base_headword: "Chachakkhasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -29,6 +29,8 @@ The Commentary (MN­a.ii.1024f) says that, apart from the sixty monks who became
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chachakkhasutta. Được thuyết giảng tại Jetavana. Đức Phật giải thích cho các nhà sư đang tụ tập về sáu "nhóm sáu" – vd., sáu giác quan bên trong (thấy, v.v.), sáu trần cảnh bên ngoài (sắc, v.v.), sáu nhóm nhận thức (cái thấy và các sắc, cái nghe và các âm thanh, v.v.), và sáu nhóm tham ái (MN.iii.280ff).
+
+Bản Chú giải (MN­a.ii.1024f) nói rằng, ngoài sáu mươi nhà sư đã trở thành các bậc *Arahant* khi Đức Phật lần đầu tiên thuyết giảng bài *Sutta* này, trong mỗi lần thuyết giảng nó, bởi các Vị Đệ tử Tối thắng và bởi tám mươi vị đệ tử hàng đầu, một số lượng tương tự đã đạt đến quả vị *Arahant*. Ở Ceylon, Maliyadeva Thera đã thuyết giảng nó tại sáu mươi địa điểm khác nhau, và mỗi lần đều có sáu mươi nhà sư trở thành các bậc *Arahant*. Có một lần, khi *Tipiṭaka* Cūḷa Nāga thuyết giảng nó tại Ambilahālavihāra, một ngàn nhà sư đã đạt đến quả vị *Arahant* (MN­a.ii.1025).
 
 ## Notes

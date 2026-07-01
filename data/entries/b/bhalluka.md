@@ -5,7 +5,7 @@ base_headword: "Bhalluka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -33,6 +33,6 @@ Bhalluka. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhalluka. Cháu trai của Dīghajantu. Ông nhận được một thông điệp từ Eḷāra, do đó ông đã đổ bộ xuống Mahā Tittha ở Ceylon với sáu mươi ngàn quân, nhưng chỉ để phát hiện ra rằng Eḷāra đã chết và đã được hỏa táng bảy ngày trước đó. Bhalluka sau đó hành quân đến Anurādhapura và dựng trại tại Kolambahālaka. Duṭṭhagāmaṇī tiến quân đánh ông, và một trận chiến đã diễn ra trong khuôn viên của Mahā Vihāra. Bhalluka bắn một mũi tên vào nhà vua, và, tin rằng nó đã xuyên qua miệng ngài, đã hét lên một tiếng lớn, nhưng Phussadeva, người đang ngồi trên Kaṇḍula ngay phía sau nhà vua, đã bắn vào Bhalluka, khiến ông này ngã lăn ra chết gục dưới chân nhà vua. Mhv.xxv.77ff.
 
 ## Notes

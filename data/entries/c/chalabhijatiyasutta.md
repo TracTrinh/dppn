@@ -5,7 +5,7 @@ base_headword: "Chaḷabhijātiyasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -28,6 +28,8 @@ and the six corresponding breeds declared by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaḷabhijātiyasutta. Nói về sáu chủng loại được Puraṇa Kassapa tuyên bố – màu đen, màu xanh, màu đỏ, màu vàng, màu trắng và trắng tinh khiết nhất –
+
+và sáu chủng loại tương ứng được Gotama Buddha tuyên bố. AN.iii.383f; cp. DN­a.i.162; SN.iii.210; DN.iii.250f.
 
 ## Notes

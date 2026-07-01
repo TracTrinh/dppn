@@ -5,7 +5,7 @@ base_headword: "Saddhammikavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammikavagga. The eighth section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammikavagga. Phần thứ tám của Pācittiya. Vin.iv.141-57.
 
 ## Notes

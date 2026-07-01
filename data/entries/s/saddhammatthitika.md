@@ -5,7 +5,7 @@ base_headword: "Saddhammaṭṭhitikā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saddhammaṭṭhitikā. A Commentary on the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammaṭṭhitikā. Một bản chú giải cho Niddesa, được viết theo yêu cầu của *Deva* Thera bởi Upasena của Ceylon (Gv.61; Sās.69; PLC.117). Sāsanavaṁsa (p.69) gọi nó là *Saddhammapajjotikā*, và nó có lẽ được biết đến bằng tên đó ở Ceylon.
 
 ## Notes

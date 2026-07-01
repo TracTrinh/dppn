@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhāsutta 05. Ten qualities which give perfection to a monk. AN.v.10f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 05. Mười phẩm chất mang lại sự hoàn hảo cho một vị tỳ-kheo. AN.v.10f.
 
 ## Notes

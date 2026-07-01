@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍagāmavagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhaṇḍagāmavagga. The first chapter of the *Catukkanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍagāmavagga. Phẩm đầu tiên của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.1-12.
 
 ## Notes

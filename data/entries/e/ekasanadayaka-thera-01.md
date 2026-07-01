@@ -5,7 +5,7 @@ base_headword: "Ekāsanadāyaka Thera"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,6 @@ Ekāsanadāyaka Thera 01. An *Arahant*. In the time of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekāsanadāyaka Thera 01. Một *Arahant*. Vào thời Padumuttara Buddha, ngài là một ẩn sĩ tên Nārada Kassapa, sống gần núi Kosika. Một lần, ngài thấy Đức Phật đi qua rừng, và sau khi chuẩn bị cho Ngài một chỗ ngồi, ngài nói những lời tán thán Ngài. Đức Phật thuyết cho ngài một bài pháp ngắn. Năm mươi lần Ekāsanadāyaka trở thành vua của chư thiên và tám mươi lần ngài cai trị loài người. Bất cứ nơi nào ngài muốn, ngài đều có thể tìm được một chỗ ngồi, ngay cả trong rừng hay trong một dòng sông (Ap.ii.381f).
 
 ## Notes

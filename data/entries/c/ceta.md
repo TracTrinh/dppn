@@ -5,7 +5,7 @@ base_headword: "Ceta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -35,6 +35,12 @@ The women of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ceta. Một vương quốc mà Vessantara đã đi qua trên đường từ Jetuttara.
+
+Chú của Vessantara cai trị ở Ceta, và nó cách Dunniviṭṭha mười do-tuần (Ja.vi.514ff; Cp.i.9, kệ 38f).
+
+Những người phụ nữ của Ceta được gọi là Cetiyā (Ja.vi.514).
+
+Ceta có lẽ là một tên gọi khác của Cetiya.
 
 ## Notes

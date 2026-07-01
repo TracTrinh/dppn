@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhāsutta 02. On the five advantages resulting from faith. AN.iii.42.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 02. Về năm lợi ích mang lại từ đức tin. AN.iii.42.
 
 ## Notes

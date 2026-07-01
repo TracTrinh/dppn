@@ -5,7 +5,7 @@ base_headword: "Cetiyavaṁsaṭṭhakathā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Cetiyavaṁsaṭṭhakathā. One of the sources mentioned in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyavaṁsaṭṭhakathā. Một trong những nguồn tài liệu được đề cập đến trong Mahā Vaṁsaṭīkā (p.548). Nó có lẽ đã đề cập đến việc xây dựng các *cetiya* ở Ceylon, chủ yếu là Mahā Thūpa.
 
 ## Notes

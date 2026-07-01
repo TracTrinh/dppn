@@ -5,7 +5,7 @@ base_headword: "Ekañjaliya Thera"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekañjaliya Thera 01. An *Arahant*. Ninety-two *kappas* ago he provided a place 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekañjaliya Thera 01. Một *Arahant*. Chín mươi hai *kappa* trước, ngài đã chuẩn bị một nơi cư trú cho Tissa Buddha trong một khu rừng *udumbara*, trải cho vị ấy một tấm thảm hoa và đảnh lễ vị ấy với hai tay chắp lại. Có lần ngài là một vị vua, tên là Ekañjalika. Ap.i.236.
 
 ## Notes

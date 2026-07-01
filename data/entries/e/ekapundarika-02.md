@@ -5,7 +5,7 @@ base_headword: "Ekapuṇḍarīka"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -29,6 +29,8 @@ Over the elephant’s ribs there was a white spot (*paṇḍaraṭṭhāna*), th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapuṇḍarīka 02. Một con voi thuộc về Pasenadi. Chính khi đang cưỡi con voi này, nhà vua đã gặp Ānanda. Nhà vua theo Trưởng lão đến tu viện, và cuộc trò chuyện của họ được ghi lại trong Bāhitikasutta (MN.ii.112f).
+
+Trên các xương sườn của con voi có một đốm trắng (*paṇḍaraṭṭhāna*), cỡ bằng một quả thốt nốt, do đó nó có tên như vậy (MN­a.ii.752).
 
 ## Notes

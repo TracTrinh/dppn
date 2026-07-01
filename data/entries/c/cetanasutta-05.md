@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 05. The arising of volitional acts is the appearing of decay­and-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 05. Sự phát sinh của các hành động có tác ý là sự xuất hiện của già và chết; sự diệt tận của chúng, là sự diệt tận của nó. SN.iii.230.
 
 ## Notes

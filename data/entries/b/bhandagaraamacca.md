@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍāgāra­amacca"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaṇḍāgāra­amacca. Given as an example of a handsome person. AN­a.ii.596
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍāgāra­amacca. Được nêu ra như một ví dụ về một người đẹp trai. AN­a.ii.596.
 
 ## Notes

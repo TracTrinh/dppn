@@ -5,7 +5,7 @@ base_headword: "Bhallika"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhallika 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallika 02. Bhalluka. Một trong những nam thí chủ chính của Dīpaṅkara Buddha. Bv.ii.215.
 
 ## Notes

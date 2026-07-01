@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍagāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaṇḍagāma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍagāma. Một ngôi làng của Vajjī nằm giữa Vesālī và Hatthigāma và gần với Vesālī hơn. Đức Phật đã đến thăm nơi này trong chuyến du hành cuối cùng của Ngài, và trong khi ở đó, Ngài đã nói với các tỳ-kheo về bốn pháp dẫn đến *Nibbāna*: giới, định, tuệ, và giải thoát. DN.ii.123; AN.ii.1ff.
 
 ## Notes

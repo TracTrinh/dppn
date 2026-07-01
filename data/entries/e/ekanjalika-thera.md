@@ -5,7 +5,7 @@ base_headword: "Ekañjalika Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekañjalika Thera. An *Arahant*. Ninety-one *kappas* ago he saw <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekañjalika Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ngài thấy Vipassī Buddha và đảnh lễ vị ấy với hai tay chắp lại. Ap.i.80.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāgaradeva"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāgaradeva. A king descended from <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgaradeva. Một vị vua xuất thân từ Mahā Sammata. Cha của ông là Sāgara và con trai ông là Bharata. Dpv.iii.6; Mhv.ii.4.
 
 ## Notes

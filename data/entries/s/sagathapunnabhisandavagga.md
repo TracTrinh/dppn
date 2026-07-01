@@ -5,7 +5,7 @@ base_headword: "Sagāthapuññābhisandavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sagāthapuññābhisandavagga. The fifth chapter of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sagāthapuññābhisandavagga. Chương thứ năm của Sotāpattisaṁyutta. SN.v.399-404.
 
 ## Notes

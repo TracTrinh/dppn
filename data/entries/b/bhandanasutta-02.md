@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍanasutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaṇḍanasutta 02. Five disadvantages which come to those who encourage strif
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍanasutta 02. Năm tác hại đến với những người khuyến khích sự xung đột và tranh cãi. AN.iii.252.
 
 ## Notes

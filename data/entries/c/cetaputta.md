@@ -5,7 +5,7 @@ base_headword: "Cetaputtā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Cetaputtā. The name of a tribe given in a nominal list; probably the inhabitant
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetaputtā. Tên của một bộ tộc được đưa ra trong một danh sách tên; có lẽ là những cư dân của xứ Ceta. Ap.ii.359.
 
 ## Notes

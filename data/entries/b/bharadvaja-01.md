@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāradvāja 01. One of the two chief disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 01. Một trong hai vị đệ tử thượng thủ của Kassapa Buddha. Ja.i.43; Bv.xxv.39; Snp­a.i.293.
 
 ## Notes

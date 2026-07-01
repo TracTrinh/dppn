@@ -5,7 +5,7 @@ base_headword: "Cetiyā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -33,6 +33,8 @@ Cetiyā. A *Yakkhinī* who lived in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyā. Một *Yakkhinī* (nữ dạ-xoa) sống ở ngọn núi Dhūmarakkha gần Tumbariyaṅgaṇa.
+
+Paṇḍukābhaya, khi nghe nói về bà, đã cố gắng bắt bà, nhưng chỉ thành công sau một cuộc rượt đuổi rất dài và gian khổ, trong đó bà mang hình dáng của một con ngựa cái. Ông đã cưỡi bà vào trận chiến, nơi mà bà đã giúp ông bằng nhiều cách khác nhau (Mhv.x.53ff). Mahā Vaṁsaṭīkā (p.289) nói rằng bà là vợ của Yakkha Jutindhara, người đã tử trận trong trận chiến tại Sirīsavatthu.
 
 ## Notes

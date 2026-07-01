@@ -5,7 +5,7 @@ base_headword: "Ekasaññaka Thera"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -29,6 +29,6 @@ Ekasaññaka Thera 01. An *Arahant*. In the past he gave a meal to a monk named 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasaññaka Thera 01. Một *Arahant*. Trong quá khứ, ngài đã cúng dường một bữa ăn cho một vị sư tên Khaṇḍa, đệ tử của Vessabhū Buddha. Bốn mươi *kappa* trước, ngài là một vị vua tên Varuṇa (Ap.i.121). Chú giải Apadāna nói rằng ngài được đặt tên là Ekasaññaka vì trong đời cuối cùng, ngài đã nhớ lại món cúng dường của mình cho Khaṇḍa.
 
 ## Notes

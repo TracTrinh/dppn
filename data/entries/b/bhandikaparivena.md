@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍikāpariveṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaṇḍikāpariveṇa. A building attached to the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍikāpariveṇa. Một tòa nhà thuộc Abhayāgiri *vihāra* và được Kassapa V xây dựng. (Cv.lii.68) Nơi này rõ ràng đã được đặt tên như vậy để tôn vinh mẹ của nhà vua. Cv.Trs.i.167, n.6.
 
 ## Notes

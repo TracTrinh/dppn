@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍa Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -30,6 +30,6 @@ Bhaṇḍa Thera, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍa Thera, Bhaṇḍu Thera. Một đồng học của Ānanda bị Kassapa bẩm báo với Đức Phật tại Veḷuvana vì đã tranh cãi với Abhiñjaka, đồng học của Anuruddha. Đức Phật đã cho gọi những người tranh cãi đến và khiển trách họ vì tính thích gây gổ. Họ đã thú nhận lỗi lầm của mình và được tha thứ. SN.ii.204f.
 
 ## Notes

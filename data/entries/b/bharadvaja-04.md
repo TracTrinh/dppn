@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -34,6 +34,10 @@ Bhāradvāja later became the Buddha’s follower (DN.i.252; Snp., p. 123). The 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 04. Một thanh niên Bà-la-môn, học trò của Tārukkha. Một cuộc thảo luận giữa ông và Vāseṭṭha đã dẫn đến bài thuyết pháp Tevijjasutta (DN.i.235), và cả Vāseṭṭhasutta (Snp., p.115ff.; MN.ii.197f).
+
+Sau đó Bhāradvāja đã trở thành đệ tử của Đức Phật (DN.i.252; Snp., p. 123). Bài kinh Aggaññasutta được thuyết cho ông và Vāseṭṭha khi họ đang trải qua thời kỳ tập sự trước khi trở thành các tỳ-kheo được xuất gia trọn vẹn (DN.iii.80).
+
+Buddhaghosa nói (DN­a.iii.860) rằng họ đã chấp nhận Đức Phật làm bậc đạo sư của mình vào lúc kết thúc bài kinh Vāseṭṭhasutta và đã gia nhập Tăng đoàn vào cuối bài kinh Tevijjasutta. Về sau, trong khi thiền định về những lời dạy của Aggaññasutta, họ đã trở thành những *Arahant* (DN­a.iii.872). Theo Buddhaghosa, Bhāradvāja thuộc về một gia đình quý tộc có tài sản trị giá bốn mươi lăm crore (DN­a.iii.860).
 
 ## Notes

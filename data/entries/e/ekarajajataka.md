@@ -5,7 +5,7 @@ base_headword: "Ekarājajātaka"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ For the circumstances relating to the story see <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekarājajātaka (Ja 303). Câu chuyện về Ekarāja (Ja 303) (1).
+
+Về các hoàn cảnh liên quan đến câu chuyện, xem Seyyaṃsajātaka (Ja 282).
 
 ## Notes

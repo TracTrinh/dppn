@@ -5,7 +5,7 @@ base_headword: "Sahabhū"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sahabhū. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahabhū. Một hạng chư thiên có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260; DN­a.ii.690.
 
 ## Notes

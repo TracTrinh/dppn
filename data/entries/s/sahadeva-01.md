@@ -5,7 +5,7 @@ base_headword: "Sahadeva"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sahadeva 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahadeva 01. Sahadeva Thera. Một vị *Arahant*. Ông đã tháp tùng Majjhima Thera đến vùng Himavā. Vin-a.i.68; Dpv.viii.10; Mhv­ṭ.317.
 
 ## Notes

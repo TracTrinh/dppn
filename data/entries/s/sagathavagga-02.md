@@ -5,7 +5,7 @@ base_headword: "Sagāthavagga"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sagāthavagga 02. The first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sagāthavagga 02. Chương thứ nhất của Vedanāsaṁyutta. SN.iv.204-16.
 
 ## Notes

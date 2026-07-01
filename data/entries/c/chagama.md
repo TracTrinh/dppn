@@ -5,7 +5,7 @@ base_headword: "Chagāma"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chagāma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chagāma, Chaggāma. Một ngôi làng ở Rohaṇa. Ras.ii.34; Cv.lviii.45; lxxv.3.
 
 ## Notes

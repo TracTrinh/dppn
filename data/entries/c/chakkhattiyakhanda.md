@@ -5,7 +5,7 @@ base_headword: "Chakkhattiyakhaṇḍa"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -32,6 +32,8 @@ The six *Khattiyas* referred to are <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chakkhattiyakhaṇḍa. Một phần của Vessantarajātaka đề cập đến cuộc hành trình được Sañjaya và đội quân của ông thực hiện để đưa Vessantara và hoàng hậu của ông trở về.
+
+Sáu vị *Khattiya* được nhắc đến ở đây là Sañjaya và hoàng hậu của ông, Vessantara và Maddī, cùng với Jāli và Kaṇhā. Ja.vi.582-7.
 
 ## Notes

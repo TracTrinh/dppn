@@ -5,7 +5,7 @@ base_headword: "Ekantadukkhīsutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekantadukkhīsutta and <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekantadukkhīsutta và Ekantasukhīsutta. Hai *Sutta* bàn về các quan điểm tương ứng rằng sau khi chết tự ngã là thuần khổ và rằng nó là thuần lạc (SN.iii.219f).
 
 ## Notes

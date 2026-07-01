@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍu"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,6 @@ Bhaṇḍu 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍu 01. Bhaṇḍuka. Một nam cư sĩ *Anāgāmī*, con trai của một người em gái của Devī, và do đó là anh họ của Mahinda và Saṅghamittā. Ông đã tháp tùng Mahinda đến Ceylon, và được xuất gia, vào ngày họ đến nơi, tại Ambatthala. Ông đã đạt được quả vị *Arahant* ngay sau đó. Mhv.xiii.16, 18; xiv.29, 31f.; Dpv.xii.26, 39, 62, 63.
 
 ## Notes

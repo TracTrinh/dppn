@@ -5,7 +5,7 @@ base_headword: "Caturaṅgabala"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Caturaṅgabala. An officer of state of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caturaṅgabala. Một quan chức nhà nước của Jambudīpa; một tác giả. Gv.67.
 
 ## Notes

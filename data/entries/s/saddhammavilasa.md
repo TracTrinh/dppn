@@ -5,7 +5,7 @@ base_headword: "Saddhammavilāsa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammavilāsa. A monk of Pagan, probably of the twelfth century; he was the a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammavilāsa. Một tu sĩ của Pagan, có lẽ thuộc thế kỷ mười hai; ông là tác giả của *Sammohavināsinī*. Bode, 27.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 04. Volitioned acts occasioned by form, sound, etc., are impermanen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 04. Các hành động có tác ý được gây ra bởi sắc, thanh, v.v., đều là vô thường. SN.iv.227.
 
 ## Notes

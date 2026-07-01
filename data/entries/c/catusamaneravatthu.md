@@ -5,7 +5,7 @@ base_headword: "Catusāmaṇeravatthu"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ Catusāmaṇeravatthu. The story of the four *sāmaṇeras*: <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catusāmaṇeravatthu. Câu chuyện về bốn vị *sāmaṇera* (sa-di): Saṅkicca, Paṇḍita, Sopāka, Revata. Xem Pañcacchiddageha.
+
+Ñāṇābhivaṁsa (xem bên dưới) đã viết một bản tường thuật mới về câu chuyện này. Để xem câu chuyện, xem Dhp­a.iv.176f.
 
 ## Notes

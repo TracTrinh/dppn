@@ -5,7 +5,7 @@ base_headword: "Bhallātakavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhallātakavihāra. A monastery in Ceylon, built by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallātakavihāra. Một tu viện ở Ceylon, do Dhātusena xây dựng (Cv.xxxviii.47) và được Vijayabāhu I trùng tu. (Cv.lx.61).
 
 ## Notes

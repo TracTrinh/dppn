@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍika"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaṇḍika. An eminent Thera*,* well versed in the four *Nikāyas* (*catunikā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍika. Một Trưởng lão lỗi lạc, thông thạo bốn *Nikāya* (*catunikāyika*). Ngài rõ ràng là một vị Chú giải sư đáng kính. Xem, ví dụ, SN­a.i.17.
 
 ## Notes

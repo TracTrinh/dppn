@@ -5,7 +5,7 @@ base_headword: "Celakaṇṭhī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Celakaṇṭhī. A mare belonging to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Celakaṇṭhī. Một con ngựa cái thuộc về Caṇḍappajjota. Nó có thể đi được một trăm do-tuần trong một ngày và là một trong năm phương tiện di chuyển nhanh chóng của ông. Dhp­a.i.196.
 
 ## Notes

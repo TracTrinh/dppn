@@ -5,7 +5,7 @@ base_headword: "Cetiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -29,6 +29,8 @@ Cetiya. A mythical king (Mhv.ii.3; Dpv.iii.5; Mvu.i.348). See <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiya. Một vị vua huyền thoại (Mhv.ii.3; Dpv.iii.5; Mvu.i.348). Xem Ceti.
+
+Apacara cũng được gọi là Cetiya (Ja.iii.457, 460, etc.), được rút gọn thành Cecca (Ja.v.267).
 
 ## Notes

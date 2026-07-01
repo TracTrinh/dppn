@@ -5,7 +5,7 @@ base_headword: "Sāgala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -48,6 +48,14 @@ It is perhaps the same city which is mentioned in the Vinaya (Vin.iii.67) as the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgala, Sāgalā. Một thành phố ở Ấn Độ, kinh đô của Vua Milinda (Mil.pp.1, 3, etc.).
+
+Trong nhiều Jātaka khác nhau – e.g., Kāliṅgabodhi (Ja 479, Ja.iv.230) và Kusa (Ja 531, Ja.v.283), và cũng trong bản chú giải của Mahā Ummagga (Ja 546, Ja.vi.471, 473) – Sāgala được nhắc đến là kinh đô của các vị vua Madda. Rõ ràng nó cũng được gọi là Sākala. (e.g., *Mahā Bhārata* 14, 32; *tataḥ Sākalam abhyetvā Mādrānām puṭabhedanam*).
+
+Sāgala là nơi sinh của Khemā Therī (Thīg­a.127; Ap.ii.546; AN­a.i.187), của Bhaddā Kāpilānī, (Thīg­a.68; Ap.ii.583; AN­a.i.99) và của Hoàng hậu Anojā (Dhp­a.ii.116).
+
+Người ta nói rằng khi *kumāra* Ariṭṭhigandha từ chối kết hôn với bất kỳ phụ nữ nào trừ phi cô ấy giống với một bức tượng vàng mà chàng sở hữu, những sứ giả do cha mẹ chàng gửi đi đã tìm thấy một cô gái ở Sāgala sở hữu những điều kiện cần thiết, nhưng cô ấy vốn ốm yếu, và đã qua đời trên đường từ Sāgala đến Sāvatthī (Dhp­a.iii.281f.; cp. câu chuyện về Anitthigandha, một Pacceka Buddha, được đưa ra trong Snp­a.i.69).
+
+Đây có lẽ cũng là thành phố được nhắc đến trong Vinaya (Vin.iii.67) như là nơi cư ngụ của Daḷhika. Sāgala được xác định với Sialkot thời hiện đại ở Panjab (Dhamma, Geog. 53).
 
 ## Notes

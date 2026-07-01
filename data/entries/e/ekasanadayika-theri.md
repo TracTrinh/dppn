@@ -5,7 +5,7 @@ base_headword: "Ekāsanadāyika Therī"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekāsanadāyika Therī. An *Arahant*. She is evidently identical with <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekāsanadāyika Therī. Một *Arahant*. Bà rõ ràng đồng nhất với Ubbirī Therī (*q.v.* để xem câu chuyện quá khứ của bà).
 
 ## Notes

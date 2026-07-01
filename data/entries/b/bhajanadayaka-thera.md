@@ -5,7 +5,7 @@ base_headword: "Bhājanadāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhājanadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a potter of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhājanadāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một thợ gốm ở Bandhumatī và đã cúng dường bình bát cho các tỳ-kheo. Năm mươi ba *kappa* trước, ngài là một vị vua tên là Anantajāli. Ap.i.218.
 
 ## Notes

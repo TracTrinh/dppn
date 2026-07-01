@@ -5,7 +5,7 @@ base_headword: "Sāgalikā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -47,6 +47,8 @@ According to the Sinhalese *Nikāyasaṅgrahaya* (Quoted in Geiger’s <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgalikā, Sāgaliyā, Sāgalikas. Một trong những giáo phái dị giáo đã phân nhánh từ Theravāda ở Ceylon (Mhv.v.13). Họ hình thành một bộ phận của các Dhammarucika, và tách ra khỏi tổ chức đó ba trăm bốn mươi mốt năm sau khi thành lập Phật giáo ở Ceylon. Lúc đầu họ sống trong Dakkhiṇavihāra, nhưng sau đó chuyển đến Jetavanavihāra, do Mahā Sena xây dựng. Họ đã thực hiện một số sửa đổi trong *Ubhatovibhaṅga* (Mhv­ṭ.175, 176; Cf. Sās.p.24; xem thêm Mhv.xxxvii.32 ff., và Mhv­ṭ.680).
+
+Theo *Nikāyasaṅgrahaya* của người Sinhalese (Trích dẫn trong Dīpavaṁsa và Mahā Vaṁsa của Geiger, p.90), các Sāgalika lấy tên từ vị lãnh đạo của họ, Sāgala Thera*,* và sự phân ly của họ diễn ra bảy trăm chín mươi lăm năm sau khi Đức Phật viên tịch, dưới triều đại của Vua Goṭhābhaya. Moggallāna I. đã ban các *vihāra* Daḷha và Dāṭhākondañña, trên Sīhagiri, cho các Dhammarucika và các Sāgalika, trong khi ông cũng ban ni viện Rājinī cho các Tỳ-kheo-ni của giáo phái Sāgalika sử dụng (Cv.xxxix.41, 43). Aggabodhi II. đã ban *vihāra* Veḷuvana, mà ông đã xây dựng, cho các Sāgalika (Cv.xlii.43). Kassapa IV. đã xây dựng cho họ *vihāra* Kassapasena. Cv.lii.17.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "07"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Cetanāsutta 07. Preached to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 07. Được thuyết cho Ānanda. Sự tái sanh là do ý định (*cetanā*) và sự mong cầu (*paṭṭhāna*) được an lập trong một giới thấp kém bởi vì vô minh. AN.i.224.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekañjalika Thera"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekañjalika Thera 02. An *Arahant*. Ninety-four *kappas* ago he saw the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekañjalika Thera 02. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài thấy Pacceka Buddha Romasa bên bờ một con sông và, hoan hỷ trước dáng vẻ rạng rỡ của vị ấy, đã đảnh lễ vị ấy với hai tay chắp lại. Ap.i.281.
 
 ## Notes

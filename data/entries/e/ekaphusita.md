@@ -5,7 +5,7 @@ base_headword: "Ekaphusita"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekaphusita *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekaphusita *v.l.* Ekapaññita. Một vị vua cách đây hai mươi sáu *kappa*, một tiền thân của Saccasaññaka Thera. Ap.i.209.
 
 ## Notes

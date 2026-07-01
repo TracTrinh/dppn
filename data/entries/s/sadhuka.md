@@ -5,7 +5,7 @@ base_headword: "Sādhuka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sādhuka. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhuka. Một ngôi làng ở Kosala, nơi Isidatta và Purāṇa từng lưu trú (SN.v.348). Buddhaghosa nói (SN­a.iii.215) rằng ngôi làng này thuộc về họ.
 
 ## Notes

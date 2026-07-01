@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,6 @@ Bhāradvāja 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 03. Bhāradvāja Thera. Ngài là người anh cả của một gia tộc những người Bhāradvāja sống ở Rājagaha và vợ của ngài là một nữ Bà-la-môn Dhanañjāni. Người vợ này là một tín đồ thành kính của Đức Phật, và thường xuyên xướng lên những lời ca ngợi Đức Phật, giáo pháp của Ngài, và Tăng đoàn. Bực tức vì điều này, Bhāradvāja đã đi đến chỗ Đức Phật và đặt một câu hỏi. Ngài vô cùng hoan hỷ với câu trả lời đến mức đã gia nhập Tăng đoàn và không lâu sau đó trở thành một *Arahant* (SN.i.160f), một vài người em trai của ngài cũng làm theo gương ngài (xem Bhāradvāja 5)
 
 ## Notes

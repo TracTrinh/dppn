@@ -5,7 +5,7 @@ base_headword: "Chaddantajātaka"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -29,6 +29,6 @@ Chaddantajātaka (Ja 514). The story of the Bodhisatta, born as <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaddantajātaka (Ja 514). Câu chuyện về Bodhisatta, được sinh ra làm Chaddanta, vua voi. Nó được kể lại liên quan đến một nữ tu ở Sāvatthī, người mà một ngày nọ, trong khi đang lắng nghe một bài thuyết pháp của Đức Phật, đã chiêm ngưỡng vẻ đẹp tuyệt mỹ về hình thể của ngài và tự hỏi liệu bà đã từng là vợ của ngài chưa. Ngay lập tức ký ức về cuộc sống của bà với tư cách là Cūḷa Subhaddā, vợ của Chaddanta, hiện ra trong tâm trí bà và bà đã cười lên vì vui sướng; nhưng khi nhớ lại thêm rằng bà từng là công cụ gây ra cái chết của ngài, bà đã bật khóc thành tiếng. Đức Phật đã kể lại câu chuyện này để giải thích cho hành vi của bà. Ja.v.36; Speyer (ZDMG.lxxv.2, 305ff) đưa ra một sự giải thích mang tính ngụ ngôn về Chaddantajātaka. Feer (JA.1895 v.) đã đưa ra một nghiên cứu cẩn thận về câu chuyện này dựa trên sự so sánh của năm phiên bản khác nhau – hai bằng tiếng Pāli, hai bằng tiếng Trung Quốc và một bằng tiếng Phạn. Truyện *Jātaka* này tạo thành chủ đề của rất nhiều hình ảnh minh họa – vd., ở Barhut (Cunningham, pl.xxxvi.6), cũng có ở trong các Hang động Ajanta x. và xvii.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sādhudevī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sādhudevī. A *seṭṭhi*’s daughter, who gave milk-rice to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhudevī. Con gái của một trưởng giả (*seṭṭhi*), người đã dâng món cháo sữa cho Revata Buddha ngay trước lúc ngài Giác ngộ. Bv­a. p.132.
 
 ## Notes

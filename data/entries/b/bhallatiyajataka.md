@@ -5,7 +5,7 @@ base_headword: "Bhallāṭiyajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -32,6 +32,8 @@ The story was told in reference to a quarrel between <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallāṭiyajātaka (Ja 504). Bodhisatta từng tái sinh làm Bhallāṭiya, vua nước Benares. Mong muốn ăn thịt nai nướng trên than hồng, ngài giao vương quốc lại cho các triều thần và đi đến Himālaya trong một chuyến săn bắn. Khi đi lang thang quanh Gandhamādana, giữa những dòng suối và khu rừng tuyệt đẹp, ngài bắt gặp hai *Kinnara* âu yếm ôm nhau rồi khóc lóc than vãn vô cùng thảm thiết. Nhà vua làm dịu bầy chó săn, đặt vũ khí xuống và tiến lại gần các *Kinnara*. Trả lời câu hỏi của ngài, Kinnara cái kể rằng một ngày nọ, trong lúc nàng đang hái hoa ở bờ bên kia để kết vòng hoa cho người yêu, trời tối và một cơn bão ập đến. Dòng suối ngăn cách hai người yêu nhau dâng lên thành lũ và họ phải qua đêm xa cách nhau. Ký ức về một đêm phải chịu cảnh chia lìa đó đã làm họ đau buồn suốt sáu trăm chín mươi bảy năm, và họ vẫn khóc mỗi khi nghĩ về điều đó.
+
+Câu chuyện này được kể liên quan đến một cuộc cãi vã giữa Pasenadi và Mallikā về quyền vợ chồng. Họ hờn dỗi và từ chối nhìn mặt nhau. Đức Phật đã đến cung điện và hòa giải họ. Hai *Kinnara* được nhận diện là nhà vua và hoàng hậu. Ja.iv.437ff.
 
 ## Notes

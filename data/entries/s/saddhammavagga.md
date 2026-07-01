@@ -5,7 +5,7 @@ base_headword: "Saddhammavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammavagga. The sixteenth chapter of the *Pañcakanipāta* of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammavagga. Chương thứ mười sáu của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.174-85.
 
 ## Notes

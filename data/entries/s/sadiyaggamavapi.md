@@ -5,7 +5,7 @@ base_headword: "Sādiyaggāmavāpi"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sādiyaggāmavāpi. A tank, repaired by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādiyaggāmavāpi. Một hồ chứa nước, được sửa chữa bởi Parakkamabāhu I. Cv.lxviii.44.
 
 ## Notes

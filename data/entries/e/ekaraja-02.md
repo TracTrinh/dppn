@@ -5,7 +5,7 @@ base_headword: "Ekarāja"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -30,6 +30,6 @@ Ekarāja 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekarāja 02. Vua của Pupphavatī (Benares). Ông là con của Vasavatti và là cha của Candakumāra. Về câu chuyện của ông, xem Kaṇḍahālajātaka (Ja 542, Ja.vi.131ff). Ông thuộc Koṇḍaññagotta (Ja.vi.137).
 
 ## Notes

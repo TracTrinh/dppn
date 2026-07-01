@@ -5,7 +5,7 @@ base_headword: "Cetiyavāda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -33,6 +33,8 @@ Bhavya, quoted by Rockhill, says that the Caityas received their name from their
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyavāda, Cetiyavādins. Một nhánh tách ra sau này của trường phái Mahā Saṅghika, thông qua các phái Paññatti và Bāhulika của Gokulikavāda (Mhv.v.7; Dpv.v.42; Mbv.96f).
+
+Bhavya, được trích dẫn bởi Rockhill, nói rằng những người Caitya nhận được tên gọi của họ từ việc họ đã cư ngụ ở ngọn núi Caitya. Op. Cit., 183; để có một bản tường thuật về các Cetiyavādin hãy xem bài viết “*The Five Points of Mahā Deva*” của de la Vallée Poussin trong JRAS., April, 1910, 413ff. Mahā Deva được coi là người sáng lập của họ; các quan điểm của ông hoàn toàn mang tính suy đoán. Chúng đều được cho là cũng được nắm giữ bởi các Pubbaseliya.
 
 ## Notes

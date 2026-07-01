@@ -5,7 +5,7 @@ base_headword: "Cetiyakapabbata"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetiyakapabbata. Probably a *v.l.* for <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyakapabbata. Có lẽ là một *v.l.* cho Vedisagiri (*q.v.*). Xem Ras.i.99.
 
 ## Notes

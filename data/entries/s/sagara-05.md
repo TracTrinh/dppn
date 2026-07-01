@@ -5,7 +5,7 @@ base_headword: "Sāgara"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sāgara 05. Elder son of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara 05. Con trai lớn của Mahā Sāgara, vua của Uttaramadhurā. Upasāgara là em trai của ông. Sāgara đã bị giết bởi những người Andhakaveṇhuputtā. Câu chuyện được đưa ra trong Ghatajātaka. Ja.iv.79f.
 
 ## Notes

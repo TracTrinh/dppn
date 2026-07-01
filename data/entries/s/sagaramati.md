@@ -5,7 +5,7 @@ base_headword: "Sāgaramatī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāgaramatī. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgaramatī. Một tên gọi khác của Sāriputta Thera xứ Ceylon (*q.v.*). Tên của ông có nghĩa là Đại Dương Trí Tuệ.
 
 ## Notes

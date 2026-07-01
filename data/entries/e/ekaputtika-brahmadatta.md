@@ -5,7 +5,7 @@ base_headword: "Ekaputtika Brahmadatta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ His verse is included in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekaputtika Brahmadatta. Vua của Benares. Ông chỉ có một người con trai, người mà ông vô cùng yêu quý. Một ngày nọ, khi nhà vua đang vui chơi trong ngự viên, cậu bé đột nhiên lâm bệnh và chết ngay. Để nhà vua khỏi chết vì đau lòng, các đại thần không nói cho ông biết trong hai ngày. Sau đó nhà vua quán xét về bản chất của cái chết và, khi phát triển tuệ quán, trở thành một Pacceka Buddha.
+
+Kệ của ông được đưa vào Khaggavisāṇasutta. Sn.vs.41; Snp-a.i.85f; Ap­a.i.138.
 
 ## Notes

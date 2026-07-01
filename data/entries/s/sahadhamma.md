@@ -5,7 +5,7 @@ base_headword: "Sahadhammā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sahadhammā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahadhammā. Một hạng chư thiên, có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260; DN­a.ii.690.
 
 ## Notes

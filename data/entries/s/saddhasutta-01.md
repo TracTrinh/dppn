@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhāsutta 01. A group of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 01. Một nhóm chư thiên Satullapakāyikā đến thăm Đức Phật và một trong số họ nói lời ca ngợi *saddhā*. SN.i.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saddhiyasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Saddhiyasutta 01. As long as monks are full of faith, conscientious, afraid of b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhiyasutta 01. Chừng nào các tỳ-kheo còn tràn đầy đức tin, có lòng hổ thẹn, sợ hãi sự chê trách, nghe nhiều, tinh tấn mạnh mẽ, chánh niệm và trí tuệ – thì chừng đó sự tăng trưởng có thể được mong đợi, không phải là sự suy giảm. AN.iv.23.
 
 ## Notes

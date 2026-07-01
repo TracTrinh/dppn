@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "07"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāradvāja 07. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 07. Một thủ lĩnh Yakkha mà các đệ tử của Đức Phật nên cầu khẩn trong lúc cần thiết. DN.iii.204.
 
 ## Notes

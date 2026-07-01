@@ -5,7 +5,7 @@ base_headword: "Saddhiyasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Saddhiyasutta 02. Seven things – such as faith, conscientiousness, fear of bla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhiyasutta 02. Bảy điều – chẳng hạn như đức tin, sự hổ thẹn, sự sợ hãi sự chê trách, v.v. – dẫn đến sự tăng trưởng, chứ không phải sự suy thoái. AN.iv.23.
 
 ## Notes

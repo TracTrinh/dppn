@@ -5,7 +5,7 @@ base_headword: "Ekarāja"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -40,6 +40,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekarāja 01. Vua của Benares. Ông là Bodhisatta. Một vị đại thần, bị ông trục xuất vì hành vi sai trái trong hậu cung, đã vào phục vụ Dabbasena, vua của Kosala, và xúi giục vị này gây chiến với Ekarāja. Vị sau bị bắt khi đang ngồi trên ngai giữa các cố vấn của mình và bị treo ngược đầu bằng một sợi dây từ thanh ngang trên cửa. Trong tư thế này, Ekarāja tu tập các ý nghĩ từ ái đối với kẻ thù của mình và đạt đến một tầng hoàn toàn an trú trong thiền định huyền nhiệm. Các dây trói của ông đứt tung và ông ngồi kiết già giữa không trung. Trong khi đó, Dabbasena bị một cơn đau nóng bức trong thân xâm chiếm và, theo lời khuyên của các triều thần, đã cho thả Ekarāja, sau đó các cơn đau biến mất. Nhận ra sự thánh thiện của Ekarāja, Dabbasena trao trả vương quốc cho ông và xin ông tha thứ (Ja.iii.13-15).
+
+Trong Ekarājajātaka (Ja 303), có nhắc đến Mahā Sīlavajātaka (Ja 51) để biết chi tiết về việc trục xuất vị đại thần vì hành vi sai trái và về các sự kiện tiếp theo. Nhưng ở đó nhà vua được gọi là Sīlava chứ không phải Ekarāja. Hai câu chuyện có một số điểm tương đồng nhưng các chi tiết khác nhau rất nhiều. Xem thêm Seyyajātaka (Ja 282), nơi nhà vua được gọi là Kaṃsa, và so sánh với Ghatajātaka (Ja 355). Ekarājajātaka được nêu như một ví dụ về một đời sinh trong đó Bodhisatta thực hành *mettā* đến viên mãn (e.g., Bv­a.51; Mbv.11). Câu chuyện về Ekarāja là chuyện cuối cùng trong Cariyāpiṭaka (No. xiv).
+
+Theo Chú giải Cariyāpiṭaka (p.205), Ekarāja là một tước hiệu được trao cho nhà vua vì quyền lực lớn lao của ông, trong trường hợp đó tên thật của ông có thể đã là Sīlava, như đã nói ở trên. Tuy nhiên, người chú giải Ekarājajātaka (Ja.iii.14) nói rằng Ekarāja là tên riêng của nhà vua.
 
 ## Notes

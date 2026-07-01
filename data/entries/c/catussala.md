@@ -5,7 +5,7 @@ base_headword: "Catussālā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Catussālā. A quadrangular hall, forming a part of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catussālā. Một gian sảnh hình tứ giác, cấu thành một phần của Mahā Vihāra và đóng vai trò như một nhà ăn cho các nhà sư. Nó được dựng lên trên một trong những địa điểm nơi mặt đất rung chuyển khi được Mahinda rắc hoa lên. Mahinda đã tuyên bố rằng vào thời của ba vị Phật trước đó, các phẩm vật, được mang đến từ mọi nơi trên Hòn Đảo, đã được thu thập tại đó và dâng cúng lên chư Phật cùng những người đi theo các ngài (Mhv.xv.47ff). Không rõ ai đã xây dựng gian sảnh này, nhưng nó đã được Vasabha trùng tu (Mhv.xxxv.88). Mahā Vaṁsaṭīkā nói (p.307) rằng đất từ dưới xà ngang cửa của Catussālā đã được dùng để làm những chiếc bình để đựng các dụng cụ được sử dụng trong lễ đăng quang của các vị vua xứ Ceylon.
 
 ## Notes

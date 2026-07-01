@@ -5,7 +5,7 @@ base_headword: "Chabbyāputtā"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chabbyāputtā. A royal clan of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chabbyāputtā. Một bộ tộc hoàng gia của loài Nāga. Vin.ii.110; Ja.ii.145; AN.ii.72.
 
 ## Notes

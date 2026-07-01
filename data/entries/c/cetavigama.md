@@ -5,7 +5,7 @@ base_headword: "Cetāvigāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Cetāvigāma. A village in Ceylon. When <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetāvigāma. Một ngôi làng ở Ceylon. Khi Mattābhaya được xuất gia dưới sự tế độ của Mahinda, ông được theo sau bởi năm trăm thanh niên từ ngôi làng này (Mhv.xvii.59). Ngôi làng này nằm ở phía nam Anurādhapura. Mhv­ṭ.384.
 
 ## Notes

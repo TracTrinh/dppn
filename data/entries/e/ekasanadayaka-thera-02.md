@@ -5,7 +5,7 @@ base_headword: "Ekāsanadāyaka Thera"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekāsanadāyaka Thera 02. In the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekāsanadāyaka Thera 02. Vào thời Padumuttara, ngài cùng với vợ rời khỏi cõi *Deva*, và khi đến giữa loài người đã hầu hạ một vị sư tên Devala (Ap.i.226).
 
 ## Notes

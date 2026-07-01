@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍukaṇṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaṇḍukaṇṇa. A juggler, who tried to make <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍukaṇṇa. Một nghệ nhân tung hứng, người đã cố gắng làm cho Mahā Panāda cười. Ông ta đã làm cho một cây xoài, cây Atulamba, mọc lên trước cửa cung điện và trèo lên nó với sự trợ giúp của một sợi dây. Các nô lệ của Vessavaṇa đã băm vằm ông ta ra và ném các mảnh thi thể xuống, và các nghệ nhân tung hứng khác đã ghép các mảnh thi thể lại với nhau và đổ nước lên chúng. Sau đó Bhaṇḍukaṇṇa mặc y phục và nội y làm bằng hoa rồi bắt đầu nhảy múa trở lại. Nhưng ông ta không thể làm cho Mahā Panāda cười. Ja.iv.324.
 
 ## Notes

@@ -2526,3 +2526,192 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 88 | s/saddhammapala | clean |  |
 | 89 | s/saddhammapatirupakasutta | clean |  |
 | 90 | s/saddhammappakasini | clean |  |
+
+## Batch: b_05-c_07-c_08-e_02-s_04-s_05 review_queue — 179 entries
+
+- Ngày review: 2026-07-01
+- Người/model: Codex GPT-5 (review-queue pass)
+- Phạm vi: review queue manifests `b_05_result.md`, `c_07_result.md`, `c_08_result.md`, `e_02_result.md`, `s_04_result.md`, `s_05_result.md`; excluded entry already in review-log.md: `b/bhagu`.
+- Kết quả: 179/179 đạt; 18 file sửa low-risk; 0 file đặt needs_check. Glossary merge: no active glossary proposal files found.
+
+| # | Entry (<letter>/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | b/bhajanadayaka-thera | clean |  |
+| 2 | b/bhallatakadayaka-thera | clean |  |
+| 3 | b/bhallatakavihara | clean |  |
+| 4 | b/bhallatittha | fixed | landing place -> bến đổ bộ |
+| 5 | b/bhallatiya | clean |  |
+| 6 | b/bhallatiyajataka | clean |  |
+| 7 | b/bhallika-01 | clean |  |
+| 8 | b/bhallika-02 | clean |  |
+| 9 | b/bhalluka | clean |  |
+| 10 | b/bhanda-thera | clean |  |
+| 11 | b/bhandagama | clean |  |
+| 12 | b/bhandagamavagga | clean |  |
+| 13 | b/bhandagaraamacca | clean |  |
+| 14 | b/bhandakucchi | clean |  |
+| 15 | b/bhandanasutta-01 | clean |  |
+| 16 | b/bhandanasutta-02 | clean |  |
+| 17 | b/bhandanasutta-03 | clean |  |
+| 18 | b/bhandika | fixed | Commentator -> Chú giải sư |
+| 19 | b/bhandikaparivena | clean |  |
+| 20 | b/bhandu-01 | clean |  |
+| 21 | b/bhandukanna | clean |  |
+| 22 | b/bhanna | clean |  |
+| 23 | b/bharadvaja-01 | clean |  |
+| 24 | b/bharadvaja-02 | clean |  |
+| 25 | b/bharadvaja-03 | clean |  |
+| 26 | b/bharadvaja-05 | fixed | preserved `e.g.`/`etc.` in citation |
+| 27 | b/bharadvaja-06 | clean |  |
+| 28 | b/bharadvaja-07 | clean |  |
+| 29 | b/bharadvaja-04 | clean |  |
+| 30 | c/catuposathikajataka | clean |  |
+| 31 | c/catuposathikakhanda | clean |  |
+| 32 | c/caturakkha | fixed | restored `Jātaka trans.` citation |
+| 33 | c/caturangabala | clean |  |
+| 34 | c/catusamaneravatthu | clean |  |
+| 35 | c/cavala | clean |  |
+| 36 | c/cayantivapi | clean |  |
+| 37 | c/cecca | clean |  |
+| 38 | c/celakanthi | clean |  |
+| 39 | c/celasutta-02 | fixed | removed unsupported Tứ Diệu Đế gloss |
+| 40 | c/cellara | clean |  |
+| 41 | c/ceta-01 | clean |  |
+| 42 | c/ceta-02 | clean |  |
+| 43 | c/ceta | clean |  |
+| 44 | c/cetaka-thera | clean |  |
+| 45 | c/cetanasutta-01 | clean |  |
+| 46 | c/cetanasutta-02 | clean |  |
+| 47 | c/cetanasutta-03 | clean |  |
+| 48 | c/cetanasutta-04 | clean |  |
+| 49 | c/cetanasutta-05 | clean |  |
+| 50 | c/cetanasutta-06 | clean |  |
+| 51 | c/cetanasutta-07 | clean |  |
+| 52 | c/cetanasutta-08 | clean |  |
+| 53 | c/cetanasutta-09 | clean |  |
+| 54 | c/cetanasutta-10 | clean |  |
+| 55 | c/cetaputta | clean |  |
+| 56 | c/cetavigama | clean |  |
+| 57 | c/caturarakkha | clean |  |
+| 58 | c/catussala | clean |  |
+| 59 | c/ceti | fixed | restored `etc.`, `e.g.`, `passim` |
+| 60 | c/cetiya-2 | clean |  |
+| 61 | c/cetiya | fixed | restored `etc.` in citation |
+| 62 | c/cetiyadamila | clean |  |
+| 63 | c/cetiyajataka | clean |  |
+| 64 | c/cetiyakapabbata | clean |  |
+| 65 | c/cetiyapabbata | clean |  |
+| 66 | c/cetiyasutta | clean |  |
+| 67 | c/cetiyavada | fixed | restored `April, 1910`; removed added Pubbaseliya label |
+| 68 | c/cetiyavamsatthakatha | clean |  |
+| 69 | c/cetokhilasutta-01 | clean |  |
+| 70 | c/cetokhilasutta-02 | clean |  |
+| 71 | c/cetopariccasutta | clean |  |
+| 72 | c/cetovimuttiphalasutta-01 | clean |  |
+| 73 | c/cetovimuttiphalasutta-02 | clean |  |
+| 74 | c/chabbaggiya | fixed | restored `etc.` in citation list |
+| 75 | c/chabbisodhanasutta | clean |  |
+| 76 | c/chabbyaputta | clean |  |
+| 77 | c/chachakkhasutta | fixed | preserved `*Sutta*` term |
+| 78 | c/chaddanta-01 | clean |  |
+| 79 | c/chaddanta-02 | clean |  |
+| 80 | c/chaddanta-03 | clean |  |
+| 81 | c/chaddanta-04 | clean |  |
+| 82 | c/chaddantajataka | clean |  |
+| 83 | c/chagama | clean |  |
+| 84 | c/chakkhattiyakhanda | clean |  |
+| 85 | c/chalabhijatiyasutta | clean |  |
+| 86 | c/chalanga | clean |  |
+| 87 | c/chalangakumara | clean |  |
+| 88 | c/chalindriyavagga | clean |  |
+| 89 | c/challura | clean |  |
+| 90 | e/ekanalika | clean |  |
+| 91 | e/ekanjalika-thera-02 | clean |  |
+| 92 | e/ekanjalika-thera | clean |  |
+| 93 | e/ekanjalika | clean |  |
+| 94 | e/ekanjaliya-thera-01 | clean |  |
+| 95 | e/ekantadukkhisutta | clean |  |
+| 96 | e/ekapadajataka | clean |  |
+| 97 | e/ekapadumiya-thera | clean |  |
+| 98 | e/ekapannajataka | clean |  |
+| 99 | e/ekapassita | clean |  |
+| 100 | e/ekapattadayaka-thera | clean |  |
+| 101 | e/ekaphusita | clean |  |
+| 102 | e/ekapindadayika-theri | clean |  |
+| 103 | e/ekapuggalasutta | clean |  |
+| 104 | e/ekapuggalavagga | clean |  |
+| 105 | e/ekapundarika-01 | clean |  |
+| 106 | e/ekapundarika-02 | clean |  |
+| 107 | e/ekapundarika-03 | clean |  |
+| 108 | e/ekapupphiya-thera | clean |  |
+| 109 | e/ekaputtika-brahmadatta | clean |  |
+| 110 | e/ekaraja-01 | clean |  |
+| 111 | e/ekaraja-02 | clean |  |
+| 112 | e/ekarajajataka | clean |  |
+| 113 | e/ekasala | clean |  |
+| 114 | e/ekasanadayaka-thera-01 | clean |  |
+| 115 | e/ekasanadayaka-thera-02 | clean |  |
+| 116 | e/ekasanadayika-theri | clean |  |
+| 117 | e/ekasanikasutta | clean |  |
+| 118 | e/ekasankhiya-thera | clean |  |
+| 119 | e/ekasannaka-thera-01 | clean |  |
+| 120 | s/saddhammasammosasutta | clean |  |
+| 121 | s/saddhammasangaha | clean |  |
+| 122 | s/saddhammasiri | clean |  |
+| 123 | s/saddhammavagga | clean |  |
+| 124 | s/saddhammavilasa | clean |  |
+| 125 | s/saddhammikavagga | clean |  |
+| 126 | s/saddhammopayana | clean |  |
+| 127 | s/saddhasumanatissa | clean |  |
+| 128 | s/saddhasutta-01 | clean |  |
+| 129 | s/saddhasutta-02 | clean |  |
+| 130 | s/saddhasutta-03 | clean |  |
+| 131 | s/saddhasutta-04 | clean |  |
+| 132 | s/saddhasutta-05 | clean |  |
+| 133 | s/saddhasutta-06 | clean |  |
+| 134 | s/saddhatissa-01 | clean |  |
+| 135 | s/saddhatissa-02 | fixed | deity singular -> thiên thần |
+| 136 | s/saddhidha-sutta | clean |  |
+| 137 | s/saddhiyasutta-01 | clean |  |
+| 138 | s/saddhiyasutta-02 | clean |  |
+| 139 | s/sadhikasutta | clean |  |
+| 140 | s/sadhina-01 | clean |  |
+| 141 | s/sadhina-02 | clean |  |
+| 142 | s/sadhinajataka | clean |  |
+| 143 | s/sadhini | fixed | preserved `*Niraya*` term |
+| 144 | s/sadhudevi | clean |  |
+| 145 | s/sadhujanavilasini | clean |  |
+| 146 | s/sadhuka | clean |  |
+| 147 | s/sadhusilajataka | clean |  |
+| 148 | s/sadhusutta | clean |  |
+| 149 | s/saddhammatthitika | clean |  |
+| 150 | s/sadhuvadi | clean |  |
+| 151 | s/sadhuvagga | clean |  |
+| 152 | s/sadinacchedana | clean |  |
+| 153 | s/sadiyaggamavapi | clean |  |
+| 154 | s/sagala | fixed | restored `etc.`, `e.g.`, `cp.` cross-reference |
+| 155 | s/sagara-01 | clean |  |
+| 156 | s/sagara-02 | fixed | restored `cf.` cross-reference |
+| 157 | s/sagara-04 | clean |  |
+| 158 | s/sagara-05 | clean |  |
+| 159 | s/sagara-06 | clean |  |
+| 160 | s/sagara-07 | clean |  |
+| 161 | s/sagara-brahmadatta | clean |  |
+| 162 | s/sagara | clean |  |
+| 163 | s/sagaradeva-2 | clean |  |
+| 164 | s/sagaradeva | clean |  |
+| 165 | s/sagaramati | clean |  |
+| 166 | s/sagata-01 | fixed | preserved `Sāgata Thera`; restored `cf.` cross-reference |
+| 167 | s/sagata-02 | clean |  |
+| 168 | s/sagathapunnabhisandavagga | clean |  |
+| 169 | s/sagathavagga-01 | clean |  |
+| 170 | s/sagathavagga-02 | clean |  |
+| 171 | s/sagga | clean |  |
+| 172 | s/sagiri | clean |  |
+| 173 | s/sahabhu | clean |  |
+| 174 | s/sahadeva-01 | fixed | preserved `Sahadeva Thera` and `Majjhima Thera` |
+| 175 | s/sahadeva-02 | clean |  |
+| 176 | s/sahadhamma | clean |  |
+| 177 | s/sahajati | fixed | restored `n.3` citation note |
+| 178 | s/sahaka-thera | clean |  |
+| 179 | s/sagalika | fixed | restored `Cf.`; preserved `Sāgala Thera` and royal-name punctuation |

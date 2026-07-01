@@ -5,7 +5,7 @@ base_headword: "Sāgata"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -48,6 +48,14 @@ It is curious that no verses are ascribed to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgata 01. Sāgata Thera. Ông là thị giả của Đức Phật vào thời điểm Soṇa Koḷivisa đến thăm Bimbisāra, cùng với những người cai quản tám mươi ngàn thị trấn thuộc vương quốc của Bimbisāra. Sāgata được phú cho thần thông, và những người cai quản, những người đã đến thăm Đức Phật tại Gijjhakūṭa, rất ấn tượng trước *iddhi* của ông, đến mức ngay cả khi Đức Phật đang thuyết pháp, họ vẫn không thể rời mắt khỏi ông. Nhà vua do đó đã yêu cầu Sāgata chỉ cho họ thấy một điều kỳ diệu vĩ đại hơn, và Sāgata, sau khi thể hiện nhiều loại thần thông khác nhau giữa không trung, đã phủ phục dưới chân Đức Phật và tuyên bố Đức Phật là bậc đạo sư của mình (Vin.i.179 f).
+
+Sau đó, khi Đức Phật đến lưu trú tại Bhaddavatikā, sau khi nghe người dân cảnh báo Đức Phật về sự hiện diện của một Nāga có oai lực lớn trong am thất của các Jaṭila tại Ambatittha, Sāgata đã đi đến đó và sống trong nơi ở của Nāga. Nāga thể hiện sự oán hận lớn, nhưng Sāgata đã khuất phục nó bằng *iddhi* của mình và sau đó trở về Bhaddavatikā. Từ đó ông đã cùng Đức Phật đi đến Kosambī, nơi các cư sĩ đệ tử, khi nghe về chiến công kỳ diệu của ông, đã bày tỏ sự tôn vinh lớn đối với ông. Khi họ hỏi họ có thể làm gì cho sự thoải mái của ông, ông giữ im lặng, nhưng nhóm Chabbaggiyā gợi ý rằng họ nên cung cấp cho ông loại rượu trắng (*kāpotikā*).
+
+Ngày hôm sau, khi Sāgata đi khất thực, ông được mời đến nhiều ngôi nhà khác nhau, nơi những người trong nhà mời ông các loại đồ uống say. Ông uống nhiều đến mức trên đường ra khỏi thị trấn, ông đã ngã vật xuống ngay cổng. Các tỳ-kheo đã khiêng ông, và tại tu viện, họ đặt ông nằm với đầu hướng về chân Đức Phật, nhưng ông đã xoay người lại để chân mình hướng về Đức Phật. Đức Phật đã chỉ ra tình trạng của ông cho các tỳ-kheo thấy, dùng nó như một ví dụ về những tác hại xấu của rượu; và ngài lấy đây làm cơ hội để ban hành một giới luật chống lại việc sử dụng rượu. Vin.iv.108f.; câu chuyện cũng được đưa ra như phần giới thiệu cho Surāpānajātaka (Ja 81, Ja.i.360 ff.), vốn cũng được thuyết giảng nhân dịp này; cf. AN­a.i.178f.
+
+Người ta nói (AN­a.i.179) rằng vào ngày hôm sau, khi Sāgata tỉnh lại và nhận ra mức độ nghiêm trọng của lỗi lầm của mình, ông đã tìm đến Đức Phật và, sau khi cầu xin ngài tha thứ, đã phát triển minh sát, chứng đạt quả vị *Arahant*. Đức Phật sau đó tuyên bố ông là người đệ nhất trong số những người thành thạo về việc thiền quán hỏa giới (*tejodhātukusalānaṁ*) (AN.i.25).
+
+Điều kỳ lạ là không có bài kệ nào được gán cho Sāgata trong Theragāthā. Apadāna (Ap.i.83f) chứa một tập hợp các bài kệ được nói là do ông thốt lên. Trong thời của Padumuttara Buddha, ông là Sobhita, một Bà-la-môn. Đức Phật đã đến am thất của ông cùng với các đệ tử của mình, và Sāgata đã đọc những bài kệ ca ngợi Đức Phật, người đã tuyên bố về vận mệnh tương lai của ông. Bản Chú giải nói thêm rằng ông được gọi là Sāgata vì ông được cha mẹ vô cùng chào đón (*sāgata*).
 
 ## Notes

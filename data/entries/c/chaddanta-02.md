@@ -5,7 +5,7 @@ base_headword: "Chaddanta"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -32,6 +32,6 @@ Chaddanta 02. A lake, one of the seven great lakes of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaddanta 02. Một hồ nước, một trong bảy hồ nước lớn của vùng Himālaya (AN.iv.101; AN­a.ii.759). Nó dài năm mươi do-tuần và rộng năm mươi do-tuần. Ở giữa hồ, trong một khoảng không gian rộng mười hai do-tuần, nước giống như một viên ngọc và không có loài cỏ dại nào mọc ở đó. Xung quanh khoảng không gian này là bảy vành đai hoa huệ, mỗi vành đai có một màu sắc khác nhau và mỗi vành đai rộng một do-tuần. Quanh hồ là bảy dãy núi – Cūḷa Kāḷa, Mahā Kāḷa, Udaka, Candapassa, Suriyapassa, Maṇipassa và Suvaṇṇapassa, dãy núi cuối cùng cao bảy do-tuần và có sắc vàng ở mặt nhìn ra hồ. Ở phía tây của hồ là Kañcanaguhā, rộng mười hai do-tuần, nơi vị vua voi sinh sống. Ja.v.37.
 
 ## Notes

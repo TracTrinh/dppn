@@ -5,7 +5,7 @@ base_headword: "Chaddanta"
 disambiguator: "04"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -36,6 +36,8 @@ Chaddanta is mentioned as one of the births in which the Bodhisatta practised *s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaddanta 04. Vị Bodhisatta, được sinh ra làm vua của loài voi dòng dõi Chaddanta, với số lượng là tám ngàn con. Thân hình của ngài có màu trắng tinh, với khuôn mặt và bàn chân màu đỏ, và bảy bộ phận trên cơ thể ngài chạm đất. Ngài sống trong Kañcanaguhā trên bờ Hồ Chaddanta, các chánh hậu của ngài là Cūḷa Subhaddā và Mahā Subhaddā. Do sự sủng ái mà Chaddanta dành cho Mahā Subhaddā, Cūḷa Subhaddā đã nảy sinh ác cảm với ngài, và một ngày nọ, khi Chaddanta đang tiếp đãi năm trăm vị Pacceka Buddha, bà đã dâng lên họ những loại quả dại và thực hiện một lời nguyện ước nhất định. Kết quả là bà được tái sanh trong gia đình của vua xứ Madda và được đặt tên là Subhaddā. Về sau bà trở thành chánh hậu của vị vua xứ Benares. Nhớ lại mối ác cảm xưa của mình, bà đã lập mưu để cưa đứt ngà của Chaddanta. Tất cả các thợ săn đều được nhà vua triệu tập, và Soṇuttara đã được chọn cho nhiệm vụ này. Ông mất bảy năm, bảy tháng và bảy ngày để đến được nơi ở của Chaddanta. Ông đã đào một cái hố và che nó lại, và khi con voi đi qua nó, ông đã bắn một mũi tên tẩm độc vào ngài. Khi Chaddanta nhận ra chuyện gì đã xảy ra, ngài đã lao vào Soṇuttara, nhưng khi thấy ông ta đang mặc một chiếc y màu vàng, ngài đã kìm mình lại. Khi biết được câu chuyện của Soṇuttara, ngài đã chỉ cho ông ta cách làm thế nào để có thể cưa đứt ngà của ngài, nhưng sức mạnh của Soṇuttara không đủ để cưa đứt chúng. Chaddanta sau đó đã tự mình lấy chiếc cưa bằng vòi của mình và, trong khi đang bị thương và phải chịu đựng nỗi đau tột cùng từ những vết rạch đã được tạo ra ở quai hàm của ngài, ngài đã cưa đứt những chiếc ngà, trao chúng cho người thợ săn và rồi tắt thở. Trong bảy ngày, thông qua sức mạnh ma thuật của những chiếc ngà voi, Soṇuttara đã trở về Benares; nhưng khi Subhaddā nghe rằng âm mưu của bà đã dẫn đến cái chết của người tình cũ và người chồng trước đây của mình, bà đã chết vì trái tim tan vỡ (Ja.v.36ff).
+
+Chaddanta được nhắc đến là một trong những kiếp sống mà Bodhisatta đã thực hành *sīlapāramitā* (Ja.i.45). Chaddanta chỉ có thể tìm thấy niềm vui ở những hồ nước và khu rừng của dãy Himālaya, không phải trong thành phố đông đúc (Vsm.650). Xem thêm Chaddantajātaka (Ja 514).
 
 ## Notes

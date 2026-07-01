@@ -5,7 +5,7 @@ base_headword: "Sādhīnajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -40,6 +40,10 @@ Sādhīnajātaka (Ja 494). The Bodhisatta was once born as <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhīnajātaka (Ja 494). Bodhisatta từng sinh ra là Sādhīna, vua của Mithilā. Ông đã xây dựng sáu hội trường bố thí và tiêu tốn mỗi ngày sáu trăm ngàn đồng tiền cho việc bố thí. Ông sống một cuộc đời đức hạnh, và thần dân của ông đã noi gương ông. Trong hội chúng chư thiên, những lời ca ngợi ông được vang lên, và nhiều chư thiên khác nhau muốn gặp ông. Vì vậy, Sakka đã cử Mātali, cùng với cỗ xe của mình, đi đón Sādhīna đến Tāvatiṁsa. Khi ông đến, Sakka đã chia cho ông một nửa vương quốc và những thứ xa hoa của mình. Trong bảy trăm năm, theo sự tính toán của con người, Sādhīna đã cai trị trên thiên giới, và rồi ông trở nên không hài lòng và quay trở lại khu vườn hoàng gia của mình trên trần gian. Người giữ vườn đã mang tin tức về sự xuất hiện của ông đến cho Nārada, vị vua đang trị vì, là hậu duệ trực hệ đời thứ bảy của Sādhīna. Nārada đã đến, đảnh lễ Sādhīna, và dâng vương quốc cho ông. Nhưng Sādhīna đã từ chối điều đó, nói rằng tất cả những gì ông mong muốn là phân phát đồ bố thí trong bảy ngày. Nārada đã sắp xếp một khoản bố thí khổng lồ để phân phát. Trong bảy ngày, Sādhīna đã bố thí, và vào ngày thứ bảy ông đã qua đời và được sinh ra ở Tāvatiṁsa. Câu chuyện được kể cho các cư sĩ đệ tử để cho họ thấy tầm quan trọng của việc thọ trì ngày trai giới.
+
+Ānanda được đồng nhất với Nārada và Anuruddha với Sakka (Ja.iv.355-60).
+
+Sādhīna là một trong bốn con người đã đến Tāvatiṁsa khi vẫn còn trong thân người. Mil.115, 271; MN­a.ii.738. Những người khác là Guttila, Mandhātā và Nimi.
 
 ## Notes

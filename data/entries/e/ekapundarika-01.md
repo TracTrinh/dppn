@@ -5,7 +5,7 @@ base_headword: "Ekapuṇḍarīka"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -30,6 +30,6 @@ Ekapuṇḍarīka 01. A *Paribbājakārāma*, the residence of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapuṇḍarīka 01. Một *Paribbājakārāma*, nơi cư trú của Vacchagotta (MN.i.481f). Nơi ấy ở gần Kūṭāgārasālā trong Mahā Vana của Vesālī. Đức Phật đã đến đó để gặp Vacchagotta, và chính vào dịp này Tevijja Vacchagottasutta được thuyết giảng (MN.i.481f). Buddhaghosa nói (MN­a.ii.673) rằng nơi ấy được gọi như vậy vì trong đó mọc một Cây Xoài Trắng đơn độc (*setambarukkha*).
 
 ## Notes

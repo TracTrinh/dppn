@@ -5,7 +5,7 @@ base_headword: "Sādhinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sādhinī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhinī, Sādhanī. Mẹ của Sodhana và của Kapila, người mà trong một kiếp sống sau, đã trở thành Kapilamaccha. Bà và con gái của bà, Tāpanā, đã trở thành các nữ tu, nhưng vì họ đã noi gương Kapila mà lăng mạ và chửi bới những vị tỳ-kheo tốt, nên sau khi chết, họ đã tái sinh vào *Niraya*. Dhp­a.iv.37, 42; Snp­a.i.305.
 
 ## Notes

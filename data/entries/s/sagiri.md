@@ -5,7 +5,7 @@ base_headword: "Sāgiri"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāgiri. A monastery near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgiri. Một tu viện gần Puṇṇasālakoṭṭhaka. Đó là nơi ở của Bahulamassutissa. Ras.ii.128.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saddhātissa"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -58,6 +58,12 @@ He was a very pious king, entirely devoted to the cause of religion. Various sto
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhātissa 01. Vua của Ceylon (77-59 trước Tây lịch). Ông là em trai của Duṭṭhagāmaṇī và nhỏ hơn khoảng một tuổi. Khi ông mười tuổi, tại buổi lễ trưởng thành, ông bị buộc phải thề rằng sẽ không bao giờ chiến đấu chống lại anh trai mình; nhưng khi cha ông, Kākavaṇṇatissa, qua đời, ông đã chiếm ngôi trong lúc Duṭṭhagāmaṇī đi vắng. Cho đến lúc đó, ông phụ trách quận Dīghavāpi. Duṭṭhagāmaṇī bèn gây chiến với ông, nhưng bị đánh bại tại Cūḷaṅganiyapiṭṭhi. Sau đó tình thế đảo ngược, và Tissa phải chạy trốn đến một tu viện. Duṭṭhagāmaṇī bao vây tu viện, nhưng vài tu sĩ trẻ đã khiêng Tissa ra ngoài trên một chiếc giường, trùm kín như một xác chết. Gāmaṇī phát hiện ra mưu kế này, nhưng đã kiềm chế không hành động. Thông qua sự can thiệp của Godhagattatissa Thera*,* hai anh em đã hòa giải, và sau đó, dường như đã hết lòng vì nhau.
+
+Sau khi Gāmaṇī chinh phục Anurādhapura, Tissa dường như đã trở lại làm thống đốc của Dīghavāpi. Khi Gāmaṇī hấp hối, Tissa được gọi đến để hoàn thành công trình Mahā Thūpa, để nhà vua có thể nhìn thấy nó trước khi qua đời. Ông đã hoàn thành việc này bằng các cấu trúc tạm thời, được thiết kế một cách khéo léo. Ông được lệnh giữ nguyên vẹn tất cả các hoạt động phục vụ tôn giáo do anh trai mình khởi xướng, và, khi người anh qua đời, Tissa đã kế vị ông, cai trị trong mười tám năm. Ông đã xây dựng lại Lohapāsāda sau khi nó bị thiêu rụi, và dựng lên nhiều *vihāra* – Dakkhiṇāgiri, Kallakālena, Kalambaka, Pettaṅgavālika, Velaṅgaviṭṭhika, Dubbalavāpitissaka, Dūratissaka, Mātuvihāraka và Dīghavāpi. Ông đã xây dựng một *vihāra* ở mỗi *yojana* trên con đường từ Anurādhapura đến Dīghavāpi. Ông có hai người con trai, Lañjatissa và Thūlathana.
+
+Sau khi chết, Tissa được tái sinh ở Tusita, và sẽ là Đệ nhị Thượng thủ Thinh văn của Metteyya Buddha. Mhv.xxii.73, 83; xxiv2ff.; xxxii.83; xxxiii.4-17; Dpv.xx 2, 4ff.
+
+Ông là một vị vua rất đạo đức, hoàn toàn cống hiến cho sự nghiệp tôn giáo. Nhiều câu chuyện khác nhau về ông được đề cập trong các bản Chú giải (xem, vd., Kāḷa Buddharakkhita). Có lần ông đã đi bộ năm do-tuần đến Maṅgana để đảnh lễ Kujjatissa (*q.v.*) (AN­a.i.384f). Vào một dịp khác, ông đã dâng chim dẽ giun cho một sa-di từ *pariveṇa* Kanthakasāla, tuy nhiên vị này chỉ nhận rất ít. Hài lòng với sự tiết độ của vị sa-di, nhà vua đã tôn vinh vị ấy rất nhiều (AN­a.i.264). Dường như ông đặc biệt yêu mến các tu sĩ của Cetiyagiri (xem Vibh­a.473). Có vẻ như ông cũng được biết đến với tên gọi Dhammikatissa. Dhammikatissa có lần đã phân phát một trăm xe bò đường (*guḷa*) cho mười hai ngàn tu sĩ. Một sa-di bảy tuổi được một vị tỳ-kheo vừa đến Cetiyagiri từ Anurādhapura sai đi lấy cho vị ấy một ít đường, khoảng bằng kích thước một quả *kapiṭṭha*. Người phục vụ đề nghị cho vị sa-di một đĩa đầy, nhưng vị sa-di từ chối nhận nhiều như vậy. Nhà vua nghe được cuộc trò chuyện, và, hài lòng với vị sa-di, đã gửi thêm bốn trăm xe bò đường để cúng dường cho Tăng đoàn (vd., SN­a.iii.48). Xem thêm câu chuyện của Kukkuṭagiri.
 
 ## Notes

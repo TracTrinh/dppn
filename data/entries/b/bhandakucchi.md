@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍakucchi"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaṇḍakucchi. One of the gate-keepers (*dovārikā*) of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍakucchi. Một trong những người gác cổng (*dovārikā*) của Maṇḍavya, những người đã nhận lệnh ném Mātaṅga ra ngoài. Ja.iv.382.
 
 ## Notes

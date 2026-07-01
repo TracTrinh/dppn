@@ -5,7 +5,7 @@ base_headword: "Bhaṇḍanasutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaṇḍanasutta 01. The Buddha says it is unpleasant for him even to think of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaṇḍanasutta 01. Đức Phật dạy rằng Ngài không muốn nghĩ đến một nơi mà các tỳ-kheo hay tranh cãi, chứ đừng nói đến việc đi tới đó. Sự xung đột là do việc từ bỏ những suy nghĩ ly tham, từ bi và vô hại. Các tỳ-kheo sống trong sự hòa hợp sẽ trau dồi những pháp này. AN.i.275f.
 
 ## Notes

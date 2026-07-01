@@ -5,7 +5,7 @@ base_headword: "Sādhīna"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sādhīna 01. The Bodhisatta, born as king of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhīna 01. Bodhisatta, sinh ra làm vua của Mithilā. Xem Sādhīnajātaka (Ja 494).
 
 ## Notes

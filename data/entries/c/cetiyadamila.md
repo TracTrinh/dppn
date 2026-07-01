@@ -5,7 +5,7 @@ base_headword: "Cetiyadamiḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Cetiyadamiḷa. The chief warrior of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyadamiḷa. Chiến binh trưởng của Eḷāra, bị Veḷusumana giết. Ras.ii.62; nhưng xem Veḷusumana.
 
 ## Notes

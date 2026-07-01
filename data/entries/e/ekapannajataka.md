@@ -5,7 +5,7 @@ base_headword: "Ekapaṇṇajātaka"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -31,6 +31,8 @@ The story was told in reference to a <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapaṇṇajātaka (Ja 149). Bodhisatta từng là một ẩn sĩ Bà-la-môn có thần thông lực lớn và sống trong Himālaya. Một ngày nọ, ngài vào Benares và cư trú trong ngự viên. Nhà vua, hài lòng với phong thái của ngài, mời ngài vào cung và thỉnh ngài ở lại công viên trong mùa an cư. Nhà vua có một người con trai tính khí xấu, tên là Duṭṭhakumāra, và vì tuyệt vọng không biết có thể cải hóa cậu ta được hay không, như biện pháp cuối cùng, vua giao cậu cho vị ẩn sĩ. Một ngày nọ, khi vị ẩn sĩ đang đi dạo trong vườn với hoàng tử, ngài bảo cậu nếm lá của một cây *Nimba* non. Hoàng tử làm vậy, nhưng lập tức nhổ ra vì vị đắng dữ dội của nó. “Nếu vị đắng như vậy đã có trong cây con, thì khi nó lớn lên sẽ thế nào?” Bodhisatta nói, và từ đó rút ra một bài học đạo đức liên quan đến chính hạnh kiểm của hoàng tử. Hoàng tử được lợi ích từ bài học ấy, và từ đó về sau thay đổi tính tình.
+
+Câu chuyện được kể liên quan đến một Licchavī-kumāra tên là Duṭṭha. Ja.i.504-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sahaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahaka Thera. He was a member of the Saṅgha in the time of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahaka Thera. Ông là một thành viên của Tăng đoàn vào thời Kassapa Buddha, và, sau khi phát triển *jhāna* thứ nhất, đã tái sinh sau khi chết, trong cõi *Brahma*, nơi ông được biết đến với tên gọi Sahampati. SN­a.i.155; Snp­a.i.476.
 
 ## Notes

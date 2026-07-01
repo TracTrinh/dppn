@@ -5,7 +5,7 @@ base_headword: "Sagara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sagara. A mythical king of the line of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sagara. Một vị vua huyền thoại thuộc dòng dõi của Okkāka. Ông có sáu mươi ngàn người con trai, những người đã cai trị trong ngần ấy thị trấn ở Jambudīpa. Cv.lxxxvii.34; truyền thuyết về Sagara và những người con trai của ông được kể trong *Mahā Bhārata* (iii.106ff.).
 
 ## Notes

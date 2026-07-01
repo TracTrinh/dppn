@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "10"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 10. The same, in substance, as (9). AN.v.312f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 10. Về bản chất, giống như (9). AN.v.312f.
 
 ## Notes

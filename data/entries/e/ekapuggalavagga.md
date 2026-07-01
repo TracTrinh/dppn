@@ -5,7 +5,7 @@ base_headword: "Ekapuggalavagga"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekapuggalavagga. The thirteenth chapter of the *Ekanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapuggalavagga. Chương thứ mười ba của *Ekanipāta* thuộc Aṅguttaranikāya. Chương này gồm bảy *Sutta*, sáu bài về Tathāgata và một bài về Sāriputta. AN.i.22f.
 
 ## Notes

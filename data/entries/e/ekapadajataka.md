@@ -5,7 +5,7 @@ base_headword: "Ekapadajātaka"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekapadajātaka (Ja 238). Once the Bodhisatta was born as a rich merchant in <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapadajātaka (Ja 238). Một lần Bodhisatta sinh làm một thương nhân giàu có ở Benares. Một ngày nọ, con trai của ngài, ngồi trên đùi ngài, hỏi ngài về một từ bao hàm tất cả mọi sự. Bodhisatta nói đó là “kỹ năng” (*dakkheyya*). Câu chuyện được kể liên quan đến một cậu bé ở Sāvatthī, người đã hỏi cha mình “*Dvārapañha*” (câu hỏi về lối vào Đạo). Người cha, không thể trả lời cậu bé, đã đưa cậu đến gặp Đức Phật. Ja.ii.236f.
 
 ## Notes

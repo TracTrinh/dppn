@@ -5,7 +5,7 @@ base_headword: "Cetiyapabbata"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -73,6 +73,10 @@ The Commentaries relate several anecdotes connected with <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyapabbata, Cetiyagiri. Tên gọi sau này của ngọn núi Missaka được đặt dựa trên vô số các đền thờ của nó. Devānampiyatissa đã xây dựng một *vihāra* ở đó – *vihāra* thứ hai ở Ceylon – cho Mahinda và những người được xuất gia dưới sự tế độ của ông (Mhv.xvi.12-17). Các xá-lợi, được Sumana *Sāmaṇera* mang về từ Asoka và từ Sakka, đã được cất giữ ở đó cho đến khi chúng được cần đến. Theo Mahā Vaṁsa (Mhv.xxii.23ff), sự kiện này là nguyên nhân của tên gọi đó. Một trong tám cây chồi của cây Bodhi thiêng liêng ở Anurādhapura đã được trồng trong *ārāma* trên Cetiyagiri (Mhv.xix.62). Mahinda đã trải qua những năm tháng cuối đời của mình trên Cetiyagiri và qua đời ở đó, và xá-lợi của ông đã được tôn trí tại đó (Mhv.xx.32, 45). Gần ngọn núi là ngôi làng Dvāramaṇḍala (Mhv.xxiii.23). Kuṭakaṇṇatissa đã xây dựng một *uposatha*-hall trên ngọn núi và trồng một cây Bodhi, trong khi *Bhātikābhaya* cung cấp thức ăn hàng ngày cho một ngàn nhà sư cư ngụ tại đó (Mhv.xxxiv.30f, 64), và Lañjakatissa đã cho lát nền *vihāra* với chi phí một trăm ngàn (Mhv.xxxiii.25). Mahā Dāṭhika Mahā Nāga đã làm bốn cổng chính và một con đường quanh ngọn núi, và tổ chức *Giribhaṇḍapūjā* với sự hoành tráng và nghi lễ lớn lao; người ta nói rằng để cho mọi người có thể đến gần ngọn núi với đôi chân sạch sẽ, ông đã trải thảm dài đến tận đó từ sông Kadamba (Mhv.xxxiv.75ff). Kanirajānutissa đã ra lệnh xử tử sáu mươi nhà sư của Cetiyapabbata như những kẻ phản quốc bằng cách ném họ vào hang động gọi là Kanira (Mhv.xxxv.11). Vasabha đã cung cấp bốn ngàn ngọn đèn để thắp sáng trên Cetiyagiri (Mhv.xxxv.80), trong khi Jeṭṭhatissa đã trao tặng cho *vihāra* phần thu nhập có được từ hồ chứa nước Kāḷamattika (Mhv.xxxvi.130; xem thêm Dpv.xv.69; xvii.90; xix.13, và Vin-a.i.82ff).
+
+Vào thời của Kakusandha, Cetiyagiri được gọi là Devakūṭa, vào thời của Koṇāgamana là Suvaṇṇakūṭa, và vào thời của Kassapa là Subhakūṭa (Vin-a.i.86f). Các tu sĩ Dhammarucika từng chiếm giữ Ambatthalavihāra trên Cetiyapabbata, sau khi nó được Dhātusena giao cho họ (Cv.xxxviii.75). Aggabodhi đã cung cấp một nguồn cấp nước thường xuyên cho hồ tắm tên là Nāgasoṇḍi, trên đỉnh Cetiyagiri (Cv.xlii.28; xem Cv.Trs.i.68, n.8), trong khi Aggabodhi III. đã trao tặng cho *vihāra* ngôi làng Ambillapadara (Cv.xliv.122). Aggabodhi V. đã trùng tu lại các tòa nhà đổ nát của Cetiyapabbata với chi phí một trăm hai mươi ngàn đồng (Cv.xlviii.7), trong khi hoàng hậu của Udaya I, đã xây dựng ở đó một *cetiya* Kanthaka, và chồng của bà đã trang hoàng ngọn núi với những lá cờ và dải băng nhiều màu sắc rực rỡ (Cv.xlix.23, 27). Sena I, đã trao tặng cho tu viện phần thu nhập từ Kāṇavāpi (Cv.l.72), và Sena II. đã cung cấp một bệnh viện để cho các nhà sư ở đó sử dụng (Cv.li.73). Kassapa VI. đã xây dựng Hadayuṇhapariveṇa và ban tặng nó cho các tu sĩ Dhammarucika (Cv.lii.18). Parakkamabāhu I. đã trùng tu lại tất cả các tòa nhà cổ kính đã bị phá hủy và xây dựng sáu mươi bốn *Thūpa* (Cv.lxxviii.108).
+
+Các bản Chú giải kể lại một vài giai thoại liên quan đến Cetiyapabbata. Maliyadeva Thera đã tụng đọc Chachakkasutta ở đó, và sáu mươi vị tỳ-kheo lắng nghe đã trở thành các bậc *Arahant* (MN­a.ii.1064). Lomasanāga Thera đã sống trong *Padhānaghara* ở Piyaṅguguhā tại đó và vượt qua cái lạnh mà ông cảm thấy bằng cách thiền định về *Lokantarikaniraya* (MN­a.i.65). Cetiyapabbata là nơi cư ngụ của Kāḷa Buddharakkhita, và Vua Saddhātissa đã trải qua một thời gian ở đó (MN­a.i.469f. Xem thêm Vsm.20, 64; Dhsa.194, 200; AN­a.i.44). Vào thời điểm mà Faxian đến Ceylon có hai ngàn nhà sư ở Cetiyagiri, bao gồm cả một nhà sư danh tiếng lớn, tên là Dharmagupta (Giles: p.72).
 
 ## Notes

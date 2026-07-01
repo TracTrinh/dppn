@@ -5,7 +5,7 @@ base_headword: "Chaḷindriyavagga"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chaḷindriyavagga. The third chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaḷindriyavagga. Chương thứ ba của Indriyasaṁyutta. SN.v.203ff.
 
 ## Notes

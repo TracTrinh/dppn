@@ -5,7 +5,7 @@ base_headword: "Cellāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cellāra. A village in South India. Cv.1xxvi.262.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cellāra. Một ngôi làng ở Nam Ấn Độ. Cv.1xxvi.262.
 
 ## Notes

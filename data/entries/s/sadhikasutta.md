@@ -5,7 +5,7 @@ base_headword: "Sādhikasuttā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sādhikasuttā. Three *Suttas* on the advantages of reciting the *Pātimokkha* r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhikasuttā. Ba *Sutta* về những lợi ích của việc tụng giới *Pātimokkha* hai lần một tháng. AN.i.231f.
 
 ## Notes

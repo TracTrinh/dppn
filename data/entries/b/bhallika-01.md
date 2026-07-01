@@ -5,7 +5,7 @@ base_headword: "Bhallika"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -50,6 +50,12 @@ It is said that the hair (eight handfuls) given by the Buddha was deposited in a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallika 01. Bhallika Thera, Bhalliya Thera, Bhalluka Thera. Em trai của Tapassu, cha của họ là một trưởng đoàn thương buôn ở Pokkharavatī thuộc Ukkalā (AN­a.i.207 gọi nơi sinh của họ là Asitañjana). Trong lúc họ đang đi cùng với năm trăm cỗ xe buôn, những chiếc xe này dừng lại gần cây Rājāyatana nơi Đức Phật đang ngồi, tám tuần sau khi Ngài giác ngộ. Khi họ tìm hiểu nguyên nhân xe dừng lại như vậy, một vị thiên thần, người thân của họ trong một kiếp trước (là mẹ của họ theo AN­a.i.207), đã chỉ cho họ Đức Phật và bảo họ hãy dâng cho Ngài một bữa ăn vì Ngài đã không ăn gì trong suốt bảy tuần. Không đợi nấu nướng, các thương nhân đã dâng cho Đức Phật một ít bơ và mật ong trong một cái bát do Tứ Đại Thiên Vương cung cấp. Cuối bữa ăn, Đức Phật đã nói chuyện với họ. Họ chấp nhận Đức Phật và Pháp làm nơi nương tựa của mình (*Dvevācikasaraṇa*, do đó họ trở thành những nam cư sĩ đầu tiên của Đức Phật; AN.i.26), và thỉnh được từ Đức Phật một ít tóc làm đối tượng tôn thờ. Sau đó, khi Đức Phật ở Rājagaha sau khi thuyết Bài Pháp Đầu Tiên, các thương nhân đã đến thăm Ngài và lắng nghe Ngài thuyết pháp. Tapassu trở thành một *Sotāpanna*, còn Bhallika gia nhập Tăng đoàn và trở thành một *Arahant*.
+
+Trong quá khứ, Bhallika đã cúng dường trái cây cho một Pacceka Buddha, tên là Sumana. Trong kiếp của Sikhī Buddha, ông là một người Bà-la-môn ở Aruṇavatī, và khi nghe tin Ujita và Ojita đã dâng cho Đức Phật bữa ăn đầu tiên, ông và bạn mình đã thỉnh Đức Phật đến dùng bữa tại nhà họ, và phát nguyện sẽ giành được một vinh dự tương tự cho chính mình trong tương lai. Họ là những người chăn gia súc trong kiếp của Kassapa Buddha, và trong nhiều năm đã cúng dường cơm sữa cho Đức Phật và các tỳ-kheo (Thag­a.i.48f.; AN­a.i.207f.; Vin.i.3f.; Ja.i.80. Mhv.iii.303f).
+
+Theragāthā (câu 7), chứa một bài kệ do Bhallika đọc khi Māra cố gắng làm ông khiếp sợ bằng cách biến thành một hình thù gớm ghiếc.
+
+Người ta kể rằng tóc (tám nắm) do Đức Phật ban cho đã được cất giữ trong một *cetiya* ở Asitañjana và vào những ngày trai giới, những tia sáng màu xanh lam tỏa ra từ *cetiya* đó. AN­a.i.208. Có một truyền thuyết ở Ceylon (được ghi lại trong *Pūjāvaliya*) rằng Tapassu và Bhalluka đã đến thăm bờ biển phía đông Ceylon và xây dựng một *cetiya* ở đó. Một bản khắc cũng ghi lại điều tương tự.
 
 ## Notes

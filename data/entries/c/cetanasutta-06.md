@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 06. The desire and lust that is in will, concerning shape, etc., is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 06. Sự ham muốn và tham ái có trong tác ý, liên quan đến sắc, v.v., là sự cấu uế của tâm. SN.iii.233.
 
 ## Notes

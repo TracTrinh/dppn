@@ -5,7 +5,7 @@ base_headword: "Cetiyasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Cetiyasutta. The Buddha goes with <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetiyasutta. Đức Phật cùng với Ānanda đi khất thực ở Vesālī và, sau bữa ăn, nghỉ ngơi tại Cāpāla Cetiya. Ở đó Đức Phật ca ngợi vẻ đẹp của Vesālī và tuyên bố rằng, nếu ngài muốn, ngài có thể sống trọn một *kappa*. Ānanda đã không hành động theo lời gợi ý đó. Khi Ānanda rời khỏi ngài, Māra thỉnh cầu Đức Phật hãy nhập diệt, vì các đệ tử của ngài đã được huấn luyện trọn vẹn. Đức Phật đồng ý, và tuyên bố rằng ngài sẽ nhập diệt trong thời gian ba tháng nữa. SN.v.258ff; sự kiện này cũng được đưa ra trong DN.ii.102ff và Ud.vi.1.
 
 ## Notes

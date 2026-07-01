@@ -5,7 +5,7 @@ base_headword: "Saddhāsumanatissa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhāsumanatissa. A monk of Ceylon. He joined the Saṅgha after gaining his p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsumanatissa. Một tu sĩ của Ceylon. Ông gia nhập Tăng đoàn sau khi nhận được sự đồng ý của cha mẹ (Sās-d.85f) với rất nhiều khó khăn. Một lần, khi đi hành hương đến Nāgadīpa, ông nhìn thấy một hội chúng tỳ-kheo, và, xúc động trước cảnh tượng đó, đã ngồi xuống dưới một cái cây và chứng đạt quả vị *Arahant*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekasālā"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekasālā. A Brahmin village in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasālā. Một làng Bà-la-môn trong vương quốc Kosala. Đức Phật từng trú tại đó, và khi một hội chúng đông đảo cư sĩ đang lắng nghe Ngài, Māra, nghĩ sẽ làm trí tuệ của họ tối tăm, đã gợi ý với Ngài rằng Ngài không nên dạy người khác. Đức Phật bác bỏ lời gợi ý của Māra, và Māra rút lui trong thất bại. SN.i.111.
 
 ## Notes

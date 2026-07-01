@@ -5,7 +5,7 @@ base_headword: "Saddhīdha Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhīdha Sutta. A name given in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhīdha Sutta. Một cái tên được đưa ra trong Suttasaṅgaha (Số 39) cho Vittisutta (*q.v.*).
 
 ## Notes

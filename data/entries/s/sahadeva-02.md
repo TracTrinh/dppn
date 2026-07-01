@@ -5,7 +5,7 @@ base_headword: "Sahadeva"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,6 @@ Sahadeva 02. Son of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahadeva 02. Con trai của Vua Paṇḍu. Ông là người trẻ nhất trong số năm anh em, tất cả đều là chồng của Kaṇhā, những người còn lại là Ajjuna, Nakula, Bhīmasena và Yudhiṭṭhira. Ja.v.424, 426.
 
 ## Notes

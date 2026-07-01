@@ -5,7 +5,7 @@ base_headword: "Bhallātakadāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhallātakadāyaka Thera. An *Arahant*. Eighteen *kappas* ago he was an ascetic 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhallātakadāyaka Thera. Một vị *Arahant*. Mười tám *kappa* trước, ngài là một đạo sĩ và, khi thấy Atthadassī Buddha đi trên hư không, đã thỉnh Đức Phật đến am thất của mình. Tại đó ngài đã cúng dường Đức Phật một quả *bhallātaka* (Ap.ii.398). Ngài có lẽ chính là Vijitasena. Thag.A.i.426.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Catuposathikajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ No such separate <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catuposathikajātaka (Ja 441). Đây được đưa ra như là nhan đề của truyện Bổn sinh (Jātaka) thứ bốn trăm bốn mươi mốt và ở đó có nói rằng nó sẽ được mô tả trong Puṇṇakajātaka (Ja.iv.14).
+
+Không có truyện Bổn sinh riêng biệt nào như vậy tồn tại và có lẽ đó là một tên gọi khác của Vidhurapaṇḍitajātaka (Ja 545), mà ở dạng hiện tại của nó, dường như là một sự kết hợp của nhiều truyền thuyết từng là các câu chuyện riêng biệt, mỗi câu chuyện có nhan đề riêng của nó. Catuposathikajātaka rõ ràng là một câu chuyện như vậy, sau đó đã được đưa vào Vidhurajātaka, như là phần đầu tiên của nó, và được biết đến với tên gọi là *Catuposathikakhaṇḍa* (xem bên dưới) của truyện Bổn sinh đó. Bài kệ đầu tiên của *Catuposathikajātaka* được trích dẫn trong Catuposathikakhaṇḍa. Ja.vi.257.
 
 ## Notes

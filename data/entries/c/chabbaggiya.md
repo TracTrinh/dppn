@@ -5,7 +5,7 @@ base_headword: "Chabbaggiyā"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -45,6 +45,14 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chabbaggiyā, Chabbaggiyas. Một nhóm các nhà sư, cùng thời với Đức Phật, thường được đề cập đến như là những người phạm phải nhiều tội lỗi Vinaya khác nhau. Vin.i.84f, 104, 106, 111, 113, 114, 138, 160, 170, 185, 189, 192, 194, 203f, 216, 285, 306, 316; ii.73, 105ff, 145ff, 213ff, 241, 262, etc.: Ja.i.191, 217, 360; iii.149; Dhp­a.iii.48f., 330, 382.
+
+Sáu nhà sư – Assaji, Punabbasu, Paṇḍuka, Lohitaka, Mettiya và Bhummaja – là những người lãnh đạo của họ, do đó mới có tên gọi này.
+
+Cũng có những vị tỳ-kheo-ni trong số những người đi theo họ, những người này tương tự cũng đã vi phạm các điều luật Vinaya bằng nhiều cách khác nhau. (Vin.ii.262, 266, 269, 271, 276).
+
+Người ta nói rằng Assaji và Punabbasu có trụ sở của họ ở Kīṭāgiri, Mettiya và Bhummaja (Bhummajaka) ở Rājagaha và Paṇḍuka và Lohitaka ở Jetavana (Ja.ii.387).
+
+Theo Samantapāsādikā (iii.613f) họ đều là người ở Sāvatthī và ban đầu đều quen biết nhau. Nhận thấy kiếm sống khó khăn, họ đã gia nhập Tăng đoàn dưới sự tế độ của hai Vị Đệ tử Tối thắng. Họ đã tự quyết định với nhau rằng thật không khôn ngoan nếu tất cả họ đều sống ở cùng một nơi, và do đó họ đã chia thành ba nhóm như được đề cập ở trên. Mỗi nhóm có năm trăm nhà sư gắn bó với nó. Trong ba nhóm này, những người theo Paṇḍuka và Lohitaka là những người có đạo đức nhất. Họ đã ở lại gần Đức Phật, tháp tùng ngài trong những chuyến du hành. Họ đã không, giống như những người khác, vi phạm các điều luật Vinaya.
 
 ## Notes

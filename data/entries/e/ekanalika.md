@@ -5,7 +5,7 @@ base_headword: "Ekanāḷika"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekanāḷika. A famine that broke out in Ceylon during the time of King <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekanāḷika. Một nạn đói bùng phát tại Ceylon vào thời vua Kuñcanāga. Dân chúng bị giảm xuống chỉ còn rất ít thức ăn, nhưng nhà vua vẫn duy trì không gián đoạn một cuộc bố thí lớn (*mahāpeḷā*) được ấn định cho năm trăm vị sư. Mhv.xxxvi.20.
 
 ## Notes

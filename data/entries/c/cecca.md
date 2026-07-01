@@ -5,7 +5,7 @@ base_headword: "Cecca"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cecca. A shortened form of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cecca. Một dạng rút gọn của Cetiya. Ja.v.267, 273.
 
 ## Notes

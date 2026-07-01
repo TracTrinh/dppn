@@ -5,7 +5,7 @@ base_headword: "Sādhujanavilāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sādhujanavilāsinī. A *ṭīkā* on the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhujanavilāsinī. Một bản *ṭīkā* về Dīghanikāya của Ñāṇābhivaṁsa xứ Miến Điện. Sās.134; Bode, 78.
 
 ## Notes

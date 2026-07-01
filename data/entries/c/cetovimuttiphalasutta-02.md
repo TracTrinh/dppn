@@ -5,7 +5,7 @@ base_headword: "Cetovimuttiphalasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Cetovimuttiphalasutta 02. The thought of impermanence, of ill in impermanence, o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetovimuttiphalasutta 02. Ý niệm về sự vô thường, về cái khổ trong sự vô thường, về tính vô ngã trong cái khổ, về sự buông bỏ và về sự ly tham – những điều này, khi được tu tập, mang lại quả vị là tâm giải thoát và tuệ giải thoát. AN.iii.85.
 
 ## Notes

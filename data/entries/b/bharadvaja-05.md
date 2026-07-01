@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -76,6 +76,26 @@ The *Purohita* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 05. Bhāradvājas. Tên của một gia tộc Bà-la-môn; khoảng hai mươi cá nhân thuộc gia tộc này được nhắc đến trong các *Piṭaka*. Trong một gia đình, sống ở Rājagaha, người anh cả đã kết hôn với một nữ Bà-la-môn Dhanañjāni và sau đó đã trở thành một *Arahant* (xem Bhāradvāja 3)
+
+Các em trai của ngài: Akkosaka Bhāradvāja, Asurindaka Bhāradvāja, Bilaṅgika Bhāradvāja và Saṅgārava Bhāradvāja, đã noi gương ngài (SN.i.160ff.; SN­a.i.175ff.; MN­a.ii.808).
+
+Một vài người Bhāradvāja khác sống ở Sāvatthī đã đến thăm Đức Phật tại đó, và đã gia nhập Tăng đoàn rồi trở thành các *Arahant*; cụ thể là,
+
+- Ahiṁsaka Bhāradvāja,
+- Jatā Bhāradvāja và
+- Suddhika Bhāradvāja;
+- Aggika Bhāradvāja đã gia nhập Tăng đoàn tại Veḷuvana,
+- Sundarika Bhāradvāja trên bờ sông Sundarikā, và
+- Bahudhītīka Bhāradvāja trong một khu rừng ở Kosala.
+- Kasi Bhāradvāja,
+- Kaṭṭhahāra Bhāradvāja và
+- Navakammaki Bhāradvāja đã trở thành các đệ tử cư sĩ.
+
+Trưởng lão Piṇḍola cũng thuộc về *gotta* Bhāradvāja; Kāpaṭhika cũng vậy (MN.ii.169f). *Gotta* này rõ ràng được coi là rất cổ xưa. Các sách có đề cập đến một vị Bhāradvāja nằm trong số những tác giả sáng tác ra các bài kệ chú của những *Brāhmaṇa* (e.g., DN.i.242; MN.ii.169, 200; AN.iii.224; iv.61, etc.).
+
+Kāliṅgabodhijātaka (Ja 479) nói về một vị Bà-la-môn Kāliṅga Bhāradvāja, trong khi người thợ mộc Bà-la-môn trong Phandanajātaka (Ja 475) cũng thuộc cùng gia tộc này.
+
+Vị *Purohita* Sucīrata, của Dhanañjaya Koravya (trong Sambhavajātaka (Ja 515)), là một người Bhāradvāja, và Jūjaka trong Vessantarajātaka (Ja 547) cũng vậy. Trong một đoạn Vinaya, *gotta* Bhāradvāja được nhắc đến cùng với Kosiya như là một dòng dõi thấp hèn (*hīnagotta*) (Vin.iv.6; nhưng xem DN­a.iii.860).
 
 ## Notes

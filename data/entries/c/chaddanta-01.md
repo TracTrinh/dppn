@@ -5,7 +5,7 @@ base_headword: "Chaddanta"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -27,6 +27,6 @@ Chaddanta 01. A forest in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaddanta 01. Một khu rừng ở Himavā. Trong khu rừng này có Hồ Mandākinī, trên bờ hồ này Aññā Koṇḍañña đã sống ẩn dật trong mười hai năm, được hầu hạ bởi tám ngàn con voi từng phục vụ các vị Pacceka Buddha. SN­a.i.217; Thag­a.ii.3, 7; AN­a.i.84.
 
 ## Notes

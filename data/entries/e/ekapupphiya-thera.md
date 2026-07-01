@@ -5,7 +5,7 @@ base_headword: "Ekapupphiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he was a *Pisāca* at t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapupphiya Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ngài là một *Pisāca* ở cổng phía nam của thành phố (Bandhumatī?), và khi thấy Đức Phật, ngài cúng dường Ngài một bông hoa duy nhất. Ap.i.240.
 
 ## Notes

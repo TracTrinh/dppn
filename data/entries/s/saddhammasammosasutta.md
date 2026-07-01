@@ -5,7 +5,7 @@ base_headword: "Saddhammasammosasuttā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammasammosasuttā. Three *Suttas* on three groups of five things which lead
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammasammosasuttā. Ba *Sutta* về ba nhóm năm pháp dẫn đến sự nhầm lẫn và sự biến mất của Pháp. AN.iii.176ff.
 
 ## Notes

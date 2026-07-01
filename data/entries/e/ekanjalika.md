@@ -5,7 +5,7 @@ base_headword: "Ekañjalika"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekañjalika. A king of fourteen *kappas* ago, a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekañjalika. Một vị vua cách đây mười bốn *kappa*, một tiền thân của Ekañjaliya Thera. Ap.i.236.
 
 ## Notes

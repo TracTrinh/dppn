@@ -5,7 +5,7 @@ base_headword: "Cetopariccasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Cetopariccasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetopariccasutta. Anuruddha, khi bị một số nhà sư chất vấn tại Jetavana, đã nói với họ rằng nhờ tu tập bốn Satipaṭṭhāna mà ông đã có thể đọc và biết được tâm trí của chúng sinh, của những người khác. SN.v.304.
 
 ## Notes

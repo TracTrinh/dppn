@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saddhāsutta 06. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 06. (hoặc Āpaṇasutta). Đức Phật, khi đang ở tại Āpaṇa, hỏi Sāriputta liệu một vị tỳ-kheo hoàn toàn hết lòng với Tathāgata, và có niềm tin tuyệt đối vào ngài, có thể có bất kỳ sự nghi ngờ hay dao động nào về Tathāgata hoặc giáo pháp của ngài không. Sāriputta trả lời là không và tiếp tục giải thích. SN.v.225f.
 
 ## Notes

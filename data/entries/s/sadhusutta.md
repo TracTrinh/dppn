@@ -5,7 +5,7 @@ base_headword: "Sādhusutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sādhusutta. Six <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhusutta. Sáu vị chư thiên của nhóm Satullapakāyikā đến thăm Đức Phật tại Jetavana và mỗi vị đọc lên một bài kệ ca ngợi sự bố thí hào phóng. Đức Phật sau đó đọc một bài kệ, trong đó ngài tán dương sự thực hành Pháp cao hơn là những món quà cúng dường. SN.i.20f.
 
 ## Notes

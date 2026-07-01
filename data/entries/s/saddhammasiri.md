@@ -5,7 +5,7 @@ base_headword: "Saddhammasiri"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammasiri. A monk of Pagan, probably of the twelfth century, author of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammasiri. Một tu sĩ của Pagan, có lẽ thuộc thế kỷ mười hai, tác giả của Saddatthabhedacintā. Gv.63, 73; Bode, 22.
 
 ## Notes

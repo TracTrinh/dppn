@@ -5,7 +5,7 @@ base_headword: "Ekapuggalasutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekapuggalasutta. A group of *Suttas* on the uniqueness of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapuggalasutta. Một nhóm *Sutta* về tính độc nhất của Tathāgata (AN.i.22f). *Sutta* này được trích dẫn trong Kathāvatthu (i.65) và Milindapañha (p.242).
 
 ## Notes

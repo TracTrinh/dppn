@@ -5,7 +5,7 @@ base_headword: "Saddhāsutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhāsutta 04. Eight qualities which make a monk perfect. AN.iv.315.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhāsutta 04. Tám phẩm chất làm cho một vị tỳ-kheo trở nên hoàn hảo. AN.iv.315.
 
 ## Notes

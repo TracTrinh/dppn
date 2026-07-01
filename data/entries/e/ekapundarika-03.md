@@ -5,7 +5,7 @@ base_headword: "Ekapuṇḍarīka"
 disambiguator: "03"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,6 @@ Ekapuṇḍarīka 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekapuṇḍarīka 03. Ekapuṇḍarīka Thera. Một Arahant. Chín mươi bốn *kappa* trước, ngài gặp Pacceka Buddha Romasa và cúng dường vị ấy một bông sen để tỏ lòng đảnh lễ. Ap.i.238.
 
 ## Notes

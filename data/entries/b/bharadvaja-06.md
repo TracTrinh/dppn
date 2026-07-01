@@ -5,7 +5,7 @@ base_headword: "Bhāradvāja"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhāradvāja 06. A Brahmin of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvāja 06. Một người Bà-la-môn thuộc *gotta* Bhāradvāja sống tại Kammāsadhamma. Gotama Buddha từng ở đó và ngủ trên một chiếc chiếu trong túp lều thờ lửa của ông, và tại đó Ngài đã gặp *Paribbājaka* Māgandiya. MN.i.501ff.
 
 ## Notes

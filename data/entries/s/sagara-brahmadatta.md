@@ -5,7 +5,7 @@ base_headword: "Sāgara Brahmadatta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāgara Brahmadatta. The son of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara Brahmadatta. Con trai của Brahmadatta và một thiếu nữ Nāga. Để biết câu chuyện của ông, xem Bhūridattajātaka (Ja 543).
 
 ## Notes

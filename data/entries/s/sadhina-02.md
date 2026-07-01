@@ -5,7 +5,7 @@ base_headword: "Sādhīna"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sādhīna 02. The last of the dynasty of king <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sādhīna 02. Vị vua cuối cùng của vương triều vua Purindada. Ông trị vì ở Vajira (Vajiravutti) trong khi các hậu duệ của ông, gồm hai mươi hai người, cai trị ở Madhurā. Dpv.iii.21; Mhv­ṭ.128.
 
 ## Notes

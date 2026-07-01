@@ -5,7 +5,7 @@ base_headword: "Cetanāsutta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Cetanāsutta 03. Same as (1), except that consciousness, being stationed and gro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetanāsutta 03. Giống như (1), ngoại trừ việc thức, được an trú và tăng trưởng, sẽ sinh ra một sự hướng về (*nati*) tiếp nối theo sau đó, một cách tuần tự, bởi một "sự đi rồi lại đến" (*āgatigati*), tử, tái sanh, v.v. SN.ii.66f.
 
 ## Notes

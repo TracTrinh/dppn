@@ -5,7 +5,7 @@ base_headword: "Chaddanta"
 disambiguator: "03"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chaddanta 03. A tribe of elephants, of which tribe the Bodhisatta was once born 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaddanta 03. Một dòng dõi loài voi, mà Bodhisatta đã từng được sinh ra làm vua của dòng dõi này (xem số 4). Loài voi Chaddanta và loài voi Uposatha là hai hạng voi cao quý nhất (Dhp­a.iii.248). Chaddantakula thỉnh thoảng cung cấp *hatthiratana* cho một vị Cakkavatti, trong trường hợp đó chính là con voi trẻ nhất của bộ tộc sẽ đảm nhận vai trò như vậy (Khp-a.172). Trong mười dòng dõi voi được liệt kê trong các kinh sách (vd., Ud­a.403; Vibh­a.397), dòng dõi Chaddanta được xếp vào loại cao nhất, và Đức Phật sở hữu sức mạnh của mười con voi Chaddanta, mỗi con voi có sức mạnh bằng mười ngàn triệu người (Bv­a.37). Những con voi này có sức mạnh bay trong không trung và có màu trắng tinh (Ja.v.37; Vsm.650).
 
 ## Notes

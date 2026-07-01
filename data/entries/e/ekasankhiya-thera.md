@@ -5,7 +5,7 @@ base_headword: "Ekasaṅkhiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekasaṅkhiya Thera. An *Arahant*. In the past, when a festival was being held i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasaṅkhiya Thera. Một *Arahant*. Trong quá khứ, khi một lễ hội đang được tổ chức để tôn vinh cây Bodhi của Vipassī, ngài đã thổi vỏ ốc suốt cả ngày để tỏ lòng đảnh lễ Đức Phật. Bảy mươi mốt *kappa* trước, ngài trở thành một vị vua tên Sudassana. Ap.ii.391.
 
 ## Notes

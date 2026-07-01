@@ -5,7 +5,7 @@ base_headword: "Cetokhilasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Cetokhilasutta 01. While the five fallows of his heart (*cetokhilā*) are left u
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetokhilasutta 01. Trong khi năm trạng thái hoang vu của tâm (*cetokhilā*) chưa được cày xới – những hoài nghi về Đạo Sư, về Pháp, về Tăng đoàn và về tiến trình huấn luyện, sự thiếu nhiệt tâm – và năm sự trói buộc chưa được phá vỡ (sự dính mắc vào các dục lạc, vào thân thể, vào các sắc tướng, việc ăn uống quá mức, mong muốn được sinh ra giữa các vị trời) – thì không một vị tỳ-kheo nào có thể thể hiện sự tăng trưởng và tiến bộ trong Pháp và Vinaya. MN.i.101ff.
 
 ## Notes

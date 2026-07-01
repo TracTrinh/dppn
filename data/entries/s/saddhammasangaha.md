@@ -5,7 +5,7 @@ base_headword: "Saddhammasaṅgaha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhammasaṅgaha. A Chronicle, in eleven chapters, containing a history of Bud
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammasaṅgaha. Một bộ biên niên sử gồm mười một chương, chứa đựng lịch sử Phật giáo, bắt đầu với ba kỳ Đại Kết Tập. Nó được viết bởi Dhammakitti, một tu sĩ của Ayodhyā, và có lẽ thuộc về thế kỷ mười bốn. PLC.245f.
 
 ## Notes

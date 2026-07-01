@@ -5,7 +5,7 @@ base_headword: "Sāgata"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāgata 02. The personal attendant of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgata 02. Vị thị giả của Dīpaṅkara Buddha. Ja.i.29; Bv.ii.213; Bv­a.104; Mbv.5.
 
 ## Notes

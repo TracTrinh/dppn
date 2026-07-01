@@ -5,7 +5,7 @@ base_headword: "Celasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Celasutta 02. When one’s turban or head is ablaze, one must put forth special 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Celasutta 02. Khi chiếc khăn quấn đầu hoặc đầu của một người đang bốc cháy, người đó phải nỗ lực đặc biệt để dập tắt ngọn lửa; không cần phải nói, nỗ lực như vậy cũng cần thiết đối với sự liễu ngộ bốn Sự thật Cao quý. SN.v.440.
 
 ## Notes

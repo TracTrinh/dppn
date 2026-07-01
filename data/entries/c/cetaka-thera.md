@@ -5,7 +5,7 @@ base_headword: "Cetaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -28,6 +28,8 @@ The Commentary says he was so-called because he came from the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cetaka Thera. Ông là bạn đồng hành của Ānanda ngay sau khi Đức Phật nhập diệt và đã đi cùng ngài đến nhà của Subha (DN.i.204).
+
+Bản Chú giải nói rằng ông được gọi như vậy vì ông đến từ quốc gia Cetiya (DN­a.ii.386; xem thêm DN­a.i.7 và Khp-a.94).
 
 ## Notes

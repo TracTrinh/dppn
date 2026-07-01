@@ -5,7 +5,7 @@ base_headword: "Sāgara"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāgara 06. A king of the line of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāgara 06. Một vị vua thuộc dòng dõi của Mahā Sammata. Ông là con trai của Mucalinda và cha của Sāgaradeva. Dpv.iii.6; Mhv.ii.3.
 
 ## Notes

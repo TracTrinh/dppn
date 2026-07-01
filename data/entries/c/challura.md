@@ -5,7 +5,7 @@ base_headword: "Challūra"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Challūra. A tank built by King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Challūra. Một hồ chứa nước do Vua Mahā Sena xây dựng. Mhv.xxxvii.47.
 
 ## Notes
