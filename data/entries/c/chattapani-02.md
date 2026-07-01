@@ -5,7 +5,7 @@ base_headword: "Chattapāṇī"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -33,6 +33,8 @@ Two other births of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattapāṇī 02. Người thợ cạo của Vua Yasapāṇī. Câu chuyện của ông được kể lại trong Dhammaddhajajātaka (Ja 220, *q.v.*). Ông có bốn đức hạnh – ông không có lòng đố kỵ, không uống các chất say, không có những ham muốn mãnh liệt và không có sự phẫn nộ. Trong một tiền kiếp của mình ông từng là một vị vua mà hoàng hậu của ông đã có hành vi lén lút ngoại tình với sáu mươi bốn người nô lệ. Do thất bại trong việc cám dỗ Bodhisatta, bà đã nói lời vu khống ngài và khiến ngài bị tống vào ngục. Nhưng ngài đã giải thích vấn đề với nhà vua và được thả ra. Kể từ thời điểm đó nhà vua đã từ bỏ sự đố kỵ. Trong một kiếp sống khác, ông là một vị vua của xứ Benares, nghiện rượu và ăn thịt rất nặng; một ngày nọ thịt được chuẩn bị cho ông đã bị những con chó trong cung điện ăn mất. Đó là ngày trai giới, và vì không có thịt trong thị trấn, người đầu bếp đã tìm kiếm lời khuyên từ hoàng hậu. Khi nhà vua ngồi xuống ăn, cậu con trai nhỏ của ông, người mà ông rất yêu thương, đã được mang đến cho ông với hy vọng rằng ông có thể quên đi việc đòi ăn thịt. Nhưng kế hoạch đã thất bại, và trong cơn say, ông đã vặn cổ con trai mình và bảo nấu thịt của cậu cho ông ăn. Kể từ đó ông đã kiềm chế không dùng rượu mạnh và không ăn thịt nữa.
+
+Hai kiếp sống khác của Chattapāṇī cũng được đề cập đến, một lần là Kitavāsa và một lần là Araka (*q.v.*). Ông được nhận dạng với Sāriputta. Ja.ii.186-96.
 
 ## Notes

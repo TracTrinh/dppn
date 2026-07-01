@@ -5,7 +5,7 @@ base_headword: "Chandena Sutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chandena Sutta. A group of eighteen *Suttas* on abandoning lust and desire for t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chandena Sutta. Một nhóm mười tám bài *Kinh* nói về việc từ bỏ tham dục và lòng ham muốn đối với những gì là vô thường, khổ não và vô ngã (SN.iv.148-51).
 
 ## Notes

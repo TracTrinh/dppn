@@ -5,7 +5,7 @@ base_headword: "Bharukaccha"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bharukaccha 02. A park in Ceylon laid out by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharukaccha 02. Một công viên ở Ceylon do Parakkamabāhu I thiết kế. Cv.lxxix.11.
 
 ## Notes

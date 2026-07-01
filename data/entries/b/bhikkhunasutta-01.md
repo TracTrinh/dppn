@@ -5,7 +5,7 @@ base_headword: "Bhikkhunāsutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhunāsutta 01. In the Buddha’s method of explaining Dhamma, there feeling
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunāsutta 01. Trong phương pháp giải thích Dhamma của Đức Phật, các cảm thọ được chia thành nhiều hạng mục khác nhau gồm 2, 3, 5, 6, 18, 30, 108, v.v. SN.iv.229.
 
 ## Notes

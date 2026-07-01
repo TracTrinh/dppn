@@ -5,7 +5,7 @@ base_headword: "Bhattabhuttavalāhaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhattabhuttavalāhaka. The name given to the spot where <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhattabhuttavalāhaka. Tên được đặt cho địa điểm nơi Duṭṭhagāmaṇī dùng bữa sau khi vượt qua Mahā Vālukagaṅgā, trong cuộc tiến quân chống lại những người Damiḷa. Mhv­ṭ. 476.
 
 ## Notes

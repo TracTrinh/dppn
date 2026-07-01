@@ -5,7 +5,7 @@ base_headword: "Bharattāla"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharattāla. A village in Ceylon, given by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharattāla. Một ngôi làng ở Ceylon, được Aggabodhi IV trao tặng để duy trì *padhānaghara* Dāṭhāsiva. Cv.xlvi.12.
 
 ## Notes

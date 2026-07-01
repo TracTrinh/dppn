@@ -5,7 +5,7 @@ base_headword: "Cintāsutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cintāsutta 01. Unprofitable reasoning about the world, life, etc., should be ab
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cintāsutta 01. Những lập luận không mang lại lợi ích về thế giới, về cuộc sống, v.v., nên được từ bỏ. Những suy nghĩ về sự khổ, v.v., nên được tu tập. SN.v.418.
 
 ## Notes

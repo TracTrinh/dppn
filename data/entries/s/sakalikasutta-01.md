@@ -5,7 +5,7 @@ base_headword: "Sakalikāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sakalikāsutta 01. Seven hundred <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakalikāsutta 01. Bảy trăm chư thiên của nhóm Satullapa đến thăm Đức Phật tại Maddakucchi khi ngài đang nằm bị thương nặng bởi một mảnh đá vụn. Họ bày tỏ sự ngưỡng mộ của mình, bằng nhiều cách khác nhau, đối với chánh niệm và sự tự chủ của Đức Phật và lên án kẻ thù của ngài (Devadatta) vì đã cố gắng làm hại một bậc vĩ đại như vậy. SN.i.27f.
 
 ## Notes

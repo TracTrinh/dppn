@@ -5,7 +5,7 @@ base_headword: "Ciragumba"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Ciragumba. The residence of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ciragumba. Nơi cư ngụ của Ambakhādaka Mahā Tissa; nó có lẽ là một tu viện. Vsm.43.
 
 ## Notes

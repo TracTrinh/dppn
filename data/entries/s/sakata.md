@@ -5,7 +5,7 @@ base_headword: "Sakaṭa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakaṭa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakaṭa. *v.l.* Kasakaṇḍa. Một Dạ-xoa (*Yakkha*) người mà, cùng với năm ngàn người khác, đã canh giữ cánh cửa thứ năm của cung điện Jotiya. Dhp­a.iv. 209.
 
 ## Notes

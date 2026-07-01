@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,8 @@ In the past <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 04. Bharata Thera. Ngài là một gia chủ ở Campā, và, sau khi nghe tin Soṇa Koḷivisa đã xuất gia, ngài cùng với em trai mình là Nandaka cũng gia nhập Tăng đoàn, và không lâu sau đó trở thành một *Arahant*. Về sau, ngài đã giúp người em trai chậm hiểu hơn của mình đạt được tuệ giác.
+
+Trong quá khứ Bharata đã dâng cho Anomadassī Buddha một đôi dép rất êm ái và tuyệt đẹp. Thag.vss.175, 176; Thag­a.i.300f.
 
 ## Notes

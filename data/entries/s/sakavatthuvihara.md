@@ -5,7 +5,7 @@ base_headword: "Sākavatthuvihāra"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sākavatthuvihāra. A monastery in Ceylon, founded by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākavatthuvihāra. Một tu viện ở Ceylon, được thành lập bởi Dāṭhopatissa I. Cv.xliv.135.
 
 ## Notes

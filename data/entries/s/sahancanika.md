@@ -5,7 +5,7 @@ base_headword: "Sahañcanika"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahañcanika. Evidently a wrong reading for <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahañcanika. Rõ ràng là một cách đọc sai của Sahajāti.
 
 ## Notes

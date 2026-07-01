@@ -5,7 +5,7 @@ base_headword: "Cīramātikā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cīramātikā. An irrigation canal, the taxes from which King <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīramātikā. Một con kênh tưới tiêu, mà Vua Mahā Nāga đã trao tặng thuế thu được từ đó cho Mahā Vihāra (Cv.xli.100). Kênh đào này có lẽ dẫn nước ra từ Cīravāpi.
 
 ## Notes

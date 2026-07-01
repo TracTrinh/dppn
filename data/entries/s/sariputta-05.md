@@ -5,7 +5,7 @@ base_headword: "Sāriputta"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāriputta 05. One of the sons of king <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta 05. Một trong các con trai của vua Buddhadāsa. Cv.xxxvii.177.
 
 ## Notes

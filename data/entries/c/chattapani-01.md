@@ -5,7 +5,7 @@ base_headword: "Chattapāṇī"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -32,6 +32,8 @@ Once, when listening to the Buddha’s teaching, he failed to notice and do reve
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattapāṇī 01. Một *upāsaka* (cư sĩ) của Sāvatthī. Ông là một bậc *Anāgāmī* theo bản tường thuật của Jātaka (Ja.i.381f.) và là một bậc *Sakadāgāmi* theo bản Chú giải Dhammapada (Dhp-a.i.380f.).
+
+Có một lần, khi đang lắng nghe Đức Phật thuyết giảng, ông đã không chú ý và thực hiện sự tôn kính đối với nhà vua, Pasenadi, người đã đến trong lúc bài thuyết giảng đang diễn ra. Về sau, khi được triệu hồi đến cung điện của nhà vua, ông đã đến với mọi dấu hiệu của sự tôn kính và đảnh lễ nhà vua. Khi được hỏi tại sao ông lại không hành xử như vậy vào dịp trước, Chattapāṇī trả lời rằng một hành động như vậy sẽ là bất kính đối với Đức Phật. Sau đó Pasenadi đã yêu cầu ông làm người hướng dẫn về Pháp cho những người phụ nữ trong cung điện, nhưng ông đã từ chối lời mời này, cho rằng một khóa học như vậy sẽ là không thích hợp và không khôn ngoan. Nhiệm vụ đó do vậy đã được giao cho Ānanda. Dhp­a.i.380f; cp. Vin.iv.157. Câu chuyện này cũng được tìm thấy trong Ja.i.381f, với một vài biến thể về chi tiết. Ở đó chúng ta được kể lại rằng Đức Phật, khi thấy nhà vua không hài lòng, đã đề cập đặc biệt cho ngài ấy nghe về những thành tựu của Chattapāṇī.
 
 ## Notes

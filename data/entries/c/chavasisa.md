@@ -5,7 +5,7 @@ base_headword: "Chavasīsa"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chavasīsa. A charm which gave the power of saying where a dead person was born,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chavasīsa. Một loại bùa chú mang lại năng lực nói ra được một người chết đã được sinh ra ở đâu, bằng cách gõ vào hộp sọ của vị ấy bằng móng tay của một người, thậm chí là ba năm sau khi chết. Vaṅgīsa biết về bùa chú này. Thag­a.ii.192; AN­a.i.150, cp. Migasira.
 
 ## Notes

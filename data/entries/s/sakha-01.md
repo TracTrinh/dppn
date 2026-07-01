@@ -5,7 +5,7 @@ base_headword: "Sākha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sākha 01. A deer, a previous birth of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākha 01. Một con nai, tiền kiếp của Devadatta. Xem Nigrodhamigajātaka (Ja 12). Ja.i.149 ff.; cf. Dhp­a.i.148; Mvu.i.359.
 
 ## Notes

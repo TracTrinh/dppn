@@ -5,7 +5,7 @@ base_headword: "Chattapāsāda"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -27,6 +27,6 @@ Chattapāsāda. A building in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattapāsāda. Một tòa nhà ở Anurādhapura, có lẽ được gắn liền với cung điện của nhà vua. Tại đó Vua Bhātika đã phân phát các phẩm vật cho những nhà sư (Mhv.xxxiv.65; Mhv­ṭ.663). Sirināga đã sửa chữa tòa nhà này. Mhv.xxxvi.26.
 
 ## Notes

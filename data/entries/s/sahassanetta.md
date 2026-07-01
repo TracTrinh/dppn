@@ -5,7 +5,7 @@ base_headword: "Sahassanetta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sahassanetta. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassanetta. Một tên gọi của Sakka.
 
 ## Notes

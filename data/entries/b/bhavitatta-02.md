@@ -5,7 +5,7 @@ base_headword: "Bhāvitatta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāvitatta 02. A king who heard <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvitatta 02. Một vị vua đã nghe Paduma Buddha thuyết pháp, và trở thành một tỳ-kheo với một đoàn tùy tùng gồm một trăm ngàn crore người. Bv­a.148.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāriputta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sāriputta 03. A monk of Dala in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta 03. Một vị tăng ở Dala trong xứ Rāmañña. Ngài sinh tại Padīpajeyya dưới triều Narapatisithu, và được Ānanda thuộc *Sīhalasaṅgha* truyền giới. Ngài trở thành một trong những vị lãnh đạo của nhóm này tại Rāmañña. Narapati ban cho ngài danh hiệu “*Dhammavilāsa*,” và ngài là tác giả của một trong những bộ luật (*dhammasattha*) sớm nhất của Burma. Sās.41f.; Bode, 31.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Channa"
 disambiguator: "03"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -59,6 +59,16 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channa 03. Người đánh xe và cũng là bạn đồng hành của Gotama, sinh cùng ngày với Gotama (Ja.i.54; Mvu.ii.156, 164, 189, 233; iii.91, 262; Bv­a.233; SN­a.ii.231; Dhs­a.34. Thag­a. (i.155) nói rằng ông là con trai của một nữ tỳ của Suddhodana). Khi Gotama từ bỏ đời sống gia đình, Channa đã cưỡi ngựa cùng ngài trên con ngựa Kanthaka cho đến tận con sông Anomā. Tại đó Gotama đã trao cho ông các món đồ trang sức của ngài và bảo ông đưa Kanthaka trở lại cung điện của vua cha (một *Thūpa* về sau đã được dựng lên tại địa điểm nơi Channa đã quay trở lại; Divy.391). Tuy nhiên, khi Kanthaka chết vì trái tim tan vỡ, nỗi đau buồn của Channa rất lớn, vì ông đã phải chịu đựng một sự mất mát nhân đôi. Người ta nói rằng ông đã cầu xin được phép tham gia cùng Gotama như một vị tu sĩ, nhưng sự xin phép này đã bị từ chối (Ja.i.64f). Do đó ông đã trở về Kapilavatthu, nhưng khi Đức Phật đến thăm những người thân tộc Sākiyan của ngài, Channa đã gia nhập Tăng đoàn. Tuy nhiên, vì lòng yêu mến to lớn đối với Đức Phật, sự kiêu hãnh ngã mạn về "Đức Phật của chúng ta, Pháp của chúng ta" đã khởi lên trong ông và ông không thể chinh phục được sự si mê này hay làm tròn bổn phận của mình như một vị tỳ-kheo (Thag­a.i.155; bài kệ của ông (No.69) được trích dẫn trong Thag. tuy nhiên, không hề đề cập đến bất kỳ sự chểnh mảng nào như vậy về phần ông).
+
+Có một lần, khi ở tại Ghositārāma trong Kosambī, Channa đã phạm một lỗi lầm nhưng không sẵn lòng thừa nhận nó. Khi sự việc được trình báo lên Đức Phật, ngài đã ra lệnh rằng hình phạt *ukkhepaniyakamma* phải được thi hành đối với ông, cấm ông ăn uống hay cư ngụ cùng Tăng đoàn. Do đó ông đã thay đổi chỗ ở của mình, nhưng đã bị "tẩy chay" ở khắp mọi nơi, và ông đã trở về Kosambī trong tình trạng bị khuất phục và cầu xin được ân xá, điều mà sau đó đã được ban cho ông. Vin.ii.23ff. Sự bướng bỉnh và ngoan cố của ông lại được nhắc đến ở những nơi khác – e.g., Vin.iv.35, 113, 141. Một người bảo trợ của ông có lần đã xây dựng một *vihāra* cho ông, nhưng ông đã lợp mái và trang trí nó đến mức nó bị sụp đổ. Trong nỗ lực sửa chữa nó, ông đã làm hư hại ruộng lúa mạch của một vị Bà-la-môn (Vin.iii.47. Xem thêm Vin.iii.155f., 177).
+
+Về sau, trong một cuộc tranh chấp giữa các tỳ-kheo và các tỳ-kheo-ni, ông đã cố tình đứng về phía các tỳ-kheo-ni; điều này được coi là quá ngoan cố và quá thiếu tinh thần đồng đội đúng mực, đến mức Đức Phật đã ra lệnh thi hành *Brahmadaṇḍa* đối với ông, theo đó tất cả các nhà sư bị cấm không được có bất cứ điều gì liên quan đến ông. Đây là hành động kỷ luật cuối cùng của Đức Phật, và việc thi hành nó được giao cho Ānanda. DN.ii.154. Tuy nhiên, có vẻ như từ Dhp­a.ii.110 thì *Brahmadaṇḍa* đã được áp dụng cho Channa vì ông đã nhiều lần lăng mạ Sāriputta và Moggallāna bất chấp sự cảnh báo của Đức Phật. Trong phiên bản này, các chi tiết khác cũng có sự thay đổi.
+
+Khi Ānanda đến thăm Channa tại Ghositārāma và tuyên án phạt đối với ông, ngay cả tinh thần kiêu hãnh và độc lập của ông cũng bị chế ngự; ông trở nên khiêm nhường, đôi mắt của ông đã được mở ra, và bằng cách sống ẩn cư riêng biệt, nhiệt thành và tinh tấn, ông đã trở thành một trong các bậc *Arahant*, sau đó án phạt tự động mất hiệu lực (Vin.ii.292). Trong quá khứ, Channa đã gặp Đức Phật Siddhattha đang đi về phía một cái cây, và vì hài lòng với ngài, ông đã trải cho ngài một tấm thảm lá êm ái xung quanh đó ông còn rắc thêm những bông hoa. Năm *kappa* trước đây ông đã làm vua bảy lần, dưới tên gọi Tinasanthāraka (Thag­a.i.155).
+
+Có lẽ ông cũng chính là Senāsanadāyaka của tác phẩm Apadāna (i.137).
+
+Channa được nhận dạng với người thợ săn trong Suvaṇṇamigajātaka (Ja 359) (III.187), Gijjhajātaka (Ja 399) (III.332), Rohantamigajātaka (Ja 501) (IV.423), Cūḷa Haṁsajātaka (Ja 533) (V.354), và Mahā Haṁsajātaka (Ja 534) (V.382), với đô vật trong Sālikedārajātaka (Ja 484) (IV.282) và với Cetaputta trong Vessantarajātaka (Ja 547) (VI.593). Xem thêm Channasutta (1) ở bên dưới.
 
 ## Notes

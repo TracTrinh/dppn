@@ -5,7 +5,7 @@ base_headword: "Sāketabrāhmaṇavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāketabrāhmaṇavatthu. The story of the Brahmin of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāketabrāhmaṇavatthu. Câu chuyện về người Bà-la-môn của Sāketa, người đã tự gọi mình là cha của Đức Phật. Xem Sāketajātaka. Ja 237, Dhp­a.iii.317f.
 
 ## Notes

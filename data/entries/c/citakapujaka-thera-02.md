@@ -5,7 +5,7 @@ base_headword: "Citakapūjaka Thera"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Citakapūjaka Thera 02. An Arahant. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citakapūjaka Thera 02. Một vị Arahant. Vào thời của Sikhī Buddha ông là một vị thọ thần trên một cây *rājāyatana*. Khi Đức Phật viên tịch ông đã dâng cúng hoa, âm nhạc và hương thơm tại giàn hỏa táng của Đức Phật. Ba mươi mốt *kappa* trước đây, ông đã trở thành vua mười sáu lần, dưới tên gọi Uggata (Ap.i.151).
 
 ## Notes

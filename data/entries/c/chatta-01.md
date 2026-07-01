@@ -5,7 +5,7 @@ base_headword: "Chatta"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chatta 01. A youth, son of the Brahmin of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chatta 01. Một thanh niên, con trai của vị Bà-la-môn trong Nāṇacchandajātaka. Cậu bé đã nhận được từ nhà vua một cỗ xe do những con ngựa thuần chủng trắng như hoa huệ kéo. Ja.ii.428f.
 
 ## Notes

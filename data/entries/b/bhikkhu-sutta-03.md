@@ -5,7 +5,7 @@ base_headword: "Bhikkhū Sutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhū Sutta 03. The Buddha explains to a group of monks psychic power and its
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhū Sutta 03. Đức Phật giải thích cho một nhóm tỳ-kheo về thần thông và sự tu tập nó. SN.v.287.
 
 ## Notes

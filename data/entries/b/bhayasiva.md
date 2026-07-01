@@ -5,7 +5,7 @@ base_headword: "Bhayasīva"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhayasīva. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasīva. Một Pacceka Buddha. MN.iii.69; Ap­a.i.106.
 
 ## Notes

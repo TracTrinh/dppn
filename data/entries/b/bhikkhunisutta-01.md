@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīsutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhikkhunīsutta 01. The same as <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīsutta 01. Giống như Bhikkhusutta (2), nhưng thay "tỳ-kheo" thành "tỳ-kheo-ni". SN.ii.261.
 
 ## Notes

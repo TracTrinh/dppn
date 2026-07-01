@@ -5,7 +5,7 @@ base_headword: "Chavakajātaka"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -27,6 +27,8 @@ The story was related in reference to the *Chabbaggiya* monks, who preached the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chavakajātaka (Ja 309). Bodhisatta đã có một lần được sinh ra làm một người Caṇḍāla. Vợ của ngài, khi đang mang thai, thèm ăn một quả xoài, và ngài đã đi vào ban đêm đến khu vườn của nhà vua để cố gắng lấy một quả. Nhưng trời đã sáng trước khi ngài có thể trốn thoát và ngài vẫn đang đậu trên cây. Trong lúc ngài ở đó, nhà vua đã đến cùng với vị giáo sĩ của mình và, khi đang ngồi trên một chiếc ghế cao dưới gốc cây, đã học Pháp từ vị giáo sĩ, người đang ngồi ở một chiếc ghế thấp. Bodhisatta đã leo xuống từ trên cây và chỉ ra cho họ sai lầm của họ. Nhà vua, rất hài lòng, đã phong ngài làm người cai trị thành phố vào ban đêm và đặt vòng hoa màu đỏ mà bản thân ông đang đeo vào quanh cổ ngài. Do đó mới có phong tục các vị chúa tể của thành phố đeo một vòng hoa màu đỏ.
+
+Câu chuyện được kể lại liên quan đến các nhà sư *Chabbaggiya*, những người đã thuyết Pháp cho những kẻ đang ngồi ở vị trí cao hơn so với bản thân họ. Ja.iii.27ff.
 
 ## Notes

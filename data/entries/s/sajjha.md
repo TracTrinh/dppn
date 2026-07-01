@@ -5,7 +5,7 @@ base_headword: "Sajjha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sajjha. A *Paribbājaka* who visited the Buddha at <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sajjha. Một du sĩ ngoại đạo (*Paribbājaka*) đã đến thăm Đức Phật tại Gijjhakūṭa. Đức Phật đã nói với ông về chín tiêu chuẩn mà một vị tỳ-kheo *Arahant* không bao giờ có thể vi phạm. AN.iv.371.
 
 ## Notes

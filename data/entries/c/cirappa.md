@@ -5,7 +5,7 @@ base_headword: "Cirappa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cirappa. A king of fifteen *kappas* ago, a previous birth of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cirappa. Một vị vua của mười lăm *kappa* trước đây, một tiền kiếp của Abbhañjanadāyaka Thera. Ap.i.236.
 
 ## Notes

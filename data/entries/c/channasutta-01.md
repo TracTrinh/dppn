@@ -5,7 +5,7 @@ base_headword: "Channasutta"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Channasutta 01. Records the visit of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channasutta 01. Ghi chép lại chuyến viếng thăm của *paribbājaka* Channa đối với Ānanda, tại Sāvatthī. Ông hỏi Ānanda tại sao Đức Phật lại thuyết giảng về việc từ bỏ *rāga*, *dosa*, *moha*; Ānanda giải thích và Channa bỏ đi trong sự hài lòng (AN.i.215f).
 
 ## Notes

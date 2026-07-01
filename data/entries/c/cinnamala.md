@@ -5,7 +5,7 @@ base_headword: "Ciṇṇamāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Ciṇṇamāla *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ciṇṇamāla *v.l.* Cinamāla. Một vị vua của năm mươi ngàn *kappa* trước đây, một tiền kiếp của Kassapa Thera (hoặc Sereyyaka) (Thag­a.i.178; Ap.i.155).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sahassāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahassāra. A king of eleven *kappas* ago, a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassāra. Một vị vua của mười một *kappa* về trước, một tiền kiếp của Sumanāveliya Thera. Ap.i.247.
 
 ## Notes

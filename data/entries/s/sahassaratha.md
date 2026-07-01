@@ -5,7 +5,7 @@ base_headword: "Sahassaratha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sahassaratha. Fifteen *kappas* ago there were seven kings of this name, previous
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassaratha. Mười lăm *kappa* về trước có bảy vị vua mang tên này, là các tiền kiếp của Kumudamāliya Thera. Ap.i.187.
 
 ## Notes

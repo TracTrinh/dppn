@@ -5,7 +5,7 @@ base_headword: "Bhikkhādāyikā"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhikkhādāyikā 02. A similar story of a woman of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhādāyikā 02. Một câu chuyện tương tự về một người phụ nữ ở Rājagaha, người đã cúng dường đồ khất thực cho một vị tỳ-kheo *Arahant* và được tái sinh vào Tāvatiṁsa. Vv.ii.11; Vv-a.119f.
 
 ## Notes

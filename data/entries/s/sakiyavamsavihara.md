@@ -5,7 +5,7 @@ base_headword: "Sākiyavaṁsavihāra"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sākiyavaṁsavihāra. A monastery in Ceylon. <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākiyavaṁsavihāra. Một tu viện ở Ceylon. Trưởng lão Maliyadeva (Maliyadeva Thera) có lần đã thuyết giảng Chacakkasutta tại đó, và sáu mươi tỳ-kheo, khi nghe ông thuyết pháp, đã trở thành những vị *Arahant*. MN­a.ii.1024.
 
 ## Notes

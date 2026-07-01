@@ -5,7 +5,7 @@ base_headword: "Sakhāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakhāsutta 01. Seven qualities which make a man a desirable friend: he gives wh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakhāsutta 01. Bảy phẩm chất khiến một người trở thành một người bạn đáng mong muốn: người ấy cho những gì khó cho, làm những gì khó làm, chịu đựng những gì khó chịu đựng, thổ lộ những bí mật của riêng mình, giữ gìn những bí mật của người khác, không bỏ rơi người khác trong lúc cần thiết, và không khinh rẻ người khác trong lúc họ bị lụn bại. AN.iv.31.
 
 ## Notes

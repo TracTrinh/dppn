@@ -5,7 +5,7 @@ base_headword: "Ciravāsī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Ciravāsī. The son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ciravāsī. Con trai của Bhadragaka. Bhadragaka đã đến thăm Đức Phật và nói với ngài rằng ông luôn lo lắng chờ đợi tin tức của Ciravāsī, người đang đi học ở xa. SN.iv.329; SN­a.iii.103.
 
 ## Notes

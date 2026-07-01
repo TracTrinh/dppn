@@ -5,7 +5,7 @@ base_headword: "Citrā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Citrā. The name of certain <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citrā. Tên gọi của một số Supaṇṇa nhất định. DN.ii.259.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Chiggalasutta"
 disambiguator: "03"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chiggalasutta 03. Similar to 2. It is more probable that a turtle, etc...., than
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chiggalasutta 03. Tương tự như 2. Con rùa, v.v.... dễ chui cổ qua ách, hơn là việc một người được sinh ra dưới hình hài một con người, hoặc việc một vị Tathāgata xuất hiện trên thế giới, hoặc việc Dhamma và Vinaya do một vị Tathāgata công bố được chỉ ra trên thế giới. Xem thêm Tālacchiggalasutta (SN.v.456).
 
 ## Notes

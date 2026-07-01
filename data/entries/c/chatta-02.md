@@ -5,7 +5,7 @@ base_headword: "Chatta"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chatta 02. Son of the king of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chatta 02. Con trai của vua xứ Kosala. Câu chuyện của ông được đưa ra trong Brahāchattajātaka (Ja 336, *q.v.*).
 
 ## Notes

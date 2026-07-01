@@ -5,7 +5,7 @@ base_headword: "Bheruva"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bheruva. A city, the residence of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bheruva. Một thành phố, nơi cư trú của Asayha *seṭṭhi*. Pv-a.112,118,119.
 
 ## Notes

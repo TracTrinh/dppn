@@ -5,7 +5,7 @@ base_headword: "Bhavasutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhavasutta 01. A discussion between <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavasutta 01. Một cuộc thảo luận giữa Sāriputta và Jambukhādaka về "hữu". SN.iv.258.
 
 ## Notes

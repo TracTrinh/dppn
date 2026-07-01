@@ -5,7 +5,7 @@ base_headword: "Sahassavatthu-aṭṭhakathā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sahassavatthu-aṭṭhakathā, <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassavatthu-aṭṭhakathā, Sahassavatthuppakaraṇa. Một cuốn sách được nhắc đến trong Mahā Vaṁsaṭīkā như là một trong những nguồn tài liệu của nó (e.g., p. 451, 452, 607). Rõ ràng nó là một bộ sưu tập các truyền thuyết và truyện dân gian, và có lẽ, đã hình thành nền tảng cho Rasavāhinī và *Saddhamālaṅkāraya* của người Sinhalese. PLC.224f.
 
 ## Notes

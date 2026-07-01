@@ -5,7 +5,7 @@ base_headword: "Sākhāpattagāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sākhāpattagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākhāpattagāma. Một ngôi làng ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.166; xem Cv.Trs.ii.36, n.5.
 
 ## Notes

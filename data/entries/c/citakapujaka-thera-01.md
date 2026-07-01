@@ -5,7 +5,7 @@ base_headword: "Citakapūjaka Thera"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Citakapūjaka Thera 01. An Arahant. Ninety-one *kappas* ago a <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citakapūjaka Thera 01. Một vị Arahant. Chín mươi mốt *kappa* trước đây có một vị Pacceka Buddha, tên là Ānanda, đã viên tịch trong khu rừng và vị Thera*,* lúc bấy giờ đang là một vị *Deva*, đã giáng trần từ cõi chư *Deva* và hỏa táng thi thể của vị Pacceka Buddha trên một giàn hỏa táng (Ap.i.227).
 
 ## Notes

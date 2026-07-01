@@ -5,7 +5,7 @@ base_headword: "Sahassasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sahassasutta 02. One thousand nuns once visited the Buddha in the Royal Park (<s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassasutta 02. Một ngàn vị Tỳ-kheo-ni từng đến thăm Đức Phật tại Khu vườn Hoàng gia (Rājakārāma) ở Sāvatthī. Ngài đã dạy họ rằng những ai có lòng trung thành kiên định với Đức Phật, Pháp, và Tăng đoàn, và trau dồi những giới đức được các bậc Thánh yêu mến, họ sẽ chắc chắn đạt được sự Giác ngộ. Ja.v.360.
 
 ## Notes

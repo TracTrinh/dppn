@@ -5,7 +5,7 @@ base_headword: "Bhikkhū Sutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhū Sutta 01. A monk who knows decay and death, birth, becoming, grasping, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhū Sutta 01. Một vị tỳ-kheo liễu tri lão tử, sinh, hữu, thủ, ái, v.v., sự sinh khởi của chúng, sự đoạn diệt của chúng và con đường dẫn đến đó - một vị tỳ-kheo như vậy đang đứng gõ cửa sự Bất tử. SN.ii.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhayavagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhayavagga. The thirteenth chapter of the *Catukkanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayavagga. Phẩm thứ mười ba của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.121-33.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cīravāpi"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cīravāpi. A tank in Ceylon built by King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīravāpi. Một hồ chứa nước ở Ceylon do Vua Mahā Sena xây dựng. Mhv.xxxvii.49.
 
 ## Notes

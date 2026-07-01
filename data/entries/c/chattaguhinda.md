@@ -5,7 +5,7 @@ base_headword: "Chattaguhinda"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chattaguhinda. The Pāli name of Kyansitthā, son of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattaguhinda. Tên Pāli của Kyansitthā, con trai của Anorata, vị vua của xứ Pagan. (Sās.75; Bode15, n.5).
 
 ## Notes

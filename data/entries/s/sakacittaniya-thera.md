@@ -5,7 +5,7 @@ base_headword: "Sakacittaniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakacittaniya Thera. An *Arahant*. Ninety-one *kappas* ago, in the time of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakacittaniya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* về trước, trong thời của Sikhī Buddha, ông đã làm một *Thūpa* bằng tre nhân danh Đức Phật và dâng hoa cho nó. Tám mươi *kappa* về trước ông là một vị vua. Ap.i.111f.
 
 ## Notes

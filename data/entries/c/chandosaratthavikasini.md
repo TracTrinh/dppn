@@ -5,7 +5,7 @@ base_headword: "Chandosāraṭṭhavikāsinī"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -27,6 +27,6 @@ Chandosāraṭṭhavikāsinī (or <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chandosāraṭṭhavikāsinī (hoặc Vuttodayapañcikā). Một bản Chú giải cho Vuttodaya, được viết bởi Saddhammañāṇa vào thế kỷ thứ mười bốn. Bode, 26.
 
 ## Notes

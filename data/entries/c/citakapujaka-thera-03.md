@@ -5,7 +5,7 @@ base_headword: "Citakapūjaka Thera"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Citakapūjaka Thera 03. An Arahant. Ninety-four *kappas* ago, while wandering al
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citakapūjaka Thera 03. Một vị Arahant. Chín mươi bốn *kappa* trước đây, trong khi đang lang thang dọc theo Sông Candabhāgā, ông đã nhìn thấy giàn hỏa táng của Đức Phật và đã dâng cúng cho nó bảy bông hoa *māluvā*. Bảy mươi bảy *kappa* trước đây ông đã trở thành vua bảy lần, dưới tên gọi Paṭijagga (Ap.i.237).
 
 ## Notes

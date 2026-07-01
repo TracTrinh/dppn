@@ -5,7 +5,7 @@ base_headword: "Bhātaragāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhātaragāma. A village in Ceylon, residence of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātaragāma. Một ngôi làng ở Ceylon, nơi cư trú của Nāgā Therī. AN­a.ii.654; MN­a.i.546.
 
 ## Notes

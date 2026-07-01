@@ -5,7 +5,7 @@ base_headword: "Sahāyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahāyasutta. The Buddha speaks in praise of two monks, comrades of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahāyasutta. Đức Phật nói lời ca ngợi hai vị tỳ-kheo, là những người bạn đồng tu của Mahā Kappina. Họ đã đạt được mục tiêu mà vì đó những người thiện nam tử xuất gia từ bỏ gia đình. SN.ii.285.
 
 ## Notes

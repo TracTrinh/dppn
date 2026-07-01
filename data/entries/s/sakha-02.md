@@ -5,7 +5,7 @@ base_headword: "Sākha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sākha 02. A *seṭṭhiputta* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākha 02. Một con trai trưởng giả (*seṭṭhiputta*) của Rājagaha, một tiền kiếp của Devadatta. Để biết câu chuyện của ông, xem Nigrodhajātaka. Ja.iv.37ff.; cf. Mil.203.
 
 ## Notes

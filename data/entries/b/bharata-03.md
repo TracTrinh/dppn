@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bharata 03. A hunter who brought from the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 03. Một người thợ săn đã mang về từ Himālaya vị thủ lĩnh của một bầy khỉ mà tiếng kêu của nó là một trong những âm thanh được nhắc đến trong Aṭṭhasaddajātaka (*q.v.*). Ja.iii.432.
 
 ## Notes

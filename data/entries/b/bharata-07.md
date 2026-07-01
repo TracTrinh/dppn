@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "07"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharata 07. A scion of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 07. Một hậu duệ của dòng dõi Mahā Sammata và là con trai của Sāgaradeva. Ngài là cha của Aṅgīrasa. Mhv.ii.4; Dpv.iii.6.
 
 ## Notes

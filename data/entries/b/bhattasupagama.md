@@ -5,7 +5,7 @@ base_headword: "Bhattasūpagāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhattasūpagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhattasūpagāma. Một ngôi làng ở Rohaṇa, nơi đã diễn ra một trận chiến lớn giữa quân đội của Parakkamabāhu I và những kẻ nổi loạn muốn chiếm đoạt Xá-lợi Răng và Bình bát của Đức Phật. Quân đội của Parakkama đã giành chiến thắng. Cv.lxxiv.135.
 
 ## Notes

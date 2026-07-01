@@ -5,7 +5,7 @@ base_headword: "Bhavasutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhavasutta 03. There are three kinds of *bhava*: *kāma*, *rūpa*, and *arūpa*;
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavasutta 03. Có ba loại *bhava*: *kāma*, *rūpa*, và *arūpa*; những loại này có thể được từ bỏ thông qua việc rèn luyện về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ. AN.iii.444.
 
 ## Notes

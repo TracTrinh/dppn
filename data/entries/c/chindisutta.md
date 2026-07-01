@@ -5,7 +5,7 @@ base_headword: "Chindīsutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chindīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chindīsutta. Devadatta đã mang lại sự chia rẽ trong Tăng đoàn bởi vì tâm của ông bị ám ảnh bởi những lợi lộc, sự xu nịnh, v.v. (SN.ii.239).
 
 ## Notes

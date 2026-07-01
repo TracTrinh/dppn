@@ -5,7 +5,7 @@ base_headword: "Channavagga"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Channavagga. The ninth chapter of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channavagga. Chương thứ chín của Saḷāyatanasaṁyutta. SN.iv.53-70.
 
 ## Notes

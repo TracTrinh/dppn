@@ -5,7 +5,7 @@ base_headword: "Sakiṁsammajjaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakiṁsammajjaka Thera. An *Arahant*. He saw the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakiṁsammajjaka Thera. Một vị *Arahant*. Ông đã nhìn thấy cây *bodhi* Pāṭali của Vipassī Buddha và đã quét dọn xung quanh nó và tôn vinh nó. Trên đường về nhà ông đã bị giết bởi một con trăn. Ap.i.378f.
 
 ## Notes

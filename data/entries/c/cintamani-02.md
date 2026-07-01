@@ -5,7 +5,7 @@ base_headword: "Cintāmaṇī"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cintāmaṇī 02. Wife of the Treasurer <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cintāmaṇī 02. Vợ của Thủ quỹ Gandha. Khi Bhattabhatika đã hoàn thành hợp đồng của mình với Gandha, Gandha đã ra lệnh rằng tất cả các thành viên trong gia đình ông, ngoại trừ Cintāmaṇī, đều phải hầu hạ Bhattabhatika. Dhp­a.iii.90.
 
 ## Notes

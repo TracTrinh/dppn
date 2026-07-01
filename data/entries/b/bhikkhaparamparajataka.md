@@ -5,7 +5,7 @@ base_headword: "Bhikkhāparamparajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -34,6 +34,10 @@ The story was told in reference to a landowner of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhāparamparajātaka (Ja 496). Ngày xưa, Brahmadatta, vua nước Benares, đi vi hành khắp vương quốc của mình để tìm kiếm một người có thể chỉ ra lỗi lầm của ngài. Một ngày nọ, tại một ngôi làng biên giới, một điền chủ rất giàu có đã nhìn thấy ngài, và, hài lòng với diện mạo của ngài, đã mang cho ngài một bữa ăn rất thịnh soạn. Nhà vua nhận lấy thức ăn và chuyền nó cho vị giáo sĩ của mình; vị giáo sĩ này lại đưa nó cho một đạo sĩ tình cờ đi ngang qua. Đạo sĩ đó đặt nó vào bát của một Pacceka Buddha đang ngồi gần họ. Pacceka Buddha không nói một lời nào, tiếp tục ăn bữa ăn đó. Vị điền chủ kinh ngạc và hỏi họ lý do cho hành động của mình, và, khi biết được rằng mỗi người sau lại có giới đức cao hơn vị vua trước đó, ông ta đã vô cùng hoan hỷ.
+
+Câu chuyện này được kể liên quan đến một điền chủ ở Sāvatthī, một tín đồ sùng đạo của Đức Phật. Do cũng mong muốn tôn vinh Dhamma, ông đã thỉnh ý Đức Phật, và, làm theo lời khuyên của Ngài, đã mời Ānanda đến nhà và cúng dường tôn giả những món ăn hảo hạng cùng ba bộ y đắt tiền. Ānanda đã nhận lấy và dâng chúng cho Sāriputta, người này sau đó lại cúng dường chúng cho Đức Phật.
+
+Ānanda là vị vua trong câu chuyện, Sāriputta là vị giáo sĩ, trong khi đạo sĩ đó là Bodhisatta. Ja.iv.369ff.
 
 ## Notes

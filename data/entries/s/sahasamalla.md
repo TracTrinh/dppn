@@ -5,7 +5,7 @@ base_headword: "Sāhasamalla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāhasamalla. A king of Ceylon who belonged to the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāhasamalla. Một vị vua của Ceylon thuộc vương triều Okkāka và chỉ trị vì trong hai năm, cho đến khi ông bị lật đổ bởi Ayasmanta. Cv.lxxx.32; nhưng xem Cv.Trs.ii.130, n.1; ngày lên ngôi của ông (23 tháng 8 năm 1200) được cho là ngày duy nhất hoàn toàn chắc chắn trong lịch sử của Ceylon.
 
 ## Notes

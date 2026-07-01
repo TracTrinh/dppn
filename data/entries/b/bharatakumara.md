@@ -5,7 +5,7 @@ base_headword: "Bharatakumāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,6 @@ Bharatakumāra. Son of the second queen of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharatakumāra. Con trai của hoàng hậu thứ hai của Dasaratha và là anh em cùng cha khác mẹ của Rāma và Lakkhaṇa. Về câu chuyện của ông, xem Dasarathajātaka (Ja 461). Ông được nhận diện là Ānanda. Ja.iv.124 ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhāvitatta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāvitatta 03. The name of two <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvitatta 03. Tên của hai vị Pacceka Buddha. MN.iii.69.
 
 ## Notes

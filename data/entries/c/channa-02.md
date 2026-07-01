@@ -5,7 +5,7 @@ base_headword: "Channa"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -35,6 +35,10 @@ Channa 02. A Thera. No particulars of his early life are available. He once stay
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channa 02. Một vị Thera (Trưởng lão). Không có chi tiết nào về cuộc đời thuở nhỏ của ông được biết đến. Có lần ông đang ngụ tại Gijjhakūṭa, bị bệnh nặng nguy hiểm và phải chịu đựng nhiều đau đớn. Sāriputta và Mahā Cunda đã đến thăm ông, và khi họ phát hiện ra rằng ông có ý định tự tử, họ đã cố gắng ngăn cản ông, hứa hẹn sẽ cung cấp cho ông mọi nhu yếu phẩm và tự mình hầu hạ ông. Khi thấy ông đã hoàn toàn quyết tâm, Sāriputta đã thảo luận với ông về những lời dạy của Đức Phật và sau đó rời xa ông. Ngay sau đó Channa đã tự tử bằng cách tự cắt cổ mình. Khi việc này được trình báo lên Đức Phật, ngài đã giải thích rằng không có sự chê trách nào được gán cho Channa, vì ông là một vị *Arahant* vào thời điểm cái chết xảy ra (MN.iii.263ff; SN.iv.55ff).
+
+Buddhaghosa giải thích rằng sau khi tự cắt cổ, Channa, cảm thấy nỗi sợ hãi về cái chết, chợt nhận ra rằng ông vẫn còn là một vị phàm phu (*puthujjana*). Suy nghĩ này khiến ông tràn ngập nỗi thống khổ đến mức ông đã đưa ra một nỗ lực đặc biệt, và bằng cách phát triển tuệ quán ông đã trở thành một vị *Arahant* (MN­a.ii.1012f.; SN­a.iii.12f).
+
+Channa có những người bạn bè và họ hàng ở ngôi làng Pubbavijjhana (*v.l.* Pubbavajira) của xứ Vajjī, và bản thân ông cũng đến từ nơi đó.
 
 ## Notes

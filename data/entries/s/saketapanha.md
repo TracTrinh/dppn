@@ -5,7 +5,7 @@ base_headword: "Sāketapañha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,8 @@ It is said that in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāketapañha. Atthasālinī (Dhs-a.267) đề cập rằng có lần Trưởng lão *Tipiṭaka* Mahā Dhammarakkhita, khi nói về tâm thức, đã dẫn chiếu đến Sāketapañha.
+
+Người ta nói rằng ở Sāketa, các tỳ-kheo đã nêu ra câu hỏi, “Khi do một tác ý mà *kamma* được tạo ra, thì chỉ có một sự tượng thai, hay nhiều sự tượng thai khác nhau?” Do không thể quyết định, họ đã tham khảo ý kiến của các Trưởng lão Abhidhamma, những người đã tuyên bố rằng giống như từ một quả xoài chỉ mọc ra một mầm, thì từ một tác ý chỉ có một sự tượng thai, và đối với những tác ý khác nhau, sẽ có những sự tượng thai khác nhau.
 
 ## Notes

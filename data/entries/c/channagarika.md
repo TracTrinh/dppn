@@ -5,7 +5,7 @@ base_headword: "Channāgarikā"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Channāgarikā. A secondary division of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channāgarikā. Một nhánh phụ của những người Vajjiputtaka. Mhv.v.7; Dpv.v.46; Mbv.97.
 
 ## Notes

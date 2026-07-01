@@ -5,7 +5,7 @@ base_headword: "Bhāvanāsutta"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhāvanāsutta 04. On psychic (*iddhi*) power, its basis, its cultivation, amid 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvanāsutta 04. Về thần thông (*iddhi*), nền tảng của nó, sự tu tập nó, cùng với sự thực hành dẫn đến sự tu tập nó. SN.v.276.
 
 ## Notes

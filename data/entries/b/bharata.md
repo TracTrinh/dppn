@@ -5,7 +5,7 @@ base_headword: "Bhārata"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,6 @@ Bhārata. A title by which <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhārata. Một tước hiệu dùng để gọi Pañcāla, vua xứ Uttarapañcāla, trong Sattigumbajātaka (Ja 503, Ja.iv.435); cũng như vua nước Benares, trong Saṅkhapālajātaka (Ja 524, Ja.v.170) và Manoja, vua nước Benares, trong Sonanandajātaka (Ja 532, Ja.v.317, 326). Người chú giải giải thích (Ja.v.317) từ này là do *raṭṭhabhāradhāritāya* (gánh vác sức nặng của vương quốc).
 
 ## Notes

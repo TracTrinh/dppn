@@ -5,7 +5,7 @@ base_headword: "Bharu"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharu. The name of a king, a country, and its capital. See the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharu. Tên của một vị vua, một quốc gia và kinh đô của quốc gia đó. Xem Bharujātaka (Ja 213) và Bharukaccha. Tên của vị vua và quốc gia trong Suppārakajātaka (Ja 463) cũng giống hệt như vậy.
 
 ## Notes

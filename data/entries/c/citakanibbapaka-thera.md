@@ -5,7 +5,7 @@ base_headword: "Citakanibbāpaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Citakanibbāpaka Thera. An *Arahant*. Thirty-one *kappas* ago he sprinkled perfu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citakanibbāpaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước đây ông đã rắc nước hoa lên giàn hỏa táng của Vessabhū Buddha và do đó đã dập tắt nó (Ap.ii.408). Có lẽ ông cũng chính là Abhibhūta Thera. Thag­a.i.372f.
 
 ## Notes

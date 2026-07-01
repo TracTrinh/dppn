@@ -5,7 +5,7 @@ base_headword: "Bhikkhādāyaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhikkhādāyaka. Once a man of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhādāyaka. Có một người ở Rājagaha vừa ngồi xuống để ăn thì nhìn thấy một vị tỳ-kheo, người đã đi một chặng đường dài, đang đứng bên ngoài nhà mình. Ông đã trút hết thức ăn của mình vào bình bát của vị tỳ-kheo đó. Khi qua đời, ông được tái sinh vào Tāvatiṁsa trong một cung điện bằng vàng cao mười hai *yojana*. Vv.vi.6; Vv-a.292f.
 
 ## Notes

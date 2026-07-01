@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhayasutta 01. There are three terrors that part mother and son: a great fire, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 01. Có ba nỗi sợ hãi chia cắt mẹ và con: một trận hỏa hoạn lớn, một trận lũ lớn, và một cuộc đột kích của những tên cướp. Họ cũng bị chia cắt bởi tuổi già, bệnh tật, và cái chết. Việc thực hành Bát Thánh đạo sẽ tránh được những nỗi sợ hãi này. AN.i.178 f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāketasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāketasutta. The Buddha explains to the monks at <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāketasutta. Đức Phật giải thích cho các tỳ-kheo ở Sāketa làm thế nào mà có thể xem năm *indriya* như năm *bala* (lực) và năm *bala* như năm *indriya*. Bằng cách phát triển năm *indriya*, sự giải thoát có thể đạt được. SN.v.219f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sakalikāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakalikāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakalikāsutta 02. Māra đến gần Đức Phật tại Maddakucchi khi ngài đang nằm đó trong sự đau đớn tột cùng, và cố gắng làm ngài phiền muộn bằng cách nói rằng ngài đang nhàn rỗi và đầy những suy nghĩ ủ rũ. Đức Phật phủ nhận lời cáo buộc này. SN.i.110.
 
 ## Notes

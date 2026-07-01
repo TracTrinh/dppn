@@ -5,7 +5,7 @@ base_headword: "Ciñcāmāṇavikā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -48,6 +48,18 @@ It is stated (Ap.i.299; Ud­a.263f) that the Buddha was subjected to the ignomin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ciñcāmāṇavikā (*v.l.* Ciñcīmāṇavikā). Một nữ du sĩ ngoại đạo (*paribbājikā*) của một số Tăng đoàn tu khổ hạnh. Khi những kẻ ngoại đạo của Tăng đoàn này nhận thấy lợi lộc của họ ngày càng ít đi do sự nổi tiếng của Đức Phật, họ đã tranh thủ sự hỗ trợ của Ciñcā trong nỗ lực của họ nhằm làm mất uy tín của ngài. Bà rất xinh đẹp và đầy mưu mô, và họ đã thuyết phục bà giả vờ đến thăm Đức Phật tại Jetavana. Bà đã để cho mình bị nhìn thấy đang đi về phía *vihāra* vào buổi tối, qua đêm trong khu nhà của những kẻ ngoại đạo ở gần đó, và vào buổi sáng mọi người đã nhìn thấy bà quay trở lại từ hướng của *vihāra*. Khi bị dò hỏi, bà nói rằng bà đã qua đêm với Đức Phật. Sau một vài tháng bà đã giả vờ mang thai bằng cách buộc một chiếc đĩa gỗ quanh người và xuất hiện như vậy trước mặt Đức Phật, khi ngài đang thuyết giảng cho một hội chúng khổng lồ, bà đã buộc tội ngài về sự vô trách nhiệm và nhẫn tâm vì ngài đã không chuẩn bị gì cho việc ở cữ của bà. Đức Phật vẫn giữ im lặng, nhưng ngai vàng của Sakka đã nóng lên và ông đã khiến cho một con chuột cắn đứt những sợi dây của chiếc đĩa gỗ, nó rơi xuống đất, cắt đứt các ngón chân của Ciñcā. Bà đã bị những người đang có mặt ở đó đuổi ra khỏi *vihāra*, và khi bà vừa bước ra ngoài cổng ngọn lửa của địa ngục sâu nhất đã nuốt chửng lấy bà (Dhp­a.iii.178f; Ja.iv.187f; Iti-a.69).
+
+Trong một tiền kiếp, bà cũng đã giúp đỡ bằng nhiều cách khác nhau để làm hại Bodhisatta. Để biết thêm chi tiết hãy xem:
+
+- Cūḷa Padumajātaka (Ja 193)
+- Mahā Padumajātaka (Ja 472)
+- Bandhanamokkhajātaka (Ja 120)
+- Vānarindajātaka (Ja 57)
+- Vessantarajātaka (Ja 547)
+- Sumsumārajātaka (Ja 208)
+- Suvaṇṇakakkaṭajātaka (Ja 389)
+
+Nó được nói (Ap.i.299; Ud­a.263f) rằng Đức Phật đã phải chịu đựng nỗi nhục nhã khi bị Ciñcā buộc tội không sống phạm hạnh, bởi vì trong một tiền kiếp ngài đã từng lăng mạ một vị Pacceka Buddha; cp. Sundarī.
 
 ## Notes

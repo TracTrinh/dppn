@@ -5,7 +5,7 @@ base_headword: "Chiggalasutta"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -28,6 +28,6 @@ Chiggalasutta 01. Once, at the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chiggalasutta 01. Có một lần, tại Kūṭagārasālā ở Vesālī, Ānanda đã nhìn thấy những thanh niên Licchavī đang luyện tập bắn cung, bắn xuyên qua thậm chí là một lỗ khóa nhỏ (*chiggala*) mà không bị trượt. Ông đã trình báo điều này với Gotama Buddha, ngài nhận xét rằng những người thấu hiểu được ý nghĩa của *dukkha*, v.v., làm một việc khó khăn hơn nhiều (SN.v.453f).
 
 ## Notes

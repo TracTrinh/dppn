@@ -5,7 +5,7 @@ base_headword: "Sajjā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sajjā. One of the four daughters of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sajjā. Một trong bốn cô con gái của Vessavaṇa. (Vv-a.371). Xem Latā.
 
 ## Notes

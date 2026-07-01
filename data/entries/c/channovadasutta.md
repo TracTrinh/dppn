@@ -5,7 +5,7 @@ base_headword: "Channovādasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Channovādasutta. Records the same incidents as <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channovādasutta. Ghi chép lại cùng những sự kiện giống như Channasutta (3). MN.iii.263ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sākacchāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sākacchāsutta 02. The same, mentioned by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sākacchāsutta 02. Tương tự, được đề cập bởi Sāriputta. AN.iii.190.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bharata 01. A sage of old who, as a result of living the holy life, was born in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 01. Một đạo sĩ thời xưa, nhờ kết quả của việc sống phạm hạnh, đã tái sinh vào cõi *Brahma*. Ja.vi.99.
 
 ## Notes

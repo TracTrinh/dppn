@@ -5,7 +5,7 @@ base_headword: "Bhikkhū Sutta"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhū Sutta 04. The Buddha tells a group of monks about the seven *bojjhaṅg
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhū Sutta 04. Đức Phật giảng cho một nhóm tỳ-kheo về bảy *bojjhaṅga* và sự tu tập chúng. SN.v.334f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cittā 01. One of the four wives of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 01. Một trong bốn người vợ của Māgha. Māgha và những người bạn đồng hành của mình đã dựng lên một hội trường, và Cittā đã cho bố trí một vườn hoa ở gần đó, trong đó bà trồng mọi loại cây ra hoa, cây bụi và dây leo. Kết quả là bà được tái sanh ở cõi Tāvatiṁsa với tư cách là chánh hậu của Sakka, và Cittalatāvana đã được tạo ra để cho bà vui chơi. Dhp­a.i.269f; Ja.i.201f.
 
 ## Notes

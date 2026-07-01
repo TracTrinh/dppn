@@ -5,7 +5,7 @@ base_headword: "Bhavagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhavagga. The name given to the highest point of existence (among the gods) (e.g
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavagga. Tên được đặt cho điểm cao nhất của sự hiện hữu (trong số các vị thần) (e.g., Vibh.426; Mil.132), nhưng, thường xuyên hơn, là điểm cao nhất trong vũ trụ trái ngược với Avīci, điểm thấp nhất, e.g., Ja.iv.182; Ja.vi.354; Mil.336.
 
 ## Notes

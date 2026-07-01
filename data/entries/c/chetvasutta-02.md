@@ -5,7 +5,7 @@ base_headword: "Chetvāsutta"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -27,6 +27,6 @@ Chetvāsutta 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chetvāsutta 02. *v.l.* Jhatvāsutta. Một người phải tiêu diệt sự sân hận để được hạnh phúc (SN.i.41). Bài *Kinh* được lặp lại dưới cùng một tên gọi trong SN.i.237. Nó lại xuất hiện dưới các tên gọi là Māghasutta (SN.i.46) và Dhānañjānīsutta (SN.i.160).
 
 ## Notes

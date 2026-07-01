@@ -5,7 +5,7 @@ base_headword: "Bhikkhādāyikā"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhikkhādāyikā 01. A woman of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhādāyikā 01. Một người phụ nữ ở Uttaramadhurā. Đức Phật đã đến thăm thành phố đó vì lợi ích đặc biệt của bà. Nhìn thấy Ngài khi đang trên đường đi tắm về, bà đã mời Ngài đến nhà và cúng dường Ngài một bữa ăn. Bà qua đời ngay sau đó và được tái sinh ở Tāvatiṁsa, nơi Moggallāna đã nhìn thấy bà và biết được câu chuyện của bà. Vv.ii.10; Vv-a.118f.
 
 ## Notes

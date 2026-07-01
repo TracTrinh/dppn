@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharata 02. The Bodhisatta born as the king of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 02. Bodhisatta tái sinh làm vua xứ Roruva và là chồng của Samuddavijayā. Về câu chuyện của ngài, xem Ādittajātaka (Ja 424). Ja.iii.470 ff.
 
 ## Notes

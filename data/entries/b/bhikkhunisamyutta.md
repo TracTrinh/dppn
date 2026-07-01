@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīsaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhikkhunīsaṁyutta. The fifth section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīsaṁyutta. Phần thứ năm của Saṁyuttanikāya. SN.i.128-35.
 
 ## Notes

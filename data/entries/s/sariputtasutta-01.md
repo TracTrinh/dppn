@@ -5,7 +5,7 @@ base_headword: "Sāriputtasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -34,6 +34,6 @@ Sāriputtasutta 01. The sixteenth *Sutta* of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputtasutta 01. *Sutta* thứ mười sáu của Aṭṭhakavagga thuộc Suttanipāta. Sāriputta hỏi Đức Phật một vị tăng nên hành xử như thế nào để đạt được mục tiêu của mình. Đức Phật giải thích rằng một vị tăng phải tránh năm nguy hiểm, chịu đựng nóng lạnh và những khó chịu khác, và không được phạm tội trộm cắp, sân hận, nói dối hay kiêu mạn. Vị ấy nên được hướng dẫn bởi trí tuệ và sự tiết độ (Snp. 955-75). Chú giải giải thích (Snp­a.ii.569f) rằng *Sutta* này cũng được gọi là Therapañhasutta, và rằng nó được thuyết vào dịp Đức Phật từ Tāvatiṁsa xuống Saṅkassa. Đức Phật muốn trí tuệ của Sāriputta được thừa nhận một cách thích đáng, vì *iddhi* của Moggallāna, thiên nhãn của Anuruddha và tài hùng biện của Puṇṇa đã nổi tiếng, nhưng khả năng của Sāriputta vẫn chưa được biết đến. Do đó Đức Phật kể Parosahassajātaka (Ja 99) để cho thấy trí tuệ của Sāriputta trong một đời quá khứ. Cuối câu chuyện, Sāriputta hỏi Đức Phật trong tám bài kệ, và phần còn lại của *Sutta* được Đức Phật nói để trả lời các câu hỏi này.
 
 ## Notes

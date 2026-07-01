@@ -5,7 +5,7 @@ base_headword: "Bherī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,8 @@ Bherī. A female ascetic who was often invited to the palace of King <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bherī. Một nữ đạo sĩ thường được mời đến cung điện của Vua Videha, nơi bà nghe về trí tuệ của Mahosadha và mong muốn được gặp ông. Một ngày nọ, bà gặp ông trên đường đến cung điện và hỏi ông bằng những ám hiệu câm, và Mahosadha cũng trả lời bằng cách tương tự. Những nữ tỳ tâm phúc của Hoàng hậu Nandā đã nhìn thấy điều này, và báo cáo với nhà vua rằng Mahosadha và Bherī đang âm mưu giết ngài. Nhưng nhà vua đã thẩm vấn riêng từng người một, và, hài lòng với sự vô tội của họ, ngài đã bổ nhiệm Mahosadha làm tổng tư lệnh (Ja.vi.467f).
+
+Bherī được nhận diện là Uppalavaṇṇā (Ja.vi.478).
 
 ## Notes

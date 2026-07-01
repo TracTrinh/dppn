@@ -5,7 +5,7 @@ base_headword: "Bharaṇḍusutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bharaṇḍusutta. Records the visit of the Buddha to the hermitage of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharaṇḍusutta. Ghi chép lại chuyến viếng thăm của Đức Phật đến am thất của Bharaṇḍu Kālāma. AN.i.276 ff.
 
 ## Notes

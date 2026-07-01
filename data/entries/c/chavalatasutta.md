@@ -5,7 +5,7 @@ base_headword: "Chavālātasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chavālātasutta. Some people are bent neither on their own profit nor on that o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chavālātasutta. Một số người không hướng đến lợi ích của bản thân họ và cũng không vì lợi ích của những người khác, một số người chỉ vì lợi ích của một người khác, một số người chỉ vì lợi ích của chính họ, và lại có những người khác vì lợi ích của cả bản thân họ và những người khác. Người thuộc về loại thứ nhất giống như một thanh củi đang cháy từ một giàn hỏa táng, bốc cháy ở cả hai đầu, bị trát phân ở giữa, vô dụng cho bất kỳ mục đích nào. AN.ii.95.
 
 ## Notes

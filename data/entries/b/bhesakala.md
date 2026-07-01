@@ -5,7 +5,7 @@ base_headword: "Bhesakalā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhesakalā. A *Yakkhinī*. See <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhesakalā. Một *Yakkhinī*. Xem Bhesakalāvana.
 
 ## Notes

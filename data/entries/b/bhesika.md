@@ -5,7 +5,7 @@ base_headword: "Bhesikā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhesikā. The barber of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhesikā. Người thợ cạo của Lohicca. DN.i.224.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāriputtasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāriputtasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputtasutta 03. Sāriputta kể với Ānanda rằng một lần, khi đang ở Andhavana, ngài đã đạt đến định hoàn hảo. AN.v.8.
 
 ## Notes

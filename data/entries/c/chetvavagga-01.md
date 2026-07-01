@@ -5,7 +5,7 @@ base_headword: "Chetvāvagga"
 disambiguator: "01"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chetvāvagga 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chetvāvagga 01. *v.l.* Jhatvāvagga. Chương thứ tám của Devatāsaṁyutta (SN.i.41ff). Về tiêu đề của bài *Kinh* hãy xem KS.i.58, n.1.
 
 ## Notes

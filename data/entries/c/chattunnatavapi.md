@@ -5,7 +5,7 @@ base_headword: "Chattunnatavāpi"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chattunnatavāpi. A tank in Ceylon, repaired by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattunnatavāpi. Một hồ chứa nước ở Ceylon, được Parakkamabāhu I trùng tu. Cv.lxviii.43.
 
 ## Notes

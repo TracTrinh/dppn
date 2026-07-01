@@ -5,7 +5,7 @@ base_headword: "Sajjhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sajjhasutta. Contains the story of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sajjhasutta. Chứa đựng câu chuyện về chuyến thăm của Sajjha đến Đức Phật. AN.iv.371.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāriputta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -401,6 +401,137 @@ Among his works are the *Vinayasaṅgaha* or the *Vinayavinicchaya*, a summary o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta 01. Sāriputta Thera. Thượng thủ đệ tử (*Aggasāvaka*) của Đức Phật Gotama. Ngài cũng được gọi là Upatissa, hiển nhiên là tên riêng của ngài (MN.i.150). Các nhà chú giải nói rằng Upatissa là tên làng của ngài và ngài là con trai trưởng của gia đình đứng đầu trong làng, nhưng các tài liệu khác lại cho biết làng của ngài là Nālaka. Cha ngài là Bà-la-môn Vaṅganta (Dhp­a.ii.84), và mẹ ngài là Rūpasārī. Chính vì tên của mẹ mà ngài được gọi là Sāriputta. Trong các văn bản Sanskrit, tên ngài xuất hiện là Śāriputra, Śāliputra, Śārisuta, Śāradvatīputra. Trong Apadāna (ii.480), ngài cũng được gọi là Sārisambhava.
+
+Tên Upatissa hầu như không bao giờ được nhắc đến trong các sách. Ngài có ba em trai - Cunda, Upasena, và Revata (về sau gọi là Khadiravaniya) - và ba em gái - Cālā, Upacālā và Sisūpacālā; tất cả đều gia nhập Saṅgha. Dhp­a.ii.188; cf. Mvu.iii.50; về chi tiết của họ, xem *s.v.*; cũng có nhắc đến một người chú của Sāriputta và một người cháu trai, cả hai đều được ngài đưa đến gặp Đức Phật, nhờ đó cứu họ khỏi tà kiến (Dhp­a.ii.230-2); Uparevata là cháu trai của ngài (SN­a.iii.175).
+
+Câu chuyện về sự quy y của Sāriputta và tường thuật về các đời quá khứ của ngài, những đời đã chuẩn bị cho ngài địa vị cao quý là Thượng thủ đệ tử của Đức Phật, đã được trình bày dưới mục Mahā Moggallāna. Sāriputta có trực giác rất nhanh, và ngài trở thành một *Sotāpanna* ngay sau khi nghe hai dòng đầu của bài kệ do Assaji nói. Sau khi chứng *Sotāpatti*, Koḷita (Moggallāna) muốn cùng ngài đến Veḷuvana để gặp Đức Phật, nhưng Sāriputta, vốn luôn biết ơn các thầy của mình, đề nghị trước hết họ nên tìm thầy của họ là Sañjaya, để báo tin vui cho ông và cùng ông đến gặp Đức Phật. Nhưng Sañjaya từ chối thuận theo kế hoạch này. Moggallāna chứng quả vị *Arahant* vào ngày thứ bảy sau khi xuất gia, nhưng phải một tuần sau đó Sāriputta mới trở thành một *Arahant*. Lúc ấy ngài đang ở cùng Đức Phật tại Sūkarakhatalena ở Rājagaha, và ngài đạt mục tiêu nhờ nghe Đức Phật thuyết Vedānapariggahasutta cho Dīghanakha. Tường thuật này được tóm lược từ Dhp­a.i.73 ff.; AN­a.i.88 ff.; Thag­a.ii.93 ff. Ap.i.15ff.; câu chuyện về sự quy y của họ được nêu tại Vin.i.38ff.
+
+Trong hội chúng tăng và ni, Sāriputta được Đức Phật tuyên bố là bậc đứng đầu trong số những vị có trí tuệ (*etad-aggaṁ mahāpaññānaṁ*, AN.i.23). Đức Phật xem ngài chỉ kém chính Ngài về trí tuệ. SN­a.ii.45; sự biểu hiện trí tuệ lớn nhất của ngài xảy ra sau khi Đức Phật từ Tāvatiṁsa xuống cổng Saṅkassa, khi Đức Phật nêu các câu hỏi trước đại chúng tụ hội, và không ai ngoài Sāriputta có thể trả lời. Nhưng một số câu hỏi nằm ngoài phạm vi của bất cứ ai trừ một vị Phật (Dhp­a.iii.228 f.; cf. Snp­a.ii.570f.). Tương tự, tri kiến về tư tưởng và khuynh hướng của người khác vượt quá khả năng của Sāriputta; chỉ một vị Phật mới có tri kiến như vậy (Dhp­a.iii.426; Ja.i.182). Hơn nữa, chỉ một vị Phật mới có thể tìm đề mục thiền thích hợp cho mọi người mà không sai lầm (Snp­a.i.18), và đọc biết các đời quá khứ của họ không giới hạn (Snp­a, ii.571).
+
+Đức Phật thường chỉ gợi ý một đề tài, và Sāriputta sẽ thuyết một bài pháp chi tiết về đề tài ấy, nhờ đó được Đức Phật chấp thuận (xem, ví dụ, MN.i.13; iii.46, 55, 249). Có ghi lại rằng Đức Phật tán thán ngài rất cao: “Ông là bậc trí, Sāriputta, trí tuệ của ông toàn diện và nhiều mặt, hoan hỷ và nhanh nhạy, sắc bén và tinh tế. Cũng như trưởng tử của một vị vua Cakkavatti chuyển bánh xe như cha mình đã chuyển, ông cũng chuyển đúng đắn Bánh xe tối thượng của Dhamma, như Ta đã chuyển.” (SN.i.191; cf. Snp.vs.556 f., nơi Đức Phật được Sela hỏi ai là vị tướng của Ngài, và Đức Phật trả lời rằng chính Sāriputta là người chuyển Bánh xe Dhamma; cũng MN.iii.29). Như vậy, ngài được gọi là *Dhammasenāpati*, cũng như Ānanda được gọi là *Dhammabhaṇḍāgārika*. Anupadasutta là một bài tán dương dài của Đức Phật về Sāriputta. Trong đó, ngài được nêu lên như mẫu mực tối thượng của người đệ tử hoàn hảo, đã đạt đến sự làm chủ và viên mãn trong giới hạnh cao quý, định cao quý, tri giác cao quý, giải thoát cao quý. MN.iii.25ff. Trong Mahā Gosiṅgasutta, Sāriputta bày tỏ quan điểm rằng vị tăng tốt nhất là người làm chủ tâm mình và không bị tâm làm chủ. Đức Phật giải thích rằng Sāriputta đang nói lên bản tính của chính mình (MN.i.215 f.). Tuy nhiên, Đức Phật không ngần ngại khiển trách Sāriputta khi cần thiết, ví dụ, dịp một số sa-di làm ồn bị Đức Phật đuổi đi, nhưng Sāriputta hiểu lầm động cơ của Ngài (MN.i.459). Và một lần nữa, khi Sāriputta không chăm sóc Rāhula đúng mức, khiến Rāhula phải ở cả đêm trong nhà xí của Đức Phật (Ja.i.161f.).
+
+Trong Saccavibhaṅgasutta (MN.iii.248), ngài được so sánh với người thầy như mẹ, trong khi Moggallāna giống như vú nuôi của trẻ; Sāriputta huấn luyện trong các quả của sự chuyển hóa, Moggallāna huấn luyện trong điều thiện tối thượng. Trong Piṇḍapātapārisuddhisutta (MN.iii.294f), Đức Phật khen ngợi Sāriputta vì đời sống viễn ly của ngài và chỉ dạy ngài về giá trị của sự quán xét. Còn có các trường hợp khác nói Đức Phật chỉ dạy và khảo xét ngài về nhiều đề tài, ví dụ, về *bhūtaṁ* (“điều đã trở thành”) (SN.ii.47f), về năm *indriyas* (SN.v.220f., 225f., 233f), và về *Sotāpatti*. SN.v.347; chúng ta cũng thấy Đức Phật chỉ dạy ngài về sự tu tập tịch tĩnh (AN.i.65); về sự đoạn diệt “tôi” và “của tôi” (AN.i.133); các lý do thất bại và thành công trong công việc (AN.ii.81f.); bốn cách đạt được cá thể tính (*attabhāva*) (AN.ii.159); các phương pháp khuyến giáo (AN.iii.198); sự đạt được niềm vui phát sinh từ viễn ly (AN.iii.207); sự tu học cao quý dành cho cư sĩ (211f.); sáu điều đem lại tiến bộ tâm linh cho một vị tăng (424f.); bảy điều tương tự (AN.iv.30); bảy căn cứ để tán thán một vị tăng (AN.iv.35); những điều và người mà một vị tăng nên kính trọng (AN.iv.120f.); tám phẩm tính của vị tăng đã thoát khỏi các lậu hoặc (AN.iv.223f.); chín hạng người, tuy chết với phần dư bám víu cho tái sinh, vẫn thoát khỏi sinh vào địa ngục, giữa loài vật và giữa *Petas* (379 f.); và mười năng lực của một vị tăng đã đoạn tận các lậu hoặc (AN.v.174 f.).
+
+Chúng ta cũng thấy các trường hợp Sāriputta hỏi các đồng tu của mình, hoặc được họ hỏi, về nhiều đề tài. Như vậy, ngài được Mahā Koṭṭhita hỏi về *kamma* (SN.ii.112 f.); và về *yoniso manasikāra* (sự tu tập tuần tự, SN.iii.176 f.); về *avijjā* và *vijjā* (ibid., 172 f.); về các trói buộc của nhận thức giác quan (SN.iv.162 f.); về một số câu hỏi được Đức Phật tuyên bố là bất định (SN.iv.384 f.); về việc liệu có còn gì sót lại sau sự chấm dứt vô tham của sáu xứ tiếp xúc hay không (AN.ii.161); và về mục đích mà các vị tăng sống đời *brahmacariya* dưới sự hướng dẫn của Đức Phật (AN.iv.382). Mahā Vedallasutta (MN.i.292 ff.) ghi lại một bài pháp dài do Sāriputta thuyết cho Mahā Koṭṭhita. Ngài được nhắc đến là đã hỏi Mahā Kassapa về các thuật ngữ *ātāpī* và *ottāpī* (SN.ii.195f.), và hỏi Anuruddha về *sekha* (SN.v.174 f., 298f). Vào một dịp khác, Anuruddha nói với Sāriputta về năng lực thấy hệ thống thế giới gấp nghìn lần, tinh tấn không dao động, và niệm không rối loạn của mình. Sāriputta bảo vị ấy rằng thiên nhãn của vị ấy chỉ là kiêu mạn, các tuyên bố về tinh tấn là kiêu mạn, và niệm của vị ấy chỉ là bận tâm lo lắng, rồi khuyên vị ấy từ bỏ tất cả các ý nghĩ về chúng. Anuruddha theo lời khuyên của ngài và trở thành một *Arahant*. AN.i.281f.
+
+Moggallāna hỏi Sāriputta về “không tỳ vết” (cuộc đối thoại của họ tạo thành Anaṅgaṇasutta, MN.i.25 ff.), và, ở cuối Gulissānisutta, hỏi liệu các trạng thái tâm thức được nhắc đến trong *Sutta* ấy chỉ bắt buộc đối với các vị tăng ở rừng núi hay cũng đối với các vị ở làng mạc (MN.i.472f.). Sāriputta hỏi Upavāṇa về các *bojjhaṅgā* (SN.v.76), và được Ānanda hỏi về *Sotāpatti* (SN.v.346, 362), về lý do tại sao một số chúng sinh được giải thoát ngay trong đời này còn những chúng sinh khác thì không (AN.ii.167), và về sự chứng đắc định hoàn hảo (AN.v.8, 320). Ānanda cũng hỏi Sāriputta (AN.iii.201f.) về sự nhanh chóng biết được tính thích hợp trong các pháp thiện (*kusaladhammesu khippanisanti*), và, một lần nữa, về cách một vị tăng có thể học các giáo pháp mới và giữ lại các giáo pháp cũ mà không lẫn lộn (AN.iii.361). Trong cả hai trường hợp này, Sāriputta yêu cầu Ānanda tự trả lời các câu hỏi, và, cuối bài giảng của Ānanda, ngài tán thán vị ấy. Rathavinītasutta (MN.i.145 ff.) ghi lại một cuộc đối thoại giữa Sāriputta và Puṇṇa Mantānīputta, người mà ngài vô cùng kính trọng sau khi nghe Đức Phật tán dương vị ấy. Sāriputta đã dặn rằng ngài phải được báo ngay khi Puṇṇa đến Sāvatthī, và ngài nắm lấy cơ hội đầu tiên để gặp vị ấy. Trong số những người khác đã thảo luận với Sāriputta có nhắc đến Samiddhi (AN.iv.385), Yamaka (SN.iii.109f.), Candikāputta (AN.iv.403), và Laḷudāyi (AN.iv.414).
+
+Trong số các cư sĩ từng thảo luận với Sāriputta có Atula (Dhp­a.iii.327), Nakulapitā (SN.iii.2f.) và Dhānañjāni (MN.ii.186); Sīvalī (ngay sau khi sinh; Ja.i.408), cũng như các Paribbājakas, Jambukhādaka (SN.iv.251f.), Sāmaṇḍaka (SN.iv.261 f.; AN.v.120), và Pasūra (Snp­a.ii.538), và các nữ Paribbājakas Saccā, Lolā, Avavādakā và Paṭācārā (Ja.iii.1), và Kuṇḍalakesī (Dhp­a.ii.223f.). Ngài cũng được nói là đã đến thăm các Paribbājakas để thảo luận với họ (AN.iv.378); xem thêm SN.iii.238f., nơi một *Paribbājaka* hỏi ý kiến ngài về các cách ăn.
+
+Việc chăm sóc Saṅgha và bảo vệ sự chính trực của các thành viên là mối quan tâm đặc biệt của Sāriputta do địa vị Thượng thủ đệ tử của Đức Phật. Vì vậy chúng ta thấy ngài được sai cùng Moggallāna đi đưa các vị tăng đã ly khai theo Devadatta trở về. Những lời răn dạy của ngài đối với các vị tăng đôi khi khiến ngài không được ưa thích, ví dụ, trong trường hợp Assaji-Punabbasukā, Chabbaggiyā (những người đặc biệt nhắm vào ngài với ác ý) và Kokālika (xem Channa, người đã mắng nhiếc cả Sāriputta và Moggallāna, Dhp­a.ii.110 f.). Khi Channa tuyên bố ý định tự sát, Sāriputta cố gắng khuyên can vị ấy, nhưng không thành công (SN.iv.55ff.; xem thêm Channovādasutta). Các vị tăng tìm lời khuyên của ngài trong những khó khăn của họ (xem, ví dụ, SN.iv.103, nơi một vị tăng báo với ngài rằng một đồng tu đã trở về đời sống gia đình, và hỏi mình phải làm gì về việc ấy). Ngài rất bối rối trước sự chia rẽ của các vị tăng ở Kosambī, và hỏi ý kiến Đức Phật thật kỹ về việc mình có thể làm gì (Vin.i.354). Ngài rất cẩn trọng đối với các quy tắc do Đức Phật đặt ra. Như vậy, một quy tắc đã được đặt ra rằng một vị tăng chỉ có thể xuất gia cho một *samaṇera*, và khi một cậu bé thuộc một gia đình từng giúp đỡ ngài rất nhiều được gửi đến ngài để xin xuất gia, Sāriputta từ chối lời thỉnh cầu của cha mẹ cậu cho đến khi Đức Phật bãi bỏ quy tắc ấy (Vin.i.83). Một quy tắc khác cấm các vị tăng ăn tỏi (*lasuna*), và khi Sāriputta nằm bệnh và biết mình có thể được chữa khỏi bằng tỏi, ngay cả khi ấy ngài vẫn từ chối ăn cho đến khi Đức Phật cho phép ngài làm vậy (Vin.ii.140). Chú giải Dhammapada (Vin.ii.140f) mô tả rằng tại tu viện nơi Sāriputta sống, khi các vị tăng khác đã đi khất thực, ngài đi khắp toàn bộ tòa nhà, quét những chỗ chưa được quét, đổ nước đầy các bình rỗng, sắp xếp đồ đạc, v.v., để ngoại đạo khi đến tu viện khỏi nói: “Hãy xem chỗ ở của các đệ tử Gotama.” Nhưng ngay cả khi ấy, ngài vẫn không thoát khỏi sự chê trách của những người chỉ trích mình.
+
+Một câu chuyện được kể (Dhp­a.iv.184f) về việc một lần ngài bị buộc tội tham lam, và chính Đức Phật phải giải thích với các vị tăng rằng Sāriputta không có lỗi. Trong khi Sāriputta nghiêm khắc với những người không theo kỷ luật của Đức Phật, ngài không ngần ngại hoan hỷ với các đồng tu về những thành tựu của họ. Như vậy chúng ta thấy ngài chúc mừng Moggallāna về niềm vui vị ấy đạt được từ các thần thông *iddhi*, và tán thán các chứng đắc lớn lao của vị ấy (lời tán thán đã gợi lên lời đáp tán thán hào phóng không kém) (SN.ii.275f), và ca ngợi Anuruddha về kỷ luật viên mãn đã đạt được qua sự thực hành bốn *satipaṭṭhāna*s (SN.v.301f). Chính sự khích lệ lớn lao mà Sāriputta dành cho Samitigutta (*q.v.*), khi vị này nằm bệnh phong trong bệnh xá, đã giúp vị ấy trở thành một *Arahant*. Rõ ràng Sāriputta có thói quen thăm các vị tăng bệnh, như chính Đức Phật cũng làm (Thag­a.i.176). Lòng mong muốn khích lệ và công nhận công đức nơi các đồng tu của Sāriputta lớn đến mức một lần ngài đi quanh tán thán các thần thông *iddhi* của Devadatta, điều này khiến ngài gặp khó khăn khi về sau, theo lệnh của Saṅgha, ngài phải tuyên bố bản chất xấu xa của Devadatta (Vin.ii.189).
+
+Có nhiều trường hợp nói Sāriputta tự mình chỉ dạy các vị tăng và thuyết pháp cho họ về nhiều đề tài - ngoài việc thuyết các *Suttas* nổi tiếng được gán cho ngài (ví dụ, SN.ii.274; v.70; AN.i.63; ii.160; iii.186, 190, 196, 200, 292, 340; iv.325, 328, 365; v.94, 102, 123, 315, 356f). Đôi khi các *Suttas* này bổ sung cho các bài pháp của chính Đức Phật (ví dụ, MN.i.13, 24, 184, 469). Trong số các bài pháp nổi tiếng nhất của Sāriputta có Dasuttarasutta và Saṅgītisutta (*q.v.*). Dù Sāriputta thân thiện với tất cả các vị tăng nổi bật quanh Đức Phật, giữa ngài với Ānanda và cả Moggallāna có tình thương mến đặc biệt. Chúng ta được kể rằng điều này là vì Ānanda là thị giả đặc biệt của Đức Phật, một bổn phận mà Sāriputta hẳn rất vui lòng đảm nhận. Về chi tiết điều này, xem Mahā Moggallāna, Ānanda. Chính Ānanda có sự kính trọng và thương mến cao nhất đối với Sāriputta. Trong Saṁyuttanikāya (SN.i.63) có ghi rằng một lần, khi Đức Phật hỏi Ānanda, “Này Ānanda, ông cũng tán thành Sāriputta của chúng ta chứ?” Ānanda đáp: “Bạch Ngài, ai không trẻ con, không hư hỏng, không ngu si, không có tâm điên đảo, lại không tán thành ngài ấy? Ngài ấy là bậc trí, trí tuệ của ngài toàn diện, hoan hỷ và nhanh nhạy, sắc bén và tinh tế. Ngài ít ham muốn và biết đủ; yêu thích viễn ly và ly tham, tinh tấn mạnh mẽ. Ngài là người thuyết pháp, biết nhận lời khuyên, là người phê bình, là ngọn roi đối với điều ác.”
+
+Sāriputta cũng đặc biệt gắn bó với Rāhula, con trai Đức Phật, người được giao cho Sāriputta để xuất gia. Có nhắc đến một *Sutta* đặc biệt trong Majjhimanikāya (Mahā Rāhulovādasutta; MN.i.421f), trong đó ngài khuyên Rāhula thực hành việc học về hơi thở. Sự quan tâm đặc biệt mà Sāriputta dành cho Đức Phật và Rāhula cũng mở rộng đến Rāhulamātā, vì chúng ta thấy rằng khi bà bị chứng đầy hơi, Rāhula hỏi ý kiến Sāriputta, và ngài kiếm cho bà một ít nước xoài, một phương thuốc đã biết cho bệnh này (Ja.ii.392f). Vào một dịp khác, ngài xin Pasenadi gạo trộn với bơ lỏng và cá đỏ để làm gia vị khi Rāhulamātā bị một chứng đau dạ dày (Ja.ii.433). Trong số các cư sĩ, Sāriputta có sự kính trọng đặc biệt đối với Anāthapiṇḍika; khi vị này nằm bệnh, ông sai người mời Sāriputta, và ngài cùng Ānanda đến thăm ông và thuyết cho ông Anāthapiṇḍikovādasutta. Cuối bài pháp, Anāthapiṇḍika nói rằng trước đây ông chưa từng nghe một bài giảng như vậy. Sāriputta nói rằng các bài ấy chỉ dành riêng cho các vị tăng, nhưng Anāthapiṇḍika thỉnh cầu rằng chúng có thể được trao cho cư sĩ và những thanh niên có tầm nhìn chưa bị lu mờ. Anāthapiṇḍika qua đời không lâu sau đó và tái sinh ở Tusita. MN.iii.258 ff.; cf. SN.v.380, có lẽ nói đến một lần bệnh trước đó của Anāthapiṇḍika. Ông hồi phục ngay sau khi nghe bài pháp của Sāriputta, và dâng cho Sāriputta cơm từ nồi nấu của chính mình. Sāriputta rõ ràng cũng rất kính trọng gia chủ Citta, vì chúng ta được kể (Dhp­a.ii.74) rằng một lần ngài đặc biệt đến thăm Macchikāsaṇḍa để gặp ông.
+
+Nhiều sự việc được kể trong các sách cho thấy những phẩm chất mẫu mực mà Sāriputta có, ví dụ, các câu chuyện về Tambadāṭhika, Puṇṇa và vợ ông, người phụ nữ nghèo trong Kuṇḍakakucchisindhavajātaka (Ja 254) và Losakatissajātaka (Ja 41) (*q.v.*). Những câu chuyện này cho thấy lòng đại bi của ngài đối với người nghèo và sự nhiệt tâm giúp đỡ họ. Đã có nhắc đến người thầy đầu tiên của ngài, Sañjaya, người mà ngài cố gắng nhưng không thành công trong việc đưa về với đức tin nơi Đức Phật. Người thầy thứ hai của ngài là Assaji. Có nói rằng mỗi đêm trước khi đi ngủ, ngài đảnh lễ về hướng mà ngài biết Assaji đang ở và ngủ với đầu quay về hướng ấy. Dhp­a.iv.150 f.; cf. Snp­a.i.328. Nếu Assaji ở cùng một *vihāra*, Sāriputta sẽ đến thăm vị ấy ngay sau khi thăm Đức Phật. Chính liên quan đến việc này mà Dhammasutta (*q.v.*) được thuyết.
+
+Các câu chuyện về các *Sāmaṇeras* Sukha và Paṇḍita, và về vị tăng Rādha, cũng cho thấy lòng biết ơn của ngài đối với bất cứ ai từng giúp đỡ mình (xem thêm Vin.i.55 f). Tình thương và lòng biết ơn sâu xa của ngài đối với Đức Phật được thể hiện trong Sampasādanīyasutta (*q.v.*). Việc Sāriputta có sự nhẫn nại lớn được cho thấy qua câu chuyện (Dhp­a.iv.146f) về vị Bà-la-môn, để thử lòng nhẫn nại của ngài, đã đánh ngài khi ngài vào thành khất thực. Nhưng khi bị vu cáo và thấy cần phải bảo vệ thanh danh của mình, ngài không ngần ngại tuyên bố sự vô tội của mình thật dài và công bố sự vượt trội của mình về đức hạnh (xem, ví dụ, “sư tử hống” của ngài tại AN.iv.373ff). Một đặc điểm khác của Sāriputta là sự sẵn sàng nhận lời chỉ dạy từ người khác, dù người ấy khiêm tốn đến đâu. Như vậy, một câu chuyện kể rằng, trong lúc đãng trí, ngài để nếp y buông xuống. Một sa-di nói: “Bạch Ngài, y nên được khoác quanh người,” và Sāriputta đồng ý, nói: “Tốt, con đã làm đúng khi chỉ ra điều ấy cho ta,” rồi đi thêm một quãng ngắn, ngài khoác y quanh mình (Thag­a.ii.116). Một câu chuyện kỳ thú được kể về một Yakkha, khi bay trong không trung ban đêm, thấy Sāriputta đang nhập thiền, đầu mới cạo (Ud.iv.4). Cảnh chiếc đầu sáng bóng là một cám dỗ lớn đối với Yakkha, và, bất chấp lời cảnh báo của bạn mình, vị ấy giáng một cú đánh lên đầu Thera. Cú đánh được nói là đủ mạnh để làm vỡ một ngọn núi, nhưng sau đó Sāriputta chỉ bị đau đầu nhẹ.
+
+Có nhắc đến hai dịp Sāriputta bị bệnh. Một lần ngài bị sốt và được chữa bằng thân sen mà Moggallāna lấy cho ngài từ hồ Mandākinī (Vin.i.214). Lần khác ngài bị bệnh dạ dày, một lần nữa được Moggallāna chữa bằng cách cho ngài tỏi (*lasuna*); để ngài ăn tỏi, quy tắc liên quan đến việc dùng tỏi phải được Đức Phật bãi bỏ (Vin.ii.140).
+
+Sāriputta thích bánh bột (*piṭṭhakhajjaka*), nhưng khi thấy chúng có khuynh hướng làm ngài tham ăn, ngài phát nguyện không bao giờ ăn chúng nữa (Ja.i.310).
+
+Sāriputta qua đời vài tháng trước Đức Phật. Đúng là tường thuật về sự qua đời của Đức Phật trong Mahā Parinibbānasutta bỏ qua mọi nhắc nhở đến Sāriputta, dù có đưa ngài vào (DN.ii.81 ff) ngay trước đó như người thốt lên “sư tử hống” (*sīhanāda*) của mình, lời tuyên tín lớn lao của ngài nơi Đức Phật, mà theo tường thuật chú giải, ngài đã nói khi từ biệt Đức Phật để đi qua đời. Saṁyuttanikāya (SN.v.161) ghi rằng ngài qua đời tại *Nālagāmaka* (nơi sinh của ngài), và nêu một lời tán dương ngài do Đức Phật tuyên bố sau khi ngài qua đời (SN.v.163f).
+
+Không cần nghi ngờ tính xác thực của tường thuật này. Nó chỉ nói rằng khi Sāriputta ở *Nālagāmaka*, ngài mắc một căn bệnh đau đớn. Em trai ngài, Cunda *Samaṇuddesa*, đang chăm sóc ngài khi ngài qua đời. Thân ngài được hỏa táng, và Cunda mang xá-lợi đến Sāvatthī cùng với bình bát và ngoại y của Sāriputta. Xá-lợi được gói trong đồ lọc nước của ngài. Trước hết Cunda báo tin cho Ānanda, người thú nhận rằng khi nghe tin ấy, tâm ông rối loạn và thân ông cảm thấy như bị tê dại. Cf. Thag.vs.1034; xem thêm lời tán dương Sāriputta của Vaṅgīsa khi ngài còn sống (Thag.1231-3). Cùng nhau họ tìm đến Đức Phật và báo cho Ngài sự việc, và Đức Phật chỉ cho họ thấy tính vô thường của mọi sự vật.
+
+Xuanzang thấy *stūpa* được dựng trên xá-lợi của Sāriputta trong thành Kāḷapināka (Beal-Xuan, op.cit., ii.177).
+
+Các Chú giải cho biết thêm chi tiết. Đức Phật trở về Sāvatthī sau kỳ *vassa* cuối cùng của Ngài tại Beluvagāma. Sāriputta tìm gặp Ngài ở đó, và, nhận ra rằng cái chết của mình sẽ đến trong bảy ngày, ngài quyết định đi thăm mẹ mình, vì bà, dù là mẹ của bảy vị *Arahants*, lại không có đức tin nơi Saṅgha. Điều này là vì tất cả các con của bà đều gia nhập Saṅgha và để bà cô độc, mặc dù trong nhà có bốn mươi crores tài sản. Có nói rằng khi Sāriputta về nhà vào một dịp trước đó, bà đã mắng nhiếc cả ngài và các bạn đồng hành của ngài thậm tệ (Dhp­a.iv.164f.). Rāhula cũng có mặt trong đoàn. Vì vậy ngài bảo em trai Cunda chuẩn bị chuyến đi đến *Nālagāmaka* cùng với năm trăm người khác, rồi từ biệt Đức Phật sau khi thực hiện nhiều thần thông, tuyên bố đức tin của mình nơi Đức Phật và thốt lên “sư tử hống” của mình. Một đám đông lớn đi theo ngài đến cổng Sāvatthī, và tại đó ngài nói với họ rồi bảo họ ở lại. Trong bảy ngày ngài đến Nālaka, nơi ngài được cháu trai Uparevata gặp ở ngoài cổng. Ngài sai người này đi trước để báo cho mẹ ngài biết ngài đến cùng một đoàn đông người. Bà, nghĩ rằng ngài một lần nữa đã trở lại đời sống cư sĩ, chuẩn bị mọi thứ để đón ngài và các bạn đồng hành. Sāriputta đến ở trong căn phòng nơi ngài sinh ra (*jātovaraka*). Tại đó ngài mắc bệnh kiết lỵ. Mẹ ngài không biết điều này và, vì giận dỗi khi thấy ngài vẫn là một vị tăng, ở lại trong phòng mình. Tứ Đại Thiên Vương, Sakka và Mahā Brahma hầu hạ ngài. Bà thấy họ, và sau khi biết họ là ai, đi đến phòng con mình. Tại đó bà hỏi ngài có thật sự cao hơn tất cả các vị thần ấy không, và khi ngài đáp rằng đúng như vậy, bà suy ngẫm về sự vĩ đại của con mình và toàn thân bà tràn ngập niềm vui. Sau đó Sāriputta thuyết pháp cho bà, và bà trở thành một *Sotāpanna*. Cảm thấy rằng mình đã trả được món nợ đối với mẹ, ngài sai Cunda đi gọi các vị tăng, và, khi họ đến, ngài ngồi dậy với sự giúp đỡ của Cunda và hỏi liệu trong bốn mươi bốn năm đời sống làm tăng ngài có xúc phạm họ bằng cách nào không. Khi nhận được sự bảo đảm của họ rằng ngài hoàn toàn không có lỗi, ngài lau môi bằng y của mình rồi nằm xuống, và sau khi đi qua các *jhānas* khác nhau, ngài qua đời lúc rạng đông.
+
+Mẹ ngài lo liệu mọi việc cho tang lễ, và Vissakamma trợ giúp trong nghi lễ. Khi lễ hỏa táng kết thúc, Anuruddha dập tắt lửa bằng nước thơm, và Cunda thu gom xá-lợi. Tường thuật này được tóm lược từ SN­a.iii.172ff.; các tường thuật tương tự được thấy tại DN­a.ii.549f, v.v. Sự qua đời của Sāriputta cũng được nhắc đến tại Ja.i.391.
+
+Trong số những người đến tôn kính giàn hỏa có nữ thần Revatī (*q.v.*). Sāriputta qua đời vào ngày trăng tròn tháng Kattika (tháng Mười đến tháng Mười Một) trước khi Đức Phật qua đời, và Moggallāna qua đời nửa tháng sau. SN­a.iii.181; Ja.i.391; cả Sāriputta và Moggallāna đều lớn tuổi hơn Đức Phật vì họ sinh ra “*anuppanne yeva hi Buddhe*, trước khi Đức Phật xuất hiện” (Dhp­a.i.73).
+
+Sāriputta có nhiều học trò, một số đã được nhắc đến. Trong số những người khác có Kosiya, Kaṇḍhadinna, Cūḷa Sārī, Vanavāsikatissa, Saṅkicca (*q.v.*), và Sarabhū, người đã mang xương đòn của Đức Phật đến Ceylon và an trí trong Mahiyaṅgaṇa *cetiya* (Mhv.i.37f). Em trai của Sāriputta, Upavāṇa, mất trước ngài, và Sāriputta ở bên vị ấy khi vị ấy chết vì rắn cắn tại Sappasoṇḍika *pabbāra* (SN.iv.40f).
+
+Sở trường đặc biệt của Sāriputta là Abhidhamma. Có nói rằng khi thuyết Abhidhamma cho chư thiên ở Tāvatiṁsa, Đức Phật mỗi ngày đến thăm Anotatta, để lại một vị Phật *nimitta* trên ngai của Sakka để tiếp tục bài thuyết (Dhs-a.16f., DN­a.i.15, nơi nói rằng vào cuối kỳ Kết tập thứ nhất, Abhidhamma được giao phó cho năm trăm *Arahants*, khi Sāriputta đã qua đời). Sau khi tắm trong hồ, Ngài nghỉ trưa. Trong thời gian này, Sāriputta đến thăm Ngài và học từ Đức Phật tất cả những gì đã được thuyết về Abhidhamma trong ngày hôm trước. Sau khi học Abhidhamma như vậy, Sāriputta dạy lại cho năm trăm học trò của mình. Việc họ nắm được bảy bộ sách của Abhidhamma trùng với lúc bài pháp của Đức Phật tại Tāvatiṁsa kết thúc. Như vậy, trật tự văn bản của Abhidhamma bắt nguồn từ Sāriputta, và chuỗi số mục được ngài xác định.
+
+Sāriputta được đồng nhất với nhiều nhân vật khác nhau trong rất nhiều Jātakas. Như vậy, ngài từng là
+
+- Candakumāra trong Devadhamma,
+- Lakkhaṇa trong Lakkhaṇa,
+- hiệp sĩ trong Bhojājānīya,
+- con khỉ trong Tittira,
+- con rắn trong Visavanta và Saccaṅkira,
+- thọ thần trong Sīlavanāga,
+- thanh niên Bà-la-môn trong Mahā Supina,
+- thượng thủ đệ tử trong Parosahassa,
+- Jhānasodhana và Candābha,
+- vua xứ Benares trong Dummedha,
+- vị ẩn sĩ thiện lành trong Godha (Ja 138) và Romaka,
+- người đánh xe của vua xứ Benares trong Rājovāda,
+- voi cha trong Alīnacitta,
+- vị thầy trong Susīma, Cūḷa Nandiya, Sīlavīmaṁsana và Mahā Dhammapāla,
+- thương nhân trong Gijjha (Ja 164),
+- một con ngỗng trong Catumatta,
+- vua Nāga trong Jarudapāna và Sīlavimaṁsa,
+- chim gõ kiến trong Kuruṅgamiga,
+- con ngựa thuần chủng trong Kuṇḍakakucchisindhava,
+- sư tử trong Vyaggha, Tittira (Ja 438) và Vaṇṇāroha,
+- người giàu trong Kurudhamma,
+- ẩn sĩ Jotirasa trong Abbhantara,
+- Sumukha trong Supatta,
+- Nandisena trong Cūḷa Kaliṅga,
+- Sayha trong Sayha,
+- vị thần cây Bodhi trong Pucimanda,
+- tổng tư lệnh trong Khantivādī,
+- thợ săn trong Maṁsa,
+- một vị thần trong Kakkāru,
+- Nārada trong Kesava,
+- Bà-la-môn trong Kāraṇḍiya và Nandiyamiga,
+- Caṇḍāla trong Setaketu,
+- con ngựa trong Kharapatta,
+- Pukkasa trong Dasaṇṇaka,
+- thần cây trong Sattubhasta và Mahā Paduma,
+- chim roc trong Koṭisimbali,
+- học trò trong Aṭṭhasadda,
+- Sālissara trong Indriya (Ja 423) và Sarabhaṅga,
+- Āṇi Maṇḍavya trong Kaṇhadīpāyana,
+- Canda trong Biḷārikosiya,
+- học trò trưởng trong Mahā Maṅgala,
+- Vāsudeva trong Ghata,
+- Lakkhaṇa trong Dasaratha,
+- Uposatha trong Saṁvara,
+- vị thần phương bắc trong Samuddavāṇija,
+- con ngỗng thứ hai trong Javanahaṁsa,
+- vị giáo sĩ trong Sarabhamiga và Bhikkhāparampara,
+- chim ưng biển trong Mahā Kukkusa,
+- một trong các anh em trong Bhisa,
+- con rắn trong Pañcūposatha,
+- vua Nāga trong Mahā Vānija,
+- nhà vua trong Rohantamiga, và Haṁsa (Ja 502),
+- Rakkhita trong Somanassa,
+- Uggasena trong Campeyya,
+- Assapāla trong Hatthipāla,
+- ẩn sĩ trong Jayadissa,
+- Sañjaya trong Sambhava,
+- vua Nāga trong Paṇḍara,
+- Aḷāra trong Saṅkhapāla,
+- con trai trưởng trong Cūḷa Sutosoma,
+- Ahipāraka trong Ummadantī,
+- Manoja trong Soṇananda,
+- nhà vua trong Cūḷa Haṁsa và Mahā Haṁsa,
+- Nārada trong Sudhābhojana, Kuṇāla và Mahā Janaka,
+- Kāḷahatthi trong Mahā Sutasoma,
+- người đánh xe trong Mūgapakkha,
+- Suriyakumāra trong Khaṇḍapāla,
+- Sudassana trong Bhūridatta,
+- Vijaya trong Mahā Nāradakassapa,
+- Varuṇa trong Vidhurapaṇḍita,
+- Cūḷanī trong Mahā Ummagga và
+- ẩn sĩ Accuta trong Vessantara.
+
+Sāriputta 02. Sāriputta Thera. Một vị tăng của Ceylon. Ngài sống dưới triều Parakkamabāhu I., và được gọi là Sāgaramatī (Sās-d.63) vì sự uyên bác của mình. Nhà vua xây cho ngài một nơi ở đặc biệt gắn với Jetavanavihāra tại Pulatthipura (Cv.lxxviii.34).
+
+Trong các tác phẩm của ngài có *Vinayasaṅgaha* hay *Vinayavinicchaya*, một bản tóm lược Vinaya, và Sāraṭṭhadīpanī về Samantapāsādikā, Sāraṭṭhamañjūsā về Atthasālinī và Līnatthappakāsinī về Papañcasūdani.
+
+Sāriputta có nhiều học trò nổi tiếng, trong số đó có Saṅgharakkhita, Sumaṅgala, Buddhanāga, *Udumbaragiri* Medhaṅkara và Vācissara (Gv.67, 71; Svd.1203; SM. 69; PLC, 189ff).
+
+Sāriputta cũng là một học giả Sanskrit, và viết *Pañjikālaṅkāra* hay *Ratnamatipañjikāṭīkā* cho *Pañjikā* của Ratnasrījñāṇa về *Candragomivyākaraṇa*.
 
 ## Notes

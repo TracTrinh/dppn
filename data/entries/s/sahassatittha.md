@@ -5,7 +5,7 @@ base_headword: "Sahassatittha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,6 @@ Sahassatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassatittha. Một bến sông ở Mahā Vālukagaṅgā, về phía nam của Pulatthipura. Vijayabāhu IV, theo sự xúi giục của cha mình, Parakkamabāhu II, đã sắp xếp để toàn thể cộng đồng tu sĩ ở Ceylon tập hợp tại đó và thực hiện buổi lễ kết nạp các thành viên mới vào Tăng đoàn (Cv.lxxxvii.71; để xác định vị trí, xem Cv.Trs.ii.182, n.4). Trong việc này, ông được hỗ trợ bởi em trai mình, Vīrabāhu, và các cuốn Biên niên sử đưa ra những chi tiết lớn về việc chuẩn bị cho buổi lễ, kéo dài trong hai tuần (e.g., Cv.lxxxix.47ff). Vào lúc kết thúc, Vijayabāhu đã phong nhiều cấp bậc khác nhau cho những vị tỳ-kheo lỗi lạc nhất.
 
 ## Notes

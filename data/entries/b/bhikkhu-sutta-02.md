@@ -5,7 +5,7 @@ base_headword: "Bhikkhū Sutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhū Sutta 02. Whatever monks have destroyed the *āsavas* by personal knowl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhū Sutta 02. Bất kỳ vị tỳ-kheo nào đã đoạn tận các *āsava* bằng trí tuệ và tuệ giác cá nhân, đều đã làm như vậy bằng cách tu tập và phát triển bốn *iddhipāda*. Điều này là giống nhau đối với quá khứ, hiện tại và tương lai. SN.v.257.
 
 ## Notes

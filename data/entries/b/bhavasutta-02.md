@@ -5,7 +5,7 @@ base_headword: "Bhavasutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhavasutta 02. On the three kinds of *bhava* in the *kāma* world, the *rūpa* w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavasutta 02. Về ba loại *bhava* trong cõi *kāma*, cõi *rūpa*, và cõi *arūpa*. SN.v.56.
 
 ## Notes

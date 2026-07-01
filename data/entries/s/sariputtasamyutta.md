@@ -5,7 +5,7 @@ base_headword: "Sāriputtasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāriputtasaṁyutta. The twenty-eighth division of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputtasaṁyutta. Phần thứ hai mươi tám của Saṁyuttanikāya. SN.iii.236-40.
 
 ## Notes

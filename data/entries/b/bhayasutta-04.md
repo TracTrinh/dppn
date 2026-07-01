@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhayasutta 04. There are four fears: birth, old age, disease, and death. AN.ii.1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 04. Có bốn nỗi sợ hãi: sinh, già, bệnh, và chết. AN.ii.121.
 
 ## Notes

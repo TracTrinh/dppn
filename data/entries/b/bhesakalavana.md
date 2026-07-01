@@ -5,7 +5,7 @@ base_headword: "Bhesakalāvana"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -55,6 +55,20 @@ The *Divyāvadāna* calls it *Bhīsanikāvana*. Divy.182.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhesakalāvana. Một khu rừng ở đất nước Bhagga. Nó có chứa một Vườn Lộc Uyển nơi Gotama Buddha từng lưu trú, trên núi Suṁsumāragiri. Gần đó là ngôi nhà nơi Nakulapitā và Nakulamātā sinh sống (AN.ii.61; iii.295; SN.iii.1; iv.116).
+
+Một lần, khi Đức Phật đang ở Bhesakalāvana, Ngài đã dùng thiên nhãn nhìn thấy Anuruddha đang trú ngụ tại Pācīnavaṁsadāya ở nước Ceti, và đã xuất hiện trước mặt tôn giả để khích lệ tôn giả trong quá trình hành thiền (AN.iv.228ff.; Ja.iii.157).
+
+Cung điện Kokanada, được xây dựng cho Vương tử Bodhi, nằm ở vùng lân cận của khu rừng này (Vin.ii.127; Dhp­a.iii.134, etc.).
+
+Chính trong thời gian lưu trú tại khu rừng này, Mahā Moggallāna đã bị Māra quấy nhiễu và ngài đã thuyết Māratajjanīyasutta (MN.i.332).
+
+Siṅgālapitā được cho là đã rút lui về Bhesakalāvana để hành thiền (Thag­a.i.70).
+
+Khu rừng này có tên như vậy xuất phát từ sự thật rằng vị thần cai quản nó là một *Yakkhinī* tên là Bhesakalā (SN­a.ii.181).
+
+Theo Buddhavaṁsa Commentary (Bv­a.3), Đức Phật đã trải qua *vassa* thứ tám tại Bhesakalāvana.
+
+*Divyāvadāna* gọi nơi này là *Bhīsanikāvana*. Divy.182.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhavasutta"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhavasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavasutta 04. Ānanda hỏi Đức Phật đến mức độ nào thì có "hữu". Sẽ có "hữu" chừng nào vẫn còn các cõi dục, cõi sắc, và cõi vô sắc; nghiệp là thửa ruộng, thức là hạt giống, và tham ái là độ ẩm mang lại sự tái sinh trong các cõi này. AN.i.223f.
 
 ## Notes

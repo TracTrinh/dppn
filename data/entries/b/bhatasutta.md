@@ -5,7 +5,7 @@ base_headword: "Bhātāsutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhātāsutta. It is not easy to find one who has not been a brother in the long 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātāsutta. Không dễ gì tìm được một người chưa từng là anh em ruột trong cuộc luân chuyển dài lâu của *Saṁsāra*. SN.ii.189.
 
 ## Notes

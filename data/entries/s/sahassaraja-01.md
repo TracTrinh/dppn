@@ -5,7 +5,7 @@ base_headword: "Sahassarāja"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sahassarāja 01. One hundred and sixty-five *kappas* ago, there were three kings
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassarāja 01. Một trăm sáu mươi lăm *kappa* về trước, có ba vị vua mang tên này, là các tiền kiếp của Udakapūjaka Thera (Kuṭivihāriya). Ap.i.143; Thag­a.i.129.
 
 ## Notes

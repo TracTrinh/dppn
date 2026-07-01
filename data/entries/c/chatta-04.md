@@ -5,7 +5,7 @@ base_headword: "Chatta"
 disambiguator: "04"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chatta 04. A Tamil general of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chatta 04. Một vị tướng người Tamil của Eḷāra, người phụ trách đồn lũy tại Mahiyaṅgaṇa. Ông đã bị Duṭṭhagāmaṇī giết. Mhv.xxv.7.
 
 ## Notes

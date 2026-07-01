@@ -5,7 +5,7 @@ base_headword: "Cintāmaṇī"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cintāmaṇī 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cintāmaṇī 01. Cintāmaṇikā. Tên của một *Vijjā*, qua đó những suy nghĩ của những người khác có thể được đọc thông qua việc quan sát họ. DN­a.ii.389; AN­a.i.399.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sahassavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sahassavagga. The eighth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassavagga. Chương thứ tám của Dhammapada.
 
 ## Notes

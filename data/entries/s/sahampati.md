@@ -5,7 +5,7 @@ base_headword: "Sahampati"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -56,6 +56,20 @@ It has been suggested (VT.i.86, n.1) that <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahampati. Một *Mahā Brahmā* (Đại Phạm thiên). Khi Đức Phật đang ở tại Ajapālanigrodha, do dự về việc ngài có nên thuyết giảng Pháp hay không, Sahampati đã hiện ra trước mặt ngài và thỉnh cầu ngài mở ra cho thế gian những cánh cửa Bất tử. Đức Phật đã đồng ý với lời thỉnh cầu khẩn thiết này (Vin.i.5f.;SN.i.137f), và chấp nhận từ Sahampati lời bảo đảm rằng tất cả chư Phật trong quá khứ cũng không có bậc đạo sư nào khác ngoài Pháp do chính các ngài khám phá ra. SN.i.139; xem thêm SN.v.167f.,185, 232, nơi ông đưa ra lời bảo đảm tương tự cho Đức Phật liên quan đến bốn *satipaṭṭhāna* và năm *indriya*; AN.ii.10f.
+
+Buddhaghosa (e.g., SN­a.i.155) giải thích rằng Đức Phật miễn cưỡng thuyết pháp, không phải vì sự lười biếng, mà vì ngài muốn Sahampati đưa ra lời thỉnh cầu này với ngài. Bởi vì, Đức Phật nghĩ, thế gian vô cùng tôn kính *Brahma*, và khi mọi người nhận ra rằng chính *Brahma* đã cầu xin Đức Phật truyền bá giáo pháp của mình, họ sẽ chú ý đến nó nhiều hơn. Sahampati vào lúc này, là vị cao niên nhất trong các *Brahma* (*jeṭṭha Mahā Brahmā*) (DN­a.ii.467).
+
+Sahampati có lần nhìn thấy vị nữ Bà-la-môn (*Brāhmiṇī*), mẹ của Trưởng lão Brahmadeva (Brahmadeva Thera)*,* có thói quen dâng lễ vật cho *Brahma*. Vì lòng thương xót bà, Sahampati đã hiện ra trước mặt bà và khuyên bà thay vào đó hãy dâng các lễ vật của mình cho Brahmadeva (SN.i.140f). Vào một dịp khác, khi Kokāliya qua đời và được sinh ra trong địa ngục Paduma (Padumaniraya), Sahampati đã hiện ra trước mặt Đức Phật và thông báo sự việc này cho ngài (Snp. p.125; cp. SN.i.151; AN.v.172).
+
+Saṁyutta (SN.i.154f) chứa một loạt các bài kệ do Sahampati thốt lên tại Andhakavinda, khi Đức Phật ngồi ngoài trời trong đêm và mưa rơi từng giọt. Các bài kệ này ca ngợi đời sống và sự thực hành của các tỳ-kheo và những kết quả của nó. Sahampati lại đến thăm Đức Phật, cùng lúc với Sakka, và khi họ đứng tựa vào cột cửa am thất của Đức Phật, Sakka đã thốt lên một bài kệ ca ngợi Đức Phật. Sahampati sau đó nói thêm một bài kệ khác, thỉnh cầu Đức Phật thuyết Pháp, vì có những người sẽ hiểu được (SN.i.233). Một bài kệ do ông thốt lên ngay sau khi Đức Phật viên tịch được bao gồm trong các sách (DN.ii.157; SN.i.158).
+
+Trong thời kỳ của Kassapa Buddha, Sahampati là một vị tỳ-kheo, tên là Sahaka, người mà, sau khi thực hành năm *indriya* (*saddhā*, etc.), đã tái sinh trong cõi *Brahma*. Kể từ đó ông được gọi là Sahampati (SN.v.233). Các bản Chú giải nói (Snp­a.ii.476; SN­a.i.155) rằng ông là một *Anāgāmī Brahma* sinh ra trong cõi Suddhāvāsā, ở đó để trải qua toàn bộ một *kappa*, bởi vì ông đã phát triển *Jhāna* thứ nhất khi còn là một tỳ-kheo. Chú giải Buddhavaṁsa (Bv­a.p.11; xem thêm p.29) nói rằng, nói một cách chính xác, tên của ông phải là “*Sahakapati*.”
+
+Khi Đức Phật chứng đạt Giác ngộ, Sahampati đã che trên đầu Đức Phật một chiếc lọng trắng có đường kính ba *yojana*. Bv­a.239; sự kiện này đã được điêu khắc trong Phòng chứa Xá-lợi của Mahā Thūpa (Mhv.xxx.74); cp. Ja.iv.266.
+
+Có lần ông đã dâng lên Đức Phật một chuỗi châu báu (*ratanadāma*) lớn như núi Sineru (Khp­a.171; Vin-a.i.115; Vsm.201). Vào ngày *Ālindakavāsi* Mahā Phussadeva chứng đạt quả vị *Arahant*, Sahampati đã đến để hầu hạ ngài (Vibh­a.352).
+
+Người ta đã đề xuất (VT.i.86, n.1) rằng Brahma Sahampati rất có thể có liên quan đến Brahma Svayambhū trong văn học Bà-la-môn.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sakhāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakhāsutta 02. Seven things which make a person a desirable friend: he is genia
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakhāsutta 02. Bảy điều khiến một người trở thành một người bạn đáng mong muốn: người ấy hòa nhã, dễ chịu, trang nghiêm, có văn hóa, hùng hồn, nhu hòa, có lời nói sâu sắc, và khuyên nhủ người khác vào đúng thời điểm. AN.iv.32.
 
 ## Notes

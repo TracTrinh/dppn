@@ -5,7 +5,7 @@ base_headword: "Bhayoluppala"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhayoluppala. A tank in Ceylon, made by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayoluppala. Một hồ chứa nước ở Ceylon, do Kuṭakaṇṇatissa tạo ra (Mhv.xxxiv.33). Tên này về sau bị đọc chệch thành Bahuppala. Mhv­ṭ. 628.
 
 ## Notes

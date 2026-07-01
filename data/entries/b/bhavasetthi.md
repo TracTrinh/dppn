@@ -5,7 +5,7 @@ base_headword: "Bhāvaseṭṭhi"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāvaseṭṭhi. A previous birth of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvaseṭṭhi. Một tiền kiếp của Bījaka (2). Ja.vi.228.
 
 ## Notes

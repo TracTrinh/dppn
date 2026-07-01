@@ -5,7 +5,7 @@ base_headword: "Cīrā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ She is probably identical with the *Bhikkhunī* mentioned in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīrā. Một nữ sa-di bảy tuổi, một vị *Arahant* người đã đề nghị tự mình thực hiện một phép lạ, để Đức Phật có thể khỏi phải nhọc công thực hiện Phép lạ Song thông. Cô bé đã đề nghị mang đến Sineru, Cakkavāḷapabbata và Himavā, và bay vút qua những ngọn núi của chúng giống như một con ngỗng trời (Dhp­a.iii.211).
+
+Bà có lẽ cũng chính là vị *Bhikkhunī* được đề cập đến trong Saṁyuttanikāya như là người đã giành được sự khen ngợi của một Yakkha (SN.i.213).
 
 ## Notes

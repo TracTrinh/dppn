@@ -5,7 +5,7 @@ base_headword: "Sahassarāja"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahassarāja 02. Eleven *kappas* ago there were eight kings of this name, previo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassarāja 02. Mười một *kappa* về trước có tám vị vua mang tên này, là các tiền kiếp của Dhammacakkika Thera. Ap.i.90.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cintāsutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cintāsutta 02. Once a man, having left <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cintāsutta 02. Có một lần một người, sau khi rời Rājagaha, đã đến Ao sen Sumāgadhā và bắt đầu suy đoán về thế giới. Sau đó ông đã nhìn thấy toàn bộ một đội quân đi vào một cọng hoa sen. Nghĩ rằng mình đã phát điên, ông trở về thị trấn, nơi ông kể cho mọi người nghe những gì ông đã nhìn thấy; họ đã xác nhận niềm tin của ông vào sự điên rồ của mình. Nhưng, thực tế là, Đức Phật nói, những gì ông nhìn thấy là thật; ông đã nhìn thấy đám đông *Asura* đang chạy trốn khỏi các vị Deva và thoát ra ngoài thông qua một cọng hoa sen. Do đó, thật không mang lại lợi ích gì khi suy đoán về thế giới. SN.v.446f.
 
 ## Notes

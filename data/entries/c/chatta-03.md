@@ -5,7 +5,7 @@ base_headword: "Chatta"
 disambiguator: "03"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -28,6 +28,6 @@ Chatta 03. A Brahmin youth of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chatta 03. Một thanh niên Bà-la-môn của Setavyā. Cậu đã học dưới sự hướng dẫn của Pokkharasāti tại Ukkaṭṭhā và, sau khi hoàn thành khóa học của mình; cậu đã trở về nhà để lấy tiền chi trả cho người thầy của mình. Trên đường quay lại Setavyā, cậu đã gặp Đức Phật, ngài đã dạy cho cậu ba bài kệ, về những ân đức của Đức Phật, Pháp và Tăng đoàn, và bảo cậu thọ nhận năm giới. Khi đang tiếp tục đi trên con đường của mình, Chatta đã bị những tên cướp tấn công và giết chết. Cậu được tái sanh ở cõi Tāvatiṁsa, và khi tất cả những người thân của cậu, thầy của cậu và những người khác tụ tập lại cho tang lễ của cậu, cậu đã xuất hiện giữa họ, được chuyên chở bởi chiếc *vimāna* rộng ba mươi do-tuần của mình, và đảnh lễ Đức Phật khi đó đang hiện diện, và bày tỏ với ngài sự biết ơn to lớn của mình đối với lòng từ bi của ngài. Đức Phật đã thuyết giảng cho đám đông đang tụ tập, và Chatta cùng với cha mẹ của cậu đã trở thành các bậc *Sotāpanna*. Vv.v.3; Vv-a.229ff; câu chuyện này thường được trích dẫn – e.g., Vin-a.i.172; MN­a.i.256; và các bài kệ được Đức Phật dạy, như được đề cập ở trên, đã trở nên nổi tiếng – e.g., DN­a.i.230; MN­a.i.107; AN­a.i.303.
 
 ## Notes

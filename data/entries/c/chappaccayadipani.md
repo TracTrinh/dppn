@@ -5,7 +5,7 @@ base_headword: "Chappaccayadīpanī"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chappaccayadīpanī. A work on Pāli prosody by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chappaccayadīpanī. Một tác phẩm về thi luật tiếng Pāli của Suddhammañāṇa. Bode, 26.
 
 ## Notes

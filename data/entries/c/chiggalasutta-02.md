@@ -5,7 +5,7 @@ base_headword: "Chiggalasutta"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -23,6 +23,6 @@ Chiggalasutta 02. It is more probable that a blind turtle, rising to the surface
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chiggalasutta 02. Rùa mù, trăm năm mới nổi lên mặt nước một lần, có thể dễ chui cổ qua một cái ách (*chiggala*) có một lỗ hổng duy nhất, đang trôi nổi trên đại dương, hơn là việc một kẻ ngu đã đi vào Cõi Khổ có thể trở lại làm người một lần nữa (SN.v.455; cp. MN.iii.169; Thīg.500).
 
 ## Notes

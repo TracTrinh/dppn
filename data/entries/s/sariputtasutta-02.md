@@ -5,7 +5,7 @@ base_headword: "Sāriputtasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāriputtasutta 02. The Buddha instructs <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputtasutta 02. Đức Phật chỉ dạy Sāriputta cách tự tu tập để loại bỏ các ý niệm về “tôi” và “của tôi.” *Sutta* này có một trích dẫn từ Udayapañha. AN.i.133.
 
 ## Notes

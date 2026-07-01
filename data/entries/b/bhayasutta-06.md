@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhayasutta 06. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 06. hoặc Bhikkhusutta. Ở người đệ tử bậc Thánh, năm nỗi sợ hãi tội lỗi được dập tắt; vị ấy sở hữu bốn chi phần của *Sotāpanna*, và phương pháp của bậc Thánh được vị ấy thấy rõ và thấu đạt bằng tuệ giác. SN.v.389.
 
 ## Notes

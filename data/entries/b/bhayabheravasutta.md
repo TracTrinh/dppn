@@ -5,7 +5,7 @@ base_headword: "Bhayabheravasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,8 @@ This *Sutta* contains an account of the “threefold lore”(*tisso vijjā*) of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayabheravasutta. Jāṇussoṇī đến thăm Đức Phật tại Jetavana và hỏi Ngài làm thế nào mà những thanh niên xuất gia theo Ngài lại có thể sống một đời sống không có niềm vui trong sự tĩnh tại, ở nơi rừng sâu. Đức Phật trả lời rằng khi còn là một Bodhisatta, Ngài cũng bị bủa vây bởi những nghi ngờ tương tự. Sự sợ hãi chỉ đến với người mà tâm chứa đầy ham muốn và khao khát, và là người trạo cử, thiếu trí, và ngu ngốc. Nhưng người thanh tịnh, kiên định, và không bị những uế nhiễm của tâm, thì sống đầy tự tin trong rừng và tu tập các *jhāna*. Sau đó Đức Phật miêu tả cách Ngài đã vượt qua những giai đoạn tu tập này trước khi trở thành Bậc Giác Ngộ (MN.i.16ff).
+
+*Sutta* này chứa một lời kể về "tam minh" (*tisso vijjā*) của Đức Phật (xem Vin-a.i.116) và những lời ca ngợi *Saraṇā* (Nơi nương tựa) (Vin-a.i.172).
 
 ## Notes

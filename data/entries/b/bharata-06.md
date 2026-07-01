@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharata 06. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 06. Một vị vua nước Benares, thuộc vương triều Okkāka. Ngài là cha của Dasaratha (*q.v.*). Mhv­ṭ. 130.
 
 ## Notes

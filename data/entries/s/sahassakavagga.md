@@ -5,7 +5,7 @@ base_headword: "Sahassakavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahassakavagga, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassakavagga, Sahassakarājakārāmavagga. Chương thứ hai của Sotāpattisaṁyutta. SN.v.360ff.
 
 ## Notes

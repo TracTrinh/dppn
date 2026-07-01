@@ -5,7 +5,7 @@ base_headword: "Bherapāsāṇavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bherapāsāṇavihāra. A monastery in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bherapāsāṇavihāra. Một tu viện ở Rohaṇa. Có một câu chuyện kể về một người sống ở đó, tên là Uttara. Một lần ông cùng với một số vị sa-di trẻ đi vào rừng để lấy cỏ cho bếp lửa; ông đã đồng ý mang một khối lượng nhất định và họ đã lừa ông mang một khối lượng lớn hơn. AN­a.i.442f.
 
 ## Notes

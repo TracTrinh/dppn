@@ -5,7 +5,7 @@ base_headword: "Bharaṇḍu Kālāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -35,6 +35,12 @@ The Commentary explains (AN­a.i.458) that he had lived in the same hermitage as
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharaṇḍu Kālāma. Một ẩn sĩ, từng là đồng môn của Đức Phật trong phạm hạnh. Một lần, khi Đức Phật đến thăm Kapilavatthu và muốn tìm chỗ ngủ qua đêm, Mahā Nāma đã đề nghị Ngài nên đến am thất của Bharaṇḍu. Đức Phật đã làm theo lời đề nghị này và qua đêm tại đó.
+
+Khi Mahā Nāma đến vào sáng hôm sau, Đức Phật đã nói chuyện với ông về ba hạng đạo sư: những người chỉ liễu tri dục vọng nhưng không liễu tri đối tượng của các căn hay cảm thọ; những người liễu tri dục vọng và đối tượng của các căn; và những người liễu tri cả ba điều trên. Kết luận của họ sẽ giống nhau hay sẽ khác nhau?
+
+Lúc này Bharaṇḍu xen vào và bảo Mahā Nāma hãy nói rằng chúng sẽ giống nhau. Nhưng Đức Phật đã phản bác ông ta, do đó Bharaṇḍu nói rằng chúng sẽ khác nhau; nhưng Đức Phật lại phản bác ông ta một lần nữa, và thậm chí cả lần thứ ba. Đau buồn vì bị Đức Phật coi thường trước mặt Mahā Nāma, một người Sākiyan quan trọng, Bharaṇḍu đã rời bỏ Kapilavatthu, không bao giờ quay trở lại (AN.i.276 f).
+
+Bản Chú giải giải thích (AN­a.i.458) rằng ông đã sống trong cùng một am thất với Đức Phật, khi cả hai đều là học trò của Āḷāra Kālama. Bharaṇḍu nổi tiếng là người có khả năng nhận được những đồ khất thực ngon nhất và hảo hạng nhất trong thành phố.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sahodaragāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sahodaragāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahodaragāma. Một ngôi làng ở Rohaṇa, nơi Rakkha, vị tướng quân của Parakkamabāhu I, đã đánh một trận chiến. Cv.lxxiv.78.
 
 ## Notes

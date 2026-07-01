@@ -5,7 +5,7 @@ base_headword: "Sajjanela"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sajjanela. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sajjanela. Một ngôi làng của người Koḷiya, nơi cư trú của Suppavāsā Koḷiyadhītā, mẹ của Sīvalī. Người ta nói Đức Phật đã từng lưu trú tại đó. AN.ii.62.
 
 ## Notes

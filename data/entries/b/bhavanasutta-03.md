@@ -5,7 +5,7 @@ base_headword: "Bhāvanāsutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhāvanāsutta 03. The cultivation of the four *satipaṭṭhāna*s consists in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvanāsutta 03. Việc tu tập bốn *satipaṭṭhāna* bao gồm việc quán niệm về thân, thọ, tâm, và pháp. SN.v.182.
 
 ## Notes

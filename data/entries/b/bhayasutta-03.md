@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhayasutta 03. The same as No.2, with the addition of “womb” to the list. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 03. Giống như No.2, với sự bổ sung thêm "thai tạng" vào danh sách. AN.iii.311.
 
 ## Notes

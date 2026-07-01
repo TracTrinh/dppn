@@ -5,7 +5,7 @@ base_headword: "Chattavaḍḍhi"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chattavaḍḍhi. The spot in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattavaḍḍhi. Địa điểm ở Mahā Meghavana nơi Moggallāna I. đã dâng tặng chiếc lọng của mình cho các nhà sư như một dấu hiệu của sự tôn kính. Một *pariveṇa* được gọi bằng cùng tên đã được xây dựng ở đó. Mhv.xxxix.32.
 
 ## Notes

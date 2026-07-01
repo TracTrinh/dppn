@@ -5,7 +5,7 @@ base_headword: "Sājīvasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sājīvasutta. Five qualities which make a monk an example to his fellows: the a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sājīvasutta. Năm phẩm chất khiến một vị tỳ-kheo trở thành tấm gương cho các bạn đồng tu: sự thành tựu về giới, định, tuệ, giải thoát và tri kiến giải thoát; cũng như khả năng giải thích các câu hỏi về những vấn đề này. AN.iii.81.
 
 ## Notes

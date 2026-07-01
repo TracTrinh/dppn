@@ -5,7 +5,7 @@ base_headword: "Chambhī"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -26,6 +26,6 @@ Chambhī. A Brahmin, chaplain of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chambhī. Một vị Bà-la-môn, giáo sĩ của Mahā Cūḷanī. Ông đã âm mưu với hoàng hậu Talatā và, sau khi đầu độc Mahā Cūḷanī, đã trở thành vua thay thế vị ấy. Về sau, vì lo sợ cho tính mạng của mình, ông muốn giết con trai của nhà vua là Cūḷanī, nhưng Talatā (*q.v.*), bằng một mưu kế, đã cứu sống cậu bé. Ja.vi.470f.
 
 ## Notes

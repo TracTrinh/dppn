@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhayasutta 02. “Fear” is a name for sense desires; likewise “pain,” “d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 02. "Sợ hãi" là một tên gọi của dục vọng; tương tự như vậy là "đau đớn", "bệnh tật", "mụn nhọt", "sự trói buộc" và "vũng lầy". Bị đắm nhiễm bởi các căn và bị trói buộc bởi chúng, cả trong thế giới này và thế giới tiếp theo, con người phải chịu sự sợ hãi, v.v. AN.iii.310f.
 
 ## Notes

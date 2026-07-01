@@ -5,7 +5,7 @@ base_headword: "Chattadāyaka Thera"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -30,6 +30,10 @@ Twenty-five *kappas* ago he was king seven times under the name of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattadāyaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước đây ông là một vị vua và con trai của ông đã trở thành một vị Pacceka Buddha.
+
+Một ngày nọ, trong khi đang tìm kiếm con trai mình, ông đã bắt gặp giàn hỏa táng của vị ấy; ông đã lễ bái nó và đặt lên đó chiếc lọng của mình như một dấu hiệu của sự tôn kính.
+
+Hai mươi lăm *kappa* trước đây ông từng làm vua bảy lần dưới tên gọi Mahāraha. Ap.i.244f.
 
 ## Notes

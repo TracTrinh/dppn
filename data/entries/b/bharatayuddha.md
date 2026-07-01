@@ -5,7 +5,7 @@ base_headword: "Bhāratayuddha"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhāratayuddha. Evidently refers to the story of the *Mahā Bhārata*. It is rec
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāratayuddha. Rõ ràng ám chỉ đến câu chuyện của *Mahā Bhārata*. Nó được xếp vào một trong những chủ đề trò chuyện tội lỗi, e.g., Vibh­a.490.
 
 ## Notes

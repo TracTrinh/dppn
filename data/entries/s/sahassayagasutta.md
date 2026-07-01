@@ -5,7 +5,7 @@ base_headword: "Sahassayāgasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sahassayāgasutta. Evidently a name given to one of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahassayāgasutta. Rõ ràng là một tên gọi được đặt cho một trong những Satullapakāyikasutta (SN.i.19), trong đó Đức Phật ca ngợi giá trị của một món quà cúng dường nhỏ bé nhưng chân chính là lớn hơn rất nhiều so với những món quà lớn được cúng dường một cách phi pháp. Một bài kệ từ *Sutta* này được trích dẫn trong Biḷārikosiyajātaka (Ja.iv.66) và trong Mahā Vaṁsaṭīkā. Mhv­ṭ.596.
 
 ## Notes

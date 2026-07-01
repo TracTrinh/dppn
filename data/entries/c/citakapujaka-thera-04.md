@@ -5,7 +5,7 @@ base_headword: "Citakapūjaka Thera"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Citakapūjaka Thera 04. An Arahant. He offered *sāla*-flowers at the pyre of a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citakapūjaka Thera 04. Một vị Arahant. Ông đã dâng cúng những bông hoa *sāla* tại giàn hỏa táng của một vị Pacceka Buddha tên là Jalajuttama, một trăm ngàn *kappa* trước đây (Ap.i.292f).
 
 ## Notes

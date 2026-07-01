@@ -5,7 +5,7 @@ base_headword: "Channasutta"
 disambiguator: "02"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -31,6 +31,8 @@ Channasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channasutta 02. Channa Thera đi từ tịnh thất này sang tịnh thất khác trong tu viện tại Isipatana, thỉnh cầu các vị Trưởng lão dạy Pháp cho ông. Khi thấy rằng những lời dạy của họ không giúp ích cho ông trong việc loại bỏ tham ái, ông đã đến thăm Ānanda tại Ghositārāma. Ānanda khen ngợi Channa vì sự khiêm nhường mới tìm thấy của ông, và thuật lại cho ông một bài pháp mà ông (Ānanda) từng nghe Đức Phật thuyết giảng cho nhà sư Kacchānagotta, liên quan đến *paṭiccasamuppāda*.
+
+Channa bày tỏ sự vui sướng của mình đối với lời giải thích của Ānanda (SN.iii.132ff). Bản Chú giải (SN­a.ii.231f) nói rằng bản tường thuật này đề cập đến Channa, người bạn đồng hành của Đức Phật. Sau khi bị áp dụng án phạt *Brahmadaṇḍa*, ông đã bị ảnh hưởng nặng nề, và đi lang thang từ nơi này sang nơi khác. Trong suốt những chuyến lang thang này ông đã đến Benares.
 
 ## Notes

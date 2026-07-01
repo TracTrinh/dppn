@@ -5,7 +5,7 @@ base_headword: "Sahali"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sahali. A *Devaputta*, follower of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahali. Một thiên tử (*Devaputta*), tín đồ của Makkhali Gosāla. Ông đã đến thăm Đức Phật tại Veḷuvana, cùng với vài vị chư thiên khác, và nói một bài kệ ca ngợi Makkhali. SN.i.65f.
 
 ## Notes

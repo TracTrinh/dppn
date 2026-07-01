@@ -5,7 +5,7 @@ base_headword: "Bhikkhadāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhikkhadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he gave a spoonful 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhadāyaka Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã cúng dường một muỗng thức ăn cho Siddhattha Buddha. Tám mươi bảy *kappa* trước, ngài từng làm vua bảy lần với tên gọi là Mahā Reṇu (Ap.i.140). Ngài có lẽ đồng nhất với Godhika Thera. Thag­a.i.124.
 
 ## Notes

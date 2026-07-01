@@ -5,7 +5,7 @@ base_headword: "Bhikkhudāsikā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,6 @@ Bhikkhudāsikā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhudāsikā, Bhikkhadāyikā. Người con gái thứ tư trong số bảy người con gái của Kikī, vua nước Benares, vào thời của Kassapa Buddha. Bà đã sống một đời sống độc thân trong hai mươi ngàn năm và xây dựng một tòa nhà để cho các tỳ-kheo sử dụng. Bà là một tiền kiếp của Bhaddā Kuṇḍalakesā. Ap.ii.561; Thīg­a.104; tuy nhiên, Ja.vi.481 lại nói rằng bà là Gotamā (Pajāpatī Gotamī).
 
 ## Notes

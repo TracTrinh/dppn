@@ -5,7 +5,7 @@ base_headword: "Bhātikatissavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhātikatissavihāra. A *vihāra* built by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātikatissavihāra. Một *vihāra* do Bhātikatissa xây dựng.
 
 ## Notes

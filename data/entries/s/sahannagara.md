@@ -5,7 +5,7 @@ base_headword: "Sahannagara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sahannagara. A village in Ceylon, given by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sahannagara. Một ngôi làng ở Ceylon, được Jeṭṭhatissa III ban cho *vihāra* Mayettikassapāvāsa. Cv.xliv.100.
 
 ## Notes

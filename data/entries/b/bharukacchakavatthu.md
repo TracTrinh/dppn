@@ -5,7 +5,7 @@ base_headword: "Bharukacchakavatthu"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bharukacchakavatthu. The story of a monk of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharukacchakavatthu. Câu chuyện về một vị tỳ-kheo ở Bharukaccha, người (trong giấc mơ) đã ăn nằm với một phụ nữ, liền nghĩ rằng mình đã phạm tội *pārājikā*. Nhưng Upāli đã phán quyết rằng vị ấy vô tội. Vin.iii.39; Vin-a.i.283.
 
 ## Notes

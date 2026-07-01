@@ -5,7 +5,7 @@ base_headword: "Bhikkhunī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhikkhunī. The third of the seven daughters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunī. Người con gái thứ ba trong số bảy người con gái của Kikī, vua nước Benares. Bà là một tiền kiếp của Paṭācārā, e.g., Ap.ii.546, 561; Thīg­a.114; nhưng xem Ja.vi.481, ở đó *Bhikkhunī* được xem như là một danh từ chung. Tôi thiên về suy nghĩ rằng cách đọc sau này là sai.
 
 ## Notes

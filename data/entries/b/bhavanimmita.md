@@ -5,7 +5,7 @@ base_headword: "Bhavanimmita"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhavanimmita. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavanimmita. *v.l.* Santanāmika.. Năm mươi bảy *kappa* trước có bốn vị vua mang tên này, là những tiền kiếp của Phalakadāyaka Thera (Ap.i.174).
 
 ## Notes

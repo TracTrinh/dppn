@@ -5,7 +5,7 @@ base_headword: "Bhāravagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāravagga. The third chapter of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāravagga. Phẩm thứ ba của Khandhasaṁyutta. SN.iii.25-33.
 
 ## Notes

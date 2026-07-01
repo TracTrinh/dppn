@@ -5,7 +5,7 @@ base_headword: "Bhikkhū Sutta"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhikkhū Sutta 05. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhū Sutta 05. hoặc Suddhikasutta. Bốn điều kiện mà khi sở hữu chúng sẽ khiến một vị đệ tử trở thành một *Sotāpanna*. SN.v.403.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāketaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāketaka. An inhabitant of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāketaka. Một cư dân của Sāketa. Mil.p.331.
 
 ## Notes

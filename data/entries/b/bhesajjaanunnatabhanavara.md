@@ -5,7 +5,7 @@ base_headword: "Bhesajja­anuññātabhāṇavāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhesajja­anuññātabhāṇavāra. The thirteenth chapter of the sixth <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhesajja­anuññātabhāṇavāra. Chương thứ mười ba của Khandaka thứ sáu thuộc Mahā Vagga của Vinayapiṭaka.
 
 ## Notes

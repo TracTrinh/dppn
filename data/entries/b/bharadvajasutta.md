@@ -5,7 +5,7 @@ base_headword: "Bhāradvājasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhāradvājasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāradvājasutta. Udena đến thăm Piṇḍola Bhāradvāja tại Ghositārāma và hỏi làm thế nào mà những thanh niên đang ở độ tuổi thanh xuân lại có thể từ bỏ thế gian mà vẫn sống trọn vẹn phạm hạnh. Piṇḍola trả lời rằng những thanh niên này coi tất cả phụ nữ như mẹ, chị em gái, hoặc con gái. Họ coi thân thể chứa đầy vô số sự bất tịnh, và luôn chánh niệm tỉnh giác trước các cánh cửa của các căn. Udena hoan hỷ với lời giải thích đó và chấp nhận giáo pháp của Đức Phật. SN.iv.110f.
 
 ## Notes

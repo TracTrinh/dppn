@@ -5,7 +5,7 @@ base_headword: "Bhāvitatta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhāvitatta 01. One of the two chief disciples of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvitatta 01. Một trong hai vị đệ tử thượng thủ của Sumana Buddha (Ja.i.34; Bv.v.26). Ông là vị *Purohita* trong thành phố nơi Sumana sinh ra, và là một trong những người mà Sumana đã thuyết bài pháp đầu tiên cho họ. Bv­a. 126.
 
 ## Notes

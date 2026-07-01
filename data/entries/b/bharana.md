@@ -5,7 +5,7 @@ base_headword: "Bharaṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bharaṇa. One of the chief warriors of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharaṇa. Một trong những chiến binh hàng đầu của Duṭṭhagāmaṇī. Ông là con trai của Kumāra xứ Kappalakaṇḍara và có đôi chân rất nhanh nhẹn. Ở tuổi lên mười hay mười hai, ông đã có thể đuổi theo thỏ rừng và nai sừng tấm, bắt lấy chúng và ném chúng xuống đất. Mhv.xxiii.64 ff. Xem thêm Ras.ii.96.
 
 ## Notes

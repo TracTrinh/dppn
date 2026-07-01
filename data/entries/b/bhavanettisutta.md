@@ -5,7 +5,7 @@ base_headword: "Bhavanettisutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhavanettisutta. The Buddha tells <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhavanettisutta. Đức Phật dạy Rādha rằng điều dẫn đến tái sinh là sự tham ái đối với thân, đối với các cảm thọ, v.v. SN.iii.190.
 
 ## Notes

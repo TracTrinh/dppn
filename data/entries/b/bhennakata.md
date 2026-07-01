@@ -5,7 +5,7 @@ base_headword: "Bheṇṇākaṭa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bheṇṇākaṭa. A locality where <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bheṇṇākaṭa. Một địa phương nơi Rujā sống như một con dê thiến. Ja.vi.237.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bharujātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -32,6 +32,8 @@ The story was told to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharujātaka (Ja 213). Bodhisatta từng là thủ lĩnh của một nhóm năm trăm đạo sĩ ở Himavā. Một ngày nọ, họ đến thành phố Bharu để xin muối và giấm, và cư trú dưới một cây đa ở phía bắc thành phố. Một nhóm tương tự đã ở dưới một cái cây ở phía nam. Năm sau, cái cây ở phía nam thành phố bị phát hiện đã héo úa, và nhóm từng sống ở đó, do đến trước, đã chiếm lấy cái cây kia, ở phía bắc. Điều này dẫn đến một cuộc tranh chấp giữa hai nhóm, và họ đã tìm kiếm sự can thiệp của Bharu, vua nước Bharu. Ngài đã quyết định ủng hộ một nhóm, nhưng do bị nhóm kia mua chuộc, ngài đã thay đổi quyết định. Về sau, các đạo sĩ đã ăn năn về sự tham lam của mình và vội vã quay trở lại Himavā. Các vị thần, tức giận với nhà vua, đã nhấn chìm toàn bộ nước Bharu, rộng ba trăm do-tuần, xuống dưới biển.
+
+Câu chuyện này được kể cho Pasenadi, vua nước Kosala, người đã nhận hối lộ từ một số ngoại đạo và cho phép họ xây dựng một trung tâm gần Jetavana. Khi Đức Phật nghe về điều đó, Ngài đã cử các tỳ-kheo đến phỏng vấn nhà vua, nhưng ông ta từ chối tiếp đón ngay cả các vị Đệ tử Thượng thủ. Sau đó, đích thân Đức Phật đã đến và khuyên can nhà vua không nên cho phép một hành động có thể dẫn đến những sự bất đồng không hồi kết. Ja.ii.169ff.; câu chuyện cũng được đưa ra tại SN­a.iii.218 f., trong đó nói thêm rằng Pasenadi đã xây dựng Rājakārāma để chuộc lỗi lầm của mình.
 
 ## Notes

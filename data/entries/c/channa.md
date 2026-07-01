@@ -5,7 +5,7 @@ base_headword: "Channā"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Channā. A nun, mentioned as being specially proficient in the Vinaya. *v.l.* <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channā. Một vị tỳ-kheo-ni, được nhắc đến như là người đặc biệt tinh thông về Vinaya. *v.l.* Chandā. (Dpv.xviii.29)
 
 ## Notes

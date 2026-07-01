@@ -5,7 +5,7 @@ base_headword: "Chaphassāyatanikasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chaphassāyatanikasutta. A group of three *Suttas* concerning the sixfold sphere
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chaphassāyatanikasutta. Một nhóm ba bài *Kinh* liên quan đến sáu xúc xứ (sáu bề mặt tiếp xúc). SN.iv.43f.
 
 ## Notes

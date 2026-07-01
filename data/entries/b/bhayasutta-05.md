@@ -5,7 +5,7 @@ base_headword: "Bhayasutta"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhayasutta 05. Four other fears: fire, water, kings, bandits. AN.ii.121.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasutta 05. Bốn nỗi sợ hãi khác: lửa, nước, vua chúa, bọn cướp. AN.ii.121.
 
 ## Notes

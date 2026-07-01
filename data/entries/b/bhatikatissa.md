@@ -5,7 +5,7 @@ base_headword: "Bhātikatissa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -33,6 +33,8 @@ He was succeeded by his younger brother, <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātikatissa. Con trai của Mahallanāga và là vua của Ceylon trong hai mươi bốn năm (203-227 CN). Ngài đã xây dựng một bức tường bao quanh Mahā Vihāra. Ngài đã dựng lên các *vihāra* Gavaratissa và Bhātikatissa và xây dựng hồ chứa nước Mahā Maṇi, và cũng đã xây dựng một giảng đường *uposatha* trong Thūpārāma.
+
+Kế vị ngài là người em trai của ngài, Kaniṭṭhakatissa. Mhv.xxxvi.1ff.; Dpv.xxii.18, 20, 30, 31.
 
 ## Notes

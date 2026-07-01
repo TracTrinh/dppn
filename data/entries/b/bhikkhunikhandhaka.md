@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīkhandhaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhikkhunīkhandhaka. The tenth section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīkhandhaka. Phần thứ mười của Cūḷa Vagga thuộc Vinayapiṭaka.
 
 ## Notes

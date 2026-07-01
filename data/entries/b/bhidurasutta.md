@@ -5,7 +5,7 @@ base_headword: "Bhidurasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhidurasutta. A *Sutta* quoted in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhidurasutta. Một *Sutta* được trích dẫn trong Suttasaṅgaha (Số 83) từ Itivuttaka (p.69f). Thân thể này tan rã, thức thì đáng khinh; tất cả các pháp đều vô thường.
 
 ## Notes

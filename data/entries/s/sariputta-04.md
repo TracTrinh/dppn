@@ -5,7 +5,7 @@ base_headword: "Sāriputta"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāriputta 04. A Coḷiyan monk, author of the *Padāvatāra*. Gv.67; Svd.12, 44
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta 04. Một vị tăng Coḷiyan, tác giả của *Padāvatāra*. Gv.67; Svd.12, 44.
 
 ## Notes

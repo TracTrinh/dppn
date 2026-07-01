@@ -5,7 +5,7 @@ base_headword: "Chattaggāhakavāpī"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -25,6 +25,6 @@ Chattaggāhakavāpī. A tank built by a parasol-bearer (*chattaggāhaka*), the h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chattaggāhakavāpī. Một hồ chứa nước do một người mang lọng (*chattaggāhaka*), chồng của Saṅghā, xây dựng (Cv.xxxviii.3).
 
 ## Notes

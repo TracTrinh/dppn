@@ -5,7 +5,7 @@ base_headword: "Bhāti"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhāti, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāti, Bhātiya. Vua nước Magadha, cha của Bimbisāra. Dpv.iii.52f.; Mhv­ṭ.137.
 
 ## Notes

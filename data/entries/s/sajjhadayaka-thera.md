@@ -5,7 +5,7 @@ base_headword: "Sajjhadāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sajjhadāyaka Thera. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sajjhadāyaka Thera. *v.l.* Pacchidāyaka Thera. Một vị *Arahant*, rõ ràng đồng nhất với Mudita Thera. Ap.i.284f.; Thag­a.i.401.
 
 ## Notes

@@ -2715,3 +2715,232 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 177 | s/sahajati | fixed | restored `n.3` citation note |
 | 178 | s/sahaka-thera | clean |  |
 | 179 | s/sagalika | fixed | restored `Cf.`; preserved `Sāgala Thera` and royal-name punctuation |
+
+## Batch: b_06-b_08-c_09-c_10-s_06-s_07 review_queue ? 200 entries
+
+- Ng?y review: 2026-07-01
+- Ng??i/model: Codex GPT-5 (review-queue pass)
+- Ph?m vi: review queue manifests `b_06_result.md`, `b_07_result.md`, `b_08_result.md`, `c_09_result.md`, `c_10_result.md`, `s_06_result.md`, `s_07_result.md`; excluded entries already in review-log.md: none.
+- K?t qu?: 200/200 ??t; 19 file s?a low-risk; 0 file ??t needs_check. Glossary merge: no active glossary proposal files found.
+
+| # | Entry (<letter>/...) | S?a | Ghi ch? |
+|---|---|---|---|
+| 1 | b/bharadvaja-08 | clean |  |
+| 2 | b/bharadvajasutta | clean |  |
+| 3 | b/bharana | clean |  |
+| 4 | b/bharandu-kalama | clean |  |
+| 5 | b/bharandusutta | clean |  |
+| 6 | b/bharasutta | clean |  |
+| 7 | b/bharata-01 | clean |  |
+| 8 | b/bharata-02 | clean |  |
+| 9 | b/bharata-03 | clean |  |
+| 10 | b/bharata-04 | clean |  |
+| 11 | b/bharata-05 | clean |  |
+| 12 | b/bharata-06 | clean |  |
+| 13 | b/bharata-07 | clean |  |
+| 14 | b/bharata | clean |  |
+| 15 | b/bharatakumara | clean |  |
+| 16 | b/bharatayuddha | fixed | restored `e.g.` citation marker |
+| 17 | b/bharattala | clean |  |
+| 18 | b/bharavagga | clean |  |
+| 19 | b/bharu | clean |  |
+| 20 | b/bharujataka | clean |  |
+| 21 | b/bharukaccha-01 | fixed | restored `e.g.` citation markers |
+| 22 | b/bharukaccha-02 | clean |  |
+| 23 | b/bharukacchakavatthu | clean |  |
+| 24 | b/bhataragama | clean |  |
+| 25 | b/bhatasutta | clean |  |
+| 26 | b/bhati | clean |  |
+| 27 | b/bhatikabhaya | clean |  |
+| 28 | b/bhatikatissa | clean |  |
+| 29 | b/bhatikatissavihara | clean |  |
+| 30 | b/bhatiyavankavihara | clean |  |
+| 31 | b/bhattabhatika | clean |  |
+| 32 | b/bhattabhuttavalahaka | clean |  |
+| 33 | b/bhattasupagama | clean |  |
+| 34 | b/bhattasutta | clean |  |
+| 35 | b/bhavagga | fixed | restored `e.g.` citation markers |
+| 36 | b/bhavanasutta-01 | clean |  |
+| 37 | b/bhavanasutta-02 | clean |  |
+| 38 | b/bhavanasutta-03 | clean |  |
+| 39 | b/bhavanasutta-04 | clean |  |
+| 40 | b/bhavanettisutta | clean |  |
+| 41 | b/bhavanimmita | clean |  |
+| 42 | b/bhavasetthi | clean |  |
+| 43 | b/bhavasutta-01 | clean |  |
+| 44 | b/bhavasutta-02 | clean |  |
+| 45 | b/bhavasutta-03 | clean |  |
+| 46 | b/bhavasutta-04 | clean |  |
+| 47 | b/bhavitatta-01 | clean |  |
+| 48 | b/bhavitatta-02 | clean |  |
+| 49 | b/bhavitatta-03 | clean |  |
+| 50 | b/bhayabheravasutta | clean |  |
+| 51 | b/bhayasiva-2 | clean |  |
+| 52 | b/bhayasiva | clean |  |
+| 53 | b/bhayasutta-01 | clean |  |
+| 54 | b/bhayasutta-02 | clean |  |
+| 55 | b/bhayasutta-03 | fixed | restored `No.2` cross-reference |
+| 56 | b/bhayasutta-04 | clean |  |
+| 57 | b/bhayasutta-05 | clean |  |
+| 58 | b/bhayasutta-06 | clean |  |
+| 59 | b/bhayavagga | clean |  |
+| 60 | b/bhayoluppala | clean |  |
+| 61 | b/bhennakata | clean |  |
+| 62 | b/bherapasanavihara | clean |  |
+| 63 | b/bheravaya | clean |  |
+| 64 | b/bheri | clean |  |
+| 65 | b/bherivadajataka | clean |  |
+| 66 | b/bheruva | clean |  |
+| 67 | b/bhesajjaanunnatabhanavara | clean |  |
+| 68 | b/bhesajjamanjusa | clean |  |
+| 69 | b/bhesakala | clean |  |
+| 70 | b/bhesakalavana | fixed | restored `etc.` in citation parenthetical |
+| 71 | b/bhesika | clean |  |
+| 72 | b/bhikkhadayaka-thera | clean |  |
+| 73 | b/bhikkhadayaka | clean |  |
+| 74 | b/bhikkhadayika-01 | clean |  |
+| 75 | b/bhikkhadayika-02 | clean |  |
+| 76 | b/bhikkhakasutta | clean |  |
+| 77 | b/bhikkhaparamparajataka | clean |  |
+| 78 | b/bhikkhu-sutta-01 | clean |  |
+| 79 | b/bhikkhu-sutta-02 | clean |  |
+| 80 | b/bhikkhu-sutta-03 | clean |  |
+| 81 | b/bhikkhu-sutta-04 | clean |  |
+| 82 | b/bhikkhu-sutta-05 | clean |  |
+| 83 | b/bhikkhudasika | clean |  |
+| 84 | b/bhikkhunasutta-01 | clean |  |
+| 85 | b/bhikkhunasutta-02 | clean |  |
+| 86 | b/bhikkhuni | fixed | restored `e.g.` citation marker |
+| 87 | b/bhikkhunikhandhaka | clean |  |
+| 88 | b/bhikkhunisamyutta | clean |  |
+| 89 | b/bhikkhunisutta-01 | clean |  |
+| 90 | b/bhidurasutta | clean |  |
+| 91 | c/chambhi | clean |  |
+| 92 | c/chandena-sutta | clean |  |
+| 93 | c/chandosaratthavikasini | clean |  |
+| 94 | c/channa-01 | clean |  |
+| 95 | c/channa-02 | clean |  |
+| 96 | c/channa-03 | fixed | restored `No.69` and `e.g.` markers |
+| 97 | c/channa | clean |  |
+| 98 | c/channagarika | clean |  |
+| 99 | c/channapathapanha | clean |  |
+| 100 | c/channasutta-01 | clean |  |
+| 101 | c/channasutta-02 | clean |  |
+| 102 | c/channasutta-03 | clean |  |
+| 103 | c/channavagga | clean |  |
+| 104 | c/channovadasutta | clean |  |
+| 105 | c/chapanasutta | clean |  |
+| 106 | c/chaphassayatanikasutta | clean |  |
+| 107 | c/chappaccayadipani | clean |  |
+| 108 | c/chatapabbata | clean |  |
+| 109 | c/chatta-01 | clean |  |
+| 110 | c/chatta-02 | clean |  |
+| 111 | c/chatta-03 | fixed | restored `e.g.` citation markers |
+| 112 | c/chatta-04 | clean |  |
+| 113 | c/chattadayaka-thera | clean |  |
+| 114 | c/chattaggahakavapi | clean |  |
+| 115 | c/chattaguhinda | clean |  |
+| 116 | c/chattapani-01 | clean |  |
+| 117 | c/chattapani-02 | clean |  |
+| 118 | c/chattapasada | clean |  |
+| 119 | c/chattavaddhi | clean |  |
+| 120 | c/chattunnatavapi | clean |  |
+| 121 | c/chavakajataka | clean |  |
+| 122 | c/chavalatasutta | clean |  |
+| 123 | c/chavasisa | clean |  |
+| 124 | c/chavisutta | clean |  |
+| 125 | c/chetvasutta-02 | clean |  |
+| 126 | c/chetvavagga-01 | clean |  |
+| 127 | c/chiggalasutta-01 | clean |  |
+| 128 | c/chiggalasutta-02 | clean |  |
+| 129 | c/chiggalasutta-03 | clean |  |
+| 130 | c/chindisutta | clean |  |
+| 131 | c/cina | fixed | restored `e.g.` citation marker |
+| 132 | c/cincamanavika | clean |  |
+| 133 | c/cinnamala | clean |  |
+| 134 | c/cintamani-01 | clean |  |
+| 135 | c/cintamani-02 | clean |  |
+| 136 | c/cintasutta-01 | clean |  |
+| 137 | c/cintasutta-02 | clean |  |
+| 138 | c/cira | clean |  |
+| 139 | c/ciragumba | clean |  |
+| 140 | c/ciramatika | clean |  |
+| 141 | c/cirappa | clean |  |
+| 142 | c/ciravapi | clean |  |
+| 143 | c/ciravasi | clean |  |
+| 144 | c/citakanibbapaka-thera | clean |  |
+| 145 | c/citakapujaka-thera-01 | clean |  |
+| 146 | c/citakapujaka-thera-02 | clean |  |
+| 147 | c/citakapujaka-thera-03 | clean |  |
+| 148 | c/citakapujaka-thera-04 | clean |  |
+| 149 | c/citra | clean |  |
+| 150 | c/citta-01-2 | clean |  |
+| 151 | s/sahali-2 | clean |  |
+| 152 | s/sahali | clean |  |
+| 153 | s/sahampati | fixed | restored `e.g.`, `cp.`, `etc.`, and `n.1` markers |
+| 154 | s/sahancanika | clean |  |
+| 155 | s/sahannagara | clean |  |
+| 156 | s/sahasamalla | fixed | restored `n.1` note marker |
+| 157 | s/sahassakavagga | clean |  |
+| 158 | s/sahassakkha | clean |  |
+| 159 | s/sahassanetta | clean |  |
+| 160 | s/sahassara | clean |  |
+| 161 | s/sahassaraja-01 | clean |  |
+| 162 | s/sahassaraja-02 | clean |  |
+| 163 | s/sahassaratha | clean |  |
+| 164 | s/sahassasutta-01 | clean |  |
+| 165 | s/sahassasutta-02 | clean |  |
+| 166 | s/sahassatittha | fixed | restored `n.4` and `e.g.` markers |
+| 167 | s/sahassavagga | clean |  |
+| 168 | s/sahassavatthu-atthakatha | fixed | restored `e.g.` citation marker |
+| 169 | s/sahassayagasutta | clean |  |
+| 170 | s/sahayasutta | clean |  |
+| 171 | s/sahodaragama | clean |  |
+| 172 | s/sajivasutta | clean |  |
+| 173 | s/sajja | clean |  |
+| 174 | s/sajjanela | clean |  |
+| 175 | s/sajjha | clean |  |
+| 176 | s/sajjhadayaka-thera | clean |  |
+| 177 | s/sajjhasutta | clean |  |
+| 178 | s/saka | clean |  |
+| 179 | s/sakacchasutta-02 | clean |  |
+| 180 | s/sakacchasutta | clean |  |
+| 181 | s/sakacittaniya-thera | clean |  |
+| 182 | s/sakalikasutta-01 | clean |  |
+| 183 | s/sakalikasutta-02 | clean |  |
+| 184 | s/sakata | clean |  |
+| 185 | s/sakavatthuvihara | clean |  |
+| 186 | s/saketabrahmanavatthu | clean |  |
+| 187 | s/saketajataka-01 | fixed | restored `cf.` marker |
+| 188 | s/saketajataka-02 | clean |  |
+| 189 | s/saketaka | clean |  |
+| 190 | s/saketapanha | clean |  |
+| 191 | s/saketasutta | clean |  |
+| 192 | s/saketatissa-thera | fixed | restored `cf.` marker |
+| 193 | s/sakha-01 | fixed | restored `cf.` marker |
+| 194 | s/sakha-02 | fixed | restored `cf.` marker |
+| 195 | s/sakhapattagama | fixed | restored `n.5` note marker |
+| 196 | s/sakhasutta-01 | clean |  |
+| 197 | s/sakhasutta-02 | clean |  |
+| 198 | s/sakimsammajjaka-thera | clean |  |
+| 199 | s/sakiyavamsavihara | clean |  |
+| 200 | s/saketa | fixed | restored `cf.`/`e.g.` markers; removed unsupported `(league)` and English parenthetical gloss |
+
+## Batch: s_xxx review_queue — 9 entries
+
+- Ngày review: 2026-07-01
+- Người/model: Codex GPT-5 (review-queue pass)
+- Phạm vi: review queue manifest `s_xxx_result.md`; excluded entries already in review-log.md: none.
+- Kết quả: 9/9 đạt; 1 file sửa low-risk; 0 file đặt needs_check. Glossary merge: no active glossary proposal files found.
+
+| # | Entry (<letter>/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/sakka-01 | fixed | restored `cf.` markers; normalized Twin Miracle rendering to `Yamakapāṭihāriya` |
+| 2 | s/sariputta-01 | clean | includes source subentry Sāriputta 02 in same data file |
+| 3 | s/sariputta-03 | clean |  |
+| 4 | s/sariputta-04 | clean |  |
+| 5 | s/sariputta-05 | clean |  |
+| 6 | s/sariputtasamyutta | clean |  |
+| 7 | s/sariputtasutta-01 | clean |  |
+| 8 | s/sariputtasutta-02 | clean |  |
+| 9 | s/sariputtasutta-03 | clean |  |

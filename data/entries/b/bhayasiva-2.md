@@ -5,7 +5,7 @@ base_headword: "Bhayasīva"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhayasīva. A member of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhayasīva. Một thành viên của gia tộc Moriya ở Ceylon, người cùng thời với Silākāla. Con trai của ông là Aggabodhi và cháu trai của ông là Vua Mahā Nāga. Cv.xli.69f.
 
 ## Notes

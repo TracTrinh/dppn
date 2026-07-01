@@ -5,7 +5,7 @@ base_headword: "Chapāṇasutta"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Chapāṇasutta. If a man were to catch six animals – a snake, a crocodile, a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chapāṇasutta. Nếu một người bắt sáu con vật – một con rắn, một con cá sấu, một con chim, một con chó, một con chó rừng và một con khỉ – và buộc chúng bằng những sợi dây, chúng sẽ vùng vẫy để được tự do và chạy trốn, mỗi con tìm về với lãnh địa hoặc bãi chăn thả của riêng mình. Sáu giác quan của một người cũng như vậy. Nếu những con vật bị buộc chặt, chúng sẽ, theo thời gian, trở nên mệt mỏi và nằm nghỉ. Sáu giác quan cũng sẽ như vậy nếu một người thực hành sự chú tâm vào cơ thể. SN.iv.197; cp. Vsm.484.
 
 ## Notes

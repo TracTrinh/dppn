@@ -5,7 +5,7 @@ base_headword: "Channasutta"
 disambiguator: "03"
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -24,6 +24,6 @@ Channasutta 03. Records the incidents in connection with the suicide of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Channasutta 03. Ghi chép lại các sự kiện có liên quan đến việc tự sát của Channa Thera (Channa 2). SN.iv.55f; SN­a.iii.12; cf. MN.iii.263ff.
 
 ## Notes

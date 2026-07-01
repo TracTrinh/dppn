@@ -5,7 +5,7 @@ base_headword: "Sakā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakā. A tribe, mentioned in a list. The name probably refers to the Scythians. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakā. Một bộ tộc, được nhắc đến trong một danh sách. Tên gọi này có lẽ ám chỉ người Scythia. Mil. 327, 331.
 
 ## Notes

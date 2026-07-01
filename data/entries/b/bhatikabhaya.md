@@ -5,7 +5,7 @@ base_headword: "Bhātikābhaya"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -42,6 +42,12 @@ It is said (SN­a.ii.180) that the king once asked a reciter to tell him of an a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātikābhaya, còn gọi là Bhātika hoặc Bhātiya. Con trai của Kuṭakaṇṇatissa và là vua của Ceylon trong hai mươi tám năm (38-66 CN). Ngài được gọi là Bhātika hoặc Bhātiya vì ngài là anh trai của Mahā Dāṭhika Mahā Nāga. Ngài rất sùng đạo, và từng cho đắp toàn bộ bảo tháp Mahā Thūpa bằng bột gỗ đàn hương điểm xuyết những bông hoa thơm ngát. Vào một dịp khác, ngài đã phủ toàn bộ *Thūpa* bằng những bông hoa và tưới nước cho chúng bằng máy móc bơm nước từ Abhayavāpi. Ngài đã làm một lớp trát tường cho Mahā Thūpa trong đó trộn lẫn nhiều cỗ xe chở ngọc trai. Một tấm lưới bằng san hô được làm ra và trùm lên *cetiya*, và trong các mắt lưới được đính những bông hoa sen bằng vàng, to bằng bánh xe bò. Một ngày nọ, nhà vua nghe thấy âm thanh tụng kinh của các vị *Arahant* trong phòng chứa xá lợi của Mahā Thūpa, và ngài nằm xuống với quyết tâm sẽ không đứng dậy cho đến khi nhìn thấy họ. Các vị Trưởng lão đã làm một cánh cửa để ngài có thể đi vào, và, sau khi chiêm ngưỡng sự huy hoàng của căn phòng, ngài đã miêu tả lại chúng vì lợi ích của dân chúng, làm ra những bức tượng để minh họa cho những miêu tả của mình. Bhātikābhaya đã làm nhiều thiện sự khác, tổ chức các lễ hội Vesākha, sắp xếp các vật phẩm cúng dường cho cây Bodhi, và thể hiện sự cúng dường nhiệt thành đối với các tỳ-kheo ở nhiều nơi khác nhau. Kế vị ngài là người em trai Mahā Dāṭhika Mahā Nāga (Mhv.xxxiv.38ff.; Mhv­ṭ.553f).
+
+Bhātikābhaya từng nghe nói về một phán quyết khéo léo được đưa ra bởi *Ābhidhammika* Godha Thera và đã đặt ra một quy định rằng mọi tranh chấp đều phải được đưa đến vị Trưởng lão này để giải quyết (Vin-a.ii.307). Trong một dịp khác, ngài đã bổ nhiệm một vị quan Bà-la-môn, tên là Dīgha Kārāyaṇa, để giải quyết một cuộc tranh cãi giữa các tỳ-kheo của Abhayagiri và những tỳ-kheo của Mahā Vihāra (Vin-a.iii.583). Ngài có một hoàng hậu tên là Sāmadevī vốn là con gái của một người đồ tể mổ bò. Có lần, một số lượng lớn những người đồ tể mổ bò bị giải đến trước nhà vua, nhưng vì họ không thể trả khoản tiền phạt được yêu cầu, ngài đã chỉ định họ làm những người phu quét dọn trong cung điện. Một người trong số họ có một cô con gái xinh đẹp, và nhà vua đã yêu nàng rồi cưới nàng. Nhờ có nàng, những người thân của nàng cũng được sống trong hạnh phúc (Vibh­a.440).
+
+Bhātikābhaya từng nghe một *Sutta* (xem AN.v.21f) trong đó Đức Phật đã tuyên bố rằng, trong tất cả các loại hương thơm, hương thơm của hoa nhài là mạnh nhất. Để kiểm chứng điều này, nhà vua đã đổ đầy một căn phòng với bốn loại hương thơm và sau đó đặt vào trong đó những nắm hoa khác nhau, bao gồm cả hoa nhài. Sau đó ngài ra khỏi phòng và đóng cửa lại. Một lúc sau, ngài bước vào lại, và mùi hương đầu tiên chào đón ngài là mùi hương của hoa nhài. Bị thuyết phục bởi sự thật trong lời tuyên bố của Đức Phật, ngài đã nằm sấp mình xuống và đảnh lễ Ngài (AN­a.ii.819).
+
+Người ta kể rằng (SN­a.ii.180) nhà vua từng yêu cầu một người tụng kinh hãy đọc cho ngài nghe một bài kệ cát tường (*jayamaṅgala*) liên kết với tất cả Tam Bảo. Sau khi suy nghĩ một lúc, người đó đã tụng bài kệ bắt đầu bằng *divā tapati ādicco, ratti ābhāti candimā* (SN.ii.284). Vào lúc kết thúc *pāda* đầu tiên, người tụng kinh đảnh lễ mặt trời đang lặn, vào lúc kết thúc đoạn thứ hai đảnh lễ mặt trăng đang lên, vào lúc kết thúc đoạn thứ ba đảnh lễ Tăng đoàn, và vào lúc kết thúc bài kệ, người đó vươn tay lên trời để đảnh lễ Mahā Thūpa. Nhà vua bảo người đó hãy giữ nguyên đôi tay ở đó và đặt vào trong đó một ngàn đồng tiền.
 
 ## Notes

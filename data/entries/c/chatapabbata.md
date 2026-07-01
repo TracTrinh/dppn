@@ -5,7 +5,7 @@ base_headword: "Chātapabbata"
 disambiguator: ""
 letter: "C"
 section: "Ch."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/036.html"
@@ -28,6 +28,6 @@ Chātapabbata. A mountain, slightly over two *yojanas* to the south-east of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chātapabbata. Một ngọn núi, cách Anurādhapura hơn hai *do-tuần* về phía đông nam một chút. Ở chân núi có một lùm tre trong đó mọc lên ba thân tre, mỗi thân có chu vi bằng một cây trục xe – được gọi là *latāyatthi*, *kusumayatthi* và *sakuṇayatthi* – nhờ vào phước lành của Devānampiyatissa (Mhv.xi.10; Dpv.xi.15, 19; Vin-a.i.74. Để có một sự giải thích về những *yatthi* này hãy xem IHQ.vi.571ff). Saddhātissa sau đó đã xây dựng một *vihāra* ở đó, được gọi là *Chātavihāra* (Mhv­ṭ.300). Bản Chú giải Aṅguttara (i.15) có một sự tham chiếu đến một vị sa-di cư ngụ tại Chātapabbata người đã rơi vào đau khổ sau khi nghe giọng nói của một người phụ nữ.
 
 ## Notes

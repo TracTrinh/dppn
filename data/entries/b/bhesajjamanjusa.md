@@ -5,7 +5,7 @@ base_headword: "Bhesajjamañjūsā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhesajjamañjūsā. A Pāli medical work written in the time of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhesajjamañjūsā. Một tác phẩm y học bằng tiếng Pāli được viết vào thời của Parakkamabāhu II bởi một vị tỳ-kheo ở Ceylon. Tác giả được gọi là *Pañcapariveṇādhipati*. Saraṇaṅkara đã viết một bản Chú giải bằng tiếng Sinhalese cho tác phẩm này. Cv.xcvii.59; Svd.1265.
 
 ## Notes

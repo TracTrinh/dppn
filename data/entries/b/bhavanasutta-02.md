@@ -5,7 +5,7 @@ base_headword: "Bhāvanāsutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhāvanāsutta 02. The four *satipaṭṭhāna*s, if cultivated, conduce to the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāvanāsutta 02. Bốn *satipaṭṭhāna*, nếu được tu tập, sẽ dẫn đến trạng thái không có bờ bên kia và không có bờ bên này tồn tại. SN.v.180.
 
 ## Notes

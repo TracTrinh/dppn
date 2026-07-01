@@ -5,7 +5,7 @@ base_headword: "Bhikkhakasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhakasutta. A mendicant Brahmin of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhakasutta. Một vị Bà-la-môn khất sĩ ở Sāvatthī hỏi Đức Phật xem có bất kỳ sự khác biệt nào giữa Đức Phật và bản thân ông ta hay không, vì cả hai đều là những người đi khất thực. Chỉ đơn thuần khất thực không làm cho người ta trở thành một "*Bhikkhu*," Đức Phật trả lời; vị *Bhikkhu* đích thực là người đã vứt bỏ mọi điều ác. SN.i.182.
 
 ## Notes

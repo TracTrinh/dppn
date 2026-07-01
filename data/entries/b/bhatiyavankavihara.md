@@ -5,7 +5,7 @@ base_headword: "Bhātiyavaṅkavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhātiyavaṅkavihāra. Một tu viện ở Ceylon. Một tỳ-kheo của tu viện này, người từng đến đảnh lễ tại Mahā Thūpa, đã nhìn thấy ở đó một số vị *devatā* cũng đang đảnh lễ; họ đã được sinh lên cõi trời nhờ kết quả của việc từng tham gia vào việc xây dựng bảo tháp *Thūpa* (Mhv.xxx.46f).
+
+Vào thời của Duṭṭhagāmaṇī, vị viện chủ của *vihāra* là Mahā Nāga. Mhv­ṭ. 606.
 
 ## Notes

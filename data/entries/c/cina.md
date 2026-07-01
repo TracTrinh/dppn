@@ -5,7 +5,7 @@ base_headword: "Cīna"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,10 @@ The Commentaries (e.g., Vibh-a.159) speak of the softness of Chinese silk (*Cīn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīna. Tên Pāli của Trung Quốc. Nó được đề cập đến nhiều lần trong Milindapañha (121, 327), một lần như là nơi tụ tập của các con tàu (359). Nāgasena nói (121) về một vị *Cīnarājā* đương thời người có thể mê hoặc đại dương bằng một Hành động Chân lý và có thể đi vào đại dương ở khoảng cách một do-tuần trong cỗ xe do những con sư tử kéo của mình, những con sóng rút lui khi ông đến gần.
+
+Apadāna (ii.359) nói về *Cīnaraṭṭha* trong một danh sách các quốc gia và các bộ tộc.
+
+Các bản Chú giải (e.g., Vibh-a.159) nói về sự mềm mại của lụa Trung Quốc (*Cīnapaṭa*).
 
 ## Notes

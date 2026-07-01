@@ -5,7 +5,7 @@ base_headword: "Bharata"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bharata 05. King of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bharata 05. Vua của những người Sovīra vào thời của Reṇu. Kinh đô của ngài nằm ở Roruva. DN.ii.235f.
 
 ## Notes
