@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇabrāhmaṇasutta 02. Similar to (1). They know not only decay and death 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như (1). Họ không chỉ biết về sự già và chết mà còn biết về tất cả các yếu tố của toàn bộ khối khổ đau này; những người như vậy chứng ngộ, ngay trong kiếp sống này, mục tiêu của đời sống sa-môn. SN.ii.45f.
 
 ## Notes

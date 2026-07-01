@@ -5,7 +5,7 @@ base_headword: "Bhisadāyaka Thera"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhisadāyaka Thera 02. An *Arahant*. Thirty-one *kappas* ago he was an elephant,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisadāyaka Thera 02. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một con voi, và khi nhìn thấy Vessabhū Buddha trong rừng, ông đã dâng cho Ngài ngó sen để ăn. Mười ba *kappa* trước, ông đã mười sáu lần sinh ra làm vua với tên gọi là Samodhāna. Ap.i.114.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Cūḷa Kāḷa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāḷa, Cūla Kāḷa 02. Một tiền kiếp của Aññā Koṇḍañña. Ông là một gia chủ ở Haṁsavatī, vào thời kỳ của Đức Phật Vipassī. Một ngày nọ khi đi đến ruộng lúa, ông đã bóc vỏ một hạt lúa, ăn nó và thấy nó có vị ngọt khác thường. Do đó, ông đã nhận lấy phần ruộng của mình từ người anh trai Mahā Kāḷa, và dâng lên Đức Phật cùng các vị tỳ-kheo những thành quả đầu mùa của một vụ mùa duy nhất, chín lần, ở chín giai đoạn khác nhau (Dhp­a.i.82). Do vậy ông đã trở thành người đầu tiên đạt được bất kỳ sự chứng đắc nào khi Đức Phật Gotama thuyết giảng bài pháp đầu tiên của Ngài (Dhp­a.i.8ff).
 
 ## Notes

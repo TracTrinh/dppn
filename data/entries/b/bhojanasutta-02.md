@@ -5,7 +5,7 @@ base_headword: "Bhojanasutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhojanasutta 02. In giving a meal, the giver gives five things: life, beauty, co
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojanasutta 02. Trong việc bố thí một bữa ăn, người bố thí trao năm điều: tuổi thọ, sắc đẹp, sự an vui, sức mạnh, và sự thấu hiểu mau lẹ (*paṭibhāna*), và chính người đó cũng trở thành người được hưởng những điều này. AN.iii.42.
 
 ## Notes

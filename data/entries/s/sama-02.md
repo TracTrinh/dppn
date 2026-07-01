@@ -5,7 +5,7 @@ base_headword: "Sāma"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāma 02. One of the hounds of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những con chó săn của Lokantaraniraya. Ja.vi.247.
 
 ## Notes

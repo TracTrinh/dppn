@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāmā 01. The chief woman disciple of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị nữ đệ tử hàng đầu của Đức Phật Kakusandha. Bv.xxiii.21; Ja.i.42.
 
 ## Notes

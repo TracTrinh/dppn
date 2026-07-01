@@ -5,7 +5,7 @@ base_headword: "Bhujaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhujaka. A tree with fragrant wood, found only in <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhujaka. Một loại cây có gỗ thơm, chỉ được tìm thấy ở Gandhamādana. Vv-a.162.
 
 ## Notes

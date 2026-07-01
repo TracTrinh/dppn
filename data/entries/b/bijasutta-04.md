@@ -5,7 +5,7 @@ base_headword: "Bījasutta"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bījasutta 04. Just as bitter seed produces bitter fruit, so do false views prod
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bījasutta 04. Giống như hạt giống đắng sinh ra quả đắng, tà kiến cũng sinh ra điều ác và đau khổ. Điều ngược lại xảy ra đối với những hạt giống ngọt và chánh kiến. SN.v.212ff.
 
 ## Notes

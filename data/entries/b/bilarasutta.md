@@ -5,7 +5,7 @@ base_headword: "Biḷārasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,8 @@ The *Sutta* was preached to a recalcitrant monk. SN.ii.270.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷārasutta. Một con mèo từng đứng trên đống rác của một rãnh nước trong nhà, và khi con chuột sống ở đó đi ra, nó đã vồ lấy và nuốt chửng con chuột. Nhưng con chuột đã gặm nhấm ruột gan của con mèo làm cho nó phải chết. Số phận của những vị tỳ-kheo đi vào nhà của các gia chủ với các giác quan không được thu thúc cũng sẽ giống như vậy.
+
+*Sutta* này được thuyết cho một vị tỳ-kheo ương ngạnh. SN.ii.270.
 
 ## Notes

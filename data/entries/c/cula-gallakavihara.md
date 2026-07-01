@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gallakavihāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Gallakavihāra, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Gallakavihāra, Cūla Gallakavihāra. Một tu viện được Cūḷābhaya xây dựng trên bờ sông Goṇakanadī ở phía nam của Anurādhapura (Mhv.xxxv.13). Trực thuộc tu viện này có một *Padhānaghara*, do Aggabodhi II xây dựng. Cv.xlii.49.
 
 ## Notes

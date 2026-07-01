@@ -5,7 +5,7 @@ base_headword: "Sakula"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakula 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua của Sakula. Xem Cūḷa Haṁsajātaka. Ông được đồng nhất với Sāriputta. Ja.v.337, 353.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittakuṭa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ The name is sometimes (e.g., Ja.iv.212; v.338) spelt <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittakuṭa (Citrakūṭa). Một ngọn núi ở Himavā, một trong năm dãy núi quanh Anotatta. Nó được cấu tạo từ đủ loại kim loại quý (Snp­a.ii.437; AN­a.ii.759; Ud­a.300; Ap.i.50, 414; Paṭis-a.15; Vsm.650). Nó nổi tiếng là nơi cư ngụ của loài ngỗng vàng sống trong một hang động vàng (Kañcanaguhā) trên đỉnh núi, đôi khi lên tới chín mươi nghìn con (e.g., Ja.ii.107; iii.208, 247; iv.424, etc). Ở đó cũng có loài ngỗng Dhattaraṭṭha sinh sống (Ja.v.337).
+
+Tên này đôi khi (e.g., Ja.iv.212; v.338) được đánh vần là Citrakūṭa. Nó thường được đồng nhất với Kāmptanāthgiri ở Bundelkhand, một ngọn đồi biệt lập trên sông Paisunī hoặc Mandākinī. Law: *Geography of Early Buddhism* p.40.
 
 ## Notes

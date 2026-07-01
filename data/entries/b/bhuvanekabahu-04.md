@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,6 @@ Bhuvanekabāhu 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 04. Bhuvanekabāhu II. Con trai của Bhuvanekabāhu I. Ông kế vị Parakkamabāhu III và đặt thủ đô của mình tại Hatthiselapura. Hàng năm, vào tháng Jeṭṭhamūla, ông tổ chức một lễ hội lớn để kỷ niệm lễ đăng quang của mình và để kết nạp các thành viên mới vào Tăng đoàn (Saṅgha). Ông trị vì trong mười một năm (1291-1302 CN). Cv.xc.59ff.
 
 ## Notes

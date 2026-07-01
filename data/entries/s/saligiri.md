@@ -5,7 +5,7 @@ base_headword: "Sāligiri"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāligiri. A village, given by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng, được Parakkamabāhu IV ban cho để bảo trì Parakkamabāhupāsāda. Cv.xc.97; để biết về việc xác định vị trí, xem Cv.Trs.ii.209, n.6.
 
 ## Notes

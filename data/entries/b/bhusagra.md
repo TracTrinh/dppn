@@ -5,7 +5,7 @@ base_headword: "Bhusāgra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhusāgra. The threshing floor in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhusāgra. Sân đập lúa ở Ātumā nơi Đức Phật đã lưu lại trong chuyến viếng thăm của Ngài tại đó (Vin.i.249). Có một lần khi Ngài đang hành thiền tại đó, một cơn giông bão nổi lên và hai người nông dân và bốn con bò bị thiệt mạng gần Ngài, nhưng vì Ngài quá nhập tâm vào thiền định nên không hề hay biết gì về sự việc này. DN.ii.131f.
 
 ## Notes

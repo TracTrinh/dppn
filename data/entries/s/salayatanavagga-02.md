@@ -5,7 +5,7 @@ base_headword: "Saḷāyatanavagga"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saḷāyatanavagga 02. The fourth section of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần thứ tư của Saṁyuttanikāya. SN.iv.1-403.
 
 ## Notes

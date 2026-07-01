@@ -5,7 +5,7 @@ base_headword: "Sālipabbatavihāra"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sālipabbatavihāra 02. A monastery built by King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện được xây dựng bởi vua Mahallaka Nāga ở Nāgadīpa. Mhv.xxxv.124.
 
 ## Notes

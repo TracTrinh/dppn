@@ -5,7 +5,7 @@ base_headword: "Salaḷamāliya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Salaḷamāliya Thera. An *Arahant*. Evidently identical with <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Rõ ràng đồng nhất với Samiddhi Thera (*q.v.*). Ap.i.206.
 
 ## Notes

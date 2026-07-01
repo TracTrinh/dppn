@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīvāsakasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhikkhunīvāsakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīvāsakasutta. Ānanda đến thăm một khu trú xứ của các Tỳ-kheo-ni tại Sāvatthī và được kể rằng những Tỳ-kheo-ni đã tu tập bốn *satipaṭṭhāna* (niệm xứ) đã đạt đến sự thấu hiểu xuất sắc hơn trước đây. Ānanda nói rằng điều đó đáng lẽ phải như vậy. Sau đó, ông đến thăm Đức Phật và trình báo với Ngài về sự việc này. Đức Phật dạy ông cách phát triển các *satipaṭṭhāna* và về những lợi ích bắt nguồn từ đó. Bản *Sutta* kết thúc bằng một lời khuyên khích lệ về sự không phóng dật và chuyên cần. Có rất nhiều nơi thích hợp cho việc hành thiền, do đó không nên xao lãng việc này. SN.v.154f.
 
 ## Notes

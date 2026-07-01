@@ -5,7 +5,7 @@ base_headword: "Sakkatvā Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkatvā Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta, khi ngồi ở nơi thanh vắng và suy ngẫm về việc một tỳ-kheo nên tôn trọng và nương tựa vào ai, ngài đã tìm thấy câu trả lời rằng, một tỳ-kheo nên tôn trọng và tôn kính Đức Phật, Pháp và Tăng đoàn, và nên nương tựa vào lòng từ thiện. Ngài đến thăm Đức Phật và thỉnh vấn ngài, và Đức Phật nói với ngài rằng những kết luận của ngài là chính xác. AN.iv.120f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kuṇālavagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Kuṇālavagga, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kuṇālavagga, Culla Kuṇālavagga. Phần thứ năm thuộc *Catukkanipāta* của Bản chú giải Jātaka. Ja.iii.132-52.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sālikedārajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -33,6 +33,8 @@ For the introductory story see the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có một lần, khi vua Magadha đang trị vì ở Rājagaha, Bodhisatta là một con vẹt và chăm sóc cho cha mẹ già của ngài. Khi những cánh đồng của vị Bà-la-môn Kosiyagotta, ở Sālindiya thuộc Magadha, đã chín, con vẹt đã đến đó cùng với bầy của mình, và, sau khi tự ăn no, đã lấy một ít bắp cho cha mẹ mình. Người gác đồng đã báo cáo điều này cho Kosiyagotta, và, theo chỉ thị của ông, một cái bẫy đã được đặt ra và Bodhisatta bị bắt. Khi ngài gióng lên tiếng kêu báo động, những con vẹt khác đã bỏ chạy. Bodhisatta đã giải thích cho Kosiyagotta tại sao ngài lại mang bắp đi – để nuôi cha mẹ ngài, những con non của ngài, và những người đang gặp khó khăn, như vậy, giống như là, trả một món nợ, cho vay một khoản vay, và thiết lập một kho tàng phước báu. Vị Bà-la-môn rất hài lòng, và đã cho phép Bodhisatta lấy bắp trên toàn bộ một ngàn mẫu Anh của mình; nhưng Bodhisatta chỉ chấp nhận lấy tám mẫu (Ja. iv.276-82).
+
+Đối với câu chuyện giới thiệu, xem Sāmajātaka (Ja 540). Channa, được đồng nhất với người gác đồng và Ānanda với Kosiyagotta.
 
 ## Notes

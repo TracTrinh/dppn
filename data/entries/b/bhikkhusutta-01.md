@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 01. Gains, favours and flattery are a danger even to an *Arahant* u
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 01. Những lợi lộc, ân huệ và sự tâng bốc là một mối nguy hiểm ngay cả đối với một bậc *Arahant* trừ khi sự tự do ý chí của vị ấy là không thể lay chuyển. SN.ii.238.
 
 ## Notes

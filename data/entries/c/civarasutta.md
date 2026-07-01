@@ -5,7 +5,7 @@ base_headword: "Cīvarasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Cīvarasutta. Once, when <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīvarasutta. Một lần, khi Mahā Kassapa đang ở Veḷuvana tại Rājagaha, Ānanda trở về từ một chuyến du hành ở Dakkhiṇāgiri, cùng với ba mươi vị tỳ-kheo, hầu hết là những người trẻ tuổi. Họ cư xử không đúng mực, và Kassapa đã khiển trách Ānanda vì đi lại cùng với họ, gọi ngài là "kẻ giẫm đạp lúa," "kẻ làm hư hỏng các gia đình," và, cuối cùng, là "một cậu bé." Ānanda nhẹ nhàng nhắc nhở ông rằng ngài đã bạc đầu nên khó có thể gọi là một cậu bé, nhưng Kassapa từ chối lắng nghe. Thullanandā, khi nghe được điều này, đã trút sự không hài lòng của mình lên Kassapa bằng cách nhắc nhở ông rằng ông từng là một người thầy ngoại đạo. Sau đó Kassapa đã quở trách Ānanda, chỉ ra rằng ông là một người học trò và tín đồ rất tận tụy của Đức Phật và kể lại việc, vào một dịp nọ, Đức Phật đã chấp nhận món quà là chiếc y mềm mại của ông, và đổi lại, ban cho ông chiếc y phấn tảo của Ngài. Ông nói, ông hoàn toàn có thể tự nhận mình là một người con đích thực của Đức Phật. SN.1217ff.
 
 ## Notes

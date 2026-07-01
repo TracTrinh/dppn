@@ -5,7 +5,7 @@ base_headword: "Samacittasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -40,6 +40,12 @@ The *Sutta* was preached by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samacittasutta (Samacittapariyāya). Một số lượng lớn các vị *Deva* có tâm thanh tịnh (*Samacittā*) đến gặp Đức Phật tại Jetavana và thỉnh cầu ngài đến gặp Sāriputta, người đang thuyết giảng tại Migāramātupāsāda về hạng người bị trói buộc cả bên trong lẫn bên ngoài. Đức Phật giữ im lặng đồng ý và xuất hiện tại Migāramātupāsāda. Sāriputta chào đón Đức Phật và đảnh lễ ngài. Đức Phật kể cho ngài nghe về chuyến viếng thăm của các vị *Deva* và nói với ngài rằng một số lượng lớn trong số họ có thể đứng trong một không gian không lớn hơn đầu mũi nhọn của một cái dùi, và điều đó cũng không khiến họ chen chúc lẫn nhau. Đó là bởi vì họ đã rèn luyện bản thân để đạt được sự thanh tịnh trong các giác quan và trong tâm trí. Sự thanh tịnh như vậy cũng dẫn đến sự thanh tịnh của thân, khẩu và ý. Những người theo các trường phái khác không biết được giáo lý này (AN.i.64f).
+
+Trong bài giảng của Sāriputta, (AN.i.62f) được các vị *Deva* nhắc đến, vị Trưởng lão giải thích rằng tỳ-kheo người giữ gìn các giới luật *Pātimokkha* thì thông thạo trong việc thực hành chánh hạnh, nhìn thấy sự nguy hiểm trong những lỗi lầm nhỏ nhất, người như vậy được tái sinh trong số các vị *Deva* và do đó là một "Bậc Trở Lại" (*Returner*). Vì vậy, người ấy bị trói buộc bên trong vào ngã. Có những người khác được sinh ra trong các thế giới *Deva* và ở đó trở thành những vị *Anāgāmī*. Những người này bị trói buộc bên ngoài. Lại có những người khác thông thạo trong sự nhàm chán, trong việc chấm dứt lòng tham ái dục, của bất kỳ sự hiện hữu nào và trở thành những vị *Anāgāmī*.
+
+Người ta nói (AN­a.i.320; cf. Snp­a., p.174; Mil. p.20) rằng vào cuối *Sutta* này, cũng giống như khi kết thúc Mahā Samayasutta, Maṅgalasutta, và Cūḷa Rāhulovādasutta, một trăm ngàn vạn vị đã đắc quả vị *Arahant*.
+
+*Sutta* này được Mahinda thuyết giảng vào buổi tối ngày ngài đến Ceylon. Sau cuộc hội kiến của ngài với Devānampiyatissa, Mahinda đã yêu cầu Sumana *Sāmaṇera* loan báo về việc thuyết giảng Dhamma. Lời loan báo này đã được nghe thấy trên khắp Đảo, và dần dần tin tức về nó đã lan truyền đến cõi trời của *Brahma*. Khi đó có một hội chúng của các vị *Deva*, giống như vào dịp Sāriputta thuyết giảng *Sutta* này. Mhv.xiv.34ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sālipabbatavihāra"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sālipabbatavihāra 01. A monastery, built by Prince <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện, được xây dựng bởi hoàng tử Sāli từ những nguồn thu nhập mà ông thu được khi sống ở phía tây của Anurādhapura. Mhv­ṭ. 607.
 
 ## Notes

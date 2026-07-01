@@ -5,7 +5,7 @@ base_headword: "Sallekhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,8 @@ The Sallekhasutta is given (DN­a.i.178; MN­a.i.275) as an example of a discour
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Sutta* thứ tám của Majjhimanikāya. Mahā Cunda đến thăm Đức Phật tại Jetavana và hỏi ngài cách làm thế nào để loại bỏ những tà kiến khác nhau đang thịnh hành về ngã và vũ trụ. Đức Phật trả lời rằng đó là bằng cách hiểu đúng đắn về sự thật rằng không có “cái của tôi,” “tôi” hay “ngã.” Sau đó, ngài tiếp tục giải thích cách những tà kiến có thể được xóa bỏ, cách ý chí có thể được phát triển, và cách sự giải thoát có thể được tìm thấy (MN.i.40ff).
+
+Sallekhasutta được đưa ra (DN­a.i.178; MN­a.i.275) như một ví dụ về một bài giảng trong đó *brahmacariya* được định nghĩa là *methunavirati*. Nó cũng đôi khi (e.g., SN­a.ii.169) được mô tả là *pāḷivasena gambhīro*.
 
 ## Notes

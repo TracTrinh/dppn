@@ -5,7 +5,7 @@ base_headword: "Cittasaṁyutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittasaṁyutta. The sixty-first section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittasaṁyutta. Phần thứ sáu mươi mốt của Saṁyuttanikāya (SN.iv.281-305). Nó chứa đựng các ghi chép về các cuộc thảo luận của Cittagahapati ở Macchikāsaṇḍa.
 
 ## Notes

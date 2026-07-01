@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Kāla, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāla, Culla Kāla. Một ngọn núi ở Himavā mà người ta phải vượt qua để đến được Gandhamādana (Snp­a.i.66) và Hồ Chaddanta (Ja.v.38).
 
 ## Notes

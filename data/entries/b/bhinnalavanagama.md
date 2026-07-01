@@ -5,7 +5,7 @@ base_headword: "Bhinnālavanagāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhinnālavanagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhinnālavanagāma. Một ngôi làng ở Rohaṇa, được đề cập trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv.97.
 
 ## Notes

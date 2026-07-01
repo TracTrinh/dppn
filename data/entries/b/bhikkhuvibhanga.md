@@ -5,7 +5,7 @@ base_headword: "Bhikkhuvibhaṅga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhikkhuvibhaṅga. The first division of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhuvibhaṅga. Phần đầu tiên của Suttavibhaṅga thuộc Vinayapiṭaka. Nó cũng được gọi là Mahā Vibhaṅga.
 
 ## Notes

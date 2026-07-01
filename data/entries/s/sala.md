@@ -5,7 +5,7 @@ base_headword: "Sāla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāla. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anh em trai của Đức Phật Paduma và, sau này, là Đệ tử thinh văn hàng đầu của ngài. Những người dân của Usabhavatī đã dâng cho ngài một chiếc y *kaṭhina* đặc biệt, mà trong quá trình làm chiếc y đó đích thân Đức Phật đã trợ giúp. Bv.ix.21; Bv­a.147f.
 
 ## Notes

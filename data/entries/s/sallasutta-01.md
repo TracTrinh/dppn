@@ -5,7 +5,7 @@ base_headword: "Sallasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sallasutta 01. The eighth *Sutta* of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Sutta* thứ tám thuộc Mahā Vagga của Suttanipāta. Cái chết là điều không thể tránh khỏi, do đó than khóc là vô ích (Snp.vss.574-93). *Sutta* này được thuyết giảng để an ủi một vị thí chủ sùng đạo của Đức Phật, người đã nhịn đói trong bảy ngày khi con trai ông qua đời (Snp­a.ii.457). *Sutta* được mô tả (e.g., AN­a.i.326) là *pāḷivasena gambhīro* ??
 
 ## Notes

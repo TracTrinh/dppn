@@ -5,7 +5,7 @@ base_headword: "Sakkapañhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -64,6 +64,28 @@ In order to show his gratitude to <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kinh thứ hai mươi mốt của Dīghanikāya (DN.ii.263-89). Sakka đến thăm Đức Phật tại Indasālaguhā ở Vediyagiri, và, sau khi được Đức Phật cho phép thông qua Pañcasikha, ngài hỏi một loạt mười bốn câu hỏi về các nguyên nhân của:
+
+- ác ý và tham lam,
+- sự ưu ái và sự không ưu ái,
+- của dục vọng,
+- của sự bận tâm,
+- sự ám ảnh (papañca),
+- hạnh phúc (somanassa),
+- nỗi buồn (domanassa),
+- tâm xả,
+- hành vi tốt đẹp của thân và khẩu (như được quy định trong Pātimokkha),
+- sự tầm cầu chân chính (pariyesanā),
+- sự kiểm soát các căn,
+- sự hiện diện của nhiều khuynh hướng khác nhau (anekadhātu), và
+- sự thất bại trong việc đạt được lý tưởng chân chính.
+
+Để biết chi tiết về chuyến viếng thăm này xem Sakka. Một bản tóm tắt của *Sutta* được đưa ra tại DN­a.iii.738.
+
+*Sutta* cũng chứa câu chuyện về thiếu nữ người Sākiyan là Gopikā. Sakka vô cùng hài lòng với các câu trả lời của Đức Phật, và, cùng với tám mươi ngàn chư thiên, trở thành một *Sotāpanna*.
+
+Để bày tỏ lòng biết ơn đối với Pañcasikha, ngài đã cưới cho ông con gái của Timbarū, Bhaddā Suriyavaccasā, làm vợ. *Sutta* này được trích dẫn bằng tên tại SN.iii.13.
+
+Buddhaghosa nói rằng *Sutta* này thuộc về phần Vedalla. DN­a.i.24; cũng vậy Gv.67.
 
 ## Notes

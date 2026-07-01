@@ -5,7 +5,7 @@ base_headword: "Bhūmijasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhūmijasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūmijasutta. Một lần nọ Bhūmija đi đến nhà của cháu trai mình là Jayasena ở Rājagaha. Jayasena đã hỏi ông về giáo pháp của Gotama Buddha, và, hài lòng với những gì được nghe, đã thết đãi Bhūmija một bữa ăn. Bhūmija đã trình báo việc này với Đức Phật, Ngài tán thành những gì ông đã nói với Jayasena và tiếp tục khai triển chủ đề này. Tri kiến chân chính là hoàn toàn cần thiết để đạt được những thành quả của đời sống phạm hạnh; cũng giống như việc lấy dầu từ cát hay vắt sữa từ sừng bò là điều không thể, việc đạt được những thành quả của đời sống phạm hạnh với một tri kiến sai lệch cũng không thể như vậy. MN.iii.138ff.
 
 ## Notes

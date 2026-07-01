@@ -5,7 +5,7 @@ base_headword: "Salaḷamaṇḍapiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Salaḷamaṇḍapiya Thera. An *Arahant*. Evidently identical with <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Rõ ràng đồng nhất với Kimbila Thera (*q.v.*). Ap.i.333.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhīmaratha"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhīmaratha 02. A king and a city of the same name. <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmaratha 02. Một vị vua và một thành phố cùng tên. Siddhattha Buddha đã thuyết pháp cho vị vua này, và chín mươi crore chúng sinh đã thấu hiểu Chân lý. Bv.xvii.4; Bv­a.186.
 
 ## Notes

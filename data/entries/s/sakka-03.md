@@ -5,7 +5,7 @@ base_headword: "Sakka"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakka 03. Another form of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hình thức khác của Sākya (*q.v.*), e.g., AN.iv.195; v.334.
 
 ## Notes

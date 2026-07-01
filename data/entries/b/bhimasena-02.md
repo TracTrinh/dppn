@@ -5,7 +5,7 @@ base_headword: "Bhīmasena"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhīmasena 02. One of the five <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmasena 02. Một trong năm người con trai của Vua Paṇḍu (các Pāṇḍava); ông là chồng của Kaṇhā. Ja.v.424, 426.
 
 ## Notes

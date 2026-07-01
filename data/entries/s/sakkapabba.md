@@ -5,7 +5,7 @@ base_headword: "Sakkapabba"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakkapabba. A section of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một phần của Vessantarajātaka, kể về câu chuyện Sakka nhận được từ Vessantara hoàng hậu Maddī của ông làm nữ tỳ và việc ngài trao trả bà lại cho Vessantara. Ja.vi.573.
 
 ## Notes

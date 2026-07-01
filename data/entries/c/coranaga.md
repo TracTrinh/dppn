@@ -5,7 +5,7 @@ base_headword: "Coranāga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -29,6 +29,6 @@ Coranāga. King of Ceylon (3 B.C.–9 CE.). He was the son of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coranāga. Vua của Ceylon (3 TCN–9 CN). Ông là con trai của Vaṭṭagāmaṇī và tên của ông là Mahā Nāga (Mhv.xxxiii.45). Trong suốt triều đại của Mahā Cūḷi Mahā Tissa, ông là một kẻ nổi loạn và lên ngôi sau cái chết của Mahā Cūḷi. Ông đã phá hủy mười tám *vihāra* từng từ chối che chở cho ông khi ông còn là một kẻ nổi loạn. Ông đã bị vương hậu Anulā tẩm độc (Mhv.xxxiv.11ff). Người ta nói rằng sau khi chết ông đã tái sinh vào *Lokantarikaniraya* với thân hình cao ba *gāvuta* (MN­a.ii.920; DN­a.ii.433; AN­a.ii.532).
 
 ## Notes

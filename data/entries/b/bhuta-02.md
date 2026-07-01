@@ -5,7 +5,7 @@ base_headword: "Bhūta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhūta 02. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūta 02. Một vị quan của Parakkamabāhu I. Ông mang tước hiệu Bhaṇḍārapotthakī, và sau này được gọi là *Adhikārī*. Cv.lxxii.196; lxxiv.72, 119, 136; lxxv.196.
 
 ## Notes

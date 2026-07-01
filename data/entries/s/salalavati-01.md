@@ -5,7 +5,7 @@ base_headword: "Salaḷavatī"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Salaḷavatī 01. A river, forming the boundary on the south-east side of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông, tạo thành biên giới ở phía đông nam của Majjhimadesa. Vin.i.197; DN­a.i.173; Ja.i.49.
 
 ## Notes

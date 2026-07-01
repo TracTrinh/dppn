@@ -5,7 +5,7 @@ base_headword: "Coḷagaṅga"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Coḷagaṅga 02. King of Ceylon (1196-7 CE.). He was the son of King <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷagaṅga 02. Vua của Ceylon (1196-7 CN). Ông là con trai của em gái vua Nissanka. Ông đã giết Vikkamabāhu III. và trị vì trong chín tháng. Sau đó ông bị vị tướng Kitti phế truất và bị móc mắt. Cv.lxxx.29ff.
 
 ## Notes

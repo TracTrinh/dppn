@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ Ninety-four *kappas* ago she was a *kinnarā* on the bank of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 02. Một vị Trưởng lão ni. Bà là con gái của một công dân hàng đầu ở Rājagaha. Sau khi nghe Đức Phật thuyết pháp, bà gia nhập Tăng đoàn dưới sự dẫn dắt của Pajāpatī Gotamī. Khi về già, bà đi đến Gijjhakūṭa và tại đó, sau khi thiền định, bà đã chứng đắc quả vị *Arahant*.
+
+Chín mươi tư *kappa* trước, bà là một *kinnarā* trên bờ sông Candabhāgā và tại đó đã dâng hoa cho một vị Phật Độc giác (Thīg.vs.27f.; Thīg­a.33f). Bà có thể là cùng một người với Nalamālikā của Apadāna (ii.528f).
 
 ## Notes

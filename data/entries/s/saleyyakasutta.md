@@ -5,7 +5,7 @@ base_headword: "Sāleyyakasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāleyyakasutta (MN 41). The inhabitants of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những cư dân của Sālā hỏi Đức Phật tại sao một số người sau khi chết lại tái sinh vào những nơi khổ đau và những người khác tái sinh vào những nơi an vui. Đức Phật giải thích rằng đó là do những hành động của họ, tốt hay xấu. MN.i.285ff.
 
 ## Notes

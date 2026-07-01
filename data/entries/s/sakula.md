@@ -5,7 +5,7 @@ base_headword: "Sākulā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sākulā. A tribe mentioned in a nominal list. Ap.ii.358.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bộ tộc được đề cập trong một danh sách các tên. Ap.ii.358.
 
 ## Notes

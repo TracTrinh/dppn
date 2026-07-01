@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāgalena"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Nāgalena, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāgalena, Cūla Nāgalena. Một hang động ở Ceylon (Tambapaṇṇi). Nó từng là nơi ở của năm trăm vị tỳ-kheo, tất cả đều đã đạt được quả vị *Arahant* nhờ hành thiền tại địa điểm đó. Vsm.127.
 
 ## Notes

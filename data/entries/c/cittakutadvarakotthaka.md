@@ -5,7 +5,7 @@ base_headword: "Cittakūṭadvārakoṭṭhaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittakūṭadvārakoṭṭhaka. The entrance to <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittakūṭadvārakoṭṭhaka. Lối vào Tāvatiṁsa; nó tạo thành một cánh cửa dẫn vào Sudassanagiri và được bao quanh bởi các hình tượng của Indra. Ja.vi.125f.
 
 ## Notes

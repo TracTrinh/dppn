@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Citta 05. One of the chief lay supporters of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 05. Một trong những nam cư sĩ hộ độ chính của Đức Phật Sujāta. Bv.xiii.30.
 
 ## Notes

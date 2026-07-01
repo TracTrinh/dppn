@@ -5,7 +5,7 @@ base_headword: "Cittapassa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittapassa. A cave wherein <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittapassa. Một hang động nơi Paṇḍukābhaya, trước sự chứng kiến của người dân của mình, đã giới thiệu phối ngẫu của ông, *Yakkhinī* Cetiyā. Mhv­ṭ.290.
 
 ## Notes

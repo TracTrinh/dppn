@@ -5,7 +5,7 @@ base_headword: "Cittarāja"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittarāja 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittarāja 01. Một Yakkha. Có một phong tục của các vị vua cổ đại vào thời điểm Lễ hội *Kattika* là trang điểm lộng lẫy và, đứng trên bờ hồ "trước sự chứng kiến của Cittarāja," (có lẽ có nghĩa là, trước bức tượng của ông) để bắn tên về bốn phương. Ja.ii.372.
 
 ## Notes

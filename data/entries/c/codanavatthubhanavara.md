@@ -5,7 +5,7 @@ base_headword: "Codanāvatthubhāṇavāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Codanāvatthubhāṇavāra. The twenty-seventh section of the third <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Codanāvatthubhāṇavāra. Phần thứ hai mươi bảy thuộc Khandhaka thứ ba của Mahā Vagga trong Vinaya.
 
 ## Notes

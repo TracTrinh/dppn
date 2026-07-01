@@ -5,7 +5,7 @@ base_headword: "Sāliya"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāliya 01. One of the ministers of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị đại thần của Vaṭṭagāmaṇī (Mhv.xxxiii.90). Ông đã xây dựng Sāliyārāma.
 
 ## Notes

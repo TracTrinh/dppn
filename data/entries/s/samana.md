@@ -5,7 +5,7 @@ base_headword: "Samaṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇa. One of the chief lay supporters of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nam thí chủ hàng đầu của Đức Phật Kakusandha. Bv.xxiii.22.
 
 ## Notes

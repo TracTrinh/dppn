@@ -5,7 +5,7 @@ base_headword: "Sāliyajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một lần nọ, một thầy lang trong làng nhìn thấy một con rắn nằm trên một nhánh cây và bảo Bodhisatta, lúc đó là một cậu bé trong làng, đi bắt nó cho ông ta, nói với cậu rằng đó là một con nhím. Cậu bé trèo lên cây và tóm lấy cổ con vật, nhưng, khi phát hiện ra đó là một con rắn, cậu liền ném nó đi. Con rắn rơi xuống người thầy lang và cắn ông ta nghiêm trọng đến mức ông ta tử vong.
+
+Câu chuyện được kể liên quan đến những nỗ lực của Devadatta nhằm sát hại Đức Phật (Ja.iii.202f). Tuy nhiên, ở nơi khác (Dhp­a.iii.31f), câu chuyện được kể liên quan đến người thợ săn Koka (*q.v.*), người được đồng nhất với thầy lang.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittapāṭalī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittapāṭalī. A tree in the *Asurabhavana* (SN.v.238) which lives for a whole
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittapāṭalī. Một cái cây ở *Asurabhavana* (SN.v.238) sống trong suốt một đại kiếp. Khi các Asura bị đẩy khỏi cõi chư thiên xuống nơi ở hiện tại của họ, chính sự hiện diện của cái cây này đã tiết lộ cho họ biết họ đang ở đâu (Ja.i.202; Snp­a.ii.485; MN­a.i.476; Dhp­a.i.272). Người ta nói (Dhp­a.i.280) rằng mỗi khi Cittapāṭalī nở hoa, các Asura lại nghĩ đến cây *Pāricchattaka* mà họ đã bỏ lại ở Tāvatiṁsa và bắt đầu chuẩn bị cho một cuộc chiến chống lại Sakka.
 
 ## Notes

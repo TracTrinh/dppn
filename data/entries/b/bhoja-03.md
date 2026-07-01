@@ -5,7 +5,7 @@ base_headword: "Bhoja"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhoja 03. A country. See <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhoja 03. Một đất nước. Xem Bhojaputta.
 
 ## Notes

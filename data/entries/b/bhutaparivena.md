@@ -5,7 +5,7 @@ base_headword: "Bhūtapariveṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhūtapariveṇa. A monastic building erected by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūtapariveṇa. Một tòa nhà tu viện do Aggabodhi VIII xây dựng (Cv.xlix.46). Nó rất có thể được sáp nhập với Bhūtārāma (*q.v.*).
 
 ## Notes

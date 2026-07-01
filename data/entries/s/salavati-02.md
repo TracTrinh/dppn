@@ -5,7 +5,7 @@ base_headword: "Sālavatī"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sālavatī 02. A courtesan of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một kỹ nữ ở Rājagaha. Bà là mẹ của Jīvaka Komārabhacca (Vin.i.268f) và của em gái ông là Sirimā. Snp­a.i.244; xem thêm AN­a.i.216, nơi Abhayarājakumāra được gọi là cha của Jīvaka.
 
 ## Notes

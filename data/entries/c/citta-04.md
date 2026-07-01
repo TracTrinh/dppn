@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -40,6 +40,12 @@ The same story, except for certain details, is also found in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 04. gọi là Hatthirohaputta (Hatthisāriputta). Một vị Trưởng lão*,* con trai của một người huấn luyện voi, người, sau khi gia nhập Tăng đoàn, đã học tập dưới sự dẫn dắt của Đức Phật và đạt được khả năng đặc biệt trong việc phân biệt những khác biệt tinh tế trong ý nghĩa của các từ. Sáu lần vị này rời Tăng đoàn và sáu lần quay lại. Cuộc tranh cãi cuối cùng của vị này là với Mahā Koṭṭhita, người phản đối việc vị này liên tục ngắt lời các cuộc thảo luận của Trưởng lão về Abhidhamma (sự kiện này được ghi lại tại AN.iii.392ff).
+
+Người ta nói rằng vào thời Đức Phật Kassapa, Citta và một người bạn đã gia nhập Tăng đoàn (DN­a.ii.378f.; AN­a.ii.688). Khi người bạn bày tỏ mong muốn trở lại cuộc sống cư sĩ, Citta đã khuyến khích anh ta làm vậy, vì thèm muốn đồ đạc của anh ta. Đây là lý do khiến Citta không thể trụ lại trong Tăng đoàn. Ông là một người bạn của Poṭṭhapāda, và khi ông trở lại cuộc sống cư sĩ lần thứ sáu, Poṭṭhapāda đã dẫn ông đến gặp Đức Phật. Citta đã lắng nghe cuộc trò chuyện của họ và hỏi các câu hỏi liên quan đến cá nhân. Vào cuối bài pháp (được kể lại trong Poṭṭhapādasutta), Citta một lần nữa gia nhập Tăng đoàn, không bao giờ rời đi nữa, vì ngay sau đó ông đã trở thành một bậc *Arahant* (DN.i.199ff).
+
+Kuddālajātaka (Ja 70, Ja.i.311f) đưa ra các tình huống mà ông lần đầu tiên gia nhập Tăng đoàn. Ông là một thanh niên xuất thân từ một gia đình tốt ở Sāvatthī. Một ngày nọ, khi đang trên đường về nhà sau khi cày ruộng, ông đã nhận được từ bình bát của một vị Trưởng lão một ít thức ăn thịnh soạn và ngon lành. Để có được thức ăn tương tự cho mình, ông đã trở thành một vị tỳ-kheo, nhưng ngay sau đó, dục vọng vượt qua ông và ông đã rời bỏ đời sống không nhà. Ngay cả sau khi ông trở thành một bậc *Arahant*, các đồng đạo được cho là đã chế giễu ông, hỏi khi nào ông sẽ rời bỏ họ, và chỉ khi Đức Phật nói với họ rằng thời điểm như vậy sẽ không bao giờ xảy ra thì họ mới thỏa mãn.
+
+Cùng một câu chuyện, ngoại trừ một số chi tiết, cũng được tìm thấy trong Dhammapada Commentary (Dhp­a.i.305ff), nhưng ở đó Citta được gọi là Cittahattha, và một lời giải thích khác được đưa ra về tên của ông: *esa cittavasiko hutvā vicarati ti Cittahatthan-ti nāmaṁ kariṁsu*. Ở đó còn nói thêm rằng vào dịp cuối cùng ông rời khỏi nhà, ông đã nhìn thấy người vợ mang thai của mình đang nằm ngủ và cảm thấy ghê tởm đến mức ông đã quay trở lại Tăng đoàn. Ông lập tức khởi hành, quấn một y vàng quanh eo, và khi ông bước đến *vihāra*, ông đã trở thành một bậc *Sotāpanna*. Ban đầu các vị tỳ-kheo miễn cưỡng truyền giới lại cho ông, nhưng sự nài nỉ của ông quá lớn đến nỗi họ đã mềm lòng, và trong vài ngày ông đã trở thành một bậc *Arahant*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sālaggāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sālaggāma. A village in Ceylon given by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon được Aggabodhi III ban cho *vihāra* Mayettikassapāvāsa (Cv.xliv.121). Một con sông đã chảy qua ngôi làng, và qua con sông đó Devappatirāja đã xây một cây cầu dài bốn mươi trượng (Cv.lxxxvi.41). Về sau, Parakkamabāhu IV đã ban ngôi làng cho Kāyasatti Thera của Vijayabāhupariveṇa. Cv.xc.92; xem Cv.Trs.ii.209, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittahatthisāriputtasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -33,6 +33,8 @@ The DN­a. (ii.378) which refers to this incident says that the talk took place 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittahatthisāriputtasutta. Một số Trưởng lão đang nói chuyện về Abhidhamma tại Migadāya ở Isipatana, thì Citta Hatthisāriputta xen vào cuộc nói chuyện của họ. Mahā Koṭṭhita đã khiển trách vị này, và, khi bị bạn bè của Citta phản đối, Mahā Koṭṭhita ngụ ý thông qua nhiều ví dụ khác nhau rằng Citta không phải là người trí tuệ như họ nghĩ, và rằng vị này, không nghi ngờ gì nữa, sẽ lại quay về cuộc sống cư sĩ. Lời tiên đoán này đã chứng minh là đúng sự thật, nhưng Citta đã quay lại Tăng đoàn một lần nữa, và ngay sau đó trở thành một bậc *Arahant* (AN.iii.392ff).
+
+Bản DN­a. (ii.378) đề cập đến sự kiện này nói rằng cuộc nói chuyện đã diễn ra giữa Moggallāna và Koṭṭhita.
 
 ## Notes

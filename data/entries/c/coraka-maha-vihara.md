@@ -5,7 +5,7 @@ base_headword: "Coraka Mahā Vihāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Coraka Mahā Vihāra. A *vihāra* in Ceylon, the residence of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coraka Mahā Vihāra. Một *vihāra* ở Ceylon, nơi ở của Mahā Mitta. Trong *vihāra* này có hang động Kuraṇḍaka (*xem mục từ này*). Vsm.38.
 
 ## Notes

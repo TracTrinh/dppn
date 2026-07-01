@@ -5,7 +5,7 @@ base_headword: "Sālissara"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sālissara. A sage; the chief disciple of the Bodhisatta in his birth as <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị hiền triết; vị đệ tử hàng đầu của Bodhisatta trong kiếp sống của ngài là Sarabhaṅga. Để biết câu chuyện của ngài, xem Sarabhaṅgajātaka (Ja 522) và Indriyajātaka (Ja 423). Ngài được đồng nhất với Sāriputta. Ja.iii.469; v.151.
 
 ## Notes

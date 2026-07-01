@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhuvanekabāhu 01. A Sinhalese ruler (*Ādipāda*) who founded a town at <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 01. Một nhà cai trị người Sinhalese (*Ādipāda*), người đã thành lập một thị trấn tại Govindamala ở Rohaṇa và cư ngụ tại đó sau khi quân đội của Māgha tàn phá Ceylon. Cv.lxxxi.6.
 
 ## Notes

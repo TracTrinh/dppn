@@ -5,7 +5,7 @@ base_headword: "Saḷāyatanavagga"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saḷāyatanavagga 01. The fifteenth section of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần thứ mười lăm của Majjhimanikāya. MN.iii.258-302.
 
 ## Notes

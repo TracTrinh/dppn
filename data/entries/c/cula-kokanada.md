@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kokanadā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Kokanadā, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kokanadā, Culla Kokanadā. Người nhỏ tuổi hơn trong hai người con gái của Pajunna, cả hai người đều có tên là Kokanadā. Cô đã đến thăm Đức Phật tại Kuṭāgārasālā ở Vesālī và đặt câu hỏi cho Ngài. SN.i.30.
 
 ## Notes

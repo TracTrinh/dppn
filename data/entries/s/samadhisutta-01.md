@@ -5,7 +5,7 @@ base_headword: "Samādhisutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samādhisutta 01. One who is concentrated is one who knows as it really is the a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người được định tâm là người hiểu biết như thật về sự sinh khởi của sắc và sự hoại diệt của nó; đối với thọ, tưởng, hành và thức cũng tương tự. SN.iii.13; cf. SN.v.414; về *Sutta* này, xem Sylvain Levi, JA.1908, xii.102.
 
 ## Notes

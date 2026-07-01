@@ -5,7 +5,7 @@ base_headword: "Sakulā"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakulā 02. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chị em gái của Somā. Cả hai bà đều là vợ của Pasenadi và là những người đi theo Đức Phật. Một lần, khi Pasenadi đang ở Ujjuñña, ông đã đi gặp Đức Phật, và chuyển đến ngài lời chào của hai vị hoàng hậu. MN.ii.125f.; MN­a.ii.757.
 
 ## Notes

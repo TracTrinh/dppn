@@ -5,7 +5,7 @@ base_headword: "Salapupphikā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Salapupphikā Therī. An *Arahant*. Evidently identical with <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Rõ ràng đồng nhất với Sāmā (*q.v.*). Ap.ii.524.
 
 ## Notes

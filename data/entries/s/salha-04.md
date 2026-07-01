@@ -5,7 +5,7 @@ base_headword: "Sāḷha"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sāḷha 04. An eminent monk who took a prominent part in the Second Council. He
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị tỳ-kheo lỗi lạc, người đã đóng một vai trò nổi bật trong Đại Kết Tập thứ hai. Ngài sống ở Sahajāti, và, khi nghe về tà kiến của những người Vajjiputtaka, ngài đã rút lui vào nơi thanh vắng để tự quyết định xem ngài nghĩ những lập luận của họ là đúng hay không. Tại đó một cư dân của Suddhāvāsā đã thông báo cho ngài rằng những người Vajjiputtaka đã sai. Ngài là một trong bốn người được chỉ định thay mặt cho những người Pācīnaka (những người Vajjiputtaka) trong ủy ban thảo luận về cuộc tranh chấp. Ngài là một học trò của Ānanda. Vin.ii.302ff.; Mhv.iv.4f, 48, 57; Dpv.iv.49; v.22; Vin-a.i.34.
 
 ## Notes

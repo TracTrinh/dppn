@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 03. A monk asks for a teaching in brief and the Buddha tells him th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 03. Một vị tỳ-kheo xin một lời dạy tóm tắt và Đức Phật bảo ông rằng điều mà một vị tỳ-kheo có khuynh hướng thiên vị, thì vị ấy bị xem xét bởi điều đó (tức là, vị ấy phải từ bỏ mọi khuynh hướng thiên vị). Vị tỳ-kheo ở trong sự thanh vắng, suy ngẫm về điều này, và trở thành một *Arahant*. SN.iii.34f.
 
 ## Notes

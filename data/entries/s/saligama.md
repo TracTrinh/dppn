@@ -5,7 +5,7 @@ base_headword: "Sāligāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāligāma. A carpenter’s village near the west gate of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của những người thợ mộc gần cổng phía tây của Anurādhapura. Nó là nơi sinh của Asokamālā. Mhv­ṭ. 606, 607.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Citta 02. The Bodhisatta born as a *Caṇḍāla*. For details see the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 02. Bodhisatta sinh ra là một *Caṇḍāla*. Để biết chi tiết, xem Cittasambhutajātaka (Ja 498).
 
 ## Notes

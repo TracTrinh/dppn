@@ -5,7 +5,7 @@ base_headword: "Cittapatta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,8 @@ The bird, seeing the Buddha, gave him a ripe mango and sang to him, as he ate it
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittapatta. Một con chim *kokila*, một tiền kiếp của Lakuṇṭaka Bhaddiya, trong thời kỳ của Đức Phật Vipassī.
+
+Con chim, nhìn thấy Đức Phật, đã dâng cho Ngài một quả xoài chín và hót cho Ngài nghe, khi Ngài đang ăn nó, một bài hát của niềm hân hoan. Do đó mới có sự ngọt ngào trong giọng nói của Lakuṇṭaka. SN­a.ii.173.
 
 ## Notes

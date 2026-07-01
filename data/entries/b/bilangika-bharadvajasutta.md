@@ -5,7 +5,7 @@ base_headword: "Bilaṅgika Bhāradvājasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bilaṅgika Bhāradvājasutta. Relates the story of the conversion of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bilaṅgika Bhāradvājasutta. Kể lại câu chuyện về sự cải đạo của Bilaṅgika Bhāradvāja. SN.i.164.
 
 ## Notes

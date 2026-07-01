@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "07"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 07. A monk asks for a teaching in brief, and the Buddha tells him t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 07. Một vị tỳ-kheo xin một lời dạy tóm tắt, và Đức Phật bảo ông rằng ông phải có giới hạnh thực sự trong sạch và tri kiến chân chính. Trụ vững trên giới hạnh chắc chắn, ông nên tu tập bốn *satipaṭṭhāna*; nhờ đó ông sẽ đạt được mục tiêu của mình. Vị tỳ-kheo làm theo lời dạy này và trở thành một *Arahant*. SN.v.142f.
 
 ## Notes

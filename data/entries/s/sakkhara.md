@@ -5,7 +5,7 @@ base_headword: "Sakkhara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Sakkhara (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+(*v.l.* Sakkara). Một thị trấn của người Sākiyan nơi Đức Phật đã từng ở lại cùng với Ānanda (SN.v.2). Nơi này cách Rājagaha không xa và là nơi cư ngụ của Macchariya Kosiya (Dhp­a.i.367; Ja.i.345). Nó cách Jetavana bốn mươi lăm do-tuần. Ja.i.348.
 
 ## Notes

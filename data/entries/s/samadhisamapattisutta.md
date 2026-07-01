@@ -5,7 +5,7 @@ base_headword: "Samādhisamāpattisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samādhisamāpattisutta. Of the four persons who practise meditation, he who is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong số bốn người thực hành thiền định, người nào thông thạo cả về sự tập trung và những kết quả của nó là người tốt nhất, giống như phần váng sữa (*straining of ghee*) là phần ngon nhất của sữa. SN.iii.263.
 
 ## Notes

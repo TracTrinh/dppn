@@ -5,7 +5,7 @@ base_headword: "Sāma"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,6 @@ Sāma 04. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milinda đề cập đến một câu chuyện *Jātaka* nơi Devadatta là một người đàn ông tên là Sāma, và Bodhisatta là một vua hươu, tên là Ruru. Tài liệu tham khảo này rõ ràng là nói đến Rurumigajātaka (Ja 482), nhưng ở đó người đàn ông được gọi là Mahā Dhanaka. Ja.iv.255 ff.; nhưng xem Cp.ii.6.
 
 ## Notes

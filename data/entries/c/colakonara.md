@@ -5,7 +5,7 @@ base_headword: "Coḷakonāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Coḷakonāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷakonāra. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Ông đã bị giết bởi quân đội của Parakkamabāhu I. (Cv.lxxvi.145, 163). Có thể có nhiều hơn một người mang tên này. Xem sđd., vs.181, 188; lxxvii, 77, 86.
 
 ## Notes

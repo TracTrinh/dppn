@@ -5,7 +5,7 @@ base_headword: "Cittagutta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Cittagutta 03. An *Arahant*. He lived in <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittagutta 03. Một bậc *Arahant*. Ngài sống ở Ambapāsāṇa, trong ngôi làng Aṅganakola. Ngài là một diễn giả lưu loát, và khi còn là một phàm phu, ngài đã thuyết giảng Rathavinītasutta tại Lohapāsāda cho một hội chúng gồm mười hai nghìn vị tỳ-kheo và tỳ-kheo-ni. Trong phần giải thích của mình, ngài đã nhắc đến sự huy hoàng của Phòng Tôn trí Xá-lợi trong Mahā Thūpa. Mặc dù ngài đã mô tả chúng rất chi tiết, nhưng Trưởng lão Mahā Tissa, thầy của Asathakammikatissa, đang có mặt ở đó, đã nói với ngài rằng phần mô tả của ngài vẫn chưa đầy đủ (Mhv­ṭ.552f). Câu chuyện được kể lại để cho thấy mức độ huy hoàng của Phòng Tôn trí Xá-lợi.
 
 ## Notes

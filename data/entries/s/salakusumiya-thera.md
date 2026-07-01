@@ -5,7 +5,7 @@ base_headword: "Sālakusumiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sālakusumiya Thera. An *Arahant*. One hundred thousand *kappas* ago he offered 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Một trăm ngàn *kappa* trước ngài đã cúng dường một bông hoa *Sāla* cho *Thūpa* của một vị Phật. Ap.ii.407.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Kāḷa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāḷa, Cūla Kāḷa 01. Người trẻ nhất trong ba anh em, tên là Kāḷa, những gia chủ ở Setavyā. Ông đã đi cùng Mahā Kāḷa đến Sāvatthī với một đoàn lữ hành, và khi Mahā Kāḷa gia nhập Tăng đoàn, ông cũng gia nhập theo. Về sau, khi họ đang trở về Setavyā, lần này là cùng với Đức Phật và các vị tỳ-kheo, ông đã được cử đi trước để sắp xếp chỗ ngồi trong ngôi nhà cũ của mình, nơi Đức Phật và các vị tỳ-kheo đã được mời đến. Hai người vợ trước đây của ông đã chế nhạo ông và thuyết phục ông quay trở lại đời sống thế tục. Dhp­a.i.55ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāḷha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāḷha 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người Licchavī, đã từng đến thăm Đức Phật tại Kūṭāgārasālā (AN.ii.200). Xem Saḷhasutta 2.
 
 ## Notes

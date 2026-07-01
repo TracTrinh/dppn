@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasuttā"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇabrāhmaṇasuttā 03. A group of *Suttas* similar to the above; the good
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nhóm các *Sutta* giống như trên; những sa-môn và Bà-la-môn chân chính biết về sự già và chết, sự sinh, hữu, thủ, ái, thọ, xúc, lục nhập, danh và sắc, thức và hành. SN.ii.129f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samagga"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samagga 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Samaṅga. Một ngọn núi gần Himavā. Thag­a.i.258; Ap.ii.437.
 
 ## Notes

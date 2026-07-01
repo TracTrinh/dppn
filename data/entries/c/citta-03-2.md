@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittā 03. One of the five queens of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 03. Một trong năm vương hậu của Okkāka. DN­a.i.278; Snp­a.i.352; Mhv­ṭ.131.
 
 ## Notes

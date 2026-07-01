@@ -5,7 +5,7 @@ base_headword: "Sāli"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -39,6 +39,8 @@ He will be the son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người con trai duy nhất của Duṭṭhagāmaṇī. Ông đã từ bỏ ngai vàng và kết hôn với Asokamālā, một cô gái *Caṇḍāla* (Mv.xxxiii.1f). Trong tiền kiếp của mình, ông từng là một thợ rèn, tên là Tissa, ở Muṇḍagaṅgā, và vợ ông là Nāgā (Sumanā). Cặp vợ chồng đã dâng một bữa ăn với thịt lợn cho tám vị *Arahant* (về tên của họ xem Mhv­ṭ.606) do Dhammadinna Thera của Talaṅgatissapabbata dẫn đầu. Người ta nói rằng vào ngày ông sinh ra, toàn bộ Ceylon đã tràn ngập lúa gạo, do đó ông có cái tên này. Sāli rất ngoan đạo, và toàn bộ những nguồn thu nhập do cha ông ban cho ông đều được ông đem đi bố thí. Ông đã giữ các ngày trai giới tại Issarasamaṇavihāra và xây dựng Sālipabbatavihāra (Mhv­ṭ.606).
+
+Ông sẽ là con trai của Đức Phật Metteyya trong kiếp sống tiếp theo. Mhv­ṭ.xxxii.83. Xem thêm Ras.ii.114f.
 
 ## Notes

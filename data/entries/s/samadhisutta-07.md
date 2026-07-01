@@ -5,7 +5,7 @@ base_headword: "Samādhisutta"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samādhisutta 07. On the fivefold knowledge which arises in those that are wise 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về năm loại trí khởi lên nơi những người khôn ngoan và chánh niệm, và những người đã phát triển định tâm vô lượng. AN.iii.24.
 
 ## Notes

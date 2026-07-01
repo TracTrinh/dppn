@@ -5,7 +5,7 @@ base_headword: "Bhoja"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhoja 02. A physician of old. Ja.iv. 496, 498.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhoja 02. Một vị thầy thuốc thời xưa. Ja.iv. 496, 498.
 
 ## Notes

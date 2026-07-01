@@ -5,7 +5,7 @@ base_headword: "Codanāvatthu"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,8 @@ Here he laid down a rule, allowing monks to recite the *Pātimokkha* under a lea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Codanāvatthu. Một thung lũng (?) gần Rājagaha, được Đức Phật ghé thăm trong quá trình du hành của Ngài.
+
+Tại đây Ngài đã đặt ra một quy định, cho phép các vị tỳ-kheo tụng *Pātimokkha* dưới sự hướng dẫn của một vị tỳ-kheo thông thái nếu người đứng đầu nhóm của họ tỏ ra thiếu năng lực. Vin.i.116f.
 
 ## Notes

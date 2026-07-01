@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "10"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhuvanekabāhu 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 10. Trưởng lão Bhuvanekabāhu (Bhuvanekabāhu Thera). Một vị tỳ-kheo xuất chúng của Ceylon vào thế kỷ thứ mười lăm. Ông là thầy của tác giả cuốn *Anāpattidīpanī*. PLC.247, 254.
 
 ## Notes

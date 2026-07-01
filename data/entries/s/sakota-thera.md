@@ -5,7 +5,7 @@ base_headword: "Sakoṭa Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakoṭa Thera or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ba mươi mốt *kappa* trước ngài đã nhìn thấy dấu chân của Đức Phật Sikhī và đảnh lễ nó, dùng hoa *koraṇḍa* phủ lên. Ap.i.283.
 
 ## Notes

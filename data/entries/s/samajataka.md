@@ -5,7 +5,7 @@ base_headword: "Sāmajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -52,6 +52,16 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="47" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có một lần hai người thợ săn, là những trưởng làng, đã lập một thỏa ước rằng nếu những đứa trẻ của họ sinh ra có giới tính khác nhau, chúng sẽ kết hôn với nhau. Một người có một cậu con trai tên là Dukūlaka, bởi vì cậu được sinh ra trong một chiếc khăn bọc bằng vải mịn màng; người kia có một cô con gái tên là Pārikā, bởi vì cô được sinh ra ở bên kia dòng sông. Khi chúng lớn lên, cha mẹ chúng đã cho chúng kết hôn, nhưng, bởi vì cả hai đều đến từ thế giới *Brahma*, nên chúng đã đồng ý không động phòng. Với sự đồng ý của cha mẹ, họ đã trở thành những ẩn sĩ, và sống trong một am thất do Sakka cung cấp cho họ trên bờ sông Migasammatā. Sakka đã trông nom họ, và nhận thấy một mối nguy hiểm lớn đang chờ đón họ, nên đã thuyết phục họ sinh một đứa con trai. Việc thụ thai đã diễn ra bằng cách Dukūlaka chạm vào rốn của Pārikā vào đúng thời điểm. Khi đứa con trai được sinh ra, họ gọi cậu là Sāma, và, vì cậu có màu da vàng, nên cậu được gọi là Suvaṇṇasāma. Cậu chính là Bodhisatta.
+
+Một ngày nọ, sau khi Sāma đã trưởng thành, cha mẹ của cậu, đang trên đường trở về từ việc hái rễ cây và trái cây trong rừng, đã trú ẩn dưới một gốc cây trên một tổ kiến. Nước nhỏ giọt từ cơ thể của họ đã chọc giận một con rắn sống trong tổ kiến, và hơi thở độc hại của nó đã làm mù mắt cả hai người. Khi trời đã muộn, Sāma đi tìm họ và đưa họ về nhà. Kể từ đó trở đi, cậu đã chăm sóc cho họ.
+
+Piliyakkha, vị vua của Benares, trong một lần đi săn, để mẹ của ông phụ trách vương quốc, đã nhìn thấy Sāma đang múc nước, và, e rằng cậu sẽ bỏ chạy, nên đã bắn cậu bằng mũi tên của mình. Nhà vua nhầm tưởng cậu là một sinh vật siêu nhiên nào đó, khi thấy rằng con hươu, hoàn toàn không sợ hãi, đã uống nước trong khi Sāma đang đổ đầy chiếc bình của mình. Khi Piliyakkha nghe biết Sāma là ai và cậu là chỗ dựa chính của cha mẹ mình như thế nào, ông vô cùng đau buồn. Sāma ngã xuống bất tỉnh vì mũi tên tẩm độc, và nhà vua tưởng cậu đã chết. Một nữ thần, Bahusodarī, người đã từng là mẹ của Sāma bảy kiếp trước đó, sống ở Gandhamādana và luôn theo dõi cậu. Hôm nay bà đã đi đến một hội chúng của các vị thần và đã quên cậu trong một chốc, nhưng bà đột nhiên nhận thức được mối nguy hiểm mà cậu đã rơi vào. Bà đứng trong không trung gần Piliyakkha, không cho ông nhìn thấy, và ra lệnh cho ông hãy đi báo tin cho cha mẹ của Sāma. Ông làm theo như lời bà sai bảo, và, sau khi tiết lộ danh tính của mình, đã dần dần thông báo cho họ về số phận của Sāma và phần lỗi của chính ông trong đó. Nhưng cả Dukūlaka lẫn Pārikā đều không nói với ông một lời oán giận nào. Họ chỉ yêu cầu được đưa đến nơi thi thể của Sāma đang nằm. Khi đến đó, Pārikā đã thực hiện một Lời Nguyền Sự Thật (*saccakiriyā*) trang trọng, và chất độc đã rời khỏi cơ thể của Sāma, giúp cậu khỏe lại. Bahusodarī cũng làm điều tương tự ở Gandhamādana, và cha mẹ của Sāma đã lấy lại được thị lực. Sau đó Sāma đã thuyết pháp cho nhà vua đang kinh ngạc, kể cho ông nghe về việc ngay cả các vị thần cũng chăm sóc cho những ai hiếu kính với cha mẹ của mình.
+
+Câu chuyện được kể liên quan đến một chàng thanh niên ở Sāvatthī. Sau khi được nghe Đức Phật thuyết pháp, anh ta đã rất khó khăn mới xin được phép cha mẹ mình và gia nhập Saṅgha. Trong năm năm, anh ta sống trong tu viện, và, khi không đạt được tuệ giác, anh ta đã quay trở lại khu rừng và tinh tấn trong mười hai năm nữa. Cha mẹ anh trở nên già yếu, và vì không có ai chăm sóc họ, nên những người hầu cận của họ đã cướp đoạt của cải của họ. Người con trai của họ, khi nghe được điều này từ một tỳ-kheo đến thăm anh trong rừng, đã ngay lập tức rời khỏi am thất của mình và quay trở lại Sāvatthī. Tại đó, anh chăm sóc cha mẹ mình, cho họ thức ăn và quần áo mà anh kiếm được bằng cách khất thực, thường xuyên tự nhịn đói để họ có thể ăn. Những vị tỳ-kheo khác khiển trách anh vì đã nuôi dưỡng người cư sĩ, và vấn đề này đã được báo cáo lên Đức Phật. Nhưng Đức Phật, khi nghe câu chuyện của anh, đã khen ngợi anh và thuyết giảng cho anh Mātuposakasutta (*q.v.*).
+
+Dukūlaka được đồng nhất với Kassapa, Pārikā với Bhaddā Kāpilānī, Piliyakkha với Ānanda, Sakka với Anuruddha, và Bahusodarī với Uppalavaṇṇā (Ja.vi.68-95; câu chuyện được đề cập tại Mil.198f.; Ja.iv.90, etc.; xem thêm Mvu.ii.212 ff).
+
+Sālikedārajātaka (Ja 484) đã được thuyết giảng liên quan đến cùng một vị tỳ-kheo đó.
 
 ## Notes

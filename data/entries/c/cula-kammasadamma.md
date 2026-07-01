@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kammāsadamma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Kammāsadamma, <span class="dppn-term dppn-term-t15" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kammāsadamma, Culla Kammāsadamma. Một ngôi làng ở vương quốc Kampilla đã hình thành trên khu định cư do Jayaddisa nhường lại cho anh trai của mình, gã yêu tinh ăn thịt người, sau khi người này trở thành một tu sĩ khổ hạnh (Ja.v.35). Để biết chi tiết, xem Jayaddisajātaka.
 
 ## Notes

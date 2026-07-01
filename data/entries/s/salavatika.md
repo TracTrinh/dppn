@@ -5,7 +5,7 @@ base_headword: "Sālavatikā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sālavatikā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Kosala, được Pasenadi ban cho vị Bà-la-môn Lohicca. Ở đó Lohiccasutta đã được thuyết giảng (DN.i.224). Nó được gọi như vậy vì những cây *sāla* mọc bên trong ranh giới của nó. DN­a.ii.395.
 
 ## Notes

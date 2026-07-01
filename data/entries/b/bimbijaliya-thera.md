@@ -5,7 +5,7 @@ base_headword: "Bimbijāliya Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bimbijāliya Thera. An *Arahant*. In the past he gave a *bimbijālika*-flower to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bimbijāliya Thera. Một *Arahant*. Trong quá khứ ngài đã cúng dường một bông hoa *bimbijālika* cho Padumuttara Buddha. Sáu mươi tám *kappa* trước, ngài từng làm vua bốn lần với tên gọi là Kiñjakesara. Ap.i.225.
 
 ## Notes

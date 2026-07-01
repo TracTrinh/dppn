@@ -5,7 +5,7 @@ base_headword: "Cittāgāravagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittāgāravagga. The fifth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittāgāravagga. Chương thứ năm của Bhikkhunī Pācittiya. Vin.iv.298ff.
 
 ## Notes

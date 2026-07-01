@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāmā 06. The original name of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên gốc của Sāmāvatī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāmagāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -34,6 +34,8 @@ According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của người Sākiyan nơi Sāmagāmasutta (bên dưới) được thuyết giảng (MN.ii.243). Có một ao sen trong làng (AN.iii.309). Những người Vedhaññā có lẽ đã sống ở đó, bởi vì, theo Pāsādikasutta (DN.iii.117), Đức Phật đang ở trong vườn xoài của những người Sākiyan Vedhañña khi tin tức về cái chết của Nigaṇṭha Nātaputta, như được đưa ra trong Sāmagāmasutta, được mang đến cho ngài.
+
+Theo Buddhaghosa (MN­a.ii.829) ngôi làng được gọi là Sāmagāma, *Sāmakānaṁ ussanattā*.
 
 ## Notes

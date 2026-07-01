@@ -5,7 +5,7 @@ base_headword: "Bhisa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhisa. A king of three *kappas* ago, a previous birth of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisa. Một vị vua vào ba *kappa* trước, một tiền kiếp của Bhisāluvadāyaka. Ap.i.120.
 
 ## Notes

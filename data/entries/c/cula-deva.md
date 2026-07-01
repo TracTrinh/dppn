@@ -5,7 +5,7 @@ base_headword: "Cūḷa Deva"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cūḷa Deva. A Thera*,* an eminent teacher of the Vinaya. Vin.v.3; Vin-a.i.63.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Deva. Một Trưởng lão*,* một bậc thầy xuất chúng về Vinaya. Vin.v.3; Vin-a.i.63.
 
 ## Notes

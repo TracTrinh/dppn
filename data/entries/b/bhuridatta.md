@@ -5,7 +5,7 @@ base_headword: "Bhūridatta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhūridatta. The Bodhisatta born as the son of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūridatta. Bodhisatta sinh ra làm con trai của vua Nāga, Dhataraṭṭha. Xem Bhūridattajātaka (Ja 543).
 
 ## Notes

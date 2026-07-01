@@ -5,7 +5,7 @@ base_headword: "Sakkadattiya"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkadattiya. This word, occurring several times in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Từ này, xuất hiện vài lần trong Jātaka, rõ ràng không phải là một tên riêng mà là một tính từ, có nghĩa là “do Sakka cung cấp” e.g., Ja.iii.463; iv. 489; vi. 21, etc.
 
 ## Notes

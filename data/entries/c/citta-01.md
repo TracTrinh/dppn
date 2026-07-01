@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -59,6 +59,22 @@ Though <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 01. (gọi là Cittagahapati). Một gia chủ ở Macchikāsaṇḍa, nơi ông làm Thủ quỹ. Sau này ông được Đức Phật tuyên bố là người đệ nhất trong số các nam cư sĩ thuyết giảng Pháp (AN.i.26). Vào ngày ông sinh ra, toàn bộ thành phố bị bao phủ bởi các loài hoa nhiều màu sắc ngập đến đầu gối, do đó ông có tên này.
+
+Khi Mahā Nāma đến thăm Macchikāsaṇḍa, Citta, hài lòng với phong thái của vị này, đã mời ông đến công viên của mình, Ambāṭakārāma, và xây dựng một tu viện cho ông tại đó. Và tại đây, Trưởng lão đã thuyết giảng cho Citta bài kinh Saḷāyatanavibhatti và Citta đã trở thành một bậc *Anāgāmī*. Sau đó, nhiều vị tỳ-kheo đã đến thăm Ambāṭakārāma và nhận sự tiếp đãi của Citta. Trong số đó có Isidatta (*xem mục từ này*), một người quen cũ của Citta, nhưng Isidatta đã rời đi khi thấy thân phận của mình bị phát hiện. Mahā Nāma và Mahaka cũng làm tương tự, sau khi thi triển thần thông theo yêu cầu của Citta.
+
+Cittasaṁyutta (SN.iv.282ff) chứa một ghi chép về các cuộc trò chuyện giữa Citta và các thành viên của Tăng đoàn, trong số đó, ngoài những người đã được đề cập, còn có Kāmabhū và Godatta. Citta cũng được nói là đã thảo luận với Nigaṇṭha Nātaputta và Acela Kassapa và đã bác bỏ quan điểm của họ.
+
+Một vị Trưởng lão tên là Sudhamma thường trú tại Ambāṭakārāma và được Citta chăm sóc. Một lần, khi hai vị Đệ nhất Thinh văn và một số vị Trưởng lão xuất chúng khác đến Ambāṭakārāma, Citta đã mời những vị này trước và sau đó mới mời Sudhamma; vị sau cảm thấy bị coi thường, đã khiển trách Citta quá mức, nhưng Đức Phật, khi nghe chuyện này, đã phái Sudhamma đi xin Citta tha thứ (Vin.ii.15ff; Dhp­a.ii.74f; để biết chi tiết xem Sudhamma).
+
+Một thời gian sau, Citta đến thăm Đức Phật. Ông được hai nghìn người khác đi cùng và mang theo năm trăm xe lễ vật cúng dường Đức Phật và Tăng đoàn. Khi ông đảnh lễ dưới chân Đức Phật, những bông hoa năm màu từ trên trời rơi xuống và Đức Phật đã thuyết giảng cho ông bài kinh Saḷāyatanavibhatti. Trong nửa tháng, ông tiếp tục phân phát đồ cúng dường của mình cho Tăng đoàn và chư thiên đã lấp đầy những cỗ xe của ông bằng đủ loại đồ quý giá (AN­a.i.210).
+
+Khi Citta nằm bệnh ngay trước lúc qua đời, chư thiên đã đến thăm ông và khuyên ông mong cầu làm vua trong số họ, nhưng ông từ chối mong muốn bất cứ điều gì vô thường như vậy, và chỉ dẫn cho chư thiên cùng thân quyến tụ tập quanh ông, kể cho họ nghe về Đức Phật và giáo pháp của Ngài (SN.iv.302f). Ông được xem là một cư sĩ mẫu mực (e.g., at AN.i.88; ii.164; iii.451).
+
+Ông sở hữu một ngôi làng chư hầu tên là Migapattaka (SN­a.iii.93).
+
+Vào thời Đức Phật Padumuttara, Citta đã khởi lên mong muốn được xếp hạng đệ nhất trong số các nam cư sĩ thuyết giảng Pháp. Vào thời Đức Phật Kassapa, ông là một thợ săn. Một ngày nọ, nhìn thấy một vị tỳ-kheo trong một thung lũng hẹp, và hoan hỷ về điều đó, ông vội vã về nhà, chuẩn bị một bữa ăn và mang đến cho vị tỳ-kheo, cùng với những bông hoa ông đã hái trên đường đi. Sau khi cúng dường, ông đã phát nguyện rằng mình sẽ không bao giờ thiếu đồ cống nạp và những cơn mưa hoa sẽ rơi xuống ông. Ở cõi chư thiên, ông vượt trội hơn tất cả những người khác về vẻ đẹp tuyệt mỹ của mình (AN­a.i.209). Trong Bhisajātaka (Ja.iii.314), ông được đồng nhất với người nô lệ.
+
+Dù Citta không phải là một bậc *Arahant*, ông sở hữu *paṭisambhidā* của một bậc hữu học (*sekha*). Vsm.442.
 
 ## Notes

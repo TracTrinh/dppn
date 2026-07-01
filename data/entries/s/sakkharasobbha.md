@@ -5,7 +5,7 @@ base_headword: "Sakkharasobbha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkharasobbha. A port in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bến cảng ở Rohaṇa nơi Iḷanāga đã cập bến trên đường từ Ấn Độ trở về Ceylon. Mhv.xxxv. 28.
 
 ## Notes

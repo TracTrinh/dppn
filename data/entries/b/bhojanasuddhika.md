@@ -5,7 +5,7 @@ base_headword: "Bhojanasuddhika"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhojanasuddhika. The Bodhisatta born as the king of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojanasuddhika. Bodhisatta sinh ra làm vua của Benares. Xem Dūtajātaka (Ja 260). Ja.ii.319, 321.
 
 ## Notes

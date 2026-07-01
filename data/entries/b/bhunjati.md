@@ -5,7 +5,7 @@ base_headword: "Bhuñjatī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -30,6 +30,8 @@ Bhuñjatī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuñjatī. Vợ của Vessavaṇa và là một đệ tử thuần thành của Đức Phật. Một lần, khi Sakka đến yết kiến Đức Phật tại Saḷalāgāra, ngài thấy Đức Phật đang hành thiền, Bhuñjatī đang hầu hạ và chắp tay đảnh lễ Ngài. Sakka đã nhờ bà thay mặt ngài đảnh lễ Đức Phật khi Ngài xuất định (DN.ii.270f).
+
+Buddhaghosa nói thêm (DN­a.iii.705) rằng Bhuñjatī đã đạt đến Đạo quả thứ hai và không còn thấy vui thú gì với những xa hoa của thiên giới.
 
 ## Notes

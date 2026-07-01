@@ -5,7 +5,7 @@ base_headword: "Sālapupphiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sālapupphiya Thera. An *Arahant*. He was a confectioner of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ngài từng là một người thợ làm bánh kẹo ở Aruṇavatī vào thời của Đức Phật Siddhattha, và ngài đã dâng cho Đức Phật một bông hoa *sāla*. Mười bốn *kappa* trước, ngài là một vị vua tên là Amitañjala. Ap.i.218f.
 
 ## Notes

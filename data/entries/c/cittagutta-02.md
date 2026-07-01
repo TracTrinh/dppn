@@ -5,7 +5,7 @@ base_headword: "Cittagutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittagutta 02. An Elder living in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittagutta 02. Một vị Trưởng lão sống trong Hang Kuraṇḍaka. Trong hang có một bức bích họa tuyệt đẹp về sự Đại xuất gia của Bảy Vị Phật, nhưng ngài chưa bao giờ nhìn thấy nó, mặc dù ngài đã sống ở đó sáu mươi năm. Ba lần nhà vua sai người đến mời ngài, nhưng ngài từ chối đi cho đến khi nhà vua ban chiếu chỉ rằng không một đứa trẻ sơ sinh nào trong nước được bú sữa cho đến khi Trưởng lão đến thăm cung điện. Ngài đã cư ngụ trong cung điện trong bảy ngày và luôn nói cùng một lời chúc phúc, bất kể ai chào ngài: "Cầu cho nhà vua được an vui." Khi Trưởng lão trở lại hang động, vị chư thiên ở cây thiết mộc bên ngoài đứng cầm một ngọn đuốc và Trưởng lão đã chứng đắc quả vị *Arahant* (Vsm.38). Đây có thể là cùng một vị Trưởng lão được đề cập ở nơi khác (Vsm.171), người đã phát triển *tejokasiṇa* khi nhìn ngọn lửa của một cây đèn vào lúc trở về *vihāra* sau khi nghe Pháp, và một lần nữa phát triển *pītakasiṇa* khi nhìn thấy trên Cittalapabbata một chỗ ngồi trải đầy hoa *pattaṅga* (Vsm.173).
 
 ## Notes

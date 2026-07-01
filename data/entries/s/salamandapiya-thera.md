@@ -5,7 +5,7 @@ base_headword: "Sālamaṇḍapiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sālamaṇḍapiya Thera. An *Arahant* (Ap.i.431f). He is evidently identical wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant* (Ap.i.431f). Ngài rõ ràng đồng nhất với Tissa Thera (xem Tissa 12). Thag­a.i.272f.
 
 ## Notes

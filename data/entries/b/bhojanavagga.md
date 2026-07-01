@@ -5,7 +5,7 @@ base_headword: "Bhojanavagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhojanavagga. The fourth section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojanavagga. Phần thứ tư của Pācittiya thuộc Vinayapiṭaka. Vin.iv. 69-90.
 
 ## Notes

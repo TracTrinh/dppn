@@ -5,7 +5,7 @@ base_headword: "Corambāgāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Corambāgāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Corambāgāma. Một ngôi làng ở Rohaṇa. Cv.lxxv.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Salavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Salavagga. The tenth chapter of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ mười của Saḷāyatanasutta. SN.iv.70-85.
 
 ## Notes

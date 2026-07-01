@@ -5,7 +5,7 @@ base_headword: "Cittavagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cittavagga. The third chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittavagga. Chương thứ ba của Dhammapada.
 
 ## Notes

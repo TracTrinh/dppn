@@ -5,7 +5,7 @@ base_headword: "Sakyaputtiyā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakyaputtiyā. The name given to the monks of the Buddha’s Saṅgha, as follow
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cái tên được đặt cho các tỳ-kheo trong Tăng đoàn của Đức Phật, với tư cách là những người đi theo Sakyamuni, e.g., Ud.iv.8; DN.iii.84.
 
 ## Notes

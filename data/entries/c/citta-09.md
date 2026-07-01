@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "09"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Citta 09. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 09. Một thành phố nơi Đức Phật Maṅgala thi triển Song thông. Bv­a.119.
 
 ## Notes

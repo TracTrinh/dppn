@@ -5,7 +5,7 @@ base_headword: "Sallasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sallasutta 03. A *Sutta* quoted in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Sutta* được trích dẫn trong Suttasaṅgaha (No.82) từ Itivuttaka (p.46) về ba loại cảm thọ.
 
 ## Notes

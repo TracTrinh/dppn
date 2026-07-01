@@ -5,7 +5,7 @@ base_headword: "Bhojājānīyajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ The story was told in reference to a monk who had given up persevering. <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojājānīyajātaka (Ja 23). Bodhisatta từng sinh ra làm một con ngựa nòi thuần chủng và được phong làm chiến mã của vua Benares. Ngựa được hưởng mọi loại xa hoa và được thể hiện mọi sự tôn vinh. Tất cả các vị vua xung quanh đều thèm muốn vương quốc Benares, và bảy vị vua đã bao vây thành phố. Theo lời đề nghị của các quan đại thần, nhà vua đã cử một kỵ sĩ cưỡi trên chiến mã hoàng gia. Cưỡi trên con ngựa cao quý, kỵ sĩ đã phá hủy sáu doanh trại, lúc này con ngựa của ông bị thương. Sau đó ông mang nó đến cổng, tháo giáp cho nó, và chuẩn bị mặc giáp cho một con ngựa khác. Nhưng con vật, biết rằng không một con ngựa nào khác có thể hoàn thành những gì đang chờ đợi, đã khăng khăng đòi tấn công doanh trại thứ bảy. Rồi khi họ đưa nó trở lại cổng vua, nhà vua bước ra để nhìn nó, và con ngựa đã chết với một lời khuyên về sự khoan hồng đối với các vị vua bị bắt giam.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo đã từ bỏ sự kiên trì. Ānanda được đồng nhất với nhà vua. Ja.i.178-81. Cp. Ajaññajātaka (Ja 24).
 
 ## Notes

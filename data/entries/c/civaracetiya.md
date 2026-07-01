@@ -5,7 +5,7 @@ base_headword: "Cīvaracetiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cīvaracetiya. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīvaracetiya. Một tu viện ở Ceylon. Kitti, vương hậu của Mahinda IV, đã xây dựng ba hồ tắm ở đó. Cv.liv.51.
 
 ## Notes

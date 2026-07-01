@@ -5,7 +5,7 @@ base_headword: "Samālā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samālā. One of the two chief women disciples of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong hai vị nữ đệ tử hàng đầu của Đức Phật Vessabhū. Bv.xxii.24; Ja.i.42.
 
 ## Notes

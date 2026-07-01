@@ -5,7 +5,7 @@ base_headword: "Sakula"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakula 01. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố ở Mahiṁsakaraṭṭha. Ja.v.337.
 
 ## Notes

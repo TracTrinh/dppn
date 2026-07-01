@@ -5,7 +5,7 @@ base_headword: "Cittaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Cittaka. Con trai của một Bà-la-môn giàu có ở Rājagaha. Ngài đã nghe Đức Phật thuyết pháp tại Veḷuvana và, sau khi gia nhập Tăng đoàn, đã hành thiền trong một khu rừng, cuối cùng đạt được quả vị *Arahant*.
+
+Vào thời Đức Phật Vipassī, ngài đã dâng hoa cho Đức Phật để bày tỏ lòng tôn kính (Thag.22; Thag­a.i.77).
+
+Ngài có thể là cùng một người với Trưởng lão Tīṇikiṅkinipupphiya của Apadāna. Ap.ii.433.
 
 ## Notes

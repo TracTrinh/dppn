@@ -5,7 +5,7 @@ base_headword: "Bhokkanta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhokkanta. A village in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhokkanta. Một ngôi làng ở Dakkhiṇadesa của Ceylon. Cho đến khi bị những cư dân ở đây bỏ hoang (có thể là do sợ hãi những người Damiḷa), nó từng là nơi ở của Sumanā, vợ của Lakuṇṭaka Atimbara (Dhp­a.iv.50).
 
 ## Notes

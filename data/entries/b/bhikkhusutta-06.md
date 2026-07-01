@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 06. The Buddha tells a monk about feelings, their arising and cause
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 06. Đức Phật giảng cho một vị tỳ-kheo về các cảm thọ, sự sinh khởi và nguyên nhân của chúng, sự đoạn diệt của chúng và con đường dẫn đến điều đó, v.v. SN.iv.232.
 
 ## Notes

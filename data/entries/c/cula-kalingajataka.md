@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāliṅgajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -43,6 +43,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāliṅgajātaka, Culla Kāliṅgajātaka (Ja 301). Kāliṅga, vua xứ Dantapura, khao khát muốn gây chiến, đã đưa bốn người con gái có sắc đẹp tuyệt trần của mình đến mọi vương quốc, đề nghị gả họ cho bất kỳ người đàn ông nào dám chiến đấu với ông vì họ. Assaka, vua xứ Potali, với lời khuyên của vị đại thần Nandisena, đã chấp nhận lời thách đấu. Kāliṅga sau đó đã kéo đến cùng với đội quân hùng mạnh của mình, và Bodhisatta là một vị tu sĩ khổ hạnh đã tuyên bố, sau khi tham khảo ý kiến của Sakka, rằng chiến thắng sẽ thuộc về ông ta. Nhưng Nandisena, không hề nao núng, đã hướng dẫn Assaka cách để tiêu diệt vị thần hộ mệnh của Kāliṅga khi vị thần này, dưới hình hài của một con bò trắng, xuất hiện trên chiến trường. Nandisena đã dẫn đầu cuộc tấn công của các binh sĩ, con bò trắng bị giết và Kāliṅga bị đánh bại. Ông ta phải cung cấp của hồi môn cho các con gái của mình, và kể từ đó hai vị vua sống như những người bạn.
+
+Câu chuyện được kể lại liên quan đến Sāriputta, người được đồng nhất với Nandisena. Hai tu sĩ Kỳ-na giáo, một nam và một nữ, mỗi người am hiểu năm trăm luận đề, đã gặp nhau ở Vesālī và những người Licchavī đã sắp xếp một cuộc hôn nhân cho họ. Họ có một người con trai, Saccaka, và bốn người con gái, Saccā, Lolā, Avavādakā và Paṭācārā. Sau khi cha mẹ qua đời, các cô gái đã đi lang thang từ thành phố này sang thành phố khác nhằm mục đích tranh luận. Cuối cùng họ đến Sāvatthī, nơi họ cắm một cành cây *jambu* tại cổng thành, để cho bất kỳ ai chấp nhận lời thách thức tranh luận của họ thì nhổ lên. Sāriputta, nhìn thấy cành cây, đã sai người nhổ đi, và khi các cô gái tìm đến ngài cùng với một đám đông người, ngài đã trả lời tất cả các câu hỏi của họ và đánh bại họ trong cuộc tranh luận. Sau đó họ đã gia nhập Tăng đoàn dưới sự tế độ của Uppalavaṇṇā, và danh tiếng của Sāriputta ngày càng gia tăng. Ja.iii.1ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Coriyassara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Coriyassara. A village in Ceylon. Vibh­a.447.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coriyassara. Một ngôi làng ở Ceylon. Vibh­a.447.
 
 ## Notes

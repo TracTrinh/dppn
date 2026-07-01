@@ -5,7 +5,7 @@ base_headword: "Sakkodana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakkodana. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người Sākiyan, một trong năm người con trai của Sīhahanu và Kaccānā (Mhv.ii.20; Dpv.iii.45). Ông là anh em trai của Suddhodana, cha của Đức Phật. MN­a.i.289.
 
 ## Notes

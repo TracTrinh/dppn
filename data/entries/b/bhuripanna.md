@@ -5,7 +5,7 @@ base_headword: "Bhūripañña"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhūripañña. One hundred and seven *kappas* ago there were four kings of this 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūripañña. Một trăm lẻ bảy *kappa* trước, có bốn vị vua mang tên này, là các tiền kiếp của Paccupaṭṭhānasaññaka (Ekūdāniya). Ap.i.153; Thag­a.i.153.
 
 ## Notes

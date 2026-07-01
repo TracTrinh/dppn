@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kañcakunda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Kañcakunda, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kañcakunda, Culla Kañcakunda. Một thủ lĩnh Damiḷa ở Nam Ấn Độ, người đã chiến đấu chống lại quân đội của Parakkamabāhu I nhưng sau đó đã bị khuất phục (Cv.lxxvi.185, 217, 220, 305). Cái tên này có liên quan chặt chẽ đến tên của các vùng Kañcakudiya và Kañcakudiyarājā (Cv.lxxvi.124, 130).
 
 ## Notes

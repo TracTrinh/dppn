@@ -5,7 +5,7 @@ base_headword: "Samādhisutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samādhisutta 04. On four kinds of people in the world: those who gain mental ca
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về bốn hạng người trên thế gian: những người đạt được sự an tĩnh nội tâm nhưng không đạt được tuệ cao thượng, những người đạt được tuệ cao thượng nhưng không đạt được sự an tĩnh nội tâm, những người không đạt được cả hai, những người đạt được cả hai. AN.ii.92.
 
 ## Notes

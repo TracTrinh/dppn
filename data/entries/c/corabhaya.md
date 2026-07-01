@@ -5,7 +5,7 @@ base_headword: "Corābhaya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -31,6 +31,8 @@ Corābhaya. A brigand, who set up his stronghold between <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Corābhaya. Một tướng cướp, người đã thiết lập thành trì của mình giữa Anurādhapura và Cetiyagiri. Một lần y cùng với thuộc hạ của mình đến cướp phá tu viện Cetiyagiri, nhưng Trưởng lão Abhaya (*xem mục từ này*), một người tụng Trường bộ (*Dīghabhāṇaka*), khi nghe được ý định của y, đã ra lệnh ban cho những tên cướp một bữa ăn với thức ăn của tu viện. Điều này khiến Corābhaya rất hài lòng đến mức kể từ lúc đó y đã đảm bảo sự đi lại an toàn cho tất cả những người hành hương đến Cetiyagiri (Vin-a.ii.474).
+
+Corābhaya thường được xếp cùng nhóm với Coranāga và, cả hai được cho là sau khi chết đã tái sinh vào *Lokantarikaniraya* với thân hình cao ba *gāvuta*. AN­a.ii.532; MN­a.ii.920; DN­a.ii.433.
 
 ## Notes

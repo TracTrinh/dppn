@@ -5,7 +5,7 @@ base_headword: "Bhima"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhima. The name of a celestial musician or a musical instrument. Vv-a.93, 96, 21
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhima. Tên của một nhạc công chư thiên hoặc một loại nhạc cụ. Vv-a.93, 96, 211, 372.
 
 ## Notes

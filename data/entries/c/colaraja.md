@@ -5,7 +5,7 @@ base_headword: "Coḷarāja"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Coḷarāja. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷarāja. Một vị quan đại thần của Kassapa V. Ông đã sửa chữa một *pariveṇa* trong Mahā Vihāra đã bị phá hủy. Cv.lii.34.
 
 ## Notes

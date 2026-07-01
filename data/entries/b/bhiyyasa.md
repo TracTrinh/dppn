@@ -5,7 +5,7 @@ base_headword: "Bhiyyasa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhiyyasa (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhiyyasa (Bhīya). Một trong hai vị đệ tử chính của Koṇāgamana Buddha (Ja.i.43; Bv.xxiv.22; DN.ii.5, etc.). Ông là một vương tử, và Đức Phật đã thuyết pháp cho ông cùng người bạn của ông, Uttara, cùng với ba mươi ngàn người tùy tùng của họ, tại Sundaravatī. Bv­a.215.
 
 ## Notes

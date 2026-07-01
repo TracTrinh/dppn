@@ -5,7 +5,7 @@ base_headword: "Bhikkhusaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhikkhusaṁyutta. The twenty-first section of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusaṁyutta. Phần thứ hai mươi mốt của Saṁyuttanikāya. SN.ii.273-86.
 
 ## Notes

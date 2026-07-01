@@ -5,7 +5,7 @@ base_headword: "Bhogasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhogasutta. The five disadvantages of riches and also the five advantages of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhogasutta. Năm nhược điểm của sự giàu có và cũng là năm ưu điểm của nó. AN.iii.259.
 
 ## Notes

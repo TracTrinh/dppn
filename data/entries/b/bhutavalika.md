@@ -5,7 +5,7 @@ base_headword: "Bhūtavālika"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhūtavālika. A *seṭṭhiputta*, held up as an example of a devout follower o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūtavālika. Một con trai của vị trưởng giả (*seṭṭhiputta*), được lấy làm ví dụ về một đệ tử thuần thành của Đức Phật (AN­a.i.335). Ông rất có thể là cùng một người với trưởng giả (*seṭṭhi*) Bhūtapāla.
 
 ## Notes

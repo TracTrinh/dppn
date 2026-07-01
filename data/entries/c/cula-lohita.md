@@ -5,7 +5,7 @@ base_headword: "Cūḷa Lohita"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Lohita, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Lohita, Culla Lohita. Một con bò đực, em trai của Bodhisatta, tức Mahā Lohita. Chú bò này được đồng nhất với Ānanda. Xem Muṇikajātaka.
 
 ## Notes

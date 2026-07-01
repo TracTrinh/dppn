@@ -5,7 +5,7 @@ base_headword: "Bimbī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bimbī. An eminent laywoman, follower of the Buddha. AN.iv.347; AN­a.ii.791.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bimbī. Một nữ cư sĩ xuất chúng, đệ tử của Đức Phật. AN.iv.347; AN­a.ii.791.
 
 ## Notes

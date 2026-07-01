@@ -5,7 +5,7 @@ base_headword: "Sakkharālayagaṅgā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkharālayagaṅgā. A river in Ceylon, mentioned in the account of the campai
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông ở Ceylon, được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.29; xem Cv.Trs.i.322, n.1.
 
 ## Notes

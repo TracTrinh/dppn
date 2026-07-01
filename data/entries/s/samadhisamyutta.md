@@ -5,7 +5,7 @@ base_headword: "Samādhisaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samādhisaṁyutta. Another name for the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tên gọi khác của Jhānasaṁyutta. SN 34, SN.iii.263-79.
 
 ## Notes

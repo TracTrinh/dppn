@@ -5,7 +5,7 @@ base_headword: "Cūḷa Hatthipadopamasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -31,6 +31,8 @@ This was the first *Sutta* preached in Ceylon by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Hatthipadopamasutta, Cūla Hatthipadopamasutta. Jāṇussoṇī, khi đang đi trên một cỗ xe, đã gặp Pilotika, người mà từ đó ông nghe được những lời ca ngợi Đức Phật. Ông biết được việc Pilotika, sau khi nghe những lời giảng dạy của Đức Phật cho các quý tộc, Bà-la-môn, gia chủ và sa-môn, đã bị thuyết phục rằng Đức Phật là bậc Toàn Giác, giống như một người theo dõi dấu vết voi sành sỏi khi nhìn thấy một dấu chân voi rộng sẽ kết luận rằng đó là dấu vết của một con voi thực sự lớn. Jāṇussoṇī đã đến thăm Đức Phật và báo cáo lại cuộc trò chuyện của mình với Pilotika. Đức Phật bảo ông rằng sẽ là một sai lầm nếu vội vã kết luận ngay khi nhìn thấy một dấu chân rộng rằng nó thuộc về một con voi rất lớn; có nhiều khả năng khác cần phải được loại trừ trước tiên. Ngài sau đó tiếp tục mô tả cuộc sống của một sa-môn thực sự, vị đệ tử của Bậc Thánh, và những thành tựu mà người đó đạt được; Ngài gọi đây là những dấu chân của Đấng Như Lai. Tiếp theo điều này, vị đệ tử có những khám phá sâu hơn, cho đến khi tâm trí người đó hoàn toàn thoát khỏi các *āsava*, và sau đó người đó nhận ra được sự tìm kiếm đích thực của Đấng Như Lai. Jāṇussoṇī đã trở thành một tín đồ của Đức Phật (MN.i.175ff).
+
+Đây là *Sutta* đầu tiên được Mahinda thuyết giảng ở Ceylon cho Devānampiyatissa. Vào cuối bài pháp, nhà vua đã thọ nhận Tam Quy. Mhv.xiv.22.
 
 ## Notes

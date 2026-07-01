@@ -5,7 +5,7 @@ base_headword: "Billaselavihāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Billaselavihāra. A monastery on <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Billaselavihāra. Một tu viện trên núi Billasela, nơi Bhuvanekabāhu, anh trai của Parakkamabāhu II, đã xây dựng một *pariveṇa* theo lệnh của nhà vua, có tên là Bhuvanekabāhupariveṇa. Cv.lxxxv.59.
 
 ## Notes

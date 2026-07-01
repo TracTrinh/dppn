@@ -5,7 +5,7 @@ base_headword: "Samalaṅkata"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samalaṅkata. A king of seventy *kappas* ago, a previous birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua của bảy mươi *kappa* trước, một tiền kiếp của Supāricariya Thera. Ap.i.181.
 
 ## Notes

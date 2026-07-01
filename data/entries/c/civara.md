@@ -5,7 +5,7 @@ base_headword: "Cīvara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cīvara. A teacher in Burma who wrote a *ṭīkā* to <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cīvara. Một người thầy ở Miến Điện, người đã viết một *ṭīkā* cho Jaṅghadāsa (*sic*) (Gv.64). Ở nơi khác (Gv.67, 74) cùng một tác phẩm này được cho là của Vajira.
 
 ## Notes

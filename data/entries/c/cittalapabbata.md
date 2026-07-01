@@ -5,7 +5,7 @@ base_headword: "Cittalapabbata"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -38,6 +38,6 @@ Cittalapabbata, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittalapabbata, Cittalakūṭa. Một ngọn núi ở Rohaṇa nơi Kākavaṇṇatissa đã xây dựng một *vihāra* (Mhv.xxii.23) và Vasabha xây dựng mười *Thūpa* (Mhv.xxxv.81). Dāṭhopatissa đã ban cho *vihāra* ngôi làng Gonnaviṭṭhi (Cv.xlv.59). Ngọn núi được miêu tả là có khí hậu lành mạnh (*utusappāya*) (Mhv­ṭ.552), và đôi khi có tới mười hai nghìn vị tỳ-kheo sống ở đó (Vibh­a.445; Mhv.xxiv.9). Trực thuộc *vihāra* là *Niṅkaponnapadhānaghara* (Vibh­a.489) và Koṭagerukapāsāda – nơi ở của Bhāgineyya Saṅgharakkhita (Mhv­ṭ.552) – và có lẽ cũng có một tu viện nữ (xem Vibh­a.498). Các Trưởng lão Mahā Nāga và Cūḷa Nāga đã sống ở Cittalapabbata trong ba năm (SN­a.ii.125). Các Bản chú giải chứa đựng một số câu chuyện liên quan đến ngọn núi (e.g., Vibh­a.264, 498; Dhs­a.351, 399; AN­a.i.386; MN­a.i.18, 66, 150, 223, 351, 399). Gần đó (AN­a.i.386) là ngôi làng Kālumbara và bến tắm Kuruvakatittha (MN­a.ii.1024). Rõ ràng nó là một trung tâm tu viện rất quan trọng ở Ceylon, và được nhắc đến ngang hàng với Abhayagiri và Cetiyapabbata (DN­a.ii.478). Cittalapabbata đôi khi được gọi là Cittalakūṭa, e.g., Mhv.xxxv.81.
 
 ## Notes

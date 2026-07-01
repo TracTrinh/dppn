@@ -5,7 +5,7 @@ base_headword: "Sāma"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāma 03. The Bodhisatta born as a hunter’s son. He was also called <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra là con trai của một người thợ săn. Ngài cũng được gọi là Suvaṇṇasāma. Để biết câu chuyện của ngài, xem Sāmajātaka (Ja 540). Ngài được đưa ra như một ví dụ về một người được thụ thai bằng cách chạm vào rốn, e.g., Mil.123.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīsutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhikkhunīsutta 02. Once a nun, being enamoured of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīsutta 02. Một lần nọ, một vị Tỳ-kheo-ni vì say mê Ānanda nên đã gửi tin nhắn xin ông đến thăm bà, nói rằng bà đang bị ốm. Ānanda đến và thuyết giảng cho bà về thân thể, về việc thức ăn chỉ nên được dùng để nuôi dưỡng nó ra sao, sự thèm khát thức ăn cần phải được đoạn trừ cùng với sự kiêu ngạo và ham muốn quan hệ tình dục như thế nào. Vị Tỳ-kheo-ni vô cùng xấu hổ vì ý định lừa dối của mình và, ngã rạp dưới chân Ānanda, xin ông tha thứ. AN.ii.144f.
 
 ## Notes

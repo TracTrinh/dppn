@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāmā 02. One of the chief lay women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị nữ cư sĩ hàng đầu của Đức Phật Koṇāgamana. Bv.xxiv.24.
 
 ## Notes

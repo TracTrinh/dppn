@@ -5,7 +5,7 @@ base_headword: "Bimbasundarī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bimbasundarī. Probably another name for <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bimbasundarī. Có lẽ là một tên gọi khác của Bimbādevī. Bà được đồng nhất với Amarādevī của Mahā Ummaggajātaka. Ja 546, Ja.vi.478.
 
 ## Notes

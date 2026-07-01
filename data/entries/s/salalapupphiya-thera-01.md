@@ -5,7 +5,7 @@ base_headword: "Salaḷapupphiya Thera"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Salaḷapupphiya Thera 01. An *Arahant*. Ninety-one *kappas* ago he was a *Kinna
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Chín mươi mốt *kappa* trước ngài là một *Kinnara* trên sông Candabhāgā, và, nhìn thấy Đức Phật Vipassī, ngài đã cúng dường cho Đức Phật một bông hoa *salala*. Ap.i.233.
 
 ## Notes

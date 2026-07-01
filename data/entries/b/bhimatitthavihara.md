@@ -5,7 +5,7 @@ base_headword: "Bhīmatitthavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,8 @@ Bhīmatitthavihāra. A monastery in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmatitthavihāra. Một tu viện ở quận Pañcayojana của Ceylon (Bentota ngày nay). Dưới thời Parakkamabāhu II, một chiếc răng của Mahā Kassapa đã được tôn trí trong *vihāra* này, và nhà vua đã đến thăm *vihāra* và tổ chức một lễ hội kéo dài ba ngày để tôn vinh xá-lợi này (Cv.lxxxv.81).
+
+Kittinissaṅka đã bố trí một khu vườn cây ăn quả trong khuôn viên *vihāra*, và sau đó Devappatirāja, vị quan đại thần của Parakkamabāhu II, theo lệnh vua, đã bố trí một khu rừng cọ dừa lớn, rộng một *yojana* (do-tuần), trải dài từ *vihāra* cho đến Kālanadītittha. Cv.lxxxvi.16, 40, 44.
 
 ## Notes

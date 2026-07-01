@@ -5,7 +5,7 @@ base_headword: "Bhīmaratha"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhīmaratha 03. A king of seventy-seven *kappas* ago, a previous birth of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmaratha 03. Một vị vua vào bảy mươi bảy *kappa* trước, một tiền kiếp của Trưởng lão Sirivaḍḍha (Kiṅkiṇipupphiya). Ap.i.204; Thag­a.i.107.
 
 ## Notes

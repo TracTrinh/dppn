@@ -5,7 +5,7 @@ base_headword: "Sakkasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,8 @@ The Commentary adds (SN­a.i.232) that this <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Yakkha đến thăm Đức Phật tại Gijjhakūṭa và nói với ngài rằng ngài không nên dành thời gian của mình để dạy dỗ những người khác. Đức Phật trả lời rằng ngài làm điều đó vì lòng thương xót và lòng từ bi (SN.i.206).
+
+Bản Chú giải nói thêm (SN­a.i.232) rằng Sakka này là một Yakkha thuộc về phe phái của Māra (*Mārapakkhiko*).
 
 ## Notes

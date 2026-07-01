@@ -5,7 +5,7 @@ base_headword: "Bhūmicālavagga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhūmicālavagga. The seventh chapter of the *Aṭṭhakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūmicālavagga. Phẩm thứ bảy của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya. AN.iv.293-313.
 
 ## Notes

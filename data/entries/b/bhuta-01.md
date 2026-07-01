@@ -5,7 +5,7 @@ base_headword: "Bhūta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -40,6 +40,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūta 01. Trưởng lão Bhūta (Bhūta Thera). Con trai của một viên nghị viên rất giàu có ở Sāketa, người con út và là người con duy nhất của ông, vì những người con khác đã bị một Yakkha ăn thịt. Do đó, đứa trẻ được canh giữ nghiêm ngặt lúc chào đời, nhưng Yakkha đó trong khi ấy đã đi hầu hạ Vessavaṇa và không quay trở lại. Cậu bé được gọi là Bhūta để những sinh vật phi nhân có thể bảo vệ cậu. Cậu lớn lên trong sự xa hoa tột bậc, nhưng, giống như Yasa, sau khi nghe Đức Phật thuyết pháp tại Sāketa, cậu đã gia nhập Tăng đoàn (Saṅgha) và sống trên bờ sông Ajakaraṇī, nơi cậu chứng quả vị *Arahant*. Về sau, khi về thăm những người họ hàng, ông lưu lại tại Añjanavana. Họ nài nỉ ông ở lại đó, nhưng ông đã từ chối làm như vậy.
+
+Trong thời của Siddhattha Buddha, ông là một người Bà-la-môn và, khi nhìn thấy Đức Phật, ông đã xướng lên những lời ca ngợi Ngài trong bốn vần kệ. Mười bốn *kappa* trước, ông đã làm vua bốn lần với tên gọi là Uggata. Thag.vs.518-26; Thag­a.i.493ff.
+
+Rất có thể ông cũng chính là Trưởng lão Parappasādaka trong Apadāna. Ap.i.113f.
 
 ## Notes

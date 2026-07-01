@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāliṅga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Cūḷa Kāliṅga, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāliṅga, Culla Kāliṅga. Con trai thứ của Kāliṅga, vua xứ Dantapura. Ông trở thành một tu sĩ khổ hạnh, nhưng sau đó đã kết hôn với con gái của vua xứ Madda, với người này ông đã có một người con trai là Kāliṅga người đã trở thành một Cakkavatti (Ja.iv.230ff). Để biết chi tiết, xem Kāliṅga Bodhijātaka.
 
 ## Notes

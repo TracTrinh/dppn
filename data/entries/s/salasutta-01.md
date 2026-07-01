@@ -5,7 +5,7 @@ base_headword: "Sālāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālāsutta 01. The Buddha, while staying at <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật, trong khi đang ở tại Sālā, đã nói chuyện với các tỳ-kheo, giảng dạy cho họ về sự cần thiết của việc giảng dạy bốn *satipaṭṭhāna* cho các sa-di, các bậc hữu học (*sekha*) và các vị *Arahant*. SN.v.144f.
 
 ## Notes

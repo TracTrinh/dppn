@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhikkhusutta 02. Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 02. Một lần nọ, Moggallāna và Lakkhaṇa nhìn thấy một *Bhikkhu*, sinh ra làm một *Peta* (ngạ quỷ), bay qua không trung, thân thể, y bát của vị ấy, v.v., đang bốc cháy. Vị ấy từng là một vị tỳ-kheo tội lỗi trong thời của Kassapa Buddha. SN.ii.260.
 
 ## Notes

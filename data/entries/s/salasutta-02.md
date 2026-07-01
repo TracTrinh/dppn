@@ -5,7 +5,7 @@ base_headword: "Sālāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālāsutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Sālā. Cũng giống như sư tử là chúa tể của các loài động vật, thì tuệ quán cũng là pháp đứng đầu trong số các *bodhipakkhiyā dhammā* (một danh sách về chúng được đưa ra trong *Sutta*). SN.v.227; về tựa đề của *Sutta*, xem KS.v.202, n.3.
 
 ## Notes

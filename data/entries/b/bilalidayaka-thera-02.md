@@ -5,7 +5,7 @@ base_headword: "Biḷālidāyaka Thera"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Biḷālidāyaka Thera 02. An *Arahant*. Fifty-four *kappas* ago he gave some *b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷālidāyaka Thera 02. Một *Arahant*. Năm mươi tư *kappa* trước, ngài đã tặng một vài củ *bilāli* cho một ẩn sĩ ở chân núi Romasa. Ap.i.232.
 
 ## Notes

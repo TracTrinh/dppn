@@ -5,7 +5,7 @@ base_headword: "Saḷalāgāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -35,6 +35,8 @@ Saḷalāgāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một công trình ở Jetavana. Một lần khi Sakka đến thăm Đức Phật, ngài thấy Đức Phật đang ở trong Saḷalāgāra, chìm đắm trong *samādhi*, với Bhuñjatī đang hầu hạ ngài. Do đó Sakka đã để lại một tin nhắn cho bà (DN.ii.270).
+
+Buddhaghosa (DN­a.ii.705) định nghĩa nó là *salaḷamayagandhakuṭi*. Ở một nơi khác, nơi (SN­a.iii.205) ngài nói rằng đó là một túp lều làm từ những cây *salaḷa* (*salaḷarukkhamaya*) hoặc một túp lều có một cây *salaḷa* ở cửa. Trong Bản chú giải cho Mahāpadānasutta, Salaḷaghara được nói đến như là một trong bốn tòa nhà chính, (*mahāgehāni*) của Jetavana (DN­a.ii.407). Nó được xây dựng bởi Pasenadi với chi phí một trăm ngàn. Anuruddha cũng được đề cập là đã ở đó. SN.v.300.
 
 ## Notes

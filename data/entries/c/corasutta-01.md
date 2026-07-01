@@ -5,7 +5,7 @@ base_headword: "Corasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Corasutta 01. An evil monk is like a robber-chief, in that he relies on roughnes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Corasutta 01. Một tỳ-kheo tà ác giống như một tướng cướp, ở chỗ y dựa vào sự gồ ghề của con đường, những chướng ngại vật, sự trợ giúp của những kẻ quyền thế; y đưa hối lộ và hành động một mình. AN.iii.128f.
 
 ## Notes

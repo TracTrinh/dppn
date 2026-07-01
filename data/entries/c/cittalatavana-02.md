@@ -5,7 +5,7 @@ base_headword: "Cittalatāvana"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittalatāvana 02. A park laid out by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittalatāvana 02. Một công viên do Parakkamabāhu 1 xây dựng. Cv.lxxix.7.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Jālī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Jālī, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Jālī, Cūla Jālī. Một Đức Phật Độc Giác (*Pacceka Buddha*) được nhắc đến trong một danh sách về các vị này. MN.iii.70; MN­a.ii.890.
 
 ## Notes

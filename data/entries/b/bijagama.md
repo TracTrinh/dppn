@@ -5,7 +5,7 @@ base_headword: "Bījagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bījagāma. A village in Ceylon where <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bījagāma. Một ngôi làng ở Ceylon nơi Mahallaka Nāga đã xây dựng *vihāra* Tānaveli (hoặc *vihāra* Canavela). Mhv.xxxv.125.
 
 ## Notes

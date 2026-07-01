@@ -5,7 +5,7 @@ base_headword: "Bhūripañhajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhūripañhajātaka (Ja 452). The name given to a section of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūripañhajātaka (Ja 452). Tên gọi được đặt cho một phần của Mahā Ummaggajātaka, mô tả về việc Mahosadha, sau khi đánh mất ân sủng của nhà vua, đã đến sống cùng một người thợ gốm như thế nào. Vị thần ngự trên lọng của nhà vua đã đặt một số câu hỏi cho nhà vua, nhưng các bậc hiền trí của ông (Senaka và những người khác) đã không thể trả lời chúng. Nhà vua sau đó cử các sứ giả mang theo những món quà đi tìm Mahosadha; họ tìm thấy ông trong túp lều của người thợ gốm và đưa ông trở về. Nhà vua bày tỏ sự ngạc nhiên rằng Mahosadha không hề oán hận ông. Mahosadha đã chỉ ra cho ông thấy rằng những bậc hiền trí không thể có sự vô ơn hay nhỏ nhen. Ja.vi.372-6.
 
 ## Notes

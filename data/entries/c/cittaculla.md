@@ -5,7 +5,7 @@ base_headword: "Cittaculla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cittaculla. A tortoise. For details see the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittaculla. Một con rùa. Để biết chi tiết, xem Bhūridattajātaka (Ja 543). Ja.vi.162f.
 
 ## Notes

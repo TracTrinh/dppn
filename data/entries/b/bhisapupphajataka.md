@@ -5,7 +5,7 @@ base_headword: "Bhisapupphajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,8 @@ The story was told in reference to a monk who was upbraided by a deity in a fore
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisapupphajātaka (Ja 392). Bodhisatta từng sinh ra làm một vị đạo sĩ, và một ngày nọ một nữ thần, sau khi nhìn thấy ông ngửi một bông sen đang nở, đã quở trách ông, bảo rằng ông là một kẻ trộm vì đã ngửi một bông sen không thuộc về ông. Gần đó có một người đàn ông đang đào những cây sen để lấy xơ, nhưng nữ thần không nói gì với ông ta. Khi bị hỏi, câu trả lời của bà là ở một người như Bodhisatta, đang mưu cầu sự thanh tịnh, một tội lỗi dù chỉ nhỏ bằng đầu sợi tóc cũng hiện ra như một đám mây đen trên bầu trời. Bodhisatta vô cùng ấn tượng, đã cảm ơn bà. Nữ thần được đồng nhất với Uppalavaṇṇā.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo đã bị một vị chư thiên quở trách trong một khu rừng ở Kosala vì ngửi một bông sen. Trong sự bối rối tột độ, ông đã đi tham vấn Đức Phật, người đã kể cho ông nghe câu chuyện trên. Ja.iv.307ff.
 
 ## Notes

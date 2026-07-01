@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittā 06. A laywoman who was among the chief supporters of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 06. Một nữ cư sĩ nằm trong số những người hộ độ chính của Đức Phật Sikhī. Bv.xxi.22.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "09"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhuvanekabāhu 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 09. Bhuvanekabāhu VII (1521-50 CN). Ông kế vị Vijayabāhu VI. Cv.xcii.4f.
 
 ## Notes

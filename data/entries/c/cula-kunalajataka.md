@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kuṇālajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -33,6 +33,10 @@ The opening words quoted occur at the end of several stories, related by <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kuṇālajātaka (Ja 464). Đối với câu chuyện này, xin tham khảo Kuṇālajātaka (Ja 536).
+
+Những lời mở đầu được trích dẫn xuất hiện ở cuối của một vài câu chuyện, do Kuṇāla kể lại để minh họa sự thay lòng đổi dạ và độc ác của phụ nữ.
+
+Cūḷa Kuṇāla có lẽ là cái tên được đặt cho câu chuyện cuối cùng trong số những câu chuyện này, kể về Piṅgiyānī, vợ của Brahmadatta. Ja.iv.144.
 
 ## Notes

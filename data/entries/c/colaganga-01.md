@@ -5,7 +5,7 @@ base_headword: "Coḷagaṅga"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Coḷagaṅga 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷagaṅga 01. Một thủ lĩnh Damiḷa ở Nam Ấn Độ, bị Laṅkāpura khuất phục (Cv.lxxvi.121). Sau đó ông được đưa lên cai trị vùng Parittikkuṇḍi. Sđd., lxxvii.8.
 
 ## Notes

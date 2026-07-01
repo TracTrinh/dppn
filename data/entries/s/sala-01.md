@@ -5,7 +5,7 @@ base_headword: "Sālā"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sālā 01. A Brahmin village of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của người Bà-la-môn ở Kosala, những cư dân của nó được gọi là Sāleyyakā. Apaṇṇakasutta và Saleyyakasutta đã được thuyết giảng ở đó MN.i.285, 400. Xem thêm Sālāsutta.
 
 ## Notes

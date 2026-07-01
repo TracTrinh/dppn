@@ -5,7 +5,7 @@ base_headword: "Sāmagāmasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāmagāmasutta 02. The Buddha was once staying near the lotus pond at <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một lần nọ, Đức Phật đang ở gần ao sen tại Sāmagāma và vào lúc tối muộn có một vị *Deva* đến viếng thăm. Sau khi đảnh lễ Đức Phật, vị ấy tuyên bố rằng có ba điều dẫn đến sự thất bại của một tỳ-kheo: ưa thích hoạt động thế gian, ưa thích nói chuyện, ưa thích ngủ. Nói xong, vị ấy rời đi. Ngày hôm sau, Đức Phật kể lại cho các tỳ-kheo lời tuyên bố của vị *Deva* và thêm vào ba điều khác dẫn đến sự thất bại: ưa thích tụ tập, nói lời ác ý, kết bạn với người xấu. AN.iii.309f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sakkanamassa Sutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sakkanamassa Sutta 02. Similar to (1). The honour was paid to the Buddha. SN.i.2
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như (1). Sự tôn kính được dành cho Đức Phật. SN.i.235.
 
 ## Notes

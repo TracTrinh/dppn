@@ -5,7 +5,7 @@ base_headword: "Sakkanamassa Sutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sakkanamassa Sutta 03. Similar to (1). The honour was paid to the Saṅgha of mo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như (1). Sự tôn kính được dành cho Tăng đoàn các tỳ-kheo. SN.i.236.
 
 ## Notes

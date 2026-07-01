@@ -5,7 +5,7 @@ base_headword: "Samagga"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samagga 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Pamatta. Một trăm mười lăm *kappa* trước, có tám vị vua mang tên này, là những tiền kiếp của Khaṇḍasumana Thera. Thag­a.i.258.
 
 ## Notes

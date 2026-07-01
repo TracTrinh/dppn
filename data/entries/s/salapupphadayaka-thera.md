@@ -5,7 +5,7 @@ base_headword: "Sālapupphadāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālapupphadāyaka Thera. An *Arahant* (Ap.i.169). He is evidently identical wit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant* (Ap.i.169). Ngài rõ ràng đồng nhất với Ajjuna Thera Thag­a.i.186.
 
 ## Notes

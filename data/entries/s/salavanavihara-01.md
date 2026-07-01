@@ -5,7 +5,7 @@ base_headword: "Sālavāṇavihāra"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālavāṇavihāra 01. One of the eighteen *vihāras* built by King <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong mười tám *vihāra* được xây dựng bởi vua Dhātusena. Cv.xxxviii.49.
 
 ## Notes

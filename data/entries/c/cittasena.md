@@ -5,7 +5,7 @@ base_headword: "Cittasena"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cittasena. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittasena. Một Gandhabba có mặt tại buổi thuyết giảng Mahā Samayasutta (DN.ii.258). Ở nơi khác (DN.iii.204), ông được nhắc đến như một thủ lĩnh Yakkha nên được những người theo Đức Phật khẩn cầu khi bị các ác linh quấy rối.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Janakajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Janakajātaka, <span class="dppn-term dppn-term-t15" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Janakajātaka, Cūla Janakajātaka (số 52). Các câu chuyện, cả quá khứ và hiện tại, đều giống như trong Mahā Janakajātaka (*xem mục từ này*). Ja.i.268
 
 ## Notes

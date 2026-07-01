@@ -5,7 +5,7 @@ base_headword: "Sakkāyasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakkāyasutta 01. The Buddha teaches the monks about *sakkāya*, its arising, it
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật giảng dạy cho các tỳ-kheo về *sakkāya*, sự sinh khởi, sự đoạn diệt của nó, và con đường dẫn đến điều đó. SN.iii.159.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhūrisutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhūrisutta. Four conditions which, if developed, lead to extensive insight. SN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūrisutta. Bốn điều kiện, nếu được tu tập, sẽ dẫn đến sự tuệ giác sâu rộng. SN.v.412.
 
 ## Notes

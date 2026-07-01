@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -33,6 +33,8 @@ Ninety-one *kappas* ago she was a *kinnarī* on the banks of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmā Therī. Bà thuộc về một gia đình ở Kosambī và đã xuất gia trong sự đau buồn khi mất đi người bạn của mình, Sāmāvatī. Trong hai mươi lăm năm, bà không thể đạt được sự tự chủ, cho đến khi, vào lúc tuổi già, bà được nghe một bài giảng và đắc quả vị *Arahant*.
+
+Chín mươi mốt *kappa* trước, bà là một *kinnarī* trên bờ sông Candabhāga. Một ngày nọ, trong khi đang vui chơi cùng với những người bạn của mình, bà nhìn thấy Đức Phật Vipassī và tôn kính ngài bằng những bông hoa *salaḷa* (Thīg.39-41; Thīg­a.45f). Bà rõ ràng đồng nhất với Salaḷapupphikā của Apadāna. Ap.ii.524.
 
 ## Notes

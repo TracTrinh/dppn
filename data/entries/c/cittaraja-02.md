@@ -5,7 +5,7 @@ base_headword: "Cittarāja"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Cittarāja 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittarāja 02. Một Yakkha được Paṇḍukābhaya tôn vinh bằng cách cho ông một nơi định cư ở phía hạ lưu của hồ chứa nước Abhaya. Vào những ngày lễ hội, Yakkha này ngồi ở một chỗ bên cạnh nhà vua. Mahā Vaṁsa (xi.4, 84, 87, 104) nói rằng Cittarāja là hóa thân của người chăn gia súc Citta (7), người đã cứu mạng Paṇḍukābhaya, nhưng có khả năng hơn là Cittarāja được đề cập ở đây đồng nhất với Cittarāja (1), và rằng lễ hội đề cập đến lễ hội Kattika.
 
 ## Notes

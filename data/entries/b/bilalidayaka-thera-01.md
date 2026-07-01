@@ -5,7 +5,7 @@ base_headword: "Biḷālidāyaka Thera"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Biḷālidāyaka Thera 01. An *Arahant*. In the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷālidāyaka Thera 01. Một *Arahant*. Trong thời của Padumuttara Buddha, ngài là một đạo sĩ ở Himālaya và đã cúng dường cho Đức Phật một vài củ *biḷāli*. Năm mươi tư *kappa* trước, ngài là một vị vua tên là Sumekhali (Ap.i.145) (*v.l.* Sumelaya). Rất có thể ngài chính là Trưởng lão Kosalavihārī. Thag­a.i.134f.
 
 ## Notes

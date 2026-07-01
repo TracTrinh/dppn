@@ -5,7 +5,7 @@ base_headword: "Sakkasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakkasaṁyutta. The eleventh section of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần thứ mười một của Saṁyuttanikāya (SN.i.216-42). Phần này chứa hai mươi lăm bài giảng ngắn liên quan đến Sakka (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhīmarāja"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhīmarāja. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmarāja. Một vương tử người Kāliṅga của Sīhapura, anh trai của Tilokasundarī. Ông đến Ceylon và Vijayabāhu I đã chu cấp cho ông một cách thích đáng. Cv.lix.46.
 
 ## Notes

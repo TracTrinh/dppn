@@ -5,7 +5,7 @@ base_headword: "Sakkasenāpati"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Sakkasenāpati. An office granted by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một chức vụ được Kassapa V ban cho con trai mình, người được giao nhiệm vụ chăm sóc *Dhammapotthaka* (?). Vợ của Kassapa là Devā. Vị hoàng tử sau đó được cử sang Ấn Độ để giúp vua Paṇḍu chống lại vua Coḷa. Tại đó ông đã qua đời vì bệnh dịch *upasagga*. Cv.lii.52, 62, 72ff.
 
 ## Notes

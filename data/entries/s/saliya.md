@@ -5,7 +5,7 @@ base_headword: "Sāliyā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāliyā. One of the chief women supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nữ thí chủ hàng đầu của Đức Phật Dhammadassī. Bv.xvi.20.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhojakagiri"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhojakagiri. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojakagiri. Một *vihāra* ở Kāliṅga, do Asoka xây dựng, với chi phí một crore, cho người anh em của ông là Tissa (Ekavihārika). Thag­a.i.506, 507.
 
 ## Notes

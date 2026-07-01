@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasutta"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇabrāhmaṇasutta 06. Recluses and Brahmins who have understood fully the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những sa-môn và Bà-la-môn đã thấu hiểu trọn vẹn năm căn (*indriyāni*) là những người xứng đáng được tôn vinh. SN.v.195.
 
 ## Notes

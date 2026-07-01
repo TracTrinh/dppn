@@ -5,7 +5,7 @@ base_headword: "Bhujaṅgadvāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhujaṅgadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhujaṅgadvāra. Một trong các cổng của Pulatthipura. Cv.lxxiii.162.
 
 ## Notes

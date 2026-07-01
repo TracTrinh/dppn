@@ -5,7 +5,7 @@ base_headword: "Sakkāyasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakkāyasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta nói với Jambukhādaka rằng *sakkāya* là năm thủ uẩn; Bát Thánh đạo dẫn đến sự thấu hiểu nó. SN.iv.259.
 
 ## Notes

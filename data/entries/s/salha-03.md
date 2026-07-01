@@ -5,7 +5,7 @@ base_headword: "Sāḷha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāḷha 03. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tỳ-kheo của Ñātikā. Đức Phật đã tuyên bố rằng ngài viên tịch như một vị *Arahant*. DN.ii.191; SN.v.356.
 
 ## Notes

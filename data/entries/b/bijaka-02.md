@@ -5,7 +5,7 @@ base_headword: "Bījaka"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bījaka 02. The son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bījaka 02. Con trai của Sudinna Kalandakaputta với người vợ trong những ngày còn là cư sĩ của ông. Cậu được thụ thai sau khi Sudinna đã xuất gia. Vợ của ông đã đến gặp ông trong kỳ kinh nguyệt của cô ấy và cầu xin ông ban cho một đứa con (*bījaka*). Vì giới luật cấm hành dâm khi đó chưa được ban hành, Sudinna đã nhượng bộ trước những lời nài nỉ của cô, qua đó dẫn đến việc ra đời giới luật Pārājikā đầu tiên. Đứa con trai được gọi là Bījaka, và do đó Sudinna được gọi là Bījakapitā và người mẹ là Bījakamātā. Về sau cả Bījaka và mẹ của cậu đều xuất gia và trở thành những *Arahant*. Vin.iii.17-19; Vin-a.i.215f.
 
 ## Notes

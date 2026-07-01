@@ -5,7 +5,7 @@ base_headword: "Cittagutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cittagutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittagutta 01. Trưởng lão Cittagutta. Một bậc *Arahant*. Ngài sống tại Bodhimaṇḍavihāra, và đã có mặt, cùng với ba mươi nghìn vị tỳ-kheo, tại lễ đặt nền móng cho Mahā Thūpa. Mhv.xxxix.41; Dpv.xix.6.
 
 ## Notes

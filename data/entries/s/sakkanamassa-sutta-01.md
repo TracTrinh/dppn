@@ -5,7 +5,7 @@ base_headword: "Sakkanamassa Sutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkanamassa Sutta 01. The Buddha tells the monks of how <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật kể cho các tỳ-kheo nghe về việc Sakka đã từng ra lệnh cho Mātali mang cỗ xe đến để ngài có thể đi thăm các khu vườn của mình. Cỗ xe được mang đến, và trước khi bước lên xe, Sakka đã chắp tay và đảnh lễ các phương. Khi được Mātali hỏi ngài đang tôn vinh ai như vậy, Sakka trả lời rằng ngài đảnh lễ tất cả các tỳ-kheo và cư sĩ sống cuộc đời đạo hạnh. SN.i.234.
 
 ## Notes

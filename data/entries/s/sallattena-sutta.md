@@ -5,7 +5,7 @@ base_headword: "Sallattena Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sallattena Sutta. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Sallena Sutta. Vị Thánh đệ tử không khóc lóc, cũng không buồn phiền, khi bị nỗi đau hành hạ, bởi vì, mặc dù bị tổn thương về thể xác, nhưng về mặt tinh thần ngài được tự do. Ngài giống như một người chỉ bị một mũi tên xuyên qua. SN.iv.207f.
 
 ## Notes

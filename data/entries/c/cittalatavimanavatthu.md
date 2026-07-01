@@ -5,7 +5,7 @@ base_headword: "Cittalatāvimānavatthu"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittalatāvimānavatthu. The story of a poor man who looked after his parents, r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittalatāvimānavatthu. Câu chuyện về một người đàn ông nghèo đã chăm sóc cha mẹ mình, từ chối kết hôn, và tham gia vào nhiều hành động đạo đức khác nhau. Sau khi qua đời, ông được tái sinh vào một *vimāna* mười hai do-tuần ở Tāvatiṁsa. Vv.vii.1; Vv-a.299f.
 
 ## Notes

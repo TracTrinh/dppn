@@ -5,7 +5,7 @@ base_headword: "Biḷārikosiya"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Biḷārikosiya. A rich miser whom <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷārikosiya. Một kẻ keo kiệt giàu có được Sakka hóa độ thành một người cúng dường rộng lượng. Xem Biḷārikosiyajātaka (Ja 450).
 
 ## Notes

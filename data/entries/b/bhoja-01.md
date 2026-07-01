@@ -5,7 +5,7 @@ base_headword: "Bhoja"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhoja 01. A Brahmin, one of the eight who read the auspicious marks on the Buddh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhoja 01. Một vị Bà-la-môn, một trong tám người đã xem các tướng tốt trên thân của Đức Phật vào ngày thứ năm sau khi Ngài đản sinh. Ja.i.56; trong Milinda (p.236), ông được gọi là Subhoja.
 
 ## Notes

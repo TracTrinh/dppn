@@ -5,7 +5,7 @@ base_headword: "Cūḷa Māluṅkyasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Māluṅkyasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Māluṅkyasutta, Cūla Māluṅkyasutta. Trưởng lão Māluṅkyaputta cảm thấy không hài lòng, vì cho rằng Đức Phật đã không giảng giải cho ngài những suy đoán khác nhau liên quan đến sự sống, cái chết và bản chất của thế giới. Ngài đến thăm Đức Phật tại Jetavana và nói với Ngài về sự thất vọng của mình. Đức Phật chỉ ra cho ngài rằng không có lời hứa nào được đưa ra về việc làm sáng tỏ những vấn đề như vậy và bảo ngài rằng sẽ phù hợp hơn nếu ngài suy nghiệm bằng cách nỗ lực vì sự giải thoát. Māluṅkyaputta đã nhận ra sai lầm trong đường lối của mình. MN.i.426ff.
 
 ## Notes

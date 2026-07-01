@@ -5,7 +5,7 @@ base_headword: "Bhīmasena"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhīmasena 01. A weaver; see the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmasena 01. Một thợ dệt; xem Bhīmasenajātaka (Ja 80).
 
 ## Notes

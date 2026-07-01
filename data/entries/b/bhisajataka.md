@@ -5,7 +5,7 @@ base_headword: "Bhisajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -48,6 +48,10 @@ The *Bhisacariyā* is included in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisajātaka (Ja 488). Một lần nọ Bodhisatta sinh ra trong một gia đình có tám mươi crore. Ông được gọi là Mahā Kañcana và có sáu người em trai (người lớn tuổi nhất trong số họ là Upakañcana) và một người em gái, Kañcanadevī. Không ai trong số họ chịu kết hôn, và khi cha mẹ qua đời, họ đã phân phát hết tài sản của mình, và cùng với một người hầu nam và một người hầu nữ, họ đã đi vào Himālaya và trở thành những đạo sĩ, hái trái cây rừng làm thức ăn. Sau đó, họ thống nhất rằng Mahā Kañcana, Kañcanadevī và người hầu nữ sẽ được miễn nhiệm vụ hái trái cây và những người khác sẽ lần lượt làm việc này. Mỗi ngày trái cây hái được chia thành các phần và cồng được đánh lên. Các đạo sĩ sau đó sẽ lần lượt đến và mỗi người lấy phần của mình. Nhờ uy đức từ những giới hạnh của họ, ngai vàng của Sakka đã rung chuyển. Để thử thách họ, trong ba ngày liên tiếp ngài đã khiến phần của Mahā Kañcana biến mất. Vào ngày thứ ba, Mahā Kañcana triệu tập những người khác và hỏi lý do cho việc này. Mỗi người đều khẳng định sự vô tội của mình và thề độc rằng những lời nguyền rủa nặng nề sẽ giáng xuống họ nếu bất kỳ ai phạm tội ăn cắp dù chỉ là một cọng ngó sen (*bhisa*). Trong mỗi trường hợp, hình phạt sẽ là trong kiếp sau họ sẽ có đất đai, tài sản và những vướng bận khác – điều mà theo quan điểm của một đạo sĩ, sẽ là một điều đau buồn. Tại cuộc hội họp này cũng có mặt vị thần cai quản khu rừng, một con voi trốn thoát khỏi cọc buộc, một con khỉ từng thuộc về một người thổi sáo dụ rắn, và Sakka, người vẫn đang tàng hình. Vào cuối những lời khẳng định vô tội của họ, Sakka đã hỏi Mahā Kañcana tại sao tất cả họ lại quá sợ hãi tài sản; khi nghe lời giải thích, ngài vô cùng xúc động và xin các đạo sĩ tha thứ cho trò lừa của mình.
+
+Câu chuyện này được kể lại trong cùng hoàn cảnh với Kusajātaka (Ja 531, *q.v.*). Sāriputta, Moggallāna, Puṇṇa, Kassapa, Anuruddha và Ānanda là các em trai của Bodhisatta, Uppalavaṇṇā là em gái, Khujjuttarā là người hầu nữ, Citta *gahapati* là người hầu nam, Sātāgiri là vị thần rừng, Pārileyya là con voi, Madhuvāseṭṭha là con khỉ và Kāludāyi, Sakka (Ja.iv.304-14).
+
+Bản *Bhisacariyā* được bao gồm trong Cariyāpiṭaka (Ja.iii.4), và câu chuyện này cũng được tìm thấy trong *Jātakamālā*, No.19.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhanuggahajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -34,6 +34,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhanuggahajātaka, Culla Dhanuggahajātaka (Ja 374). Một nam thanh niên Bà-la-môn ở Benares đã đến Takkasilā và trở nên rất điêu luyện về thuật bắn cung. Thầy của anh đã gả con gái cho anh và anh được biết đến với tên gọi Cūḷa Dhanuggaha. Trên đường cùng vợ đến Benares, anh đã giết chết một con voi hung dữ, và sau đó khi chạm trán với năm mươi tên cướp, anh đã tiêu diệt tất cả ngoại trừ tên thủ lĩnh. Anh đã tóm lấy tên thủ lĩnh, ném hắn xuống đất và yêu cầu vợ đưa kiếm cho mình. Nhưng người vợ, nảy sinh lòng ham muốn với tên cướp, đã đặt chuôi kiếm vào tay tên cướp, và hắn lập tức kết liễu Cūḷa Dhanuggaha. Trong khi bỏ đi cùng với người phụ nữ, tên cướp, ngẫm nghĩ về sự phản trắc của ả, đã quyết định sẽ rời bỏ ả. Khi họ đến một con sông, hắn để ả lại trên bờ, và mang các đồ trang sức của ả qua sông với lý do giữ chúng cho an toàn rồi bỏ rơi ả. Bodhisatta, tái sinh làm Sakka, quan sát điều này và muốn làm bẽ mặt người phụ nữ, đã xuất hiện trước mặt ả dưới hình hài một con chó rừng, cùng với Mātali là một con cá và Pañcasikha là một con chim. Con chó rừng ngậm một miếng thịt trong miệng, nhưng khi con cá nhảy lên nó đã bỏ miếng thịt để bắt cá, nhưng rồi chỉ thấy con chim bay đi cùng với miếng thịt đó. Người phụ nữ đã nhìn thấy và hiểu ra. Câu chuyện được kể lại liên quan đến một vị tỳ-kheo muốn rời khỏi Tăng đoàn vì người vợ cũ của mình. Vị tỳ-kheo được đồng nhất với Cūḷa Dhanuggaha và người vợ của ngài với người phụ nữ trong câu chuyện (Ja.iii.219-24).
+
+Theo Dhammapada Commentary (Dhp­a.iv.65ff), câu chuyện được kể lại liên quan đến một vị tỳ-kheo trẻ, khi đến một ngôi nhà để lấy nước, đã nhìn thấy một phụ nữ trẻ và phải lòng cô. Cô ấy đã khuyến khích sự chú ý của ngài, và vị tỳ-kheo, vì khao khát cô, đã muốn rời khỏi Tăng đoàn.
 
 ## Notes

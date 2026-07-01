@@ -5,7 +5,7 @@ base_headword: "Bhogasamharapetavatthu"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhogasamharapetavatthu. The story of a woman of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhogasamharapetavatthu. Câu chuyện về một người phụ nữ ở Rājagaha, người đã kiếm tiền bằng cách bán đồ với các phương tiện đong lường gian dối, đã bị tái sinh trong thế giới *Peta* (ngạ quỷ). Pv.iv.14; Pv-a.278f.
 
 ## Notes

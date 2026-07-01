@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhammapāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Dhammapāla, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhammapāla, Cūla Dhammapāla. Đệ tử cao cấp của Ānanda Vanaratana và là tác giả của Saccasaṅkhepa (Gv.60, 70; PLC.113, 203f) và của một *anuṭīkā* cho *Abhidhammamūlaṭīkā*. Ibid., 211f.
 
 ## Notes

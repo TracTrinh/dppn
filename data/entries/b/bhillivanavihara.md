@@ -5,7 +5,7 @@ base_headword: "Bhillivānavihāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhillivānavihāra. A monastery in Ceylon built by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhillivānavihāra. Một tu viện ở Ceylon do Dhātusena xây dựng. Cv.xxxviii.50.
 
 ## Notes

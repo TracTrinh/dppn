@@ -5,7 +5,7 @@ base_headword: "Bhīmaratha"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,6 @@ Bhīmaratha 01. One of the vassal kings of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīmaratha 01. Một trong những chư hầu của Daṇḍakī đã phạm tội với Kisavaccha. Khi Daṇḍakī và vương quốc của ông ta bị tiêu diệt, Kāliṅga, Aṭṭhaka và Bhīmaratha, với sự đồng hành của Sakka, đã tìm đến Sarabhaṅga. Sarabhaṅga đã thuyết giảng cho họ và họ đã thoát khỏi sự đắm say dục lạc. Ja.v.135, 137, 149.
 
 ## Notes

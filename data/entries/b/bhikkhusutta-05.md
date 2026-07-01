@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 05. The Buddha agrees with a group of monks that if when questioned
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 05. Đức Phật đồng tình với một nhóm các tỳ-kheo rằng nếu khi bị những người thuộc các giáo phái khác hỏi về mục đích đời sống phạm hạnh của họ, họ trả lời rằng đó là sự liễu tri trọn vẹn về *dukkha*, câu trả lời của họ là đúng; Ngài tiếp tục nói cho họ biết câu trả lời của họ nên là gì nếu bị hỏi *dukkha* là gì. SN.iv.50f.
 
 ## Notes

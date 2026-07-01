@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gaṇa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Gaṇa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Gaṇa, Cūla Gaṇa. Một trong ba tòa nhà chính của Upāsikāvihāra, do Devānampiyatissa xây dựng. Sau này nó được gọi là Kūpayaṭṭhiṭhapitaghara. Mhv.xix.68f.; Mhv­ṭ.409.
 
 ## Notes

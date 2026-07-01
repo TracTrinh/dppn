@@ -5,7 +5,7 @@ base_headword: "Sakkasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakkasutta 03. A series of four conversations which <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một loạt bốn cuộc trò chuyện mà Sakka và đoàn tùy tùng của ngài đã có với Moggallāna, tại Jetavana, về nhiều chủ đề đơn giản khác nhau, chẳng hạn như quy y Đức Phật, có niềm tin kiên định nơi ngài, v.v. SN.iv.269ff.
 
 ## Notes

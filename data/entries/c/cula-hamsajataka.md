@@ -5,7 +5,7 @@ base_headword: "Cūḷa Haṁsajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -38,6 +38,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Haṁsajātaka, Culla Haṁsajātaka (Ja 533). Bodhisatta từng sinh ra là Dhataraṭṭha, vua của chín mươi nghìn con ngỗng vàng sống ở Cittakūṭa. Một ngày nọ, một số con trong bầy của ngài đã tình cờ phát hiện ra Hồ Mānusiya, gần nơi con người thường lui tới, và nhận thấy đó là một bãi kiếm ăn phong phú, nên đã thuyết phục ngài dù ngài rất miễn cưỡng đi đến đó cùng với chúng. Nhưng ngay khi vừa đáp xuống, ngài đã bị mắc vào thòng lọng của một người bẫy chim và nhận thấy không thể trốn thoát. Ngài đợi cho đến khi bầy ngỗng ăn xong, rồi mới cất tiếng kêu báo động, khiến tất cả ngỗng đều bay đi ngoại trừ vị tổng tư lệnh của ngài, Sumukha. Khi người bẫy chim đến, Sumukha đã đề nghị hiến mạng sống của mình thay cho vua của mình, và do đó đã làm mềm lòng người bẫy chim. Người này đã thả Dhataraṭṭha và chăm sóc các vết thương của ngài, và nhờ lòng từ thiện lớn lao của người đàn ông, vị vua ngỗng đã hoàn toàn bình phục trở lại. Khi người bẫy chim đề nghị rằng họ nên bay về nhà, hai con ngỗng khăng khăng rằng họ phải được đưa đến chỗ Sakula, vị vua của vùng đất này, đất nước Mahiṁsaka, để họ có thể mang lại cho người bẫy chim một phần thưởng xứng đáng. Khi nhà vua nghe câu chuyện, ông đã ban cho người bẫy chim một ngôi làng mang lại một trăm nghìn thu nhập hàng năm, một cỗ xe và một kho vàng lớn. Dhataraṭṭha đã thuyết pháp về luật đạo đức cho nhà vua và, sau khi được tôn vinh trọng thể, đã trở về Cittakūṭa.
+
+Câu chuyện được kể lại liên quan đến nỗ lực của Ānanda muốn hiến mạng sống của mình để cứu Đức Phật khỏi bị giết bởi con voi Nālāgiri (*xem mục từ này*). Channa được đồng nhất với người bẫy chim, Sāriputta với nhà vua, và Ānanda với Sumukha. Ja.v.333-.54; Dhp­a.i.119; cf. Mahā Haṁsajātaka (Ja 534) và Haṁsajātaka (Ja 502).
 
 ## Notes

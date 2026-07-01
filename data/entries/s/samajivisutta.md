@@ -5,7 +5,7 @@ base_headword: "Samajīvīsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samajīvīsutta. The Buddha visits the house of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật đến thăm nhà của Nakulapitā, trong khi đang ở tại Bhesakalāvana trên Suṁsumāragiri. Cả Nakulapitā và vợ của ông đều tuyên bố sự chung thủy của họ đối với nhau và mong muốn của họ được làm vợ chồng trong những kiếp sống tiếp theo. Điều đó, Đức Phật nói, là có thể nếu họ tương đồng về đức tin, giới hạnh, sự hào phóng và trí tuệ. AN.ii.61f.
 
 ## Notes

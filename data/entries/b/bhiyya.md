@@ -5,7 +5,7 @@ base_headword: "Bhiyya"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhiyya. One of the chief lay patrons of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhiyya. Một trong những nam thí chủ cư sĩ chính của Paduma Buddha. Bv.ix.23.
 
 ## Notes

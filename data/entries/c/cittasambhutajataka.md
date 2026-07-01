@@ -5,7 +5,7 @@ base_headword: "Cittasambhūtajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -39,6 +39,12 @@ In their next birth they became does and in a subsequent birth ospreys. They wer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittasambhūtajātaka (Ja 498). Bodhisatta từng sinh ra là một *Caṇḍāla* tại Ujjenī trong vương quốc Avanti. Ngài tên là Citta và em trai ngài là Sambhūta. Một ngày nọ, khi họ đang quét dọn bên ngoài, hai người phụ nữ giàu có trên đường đến công viên đã chú ý đến họ và quay lại. Những người tùy tùng của họ, thất vọng vì mất một chuyến dã ngoại, đã đánh đập hai người *Caṇḍāla*.
+
+Sau đó, hai anh em đi đến Takkasilā để học tập. Citta trở nên rất thành thạo, và một ngày nọ, thay mặt thầy của mình, được cử đến nhà của một người dân làng đã mời người thầy cùng các học trò của ông. Nhưng trong khi ở đó, trong một khoảnh khắc quên lãng, hai anh em đã sử dụng phương ngữ *Caṇḍāla*, và do đó đã tiết lộ đẳng cấp của mình, và bị đuổi khỏi Takkasilā.
+
+Trong lần tái sinh tiếp theo, họ trở thành những con nai cái và trong một lần sinh sau đó là những con chim ưng biển. Họ luôn ở cùng nhau và luôn gặp cái chết cùng nhau. Về sau, Citta sinh ra là con trai của vị tư tế ở Kosambī, và Sambhūta là con trai của vua nước Uttarapañcāla. Citta, trở thành một tu sĩ khổ hạnh ở tuổi mười sáu, đã nhớ lại các tiền kiếp của mình. Ông chờ cho đến khi Sambhūta đã trị vì được năm mươi năm, và biết rằng ông ta cũng có chút hồi tưởng về những kiếp sống trước đây của mình, đã dạy một bài kệ cho một thanh niên và cử anh ta đến ngâm bài kệ đó trước mặt nhà vua. Sambhūta nghe bài kệ, nhớ đến anh trai của mình, và, sau khi dò hỏi, đã đến thăm Citta, lúc bấy giờ đã đi đến công viên hoàng gia. Tại đó Citta đã ban lời khuyên cho ông ta, và không lâu sau Sambhūta đã từ bỏ thế gian. Sau khi qua đời, cả hai đều được tái sinh vào cõi Brahma.
+
+Ānanda được đồng nhất với Sambhūta. Câu chuyện được kể lại liên quan đến hai vị tỳ-kheo, đồng đạo của Mahā Kassapa, những người rất tận tụy với nhau. Ja.iv.390-401.
 
 ## Notes

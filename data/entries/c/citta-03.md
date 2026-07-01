@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Citta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 03. Cittaka. Một con nai, anh trai của Rohanta, tức Bodhisatta. Nó được đồng nhất với Ānanda. Để biết chi tiết, xem Rohantamigajātaka (Ja 501).
 
 ## Notes

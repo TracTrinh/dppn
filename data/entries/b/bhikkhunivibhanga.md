@@ -5,7 +5,7 @@ base_headword: "Bhikkhunīvibhaṅga"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhikkhunīvibhaṅga. The second section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhunīvibhaṅga. Phần thứ hai của Suttavibhaṅga thuộc Vinayapiṭaka, cũng được gọi là Cūḷa Vibhaṅga.
 
 ## Notes

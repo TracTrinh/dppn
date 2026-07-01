@@ -5,7 +5,7 @@ base_headword: "Bhūmija Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -30,6 +30,6 @@ Bhūmija Thera. Uncle of Prince <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūmija Thera. Chú (hoặc bác) của Vương tử Jayasena. Ông là bạn của Sambhūta (*q.v.*), và, khi vị này từ bỏ gia đình, ông được đồng hành bởi những người bạn của mình là Bhūmija, Jeyyasena và Abhirādhana, tất cả bọn họ đều đã gia nhập Tăng đoàn (Saṅgha) (MN.iii.138ff). Xem Bhūmijasutta.
 
 ## Notes

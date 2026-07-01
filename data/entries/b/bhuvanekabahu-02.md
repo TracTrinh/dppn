@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhuvanekabāhu 02. The younger son of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 02. Người con trai thứ của Vijayabāhu III. Khi Parakkamabāhu II lên ngôi, Bhuvanekabāhu được phong làm Phó vương (*Yuvarāja*). Theo lệnh của nhà vua, ông đã học *Tipiṭaka*, mà ông đã trở nên thông thạo, và sau đó đã hướng dẫn lại cho các vị Trưởng lão. Cv.lxxxi.68; lxxxii.4; lxxxiv.29. Xem thêm Bhuvanekabāhupariveṇa.
 
 ## Notes

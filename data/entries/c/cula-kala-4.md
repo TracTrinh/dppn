@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kāḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Kāḷa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kāḷa, Cūla Kāḷa 03. Một cư sĩ đệ tử của Đức Phật. Một lần trên đường trở về Sāvatthī, sau khi dành cả đêm để nghe thuyết Pháp (*Dhamma*), khi đó những tên trộm, đang chạy trốn khỏi những kẻ truy đuổi, đã ném đồ ăn cắp của chúng ra trước mặt ông và biến mất. Khi ông bị buộc tội ăn cắp, một vài phụ nữ xách nước, những người đã chứng kiến sự việc trên đường đi lấy nước, đã làm chứng để ông được thả. Dhp­a.iii.157.
 
 ## Notes

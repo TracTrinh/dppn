@@ -5,7 +5,7 @@ base_headword: "Cittalatāvagga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittalatāvagga. The second chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittalatāvagga. Chương thứ hai của Vimānavatthu.
 
 ## Notes

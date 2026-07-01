@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "08"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 08. It is by cultivating the four *iddhipādas* that a monk destroy
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 08. Chính nhờ tu tập bốn *iddhipādas* mà một vị tỳ-kheo đoạn tận các *āsavas* (lậu hoặc). SN.v.284.
 
 ## Notes

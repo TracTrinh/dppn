@@ -5,7 +5,7 @@ base_headword: "Sakkāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakkāsutta 02. A large number of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một số lượng lớn người Sākiyan đến thăm Đức Phật tại Nigrodhārāma, và ngài đã nhấn mạnh cho họ thấy lợi ích rất lớn của việc giữ gìn ngày trai giới một cách tốt đẹp. AN.v.83.
 
 ## Notes

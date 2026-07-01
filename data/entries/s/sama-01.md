@@ -5,7 +5,7 @@ base_headword: "Sāma"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāma 01. The king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị vua của Benares (Ja.ii.98) trong Giridantajātaka (Ja 184).
 
 ## Notes

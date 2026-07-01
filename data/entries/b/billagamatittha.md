@@ -5,7 +5,7 @@ base_headword: "Billagāmatittha"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Billagāmatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Billagāmatittha. Một bến sông trên sông Mahā Vālukagaṅgā, được đề cập trong tường thuật về những chiến dịch của Parakkamabāhu I. Cv.lxxii.48,122.
 
 ## Notes

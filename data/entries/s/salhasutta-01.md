@@ -5,7 +5,7 @@ base_headword: "Sāḷhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāḷhasutta 01. Records a conversation between <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghi lại một cuộc trò chuyện giữa Nandaka Thera, Sāḷha Migāranattā, và Rohaṇa Pekkhuṇiyanattā. AN.i.193f.
 
 ## Notes

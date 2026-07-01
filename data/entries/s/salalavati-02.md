@@ -5,7 +5,7 @@ base_headword: "Salaḷavatī"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Salaḷavatī 02. A canal branching off from the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con kênh phân nhánh từ cống Kīḷakaruyyāna của Parakamasamudda. Cv.lxxix.43.
 
 ## Notes

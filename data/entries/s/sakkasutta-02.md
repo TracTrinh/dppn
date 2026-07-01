@@ -5,7 +5,7 @@ base_headword: "Sakkasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sakkasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sakka, vua của chư thiên, đến thăm Đức Phật tại Gijjhakūṭa và hỏi ngài tại sao chỉ có một số chúng sinh được hoàn toàn giải thoát ngay trong đời sống này. Bởi vì sự chấp thủ, Đức Phật trả lời. SN.iv.101.
 
 ## Notes

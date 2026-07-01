@@ -5,7 +5,7 @@ base_headword: "Bhūmiya"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhūmiya. A king of fifteen *kappas* ago; a previous birth of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūmiya. Một vị vua vào mười lăm *kappa* trước; một tiền kiếp của Nāgasamāla. Ap.i.119.
 
 ## Notes

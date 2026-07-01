@@ -5,7 +5,7 @@ base_headword: "Sāmadevī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāmadevī. A favourite of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một sủng phi của Vua Bhātika xứ Ceylon. Trong một dịp nọ, một số lượng lớn nam giới đã bị buộc tội trước nhà vua vì đã ăn thịt bò. Ông đã phạt tiền, nhưng vì họ không thể nộp phạt, ông đã chỉ định họ làm công việc quét rác cho cung điện. Một trong số họ có một cô con gái xinh đẹp, Sāmadevī, người mà nhà vua thích và đưa vào hậu cung của mình. Nhờ bà, những người thân của bà cũng được sống hạnh phúc. Vibh­a.440.
 
 ## Notes

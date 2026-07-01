@@ -5,7 +5,7 @@ base_headword: "Corasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -23,6 +23,6 @@ Corasutta 02. There are eight things which lead to speedy disaster in the case o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Corasutta 02. Có tám điều dẫn đến thảm họa nhanh chóng trong trường hợp của một tên cướp – y tấn công những người không đánh trả, lấy đi hoàn toàn mọi thứ, giết hại phụ nữ, quyến rũ các thiếu nữ, cướp đoạt các sa-môn, cướp bóc kho bạc của nhà vua, thực hiện các hoạt động của mình ở quá gần, và không khéo léo trong việc cất giấu của cải kiếm được (AN.iv.339).
 
 ## Notes

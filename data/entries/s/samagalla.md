@@ -5,7 +5,7 @@ base_headword: "Sāmagalla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sāmagalla. A village in Ceylon (Mhv.xxxiii.52 f). At the time of the compilatio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon (Mhv.xxxiii.52 f). Vào thời điểm biên soạn Mahā Vaṁsaṭīkā (Mhv­ṭ. 616), nó được gọi là Moragalla. Tên đầy đủ của nó là Mātuvelaṅga Sāmagalla. Nó nằm ở xứ Malaya, và Vaṭṭagāmaṇī Abhaya đã sống ở đó trong một thời gian lưu đày của ông tại nhà của Tanasīva.
 
 ## Notes

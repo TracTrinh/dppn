@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāmā 03. A courtesan of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một kỹ nữ của Benares; để biết câu chuyện của cô, xem Kaṇaverajātaka (Ja 318, Ja.iii.59ff).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Billaphaliya Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Billaphaliya Thera. An *Arahant*. He was an ascetic living on the banks of the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Billaphaliya Thera. Một *Arahant*. Ngài là một đạo sĩ sống trên bờ sông Candabhāgā trong thời của Kakusandha Buddha. Một ngày nọ, ngài đã dâng cúng cho Đức Phật một quả *billa* (quả táo voi) hái từ cái cây mọc trong khu rừng của ngài. Ap.ii.397.
 
 ## Notes

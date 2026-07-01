@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "07"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhuvanekabāhu 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 07. Bhuvanekabāhu V (1360-91 CN). Ông trị vì tại Jayavaḍḍhanakoṭṭa. Trong số những hành động đạo đức khác, ông đã làm một tháp đựng xá-lợi rất tốn kém cho Xá-lợi Răng. Cv.xci.9ff.
 
 ## Notes

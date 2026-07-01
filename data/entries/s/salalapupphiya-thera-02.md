@@ -5,7 +5,7 @@ base_headword: "Salaḷapupphiya Thera"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Salaḷapupphiya Thera 02. The story is identical with that in (1) Ap.i.289.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện giống hệt với trong (1) Ap.i.289.
 
 ## Notes

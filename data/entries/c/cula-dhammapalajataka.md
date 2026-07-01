@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhammapālajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -37,6 +37,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhammapālajātaka, Culla Dhammapālajātaka (Ja 358). Một lần Bodhisatta sinh ra là Dhammapāla, con trai của Mahā Patāpa, vua xứ Benares và vương hậu của ông, Candā. Một ngày nọ Candā đang chơi với đứa con trai bảy tháng tuổi của mình và quá mải mê với đứa bé đến nỗi, khi nhà vua bước vào phòng, bà đã quên đứng lên.
+
+Điều này đã khơi dậy sự ghen tuông của nhà vua, và ông đã cho gọi đao phủ, sai chặt tay chân và đầu của vị vương tử, rồi dùng gươm chém quanh cơ thể cậu bé "như thể bằng một vòng hoa." Ông không đoái hoài gì đến những lời than khóc của Candā, và bà, trong nỗi đau buồn tột độ, đã ngã gục và chết vì tan nát cõi lòng. Ngọn lửa bốc lên từ Avīci, và quấn quanh Mahā Patāpa, "như thể bằng một bộ y phục len," nhấn chìm ông vào tầng địa ngục sâu nhất.
+
+Câu chuyện được kể lại liên quan đến những nỗ lực của Devadatta nhằm giết hại Đức Phật. Devadatta là Mahā Patāpa và Mahā Pajāpatī là Candā (Ja.iii.177-82). Jātaka này thường được trích dẫn để minh họa cách thức sân hận, một khi đã khởi lên, thì rất khó để kiểm soát (e.g., Ja.iv.11; v.113).
 
 ## Notes

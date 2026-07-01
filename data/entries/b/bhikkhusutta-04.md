@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -23,6 +23,6 @@ Bhikkhusutta 04. Ignorance consists in ignorance of the nature of the body, its 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 04. Vô minh bao gồm sự không biết về bản chất của thân, sự sinh khởi của nó, sự đoạn diệt của nó và con đường dẫn đến điều đó; trí tuệ là trí tuệ liên quan đến những điều này. Đối với các *khandhas* (uẩn) khác cũng tương tự như vậy. SN.iii.162f.
 
 ## Notes

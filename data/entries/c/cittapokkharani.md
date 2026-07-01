@@ -5,7 +5,7 @@ base_headword: "Cittāpokkharaṇī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cittāpokkharaṇī. A bathing pond in the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittāpokkharaṇī. Một hồ tắm ở Dīpuyyāna, do Parakkamabāhu I xây dựng. Nó được trang trí bằng những bức tranh vui nhộn, do đó, có lẽ, mới có tên như vậy. Cv.lxxiii.121.
 
 ## Notes

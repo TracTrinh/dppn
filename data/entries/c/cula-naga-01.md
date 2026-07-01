@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -40,6 +40,6 @@ Cūḷa Nāga 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 01. Trưởng lão Cūḷa Nāga, Trưởng lão Cūla Nāga. Thường được gọi là *Tipiṭaka* Cūḷa Nāga. Ngài rõ ràng là một nhà chú giải rất nổi tiếng, và các quan điểm của ngài được trích dẫn trong các bản chú giải của Buddhaghosa (e.g., MN­a.i.126; SN­a.iii.206; Dhs­a.229, 267, 284; Vm.389; also FsA.405). Cūḷa Nāga là học trò của Trưởng lão Summa ở Dīpavihāra (AN­a.ii.845) và là người cùng thời với Trưởng lão *Tipiṭaka* Cūḷābhaya, người dường như đã có sự bất đồng quan điểm rất gay gắt với ngài về một số điểm (Xem VihhA.16; cũng xem Dhs­a.230). Cūḷa Nāga sống vào triều đại của Kuṭakaṇṇatissa (16-38 CN), và chúng ta được biết (Vibh­a.452) rằng nhà vua vô cùng kính trọng ngài. Một lần vị Trưởng lão bị nhọt ở ngón tay, và nhà vua, khi đến thăm ngài, đã ngậm ngón tay đó vào miệng để giảm đau. Nhọt vỡ ra và nhà vua đã nuốt luôn mủ từ đó. Khi vị Trưởng lão hấp hối, nhà vua đã đội trên đầu mình cái bô chứa phân của ngài, than khóc rằng, "Trụ cột của Pháp (*Dhamma*) đã mất." Saṁyutta Commentary (SN­a.ii.201) kể về một sự việc xảy ra khi Cūḷa Nāga đang thuyết pháp tại Lohapāsāda. Một vị Bà-la-môn, khi nghe ngài giảng, đã bị thuyết phục bởi bài pháp về sự vô thường của vạn vật đến nỗi ông ta chạy về nhà và ôm chặt đứa con trai vào lòng, nói rằng ông đã mất tất cả. Vị Trưởng lão từng nhận được một cái bát mà ngài không được phép giữ và ngài đã cúng dường nó cho Tăng đoàn (Vin-a.iii.699). Cūḷa Nāga dường như không phải lúc nào cũng đồng ý với thầy của mình trong việc giải thích nhiều vấn đề khác nhau (Vibh­a.342). Một lần khi có người thông báo cho Summa rằng Cūḷa Nāga đã giải thích từ *thūpīkata* theo một cách nhất định, ông đã bày tỏ sự vô cùng đau buồn và phẫn nộ và tuyên bố rằng mặc dù ông đã bảy lần đọc Vinaya cùng với Cūḷa Nāga, ông chưa bao giờ dạy ngài một lời giải thích như vậy; nhưng Cūḷa Nāga đã có thể bảo vệ được lập luận của mình (Vin-a.iv.892; về một sự việc khác, xem Cūḷa Summa). Cūḷa Nāga từng thuyết giảng Chachakkasutta tại Ambilahālavihāra, và vào dịp đó thính chúng là loài người trải dài đến một khoảng cách là một *gāvuta* và thính chúng là chư thiên đến khoảng cách là một dặm. Vào cuối bài pháp, một nghìn vị tỳ-kheo đã trở thành các *Arahant* (MN­a.ii.1025).
 
 ## Notes

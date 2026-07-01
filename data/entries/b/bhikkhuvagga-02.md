@@ -5,7 +5,7 @@ base_headword: "Bhikkhuvagga"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhuvagga 02. The twenty-fifth section of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhuvagga 02. Phần thứ hai mươi lăm của Dhammapada.
 
 ## Notes

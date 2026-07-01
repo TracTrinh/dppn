@@ -5,7 +5,7 @@ base_headword: "Sālipota"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālipota. A park laid out by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một công viên do Parakkamabāhu I quy hoạch. Cv.lxxix.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittalatāvana"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittalatāvana 01. A pleasance, five hundred leagues in extent, in <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittalatāvana 01. Một hoa viên, rộng năm trăm do-tuần, ở Tāvatiṁsa. Nó xuất hiện nhờ vào những việc thiện do vợ của Māgha là Cittā thực hiện (Dhp­a.i.271-5; Ja.i.202). Người ta nói (Vv-a.94) rằng nơi này được gọi như vậy không chỉ vì sự liên hệ của nó với Cittā, mà còn vì ở đó mọc lên nhiều loại dây leo nở ra những bông hoa nhiều màu sắc. Trong hoa viên này có sinh ra loài dây leo *Āsāvatī* chỉ nở hoa một nghìn năm một lần. Thag­a.i.365; Ja.iii.250.
 
 ## Notes

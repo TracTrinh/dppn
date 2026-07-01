@@ -5,7 +5,7 @@ base_headword: "Sāmā"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāmā 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmā Therī. Bà thuộc về một gia đình danh giá ở Kosambī, và khi người bạn Sāmāvatī của bà qua đời, bà đã xuất gia với tâm trạng đau buồn. Không thể chế ngự được nỗi đau buồn của mình, bà không thể nắm bắt được con đường của bậc Thánh. Một ngày nọ, trong khi đang nghe Ānanda thuyết giảng, bà đã đắc được tuệ quán, và, vào ngày thứ bảy kể từ lúc đó, bà đã trở thành một vị *Arahant*. Thīg.vs.37-8; Thīg­a.44.
 
 ## Notes

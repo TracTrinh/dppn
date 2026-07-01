@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāgatittha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Nāgatittha, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāgatittha, Culla Nāgatittha. Một khúc sông cạn ở Mahā Vālukagaṅgā. Cv.lxxii.34.
 
 ## Notes

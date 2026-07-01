@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāgā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cūḷa Nāgā. An *Arahant* Therī, mentioned as an eminent teacher of the Vina
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāgā. Một nữ *Arahant* (Therī), được nhắc đến như một bậc thầy xuất chúng về Vinaya ở Ceylon. Dpv.xviii.38.
 
 ## Notes

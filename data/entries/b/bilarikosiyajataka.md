@@ -5,7 +5,7 @@ base_headword: "Biḷārikosiyajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -38,6 +38,8 @@ The story was related to a monk reputed for his great generosity; he would not e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷārikosiyajātaka (Ja 450). Bodhisatta từng là một thương gia giàu có ở Benares, người đã xây dựng một viện bố thí và phân phát rất nhiều đồ khất thực. Trên giường bệnh, ông yêu cầu con trai mình tiếp tục việc bố thí, và sau khi chết, ông được tái sinh làm Sakka. Con trai ông đã noi gương ông và trở thành vị thần Canda. Con trai của Canda là Suriya, con trai của Suriya là Mātali, và con trai của Mātali là Pañcasikha, tất cả đều đi theo con đường đó. Nhưng người thứ sáu của dòng họ, Biḷārikosiya, trở thành một kẻ keo kiệt và đã đốt bỏ viện bố thí. Sakka và những người kia sau đó đã lần lượt đến, dưới lớp ngụy trang của những người Bà-la-môn, để thăm ông và xin bố thí. Kosiya từ chối yêu cầu của họ cho đến khi mỗi người thốt lên một bài kệ ngắn, rồi họ mới được mời vào trong để nhận một món quà nhỏ. Kosiya sai người hầu đưa cho mỗi người một ít lúa chưa xay vỏ. Điều này bị từ chối, và cuối cùng ông buộc phải đưa cho các vị Bà-la-môn cơm đã nấu chín, vốn dành cho bò. Mỗi người nuốt một ngụm, nhưng sau đó để nó mắc nghẹn ở cổ họng và nằm vật ra như đã chết. Kosiya, vô cùng sợ hãi, đã bảo chuẩn bị một bữa ăn, ông để nó vào bát của họ, và sau đó, gọi những người qua đường, bảo họ hãy xem cách các vị Bà-la-môn này vì lòng tham của mình đã ăn quá nhiều và tử vong. Nhưng các vị Bà-la-môn đứng dậy, nhổ đống cơm đó ra, và công khai làm nhục Kosiya bằng cách vạch trần sự keo kiệt của ông ta và cách thức ông ta đã làm ô nhục tổ tiên mình. Sau đó mỗi người tiết lộ danh tính của mình và rời đi. Biḷārikosiya sửa đổi tính nết và trở nên vô cùng hào phóng.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo nổi danh vì sự hào phóng to lớn của mình; vị này thậm chí không uống một ngụm nước nếu không được chia sẻ nó với ai. Vị tỳ-kheo này được đồng nhất với Biḷārikosiya, và Đức Phật kể lại câu chuyện nhằm cho thấy ông ta đã thay đổi lối sống của mình như thế nào. Sāriputta là Canda, Moggallāna là Suriya, Kassapa là Mātali và Ānanda là Pañcasikha. Ja.iv.62-9.
 
 ## Notes

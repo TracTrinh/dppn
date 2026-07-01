@@ -5,7 +5,7 @@ base_headword: "Coḷa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Coḷa. A country whose people were called Coḷā. The country extended from th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷa. Một đất nước có người dân được gọi là Coḷā. Đất nước này trải dài từ bờ biển Coromandel của Nam Ấn Độ cho đến tận sông Penner, thủ đô của nó vào thời trung cổ là Tanjore. Các Biên niên sử Ceylon đề cập đến các cuộc xâm lược thường xuyên vào Ceylon của người Coḷā chủ yếu với mục đích cướp bóc. Những cuộc xâm lược này là một mối đe dọa thường trực đối với hòa bình và sự thịnh vượng của Ceylon, và góp phần lớn vào sự hủy hoại và biến mất các tác phẩm nghệ thuật và văn học của đất nước đó. Để biết chi tiết, xem Mhv. và Cv. *passim*.
 
 ## Notes

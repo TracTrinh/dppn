@@ -5,7 +5,7 @@ base_headword: "Cūḷa Buddhaghosa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Buddhaghosa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Buddhaghosa, Cūla Buddhaghosa. Một tác giả người Ceylon mà Gandhavaṁsa (pp.63, 67; xem PLC.126) ghi nhận là tác giả của một tác phẩm có tựa đề là *Jātattagīnidāna*, có lẽ là một Bản chú giải Jātaka, và một *Sotattagīnidāna*.
 
 ## Notes

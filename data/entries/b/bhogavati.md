@@ -5,7 +5,7 @@ base_headword: "Bhogavatī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhogavatī. A palace in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhogavatī. Một cung điện trong thế giới Nāga, nơi ở của Nāga chúa Varuṇa, cha của Irandatī. Ja.vi. 269, 270.
 
 ## Notes

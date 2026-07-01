@@ -5,7 +5,7 @@ base_headword: "Samānā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samānā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hạng *Deva* có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

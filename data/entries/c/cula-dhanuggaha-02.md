@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhanuggaha"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Dhanuggaha 02. An <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhanuggaha 02. Một Bà-la-môn Udicca. Ông là một cung thủ tài ba, nhưng vì vóc dáng khá thấp bé, ông đã theo Bimbisāra với tư cách là người hầu của vị này và đã phục vụ dưới trướng vị vua Andhra. Để biết chi tiết, xem Bhīmasenajātaka (Ja 80). Ông cũng được nhắc đến với tên Cūḷa Dhanupaṭṭhāka và Cullupaṭṭhāka. Ja.i.357.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "05"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhuvanekabāhu 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 05. Bhuvanekabāhu III. Cũng được gọi là Vanni Bhuvanekabāhu. Ông kế vị Parakkamabāhu IV. Cv.xc.105.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāḷhasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāḷhasutta 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những người Licchavī, Sāḷha và Abhaya, đến thăm Đức Phật tại Kūṭāgārasālā và thỉnh vấn ngài về con đường được tạo ra bởi sự trong sạch của giới luật và con đường được tạo ra bởi sự khổ hạnh. Đức Phật đã trả lời câu hỏi bằng nhiều ví dụ. Phần cuối của *Sutta* mô tả một chiến binh là “người bắn cung cự ly xa,” người bắn bằng tia chớp, và người phá hủy các vật thể lớn, và các hạng đệ tử thuộc bậc Thánh tương ứng. AN.ii.200f.
 
 ## Notes

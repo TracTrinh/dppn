@@ -5,7 +5,7 @@ base_headword: "Bhūtapāla"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhūtapāla 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūtapāla 02. Chú giải Vibhaṅga khi giải thích thuật ngữ *kāsāvapajjota* nói rằng nó có nghĩa là “rực rỡ với màu cam, một cách trọn vẹn (*ekobhāsinī*) giống như gia tộc của trưởng giả (*seṭṭhi*) Bhūtapāla” (*Bhūtapālaseṭṭhikulasadisānī*). Vibh­a.342; xem thêm Bhūtavālika.
 
 ## Notes

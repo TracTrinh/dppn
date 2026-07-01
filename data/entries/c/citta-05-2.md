@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cittā 05. One of the chief lay women supporters of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 05. Một trong những nữ cư sĩ hộ độ chính của Đức Phật Sobhita. Bv.vii.23.
 
 ## Notes

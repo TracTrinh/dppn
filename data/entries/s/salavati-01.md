@@ -5,7 +5,7 @@ base_headword: "Sālavatī"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sālavatī 01. A city, in it was the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố, trong đó có Kesārāma nơi Đức Phật Dhammadassī viên tịch. Bv­a.185.
 
 ## Notes

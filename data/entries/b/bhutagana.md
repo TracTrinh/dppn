@@ -5,7 +5,7 @@ base_headword: "Bhūtagana"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhūtagana. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūtagana. Một ngọn núi gần Himavā. Ap.i.179; Thag­a.i.215.
 
 ## Notes

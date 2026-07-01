@@ -5,7 +5,7 @@ base_headword: "Coḷiya Dīpankara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Coḷiya Dīpankara. See <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷiya Dīpankara. Xem Dīpaṅkara ??
 
 ## Notes

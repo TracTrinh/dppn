@@ -5,7 +5,7 @@ base_headword: "Bhisāluvadāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhisāluvadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he gave some lotu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisāluvadāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã dâng một ít ngó sen và nước cho Vipassī Buddha. Ba *kappa* trước, ông là một vị vua tên là Bhisa. Ap.i.120.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gosiṅgasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -34,6 +34,6 @@ Cūḷa Gosiṅgasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Gosiṅgasutta, Cūla Gosiṅgasutta. Đức Phật, khi đang cư ngụ tại Giñjakāvasatha ở Nādikā, đã đến thăm Gosiṅgasālavana, nơi Anuruddha, Nandiya và Kimbila đang cư ngụ (theo tài liệu Vinaya (i.350), sự kiện này diễn ra tại Pācīnavaṁsadāya). Lúc đầu, người gác rừng cố gắng ngăn Đức Phật lại gần họ, vì lo sợ rằng Ngài sẽ làm phiền việc hành thiền của họ. Đức Phật đã hỏi họ về những thành tựu của họ và khen ngợi họ. Ở phần cuối của *Sutta*, có đề cập đến một Yakkha, tên là Dīgha, đến thăm Đức Phật và nói với Ngài về việc danh tiếng của ba vị Trưởng lão đã vang xa thậm chí đến tận cõi Brahma (MN.i.205-11). *Sutta* này minh họa sự vĩ đại của sự hòa hợp (*sāmaggi*). MN­a.i.361.
 
 ## Notes

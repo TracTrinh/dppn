@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "07"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Citta 07. A herdsman, servant of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 07. Một người chăn gia súc, người hầu của Dīghagāmaṇi. Ông đã bị các anh trai của Ummādacittā giết chết, vì ông từ chối hứa sẽ giết đứa con của Ummādacittā nếu nó là con trai. Ông tái sinh thành một Yakkha. Xem Cittarāja. Mahā Vaṁsa.ix.22f.; Mahāvaṁsaṭīkā.278.
 
 ## Notes

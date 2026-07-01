@@ -5,7 +5,7 @@ base_headword: "Sakkāyasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakkāyasutta 02. It is by the realization of impermanence in all things that *s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chính bằng sự chứng ngộ về tính vô thường trong mọi sự vật mà *sakkāyadiṭṭhi* có thể bị từ bỏ. SN.iv.147.
 
 ## Notes

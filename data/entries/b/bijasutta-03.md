@@ -5,7 +5,7 @@ base_headword: "Bījasutta"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bījasutta 03. Perverted view is the most fertile soil for the development of ev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bījasutta 03. Tà kiến là mảnh đất màu mỡ nhất cho sự phát triển của các ác pháp. AN.i.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāleyyakā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāleyyakā. The inhabitants of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những cư dân của Sālā. MN.i.285.
 
 ## Notes

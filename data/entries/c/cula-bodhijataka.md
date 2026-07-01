@@ -5,7 +5,7 @@ base_headword: "Cūḷa Bodhijātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -37,6 +37,10 @@ The story is also given in the *Jātakamālā* as the *Khuddabodhijātaka* (Ja x
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Bodhijātaka, Culla Bodhijātaka (Ja 443). Bodhisatta, với tên gọi là Bodhi (ngài cũng được nhắc đến là Cūḷa Bodhi), từng sinh ra trong một gia đình rất giàu có ở Kāsi và đã học tập tại Takkasilā. Cha mẹ ngài đã cho ngài kết hôn với một người vợ phù hợp nhưng, bởi vì cả hai đều đến từ cõi Brahma, họ không bị ràng buộc bởi dục vọng đam mê. Sau khi cha mẹ ngài qua đời, cả hai đã phân phát của cải và trở thành các tu sĩ khổ hạnh. Một ngày nọ họ đến công viên của nhà vua, và tại đó nhà vua đã phải lòng người phụ nữ và dùng vũ lực bắt nàng vào cung điện. Khi nhà vua nói với Bodhisatta về điều này, ngài không hề tỏ ra oán giận chút nào. Trong cung điện, nhà vua nhận thấy rằng ông không thể giành được tình yêu của người phụ nữ, và quay trở lại công viên, tò mò muốn biết liệu vị tu sĩ khổ hạnh có thực sự có ý như những gì ngài đã nói hay không. Trong quá trình trò chuyện, Bodhisatta đã nói với nhà vua rằng ngài không nhượng bộ sân hận bởi vì sân hận, một khi đã được khơi dậy, thì rất khó để kiềm chế.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo có tính khí hung bạo. Nhà vua là Ānanda và người vợ của Bodhisatta là Rāhulamātā (Ja.iv.22-27. Cf. Ananusociyajātaka).
+
+Câu chuyện cũng được đưa ra trong *Jātakamālā* dưới tên *Khuddabodhijātaka* (Ja xxi), và trong Cariyāpiṭaka. Cp, p.86.
 
 ## Notes

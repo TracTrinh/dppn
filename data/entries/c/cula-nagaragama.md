@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nagaragāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Cūḷa Nagaragāma, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nagaragāma, Cūla Nagaragāma. Một ngôi làng gần Kāḷavallimaṇḍapa. Hai người Bà-la-môn ở Pāṭaliputta, khi nghe danh tiếng của Trưởng lão Mahā Nāga ở Kāḷavallimaṇḍapa, đã lên đường đi gặp ngài. Một người đã chết trên đường đi; người còn lại đi đến Anurādhapura và, khi nghe nói ở đó rằng vị Trưởng lão cư ngụ tại Rohaṇa, đã đi đến đó và chọn Cūḷa Nagaragāma, gần *vihāra*, làm nơi cư ngụ của mình. AN­a.i.384.
 
 ## Notes

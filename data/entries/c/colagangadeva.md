@@ -5,7 +5,7 @@ base_headword: "Coḷagaṅgādeva"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Coḷagaṅgādeva. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷagaṅgādeva. Một thủ lĩnh Damiḷa, bị Bhuvanekabāhu I chinh phục. Cv.xc.32.
 
 ## Notes

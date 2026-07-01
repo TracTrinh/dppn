@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Nāga 04. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 04. Một vị tỳ-kheo ở Pidhānagalla vào thời của Duṭṭhagāmaṇī. Saṅghadattā (*xem mục từ này*) đã cúng dường cho ngài một chiếc y.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhammasamādānasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Dhammasamādānasutta, <span class="dppn-term dppn-term-t15" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhammasamādānasutta, Cūla Dhammasamādānasutta. Được thuyết giảng cho các vị tỳ-kheo đang tụ tập tại Jetavana. Có bốn cách thọ trì một Pháp – một cách nhất thời mang lại sự dễ chịu nhưng sau đó chín muồi thành khổ đau; một cách khác nhất thời khó chịu nhưng chín muồi thành sự lạc thú, v.v. – *Sutta* này cũng mô tả các vị tỳ-kheo và sa-môn những người đi theo các phương pháp khác nhau này. MN.i.305ff.
 
 ## Notes

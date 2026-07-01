@@ -5,7 +5,7 @@ base_headword: "Sākkuṇḍa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sākkuṇḍa. A grove near the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu rừng gần Sakkharālayagaṅgā. Nó được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.29.
 
 ## Notes

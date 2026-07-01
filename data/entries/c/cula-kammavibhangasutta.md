@@ -5,7 +5,7 @@ base_headword: "Cūḷa Kammavibhaṅgasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ The Commentary (MN­a.ii.962) calls this the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Kammavibhaṅgasutta, Cūla Kammavibhaṅgasutta. Subha Todeyyaputta đến thăm Đức Phật tại Jetavana và hỏi Ngài tại sao, trong số nhân loại, lại có người cao sang và người thấp hèn, người sống thọ và người chết yểu, người xinh đẹp và người xấu xí, người giàu có và người nghèo khó, v.v. Đó là kết quả của những gì họ thừa kế từ quá khứ, Đức Phật trả lời; hành động của họ là tài sản của họ, là cha mẹ của họ, là quyến thuộc của họ và là nơi nương tựa của họ; Ngài sau đó tiếp tục giải thích chi tiết (MN.iii.202ff). Subha đã công nhận Đức Phật là bậc Đạo sư của mình.
+
+Bản chú giải (MN­a.ii.962) gọi bài kinh này là Subhasutta. Để biết chi tiết về những hoàn cảnh mà *Sutta* này được thuyết giảng, xem Subha Todeyyaputta.
 
 ## Notes

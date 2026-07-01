@@ -5,7 +5,7 @@ base_headword: "Samādhisutta"
 disambiguator: "08"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samādhisutta 08. On five qualities that obstruct right concentration sights, so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về năm đặc tính cản trở chánh định: sắc, thanh, v.v. AN.iii.137.
 
 ## Notes

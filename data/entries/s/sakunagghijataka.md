@@ -5,7 +5,7 @@ base_headword: "Sakuṇagghijātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta đã từng là một con chim cút và một ngày nọ bị một con chim ưng bắt được. Chim cút than thở, nói rằng nếu nó ở lại nơi kiếm ăn của đồng loại mình thì nó đã không phải chịu đựng như vậy. Chim ưng nghe vậy liền thả nó đi, nói rằng nó có thể bắt được nó, bất kể nó ở đâu. Chim cút bay về và đậu trên một cục đất khổng lồ, từ đó nó gọi chim ưng. Chim ưng sà xuống, nhưng chim cút chỉ lật người lại, và chim ưng bị vỡ nát khi lao vào cục đất. Ja.ii.58f.
+
+Bổn sinh này được kể nhân dịp thuyết giảng Sakuṇovādasutta (*q.v.*).
 
 ## Notes

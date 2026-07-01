@@ -5,7 +5,7 @@ base_headword: "Bhummā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhummā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhummā. Một tầng lớp chư thiên, các vị thần gắn liền với mặt đất. Họ thuộc về hạng thấp nhất của chư thiên, e.g., AN.iv.119.
 
 ## Notes

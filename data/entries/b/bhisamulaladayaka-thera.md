@@ -5,7 +5,7 @@ base_headword: "Bhisamuḷāladāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhisamuḷāladāyaka Thera. An *Arahant*. Ninety-two *kappas* ago he met <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisamuḷāladāyaka Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông đã gặp Phussa Buddha một mình trong rừng và dâng cho Ngài ngó sen cùng những cánh hoa. Ap.i.286f.
 
 ## Notes

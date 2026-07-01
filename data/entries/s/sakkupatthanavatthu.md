@@ -5,7 +5,7 @@ base_headword: "Sakkupaṭṭhānavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sakkupaṭṭhānavatthu. The story of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về việc Sakka đã chăm sóc Đức Phật trong căn bệnh cuối cùng của ngài. Dhp­a.iii.269f.
 
 ## Notes

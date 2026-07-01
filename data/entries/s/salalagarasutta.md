@@ -5,7 +5,7 @@ base_headword: "Saḷalāgārasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saḷalāgārasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anuruddha, nói chuyện với các tỳ-kheo tại Saḷalāgāra, nói với họ rằng thật khó khăn, để khiến một tỳ-kheo đã phát triển bốn *satipaṭṭhāna* trở lại cuộc sống thấp kém hơn, giống như việc làm cho sông Hằng chảy ngược về hướng tây. SN.v.300f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittasālā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittasālā. A hall in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittasālā. Một hội trường ở Anurādhapura nằm ở phía đông của Thūpārāma, trong tầm nhìn thấy cây Bodhi. Thi hài của Saṅghamittā, theo như ý nguyện của bà, đã được hỏa táng gần hội trường và một *Thūpa* đã được dựng lên trên phần hài cốt. Mhv.xx.52.
 
 ## Notes

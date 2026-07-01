@@ -5,7 +5,7 @@ base_headword: "Bhīma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhīma. A sage of old who possessed the five *abhiññā* and great *iddhi*-powe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhīma. Một vị hiền triết thời xưa sở hữu năm *abhiññā* (thắng trí) và các thần thông (*iddhi*) vĩ đại. Bấy giờ Bodhisatta là một vị Bà-la-môn uyên bác, và khi gặp Bhīma, đã nói rằng ông là một kẻ đắm say dục lạc (*kāmabhogī*), và các đệ tử của ông cũng đồng ý với ông. Chính vì lý do này mà Đức Phật và năm trăm vị tỳ-kheo đã phải chịu sự vu khống từ tay Sundarikā. Ap.i.299; Ud­a.264.
 
 ## Notes

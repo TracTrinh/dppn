@@ -5,7 +5,7 @@ base_headword: "Billasela"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Billasela. A mountain in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Billasela. Một ngọn núi ở Ceylon. Vijayabāhu III đã xây dựng, trên đỉnh của nó, một ngôi đền thờ Xá-lợi Răng (Cv.lxxxi.33; xem thêm Cv.Trs.ii.138, n.4.). Từ đó Xá-lợi được Parakkamabāhu II dời đến Jambuddoṇi. Cv.lxxxii.7.
 
 ## Notes

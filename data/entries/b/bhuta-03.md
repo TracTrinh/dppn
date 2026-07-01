@@ -5,7 +5,7 @@ base_headword: "Bhūta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhūta 03. The son of a householder of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūta 03. Con trai của một nam cư sĩ ở Sāvatthī, mẹ của anh là Tissā và mẹ kế của anh là Mattā. Pv-a.82.
 
 ## Notes

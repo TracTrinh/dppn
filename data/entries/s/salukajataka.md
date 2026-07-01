@@ -5,7 +5,7 @@ base_headword: "Sālūkajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,8 @@ The introductory story is given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng là một con bò đực tên là Mahā Lohita và anh trai ngài là Cūḷa Lohita. Cả hai đều thuộc về một gia đình nông thôn, và khi cô gái của gia đình lớn lên và sắp kết hôn, một con lợn, tên là Sālūka, đã được vỗ béo cho bữa tiệc. Cūḷa Lohita, nhìn thấy điều này và thèm muốn phần thức ăn đang được cho con lợn ăn, nhưng khi chú phàn nàn với anh trai mình, ngài đã giải thích cho chú hiểu rằng số phận của con lợn là một số phận bất hạnh.
+
+Câu chuyện giới thiệu được kể trong Cūḷa Nāradakassapajātaka. Sālūka được đồng nhất với vị tỳ-kheo thất tình trong câu chuyện đó, và Cūḷa Lohita với Ānanda. Ja.ii.419f.
 
 ## Notes

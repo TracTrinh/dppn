@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Nāga 03. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 03. Cūla Nāga. Một Trưởng lão ở Ceylon. Một bậc thầy xuất chúng về Vinaya. Vin.v.3; Vin-a.i.62.
 
 ## Notes

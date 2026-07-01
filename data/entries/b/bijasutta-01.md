@@ -5,7 +5,7 @@ base_headword: "Bījasutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bījasutta 01. The five sorts of seed, if unspoilt and planted in good soil, and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bījasutta 01. Năm loại hạt giống, nếu không bị hư hỏng và được gieo trên đất tốt, và được nuôi dưỡng bởi gió và nước, sẽ nảy mầm và phát triển. Giống như năm loại hạt giống là năm loại thức; giống như đất là bốn *satipaṭṭhāna*, giống như nước là sự lôi cuốn của ái dục. SN.iii.54f.
 
 ## Notes

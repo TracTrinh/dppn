@@ -5,7 +5,7 @@ base_headword: "Cittupaṭṭhānapāsāda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cittupaṭṭhānapāsāda. A hall within the precincts of the king’s palace i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittupaṭṭhānapāsāda. Một hội trường nằm trong khuôn viên cung điện của nhà vua ở Anurādhapura, nơi người dân hầu hạ các vị tỳ-kheo với những món quà cúng dường. Tại đây vua Bhātika đã cung cấp các lễ vật cho các vị tỳ-kheo. Mhv.xxxiv.65; Mhv­ṭ.633.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cittaratha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cittaratha. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittaratha. Một công viên ở Tāvatiṁsa. Thīg.374; Thīg­a.i.247; Mvu.i.32, 149, etc.; Divy.194.
 
 ## Notes

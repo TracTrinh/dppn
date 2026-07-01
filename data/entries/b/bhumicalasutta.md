@@ -5,7 +5,7 @@ base_headword: "Bhūmicālasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhūmicālasutta. It records the incident, at the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūmicālasutta. Nó ghi lại sự việc, tại *cetiya* Cāpāla ở Vesālī, về việc Đức Phật cho Ānanda một cơ hội cuối cùng để thỉnh cầu Ngài kéo dài thọ mạng của Ngài. Khi Ānanda không tận dụng được cơ hội này, Đức Phật tuyên bố với Māra, người đã thỉnh cầu Ngài kết thúc mạng sống, rằng Ngài sẽ viên tịch vào cuối ba tháng nữa. Tại lời tuyên bố này đã có một trận động đất lớn, lý do của trận động đất đó được Ānanda hỏi thăm Đức Phật, và Ngài đã khai sáng cho ông. AN.iv.308ff; DN.ii.102f.; SN.v.259; Ud.vi.1.
 
 ## Notes

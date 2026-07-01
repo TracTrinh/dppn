@@ -5,7 +5,7 @@ base_headword: "Bhikkhusutta"
 disambiguator: "10"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhikkhusutta 10. The Buddha tells the monks at <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhikkhusutta 10. Đức Phật nói với các tỳ-kheo tại Gijjhakūṭa về bảy điều, sự duy trì những điều này trong hội chúng tỳ-kheo sẽ dẫn đến sự thăng tiến của họ và cứu họ khỏi lòng ham muốn. AN.iv.216.
 
 ## Notes

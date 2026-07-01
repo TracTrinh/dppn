@@ -5,7 +5,7 @@ base_headword: "Bhūtamaṅgalagāma"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhūtamaṅgalagāma. A village in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhūtamaṅgalagāma. Một ngôi làng thuộc quốc gia Coḷa ở miền Nam Ấn Độ. Buddhadatta đã sống ở đó trong một tu viện do Veṇhudāsa xây dựng. PLC.107.
 
 ## Notes

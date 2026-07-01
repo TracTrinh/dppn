@@ -5,7 +5,7 @@ base_headword: "Sakkāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakkāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma đến thăm Đức Phật tại Nigrodhārāma, nơi ngài đang tĩnh dưỡng, và hỏi ngài về trí tuệ và sự định tâm. Ānanda, vì muốn giữ gìn sức khỏe cho Đức Phật, đã đưa Mahā Nāma ra một chỗ riêng và nói chuyện với ông về *sīla*, *samādhi* và *paññā*, của cả bậc hữu học (*sekha*) và bậc vô học (*asekha*). AN.i.219f.
 
 ## Notes

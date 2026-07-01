@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhupariveṇa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -31,6 +31,8 @@ Bhuvanekabāhupariveṇa. A monastic building in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhupariveṇa. Một tòa nhà tu viện trong Billaselavihāra ở Hatthiselapura, do Bhuvanekabāhu, em trai của Parakkamabāhu II xây dựng (Cv.lxxxv.59).
+
+Bhuvanekabāhu đã được hỏa táng tại đó, và Vijayabāhu IV đã dựng một tòa nhà ba tầng trên địa điểm này, với một pho tượng Phật. Ông cũng cho dựng một bức tượng của Bhuvanekabāhu với đầy đủ các món đồ trang sức và ban cho một ngôi làng bảo trì cho *vihāra* này. Cv.lxxxviii.54ff.
 
 ## Notes

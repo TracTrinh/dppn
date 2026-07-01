@@ -5,7 +5,7 @@ base_headword: "Samādapetabbasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samādapetabbasutta. The Buddha tells <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật nói với Ānanda về ba đặc điểm mà người ta nên khuyên những người thân yêu của mình về lòng trung thành không lay chuyển đối với Đức Phật, Dhamma, và Saṅgha. Kết quả của lòng trung thành như vậy là không thay đổi. AN.i.222.
 
 ## Notes

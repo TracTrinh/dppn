@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Nāga 06. A fortress in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 06. Một pháo đài ở Rājaraṭṭha (thuộc Ceylon). Ras.ii.145.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sakkaṭa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sakkaṭa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Kasakanda. Một Yakkha, cùng với năm trăm người khác, đã đứng gác ở cổng thứ năm của cung điện của Jotiya. Dhp­a.iv.209.
 
 ## Notes

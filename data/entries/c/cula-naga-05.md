@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Nāga 05. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 05. Một vị tỳ-kheo của Asiggāhakapariveṇa. Một ngày nọ, sau khi khất thực ở Candavaṅkavīthi, ngài đã cho một con chó cái đang chết đói ăn. Cùng buổi tối hôm đó, ngài nhận được một lượng lớn bơ lỏng và mật mía mà ngài đã chia cho các đồng đạo của mình. Trong ba mươi hai năm, ngài đã bố thí thức ăn cho hàng nghìn vị tỳ-kheo từ thức ăn mà người dân ở Candavaṅkavīthi cúng dường cho ngài. Về sau, ngài đã trở thành một *Arahant*. Một lần, 500 vị tỳ-kheo trong chuyến hành hương đến cây Bodhi, đã đưa ngài đi cùng với họ để tránh được hiểm nguy. Trong bốn tháng, họ đã đến được Koṭṭapaṭṭana và trong bảy tháng thì đến cây Bodhi, được tiếp đãi chu đáo ở mọi nơi. Trên đường trở về, Cūḷa Nāga bị mắc một cơn đau bụng dữ dội và qua đời; nhưng trước khi chết ngài đã khuyên các đồng đạo hỏa táng cơ thể ngài và mang theo tro cốt của ngài để họ có thể được cung cấp những gì họ cần. Ras.ii.122f.
 
 ## Notes

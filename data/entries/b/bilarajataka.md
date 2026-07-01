@@ -5,7 +5,7 @@ base_headword: "Biḷārajātaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,8 @@ The story was told in reference to a monk who was a hypocrite. Ja.i.460f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Biḷārajātaka (Ja 128). Bodhisatta từng sinh ra làm một con chuột lớn, thủ lĩnh của một đàn chuột. Một con chó rừng lang thang, muốn ăn thịt chúng, đã đứng gần hang ổ của chúng, đứng bằng một chân, giả vờ có sự thánh thiện to lớn. Bị ấn tượng bởi những sự khổ hạnh của nó, Bodhisatta và bầy của mình đã tôn thờ nó, và mỗi ngày con chó rừng đều ăn thịt con chuột đi ở phía sau cùng khi chúng quay lưng rời đi. Thấy số lượng của bầy bị giảm sút, Bodhisatta nghi ngờ nguyên nhân, và một ngày nọ ngài đã tự mình đi cuối cùng, phía sau những con chuột khác. Khi con chó rừng vồ lấy ngài, ngài đã lao vào cổ họng nó và cắn chết nó, những con chuột khác xúm lại ăn xác nó.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo là kẻ đạo đức giả. Ja.i.460f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhummaja"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhummaja. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhummaja. Một thành viên của nhóm Chabbaggiyā. Những người đi theo ông được gọi là *Bhummajakā*.
 
 ## Notes

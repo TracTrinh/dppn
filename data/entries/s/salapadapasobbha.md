@@ -5,7 +5,7 @@ base_headword: "Sālapādapasobbha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sālapādapasobbha. A swamp over which <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu đầm lầy nơi Devappatirāja đã xây một cây cầu dài một trăm năm mươi cubit. Cv.lxxxvi.42.
 
 ## Notes

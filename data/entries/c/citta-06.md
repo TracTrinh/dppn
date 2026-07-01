@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "06"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Citta 06. A Thera of Ceylon. King <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 06. Một vị Trưởng lão của Ceylon. Vua Mahā Dāṭhika Mahā Nāga có một vương hậu trẻ và xinh đẹp, tên là Damiḷadevī. Một ngày nọ, khi bà đang đảnh lễ tại Ambatthala ở Cetiyagiri, Citta, người đã gia nhập Tăng đoàn khi về già, đã đem lòng yêu bà và cư xử như một kẻ điên, liên tục lẩm bẩm với bản thân "xinh đẹp như Damiḷadevī." Ngay cả khi được báo tin bà đã qua đời, việc xảy ra ngay sau đó, ông vẫn từ chối tin vào tin tức đó và tiếp tục như trước; do đó, ông được biết đến với tên gọi *Ummattaka* Citta. AN­a.i.13.
 
 ## Notes

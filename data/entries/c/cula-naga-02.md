@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāga"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Nāga 02. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāga 02. Cūla Nāga. Một Trưởng lão ở Vasālanagara. Cùng với anh trai của mình là Mahā Nāga, ngài đã gia nhập Tăng đoàn và, trong ba mươi năm, đã sống tại Cittalapabbata, nơi ngài đã chứng đắc quả vị *Arahant*. Ngài từ chối tiết lộ danh tính của mình cho mẹ khi đến thăm bà bởi vì ngài không muốn có bất kỳ sự luyến ái nào. SN­a.ii.125.
 
 ## Notes

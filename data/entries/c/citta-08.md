@@ -5,7 +5,7 @@ base_headword: "Citta"
 disambiguator: "08"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Citta 08. A minister, spoken of as *Citta Mahāmatta*. He was very generous and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Citta 08. Một vị quan đại thần, được nhắc đến là *Citta Mahāmatta*. Ông rất hào phóng và để trong nhà mình một cái chiêng, bằng cách đánh chiếc chiêng này, các vị tỳ-kheo có thể nhận được các vật dụng bất cứ lúc nào. Mỗi ngày ông đã tiêu sáu mươi *kahāpaṇa* chỉ riêng cho việc cung cấp thuốc men. Vibh­a.341.
 
 ## Notes

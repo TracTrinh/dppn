@@ -5,7 +5,7 @@ base_headword: "Sakuludāyī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -38,6 +38,10 @@ Sakuludāyī’s teacher was <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Paribbājaka* nổi tiếng. Mahā Sakuludāyīsutta và Cūḷa Sakuludāyīsutta ghi lại hai cuộc trò chuyện giữa ông và Đức Phật tại *Paribbājakārāma* ở Moranivāpa tại Rājagaha.
+
+Ông cũng được cho là đã có mặt khi Đức Phật đến thăm *Paribbājakārāma* bên sông Sappinī và trò chuyện với các Paribbājaka ở đó (AN.ii.29,176). Trong những bối cảnh này, ông được cho là đã đi cùng với Annabhāra (Anugāra) và Varadhara, rõ ràng bản thân họ cũng là những Paribbājaka xuất chúng.
+
+Thầy của Sakuludāyī là Vekhanassa. MN­a.ii.716.
 
 ## Notes

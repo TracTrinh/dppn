@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gopālakasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,8 @@ The theme is illustrated by various similes drawn from the picture of a herdsman
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Gopālakasutta, Cūla Gopālakasutta. Được thuyết giảng cho các vị tỳ-kheo đang tụ tập tại Ukkācelā. Những ai lắng nghe và tin tưởng vào sai loại sa-môn và Bà-la-môn và những người không hiểu được thiện và ác sẽ chuốc lấy đau khổ, trong khi đó những ai lắng nghe những người thầy đúng đắn sẽ đạt được sự giải thoát.
+
+Chủ đề được minh họa bằng các ví dụ khác nhau rút ra từ hình ảnh một người chăn gia súc lùa đàn bò băng qua một khúc sông cạn. MN.i.225f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasutta"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇabrāhmaṇasutta 05. Real recluses and Brahmins are those who understand
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những sa-môn và Bà-la-môn chân chính là những người hiểu về sự sinh khởi, sự hoại diệt, sự thỏa mãn, sự nguy hiểm và sự giải thoát khỏi ba loại cảm thọ. SN.iv.234f.
 
 ## Notes

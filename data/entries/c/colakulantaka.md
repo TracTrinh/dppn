@@ -5,7 +5,7 @@ base_headword: "Coḷakulantaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -24,6 +24,6 @@ Coḷakulantaka. A village in South India. Cv.lxxvii.53, 60.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷakulantaka. Một ngôi làng ở Nam Ấn Độ. Cv.lxxvii.53, 60.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sakkagaṅga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sakkagaṅga. A river in Ceylon. Ras.ii.184.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông ở Ceylon. Ras.ii.184.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhinnorudīpa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -28,6 +28,6 @@ Bhinnorudīpa. A monastery in Ceylon built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhinnorudīpa. Một tu viện ở Ceylon do Aggabodhi I xây dựng cho vị Trưởng lão (có thể là Dāṭhāsiva) đang sống tại Mahā Pariveṇa. Doanh thu từ Vaṭṭākārapiṭṭhi đã được trao để bảo trì nơi này. Cv.xlii.26.
 
 ## Notes

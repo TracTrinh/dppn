@@ -5,7 +5,7 @@ base_headword: "Samaṇā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samaṇā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người con gái lớn nhất trong số bảy người con gái của Vua Kikī. Bà là Khemā trong thời đại hiện tại. Ja.vi.481; Ap.ii.546; Thīg­a.18, etc.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhisadāyaka Thera"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhisadāyaka Thera 01. An *Arahant*. In the past, while gathering lotus stalks f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhisadāyaka Thera 01. Một vị *Arahant*. Trong quá khứ, khi đang hái ngó sen để làm thức ăn, ông nhìn thấy Padumuttara Buddha bay qua không trung và đã thỉnh Ngài nhận một ít ngó sen. Đức Phật đã nhận lời. Ngay sau đó, người đàn ông này bị sét đánh và tái sinh ở Tusita (Ap.ii.420f). Rất có thể ông cũng chính là Trưởng lão Bhaddaji. Thag­a.i.286.
 
 ## Notes

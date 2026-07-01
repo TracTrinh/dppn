@@ -5,7 +5,7 @@ base_headword: "Cittā"
 disambiguator: "07"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cittā 07. Daughter of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittā 07. Con gái của vua Madda và là vợ của Sumitta, con trai của Sīhabāhu. Mhv­ṭ.269; Mhv.viii.7.
 
 ## Notes

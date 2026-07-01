@@ -5,7 +5,7 @@ base_headword: "Bhogagāmanagara"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -34,6 +34,8 @@ Bhoga was one of the places passed by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhogagāmanagara. Một ngôi làng ở quốc gia Vajjī, nơi Gotama Buddha đã dừng chân trong chuyến hành trình cuối cùng của Ngài, tại *cetiya* Ānanda, và là nơi Ngài đã thuyết giảng một bài pháp về bốn Mahā Padesā (“Các Thẩm quyền Lớn”) (DN.ii.124f.; AN.ii.167ff). Từ Bhoga, Ngài tiếp tục đi đến Pāvā (DN.ii.126).
+
+Bhoga là một trong những nơi mà các học trò của Bāvari đã đi qua trên đường đến Rājagaha. Nó nằm giữa Pāvā và Vesālī. Snp.vs.1013.
 
 ## Notes

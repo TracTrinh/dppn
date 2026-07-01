@@ -5,7 +5,7 @@ base_headword: "Bhuvanekabāhu"
 disambiguator: "08"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhuvanekabāhu 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuvanekabāhu 08. Bhuvanekabāhu VI. Ông lên ngôi bằng cách ám sát Jayabāhu II và trị vì trong bảy năm (1473-80 CN). Cv.xcii.1f.
 
 ## Notes

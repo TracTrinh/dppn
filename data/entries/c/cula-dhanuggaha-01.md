@@ -5,7 +5,7 @@ base_headword: "Cūḷa Dhanuggaha"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Dhanuggaha 01. A Brahmin of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Dhanuggaha 01. Một vị Bà-la-môn ở Benares, một cung thủ rất điêu luyện. Xem Cūḷa Dhanuggahajātaka (Ja 374).
 
 ## Notes

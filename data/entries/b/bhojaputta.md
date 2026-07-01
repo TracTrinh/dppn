@@ -5,7 +5,7 @@ base_headword: "Bhojaputta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhojaputta. Evidently the name for a resident of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhojaputta. Rõ ràng là tên gọi dành cho một cư dân của đất nước Bhoja. Trong Saṁyuttanikāya (SN.i.6f), thiên tử (*Devaputta*) Rohitassa nói rằng ông từng là một Bhojaputta trong kiếp trước của mình. Các kinh Bổn sinh (Jātaka) (Ja.i.45; Ja.v.163) đề cập đến mười sáu Bhojaputtā. Bhoja là Berar thời hiện đại. Law: *Geography of Early Buddhism* p. 62.
 
 ## Notes

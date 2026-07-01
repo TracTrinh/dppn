@@ -5,7 +5,7 @@ base_headword: "Sakuṇajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,8 @@ The story was related to a monk whose cell was burnt down. He told the villagers
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta đã từng là một con chim, thủ lĩnh của một đàn chim lớn. Ngài sống trên một cái cây, và một ngày nọ nhận thấy hai cành cây đang cọ xát vào nhau và bốc khói, ngài đã cảnh báo bầy của mình về nguy cơ hỏa hoạn và rời đi nơi khác. Những con chim khôn ngoan hơn đã đi theo ngài, nhưng một số con ở lại phía sau và bị thiêu chết.
+
+Câu chuyện này được kể cho một vị tỳ-kheo có am thất bị thiêu rụi. Ông kể cho dân làng nghe về điều này, và họ liên tục hứa sẽ xây cho ông một am thất mới, nhưng đã không làm. Kết quả là vị tỳ-kheo sống trong sự không thoải mái và những nỗ lực thiền định của ông không đơm hoa kết trái. Khi ông báo cáo điều này, Đức Phật đã quở trách ông vì đã không đi nơi khác. Ja.i.215f.
 
 ## Notes

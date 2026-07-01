@@ -5,7 +5,7 @@ base_headword: "Sālā"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sālā 02. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong hai vị nữ đệ tử thinh văn hàng đầu của Đức Phật Phussa. Bv­a.194; nhưng xem Phussa.
 
 ## Notes

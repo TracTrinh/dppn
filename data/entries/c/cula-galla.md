@@ -5,7 +5,7 @@ base_headword: "Cūḷa Galla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Galla. A village and a *vihāra* near the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Galla. Một ngôi làng và một *vihāra* gần dòng sông Jajjaranadī. Về câu chuyện của một người đàn ông đạo đức từng sống trong làng, hãy xem Ras.ii.152f.
 
 ## Notes

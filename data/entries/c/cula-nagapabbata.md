@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāgapabbata"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Nāgapabbata, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāgapabbata, Cūla Nāgapabbata. Một *vihāra* được vua Mahā Dāṭhika Mahā Nāga xây dựng ở Huvācakaṇṇikā (thuộc Rohaṇa). Mhv.xxxiv.90.
 
 ## Notes

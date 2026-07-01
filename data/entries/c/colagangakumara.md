@@ -5,7 +5,7 @@ base_headword: "Coḷagaṅgakumāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Coḷagaṅgakumāra. A son of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Coḷagaṅgakumāra. Một người con trai của Gajabāhu. Cv.lxx.238.
 
 ## Notes

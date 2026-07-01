@@ -5,7 +5,7 @@ base_headword: "Sāḷha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -33,6 +33,6 @@ Sāḷha 01. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được gọi là Sāḷha Migāranattā. Ông từng đến thăm Nandaka Thera cùng với cháu trai của Pekkhuṇiya, Rohaṇa. Xem Sāḷhasutta (AN.i.193 f). Ông đã xây dựng một *vihāra* cho các ni cô và Sundarīnandā được bổ nhiệm để giám sát công việc. Kết quả là, Sāḷha và Sundarīnandā thường xuyên gặp nhau và yêu nhau. Muốn quyến rũ bà, Sāḷha đã mời một nhóm ni cô đến nhà mình và sắp xếp chỗ ngồi riêng cho những ni cô lớn tuổi hơn Nandā ở một bên, và cho những người trẻ tuổi hơn ở một bên khác, sao cho Nandā sẽ phải ở một mình. Nhưng bà, đoán được lý do của lời mời, đã không đi, mà thay vào đó, cử một nữ tỳ-kheo hầu cận đến nhà của Sāḷha để nhận phần khất thực của bà, và cáo lỗi với lý do là bà bị bệnh. Sāḷha, nghe được điều này, đã sai một người hầu chăm sóc cho các ni cô khác và chạy đến tu viện. Nandā, đang ở trên giường của mình, đang đợi ông, và ông đã quyến rũ bà (Vin.iv.211f). Buddhaghosa giải thích (Vin-a.iv.900) rằng Sāḷha được gọi là Migāranattā vì ông là cháu trai của Migaramātā (Visākhā).
 
 ## Notes

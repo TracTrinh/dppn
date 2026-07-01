@@ -5,7 +5,7 @@ base_headword: "Samacittavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samacittavagga. The fourth chapter of the *Dukanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ tư thuộc *Dukanipāta* của Aṅguttaranikāya. AN.i.61-9.
 
 ## Notes

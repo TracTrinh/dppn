@@ -5,7 +5,7 @@ base_headword: "Cittasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Cittasutta. Preached in answer to a question by a *Deva*. The world is led by th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cittasutta. Được thuyết giảng để trả lời câu hỏi của một vị chư thiên. Thế giới bị dẫn dắt bởi tâm trí (*citta*) và bị làm phiền bởi nó. SN.i.39; cf. AN.ii.177.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Daddara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Daddara, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Daddara, Culla Daddara. Một Nāga, em trai của Mahā Daddara (tức Bodhisatta), và là con trai của Sūradaddara. Để biết chi tiết, xem Daddarajātaka (Ja 304).
 
 ## Notes

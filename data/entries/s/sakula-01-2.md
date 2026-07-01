@@ -5,7 +5,7 @@ base_headword: "Sakulā"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bà xuất thân từ một gia đình Bà-la-môn ở Sāvatthī và trở thành người có đức tin khi nhìn thấy Đức Phật thọ nhận Jetavana. Về sau, bà nghe một vị tỳ-kheo *Arahant* thuyết pháp, và với tâm dao động, bà đã gia nhập Tăng đoàn. Sau khi phát triển tuệ quán, bà đã đạt được quả vị *Arahant*. Về sau Đức Phật đã tuyên bố bà là vị ni đệ nhất về *dibbacakkhu* (AN.i.25).
+
+Vào thời Đức Phật Padumuttara, bà là Nandā, con gái của vua Ānanda, và do đó, là em gái cùng cha khác mẹ của Đức Phật. Một ngày nọ, bà nghe Đức Phật tuyên bố một vị ni là đệ nhất trong số những người sở hữu “thiên nhãn” và bản thân bà cũng mong muốn một vinh dự tương tự. Vào thời Đức Phật Kassapa, bà là một *Brāhmiṇī* và về sau trở thành một *Paribbājikā*. Một ngày nọ, bà cúng dường tại *Thūpa* của Đức Phật và giữ một ngọn đèn cháy ở đó suốt đêm. Sau đó bà được tái sinh vào Tāvatiṁsa. Thīg. vss.98-101; Thīg­a.91f.; Ap.ii.569f.; AN­a.i.199f.
 
 ## Notes

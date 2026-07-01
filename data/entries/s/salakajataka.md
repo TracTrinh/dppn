@@ -5,7 +5,7 @@ base_headword: "Sālakajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,8 @@ The story was related in reference to an Elder who ill-treated a novice ordained
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người dụ rắn có một con khỉ tên là Sālaka, người mà ông đã huấn luyện để chơi với một con rắn; bằng cách này người đàn ông kiếm sống. Trong một bữa tiệc, ông ta giao con khỉ cho người bạn của mình, Bodhisatta sinh ra là một thương gia, và khi ông ta trở lại bảy ngày sau đó, ông ta đã đánh con khỉ và mang nó đi. Khi người đàn ông đang ngủ, con khỉ đã bỏ trốn và từ chối bị dụ dỗ trở lại bởi người đàn ông.
+
+Câu chuyện này được kể liên quan đến một vị Trưởng lão đã ngược đãi một sa-di được ngài truyền giới. Vài lần vị sa-di đã trở về cuộc sống cư sĩ, nhưng lại quay lại theo yêu cầu của vị Trưởng lão, nhưng cuối cùng vị ấy đã từ chối bị thuyết phục. Vị sa-di chính là con khỉ. Ja.ii.266f.
 
 ## Notes

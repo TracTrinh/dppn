@@ -5,7 +5,7 @@ base_headword: "Samādhisutta"
 disambiguator: "09"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samādhisutta 09. The Buddha explains how a monk who has won such concentration 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật giải thích cách một tỳ-kheo đã đắc được định tâm như vậy đến mức không nhận thức được đất, nước, v.v., nhưng vẫn xoay sở để có tưởng. AN.v.7 f.; cf. AN.v.353f.
 
 ## Notes

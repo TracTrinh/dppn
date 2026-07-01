@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gavaccha Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -37,6 +37,10 @@ As a result, he was king of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Cūḷa Gavaccha, Trưởng lão Cūla Gavaccha. Một Bà-la-môn ở Kosambī. Sau khi nghe Đức Phật thuyết pháp, ngài đã gia nhập Tăng đoàn. Vào thời điểm đó, các tỳ-kheo ở Kosambī đã trở nên hay tranh cãi, nhưng Gavaccha vẫn kiên định và đã chứng đắc quả vị *Arahant*.
+
+Vào thời của Đức Phật Padumuttara, ngài là một người lao động và, khi thấy vị tỳ-kheo Sujāta đang tìm kiếm những mảnh vải vụn để may y, ngài đã tặng vị đó bộ y phục của mình.
+
+Như một kết quả, ngài đã làm vua của chư thiên ba mươi ba lần và làm vua của loài người bảy lần (Thag.11; Thag­a.i.55f). Ngài, có lẽ, đồng nhất với Upaḍḍhadussadāyaka của Apadāna. Ap.ii.435f; nhưng những vần kệ tương tự, trong Thag­a. (i.266), cũng được cho là của Heraññakāni.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Gaṇṭhipada"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Gaṇṭhipada, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Gaṇṭhipada, Cūla Gaṇṭhipada. Một tác phẩm về Vinaya, được cho là của Moggallāna và được phái *Ekaṁsika* sử dụng trong cuộc tranh luận *Pārupaṇa* của họ. Bode, 76.
 
 ## Notes

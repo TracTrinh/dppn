@@ -5,7 +5,7 @@ base_headword: "Cūḷa Māgandiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Māgandiya, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Māgandiya, Cūla Māgandiya. Em trai của vị Bà-la-môn Māgandiya. Ông đã chăm sóc cho Māgandiyā khi cha mẹ cô từ bỏ thế gian và hộ tống cô đến Kosambī, nơi cô được đưa ra trình diện tại triều đình của Udena và trở thành vợ của vị vua này. Dhp­a.i.202f; AN­a.i.236.
 
 ## Notes

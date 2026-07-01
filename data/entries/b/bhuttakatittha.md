@@ -5,7 +5,7 @@ base_headword: "Bhuttakatittha"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhuttakatittha. A ford, probably on the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhuttakatittha. Một bến sông, có thể là trên sông Mahā Vālukanadī. Nó cách *vihāra* Vālagāma hai do-tuần. Xem Tambasumana.
 
 ## Notes
