@@ -5,7 +5,7 @@ base_headword: "Bhadra Hatthakasutta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ The Commentary says (SN­a.iii.103) that in this *Sutta vaṭṭadukkha* (? the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadra Hatthakasutta, hay ? Bhagandha Hatthakasutta. Vị trưởng làng Bhadragaka đến thăm Đức Phật tại Uruvelakappa và xin một bài giảng về *dukkha*. Đức Phật nói rằng ngài sẽ không nói về tương lai hay quá khứ, mà chỉ nói về hiện tại. Bằng cách đặt câu hỏi cho Bhadragaka, Đức Phật đã làm cho ông ta nhận ra rằng sự buồn phiền và đau khổ chỉ đến từ lòng ham muốn. Ví dụ, ông ta sẽ đau buồn nếu có chuyện gì xảy ra với bạn bè của mình ở Uruvelakappa, hoặc với con trai ông là Ciravāsi, hoặc với vợ ông; nhưng ông ta sẽ không lo lắng về những người mà ông không quen biết và do đó không được ông yêu thương (SN.iv.327f).
+
+Chú giải nói (SN­a.iii.103) rằng trong bài *Sutta* này *vaṭṭadukkha* (? nỗi đau khổ của sự luân hồi) được miêu tả.
 
 ## Notes

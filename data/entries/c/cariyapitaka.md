@@ -5,7 +5,7 @@ base_headword: "Cariyāpiṭaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -47,6 +47,14 @@ It was preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cariyāpiṭaka. Một trong mười lăm cuốn sách của Khuddakanikāya, thường được đặt cuối cùng trong danh sách. Nó chứa đựng những câu chuyện bằng các bài kệ theo niêm luật về những đời sống quá khứ của Đức Phật, chủ yếu trình bày mười *pāramī*, nhờ đó mà ngài đạt được Giác ngộ. Mỗi câu chuyện được gọi là một *Cariyā*. Những câu chuyện được kể ở đây bằng thơ kệ tương đương với các câu chuyện Jātaka tương ứng bằng văn xuôi, và đòi hỏi phải có một sự quen thuộc trước với tất cả các chi tiết của những câu chuyện văn xuôi. Hai *pāramī* đầu tiên được minh họa bởi mười câu chuyện cho mỗi phần, trong khi những *pāramī* còn lại chỉ có mười lăm câu chuyện trong đó.
+
+Các Dīghabhāṇaka đã từ chối đưa Cariyāpiṭaka vào các sách kinh điển của họ, nhưng nó đã được các Majjhimabhāṇaka chấp nhận (DN­a.i.15, 23).
+
+Có tồn tại một bản Chú giải về Cariyāpiṭaka được gán cho Dhammapāla và tạo thành một phần của Paramathadīpanī (được xuất bản trong *Hewavitarane Bequest Series*, tập xxvi.; 1929).
+
+Theo Bản Chú giải (Cp-a.1, 2), Cariyāpiṭaka đã được Gotama Buddha thuyết giảng tại Nigrodhārāma, sau khi kết thúc Buddhavaṁsa và theo sự thỉnh cầu của Sāriputta.
+
+Nó đã được Mahinda thuyết giảng tại Nandanavana ở Anurādhapura, ngay sau khi ngài đến Ceylon (Dpv.xiv.45; nhưng xem Mhv.xv.179).
 
 ## Notes

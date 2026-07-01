@@ -5,7 +5,7 @@ base_headword: "Cara"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cara 01. Caraka. Một trong những người kế vị của Mahā Sammata và là một thành viên của bộ tộc Sākya. Vị này có một người con trai tên là Upacara. Mhv.ii.2; Dpv.iii.5; DN­a.i.258; Ja.iii.454; Snp-a.i.352.
 
 ## Notes

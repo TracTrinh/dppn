@@ -5,7 +5,7 @@ base_headword: "Cara"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cara 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cara 02. Một thủ lĩnh Yakkha để những người theo Đức Phật kêu cầu trong những lúc cần thiết. DN.iii.205; ấn bản của PTS gọi vị này là Māṇicara cũng như ấn bản PTS của bản chú giải (DN.iii.970); nhưng ấn bản Sinhalese, cả phần văn bản và chú giải, đều chia tên này thành hai như sau: Māṇi và Cara.
 
 ## Notes

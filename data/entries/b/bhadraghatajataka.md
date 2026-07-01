@@ -5,7 +5,7 @@ base_headword: "Bhadraghaṭajātaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,8 @@ The story was told in reference to a ne’er-do-well nephew of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadraghaṭajātaka (Ja 291). Có một lần Bodhisatta là một vị thương gia giàu có với một người con trai duy nhất. Ông đã làm nhiều việc thiện lớn lao và được sinh làm Sakka. Người con trai đã phung phí tất cả tài sản của ông vào việc uống rượu và những trò giải trí và rơi vào cảnh nghèo khó. Sakka đã rủ lòng thương xót anh ta và đưa cho anh ta Bhadraghaṭa (Chiếc cốc Ước nguyện), yêu cầu anh ta hãy bảo quản nó cẩn thận. Nhưng một ngày nọ, khi người con trai đang say xỉn, anh ta đã ném chiếc cốc lên không trung và làm vỡ nó, do đó một lần nữa đẩy bản thân mình vào cảnh khốn cùng.
+
+Câu chuyện được kể liên quan đến một đứa cháu trai vô tích sự của Anāthapiṇḍika. Chú của anh ta đã giúp đỡ anh ta hết lần này đến lần khác, nhưng anh ta đã phung phí tất cả, và một ngày nọ Anāthapiṇḍika đã đuổi anh ta ra khỏi nhà. Hai kẻ phung phí đó là một. Ja.ii.431f.
 
 ## Notes

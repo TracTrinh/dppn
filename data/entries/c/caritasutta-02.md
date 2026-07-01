@@ -5,7 +5,7 @@ base_headword: "Caritasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Caritasutta 02. The four right practices: truthful speech, speech not spiteful, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caritasutta 02. Bốn thực hành chân chính: nói lời chân thật, nói lời không đâm thọc, nói lời nhu hòa, nói lời trí tuệ. AN.ii.141.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaggava"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaggava 01. A teacher to whom the Buddha went after leaving <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaggava 01. Một vị đạo sư mà Đức Phật đã đến gặp sau khi rời khỏi Rājagaha, và trước khi tìm đến Āḷāra và Uddaka. Thīg­a., p. 2.
 
 ## Notes

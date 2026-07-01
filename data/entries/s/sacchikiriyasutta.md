@@ -5,7 +5,7 @@ base_headword: "Sacchikiriyāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sacchikiriyāsutta. The eight releases must be realized by one’s own person; f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sacchikiriyāsutta. Tám giải thoát phải được chứng nghiệm bởi chính bản thân người đó; những kiếp sống trước qua sự hồi tưởng; sự chết và tái sinh của chúng sinh qua sự thấy; và sự đoạn tận các *āsavas* bằng trí tuệ. AN.ii.182.
 
 ## Notes

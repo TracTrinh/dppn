@@ -5,7 +5,7 @@ base_headword: "Saddanīti"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saddanīti. A very important grammatical work by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddanīti. Một tác phẩm ngữ pháp rất quan trọng của Aggavaṁsa xứ Pagan. Vài năm sau khi nó được hoàn thành vào năm 1154, Uttarajīva đã đến thăm Mahā Vihāra ở Tích Lan, và mang theo mình, như một món quà, một bản sao của Saddanīti, tác phẩm đã được đón nhận với sự ngưỡng mộ nồng nhiệt. Gv.63, 72; Svd.1238; Bode, 16, 17.
 
 ## Notes

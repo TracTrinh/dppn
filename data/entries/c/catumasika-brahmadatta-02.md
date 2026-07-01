@@ -5,7 +5,7 @@ base_headword: "Cātumāsika Brahmadatta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cātumāsika Brahmadatta 02. King of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātumāsika Brahmadatta 02. Vua của Benares. Cứ bốn tháng một lần ông lại đến thăm công viên của mình. Một ngày nọ, khi đi vào công viên, ông nhìn thấy một cây *pāricchattaka* phủ đầy hoa, và đã hái một trong những bông hoa đó. Đoàn tùy tùng của ông đã làm theo gương của ông, và chẳng mấy chốc cái cây đã hoàn toàn trơ trụi. Khi trở về từ công viên, ông đã quan sát thấy điều này, và cũng thấy cách một cái cây khác gần đó, không có hoa, đã tránh khỏi sự cướp bóc đó như thế nào. Ông ngay sau đó đã suy ngẫm về việc của cải dẫn đến rắc rối ra sao, và, từ bỏ vương quốc của mình, ông đã đắp y phục của một nhà sư, về sau trở thành một Pacceka Buddha. Lời *udāna* của ông được đưa vào trong Khaggavisāṇasutta. Snp.vs.64; Snp-a.i.116; Ap­a.i.161.
 
 ## Notes

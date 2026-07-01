@@ -5,7 +5,7 @@ base_headword: "Catumaṭṭajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,8 @@ The story was told of an old monk who interrupted a conversation between <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catumaṭṭajātaka (Ja 187). Hai con ngỗng từ Cittakūṭa từng sử dụng một cái cây nọ làm nơi đậu, bất cứ khi nào chúng đến gần nó, và trở nên thân thiện với vị thọ thần của cái cây, vị này chính là Bodhisatta. Chúng đã cùng nhau trò chuyện về đạo lý cho đến khi một con chó rừng đến và làm gián đoạn chúng. Sau đó bầy ngỗng đã bay đi và không quay trở lại.
+
+Câu chuyện được kể về một nhà sư già đã ngắt lời một cuộc trò chuyện giữa Sāriputta và Moggallāna. Nhà sư đó chính là con chó rừng. Ja.ii.106f.
 
 ## Notes

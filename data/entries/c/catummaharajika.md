@@ -5,7 +5,7 @@ base_headword: "Cātummahārājikā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -54,6 +54,18 @@ The Cātummahārājikā world is situated half-way up Mount <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātummahārājikā. Những cư dân của cõi *Deva* thấp nhất (*Cātummahārājika*). Cõi này lấy tên từ Tứ Đại Thiên Vương (Cattāro Mahā Rājāno), những vị cư ngụ ở đó với tư cách là người bảo vệ bốn phương: Dhataraṭṭha của phương Đông, Virūḷhaka của phương Nam, Virūpakkha của phương Tây, và Vessavaṇa của phương Bắc (DN.ii.207f; iii.194f).
+
+Họ có những đoàn tùy tùng lớn bao gồm, theo thứ tự, là các Gandhabbas, *Kumbhaṇḍas*, Nāgas và Yakkhas, tất cả đều cư ngụ trong cùng một thế giới với các chúa tể của mình và tháp tùng họ trong những chuyến đi. Những vị vua này được đề cập (DN.ii.257f) là đã đảm nhận việc bảo vệ Đức Phật từ khoảnh khắc ngài được thụ thai trong bụng mẹ, và trong Āṭānāṭiyasutta, họ xuất hiện như những người bảo vệ không chỉ cho Đức Phật mà còn cho cả những tín đồ của ngài (Xem, vd, Dhp­a.ii.146; iii.96).
+
+Tứ Thiên Vương dường như được xem như là những người ghi chép lại các sự kiện trong những buổi tụ họp của chư thiên (DN.ii.225). Vào ngày thứ tám của nửa tháng âm lịch, họ phái các cố vấn của mình đi vào thế gian để khám phá xem con người có trau dồi sự chân chính và giới hạnh hay không; vào ngày thứ mười bốn họ phái những người con trai của mình, vào ngày thứ mười lăm chính họ sẽ xuất hiện ở thế gian, tất cả những chuyến đi này đều có cùng một mục đích. Sau đó, tại buổi tụ họp của chư thiên, họ đệ trình báo cáo của mình cho chư thiên Tāvatiṁsa, những vị này sẽ vui mừng hoặc than thở tùy theo việc con người có phát triển trong sự chân chính hay không (AN.i.142f.; để biết thêm chi tiết xem AN­a.i.376f).
+
+Bốn vị Thiên này vượt trội hơn những cư dân khác trong cõi giới của họ về mười phương diện – sắc đẹp, tuổi thọ, v.v. – bởi vì phước báu của họ lớn hơn những người khác (AN.iv.242).
+
+Bên cạnh những vị Thiên Vương này và những người theo họ, còn có những cư dân khác có thể được tìm thấy trong cõi của họ – các Khiḍḍāpadosikā, Manopadosikā, Sitavalāhakā, Uṇhavalāhakā, và các thiên tử Candima và Suriya (Vibh­a.519; MNid-a.108).
+
+Cuộc sống trong cõi Cātummahārājikā kéo dài, theo sự tính toán của con người, là chín mươi ngàn năm (DN­a.ii.472, 647, nhưng xem Kv.207). Chúng sinh được sinh ra ở đó là do kết quả của những hành động đạo đức và đức tin khác nhau, tuy nhiên, được dựa trên những động cơ không quá cao cả (AN.iv.60).
+
+Cõi Cātummahārājikā nằm ở lưng chừng Núi Sineru. Một số chư thiên của cõi giới này cư ngụ trên núi, một số khác ở trên bầu trời (về những vị thần này xem Moulton: *Zoroastrianism* 22-7, 242.)
 
 ## Notes

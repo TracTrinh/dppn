@@ -5,7 +5,7 @@ base_headword: "Saddhammacārī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammacārī. A monk of Ceylon, who was quoted as their authority by the *Eka
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammacārī. Một vị tỳ-kheo ở Tích Lan, người đã được những nhóm *Ekaṁsikas* ở Miến Điện trích dẫn như là một thẩm quyền của họ. Bode, 66; Sās.119.
 
 ## Notes

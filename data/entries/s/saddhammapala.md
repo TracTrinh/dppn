@@ -5,7 +5,7 @@ base_headword: "Saddhammapāla"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhammapāla. An author of Pagan, probably of the fourteenth century. He wrote
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammapāla. Một tác giả ở Pagan, có lẽ thuộc thế kỷ mười bốn. Ông đã viết tác phẩm Saddavutti. Bode, 29.
 
 ## Notes

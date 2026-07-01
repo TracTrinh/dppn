@@ -5,7 +5,7 @@ base_headword: "Cātuddisasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Cātuddisasutta. Five qualities that make a monk a “four-regioner” – movin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātuddisasutta. Năm phẩm chất làm cho một nhà sư trở thành một “người thuộc bốn phương” – di chuyển không bị cản trở ở cả bốn phương hướng. AN.iii.135.
 
 ## Notes

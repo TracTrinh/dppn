@@ -5,7 +5,7 @@ base_headword: "Saddhammacakkasāmī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammacakkasāmī. An eminent monk sent by Bayin Naung of Burma to purify the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammacakkasāmī. Một vị tỳ-kheo xuất chúng được Bayin Naung của Miến Điện phái đi để thanh lọc tôn giáo ở Lào vào năm 1578 sau Công nguyên. Sās.51; Bode, 47.
 
 ## Notes

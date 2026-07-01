@@ -5,7 +5,7 @@ base_headword: "Bhaggavagotta"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhaggavagotta. A clothed Wanderer (*channaparibbājaka*) (DN­a.iii.816), who li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaggavagotta. Một vị du sĩ ngoại đạo mặc quần áo (*channaparibbājaka*) (DN­a.iii.816), người đã sống trong một khu vườn tản bộ gần Anupiyā. Ông là một người bạn của Sunakkhatta (*q.v.*). Có một lần Đức Phật đã đến thăm ông, và cuộc trò chuyện của họ được ghi lại trong Pāṭikasutta (*q.v.*) (DN.iii.1ff). Ông hiển nhiên được gọi như vậy bởi vì ông thuộc về *gotta* có tên là Bhaggava (? những người thợ gốm).
 
 ## Notes

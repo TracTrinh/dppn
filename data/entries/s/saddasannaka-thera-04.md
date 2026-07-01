@@ -5,7 +5,7 @@ base_headword: "Saddasaññaka Thera"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddasaññaka Thera 04. . An *Arahant*. Thirty-one *kappas* ago he was a hunter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddasaññaka Thera 04. Một vị *Arahant*. Ba mươi mốt *kappa* trước ngài là một người thợ săn, và, khi đang lang thang trong rừng, đã được lắng nghe một bài pháp của Sikhī Buddha. Ap.i.282.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhagīrasa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhagīrasa. A king of old, mentioned as having held great sacrifices; he could n
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhagīrasa. Một vị vua thời xưa, được nhắc đến như là người đã tổ chức các cuộc tế lễ lớn; tuy nhiên, ông không thể tiến xa hơn cõi ngạ quỷ. Ja.vi.99.
 
 ## Notes

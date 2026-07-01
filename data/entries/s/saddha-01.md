@@ -5,7 +5,7 @@ base_headword: "Saddhā"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhā 01. An *upāsikā* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhā 01. Một nữ cư sĩ (*upāsikā*) ở Sāvatthī. Nghĩ rằng việc cho phép một vị tỳ-kheo giao cấu với mình sẽ là sự bố thí cao thượng nhất, cô ta đã tiếp cận một vị tỳ-kheo và tự dâng hiến mình. Lời đề nghị, tuy nhiên, đã bị từ chối. Vin.iii.39.
 
 ## Notes

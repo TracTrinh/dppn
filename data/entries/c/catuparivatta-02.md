@@ -5,7 +5,7 @@ base_headword: "Catuparivaṭṭa"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Catuparivaṭṭa 02. One of the *Suttas* not included in the Three Recensions (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catuparivaṭṭa 02. Một trong những bài *Sutta* không được đưa vào trong Ba Bản truyền tụng (Vin-a.iv.742).
 
 ## Notes

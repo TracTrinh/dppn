@@ -5,7 +5,7 @@ base_headword: "Bhaginīsutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaginīsutta 01. It would not be easy to find a person who has not been one’s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaginīsutta 01. Sẽ không dễ để tìm thấy một người chưa từng là em gái/chị gái của mình trong suốt *Saṁsāra*. SN.ii.189.
 
 ## Notes

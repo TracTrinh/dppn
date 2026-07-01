@@ -5,7 +5,7 @@ base_headword: "Bhadragaka"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhadragaka. A headman of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadragaka. Một vị trưởng làng của Uruvelakappa và là cha của Ciravāsi (SN.iv. 327). Xem Bhadrasutta.
 
 ## Notes

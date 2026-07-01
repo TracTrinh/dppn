@@ -5,7 +5,7 @@ base_headword: "Saddhammajotipāla"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -41,6 +41,8 @@ On <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammajotipāla (thường được biết đến là Chapaṭa). Học trò của Uttarajīva xứ Pagan. Ông đã đến Tích Lan cùng với thầy của mình, thọ nhận cụ túc giới ở đó, và đã sống tại Mahā Vihāra trong một vài năm. Trong số những tác phẩm của ông có Kaccāyana *suttaniddesa*, Saṅkhepavaṇṇanā, Sīmālaṅkāra, Vinayagūḷhatthadīpanī, Nāmācāradīpanī (về đạo đức), Ganthisāra (một tuyển tập các văn bản), cùng với *Mātukatthadīpanī* và Paṭṭhānagaṇānaya (cả hai đều về các chủ đề Abhidhamma).
+
+Vào dịp Chapaṭa trở lại Miến Điện, ông đã dẫn theo bốn người bạn đồng hành từ Tích Lan — Rāhula, Ānanda, Sīvali và Tāmalinda — và, với sự trợ giúp của họ, ông đã thành lập nên *Sīhalasaṅgha* ở Pagan, những người tuân theo truyền thống Mahā Vihāra. Vua Narapatisithu đã bảo trợ cho họ, nhưng cũng mở rộng sự bảo trợ đến các môn phái khác nữa, và do đó, *Sīhalasaṅgha* chỉ vẫn là một môn phái trong số một vài phái ở Miến Điện. Chapaṭa sống vào thế kỷ thứ mười hai. Gv.64, 74; Sās.65, 74; Svd.1247 f,; Bode, 17, 18, 19.
 
 ## Notes

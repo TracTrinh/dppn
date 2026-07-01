@@ -5,7 +5,7 @@ base_headword: "Saddasaññaka Thera"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddasaññaka Thera 02. An *Arahant*. Ninety-four *kappas* ago he saw an eclips
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddasaññaka Thera 02. Một vị *Arahant*. Chín mươi tư *kappa* trước ngài đã nhìn thấy một kỳ nhật thực và nghe thấy một tiếng vang lớn báo hiệu sự xuất hiện của một vị Phật trên thế gian. Với trái tim thành kính, ngài đã nghĩ về Đức Phật, dù ngài không nhìn thấy Ngài. Ap.i.245.
 
 ## Notes

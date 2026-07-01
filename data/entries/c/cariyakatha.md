@@ -5,7 +5,7 @@ base_headword: "Cariyākathā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cariyākathā. The fifth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cariyākathā. Phẩm thứ năm của Paññāvagga thuộc Paṭisambhidāmagga. Paṭis.ii.225f.
 
 ## Notes

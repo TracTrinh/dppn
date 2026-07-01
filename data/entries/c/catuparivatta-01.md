@@ -5,7 +5,7 @@ base_headword: "Catuparivatta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Catuparivatta 01. Another name for the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catuparivatta 01. Một tên gọi khác của Bahudhātukasutta. MN.iii.67.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Carasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -24,6 +24,6 @@ Carasutta. In every posture one must strive ardently and scrupulously against lu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Carasutta. Trong mọi oai nghi người ta phải nỗ lực nhiệt thành và cẩn trọng để chống lại những suy nghĩ tham ái, ác ý và hãm hại. AN.ii.13; cũng được tìm thấy trong Itivuttaka, 115.
 
 ## Notes

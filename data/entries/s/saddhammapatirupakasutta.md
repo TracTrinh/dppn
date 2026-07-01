@@ -5,7 +5,7 @@ base_headword: "Saddhammapaṭirūpakasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhammapaṭirūpakasutta. The Buddha explains to <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammapaṭirūpakasutta. Đức Phật giải thích cho Mahā Kassapa làm thế nào mà trong giáo pháp (*Sāsana*) lại có nhiều giới luật hơn và ít thành viên trong Tăng đoàn trở thành những vị *Arahant* hơn. Sau đó một giáo lý giả mạo nảy sinh và giáo lý chân thật sẽ biến mất. SN.ii.223f.
 
 ## Notes

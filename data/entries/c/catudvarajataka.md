@@ -5,7 +5,7 @@ base_headword: "Catudvārajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -35,6 +35,12 @@ The story is sometimes called the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catudvārajātaka (Ja 439). Chứa đựng câu chuyện về Mittavindaka.
+
+Jātaka này có lẽ lấy tên từ sự kiện rằng Ussadaniraya, nơi Mittavindaka bị định sẵn phải chịu đau khổ, trông giống như một thành phố có bốn cổng, được bao quanh bởi một bức tường.
+
+Đối với câu chuyện giới thiệu, xem Gijjhajātaka (Ja 164).
+
+Câu chuyện đôi khi được gọi là Mahā Mittavindakajātaka, vd: Ja.i.363; iii.206.
 
 ## Notes

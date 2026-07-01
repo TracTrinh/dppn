@@ -5,7 +5,7 @@ base_headword: "Catunikāyikabhaṇḍika Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Catunikāyikabhaṇḍika Thera. Evidently a well-known commentator. He is quote
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catunikāyikabhaṇḍika Thera. Rõ ràng là một nhà chú giải nổi tiếng. Vị ấy được trích dẫn như một người có thẩm quyền trong Saṁyutta Commentary (Bản Chú giải Saṁyutta) SN­a.i.17.
 
 ## Notes

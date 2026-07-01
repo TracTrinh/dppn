@@ -5,7 +5,7 @@ base_headword: "Bhadrāvudha"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -33,6 +33,10 @@ At the end of the discourse, Bhadrāvudha and his pupils became *Arahants* and j
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadrāvudha. Một trong mười sáu học trò của Bāvarī, người, theo yêu cầu của ông, đã đến thăm Gotama Buddha (Snp.vs.1008). Ông đã hỏi Đức Phật về cách thức một người có thể vượt qua sự bám chấp và vượt qua dòng nước lũ. Đức Phật đã trả lời, bằng cách không bám víu vào bất cứ thứ gì trên thế gian, vì Māra luôn theo sau kẻ bám víu vào các sự vật.
+
+Câu hỏi và câu trả lời này được chứa đựng trong Bhadrāvudhamāṇavapuccha (Snp.vs.1101-4), vốn được giải thích trong Cūḷa Niddesa (CNid.36f).
+
+Khi kết thúc bài pháp, Bhadrāvudha và các học trò của ông đã trở thành các vị *Arahant* và gia nhập Tăng đoàn. Snp­a.ii.599.
 
 ## Notes

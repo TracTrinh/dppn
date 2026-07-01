@@ -5,7 +5,7 @@ base_headword: "Saddhammappakāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhammappakāsinī. A Commentary on the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammappakāsinī. Một bản Chú giải về tác phẩm Paṭisambhidāmagga do Mahā Nāma xứ Tích Lan thực hiện. Gv.61.
 
 ## Notes

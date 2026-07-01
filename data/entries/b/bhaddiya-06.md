@@ -5,7 +5,7 @@ base_headword: "Bhaddiya"
 disambiguator: "06"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaddiya 06. One of the four chief merchants of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiya 06. Một trong bốn vị thương gia chính của Ekarāja, vua của Pupphavatī (Benares). Ja.vi.135.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Caritasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Caritasutta 01. The four wrong practices: lying speech, spiteful speech, bitter 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Caritasutta 01. Bốn thực hành sai trái: nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm. AN.ii.141.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cātigatikapaṭimāghara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cātigatikapaṭimāghara. An image-house attached to the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātigatikapaṭimāghara. Một ngôi nhà đặt tượng gắn liền với Mahā Thūpa và được xây dựng bởi Mahā Dāṭhika Mahā Nāga. Mhv­ṭ.634.
 
 ## Notes

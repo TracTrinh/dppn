@@ -5,7 +5,7 @@ base_headword: "Saddhammakitti Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhammakitti Thera. A pupil of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammakitti Thera. Một học trò của Ariyavaṁsa. Ngài sống ở Ketumatī (Taungo) và đã viết tác phẩm nổi tiếng Ekakkharakosa, và, có thể cả cuốn *Sirivicittālaṅkāra*. Bode, 45 and n.3.
 
 ## Notes

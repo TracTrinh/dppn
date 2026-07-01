@@ -5,7 +5,7 @@ base_headword: "Sadāmattā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sadāmattā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sadāmattā. Một hạng chư thiên, có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

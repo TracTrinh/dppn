@@ -5,7 +5,7 @@ base_headword: "Cātumasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -46,6 +46,22 @@ so are there four terrors awaiting the monk –
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātumasutta. Được thuyết giảng tại *Amalakīvana* ở Cātumā. Một số thành viên mới của Tăng đoàn, cư ngụ gần Đức Phật, đã gây ồn ào đến mức họ bị triệu tập và bị yêu cầu phải rời đi ngay lập tức. Nhưng những người Sākiyan của Cātumā và Phạm thiên Sahampati đã nói giúp cho họ và họ được phép quay trở lại.
+
+Đức Phật sau đó đã giảng cho họ rằng giống như bốn nỗi kinh hoàng đang chờ đợi một người lội xuống nước –
+
+- sóng lớn,
+- cá sấu,
+- nước xoáy
+- và cá mập –
+
+cũng có bốn nỗi kinh hoàng đang chờ đợi một nhà sư –
+
+- sự tức giận,
+- sự tham ăn,
+- những khoái lạc của các giác quan
+- và phụ nữ. MN.i.456ff; về vấn đề này xem Mil.209.
+
+Cātumā. Một ngôi làng của người Sākiyan có chứa một hội trường; gần đó là Amalakīvana nơi Đức Phật từng lưu lại và thuyết giảng Cātumasutta (MN.i.456f.; MN­a.ii.660).
 
 ## Notes

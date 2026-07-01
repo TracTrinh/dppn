@@ -5,7 +5,7 @@ base_headword: "Bhāgīrathī"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhāgīrathī 01. A name for the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāgīrathī 01. Một tên gọi dành cho sông Ganges (ví dụ, Ja.v.93, 255; Ap.ii.436). Con sông được gọi như vậy bởi vì vị hiền triết Bhagīratha đã lấp đầy đại dương bằng sông Ganges, con sông mà ông đã nhận làm con gái của mình (*Mahā Bhārata*, iii. 107, 9961; v.178, 7096). Nó cũng có thể là tên của một con sông riêng biệt chảy từ Himālaya và tạo thành một trong những nguồn cung cấp nước chính của sông Ganges. Con sông chảy ngang qua Haṁsavatī (ví dụ, Ap.i.51; ii.343).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sacittasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sacittasutta. Like a man or woman fond of self-adornment, examining the reflecti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sacittasutta. Giống như một người đàn ông hay phụ nữ thích điểm trang, xem xét hình bóng khuôn mặt của mình trong gương để xem nó có sạch sẽ hay không, cũng vậy một vị tỳ-kheo nên tự xem xét chính mình, và, khi tìm thấy những ác pháp trong bản thân mình, nên nỗ lực trừ bỏ chúng một cách tha thiết như thể đầu của mình đang bốc cháy. AN.v.92f.
 
 ## Notes

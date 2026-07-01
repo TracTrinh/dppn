@@ -5,7 +5,7 @@ base_headword: "Catubhāṇavāra"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Catubhāṇavāra. A compilation of twenty-seven extracts from the five *Nikāya
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catubhāṇavāra. Một bản biên soạn gồm hai mươi bảy đoạn trích từ năm *Nikāya*, chủ yếu là từ Khuddakapātha. Nó cũng bao gồm một vài *Sutta* và tất cả những Paritta nổi tiếng (*q.v.*). Không rõ ngày biên soạn và tác giả. Có một bản chú giải cho cuốn sách này được gọi là Sāraṭṭhasamuccaya, được viết bởi một đệ tử của Trưởng lão Ānanda Vanaratana, và một bản diễn giải tiếng Sinhalese của thế kỷ thứ mười tám, được viết bởi Saraṇaṅkara *Saṅgharāja*. Xem Lời giới thiệu của Sāraṭṭhasamuccaya (H.B.S.); cũng xem Gv.65, 75.
 
 ## Notes

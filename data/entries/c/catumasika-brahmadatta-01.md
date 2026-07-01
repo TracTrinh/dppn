@@ -5,7 +5,7 @@ base_headword: "Cātumāsika Brahmadatta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cātumāsika Brahmadatta 01. A king of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātumāsika Brahmadatta 01. Một vị vua của Benares. Khi đi đến công viên của mình vào đầu mùa hè, ông đã nghỉ ngơi dưới một cây *kovilāra* rậm rạp những lá. Đến một lần nữa vào giữa mùa hè, ông thấy nó đầy hoa. Trong chuyến thăm thứ ba của mình, vào cuối mùa, cái cây đã trơ trụi và héo úa, và, khi nằm dưới nó, ông đã nhận ra rằng sự tàn tạ và cái chết là phần số chung của tất cả. Ngay sau đó ông đã trở thành một Pacceka Buddha. Lời *udāna* của ông được đưa vào trong Khaggavisāṇasutta. Snp.vs.44; Snp­a.i.90f; Ap.i.9 (vs.18); Ap­a.i.141f.
 
 ## Notes

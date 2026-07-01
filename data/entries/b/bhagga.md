@@ -5,7 +5,7 @@ base_headword: "Bhaggā"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -48,6 +48,12 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaggā, Bhaggas. Tên của một bộ tộc và một quốc độ, mà thủ đô của nó là Suṁsumāragiri (*q.v.*). Đức Phật đã đi đến đó nhiều lần trong suốt quá trình du hành của ngài (ví dụ, AN.ii.61, AN.iv.85, v.v.; Vin.ii.127; iv. 115, 198) và ba điều luật dành cho các tỳ-kheo đã được đặt ra tại đó (Vin.v.145).
+
+Bodhirājakumāra (*q.v.* 1), con trai của Udena ở Kosambi, đã sống ở đó, rõ ràng với tư cách là một vị phó vương của cha mình, trong trường hợp đó những người Bhaggā chịu sự cai trị của Kosambī. CHI. (i.175) nói rằng những người Bhaggā là các thành viên của liên minh Vajjī. Quốc độ Bhagga nằm giữa Vesālī và Sāvatthī.
+
+Chính trong khi đang lưu trú ở quốc độ Bhagga, Moggallāna đã bị Māra tấn công đi vào trong dạ dày của ông (MN.i.332), và chính tại đó ông đã thuyết giảng bài Anumānasutta (MN.i.95). Sirimaṇḍa và cha mẹ của Nakula là những cư dân của quốc độ Bhagga, và Sigālapitā (Thag­a.i.70) đã đi đến đó để thiền định; tại đó ông đã trở thành một vị *Arahant*.
+
+Trong Apadāna (Ap.ii.359) những người Bhaggā được đề cập cùng với những người Kārusā.
 
 ## Notes

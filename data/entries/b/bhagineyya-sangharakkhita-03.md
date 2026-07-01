@@ -5,7 +5,7 @@ base_headword: "Bhāgineyya Saṅgharakkhita"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -27,6 +27,6 @@ Bhāgineyya Saṅgharakkhita 03. A monk who lived in the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāgineyya Saṅgharakkhita 03. Một vị tỳ-kheo đã lưu trú trong Koṭagerukapāsāda trong suốt thời gian ông bị bệnh. Căn thất của ông chỉ có thể kê vừa một chiếc giường, tuy nhiên chư thiên của hai cõi *Deva*, được dẫn đầu bởi Sakka, đã có mặt ở đó để hầu hạ ông. Mhv­ṭ. 552.
 
 ## Notes

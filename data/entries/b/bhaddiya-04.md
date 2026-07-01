@@ -5,7 +5,7 @@ base_headword: "Bhaddiya"
 disambiguator: "04"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaddiya 04. A *seṭṭhi*, father of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiya 04. Một vị trưởng giả, cha của Bhaddaji Thera.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhaggava"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhaggava 02. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaggava 02. Cha của Aṅgulimāla và là vị tế sư của vua xứ Kosala. Bhaggava là một người Bà-la-môn. Thag.A.ii.57.
 
 ## Notes

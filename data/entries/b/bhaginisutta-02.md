@@ -5,7 +5,7 @@ base_headword: "Bhaginīsutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaginīsutta 02. There are men who would not lie, even for a sister’s sake. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaginīsutta 02. Có những người đàn ông sẽ không nói dối, ngay cả vì lợi ích của một người em gái/chị gái. SN.ii.243.
 
 ## Notes

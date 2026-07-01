@@ -5,7 +5,7 @@ base_headword: "Saddhammanāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhammanāsinī. A *ṭīkā* on <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammanāsinī. Một bản *ṭīkā* về tác phẩm ngữ pháp của Kaccāyana, do Siridhammavilāsa xứ Pagan soạn ra. Bode, 26.
 
 ## Notes

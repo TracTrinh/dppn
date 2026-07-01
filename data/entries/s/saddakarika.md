@@ -5,7 +5,7 @@ base_headword: "Saddakārikā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddakārikā. A Pāli work, probably grammatical, by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddakārikā. Một tác phẩm tiếng Pāli, có lẽ là về ngữ pháp, của Sabbaguṇākara. Svd.1245.
 
 ## Notes

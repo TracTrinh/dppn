@@ -5,7 +5,7 @@ base_headword: "Saddatthacintā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saddatthacintā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddatthacintā, Saddatthabhedacintā. Một tác phẩm ngữ pháp của Saddhammasiri. Gv.62, 72; Svd. 1246. Bode, 20, 22. Có một vài bản chú giải cho tác phẩm này, bản được biết đến nhiều nhất là *Mahā Ṭīkā* của Abhaya xứ Pagan. Ngoài ra còn tồn tại một *nissaya* và một *dipanī* về tác phẩm này.
 
 ## Notes

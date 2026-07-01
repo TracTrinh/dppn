@@ -5,7 +5,7 @@ base_headword: "Saddhammaniyāmasuttā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saddhammaniyāmasuttā. Three *Suttas* on five things which make a man enter the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammaniyāmasuttā. Ba bài *Sutta* bàn về năm điều khiến một người bước vào con đường đúng đắn, trong những điều đúng đắn. AN.iii.174ff.
 
 ## Notes

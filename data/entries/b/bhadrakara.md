@@ -5,7 +5,7 @@ base_headword: "Bhadrakāra"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -29,6 +29,6 @@ Bhadrakāra. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadrakāra. Con trai của Vidhura và là người anh cả của Sambhava (Bodhisatta). Để biết chi tiết xem Sambhavajātaka (Ja 515). Bhadrakāra được đồng nhất với Moggallāna. Ja.v.67.
 
 ## Notes

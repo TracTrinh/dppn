@@ -5,7 +5,7 @@ base_headword: "Saddabindu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddabindu. A grammatical work by Kyocvā of Pagan. A Commentary on it, called <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddabindu. Một tác phẩm ngữ pháp của Kyocvā xứ Pagan. Một bản Chú giải cho tác phẩm này, gọi là Līnatthavisodhanī, được cho là của Ñāṇavilāsa xứ Pagan. Cũng có một *ṭīkā* được gọi là *Saddabinduvinicchaya* của *Sirisaddhammakitti* Mahā Phussadeva. Gv.64, 73; Sās.76; Bode, 25 and n.4.
 
 ## Notes

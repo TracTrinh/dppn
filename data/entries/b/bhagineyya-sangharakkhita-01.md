@@ -5,7 +5,7 @@ base_headword: "Bhāgineyya Saṅgharakkhita"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhāgineyya Saṅgharakkhita 01. A Thera. He was the nephew of the Elder <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāgineyya Saṅgharakkhita 01. Một vị Thera. Ông là cháu trai của Trưởng lão Saṅgharakkhita. Có một lần, tại một tu viện nọ, ông được trao tặng hai bộ y, và ngay lập tức cất đi bộ tốt hơn để dâng làm món quà tặng cho chú và cũng là vị thầy của mình. Khi kết thúc mùa an cư, ông đi đến tu viện của chú mình, và, sau khi hầu hạ ông, đã dâng lên món quà của mình. Nhưng người chú đã từ chối nó bất chấp sự thỉnh cầu lặp đi lặp lại của người thanh niên. Ngay sau đó người thanh niên trở nên giận dỗi, và trong khi đang quạt cho Trưởng lão, đã bắt đầu nghĩ xem anh ta có thể làm gì nếu anh ta trở thành một người cư sĩ. Anh ta sẽ bán bộ y của mình, mua một con dê cái, trở nên giàu có nhờ vào nó, kết hôn, và có một đứa con trai. Trong khi đưa đứa trẻ ra ngoài đi dạo, anh ta sẽ yêu cầu được phép bế đứa bé, vợ anh ta sẽ từ chối và tự mình bế nó. Sau đó cô ta sẽ làm rơi đứa trẻ và chồng cô ta sẽ đánh cô ta. Vừa nghĩ như vậy, trong lúc đãng trí, người thanh niên đã dùng chiếc quạt đánh vào Trưởng lão. Trưởng lão đã đọc được suy nghĩ của anh ta và khiển trách anh ta. Người thanh niên sau đó bắt đầu bỏ chạy, nhưng các tỳ-kheo đã bắt anh ta lại và đưa anh ta đến trước Đức Phật. Đức Phật đã thuyết giảng cho anh ta về sự khó khăn của việc kiểm soát tâm trí. Khi kết thúc bài pháp, người thanh niên đã trở thành một vị *Sotāpanna*. Dhp­a.i.300ff.
 
 ## Notes

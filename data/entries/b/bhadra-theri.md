@@ -5,7 +5,7 @@ base_headword: "Bhadrā Therī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhadrā Therī. She belonged to a clan of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadrā Therī. Bà thuộc về một gia tộc của những người Sākyan, và đã từ bỏ thế gian cùng với Pajāpatī Gotamī. Trong khi bà đang thiền định, Đức Phật đã gửi cho bà một tia sáng hào quang và bà đã đạt được quả vị *Arahant*. Thīg.vs.9; Thīg­a.13.
 
 ## Notes

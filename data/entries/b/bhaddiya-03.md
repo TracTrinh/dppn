@@ -5,7 +5,7 @@ base_headword: "Bhaddiya"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -38,6 +38,12 @@ Ja.ii.331, etc.; Divy.123ff calls it <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiya 03. *v.l.* Bhaddika. Một thành phố trong quốc độ Aṅga (Dhp­a.i.384; cũng xem iii.363). Đức Phật đã viếng thăm nơi đó nhiều lần và đôi khi lưu trú tại Jātiyāvana nơi Meṇḍaka, người sống ở đó, đã đến gặp ngài (Vin.ii.242; Dhp­a.iii.363; cũng xem AN.iii.36).
+
+Chính tại đó, điều luật cấm các tỳ-kheo mang dép đã được đặt ra. Vin.i.190; Dhp­a.iii.451f.; cũng có một quy định khác *liên quan đến* Pārājikā (Vin.iii.37f).
+
+Bhaddiya cũng là nơi cư ngụ của Bhaddaji Thera và Visākhā.
+
+Ja.ii.331, v.v.; Divy.123ff gọi nó là Bhadraṅkara.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saddhā"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saddhā 02. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhā 02. Một trong những người con gái của Sakka. Xem Sudhābhojanajātaka (Ja 535).
 
 ## Notes

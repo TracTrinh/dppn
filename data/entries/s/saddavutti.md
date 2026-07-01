@@ -5,7 +5,7 @@ base_headword: "Saddavutti"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saddavutti, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddavutti, Saddavuttipakāsaka. Một chuyên luận ngữ pháp của Saddhammapāla xứ Pagan. Có một bản *ṭīkā* cho tác phẩm này của Sāriputta, và một bản khác, gọi là *Saddavuttivivaraṇa*, của một tác giả vô danh. Gv.64, 65, 75; Bode, 29; Sās. (p. 90) gọi tác giả của Saddavutti là Saddhammaguru.
 
 ## Notes

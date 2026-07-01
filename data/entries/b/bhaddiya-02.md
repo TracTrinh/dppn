@@ -5,7 +5,7 @@ base_headword: "Bhaddiya"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -43,6 +43,10 @@ It is said (Vin.ii.182f) that Bhaddiya attained *Arahant*-ship in the first rain
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiya 02. Bhaddiya Thera. Được gọi là Kāḷigodhāputta, vị đệ nhất trong số những tỳ-kheo xuất thân quý tộc (*uccakulikānaṁ*) (AN.23). Ông thuộc về một gia đình của những *rāja* người Sākyan ở Kapilavatthu và đã gia nhập Tăng đoàn tại vườn Xoài Anupiya cùng với Anuruddha và những người khác, không lâu sau đó đạt được quả vị *Arahant*. Sống trong niềm an lạc của *Nibbāna*, dưới một gốc cây ở một nơi vắng vẻ, Bhaddiya thường thốt lên "*Aho sukhaṁ, aho sukhaṁ*." Khi điều này được báo cáo lên Đức Phật, ngài đã hỏi Bhaddiya, người đã trả lời rằng khi ông đang cai trị công quốc của mình ông được bảo vệ cẩn thận, nhưng lại luôn luôn lo sợ và căng thẳng, trong khi đó bây giờ, sau khi đã từ bỏ tất cả, ông hoàn toàn thoát khỏi mọi nỗi sợ hãi (Thag.vss.842-65; Ud­a.ii.10; Vin.i.183f.; Ja.i.140). Sự kiện này là nhân duyên cho việc thuyết giảng bài Sukhavihārījātaka (*q.v.*).
+
+Bhaddiya là con trai của Kāḷigodhā, một quý bà người Sākyan cao cấp nhất trong thời của bà. Trong năm trăm kiếp sống Bhaddiya đã từng là vua, do đó sự xuất chúng của ông trong kiếp sống này, mặc dù có những người khác quý tộc hơn (AN­a.i.109). Quyết tâm đạt được sự xuất chúng này của ông đã được hình thành trong thời của Padumuttara Buddha, khi ông sinh ra trong một gia đình rất giàu có và đã làm nhiều thiện sự cho mục đích đó. Trong khoảng thời gian giữa Kassapa Buddha và Gotama Buddha, ông là một gia chủ ở Benares và, khi phát hiện ra rằng các vị Pacceka Buddha dùng bữa trên bờ sông Ganges, đã đặt bảy phiến đá cho họ ngồi (Thag­a.ii.55f.; Ap.i.95f). Khi Bhaddiya đang cai trị công quốc Sākyan của mình ông đã có Soṇa Poṭiriyaputta làm vị tướng, người sau này cũng gia nhập Tăng đoàn (Thag­a.i.316). Anuruddha là bạn thân của Bhaddiya, và khi Anuruddha mong muốn từ bỏ thế gian, mẹ của ông chỉ đồng ý với điều kiện Bhaddiya phải đi cùng ông, hy vọng rằng, bằng cách này, sẽ kìm hãm được ông. Nhưng Anuruddha đã vượt qua mọi sự phản đối của Bhaddiya và thuyết phục ông từ bỏ đời sống gia đình trong vòng một tuần.
+
+Người ta nói (Vin.ii.182f) rằng Bhaddiya đã đạt được quả vị *Arahant* trong mùa an cư đầu tiên sau khi xuất gia.
 
 ## Notes

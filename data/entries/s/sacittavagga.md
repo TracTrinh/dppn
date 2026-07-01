@@ -5,7 +5,7 @@ base_headword: "Sacittavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sacittavagga. The sixth chapter of the *Dasakanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sacittavagga. Phẩm thứ sáu của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.92-112.
 
 ## Notes

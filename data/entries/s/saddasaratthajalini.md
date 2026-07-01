@@ -5,7 +5,7 @@ base_headword: "Saddasāratthajālinī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saddasāratthajālinī. An important grammar by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddasāratthajālinī. Một cuốn ngữ pháp quan trọng của Nāgita (Khantakakhipa) xứ Sagu. Nó được viết dưới sự bảo trợ của Kittisīhasūra. Có một bản Chú giải cho tác phẩm này, được gọi là *Sāramañjūsā*, và một *ṭīkā* của Vepullabuddhi. Bode, 27 and n.5, 28; Ov. 64, 74; Svd.1249.
 
 ## Notes

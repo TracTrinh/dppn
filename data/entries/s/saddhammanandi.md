@@ -5,7 +5,7 @@ base_headword: "Saddhammanandī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhammanandī. A nun of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammanandī. Một nữ tu ở Anurādhapura, thông thạo Vinaya. Dpv.xviii.14.
 
 ## Notes

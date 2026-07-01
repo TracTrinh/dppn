@@ -5,7 +5,7 @@ base_headword: "Bhaddiyasutta"
 disambiguator: "01"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaddiyasutta 01. Records the visit of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiyasutta 01. Ghi lại chuyến viếng thăm của người Licchavī Bhaddiya đến Đức Phật và cũng là cuộc trò chuyện của họ. AN.ii.190ff.
 
 ## Notes

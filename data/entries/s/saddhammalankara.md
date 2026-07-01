@@ -5,7 +5,7 @@ base_headword: "Saddhammālaṅkāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saddhammālaṅkāra. An author of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammālaṅkāra. Một tác giả ở Haṁsavatī, có thể thuộc về thế kỷ mười sáu. Ông đã viết cuốn Paṭṭhānasāradīpanī về Abhidhamma. Sās.48; Bode, 47.
 
 ## Notes

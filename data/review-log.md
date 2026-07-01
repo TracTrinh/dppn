@@ -2426,3 +2426,103 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 58 | s/saccatapavi | fixed | removed unsupported wager detail; corrected tent wording and quote punctuation |
 | 59 | s/saccavibhangasutta | clean |  |
 | 60 | s/saccasankhepa | clean |  |
+
+## Batch: b_07-c_06-s_03 review_queue — 90 entries
+
+- Ngày review: 2026-07-01
+- Người/model: Codex GPT-5 (review-queue pass)
+- Phạm vi: review queue manifests `b_07_result.md`, `c_06_result.md`, `s_03_result.md`; excluded entries already in review-log.md (none in these manifests).
+- Kết quả: 90/90 đạt; 24 file sửa low-risk; 0 file đặt needs_check. Glossary merge: no active glossary proposal files found.
+
+| # | Entry (<letter>/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | b/bhaddiya-02 | clean |  |
+| 2 | b/bhaddiya-03 | clean |  |
+| 3 | b/bhaddiya-04 | clean |  |
+| 4 | b/bhaddiya-06 | clean |  |
+| 5 | b/bhaddiya-07 | clean |  |
+| 6 | b/bhaddiyasutta-01 | clean |  |
+| 7 | b/bhaddiyasutta-02 | clean |  |
+| 8 | b/bhaddiyasutta-03 | clean |  |
+| 9 | b/bhadra-hatthakasutta | clean |  |
+| 10 | b/bhadra-theri | clean |  |
+| 11 | b/bhadragaka | clean |  |
+| 12 | b/bhadraghatajataka | clean |  |
+| 13 | b/bhadrakara | clean |  |
+| 14 | b/bhadravanasanda | clean |  |
+| 15 | b/bhadravudha | clean |  |
+| 16 | b/bhagalavati | clean |  |
+| 17 | b/bhagga | clean |  |
+| 18 | b/bhaggava-02 | clean |  |
+| 19 | b/bhaggava-03 | clean |  |
+| 20 | b/bhaggavagotta | clean |  |
+| 21 | b/bhagineyya-sangharakkhita-01 | clean |  |
+| 22 | b/bhagineyya-sangharakkhita-03 | clean |  |
+| 23 | b/bhaginisutta-01 | fixed | removed unsupported Saṁsāra gloss |
+| 24 | b/bhaginisutta-02 | clean |  |
+| 25 | b/bhagirasa | fixed | glossary/register: Peta world → cõi ngạ quỷ |
+| 26 | b/bhagirathi-01 | fixed | corrected “with the Ganges” clause |
+| 27 | b/bhagirathi-02 | clean |  |
+| 28 | b/bhagu-thera | fixed | gods → chư thiên; smoothed apposition |
+| 29 | b/bhaggava-01 | clean |  |
+| 30 | b/bhagineyya-sangharakkhita-02 | fixed | restored source double-period citation |
+| 31 | c/cara-01 | clean |  |
+| 32 | c/cara-02 | clean |  |
+| 33 | c/carasutta | clean |  |
+| 34 | c/caravagga | fixed | removed unsupported Catukkanipāta gloss |
+| 35 | c/cari | clean |  |
+| 36 | c/carimalopasutta | fixed | removed unsupported Sutta gloss |
+| 37 | c/caritasutta-01 | clean |  |
+| 38 | c/caritasutta-02 | clean |  |
+| 39 | c/cariyakatha | clean |  |
+| 40 | c/cariyapitaka | fixed | removed unsupported pāramī gloss |
+| 41 | c/carukkatta | clean |  |
+| 42 | c/catassa-sutta | fixed | corrected heat/air rendering; removed added glosses |
+| 43 | c/cathamangama | clean |  |
+| 44 | c/catigatikapatimaghara | fixed | removed unsupported English gloss |
+| 45 | c/catubhanavara | fixed | preserved Saraṇaṅkara Saṅgharāja; removed title gloss |
+| 46 | c/catucakkasutta | fixed | *Deva* → thiên thần |
+| 47 | c/catuddisasutta | clean |  |
+| 48 | c/catudvarajataka | clean |  |
+| 49 | c/catukundikaniraya | clean |  |
+| 50 | c/catumasika-brahmadatta-01 | fixed | removed unsupported udāna gloss |
+| 51 | c/catumasika-brahmadatta-02 | fixed | removed unsupported udāna gloss |
+| 52 | c/catumasini | fixed | normalized `v.v.` punctuation |
+| 53 | c/catumasutta | clean |  |
+| 54 | c/catumattajataka | clean |  |
+| 55 | c/catumeyyaka | clean |  |
+| 56 | c/catummaharajika | fixed | removed added Deva/Tứ thiên glosses; normalized Tāvatiṁsa/Devaputtas/v.v. terms |
+| 57 | c/catunikayikabhandika-thera | clean |  |
+| 58 | c/catunikayikatissa | fixed | removed unsupported kabaliṅkāhāra gloss |
+| 59 | c/catuparivatta-01 | clean |  |
+| 60 | c/catuparivatta-02 | fixed | corrected Three Recensions rendering |
+| 61 | s/sacchikatabbasutta | clean |  |
+| 62 | s/sacchikiriyasutta | fixed | removed unsupported thiên nhãn/āsava glosses; preserved *āsavas* |
+| 63 | s/sacittasutta | clean |  |
+| 64 | s/sacittavagga | clean |  |
+| 65 | s/sadamatta | clean |  |
+| 66 | s/saddabindu | fixed | removed unsupported ṭīkā gloss |
+| 67 | s/saddakarika | clean |  |
+| 68 | s/saddaniti | clean |  |
+| 69 | s/saddasannaka-thera-01 | clean |  |
+| 70 | s/saddasannaka-thera-02 | clean |  |
+| 71 | s/saddasannaka-thera-03 | clean |  |
+| 72 | s/saddasannaka-thera-04 | clean |  |
+| 73 | s/saddasaratthajalini | fixed | removed unsupported ṭīkā gloss |
+| 74 | s/saddatthacinta | clean |  |
+| 75 | s/saddavutti | fixed | removed unsupported ṭīkā gloss |
+| 76 | s/saddha-01 | clean |  |
+| 77 | s/saddha-02 | clean |  |
+| 78 | s/saddhammacakkasami | clean |  |
+| 79 | s/saddhammacari | clean |  |
+| 80 | s/saddhammaguru | clean |  |
+| 81 | s/saddhammajotipala | fixed | normalized higher-ordination wording |
+| 82 | s/saddhammakitti-thera | clean |  |
+| 83 | s/saddhammalankara | clean |  |
+| 84 | s/saddhammanana | clean |  |
+| 85 | s/saddhammanandi | clean |  |
+| 86 | s/saddhammanasini | fixed | removed unsupported ṭīkā gloss |
+| 87 | s/saddhammaniyamasutta | clean |  |
+| 88 | s/saddhammapala | clean |  |
+| 89 | s/saddhammapatirupakasutta | clean |  |
+| 90 | s/saddhammappakasini | clean |  |

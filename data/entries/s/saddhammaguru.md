@@ -5,7 +5,7 @@ base_headword: "Saddhammaguru"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhammaguru. An author of Pagan. The <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammaguru. Một tác giả ở Pagan. Sāsanavaṁsa gọi ông là tác giả của Saddavutti. Sās. p. 90.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bhagalavatī"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -35,6 +35,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhagalavatī. Một địa điểm ở Uttarakuru nơi các Yakkha tụ họp. Dīghanikāya (DN.iii.201) nói về nó như là một hội trường (*sabhā*), trong khi Chú giải Suttanipāta (Snp­a.i.197) nói rằng đó là một ngọn núi ở Himavā nơi chư thiên tụ họp mỗi tháng trong tám ngày để giải quyết các tranh chấp. Các thủ lĩnh Yakkha cũng tham dự những cuộc tụ họp này.
+
+Tuy nhiên, Sumaṅgalavilāsinī (DN­a.iii.967) nói rằng đó là một gian nhà nạm ngọc (*ratanamaṇḍapa*) rộng mười hai do-tuần, trên bờ của Hồ Dharaṇī. Nó được bao quanh bởi một loại dây leo tên là *Bhagalavatī*, do đó, có lẽ, nó có tên như vậy.
 
 ## Notes

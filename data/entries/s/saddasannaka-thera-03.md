@@ -5,7 +5,7 @@ base_headword: "Saddasaññaka Thera"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddasaññaka Thera 03. An *Arahant*. Ninety-four *kappas* ago he heard <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddasaññaka Thera 03. Một vị *Arahant*. Chín mươi tư *kappa* trước ngài đã nghe Siddhattha Buddha thuyết pháp, và lắng nghe Ngài với sự tập trung cao độ. Ap.i.256.
 
 ## Notes

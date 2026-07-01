@@ -5,7 +5,7 @@ base_headword: "Bhaddiyasutta"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,8 @@ Though hunchbacked and unsightly, yet, says the Buddha, he was highly gifted, of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiyasutta 02. Được thuyết giảng liên quan đến Lakuṇṭaka Bhaddiya (*q.v.*).
+
+Mặc dù bị gù lưng và khó coi, tuy nhiên, Đức Phật nói, ông được phú cho nhiều tài năng, có một bản chất cao thượng, đã đạt được mục tiêu của mình. Ngay cả một cậu bé nhỏ bé, nếu khôn ngoan, thì thực sự vĩ đại, được mọi người kính sợ như con sư tử đối với các loài động vật. SN.ii.279.
 
 ## Notes

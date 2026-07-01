@@ -5,7 +5,7 @@ base_headword: "Bhadravanasaṇḍa"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -25,6 +25,6 @@ Bhadravanasaṇḍa. The name given to the grove near the Bodhi-tree where the B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhadravanasaṇḍa. Cái tên được đặt cho khu rừng nhỏ gần cây Bodhi nơi Đức Phật đã nghỉ trưa sau bữa ăn cơm sữa do Sujātā cúng dường. Snp­a.ii.391.
 
 ## Notes

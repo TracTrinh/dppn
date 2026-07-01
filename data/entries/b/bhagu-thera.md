@@ -5,7 +5,7 @@ base_headword: "Bhagu Thera"
 disambiguator: ""
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -42,6 +42,12 @@ A monk named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhagu Thera. Ông sinh ra trong một gia đình người Sākyan, và sau khi từ bỏ thế gian cùng với những người anh em trong dòng tộc của mình là Anuruddha và Kimbila, ông đã lưu trú tại ngôi làng Bākaloṇa. Một ngày nọ, sau khi rời khỏi căn thất của mình để xua đi cơn buồn ngủ, ông đã bị ngã khi bước lên khoảng sân hiên, và, được thúc giục bởi điều đó để nỗ lực hơn nữa, ông đã hoàn thành được sự tự chủ và đạt được quả vị *Arahant*. Về sau, khi ông đang sống trong niềm an lạc của sự đắc quả, Đức Phật đã đến để chúc mừng ông về sự tĩnh cư của ông. Thag.vss.271-4; Thag­a.i.380f.; so sánh MN.iii.155; Vin.i.350, ii.182; Dhp­a.i.56, 133; Ja.i.140, iii.489; Mil.107.
+
+Người ta nói rằng, nhân dịp này, Đức Phật, sau bữa ăn của ngài, đã thuyết giảng cho Bhagu suốt một ngày và một đêm (SN­a.ii.222; bài pháp này được nhắc đến như là Kilesiyasutta). Ngày hôm sau Bhagu tháp tùng Đức Phật trên tuyến đường khất thực của ngài, và đã quay trở lại khi Đức Phật đi tiếp đến Pācīnavaṁsamigadāya để gặp Anuruddha và những người khác.
+
+Trong thời của Padumuttara Buddha, Bhagu là một gia chủ, và, sau khi Đức Phật viên tịch, đã cúng dường các bông hoa cho những xá-lợi của ngài. Kết quả là ông được sinh ra trong số chư thiên Nimmānaratī (Thag­a.i.380). Ông có lẽ đồng nhất với Jātipupphiya của Apadāna (Ap.ii.405f).
+
+Một vị tỳ-kheo tên là Bhagu được nhắc đến (Vin.i.300) là đang lưu trú cùng với Jātipupphiya tại Kukkuṭārāma ở Pāṭaliputta, nhưng có lẽ ông là một người khác.
 
 ## Notes

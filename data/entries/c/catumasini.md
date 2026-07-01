@@ -5,7 +5,7 @@ base_headword: "Cātumāsinī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cātumāsinī. Occurs in the phrase <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cātumāsinī. Xuất hiện trong cụm từ Komudī Cātumāsinī, có lẽ đề cập đến lễ hội Cātumāsya được cử hành vào tháng Kattika, Komudī là ngày trăng tròn của tháng Kattika. Vin.i.55; DN.i.47, v.v.
 
 ## Notes

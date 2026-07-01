@@ -5,7 +5,7 @@ base_headword: "Bhaggava"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -39,6 +39,14 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaggava 03. Một người thợ gốm ở Rājagaha trong nơi ở của người này Đức Phật đã gặp và trò chuyện với Pukkusāti (MN.iii.237).
+
+Bhaggava dường như là một tên gọi chung cho tất cả những người thợ gốm, có lẽ là một hình thức xưng hô đặc biệt được sử dụng đối với các thành viên của "giai cấp" thợ gốm (*kumbhakāra*). Do đó chúng ta tìm thấy trong các sách kinh một số trường hợp những người thợ gốm được gọi là "Bhaggava", ví dụ, Dhp­a.i.33; Ja.ii.80, iii.382. Tại Ja.111.382 vợ của người thợ gốm được gọi là "*Bhaggavī*."
+
+Trong Saṁyuttanikāya (SN.i.36, 60) Đức Phật gọi Phạm thiên Ghaṭīkāra là "Bhaggava"; ông từng là một người thợ gốm ở Vehaliṅga trong kiếp trước của mình và bản thân cái tên "Ghaṭīkāra" có nghĩa là "người làm chum vại." Các Chú giải không đưa ra lời giải thích nào cho từ này; có lẽ những người thợ gốm tuyên bố nguồn gốc của họ từ Bhṛgu.
+
+Bhaggava đôi khi được đưa ra như một ví dụ về một *gotta*, ví dụ, Vin-a.i.160 (cùng với Gotama).
+
+Xem thêm Bhaggavagotta.
 
 ## Notes

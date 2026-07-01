@@ -5,7 +5,7 @@ base_headword: "Bhaddiyasutta"
 disambiguator: "03"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -24,6 +24,6 @@ Bhaddiyasutta 03. The Buddha tells <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhaddiyasutta 03. Đức Phật nói với Bhaddiya Thera (2) rằng người đệ tử của bậc Thánh là một vị *Sotāpanna* sẽ hoan hỷ với bốn điều: lòng trung thành kiên định với Đức Phật, với Pháp, với Tăng đoàn, và những giới hạnh vốn thân thiết đối với các bậc Thánh. SN.v.403.
 
 ## Notes

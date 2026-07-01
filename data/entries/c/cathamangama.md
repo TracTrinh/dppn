@@ -5,7 +5,7 @@ base_headword: "Cāthamaṅgama"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cāthamaṅgama. A tank constructed by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cāthamaṅgama. Một hồ chứa nước được xây dựng bởi Vasabha. Mhv.xxxv.95.
 
 ## Notes

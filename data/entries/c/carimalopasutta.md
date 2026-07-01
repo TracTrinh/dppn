@@ -5,7 +5,7 @@ base_headword: "Carimālopasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,8 @@ The Buddha says that if people knew as much as he did of the results of giving t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Carimālopasutta. Một cái tên được đưa ra trong Suttasaṅgaha (Số 57) cho một bài *Sutta* của Itivuttaka (Iti. p.18f).
+
+Đức Phật nói rằng nếu mọi người biết nhiều như ngài về kết quả của việc bố thí, họ sẽ chia sẻ cho người khác ngay cả miếng thức ăn cuối cùng của mình.
 
 ## Notes

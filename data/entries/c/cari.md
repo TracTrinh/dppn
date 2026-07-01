@@ -5,7 +5,7 @@ base_headword: "Carī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Carī. Probably the name of a celestial musician, or, perhaps, of a musical inst
 
 ## Vietnamese translation
 
-Chưa dịch.
+Carī. Có lẽ là tên của một nhạc công thiên giới, hoặc, có lẽ, của một loại nhạc cụ. Vv-a.94; nhưng xem ghi chú ở p.372, cũng như p.211, nơi Carī bị lược bỏ khỏi danh sách.
 
 ## Notes

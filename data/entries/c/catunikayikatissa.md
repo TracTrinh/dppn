@@ -5,7 +5,7 @@ base_headword: "Catunikāyikatissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Catunikāyikatissa. A monk of Ceylon. He lived in the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catunikāyikatissa. Một nhà sư của Ceylon. Vị ấy sống trong Koḷitavihāra, trong khi người anh trai của vị ấy, Dattābhaya, sống ở Poṭaliyavihāra. Một lần nọ Tissa bị ốm và, gửi lời nhắn gọi anh trai của mình, đã xin một công thức ngắn gọn cho việc thiền định. Dattābhaya đã đề nghị thiền định về *kabaliṅkāhāra* và Tissa chẳng mấy chốc đã trở thành một *Arahant* (AN­a.i.243). Thầy của vị ấy là Mahā Tipiṭakatthera. Vin-a.iii.695.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saddhammañāṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saddhammañāṇa. A scholar of Pagan of the early fourteenth century. He wrote 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saddhammañāṇa. Một học giả ở Pagan vào đầu thế kỷ mười bốn. Ông đã viết cuốn *Vibhatyattha*, *Chandosāraṭṭhavikāsinī* (hoặc *Vuttodayapañcikā*) dựa trên tác phẩm Vuttodaya, và đã dịch tác phẩm ngữ pháp tiếng Phạn *Kātantra* sang tiếng Pāli. Bode, 26.
 
 ## Notes

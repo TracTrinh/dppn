@@ -5,7 +5,7 @@ base_headword: "Catassa Sutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -23,6 +23,6 @@ Catassa Sutta. There are four elements – earth, water, heat, air. SN.ii.169.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Catassa Sutta. Có bốn yếu tố – đất, nước, nhiệt, không khí. SN.ii.169.
 
 ## Notes

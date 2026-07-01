@@ -5,7 +5,7 @@ base_headword: "Bhāgīrathī"
 disambiguator: "02"
 letter: "B"
 section: "Bh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/055.html"
@@ -26,6 +26,6 @@ Bhāgīrathī 02. A channel, branching off from the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bhāgīrathī 02. Một con kênh, rẽ nhánh từ Anotattavāpī ở Ceylon, và tạo thành một phần trong hệ thống tưới tiêu của Parakkamabāhu I. Cv.lxxix.49.
 
 ## Notes
