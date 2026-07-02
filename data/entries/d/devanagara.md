@@ -5,7 +5,7 @@ base_headword: "Devanagara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Devanagara. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devanagara. Cũng được gọi là Devapura. Một thị trấn ở điểm cực nam của Tích Lan, Dondra hiện đại. Một *vihāra* cổ, được Vijayabāhu I. sửa chữa, tồn tại ở đó (Cv.lx.59). Devanagara được nhắc đến trong các chiến dịch của Parakkamabāhu I. như một nơi xảy ra xung đột (Cv.lxxv.47). Có một đền thờ ở Devanagara được xây (bởi Dappulasena theo trường thi Sinhala *Pārākumbāsirita*) để tôn vinh thần Uppalavaṇṇa. Tại đây Vīrabāhu cử hành một lễ hiến tế sau chiến thắng của ông trước người Jāvaka (Cv.lxxxiii.49). Parakkamabāhu II. thấy điện thờ xuống cấp nặng và xây dựng lại rất tráng lệ, đồng thời khởi lập một lễ hội được cử hành hằng năm, thậm chí đến tận ngày nay, vào tháng *Āsāḷha* (Cv.lxxxv.85). Parakkamabāhu IV. xây một ngôi đền dài hai tầng cho tượng Đức Phật nằm, được tìm thấy trong *vihāra* (Cv.xc.94).
 
 ## Notes

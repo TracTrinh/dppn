@@ -5,7 +5,7 @@ base_headword: "Madhudāyaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhudāyaka Thera. An *Arahant*. Once in the past he was a hermit living on the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhudāyaka Thera. Một vị Arahant. Một lần trong quá khứ, ngài là một ẩn sĩ sống trên bờ sông Sindhu, và, khi nhìn thấy Sumedha Buddha, ngài đã dâng cho Đức Phật một ít mật ong. Có nói rằng vào ngày sinh của ngài có một trận mưa mật ong (Ap.i.325). Ngài có lẽ đồng nhất với Trưởng lão Mahā Nāma. Thag­a.i.228.
 
 ## Notes

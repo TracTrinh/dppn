@@ -5,7 +5,7 @@ base_headword: "Gandhakuṭi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,8 @@ The name <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhakuṭi. Tên gọi dành cho căn phòng đặc biệt mà Đức Phật cư ngụ tại tu viện Jetavana (Ja.i.92). Tòa nhà mà Gandhakuṭi là một phần trong đó rõ ràng được gọi là *Gandhakuṭipariveṇa*, và tại đây Đức Phật thường tập hợp chư tăng và thuyết giảng cho họ (e.g., Ja.i.501; iii.67). Vị trí đặt giường của Đức Phật trong Gandhakuṭi là giống nhau đối với mọi vị Phật, và là một trong những nơi bất biến – *avijahitaṭṭhānāni* (Bv­a.247).
+
+Về sau, tên gọi Gandhakuṭi dường như cũng được dùng để chỉ những nơi cư trú khác của Đức Phật. Chẳng hạn, có ghi lại (AN­a.i.226; xem C.SN.B., Pl.5B) rằng Visākhā đã xây một Gandhakuṭi cho Đức Phật tại Pubbārāma bằng số tiền bà thu được từ việc bán Mahā Latāpasādhana của mình. Muốn biết thêm chi tiết, xem Gotama Buddha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gaṅgāsenakapabbatavihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaṅgāsenakapabbatavihāra. A monastery in Ceylon built by <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgāsenakapabbatavihāra. Một tu viện ở Tích Lan do Mahā Sena xây dựng (Mhv.xxxvii.41).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Giritaṭa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -40,6 +40,14 @@ The tank was among those repaired by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giritaṭa (Ghitaṭāka). Một hồ chứa nước do Aggabodhi II xây dựng. (Cv.xlii.67).
+
+Gần đó là ngôi làng cùng tên, nơi Parakkamabāhu I từng đóng trại cùng với quân đội của mình (Cv.lxx.312).
+
+Tại đó các vị tỳ-kheo đã thay mặt Gajabāhu phỏng vấn ông và thuyết phục ông trả lại vương quốc cho Gajabāhu (Cv.lxx.329f).
+
+Sau này, ngôi làng bị Māṇābharaṇa và quân đội của ông ta chiếm đóng (Cv.lxxii.149).
+
+Hồ chứa nước nằm trong số những hồ được Parakkamabāhu I sửa chữa, và từ đó ông đã cho đào con kênh Kāverī, nhờ đó nối Giritaṭa với hồ chứa nước Kaddūravaḍḍhamāna (Cv.lxxix.33, 55; xem thêm Cv.Trs.i.312, n.3; 334 n.1).
 
 ## Notes

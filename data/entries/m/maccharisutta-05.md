@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "05"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maccharīsutta 05. A group of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 05. Một nhóm chư thiên Satullapa đến thăm Đức Phật tại Jetavana và bốn người trong số họ nói, mỗi người một câu kệ, trước ngài về những ác quả của lòng tham lam và những phước báu của sự rộng lượng. Đức Phật đọc một câu kệ với ý nghĩa là những món quà được trao tặng phải có được một cách chân chính. SN.i.18f.
 
 ## Notes

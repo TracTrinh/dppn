@@ -5,7 +5,7 @@ base_headword: "Mahā Gāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -40,6 +40,8 @@ Throughout history Mahā Gāma remained the most important place in <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gāma. Thủ đô của Rohaṇa. Duṭṭhagāmaṇī đã được sinh ra tại đó, và trị vì tại đó cho đến khi ông bắt đầu chiến dịch của mình chống lại những người Damiḷa (Mhv.xxviii.8, 59, v.v...; Cv.xlv.42, v.v...; cũng xem Mhv.Trs.146, n.5).
+
+Xuyên suốt lịch sử Mahā Gāma vẫn là nơi quan trọng nhất ở Rohaṇa. Gần đó có Tissamahārāma và Anurārāma được xây dựng bởi Subha. Nó được nhắc đến lần đầu tiên (Mhv.xxii.8) như là nơi cư ngụ của người em trai của Devānampiyatissa, Mahā Nāga, người đã thành lập vương triều Rohaṇa, nhưng, như một khu định cư, nó có lẽ có từ những thời cổ đại nhất. Mahā Nāga đã xây dựng trong đó Nāgamahāvihāra. Mahā Tissa đã xây dựng Hội trường Mahā Pāli tại Mahā Gāma và gắn liền với nó là Dāṭhaggabodhi pariveṇa (Cv.xlv.42). Những người Damiḷa (có lẽ vào thời của Mahinda IV) đã phá hủy Mahā Gāma, nhưng các tòa nhà đã được khôi phục bởi Vijayabāhu I. Cv.lx.56.
 
 ## Notes

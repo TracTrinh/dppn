@@ -5,7 +5,7 @@ base_headword: "Mahā Assārohajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,8 @@ The story was related in reference to the good offices of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Assārohajātaka (Ja 302). Bodhisatta từng là vua của Benares, và bị đánh bại trong một cuộc giao tranh ở biên giới, ngài đã chạy trốn trên con ngựa của mình cho đến khi đến một ngôi làng nọ. Khi nhìn thấy ngài, tất cả mọi người đều biến mất ngoại trừ một người đàn ông, người này đã dò hỏi, và, khi biết ngài không phải là một kẻ nổi loạn, đã đưa ngài về nhà và chiêu đãi ngài với sự vô cùng tôn kính, chăm sóc chu đáo cho con ngựa của ngài. Khi nhà vua rời đi, ngài nói với người đàn ông rằng ngài tên là Mahā Assāroha, và mời ông đến thăm nhà ngài nếu có dịp đến thành phố. Về phần mình, khi về đến thành phố, ngài ra lệnh cho những người gác cổng rằng nếu có ai đến tìm Mahā Assāroha, người đó phải được đưa ngay vào cung điện. Thời gian trôi qua và người đàn ông vẫn không xuất hiện. Do đó, nhà vua không ngừng tăng thuế đối với ngôi làng, cho đến khi dân làng yêu cầu người hàng xóm đến thăm người bạn Mahā Assāroha của mình và cố gắng xin giảm nhẹ. Thế là ông chuẩn bị những món quà cho Mahā Assāroha và vợ ngài, và mang theo một chiếc bánh nướng ở nhà mình, ông lên đường. Đến cổng thành, ông được người gác cổng đưa vào cung điện. Ở đó, nhà vua nhận quà của ông, ban cho ông tất cả những vinh dự thuộc về một vị vua, và, cuối cùng, trao cho ông một nửa vương quốc của mình. Khi các đại thần phàn nàn, thông qua con trai của nhà vua, rằng một người dân làng thấp kém đã được nâng lên vị trí ngang hàng với vua, Bodhisatta giải thích rằng những người bạn thực sự, người đã giúp đỡ mình trong lúc hoạn nạn, xứng đáng được đền đáp bằng mọi sự tôn kính.
+
+Câu chuyện được kể lại liên quan đến sự phục vụ tốt của Ānanda, người được đồng nhất với người dân làng. Ja.iii.8-13.
 
 ## Notes

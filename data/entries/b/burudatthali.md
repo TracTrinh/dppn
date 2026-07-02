@@ -5,7 +5,7 @@ base_headword: "Burudatthalī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Burudatthalī. A ford across the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Burudatthalī. Một bến cạn qua sông Mahā Vālukagaṅgā. Cv.lxxii.36.
 
 ## Notes

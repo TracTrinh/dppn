@@ -5,7 +5,7 @@ base_headword: "Hāliddakāni"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -30,6 +30,6 @@ Hāliddakāni, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hāliddakāni, Hāliddikāni. Một cư sĩ ưu tú của Avanti. Có lần khi Mahā Kaccāna đang lưu trú tại Kuraragharapapāta, Hāliddakāni đến thăm ngài và hỏi han kỹ lưỡng về các chủ đề được đề cập trong Māgandiyapañha (SN.iii.9f), rồi lại hỏi về các chủ đề của Sakkapañha (SN.iii.13f). Vào một dịp khác (SN.iv.115f), ông hỏi vị Trưởng lão về sự đa dạng của các cảm thọ.
 
 ## Notes

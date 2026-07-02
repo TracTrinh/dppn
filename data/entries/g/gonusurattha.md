@@ -5,7 +5,7 @@ base_headword: "Gonusuraṭṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gonusuraṭṭha. A district in North Ceylon, once occupied by <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonusuraṭṭha. Một quận ở Bắc Tích Lan, từng bị Māgha và Jayabāhu chiếm đóng (Cv.lxxxiii.17).
 
 ## Notes

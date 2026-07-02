@@ -5,7 +5,7 @@ base_headword: "Daṇḍagoṇa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Daṇḍagoṇa. A village in Ceylon. For a story of a jackal who lived there se
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍagoṇa. Một ngôi làng ở Tích Lan. Về câu chuyện của một con chó rừng từng sống ở đó, xem Ras.ii.130f.
 
 ## Notes

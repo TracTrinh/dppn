@@ -5,7 +5,7 @@ base_headword: "Mahā Maṇi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Maṇi. A tank constructed by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṇi. Một hồ chứa nước được xây dựng bởi Bhātikatissa, và được ông ban tặng cho *vihāra* Gavaratissa (Mhv.xxxvi.3). Nó được phục hồi bởi Mahā Sena. Mhv.xxxvii.47.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devala"
 disambiguator: "05"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devala 05. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devala 05. Một Pacceka Buddha. Khi Upāli từng sinh làm Sunanda, con trai của nhà vua, một ngày nọ, khi cưỡi voi, ông thấy Devala và lăng mạ Ngài. Chính vì lý do này mà ông sinh vào giai cấp thấp trong đời cuối cùng của mình. Thag­a.i.368.
 
 ## Notes

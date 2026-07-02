@@ -5,7 +5,7 @@ base_headword: "Gayāsutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gayāsutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gayāsutta. Được thuyết tại Gayāsīsa. Đức Phật mô tả cho chư tăng một số giai đoạn Ngài đã trải qua trước khi đạt đến Giác ngộ. Ban đầu Ngài chỉ có thể thấy ánh sáng phát ra từ thân của chư thiên; về sau, nhờ nỗ lực có ý thức, Ngài có thể phân biệt được hình dạng của họ, trò chuyện với họ, tìm hiểu cách họ được sinh vào các cảnh giới khác nhau; rồi Ngài có thể đọc được tiền kiếp của họ, và cuối cùng Ngài đạt đến trí tuệ tối thượng. AN.iv.302ff.
 
 ## Notes

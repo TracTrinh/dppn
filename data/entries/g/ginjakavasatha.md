@@ -5,7 +5,7 @@ base_headword: "Giñjakāvasatha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -45,6 +45,12 @@ The Commentaries (e.g., MN­a.i.424) state that once the Buddha arrived at <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giñjakāvasatha. Một hội trường bằng gạch tại Nādikā (Ñātikā). Đức Phật đã lưu trú tại đây trong nhiều dịp khác nhau trong các chuyến viếng thăm Nādikā của Ngài. Chính trong một trong những chuyến viếng thăm này, Ambapālī đã dâng cúng công viên của cô cho Đức Phật và Tăng đoàn (Vin.i.232).
+
+Tại Giñjakāvasatha Đức Phật đã thuyết giảng Cūḷa Gosiṅgasutta (MN.i.205), Janavasabhasutta (DN.ii.200) và rất nhiều bài pháp thoại về *maraṇassati* (e.g., AN.iii.303f; 306f; 391f; iv.320f); cùng với các bài pháp cho Trưởng lão Sandha thuộc dòng dõi Kaccānagotta (AN.v.322f) và Trưởng lão Kaccāyana (SN.ii.153f; xem thêm SN.ii.74; iv.90).
+
+Cả trong Janavasabhasutta và Giñjakāvasathasutta (SN.v.356f), được thuyết giảng tại cùng một địa điểm, Đức Phật được mô tả là đã trả lời các câu hỏi liên quan đến số phận và sự tái sinh của một số cư dân Nādikā. Có phải điều này có nghĩa là người dân ở Nādikā quan tâm đến vấn đề này hơn những người ở các nơi khác? Chính là bằng cách tìm ra một giải pháp vĩnh viễn cho những câu hỏi này mà Đức Phật đã thuyết giảng cho Ānanda tại Giñjakāvasatha bài pháp Dhammādāsa (Tấm Gương Của Chân Lý) trong chuyến viếng thăm cuối cùng của Ngài đến Nādikā, như được mô tả trong Mahā Parinibbānasutta (DN 16) (DN.ii.91ff; xem thêm SN.v.357).
+
+Các Chú giải (e.g., MN­a.i.424) kể rằng có lần Đức Phật đến Nādikā trong khi đi du hành ở xứ Vajjī, và người dân ở đó đã xây dựng cho Ngài một nơi ở hoàn toàn bằng gạch (*giñjakā*), do đó có tên gọi như vậy. Sau này, các nơi ở cũng được xây dựng cho các vị tỳ-kheo, đầy đủ mọi yêu cầu. Những viên gạch rõ ràng là một đặc điểm kiến trúc đặc biệt, và điều này xác nhận niềm tin rằng các tòa nhà nói chung là bằng gỗ. Tuy nhiên, “Hội Trường Gạch” không chỉ được thiết kế cho Đức Phật và các vị tỳ-kheo của Ngài, bởi vì chúng ta thấy có đề cập đến các thành viên của các giáo phái khác cũng lưu trú ở đó – e.g., *Paribbājaka* Sabhiya Kaccāna (SN.iv.401). Tòa nhà này có lẽ là một nơi nghỉ ngơi cho tất cả những người du hành.
 
 ## Notes

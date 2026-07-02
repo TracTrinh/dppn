@@ -5,7 +5,7 @@ base_headword: "Hālavāhanaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hālavāhanaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hālavāhanaka. Một tướng người Damiḷa, bị Duṭṭhagāmaṇī khuất phục. Mhv.xxv.13.
 
 ## Notes

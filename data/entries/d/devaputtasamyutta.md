@@ -5,7 +5,7 @@ base_headword: "Devaputtasaṁyutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devaputtasaṁyutta. The second section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devaputtasaṃyutta. Phần thứ hai của Saṃyuttanikāya. Phần này chứa các tường thuật về những cuộc viếng thăm Đức Phật của nhiều chư thiên khác nhau. SN.i.46ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bodhanāsutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bodhanāsutta. The Buddha explains to a monk, in answer to his question, that th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật giải thích cho một vị tỳ-kheo, để trả lời câu hỏi của ông, rằng các *bojjhaṅga* được gọi như vậy bởi vì chúng dẫn đến trí tuệ. SN.v.83.
 
 ## Notes

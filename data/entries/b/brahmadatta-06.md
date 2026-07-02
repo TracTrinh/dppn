@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "06"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -29,6 +29,8 @@ His wife tired of him and committed adultery with a minister who was banished on
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 06. Một vị Pacceka Buddha. Trong thời của Kassapa Buddha, ngài từng là một tỳ-kheo và đã sống trong rừng hai mươi ngàn năm. Sau đó ngài được sinh ra làm con trai của vua xứ Benares. Khi cha ngài băng hà ngài trở thành vua, trị vì hai mươi ngàn thành phố với Benares làm thủ đô, nhưng, vì mong muốn sự tĩnh lặng, ngài đã lui vào sống đơn độc trong hoàng cung.
+
+Vợ ngài đâm ra chán ngán ngài và phạm tội ngoại tình với một vị tể tướng, người đã bị lưu đày sau khi tội lỗi của ông bị phát giác. Sau đó ông phục vụ dưới quyền một vị vua khác và thuyết phục vị vua này tấn công Brahmadatta. Vị tể tướng của Brahmadatta, dù vô cùng miễn cưỡng, và dù đã hứa sẽ không sát sinh, đã thực hiện một cuộc tấn công bất ngờ vào quân địch và đánh đuổi chúng. Brahmadatta, ngồi trên chiến trường, đã phát triển các ý nghĩ *mettā* và trở thành một vị Pacceka Buddha. Snp­a.i.58ff.
 
 ## Notes

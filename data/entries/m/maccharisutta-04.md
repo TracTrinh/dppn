@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "04"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 04. The same as (3) except that “nun” is substituted for “m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 04. Tương tự như (3) ngoại trừ từ "tỳ-kheo-ni" thay thế cho "tỳ-kheo." AN.iii.139.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekasutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -23,6 +23,6 @@ Ekasutta. Neither beauty, nor wealth, nor kin, nor sons, nor virtue, can avail a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasutta. Sắc đẹp, của cải, quyến thuộc, con cái, hay phẩm hạnh, cũng không thể giúp ích được gì cho một người phụ nữ bị một người đàn ông có quyền hành áp chế. SN.iv.246.
 
 ## Notes

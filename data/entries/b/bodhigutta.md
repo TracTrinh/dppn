@@ -5,7 +5,7 @@ base_headword: "Bodhigutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -35,6 +35,8 @@ At the conclusion of the planting of the tree, Bodhigutta was taken by the king 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhigutta. Anh trai của Vedisadevī. Ông thuộc gia tộc Sākyan, và cùng với Sumitta là trưởng đoàn tùy tùng được Asoka phái đi để hộ tống nhánh cây bodhi đến Anurādhapura.
+
+Vào lúc hoàn thành việc trồng cây, Bodhigutta được nhà vua đưa đến Morapāsāda và tại đó được phong tước vị Laṅkājayamahālekhaka (xem mục từ này) giữa sự tráng lệ và nghi lễ trang trọng. Ông được ban cho một ngôi nhà gần cây bodhi. Sau này ông kết hôn với Sunandā, em gái của Bodhiguttā, và có hai người con – Mahinda và Vidhurinda. Mbv.154 f., 163 f., 169.
 
 ## Notes

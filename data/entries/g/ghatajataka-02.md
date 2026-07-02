@@ -5,7 +5,7 @@ base_headword: "Ghatajātaka"
 disambiguator: "02"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -39,6 +39,10 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghatajātaka 02. (Ja 454). Câu chuyện về các Andhakaveṇhudāsaputta (*q.v.*) và về cách mà *paṇḍita* Ghata xoa dịu nỗi đau buồn của người anh trai mình, Vāsudeva. Câu chuyện giới thiệu tương tự như câu chuyện của Maṭṭhakundalijātaka.
+
+Rohiṇeyya được nhận diện là Ānanda và Vāsudeva là Sāriputta (Ja.iv.79ff).
+
+Jātaka này có lẽ đã ảnh hưởng đến câu chuyện về Ummādacittā được tìm thấy trong Maha Vaṁsa (ix.13); về mối liên hệ của nó với Harivaṁsa, xem ZDMG.53, 25ff.
 
 ## Notes

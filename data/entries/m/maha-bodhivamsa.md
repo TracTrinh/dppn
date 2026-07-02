@@ -5,7 +5,7 @@ base_headword: "Mahā Bodhivaṁsa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,8 @@ Mahā Bodhivaṁsa. A Pāli translation of a Sinhalese original, giving the hist
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Bodhivaṁsa. Một bản dịch tiếng Pāli từ bản gốc tiếng Sinhalese, cung cấp lịch sử về sự xuất hiện của cây Bodhi ở Tích Lan. Nó được viết vào khoảng thế kỷ thứ mười và được quy cho Upatissa (Svd.vs.1262), người đã viết nó theo yêu cầu của Dāṭhā Nāga.
+
+*Saṅgharāja* Saraṇaṅkara đã viết một bản diễn giải về nó, *Madhurārthaprakāśinī*. Để biết chi tiết, xem PLC.156ff.
 
 ## Notes

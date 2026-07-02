@@ -5,7 +5,7 @@ base_headword: "Hatthipora"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthipora. A village in Ceylon, built on the spot where <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthipora. Một ngôi làng ở Tích Lan, được xây trên nơi Nandhimitta ép con voi Kaṇḍula phải ngồi thụp xuống trên hai chân sau. Mhv.xxv.23.
 
 ## Notes

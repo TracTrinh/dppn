@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Deva 01. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 01. *Aggasāvaka* của Sujāta Buddha. Ông là con trai của một vị quốc sư, và bài pháp đầu tiên của Đức Phật được thuyết cho ông và bạn ông là Sudassana (Ja.i.38; Bv­a.168, 170). Ông cũng được gọi là Sudeva (Bv.xiii.25).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambandhacintā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sambandhacintā. A work of the twelfth century by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambandhacintā. Một tác phẩm thế kỷ thứ mười hai của Saṅgharakkhita. Đây là một luận thư văn phạm bàn về động từ Pāli và cách sử dụng nó trong cú pháp, cùng với sự mô tả về sáu *kārakas* được dùng với động từ trong câu (PLC.199). Abhaya Thera của Pagan đã viết một *ṭīkā* về tác phẩm này. Bode, 22.
 
 ## Notes

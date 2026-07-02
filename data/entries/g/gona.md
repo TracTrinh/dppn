@@ -5,7 +5,7 @@ base_headword: "Goṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -34,6 +34,8 @@ It is identified with the modern Kalā-oya (Cv.Trs.i.30, n.3).3.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇa (Goṇaka). Một con sông nằm ở phía nam Anurādhapura. Trên bờ của nó, Vua Cūḷābhaya đã xây dựng Cūḷa Gallakavihāra (Mhv.xxxv.13), và Vaṅkanāsikatissa, Mahā Maṅgalavihāra (Mhv.v.113). Có lần, khi Dhātusena đang chạy trốn khỏi kẻ thù cùng với một vị Thera*,* là chú của ông, con sông được phát hiện là đang có lũ, nhưng một vị Nāga vương đã đưa họ qua (Cv.xxxviii.24). Sau này, khi xây dựng *Kālavāpi*, Dhātusena đã đắp đập ngăn con sông này. Cv.v.42.
+
+Nó được đồng nhất với Kalā-oya hiện đại (Cv.Trs.i.30, n.3).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Daṭṭhabbena Sutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daṭṭhabbena Sutta. He who regards pleasant feelings as <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṭṭhabbena Sutta. Người xem các cảm thọ lạc là khổ, các cảm thọ khổ là mũi nhọn, và các cảm thọ trung tính là vô thường, người như vậy được gọi là “thấy đúng.” SN.iv.207.
 
 ## Notes

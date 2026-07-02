@@ -5,7 +5,7 @@ base_headword: "Devala"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devala 03. Cousin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devala 03. Anh em họ của Padumuttara Buddha và về sau là *Aggasāvaka* của Ngài. Bài pháp đầu tiên của Padumuttara được thuyết cho ông và em trai ông là Sujāta. Bv.xi.24; Bv­a.159; Ap.i.106.
 
 ## Notes

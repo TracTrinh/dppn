@@ -24,6 +24,6 @@ Canda 05. The moon; generally spoken of as a *Deva*. See <span class="dppn-term 
 
 ## Vietnamese translation
 
-Canda 05. Mặt trăng; thường được nói đến như một vị thiên thần. Xem Candimā.
+Canda 05. Mặt trăng; thường được nói đến như một vị thiên nhân. Xem Candimā.
 
 ## Notes

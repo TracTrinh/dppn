@@ -5,7 +5,7 @@ base_headword: "Haṁsavaṭṭa"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Haṁsavaṭṭa. A religious building erected by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsavaṭṭa. Một công trình tôn giáo do Sirināga xây dựng ở phía nam cây *Mucela* tại Anurādhapura. Mhv.xxxvi.56; Mhvṭ.664.
 
 ## Notes

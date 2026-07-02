@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 02. A monk who grudges sharing his lodging, the families who prov
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 02. Một tỳ-kheo keo kiệt chia sẻ chỗ ở của mình, những gia đình cung cấp vật thực cho mình, những món quà mình nhận được, danh tiếng của mình, và là người cản trở những món quà được dâng cúng bằng niềm tin – một tỳ-kheo như vậy chắc chắn đọa địa ngục. AN.iii.266.
 
 ## Notes

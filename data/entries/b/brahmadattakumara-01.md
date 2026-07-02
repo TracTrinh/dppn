@@ -5,7 +5,7 @@ base_headword: "Brahmadattakumāra"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -27,6 +27,6 @@ Brahmadattakumāra 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadattakumāra 01. Con trai của Brahmadatta, vua xứ Benares. Chàng là vị Bodhisatta. Để biết câu chuyện của chàng xem Dummedhajātaka. Ja 50, Ja.i.259ff.
 
 ## Notes

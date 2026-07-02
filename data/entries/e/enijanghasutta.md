@@ -5,7 +5,7 @@ base_headword: "Eṇijaṅghasutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Eṇijaṅghasutta. One of the *Suttas* in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eṇijaṅghasutta. Một trong những bài kinh (*Sutta*) trong Devatāsaṁyutta. Một thiên nhân hỏi Đức Phật làm thế nào có thể lang thang không màng đến những đòi hỏi của các giác quan, với tứ chi như của con linh dương (*eṇi*) hay con sư tử. Đức Phật trả lời, bằng cách từ bỏ những dục vọng của các giác quan. SN.i.16.
 
 ## Notes

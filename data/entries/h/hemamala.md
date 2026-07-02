@@ -5,7 +5,7 @@ base_headword: "Hemamālā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,6 @@ Hemamālā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemamālā. Con gái của Guhasīva, vua xứ Kāliṅga. Bà và chồng, Dantakumāra, đã mang Xá-lợi Răng Phật đến Tích Lan. Dāṭhāvaṁsa. Dāṭh.iv.9f.
 
 ## Notes

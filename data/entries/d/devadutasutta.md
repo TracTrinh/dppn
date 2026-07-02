@@ -5,7 +5,7 @@ base_headword: "Devadūtasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadūtasutta. Bàn về ba sứ giả cảnh báo của cái chết - sự thấy tuổi già, sự thấy bệnh tật và sự thấy cái chết. Người không chú ý đến các sứ giả này và phạm điều phi Pháp bị Yama kết án chịu các cực hình của *Mahā Nirayas*, được mô tả chi tiết (AN.i.138f; cp. Makhādevajātaka).
+
+Cùng *Sutta* này, với vài biến thể, được nêu dài hơn trong Majjhimanikāya (MN.iii.178ff), nơi nói đến năm sứ giả, sứ giả thứ nhất và thứ tư lần lượt là sự thấy một em bé mới sinh và sự thấy một tên cướp có tội bị trừng phạt vì các tội của hắn. *Sutta* này được dẫn để mô tả Avīci (Dhp­a.i.107; cũng AN­a.i.21). Kinh được Mahā Deva thuyết cho dân chúng Mahisamaṇḍala (Mhv.xii.29; Mbv.114), và được Mahinda thuyết tại Anurādhapura, vào ngày đầu tiên vị sau đến đó, khi một nghìn người chứng *Sotāpanna* (Mhv.xiv.63).
+
+Bản Majjhima của *Sutta* này được nêu (e.g., MN­a.i.135) như một ví dụ về bài thuyết giảng trong đó Đức Phật bắt đầu bài pháp bằng một ví dụ rồi sau đó thuyết Pháp.
 
 ## Notes

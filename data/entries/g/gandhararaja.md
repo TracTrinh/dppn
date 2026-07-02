@@ -5,7 +5,7 @@ base_headword: "Gandhārarājā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhārarājā. The king of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhārarājā. Vua xứ Gandhāra nhiều lần được gọi bằng tên này; rõ ràng đây là một tước hiệu chứ không phải tên riêng, e.g., Ja.i.191; ii.219f.; iii.364ff; iv.98.
 
 ## Notes

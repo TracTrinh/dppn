@@ -5,7 +5,7 @@ base_headword: "Maggasutta"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maggasutta 03. Wrong view, wrong aim, wrong speech and wrong action lead one to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasutta 03. Tà kiến, tà tư duy, tà ngữ và tà nghiệp dẫn một người đến địa ngục, những điều ngược lại với chúng dẫn đến cõi trời. Tương tự như vậy với sinh kế, tinh tấn, chánh niệm và định. AN.ii.227.
 
 ## Notes

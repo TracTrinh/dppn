@@ -5,7 +5,7 @@ base_headword: "Haṁsavatī"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Haṁsavatī 02. The Pāḷi name for the city of Pegu in Burma. Bode, 36.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsavatī 02. Tên Pāḷi của thành phố Pegu ở Miến Điện. Bode, 36.
 
 ## Notes

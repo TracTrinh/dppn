@@ -5,7 +5,7 @@ base_headword: "Gavaghāṭakasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gavaghāṭakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavaghāṭakasutta. Moggallāna thưa với Đức Phật rằng, khi đang xuống núi Gijjhakūṭa, ngài đã thấy một khối thịt khổng lồ bay qua không trung. Đức Phật nói đó là một người đồ tể mổ bò ở Rājagaha, tái sinh làm ngạ quỷ. SN.ii.256.
 
 ## Notes

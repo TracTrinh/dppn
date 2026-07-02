@@ -5,7 +5,7 @@ base_headword: "Mahā Khetta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Khetta. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Khetta. Một địa danh ở Rohaṇa, được đề cập trong câu chuyện về các chiến dịch của Parakkamabāhu I. Cv.lxxv.50; Cv.Trs.ii.49, n.3.
 
 ## Notes

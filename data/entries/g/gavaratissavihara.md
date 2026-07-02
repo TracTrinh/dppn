@@ -5,7 +5,7 @@ base_headword: "Gavaratissavihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gavaratissavihāra. A monastery in Ceylon, built by King <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavaratissavihāra. Một tu viện ở Tích Lan, do vua Bhātikatissa xây dựng; vua cũng cho xây hồ chứa nước Mahā Maṇi để duy trì tu viện này. Mhv.xxxvi.3.
 
 ## Notes

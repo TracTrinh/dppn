@@ -5,7 +5,7 @@ base_headword: "Cundī"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,6 @@ Cundī. A princess. She visited the Buddha at the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundī. Một công chúa. Cô đã đến thăm Đức Phật tại Kalandakanivāpa ở Veḷuvana, và Ngài đã thuyết cho cô bài Cundīsutta (AN.iii.35f). Theo Chú giải (AN­a.ii.596), cô là con gái của Bimbisāra. Nhà vua đã tặng cô năm trăm cỗ xe để cho cô và các bạn đồng hành của cô sử dụng. Cô là một trong ba người phụ nữ nhận được món quà này từ cha mình, những người khác là Visākhā và công chúa Sumanā. Anh hoặc em trai của Cundī là Cunda. Tên của cô xuất hiện trong một danh sách những nữ cư sĩ (*upāsikā*) lỗi lạc. AN.iv.347.
 
 ## Notes

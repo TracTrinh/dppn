@@ -5,7 +5,7 @@ base_headword: "Dāyagāmavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāyagāmavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāyagāmavihāra. Một tu viện ở Rohaṇa, do Dhātusena xây dựng. Cv.xxxviii.49.
 
 ## Notes

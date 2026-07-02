@@ -5,7 +5,7 @@ base_headword: "Buddhaghosa"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -59,6 +59,10 @@ Besides the above mentioned works of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhaghosa 01. Buddhaghosa Thera. Vị Luận sư vĩ đại nhất của *Tipiṭaka*. Ông là một Bà-la-môn. Sās. (p. 29) nói cha ông là một *Purohita*, tên là Kesa, mẹ ông là Kesī. Gv.66 nói cha ông là *Purohita* của Vua Saṅgāma. Ông sinh ra tại một ngôi làng gần Buddhagayā và thông thạo kinh Vệ-đà (Vedas) cùng các nhánh kiến thức liên quan. Một ngày nọ ông gặp một vị tỳ-kheo tên là Revata, và sau khi bị vị này đánh bại trong cuộc tranh luận, ông đã gia nhập Tăng đoàn (Saṅgha) để học giáo pháp của Đức Phật. Bởi vì lời nói của ông thâm sâu, giống như của Đức Phật, và vì những lời nói của ông lan truyền khắp thế giới (giống như của Đức Phật), nên ông được gọi là Buddhaghosa.
+
+Trong khi trú cùng Revata, ông đã viết Ñāṇodaya và Atthasālinī, và cũng bắt đầu viết một Parittaṭṭhakathā (chú giải tóm tắt) về *Tipiṭaka*. Để hoàn thành công việc của mình, ông đã đến T?ch Lan theo gợi ý của Revata và nghiên cứu các Chú giải tiếng Sinhalese tại Mahā Vihāra, dưới sự hướng dẫn của Saṅghapāla (Sās.p.29 nói ông bị phái đến T?ch Lan như một hình phạt vì nghĩ mình khôn ngoan hơn các thầy của mình). Khi việc học kết thúc, ông đã viết Visuddhimagga, và do đó giành được sự chấp thuận của các Trưởng lão ở Mahā Vihāra, ông đã dịch các Chú giải tiếng Sinhalese sang tiếng Pāli. Trong thời gian này, ông sống ở Ganthākaravihāra, và khi hoàn thành công việc, ông đã trở về Jambudīpa. (Truyền thống Miến Điện nói ông lấy được bản sao *Tipiṭaka* và các Chú giải từ *Ālokavihāra*, nhưng xem PLC.83, n.1.4).
+
+Ngoài các tác phẩm đã đề cập ở trên của Buddhaghosa, chúng ta còn có Samantapāsādikā và Kaṅkhāvitaraṇī về Vinayapiṭaka; Sumaṅgalavilāsinī, Papañcasūdanī, Sāraṭṭhappakāsinī và Manorathapūraṇī về Suttapiṭaka. Ông cũng được cho là đã biên soạn Chú giải cho Khuddakapāṭha và Suttanipāta (được gọi là Paramatthajotikā) và cho Dhammapada. Ông cũng viết một loạt Chú giải về Abhidhammapiṭaka (Atthasālinī, Sammohavinodanī và Pañcappakaraṇaṭṭhakathā). Một số người gán cho ông Chú giải Jātaka (Jātaka Commentary). Để biết thêm chi tiết liên quan đến Buddhaghosa, xem *Life and Work of Buddhaghosa* của Law và PLC.79 ff. Lời kể về cuộc đời ông ở đây được lấy từ Cv.xxxvii.215ff. Để có danh sách các tác phẩm được gán cho Buddhaghosa, xem Gv., pp.59 và 68.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -31,6 +31,6 @@ Mahā Nāma 06. Incumbent of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 06. Vị sư trụ trì của *Vihāra* Dīghasaṇḍa (hoặc Dīghāsana) (Cv.xxxix.42). Ông thường được đồng nhất với người chú của Dhātusena được đề cập ở một nơi khác (Cv.xxxviii.16). Moggallāna I. đã xây dựng cho ông Pabbatavihāra (Cv.xxxix.42). Mahā Nāma thường được coi là tác giả của phần cũ hơn trong Mahā Vaṁsa. Mhv­ṭ. 687; e.g., trong Gv.61, 66; Svd.1266; for a discussion on this see PLC.139ff.
 
 ## Notes

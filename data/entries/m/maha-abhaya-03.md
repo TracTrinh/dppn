@@ -5,7 +5,7 @@ base_headword: "Mahā Abhaya"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Abhaya 03. A monk of *Uddalokaka* *Vihāra*. Ras.ii.1.f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Abhaya 03. Một vị tỳ-kheo ở *Uddalokaka Vihāra*. Ras.ii.1.f.
 
 ## Notes

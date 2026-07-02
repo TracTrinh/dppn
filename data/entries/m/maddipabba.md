@@ -5,7 +5,7 @@ base_headword: "Maddipabba"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maddipabba. The section of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddipabba. Phần của Vessantarajātaka đề cập đến cuộc tìm kiếm các con của Maddī, và cuối cùng là niềm vui của bà khi biết được mục đích của món quà của Vessantara. Ja.vi.568.
 
 ## Notes

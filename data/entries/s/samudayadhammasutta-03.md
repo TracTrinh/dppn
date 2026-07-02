@@ -5,7 +5,7 @@ base_headword: "Samudayadhammasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samudayadhammasutta 03. The Buddha teaches the monks about arising and the endin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudayadhammasutta 03. Đức Phật dạy các tỳ-kheo về sự sinh khởi và sự chấm dứt của bốn *satipaṭṭhāna*. SN.v.184.
 
 ## Notes

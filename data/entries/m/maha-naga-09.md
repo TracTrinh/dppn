@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "09"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nāga 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 09. Mahā Nāga Thera. Vị sư trụ trì của *vihāra* Bhātiyavaṅka. Ông đã nhận khất thực từ Sāliya trong kiếp trước của vị này. Mhv­ṭ. 606.
 
 ## Notes

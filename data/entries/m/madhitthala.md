@@ -5,7 +5,7 @@ base_headword: "Madhitthala"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Madhitthala. A fortress in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhitthala. Một pháo đài ở Rohaṇa nơi *Damiḷādhikārī* đánh bại quân nổi dậy. Cv.lxxv.147.
 
 ## Notes

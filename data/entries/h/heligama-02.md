@@ -5,7 +5,7 @@ base_headword: "Heḷigāma"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Heḷigāma 02. A *pāsāda* erected by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Heḷigāma 02. Một *pāsāda* do Kassapa III xây dựng. Cv.xlviii.24; xem Cv.Trs.i.112, n.3.
 
 ## Notes

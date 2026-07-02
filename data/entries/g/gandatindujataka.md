@@ -5,7 +5,7 @@ base_headword: "Gaṇḍatindujātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,8 @@ The introductory story is given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍatindujātaka (Ja 520). Pañcāla, vua xứ Kampilla, là một vị vua độc ác, và thần dân của ông, bị các quan lại của ông sách nhiễu, phải chịu áp bức nặng nề. Bodhisatta, khi ấy sinh làm vị thọ thần *gaṇḍatindu*, biết được điều này, liền hiện ra trong phòng ngủ của vua và khuyên vua từ bỏ những cách hành xử xấu ác, tự mình tìm hiểu tình cảnh của thần dân. Nghe theo lời khuyên, vua cải trang đi khắp nơi cùng với vị quốc sư của mình. Ở khắp mọi nơi, vua thấy đàn ông, đàn bà, và cả loài vật đều nguyền rủa chính tên mình. Vua trở về kinh đô và dốc lòng làm việc thiện (Ja.v.98ff).
+
+Câu chuyện dẫn nhập được kể trong Rājovādajātaka (Ja 334) (*q.v.*).
 
 ## Notes

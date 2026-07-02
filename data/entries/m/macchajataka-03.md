@@ -5,7 +5,7 @@ base_headword: "Macchajātaka"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Macchajātaka 03. (Ja 216). The story very much resembles <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchajātaka 03. (Ja 216). Câu chuyện này rất giống với Macchajātaka (1). Ja.ii.178f.
 
 ## Notes

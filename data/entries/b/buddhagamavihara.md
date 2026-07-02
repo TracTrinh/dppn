@@ -5,7 +5,7 @@ base_headword: "Buddhagāmavihāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddhagāmavihāra. A monastery in Ceylon for the maintenance of which <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhagāmavihāra. Một tu viện ở T?ch Lan mà Sena II. đã dâng cúng một ngôi làng để bảo trì. Cv.li.74.
 
 ## Notes

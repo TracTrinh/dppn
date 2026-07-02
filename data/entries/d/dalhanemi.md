@@ -5,7 +5,7 @@ base_headword: "Daḷhanemi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,8 @@ Later he taught his son how he, in turn, could become a <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhanemi. Một vị *Cakkavatti* thời xa xưa. Khi *cakka* của ông có dấu hiệu sắp biến mất, ông đã giao lại vương quốc cho con trai trưởng và trở thành một ẩn sĩ.
+
+Sau đó ông đã dạy con trai mình làm thế nào, đến lượt anh ta, cũng có thể trở thành một *Cakkavatti*. DN.iii.59f.
 
 ## Notes

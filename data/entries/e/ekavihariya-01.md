@@ -5,7 +5,7 @@ base_headword: "Ekavihāriya"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekavihāriya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekavihāriya 01. Ekavihāriya Thera. Một vị *Arahant*. Vào thời của Kassapa Buddha, ngài gia nhập Tăng đoàn và sống độc cư. Trong kiếp này cũng vậy, ngài rất thích sống một mình. Ap.ii.390f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devamalla"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Devamalla. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devamalla. Con trai của Kitti ở Makkhakudrūsa. Ông đến với Kitti (về sau là Vijayabāhu I.) cùng một đoàn tùy tùng lớn từ Rohaṇa và đề nghị phục vụ, xin được phong làm *Ādipāda*. Về sau, ông rút về Hiraññamalaya và xây một thành lũy ở Remuṇa. Cv.lvii.59.
 
 ## Notes

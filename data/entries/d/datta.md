@@ -5,7 +5,7 @@ base_headword: "Dattā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dattā. A granddaughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dattā. Một cháu gái của Visākhā, là con gái của con trai bà. Cô chết khi còn trẻ, và mẹ cô, đầy sầu khổ, được Đức Phật an ủi. Dhp­a.iii.278.
 
 ## Notes

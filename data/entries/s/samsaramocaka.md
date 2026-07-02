@@ -5,7 +5,7 @@ base_headword: "Saṁsāramocakā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saṁsāramocakā. A class of *micchādiṭṭhikas*, e.g., Pv-a.67.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁsāramocakā. Một nhóm *micchādiṭṭhika*, ví dụ, Pv-a.67.
 
 ## Notes

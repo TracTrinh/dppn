@@ -5,7 +5,7 @@ base_headword: "Mahā Gallaka"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Gallaka 02. A tank built by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gallaka 02. Một hồ chứa nước được xây dựng bởi Mahā Sena. Parakkamabāhu I đã sửa chữa nó và xây dựng một con kênh từ hồ này đến Sūkaranijjhara. Mhv.xxxvii.49. Cv.lxviii.34, 43; lxxix. 66; cũng xem Cv.Trs.i.279, n.5.
 
 ## Notes

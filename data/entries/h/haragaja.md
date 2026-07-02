@@ -5,7 +5,7 @@ base_headword: "Hāragaja"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hāragaja. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hāragaja. Một loại chư thiên có mặt khi Mahā Samayasutta được thuyết giảng. DN.ii.260.
 
 ## Notes

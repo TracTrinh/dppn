@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsiva"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāṭhāsiva 01. A Thera held in high esteem by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsiva 01. Một vị Trưởng lão được Aggabodhi I hết sức kính trọng. (Cv.xlii.22). Geiger (Cv.Trs.i.67, n.8) cho rằng ông có lẽ đã giữ một chức vụ nào đó trong triều đình của nhà vua, tương đương với một *Purohita*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Daṇḍadāyaka Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daṇḍadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he presented to t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍadāyaka Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng lên Tăng đoàn một cây gậy chống (*ālambana*) làm từ một cây tre rừng (Ap.i.283; lặp lại ở ii.456). Ngài có lẽ đồng nhất với Kumāputtasahāya. Thag­a.i.103.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷa"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -40,6 +40,10 @@ Ninety-one *kappas* ago, while wandering near the mountain <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷa 01. Trưởng lão Mahā Kāḷa. Ông thuộc một gia đình thương nhân ở Setavyā, và, trong khi đang trên hành trình đến Sāvatthī với năm trăm cỗ xe, ông đã nghe Đức Phật thuyết pháp tại Jetavana và gia nhập Tăng đoàn. Ông sống ở bãi tha ma thiền định, và, một ngày nọ, người phụ nữ hỏa táng Kāḷā, khi chú ý đến ông, đã sắp xếp các chi của một thi thể vừa mới hỏa táng gần vị Trưởng lão để ông có thể nhìn vào chúng. Với những thứ này làm đề mục thiền định, ông nhanh chóng trở thành một bậc Arahant. Thag.vss.151f.; câu chuyện của ông được kể chi tiết hơn nhiều tại Dhp­a.i.66ff.; tại đó ông được nói là anh cả của ba anh em, trong đó những người còn lại là Majjhima Kāḷa và Cūḷa Kāḷa.
+
+Ông đã đi cùng người em út này đến Sāvatthī, nơi cả hai đều gia nhập Tăng đoàn. Sau khi trở thành một bậc Arahant, Mahā Kāḷa đã đi cùng Đức Phật đến Setavyā và cư ngụ trong khu rừng Siṁsapā, Cūḷa Kāḷa đi theo cùng ông. Các người vợ của Cūḷa Kāḷa đã thỉnh Đức Phật và các tỳ-kheo khác đến dự một bữa ăn, và bản thân ông đã đi đến sớm hơn để sắp xếp. Các người vợ của ông đã cởi áo y của ông. Vào cuối bữa ăn, Mahā Kāḷa được Đức Phật để lại để nói lời tạ ơn. Tám người vợ của ông đã vây quanh ông và lột sạch áo y của ông, nhưng, khi biết được ý định của họ, ông đã biến mất qua không trung.
+
+Chín mươi mốt kappa trước, trong khi đang lang thang gần ngọn núi Urugaṇa, ông đã nhìn thấy chiếc y phấn tảo của một đạo sĩ và đã dâng cúng ba bông hoa kiṅkiṇika để tôn vinh nó (Thag­a.i.271f). Ông có lẽ đồng nhất với Trưởng lão Paṁsukūlapūjaka của Apadāna. Ap.ii.434; nhưng xem Thag­a.i.79, nơi các vần kệ Apadāna tương tự được trích dẫn.
 
 ## Notes

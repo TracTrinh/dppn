@@ -5,7 +5,7 @@ base_headword: "Ghosakaseṭṭhi"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -53,6 +53,16 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghosakaseṭṭhi (*v.l.* Ghositaseṭṭhi). Một *seṭṭhi* ở Kosambī. Sinh ra là con trai của một kỹ nữ, ông bị vứt bỏ trên một đống rác. Một người qua đường mang ông về nhà, nhưng vị Trưởng giả của Kosambī, khi biết từ một nhà chiêm tinh rằng các vì sao cho thấy sự ra đời của một cậu bé rất may mắn, đã tìm kiếm ông và nhận nuôi ông. Vài ngày sau, vợ của vị Trưởng giả sinh cho ông một người con trai, và do đó ông ta lên kế hoạch giết Ghosaka với sự giúp đỡ của một nữ tì, Kāḷī. Mọi nỗ lực của ông ta đều thất bại, ông ta hứa sẽ cho một thợ gốm một ngàn đồng tiền nếu người đó giết cậu bé. Ghosita được cử đến chỗ người thợ gốm với một tin nhắn; trên đường đi, cậu bé gặp người anh em nuôi của mình, và đưa tin nhắn cho người đó, vì đã hứa sẽ giành chiến thắng trong một trò chơi bi cho người đó. Người anh em nuôi đi đến chỗ người thợ gốm và bị giết chết. Vị Trưởng giả sau đó gửi Ghosaka đến viên quản lý một trăm ngôi làng của mình với một lá thư ra lệnh giết cậu bé. Lá thư được buộc vào y phục của cậu bé. Trên đường đi, cậu dừng lại để dùng bữa tại nhà của một vị trưởng giả ở nông thôn, người con gái xinh đẹp của vị này đã đem lòng yêu cậu. Khi phát hiện ra lá thư, cô đã thay thế một lá thư khác với nội dung là Ghosaka sẽ được gả cho cô với những lễ hội linh đình và một ngôi nhà hai tầng sẽ được xây dựng cho họ. Viên quản lý đã thực hiện những mệnh lệnh này và vị Trưởng giả đã ngã bệnh khi nhận được tin tức. Ghosaka và vợ của cậu đã đến thăm ông trên giường bệnh, và khi đang cố gắng dùng chút hơi thở cuối cùng để nói "Tôi không trao cho nó tài sản của mình", do nói nhịu ông ta lại nói "Tôi trao". Ghosaka trở thành một người rất sùng đạo và được phong làm Trưởng giả của Vua Udena. Sau này ông gặp Sāmāvatī, con gái của người bạn ông là Bhaddavatiya, nhận cô làm con gái nuôi và, khi thời cơ đến, đã gả cô cho Udena.
+
+Trong một kiếp trước Ghosaka vốn là Kotūhalaka ở Addilaraṭṭha, nhưng đã rời khỏi đó cùng vợ và con do quá nghèo đói. Trên đường đi, ông đã bỏ lại đứa trẻ vì nó quá nặng, nhưng sau đó đã cứu nó lại trước những lời nài nỉ của vợ mình. Chính vì hành động đó mà ông đã bị vứt bỏ trong kiếp này. Sau này ông được sinh ra làm một con chó và sau đó là *Devaputta* Ghosaka (Dhp­a.i.169ff; Paṭis-a.504ff) (*q.v.*).
+
+Ghosaka có hai người đồng sự ở Kosambī, Kukkuṭa và Pavāriya. Trong một số năm, họ đã thiết đãi năm trăm vị khổ hạnh từ Himavā, trong suốt mùa an cư, cho đến một năm nọ các vị khổ hạnh, khi nghe một vị thọ thần, người từng là một trong những người làm công của Anāthapiṇḍika, báo cho biết về sự xuất hiện của Đức Phật, đã thông báo cho Ghosaka và những người bạn của ông về quyết tâm đi yết kiến Đức Phật tại Sāvatthī của họ. Các vị khổ hạnh đã đi trước, theo sau là Ghosaka và những người khác, mang theo đủ loại vật phẩm cúng dường. Họ đều nghe Đức Phật thuyết pháp, trở thành các bậc *Sotāpanna*, và cung thỉnh Đức Phật đến Kosambī. Khi lời mời được chấp nhận, họ đã xây dựng các chỗ ở cho Đức Phật và các vị tỳ-kheo tại Kosambī, chỗ ở do Ghosaka xây dựng được gọi là Ghositārāma (Dhp­a.i.203ff; AN­a.i.234f.; MN­a.i.539f; Paṭis-a.414, etc.).
+
+Mitta (Dhp­a.i.189) là gia chủ phụ trách nhà ăn, từ đó Ghosaka cho phân phát thức ăn hàng ngày cho những người nghèo khổ, và Sumana là người làm vườn của Ghosaka (Dhp­a.i.208).
+
+Ghosaka được nhắc đến như một ví dụ về một người sở hữu *puññiddhi*. Ông không thể bị giết chết cho dù bị đâm ở bảy chỗ (Bv­a.24).
+
+Xem thêm Ghositasutta.
 
 ## Notes

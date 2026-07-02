@@ -5,7 +5,7 @@ base_headword: "Hemamandira"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hemamandira. A building erected in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemamandira. Một công trình được xây dựng ở Pulatthipura bởi Parakkamabāhu I dành cho các nghi lễ sám hối của các vị Bà-la-môn. Cv.lxxiii.71.
 
 ## Notes

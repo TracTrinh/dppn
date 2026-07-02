@@ -5,7 +5,7 @@ base_headword: "Ekavandiya Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekavandiya Thera. An *Arahant*. Thirty-one *kappas* ago he saw the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekavandiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài nhìn thấy Buddha Vessabhū và, với tấm lòng sùng kính, đã đảnh lễ Đức Phật. Hai mươi bốn *kappa* trước, ngài là một vị vua tên là Vigatānanda. Ap.i.217.
 
 ## Notes

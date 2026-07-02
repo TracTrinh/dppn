@@ -5,7 +5,7 @@ base_headword: "Samayappavādaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samayappavādaka. A descriptive epithet of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayappavādaka. Một mỹ danh mô tả của Mallikārāma ở Sāvatthī. Nơi này được gọi như vậy vì các vị thầy thuộc nhiều quan điểm khác nhau thường tụ họp ở đó và trình bày ý kiến của mình (*attano attano samayaṁ pavadanti*). MN­a.ii.710; DN­a.ii.365.
 
 ## Notes

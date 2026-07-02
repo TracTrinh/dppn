@@ -5,7 +5,7 @@ base_headword: "Mahā Kassapasaddhivihārikavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kassapasaddhivihārikavatthu. The story of the pupil of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kassapasaddhivihārikavatthu. Câu chuyện về người đệ tử của Mahā Kassapa, người đã phóng hỏa đốt túp lều của ông. Dhp­a.ii.19ff.; xem thêm Kuṭidūsakajātaka (Ja 321).
 
 ## Notes

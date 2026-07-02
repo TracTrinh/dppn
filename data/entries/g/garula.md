@@ -5,7 +5,7 @@ base_headword: "Garuḷa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,6 @@ Garuḷa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Garuḷa, Garuḍa, Garuḷas, Garuḍas. Một trong các cung điện mà Đức Phật Phussa đã ở trong kiếp làm người tại gia cuối cùng của Ngài (Bv.xix.15). Chú giải (Bv­a.192) gọi cung điện này là Garuḷapakkha.
 
 ## Notes

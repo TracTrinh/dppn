@@ -5,7 +5,7 @@ base_headword: "Gambhīra"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gambhīra 01. A seaport village, visited by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gambhīra 01. Một làng cảng biển, được Mittavindaka ghé qua trong hành trình chạy trốn khỏi Benares. Ja.i.239.
 
 ## Notes

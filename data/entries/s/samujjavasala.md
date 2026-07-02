@@ -5,7 +5,7 @@ base_headword: "Samujjavasālā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samujjavasālā. A building in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samujjavasālā. Một tòa nhà ở Anurādhapura. Đất sét lấy từ dưới các bậc thềm phía bắc của tòa nhà này được dùng để chế tạo các vật dụng sử dụng trong lễ đăng quang của các vua Tích Lan. Mhv­ṭ. 307.
 
 ## Notes

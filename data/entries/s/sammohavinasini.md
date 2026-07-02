@@ -5,7 +5,7 @@ base_headword: "Sammohavināsinī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sammohavināsinī. A *ṭīkā* on the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammohavināsinī. Một *ṭīkā* về Kaccāyanasāra, do Saddhammavilāsa ở Pagan biên soạn. Bode, 37.
 
 ## Notes

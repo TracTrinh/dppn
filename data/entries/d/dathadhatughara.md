@@ -5,7 +5,7 @@ base_headword: "Dāṭhādhātughara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Dāṭhādhātughara. A building in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhādhātughara. Một tòa nhà ở Anurādhapura, nơi lưu giữ Xá-lợi Răng sau khi nó được mang đến Tích Lan, dưới triều đại của Sirimeghavaṇṇa. Tòa nhà này hiển nhiên được gắn liền với cung điện "trong lãnh thổ hoàng gia," và ban đầu được xây dựng bởi Devānampiyatissa, tên của nó khi đó là Dhammacakka (Cv.xxxvii.95f). Dhātusena đã khôi phục nó (Cv.xxxviii.70), trong khi Aggabodhi I trang hoàng nó bằng nhiều đồ trang trí khác nhau (Cv.xlii.33). Nó đã bị những người Coḷa thiêu rụi, nhưng được xây dựng lại bởi Mahinda IV. Chúng ta được biết rằng nó nằm ở *nagaramajjhamhi*, i.e., ở trung tâm của khu vực hoàng gia (Cv.xliv.134; liv.45).
 
 ## Notes

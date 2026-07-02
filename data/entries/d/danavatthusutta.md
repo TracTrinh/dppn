@@ -5,7 +5,7 @@ base_headword: "Dānavatthusutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dānavatthusutta. On eight motives from which alms are given. AN.iv.236f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānavatthusutta. Về tám động cơ khiến người ta bố thí. AN.iv.236f.
 
 ## Notes

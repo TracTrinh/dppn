@@ -5,7 +5,7 @@ base_headword: "Ganthambatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Ganthambatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ganthambatittha. Một bến đò trên sông Mahā Vālukagaṅgā. Tại đó, một *udakakkhepasīmā* đã được Vimaladhammasūriya I dựng lên (Cv.xciv.17). Tên gọi này là từ tương đương trong tiếng Pāli của từ Sinhala Gātambé.
 
 ## Notes

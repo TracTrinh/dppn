@@ -5,7 +5,7 @@ base_headword: "Samogadha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samogadha. A king of fifty-five *kappas* ago, a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samogadha. Một vị vua từ năm mươi lăm *kappa* trước, một kiếp trước của Taraṇiya Thera. Ap.i.238.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṁvejanīyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Saṁvejanīyasutta. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvejanīyasutta. *v.l.* Vejanīyasutta. Bốn địa điểm liên quan đến Đức Phật – nơi Ngài đản sinh, nơi Ngài Giác Ngộ, nơi Ngài thuyết bài pháp đầu tiên, và nơi Ngài viên tịch – những nơi mà các tín đồ nên chiêm ngưỡng với lòng xúc động. AN.ii.120; DN.ii.140.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Hatthinipura"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthinipura. A city in the kingdom of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthinipura. Một thành phố trong vương quốc Kuru, nơi cư trú của kỹ nữ Serinī (*q.v.*). Pv-a.201.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cundasutta"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cundasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundasutta 04. Cunda Samaṇuddesa đến Jetavana từ Nālagāmaka, nơi ông đã chăm sóc Sāriputta trong cơn bệnh cuối cùng của vị đó, và báo tin vị đó qua đời cho Ānanda, đồng thời trình ra chiếc bát, y áo ngoài của Sāriputta và đồ lọc nước có chứa xá lợi của vị đó. Ānanda đi cùng Cunda đến gặp Đức Phật, nơi ông báo hung tin. Đức Phật tán thán những thành tựu của Sāriputta và nhân cơ hội này để nhấn mạnh đến sự vô thường của vạn pháp. SN.v.161ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "11"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Deva 11. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 11. Một đại thần của Āyasmanta. Ông được phái đi dựng một *vihāra* tại Valligāma. Cv.lxxx.38.
 
 ## Notes

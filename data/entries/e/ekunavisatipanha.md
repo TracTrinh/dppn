@@ -5,7 +5,7 @@ base_headword: "Ekūnavīsatipañha"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Ekūnavīsatipañha. The section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekūnavīsatipañha. Phần của Mahā Ummaggajātaka (Ja 546) đề cập đến mười chín câu hỏi đã được Mahosadha giải quyết khi các bậc hiền trí khác của triều đình đã thất bại trong việc gỡ rối chúng. Ja.vi.334-45.
 
 ## Notes

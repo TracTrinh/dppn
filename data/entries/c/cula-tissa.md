@@ -5,7 +5,7 @@ base_headword: "Cūḷa Tissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Tissa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Tissa, Cūla Tissa. Có lẽ là một nhà Chú giải. Ông được gọi là Uruvelavāsī, và được trích dẫn trong Saṁyutta Commentary liên quan đến một cuộc thảo luận về *phassavedanā* (xúc thọ). SN­a.ii.100.
 
 ## Notes

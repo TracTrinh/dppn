@@ -5,7 +5,7 @@ base_headword: "Hema"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hema. A class of elephants having the strength of one hundred million men. Ud­a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hema. Một loại voi có sức mạnh bằng một trăm triệu người. Ud­a.403; AN­a.ii.832; Bva.37, etc.
 
 ## Notes

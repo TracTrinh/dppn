@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gopāla 01. King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 01. Con trai của Vua Udena. Gopāla cũng là tên của cha của vương hậu của Udena, Gopālamātādevī. AN­a.i.118.
 
 ## Notes

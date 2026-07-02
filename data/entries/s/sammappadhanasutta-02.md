@@ -5,7 +5,7 @@ base_headword: "Sammappadhānasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sammappadhānasutta 02. Details of the four *sammappadhānas*. SN.iv.364.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammappadhānasutta 02. Chi tiết về bốn *sammappadhāna*. SN.iv.364.
 
 ## Notes

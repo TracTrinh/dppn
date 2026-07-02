@@ -5,7 +5,7 @@ base_headword: "Bolagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -25,6 +25,6 @@ Bolagāma. A village mentioned in the account of the campaigns of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bolagāma. Một ngôi làng được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxv.6.
 
 ## Notes

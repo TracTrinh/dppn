@@ -5,7 +5,7 @@ base_headword: "Hatthikucchipabbhāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthikucchipabbhāra. A glen in which was the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthikucchipabbhāra. Một thung lũng nhỏ, nơi có Mahindaguhā, được rừng cây che phủ, ở lối vào một thung lũng sâu. Vsm.110.
 
 ## Notes

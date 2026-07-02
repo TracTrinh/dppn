@@ -5,7 +5,7 @@ base_headword: "Giriddhī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giriddhī. An eminent *Arahant* Therī of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giriddhī. Một vị nữ *Arahant* xuất chúng của Mahā Vihāra, người đã giảng dạy Vinaya ở Tích Lan. Dpv.xviii.14.
 
 ## Notes

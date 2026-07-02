@@ -5,7 +5,7 @@ base_headword: "Danta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Danta. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Danta. Một gia chủ ở Nāgakāragāma. Ông đã bố thí trong nhiều năm cho Trưởng lão Malaya Mahā Deva và các tỳ-kheo ở Piyaṅgudīpa. Một lần, trên đường đến Suvaṇṇabhūmi, ông bị đắm tàu, nhưng đã được Trưởng lão Sīhabāhu cứu và đưa đến Piyaṅgudīpa. Ở đó ông đã nhìn thấy Sakka và được cung cấp một chiếc tàu đầy của cải. Nhà vua khi nghe tin về ông đã ban cho ông Dantagāma. Ras.ii.191f.
 
 ## Notes

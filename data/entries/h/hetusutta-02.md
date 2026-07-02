@@ -5,7 +5,7 @@ base_headword: "Hetusutta"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hetusutta 02. Suffering and its cause are both impermanent. SN.iii.23.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hetusutta 02. Khổ và nguyên nhân của khổ đều là vô thường. SN.iii.23.
 
 ## Notes

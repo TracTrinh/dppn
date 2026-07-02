@@ -5,7 +5,7 @@ base_headword: "Madhumaṁsadāyaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhumaṁsadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago, in the time of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhumaṁsadāyaka Thera. Một vị Arahant. Chín mươi mốt kappa trước, trong thời của Vipassī Buddha, ngài là một người đâm lợn ở Bandhumatī, và một ngày nọ đã cúng dường cho một vị Trưởng lão một bát thịt mềm. Sau khi chết, ngài được tái sinh ở Tāvatiṁsa. Ap.ii.372.
 
 ## Notes

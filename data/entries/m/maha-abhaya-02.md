@@ -5,7 +5,7 @@ base_headword: "Mahā Abhaya"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -40,6 +40,12 @@ On another occasion (MN­a.i.65f) <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Abhaya 02. Một vị *Thera*. Thường được gọi là *Dīghabhāṇaka* Abhaya. Rõ ràng ngài là một vị Thera xuất chúng. Có nói rằng khi tin tức truyền đến rằng tên cướp Abhaya sắp đến Cetiyagiri để cướp phá, các thí chủ của *vihāra* đã thông báo cho Trưởng lão Abhaya về việc này (Vin-a.ii.474f.; được tham chiếu tại Dhs-a.399). Ngài yêu cầu họ thu thập các loại thức ăn và đồ uống để chiêu đãi tên cướp. Tên cướp vô cùng hài lòng, và, khi biết rằng sự hiếu khách này được dành cho mình theo sự xúi giục của Trưởng lão Abhaya*,* hắn đã đến thăm vị Trưởng lão và tự mình đảm nhận việc bảo vệ *vihāra* khỏi mọi hiểm nguy. Sau đó, các tỳ-kheo chất vấn về quyền của Trưởng lão khi dùng đồ đạc của *vihāra* để chiêu đãi một tên cướp, nhưng ngài đã triệu tập một hội đồng các tỳ-kheo và thuyết phục họ rằng ngài vô tội, vì hành động của ngài hoàn toàn chỉ để bảo vệ đồ đạc của Tăng đoàn. Câu chuyện này cho thấy vị Trưởng lão đã sống tại Cetiyagiri.
+
+Vào một dịp khác (MN­a.i.65f), Trưởng lão Abhaya đã thuyết giảng *paṭipadā* Mahā Ariyavaṁsa, và cả làng (? Mahā Gāma) đã đến nghe ngài. Sau bài pháp, ngài nhận được sự tôn kính lớn. Một tỳ-kheo lớn tuổi đầy ghen tị và đã nhục mạ ngài, nói rằng dưới vỏ bọc thuyết pháp, ngài đã làm đêm tối tràn ngập tiếng ồn. Hai vị tỳ-kheo phải đi cùng một con đường trên một khoảng cách một *gāvuta*, và suốt quãng đường vị tỳ-kheo già nhục mạ Abhaya. Khi đường của họ rẽ đi hai hướng, Abhaya đảnh lễ vị tỳ-kheo và cáo từ ngài và, khi được hỏi sau này, ngài nói rằng ngài đã không nghe thấy lời nhục mạ nào vì ngài đã luôn chìm đắm trong thiền định suốt thời gian đó. Một ngày nọ, một người phụ nữ đã lặn lội suốt chặng đường từ Ullabha Kolakaṇṇikā, một khoảng cách năm do-tuần, để nghe Abhaya thuyết giảng Ariyavaṁsa, phát hiện ra rằng ngài chuẩn bị đứng lên mà chưa kết thúc bài pháp, và đã nhắc ngài rằng ngài đang bỏ sót phần quan trọng nhất. Vị tỳ-kheo khen ngợi bà và tiếp tục thuyết giảng cho đến tận bình minh, khi người phụ nữ trở thành một vị *Sotāpanna* (AN­a.i.386). Có nói rằng một lần nọ Abhaya muốn biết liệu một vị tỳ-kheo *piṇḍapātika* nào đó có phải là một *puthujjana* hay không. Trong khi vị tỳ-kheo này đang tắm ở cửa sông Kalyāṇī, Abhaya bảo một sa-di lặn xuống nước và nắm lấy chân của vị tỳ-kheo. Vị tỳ-kheo, tưởng đó là một con cá sấu, hét lên vì sợ hãi, và Abhaya biết rằng vị ấy là một *puthujjana* (MN­a.ii.869). Bọn trộm từng trói một vị Trưởng lão bằng dây leo và bắt ngài nằm xuống. Một ngọn lửa rừng cháy lan đến chỗ ngài, nhưng trước khi dây leo có thể bị đứt, ngài đã an trú tuệ quán và viên tịch như một vị Arahant. Abhaya, đi ngang qua cùng với năm trăm vị khác, nhìn thấy thi thể, đã hỏa táng nó, và sai xây dựng một tháp thờ trên hài cốt (Vsm.36).
+
+Ý kiến của Abhaya rõ ràng rất được tôn trọng, và ngài được nhắc đến là đã được tham vấn bởi Mahā Dhammarakkhita (Vibh­a.81) và Mallaka (Vsm.266) về những vấn đề liên quan đến Abhidhamma.
+
+Abhaya được nhắc đến trong số những người có thể nhớ được những sự kiện rất sớm trong cuộc đời họ. Khi ngài mới được chín ngày tuổi, mẹ ngài cúi xuống để ôm ngài, nhưng mái tóc của bà bị bung ra và những bông hoa *sumana* mà bà cài trên đầu rơi xuống người ngài, khiến ngài bị đau. Về sau trong đời ngài có thể nhớ được sự kiện này. DN­a.ii.530; MNid-a.234.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambhūta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -44,6 +44,12 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhūta 02. Sambhūta Thera. Một người Bà-la-môn ở Rājagaha, cùng với các bạn của mình là Bhūmija, Jeyyasena và Abhirādhana, đã gia nhập Saṅgha. Vì ông ở liên tục trong khu Sītavana, thiền quán về bản chất của thân xác, nên ông được gọi là “Sītavaniya.” Theo thời gian ông chứng đắc quả vị *Arahant*, và những bài kệ tuyên bố *aññā* của ông được đưa vào Theragāthā (Thag.vs.6).
+
+Có nói rằng (Thag­a.i.46) khi Sambhūta đang thiền định, Vessavaṇa đi ngang qua đó, thấy ông và đảnh lễ ông, rồi để lại hai Yakkha canh giữ và báo cho Sambhūta biết về cuộc viếng thăm của mình. Khi vị Thera hoàn tất thiền định, các Yakkha chuyển lời của Vessavaṇa, đề nghị bảo vệ ông. Nhưng ông từ chối sự bảo vệ ấy, nói rằng chánh niệm mà Đức Phật đã dạy đã đủ để bảo vệ ông. Trên đường trở về, Vessavaṇa lại đến thăm ông, và nhận thấy qua diện mạo của vị Trưởng lão rằng ông đã đạt được mục tiêu của mình, liền đến gặp Đức Phật tại Sāvatthī và báo cho Ngài biết về sự chứng đắc của Sambhūta.
+
+Sambhūta từng là một gia chủ vào thời Atthadassī Buddha, và đã đưa Đức Phật cùng một đoàn tùy tùng lớn qua sông.
+
+Ông có lẽ là cùng một người với Taraṇiya Thera trong Apadāna. Ap.i.204f.; xem thêm Vibh­a.306 và SN­a.iii.201, nơi Sambhūta được nêu làm ví dụ về người đã phát triển *lokuttaradhamma* bằng cách phát triển tâm (*cittaṁ dhuraṁ katvā*).
 
 ## Notes

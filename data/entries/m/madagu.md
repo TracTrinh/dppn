@@ -5,7 +5,7 @@ base_headword: "Madagu"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Madagu. A tank in Ceylon, restored by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madagu. Một hồ chứa nước ở Tích Lan, được tu bổ bởi Parakkamabāhu I. Cv.lxxix.37.
 
 ## Notes

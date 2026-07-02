@@ -5,7 +5,7 @@ base_headword: "Samantacakkhu"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samantacakkhu 02. A king of fifty-five *kappas* ago, a previous birth of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantacakkhu 02. Một vị vua của năm mươi lăm *kappas* trước, một kiếp trước của Araṇadīpaka Thera. Ap.i.231.
 
 ## Notes

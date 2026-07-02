@@ -5,7 +5,7 @@ base_headword: "Hatthisālā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hatthisālā. A religious building in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthisālā. Một công trình tôn giáo ở Anurādhapura. Mahinda IV đã xây cho nơi này một nhà phát chẩn, và ban vật thực cùng giường nằm cho những người ăn xin đến đó. Cv.liv.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gotama 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 03. Gotama Thera cũng được gọi là Aparagotama Thera. Ông lớn tuổi hơn Đức Phật và xuất thân từ một gia đình Bà-la-môn *Udicca* của Sāvatthī. Ông tinh thông các kinh Veda và là một nhà hùng biện vô song. Khi Đức Phật đến Sāvatthī để dự lễ hiến cúng Jetavana, ông đã nghe Đức Phật thuyết pháp và gia nhập Tăng đoàn, đắc quả vị *Arahant* trong phòng cạo đầu. Khi ông quay trở về Sāvatthī, sau một thời gian dài cư trú tại đất nước Kosala, nhiều người thân của ông, những vị Bà-la-môn xuất chúng, đã đến tìm ông và xin ông lời khuyên về nhiều giáo lý (*suddhivādā*) đang lưu hành trong dân chúng; ông đã kể cho họ nghe về những lời dạy của Đức Phật. Thag.587-96; Thag­a.i.529f.
 
 ## Notes

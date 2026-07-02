@@ -5,7 +5,7 @@ base_headword: "Buddhappiya"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,6 @@ Buddhappiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhappiya 01. Buddhappiya Thera. Ông là người gốc xứ Coḷa, nhưng học tại T?ch Lan dưới sự hướng dẫn của Ānanda Vanaratana. Ông là người đứng đầu Bālādiccavihāra và đã viết hai cuốn sách, Rūpasiddhi và Pajjamadhu. Ông cũng được biết đến với tên gọi Coḷiya Dīpaṅkara. PLC.220 f.; Svd.1239, 1260; Sās-d.65.
 
 ## Notes

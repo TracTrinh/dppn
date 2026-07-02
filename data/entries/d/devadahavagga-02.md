@@ -5,7 +5,7 @@ base_headword: "Devadahavagga"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devadahavagga 02. The fourteenth chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadahavagga 02. Chương thứ mười bốn của Saḷāyatanasaṃyutta. SN.iv.124ff.
 
 ## Notes

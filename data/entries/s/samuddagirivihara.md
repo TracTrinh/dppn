@@ -5,7 +5,7 @@ base_headword: "Samuddagirivihāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samuddagirivihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddagirivihāra. Một *vihāra* ở Sunāparanta, nơi Puṇṇa từng sống một thời gian. Hành lang kinh hành (*caṅkamana*) ở đó được bao quanh bởi các tảng đá có từ tính, và không ai có thể đi lại trong đó. MN­a.ii.1015; SN­a.iii.15.
 
 ## Notes

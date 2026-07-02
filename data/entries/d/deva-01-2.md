@@ -5,7 +5,7 @@ base_headword: "Devā"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -37,6 +37,6 @@ Devā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devā 01. Deva, chư thiên. Một lớp chúng sinh. Như một tước hiệu, từ *Deva* được gán cho bất kỳ chúng sinh nào được xem, ở một vài phương diện nhất định, là cao hơn mức con người. Vì vậy nó được dùng cho một vị vua. Trong một phân loại muộn (CNid.307; Khp­a.123, etc.) có ba loại Devā: *sammutidevā* (các deva theo quy ước - chẳng hạn, vua và hoàng tử); *visuddhidevā* (những chúng sinh có tính thiên do sự thanh tịnh của công đức tôn giáo lớn lao - các *Arahant* và chư Phật); và *uppattidevā* (những chúng sinh sinh ra đã có tính thiên). Dưới hạng thứ ba, nhiều nhóm khác nhau được liệt kê, con số thường gặp nhất là bảy: Cātummahārājikā, Tāvatiṃsā, Yāmā, Tusitā, Nimmānaratī, Paranimmitavasavattī và Brahmakāyikā (e.g., DN.i.216; AN.i.210, etc.). Danh sách dài nhất là của Majjhimanikāya (i.289; iii.100. *Divyāvadāna* p.266 có danh sách gồm hai mươi hai nhóm), chứa tên của hai mươi lăm nhóm. Từ nguyên phổ thông của từ này liên hệ nó với căn *div* theo nghĩa chơi đùa, vui chơi, hay tự tiêu khiển, đôi khi cũng là chiếu sáng: *dibbantī ti devā, pañcahi kāmaguṇehi kīlanti, attano vā siriyā jotantī ti attho* (Khp­a.123). Từ này hàm ý sở hữu vẻ huy hoàng và năng lực di chuyển tùy ý, vẻ đẹp, thiện lành và sự rực sáng của thân, và, với nghĩa ấy, đối lập với các thế lực đen tối của tác hại và hủy diệt - như Asuras, *Petas* và *Nerayikas*. Chư thiên thường được xem là có quan hệ thân thuộc và sự liên tục đời sống với loài người; tất cả chư thiên đã từng là người và có thể lại sinh giữa loài người. Họ quan tâm đến các việc làm của con người, đặc biệt là Cātummahārājikā và chư thiên của Tāvatiṃsa. Họ xuống đất để lễ bái Đức Phật và tỏ lòng tôn kính với những người thiện. Sakka (*q.v.*) thường được nói đến là vị đứng đầu chư thiên - *devānaṃ indo*. Tất cả chư thiên tự thân vẫn ở trong *Saṃsāra*, cần sự giải thoát. Họ chịu sự chết, tuổi thọ thay đổi tùy theo công đức của từng *Deva* cá nhân. Họ sinh ra trong độ nở rộ trọn vẹn của tuổi trẻ và không bệnh tật cho đến giây phút chết. Chư thiên chết vì một trong các nguyên nhân sau: hết thọ mạng, hết công đức hoặc hết thức ăn; do quên mà không ăn; và ganh tị trước vinh quang của người khác, điều dẫn đến sân hận (Dhp­a.l.173. Các chi tiết khác liên quan đến chư thiên xem bài trong PTSPED). Khi một *Deva* sắp chết, năm dấu hiệu xuất hiện nơi vị ấy: y phục trở nên dơ bẩn, hoa được vị ấy mang phai tàn, mồ hôi chảy ra từ nách, thân mất sắc và vị ấy trở nên bất an trên chỗ ngồi. DN­a.ii.427f; Dhs-a, 33, etc.
 
 ## Notes

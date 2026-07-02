@@ -5,7 +5,7 @@ base_headword: "Esukārīsutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Esukārīsutta. Records the conversation between the Brahmin <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Esukārīsutta. Ghi lại cuộc trò chuyện giữa vị Bà-la-môn Esukārī và Đức Phật. MN.ii.177ff.
 
 ## Notes

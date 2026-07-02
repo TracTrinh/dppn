@@ -5,7 +5,7 @@ base_headword: "Devala"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Devala 04. An ascetic in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devala 04. Một đạo sĩ khổ hạnh ở Himavā. Ông sống trước thời Padumuttara Buddha, khi vị này vẫn còn ở Tusita, nhưng khi nhận biết trong tâm các phẩm chất của chư Phật trước kia, Devala xây một *cetiya* trên bờ sông và cúng dường nơi ấy nhân danh Đức Phật. Về sau, ông sinh vào cõi Brahma. Ông là một đời trước của Sirima Thera (Pulinuppādaka), Thag­a.i.280; Ap.ii.426.
 
 ## Notes

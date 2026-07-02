@@ -5,7 +5,7 @@ base_headword: "Mahā Duggala"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Duggala. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Duggala. *v.l.* Mahā Nuggala. Một tu viện và cetiya được xây dựng bởi Kākavaṇṇatissa. Tại lễ khánh thành của nó, mười hai nghìn tỳ-kheo từ Cittalapabbata đã hiện diện. Mhv.xxiv.8ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Himiyānaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Himiyānaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Himiyānaka. Một thủ lĩnh Vanni phục vụ dưới trướng Bhuvanekabāhu I. Cv.xc.33.
 
 ## Notes

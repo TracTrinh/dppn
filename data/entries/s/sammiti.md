@@ -5,7 +5,7 @@ base_headword: "Sammitī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -30,6 +30,6 @@ Sammitī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammitī, Sammatiyā. Một chi phái của Vajjiputtakā (Dpv.v.46; Mhv.v.7; Mbv. p.96). Họ chủ trương rằng không có đời sống cao thượng nào được thực hành giữa chư thiên, rằng người cải đạo từ bỏ ô nhiễm dần dần từng phần, và rằng *putthujjana* từ bỏ dục vọng và sân hận (Kv.i.1, 3, 4, 5). Họ cũng có nhiều quan điểm chung với các phái ly giáo khác, như Andhaka, Pubbaseliya, v.v. Trong các nguồn Tây Tạng, họ được gọi là Sammatiyā, và được mô tả là đệ tử của một vị thầy tên là Sammata. Rockhill, op.cit., 184.
 
 ## Notes

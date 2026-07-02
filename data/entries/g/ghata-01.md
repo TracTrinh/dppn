@@ -5,7 +5,7 @@ base_headword: "Ghata"
 disambiguator: "01"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -29,6 +29,6 @@ Ghata 01. (also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghata 01. (cũng gọi là Ghatakumāra). Bodhisatta, sinh ra làm vua nước Benares. Một trong những đại thần của ông đã có hành vi sai trái trong hậu cung của hoàng gia và nhà vua, bắt quả tang ông ta, đã trục xuất ông ta. Vị đại thần này làm việc cho Vaṅka, vua nước Sāvatthī, và thuyết phục vị vua này tấn công Benares. Ghata bị bắt và bị ném vào ngục, tại đây ông đã nhập vào thiền định hỷ lạc. Nhưng Vaṅka bị bắt giữ bởi một cảm giác thiêu đốt, và ông ta đã ra lệnh thả Ghata và khôi phục lại vương quốc của ông. Ja.iii.168f; cf. Ekarāja.
 
 ## Notes

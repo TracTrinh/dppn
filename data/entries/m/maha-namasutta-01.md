@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Nāmasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasutta 01. Người Sākiya tên là Mahā Nāma đến thăm Đức Phật tại Nigrodhārāma và thú nhận nỗi lo lắng của ông về việc ông sẽ tái sinh ở đâu nếu ông gặp tai nạn trong lúc đi qua những con đường đông đúc của Kapilavatthu! Đức Phật đã trấn an ông rằng ông không cần phải đau buồn về bản thân mình vì ông đã thực hành đức tin và giới hạnh, sự học hỏi, sự từ bỏ và tuệ giác từ rất lâu rồi. Tâm trí của ông sẽ bay vút lên cao giống như một hũ bơ hoặc dầu, bị vỡ trong một vũng nước sâu, nơi những mảnh vỡ của chiếc hũ sẽ chìm xuống nhưng bơ và dầu thì nổi lên. SN.v.370.
 
 ## Notes

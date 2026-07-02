@@ -5,7 +5,7 @@ base_headword: "Mahā Mucalamālaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Mucalamālaka. A locality in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mucalamālaka. Một địa danh trong Mahā Meghavana, nơi tọa lạc hội trường *uposatha* dành cho các tỳ-kheo (Mhv.xv.36). Nó nằm bên ngoài khuôn viên của cây bodhi. Mhv­ṭ. 346.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samuddā"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samuddā 01. One of the two chief women disciples of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddā 01. Một trong hai đại nữ đệ tử của Koṇāgamana Buddha. Ja.i.431; Bv.xiv.23.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Godhāvarī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Godhāvarī. A canal, built by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhāvarī. Một con kênh, do Parakkamabāhu I xây dựng, nối Kāragaṅgā và Parakkamasāgara (Cv.lxxix.57).
 
 ## Notes

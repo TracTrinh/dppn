@@ -5,7 +5,7 @@ base_headword: "Hatthā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -35,6 +35,6 @@ Hatthā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthā (*v.l.* Bhattā). Chánh hậu của vị Okkāka thứ ba. Bà có năm người con trai: Okkāmukha, Karakaṇḍu, Hatthinika, Sinisūra, Piyā, và bốn người con gái: Suppiyā, Anandā, Vijitā, Vijitasenā. DN­a.i.258; Snp­a.ii.352; Mhvṭ. 131.
 
 ## Notes

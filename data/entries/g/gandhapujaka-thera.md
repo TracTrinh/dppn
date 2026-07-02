@@ -5,7 +5,7 @@ base_headword: "Gandhapūjaka Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhapūjaka Thera. An *Arahant*. In the past he put a handful of perfume on th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhapūjaka Thera. Một vị Arahant. Trong quá khứ, ngài đã đặt một nắm hương liệu lên giàn hỏa táng của Đức Phật Padumuttara (Ap.ii.406). Có lẽ ngài chính là Hārita. Thag­a.i.376.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Machadāyaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Machadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a hawk on the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Machadāyaka Thera. Một vị Arahant. Chín mươi bốn kappa trước, ngài là một con diều hâu trên bờ sông Candabhāgā và từng dâng một con cá lớn cho Siddhattha Buddha. Ap.i.232.
 
 ## Notes

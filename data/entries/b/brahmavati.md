@@ -5,7 +5,7 @@ base_headword: "Brahmavatī"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmavatī. A *Brāhmiṇī*, the mother of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmavatī. Một *Brāhmiṇī*, mẹ của Metteyya Buddha. Vsm.434; Dhs-a.415; Divy.60; Anāgatavaṁsa, vs. 96.
 
 ## Notes

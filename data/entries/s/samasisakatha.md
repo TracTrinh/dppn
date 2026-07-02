@@ -5,7 +5,7 @@ base_headword: "Samasīsakathā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samasīsakathā. The seventh chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samasīsakathā. Chương thứ bảy của Paññāvagga thuộc Paṭisambhidāmagga. Paṭis.ii.230-32.
 
 ## Notes

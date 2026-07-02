@@ -5,7 +5,7 @@ base_headword: "Goḷahaḷā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Goḷahaḷā. The soldiers of a district in South India (Cv.lxxvi.264, 259).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goḷahaḷā. Những binh lính của một quận ở Nam Ấn Độ (Cv.lxxvi.264, 259).
 
 ## Notes

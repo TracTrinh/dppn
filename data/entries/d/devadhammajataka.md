@@ -5,7 +5,7 @@ base_headword: "Devadhammajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -39,6 +39,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadhammajātaka (Ja 6). Một lần, Bodhisatta sinh làm Mahiṃsāsa, con trai của vua Benares. Anh em của ông là Canda và em cùng cha khác mẹ là Suriya. Mẹ của Suriya, sau khi được ban một ân huệ, đòi vương quốc cho con mình. Do đó Mahiṃsāsa và Canda đi lưu đày, nhưng Suriya đi theo họ. Khi đến Himavā, Mahiṃsāsa sai hai em trai đi lấy nước từ một hồ. Ở đó, trước tiên Suriya rồi sau đó Canda, bị một quỷ bắt giữ; quỷ này đã được Vessavaṇa cho phép ăn bất cứ ai vào hồ, miễn là người ấy không biết Devadhamma. Sau đó Mahiṃsāsa tự mình đến hồ, và khi bị quỷ hỏi, ông thuyết cho quỷ nghe Devadhamma - tức là biết hổ thẹn trước tội lỗi. Quỷ hoan hỷ và đề nghị thả một trong các nạn nhân của nó. Mahiṃsāsa chọn Suriya, và nêu lý do là ông sợ bị người khác khiển trách. Do đó quỷ thả cả hai em trai ông và bày tỏ sự tôn kính lớn đối với Bodhisatta. Bodhisatta cải hóa quỷ ấy và nó từ bỏ các đường lối xấu ác.
+
+Câu chuyện được kể liên quan đến một người giàu ở Sāvatthī, người gia nhập Tăng đoàn sau khi vợ chết. Nhưng ông tiếp tục hưởng mọi thứ xa hoa cho đến khi, bị đưa ra trước Đức Phật, ông cởi y và chỉ đứng trong khố. Đức Phật nói với ông rằng đây không phải lần đầu Ngài phải chỉ cho ông thấy lỗi lầm trong cách sống của mình. Ông được nhận diện với quỷ nước, Ānanda với Suriya, và Sāriputta với Canda (Ja.i.126ff; Dhp­a.iii.74-6).
+
+Naccajātaka (Ja 32) được thuyết liên quan đến cùng vị sư ấy.
 
 ## Notes

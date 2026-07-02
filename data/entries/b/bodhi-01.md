@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -49,6 +49,14 @@ The latter, therefore, obtained special timber from <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 01. Ông sống tại Suṁsumāragiri ở xứ Bhagga và xây dựng một cung điện tên là Kokanada (xem mục từ này). Khi cung điện được hoàn thành, Gotama Buddha đang ở tại Bhesakalāvana gần đó, và Bodhi gửi một thông điệp qua Sañjikāputta, thỉnh mời Đức Phật đến cung điện, để ngài có thể ban phước cho nó bằng cách là người đầu tiên ngụ tại đó. Đức Phật nhận lời và, ngày hôm sau, ngài đã cùng chư tăng đến dùng bữa. Bodhi cùng với tùy tùng của mình ra đón họ ở dưới chân bậc thềm và thỉnh Đức Phật bước lên tấm thảm được trải ở đó. Yêu cầu được đưa ra ba lần, cả ba lần Đức Phật đều giữ im lặng. Sau đó Ānanda yêu cầu cất tấm thảm đi, nói rằng việc Đức Phật từ chối bước lên thảm là để làm gương cho các thế hệ tương lai. Sau bữa ăn, Bodhi đã có một cuộc thảo luận với Đức Phật, được ghi lại trong Bodhirājakumārasutta (Vin.ii.127f.; MN.ii.91ff).
+
+Chú giải nói thêm rằng một trong những lý do khiến Đức Phật từ chối bước lên thảm là vì ngài biết được suy nghĩ của Bodhi (MN­a.ii.739ff). Bodhi đang tự nhủ: "Nếu mình có con trai, Đức Phật sẽ bước lên tấm thảm này, nếu không, ngài sẽ không bước." Đức Phật cũng biết rằng Bodhi không có số có con trai vì trong một tiền kiếp ông và vợ đã sống trên một hòn đảo và ăn thịt những con chim non. Dhp­a.iii.137ff nói thêm rằng Đức Phật thực sự đã nói với Bodhi về việc ước nguyện có con trai của ông sẽ không thành hiện thực, và kể cho ông nghe câu chuyện về tiền kiếp của ông, trong đó ông và vợ đã ăn trứng chim.
+
+Bodhi là con trai của Udena, vua của Kosambi, và mẹ ông là con gái của Caṇḍappajjota. Bodhi rất thành thạo nghệ thuật điều khiển voi (xem thêm MN.ii.94), một nghệ thuật mà ông đã học từ cha mình, một bậc thầy trong lĩnh vực này. Người ta kể rằng, khi Bodhi vẫn còn trong bụng mẹ, bà đã đến thăm Đức Phật tại Ghositārāma ở Kosambī và tuyên bố rằng bất cứ đứa trẻ nào bà sinh ra sẽ chấp nhận Đức Phật, giáo pháp của ngài và Tăng đoàn làm nơi nương tựa vững chắc (MN.ii.97). Sau này, khi Bodhi ra đời, nhũ mẫu của ông đã bế ông đến gặp Đức Phật tại Bhesakalāvana và đưa ra một lời tuyên bố tương tự. Do đó, khi Bodhi công nhận Đức Phật là đạo sư của mình, vào cuối đoạn Bodhirājakumārasutta, ông đang tìm kiếm nơi nương tựa nơi Đức Phật lần thứ ba.
+
+Một số ghi chép về việc xây dựng cung điện của Bodhi nói thêm rằng khi nó sắp hoàn thành, Bodhi nảy sinh ý định giết kiến trúc sư hoặc làm mù mắt ông ta để ông ta không bao giờ có thể thiết kế một ngôi nhà tương tự cho bất kỳ ai khác. Ông đã tiết lộ ý định này cho Sanjikāputta, người đã cảnh báo kiến trúc sư, xem ví dụ, Dhp­a.iii.134ff.; trong Ja.iii.157 nói ngắn gọn rằng Bodhi thực sự đã làm mù mắt kiến trúc sư. Trong một tiền kiếp, ông đã móc mắt một ngàn chiến binh. Xem Dhonasākhajātaka (Ja 353).
+
+Do đó, người kiến trúc sư này đã lấy một loại gỗ đặc biệt từ Bodhi, nói rằng đó là để dùng cho cung điện, và làm từ loại gỗ đó một con chim bằng gỗ đủ lớn để chở ông ta và gia đình ông ta. Khi nó đã sẵn sàng, ông ta cho nó bay ra khỏi cửa sổ, và ông cùng gia đình trốn đến xứ Himālaya, nơi ông thành lập một vương quốc và được biết đến với tên gọi là Vua Kaṭṭhavāhana.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambodhisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Sambodhisutta. Conditions that should be developed in order to get awakening –
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambodhisutta. Những điều kiện cần được phát triển để đạt được giác ngộ – bạn lành, giới đức, những cuộc đàm luận hữu ích, mục đích tinh cần, và trí tuệ. AN.iv.251f.
 
 ## Notes

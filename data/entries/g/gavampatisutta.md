@@ -5,7 +5,7 @@ base_headword: "Gavampatisutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gavampatisutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavampatisutta. Được Gavampati thuyết tại Sahajāti trong xứ Ceti. Một số vị tỳ-kheo trưởng thượng đang bàn về *dukkha*, và Gavampati nói với họ rằng chính ngài đã nghe từ Đức Phật rằng ai hiểu được *dukkha* thì hiểu được mọi khía cạnh của nó – bản chất của nó, sự sinh khởi, sự đoạn diệt, và con đường dẫn đến đó. SN.v.436.
 
 ## Notes

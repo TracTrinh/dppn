@@ -5,7 +5,7 @@ base_headword: "Cunda Sūkarika"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cunda Sūkarika. A pork butcher near <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cunda Sūkarika. Một người đồ tể bán thịt heo gần Veḷuvana. Trong bốn mươi lăm năm, ông hành nghề của mình, giết lợn theo cách nhằm giữ nguyên được hương vị của thịt. Khi cái chết đến gần, ông thấy trước mặt mình ngọn lửa của Avīci và gầm rống vì đau đớn. Trong bảy ngày, ông kêu ủn ỉn như lợn, bò bằng tứ chi, và không ai có thể ngăn cản được ông. Các tỳ-kheo kể với Đức Phật về những tiếng ồn mà họ đã nghe thấy khi đi ngang qua nhà người đồ tể, và Đức Phật giải thích quả báo đã giáng xuống Cunda tương xứng với sự độc ác của ông như thế nào. Dhp­a.i.105ff.
 
 ## Notes

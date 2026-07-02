@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 01. Mahā Nāma Thera. Ông sinh ra trong một gia đình Bà-la-môn ở Sāvatthī, và, sau khi nghe Đức Phật thuyết pháp, đã gia nhập Tăng đoàn. Chọn lấy một đề mục thiền định, ông cư ngụ trên ngọn đồi có tên là Nesādaka. Không thể ngăn chặn sự trỗi dậy của những ác niệm, ông cảm thấy ghê tởm bản thân mình, và leo lên một vách đá dựng đứng, làm như thể sẽ gieo mình xuống, và khơi dậy tuệ giác, đã trở thành một vị *Arahant*.
+
+Vào thời kỳ của Sumedha Buddha ông là một đạo sư Bà-la-môn tinh thông kinh Veda, và Đức Phật đã đến thăm ông trong am thất của ông trên bờ sông Sindhū và được ông cúng dường mật ong (Thag­a.vs.115; Thag­a.i.227ff). Mahā Nāma có lẽ cũng chính là Madhudāyaka Thera của Apadāna. Ap.ii.325f.
 
 ## Notes

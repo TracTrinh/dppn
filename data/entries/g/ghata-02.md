@@ -5,7 +5,7 @@ base_headword: "Ghata"
 disambiguator: "02"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -29,6 +29,6 @@ Ghata 02. (also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghata 02. (cũng gọi là Ghatapaṇḍita). Bodhisatta, sinh ra là người con thứ chín trong số mười vị Andhakaveṇhudāsaputtā. Khi một người con của anh trai ông là Vāsudeva qua đời, Vāsudeva đã than khóc khôn nguôi, và Ghata, với mong muốn chữa trị cho ông, đã giả vờ điên và đi khắp Dvāravatī để xin con thỏ trên mặt trăng. Khi Vāsudeva nghe cận thần Rohiṇeyya kể về điều này, ông đã vội vã đến chỗ Ghata và tranh luận với ông về sự nực cười trong việc tìm kiếm của ông. Kế hoạch đã thành công và Vāsudeva đã được chữa khỏi nỗi đau buồn của mình. Ja.iv.81, 84ff; Pv.ii.6; Pv-a.93f.
 
 ## Notes

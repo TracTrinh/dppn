@@ -5,7 +5,7 @@ base_headword: "Homagāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Homagāma. A village on the banks of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Homagāma. Một ngôi làng bên bờ sông Candabhāgā. Đây là nơi cư trú của Marutta (*q.v.*).
 
 ## Notes

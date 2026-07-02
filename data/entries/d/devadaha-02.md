@@ -5,7 +5,7 @@ base_headword: "Devadaha"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Devadaha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadaha 02. Devadahasakka. Một thủ lĩnh Sākiyan tên Devadahasakka. Các con của ông là Añjana và Kaccānā. Māyā và Pajāpati, lần lượt là mẹ và mẹ kế của Đức Phật, là con gái của Añjana. Mhv.ii.17; Mhv­ṭ.87.
 
 ## Notes

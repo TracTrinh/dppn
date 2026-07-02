@@ -5,7 +5,7 @@ base_headword: "Ekatthambhapāsāda"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekatthambhapāsāda. One of the buildings erected by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekatthambhapāsāda. Một trong những tòa nhà được dựng lên bởi Parakkamabāhu I. Nó mọc thẳng đứng từ mặt đất và được đặt lên trên một *maṅkara* (cá heo). Trong đó có một căn phòng bằng vàng trên một cột vàng, giống như một hang động, để nhà vua sử dụng. Cv.lxxiii.92ff; see also Cv.Trs.ii.11, n.4.
 
 ## Notes

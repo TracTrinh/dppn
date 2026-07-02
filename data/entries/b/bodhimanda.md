@@ -5,7 +5,7 @@ base_headword: "Bodhimaṇḍa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -32,6 +32,8 @@ Thirty thousand monks, under <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhimaṇḍa. Tên được đặt cho địa điểm dưới cây bodhi nơi Đức Phật đạt được Giác ngộ và nơi ngài đã ngồi trong một tuần sau khi Giác ngộ (Vin.i.1; nhưng theo Dhp­a.i.71 ngài đã trải qua bảy tuần ở đó). Một tu viện sau đó đã được xây dựng ở đó mang tên là Bodhimaṇḍa vihāra.
+
+Ba mươi ngàn tỳ-kheo, dưới sự dẫn dắt của Cittagutta, đã từ đó đến tham dự buổi lễ đặt nền móng cho Mahā Thūpa (Mhv.xxix.41). Chính gần nơi đây Buddhaghosa đã ra đời (Cv.xxxvii.215), và tại đây Silākāla đã gia nhập Tăng đoàn (Cv.xxxix.47). Xem thêm Bodhirukkha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāṭhāppabhuti"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Dāṭhāppabhuti 02. Second son of King <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāppabhuti 02. Con trai thứ hai của Vua Silākāla. Ông được trao chức vụ *Malayarājā* cai quản tỉnh Dakkhiṇadesa và phụ trách việc bảo vệ vùng bờ biển. Sau cái chết của Silākāla, ông đã giết chết em trai mình là Upatissa, và lên ngôi vua, nhưng người anh cả của ông là Moggallāna đã tiến quân chống lại ông và thách thức ông tham gia một trận đấu tay đôi. Dāṭhāppabhuti đã bị đánh bại trong cuộc chiến này và đã tự sát. Ông trị vì trong sáu tháng và sáu ngày (vào năm 537 TL). Cv.xli.33-53.
 
 ## Notes

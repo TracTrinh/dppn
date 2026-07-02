@@ -5,7 +5,7 @@ base_headword: "Hakureli"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hakureli. A village in Ceylon, where <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hakureli. Một ngôi làng ở Tích Lan, nơi Bodhirājakumārī đã sống trong kiếp trước của mình. Ras.i.100.
 
 ## Notes

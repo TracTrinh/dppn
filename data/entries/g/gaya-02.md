@@ -5,7 +5,7 @@ base_headword: "Gayā"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -54,6 +54,14 @@ The town of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gayā 02. Một thị trấn ở Ấn Độ. Thị trấn này nằm trên con đường giữa cây Bồ-đề và Benares, cách cây Bồ-đề ba *gāvuta* và cách Benares mười lăm *yojana*. (MN­a.i.387f; Pháp Hiển nói khoảng cách từ cây Bồ-đề đến Gayā là hai mươi *li*, tức khoảng 3-1/3 dặm). Chính giữa Bodhimaṇḍa và Gayā mà Đức Phật, trên đường đến Isipatana, đã gặp Upaka (Vin.i.8).
+
+Đức Phật đã lưu lại Gayā nhiều lần: một lần tại Gayāsīsa (Vin.i.34; SN.iv.19; AN.iv.302), và cũng gần Ṭaṅkitamañca (Sn. p.47; SN.i.207, etc.), nơi cư ngụ của Suciloma.
+
+Buddhaghosa nói rằng Gayā là tên gọi chung cho cả ngôi làng lẫn một bến tắm gần đó (cũng được gọi là Gayāpokkharaṇī). Mặt khác, Dhammapāla (Ud­a.74, 75; cp. Snp­a.i.301) lại nói đến một Gayānadī và một Gayāpokkharaṇī như hai bến tắm riêng biệt, cả hai đều thường được gọi chung là Gayātittha, và cả hai đều được xem là có khả năng rửa sạch tội lỗi. Người ta đến đó, dâng lễ vật cúng tế các vị thần, tụng đọc kinh Vệ-đà, và ngâm mình trong nước.
+
+Ở một nơi khác có ghi rằng hằng năm, vào nửa đầu tháng Phagguna (tháng Ba), người ta tổ chức một lễ hội tắm gội tại bến tắm ở Gayā, lễ hội này được gọi là Gayāphaggunī (Thag­a.i.388f, 418; Thag.v.287). Chính tại một trong những lễ hội này mà Trưởng lão Senaka đã được Đức Phật cảm hóa. Cách giải thích này về Gayāphaggu có lẽ không hoàn toàn chính xác, vì theo một số người, chính con sông (Nerañjarā) chảy qua Gayā mới được gọi là Phaggu (tiếng Sanskrit: Phalgu), e.g., Cunningham: *Ancient Geography of India*.524; Böthlinck và Roth, *Dict*. *s.v.* Phalgu; Neumann (MN.Trs.i.271) nói rằng chính ngôi làng Gayā được gọi là Phaggu.
+
+Thị trấn Gayā thường được gọi là Brahmagayā để phân biệt với Buddhagayā (*q.v.*).
 
 ## Notes

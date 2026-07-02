@@ -5,7 +5,7 @@ base_headword: "Gadrabhapañha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,8 @@ The story is also given as a separate <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gadrabhapañha. Một trong những vấn đề mà vua Vedeha đặt ra cho Mahosadha, để thử tài ông, theo sự xúi giục của các vị đại thần. Nhà vua cho người nhắn với Mahosadha rằng trên đường đến gặp ông, ngựa của vua đã bị gãy chân; vậy Mahosadha có thể gửi cho vua một con ngựa tốt hơn không? Mahosadha, hiểu được ý nghĩa của lời nhắn, liền đến hoàng cung, cho cha mình đi trước. Khi Mahosadha bước vào, ông thấy cha mình đang ngồi, nhưng, như đã sắp đặt trước, ông buộc cha mình đứng dậy nhường chỗ ngồi cho mình. Việc này gây ra một cuộc náo động lớn, mọi người đều nói rằng ông đã coi thường cha mình. Nhưng Mahosadha đã thuyết phục nhà vua rằng ông là người xuất sắc hơn cha mình, bằng cách đưa ra bằng chứng là một con lừa mà ông đã mang theo trước mặt nhà vua, và khiến nhà vua phải thừa nhận rằng một con ngựa con sinh ra từ con lừa đó với một con ngựa cái xứ Sindh sẽ có giá trị hơn nhiều so với cha của nó (Ja.vi.342f).
+
+Câu chuyện này cũng được kể lại như một *Jātaka* riêng biệt (Ja 111). Ja.i.424.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Girisāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Girisāra *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girisāra *v.l.* Sirisāra, Hirisāra. Một vị vua của tám mươi *kappa* trước; một tiền kiếp của Māṇava Thera (hoặc Sammukhāthavika Thera*)* (Thag­a.i.164; Ap.i.159).
 
 ## Notes

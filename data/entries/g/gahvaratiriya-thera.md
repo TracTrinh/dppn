@@ -5,7 +5,7 @@ base_headword: "Gahvaratīriya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -37,6 +37,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahvaratīriya Thera (Gavharatīriya Thera). Ngài là một Bà-la-môn ở Sāvatthī, tên là Aggidatta. Sau khi chứng kiến Yamakapāṭihāriya, ngài gia nhập Tăng đoàn và sống tại một nơi gọi là Gahvaratīra – do đó có tên như vậy – và tại đó, theo thời gian, ngài trở thành một *Arahant*. Khi trở về Sāvatthī, thân quyến của ngài đã tổ chức một lễ bố thí lớn để vinh danh ngài và thỉnh cầu ngài sống gần họ. Nhưng ngài từ chối lời thỉnh cầu này và trở về rừng.
+
+Ngài từng là một thợ săn vào thời Đức Phật Sikhī, và đã vô cùng hoan hỷ trước âm thanh giọng nói của Đức Phật khi Ngài thuyết Pháp (Thag.v.31; Thag­a.i.91).
+
+Ngài có lẽ đồng nhất với Ghosasaññaka trong Apadāna (Ap.ii.451), nhưng những bài kệ tương tự cũng được cho là của Dhammika. Thag­a.i.398.
 
 ## Notes

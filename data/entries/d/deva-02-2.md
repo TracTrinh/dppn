@@ -5,7 +5,7 @@ base_headword: "Devā"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Devā 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devā 02. Con gái của Udaya I. và là vợ của Mahinda, con trai của *Ādipāda* Dāṭhāsiva. Cv.xlix.12.
 
 ## Notes

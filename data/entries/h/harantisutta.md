@@ -5,7 +5,7 @@ base_headword: "Harantisutta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Harantisutta. On the four kinds of birth as harpies (<span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Harantisutta. Về bốn loại tái sinh làm chim thần (Supaṇṇā) và khả năng của chúng trong việc bắt đi các loại Nāga khác nhau. SN.iii.247.
 
 ## Notes

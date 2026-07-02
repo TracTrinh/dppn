@@ -5,7 +5,7 @@ base_headword: "Goṇḍā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Goṇḍā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇḍā, Goṇḍamittā. Một *Yakkhinī*, mẹ của Polamittā (Posamittā). Mhv­ṭ.260.
 
 ## Notes

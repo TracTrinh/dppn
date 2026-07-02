@@ -5,7 +5,7 @@ base_headword: "Dantikā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ In the past she had been a *kinnarī* on the banks of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantikā. Một vị Tỳ-kheo-ni *Arahant*. Bà là con gái của vị quốc sư của vua Kosala và sinh ra ở Sāvatthī. Bà gia nhập Tăng đoàn dưới sự dìu dắt của Pajāpatī Gotamī. Một ngày nọ, trong lúc nghỉ trưa trên Gijjhakūṭa, bà đã nhìn thấy một con voi được thuần hóa tốt tuân theo các mệnh lệnh của chủ nhân nó như thế nào, và khi phát triển tuệ giác về chủ đề này, bà đã trở thành một *Arahant*.
+
+Trong quá khứ bà từng là một nữ *kinnarī* trên bờ sông Candabhāgā, và sau khi nhìn thấy một Đức Phật Độc giác (*Pacceka Buddha*) ở gốc cây, bà đã tôn vinh ngài bằng cách dâng cúng hoa. Thīg.48-50; Thīg­a.51f.
 
 ## Notes

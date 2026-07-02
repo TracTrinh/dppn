@@ -5,7 +5,7 @@ base_headword: "Giri"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,6 @@ Giri 04. A district in South Ceylon. Its capital was <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giri 04. Một quận ở Nam Tích Lan. Thủ phủ của nó là Mahā Gāma. Nó bao gồm các ngôi làng Niṭṭhulaviṭṭhika, nơi sinh của Goṭha-imbara (Mhv.xxiii.49), và Kutumbiyaṅgama, nơi sinh của Veḷusumana (Mhv.xxiii.68). Quận này cũng rõ ràng được gọi là Girimaṇḍala. Tộc trưởng của Giri là Giribhojaka (Mhv.xxiii.69, 70, 75; Mhv­ṭ.454), đôi khi được gọi là Girimaṇḍalika (Mhv­ṭ.452).
 
 ## Notes

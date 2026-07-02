@@ -5,7 +5,7 @@ base_headword: "Eḷāra"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -37,6 +37,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eḷāra. Vua của Anurādhapura (145-101 TCN). Ông là người gốc Coḷa, và sau khi đến Tích Lan, đã đánh bại vị vua đang cai trị là Asela, và cướp lấy ngai vàng. Mahā Vaṁsa nói (Mhv.xxi.14f) rằng ông cai trị với "sự công bằng đối với cả bạn và thù," và nhiều câu chuyện được kể lại cho thấy tình yêu sự công bằng và lòng tốt của ông. Mặc dù là một người không có niềm tin tín ngưỡng, ông vẫn dành sự tôn trọng lớn nhất cho Phật giáo, và ông được cho là đã thuyết phục được chư thiên, bằng sự quyết tâm của mình, chỉ ban mưa xuống vương quốc của ông vào những thời điểm thuận lợi. Eḷāra có một vị tướng tên là Mitta (Mhv.xxiii.4); chỉ huy lực lượng của ông là Dīghajantu, trong khi con voi hoàng gia của ông được gọi là Mahā Pabbata. Trong trận chiến lớn giữa lực lượng của Eḷāra và những người lính Sinhalese dưới sự chỉ huy của Duṭṭhagāmaṇī, Eḷāra đã bị giết trong một cuộc đọ sức tay đôi với vị vua này. Để ghi nhận tinh thần hiệp sĩ của vị vua đã khuất, những sự vinh danh lớn lao đã được dành cho ông tại tang lễ của ông và một tượng đài đã được dựng lên trên tro cốt của ông. Trong nhiều thế hệ, tất cả âm nhạc đều phải dừng lại khi đi ngang qua tượng đài như một dấu hiệu của sự tôn kính đối với người đã khuất (Mhv.xxv.54-74; Dpv.xxiii.49ff).
+
+Theo Chú giải Mahā Vaṁsa (p. 483), một điện thờ đã được dựng lên ngay tại nơi chôn cất tro cốt của Eḷāra, và nó được gọi là Eḷārapaṭimāghara. Nó nằm ở phía nam Anurādhapura, vượt qua khỏi ngôi làng của những người thợ gốm.
 
 ## Notes

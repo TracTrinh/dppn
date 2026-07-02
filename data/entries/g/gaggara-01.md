@@ -5,7 +5,7 @@ base_headword: "Gaggarā"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -42,6 +42,10 @@ The pond was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggarā 01. Một hồ sen tại Campā. Đức Phật được nhắc đến nhiều lần là đã lưu trú trên bờ hồ này. Vào một dịp như vậy, Pessa và Kandaraka đến thăm Ngài, và Ngài đã thuyết cho họ nghe Kandarakasutta (MN.i.339). Trong số những người khác đến thăm Ngài tại đó có Bāhuna (AN.v.151), Vajjiyamāhita (AN.v.189), và Kassapagotta (Vin.i.312). Có lần, khi Đức Phật đang lưu trú tại đó, Sāriputta đến gặp Ngài cùng với một số đông dân cư Campā và hỏi Ngài về hiệu quả của việc bố thí (AN.iv.59ff).
+
+Vào một dịp khác, Sāriputta tập hợp chư tăng và thuyết cho họ nghe Dasuttarasutta (DN.iii.272ff). Cũng chính trên bờ hồ Gaggarā mà Đức Phật đã thuyết Karandavasutta (*q.v.*) về sự cần thiết phải loại bỏ những thành viên tâm địa xấu xa trong Tăng đoàn, kẻo họ làm hủ bại cả Tăng đoàn (AN.iv.168f), và bờ hồ này cũng là nơi diễn ra bài thuyết pháp nổi tiếng Soṇadaṇḍasutta (DN.i.111f). Có lần, khi Đức Phật đang ở nơi này cùng đông đảo chư tăng và cư sĩ tại gia, Vaṅgīsa đến gặp Ngài và ca ngợi Ngài bằng một bài hát, chỉ ra rằng Đức Phật vượt trội hơn tất cả họ như thế nào (SN.i.195; Thag.v.1252; Thag­a.ii.210).
+
+Hồ được gọi là Gaggarā vì nó có nguồn gốc từ một hoàng hậu cùng tên. Trên bờ hồ có một khu rừng *Campaka*, nơi Đức Phật lưu trú trong những lần viếng thăm (MN­a.ii.565; DN­a.i.279f). Gần đó có một tu viện của các *titthiya* (xem AN.v.189). Hồ này, cùng với hồ ở Jetavana, được nêu làm ví dụ về một hồ sen rất đẹp (E g., AN­a.i.264). Chư tăng thấy đây là một nơi thuận tiện để hành thiền (Snp­a.i.17).
 
 ## Notes

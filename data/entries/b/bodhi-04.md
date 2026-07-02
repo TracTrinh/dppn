@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhi 04. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 04. Còn được gọi là Mahā Bodhi; Bodhisatta sinh ra làm một tu sĩ khổ hạnh. Xem Mahā Bodhijātaka (Ja 528), Ja.v.227ff.
 
 ## Notes

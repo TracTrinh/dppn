@@ -5,7 +5,7 @@ base_headword: "Gimhatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gimhatittha. A town in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gimhatittha. Một thị trấn ở Rohaṇa nơi mà Kesadhātu *Devarāja* đã giành được một chiến thắng. Cv.lxxv.22; cũng xem Cv.Trs.146, u.2.
 
 ## Notes

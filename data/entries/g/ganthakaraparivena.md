@@ -5,7 +5,7 @@ base_headword: "Ganthākarapariveṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Ganthākarapariveṇa. A dwelling attached to the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ganthākarapariveṇa. Một nơi cư trú thuộc Mahā Vihāra tại Anurādhapura, nơi Buddhaghosa đã lưu trú trong thời gian ở Tích Lan và nơi ngài đã viết các bộ Chú giải của mình (Cv.xxxvii.243). *Pariveṇa* này được Kassapa V trùng tu. Cv.lii.57.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nāga 03. A resident of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 03. Một cư dân của Niṭṭhulaviṭṭhika ở Girijanapada. Ông là cha của Goṭha-imbara. Mhv.xxiii.49.
 
 ## Notes

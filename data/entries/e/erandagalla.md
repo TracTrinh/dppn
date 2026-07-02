@@ -5,7 +5,7 @@ base_headword: "Eraṇḍagalla"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Eraṇḍagalla. A tank built by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eraṇḍagalla. Một hồ chứa nước được xây dựng bởi Vijayabāhu I. Cv.lx.49.
 
 ## Notes

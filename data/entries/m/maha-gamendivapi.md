@@ -5,7 +5,7 @@ base_headword: "Mahā Gāmeṇḍivāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Gāmeṇḍivāpi. A tank built by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gāmeṇḍivāpi. Một hồ chứa nước được xây dựng bởi Āmaṇḍagāmaṇī Abhaya ở phía nam Anurādhapura và được cúng dường cho Dakkhiṇavihāra. Mhv.xxxv.5; Mhv.Trs.246, n.4.
 
 ## Notes

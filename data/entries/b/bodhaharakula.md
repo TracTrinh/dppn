@@ -5,7 +5,7 @@ base_headword: "Bodhāhārakula"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -37,6 +37,6 @@ Bodhāhārakula, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên gọi đó được đặt cho những hậu duệ của tám gia đình đã mang cành của cây bodhi từ Pāṭaliputta đến Tích Lan (Mhv.xix.67). Những người đứng đầu của các gia đình này là các anh em trai của Vedisadevī, vợ của Asoka, và họ được dẫn đầu bởi Sumitta và Bodhigutta (Mbv. p. 154). Những người khác (Mbv. p. 165) là Candagutta, Devagutta, Dhammagutta, Suriyagutta, Gotama và Jutindhara. Họ được giao phó các nghi lễ liên quan đến cây bodhi tại Anurādhapura và mỗi người được trao một chức vụ đặc biệt.
 
 ## Notes

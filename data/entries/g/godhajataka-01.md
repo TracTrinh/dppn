@@ -5,7 +5,7 @@ base_headword: "Godhajātaka"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Godhajātaka 01. (Ja 138). The Bodhisatta was once born as a lizard and paid hom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhajātaka 01. (Ja 138). Bodhisatta từng có lần được sinh ra là một con thằn lằn và đã đảnh lễ một vị khổ hạnh đạo hạnh sống gần gò mối nơi nó trú ngụ. Vị khổ hạnh đạo hạnh đó đã rời đi và được thay thế bằng một vị gian ác, Bodhisatta cũng đã đảnh lễ vị này giống như vậy. Một ngày nọ, dân làng mang một đĩa thịt thằn lằn đến cho vị khổ hạnh. Bị hấp dẫn bởi hương vị của nó, ông ta đã lên kế hoạch giết Bodhisatta, để ông ta có thể có nhiều thịt hơn. Nhưng Bodhisatta đã khám phá ra ý định của ông ta vừa kịp lúc, và, bằng cách trốn thoát an toàn, đã tố cáo kẻ đạo đức giả. Câu chuyện này được kể liên quan đến một vị tỳ-kheo độc ác. Ja.i.480f.
 
 ## Notes

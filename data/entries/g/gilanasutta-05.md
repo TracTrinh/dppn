@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "05"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gilānasutta 05. Describes a similar visit to <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 05. Mô tả một chuyến viếng thăm tương tự đối với Mahā Moggallāna tại Gijjhakūṭa. SN.iv.80.
 
 ## Notes

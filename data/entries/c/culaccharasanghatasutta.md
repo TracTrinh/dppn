@@ -5,7 +5,7 @@ base_headword: "Cūḷaccharāsaṅghātasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -29,6 +29,8 @@ It is said (AN­a.i.40) that this *Sutta* was preached at <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷaccharāsaṅghātasutta, Cūlaccharāsaṅghātasutta. Nếu chỉ trong một khoảnh khắc búng tay, một vị tỳ-kheo an trú trong một ý niệm về tâm từ và tu tập một ý niệm về tâm từ, thì vị ấy thực sự được gọi là một tỳ-kheo. Sự không phóng dật, vượt trên tất cả mọi thứ khác, khuyến khích sự phát sinh của các thiện pháp; sự buông lung, tồi tệ nhất trong tất cả mọi thứ, khuyến khích các ác pháp (AN.i.10).
+
+Người ta nói rằng (AN­a.i.40) Sutta này được thuyết tại Jetavana để chống lại những tác động của Aggikkhandhopamasutta, bài kinh đã làm nhiều tỳ-kheo sợ hãi, khiến họ hoàn tục trở lại đời sống cư sĩ, do đó Tăng đoàn đã bị suy giảm đáng kể về số lượng. Sutta này nhằm trấn an những ai đang còn nghi ngờ.
 
 ## Notes

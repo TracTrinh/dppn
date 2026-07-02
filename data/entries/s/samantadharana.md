@@ -5,7 +5,7 @@ base_headword: "Samantadharaṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantadharaṇa. A king of eighty-seven *kappas* ago, a former birth of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantadharaṇa. Một vị vua của tám mươi bảy *kappas* trước, một kiếp trước của Pupphadhāraka Thera. Ap.i.244.
 
 ## Notes

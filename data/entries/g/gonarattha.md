@@ -5,7 +5,7 @@ base_headword: "Gonaraṭṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gonaraṭṭha. A district in North Ceylon, where <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonaraṭṭha. Một quận ở Bắc Tích Lan, nơi Māgha và Jayabāhu thiết lập các pháo đài (Cv.lxxxiii.17).
 
 ## Notes

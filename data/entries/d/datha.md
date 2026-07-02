@@ -5,7 +5,7 @@ base_headword: "Dāṭhā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāṭhā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhā. Con gái của Aggabodhi I. Bà được gả cho Malayarājā, con trai người em gái của Aggabodhi I. (Cv.xlii.6, 10), người mà sau này đã trở thành Aggabodhi II. (Cv.xlii.64). Bà dường như cũng được gọi là Saṅghabhaddā. (Cv.xlii.41).
 
 ## Notes

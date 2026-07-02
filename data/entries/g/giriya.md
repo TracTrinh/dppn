@@ -5,7 +5,7 @@ base_headword: "Giriya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giriya. A jackal, a previous incarnation of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giriya. Một con chó rừng, một tiền kiếp của Devadatta. Xem Manojajātaka. Ja.iii.322f.
 
 ## Notes

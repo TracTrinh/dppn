@@ -5,7 +5,7 @@ base_headword: "Saṁvara"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saṁvara 01. The youngest of the hundred sons of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvara 01. Người con trai út trong một trăm người con trai của Brahmadatta, vua xứ Benares. Xem Saṁvarajātaka (Ja 462).
 
 ## Notes

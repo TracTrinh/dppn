@@ -5,7 +5,7 @@ base_headword: "Mahā Anula Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Anula Thera. He once saw a number of monks, who had obtained only dry food
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Anula Thera. Có lần ngài nhìn thấy một số tỳ-kheo, những người chỉ nhận được thức ăn khô, đang ăn trên bờ sông. Anula đã quyết định rằng nước sông nên biến thành kem bơ và ra hiệu cho các sa-di, những vị này sau đó lấy kem vào những chiếc cốc và phân phát cho các tỳ-kheo. Vsm.404.
 
 ## Notes

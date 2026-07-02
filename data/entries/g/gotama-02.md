@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gotama 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 02. Gotama Thera. Ông thuộc gia tộc Sākiyan và chỉ được biết đến qua tên *gotta* của ông. Ông gia nhập Tăng đoàn khi Đức Phật đến thăm họ hàng của Ngài và, đến đúng thời điểm, đã trở thành một vị *Arahant*. Trong thời đại của Sikhī Buddha, ông đã cúng dường tám bông hoa *campaka* tại *Thūpa* của Đức Phật (Thag.258-60; Thag­a.i.374f). Ông rõ ràng là cùng một người với Citapūjaka của Apadāna. Ap.ii.407.
 
 ## Notes

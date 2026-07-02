@@ -5,7 +5,7 @@ base_headword: "Gandhāra"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -60,6 +60,16 @@ One of the eye teeth of the Buddha was deposited in <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhāra 02. Một trong mười sáu Mahā Janapada (các quốc gia) (AN.i.213; iv.252, etc.; trong các danh sách của Niddesa và *Mahā Vastu*, Gandhāra bị bỏ qua và được thay bằng các nước khác). Kinh đô của nước này là Takkasilā, nổi tiếng vì có trường đại học; vua nước này vào thời Đức Phật là Pukkusāti. Giữa ông và Bimbisāra xứ Magadha có mối giao hảo thân thiết. Các thương nhân và khách vãng lai từ nước này sang nước khác được vua sở tại cho ăn ở, và hàng hóa của họ không bị đánh thuế. Việc trao đổi hàng hóa và của cải diễn ra thường xuyên, và có lần Bimbisāra, muốn gửi cho bạn mình một món quà đặc biệt quý giá, đã gửi cho ông một bức thư báo tin về sự xuất hiện trên thế gian của Đức Phật, Pháp và Tăng đoàn. Khi Pukkusāti đọc thư, ông quyết định trở thành đệ tử của Đức Phật, tự mình xuất gia làm tỳ-kheo; rồi từ bỏ vương quốc, ông đi suốt chặng đường đến Sāvatthī để yết kiến Đức Phật (MN­a.ii.979ff). Tuy nhiên, việc vua Gandhāra cải đạo dường như không khiến phần còn lại của dân chúng nước này theo đức tin của Đức Phật. Ký ức về Pukkusāti rõ ràng đã sớm bị lãng quên, vì sau đó ta thấy Moggaliputtatissa, khi kết thúc kỳ Đại Kết Tập lần thứ Ba, đã cử Trưởng lão Majjhantika đến hoằng hóa Gandhāra (Mhv.xii.3ff).
+
+Theo tường thuật của Buddhaghosa, vương quốc của Pukkusāti có diện tích hơn một trăm do-tuần (MN­a.ii.988), và khoảng cách từ Takkasilā đến Sāvatthī là một trăm chín mươi hai do-tuần (MN­a.ii.987; từ Benares là một trăm hai mươi do-tuần, *vīsaṁyojanasata*; Ja.i.395; ii.47). Rõ ràng có một tuyến đường đoàn lữ hành nổi tiếng nối liền hai nước, mặc dù Gandhāra được xem là một *paccantimajanapada*, tức một nước biên địa. (MN­a.ii.982; cũng có sự giao thương thường xuyên giữa Gandhāra và Videha, Ja.iii.365ff. Theo *Mahā Niddesa* i.154, dường như Takkasilā là một trung tâm thương mại thường xuyên).
+
+Vào thời điểm Majjhantika đến, dân chúng Gandhāra đang bị vua Nāga tên Aravāḷa sách nhiễu, và các biên niên sử ghi lại chi tiết việc vị này được nhà sư cảm hóa. Vua Nāga, cùng với đoàn tùy tùng của mình, Yakkha Paṇḍaka và vợ là Hāritā, đã trở thành những đệ tử thuần thành của Đức Phật. Majjhantika thuyết giảng Āsīvisūpamasutta, và hàng ngàn người đã gia nhập Tăng đoàn (Mhv.xii.9ff; Smp.i.64f; Dpv.viii.4).
+
+Gandhāra dường như đã bao gồm cả Kasmīra, hai nước này luôn được nhắc đến chung với nhau là Kasmīra-Gandhāra. Chúng chiếm cứ vị trí của các quận Peshawar và Rawalpindi ngày nay ở miền bắc Punjab (PHAI. p.93). Vào thời Asoka, nước này là một phần của đế quốc ông, và được nhắc đến như vậy trong Sắc dụ Khắc Đá số V. Trước đó, nước này thần phục các vua Achaemenid. Gandhāra luôn nổi tiếng vì các tấm khăn choàng len đỏ (*kambala*) (Snp­a.ii.487; Ja.vi.501).
+
+Một vị vua khác của Takkasilā ngoài Pukkusāti cũng được nhắc đến – đó là Naggaji, người đồng thời với Nimi, vua xứ Videha (Ja.iii.377; cf. *Ait. Brāhmaṇa* vii.34; *Sat. Brāhmaṇa* viii.1, 4, 10; xem thêm Gandhārarājā).
+
+Một trong các răng nanh của Đức Phật được lưu giữ tại Gandhāra (Bv.xxviii.6; DN.ii.167).
 
 ## Notes

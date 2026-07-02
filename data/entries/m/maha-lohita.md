@@ -5,7 +5,7 @@ base_headword: "Mahā Lohita"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Lohita. The Bodhisatta born as a bull; see the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Lohita. Bodhisatta đản sinh làm một con bò đực; xem Muṇikajātaka (Ja 30) và Sālūkajātaka (Ja 286).
 
 ## Notes

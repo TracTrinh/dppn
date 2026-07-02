@@ -5,7 +5,7 @@ base_headword: "Buddhaghosa"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddhaghosa 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhaghosa 02. Được gọi là Cūḷa Buddhaghosa để phân biệt với vị vĩ đại hơn. Ông là người gốc T?ch Lan (Gv.67), và hai tác phẩm được gán cho ông (Gv.63) – *Jātattagīnidāna* và *Sotattagīnidāna*. Tác phẩm đầu tiên có lẽ chỉ Chú giải Jātaka (Jātaka Commentary) (PLC.126). Chính vì yêu cầu của ông mà Buddhaghosa (1) đã viết Chú giải của mình cho Abhidhamma. Gv.68.
 
 ## Notes

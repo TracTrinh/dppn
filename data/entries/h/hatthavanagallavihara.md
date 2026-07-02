@@ -5,7 +5,7 @@ base_headword: "Hatthavanagallavihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -31,6 +31,6 @@ Hatthavanagallavihāra. A monastery, erected by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthavanagallavihāra. Một tu viện do Goṭhābhaya xây dựng tại nơi Sirisaṅghabodhi (*q.v.*) đã hiến đầu mình cho một người nghèo. Tu viện được Parakkamabāhu II tu sửa. Vijayabāhu III được hỏa táng gần *vihāra* này, và Parakkamabāhu II đã xây tại đó một *cetiya* và một nhà thờ tượng hình bát giác chứa một tượng đá của Đức Phật (Cv.lxxxv.73f). Tương truyền một vị vua tên Upatissa đã cho xây trong tu viện một *pāsāda* năm tầng để tôn vinh một vị tỳ-kheo đã khiến đất trời vang tiếng sấm vào lúc chứng đắc quả vị *Arahant*. Parakkamabāhu II thấy công trình đã hư hoại nên cho trùng tu lại dưới tên mình. Vị đại thần của ông, Devappatirāja, đã dựng, nhân danh nhà vua, một *pāsāda* ba tầng, giao nó cho Trưởng lão Anomadassī, khi đó là trụ trì của *vihāra*, và dựng một bia đá để ghi lại sự cúng dường này. Cv.lxxxvi.12f, 37f.
 
 ## Notes

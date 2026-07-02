@@ -5,7 +5,7 @@ base_headword: "Hatthā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthā. One of the chief lay women supporters of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthā. Một trong những nữ cư sĩ hộ trì chủ chốt của Padumuttara Buddha. Bv.xi.26.
 
 ## Notes

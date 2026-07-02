@@ -5,7 +5,7 @@ base_headword: "Cūḷa Rathavimānavatthu"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Rathavimānavatthu, <span class="dppn-term dppn-term-t15" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Rathavimānavatthu, Cūla Rathavimānavatthu. Câu chuyện về Vương tử Sujāta, con trai của vua Assaka (Vv.v.13; Vv-a.259ff). Ông được tái sinh ở Tāvatiṁsa, và Cūḷa Ratha có thể là tên của ông ở đó. Xem Sujāta.
 
 ## Notes

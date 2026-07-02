@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammarakkhita"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -32,6 +32,6 @@ Mahā Dhammarakkhita 03. An Elder of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhammarakkhita 03. Một vị Trưởng lão của tu viện Tulādhāra tại Rohaṇa. Tipiṭaka Cūḷābhaya đã đến gặp ông từ Mahā Vihāra để học Pháp từ ông. Khi kết thúc phần giảng dạy, Dhammarakkhita đã nhờ Abhaya trao cho ông một đề mục thiền, bởi vì, ông nói, Abhaya có kiến thức sâu rộng hơn ông về vấn đề đó. Đề mục đã được trao, và chẳng bao lâu sau Dhammarakkhita đã chứng đạt Nibbāna, và viên tịch trong khi đang thuyết giảng tại Lohapāsāda. Vsm.96f.
 
 ## Notes

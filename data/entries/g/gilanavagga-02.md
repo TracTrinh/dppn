@@ -5,7 +5,7 @@ base_headword: "Gilānavagga"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gilānavagga 02. The eighth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānavagga 02. Phẩm thứ tám của Saḷāyatanasaṁyutta. SN.iv.46-53.
 
 ## Notes

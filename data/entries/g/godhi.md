@@ -5,7 +5,7 @@ base_headword: "Godhī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Godhī. Probably the mother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhī. Có lẽ là mẹ của Devadatta (*q.v.*), vị này đôi khi được gọi là Godhiputta (Vin.ii.189).
 
 ## Notes

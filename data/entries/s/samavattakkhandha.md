@@ -5,7 +5,7 @@ base_headword: "Samavattakkhandha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samavattakkhandha. The son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samavattakkhandha. Con trai của Vipassī Buddha trong kiếp cư sĩ cuối cùng của ngài. Mẹ của vị này là Sutanā. Bv.xx.25, etc.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasutta"
 disambiguator: "09"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇabrāhmaṇasutta 09. The results of the development of the four *iddhip�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇabrāhmaṇasutta 09. Kết quả của việc tu tập bốn *iddhipādas* nơi các sa-môn và Bà-la-môn. SN.v.273f.
 
 ## Notes

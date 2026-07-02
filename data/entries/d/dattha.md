@@ -5,7 +5,7 @@ base_headword: "Dāṭṭha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dāṭṭha. A Thera*,* at whose request, according to the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭṭha. Một Trưởng lão*,* theo Gandhavaṃsa, do lời thỉnh cầu của vị này mà Buddhaghosa soạn Sumaṅgalavilāsinī, và Dhammapāla viết *ṭīkā* cho Viduddhimagga (Gv.68, 69; nhưng xem Dāṭhānāgā).
 
 ## Notes

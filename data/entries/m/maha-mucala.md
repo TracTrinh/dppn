@@ -5,7 +5,7 @@ base_headword: "Mahā Mucala"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Mucala. A primeval king, descendant of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mucala. Một vị vua thời thượng cổ, hậu duệ của Mahā Sammata. Dpv.iii.6; Mhv.ii.3; Mvu.i.348.
 
 ## Notes

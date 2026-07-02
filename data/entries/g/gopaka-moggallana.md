@@ -5,7 +5,7 @@ base_headword: "Gopaka Moggallāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -32,6 +32,6 @@ Gopaka Moggallāna. A Brahmin minister of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka Moggallāna. Một vị đại thần Bà-la-môn của Ajātasattu, phụ trách một số công trình phòng thủ ở Rājagaha (MN.iii.7). Xem Gopaka Moggallānasutta. Theragāthā (vs.1024) chứa một vần kệ do Moggallāna Thera nói để trả lời cho một câu hỏi của Gopaka Moggallāna. Gopaka hỏi Moggallāna rằng ông nhớ được bao nhiêu giáo lý của Đức Phật. Tám mươi tư ngàn, vị sau trả lời và tiến hành giải thích. Thag­a.ii.130.
 
 ## Notes

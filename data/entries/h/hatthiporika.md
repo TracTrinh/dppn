@@ -5,7 +5,7 @@ base_headword: "Hatthiporikā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthiporikā. A tribe, probably the people of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthiporikā. Một bộ tộc, có lẽ là dân cư của Hatthipura. Ap.ii.359.
 
 ## Notes

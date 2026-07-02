@@ -5,7 +5,7 @@ base_headword: "Gaṅgāpeyyāla"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgāpeyyāla. In the fifth book of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgāpeyyāla. Trong quyển thứ năm của Saṁyuttanikāya, một đoạn lặp lại dưới tên *Gaṅgāpeyyāla* xuất hiện nhiều lần. "Cũng như Gaṅgā chảy về hướng đông, trôi về hướng đông, hướng về phía đông, cũng vậy, một tỳ-kheo tu tập các *bojjhaṅga* (SN.v.135, 137), các *satipaṭṭhāna* (196), các *indriya* (239, 241), các *padhāna* (244), các *bala* (249, 251), các *iddhipāda* (290), và các *jhāna* (307), thì trôi và hướng về Nibbāna."
 
 ## Notes

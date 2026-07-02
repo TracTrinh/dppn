@@ -5,7 +5,7 @@ base_headword: "Gopaka"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gopaka 01. A Thera. He once stayed at the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka 01. Một vị Thera. Ông từng lưu trú tại Kukkuṭārāma ở Pāṭaliputta, tại đó ông đã được cúng dường một bộ y phục. Vin.i.300.
 
 ## Notes

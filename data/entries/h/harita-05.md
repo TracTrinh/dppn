@@ -5,7 +5,7 @@ base_headword: "Hārita"
 disambiguator: "05"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hārita 05. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hārita 05. Một ngọn núi gần Himavā. Ap.i.278; Thag­a.i.247.
 
 ## Notes

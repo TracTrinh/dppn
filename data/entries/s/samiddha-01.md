@@ -5,7 +5,7 @@ base_headword: "Samiddha"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samiddha 01. King of Ceylon (<span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddha 01. Vua xứ Tích Lan (Varadīpa) vào thời Koṇāgamana Buddha. Kinh đô của ông là Vaḍḍhamāna. Mhv.xv.117; Dpv.xv.48; xvii.7; Vin-a.i.86.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Dīpanī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Dīpanī. A Commentary Gv.65, 75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dīpanī. Một Bản Chú Giải. Gv.65, 75.
 
 ## Notes

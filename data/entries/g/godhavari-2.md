@@ -5,7 +5,7 @@ base_headword: "Godhāvarī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -37,6 +37,6 @@ Godhāvarī (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhāvarī (*v.l.* Godāvari). Một con sông ở Dakkhiṇāpatha, con sông này tạo thành ranh giới phía nam của khu vực này. Trong suốt thời đại của Đức Phật, vua của Aḷaka (hoặc Mulaka) và vua của Assaka (cả hai đều là Andhaka) đã có những khu định cư ở bờ phía bắc của con sông, và am thất của Bāvarī nằm trong lãnh thổ nằm giữa vùng thống trị của hai vị này (Snp.vs.977). Chú giải (Snp­a.ii.581) nói rằng gần địa điểm này Godhāvarī chia thành hai nhánh, tạo thành một hòn đảo có diện tích rộng ba do tuần, và hòn đảo này là một khu rừng rậm rạp, được biết đến với tên gọi Kapiṭṭhavana. Am thất của Bāvarī chiếm cứ một vùng có diện tích năm do tuần. Trong quá khứ vùng này từng là nơi ở của nhiều vị hiền triết khác nhau, chẳng hạn như Sarabhaṅga (Ja.v.132, 136; Mvu.i.363). Theo Chú giải Aṅguttara (AN­a.i.182), am thất của Bāvarī nằm ở một khúc quanh của con sông (*Godhāvarīvaṅke*). Godhāvarī là một trong những con sông linh thiêng nhất ở miền Nam Ấn Độ, bắt nguồn từ Brahmagiri gần ngôi làng Triyanvaka và được thần thánh hóa bởi sự liên kết của nó với Rāma và nhiều vị thánh khác nhau.
 
 ## Notes

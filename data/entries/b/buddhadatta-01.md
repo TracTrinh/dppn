@@ -5,7 +5,7 @@ base_headword: "Buddhadatta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -42,6 +42,10 @@ He studied, however, at the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhadatta 01. Buddhadatta Thera. Ông sống ở Uragapura vùng Nam Ấn và viết các tác phẩm của mình tại tu viện ở Bhūtamaṅgalagāma thuộc xứ Coḷa, người bảo trợ của ông là Accutavikkama.
+
+Tuy nhiên, ông đã học tại Mahā Vihāra ở Anurādhapura. Truyền thuyết nói rằng ông đã gặp Buddhaghosa (ví dụ, Sās-d., p.55).
+
+Các tác phẩm của Buddhadatta bao gồm Vinayavinicchaya, Uttaravinicchaya, Abhidhammāvatāra và Rūpārūpavibhāga. Madhuratthavilāsinī và Jinālaṅkāra đôi khi cũng được cho là của ông. Svd.1195,1199; Gv.59,66,69. Để biết chi tiết, xem PLC.105 ff.
 
 ## Notes

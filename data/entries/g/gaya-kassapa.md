@@ -5,7 +5,7 @@ base_headword: "Gayā Kassapa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -39,6 +39,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gayā Kassapa. Một trong ba anh em Kassapa, thuộc nhóm Tebhātikajaṭilā (*q.v.*). Khi cùng các anh em từ bỏ thế tục và trở thành khổ hạnh, ông đã quy tụ quanh mình hai trăm vị khổ hạnh khác. Tất cả đều sống tại Gayāsīsa, do đó có tên như vậy (*Gayāsīse pabbajito ti Gayā Kassapo nāma jāto*). Khi Uruvelā Kassapa được cảm hóa, Gayā Kassapa cùng các đệ tử của mình đã gia nhập Tăng đoàn, và khi kết thúc bài Ādittapariyāyasutta, tất cả đều chứng quả Arahant (Vin.i.33f.; AN­a.i.165). Có ghi lại (Thag.v.345f) rằng Gayā Kassapa từng nói ông thường tắm ba lần một ngày tại Gayātittha, để rửa sạch tội lỗi của mình trong lễ hội Gayāphaggu.
+
+Vào thời Đức Phật Sikhī, ông là một cư sĩ, và về sau trở thành một ẩn sĩ sống trong rừng. Một hôm, ông thấy Đức Phật một mình đi trong rừng và dâng lên Ngài một trái *kola*. (Thag­a.i.417f).
+
+Ông rõ ràng chính là Koladāyaka trong Apadāna. Ap.ii.379; xem thêm ii.483.
 
 ## Notes

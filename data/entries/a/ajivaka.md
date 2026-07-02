@@ -166,7 +166,7 @@ For a detailed account of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Ājīvaka, Ājīvakas. Một hạng đạo sĩ lõa thể (xem, e.g., Vin.i.291), những người theo Makkhali Gosāla, được xem, theo quan điểm Phật giáo, là tệ nhất trong các nhà ngụy biện. Nhiều tham chiếu đến Ājīvakas được tìm thấy trong *Piṭakas*, chỉ một ít trong số đó có phần nào khen ngợi. Như trong Mahā Saccakasutta, họ được nói là đi quanh mình trần, xem thường các phép tắc đoan nghiêm của đời sống và liếm tay sau bữa ăn. MN.i.238; xem thêm SN.i.66, nơi một thiên thần tán dương Gosāla là người đã đạt đến sự tự chế hoàn hảo nhờ nhịn ăn và các pháp khổ hạnh. Ông đã từ bỏ lời nói và tranh luận nhiều lời với bất kỳ ai, bình thản, nói sự thật, không làm điều ác. Có thể thấy đời sống của Ājīvakas là khổ hạnh qua việc họ lên án các tỳ-kheo mang lọng (Viii.ii.130).
+Ājīvaka, Ājīvakas. Một hạng đạo sĩ lõa thể (xem, e.g., Vin.i.291), những người theo Makkhali Gosāla, được xem, theo quan điểm Phật giáo, là tệ nhất trong các nhà ngụy biện. Nhiều tham chiếu đến Ājīvakas được tìm thấy trong *Piṭakas*, chỉ một ít trong số đó có phần nào khen ngợi. Như trong Mahā Saccakasutta, họ được nói là đi quanh mình trần, xem thường các phép tắc đoan nghiêm của đời sống và liếm tay sau bữa ăn. MN.i.238; xem thêm SN.i.66, nơi một thiên nhân tán dương Gosāla là người đã đạt đến sự tự chế hoàn hảo nhờ nhịn ăn và các pháp khổ hạnh. Ông đã từ bỏ lời nói và tranh luận nhiều lời với bất kỳ ai, bình thản, nói sự thật, không làm điều ác. Có thể thấy đời sống của Ājīvakas là khổ hạnh qua việc họ lên án các tỳ-kheo mang lọng (Viii.ii.130).
 
 Nhưng họ không bao giờ mắc tội
 

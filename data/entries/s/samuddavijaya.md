@@ -5,7 +5,7 @@ base_headword: "Samuddavijayā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Samuddavijayā. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddavijayā. Hoàng hậu của Bharata, người cai trị Roruva. Xem Ādittajātaka (Ja 424). Bà được nhận diện là Rāhulamātā. Ja.iii.474.
 
 ## Notes

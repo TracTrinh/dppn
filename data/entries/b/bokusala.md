@@ -5,7 +5,7 @@ base_headword: "Bokusala"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bokusala. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bokusala. Một ngôi làng ở Rohaṇa, được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.169.
 
 ## Notes

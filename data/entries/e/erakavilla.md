@@ -5,7 +5,7 @@ base_headword: "Erakāvilla"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Erakāvilla. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erakāvilla. Một ngôi làng ở Rohaṇa, Tích Lan, nơi Vua Mahā Sena đã xây dựng một *vihāra* sau khi phá hủy một ngôi đền của những kẻ không có niềm tin tín ngưỡng. Mhv.xxxvii.41; Mhv­ṭ.685.
 
 ## Notes

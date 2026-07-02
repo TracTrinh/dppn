@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nandiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Nandiya, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nandiya, Culla Nandiya *v.l.* Cūḷa Nandaka. Một con khỉ, em trai của Nandiya, tức Bodhisatta. Xem Cūḷa Nandiyajātaka (Ja 222). Ông được đồng nhất với Ānanda.
 
 ## Notes

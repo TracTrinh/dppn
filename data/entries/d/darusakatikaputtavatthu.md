@@ -5,7 +5,7 @@ base_headword: "Dārusākaṭikaputtavatthu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dārusākaṭikaputtavatthu. The story of the son of a carter. His father was a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārusākaṭikaputtavatthu. Câu chuyện về con trai của một người đánh xe. Cha cậu là một ngoại đạo, nhưng cậu, khi chơi với một đứa trẻ Phật giáo, đã học được cách nói "Đảnh lễ Đức Phật." Một ngày nọ, cậu đi cùng cha mình trong một chuyến hành trình, và vì cha cậu bị khóa cửa nhốt lại bên trong thành phố lúc mặt trời lặn, cậu đã phải trải qua cả đêm một mình dưới gầm xe bò bên ngoài những bức tường của Rājagaha. Trong đêm đó, hai Yakkha (dạ-xoa) đã cố gắng ăn thịt cậu, nhưng trong giấc mơ cậu đã thì thầm "Đảnh lễ Đức Phật" và đã được cứu. Nhà vua, khi nghe được câu chuyện, đã lặp lại nó với Đức Phật. Dhp­a.iii.455ff.
 
 ## Notes

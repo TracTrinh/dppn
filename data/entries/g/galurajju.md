@@ -5,7 +5,7 @@ base_headword: "Gālurajju"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gālurajju. A river in South Ceylon. Cv.lxxv.34; see also Cv.Trs.147, n.1.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gālurajju. Một con sông ở miền Nam Tích Lan. Cv.lxxv.34; xem thêm Cv.Trs.147, n.1.
 
 ## Notes

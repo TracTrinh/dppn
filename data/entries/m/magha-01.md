@@ -5,7 +5,7 @@ base_headword: "Māgha"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Māgha 01. A sage of old. Ja.vi.99.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgha 01. Một bậc hiền trí thời xưa. Ja.vi.99.
 
 ## Notes

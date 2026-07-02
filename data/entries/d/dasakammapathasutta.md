@@ -5,7 +5,7 @@ base_headword: "Dasakammapathasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dasakammapathasutta. Ten kinds of people similarity in whose actions draws them 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasakammapathasutta. Mười kiểu người có sự giống nhau trong các hành động của họ thu hút họ đến với nhau. SN.ii.167.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Harittaca"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Harittaca. The Bodhisatta born as a Brahmin. See the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Harittaca. Vị Bodhisatta sinh làm một người Bà-la-môn. Xem Hāritajātaka (Ja 431).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cundatthīla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cundatthīla. A village near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundatthīla. Một ngôi làng gần Benares, nhưng nằm ở phía bên kia con sông và giữa Vasabhagāma và Benares (biến thể Cundavīla). Pv.iii.1; Pv-a.168, 170; Mvu.iii.325, 327.
 
 ## Notes

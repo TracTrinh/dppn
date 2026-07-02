@@ -5,7 +5,7 @@ base_headword: "Sammodamānajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -30,6 +30,8 @@ This was one of the stories related at the time of the quarrel (*Cumbaṭakalaha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammodamānajātaka (Ja 33). Bodhisatta từng là một con chim cút. Có một người thợ săn chim đã dụ những con chim cút bằng cách bắt chước tiếng kêu của chúng rồi phủ lưới lên chúng. Bodhisatta đề nghị rằng khi người thợ săn làm như vậy, tất cả nên cùng bay đi mang theo cả tấm lưới. Chúng đã làm như thế, và, ngày này qua ngày khác, người thợ săn trở về tay không cho đến khi vợ ông ta tức giận. Một ngày kia, hai con chim cút bắt đầu cãi vã nhau, và Bodhisatta, nghe thấy cuộc cãi vã đó, quyết định dẫn đàn của mình đi nơi khác. Khi người thợ săn quay lại và giăng lưới, hai con chim cút lại bắt đầu cãi vã, và ông ta đã bắt được chúng.
+
+Đây là một trong những câu chuyện được kể vào lúc xảy ra cuộc tranh chấp (*Cumbaṭakalaha*) giữa người Sākiya và người Koḷiya (Ja.i.208-10). Xem thêm câu chuyện dẫn nhập của Kuṇālajātaka. Ở nơi khác câu chuyện này được gọi là Vaṭṭakajātaka, ví dụ, Ja.v.414.
 
 ## Notes

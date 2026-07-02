@@ -5,7 +5,7 @@ base_headword: "Godhagattatissa Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Godhagattatissa Thera. He it was who brought about a reconciliation between <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhagattatissa Thera. Ông là người đã mang lại sự hòa giải giữa Duṭṭhagāmaṇī và em trai của ông ta là Tissa (Mhv.xxiv.49-53). Chú giải (Mhv­ṭ.469) giải thích rằng ông mắc một căn bệnh về da khiến da ông bị đóng vảy giống như da của một con *godha* (kỳ đà).
 
 ## Notes

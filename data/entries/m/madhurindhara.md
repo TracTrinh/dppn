@@ -5,7 +5,7 @@ base_headword: "Madhurindhara"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhurindhara. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurindhara. Vua của Rādhavati. Anomadassī Buddha đã thuyết giảng cho ông, và ông cùng với bảy ngàn tùy tùng của mình đã trở thành những vị Arahant. Bv­a.144.
 
 ## Notes

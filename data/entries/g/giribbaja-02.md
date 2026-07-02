@@ -5,7 +5,7 @@ base_headword: "Giribbaja"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Giribbaja 02. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribbaja 02. Một cái tên gọi cho Vaṅkagiri. Ja.vi.589.
 
 ## Notes

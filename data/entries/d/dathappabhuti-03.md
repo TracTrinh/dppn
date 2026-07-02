@@ -5,7 +5,7 @@ base_headword: "Dāṭhāppabhuti"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dāṭhāppabhuti 03. An *Ādipāda* (royal prince), contemporary of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāppabhuti 03. Một *Ādipāda* (hoàng tử), người cùng thời với Aggabodhi I. Khi Jotipāla đánh bại những người thuộc phái *Vetullavādin*, Dāṭhāppabhuti đã tức giận đến mức vung tay định đánh vị Trưởng lão, nhưng ngay lập tức một vết loét đã xuất hiện trên đó. Dāṭhāppabhuti đã từ chối xin Jotipāla tha thứ và qua đời ngay sau đó. Cv.xlii.36f.
 
 ## Notes

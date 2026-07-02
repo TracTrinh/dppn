@@ -5,7 +5,7 @@ base_headword: "Hemakapucchā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hemakapucchā. The questions asked of the Buddha by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemakapucchā. Các câu hỏi mà Hemaka đã hỏi Đức Phật. Snp.1084-7.
 
 ## Notes

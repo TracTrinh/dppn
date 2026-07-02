@@ -5,7 +5,7 @@ base_headword: "Daliddasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Daliddasutta 01. Preached at the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daliddasutta 01. Được thuyết tại Kalandakanivāpa ở Rājagaha. Một người đàn ông nghèo ở Rājagaha, nhờ theo giáo pháp của Đức Phật, đã tái sinh ở Tāvatiṁsa, làm lu mờ chư thiên khác về vẻ đẹp và hào quang. Điều này làm họ bực tức, nhưng Sakka đã nói với họ rằng người nào có sự học hỏi, bố thí và trí tuệ, theo đúng lời dạy của Đức Phật, thì chắc chắn sẽ đạt được niềm an lạc to lớn. SN.i.231f.
 
 ## Notes

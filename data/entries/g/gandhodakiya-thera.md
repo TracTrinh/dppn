@@ -5,7 +5,7 @@ base_headword: "Gandhodakiya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhodakiya Thera. An *Arahant*. Ninety-one *kappas* ago he saw the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhodakiya Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, ngài đã thấy Đức Phật Vipassī và rưới nước thơm lên Ngài. Ba mươi mốt *kappa* trước, ngài đã làm vua, dưới tên Sugandha (Ap.i.157f). Có lẽ ngài chính là Ātuma Thera. Thag­a.i.160f.
 
 ## Notes

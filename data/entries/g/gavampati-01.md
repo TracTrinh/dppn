@@ -5,7 +5,7 @@ base_headword: "Gavampati"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -61,6 +61,20 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavampati 01. Trưởng lão Gavampati. Một vị Arahant. Ngài vốn là con trai của một trưởng giả ở Benares, và là một trong bốn người bạn cư sĩ của Trưởng lão Yasa; khi nghe tin Yasa xuất gia, họ đã noi theo ngài và đắc quả Arahant. Về sau, Gavampati sống tại Añjanavana ở Sāketa. Một hôm, khi Đức Phật Gotama đến thăm Añjanavana, một số tỳ-kheo tháp tùng Ngài đã ngủ trên các bãi cát của sông Sarabhū. Trong đêm, nước sông dâng lên và mọi người vô cùng hoảng sợ. Đức Phật đã sai Gavampati chặn dòng nước lũ, và ngài đã làm được điều đó bằng thần lực *iddhi*. Nước dừng lại từ xa, trông như một đỉnh núi.
+
+Vào thời Đức Phật Sikhī, ngài là một thợ săn, và khi thấy Đức Phật, ngài đã dâng hoa cúng dường. Về sau, ngài đã xây một chiếc lọng và hàng rào cho Thūpa của Koṇāgamana. Vào thời Đức Phật Kassapa, ngài là một cư sĩ giàu có, sở hữu nhiều gia súc. Một hôm, ngài thấy một vị Arahant đang dùng bữa dưới ánh nắng vì thiếu bóng mát, liền xây cho vị ấy một mái che và trồng trước đó một cây *sirīsa*. Nhờ đó ngài được sinh vào cõi Cātummahārājika, và cung điện của ngài được gọi là Serissaka (Vin.i.18f.; Thag.v.38; Thag­a.i.103f; Vv-a.331f; DN­a.iii.814 đưa ra một dị bản hơi khác về nguồn gốc của Serissakavimāna).
+
+Gavampati là thầy của Mahā Nāga, con trai của Madhu Vāseṭṭha (Thag­a.i.443). Có nói rằng Serissakavimāna, nơi Gavampati từng ở, vẫn còn lại trong cõi Cātummahārājika ngay cả sau khi ngài đã rời khỏi đó (DN.ii.356f; DN­a.iii.814 nói rằng ngài đến đó vì thấy "khí hậu" (*utu*) dễ chịu hơn. Snp­a.i.347 nói rằng đó là vì ngài, giống như Piṇḍola Bhāradvāja, yêu thích những nơi chốn quen thuộc cũ của mình).
+
+Tại đó, Gavampati thường nghỉ trưa và trò chuyện với Pāyāsi, người đã nhờ ngài chuyển một thông điệp đến cư dân trên trái đất, rằng họ nên học theo tấm gương của ông (Pāyāsi) và biết phân biệt khi bố thí.
+
+Dulvā có ghi lại rằng sau khi Đức Phật nhập diệt, khi Mahā Kassapa muốn tổ chức một kỳ Đại Kết Tập gồm các vị tỳ-kheo trưởng thượng, Puṇṇa đã được cử làm sứ giả đặc biệt để triệu tập Gavampati, khi ấy đang ở Serissakavimāna (Rockhill, p.149f). Nhưng Gavampati không đến dự, vì cái chết của ngài đã gần kề. Thay vào đó, ngài gửi bát và ba y của mình làm tặng phẩm cho Tăng đoàn.
+
+Ngay sau đó ngài qua đời, và Puṇṇa đã lo việc tang lễ cho ngài.
+
+Gavampati rõ ràng chính là Girinelapūjaka trong Apadāna (ii.457).
+
+Xem thêm Gavampatisutta.
 
 ## Notes

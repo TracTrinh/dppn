@@ -5,7 +5,7 @@ base_headword: "Dāyapassa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāyapassa. A park near <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāyapassa. Một công viên gần Benares. Saṅkicca từng ở đó cùng các môn đồ của mình. Ja.v.264, 265.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samiddhisumana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Samiddhisumana. A *Deva* who lived in the *rājāyatana* tree standing at the ga
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhisumana. Một vị thiên sống trong cây *rājāyatana* mọc ở cổng Jetavana. Vị ấy đã tháp tùng Đức Phật trong lần viếng thăm Tích Lan lần thứ hai. Trong kiếp trước, vị ấy từng là một người ở Nāgadīpa, và khi thấy một số vị Pacceka Buddha đang dùng bữa, đã cung cấp cho các vị ấy những cành *rājāyatana* để lau chùi bát của mình. Cây *rājāyatana* được dùng làm lọng che trên đầu Đức Phật trong hành trình đến Tích Lan, và được để lại ở Kalyāṇi cho các Nāga thờ phụng. Mhv.i.52ff.
 
 ## Notes

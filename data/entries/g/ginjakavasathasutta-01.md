@@ -5,7 +5,7 @@ base_headword: "Giñjakāvasathasutta"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giñjakāvasathasutta 01. Preached at the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giñjakāvasathasutta 01. Được thuyết giảng tại Giñjakāvasatha, để trả lời câu hỏi của Kaccāyana về việc các loại quan điểm hạ liệt, trung bình và thù thắng phát sinh như thế nào. SN.ii.153.
 
 ## Notes

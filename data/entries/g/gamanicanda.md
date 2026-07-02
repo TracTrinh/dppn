@@ -5,7 +5,7 @@ base_headword: "Gāmaṇicanda"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gāmaṇicanda. A servant of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇicanda. Một người hầu của Janasandha, vua xứ Benares. Về câu chuyện của ông, xem Gāmaṇicandajātaka (Ja 257).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgakosallasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bojjhaṅgakosallasutta. One of the sections of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgakosallasutta. Một trong những phần của Bojjhaṅgasaṁyutta. Vibh­a.229, 231; tham chiếu này chỉ đến SN.v.112f.
 
 ## Notes

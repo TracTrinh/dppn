@@ -5,7 +5,7 @@ base_headword: "Buddha"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -308,6 +308,166 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="185" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddha 01. Một danh từ chung, một danh xưng – không phải là tên riêng – được đặt cho một người đã đạt đến sự Giác ngộ (*na mātarā kataṁ, na pitarā kataṁ – vimokkhantikaṁ etaṁ Buddhānaṁ Bhagavantānaṁ bodhiyā mūle... paññatti*, không do mẹ hay cha đặt, mà sự giải thoát là gốc rễ của sự Giác ngộ của chư vị Phật, các vị Bhagavā... sự định danh MNid.458; Paṭis.i.174). Ngài là một con người vượt trội hơn tất cả các chúng sinh khác, nhân loại và chư thiên, nhờ sự hiểu biết của Ngài về Chân lý (Pháp).
+
+Các văn bản đề cập đến hai loại Buddha: tức là,
+
+- Pacceka Buddhas – nghĩa là, các vị Phật cũng đạt đến sự Giác ngộ hoàn toàn nhưng không thuyết giảng con đường giải thoát cho thế gian; và
+- Sammāsambuddhas, những vị toàn tri và là các bậc đạo sư về Nibbāna (Satthāro).
+
+Tuy nhiên, các Chú giải (ví dụ, SN­a.i.20; AN­a.i.65) có đề cập đến bốn hạng Buddha:
+
+- Sabbaññu Buddhā
+- Pacceka Buddhā
+- Catusacca Buddhā
+- Suta Buddhā
+
+Tất cả các bậc *Arahant* (*khīṇāsavā*) đều được gọi là *Catusacca Buddhā* và tất cả những người học rộng là *Bahussuta Buddhā*. Một vị Pacceka Buddha thực hành mười ba-la-mật (*pāramitā*) trong hai *asaṅkheyya* và một trăm ngàn *kappa*, một vị *Sabbaññu Buddha* thực hành trong một trăm ngàn *kappa* và bốn hoặc tám hoặc mười sáu *asaṅkheyya*, tùy từng trường hợp (xem bên dưới).
+
+Bảy vị *Sabbaññu Buddha* được đề cập trong các kinh sách thời kỳ đầu; các vị này là Vīpassī, Sikhī, Vessabhū, Kakusandha, Koṇāgamana, Kassapa, Gotama ví dụ, DN.ii.5f.; SN.ii.5f.; so sánh Thag.491; Ja.ii.147; các ngài cũng được đề cập tại Vin.ii.110, trong một bài chú cổ chống rắn cắn. Beal (*Catena*, p. 159) nói rằng các danh hiệu này được đưa ra trong *Pātimokkha* của Trung Quốc. Chúng cũng được tìm thấy trong Sayambhū Purāṇa (Mitra, Skt. Buddhist Lit. of Nepal, p. 249).
+
+Con số này được tăng lên trong các kinh sách muộn hơn. Buddhavaṁsa chứa các chi tiết tường tận về hai mươi lăm vị Phật, bao gồm cả vị cuối cùng, Gotama, hai mươi tư vị đầu tiên là những vị đã thọ ký về sự xuất hiện của Gotama trên thế gian. Họ là những bậc tiền nhiệm của Vipassī, v.v., và là những vị sau đây:
+
+Dīpaṅkara, Koṇḍañña, Maṅgala, Sumana, Revata, Sobhita, Anomadassī, Paduma, Nārada, Padumuttara, Sumedha, Sujāta, Piyadassī, Atthadassī, Dhammadassī, Siddhattha, Tissa và Phussa.
+
+Cũng bài thơ đó, trong chương thứ hai mươi bảy, có đề cập đến ba vị Phật khác – Taṇhaṅkara, Medhaṅkara và Saraṇaṅkara – những vị đã xuất hiện trên thế gian trước Dīpaṅkara.
+
+*Lalitavistara* có một danh sách năm mươi tư vị Phật và *Mahā Vastu* có hơn một trăm vị. Cakkavattisīhanādasutta (DN.iii.75ff) đưa ra các chi tiết về Metteyya Buddha người sẽ đản sinh trên thế gian trong *kappa* hiện tại. Anāgatavaṁsa cung cấp một tường thuật chi tiết về Ngài. Một số bản thảo của bài thơ đó (JPTS 1886, p. 37) đề cập đến tên của mười vị Phật tương lai, tất cả đều đã gặp Gotama người đã thọ ký về họ. Đó là Metteyya, Uttama, Rāma, Pasenadi Kosala, Abhibhū, Dīghasoṇī, Saṅkacca, Subha, Todeyya, Nālāgiripalaleyya (*sic*).
+
+Mahāpadānasutta (DN.ii.5f) đề cập đến bảy vị Phật cung cấp các chi tiết về mỗi vị dưới mười một đề mục (*paricchedā*) – *kappa* mà ngài đản sinh, giai cấp xã hội của ngài (*jāti*), dòng tộc của ngài (*gotta*), tuổi thọ tại thời đại đó (*āyu*), cây mà ngài thành tựu sự Giác ngộ dưới đó (*bodhi*), tên hai vị đại đệ tử của ngài (*sāvakayuga*), số lượng người hiện diện tại các hội chúng *Arahant* do ngài tổ chức (*sāvakasannipāta*), tên vị tỳ-kheo thị giả của ngài (*upaṭṭhākabhikkhu*), tên cha và mẹ của ngài và nơi sinh của ngài. Chú giải (DN­a.ii.422ff) bổ sung vào các chi tiết này những điều khác – tên con trai và người vợ của ngài trước khi ngài Xuất gia, phương tiện (*yāna*) mà ngài rời bỏ thế gian, tu viện nơi đặt Gandhakuṭi của ngài, số tiền đã trả để mua nó, vị trí của tu viện, và tên vị đại thí chủ cư sĩ của ngài. Trong trường hợp của Gotama, sự kiện xa hơn được nêu ra là vào ngày đản sinh của ngài, cũng xuất hiện trên thế gian Rāhulamātā, Ānanda, Kanthaka, Nidhikumbhi (Kho Báu), cây Mahā Bodhi và Kāḷudāyī. Gotama được thọ thai dưới chòm sao (*nakkhatta*) *Uttarāsāḷha*, dưới chòm sao này ngài cũng đã Xuất gia (Da.ii425), thuyết bài pháp đầu tiên và thi triển Song thông. Dưới chòm sao Visākha ngài đã đản sinh, thành tựu sự Giác ngộ và tịch diệt; dưới chòm sao Māgha ngài tổ chức hội chúng *Arahant* đầu tiên và quyết định tịch diệt; dưới chòm sao *Assayuja* ngài giáng trần từ Tāvatiṁsa.
+
+Chú giải Buddhavaṁsa nói (Bv­a.2f) rằng trong Buddhavaṁsa các chi tiết của mỗi vị Phật được đưa ra dưới hai mươi hai đề mục, các đề mục bổ sung là các chi tiết về bài pháp đầu tiên, số lượng những người thành tựu sự chứng ngộ chân lý (*abhisamaya*) tại mỗi hội chúng, tên hai vị nữ đại đệ tử, hào quang thân của vị Phật (*raṁsi*), chiều cao thân của ngài, tên vị Bodhisatta (người sẽ trở thành Gotama Buddha), lời thọ ký liên quan đến ngài, sự tinh tấn của ngài (*padhāna*) và các chi tiết về sự tịch diệt của mỗi vị Phật. Chú giải cũng nói rằng sự đề cập phải được thực hiện về khoảng thời gian mỗi vị Phật sống như một người tại gia, tên các cung điện mà ngài cư ngụ, số lượng các vũ nữ của ngài, tên người vợ chính, và con trai của ngài, phương tiện của ngài, sự xuất gia của ngài, sự thực hành khổ hạnh của ngài, các thí chủ và tu viện của ngài.
+
+Có tám chi tiết mà các vị Phật khác biệt nhau (*aṭṭhavemattāni*). Đó là tuổi thọ trong thời đại mà mỗi vị đản sinh, chiều cao thân của ngài, giai cấp xã hội của ngài (một số đản sinh làm các vị *Khattiya*, những vị khác làm Bà-la-môn), thời gian khổ hạnh của ngài, hào quang thân của ngài (do đó, trong trường hợp của Maṅgala, hào quang của ngài lan tỏa khắp mười ngàn hệ thế giới, trong khi của Gotama chỉ mở rộng một sải tay (nhưng khi ngài muốn, một vị Phật có thể lan tỏa hào quang của ngài tùy ý, Bv­a.106); phương tiện mà ngài dùng để xuất gia, cây mà ngài thành tựu sự Giác ngộ dưới đó, và kích thước của chỗ ngồi (*pallaṅka*) dưới cây bodhi.
+
+Chỉ năm điều đầu tiên được đề cập trong DN­a.ii.424; cũng tại Bv­a.105; tất cả tám điều được đưa ra tại Bv­a.246f., nơi cũng cung cấp chi tiết dưới mỗi đề mục trong tám đề mục, liên quan đến toàn bộ hai mươi lăm vị Phật.
+
+Trong trường hợp của tất cả các vị Phật, có bốn vị trí cố định (*avijahitaṭṭhānāni*). Đó là: vị trí của chỗ ngồi dưới cây bodhi (*bodhipallaṅka*), Lộc Uyển tại Isipatana nơi bài pháp đầu tiên được thuyết giảng, vị trí nơi vị Phật bước chân đầu tiên xuống đất tại Saṅkassa khi ngài giáng trần từ Tusita (Tāvatiṁsa?), các vị trí được đánh dấu bởi bốn cột giường trong Gandhakuṭi của Phật tại Jetavana.
+
+Tu viện có thể khác nhau về kích thước; vị trí của thành phố nơi nó tọa lạc cũng có thể khác nhau, nhưng vị trí của chiếc giường thì không. Đôi khi nó ở phía đông của *vihāra*, đôi khi ở phía bắc (DN­a.ii.424; Bv­a.247).
+
+Ba mươi sự kiện được đề cập là đúng với tất cả các vị Phật (*samatiṁsavidhā dhammatā*).
+
+Trong kiếp sống cuối cùng của mình, mọi Bodhisatta đều tỉnh giác tại khoảnh khắc thọ thai của ngài;
+
+trong bụng mẹ ngài ngồi kiết già với khuôn mặt hướng ra ngoài;
+
+mẹ ngài sinh ra ngài trong tư thế đứng;
+
+sự đản sinh diễn ra trong một khu rừng (*araññe*);
+
+ngay sau khi đản sinh, ngài bước bảy bước về hướng bắc và rống "tiếng rống của sư tử";
+
+ngài xuất gia sau khi nhìn thấy bốn điềm báo và sau khi một người con trai được sinh ra cho ngài;
+
+ngài phải thực hành khổ hạnh trong ít nhất bảy ngày sau khi đắp y vàng;
+
+ngài dùng một bữa ăn cơm sữa vào ngày Giác ngộ của mình;
+
+ngài thành tựu sự toàn tri khi ngồi trên một tấm thảm cỏ;
+
+ngài thực hành thiền định về hơi thở;
+
+ngài đánh bại các lực lượng của Māra;
+
+ngài thành tựu sự viên mãn tối thượng trong mọi kiến thức và đức hạnh tại gốc cây bodhi;
+
+Mahā Brahma thỉnh cầu ngài thuyết giảng Pháp;
+
+ngài thuyết bài pháp đầu tiên của mình trong Lộc Uyển tại Isipatana;
+
+ngài tụng *Pātimokkha* cho hội chúng tứ chúng vào ngày trăng tròn của tháng Māgha;
+
+ngài cư ngụ chủ yếu ở Jetavana, ngài thi triển Song thông tại Sāvatthī;
+
+ngài thuyết Abhidhamma tại Tāvatiṁsa;
+
+ngài giáng trần từ đó tại cổng của Saṅkassa;
+
+ngài thường xuyên sống trong sự hỷ lạc của *phalasamāpatti*;
+
+ngài xem xét khả năng hóa độ những người khác trong hai *jhāna*;
+
+ngài chỉ ban hành các giới luật khi có cơ hội phát sinh cho chúng;
+
+ngài kể lại các câu chuyện Bổn sinh khi các dịp thích hợp xảy ra;
+
+ngài đọc tụng Buddhavaṁsa trong hội chúng của những người thân tộc của ngài;
+
+ngài luôn luôn chào hỏi một cách lịch sự các tỳ-kheo đến thăm ngài;
+
+ngài không bao giờ rời khỏi nơi ngài đã trải qua mùa an cư mà không từ biệt các gia chủ của ngài;
+
+mỗi ngày ngài có những phận sự được quy định trước và sau bữa ăn của ngài và trong ba canh của đêm;
+
+ngài ăn một bữa ăn có chứa thịt (*maṁsarajabhojana*) ngay trước khi ngài tịch diệt;
+
+và ngay trước khi ngài tịch diệt ngài nhập vào hai mươi bốn crore và một trăm ngàn *samāpattī*.
+
+Cũng có đề cập đến bốn mối nguy hiểm mà tất cả các vị Phật đều miễn nhiễm: không có bất hạnh nào có thể xảy đến với bốn món vật dụng dành cho một vị Phật; không ai có thể gây ra cái chết của ngài; không có thương tích nào có thể xảy đến với bất kỳ đặc tướng nào trong ba mươi hai Mahā Purisalakkhaṇā hay tám mươi *anubyañjanā* của ngài; không có gì có thể cản trở hào quang của ngài (Bv­a.248).
+
+Một vị Phật chỉ đản sinh trong Cakkavāḷa này trong số mười ngàn Cakkavāḷas tạo nên *jātikkhetta* (AN­a.i.251; DN­a.iii.897). Chỉ có thể xuất hiện một vị Phật trên thế gian tại một thời điểm (DN.ii.225; DN.iii.114; các lý do cho điều này được đưa ra chi tiết trong Mil. 236, và được trích dẫn trong DN­a.iii.900f). Không vị Phật nào có thể xuất hiện cho đến khi *Sāsana* của vị Phật trước đó đã hoàn toàn biến mất khỏi thế gian. Điều này chỉ xảy ra với sự *dhātu-Parinibbāna* (xem bên dưới). Khi một Bodhisatta thọ thai trong bụng mẹ trong kiếp sống cuối cùng của ngài, sau khi rời Tusita, có biểu hiện khắp thế gian một sự chói sáng kỳ diệu, và mười ngàn hệ thế giới rung chuyển.
+
+Những trận động đất tương tự xuất hiện khi ngài đản sinh, khi ngài thành tựu sự Giác ngộ, khi ngài thuyết bài pháp đầu tiên, khi ngài quyết định tịch diệt, khi ngài cuối cùng làm như vậy (DN.ii.108f.; so sánh DN­a.iii.897).
+
+Mahā Padānasutta (DN.ii.12-15) và Acchariyabbhutadhammasutta (MN.iii.119-124) chứa các tường thuật về những phép lạ khác, đi kèm với sự thọ thai và đản sinh của một vị Phật. Các kinh sách muộn hơn (ví dụ, Ja.i.) đã mở rộng đáng kể các tường thuật này. Chúng mô tả cách Bodhisatta, đã thực hành ba mươi *Pāramī*, và thực hiện năm sự bố thí vĩ đại (*pañcamahāpariccāgā*), và do đó đạt đến đỉnh cao của ba *cariyā* – *ñātatthacariyā*, *lokatthacariyā* và *buddhicariyā* – thực hiện bảy *mahādānā*, như trong trường hợp của Vessantara, làm cho trái đất rung chuyển bảy lần, và được tái sinh sau khi chết ở Tusita. Bodhisatta, người sau này trở thành Vipassī Buddha, vẫn ở lại Tusita trong suốt khoảng thời gian cho phép – năm mươi bảy crore và sáu mươi bảy ngàn năm. Nhưng hầu hết các Bodhisatta đều rời Tusita trước khi hoàn thành toàn bộ khoảng thời gian sống ở đó. Năm điềm báo xuất hiện để cảnh báo vị thiên tử (*Devaputta*) rằng sự kết thúc của ngài đã gần kề (xem *Deva*); các vị thần của mười ngàn thế giới tụ tập quanh ngài, thỉnh cầu ngài đản sinh trên trái đất để ngài có thể trở thành vị Phật. Bodhisatta sau đó thực hiện năm sự xem xét (*pañcamahāvilokanāni*).
+
+Đôi khi chỉ có một vị Phật đản sinh trong một *kappa*, một *kappa* như vậy được gọi là *Sārakappa*; đôi khi hai vị, *Maṇḍakappa*; đôi khi ba vị, *Varakappa*; đôi khi bốn vị, *Sāramaṇḍakappa*; hiếm khi là năm vị, *Bhaddakappa* (Bv­a.158f). Không vị Phật nào đản sinh trong thời kỳ đầu của một *kappa*, khi con người sống thọ hơn một trăm ngàn năm và do đó không thể nhận ra bản chất của tuổi già và cái chết, và vì vậy không thể hưởng lợi từ sự thuyết giảng của ngài. Khi tuổi thọ của con người quá ngắn, không có thời gian cho việc khuyên dạy và con người đầy dẫy *kilesa*. Do đó, thời đại thích hợp cho một vị Phật là khi con người sống không dưới một trăm năm và không quá mười ngàn năm. Bodhisatta trước tiên phải xem xét lục địa và quốc gia đản sinh. Các vị Phật chỉ đản sinh ở Jambudīpa, và ở đó, cũng vậy, chỉ trong Majjhimadesa. Sau đó ngài phải xem xét gia đình; các vị Phật chỉ đản sinh trong các gia đình Bà-la-môn hoặc *Khattiya*, tùy xem giai cấp nào được kính trọng hơn trong thời đại cụ thể đó. Sau đó ngài phải nghĩ đến người mẹ: bà phải thông thái và đức hạnh; và cuộc đời bà phải được định trước là sẽ kết thúc bảy ngày sau khi vị Phật đản sinh.
+
+Sau khi đưa ra những quyết định này, Bodhisatta đi đến Nandanavana trong Tusita, và trong khi đi dạo quanh đó thì "thác sinh" khỏi Tusita và thọ thai. Ngài nhận thức được cái chết của mình nhưng không nhận thức được *cuticitta* hay tâm tử của mình. Các nhà Chú giải dường như đã bất đồng ý kiến về việc liệu có sự nhận thức về việc thọ thai hay không. Khi Bodhisatta được thọ thai, mẹ ngài không còn mong muốn đắm chìm trong khoái lạc tình dục nữa. Trong bảy ngày trước đó bà tuân giữ các giới *uposatha*, nhưng không có sự đề cập nào về một sự sinh sản đồng trinh; sự đản sinh có thể được gọi là sinh sản đơn tính (xem Mil.123).
+
+Vào ngày thọ thai thực sự, người mẹ, sau khi tắm trong nước thơm sau lễ kỷ niệm lễ hội *Āsāḷha*, và sau khi ăn những thức ăn hảo hạng, đã tự mình thọ nhận các giới *uposatha* và lui về phòng ngủ trang hoàng lộng lẫy. Khi bà ngủ, bà mơ thấy Cātummahārājika nâng bà lên cùng với chiếc giường của bà, và, sau khi đưa bà đến Himālaya, tắm cho bà trong Hồ Anotatta, mặc cho bà những y phục cõi trời, xức các loại nước hoa cho bà và trang điểm cho bà bằng những bông hoa cõi trời (theo Nidānakathā, Ja.i.50, chính các hoàng hậu của họ là những người làm những điều này, về việc Bodhisatta hiện thân dưới hình dáng một con voi, xem Dial.ii.116n). Cách đó không xa là một ngọn núi bạc và trên đó là một tòa lâu đài vàng. Tại đó họ đặt bà nằm với đầu hướng về phía đông. Bodhisatta, hiện thân dưới hình dáng một con voi trắng, đi vào phòng bà, và sau khi đi nhiễu ba vòng theo chiều kim đồng hồ quanh giường bà, dùng vòi chạm vào hông phải của bà và đi vào bụng bà. Bà thức giấc và kể cho chồng nghe về giấc mơ của mình. Các nhà tiên tri được hỏi ý kiến, và họ thọ ký về sự đản sinh của một vị Cakkavatti hoặc một vị Phật.
+
+Hai bài Kinh được đề cập ở trên nói về những hoàn cảnh đạt được trong suốt thời gian đứa trẻ ở trong bụng mẹ. Có nói rằng (DN­a.ii.437) Bodhisatta đản sinh khi mẹ ngài ở vào một phần ba cuối cùng của tuổi trung niên của bà. Điều này là để việc sinh nở có thể dễ dàng cho cả mẹ và con. Nhiều phép lạ đi kèm với sự đản sinh của Bodhisatta. Các Chú giải trình bày, rất dài, các tường thuật về những phép lạ này được đưa ra trong các Kinh. Ngay sau khi đản sinh, Bodhisatta đứng vững vàng trên đôi chân của mình, và sau khi bước bảy bước về hướng bắc, trong khi một lọng trắng được che trên đầu ngài, ngài nhìn quanh và thốt lên tiếng rống của sư tử bằng giọng nói không sợ hãi: “*Aggo ‘ham-asmi lokassa, jeṭṭho ‘ham-asmi lokassa, seṭṭho ‘ham asmi lokassa, ayam-antimā jāti, natthi dāni punabbhavo*, Ta là bậc tôn quý nhất của thế gian, ta là bậc tối thượng trong thế gian; đây là kiếp sống cuối cùng của ta; từ nay trở đi sẽ không còn sự tái sinh nào đối với ta (DN.ii.15).
+
+Đối với những Phật tử thời kỳ sau, không chỉ những hành động này của Bodhisatta, mà mọi chi tiết của những phép lạ đi kèm với sự đản sinh của ngài, đều có ý nghĩa biểu tượng của chúng. Xem, ví dụ, DN­a.ii.439; do đó, đứng trên mặt đất có nghĩa là việc thành tựu bốn *iddhipādas*; hướng về phía bắc ngụ ý sự chinh phục tâm linh của vô số người; bảy bước đi là bảy *bojjhaṅgas*; cái lọng là lọng che của sự giải thoát; nhìn quanh có nghĩa là kiến thức không bị che khuất; sự không sợ hãi biểu thị cho sự vận chuyển không thể thu hồi của Bánh xe Pháp; sự đề cập đến kiếp sống cuối cùng, quả vị *Arahant* mà ngài sẽ thành tựu trong kiếp sống này, v.v.
+
+Dường như đã có một sự khác biệt về ý kiến giữa các Trưởng lão của Tăng đoàn về việc điều gì đã xảy ra khi Bodhisatta bước bảy bước của ngài về hướng bắc. Ngài đã đi trên mặt đất hay đi qua không trung? Mọi người có nhìn thấy ngài đi không? Ngài có mặc quần áo không? Ngài trông giống một đứa trẻ sơ sinh hay một người lớn? *Tipiṭaka* Cullābhaya, khi đang thuyết pháp ở tầng một của Lohapāsāda, đã giải quyết câu hỏi này bằng cách đề xuất một sự thỏa hiệp: Bodhisatta đã đi trên mặt đất, nhưng những người đứng xem cảm thấy ngài đang đi qua không trung; ngài trần truồng, nhưng những người đứng xem cảm thấy ngài được trang điểm lộng lẫy; ngài là một đứa trẻ sơ sinh, nhưng trông giống như mười sáu tuổi; và sau tiếng rống của ngài, ngài đã trở lại thành một đứa trẻ sơ sinh (DN­a.ii.442)!
+
+Sau khi đản sinh, Bodhisatta được đưa đến cho các nhà tiên tri để đưa ra những dự đoán của họ và họ xác nhận lại rằng chỉ có hai con đường rộng mở đối với ngài hoặc là một vị Cakkavatti hoặc là một vị Phật. Họ cũng khám phá ra trên cơ thể ngài ba mươi hai đặc tướng của một Bậc Đại Nhân (Mahā Purisa) (Những điều này được đưa ra tại DN.ii.17-19; cũng tại MN.ii.136f). Bodhisatta cũng có tám mươi đặc tướng phụ (*asīti anubyañjanā*) chẳng hạn như móng tay màu đồng bóng loáng và nổi bật, gân cốt ẩn kín và không có nút thắt, v.v. (Danh sách này được tìm thấy trong *Lal*.121 106). Brahmāyusutta (để biết chi tiết xem MN.ii.137f) cung cấp các chi tiết khác về Gotama, vốn dĩ hiển nhiên là đặc điểm của tất cả các vị Phật. Theo đó, khi đi ngài luôn bắt đầu bằng chân phải, các bước đi của ngài không quá dài cũng không quá ngắn, chỉ các chi dưới của ngài chuyển động; khi ngài nhìn vào bất cứ thứ gì, ngài xoay toàn thân sang phải để làm như vậy (*Nāgavilokana*). Khi đi vào một ngôi nhà, ngài không bao giờ cúi gập thân mình (so sánh Dhp­a.ii.136); khi ngồi xuống, nhận nước để rửa bát, ăn, rửa tay sau khi ăn, hoặc nói lời tri ân, ngài ngồi với sự đúng mực, uy nghi và thấu đáo nhất. Khi thuyết giảng, ngài không tâng bốc cũng không quở trách những người nghe của mình mà chỉ hướng dẫn họ, thức tỉnh, khai sáng và khuyến khích họ (MN.ii.139). Giọng nói của ngài sở hữu tám phẩm chất: nó chân thật, rõ ràng, du dương, dễ chịu, trọn vẹn, vang xa, trầm ấm và ngân vang; nó không truyền đi vượt quá thính chúng của ngài (để biết chi tiết liên quan đến giọng nói của ngài xem DN­a.ii.452f.; và MN­a.ii.771f). Một đoạn văn trong Aṅguttara (AN.iv.308) nói rằng một vị Phật thuyết pháp trong tám hội chúng – hội chúng của các Sát-đế-lỵ, Bà-la-môn, gia chủ, sa-môn, chư thiên (Devas) của cõi Cātummahārājika, và của cõi Tāvatiṁsa, của *Māra* và của Phạm thiên. Trong các hội chúng này, ngài trở thành một người trong số họ và ngôn ngữ của họ trở thành ngôn ngữ của ngài.
+
+Sự nghiệp điển hình của một vị Phật được minh họa trong cuộc đời của Gotama. Ngài xuất gia chỉ sau khi một người con trai đản sinh. Điều này, Chú giải giải thích (DN­a.ii.422), là để ngăn ngài bị xem là một sự tồn tại không phải là con người. Ngài nhìn thấy bốn điềm báo trước khi Xuất gia: một người già, một người bệnh, một người chết, và một vị sa-môn. Một số vị Phật nhìn thấy cả bốn điềm báo trong cùng một ngày, những vị khác, như Vipassī, ở những khoảng thời gian cách xa nhau (DN­a.ii.457). Vào đêm trước sự Giác ngộ, Bodhisatta mơ thấy năm giấc mơ (AN.iii.240). Sau sự Giác ngộ, vị Phật không thuyết pháp cho đến khi được thỉnh cầu làm như vậy bởi Mahā Brahma. Điều này là để thế gian có thể chú ý nhiều hơn đến vị Phật và giáo pháp của ngài (DN­a.ii.467). Một vị Phật thường đi từ cây bodhi đến Isipatana cho bài pháp đầu tiên của mình, đi xuyên qua không trung, nhưng Gotama đi bộ vì ngài muốn gặp Upaka trên đường đi (DN­a.ii.471).
+
+Một ngày của vị Phật được chia thành các khoảng thời gian, mỗi khoảng thời gian có những phận sự riêng biệt của nó (DN­a.i.45f; Snp­a.i.131f, v.v.). Ngài thức dậy sớm, và sau khi thực hiện các nhu cầu vệ sinh cá nhân, ngài ngồi tĩnh lặng một mình cho đến khi đến giờ đi khất thực. Sau đó ngài đắp y ngoài và đi khất thực, đôi khi đi một mình, đôi khi với một đám đông lớn tỳ-kheo theo sau. Khi ngài muốn đi một mình, ngài đóng cửa phòng của mình, dấu hiệu này được các tỳ-kheo hiểu (Sđd., 271). Thỉnh thoảng ngài đi khất thực ở những khoảng cách xa, đi qua không trung, và khi đó chỉ những *khīṇāsavā* mới được phép đi cùng ngài (Thag­a.i.65). Đôi khi ngài đi theo cách thông thường (*pakatiyā*), đôi khi kèm theo nhiều phép lạ. Sau bữa ăn ngài trở về phòng của mình; đây là *bhattakicca* thuần túy.
+
+Sau khi rửa chân, ngài sẽ ra khỏi phòng của mình, nói chuyện với các tỳ-kheo và khuyên dạy họ. Đối với những ai xin các đề mục thiền định, ngài sẽ ban cho họ tùy theo căn tánh của họ. Sau đó ngài sẽ lui về phòng của mình và, nếu ngài muốn, sẽ ngủ một lát. Sau đó, ngài nhìn quanh thế gian bằng thiên nhãn của mình, tìm kiếm người mà ngài có thể giúp đỡ, và sau đó sẽ thuyết giảng cho những người đến với ngài để nhận sự chỉ dẫn. Vào buổi tối ngài sẽ tắm, và sau đó, trong canh đầu tiên, tiếp đón các tỳ-kheo tìm kiếm lời khuyên của ngài. Canh giữa được dành cho chư thiên (Devas) và những người khác đến thăm ngài để thưa hỏi ngài. Canh cuối được chia thành ba phần: phần đầu tiên được dành để đi kinh hành để vận động và thiền định; phần thứ hai dành cho giấc ngủ; và phần thứ ba dành cho sự quán tưởng, trong suốt thời gian đó những người có khả năng hưởng lợi từ giáo pháp của vị Phật, thông qua những thiện nghiệp mà họ đã làm trong quá khứ, xuất hiện trong tầm nhìn của ngài. Chỉ những chúng sinh là *veneyyā* (có khả năng hưởng lợi từ sự hướng dẫn) và sở hữu *upanissaya* (tiềm năng), mới xuất hiện trước thiên nhãn của vị Phật (DN­a.ii.470).
+
+Vị Phật ban cho những người đến thăm ngài sự cho phép để hỏi những gì họ muốn. Điều này được gọi là *Sabbaññupavāraṇa*, và chỉ có một vị Phật mới có khả năng giữ vững lời hứa này để trả lời bất kỳ câu hỏi nào (Snp­a.i.229). Ngoại trừ trong mùa mưa, vị Phật dành thời gian của mình để đi du hành từ nơi này đến nơi khác, làm hoan hỷ mọi người và khích lệ họ sống một đời sống tốt đẹp. Sự du hành này được gọi là *cārikā* và có hai loại – *turita* và *aturita*. Loại đầu tiên được sử dụng cho một hành trình dài được ngài hoàn thành trong một thời gian rất ngắn, vì lợi ích của một người cụ thể nào đó. Theo đó, Gotama đã du hành ba *gāvuta* để gặp Mahā Kassapa, ba mươi do-tuần để gặp Āḷavaka và Aṅgulimāla, bốn mươi lăm do-tuần để gặp Pukkusāti, v.v. Trong trường hợp của *aturitacārikā* tiến độ chậm chạp. Phạm vi *cārikā* của một vị Phật thay đổi từ năm này sang năm khác. Đôi khi ngài sẽ du hành vòng quanh *Mahā Maṇḍala* rộng chín trăm do-tuần, đôi khi *Majjhimamaṇḍala* rộng sáu trăm do-tuần, đôi khi chỉ *Antomaṇḍala* rộng ba trăm do-tuần. Một chuyến du hành vòng quanh *Mahā Maṇḍala* kéo dài chín tháng, *Majjhimamaṇḍala* tám tháng, và *Antomaṇḍala* từ một đến bốn tháng. Các chi tiết về *cārikā* và những lý do cho chúng được đưa ra chi tiết trong DN­a.i.240-3. Khi bản thân vị Phật không thể đi trên một hành trình, ngài phái các vị đại đệ tử của mình đi (Snp­a.ii.474). Vị Phật thông báo ý định thực hiện một chuyến hành trình hai tuần trước khi ngài khởi hành, để các tỳ-kheo có thể chuẩn bị sẵn sàng (Dhp­a.ii.167).
+
+Vị Phật là bậc toàn tri, không phải theo ý nghĩa rằng ngài biết mọi thứ, mà là ngài có thể biết bất cứ điều gì nếu ngài muốn (xem MNid.178,179; xem thêm MNid-a.223; Snp­a.i.18.). *Ñāṇa* của ngài là một trong bốn điều vô lượng (cơ thể của vị Phật cũng không thể đo lường được cho các mục đích so sánh với các cơ thể khác, MN­a.ii.790). Ngài hóa độ mọi người theo một trong ba cách: bằng cách phô diễn các năng lực thần thông (*iddhipāṭihāriya*), bằng cách đọc được suy nghĩ của họ (*ādesanāpāṭihāriya*), hoặc giảng dạy cho họ những gì có lợi cho họ tùy theo đặc điểm và căn tánh của họ (*anusāsanīpāṭihāriya*). Phương pháp cuối cùng là phương pháp mà vị Phật sử dụng thường xuyên nhất (Bv­a.81).
+
+Các đối thủ của vị Phật nói rằng ngài sở hữu sức mạnh mê hoặc (*āvattanīmāyā*); nhưng điều này không đúng, vì đôi khi (ví dụ, trong trường hợp của các tỳ-kheo ở Kosambi) ngài thậm chí không thể khiến các đệ tử của mình tuân lệnh ngài. Tuy nhiên, một số chúng sinh chỉ có thể được hóa độ bởi một vị Phật. Họ được gọi là *Buddhaveneyyā* (Snp­a.i.331). Một số người cảm thấy hài lòng bởi diện mạo của vị Phật, những người khác bởi giọng nói và ngôn từ của ngài, tuy nhiên những người khác lại bởi sự thực hành khổ hạnh của ngài, chẳng hạn như việc đắp những y phục giản dị, v.v.; và cuối cùng, những người mà tiêu chuẩn đánh giá của họ là sự lương thiện, đã phản ánh rằng ngài không có người sánh bằng (Dhp­a.iii.113f.).
+
+Mặc dù sự giảng dạy của vị Phật không bao giờ thực sự mất đi tác dụng đối với người nghe, đôi khi ngài thuyết pháp trong khi biết rằng nó sẽ không có lợi ích tức thời (xem, ví dụ, Udumbarikasīhanādasutta, DN.iii.57). Có nói rằng bất cứ nơi nào một vị tỳ-kheo cư ngụ trong thời đại của vị Phật, ở vùng lân cận của vị Phật, vị ấy sẽ luôn chuẩn bị sẵn một chỗ ngồi đặc biệt cho vị Phật vì có khả năng vị Phật sẽ thực hiện một chuyến viếng thăm đặc biệt đến vị ấy (DN­a.i.48). Đôi khi vị Phật sẽ phóng một tia sáng từ Gandhakuṭi của ngài để khuyến khích một tỳ-kheo đang hành thiền và, hiện ra trước mặt vị ấy trong tia sáng này, thuyết pháp cho vị ấy. Các đoạn kệ được thuyết giảng như vậy được gọi là *obhāsagāthā* (Snp­a.i.16, 265).
+
+Mọi vị Phật đều thành lập một Tăng đoàn; bài *pātimokkhuddesagāthā* đầu tiên của mọi vị Phật là giống nhau (DN­a.ii.479). Sự thành tựu quả vị *Arahant* luôn là mục đích của sự hướng dẫn của vị Phật (DN­a.iii.732). Các chúng sinh có thể đạt được bốn *abhiññā* chỉ trong suốt cuộc đời của một vị Phật (AN­a.i.204). Một vị Phật có mười sức mạnh (*balāni*) bao gồm sự thấu hiểu trọn vẹn của ngài trong mười lĩnh vực kiến thức, và sức mạnh thể chất ngang bằng với sức mạnh của một trăm ngàn *crore* con voi (Bv­a.37) A.v.32f.; MN.i.69, v.v. Tại SN.ii.27f., mười sức mạnh tương tự được đưa ra như là bao gồm kiến thức của ngài về Paṭiccasamuppāda. Các sức mạnh của một vị đệ tử là phân biệt với các sức mạnh của một vị Phật (Kv.228); chúng có bảy điều (xem, ví dụ, DN.iii.283).
+
+Chỉ riêng ngài mới có thể tiêu hóa thức ăn của chư thiên (Devas) hoặc thức ăn có chứa *ojā* được chư thiên (Devas) cho vào đó. Không ai khác có thể ăn thức ăn đã được để riêng cho vị Phật mà không bị tổn hại (Snp­a.i.154). Bên cạnh những sự tuyệt hảo này, một vị Phật sở hữu bốn sự vô úy (*vesārajjāni*, được đưa ra tại MN.i.71f), mười tám *āveṇikadhammā* (được mô tả tại *Lalitavistara* 183, 343, Buddhaghosa cũng đưa ra (tại DN­a.iii.994) một danh sách mười tám *Buddhadhammā*, nhưng tất cả chúng đều liên quan đến sự vắng mặt của *duccarita* trong trường hợp của vị Phật), và mười sáu *anuttariyas* (được đưa ra bởi Sāriputta trong Sampasādāniyasutta (DN.iii.102ff)).
+
+Sự nhớ lại các kiếp sống quá khứ mà một vị Phật chia sẻ với sáu hạng chúng sinh đã thanh tịnh, chỉ ở một mức độ cao hơn. Năng lực này được sở hữu theo thang độ tăng dần bởi các *titthiyā*, *pakatisāvakā*, *mahāsāvakā*, *aggasāvakā*, *Pacceka Buddhā* và *Buddhā* (ví dụ, Vsm.411).
+
+Mọi vị Phật đều tổ chức một Mahā Samaya, và chỉ có một vị Phật mới có khả năng thuyết một loạt các bài Kinh để phù hợp với những căn tánh khác nhau của hội chúng vĩ đại tập hợp ở đó (DN.ii.255; DN­a.ii.682f).
+
+Một vị Phật không hoàn toàn miễn nhiễm khỏi bệnh tật (ví dụ, Gotama). Mọi vị Phật đều có sức mạnh để sống trọn vẹn một *kappa*, nhưng không vị Phật nào làm như vậy, tuổi thọ của ngài bị rút ngắn do khí hậu và thức ăn ngài dùng (DN­a.ii.413).
+
+Chú giải giải thích (DN­a.ii.554f.) rằng *kappa* ở đây có nghĩa là *āyukappa*, toàn bộ khoảng thời gian sống của một con người trong thời đại cụ thể đó. Một số người, như Trưởng lão Mahā Sīva, khẳng định rằng nếu vị Phật có thể sống trong mười tháng, vượt qua những nỗi đau của cái chết, ngài cũng có thể tiếp tục sống cho đến cuối của Bhaddakappa này. Nhưng một vị Phật không làm như vậy bởi vì ngài mong muốn tịch diệt trước khi cơ thể của ngài bị đánh bại bởi sự ốm yếu của tuổi già.
+
+Tuy nhiên, không có vị Phật nào tịch diệt cho đến khi *Sāsana* được thiết lập vững chắc (DN.iii.122). Có ba sự *parinibbānā* trong trường hợp của một vị Phật: *kilesa-Parinibbāna*, *khandha-Parinibbāna* và *dhātu-Parinibbāna*. Sự kiện đầu tiên diễn ra dưới cây bodhi, sự kiện thứ hai vào thời điểm tịch diệt của vị Phật, sự kiện thứ ba rất lâu sau đó (DN­a.iii.899f.; về lịch sử xá-lợi của Gotama xem Gotama Buddha).
+
+Một số vị Phật sống thọ hơn những vị khác; những vị là *dīghāyuka* chỉ có *sammukhasāvakā* (các đệ tử nghe Pháp trực tiếp từ vị Phật), và vào lúc các ngài tịch diệt, xá-lợi của các ngài không bị phân tán, chỉ một bảo tháp duy nhất được dựng lên trên đó (Snp­a. 194, 195).
+
+Các vị Phật có tuổi thọ ngắn tổ chức *uposatha* mỗi nửa tháng một lần; những vị khác (ví dụ Kassapa Buddha) có thể có nó sáu tháng một lần; tuy nhiên những vị khác nữa (ví dụ Vipassī Buddha) chỉ có một lần trong sáu năm (Thag­a.i.62).
+
+Sau khi vị Phật tịch diệt, Pháp của ngài dần dần bị lãng quên. *Piṭaka* đầu tiên bị mất là Abhidhamma, bắt đầu với Paṭṭhāna và kết thúc với Dhammasaṅgaṇī. Sau đó, Aṅguttaranikāya của Suttapiṭaka, từ *nipāta* thứ mười một đến thứ nhất; tiếp theo là Saṁyuttanikāya từ *Cakkapeyyāla* đến *Oghataraṇa*; sau đó là Majjhima, từ Indriyabhāvanāsutta đến Mūlapariyāyasutta, và sau đó là Dīgha, từ Dasuttara đến Brahmajāla. Những *gāthā* rải rác như *Sabhiyapucchā*, và *Āḷavakapucchā*, tồn tại lâu hơn nhiều, nhưng chúng không thể duy trì *Sāsana*. *Piṭaka* cuối cùng biến mất là Vinaya, phần cuối cùng là *mātikā* của *Ubhatovibhaṅga* (Vibh­a.432).
+
+Khi một vị Phật tịch diệt, nhục thân ngài nhận được những sự tôn kính xứng đáng với một vị quân vương (những điều này được trình bày chi tiết tại DN.ii.141f). Có nói rằng vào đêm mà một vị Phật thành tựu sự Giác ngộ, và vào đêm ngài tịch diệt, màu da của ngài trở nên vô cùng sáng ngời (DN.ii.134). Ở đây chúng ta có sự khởi đầu của một huyền thoại mà sau này phát triển thành một sự tường thuật về một cuộc "biến hình" thực sự của vị Phật. Vào mọi lúc, ở đâu có sự hiện diện của một vị Phật, không một ánh sáng nào khác có thể chiếu sáng (Snp­a.ii.525).
+
+Không có vị Phật nào đản sinh trong *saṁvattamānakappa*, mà chỉ trong *vivaṭṭamānakappa* (Snp­a.i.51). Một vị Bodhisatta xuất sắc về *paññā* có thể thành tựu quả vị Phật trong bốn *asaṅkheyya*; một vị xuất sắc về *saddhā*, trong tám, và một vị có *viriya* là yếu tố chính, trong mười sáu (Snp­a.i.47f). Khi một chúng sinh đã trở thành một vị Bodhisatta thì có mười tám điều kiện mà vị ấy được miễn nhiễm (Snp­a.i.50). Vị Phật được nhắc đến dưới nhiều danh hiệu khác nhau. Aṅguttaranikāya đưa ra một danh sách như vậy. Ở đó ngài được gọi là *Samaṇa*, *Brāhmaṇa*, *Vedagū*, *Bhisaka*, *Nimmala*, *Vimala*, *Ñāṇī* và *Vimutta*. Buddhaghosa đưa ra bảy danh hiệu khác: *Cakkkumā*, *Sabbabhūtānukampī*, *Vihātaka*, *Mārasenappamaddī*, *Vusitavā*, *Vimutto* và *Aṅgīrasa* (DN­a.iii.962f).
+
+Vị Phật thường nói về mình như là một Tathāgata. Thuật ngữ này được giải thích rất dài trong các Chú giải – ví dụ, DN­a.i.59f. Những môn đệ của ngài thường gọi ngài là Bhagavā, trong khi những người khác gọi ngài bằng tên của ngài (Gotama). Trong trường hợp của Gotama Buddha, chúng ta thấy ngài cũng được gọi là Sakka (Snp. vs. 345; có lẽ tương đương với Sākya), *Brahma* (Snp. p.91; Snp­a.ii.418), *Mahā Muni* (Bv­a.38) và Yakkha (MN.i.386; cũng tại KS.i.262). Vô số danh hiệu khác xuất hiện trong các kinh sách, đặc biệt là trong những cuốn muộn hơn. Một công thức rất nổi tiếng, được các Phật tử sử dụng trong các nghi lễ của họ, chứa chín danh hiệu, công thức đó là: *Bhagavā arahaṁ sammāsambuddho, vijjācaraṇasampanno, sugato, lokavidū, anuttaro, purisadammasārathi, satthā devamanussānaṁ, Buddho, Bhagavā* (những từ này được phân tích và thảo luận trong Vsm. 198 ff). Có khẳng định rằng (ví dụ, DN­a.i.288) những lời xưng tụng về vị Phật là vô lượng (*aparimāṇa*). Một trong những đặc điểm nổi bật nhất của ngài, được đề cập đi đề cập lại, là sự yêu thích sự yên tĩnh của ngài, ví dụ, DN.i.178f.; ngài cũng thích sự tĩnh cư (*paṭissallāna*) (DN.ii.70; AN.iv.438f.; SN.v.320f., v.v.). Khi ngài đang tịnh cư thì thông thường là phi thời (*akāla*) để đến thăm ngài (DN.ii.270). Cũng có những lời cáo buộc nhất định, được các đối thủ của một vị Phật đưa ra chống lại ngài, vì chính sự yêu thích tĩnh cư này. "Người ta nói rằng tuệ minh sát của ngài bị hủy hoại bởi thói quen ẩn dật này. Bằng cách tiếp xúc với ai mà ngài thành tựu được sự sáng suốt trong trí tuệ? Ngài không thoải mái trong việc điều hành một hội chúng, không sẵn sàng trong đàm thoại, ngài chỉ bận tâm đến những rìa ngoài của các sự vật. Ngài giống như một con bò chột mắt, chỉ đi loanh quanh thành một vòng tròn" (DN.iii.38).
+
+Trong điều này, các đệ tử của ngài đã noi gương ngài (DN.iii.37). Chỗ ở của một vị Phật được gọi là Gandhakuṭi. Dấu chân của ngài được gọi là *Padacetiya*, và dấu chân này chỉ có thể được nhìn thấy khi ngài mong muốn như vậy. Một khi ngài muốn nó được nhìn thấy, không ai có thể xóa nó đi. Ngài cũng có thể tác ý để chỉ một người cụ thể nào đó sẽ nhìn thấy nó (Dhp­a.iii.194). Có nói rằng năng lực từ bi của ngài lớn đến mức không có hành động xấu ác nào có thể biểu hiện kết quả của nó trước sự hiện diện của ngài (Snp­a.ii.475). Một vị Phật không bao giờ yêu cầu những lời xưng tụng, nhưng nếu những lời xưng tụng ngài được thốt ra trước mặt ngài, ngài không cảm thấy bị xúc phạm (Thag­a.ii.42). Khi vị Phật an tọa tại một điểm nào đó, không ai có năng lực đi xuyên qua không trung phía trên ngài (Snp­a.i.222). Ngài thích nhận lời mời đến dùng bữa của những người nghèo (Dhp­a.ii.135).
+
+Xem thêm Gotama và Bodhisatta. Cũng xem bài viết về Buddha trong PTSPED.
 
 ## Notes

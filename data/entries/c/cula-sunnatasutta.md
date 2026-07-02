@@ -5,7 +5,7 @@ base_headword: "Cūḷa Suññatāsutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Suññatāsutta, <span class="dppn-term dppn-term-t15" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Suññatāsutta, Cūla Suññatāsutta. Được thuyết cho Ānanda tại Migāramātupāsāda. Sự độc cư thực sự không được tìm thấy ở việc sống trong rừng hay ở sự định tâm tránh xa mọi ý niệm, mà là ở việc đạt đến sự giải thoát khỏi các *āsava*. MN.iii.104ff.
 
 ## Notes

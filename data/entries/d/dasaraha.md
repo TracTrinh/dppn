@@ -5,7 +5,7 @@ base_headword: "Dasārahā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dasārahā. A group of *Khattiyas*, owners of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasārahā. Một nhóm những người Sát-đế-lỵ (*Khattiya*), chủ sở hữu của chiếc trống Ānaka (*q.v.*) (SN.ii.266f). Buddhaghosa nói (SN­a.ii.167) họ được gọi như vậy vì họ lấy một phần mười lượng ngũ cốc (*sassato dasabhāgaṁ gaṇhiṁsu, tasmā Dasārahā ti paññāyiṁsu*). Trong Kakkaṭajātaka (Ja.ii.344), họ được nhắc đến với tư cách là "*dasabhātikarājāno*."
 
 ## Notes

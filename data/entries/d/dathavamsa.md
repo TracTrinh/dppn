@@ -5,7 +5,7 @@ base_headword: "Dāṭhāvaṁsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dāṭhāvaṁsa. A Pāli poem, composed in the reign of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāvaṃsa. Một trường thi Pāli, được Dhammakitti sáng tác dưới triều Līlāvatī, theo lời thỉnh cầu của đại thần Parakkama. Tác phẩm dựa trên một biên niên sử Sinhala cổ hơn, *Daḷadāvaṃsa*, và là một công trình công phu bàn về lịch sử Xá-lợi Răng cho đến lúc xá-lợi ấy đến Tích Lan. Được PTS biên tập (1884); chi tiết xem PLC.207f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Hirī"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,6 @@ Hirī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hirī, Hiridevī. Con gái của Sakka. Xem Sudhābhojanajātaka (Ja 535). Bà được nhận diện là Uppalavaṇṇā. Ja.v.412; cf. Mvu.iii.309.
 
 ## Notes

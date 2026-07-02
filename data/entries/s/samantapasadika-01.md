@@ -5,7 +5,7 @@ base_headword: "Samantapāsādika"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantapāsādika 01. Thirty-three *kappas* ago there were thirteen kings of thi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantapāsādika 01. Ba mươi ba *kappas* trước có mười ba vị vua mang tên này, là những kiếp trước của Tipupphiya Thera. Ap.i.136.
 
 ## Notes

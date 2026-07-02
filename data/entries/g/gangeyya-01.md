@@ -5,7 +5,7 @@ base_headword: "Gaṅgeyya"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgeyya 01. Adjective formed from <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgeyya 01. Tính từ được tạo thành từ Gaṅga (Ja.ii.151). Cách gọi "*Gaṅgeyya Nāgaraja*" trong Ja.iii.362 có lẽ có nghĩa là một vua Nāga "cư ngụ tại Gaṅga" chứ không phải "có tên là Gaṅgeyya."
 
 ## Notes

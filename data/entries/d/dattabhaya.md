@@ -5,7 +5,7 @@ base_headword: "Dattābhaya"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dattābhaya. A monk, elder brother of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dattābhaya. Một vị sư, anh trai của Trưởng lão Catunikāyika ở Koḷitavihāra. Abhaya sống tại Poṭaliyavihāra và một lần, khi bệnh, sai người mời em mình đến và xin một đề mục thiền dễ thực hành. Vị ấy gợi ý thiền về thức ăn, và Dattābhaya chứng quả vị *Arahant* (AN­a.i.343). Ông được mô tả là mạnh về ham muốn và ghét bỏ, nhưng thông minh và sắc bén trong hiểu biết. MN­a.ii.527; Dhs-a.268.
 
 ## Notes

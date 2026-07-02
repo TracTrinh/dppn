@@ -5,7 +5,7 @@ base_headword: "Bodhigāmavara"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bodhigāmavara. A village and district in the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhigāmavara. Một ngôi làng và quận ở Dakkhiṇadesa của Ceylon, được nhắc đến trong ghi chép về những chiến dịch của Parakkamabāhu 1. Cv.lxvi.78; lxix.9; lxx.88; để biết về nhận dạng của nó, xem Cv.Trs.i.259, n.1.
 
 ## Notes

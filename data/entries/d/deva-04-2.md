@@ -5,7 +5,7 @@ base_headword: "Devā"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Devā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devā 04. Vợ của Kassapa V. và mẹ của Sakkasenāpati. Bà xây cho các vị sư sống trong rừng một *vihāra* được đặt theo tên bà, và trang hoàng tượng Phật tại Maricavaṭṭi. Cv.lii.52, 61, 64ff.
 
 ## Notes

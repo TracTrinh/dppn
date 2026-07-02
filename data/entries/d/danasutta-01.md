@@ -5,7 +5,7 @@ base_headword: "Dānasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dānasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānasutta 01. Được thuyết tại Jetavana, liên quan đến một sự cúng dường do Veḷukaṇṭakī Nandamātā thiết lập cho các tỳ-kheo, với Sāriputta và Moggallāna đứng đầu. Sự cúng dường của bà, Đức Phật nói, là trọn vẹn theo sáu cách – ba cách thuộc về người cho và ba cách thuộc về người nhận. Người cho vui mừng trong lòng trước khi bố thí, thỏa mãn trong khi cho, và hoan hỷ sau khi cho. Người nhận hoặc là đã thoát khỏi tham, sân và si, hoặc đang trên đường hướng tới sự giải thoát đó. Phước báu đạt được từ một món quà như vậy là vô hạn. AN.iii.336f.
 
 ## Notes

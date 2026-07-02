@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Deva 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 05. Trưởng lão Mahā Deva. Vị này đến từ Pallavabhogga, và đã hiện diện cùng với bốn trăm sáu mươi nghìn tỳ-kheo tại Lễ Đặt Nền Móng của Mahā Thūpa. Mhv.xxix.38.
 
 ## Notes

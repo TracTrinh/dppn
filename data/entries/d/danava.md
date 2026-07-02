@@ -5,7 +5,7 @@ base_headword: "Dānavā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dānavā. Name given to the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānavā. Tên được đặt cho các Asura vì họ là hậu duệ của Danu, e.g., Mil.153.
 
 ## Notes

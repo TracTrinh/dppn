@@ -5,7 +5,7 @@ base_headword: "Mahā Dāragiri"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Dāragiri. A village (probably near <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dāragiri. Một ngôi làng (có lẽ gần Mahā Dāragallaka) được Jeṭṭhatissa II dâng cho Abhayagirivihāra. Cv.xliv.96.
 
 ## Notes

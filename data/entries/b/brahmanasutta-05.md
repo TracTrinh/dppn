@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasutta"
 disambiguator: "05"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brāhmaṇasutta 05. The Buddha explains, in answer to the question of a Brahmin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasutta 05. Đức Phật giải thích, trong câu trả lời cho câu hỏi của một vị Bà-la-môn, làm thế nào Dhamma có thể được mô tả là *sandiṭṭhika*. AN.i.156.
 
 ## Notes

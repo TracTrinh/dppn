@@ -5,7 +5,7 @@ base_headword: "Gandhabba"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhabba. An attendant of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhabba. Một tùy tùng của vua Eḷeyya và là đệ tử của Uddaka Rāmaputta. AN.ii.180.
 
 ## Notes

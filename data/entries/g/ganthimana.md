@@ -5,7 +5,7 @@ base_headword: "Gaṇṭhimāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṇṭhimāna. A village in Ceylon, given by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇṭhimāna. Một ngôi làng ở Tích Lan, được Parakkamabāhu IV ban cho để duy trì ngôi đền tại Devapura (Devanagara). Cv.xc.95.
 
 ## Notes

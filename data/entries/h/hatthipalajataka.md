@@ -5,7 +5,7 @@ base_headword: "Hatthipālajātaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -62,6 +62,12 @@ The large concourse that followed <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthipālajātaka (Ja 509). Esukārī, vua xứ Benares, không có con trai. Vị tế sư của ông, nghe rằng vị thần của một cây đa nọ có quyền năng ban con trai, đã đến bên cây và đe dọa sẽ chặt nó xuống trừ khi Esukārī có được một người con trai. Vị thọ thần bèn hỏi ý kiến Sakka, và Sakka thuyết phục bốn vị chư thiên tái sinh làm con, không phải của Esukārī, mà là của vị tế sư. Vào ngày vị tế sư đến để chặt cây, vị thọ thần báo cho ông biết quyết định của Sakka, đồng thời cảnh báo ông rằng những người con trai này sẽ không sống đời sống gia đình. Đúng thời hạn, các người con trai chào đời và được đặt tên là Hatthipāla, Gopāla, Assapāla và Ajapāla. Nhiều cách thức khác nhau đã được áp dụng để ngăn họ hướng đến đời sống khổ hạnh. Nhưng khi Hatthipāla trưởng thành, chàng nhất quyết rời nhà để trở thành một vị khổ hạnh, bất chấp lời van nài của cả cha mình lẫn Esukārī. Các em trai chàng, khi đến lượt mình, cũng hành động tương tự. Về sau, cha mẹ họ cũng gia nhập cùng họ. Nhà vua cho người đến thu hết của cải của họ, nhưng hoàng hậu, vốn khôn ngoan, đã khiến ông nhận ra sự dại dột của hành động đó bằng một ví dụ. Cùng nhau, họ từ bỏ đời sống thế tục và gia nhập cùng Hatthipāla và gia đình chàng. Dân chúng noi theo gương họ cho đến khi cả thành phố trống rỗng.
+
+Hatthipāla thuyết pháp cho họ và tất cả đều trở thành khổ hạnh. Đoàn tùy tùng của chàng trải rộng ba mươi do-tuần, và cùng với đoàn ấy, chàng đến Himālaya, nơi Vissakamma, theo lệnh của Sakka, đã xây cho họ một am thất trải dài ba mươi sáu do-tuần, trên bờ sông Ganges. Không lâu sau, các vị vua khác, cùng với đoàn tùy tùng của mình, lần lượt kéo đến chiếm lấy Benares, nhận ra sự dại dột của mình, đã gia nhập cùng Hatthipāla và trở thành khổ hạnh.
+
+Câu chuyện này được kể liên quan đến cuộc Đại Xuất Ly của Đức Phật. Suddhodana là Esukārī, Mahā Māyā là hoàng hậu của ông, Kassapa là vị tế sư, Bhaddā Kapilānī là vợ ông, Anuruddha là Ajapāla, Moggallāna là Gopāla, Sāriputta là Assapāla, và chính Đức Phật là Hatthipāla.
+
+Đoàn người đông đảo đi theo Hatthipāla được gọi là Hatthipālasamāgama, và trong đó có một số vị về sau chứng đắc quả vị *Arahant* tại Tích Lan – Phussadeva của Kaṭakandharakāra, Mahā Saṅgharakkhita của Uparimaṇḍalakamalaya, Malaya Mahā Deva, Mahā Deva của Bhaggagiri, Mahā Sīva của Vimantapabbhāra, và Mahā Nāga của Kāḷavallimaṇḍapa (Ja.iv.473-91; được nhắc đến tại Ja.i.45). Một vị tỳ-kheo người Miến Điện ở Ava, tên là Ratthasāra, sinh năm 1468, đã soạn một bản diễn ca của Hatthipālajātaka. Bode, 44.
 
 ## Notes

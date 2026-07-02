@@ -5,7 +5,7 @@ base_headword: "Gāmaṇī"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gāmaṇī 03. One of the six brothers of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇī 03. Một trong sáu người anh em của Bhaddakaccānā; ông ở lại khi những người khác lên đường sang Tích Lan. Mhv­ṭ.275.
 
 ## Notes

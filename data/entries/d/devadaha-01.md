@@ -5,7 +5,7 @@ base_headword: "Devadaha"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -37,6 +37,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadaha 01. Một thị trấn (*nigama*) của người Sākiyan. Đức Phật ở đó trong các chuyến du hành của Ngài và thuyết pháp cho các vị sư về nhiều đề tài khác nhau (SN.iii.5f; iv.124f; MN.ii.214). Theo các Chú giải (Ja.i.52; Bv­a.226; MN­a.ii.924, 1021, etc; Thīg­a.182), đó là thành phố nơi mẹ của Đức Phật và Pajāpati Gotamī cùng các bạn đồng hành của họ chào đời, những người đã kết hôn với các Sākiyan của Kapilavatthu.
+
+Lumbinīvana, nơi Đức Phật chào đời, ở gần Devadaha. Ban đầu tên này là tên của một hồ nước, được gọi như vậy hoặc vì các vua tổ chức những cuộc vui chơi của họ trong đó (*devā vuccanti rājāno tesaṃ maṅgaladaho*), hoặc vì nó hình thành mà không có sự can thiệp của con người, do đó là thiêng liêng (*sayañjāto vā so daho, tasmā pi Devadaho*). Về sau tên ấy được chuyển sang ngôi làng gần đó. SN­a.ii.186; cũng MN­a.ii.810. Theo *Dulva* (Rockhill, p.12), thành phố được những người Sākiyan từ Kapilavatthu lập nên, khi họ trở nên rất đông. Địa điểm này được một *Deva* chỉ ra, do đó có tên như vậy.
+
+Suppabuddha của Devadaha là người cùng thời với Suddhodana (p.14).
+
+Devadaha là nơi cư trú của Devadahasakka (Mhv.ii.17; Mhv­ṭ.87) và của Pakkha Thera (Thag­a.i.114).
 
 ## Notes

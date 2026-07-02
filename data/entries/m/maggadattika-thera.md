@@ -5,7 +5,7 @@ base_headword: "Maggadattika Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maggadattika Thera. An *Arahant*. He once saw <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggadattika Thera. Một vị Arahant. Ngài từng nhìn thấy Atthadassī Buddha đang du hành và đã rải những bông hoa trên con đường ngài đi qua. Hai mươi ngàn kappa trước ngài làm vua năm lần dưới cái tên Pupphachadaniya. Ap.i.189.
 
 ## Notes

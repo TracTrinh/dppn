@@ -5,7 +5,7 @@ base_headword: "Etaṁ mama Sutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Etaṁ mama Sutta. On how the view arises: “This is mine, this am <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Etaṁ mama Sutta. Về cách thức quan kiến phát sinh: "Cái này là của tôi, đây là tôi." SN.iii.181.
 
 ## Notes

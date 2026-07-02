@@ -5,7 +5,7 @@ base_headword: "Gosiṅgasālavanadāya"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -33,6 +33,6 @@ Gosiṅgasālavanadāya 01. A forest tract near <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gosiṅgasālavanadāya 01. Một vùng rừng gần Nādikā. Có lần, khi Anuruddha, Nandiya và Kimbila đang sống ở đó, họ đã được Đức Phật đến thăm, Ngài đi từ Giñjakāvasatha đến. Kết quả của chuyến viếng thăm này là việc thuyết giảng bài Cūḷa Gosiṅgasutta (*q.v.*) (MN.i.205f). Vào một dịp khác, khi Đức Phật đang lưu trú ở đó với nhiều vị tỳ-kheo xuất chúng, trong số đó có Sāriputta, Moggallāna và những vị khác, cuộc trò chuyện của họ đã dẫn đến việc thuyết giảng bài Mahā Gosiṅgasutta (*q.v.*) (MN.i.212f).
 
 ## Notes

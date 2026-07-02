@@ -5,7 +5,7 @@ base_headword: "Dānaveghasā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dānaveghasā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānaveghasā. Một hạng Asura, có mặt tại Mahā Samaya (DN.ii.259). Chú giải (DN­a.ii.689) mô tả họ là những cung thủ (*dhanuggaha­asurā*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Godatta Thera"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -37,6 +37,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godatta Thera 02. Tên đầy đủ của ông là Ābhidhammika Godatta, cho thấy rằng ông được coi là chuyên gia về Abhidhamma. Ông rõ ràng là một nhà chú giải Abhidhamma nổi tiếng và được trích dẫn trong Visuddhimagga (p.138), nhưng người ta nói rằng lời giải thích của ông đã bị bác bỏ trong các Chú giải vì nó chỉ là quan điểm cá nhân của vị Trưởng lão.
+
+Tuy nhiên, Samantapāsādika (ii.307, also 478; iii.588) có kể một câu chuyện cho thấy vị Trưởng lão này được công nhận là một người có thẩm quyền về Vinaya. Một vị tỳ-kheo ở Antarasamudda đã làm một chiếc bát uống nước bằng gáo dừa và, để nó lại trong tu viện, rồi đi đến Cetiyagiri. Một vị tỳ-kheo khác, thích chiếc bát này, đã lấy trộm nó và cũng đi đến Cetiyagiri, tại đây ông ta đã gặp người chủ của chiếc bát và bị buộc tội ăn cắp. Không thể giải quyết được cuộc tranh chấp ở nơi họ đang ở, họ đã đi đến Mahā Vihāra. Ở đó, bằng cách đánh trống, các vị tỳ-kheo đã được tập hợp gần Mahā Cetiya, và kết án người bị buộc tội ăn cắp, cho rằng ông ta đã phạm một tội *pārājikā*.
+
+Godatta, được phỏng vấn, đã chỉ ra rằng giá trị của chiếc bát chỉ là một hoặc hai xu và rằng Đức Phật chưa từng ở đâu quy định rằng việc đánh cắp một đồ vật vô giá trị như vậy có thể bị coi là một tội *pārājikā*. Quyết định của ông đã được hoan nghênh bằng những tràng pháo tay, và khi bản báo cáo về việc này đến tay vị vua đang tại vị, Bhātiya, nhà vua đã ra sắc lệnh rằng, từ nay trở đi, trong tất cả các cuộc tranh chấp của họ, thần dân của ông sẽ tuân theo quyết định của Godatta.
 
 ## Notes

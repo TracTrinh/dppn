@@ -5,7 +5,7 @@ base_headword: "Goḷapānu"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Goḷapānu. A village given by King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goḷapānu. Một ngôi làng được Vua Buddhadāsa trao cho để duy trì Morapariveṇa (Cv.xxxvii.173).
 
 ## Notes

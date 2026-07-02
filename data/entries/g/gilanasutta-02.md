@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gilānasutta 02. The Buddha visits a sick novice of no reputation and talks to h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 02. Đức Phật đến thăm một vị sa-di đang ốm không có danh tiếng và nói chuyện với vị này. Vị sa-di, ngẫm nghĩ về những lời của Đức Phật, đã bình phục. SN.iv.46; cf. SN.iii.119.
 
 ## Notes

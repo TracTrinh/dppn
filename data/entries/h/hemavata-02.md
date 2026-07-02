@@ -5,7 +5,7 @@ base_headword: "Hemavatā"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hemavatā 02. A heretical sect in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemavatā 02. Một giáo phái ngoại đạo ở Jambudīpa (Mhv.v.12; Dpv.v.54). Họ được gọi như vậy vì sống trên núi Himavata (Rockhill, p.184). Họ chủ trương rằng một Bodhisatta không phải là một người phàm bình thường, rằng ngay cả một *tīrthaka* cũng có thể có năm *abhiññā*, và rằng *puggala* tách biệt với các *khandha*. Ibid., 190.
 
 ## Notes

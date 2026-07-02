@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "15"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāga 15. Teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 15. Thầy của Saṅgharakkhita *Sāmaṇera* (*q.v.*). Ông được gọi là *Sāmuddika* Mahā Nāga. DN­a.ii.558.
 
 ## Notes

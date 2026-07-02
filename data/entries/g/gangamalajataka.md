@@ -5,7 +5,7 @@ base_headword: "Gaṅgamālajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -37,6 +37,10 @@ The story was related by the Buddha to some lay-followers to encourage them in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgamālajātaka (Ja 421). Có lần Bodhisatta phục dịch dưới quyền Suciparivāra ở Benares, nơi mà mọi người trong nhà đều giữ trai giới vào những ngày *uposatha*. Bodhisatta không biết điều này, vẫn đi làm như thường lệ vào ngày trai giới, nhưng khi phát hiện không ai khác đang làm việc và biết lý do họ kiêng cữ, ngài từ chối dùng bất cứ thức ăn nào, và do nhịn ăn mà qua đời ngay trong đêm đó. Ngài tái sinh làm con trai của vua xứ Benares, và sau này lên ngôi vua với tên là Udaya. Khi gặp Aḍḍhamāsaka (*q.v.*), Udaya đã chia sẻ vương quốc với ông ấy, nhưng một hôm Aḍḍhamāsaka phát hiện mình đang ôm ấp ý muốn giết Udaya, liền từ bỏ vương quốc và trở thành một vị khổ hạnh. Khi Udaya nghe tin này, ông đọc lên một bài kệ, nói về tiền kiếp của chính mình, nhưng không ai hiểu được ý nghĩa của nó. Hoàng hậu, nóng lòng muốn biết ý nghĩa, đã mách cho người thợ cạo của vua, Gaṅgamāla, cách để được lòng vua, và khi vua ban cho ông một ân huệ, Gaṅgamāla xin được giải thích bài kệ đó. Khi biết được Udaya đã giành được vương quốc nhờ giữ trai giới nửa ngày, Gaṅgamāla từ bỏ thế gian, tu tập khổ hạnh, và trở thành một vị Pacceka Buddha. Sau đó ông đến thăm vua Udaya và thuyết pháp cho vua cùng đoàn tùy tùng, gọi thẳng tên vua. Thái hậu lấy làm khó chịu về việc này và mắng nhiếc Gaṅgamāla, nhưng vua đã xin ông tha thứ cho bà. Gaṅgamāla trở về Gandhamādana, dù được Udaya mời ở lại trong ngự uyển.
+
+Ānanda chính là Aḍḍhamāsaka, và Rāhulamātā chính là hoàng hậu.
+
+Câu chuyện này được Đức Phật kể cho một số cư sĩ để khích lệ họ trong việc giữ *Uposatha* (Ja.iii.444ff). Gaṅgamāla được nhắc đến như một ví dụ về người đã nhận ra tác hại của *taṇhā* và từ bỏ dục vọng, e.g., Ja.iv.174.
 
 ## Notes

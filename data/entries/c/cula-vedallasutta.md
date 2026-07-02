@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vedallasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,10 @@ The *Sutta* forms a kind of commentary on certain psychological terms, such as *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vedallasutta, Cūla Vedallasutta. Visākha đến thăm Dhammadinnā và hỏi bà một loạt câu hỏi về thân kiến, Bát Thánh đạo, các hành (*saṅkhārā*), v.v. Dhammadinnā giải thích những điều này cho Visākha, người sau đó thỉnh vấn Đức Phật xem các lời giải thích đó có đúng hay không.
+
+Đức Phật nói với ông rằng chính Ngài cũng sẽ đưa ra những câu trả lời giống như vậy và tán thán sự uyên bác của Dhammadinnā (MN.i.299f).
+
+Sutta này tạo thành một dạng chú giải cho một số thuật ngữ tâm lý học, chẳng hạn như *sakkāya*, *saṅkhāra*, v.v. Xem Vedalla.
 
 ## Notes

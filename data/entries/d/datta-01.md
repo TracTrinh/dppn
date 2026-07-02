@@ -5,7 +5,7 @@ base_headword: "Datta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Datta 01. A chieftain of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Datta 01. Một thủ lĩnh của Dhanapiṭṭhi, được Potthakuṭṭha đặt lên ngai vàng Tích Lan. Ông chỉ trị vì hai năm (674-76). Trong các công trình công đức của ông có một *vihāra* tại Dhanapiṭṭhi. Cv.xlvi.41ff.
 
 ## Notes

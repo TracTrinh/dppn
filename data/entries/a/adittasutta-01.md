@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ādittasutta 01. Được một *thiên thần* đến viếng Đức Phật nói trước ngài tại Jetavana. Như người cứu được những gì có thể từ ngôi nhà đang cháy của mình, người trí hãy thọ hưởng tài sản của mình và đem bố thí chúng với sự suy xét. Như vậy người ấy sẽ đạt được hạnh phúc về sau. SN.i.31.
+Ādittasutta 01. Được một *thiên nhân* đến viếng Đức Phật nói trước ngài tại Jetavana. Như người cứu được những gì có thể từ ngôi nhà đang cháy của mình, người trí hãy thọ hưởng tài sản của mình và đem bố thí chúng với sự suy xét. Như vậy người ấy sẽ đạt được hạnh phúc về sau. SN.i.31.
 
 ## Notes

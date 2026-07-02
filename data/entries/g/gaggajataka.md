@@ -5,7 +5,7 @@ base_headword: "Gaggajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,10 @@ Once, when the Buddha was preaching, he sneezed, and all around him shouted “L
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggajātaka (Ja 155). Bodhisatta từng là con trai một thương nhân ở Kāsi. Một hôm, trong lúc đi đường, cha con ông buộc phải trú lại trong một sảnh đường bị một Yakkha ám. Đối với những người trú trong sảnh đường này, nếu một người hắt hơi mà người kia không kịp chúc cho anh ta sống lâu, thì Yakkha được phép ăn thịt họ. Ân huệ này đã được ban cho Yakkha để đổi lấy mười hai năm phục dịch Vessavaṇa. Hai người lữ hành từ Kāsi trú lại trong sảnh đường một đêm, trong đêm đó người cha hắt hơi. Người con, không hề biết đến hiểm nguy, đã không nói gì, nhưng khi thấy Yakkha chuẩn bị ăn thịt mình, anh đoán ra lý do và vội vàng chúc cha mình sống lâu. Người cha cũng làm như vậy, và Yakkha đã bị ngăn cản trong mưu toan hại tính mạng của họ. Bodhisatta, sau khi nghe câu chuyện của Yakkha, đã khiến vị này thọ trì năm giới. Câu chuyện được lan truyền, và Bodhisatta được phong chức tướng quân, còn Yakkha được cho làm người thu thuế. Trong câu chuyện, Bodhisatta gọi cha mình là Gagga.
+
+Có lần, khi Đức Phật đang thuyết Pháp, Ngài hắt hơi, và mọi người xung quanh hô lên "Sống lâu," làm gián đoạn bài giảng của Ngài. Đức Phật bảo họ rằng tập tục đó là mê tín, và cấm họ làm theo. Khi họ vâng lời Ngài, dân chúng lại trách họ là thiếu lễ độ. Đức Phật, do đó, đã rút lại lệnh cấm và kể lại câu chuyện này để giải thích nguồn gốc của tập tục ấy. (Ja.ii.15f.; câu chuyện dẫn nhập được tìm thấy trong Vin.ii.140).
+
+Gagga được đồng nhất với Mahā Kassapa. Ja.ii.17.
 
 ## Notes

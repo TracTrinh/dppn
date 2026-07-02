@@ -5,7 +5,7 @@ base_headword: "Sambodhavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambodhavagga. The first chapter of the *Navakanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambodhavagga. Chương đầu tiên của *Navakanipāta* trong Aṅguttaranikāya. AN.iv.351-466.
 
 ## Notes

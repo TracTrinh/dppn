@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Deva 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 06. Trưởng lão Mahā Deva. Vị này là người trú trì tại Bhaggari, và nằm trong số những người cuối cùng trở thành Arahant sau khi từ bỏ thế gian cùng với Bodhisatta trong các kiếp trước. Ja.iv.490.
 
 ## Notes

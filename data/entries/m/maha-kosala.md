@@ -5,7 +5,7 @@ base_headword: "Mahā Kosala"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -31,6 +31,6 @@ Mahā Kosala. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kosala. Vua của Kosala. Ông là cha của Pasenadi, và con gái của ông, Kosaladevī, đã được gả cho Bimbisāra, người đã nhận được một ngôi làng ở Kāsi làm tiền tắm gội cho bà (Ja.ii.237, 403; iv.342; SN­a.i.120, etc.). Aggidatta là vị *Purohita* của Mahā Kosala. Dhp­a.iii.241.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Daṇḍakī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,10 @@ As a result the gods were greatly incensed and destroyed the king and his countr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍakī. Vua của Kumbhavatī ở Kaliṅga (MN.i.378; MN­a.ii.599ff; Ja.iii.463; v.133ff; 267; Mvu.iii.363ff).
+
+Kisavaccha, đệ tử của Sarabhaṅga, vì mong muốn sự tĩnh thất, đã sống trong ngự uyển gần thành phố, và đã bị Daṇḍakī và quân lính của ông đối xử tệ bạc trên đường họ đi dẹp một cuộc nổi loạn, do họ có ấn tượng rằng sự sỉ nhục gây ra cho Kisavaccha sẽ mang lại may mắn cho họ.
+
+Kết quả là chư thiên vô cùng phẫn nộ và đã tiêu diệt nhà vua cùng đất nước của ông, chỉ có ba người thoát chết: Kisavaccha, vị tổng tư lệnh, người là một môn đồ sùng đạo của Kisavaccha, và một người đàn ông tên là Rāma, người đã đến Kumbhavatī từ Benares. Người cuối cùng được nêu tên đã được cứu khỏi sự hủy diệt nhờ sự chăm sóc của ông đối với cha mẹ mình. Khu rừng mọc lên trên vùng đất hoang vu đó được gọi là Daṇḍakārañña.
 
 ## Notes

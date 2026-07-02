@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vanavaṇṇanā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cūḷa Vanavaṇṇanā, <span class="dppn-term dppn-term-t15" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vanavaṇṇanā, Culla Vanavaṇṇanā. Phần của Vessantarajātaka mô tả hành trình xuyên qua khu rừng của Jūjaka đến nơi ẩn cư của Vessantara. Ja.vi.521-32.
 
 ## Notes

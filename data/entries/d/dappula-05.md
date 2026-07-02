@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "05"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dappula 05. *Yuvarājā* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 05. *Yuvarājā* của Kassapa V, và sau đó là người kế vị ông với tư cách là Dappula III. Ông chỉ trị vì trong bảy tháng (vào năm 923 TL) (Cv.lii.42; liii.1).
 
 ## Notes

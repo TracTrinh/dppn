@@ -5,7 +5,7 @@ base_headword: "Gaggaravāliya­aṅgaṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaggaravāliya­aṅgaṇa. A locality in Ceylon. The Elder <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggaravāliya­aṅgaṇa. Một địa danh ở Tích Lan. Trưởng lão Pītamalla cư trú tại đó cùng với ba mươi vị tỳ-kheo khác. DN­a.iii.749; cách đọc trong ấn bản PTS (*gāravakaraṇāya*) là sai.
 
 ## Notes

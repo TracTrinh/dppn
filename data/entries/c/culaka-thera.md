@@ -5,7 +5,7 @@ base_headword: "Cūḷaka Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -32,6 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷaka Thera. Một Bà-la-môn ở Rājagaha, người, sau khi thấy Đức Phật nhiếp phục con voi Dhanapāla, đã gia nhập Tăng đoàn và cư ngụ trong hang Indasāla. Một ngày nọ, khi ông ngồi nhìn xuống Magadhakhetta, một cơn bão lớn nổi lên và mưa trút xuống như trút nước. Những con công nhảy múa và ca hát, và sự mát mẻ đã giúp Cūḷaka tập trung tâm trí của mình và đạt được quả vị *Arahant*.
+
+Vào thời của Sikhī Buddha, ông là một gia chủ và đã dâng cho Đức Phật một trái *chattapāṇī*. Thag.211f.; Thag­a.i.333f.
 
 ## Notes

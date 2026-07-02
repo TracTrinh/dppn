@@ -5,7 +5,7 @@ base_headword: "Mahā Byūhasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,8 @@ The *Sutta* was one of those preached on the occasion of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Byūhasutta, Mahā Vyūhasutta. Các triết gia chỉ ca ngợi bản thân họ cùng các quan điểm của họ, và miệt thị những người khác. Những cuộc tranh luận của họ không thể dẫn đến sự thanh tịnh. Một vị Bà-la-môn thực sự là người đã vượt qua mọi sự tranh chấp và tin tưởng vào kiến thức của ngài. Ngài không quan tâm đến việc học hỏi, vì ngài tĩnh lặng và bình an (Snp.vss.895-914).
+
+*Sutta* này là một trong những bài kinh được thuyết giảng vào dịp Mahā Samaya (Snp­a.ii.557), và được đặc biệt khuyên dùng cho những người có xu hướng tâm trí mờ mịt (*mohacaritānaṁ*). MNid-a.222.
 
 ## Notes

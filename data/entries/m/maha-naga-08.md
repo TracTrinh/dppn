@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "08"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -33,6 +33,8 @@ His fame was great, and there is a story of a Brahmin who came all the way from 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 08. Mahā Nāga Thera. Vị sư trụ trì của Kāḷavallimaṇḍapa. Ông nằm trong số những người đã thọ nhận bữa ăn do Sāliya cúng dường trong kiếp trước của vị này (Mhv­ṭ. 606). Ông là một trong những người cuối cùng đắc quả vị *Arahant* trong số những người đã từ bỏ thế gian cùng với Bodhisatta trong nhiều kiếp khác nhau (Ja.iv.490). Ông đã không ngủ trong bảy năm, sau đó ông đã thực hành thiền định liên tục trong mười sáu năm, trở thành một vị *Arahant* vào cuối khoảng thời gian đó. Snp­a.i.56; MN­a.i.209; SN­a.iii.155.
+
+Danh tiếng của ông vô cùng to lớn, và có một câu chuyện về một vị Bà-la-môn đã lặn lội suốt chặng đường từ Pāṭaliputta đến Kāḷavallimaṇḍapa ở Rohaṇa để viếng thăm ông. Vị Bà-la-môn này đã gia nhập Tăng đoàn dưới sự dẫn dắt của ông và trở thành một vị *Arahant* (AN­a.i.384). Một lần nọ, trong khi Mahā Nāga đang đi khất thực ở Nakulanagara, ông đã nhìn thấy một vị tỳ-kheo ni và đã cúng dường cho cô một bữa ăn. Vì cô không có bình bát, ông đã đưa cho cô bình bát của mình, với thức ăn đã sẵn sàng trong đó. Sau khi cô đã ăn xong và rửa sạch chiếc bát, cô đã trả lại cho ông và nói rằng, “Từ nay trở đi, ngài sẽ không còn cảm thấy mệt mỏi khi đi khất thực nữa.” Kể từ đó trở đi, vị Trưởng lão không bao giờ được cúng dường món đồ khất thực nào có giá trị thấp hơn một *kahāpaṇa*. Vị tỳ-kheo ni đó là một vị *Arahant*. Dhs-a.399.
 
 ## Notes

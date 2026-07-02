@@ -5,7 +5,7 @@ base_headword: "Bīraṇī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -32,6 +32,6 @@ Bīraṇī. A goddess (*devadhītā*). She had a palace in the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thiên nữ (*devadhītā*). Nàng có một cung điện ở cõi Cātummahārājika mà Nimi đã nhìn thấy trong chuyến viếng thăm thiên giới của ông khi ông biết được câu chuyện của nàng từ Mātali. Trong thời kỳ của Kassapa Buddha, nàng từng là một người hầu trong nhà của một vị Bà-la-môn. Vị Bà-la-môn, có tên là Asoka, đã mời tám vị tỳ-kheo đến thọ thực hàng ngày tại nhà ông và yêu cầu vợ ông sắp xếp để thiết đãi họ với chi phí là một *kahāpaṇa* cho mỗi người. Bà đã từ chối làm việc này cũng như các con gái của ông; nhưng người hầu của họ đã đồng ý thực hiện công việc này, và nàng đã làm điều đó một cách rất tận tâm và với lòng mộ đạo to lớn. Kết quả là nàng đã được tái sinh lên thiên giới (Ja.vi.117f). Cung điện của nàng cao mười hai do-tuần và rộng một do-tuần; nó có chín tầng và một ngàn phòng. Khi Duṭṭhagāmaṇī muốn dựng lên Lohapāsāda, ông đã thỉnh cầu các tỳ-kheo cho một bản thiết kế, và tám vị *Arahant* đã lên cõi chư thiên và trở về với một bản thiết kế cung điện của Bīraṇī. Mhv.xxvii.9ff.
 
 ## Notes

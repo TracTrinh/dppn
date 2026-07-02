@@ -5,7 +5,7 @@ base_headword: "Sammohavinodanī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sammohavinodanī. A Commentary on the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammohavinodanī. Một bản Chú giải về Vibhaṅgappakaraṇa do Buddhaghosa biên soạn. Sad. p. 58.
 
 ## Notes

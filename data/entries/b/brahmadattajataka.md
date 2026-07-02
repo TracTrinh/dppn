@@ -5,7 +5,7 @@ base_headword: "Brahmadattajātaka"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -31,6 +31,8 @@ The king is identified with <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadattajātaka (Ja 323). Ngày xưa, vị Bodhisatta, sau khi học ở Takkasilā, đã trở thành một tu sĩ khổ hạnh ở Himālaya, viếng thăm Uttarapañcāla, và trú ngụ trong khu vườn của vua Pañcāla. Vua nhìn thấy ngài đi khất thực, đã mời ngài vào cung điện và, sau khi bày tỏ sự tôn kính lớn lao với ngài, yêu cầu ngài ở lại trong ngự uyển. Khi đã đến lúc Bodhisatta phải trở về Himālaya, ngài muốn xin một đôi giày đế đơn và một chiếc ô bằng lá. Nhưng suốt mười hai năm ngài không thể thu đủ can đảm để xin vua những thứ này! Ngài chỉ có thể tiến xa đến mức nói với vua rằng ngài có một ân huệ muốn xin, và rồi ngài mất can đảm, vì, ngài tự nhủ, phải mở miệng xin thì khiến người ta rơi lệ và phải từ chối thì cũng khiến người ta rơi lệ. Cuối cùng, vua nhận ra sự bối rối của ngài và cúng dường toàn bộ tài sản của mình cho ngài; nhưng vị tu sĩ khổ hạnh sẽ chỉ nhận đôi giày và chiếc ô, và, với những thứ này, ngài đã rời đi đến Himālaya.
+
+Vị vua được đồng nhất với Ānanda. Ja.iii.78ff.
 
 ## Notes

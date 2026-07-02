@@ -5,7 +5,7 @@ base_headword: "Gāmaṇitissa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāmaṇitissa. A tank made by King <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇitissa. Một hồ chứa nước do vua Gajabāhu xây dựng và ban cho để duy trì Abhayagirivihāra. Mhv.xxxv.120.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāmidatta Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,8 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmidatta Thera. Ông thuộc một gia đình Bà-la-môn ở Sāvatthī, và thường đến *vihāra* để nghe Đức Phật thuyết pháp. Một ngày kia Đức Phật thuyết pháp đặc biệt vì lợi ích của ông, và, hết sức xúc động, ông đã gia nhập Saṅgha. Nhưng vì sự chưa chín muồi trong tri kiến, ông vẫn tiếp tục một thời gian mà không tinh tấn tu tập. Về sau ông được cảm hóa bởi một bài pháp khác của Đức Phật, và trở nên chuyên tâm và tận tụy, chứng đắc quả vị *Arahant* không lâu sau đó (Thag.vs.90. Thag­a.i.189).
+
+Ông rõ ràng là cùng một người với Adhichattiya (hay Chattādhichattiya) trong Apadāna (Ap.i.170). Trong quá khứ ông đã dựng một chiếc lọng che trên *cetiya* của Atthadassī Buddha.
 
 ## Notes

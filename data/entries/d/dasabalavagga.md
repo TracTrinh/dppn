@@ -5,7 +5,7 @@ base_headword: "Dasabalavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dasabalavagga. The third chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasabalavagga. Phẩm thứ ba của Nidānasaṁyutta. SN.ii.27-47.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Doṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Doṇa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Doṇa. Một vị vua Nāga của thành phố Mahā Doṇa trên bờ sông Gaṅgārahada. Ông ta thường tiêu diệt các quận của những người không chịu nộp cống phẩm cho mình. Đức Phật Nārada đã thuyết giảng cho ông ta và hàng phục ông ta. Bv.x.7; Bv­a.153.
 
 ## Notes

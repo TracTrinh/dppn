@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nāga 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 07. Mahā Nāga Thera. Vị sư trụ trì của *vihāra* Samudda. Ông nằm trong số những người đã thọ nhận sự cúng dường một bữa ăn từ Vương tử Sāliya, trong kiếp đản sinh của vị này làm một người thợ rèn. Mhv­ṭ. 606.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Eḷakamāra"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -35,6 +35,10 @@ The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eḷakamāra. Vua của Benares. Vua của Kosala đã xâm lược vương quốc của cha ông và, sau khi giết chết nhà vua, đã bắt đi hoàng hậu, người đang mang thai. Khi đứa trẻ được sinh ra, cậu bé bị ném vào bãi tha ma vì sợ rằng cậu sẽ bị giết bởi vua Kosala. Đứa bé được một người chăn dê phát hiện và mang về nuôi như con ruột, nhưng từ ngày cậu bé đến nhà người chăn dê, những con vật của ông bắt đầu chết dần. Do đó, cậu bé được đặt tên là Eḷakamāra ("Mầm Móng Tai Họa Cho Bầy Dê"). Người chăn dê, vì thế, đã đặt cậu bé vào một cái nồi và ném cậu xuống sông, nơi cậu được vớt lên bởi một người thu gom rác cũ thuộc giai cấp thấp kém và được nhận làm con nuôi. Khi lớn lên, chàng trai cùng cha nuôi đến cung điện, và tại đây, công chúa Kuraṅgavī, một người có nhan sắc tuyệt trần, đã đem lòng yêu chàng. Những người hầu đã phát hiện ra họ có quan hệ bất chính và báo cáo lại cho nhà vua. Khi chàng trai sắp bị xử tử vì tội lỗi của mình, hoàng hậu, bị vong linh của người cha đã khuất của Eḷakamāra nhập vào, người đã tái sinh làm vị thần hộ mệnh của chàng, đã thú nhận rằng chàng không phải là một kẻ bị ruồng bỏ bình thường, mà là con trai của vua nước Benares. Vua Kosala đã hoàn trả lại cho Eḷakamāra gia tài của cha chàng và gả Kuraṅgavī cho chàng. Chalaṅgakumāra được ban cho chàng làm thầy giáo, và sau đó được bổ nhiệm làm tổng tư lệnh.
+
+Kuraṅgavī đã có hành vi sai trái với Chalaṅgakumāra cũng như với người hầu của ông ta, Dhanantevāsī (Ja.v.430ff).
+
+Câu chuyện về Eḷakamāra là một trong những câu chuyện được Kuṇāla đề cập đến trong bài thuyết giảng nổi tiếng của ông về sự yếu đuối của phụ nữ (Ja.v.424).
 
 ## Notes

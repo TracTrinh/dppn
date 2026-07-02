@@ -5,7 +5,7 @@ base_headword: "Hārita"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hārita 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hārita 02. Một vị Mahā Brahma có mặt khi Mahā Samayasutta được thuyết giảng, dẫn đầu một trăm ngàn Phạm thiên khác (DN.ii.261; DN­a.ii.693; cf. DN­a.i.40). Ngài là một trong những vị Phạm thiên chủ chốt. Xem, e.g., DN­a.ii.693; MN­a.ii.576.
 
 ## Notes

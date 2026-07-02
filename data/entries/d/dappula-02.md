@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dappula 02. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 02. Cháu trai của Aggabodhi VI. Khi Mahinda II kế vị Aggabodhi VII, Dappula đã nổi dậy chống lại ông, nhưng, bất chấp nhiều nỗ lực, vẫn không thể đánh bại được ông. Dappula bèn rút lui về Rohaṇa nơi ông cai trị, sau khi đã lập một hiệp ước với Mahinda. Một thời gian sau, ông đã thực hiện một nỗ lực khác để giành lấy ngai vàng và đã chiến đấu một trận khốc liệt tại Mahā Ummāra, nơi ông bị đánh bại và buộc phải bỏ trốn (CV.xlviii.90, 98, 109, 122, 125, 131, 155f).
 
 ## Notes

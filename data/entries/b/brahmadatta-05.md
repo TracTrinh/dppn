@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "05"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmadatta 05. Head of a dynasty of thirty-six kings, all of whom ruled at <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 05. Người đứng đầu của một vương triều gồm ba mươi sáu vị vua, tất cả đều trị vì tại Hatthipura. Tổ tiên của ông trị vì tại Kapilanagara. Mhv­ṭ. 127; Dpv.iii.18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṁvarajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -32,6 +32,8 @@ The story was told to a monk who had dwelt in the forest and had then given up s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvarajātaka (Ja 462). Bodhisatta là thầy của Saṁvara 1, người con trai út trong một trăm người con trai của vua xứ Benares. Khi hoàn tất việc học, nhà vua đã ban cho ông một tỉnh, nhưng, theo lời khuyên của thầy mình, ông thích sống gần cha mình hơn. Ở đó, làm theo lời khuyên của Bodhisatta, ông đã chiếm được lòng mọi người, và khi cha ông qua đời, các triều thần đã lập ông làm vua. Các anh em của ông phản đối, và Saṁvara, một lần nữa làm theo lời khuyên của thầy mình, đã chia tài sản của cha mình cho họ. Sau đó các anh em của ông, do Uposatha dẫn đầu, đã thừa nhận ông là vua.
+
+Câu chuyện này được kể cho một vị tỳ-kheo từng sống trong rừng rồi sau đó từ bỏ sự tinh tấn. Vị ấy được nhận diện là Saṁvara, và Sāriputta là Uposatha. Ja.iv.130ff; xem thêm Alinacittajātaka (Ja 156) và Gāmaṇijātaka (Ja 257).
 
 ## Notes

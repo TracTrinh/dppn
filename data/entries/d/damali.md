@@ -5,7 +5,7 @@ base_headword: "Dāmali"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāmali. A *Devaputta* who visits the Buddha at <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāmali. Một vị thiên tử (*Devaputta*) đã đến thăm Đức Phật tại Jetavana và nói với ngài rằng một *Arahant* phải làm việc nhọc nhằn một cách vô ích. Đức Phật chỉ ra cho vị ấy thấy rằng không còn việc gì để cho một *Arahant* phải làm nữa. SN.i.47.
 
 ## Notes

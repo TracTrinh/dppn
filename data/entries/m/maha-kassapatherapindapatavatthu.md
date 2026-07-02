@@ -5,7 +5,7 @@ base_headword: "Mahā Kassapatherapiṇḍapātavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kassapatherapiṇḍapātavatthu. The story of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kassapatherapiṇḍapātavatthu. Câu chuyện về Sakka cúng dường khất thực cho Mahā Kassapa dưới lớp ngụy trang của một người thợ dệt. Dhp­a.i.423ff.
 
 ## Notes

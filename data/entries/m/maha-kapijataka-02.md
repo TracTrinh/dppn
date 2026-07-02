@@ -5,7 +5,7 @@ base_headword: "Mahā Kapijātaka"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -31,6 +31,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kapijātaka 02. (Ja 516). Bodhisatta đã từng là một con khỉ, và một ngày nọ, trong rừng, ngài tình cờ gặp một người đàn ông đã bị rơi xuống một cái hố trong khi đang tìm kiếm bầy bò của mình và đã nằm đó chết đói trong mười ngày. Bodhisatta đã kéo anh ta ra và sau đó nằm xuống ngủ. Nhưng người đàn ông, quá đói, và muốn ăn thịt ngài, đã dùng một hòn đá đập vào đầu ngài, làm ngài bị thương nặng. Con khỉ ngay lập tức trèo lên một cái cây để trốn thoát, nhưng khi nhận ra rằng người đàn ông sẽ không thể tìm được đường ra khỏi khu rừng, ngài đã nhảy từ cây này sang cây khác (bất chấp sự đau đớn dữ dội của mình) và chỉ cho anh ta con đường thoát ra. Người đàn ông trở thành một người mắc bệnh phong, và lang thang trong bảy năm cho đến khi anh ta đến Công viên Migācira ở Benares và kể lại câu chuyện của mình cho nhà vua. Khi kết thúc phần kể lại của anh ta, mặt đất đã nứt ra và anh ta đã bị nuốt chửng vào Avīci (địa ngục vô gián).
+
+Câu chuyện đã được kể lại liên quan đến nỗ lực của Devadatta nhằm giết Đức Phật bằng cách ném một hòn đá vào Ngài. Người mắc bệnh phong là Devadatta. Ja.v.67-74; so sánh Jātakamāla, No. 24. Câu chuyện cũng được gọi là Vevaṭiyakapijātaka.
 
 ## Notes

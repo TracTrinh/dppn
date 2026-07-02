@@ -5,7 +5,7 @@ base_headword: "Samuddakappa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samuddakappa. A king of fourteen *kappas* ago; a former birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddakappa. Một vị vua từ mười bốn *kappa* trước; một kiếp trước của Bandhujīvaka Thera. Ap.i.192.
 
 ## Notes

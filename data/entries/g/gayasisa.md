@@ -5,7 +5,7 @@ base_headword: "Gayāsīsa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -40,6 +40,14 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gayāsīsa. Một ngọn đồi gần Gayā. Đức Phật đã đến đây từ Uruvelā sau khi cảm hóa nhóm Tebhātikajaṭilā, và Ngài đã sống tại đây cùng một ngàn vị tỳ-kheo. Nhân dịp đến đây, Ngài đã thuyết bài Ādittapariyāyasutta (Vin.i.34f; SN.iv.19f; Ja.i.82; AN­a.i.57, etc.; Pv-a.21; Ud.i.9; Dhp­a.i.72).
+
+Khi Devadatta lôi kéo được năm trăm vị tỳ-kheo về phe mình, ông đã rút về Gayāsīsa cùng với họ, và chính tại đó mà các vị Đại đệ tử của Đức Phật đã phải đến để đưa họ trở về (Vin.ii.199; Dhp­a.i.121; Ja.i.142, 425, 490f; iv.180). Có nói rằng Ajātasattu đã xây một tu viện riêng cho Devadatta tại Gayāsīsa (Ja.i.185, 508; ii.38f).
+
+Các bản Chú giải nói rằng ngọn đồi có tên gọi như vậy vì được tạo thành từ một phiến đá phẳng và có hình dạng giống đầu voi (*gaja-sīsa-sadisa-piṭṭhipāsāṇo*) (SN­a.iii.4; Ud­a.74). Trên tảng đá đó có đủ chỗ cho một ngàn vị tỳ-kheo.
+
+Ngọn đồi này nằm cách Gayā khoảng một dặm về phía tây nam và nay được gọi là Brahmayoni. Ở phía đông nam ngọn đồi, Huyền Trang đã thấy ba ngôi Thūpa của nhóm Tebhātikajaṭilā (CAGI.524f).
+
+Xem thêm Gayāsutta.
 
 ## Notes

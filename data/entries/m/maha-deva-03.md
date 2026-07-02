@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Deva 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 03. Mahā Deva Thera. Ngài đã truyền thọ giới *pabbajā* cho Mahinda (Mhv.v.206; Dpv.vii.25). Sau kỳ Kết tập thứ ba ngài đã đi đến Mahisamaṇḍala với tư cách là một nhà truyền giáo, nơi ngài đã thuyết giảng Devadūtasutta, giáo hóa được bốn mươi ngàn người và truyền thọ giới cho thêm bốn mươi ngàn người khác. Mhv.xii.3, 29; Dpv.viii.5; Vin-a.i.66.
 
 ## Notes

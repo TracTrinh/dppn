@@ -5,7 +5,7 @@ base_headword: "Hatthimukha"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hatthimukha. One of the mouths of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthimukha. Một trong các cửa của Anotatta-*daha*. Snp­a.ii.438.
 
 ## Notes

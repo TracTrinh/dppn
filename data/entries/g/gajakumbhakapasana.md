@@ -5,7 +5,7 @@ base_headword: "Gajakumbhakapāsāṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gajakumbhakapāsāṇa. A locality in Ceylon, through which passed the *Sīmā* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajakumbhakapāsāṇa. Một địa danh ở Tích Lan, nơi ranh giới *Sīmā* do Devānampiyatissa vạch ra cho Mahā Vihāra đi qua. Mhv., p.332, v.12; Dpv.xiv.35; Mbv.135.
 
 ## Notes

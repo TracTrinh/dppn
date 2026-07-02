@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -37,6 +37,10 @@ Several verses uttered by him in admonition of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 01. Mahā Nāga Thera. Con trai của Madhuvāseṭṭha ở Sāketa. Trong khi Đức Phật đang ở Añjanavana, Mahā Nāga đã nhìn thấy phép lạ do Gavampati thực hiện và đã gia nhập Tăng đoàn dưới sự dẫn dắt của vị này, đắc quả vị *Arahant* vào thời điểm thích hợp.
+
+Trong quá khứ ông đã dâng một quả *dādima* (lựu) cho Kakusandha Buddha (Thag­a.i.442f).
+
+Một vài bài kệ do ông thốt ra để khuyên răn nhóm Chabbaggiyā, vì họ đã không thể hiện sự tôn trọng đối với những người bạn đồng tu của mình, được tìm thấy trong Theragāthā. Thag.vss.387-92.
 
 ## Notes

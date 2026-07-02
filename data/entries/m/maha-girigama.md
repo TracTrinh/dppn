@@ -5,7 +5,7 @@ base_headword: "Mahā Girigāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Girigāma. A village on the road to <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Girigāma. Một ngôi làng trên con đường đến Nāgadīpa, gần nơi cư ngụ của Loṇagirivāsītissa. DN­a.ii.534.
 
 ## Notes

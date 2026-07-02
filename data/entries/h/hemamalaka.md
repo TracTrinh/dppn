@@ -5,7 +5,7 @@ base_headword: "Hemamālaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hemamālaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemamālaka, Hemamālī. Một tên khác của Mahā Thūpa.
 
 ## Notes

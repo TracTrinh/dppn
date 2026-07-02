@@ -5,7 +5,7 @@ base_headword: "Dāṭhākoṇḍañña"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dāṭhākoṇḍañña. A monastery in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhākoṇḍañña. Một tu viện ở Sīhagiri, được Vua Moggallāna trao tặng cho những người Sāgalika. Cv.xxxix.41.
 
 ## Notes

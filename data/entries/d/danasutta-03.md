@@ -5,7 +5,7 @@ base_headword: "Dānasutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dānasutta 03. On the eight kinds of alms. AN.iv.236. (gr: AN.VIII.31)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānasutta 03. Về tám loại bố thí. AN.iv.236. (gr: AN.VIII.31)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dappula 04. A nephew of King <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 04. Một người cháu trai của Vua Dappula II và là anh em trai của Kittaggabodhi (Cv.xlix.72).
 
 ## Notes

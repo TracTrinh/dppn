@@ -5,7 +5,7 @@ base_headword: "Devalā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devalā. A Sinhalese princess, sister of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devalā. Một công chúa Sinhala, em gái của Lokitā. Cv.lvii.27.
 
 ## Notes

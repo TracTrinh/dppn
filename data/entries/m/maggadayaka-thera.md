@@ -5,7 +5,7 @@ base_headword: "Maggadāyaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maggadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he saw <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggadāyaka Thera. Một vị Arahant. Chín mươi bốn kappa trước, ngài nhìn thấy Siddhattha Buddha đang đi bộ trong rừng, và, với giỏ và cuốc, đã mở một con đường cho Đức Phật. Năm mươi bảy kappa trước, ngài là một vị vua tên là Suppabuddha (Ap.i.173). Ngài có lẽ đồng nhất với Trưởng lão Eraka. Thag­a.i.193f.
 
 ## Notes

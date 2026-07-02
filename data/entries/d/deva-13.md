@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "13"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Deva 13. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 13. Một đại thần của Devagāma. Có lần ông cho một con chó đói thức ăn. Ông tái sinh trong cùng ngôi làng ấy, và về sau gia nhập Tăng đoàn tại Pupphavāsavihāra. Trong nạn đói *Brāhmaṇatiya*, một thọ thần chăm sóc ông suốt mười hai năm. Có lần những người tìm thức ăn muốn giết ông, nhưng ông được vận may cứu thoát. Ông chứng quả vị *Arahant*, và vị thần ấy chăm sóc ông thêm mười hai năm nữa. Ras.ii.13f.
 
 ## Notes

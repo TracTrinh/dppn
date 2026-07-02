@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇagāma"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brāhmaṇagāma. A village in Ceylon, near which <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇagāma. Một ngôi làng ở Tích Lan, gần nơi mà Mahā Sena đã xây dựng Kalandavihāra. Mhv­ṭ.685.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Buddharakkhita"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Buddharakkhita 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddharakkhita 01. Buddharakkhita Thera. Một vị tỳ-kheo ở T?ch Lan, một vị đạo sư lỗi lạc về Vinaya. Vin.v.3; Vin-a.i.62.
 
 ## Notes

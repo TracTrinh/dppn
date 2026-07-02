@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "07"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhi 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 07. Laṅkādhinātha Bodhi. Tướng quân của Māṇābharaṇa (2). Ông đã bị giết trong trận chiến. Cv.lxx.294, 309.
 
 ## Notes

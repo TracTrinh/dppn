@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgapabbata"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nāgapabbata. A *vihāra* in Ceylon where <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgapabbata. Một *vihāra* ở Tích Lan nơi Aggabodhi I. đã xây dựng một hội trường *uposatha*. Cv.xlii.27.
 
 ## Notes

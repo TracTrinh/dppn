@@ -5,7 +5,7 @@ base_headword: "Samavāsasuttā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samavāsasuttā. Two *Suttas* one preached to some householders on the road betw
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samavāsasuttā. Hai bài *Sutta*: một được thuyết cho một số cư sĩ tại gia trên đường giữa Madhurā và Verañjā, bài kia được thuyết cho các tỳ-kheo về bốn cách sống chung: một người đàn ông xấu xa với một người đàn bà xấu xa, một người đàn ông xấu xa với một *Devī*, một *Deva* với một người đàn bà xấu xa, một *Deva* với một *Devī*. A.ii.57ff.
 
 ## Notes

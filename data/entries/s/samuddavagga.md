@@ -5,7 +5,7 @@ base_headword: "Samuddavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samuddavagga. The sixteenth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddavagga. Chương thứ mười sáu của Saḷāyatanasaṁyutta. SN.iv.157-72.
 
 ## Notes

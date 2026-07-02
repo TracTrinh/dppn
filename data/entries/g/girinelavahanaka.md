@@ -5,7 +5,7 @@ base_headword: "Girinelavāhanaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girinelavāhanaka. A *vihāra* to the north of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girinelavāhanaka. Một *vihāra* nằm ở phía bắc của Kandanagara, do Sūratissa xây dựng. Mhv.xxi.6.
 
 ## Notes

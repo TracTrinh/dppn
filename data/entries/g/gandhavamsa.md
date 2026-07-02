@@ -5,7 +5,7 @@ base_headword: "Gandhavaṁsa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,12 @@ The work is published in JPTS, 1886, pp.55-80.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhavaṁsa. Một tác phẩm Pāḷi muộn được viết ở Miến Điện.
+
+Tác phẩm này tóm lược lịch sử của Tam tạng Pāli và trình bày về các tác phẩm Pāḷi hậu điển được viết ở Miến Điện và Tích Lan.
+
+Lời bạt cho biết tác phẩm này được biên soạn bởi một vị Trưởng lão sống trong rừng tên là Nandapañña. Ở cuối mỗi chương, tác phẩm được gọi là Cūḷa Gandhavaṁsa; có lẽ bản hiện có là một ấn bản rút gọn của một tác phẩm lớn hơn.
+
+Tác phẩm này được xuất bản trong JPTS, 1886, pp.55-80.
 
 ## Notes

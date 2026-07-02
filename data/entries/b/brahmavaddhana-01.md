@@ -5,7 +5,7 @@ base_headword: "Brahmavaḍḍhana"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -27,6 +27,6 @@ Brahmavaḍḍhana 01. An old name for <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmavaḍḍhana 01. Tên cũ của Bārāṇasī (Ja.iv.119). Một vị vua tên là Manoja đã trị vì ở đó. Để biết chi tiết xem Sonanandajātaka (Ja 532, Ja.v.312ff. )
 
 ## Notes

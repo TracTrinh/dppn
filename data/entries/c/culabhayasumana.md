@@ -5,7 +5,7 @@ base_headword: "Cūḷābhayasumana"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -30,6 +30,8 @@ He was an authority on the Vinaya, and a story is related in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷābhayasumana, Cūlābhayasumana. Một vị Thera sống ở Mahā Vihāra vào thời vua Bhātiya.
+
+Ông là một người có thẩm quyền về Vinaya, và một câu chuyện được kể lại trong Samantapāsādikā (Vin-a.ii.305f) về việc ông đã được tham vấn ra sao bởi một vị tỳ-kheo, người đã nhặt được trong một đám đông một y phục rơi từ vai của một tỳ-kheo khác rồi giấu nó đi, nhưng sau này lại muốn trả lại cho chủ nhân.
 
 ## Notes

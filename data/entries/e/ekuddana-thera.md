@@ -5,7 +5,7 @@ base_headword: "Ekuddāna Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -46,6 +46,12 @@ It is noteworthy that the verse, attributed above to <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekuddāna Thera (Ekuddāniya Thera, Ekudāna Thera). Một vị *Arahant*. Ngài là con trai của một vị Bà-la-môn giàu có ở Sāvatthī, và sau khi được thuyết phục bởi sự uy nghiêm của Đức Phật, như đã thấy tại buổi lễ dâng cúng tịnh xá Jetavana, ngài đã gia nhập Tăng đoàn. Ngài sống trong rừng để hoàn thành thời kỳ tập sự của mình, và một lần ngài đến gặp Đức Phật để học hỏi từ ngài. Đức Phật, nhìn thấy Sāriputta gần đó đang chìm trong thiền định, đã thốt lên một bài kệ, rằng đối với vị tỳ-kheo có những tư tưởng cao thượng và không phóng dật, sầu khổ sẽ không đến (Xem Dhammapada 259). Vị tỳ-kheo đã học thuộc bài kệ này, và khi trở về rừng, ngài thường xuyên suy niệm về nó. Từ đó ngài được gọi là Ekuddāniya. Một ngày nọ ngài đạt được tuệ quán và trở thành một vị *Arahant*. Về sau, khi Ānanda thỉnh ngài thuyết một bài pháp, ngài đã lấy bài kệ này làm chủ đề thuyết pháp.
+
+Người ta kể rằng vào thời của Atthadassī Buddha ngài là một thủ lĩnh của loài Yakkha, và khi Đức Phật nhập diệt ngài đã đi khắp nơi than thở rằng ngài đã không tận dụng tốt những cơ hội của mình. Một đệ tử của Đức Phật, tên là Sāgara, khi gặp ngài, đã khuyên ngài nên thực hiện cúng dường tại *Thūpa* của Đức Phật. Vào thời của Kassapa ngài là một gia chủ, và đã nghe Đức Phật thốt lên bài kệ được đề cập ở trên. Ngài đã gia nhập Tăng đoàn, và trong suốt hai mươi ngàn năm đã thực hành thiền định, lặp đi lặp lại bài kệ đó, nhưng không đạt được chứng quả nào (Thag­a.i.153f; Thag.v.68).
+
+Người ta nói rằng (Dhp­a.iii.384f) vào các ngày trai giới, Ekuddāna, một mình trong rừng, đã vang lên lời kêu gọi chư thiên của khu rừng đến dự buổi thuyết giảng Pháp, và ngài đọc bài kệ của mình, sau đó chư thiên vỗ tay tán thưởng vang dội. Một ngày trai giới nọ, hai vị tỳ-kheo, tinh thông *Tipiṭaka*, đã đến thăm Ekuddāna cùng với một đoàn tùy tùng gồm năm trăm vị cho mỗi người. Nhìn thấy họ, lòng Ekuddāna rất hoan hỷ và ngài nói: "Hôm nay chúng ta sẽ lắng nghe Pháp." Khi được yêu cầu giải thích, ngài đã kể lại việc khi Pháp được thuyết giảng, khu rừng tràn ngập tiếng tán thưởng của chư thiên ra sao. Tiếp đó, một vị Trưởng lão đã tụng đọc Pháp và vị kia đã giảng giải, nhưng không có một tiếng động nào. Để xua tan những nghi ngờ của họ, Ekuddāna đã ngồi xuống chỗ của mình và tuyên xướng bài kệ duy nhất của mình. Tiếng tán thưởng của chư thiên vang dội khắp khu rừng. Các vị Trưởng lão đã vô cùng phật ý trước hành động của chư thiên và đã than phiền với Đức Phật. Đức Phật đã giải thích cho họ rằng điều quan trọng không phải là lượng kiến thức mà là chất lượng của sự thấu hiểu.
+
+Điều đáng chú ý là bài kệ, được cho là của Ekuddāniya ở trên, xuất hiện trong Vinaya (Vin.iv.54) như một bài kệ đã được Cūḷa Panthaka thường xuyên sử dụng. Bất cứ khi nào đến lượt ngài thuyết pháp cho các tỳ-kheo-ni ở Sāvatthī, họ không kỳ vọng một bài học nào hiệu quả, vì ngài luôn lặp lại cùng một bài kệ, cụ thể là, bài kệ mà ở trên đã được cho là của Ekuddāniya. Vị Trưởng lão, khi nghe được những lời bàn tán của họ, lập tức đã thực hiện một màn phô diễn thần thông *iddhi* và sự hiểu biết về Pháp của ngài, qua đó giành được sự khâm phục ngợi khen của họ.
 
 ## Notes

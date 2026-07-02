@@ -5,7 +5,7 @@ base_headword: "Hatthidvāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthidvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthidvāra. Một trong các cổng thành của Pulatthipura. Cv.lxxiii.160.
 
 ## Notes

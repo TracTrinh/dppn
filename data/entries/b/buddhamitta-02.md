@@ -5,7 +5,7 @@ base_headword: "Buddhamitta"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddhamitta 02. A monk. It was at his request that <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhamitta 02. Một vị tỳ-kheo. Chính vì yêu cầu của ông mà Ānanda đã viết *Mūlaṭīkā* về *aṭṭhakathā* của Abhidhammapiṭaka. Gv.69.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Piṇḍapātikanāga"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Piṇḍapātikanāga. A monk of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Piṇḍapātikanāga. Một vị tỳ-kheo của Nalakhaṇḍapadhāna. Xem Ambāmacca.
 
 ## Notes

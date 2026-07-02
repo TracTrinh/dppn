@@ -5,7 +5,7 @@ base_headword: "Devagajjita"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devagajjita. A king of thirty-six *kappas* ago; a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devagajjita. Một vị vua của ba mươi sáu *kappa* trước; một đời trước của Aṅkolaka Thera (Ap.i.199).
 
 ## Notes

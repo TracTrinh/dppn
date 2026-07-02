@@ -5,7 +5,7 @@ base_headword: "Gaṅgādoṇi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṅgādoṇi. A hill in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgādoṇi. Một ngọn đồi trong vùng Maṇimekhala ở Tích Lan. Vị tướng Saṅkha đã lập một thành phố tại đó trong cuộc xâm lược của Māgha. Ngọn đồi chỉ cách kinh đô của Māgha hai *yojana*, nhưng vẫn là một nơi ẩn náu khá an toàn. Cv.lxxxi.7f.
 
 ## Notes

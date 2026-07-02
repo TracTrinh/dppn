@@ -5,7 +5,7 @@ base_headword: "Mahā Māladeva"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Māladeva. A general of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Māladeva. Một vị tướng của Māṇābharaṇa (2) đóng quân tại *Kālavāpi*. Cv.lxxii.171.
 
 ## Notes

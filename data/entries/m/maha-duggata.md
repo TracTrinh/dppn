@@ -5,7 +5,7 @@ base_headword: "Mahā Duggata"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Duggata. A very poor man of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Duggata. Một người đàn ông rất nghèo của xứ Benares vào thời Đức Phật Kassapa. Các công dân của Benares từng cung thỉnh Đức Phật và các tỳ-kheo của Ngài và đi hỏi những người khác để giúp đỡ trong việc thiết đãi họ. Bất chấp sự cực kỳ nghèo khó của mình, Mahā Duggata và vợ ông đã đảm nhận việc chăm sóc một tỳ-kheo; cả hai đều làm việc chăm chỉ để kiếm số tiền cần thiết và sau đó chuẩn bị một bữa ăn đơn giản. Sakka, biết trước những gì sẽ diễn ra, đã hóa trang thành một người lao động đến giúp đỡ họ. Khi đến giờ ăn, người ta phát hiện ra rằng trong việc phân bổ các tỳ-kheo cho những chủ nhà tương ứng, nhà của Mahā Duggata đã bị bỏ sót. Mahā Duggata vò hai tay và bật khóc, nhưng ai đó đã chỉ ra cho ông rằng chưa có ai thiết đãi Đức Phật. Do đó, ông đã đi đến tu viện và cung thỉnh Đức Phật, Ngài đã nhận lời mời, trong khi các vương tử và quý tộc đang chờ bên ngoài với mong muốn dẫn Ngài đến cung điện của họ. Đức Phật đã thọ dụng thức ăn do Mahā Duggata và Sakka chuẩn bị và nói lời tạ ơn. Ngay trong ngày hôm đó, bằng quyền năng của Sakka, bảy loại châu báu đã rơi từ trên trời xuống và lấp đầy ngôi nhà của Mahā Duggata, và khi được tâu lên vua rằng ông là người đàn ông giàu có nhất trong thành phố, ông đã được bổ nhiệm làm Trưởng khố. Mahā Duggata đã xây một ngôi nhà mới và phát hiện ra nhiều kho báu được cất giấu trong khi đào móng. Với số tiền từ những thứ này, ông đã thiết đãi Đức Phật cùng các tỳ-kheo của Ngài trong bảy ngày, và, sau khi chết, đã được tái sinh ở thiên giới. Ông được đồng nhất với Sa-di Paṇḍita (Sāmaṇera). Dhp­a.ii.127-38.
 
 ## Notes

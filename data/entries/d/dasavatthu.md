@@ -5,7 +5,7 @@ base_headword: "Dasavatthu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dasavatthu. A Pāli treatise. Gv.65, 75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasavatthu. Một luận thư tiếng Pāli. Gv.65, 75.
 
 ## Notes

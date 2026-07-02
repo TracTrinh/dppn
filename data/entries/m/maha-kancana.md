@@ -5,7 +5,7 @@ base_headword: "Mahā Kañcana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Kañcana. The Bodhisatta born as the son in a rich Brahmin family, and lat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kañcana. Bodhisatta đản sinh làm con trai trong một gia đình Bà-la-môn giàu có, và sau này trở thành một đạo sĩ. Xem Bhisajātaka. Ja.iv.305ff.
 
 ## Notes

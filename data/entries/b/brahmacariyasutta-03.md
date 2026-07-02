@@ -5,7 +5,7 @@ base_headword: "Brahmacariyasutta"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -23,6 +23,6 @@ Brahmacariyasutta 03. The best practice is the Noble Eightfold Path. Its aim is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmacariyasutta 03. Sự thực hành tốt nhất là Bát Thánh đạo. Mục đích của nó là sự tận diệt của tham, sân, và si. SN.v.26f.
 
 ## Notes

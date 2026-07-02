@@ -5,7 +5,7 @@ base_headword: "Gopaka Moggallānasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -29,6 +29,6 @@ Gopaka Moggallānasutta. Soon after the Buddha’s death, <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka Moggallānasutta. Ngay sau khi Đức Phật viên tịch, Ānanda, trên đường đi khất thực đến Rājagaha, đã đến thăm nơi Gopaka Moggallāna đang củng cố các hệ thống phòng thủ của thành phố. Moggallāna hỏi ngài liệu có bất kỳ vị tỳ-kheo nào giống Đức Phật về mọi phương diện không, và nhận được câu trả lời phủ định. Vassakāra đến và, khi được cho biết chủ đề của cuộc trò chuyện, đã hỏi câu hỏi tương tự và được Ānanda cho biết rằng các vị tỳ-kheo coi Dhamma là người bảo vệ của họ. Tuy nhiên, sự thật là có những vị tỳ-kheo mà họ kính trọng và tôn kính vô cùng, và Ānanda liệt kê những phẩm chất giúp những vị này giành được sự tôn kính như vậy. MN.iii.7ff.
 
 ## Notes

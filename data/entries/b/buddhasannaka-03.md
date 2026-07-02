@@ -5,7 +5,7 @@ base_headword: "Buddhasaññaka"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhasaññaka 03. A hermit in the time of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasaññaka 03. Một đạo sĩ vào thời Đức Phật Siddhattha. Sau khi nghe các đệ tử của mình kể về sự xuất hiện của Đức Phật, ông đã rời khỏi thảo am của mình để đi đảnh lễ Ngài. Nhưng ông đã đổ bệnh khi còn cách một trăm năm mươi do-tuần, và ông đã qua đời với trọn niềm kính tín nơi Đức Phật (Ap.ii.420). Có lẽ ông đồng nhất với Vītasoka Thera. Thag­a.i.295f.
 
 ## Notes

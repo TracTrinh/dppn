@@ -5,7 +5,7 @@ base_headword: "Mahā Māluṅkyāsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,8 @@ The *Sutta* is so-called because it was preached in contradiction of a wrong ans
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Māluṅkyāsutta. Nói về năm kiết sử trói buộc những người chưa được giáo huấn vào đời sống thấp kém: ảo tưởng về nhân cách (thân kiến), sự hoài nghi (nghi), sự vướng mắc vào các nghi thức (giới cấm thủ), dục vọng của xác thịt (dục ái), và ác ý (sân). Con đường dẫn đến sự đoạn diệt các kiết sử này là sự tu tập các *jhāna* (MN.i.432-7).
+
+*Sutta* được gọi như vậy vì nó được giảng dạy để bác bỏ một câu trả lời sai mà Māluṅkyāputta đã đưa ra cho một câu hỏi của Đức Phật. Đức Phật đã chỉ ra lỗi sai của ông ta, và Ānanda thỉnh cầu Đức Phật hãy đưa ra câu trả lời đúng. Đây là một trong những *Sutta* giảng dạy *samatha*-*vipassanā*. MN­a.ii.572.
 
 ## Notes

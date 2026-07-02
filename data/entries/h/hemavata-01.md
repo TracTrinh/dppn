@@ -5,7 +5,7 @@ base_headword: "Hemavatā"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hemavatā 01. A river (Ja.iv.437, 438). See the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemavatā 01. Một con sông (Ja.iv.437, 438). Xem Bhallāṭiyajātaka (Ja 504).
 
 ## Notes

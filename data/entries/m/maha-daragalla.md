@@ -5,7 +5,7 @@ base_headword: "Mahā Dāragalla"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Dāragalla. A tank built by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dāragalla. Một hồ nước do Mahā Sena xây dựng (Mhv.xxxvii.49). Nó được tu bổ bởi Vijayabāhu I và sau đó bởi Parakkamabāhu I. Cv.lx.50; lxxix.31.
 
 ## Notes

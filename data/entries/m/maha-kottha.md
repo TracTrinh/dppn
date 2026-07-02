@@ -5,7 +5,7 @@ base_headword: "Mahā Koṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Koṭṭha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Koṭṭha. Một thủ lĩnh Damiḷa của Antarāsobbha, người mà Duṭṭhagāmaṇī đã khuất phục trong suốt quá trình diễn ra các chiến dịch của ông. Mhv.xxv.11.
 
 ## Notes

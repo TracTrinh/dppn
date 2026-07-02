@@ -5,7 +5,7 @@ base_headword: "Gatārāpariveṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gatārāpariveṇa. A monastery in Ceylon, the residence of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatārāpariveṇa. Một tu viện ở Tích Lan, nơi cư trú của Upatapassī, tác giả của Vuttamālā. PLC.253.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samantabhadraka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samantabhadraka. The name of a book. Probably a wrong reading. See Snp­a.i.21, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantabhadraka. Tên của một cuốn sách. Có lẽ là một cách đọc sai. Xem Snp­a.i.21, 25.
 
 ## Notes

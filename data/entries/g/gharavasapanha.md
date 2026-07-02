@@ -5,7 +5,7 @@ base_headword: "Gharāvāsapañha"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,6 @@ Gharāvāsapañha. The question asked by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gharāvāsapañha. Câu hỏi do Dhanañjaya đặt ra và được Vidhura trả lời, trước khi ông bị Puṇṇaka bắt đi. Câu hỏi đề cập đến việc một gia chủ có thể sống như thế nào để đạt được những điều tốt đẹp nhất trong cuộc đời mình, cho cả thế giới này và thế giới mai sau. Ja.iv.286f.
 
 ## Notes

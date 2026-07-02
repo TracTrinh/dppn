@@ -5,7 +5,7 @@ base_headword: "Hihobu"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hihobu. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hihobu. Một địa danh ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.94.
 
 ## Notes

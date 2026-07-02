@@ -5,7 +5,7 @@ base_headword: "Brahmāyu"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -30,6 +30,8 @@ It is said that all those present rose to greet him, but Brahmāyu signed to the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmāyu. Một vị Bà-la-môn xuất chúng nhất ở Mithilā về kiến thức của ông đối với các kinh Vệ đà. Khi nghe tin về Đức Phật lúc một trăm hai mươi tuổi, ông đã cử người đệ tử của mình là Uttara đi tìm hiểu xem liệu Đức Phật có mang trên thân ngài những tướng của một Mahā Purisa hay không. Do đó Uttara đã đến thăm Đức Phật và, sau khi nhìn thấy ba mươi hai tướng, đã quyết tâm quan sát Đức Phật trong mọi oai nghi của ngài và, vì mục đích này, đã theo hầu ngài khắp nơi trong suốt bảy tháng. Sau đó ông quay trở về với Brahmāyu và kể cho ông nghe về kết quả của những sự tìm hiểu của mình. Brahmāyu chắp tay cung kính và thốt lên những lời tán thán Đức Phật. Không lâu sau đó, Đức Phật đến Mithilā và đến ngụ tại Makhādeva-ambavana. Brahmāyu, sau khi cử một sứ giả đến thông báo về sự hiện diện của mình, đã đến viếng thăm Đức Phật.
+
+Người ta kể rằng tất cả những người có mặt đã đứng lên để chào đón ông, nhưng Brahmāyu đã ra hiệu cho họ hãy ngồi xuống. Ông đã giải tỏa bất kỳ sự nghi ngờ nào còn sót lại mà mình có về những tướng trên thân Đức Phật và sau đó tiến hành hỏi ngài những câu hỏi về các chủ đề khác nhau. Cuối cuộc thảo luận, ông đã phủ phục dưới chân Đức Phật, vuốt ve đôi chân của ngài và xưng danh tánh của mình. Đức Phật bảo ông hãy bình tâm lại, và thuyết cho ông bài pháp "tuần tự". Brahmāyu đã thỉnh mời Đức Phật và các tỳ-kheo của ngài đến nhà ông, nơi ông đã cúng dường họ trong một tuần. Sự ra đi của ông xảy ra không lâu sau đó, và Đức Phật, khi được thông báo về điều đó, nói rằng Brahmāyu đã trở thành một *Anāgāmī* (MN.ii.133ff). Sự đảnh lễ Đức Phật của Brahmāyu được mô tả là *paṇipāta*. Iti-a.177.
 
 ## Notes

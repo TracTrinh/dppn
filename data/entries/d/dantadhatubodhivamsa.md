@@ -5,7 +5,7 @@ base_headword: "Dantadhātubodhivaṁsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dantadhātubodhivaṁsa. A work ascribed to <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantadhātubodhivaṁsa. Một tác phẩm được quy cho Buddhadatta, tác giả của Jinālaṅkāra (*Buddhaghosuppati*, pp.49-51). Gandhavaṁsa (pp.62, 65, 72, 75) có đề cập đến một Dantadhātuppakaraṇa như là tác phẩm của Dhammakitti. Sự tham chiếu hiển nhiên là nói đến Dāṭhāvaṁsa của tác giả đó.
 
 ## Notes

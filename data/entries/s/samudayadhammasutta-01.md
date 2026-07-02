@@ -5,7 +5,7 @@ base_headword: "Samudayadhammasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samudayadhammasutta 01. Ignorance means ignorance that the nature of the body, f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudayadhammasutta 01. Vô minh có nghĩa là không biết rằng bản chất của thân, thọ, v.v., là sinh khởi rồi hoại diệt. SN.iii.170.
 
 ## Notes

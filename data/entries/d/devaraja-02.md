@@ -5,7 +5,7 @@ base_headword: "Devarāja"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Devarāja 02. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devarāja 02. Một *vihāra* ở Rohaṇa, nơi cư trú của Piyadassī, tác giả của Padasādhana. Devarāja là một phần của Rambhāvihāra. PLC.205.
 
 ## Notes

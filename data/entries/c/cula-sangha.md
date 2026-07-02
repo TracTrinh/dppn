@@ -5,7 +5,7 @@ base_headword: "Cūḷa Saṅgha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Saṅgha. Brother of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Saṅgha. Anh hoặc em trai của đại thần Saṅgha của vua Kākavaṇṇatissa (xem từ này).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Goḷakāḷa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -29,6 +29,8 @@ It is said Goḷakāḷa was so-called because he was dwarfish, like a ball (*go
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goḷakāḷa. Chồng của Dīghatālā. Ông có được vợ của mình sau khi làm việc bảy năm trong một gia đình. Một ngày nọ, khi đang trên đường đi cùng vợ đến thăm cha mẹ của cô ấy, họ đi đến một con suối, và, trong khi họ đang ngần ngại trước khi qua suối, một người đàn ông tên là Dīghapiṭṭhi đi đến và đề nghị đưa họ qua, bởi vì, ông ta nói, ông ta rất quen thuộc với những cư dân của con sông. Ông ta đưa Dīghatālā đi trước, cùng với những món đồ ngọt dành cho người thân của cô, và thuyết phục cô đi theo ông ta, bỏ lại chồng của mình. Khi Goḷakāḷa nhận ra điều gì đã xảy ra, ông tuyệt vọng nhảy xuống dòng suối, dễ dàng vượt qua nó – bởi vì nó thực sự rất cạn – và đòi lại vợ mình. Trong quá trình cãi vã giữa hai người đàn ông, họ đã đi đến nơi Mahosadha đang thiết triều, và ngài, sau khi nghe câu chuyện của mỗi người, đã quyết định, với sự tán thành của dân chúng đang tụ tập, ủng hộ Goḷakāḷa.
+
+Người ta nói rằng Goḷakāḷa được gọi như vậy vì ông ta lùn, giống như một quả bóng (*goḷa*), và đen (*kāḷa*). Ja.vi.337, 338.
 
 ## Notes

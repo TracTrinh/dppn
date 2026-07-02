@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmamatthaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nāmamatthaka. A tank restored by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmamatthaka. Một hồ chứa nước được tu bổ bởi Parakkamabāhu I. Cv.lxxix.35.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Demaliyagāma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Demaliyagāma. A locality in Ceylon, mentioned in the campaigns of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Demaliyagāma. Một địa phương ở Tích Lan, được nhắc đến trong các chiến dịch của Gajabāhu (Cv.lxvii.45).
 
 ## Notes

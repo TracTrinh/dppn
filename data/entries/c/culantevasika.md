@@ -5,7 +5,7 @@ base_headword: "Cūḷantevāsika"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Cūḷantevāsika. A youth of good family who, as related in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷantevāsika. Một thanh niên con nhà gia giáo, người, như được kể trong Cūḷakaseṭṭhijātaka (Ja 4), đã kiếm được tiền nhờ trí thông minh của mình, sau khi lắng nghe lời khuyên của Cūḷa Kaseṭṭhi. Cậu được đồng nhất với Cūḷa Panthaka. Ja.i.120f.
 
 ## Notes

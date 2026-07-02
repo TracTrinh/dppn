@@ -5,7 +5,7 @@ base_headword: "Madhurasutta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,8 @@ The Commentary explains (AN­a.ii.646) that the Buddha, during a tour, once ente
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurasutta 02. Về năm bất lợi của Madhurā: mặt đất gồ ghề, có nhiều bụi bặm, có những con chó hung dữ và những Yakkha độc ác, và khó đi khất thực (AN.iii.256).
+
+Chú giải giải thích (AN­a.ii.646) rằng Đức Phật, trong một chuyến du hành, đã từng đi vào Madhurā, và đang trên đường vào nội thành. Nhưng một nữ *yakkha* ngoại đạo nào đó đã đứng trước mặt ngài với thân thể trần truồng, dang rộng hai tay, thè lưỡi ra. Ngay lập tức, Đức Phật quay lại và đi đến *vihāra*, nơi mọi người cúng dường cho ngài và các tỳ-kheo.
 
 ## Notes

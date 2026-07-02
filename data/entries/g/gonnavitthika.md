@@ -5,7 +5,7 @@ base_headword: "Gonnaviṭṭhika"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gonnaviṭṭhika. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonnaviṭṭhika. Một ngôi làng ở Rohaṇa, được Dappula nhường cho *vihāra* Cittalapabbata. Cv.xlv.59.
 
 ## Notes

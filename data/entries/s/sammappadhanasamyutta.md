@@ -5,7 +5,7 @@ base_headword: "Sammappadhānasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sammappadhānasaṁyutta. The forty-ninth section of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammappadhānasaṁyutta. Phần thứ bốn mươi chín của Saṁyuttanikāya. SN.v.244-8.
 
 ## Notes

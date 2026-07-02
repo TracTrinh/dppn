@@ -5,7 +5,7 @@ base_headword: "Gaṇḍāladoṇi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaṇḍāladoṇi. A monastery in Ceylon, near the modern Kandy. The stucco wor
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍāladoṇi. Một tu viện ở Tích Lan, gần Kandy ngày nay. Công trình trang trí bằng vữa của tu viện này do Parakkamabāhu VI thực hiện. Cv.xci.30.
 
 ## Notes

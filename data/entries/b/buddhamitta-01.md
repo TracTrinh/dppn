@@ -5,7 +5,7 @@ base_headword: "Buddhamitta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Buddhamitta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhamitta 01. Buddhamitta Thera. Một đồng đạo của Buddhaghosa và là một trong những người đã yêu cầu ông viết Chú giải Jātaka (Jātaka Commentary) (Ja.i.1; GV. 68). Ông cũng được nhắc đến như người đã yêu cầu Buddhaghosa viết Chú giải Majjhima (Majjhima Commentary). Người ta nói rằng ông đã sống cùng Buddhaghosa tại Mayūrarūpapaṭṭana. MN­a.ii.1029.
 
 ## Notes

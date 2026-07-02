@@ -5,7 +5,7 @@ base_headword: "Brahmadeva"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmadeva 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadeva 03. Brahmadeva Thera. Con trai của một nữ Bà-la-môn. Sau khi gia nhập Saṅgha, ngài sống độc cư và trở thành một vị Arahant. Một ngày nọ, ngài đi khất thực ở Sāvatthī, và, theo lộ trình, đã đi đến nhà mẹ của ngài. Bà đang có thói quen dâng lễ vật hiến tế cho *Brahma*, nhưng, vào ngày hôm đó, Sahampati đã hiện ra trước mặt bà và bảo bà hãy dâng tặng những món quà của bà cho con trai bà. SN.i.140f.
 
 ## Notes

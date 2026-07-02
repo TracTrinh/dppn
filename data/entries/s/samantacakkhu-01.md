@@ -5,7 +5,7 @@ base_headword: "Samantacakkhu"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantacakkhu 01. A king of seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantacakkhu 01. Một vị vua của bảy *kappas* trước, một kiếp trước của Devasabha (Bandhujīvaka) Thera. Thag­a.i.204; Ap.i.176.
 
 ## Notes

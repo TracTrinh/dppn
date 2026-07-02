@@ -5,7 +5,7 @@ base_headword: "Mahā Gāmanāgavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Gāmanāgavihāra. A monastery in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gāmanāgavihāra. Một tu viện ở Rohaṇa nơi Vohārikatissa đã đặt lọng lên bảo tháp (Thūpa) (Mhv.xxxvi.34; Mhv­ṭ.662). Tu viện này có lẽ đồng nhất với Nāgamahāvihāra, được xây dựng bởi Mahā Nāga (q.v.).
 
 ## Notes

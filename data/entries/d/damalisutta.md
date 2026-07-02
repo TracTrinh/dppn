@@ -5,7 +5,7 @@ base_headword: "Dāmalisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāmalisutta. Records the visit of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāmalisutta. Ghi lại chuyến viếng thăm của Dāmali (*q.v.*) đến Đức Phật.
 
 ## Notes

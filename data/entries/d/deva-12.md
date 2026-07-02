@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "12"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Deva 12. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 12. Một trưởng giả của Vedisagiri. Con gái ông là Devī kết hôn với Asoka, người gặp cô khi ở nhà cha cô trên đường đến Ujjenī. Mhv­ṭ.324; Vin-a.i.70.
 
 ## Notes

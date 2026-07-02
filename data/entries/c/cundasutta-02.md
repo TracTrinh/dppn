@@ -5,7 +5,7 @@ base_headword: "Cundasutta"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cundasutta 02. (also called <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundasutta 02. (cũng được gọi là Mahā Cundasutta). Được thuyết bởi Mahā Cunda tại Sahajātī cho nhóm tỳ-kheo tụ hội. Một số người, vốn nhiệt thành về Pháp, lại nói giọng khinh miệt về những người chuyên tâm vào *jhāna* và ngược lại. Đôi khi xảy ra chuyện những người gắn bó với Pháp tán thán những người bạn của họ, và tương tự với những người hết lòng với *jhāna*. Không có điều nào trong số những điều này là có lợi ích cả. Những người nhiệt thành với Pháp nên học cách tán thán những người hăng hái đối với *jhāna* và ngược lại (AN.iii.355f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Piṇḍapātiyatissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -40,6 +40,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Piṇḍapātiyatissa, Culla Piṇḍapātiyatissa (Cūḷa Piṇḍapātikatissa). Một vị tỳ-kheo được nhắc đến trong các Chú giải (e.g., MN­a.i.355) khi giải thích thuật ngữ *muttamuttaka*. Một nữ cư sĩ nọ đã phục vụ ông trong mười hai năm. Một ngày nọ, một trận hỏa hoạn bùng phát trong ngôi làng và thiêu rụi ngôi nhà của bà, cùng với những ngôi nhà của những người khác. Các tỳ-kheo thường được cúng dường tại các ngôi nhà lân cận đã đến đó để hỏi xem liệu có thức ăn nào được dọn ra không, nhưng Tissa đã không đến cho tới giờ thọ thực, và khi được trao cho một bữa ăn mà người phụ nữ đã chuẩn bị với rất nhiều khó khăn, ông đã ăn nó và rời đi mà không nói một lời nào. Tuy nhiên, người phụ nữ không mảy may bận tâm bởi những lời chế nhạo của những người hàng xóm.
+
+Đây có thể là vị Trưởng lão mà, trong Chú giải Aṅguttara (AN­a.i.21f), được nhắc đến là đã cư ngụ tại Gāmeṇḍavāla Mahā Vihāra ở Rohaṇa và đã truyền giới cho Milakkhatissa. Cùng Chú giải đó (i.367) nhắc đến một Cūḷa Piṇḍapātiyatissa của Girivihāra ở (Tích Lan). Ông, bằng thiên nhãn (*dibbacakkhu*) của mình, đã nhìn thấy một người gác cổng gốc Tamil của Madhu-aṅgaṇagāma, người đã làm nghề đánh cá trong năm mươi năm, đang nằm chờ chết. Trưởng lão đã đi đến nhà ông ta và bảo ông ta lặp lại các Quy y và các Giới. Người đàn ông không thể lặp lại ngoài Giới đầu tiên, nhưng sau khi chết, ông ta đã được tái sinh vào cõi Cātummahārājika, và đã đến kể cho Trưởng lão nghe về điều đó.
+
+Visuddhimagga (p.116) nói về một vị Trưởng lão cùng tên có ba người học trò. Họ đến chỗ ông và nói rằng họ sẵn sàng làm bất cứ điều gì vì ông, thậm chí chịu đựng tra tấn và cái chết. Ông nghĩ họ là những “người có triển vọng” và đã thuyết pháp cho họ, nhờ đó họ trở thành các Arahant. Cũng có thể chính vị Trưởng lão này là người đã nhìn thấy một xác chết voi ở hồ Kāḷadīghavāpi và phát triển đề mục thiền của mình về “sự gớm ghiếc đầy giòi bọ” (Ibid., p.191).
 
 ## Notes

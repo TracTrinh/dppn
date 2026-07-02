@@ -5,7 +5,7 @@ base_headword: "Giribbaja"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Giribbaja 01. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribbaja 01. Một cái tên gọi cho Rājagaha (*q.v.*).
 
 ## Notes

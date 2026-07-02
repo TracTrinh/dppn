@@ -5,7 +5,7 @@ base_headword: "Buddharakkhita"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Buddharakkhita 03. A monk of Ceylon to whom is sometimes ascribed the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddharakkhita 03. Một vị tỳ-kheo ở T?ch Lan, người đôi khi được cho là tác giả của Jinālaṅkāra. Ông được cho là sống khoảng năm 426 TCN ở bờ biển phía tây T?ch Lan, đứng đầu một hội chúng tỳ-kheo (PLC.18). Theo những người khác, ông được nói là đã viết cả Jinālaṅkāra và *Ṭīkā* của nó, ví dụ, Gv.72.
 
 ## Notes

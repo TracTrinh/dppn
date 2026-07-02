@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇasaṁyutta. The seventh section of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasaṁyutta. Phần thứ bảy của Saṁyuttanikāya. SN.i.160-84.
 
 ## Notes

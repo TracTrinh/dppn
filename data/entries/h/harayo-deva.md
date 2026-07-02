@@ -5,7 +5,7 @@ base_headword: "Harayo Devā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Harayo Devā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Harayo Devā. Một loại chư thiên có mặt khi Mahā Samayasutta được thuyết giảng (DN.ii.260). Chú giải giải thích (DN­a.ii.691) rằng tất cả đều mang tên Hari.
 
 ## Notes

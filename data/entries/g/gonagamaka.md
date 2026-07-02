@@ -5,7 +5,7 @@ base_headword: "Goṇagāmaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Goṇagāmaka. A landing-place (*paṭṭana*) at the mouth of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇagāmaka. Một bến đổ (*paṭṭana*) tại cửa sông Mahā Kandara, nơi Bhaddakaccānā và những người bạn đồng hành của cô đã lên bờ. Mhv.viii.25; cf.v.12.
 
 ## Notes

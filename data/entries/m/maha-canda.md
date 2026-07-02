@@ -5,7 +5,7 @@ base_headword: "Mahā Canda"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Canda. A river. See <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Canda. Một con sông. Xem Candabhāgā.
 
 ## Notes

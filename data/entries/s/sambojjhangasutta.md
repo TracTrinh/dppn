@@ -5,7 +5,7 @@ base_headword: "Sambojjhaṅgasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambojjhaṅgasutta. A definition of the seven *bojjhaṅgas*. SN.iv.367.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambojjhaṅgasutta. Định nghĩa về bảy *bojjhaṅga*. SN.iv.367.
 
 ## Notes

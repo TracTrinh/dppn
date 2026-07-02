@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "07"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gotama 07. The name of the Brahmin chaplain in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 07. Tên của vị tế sư Bà-la-môn trong Bhikkhāparamparajātaka. Người viết chú giải nói thêm rằng đó là tên *gotta* của ông (Ja.iv.371, 372).
 
 ## Notes

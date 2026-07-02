@@ -5,7 +5,7 @@ base_headword: "Gatipakaraṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gatipakaraṇa. A book composed by a Thera of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatipakaraṇa. Một cuốn sách do một vị Trưởng lão ở Pakudhanagara biên soạn. Gv.65; nhưng xem p.75, nơi tác giả được nói là thuộc về Tích Lan.
 
 ## Notes

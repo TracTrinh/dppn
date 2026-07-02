@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "06"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Dappula 06. *Yuvarājā* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 06. *Yuvarājā* của Dappula III và sau đó là vua, Dappula IV (923-34 TL). Trong triều đại của ông, vị vua Paṇḍu đã đến Tích Lan để tìm kiếm sự giúp đỡ của ông chống lại người Coḷa. Dappula đã sẵn lòng giúp đỡ nhưng đã bị mẹ ông phản đối. Vị chỉ huy của Dappula là Rakkhaka Ilaṅga, người đã xây dựng một nơi ở được đặt theo tên nhà vua. Cv.liii.412.
 
 ## Notes

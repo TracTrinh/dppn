@@ -5,7 +5,7 @@ base_headword: "Ghatajātaka"
 disambiguator: "01"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -31,6 +31,8 @@ Ghatajātaka 01. (Ja 355). The story of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghatajātaka 01. (Ja 355). Câu chuyện về Ghata (1) (*q.v.*). Câu chuyện này được kể liên quan đến một vị đại thần của vua nước Kosala. Ông từng là người được nhà vua sủng ái, nhưng sau đó, do bị những kẻ gièm pha tác động, nhà vua đã tống ông vào ngục, nơi ông đắc Đạo đầu tiên. Khi được thả ra, ông đã đến thăm Đức Phật, và Đức Phật đã kể cho ông nghe câu chuyện Jātaka này.
+
+Ānanda được nhận diện là Vua Vaṅka của Jātaka này. Ja.iii.168ff.
 
 ## Notes

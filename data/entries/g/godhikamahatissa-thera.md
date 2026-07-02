@@ -5,7 +5,7 @@ base_headword: "Godhikamahātissa Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Godhikamahātissa Thera. Teacher of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhikamahātissa Thera. Thầy của Dhammadinna, thuộc Valaṅgatissapabbata (Mhv­ṭ.606).
 
 ## Notes

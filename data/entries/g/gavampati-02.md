@@ -5,7 +5,7 @@ base_headword: "Gavampati"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,6 @@ Gavampati 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavampati 02. Sāsanavaṁsa (p.36f) có nhắc đến một vị Trưởng lão mang tên này, theo lời thỉnh cầu của ngài mà Đức Phật đã đến Sudhammapura trong xứ Rāmañña để thiết lập giáo pháp của Ngài. Trong một tiền kiếp, Gavampati được sinh ra từ một quả trứng do một nàng Nāga đẻ ra, sau khi nàng có quan hệ với một *vijjādhara*. Quả trứng nở ra và một đứa trẻ chào đời, nhưng đứa trẻ ấy chết lúc mười tuổi và tái sinh tại Mithilā với tên Gavampati. Ngài gia nhập Tăng đoàn lúc bảy tuổi và trở thành một vị Arahant. Về sau, ngài đến thăm Sudhammapura để thuyết pháp cho mẹ mình, và tại đó, vua Sīha đã thỉnh cầu ngài mời Đức Phật đến xứ sở của mình.
 
 ## Notes

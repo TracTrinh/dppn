@@ -5,7 +5,7 @@ base_headword: "Dasaṇṇa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dasaṇṇa. A country in Central India. <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasaṇṇa. Một quốc gia ở miền Trung Ấn Độ. Rujā từng tái sinh làm một con bò đực ở đó (Ja.vi.238). Đây dường như là một trung tâm của nghệ thuật rèn kiếm (Ja.iii.338). Erakaccha, một thành phố ở Dasaṇṇa, là nơi ở của trưởng giả (*seṭṭhi*) Dhanapāla (Pv.ii.7). Các vị vua của Dasaṇṇa được gọi là Dasaṇṇā. Dasaṇṇa được nhắc đến trong *Mahā Vastu* (i.34) như là một trong mười sáu *mahājanapadas*, và cả trong *Mahā Bhārata* (ii.5-10) cùng Meghadūta (24-5). Nó thường được nhận dạng với Vidisā hay vùng Bhilsa ở các Tỉnh miền Trung.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bodhisammajjaka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -24,6 +24,6 @@ Bodhisammajjaka Thera. An *Arahant*. In the past he picked up leaves from the co
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisammajjaka Thera. Một Arahant. Trong quá khứ, ngài đã nhặt lá từ sân của một cây bodhi và quét dọn nó (Ap.ii.457). Ngài có thể đồng nhất với Tissa Thera. Thag­a.i.105f.
 
 ## Notes

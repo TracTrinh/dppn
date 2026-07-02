@@ -5,7 +5,7 @@ base_headword: "Mahā Mattā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Mattā. Wife of King <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mattā. Vợ của Vua Vaṅkanāsikatissa. Bà là con gái của Vua Subha, và đã được trao cho một người bạn của ông, một thợ làm gạch, người đã nhận bà làm con gái nuôi của mình. Bà thường mang thức ăn cho ông ta vào buổi trưa. Một ngày nọ, nhìn thấy một vị đạo sĩ trong một bụi cây *kadamba*, bà đã trao cho vị này thức ăn. Người thợ làm gạch đã rất vui mừng, và bảo bà hãy thường xuyên cúng dường thức ăn cho vị tỳ-kheo đó, người đã tiên tri rằng bà sẽ trở thành vương hậu, và dặn bà đừng quên bụi cây *kadamba*. Bà có những tướng tốt trên cơ thể, nhờ đó bà đã được chọn làm vợ của Vaṅkanāsika. Về sau bà nhớ lại những lời của vị Thera và đã xây dựng một *vihāra* trên địa điểm của bụi cây *kadamba*. Mhv.xxxv.101ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dātāsuttā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dātāsuttā. A group of *Suttas* about those who give various kinds of gifts in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dātāsuttā. Một nhóm các bài kinh (*Sutta*) nói về những người hiến tặng nhiều loại đồ cúng dường khác nhau nhằm đạt được những loại hạnh phúc tương ứng sau khi chết (SN.iii.250f).
 
 ## Notes

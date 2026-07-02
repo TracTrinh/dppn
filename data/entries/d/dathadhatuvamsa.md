@@ -5,7 +5,7 @@ base_headword: "Dāṭhādhātuvaṁsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāṭhādhātuvaṁsa. A Pāli Chronicle containing the history of the Tooth Re
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhādhātuvaṁsa. Một Biên niên sử tiếng Pāli chứa đựng lịch sử về Xá-lợi Răng. Nó dường như khác với Dāṭhāvaṁsa và rõ ràng là một tác phẩm ra đời sớm hơn. Cv.xxxvii.93; PLC.66, 209.
 
 ## Notes

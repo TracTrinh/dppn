@@ -5,7 +5,7 @@ base_headword: "Damiḷa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -37,6 +37,6 @@ Damiḷa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Damiḷa, Damiḷas. Tên của một dân tộc (người Tamil) có quê hương ở Nam Ấn. Các biên niên sử Tích Lan (Mhv., Cv., và Dpv., *passim*) chứa các ghi chép về những cuộc xâm lược Tích Lan của những người Damiḷa, trong đó đáng chú ý nhất là cuộc xâm lược đã bị Duṭṭhagāmaṇī đẩy lùi. Thủ lĩnh của người Damiḷa trong dịp đó là Eḷāra. Những người Damiḷa khác được nhắc đến tên trong Mahā Vaṁsa là Sena, Gutta, Pulahattha, Vaṭuka và Niliya. Số lượng lớn người Damiḷa đã định cư ở Tích Lan, chủ yếu ở phía bắc và phía đông của hòn đảo, và theo thời gian, đã giành quyền kiểm soát phần đất đó của đất nước. Họ được một số vị vua Sinhalese thuê làm lính đánh thuê và nhiều người đã bị bắt làm tù binh (e.g., Cv.lxx.230; lxxv.20, 69; lxxviii.76, etc.). Tiếng Damiḷa (*bhāsā*) được nhắc đến trong số mười tám ngôn ngữ không thuộc gốc Aryan (e.g., Vibh­a.388; ngôn ngữ này có đầy các phụ âm, AN­a.i.409). Trong Akittijātaka (Ja.iv.238), *Damiḷaraṭṭha* được nói đến như là bao gồm cả vùng xung quanh Kāvīrapaṭṭana, trong khi ở chú giải Petavatthu (p.133), nó được nói đến như là một phần của Dakkhiṇapātha.
 
 ## Notes

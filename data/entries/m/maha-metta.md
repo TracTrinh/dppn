@@ -5,7 +5,7 @@ base_headword: "Mahā Metta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Metta. A Bodhi-tree, planted in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Metta. Một cây bodhi, được trồng trong Mahā Vihāra bởi Jeṭṭhatissa III. Cv.xliv.96.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gilānasutta 03. The same as the above, except that the topic is final emancipat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 03. Tương tự như trên, ngoại trừ chủ đề là sự giải thoát cuối cùng không còn chấp thủ (*anupādāparinibbāna*). SN.iv.47.
 
 ## Notes

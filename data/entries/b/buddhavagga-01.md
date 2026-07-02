@@ -5,7 +5,7 @@ base_headword: "Buddhavagga"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Buddhavagga 01. The fourteenth chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhavagga 01. Chương thứ mười bốn của Dhammapada.
 
 ## Notes

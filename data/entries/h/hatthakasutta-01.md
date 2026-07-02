@@ -5,7 +5,7 @@ base_headword: "Hatthakasutta"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthakasutta 01. Describes the visit to the Buddha of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthakasutta 01. Mô tả cuộc viếng thăm Đức Phật của Hatthaka Āḷavaka sau khi ông tái sinh làm một *Devaputta* (*Brahma*) tại Avihā. AN.i.278f.
 
 ## Notes

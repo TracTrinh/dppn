@@ -5,7 +5,7 @@ base_headword: "Samiddhisutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samiddhisutta 04. Records a lesson given by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhisutta 04. Ghi lại một bài học mà Sāriputta đã dạy cho Samiddhi về *saṅkappavitakkā* (những suy nghĩ có chủ đích). AN.iv.385 f.
 
 ## Notes

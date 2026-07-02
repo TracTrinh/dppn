@@ -5,7 +5,7 @@ base_headword: "Samaṇasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇasutta 02. On the four kinds of monk to be found in the Saṅgha *Sotāpa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇasutta 02. Về bốn hạng tỳ-kheo có thể tìm thấy trong Tăng đoàn: *Sotāpannas*, *Sakadāgāmīs*, *Anāgāmīs* và *Arahants*. Những hạng này không thể tìm thấy nơi những người theo các giáo thuyết khác. AN.ii.238.
 
 ## Notes

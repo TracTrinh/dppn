@@ -5,7 +5,7 @@ base_headword: "Gandhasutta"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -23,6 +23,6 @@ Gandhasutta 01. See Isayo Sutta ??
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhasutta 01. Xem Isayo Sutta ??
 
 ## Notes

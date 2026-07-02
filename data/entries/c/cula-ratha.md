@@ -5,7 +5,7 @@ base_headword: "Cūḷa Ratha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Ratha, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Ratha, Cūla Ratha. Một thiên tử ở Tāvatiṁsa, người đã vượt trội hơn Sakka về sự vinh quang. Dhp­a.i.426.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṁvara"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Saṁvara 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvara 02. Vị Ājīvaka được nhắc đến trong Paṇḍarajātaka (Ja 518). Ja.v.87; xem chú giải, sách đã dẫn, dòng 27.
 
 ## Notes

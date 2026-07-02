@@ -5,7 +5,7 @@ base_headword: "Eṇī"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -31,6 +31,8 @@ Eṇī. A river. According to the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eṇī. Một con sông. Theo Bakabrahmajātaka (Ja 405), một trong những hành động thiện lành của Baka mang lại cho vị này sự tái sinh vào cõi Phạm thiên (*Brahma*) là việc đã giải cứu cho những người dân của một ngôi làng trên bờ sông Eṇī (*Eṇikūle*), khi ngôi làng bị tấn công.
+
+Khi đó Baka là một đạo sĩ tên là Kesava và Bodhisatta là đệ tử của vị này, Kappa. SN.i.143; Ja.iii.361; SN­a.i.163.
 
 ## Notes

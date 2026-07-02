@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "09"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gotama 09. A Thera in Ceylon who wrote a Sinhalese paraphrase to the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 09. Một vị Thera ở Tích Lan, người đã viết một bản diễn giải tiếng Sinhalese cho quyển Sambandhacintā. Ông thuộc phái *Araññavāsī* và là đệ tử của Vanaratana Ānanda (PLC.199, 220).
 
 ## Notes

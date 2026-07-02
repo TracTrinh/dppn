@@ -5,7 +5,7 @@ base_headword: "Hāritajātaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -30,6 +30,8 @@ The story was told in reference to a monk who had grown discontented because of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hāritajātaka (Ja 431). Vị Bodhisatta sinh ra trong một gia đình Bà-la-môn giàu có và được gọi là Harittaca vì có màu da vàng óng. Khi cha qua đời, ngài từ bỏ đời sống thế tục và trở thành một vị khổ hạnh, có thần thông lớn. Ngài đến Benares, và được nhà vua mời đến sống trong ngự uyển. Ngài nhận lời mời và sống ở đó mười hai năm. Khi đó nhà vua phải rời đi để dẹp yên một cuộc nổi loạn ở biên giới, và dặn hoàng hậu chăm sóc vị khổ hạnh. Một hôm, khi vị Bodhisatta đến trễ giờ ăn, hoàng hậu vội vàng đứng dậy và tấm y lụa mịn của bà tuột xuống. Harittaca bị dục vọng chi phối, và, nắm lấy tay bà, kéo màn quanh hai người, ngài đã ăn nằm với bà. Việc này sau đó diễn ra hằng ngày và tai tiếng lan truyền khắp nơi. Các vị đại thần viết thư báo cho nhà vua, nhưng nhà vua không chịu tin họ. Khi trở về, ông tra hỏi hoàng hậu, bà thú nhận lỗi lầm của mình, nhưng ngay cả khi đó nhà vua vẫn không chịu tin cho đến khi Harittaca (hay còn gọi là Hārita) thừa nhận tội lỗi của mình. Nhà vua hết sức khâm phục sự trung thực của ngài và tha thứ cho ngài, nhưng Harittaca, sau khi thuyết giảng cho nhà vua về nỗi khổ của dục vọng tội lỗi, một lần nữa vận dụng thần thông, từ biệt nhà vua, và trở về Himālaya.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo trở nên bất mãn vì một người phụ nữ xinh đẹp. Ja.iii.496-501.
 
 ## Notes

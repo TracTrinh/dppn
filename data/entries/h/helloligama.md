@@ -5,7 +5,7 @@ base_headword: "Helloligāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Helloligāma. A village in Ceylon. King <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Helloligāma. Một ngôi làng ở Tích Lan. Vua Buddhadāsa đã cứu một phụ nữ *Caṇḍāla* tại đó khỏi chết khi sinh nở. Cv.xxxvii.140.
 
 ## Notes

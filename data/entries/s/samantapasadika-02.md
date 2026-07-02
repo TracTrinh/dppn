@@ -5,7 +5,7 @@ base_headword: "Samantapāsādika"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantapāsādika 02. Seventy-eight *kappas* ago there were sixteen kings of thi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantapāsādika 02. Bảy mươi tám *kappas* trước có mười sáu vị vua mang tên này, là những kiếp trước của Hatthidāyaka Thera. Ap.i.208.
 
 ## Notes

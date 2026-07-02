@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammakathī Thera"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Dhammakathī Thera 02. An incumbent of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Mahā Dhammakathī 02. Một người trú trì của tu viện Nāgasāla. Kassapa II đã thể hiện sự tôn kính lớn lao đối với ông và thỉnh cầu ông thuyết giảng Pháp (Dhamma). Cv.xlv.2.
 
 ## Notes

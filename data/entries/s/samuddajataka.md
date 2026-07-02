@@ -5,7 +5,7 @@ base_headword: "Samuddajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,8 @@ The story was related in reference to the great greediness of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddajātaka (Ja 296). Bodhisatta từng là một vị thần biển, và nghe thấy một con quạ nước bay lượn, cố ngăn các đàn cá và đàn chim, nói rằng, “Đừng uống quá nhiều nước biển, hãy cẩn thận kẻo làm cạn biển.” Vị thần biển, thấy sự tham lam của nó, đã hiện ra một hình dạng đáng sợ và khiến nó hoảng sợ bỏ chạy.
+
+Câu chuyện này được kể liên quan đến sự tham lam lớn lao của Upananda người Sākyan (*q.v.*). Vị ấy được nhận diện là con quạ nước. Ja.ii.441f.
 
 ## Notes

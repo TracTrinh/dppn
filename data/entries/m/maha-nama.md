@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāma. A lake in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma. Một hồ nước ở Nāgadīpa. Gần đó có Mucalindavana. Ras.ii.18; xem thêm Naga.
 
 ## Notes

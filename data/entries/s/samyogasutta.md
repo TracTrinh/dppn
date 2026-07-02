@@ -5,7 +5,7 @@ base_headword: "Saṁyogasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saṁyogasutta. On how men and women forge bonds for themselves by being attache
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁyogasutta. Về cách những người nam và nữ tự tạo ra các mối trói buộc cho mình do sự chấp thủ vào ái dục. AN.iv.57.
 
 ## Notes

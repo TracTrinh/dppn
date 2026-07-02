@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "05"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhi 05. A monk of Ceylon. At his request <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 05. Một tỳ-kheo của Ceylon. Theo yêu cầu của ông, Silāmeghavaṇṇa đã ban hành một đạo luật nhằm chống lại những tỳ-kheo vô kỷ luật của Abhayagirivihāra. Các tỳ-kheo, bị trục xuất theo đạo luật này, đã hợp mưu với nhau và giết chết Bodhi. Nhưng nhà vua đã nỗ lực trở lại và, để tưởng nhớ Bodhi, đã thành công trong việc thanh lọc Tăng đoàn. Cv.xliv.75.
 
 ## Notes

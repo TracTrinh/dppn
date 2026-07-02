@@ -5,7 +5,7 @@ base_headword: "Harantika"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Harantika. A thief who later became an *Arahant*. See <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Harantika. Một tên trộm, về sau trở thành một vị *Arahant*. Xem Āraññaka Mahā Abhaya.
 
 ## Notes

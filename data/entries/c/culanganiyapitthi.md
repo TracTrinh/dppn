@@ -5,7 +5,7 @@ base_headword: "Cūḷaṅganiyapiṭṭhi"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -28,6 +28,6 @@ Cūḷaṅganiyapiṭṭhi. A locality in <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷaṅganiyapiṭṭhi. Một địa phương ở Rohaṇa. Tại đó đã diễn ra một trận chiến giữa Duṭṭhagāmaṇī và em trai của ông, Tissa, khi Gāmaṇi bị đánh bại và buộc phải bỏ chạy. Mhv.xxxiv.19; xem thêm xxxii.31f.; và AN­a.i.365.
 
 ## Notes

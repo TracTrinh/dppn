@@ -5,7 +5,7 @@ base_headword: "Gaggaligāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaggaligāma. A village built by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggaligāma. Một ngôi làng do Mahosadha xây dựng ở phía bên kia sông Ganges; tại đó ông đã bố trí voi, ngựa, gia súc, v.v., trong khi cho xây dựng đường hầm lớn (Ja.vi.431).
 
 ## Notes

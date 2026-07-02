@@ -5,7 +5,7 @@ base_headword: "Devakūṭa"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Devakūṭa 01. The name of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devakūṭa 01. Tên của Cetiyapabbata vào thời Kakusandha Buddha. Đức Phật viếng nơi ấy, và toàn thể dân chúng Ojadīpa (tên gọi của Tích Lan khi ấy) đảnh lễ Ngài. Mhv.xv.63; Vin-a.i.86; Dpv.xv.38; xvii.14, 32.
 
 ## Notes

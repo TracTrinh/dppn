@@ -5,7 +5,7 @@ base_headword: "Dantageha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dantageha (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantageha (*v.l.* Dantaroha). Một ni viện do Kuṭakaṇṇatissa thành lập cho mẹ của ông. Bà đã gia nhập Tăng đoàn, sau khi vừa mới làm sạch răng của mình – do đó có tên này (Mhv.xxxiv.36; Mhv­ṭ.628).
 
 ## Notes

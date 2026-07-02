@@ -5,7 +5,7 @@ base_headword: "Mahā Gaṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Gaṇa. One of the three chief buildings of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gaṇa. Một trong ba tòa nhà chính của Upāsikāvihāra (q.v.). Sau này nó được gọi là Piyathapitaghara. Mhv­ṭ. 408, 409.
 
 ## Notes

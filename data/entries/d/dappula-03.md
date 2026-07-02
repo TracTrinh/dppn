@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,6 @@ Dappula 03. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 03. Em trai của Aggabodhi VIII., người mà ông đã kế vị ngai vàng với tư cách là Dappula II, (812 – 28 TL.). Ông có một vị *senāpati* tên là Vajira và một cô con gái tên là Devā. Em gái của ông đã kết hôn với Mahinda, nhà cai trị của Rohaṇa, và Dappula đã nhận nuôi các con trai của Mahinda khi họ bị cha mình đuổi đi. Dappula đã xây dựng lại Hatthikucchivihāra, Vāhadīpavihāra và Lāvarāvapabbatavihāra, và mở rộng sảnh đường Mahā Pāli, cùng với nhiều hành động sùng đạo khác. Cv.xlix.65.
 
 ## Notes

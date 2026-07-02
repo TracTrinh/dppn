@@ -5,7 +5,7 @@ base_headword: "Mahā Datta"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Datta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Datta 02. Mahā Datta Thera. Một vị tỳ-kheo thường trú tại Haṅkanaka, người đã tin tưởng sai lầm rằng mình là một vị Arahant do sự không khởi sinh của những phiền não. Vsm.634; Vibh-a.489.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Madhukavanagaṇṭhi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Madhukavanagaṇṭhi. A locality in Ceylon. Cv.lxx.325.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhukavanagaṇṭhi. Một địa phương ở Tích Lan. Cv.lxx.325.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samayasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samayasutta 04. The introductory part of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayasutta 04. Phần dẫn nhập của Mahā Samayasutta (*q.v.*), được đưa vào Saṁyutta. SN.i.26f.
 
 ## Notes

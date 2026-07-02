@@ -5,7 +5,7 @@ base_headword: "Haṁsa"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Haṁsa 01. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsa 01. Một tòa cung điện mà Kassapa Buddha đã ở trong kiếp sống tại gia cuối cùng, trước khi xuất gia. Bv.xxv.35; Bva.217 gọi đó là Haṁsavā.
 
 ## Notes

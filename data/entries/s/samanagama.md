@@ -5,7 +5,7 @@ base_headword: "Samaṇagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇagāma. A village in Ceylon. Ras.ii.11.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇagāma. Một ngôi làng ở Tích Lan. Ras.ii.11.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷāmaṇicetiya"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -30,6 +30,8 @@ After the Buddha’s death, <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷāmaṇicetiya. Một *cetiya* ở Tāvatiṁsa cao một do-tuần, được Sakka xây dựng trên mớ tóc bị Đức Phật cắt bỏ khi Ngài khoác lên mình y phục của một đạo sĩ trên bờ sông Anomā (Ja.i.65).
+
+Sau khi Đức Phật viên tịch, Sakka đã thêm vào mớ tóc xương quai xanh bên phải do ông lấy từ Doṇa (xem từ này), người đang cố giấu nó trong khăn xếp của mình. DN­a.ii.609; Mhv­ṭ.376; Bv­a.235; Mhv.xvii.20.
 
 ## Notes

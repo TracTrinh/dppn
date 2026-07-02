@@ -5,7 +5,7 @@ base_headword: "Dāmā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāmā. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāmā. Một *Aggasāvikā* của Đức Phật Vessabhū. Bv.xxii.24; Ja.i.42.
 
 ## Notes

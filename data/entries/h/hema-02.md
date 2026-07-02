@@ -5,7 +5,7 @@ base_headword: "Hemā"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hemā 02. An eminent Therī who accompanied <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemā 02. Một vị Trưởng lão ni ưu tú, đã cùng Saṅghamittā đến Tích Lan. Dpv.xv.78; xviii.11.
 
 ## Notes

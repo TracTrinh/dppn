@@ -5,7 +5,7 @@ base_headword: "Samuddavihāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,6 @@ Samuddavihāra. A *vihāra* built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddavihāra. Một *vihāra* do Mahā Dāṭhika Mahā Nāga xây dựng (Mhv.xxxiv.90), nhưng có một vị tỳ-kheo, tên là Mahā Nāga, được cho là đã sống tại Samuddavihāra vào thời Duṭṭhagāmaṇī (Mhv­ṭ. 606). Có lẽ Mahā Dāṭhika chỉ trùng tu lại nó mà thôi.
 
 ## Notes

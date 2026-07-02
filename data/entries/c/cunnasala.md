@@ -5,7 +5,7 @@ base_headword: "Cuṇṇasālā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cuṇṇasālā. A district in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cuṇṇasālā. Một quận ở Rohaṇa. Cv.lvii.46, 57.
 
 ## Notes

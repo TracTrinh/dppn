@@ -5,7 +5,7 @@ base_headword: "Dāṭhāvaḍḍhana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhāvaḍḍhana. A village in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāvaḍḍhana. Một ngôi làng ở Rohaṇa, được nhắc đến trong các chiến dịch của Parakkamabāhu 1 (Cv.lxxiv.77).
 
 ## Notes

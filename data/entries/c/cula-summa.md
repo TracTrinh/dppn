@@ -5,7 +5,7 @@ base_headword: "Cūḷa Summa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -35,6 +35,6 @@ Cūḷa Summa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Summa, Cūla Summa. Một nhà Chú giải lỗi lạc của Tích Lan, thầy của *Tipiṭaka* Cūḷa Nāga. Người học trò dường như đã không đồng tình với một số lời giải thích của thầy mình – ví dụ, về ý nghĩa của *ekāyanamagga*. Cūḷa Nāga nói rằng nó đề cập đến *pubbabhāgasatipaṭṭhānamagga*, nhưng Cūḷa Summa cho rằng nó đề cập đến *missakamagga*. Họ không thể đi đến quyết định nào; nhưng trong khi đang trên đường đến nơi tắm rửa, Cūḷa Summa đã xoay vần vấn đề này trong tâm trí mình, và khám phá ra rằng học trò của mình đúng nên đã thông báo sự sai sót của mình khi Cūḷa Nāga đang thuyết pháp vào ngày thượng huyền. Cūḷa Nāga, nhận ra rằng ngay cả thầy của mình cũng có thể lầm lạc về điểm này, đã giải thích điều đó rất chi tiết vì lợi ích cho các thế hệ tương lai (DN­a.iii.744f.; MN­a.i.187). Aṅguttara Commentary gọi ông là Dīpavihāravāsī (AN­a.ii.845), trong khi Vibhaṅga Commentary nói rằng ông cư ngụ tại Niṅkaponnapadhānaghara ở Cittalapabbata (p.489; có lẽ Cūḷa Summa ở đây là một sự đọc sai cho Cūḷa Sumana). Samantapāsādikā (iv.892) nói rằng ông sống ở Rohaṇa.
 
 ## Notes

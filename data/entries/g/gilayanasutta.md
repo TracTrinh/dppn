@@ -5,7 +5,7 @@ base_headword: "Gilāyanasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gilāyanasutta. As he is about to leave the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilāyanasutta. Khi Ngài chuẩn bị rời Nigrodhārāma ở Kapilavatthu để bắt đầu một chuyến du hành, Đức Phật được Mahā Nāma đến thăm, vị này đã hỏi Ngài về cách khuyên răn một cư sĩ bị bệnh. Đức Phật trả lời rằng người đó nên được yêu cầu hãy tìm thấy sự an ủi trong lòng trung thành của mình đối với Đức Phật, Dhamma và Tăng đoàn, và trong việc sở hữu các đức hạnh của bậc Thánh. Người đó nên được chỉ cho thấy sự vô ích của việc khao khát cha mẹ, con cái và các dục lạc của các giác quan, và nếu có thể, nên được thuyết phục để khát vọng không phải là tái sinh, mà là giải thoát. SN.v.408f.
 
 ## Notes

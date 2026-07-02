@@ -5,7 +5,7 @@ base_headword: "Mahā Maṅgala Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Maṅgala Thera. A monk present at the foundation ceremony of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṅgala Thera. Một tỳ-kheo có mặt tại lễ đặt nền móng của Mahā Thūpa. Mhv­ṭ. 524.
 
 ## Notes

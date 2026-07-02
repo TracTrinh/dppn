@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "06"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 06. A *Deva* visits the Buddha and asks him questions as to what 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 06. Một vị thiên nhân đến thăm Đức Phật và hỏi ngài những câu hỏi về việc hạng người nào là kẻ keo kiệt và điều gì đang chờ đợi người rộng lượng. Đức Phật trả lời. SN.i.34.
 
 ## Notes

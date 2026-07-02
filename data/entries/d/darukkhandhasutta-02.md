@@ -5,7 +5,7 @@ base_headword: "Dārukkhandhasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dārukkhandhasutta 02. The Buddha, while staying at <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārukkhandhasutta 02. Đức Phật, trong khi đang trú tại Kosambī, nhìn thấy một khúc gỗ lớn trôi xuôi theo dòng sông, và nói với các tỳ-kheo rằng giống như khúc gỗ, nếu nó không bị mắc cạn trên bờ, hoặc chìm giữa dòng, hoặc mắc vào bãi cạn, hoặc rơi vào tay con người hay phi nhân, hoặc bị mắc vào một xoáy nước, hoặc bị mục nát từ bên trong, thì chắc chắn sẽ trôi xuống tận đại dương; cũng như vậy một tỳ-kheo, không nghi ngờ gì nữa, sẽ trôi đến *Nibbāna* nếu vị ấy thoát khỏi những mối nguy hiểm trên đường đi. Các tỳ-kheo hỏi những mối nguy hiểm đó là gì, và Đức Phật giải thích cho họ, dựa trên sự tương đồng với những mối nguy hiểm bủa vây khúc gỗ. Vào cuối bài pháp, người chăn bò Nanda, người đã lắng nghe, đã gia nhập Tăng đoàn. SN.iv.179f.
 
 ## Notes

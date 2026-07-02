@@ -5,7 +5,7 @@ base_headword: "Māgandiyasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māgandiyasutta 01. The conversation between <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiyasutta 01. Cuộc trò chuyện giữa Māgandiya và Đức Phật sau khi ông ta đề nghị gả con gái mình cho Đức Phật. Māgandiya bày tỏ quan điểm rằng sự thanh tịnh đến từ triết học, từ những cuộc tranh luận và thảo luận, sự học hỏi và những pháp tu khổ hạnh. Đức Phật phủ nhận điều này, và nói rằng sự thanh tịnh đến từ sự bình an nội tâm. Bậc hiền trí (*muni*) là người tuyên xưng sự bình an và không đắm chìm vào những cuộc tranh chấp. Snp.vs.835-47.
 
 ## Notes

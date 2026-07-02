@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammapālajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -34,6 +34,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhammapālajātaka (Ja 447). Tại Dhammapāla, một ngôi làng của xứ Kāsi, có một gia đình sinh sống mà người đứng đầu là Mahā Dhammapāla. Bodhisatta là con trai của ông, và được gọi là Dhammapāla kumāra. Chàng đến học tại Takkasilā. Ở đó, người con trai cả của vị đạo sư qua đời, nhưng giữa mọi lời than khóc, người ta nhận thấy rằng Dhammapāla không hề rơi lệ. Khi bị các bạn học gặng hỏi làm sao chàng có thể kìm nén được, chàng trả lời rằng vì bất kỳ người trẻ tuổi nào cũng không thể chết, chàng không tin người bạn của mình đã chết. Vị đạo sư hỏi chàng về điều này, và phát hiện ra rằng trong gia đình của Dhammapāla không có ai chết trẻ. Muốn biết liệu điều này có đúng hay không, ông đã rời Takkasilā và đi đến nhà của Dhammapāla, mang theo bộ xương của một con dê. Sau khi sự chào đón lắng xuống, ông báo tin cho Dhammapāla rằng con trai ông ta đã chết, và cầu xin ông ta đừng đau buồn. Nhưng Dhammapāla đã vỗ tay và bật cười, nói rằng một điều như vậy không bao giờ có thể xảy ra vì chưa từng có thành viên nào trong gia đình họ chết trẻ. Sau đó ông bảo với vị Bà-la-môn, để trả lời câu hỏi của vị này, rằng họ có được sự trường thọ là nhờ vào thực tế rằng họ đã sống những cuộc đời tốt đẹp.
+
+Câu chuyện đã được kể cho Suddhodana, người đã nói với Đức Phật về việc, khi Bodhisatta đang thực hành khổ hạnh khốc liệt, một số chư thiên đã đến gặp ông (Suddhodana) và nói rằng Ngài đã chết. Nhưng ông đã từ chối tin họ. Suddhodana là Mahā Dhammapāla và vị đạo sư là Sāriputta (Ja.iv.50-55). Vào lúc kết thúc Jātaka, Suddhodana trở thành một vị Anāgāmī và Mahā Pajāpatī Gotamī trở thành một vị Sotāpanna. Dhp­a.i.99; Ja.i.92.
 
 ## Notes

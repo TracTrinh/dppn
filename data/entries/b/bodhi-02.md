@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhi 02. One of the eight Brahmins who recognized the signs at the birth of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 02. Một trong tám vị Bà-la-môn đã nhận ra các tướng vào lúc Đức Phật đản sinh. Ja.i.56; trong Milinda (236) ông được gọi là Subodhi.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devadūtavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devadūtavagga. The fourth chapter of the *Tikanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadūtavagga. Chương thứ tư của *Tikanipāta* thuộc Aṅguttaranikāya (AN.i.132-50).
 
 ## Notes

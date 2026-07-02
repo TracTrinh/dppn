@@ -5,7 +5,7 @@ base_headword: "Gokaṇṇanāṇḍanāyaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gokaṇṇanāṇḍanāyaka. A <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gokaṇṇanāṇḍanāyaka. Một tù trưởng người Damiḷa tại Muṇḍannānaṅkoṭṭa. Cv.lxxvi.212.
 
 ## Notes

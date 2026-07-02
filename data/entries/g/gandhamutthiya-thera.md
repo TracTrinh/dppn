@@ -5,7 +5,7 @@ base_headword: "Gandhamuṭṭhiya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhamuṭṭhiya Thera. An *Arahant*. One hundred thousand *kappas* ago he gav
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhamuṭṭhiya Thera. Một vị Arahant. Một trăm ngàn *kappa* trước, ngài đã dâng một nắm hương liệu để dựng giàn hỏa táng (của một vị Phật). Ap.i.292; cp. Gandhapūjaka.
 
 ## Notes

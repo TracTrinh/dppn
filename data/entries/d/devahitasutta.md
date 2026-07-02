@@ -5,7 +5,7 @@ base_headword: "Devahitasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devahitasutta. Records the incident related above about <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devahitasutta. Ghi lại sự kiện kể trên về Devahita. SN.i.174f.
 
 ## Notes

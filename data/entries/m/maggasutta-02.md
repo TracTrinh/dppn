@@ -5,7 +5,7 @@ base_headword: "Maggasutta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maggasutta 02. The Buddha tells the monks how, while yet a Bodhisatta, he discov
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasutta 02. Đức Phật kể cho các tỳ-kheo nghe về việc khi còn là một Bodhisatta, ngài đã khám phá ra phương pháp tu tập các *iddhipāda* như thế nào. SN.v.281.
 
 ## Notes

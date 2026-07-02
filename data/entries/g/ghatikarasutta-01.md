@@ -5,7 +5,7 @@ base_headword: "Ghaṭīkārasutta"
 disambiguator: "01"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -30,6 +30,6 @@ Ghaṭīkārasutta 01. Preached during a tour in <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭīkārasutta 01. Được thuyết giảng trong một chuyến du hành ở Kosala. Đức Phật rẽ khỏi con đường chính và, khi đi đến địa điểm từng là Vehaliṅga, Ngài mỉm cười. Khi được Ānanda hỏi lý do cho nụ cười của Ngài, Đức Phật đã kể cho ông và các vị tỳ-kheo nghe câu chuyện về Ghaṭīkāra, người thợ gốm của Vehaliṅga, như đã đưa ra ở trên (MN.ii.45ff). Người ta nói (MN­a.ii.717) rằng Đức Phật muốn cho các tỳ-kheo biết đến sự sùng đạo to lớn của Ghaṭīkāra. *Sutta* này đã được lặp lại tại một điện thờ gần Todeyya, nơi đang được người dân chiêm bái mà họ không biết được ý nghĩa của nó. Đức Phật đã kể lại *Sutta* này và giải thích rằng điện thờ đó là bảo tháp của Kassapa Buddha. Dhp­a.iii.251.
 
 ## Notes

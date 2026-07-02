@@ -5,7 +5,7 @@ base_headword: "Dāṭhaggabodhi"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāṭhaggabodhi 02. A *pariveṇa* in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhaggabodhi 02. Một *pariveṇa* ở Mahā Gāma, được xây dựng bởi Aggabodhi, con trai của Mahā Tissa và Saṅghasivā. Cv.xlv.42.
 
 ## Notes

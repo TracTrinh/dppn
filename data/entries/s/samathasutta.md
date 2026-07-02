@@ -5,7 +5,7 @@ base_headword: "Samathasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samathasutta. A monk should practise introspection as to whether he has won insi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samathasutta. Một tỳ-kheo nên tự quán sát xem mình đã đạt được tuệ giác cao hơn và tuệ tri về Pháp hay chưa, cũng như sự an tịnh của tâm. Rồi vị ấy phải nỗ lực đặc biệt để đạt được những gì mình chưa đạt được, và phải thọ dụng các vật dụng cần thiết theo cách sao cho các trạng thái bất thiện suy giảm nơi mình và các trạng thái thiện tăng trưởng. AN.v.98ff.
 
 ## Notes

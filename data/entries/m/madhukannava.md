@@ -5,7 +5,7 @@ base_headword: "Madhukaṇṇava"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhukaṇṇava. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhukaṇṇava. Một hoàng tử Kāliṅga, anh em trai của Tilokasundarī hoàng hậu của Vijayabāhu I. Ông đã đến Tích Lan, và nhà vua đã bày tỏ lòng tôn kính lớn đối với ông. Cv.lix.46.
 
 ## Notes

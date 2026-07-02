@@ -25,7 +25,7 @@ The Commentary (SN­a.i.42) explains that it refers to the four types of deportm
 
 ## Vietnamese translation
 
-Catucakkasutta. Một vị thiên thần hỏi làm thế nào có thể thoát khỏi thân thể. Bằng sự đoạn diệt tham ái, Đức Phật trả lời (SN.i.16). Thân thể ở đây được nói đến như một “vật có bốn bánh xe.”
+Catucakkasutta. Một vị thiên nhân hỏi làm thế nào có thể thoát khỏi thân thể. Bằng sự đoạn diệt tham ái, Đức Phật trả lời (SN.i.16). Thân thể ở đây được nói đến như một “vật có bốn bánh xe.”
 
 Bản Chú giải (SN­a.i.42) giải thích rằng nó đề cập đến bốn loại oai nghi – đứng, ngồi, nằm, đi.
 

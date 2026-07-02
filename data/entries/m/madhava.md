@@ -5,7 +5,7 @@ base_headword: "Mādhava"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mādhava. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mādhava. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.77, 79.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dasagaṇṭhivaṇṇanā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dasagaṇṭhivaṇṇanā. A *ṭīkā* by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasagaṇṭhivaṇṇanā. Một *ṭīkā* do Vepullabuddhi của Pagan viết, giảng giải về Abhidhammatthasaṅgaha (Gv.64, 74).
 
 ## Notes

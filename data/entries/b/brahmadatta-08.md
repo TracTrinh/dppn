@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "08"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmadatta 08. Pupil of the *Paribbājaka* <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 08. Đệ tử của *Paribbājaka* Suppiya. Một cuộc trò chuyện giữa hai người này đã dẫn đến việc thuyết giảng Brahmajālasutta. DN.i.1.
 
 ## Notes

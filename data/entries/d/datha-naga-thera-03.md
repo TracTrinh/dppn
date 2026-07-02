@@ -5,7 +5,7 @@ base_headword: "Dāṭhā Nāga Thera"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāṭhā Nāga Thera 03. A monk of Ceylon, author of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhā Nāga Thera 03. Một tỳ-kheo của Tích Lan, tác giả của Niruttisāramañjūsā. Svd.1241; but see Bode, 29.
 
 ## Notes

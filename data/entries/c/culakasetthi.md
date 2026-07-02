@@ -5,7 +5,7 @@ base_headword: "Cūḷakaseṭṭhi"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -27,6 +27,6 @@ Cūḷakaseṭṭhi, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷakaseṭṭhi, Cullakaseṭṭhi. Bodhisatta, được sinh ra là một trưởng giả ở Benares. Xem Cūḷakaseṭṭhijātaka (Ja 4).
 
 ## Notes

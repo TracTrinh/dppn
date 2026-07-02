@@ -5,7 +5,7 @@ base_headword: "Hallolagāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hallolagāma. A *Caṇḍāla* village near <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hallolagāma. Một ngôi làng *Caṇḍāla* gần Anurādhapura, nơi Asokamālā sinh ra (Ras.ii.117). Ở nơi khác, làng này được mô tả là gần Mahā Gama (Ras.ii.125).
 
 ## Notes

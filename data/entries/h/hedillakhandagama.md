@@ -5,7 +5,7 @@ base_headword: "Hedillakhaṇḍagāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hedillakhaṇḍagāma. A ford in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hedillakhaṇḍagāma. Một bến lội qua sông Mahā Vālukagaṅgā. Cv.lxxii.45.
 
 ## Notes

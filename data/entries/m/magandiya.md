@@ -5,7 +5,7 @@ base_headword: "Māgandiyā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -39,6 +39,12 @@ Once more <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiyā. Con gái của Bà-la-môn Māgandiya. Khi Gotama Buddha từ chối lời đề nghị gả cô của cha cô, cha mẹ cô đã gia nhập Tăng đoàn, giao phó cô cho chú của cô là Cūḷa Māgandiya chăm sóc. Cūḷa Māgandiya đưa cô đến gặp Udena, vua của Kosambī, người đã phong cô làm vương phi chính, ban cho cô năm trăm cung nữ hầu hạ. Māgandiyā vô cùng tức giận Đức Phật vì ngài đã gọi cô là một “cái bình chứa đồ ô uế,” và, khi ngài đến Kosambī, cô đã lên kế hoạch trả thù. Sau khi phát hiện ra rằng vị vương phi khác của Udena là Sāmāvatī và những người bạn của bà có thói quen ngóng nhìn Đức Phật qua những ô cửa sổ trên tường phòng của họ, cô nói với vua rằng Sāmāvatī và những người bạn của bà đang âm mưu giết ông (Udena). Trong một thời gian, nhà vua không chịu tin điều này, nhưng khi những cái lỗ được chỉ cho ông thấy, ông đã ra lệnh bịt chúng lại và xây cửa sổ cao hơn.
+
+Kế hoạch này thất bại, Māgandiyā bèn thuê một nô lệ đi nhục mạ và phỉ báng Đức Phật trên đường phố. Ānanda đề nghị với Đức Phật rằng họ nên đi nơi khác. Đức Phật trả lời: “Ta giống như con voi đã bước vào trận chiến, ta phải hứng chịu những mũi tên bắn vào ta. Sau bảy ngày, những lời phỉ báng chấm dứt. Māgandiyā sau đó thuyết phục người chú gửi tám con gà trống sống đến cung điện và cử một tiểu đồng mang chúng đến nơi uống rượu của nhà vua. Khi nhà vua hỏi nên làm gì với chúng, cô đề nghị rằng nên yêu cầu Sāmāvatī và những người bạn của bà nấu chúng cho ông. Nhà vua đồng ý làm việc này, nhưng những người phụ nữ từ chối tước đi mạng sống của một con vật. Māgandiyā nói rằng họ nên được thử thách, và sai tiểu đồng báo tin rằng những con gà trống sẽ được nấu cho Đức Phật. Tên tiểu đồng đã được hối lộ để tráo những con gà sống thành gà chết trên đường đi, và Sāmāvatī cùng những người bạn của bà sau đó đã nấu chúng và dâng lên Đức Phật. Nhưng ngay cả khi đó, nhà vua, tuy không biết về việc tráo đổi, vẫn không tin vào sự bất trung của Sāmāvatī.
+
+Māgandiyā sau đó xin từ người chú một con rắn đã bị nhổ răng độc. Cô nhét nó vào trong vỏ của cây sáo mà Udena luôn mang theo người, và bịt cái lỗ lại bằng một bó hoa. Udena có thói quen dành một tuần luân phiên với mỗi người trong số ba vương phi của mình. Khi ông thông báo ý định đến chỗ Sāmāvatī, Māgandiyā nài nỉ ông đừng đi, nói rằng cô đã có một giấc mơ và lo sợ cho sự an toàn của ông. Nhưng nhà vua vẫn đi và Māgandiyā đi cùng ông. Khi ông đang ngủ say với cây đàn tỳ bà dưới gối, cô đã kéo bó hoa ra, và con rắn nằm cuộn tròn trên gối của ông. Māgandiyā hét lên và buộc tội Sāmāvatī có mưu đồ ám sát nhà vua. Lần này Udena đã tin cô, và xếp Sāmāvatī cùng những người bạn của bà thành một hàng dọc người này sau người kia, ông sai lấy cây cung của mình, vốn chỉ có thể giương lên bởi một ngàn người, và bắn một mũi tên vào ngực Sāmāvatī. Nhưng nhờ sức mạnh của lòng từ bi của bà, mũi tên không thể xuyên qua bà. Tin chắc vào sự vô tội của bà, nhà vua đã cầu xin bà tha thứ và ban cho bà một ân huệ. Bà chọn việc mời Đức Phật đến cung điện mỗi ngày, nhưng Đức Phật không nhận lời mời và đã cử Ānanda đi thay thế ngài.
+
+Một lần nữa, Māgandiyā âm mưu với người chú để chống lại Sāmāvatī. Họ cho quấn tất cả các cột nhà của Sāmāvatī bằng vải tẩm dầu, và khi bà cùng các cung nữ đang ở bên trong, ngôi nhà bị châm lửa đốt. Sāmāvatī nhìn thấy ngọn lửa đang lan rộng và khuyên các cung nữ hãy tự chủ, và họ đã đạt được nhiều đạo quả khác nhau của Đạo. Udena đã tra hỏi Māgandiyā rất cẩn thận, và tin chắc vào sự tham gia của cô và người chú của cô trong tội ác này. Sau đó, ông cho gọi tất cả những người thân của Māgandiya đến, nói rằng ông muốn ban thưởng cho họ. Ông chôn họ ngập đến lưng chừng người trong khuôn viên cung điện và phủ rơm lên; rơm sau đó bị châm lửa đốt, và khi nó cháy rụi, ông sai dùng một cái cày sắt cày nát thi thể của họ. Những miếng thịt bị xẻo ra khỏi cơ thể của Māgandiyā, chiên như bánh xèo trong dầu, và Māgandiyā sau đó bị ép phải ăn chúng. Dhp­a.i.201f., 210ff.; Ud­a.383f.; so sánh Divy., 515ff., nơi Māgandiyā được gọi là Anūpamā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "10"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāga 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 10. Mahā Nāga Thera. Vị sư trụ trì của *vihāra* Maddha (?). Ông là một trong những người cuối cùng trở thành *Arahant* trong số những người đã từ bỏ thế gian cùng với Bodhisatta trong nhiều kiếp khác nhau. Ja.vi.30.
 
 ## Notes

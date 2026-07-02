@@ -5,7 +5,7 @@ base_headword: "Samaṇasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇasutta 01. A monk has three pursuits: training in the higher morality, hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇasutta 01. Một tỳ-kheo có ba việc cần theo đuổi: tu tập giới tăng thượng, tâm tăng thượng và tuệ tăng thượng. Vị ấy phải theo đuổi những điều này một cách nhiệt thành; nếu không, sự có mặt của vị ấy trong Tăng đoàn sẽ giống như một con lừa trong đàn bò. AN.i.229.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gharaṇī"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,8 @@ There was a Gharaṇī Stūpa near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gharaṇī. Một nữ cư sĩ của Đức Phật. Bà đã đắc Quả vị thứ ba của Đạo và khi Đức Phật chuẩn bị thi triển Song thông, bà đã đề nghị tự mình thực hiện một phép thần thông – biến đất thành nước và lặn ngụp trong đó như một con chim nước. Dhp­a.iii.209.
+
+Có một Gharaṇī Stūpa gần Suppāraka (Divy.47).
 
 ## Notes

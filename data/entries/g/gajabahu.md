@@ -5,7 +5,7 @@ base_headword: "Gajabāhu"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -42,6 +42,6 @@ Gajabāhu, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajabāhu, Gajabhuja. Vua xứ Tích Lan (1137-1153). Ông là con trai của Vikkamabāhu II, và kế vị cha lên ngôi (Cv.lx.88, theo *Bia ký Dimbulāgala*, mẹ ông là Sundarī). Như vậy ông là cháu nội của Vijayabāhu I và của Tilokasundarī, và do đó thuộc dòng dõi Kāliṅga. Khi thấy quyền lực ngày càng lớn của hoàng tử Parakkamabāhu (sau này là Parakkamabāhu I), Gajabāhu đã cho triệu ông đến với nhiều dấu hiệu ưu ái và đón tiếp ông tại triều đình. Để giành được lòng tin của nhà vua, Parakkama đã gả em gái mình là Bhaddavatī cho vua làm hoàng hậu, nhưng khi thấy Gajabāhu bắt đầu nghi kỵ quyền lực của mình, ông rời khỏi Pulatthipura và chuẩn bị gây chiến với nhà vua. Trong chiến dịch tiếp theo, Gajabāhu chịu nhiều thất bại và, cuối cùng, rơi vào tay quân của Parakkama. Parakkama đã rất khó khăn mới cứu được ông khỏi cái chết, nhưng trong lúc đó Māṇābharaṇa đã tìm cách khống chế Gajabāhu và giam ông vào ngục tối. Từ đó ông được Parakkamabāhu giải cứu và chạy trốn đến Koṭṭhasāra. Trong khi đó, Parakkamabāhu đã củng cố quyền lực của mình, và các tướng lĩnh của ông đã chiếm được Pulatthipura. Gajabāhu, không còn thấy sự trợ giúp nào khác, đã cầu xin chư tăng ở Pulatthipura can thiệp thay mình, và, theo lời thỉnh cầu của họ, Parakkamabāhu đã để cho Gajabāhu tiếp tục hưởng thụ tài sản của mình (điều này khá kỳ lạ, đặc biệt khi xét đến việc ông đã mời các quý tộc theo tà đạo đến Tích Lan, Cv.lxx.53). Gajabāhu đến cư trú tại Gaṅgātaḷāka và trải qua những ngày cuối đời tương đối yên bình ở đó. Vì không có người thừa kế cũng như anh em, ông đã di chúc vương quốc của mình cho Parakkamabāhu, và khắc di chúc trên một tấm bia đá tại Maṇḍalagirivihāra. Ông được hỏa táng tại Koṭṭhasāra (chi tiết về triều đại của Gajabāhu và các cuộc giao tranh của ông với Parakkamabāhu được ghi trong Cūḷa Vaṁsa, đặc biệt tại các chương 63, 66, 67, 70, 71). Xem thêm Gajabāhukagāmaṇi.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambala"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambala 02. One of the chief lay patrons of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambala 02. Một trong các đại thí chủ cư sĩ chính của Tissa Buddha. Bv.xviii.23.
 
 ## Notes

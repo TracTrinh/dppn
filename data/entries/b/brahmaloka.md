@@ -5,7 +5,7 @@ base_headword: "Brahmaloka"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -104,6 +104,44 @@ The word *Brahma* is often used in compounds meaning highest and best – e.g., 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmaloka. Thế giới thiên giới cao nhất, chỗ ở của các vị *Brahma*. Nó bao gồm hai mươi cõi trời: chín cõi *Brahma* thông thường, năm cõi Suddhāvāsā, bốn cõi *Arūpa*, cõi Asaññasatta và cõi Vehapphala (ví dụ, Vibh­a.521).
+
+Tất cả trừ bốn cõi *Arūpa* đều được xếp vào các cõi *Rūpa* (những cư dân ở đó có hình thể sắc uẩn). Cư dân của các cõi *Brahma* thoát khỏi những dục vọng (nhưng xem Mātaṅgajātaka, Ja.iv.378, nơi Diṭṭhamaṅgalikā được gọi là Mahā Brahma *bhariyā*, cho thấy rằng ít nhất có một số người cho rằng các Mahā Brahma có những người vợ).
+
+Cõi *Brahma* là cõi duy nhất không có phụ nữ (Dhp­a.i.270); những phụ nữ phát triển các *jhāna* ở thế giới này có thể được sinh ra trong số các Brahmapārisajjā (xem bên dưới), nhưng không phải trong số các Mahā Brahma (Vibh­a.437f). Sự tái sinh vào cõi *Brahma* là quả của một giới hạnh lớn lao đi kèm với thiền định (Vsm.415). Các *Brahma*, cũng như các chư thiên khác, không nhất thiết là những vị *Sotāpanna* hay đang trên đường tiến đến sự hiểu biết toàn hảo (*sambodhiparāyaṇā*); các chứng đạt của họ phụ thuộc vào mức độ đức tin của họ nơi Phật, Pháp và Saṅgha. Xem, ví dụ, AN.iv.76f.; không cần thiết phải là tín đồ của Đức Phật để một người được sinh ra trong cõi *Brahma*; tên của sáu vị đạo sư được đưa ra mà những tín đồ của họ đã được sinh ra trong cõi đó như là kết quả của việc lắng nghe giáo pháp của họ (AN.iii.371ff.; iv.135ff.).
+
+Các Jātaka chứa đựng vô số tường thuật về các tu sĩ khổ hạnh đã thực hành thiền định, sau khi chết được sinh ra trong cõi *Brahma* (ví dụ, Ja.ii.43, 69, 90; v.98, v.v.). Một số vị *Brahma* – ví dụ, Baka (*q.v.*) – đã mang những tà kiến liên quan đến thế giới của họ, thế giới mà, cũng giống như tất cả các thế giới khác, phải chịu sự biến hoại và hoại diệt (MN.i.327). Khi phần còn lại của thế giới bị hoại diệt vào cuối một *kappa*, cõi *Brahma* được cứu thoát (Vsm.415; Khp-a.121), và những chúng sinh đầu tiên được sinh ra trên trái đất đến từ cõi Ābhassara *Brahma* (Vsm.417). Các vị Phật và những đệ tử xuất chúng hơn của các ngài thường viếng thăm các cõi *Brahma* và thuyết pháp cho các cư dân, ví dụ, MN.i.326 f.; Thag­a.ii.184ff.; Sikhī Buddha và Abhibhū cũng được nói là đã viếng thăm cõi *Brahma* (AN.i.227f.). Đức Phật có thể viếng thăm cõi đó cả bằng thân ý sanh của ngài và thân vật lý của ngài (SN.v.282f.).
+
+Nếu một tảng đá to bằng một nóc nhà bị thả rơi từ cõi *Brahma* thấp nhất, nó sẽ mất bốn tháng để chạm đất với tốc độ di chuyển một trăm ngàn do tuần một ngày. Các *Brahma* sống nhờ vào *jhāna*, tràn ngập trong hỷ (*sappītikajjhāna*), đây là thức ăn duy nhất của họ. SN­a.i.161; thức ăn và thức uống được cúng dường cho Mahā Brahmā, và ngài được thỉnh mời dùng những thứ này, nhưng ngài không dùng những vật hiến tế (SN­a.i.158 f.). Các *Anāgāmī*, những người chết trước khi đắc quả *Arahant*, được tái sinh trong các cõi Suddhāvāsā *Brahma* và nhập diệt hoàn toàn ở đó (xem, ví dụ, SN.i.35, 60, và *Comp.*v.10). Những chúng sinh sinh ra trong cõi *Brahma* thấp nhất được gọi là Brahmapārisajjā; thọ mạng của họ là một phần ba của một *asaṅkheyya kappa*; tiếp theo họ là các Brahmapurohitā, sống trong nửa *asaṅkheyya kappa*; và vượt trên những vị này là các Mahā Brahma sống trong trọn một *asaṅkheyya kappa* (*Comp.*v.6; nhưng xem Vibh­a.519f., nơi Mahā Brahma được định nghĩa).
+
+Thuật ngữ Brahmakāyikā Devā dường như được dùng làm tên gọi của lớp chư thiên cho tất cả các cư dân của các cõi *Brahma* (AN.i.210; v.76f).
+
+Chú giải Mahā Niddesa (p.109) nói rằng từ này bao gồm tất cả năm (?) loại *Brahma* (*sabbe pi pañca vokāra Brahmāno gahitā*).
+
+Bv­a.p.10 do đó định nghĩa từ *Brahma*: *brūhito tehi tehi guṇavisesahī ti=Brahma. Ayaṁ pana Brahmasaddo* Mahā Brahma*-Brāhmaṇa-Tathāgata-mātāpitu-seṭṭhādisu dissati*.
+
+Samantapāsādikā (i.131) nói về một vị Mahā Brahma là một *khiṇāsava*, sống mười sáu ngàn *kappa*. Khi Đức Phật, ngay sau khi đản sanh, nhìn quanh và bước những bước chân về hướng bắc, chính vị *Brahma* này đã nắm lấy ngón tay của hài nhi và cam đoan với ngài rằng không có ai vĩ đại hơn ngài.
+
+Tên của một vài vị *Brahma* xuất hiện trong các sách – ví dụ, Tudu, Nārada, Ghaṭikāra, Baka, Sanaṅkumāra, Sahampati. Nên thêm vào những tên này tên của bảy vị *Anāgāmī* cư trú ở Avihā và các cõi *Brahma* khác: Upaka, Phalagaṇḍu, Pukkusāti, Bhaddiya, Khaṇḍadeva, Bāhuraggi và Piṅgiya (SN.i.35, 60; SN­a.i.72 v.v.).
+
+Baka nói về bảy mươi hai vị *Brahma*, sống, rõ ràng là trong thế giới của ngài, như là những người bạn đồng hành của ngài (SN.i.142).
+
+Xem thêm Tissa *Brahma*.
+
+Những vị này được mô tả như là những Mahā Brahma. Cũng có sự đề cập đến *Pacceka Brahmā* – ví dụ, Subrahma và Suddhavāsa (SN.i.146f).
+
+Tudu đôi khi cũng được mô tả như là một Pacceka Brahma (ví dụ, SN.i.149). Về các Pacceka *Brahma*, Subrahma và Suddhavāsa được trình bày như là đang đi thăm một vị *Brahma* khác, người đang đắm chìm trong quyền lực và vinh quang của chính mình, và đã thách thức ông ta thi thố thần thông, đánh bại ông ta trong cuộc thi đó và hóa độ ông ta theo đức tin của Đức Phật. Tudu được nói đến như là đang khuyên bảo Kokālika hãy đặt niềm tin của mình nơi Sāriputta và Moggallāna (*loc.cit.*)
+
+Các *Brahma* được trình bày như là viếng thăm trái đất và quan tâm đến các công việc của con người. Như vậy, Nārada hạ giáng từ cõi *Brahma* để xua tan những tà kiến của Vua Aṅgati (Ja.vi.242f). Khi Đức Phật do dự trong việc thuyết giảng giáo pháp của mình, vì sự thâm sâu của nó, chính Sahampati (*q.v.*) là người đã viếng thăm ngài và cầu xin ngài thuyết giảng nó vì lợi ích của thế giới. Lời giải thích được đưa ra (ví dụ, ở SN­a.i.155) là Đức Phật đã chờ đợi lời thỉnh cầu của Sahampati để nó có thể mang lại sức nặng cho giáo pháp của ngài. Dân chúng là tín đồ của *Brahma*, và việc Sahampati chấp nhận sự lãnh đạo của Đức Phật sẽ gây ấn tượng sâu sắc cho họ.
+
+Sahampati được đề cập là đã viếng thăm Đức Phật vài lần sau đó, chiếu sáng Jetavana bằng hào quang từ thân ngài. Người ta nói rằng bằng một ngón tay duy nhất ngài có thể chiếu sáng toàn bộ một Cakkavāḷa (SN­a.i.158). Sanaṅkumāra (*q.v.*) cũng là một tín đồ của Đức Phật. Các *Brahma* dường như cũng có thói quen viếng thăm các cõi *Deva*, vì Sanaṅkumāra được báo cáo là đã hiện diện tại một hội chúng của chư thiên Tāvatiṁsa và đã nói những lời tán thán Đức Phật tại đó và trình bày một bài giảng về giáo pháp của ngài. Nhưng, để làm được điều này, ngài đã hóa hiện dưới hình dáng của Pañcasikha (DN.ii.211ff).
+
+Các sách đề cập đến tà kiến được tin tưởng, vào thời của Đức Phật, về *Brahma* như là đấng sáng tạo ra vũ trụ và về sự hợp nhất với *Brahma* như là điều tốt đẹp cao tột, chỉ đạt được bằng những lời cầu nguyện và những sự hiến tế (ví dụ, tại DN.i.18, nơi *Brahma* được mô tả là *vasavattī issaro kattā nimmātā*, v.v.). Nhưng bản thân Đức Phật không giữ quan điểm này và không nói về bất kỳ vị *Brahma* đơn độc nào như là chúng sinh cao nhất trong tất cả tạo vật. Tuy nhiên, xem AN.v.59f., nơi Mahā Brahma, được nói đến như là cư dân cao nhất của *Sahassalokadhātu* (*yāvatā sahassalokadhātu,* Mahā Brahma *tattha aggaṁ akkhāyati*); nhưng ngài, cũng thế, là vô thường (*Mahā Brahmūno pi... atthi eva aññathattaṁ, atthi viparināmo*).
+
+Có những Mahā Brahma, hùng mạnh và quyền lực (*abhibhū anabhibhūto aññadatthudaso vasavattī*), nhưng họ cũng vậy, tất cả bọn họ, và thế giới của họ đều phải chịu quy luật của Kamma, ví dụ, ở SN.v.410 (*Brahmaloko pi āvuso anicco adhuvo sakkāyapariyāpanno sādhāyasmā Brahmalokā cittaṁ vuṭṭhāpetvā sakkāyanirodhacittaṁ upasaṁharāhi*). Xem thêm AN.iv.76f., 104f., nơi Sunetta, bất chấp mọi quyền năng vĩ đại của ngài với tư cách là Mahā Brahma, v.v., đã phải thú nhận rằng mình vẫn phải chịu sự khổ đau.
+
+Đối với Đức Phật, sự hợp nhất với *Brahma* dường như có nghĩa là được đồng hội đồng thuyền với ngài trong thế giới của ngài, và điều này chỉ có thể đạt được bằng sự trau dồi những phẩm chất được sở hữu bởi vị *Brahma* đó. Nhưng điều tốt đẹp cao tột nằm ở bên ngoài, ở sự chứng đạt *Nibbāna*. Như vậy trong Tevijjāsutta; xem thêm MN.ii.194f.
+
+Từ *Brahma* thường được dùng trong các từ ghép mang nghĩa là cao nhất và tốt nhất – ví dụ, *Brahmacariyā*, *Brahmassara*; để biết chi tiết xem *Brahma* trong Pāli English Dictionary (PTSPED).
 
 ## Notes

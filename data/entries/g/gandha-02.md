@@ -5,7 +5,7 @@ base_headword: "Gandha"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,6 @@ Gandha 02. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandha 02. Một trưởng giả ở Benares. Khi nhận ra rằng tổ tiên mình đã qua đời để lại khối tài sản khổng lồ mà họ chưa kịp hưởng thụ, ông bắt đầu tiêu những khoản tiền lớn vào việc xa hoa, và vào một ngày trăng tròn, ông trang hoàng thành phố và mời dân chúng đến xem ông dùng bữa. Trong đám đông tụ họp có một người dân quê, cảm thấy mình sẽ chết nếu không có được một miếng cơm của Gandha. Khi việc này được thưa lại với Gandha, ông đề nghị người này làm việc cho ông trong ba năm, để đổi lấy một bát cơm của ông. Người dân quê đồng ý và từ đó được gọi là Bhattabhatika. Sau ba năm, Gandha giữ đúng lời hứa và ra lệnh cho Bhattabhatika được hưởng mọi vinh hoa của chủ mình trong một ngày, đồng thời yêu cầu tất cả mọi người trong nhà, trừ vợ ông là Cintāmaṇī, phải hầu hạ Bhattabhatika. Khi Bhattabhatika ngồi xuống ăn, một Pacceka Buddha hiện ra trước mặt ông; Bhattabhatika dâng phần ăn của mình cho vị Pacceka Buddha ấy, và trước mắt tất cả những người đã tụ tập để xem vinh hoa của Bhattabhatika, vị ấy bay qua không trung đến Gandhamādana. Khi Gandha nghe được chuyện đã xảy ra, ông đem một nửa toàn bộ tài sản của mình tặng cho Bhattabhatika để đổi lấy một phần công đức mà Bhattabhatika đã đạt được. Dhp­a.iii.87ff.
 
 ## Notes

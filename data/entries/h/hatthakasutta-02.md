@@ -5,7 +5,7 @@ base_headword: "Hatthakasutta"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hatthakasutta 02. The Buddha praises <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthakasutta 02. Đức Phật khen ngợi Hatthaka Āḷavaka (*q.v.*) vì tám phẩm chất mà ông sở hữu. AN.iv.216f.
 
 ## Notes

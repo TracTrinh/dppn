@@ -5,7 +5,7 @@ base_headword: "Mahā Maṅgalavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Maṅgalavihāra. A monastery built by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṅgalavihāra. Một tu viện được xây dựng bởi Vaṅkanāsikatissa trên hai bên bờ của Goṇanadī. Mhv.xxxv.113.
 
 ## Notes

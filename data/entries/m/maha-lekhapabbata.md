@@ -5,7 +5,7 @@ base_headword: "Mahā Lekhapabbata"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Lekhapabbata. A *pariveṇa* in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Lekhapabbata. Một *pariveṇa* trong Mahā Vihāra; nó được thành lập bởi Mahā Lekhasena, trong thời kỳ của Kassapa IV. Cv.lii.33.
 
 ## Notes

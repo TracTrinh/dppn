@@ -5,7 +5,7 @@ base_headword: "Sāmaññakāni Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -33,6 +33,8 @@ Sāmaññakāni Thera. He was the son of a *Paribbājaka* and entered the Saṅg
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmaññakāni Thera. Vị này là con trai của một *Paribbājaka* và gia nhập Tăng đoàn sau khi chứng kiến Đức Phật thực hiện Song thông; về sau vị này chứng đắc quả vị *Arahant* nhờ *jhāna*. Có một *Paribbājaka* tên là Kātiyāna, người mà vị này từng quen biết khi còn là cư sĩ, và Kātiyāna, sau khi trở nên bần cùng kể từ khi Đức Phật xuất hiện trên đời, đã hỏi Sāmaññakāni rằng ông có thể làm gì để có được hạnh phúc ở đời này và đời sau. Người bạn của ông đáp rằng ông nên theo Bát Thánh đạo (Thag.vs.35; Thag­a.i.98f). Chúng ta được biết (Thag­a.i.450) rằng Kātiyāna về sau gia nhập Tăng đoàn và trở thành một *Arahant*.
+
+Sāmaññakāni rõ ràng chính là Mañcadāyaka (Pecchadāyaka) trong Apadāna (Ap.i.455). Chín mươi mốt *kappas* trước, vị này đã dâng một chiếc giường cho Vipassī Buddha. Có lẽ vị này cũng chính là Sāmaṇḍakāni (*q.v.*).
 
 ## Notes

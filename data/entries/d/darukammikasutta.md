@@ -5,7 +5,7 @@ base_headword: "Dārukammikasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,8 @@ The Buddha points out to him that though it is difficult to distinguish the good
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārukammikasutta. Một người bán củi đến thăm Đức Phật tại Ñātika và thưa với ngài rằng, trong gia đình ông, đồ bố thí được cúng dường cho nhiều hạng tỳ-kheo khác nhau – người ở rừng, người mặc y phấn tảo, các *Arahant*, etc.
+
+Đức Phật chỉ ra cho ông thấy rằng mặc dù rất khó để phân biệt phẩm chất tốt và xấu của các tỳ-kheo, tuy nhiên ông nên tiếp tục bố thí cho Tăng đoàn. AN.iii.391f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samphassasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samphassasutta 01. Because of diversity in elements arises diversity of contact.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samphassasutta 01. Do sự đa dạng trong các giới mà sinh khởi sự đa dạng trong xúc. SN.ii.140.
 
 ## Notes

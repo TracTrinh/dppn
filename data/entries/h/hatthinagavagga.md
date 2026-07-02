@@ -5,7 +5,7 @@ base_headword: "Hatthināgavagga"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthināgavagga. The second section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthināgavagga. Phẩm thứ hai của Cariyāpiṭaka.
 
 ## Notes

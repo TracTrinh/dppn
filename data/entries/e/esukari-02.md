@@ -5,7 +5,7 @@ base_headword: "Esukārī"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -36,6 +36,10 @@ The story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Esukārī 02. Vua của Benares. Ông và vị quốc sư của mình là những người bạn thân thiết; không ai trong số họ có con trai. Họ đã thỏa thuận rằng nếu một trong hai người có một đứa con trai thì tài sản của cả hai người sẽ được trao cho người con đó. Nhờ sự can thiệp của một vị thọ thần, vị quốc sư đã có bốn người con trai – Hatthipāla, Assapāla, Gopāla, và Ajapāla. Nhưng khi họ lớn lên, lần lượt từng người một, họ đã từ bỏ thế gian, và sau đó vị quốc sư và nhà vua, cùng với tất cả đoàn tùy tùng của họ, cũng đã gia nhập cùng với họ.
+
+Esukārī là một tiền kiếp của Suddhodana.
+
+Câu chuyện được kể trong Hatthipālajātaka. Ja.iv.473ff.
 
 ## Notes

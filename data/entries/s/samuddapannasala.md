@@ -5,7 +5,7 @@ base_headword: "Samuddapaṇṇasālā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samuddapaṇṇasālā. A hall, erected on the spot from where <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddapaṇṇasālā. Một tòa nhà, được xây dựng tại địa điểm mà Devānampiyatissa đã nhìn thấy cây Bodhi đang tiến đến trên biển (Mhv.xix.26f). Nó nằm trên con đường từ Anurādhapura đến Jambukola. Mhv­ṭ. 403.
 
 ## Notes

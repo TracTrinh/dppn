@@ -5,7 +5,7 @@ base_headword: "Mahā Kammavibhaṅgasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,6 @@ Mahā Kammavibhaṅgasutta. <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kammavibhaṅgasutta. Potaliputta đi đến gặp Samiddhi trong túp lều trong rừng của ông, gần Veḷuvana ở Rājagaha, và bảo với ông rằng Đức Phật đã tuyên bố rằng tất cả những gì một người nói hoặc làm đều là vô ích; điều duy nhất quan trọng là những gì diễn ra trong tâm trí của một người. Samiddhi phản đối điều này, và khi Potaliputta nói, “Hãy nói cho tôi biết, một người kinh nghiệm điều gì khi hành động có chủ ý?” thì ông đưa ra lời giải thích của riêng mình. Potaliputta sau đó bỏ đi mà không nói thêm lời nào và tìm đến Ānanda, báo cáo lại sự việc cho ông. Ānanda đưa ông đến gặp Đức Phật, nhận xét rằng Samiddhi lẽ ra không nên đưa ra một câu trả lời trực tiếp duy nhất cho một câu hỏi, vốn đòi hỏi những sự xem xét cẩn thận trong câu trả lời. Lāḷudāyi ngắt lời và bị Đức Phật quở trách, Ngài giải thích rằng câu hỏi đó về cơ bản là một câu hỏi gồm ba phần và lẽ ra phải được trả lời như vậy. Nếu hành động có chủ ý của một người được tính toán để tạo ra một thọ dễ chịu, thì kinh nghiệm của người đó là dễ chịu; nếu một thọ khó chịu, thì là khó chịu; nếu không dễ chịu cũng không khó chịu, thì không là gì cả. Ānanda yêu cầu Ngài giải thích thêm, và Ngài đã làm điều này. Một người có thể độc ác trong thế giới này và tuy nhiên, khi chết, có thể đi vào thiên giới hoặc vào địa ngục, người đó có thể tốt bụng nhưng vẫn đi vào địa ngục hoặc vào thiên giới. Nhưng người ta không nên vội vã đưa ra kết luận từ sự thật này, bởi vì hậu quả của hành động của một người, tốt hay xấu, có thể được cảm nhận hoặc ngay tại đây và bây giờ, trong kiếp sống tiếp theo, hoặc vào một thời điểm nào khác. Kamma có thể được chia thành bốn loại: (1) không chỉ đang hoạt động, mà còn có vẻ như đang hoạt động; (2) đang hoạt động, mặc dù có vẻ như không hoạt động; (3) đang hoạt động, và có vẻ như đang hoạt động; (4) không hoạt động, và có vẻ như không hoạt động. (MN.iii.207-15).
 
 ## Notes

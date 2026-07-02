@@ -5,7 +5,7 @@ base_headword: "Bojjhāsutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bojjhāsutta. Records the visit of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhāsutta. Ghi lại chuyến viếng thăm của Bojjhā (*q.v.*) đến Đức Phật và bài pháp được thuyết cho bà về *uposatha*. AN.iv.259ff.
 
 ## Notes

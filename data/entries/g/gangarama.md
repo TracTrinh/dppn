@@ -5,7 +5,7 @@ base_headword: "Gaṅgārāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gaṅgārāma. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgārāma. Còn gọi là Rāja Mahāvihāra, một tu viện do Kittisirirājasīha sáng lập trên bờ sông Mahā Vālukagaṅgā gần Kandy (Cv.c.202). Tại đó, Rājādhirājasīha đã dựng lên một *cetiya*. Cv.ci.17.
 
 ## Notes

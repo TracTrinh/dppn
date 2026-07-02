@@ -5,7 +5,7 @@ base_headword: "Brahmacariyasutta"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -23,6 +23,6 @@ Brahmacariyasutta 02. The best practice is the Noble Eightfold Path. Its fruits 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmacariyasutta 02. Sự thực hành tốt nhất là Bát Thánh đạo. Quả của nó là *Sotāpatti*, v.v. SN.v.26.
 
 ## Notes

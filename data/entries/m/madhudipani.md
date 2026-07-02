@@ -5,7 +5,7 @@ base_headword: "Madhudīpanī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhudīpanī. A *ṭīkā* on the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhudīpanī. Một *ṭīkā* về Visuddhimagga. Sās.33.
 
 ## Notes

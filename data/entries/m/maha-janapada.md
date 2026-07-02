@@ -5,7 +5,7 @@ base_headword: "Mahā Janapadā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -50,6 +50,10 @@ The Jaina *Bhagavātī Sūtra* gives a slightly different list: Aṅga, Baṅga,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Janapadā, Mahā Janapadas. Các kinh sách thường xuyên đề cập đến mười sáu Mahā Janapadas (mười sáu đại quốc) hay các quốc gia, đã tồn tại vào thời của Đức Phật. Đó là Kāsī, Kosala, Aṅga, Magadha, Vajjī, Mallā, Cetiya, Vaṁsā, Kuru, Pañcāla, Macchā, Sūrasena, Assaka, Avanti, Gandhāra và Kamboja (AN.i.213; iv. 252, 256, 260; một danh sách mười hai quốc gia được tìm thấy tại DN.ii.200, trong đó bốn quốc gia cuối cùng bị bỏ qua). Mười bốn quốc gia đầu tiên được bao gồm trong vùng Majjhimadesa, hai quốc gia cuối cùng nằm ở Uttarāpatha.
+
+Niddesa thêm những người Kaliṅga vào nhóm mười sáu quốc gia và thay Gandhāra bằng Yona (CNid.37).
+
+Kinh Bhagavātī Sūtra của Kỳ-na giáo đưa ra một danh sách hơi khác: Aṅga, Baṅga, Magadha, Malaya, Mālava, Accha, Vaccha, Kocchaka, Pādha, Lādha, Bajji, Moli, Kāsi, Kosala, Avaha và Sambhuttara (PHAI. p.60).
 
 ## Notes

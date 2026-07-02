@@ -5,7 +5,7 @@ base_headword: "Desaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Desaka. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Desaka. *v.l.* Sedaka. Một thị trấn ở Sumbharaṭṭha, nơi Đức Phật thuyết Telapattajātaka (Ja 96, Ja.i.393) và Udayasutta (SN.v.89).
 
 ## Notes

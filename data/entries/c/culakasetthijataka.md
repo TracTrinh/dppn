@@ -5,7 +5,7 @@ base_headword: "Cūḷakaseṭṭhijātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -31,6 +31,8 @@ The young man is identified with <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷakaseṭṭhijātaka, Cullakaseṭṭhijātaka (Ja 4). Có một thời Bodhisatta được sinh ra là Cūḷakaseṭṭhi ở Benares. Một ngày nọ, trong khi đang trên đường đến cung điện, ông nhìn thấy một con chuột chết nằm trên đường, và, để ý đến vị trí của các vì sao, ông nói: "Bất kỳ chàng thanh niên đàng hoàng nào có trí tuệ nhạy bén chỉ cần nhặt con chuột này lên và cậu ta sẽ trở thành một người thành đạt." Một thanh niên con nhà gia giáo, tên là Cūḷantevāsika, nghe vậy, đã nhặt con chuột lên và bán nó với giá một xu cho một quán trọ để cho mèo của họ ăn. Với một xu đó, cậu mua mật đường và nước uống cho những người hái hoa. Về sau, cậu thu gom những cành và lá bị gió thổi rụng trong khu vườn của nhà vua và bán chúng cho một thợ gốm để đổi lấy một số tiền lớn. Cậu đã kết bạn với một thương nhân đường bộ và một thương nhân đường biển và, bằng cách sử dụng những thông tin thu được từ họ, cậu đã có thể kiếm được hai trăm ngàn đồng tiền nhờ những giao dịch kinh doanh khéo léo và có tầm nhìn xa. Cậu sau đó đã đến thăm Cūḷakaseṭṭhi để bày tỏ lòng biết ơn của mình với ông, và vị trưởng giả (*seṭṭhi*), khi nghe về sự khéo léo của cậu, đã ấn tượng đến mức gả con gái cho cậu.
+
+Chàng thanh niên này được đồng nhất với Cūḷa Panthaka (xem từ này), người được liên hệ khi kể câu chuyện này. Ja.i.114-23. So sánh với câu chuyện của Viṣākhila trong *Kathāsaritsāgara* (i.33).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Damiḷādevī"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Damiḷādevī 01. Queen consort of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Damiḷādevī 01. Hoàng hậu của Candamukhasiva. Bà đã cúng dường doanh thu của mình từ Maṇikāragāma cho Issarasamaṇavihāra. Mhv.xxxv.48.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samudayadhammasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samudayadhammasutta 02. The same as *Sutta* (1), but the explanation is given by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudayadhammasutta 02. Giống như *Sutta* (1), nhưng lời giải thích được Sāriputta trình bày cho Mahā Koṭṭhita. SN.iii.171.
 
 ## Notes

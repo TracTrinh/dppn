@@ -5,7 +5,7 @@ base_headword: "Cundasutta"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cundasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundasutta 01. Cunda Kammāraputta đến thăm Đức Phật tại rừng Xoài của Ngài ở Pāvā và hỏi Ngài rằng có bao nhiêu hạng sa-môn trên thế giới. Bốn hạng, Đức Phật trả lời – *maggajina*, *maggadesaka*, *maggajīvī* và *maggadūsī* – và Ngài tiếp tục giải thích về họ (Snp.vs.83-90; Snp­a.i.159ff). Hoàn cảnh Sutta này được thuyết đã được đưa ra dưới tiêu đề Cunda (1).
 
 ## Notes

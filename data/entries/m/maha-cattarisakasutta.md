@@ -5,7 +5,7 @@ base_headword: "Mahā Cattārīsakasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Cattārīsakasutta. Preached at <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Cattārīsakasutta. Được thuyết giảng tại Jetavana. Đức Phật giải thích cho các tỳ-kheo ý nghĩa của Chánh Định sự tập trung của tâm với bảy thành tố là Chánh Kiến, Chánh Tư duy – Chánh Niệm. Trong tất cả các chi phần, Chánh Kiến đứng hàng đầu. MN.iii.71-8.
 
 ## Notes

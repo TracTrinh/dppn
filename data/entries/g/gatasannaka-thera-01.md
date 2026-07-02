@@ -5,7 +5,7 @@ base_headword: "Gatasaññaka Thera"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gatasaññaka Thera 01. An Arahant. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatasaññaka Thera 01. Một vị Arahant. Vào thời Đức Phật Tissa, ngài gia nhập Tăng đoàn lúc bảy tuổi, và tung lên không trung bảy đóa hoa *naṅgaliki* để cúng dường Đức Phật. Tám *kappa* trước, ngài đã làm vua ba lần, dưới tên Aggisikha. Ap.i.127.
 
 ## Notes

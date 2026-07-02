@@ -5,7 +5,7 @@ base_headword: "Daṇḍasena"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daṇḍasena. A king of seventy-four *kappas* ago, a previous birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍasena. Một vị vua của bảy mươi bốn *kappa* trước, một tiền kiếp của Asanabodhiya. Ap.i.111.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammasamādānasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Dhammasamādānasutta. On professions and living up to them. There are fou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhammasamādānasutta. Về các sự thọ trì và việc sống theo chúng. Có bốn cách thọ trì một Pháp: cách thứ nhất là khó chịu trong hiện tại và chín muồi thành khổ đau về sau, cách thứ hai là dễ chịu trong hiện tại nhưng cũng chín muồi thành khổ đau, cách thứ ba là khó chịu trong hiện tại nhưng chín muồi thành lạc thọ, trong khi cách thứ tư là dễ chịu cả trong hiện tại và về sau. Sau đó, Đức Phật giải thích chi tiết bốn loại thọ trì này. MN.i.309-17.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gatasaññaka Thera"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gatasaññaka Thera 02. An Arahant. He saw <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatasaññaka Thera 02. Một vị Arahant. Ngài thấy Đức Phật Siddhattha bay qua không trung, dù ngài chỉ nhìn thấy được y áo của Ngài. Cảnh tượng ấy khiến ngài tràn đầy hoan hỷ và ngài tập trung tâm ý vào đó. Ap.i.253f.
 
 ## Notes

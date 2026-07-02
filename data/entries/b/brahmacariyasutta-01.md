@@ -5,7 +5,7 @@ base_headword: "Brahmacariyasutta"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmacariyasutta 01. *Brahmacariyā* is practised for nought else but self-rest
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmacariyasutta 01. *Brahmacariyā* được thực hành không vì mục đích nào khác ngoài việc tự thu thúc và sự đoạn diệt của khổ đau. AN.ii.26.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "06"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gotama 06. A Brahmin sage, his full name being <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 06. Một vị hiền triết Bà-la-môn, tên đầy đủ của ông là Aṅgīrasa Gotama. Xem Aṅgīrasa (7).
 
 ## Notes

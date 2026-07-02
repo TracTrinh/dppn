@@ -5,7 +5,7 @@ base_headword: "Gomatī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gomatī. A channel built by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gomatī. Một con kênh do Parakkamabāhu I xây dựng, rẽ nhánh về phía đông từ dòng Mahā Vālukagaṅgā (Cv.lxxix.52).
 
 ## Notes

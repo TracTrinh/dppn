@@ -5,7 +5,7 @@ base_headword: "Girigāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Girigāma. A village in Ceylon. A young novice named <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girigāma. Một ngôi làng ở Tích Lan. Một vị sa-di trẻ tên là Tissa ở Pañcaggalalena, khi đang du hành trên không, đã nhìn thấy con gái của người thợ rèn ở Girigāma đang tắm trong một hồ sen cùng với năm người bạn của cô ấy, và nghe họ lớn tiếng ca hát. Ông bị cô ta mê hoặc đến nỗi mất cả thần thông bay lượn. Snp­a.i.70; Ap­a.i.128.
 
 ## Notes

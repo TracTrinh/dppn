@@ -5,7 +5,7 @@ base_headword: "Dappula"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,6 @@ Dappula 01. Second son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappula 01. Con trai thứ hai của Mahā Tissa và Saṅghasivā, các anh em trai của ông là Aggabodhi và Maṇi­akkhika. Trong số các con trai của ông có Māṇavamma, và với sự giúp đỡ của con trai mình mà ông đã trở thành Vua Dappula I sau khi Kassapa II qua đời. Nhưng ông chỉ trị vì ở Anurādhapura trong bảy ngày, sau đó Hatthadāṭha (Dāṭhopatissa II) đã chiếm ngôi. Dappula bèn rút lui về Rohaṇa và cai trị như một vị vua ở đó trong ba năm (650-3 TL). Vợ ông là con gái của Silādāṭha (Silāmeghavaṇṇa) (Cv.xlv, 16-22, 36ff, 51ff). Dappula là một tín đồ rất sùng đạo của Đức Phật và đã xây dựng nhiều *vihāra*, sửa chữa những nơi khác, và đã tạo một bức tượng của Metteyya cao mười lăm cubit (để biết chi tiết về những việc làm của ông, xem Cv.xli.53ff). Ông đã qua đời vì đau buồn trước cái chết của con trai mình là Māṇavamma, người đã bị Hatthadāṭha giết chết.
 
 ## Notes

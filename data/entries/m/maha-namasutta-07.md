@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasutta"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Nāmasutta 07. Very similar to *Sutta* No. 6. AN.v.332ff.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasutta 07. Rất giống với *Sutta* Số 6. AN.v.332ff.
 
 ## Notes

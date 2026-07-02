@@ -5,7 +5,7 @@ base_headword: "Gelaññasutta"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gelaññasutta 01. The Buddha, staying at the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gelaññasutta 01. Trong khi lưu trú tại Kūṭāgārasālā ở Vesālī, Đức Phật đến thăm khu bệnh xá vào buổi tối và trò chuyện với các tỳ-kheo đang bệnh. Ngài dạy rằng một vị tỳ-kheo nên đón nhận cái chết của mình một cách tỉnh táo và trầm tĩnh. Vị ấy nên loại bỏ sự chán nản phát sinh từ ái dục. Trong bất cứ việc gì mình làm, vị ấy nên hành động một cách trầm tĩnh. Nhờ trầm tĩnh và tỉnh táo như vậy, vị ấy thoát khỏi mọi ràng buộc. Khi thân xác tan rã, vị ấy hiểu rõ điều đó và đã chuẩn bị sẵn sàng cho nó, vì nó giống như một ngọn đèn tắt đi khi dầu và bấc đã cạn. SN.iv.210f.
 
 ## Notes

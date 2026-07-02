@@ -5,7 +5,7 @@ base_headword: "Macchā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -36,6 +36,10 @@ The Macchā country lay to the south or south west of Indraprastha and to the so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchā. Một quốc gia, cùng với người dân ở đó, nằm trong danh sách truyền thống mười sáu Mahā Janapadas (AN.i.213; iv. 252, 256, 260).
+
+Người Macchā thường được nhắc đến cùng với người Sūrasenā (vd., DN.ii.200; so sánh Kāsikosalā, Vajjimallā). Trong Vidhura Paṇḍitajātaka (Ja. i.280), người Macchā được nhắc đến trong số những người chứng kiến trò chơi súc sắc giữa vua của người Kurus và Puṇṇaka.
+
+Quốc gia Macchā nằm ở phía nam hoặc tây nam của Indraprastha và ở phía nam Sūrasena. Thủ đô của nó là Virāṭanagara hay Vairāt, được gọi như vậy vì đây là thành phố của Vua Virāṭa. Rv.vii.6, 18; Cunningham: *Ancient Geography of India*, p. 19.
 
 ## Notes

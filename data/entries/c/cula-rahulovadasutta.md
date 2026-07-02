@@ -5,7 +5,7 @@ base_headword: "Cūḷa Rahulovādasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,8 @@ Many thousands of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Rahulovādasutta, Cūla Rahulovādasutta. Đức Phật nhận ra rằng Rāhula có đủ những phẩm chất cần thiết cho Sự giải thoát và đi cùng tôn giả đến Andhavana để nghỉ trưa. Tại đó Đức Phật đã chứng minh, thông qua hình thức hỏi và đáp, rằng tất cả mọi thứ đều là vô thường, và khắc sâu cho Rāhula cách thức mà các đệ tử của các bậc Thánh nên nỗ lực để được giải thoát khỏi chúng. Rāhula đã ghi nhớ bài học vào lòng, và ngay cả khi nó đang được giảng thuyết, ngài đã đạt được quả vị Arahant (MN.iii.277f; *Sutta* này cũng được tìm thấy ở SN.iv.105ff, nơi nó được gọi là Rāhulasutta).
+
+Nhiều ngàn chư thiên đã có mặt tại lúc thuyết giảng bài pháp này, và do đó *Sutta* này được đưa ra như một minh họa về lòng đại bi của Đức Phật (e.g., Ud­a.324; MN­a.i320; also Mil.20). Trong số những *Sutta* được đặc biệt thuyết giảng cho Rāhula, bài kinh này nhấn mạnh về *vipassanā* (AN­a.ii.547). Có thể chính những sự kiện được đề cập trong *Sutta* này đã được minh họa trong phòng chứa xá-lợi của tháp Mahā Thūpa. Xem Mhv.xxx.83.
 
 ## Notes

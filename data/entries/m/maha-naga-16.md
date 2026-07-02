@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "16"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -45,6 +45,6 @@ Mahā Nāga 16. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 16. Cháu trai của Bhayasīva. Trong một thời kỳ đói kém, ông đã bán chiếc áo mặc ngoài của mình và kiếm được thức ăn cho một người đàn ông tinh thông các câu thần chú ma thuật. Người này, để đền đáp lòng biết ơn, đã đưa ông đến Gokaṇṇasamudda, và ở đó, sau khi triệu hồi một vị Nāga, đã tiên tri về tương lai của Mahā Nāga. Mahā Nāga đã gia nhập vào sự phục vụ của Silākāla, và được vị này phái đi thu thuế ở Rohaṇa. Về sau ông được lập làm *Andhasenāpati*, và ông đã tự thiết lập bản thân làm chủ nhân của Rohaṇa. Một lần nọ ông đã nỗ lực chiến đấu chống lại Dāṭhāpabhuti, nhưng đã sớm từ bỏ nỗ lực đó. Lợi dụng sự hỗn loạn trong các vùng lãnh thổ của Kittisirimegha, Mahā Nāga đã tiến quân chống lại ông ta, giết chết ông ta, và chiếm lấy ngai vàng. Trong số những hoạt động từ thiện của ông có việc ban tặng ngôi làng Jambalambaya cho *vihāra* Uttara, Tintinika cho Mahā Vihāra, và Vasabha ở Uddhagāma cho *vihāra* Jetavana, cùng với ba trăm thửa ruộng để cung cấp cháo gạo. Ông cũng đã ban tặng Cīramātikavāra cho Mahā Vihāra và thiết lập một khoản cúng dường cháo gạo. Ông đã tu bổ lại Mayūrapariveṇa và Anurārāma trong *vihāra* Mahā Devarattakurava ở Kāsikhanda. Ông chỉ trị vì trong ba năm (556-9 CN.), và được kế vị bởi cháu trai của mình, Aggabodhi I. (Cv.xli.69ff), người đã xây dựng một *vihāra* để tưởng nhớ ông và phân công nó cho một vị Trưởng lão tinh thông *Tipiṭaka*. Cv.xlii.24; Cv.Trs.i.68, n.2.
 
 ## Notes

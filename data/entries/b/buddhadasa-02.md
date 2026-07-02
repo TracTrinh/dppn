@@ -5,7 +5,7 @@ base_headword: "Buddhadāsa"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhadāsa 02. A pious man of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhadāsa 02. Một người đạo hạnh ở Tuṇḍagāma. Ông đã đuổi một dạ-xoa (Yakkha) đang nhập vào một người bạn của ông. Ras.i.46f.
 
 ## Notes

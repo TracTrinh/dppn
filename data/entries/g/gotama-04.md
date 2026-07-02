@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gotama 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 04. Gotama Thera. Một vị *Arahant*, sống ở Piyaṅgudīpa. Ông là thầy của Duṭṭhagāmaṇī (Mhv.xx.69). Khi vị sau, trong khi chạy trốn khỏi em trai của mình, mong muốn cúng dường đồ ăn cho một vị tỳ-kheo trước khi ăn, Gotama đã biết được ước muốn của ông và cử một vị tỳ-kheo tên là Tissa đến để nhận đồ ăn. Khi thức ăn được mang đến Piyaṅgudīpa, Gotama đã cúng dường những phần nhỏ của nó cho năm trăm vị tỳ-kheo (mười hai ngàn vị, theo Mhv.xxxii.65) và, đổ đầy bát bằng những mẩu thức ăn vụn, rồi gửi nó trở lại cho vị hoàng tử qua đường không (Mhv.xxiv.24, 30; Mhv­ṭ.465).
 
 ## Notes

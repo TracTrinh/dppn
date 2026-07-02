@@ -5,7 +5,7 @@ base_headword: "Hatthino Sutta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hatthino Sutta. Few are they who refrain from accepting elephants, cattle, horse
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthino Sutta. Ít người là những kẻ từ chối nhận voi, gia súc, ngựa và ngựa cái; nhiều người thì không như vậy. SN.v.472.
 
 ## Notes

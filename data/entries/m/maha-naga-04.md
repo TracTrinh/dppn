@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāga 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 04. Con trai của Vaṭṭagāmaṇī. Về sau ông được biết đến với tên gọi Coranāga. Mhv.xxxiii.45.
 
 ## Notes

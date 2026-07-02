@@ -5,7 +5,7 @@ base_headword: "Mā puññabhāyi Sutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mā puññabhāyi Sutta. A *Sutta* quoted in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mā puññabhāyi Sutta. Một kinh được trích dẫn trong Suttasaṅgaha (số 30) từ Itivuttaka (p.14f). Đức Phật khuyên các tỳ-kheo làm việc thiện, đảm bảo với họ rằng ngài luôn đạt được lợi ích nhờ làm việc thiện.
 
 ## Notes

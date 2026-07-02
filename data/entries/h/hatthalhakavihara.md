@@ -5,7 +5,7 @@ base_headword: "Hatthāḷhakavihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -33,6 +33,8 @@ Later, they occupied also all the twelve buildings attached to the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthāḷhakavihāra. Một ni viện do Devānampiyatissa xây dựng cho Saṅghamittā sử dụng. Nó được gọi là Hatthāḷhaka vì được xây gần nơi con voi ngự của nhà vua bị xích lại. Đồ chúng của Saṅghamittā về sau được gọi là Hatthaḷhakā vì sống trong *vihāra* này.
+
+Về sau, họ cũng chiếm cả mười hai tòa nhà thuộc Upāsikāvihāra, ngay cả khi các giáo phái khác xuất hiện (Mhv.xix.71, 83; xx.21f, 49). *Vihāra* này ban đầu nằm trong tường thành Anurādhapura; nhưng về sau, khi Kuṭikaṇṇa Tissa và Vasabha nâng cao tường thành, một phần khuôn viên *vihāra* lại nằm ngoài tường thành. Ranh giới ban đầu bao gồm cả Kadambanadī. Mhvṭ. 611.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bulī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bulī. The name of a *gotta*. They claimed one eighth share of the Buddha’s re
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bulī. Tên của một *gotta*. Họ đã đòi một phần tám xá-lợi của Đức Phật và dựng một bảo tháp (*Thūpa*) thờ chúng trong thành phố Allakappa của họ (DN.ii.167). Lãnh thổ của họ có lẽ gần Veṭhadīpa, bởi vì vua của Allakappa được đề cập (Dhp­a.i.161) là có mối quan hệ thân thiết với vua của Veṭhadīpa.
 
 ## Notes

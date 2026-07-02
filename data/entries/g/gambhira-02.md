@@ -5,7 +5,7 @@ base_headword: "Gambhīra"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gambhīra 02. A channel branching off from the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gambhīra 02. Một con kênh tách ra từ Parakkamasamudda. Kênh này bắt đầu từ điểm thoát lũ được gọi là Makara. Cv.lxxix.40.
 
 ## Notes

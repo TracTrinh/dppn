@@ -5,7 +5,7 @@ base_headword: "Hiṅga"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hiṅga. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiṅga. Một vị Pacceka Buddha. MN.iii.70.
 
 ## Notes

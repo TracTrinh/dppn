@@ -5,7 +5,7 @@ base_headword: "Giriguhā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giriguhā. One of the palaces occupied by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giriguhā. Một trong những cung điện được Piyadassī Buddha sử dụng trong kiếp sống cư sĩ cuối cùng của Ngài (Bv.xiv.16). Chú giải (Bv­a., p.172) gọi nó là Giribrahā.
 
 ## Notes

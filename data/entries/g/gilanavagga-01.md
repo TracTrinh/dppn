@@ -5,7 +5,7 @@ base_headword: "Gilānavagga"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gilānavagga 01. The thirteenth chapter of the *Pañcakanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānavagga 01. Phẩm thứ mười ba của *Pañcakanipāta* thuộc Aṅguttaranikāya (AN.iii.142-7).
 
 ## Notes

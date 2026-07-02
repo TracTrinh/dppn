@@ -5,7 +5,7 @@ base_headword: "Gaṅgarājī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṅgarājī. A district to the east of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgarājī. Một vùng ở phía đông Anurādhapura, nơi Kaniṭṭhatissa đã xây dựng vihāra Anulatissapabbata. Mhv.xxxvi.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gaṅgātīriya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -38,6 +38,12 @@ Gaṅgātīriya is perhaps to be identified with <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgātīriya Thera. Một vị Arahant. Ngài vốn là một cư sĩ tên Datta ở Sāvatthī. Khi phát hiện mình, dù không cố ý, đã phạm tội loạn luân với cả mẹ và em gái mình, ngài chìm trong đau khổ tột cùng và từ bỏ thế tục. Ngài chọn lối sống khổ hạnh, cư ngụ trong một túp lều lá cọ trên bờ sông Gaṅgā, do đó có tên như vậy. Suốt một năm ngài giữ im lặng; sang năm thứ hai, ngài chỉ nói một lần với một người phụ nữ, khi bà đổ đầy bát của ngài và làm đổ sữa ra, muốn thử xem ngài có câm hay không. Đến năm thứ ba, ngài trở thành một vị Arahant.
+
+Vào thời Đức Phật Padumuttara, ngài là một cư sĩ, và đã cung cấp thức uống cho chư tăng (Thag.v.127-8; Thag­a.i.248f).
+
+Có nói rằng sau khi Gaṅgātīriya được thụ thai, mẹ ngài đã bị đuổi khỏi nhà trong lúc chồng bà vắng mặt, vì mẹ chồng nghi ngờ bà không chung thủy (Thag­a.195f.; Thīg.224f). Đứa bé được sinh ra trong một quán trọ dành cho lữ khách ở Rājagaha, nơi bà đã đến để tìm chồng, và bị một người trưởng đoàn lữ hành bắt đi khi tình cờ trông thấy lúc mẹ nó đang đi tắm. Sau đó, người phụ nữ này bị một tên trùm cướp bắt đi, và có với hắn một đứa con gái. Một hôm, trong lúc cãi nhau với chồng, bà ném con gái mình lên giường, làm con bị thương ở đầu, và vì sợ chồng nổi giận, bà trốn đến Rājagaha, nơi bà trở thành một kỹ nữ và sau đó là tình nhân của Gaṅgātīriya, người không hề biết mối quan hệ của mình với bà. Một thời gian sau, ngài còn lấy cả con gái của tên cướp làm vợ. Một hôm, khi nhìn vào đầu của người vợ trẻ, người vợ lớn tuổi hơn thấy vết thương, và qua những câu hỏi của mình, bà biết được sự thật. Cả mẹ và con gái, tràn ngập kinh hoàng, đều xuất gia làm ni, và Gaṅgātīriya từ bỏ thế tục như đã nói ở trên.
+
+Gaṅgātīriya có lẽ được đồng nhất với Udakadāyaka trong Apadāna. (Ap.ii.437; nhưng những bài kệ này cũng được gán cho Mahā Gavaccha, Thag­a.i.57).
 
 ## Notes

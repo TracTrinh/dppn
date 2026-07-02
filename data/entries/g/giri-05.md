@@ -5,7 +5,7 @@ base_headword: "Giri"
 disambiguator: "05"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giri 05. A *Nigaṇṭha* who lived at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giri 05. Một vị *Nigaṇṭha* đã sống tại Anurādhapura trong thời đại của Paṇḍukābhaya. Xem thêm Giri (1). Mhv.x.98.
 
 ## Notes

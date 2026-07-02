@@ -5,7 +5,7 @@ base_headword: "Madhurā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -63,6 +63,18 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurā 01. Thủ đô của Surasena, nằm trên bờ sông Yamunā. Vua của nó, không lâu sau cái chết của Bimbisāra, là Avantiputta (MN.ii.83), người mà, xét theo tên gọi, có lẽ có liên hệ với hoàng gia Ujjenī. Madhurā đã được Đức Phật viếng thăm (AN.ii.57; iii.256), nhưng không có ghi chép nào về việc ngài đã lưu trú ở đó. Thực tế, Madhurasutta (2) (*q.v.*) nói rằng ngài đã nhìn thành phố này với sự không thiện cảm rõ rệt. Nhưng Mahā Kaccāna rõ ràng thích nơi này, vì ngài đã lưu trú ở đó tại Gundāvana, và được vua của thành phố, Avantiputta (MN.ii.83), cùng với Bà-la-môn Kaṇḍarāyana (AN.i.67) đến viếng thăm. Một trong những Sutta quan trọng nhất về đẳng cấp, Madhurasutta 1, đã được Mahā Kaccāna thuyết giảng cho Avantiputta tại Madhurā. Có lẽ thông qua sự trung gian của Mahā Kaccāna mà Phật giáo đã giành được chỗ đứng ở Madhurā. Ngay từ thời Đức Phật đã có, ở trong và xung quanh Madhurā, những người chấp nhận những giáo lý của ngài, vì Aṅguttaranikāya (AN.ii.57) có đề cập rằng một lần nọ khi ngài đang trên đường từ Madhurā đến Verañjā và dừng chân dưới một gốc cây ven đường, một số lượng lớn các gia chủ, cả nam lẫn nữ, đã đến và đảnh lễ ngài. Sau đó, vào khoảng năm 300 TCN, Madhurā trở thành một trung tâm của Kỳ-na giáo (CHI.i.167), nhưng khi Faxian (Giles, p. 20) và Xuanzang đến viếng thăm nơi này, Phật giáo đang phát triển mạnh mẽ ở đó, và có nhiều *saṅghārāma* và tháp thờ (*stūpa*). Beal-Xuan.i.179ff.; đối với một lời tiên tri (được gán cho Đức Phật) liên quan đến sự vĩ đại trong tương lai của Madhurā, xem Divy.348ff.
+
+Từ Saṅkassa đến Madhurā là một khoảng cách bốn do-tuần (như vậy trong Ngữ pháp của Kaccāyana, iii.1).
+
+Madhurā đôi khi được gọi là Uttara Madhurā, để phân biệt nó với một thành phố cùng tên ở miền Nam Ấn Độ. Do đó, trong Chú giải Vimānavatthu (Vv-a.118f), một người phụ nữ ở Uttara Madhurā được nhắc đến là đã được sinh ra ở Tāvatiṁsa như là kết quả của việc dâng cúng vật thực cho Đức Phật.
+
+Ghaṭajātaka (Ja.iv.79ff) nói về Mahā Sāgara như là vua của Uttara Madhurā, và kể lại điều hiển nhiên là câu chuyện về nỗ lực của Kaṁsa nhằm bạo ngược cai trị Madhurā bằng cách áp đảo những người Yādava và hậu quả là cái chết của ông ta dưới tay Kṛṣṇa, một câu chuyện được tìm thấy ở cả các Sử thi và trong các *Purāṇa*. Jātaka này xác nhận truyền thống Bà-la-môn giáo liên quan đến mối liên hệ của gia đình Vasudeva với Madhurā (PHAL, p. 89).
+
+Có một câu chuyện (Cv.xcii.23ff) về một vị vua tên là Mahā Sena của Pāṭaliputta, người rất hào phóng trong việc cúng dường thức ăn cho các tỳ-kheo, và từng nghĩ đến việc bố thí bằng cách tự mình canh tác một mảnh đất. Do đó, ông đã cải trang đi đến Uttara Madhurā, làm việc như một người lao động, và tổ chức một buổi cúng dường với những thành quả thu được như vậy.
+
+Madhurā thường được đồng nhất với Maholi, cách thị trấn Mathurā hay Muttra hiện tại năm dặm về phía Đông Nam. Nó là Modura của Ptolemy và Methoras của Pliny (CAGI.427f).
+
+Milindapañha (p. 331) đề cập đến Madhurā như là một trong những thành phố chính của Ấn Độ. Trong quá khứ, Sādhīna và hai mươi hai hậu duệ của ông, người cuối cùng trong số đó là Dhammagutta, đã trị vì ở Madhurā (Dpv.iii.21).
 
 ## Notes

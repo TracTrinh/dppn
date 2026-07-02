@@ -5,7 +5,7 @@ base_headword: "Devakūṭa"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devakūṭa 02. A hill in India where <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devakūṭa 02. Một ngọn đồi ở Ấn Độ, nơi Sumedha Buddha thuyết pháp cho một hội chúng rất đông (Bv.xii.9).
 
 ## Notes

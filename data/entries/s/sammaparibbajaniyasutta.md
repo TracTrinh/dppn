@@ -5,7 +5,7 @@ base_headword: "Sammāparibbājaniyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,8 @@ The *Sutta* is a dissertation on the right path for a *Bhikkhu*. He has no belie
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammāparibbājaniyasutta. Còn được gọi là Mahā Samayasutta, vì được thuyết vào ngày diễn ra Mahā Samaya. Bản *Sutta* này được Đức Phật thuyết để trả lời một câu hỏi được đặt ra tại đại hội Mahā Samaya, bởi vị Phật được hóa hiện (*nimmita*) (Snp­a.i.352). Đây là bản *Sutta* cuối cùng được thuyết trong dịp đó, và dành cho chư thiên thuộc *rāgacaritas*. Vào cuối bài pháp, một ngàn crore vị đã chứng đắc quả vị *Arahant* (Snp­a.361, 367).
+
+Bản *Sutta* này là một bài luận về con đường chân chánh dành cho một vị *Bhikkhu*. Vị ấy không tin vào điềm báo, giấc mơ, v.v., chế ngự dục vọng của mình, từ bỏ lời vu khống, sân hận, tham lam, v.v., và được giải thoát khỏi các trói buộc. Vị ấy không còn chấp thủ, không đối nghịch với ai, không có kiêu mạn, và khao khát *Nibbāna*. Snp.vss.359-75.
 
 ## Notes

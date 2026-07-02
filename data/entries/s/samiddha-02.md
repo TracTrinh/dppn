@@ -5,7 +5,7 @@ base_headword: "Samiddha"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samiddha 02. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddha 02. Em trai của Jayanta, vua xứ Tích Lan (Maṇḍadīpa). Chính cuộc chiến giữa hai anh em đã đưa Kassapa Buddha đến Tích Lan. Mhv­ṭ. 356.
 
 ## Notes

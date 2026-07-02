@@ -5,7 +5,7 @@ base_headword: "Girikaṇḍasiva"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,6 @@ Girikaṇḍasiva. A chieftain, uncle of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girikaṇḍasiva. Một tù trưởng, chú của Paṇḍukābhaya và là cha của Suvaṇṇapālī. Ông đã được Paṇḍuvāsudeva bổ nhiệm làm tù trưởng của quận Girikaṇḍa, và đã từ chối công nhận quyền thừa kế ngai vàng của Paṇḍukābhaya (Mhv.x.29f). Khi Suvaṇṇapālī bị Paṇḍukābhaya bắt đi, cha cô đã cử năm người con trai của mình đến để giải cứu cô, nhưng tất cả họ đều bị giết bởi Canda, con trai của Paṇḍula (Mhv.x.41f). Khi Paṇḍukābhaya trở thành vua, ông đã trả lại tỉnh Girikaṇḍa cho chú của mình, và giao cho ông phụ trách nó (Mhv.x.82).
 
 ## Notes

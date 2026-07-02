@@ -5,7 +5,7 @@ base_headword: "Devapadasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devapadasutta. The four paths that lead to the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devapadasutta. Bốn con đường dẫn đến chư thiên; lòng trung thành không lay chuyển đối với Đức Phật, đối với Pháp, đối với Tăng đoàn, và sự tu tập các đức hạnh thân thiết với các bậc Thánh. SN.v.392.
 
 ## Notes

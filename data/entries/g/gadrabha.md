@@ -5,7 +5,7 @@ base_headword: "Gadrabha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gadrabha. Doorkeeper of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gadrabha. Người gác cổng của Āḷavaka, vị Yakkha. Vị ấy đã cảnh báo Đức Phật về bản tính hung ác của Yakkha này và thỉnh cầu Ngài rời đi, nhưng khi thấy Đức Phật quyết ở lại, vị ấy đã báo cho Yakkha đó biết về sự xuất hiện của Đức Phật. Snp­a.i.220; AN­a i.211.
 
 ## Notes

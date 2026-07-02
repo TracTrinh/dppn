@@ -5,7 +5,7 @@ base_headword: "Samaṇamaṇḍikāputta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇamaṇḍikāputta. A name for the *Paribbājaka* <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇamaṇḍikāputta. Một tên gọi khác của *Paribbājaka* Uggāhamāna.
 
 ## Notes

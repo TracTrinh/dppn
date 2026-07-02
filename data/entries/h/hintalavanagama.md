@@ -5,7 +5,7 @@ base_headword: "Hintālavanagāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hintālavanagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hintālavanagāma. Một ngôi làng ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.162; lxxv.7, 11, 17; xem Cv.Trs.ii.44, n.3.
 
 ## Notes

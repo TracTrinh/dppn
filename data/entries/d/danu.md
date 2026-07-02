@@ -5,7 +5,7 @@ base_headword: "Danu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Danu. Mother of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Danu. Mẹ của các Asura, những người, do đó, được gọi là Dānavā (Abhidhānappadīpikā, p.14).
 
 ## Notes

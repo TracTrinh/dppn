@@ -5,7 +5,7 @@ base_headword: "Gahapativagga"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gahapativagga 02. The third section of the *Aṭṭhakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahapativagga 02. Phần thứ ba của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya. Phần này gồm mười bài *Sutta*, trong đó có lời khen ngợi của Đức Phật dành cho Ugga xứ Vesālī, Ugga xứ Hatthigāma, và Hatthaka Āḷavaka. AN.iv.208-35.
 
 ## Notes

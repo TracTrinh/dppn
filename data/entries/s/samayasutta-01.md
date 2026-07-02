@@ -5,7 +5,7 @@ base_headword: "Samayasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samayasutta 01. On the wrong and right times for striving. AN.iii.65.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayasutta 01. Về những thời điểm sai và đúng để tinh tấn. AN.iii.65.
 
 ## Notes

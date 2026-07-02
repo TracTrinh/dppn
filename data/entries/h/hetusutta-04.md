@@ -5,7 +5,7 @@ base_headword: "Hetusutta"
 disambiguator: "04"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hetusutta 04. It is not because of beauty, wealth, kin or sons, that a woman is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hetusutta 04. Không phải vì sắc đẹp, của cải, dòng họ hay con cái mà một người phụ nữ được tái sinh an lạc sau khi chết, mà chính là nhờ đức hạnh của bà. SN.iv.248.
 
 ## Notes

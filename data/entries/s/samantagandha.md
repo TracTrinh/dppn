@@ -5,7 +5,7 @@ base_headword: "Samantagandha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantagandha. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantagandha. *v.l.* Samantabhadda. Năm *kappas* trước có mười ba vị vua mang tên này, là những kiếp trước của Padapūjaka Thera. Ap.i.142.
 
 ## Notes

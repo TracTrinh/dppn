@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nandiyajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,6 @@ Cūḷa Nandiyajātaka, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nandiyajātaka, Culla Nandiyajātaka *v.l.* Cūḷa Nandakajātaka (Ja 222). Bodhisatta từng là một con khỉ tên Nandiya và cùng với người em trai Cūḷa Nandiya, dẫn đầu một bầy tám mươi ngàn con khỉ. Chúng có một người mẹ mù, và khi thấy rằng lúc chúng rời đi cùng bầy thì bà không nhận được những trái cây mà chúng gửi cho, chúng quyết định ở lại cùng bà trên một cây đa gần một ngôi làng. Một ngày nọ, một vị Bà-la-môn từng học ở Takkasilā đi vào rừng với một cây cung và mũi tên. Ông đã bị người thầy Pārāsariya cảnh báo là phải kiềm chế sự độc ác của mình, nhưng ông không thể tìm ra cách nào ngoài việc sát sinh để nuôi sống vợ con. Nhìn thấy con khỉ già, ông chuẩn bị bắn, nhưng các con của bà đã hiến mạng sống của mình thay cho mẹ. Vị Bà-la-môn giết chúng trước rồi sau đó giết người mẹ. Trên đường về nhà, ông nghe tin sét đã đánh trúng nhà mình và gia đình ông đã chết; chính bản thân ông sau đó bị lửa địa ngục nuốt chửng. Câu chuyện được kể lại liên quan đến sự độc ác của Devadatta. Người thợ săn là Devadatta. Ja.ii.199-202.
 
 ## Notes

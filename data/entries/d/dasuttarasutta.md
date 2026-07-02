@@ -5,7 +5,7 @@ base_headword: "Dasuttarasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The *Sutta* is mentioned (MN­a.i.330) as describing the *pārisuddhipadhāniya�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasuttarasutta. Bài kinh (*Sutta*) cuối cùng (thứ ba mươi tư) của Dīghanikāya, được Sāriputta thuyết giảng tại hồ nước (*pokkharaṇī*) Gaggarā ở Campā, trước sự hiện diện của Đức Phật. Bài kinh bao gồm các nhóm giáo lý – mười giáo lý đơn lẻ, mười giáo lý gồm hai phần, và cứ tiếp tục như vậy cho đến mười giáo lý gồm mười phần (DN.iii.272). Tương truyền (DN­a.iii.1064) rằng vào cuối bài pháp, năm trăm vị tỳ-kheo đã trở thành các *Arahant*.
+
+Bài kinh được nhắc đến (MN­a.i.330) như là mô tả các *pārisuddhipadhāniyaṅga*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Jāli"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Jāli. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Jāli. Một vị Pacceka Buddha (Phật Độc giác) được nhắc đến trong một danh sách các tên gọi. MN.iii.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gijjhakūṭa"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -137,6 +137,63 @@ Cunningham (CAGI.534), on the authority of both Faxian and Xuanzang, identifies 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gijjhakūṭa 01. Một trong năm ngọn đồi bao quanh Rājagaha. Đây rõ ràng là một khu nghỉ dưỡng yêu thích của những người theo đời sống tôn giáo (nó đã như vậy ngay cả trong những thời kỳ trước đây, ví dụ, xem Ja.ii.55).
+
+Gotama Buddha dường như đã bị thu hút bởi sự cô tịch của nó, và được nhắc đến là đã đến thăm nó trong một vài dịp, đôi khi ngay cả trong bóng tối, trong cơn mưa phùn, khi Māra thực hiện những nỗ lực bất thành để dọa Ngài (SN.i.109).
+
+Chính trên sườn núi Gijjhakūṭa, nơi Đức Phật đang đi dạo, Devadatta đã ném một tảng đá lớn vào Ngài để giết Ngài, nhưng chỉ một mảnh vỡ làm Ngài bị thương ở chân (Vin.ii.193, etc.).
+
+Cũng tại đây, Jīvaka Komārabhacca đã kê một liều thuốc xổ cho Đức Phật (AN­a.i.216).
+
+Trong số những người đã đến thăm Đức Phật tại Gijjhakūṭa có:
+
+- Sahampati (SN.i.153),
+- thanh niên Māgha (Sn., p.86),
+- Yakkha Inda (SN.i.206),
+- Sakka (SN.i.233; iv.102),
+- Paribbājaka Sajjha (AN.iv.371),
+- tỳ-kheo Kassapagotta (AN.i.237),
+- Pañcasikha (SN.iv.103; DN.ii.220),
+- Sutavā (AN.iv.369),
+- bốn vị vua của cõi Cātummahārājika và những người tùy tùng (DN.iii.195),
+- Abhayarājakumāra (SN.v.126),
+- Upaka Maṇḍikāputta (AN.ii.181),
+- Dhammika (AN.iii.368), và
+- Vassakāra (AN.iv.18; DN.ii.72).
+
+Một vài *Sutta* nổi tiếng đã được thuyết giảng trên Gijjhakūṭa – e.g., các *Sutta* Māgha, Dhammika và Chaḷabhijāti, bài pháp về bảy Aparihānīyadhammā (AN.iv.21f.), Mahā Sāropamasutta và Āṭānāṭiyasutta (xem thêm SN.ii.155, 185, 190, 241; iii.121; AN.ii.73; iii.21; iv.160).
+
+Người ta nói rằng (AN­a.i.412) đến một lúc nào đó, một *vihāra* đã được dựng lên trên Gijjhakūṭa cho Đức Phật và các vị tỳ-kheo của Ngài; ở đây các phòng giam đã được dựng lên để cho các vị tỳ-kheo từ xa đến sử dụng, nhưng các phòng giam này rất khó tiếp cận nên các vị tỳ-kheo đến trễ tại Rājagaha sẽ yêu cầu Dabba Mallaputtatissa tìm chỗ ở cho họ tại Gijjhakūṭa, nhằm mục đích kiểm tra khả năng của ông (Vin.ii.76; Dhp­a.iii.321f).
+
+Có sự đề cập đến một vài vị tỳ-kheo xuất chúng đã ở lại Gijjhakūṭa từ lúc này đến lúc khác – e.g.,
+
+- Sāriputta (MN.iii.263; AN.iii.300; SN.ii.155),
+- Ānanda (AN.iii.383),
+- Mahā Kassapa,
+- Anuruddha,
+- Puṇṇa Mantāṇiputta,
+- Upāli và Devadatta (SN.ii.155),
+- Cunda và Channa (SN.iv.55).
+
+Channa đã ngã bệnh ở đó, và cuối cùng đã tự tử (một vị tỳ-kheo khác được nhắc đến là đã gieo mình xuống từ Gijjhakūṭa vì bất mãn với cuộc sống của mình, Vin.iii.82. Theo một lời kể, AN­a.i.146f, Vakkali, cũng đã tự tử bằng cách gieo mình từ Gijjhakūṭa; nhưng xem Vakkali).
+
+Moggallāna và Lakkhaṇa được báo cáo là đã ở đó, và đã nhìn thấy rất nhiều cư dân của Rājagaha được tái sinh ở Gijjhakūṭa làm các *Peta* (SN.ii.254; Vin.iii.104; đối với Moggallāna xem thêm AN.iv.75).
+
+Các Mettiyabhummajaka (Vin.iii.167) và Chabbaggiya (ibid., 82) cũng có thói quen đến thăm ngọn đồi này.
+
+Một vài địa điểm được nhắc đến là đã được Đức Phật đến thăm trong thời gian Ngài lưu trú trên Gijjhakūṭa, và có thể suy ra từ các lời kể về những chuyến viếng thăm này rằng các địa điểm này nằm trong khoảng cách dễ dàng tiếp cận từ ngọn đồi. Ví dụ như:
+
+- Paṭibhāṇakūṭa (SN.v.448),
+- Sītavana, nơi Đức Phật đã đến thăm Soṇa (AN.iii.374),
+- sông Sappinī, trên bờ sông có rất nhiều Paribbājaka sinh sống, bao gồm cả Sarabha (AN.i.185; ii.29, 176),
+- Paribbājakārama của Udumbarikā,
+- nơi ở của Nigrodha, gần Moranivāpa trên bờ hồ Sumāgadhā (DN.iii.39), và
+- công viên Maddakucchi, nơi Đức Phật đã được chuyển đến sau khi bị thương ở chân (Dhp­a.ii.164).
+- Sūkarakhatalena nằm trên sườn của Gijjhakūṭa, và tại đây Đức Phật đã từng được Dīghanakha đến thăm (SN.v.233; MN.i.497).
+- Vườn xoài của Jīvaka nằm giữa Gijjhakūṭa và các bức tường của Rājagaha (DN­a.i.150).
+
+Gijjhakūṭa được gọi như vậy, hoặc vì đỉnh của nó giống như mỏ của một con kền kền, hoặc vì đó là nơi cư trú của rất nhiều loài kền kền (Snp­a.ii.417; AN­a.i.412; MN­a.i.291, etc.).
+
+Cunningham (CAGI.534), theo sự cho phép của cả Faxian và Xuanzang, đã xác định Gijjhakūṭa với Sailagiri hiện đại, cách thị trấn cổ khoảng hai dặm rưỡi về phía đông bắc. Nó còn được gọi là Giriyek Hill. Gijjhakūṭa đôi khi được gọi là Gijjhapabbata (Ja.ii.50; iii.255, 484) và Gijjha. Ja.vi.204, 212.
 
 ## Notes

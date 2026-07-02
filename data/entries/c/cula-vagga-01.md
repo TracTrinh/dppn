@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vagga"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Vagga 01. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vagga 01. Cūla Vagga. Tập thứ hai của hai tập sách được biết đến như là hai Khandhaka của *Vinayapiṭaka*. Cuốn sách bao gồm mười hai chương hay Khandhaka, và trình bày lịch sử giáo hội của Tăng đoàn Phật giáo cho đến kỳ Đại Kết Tập lần thứ hai, một trăm năm sau khi Đức Phật viên tịch. Trong Cūḷa Vagga có tìm thấy một số tham chiếu đến Suttavibhaṅga, điều này dẫn chúng ta đến giả thuyết rằng tác phẩm sau được coi là một văn bản có thẩm quyền vào thời điểm Cūḷa Vagga được hoàn thành. Để thảo luận về nội dung của Cūḷa Vagga và giá trị lịch sử của chúng, xem Law, *Pāli Literature*, pp.14ff và *passim*.
 
 ## Notes

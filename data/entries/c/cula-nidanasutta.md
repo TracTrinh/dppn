@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nīdānasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Nīdānasutta. Probably another name for the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nīdānasutta. Có lẽ là một tên gọi khác của Nidānasutta thuộc Saṁyuttanikāya. Được nhắc đến trong MN­a.i.225; Vibh-a.267.
 
 ## Notes

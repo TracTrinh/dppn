@@ -5,7 +5,7 @@ base_headword: "Gahvaratīra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gahvaratīra. The name of the place where the Thera <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahvaratīra. Tên của nơi Trưởng lão Gahvaratīriya từng sinh sống (Thag­a.i.91f).
 
 ## Notes

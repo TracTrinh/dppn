@@ -5,7 +5,7 @@ base_headword: "Samattasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samattasutta 02. It is by practising the four *iddhipāda* that recluses and Bra
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samattasutta 02. Chính nhờ tu tập bốn *iddhipāda* mà các sa-môn và Bà-la-môn có thể thực hành trọn vẹn thần thông (*iddhi*). SN.v.256.
 
 ## Notes

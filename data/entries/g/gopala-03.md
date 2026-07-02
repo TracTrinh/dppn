@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -28,6 +28,6 @@ Gopāla 03. One of the four sons of the chaplain to King <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 03. Một trong bốn người con trai của vị tế sư của Vua Esukāri. Về câu chuyện của họ, xem Hatthipālajātaka. Gopāla được đồng nhất với Moggallāna. Ja.iv.491.
 
 ## Notes

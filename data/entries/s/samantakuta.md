@@ -5,7 +5,7 @@ base_headword: "Samantakūṭa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -64,6 +64,12 @@ The districts round <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantakūṭa, Samantagiri, Sumanakūṭa, Sumanagiri, Sumanācala. Một đỉnh núi ở Tích Lan. Đây là nơi cư ngụ của thiên nhân Mahā Sumana (Mhv.i.33), và khi Đức Phật đến thăm Hòn đảo lần thứ ba, Ngài đã để lại trên núi dấu chân của mình (Mhv.i.77; cf. Nammadā, và Saccabaddha). Nhờ đó, ngọn núi trở thành một thánh địa hành hương. Về sau, nhiều vị vua Tích Lan đã bày tỏ sự tôn kính lớn lao đối với ngôi điện thờ này. Vijayabāhu I. đã ban tặng ngôi làng Gilīmalaya để nuôi dưỡng khách hành hương, và cho dựng các nhà nghỉ cho họ trên các tuyến đường khác nhau, cùng với việc cấp dưỡng để duy trì các nhà nghỉ đó (Cv.ix.64f)
+
+Kittinissaṅka đã thực hiện một cuộc hành hương đặc biệt đến Sumanakūṭa và có nhắc đến việc này trong các bia ký của mình (Cv.lxxx.24; Cv.Trs.ii.128, n.4). Parakkamabāhu II. cũng làm như vậy, và còn ban mười *gāvutas* đất đai màu mỡ cho ngôi điện thờ trên đỉnh núi (Cv.lxxxv.118). Ông còn ra lệnh cho vị quan mộ đạo của mình, Devappatirāja, sửa sang các con đường dẫn lên núi cho dễ đi. Vị quan này đã sửa chữa đường sá, và xây các cây cầu tại Bodhitala bắc qua sông Khajjotanadī, tại Ullapanaggāma, và tại Ambaggāma. Ông cho dựng các nhà nghỉ tại những nơi thích hợp, và đặt các bậc đá trên đường lên đỉnh núi. Sau đó, chính nhà vua đã đến thăm đỉnh núi và tổ chức một đại lễ hội kéo dài ba ngày tại đó (Cv.lxxxvi.9, 18 ff). Vijayabāhu IV. cũng đã thực hiện một cuộc hành hương đến ngọn núi thiêng này (Cv.lxxxviii.48).
+
+Vua Vīravikkama cũng đến đó và thắp một ngọn đèn có chu vi mười lăm cubit và cao năm cubit (Cv.xcii.17). Rājasīha I., vì muốn trả thù các tỳ-kheo Phật giáo, đã giao ngôi điện thờ cho các tư tế Ấn giáo (Cv.xciii.12), nhưng Vimaladhammasūriya II. đã khôi phục lại mọi vinh dự cho nơi này và tổ chức một đại lễ hội kéo dài bảy ngày tại đỉnh núi (Cv.xcvii.16f). Con trai ông, Narindasīha, đã hai lần hành hương đến đó (Cv.xcvii.31), trong khi Vijayarājasīha đã cho tổ chức một lễ hội đèn tại đó (Cv.xcviii.84). Kittisirirājasīha cho xây một *maṇḍapa* bao quanh dấu chân, có lọng che phía trên, và giao nguồn thu từ ngôi làng Kuṭṭāpiṭi cho các tỳ-kheo trông coi điện thờ (Cv.c.221).
+
+Các vùng quanh Samantakūṭa, vào thời xưa, là nơi cư trú của các Pulindas. Người ta tin rằng (Mhv.vii.67) khi Vijaya ruồng bỏ Kuveṇī, các con của bà đã chạy trốn đến đó, và hậu duệ của họ chính là các Pulindas. Về sau, cũng có ghi chép (e.g., Cv.lxi.70) về việc dân cư sống gần Samantakūṭa từ chối nộp thuế cho nhà vua. Từ rất xa xưa, ngọn núi này là nơi cư ngụ của nhiều vị tỳ-kheo. Chẳng hạn, vào thời Duṭṭhagāmaṇī, có chín trăm vị tỳ-kheo ở đó, dưới sự lãnh đạo của Malaya Mahā Deva Thera (Mhv.xxxii.49). Damiḷa Dīghajantu đã cúng dường một tấm y đỏ cho Ākāsacetiya tại *vihāra* Samantagiri, và nhờ đó được sinh lên cõi trời, vì ông nhớ lại việc cúng dường này vào lúc lâm chung (AN­a.i.376; MN­a.ii.955). Hai con sông Mahā Vāluka và Kalyāṇi bắt nguồn từ Sumanakūṭa.
 
 ## Notes

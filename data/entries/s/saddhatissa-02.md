@@ -31,6 +31,6 @@ Saddhātissa 02. A minister. He once gave to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Saddhātissa 02. Một vị quan đại thần. Ông từng cúng dường cho Piṇḍapāṭikatissa Thera của *padhānasāla* Sudassana một bát thức ăn mà ông đã mua với giá 8 *kahāpaṇa*. Vị tỳ-kheo đã trở thành một *Arahant* trước khi ăn nó. Vị thiên thần của chiếc lọng vua đã tán thưởng và vua Saddhātissa sau khi cho gọi ông đến đã ban cho ông quận Vaḍḍhamāna *nagara*. Sau đó, ông đã chia sẻ với 30.000 tu sĩ lượng nước được chư thiên mang đến cho ông trong một trận hạn hán. Nhà vua nghe chuyện này đã ban cho ông Antaragaṅga. Một thời gian sau, ông trở thành một *Sotāpanna*, vui mừng trước cảnh tượng 12.000 tu sĩ đi quanh *cetiya* Ambatthala, khoác những y phục do ông cúng dường. Ras.ii.9f.
+Saddhātissa 02. Một vị quan đại thần. Ông từng cúng dường cho Piṇḍapāṭikatissa Thera của *padhānasāla* Sudassana một bát thức ăn mà ông đã mua với giá 8 *kahāpaṇa*. Vị tỳ-kheo đã trở thành một *Arahant* trước khi ăn nó. Vị thiên nhân của chiếc lọng vua đã tán thưởng và vua Saddhātissa sau khi cho gọi ông đến đã ban cho ông quận Vaḍḍhamāna *nagara*. Sau đó, ông đã chia sẻ với 30.000 tu sĩ lượng nước được chư thiên mang đến cho ông trong một trận hạn hán. Nhà vua nghe chuyện này đã ban cho ông Antaragaṅga. Một thời gian sau, ông trở thành một *Sotāpanna*, vui mừng trước cảnh tượng 12.000 tu sĩ đi quanh *cetiya* Ambatthala, khoác những y phục do ông cúng dường. Ras.ii.9f.
 
 ## Notes

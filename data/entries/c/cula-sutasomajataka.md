@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sutasomajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -34,6 +34,6 @@ Cūḷa Sutasomajātaka, <span class="dppn-term dppn-term-t15" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sutasomajātaka, Culla Sutasomajātaka (Ja 525). Bodhisatta đã từng được sinh ra là con trai của vua nước Sudassana (Benares), với tên là Soma. Vì ông rất thích nước ép Soma và hay rót nó để cúng tế, nên họ gọi ông là Sutasoma. Khi ông đến tuổi trưởng thành, cha ông đã nhường ngôi cho ông, và ông có mười sáu ngàn người vợ, trong số đó Candādevī là hoàng hậu chính. Khi thời gian trôi qua, gia đình ông trở nên rất lớn mạnh, và ông mong muốn trở thành một đạo sĩ ngay khi có một sợi tóc bạc xuất hiện trên đầu mình. Mọi người trong cung điện đã cố gắng thay đổi quyết định này của ông; những thương nhân giàu có, như Kulavaḍḍhana, đã dâng cho ông khối tài sản khổng lồ của họ, nhưng tất cả đều vô ích. Sau khi giao lại vương quốc cho em trai mình là Somadatta, ông khoác lên mình y phục của một đạo sĩ và rời khỏi thành phố mà không ai hay biết. Khi sự ra đi của ông bị phát hiện, tất cả cư dân của thành phố đã bỏ lại đồ đạc của họ để theo ông. Sakka đã phái Vissakamma đến xây dựng cho họ một ẩn cư rộng ba mươi do-tuần. Ja.v.177-92.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Kapijātaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -37,6 +37,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kapijātaka 01. (Ja 407). Bodhisatta từng là một con khỉ, chúa tể của tám mươi nghìn con. Trong khu rừng nơi chúng sống có một cây xoài (có người nói là cây đa) mọc trên bờ sông kết những quả có hương vị tuyệt diệu, và bầy khỉ luôn cẩn thận không để quả nào rơi xuống sông. Nhưng một ngày nọ, một quả xoài, vốn đã bị một tổ kiến che khuất, đã rơi xuống nước, và được vớt lên tại Benares, nơi nhà vua đang tắm. Nhà vua đã nếm thử nó, và bị thôi thúc bởi ước muốn được ăn nhiều hơn, đã cho đóng nhiều chiếc bè, và đi ngược dòng sông cùng với một nhóm những người đi rừng. Họ đã tìm thấy cái cây, và nhà vua, sau khi đã ăn no nê, đã nằm xuống ở gốc cây. Vào lúc nửa đêm Bodhisatta đi đến cùng với tùy tùng của mình và bắt đầu ăn những quả xoài. Nhà vua bị đánh thức, và đã ra lệnh cho các cung thủ của mình rằng khu rừng phải bị bao vây và tất cả những con khỉ phải bị bắn chết vào lúc rạng sáng. Nhưng Bodhisatta là một nhà lãnh đạo thực sự; ngài trèo lên một cành cây mọc thẳng đứng và, với một bước nhảy, đã chạm đến bờ sông. Sau đó ngài đánh dấu khoảng cách, và sau khi chặt một búp măng tre có chiều dài cần thiết, đã buộc một đầu vào một cái cây trên bờ và đầu kia quanh eo mình. Khi nhảy trở lại, ngài phát hiện ra rằng mình đã không tính đến chiều dài phần quấn quanh eo mình, nhưng sau khi bám chặt vào một cành cây bằng cả hai tay, ngài đã ra hiệu cho những người đi theo mình đi qua cây cầu được tạo thành theo cách này. Tám mươi nghìn con khỉ do đó đã trốn thoát; nhưng con khỉ là Devadatta, đi sau cùng, đã nhìn thấy cơ hội để làm tổn thương Bodhisatta, và tung một cú nhảy vào không trung, rơi xuống lưng của Bodhisatta, làm gãy nó. Bodhisatta bị treo ở đó trong sự đau đớn, và nhà vua, người đã chứng kiến tất cả những điều này, đã ra lệnh đưa ngài xuống và đắp cho ngài một chiếc y vàng và chăm sóc cho ngài. Nhưng không thể làm gì được nữa, và Bodhisatta đã qua đời sau khi khuyên bảo nhà vua. Một giàn thiêu đã được dựng lên với một trăm xe tải gỗ, và con khỉ đã chết được trả mọi vinh dự dành cho một vị vua. Một điện thờ đã được xây dựng trên chính nơi diễn ra lễ hỏa táng, trong khi hộp sọ được khảm vàng và đưa đến Benares, nơi một bữa tiệc lớn được tổ chức để tôn vinh nó trong bảy ngày. Sau đó, nó được tôn trí trong điện thờ và các đồ cúng dường đã được dâng lên cho nó.
+
+Câu chuyện đã được kể liên quan đến những việc làm tốt đối với những người thân của mình, như được tường thuật trong phần giới thiệu của Bhaddasālajātaka. Ānanda được đồng nhất với nhà vua. Ja.iii.369-75; so sánh Jātakamālā, No. 27; câu chuyện được điêu khắc trên bảo tháp (stūpa) của Bharhut, Cunningham, pl.xxxiii.4.
+
+Jātaka này cũng được gọi là Rājovādajātaka. Có lẽ chính câu chuyện này đã gây ấn tượng mạnh mẽ cho Iḷanāga khi ông được nghe nó từ Trưởng lão Mahā Paduma, người sống ở Tulādhāra. Mhv.xxxv.30.
 
 ## Notes

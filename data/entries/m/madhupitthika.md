@@ -5,7 +5,7 @@ base_headword: "Madhupiṭṭhika"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhupiṭṭhika. A village near <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhupiṭṭhika. Một ngôi làng gần Mahā Gaṅgā ở Pācīnapassa. Ở đó có *Madhupiṭṭhiyacetiya*, từng bị Sirināga cướp phá. Ras.ii.8
 
 ## Notes

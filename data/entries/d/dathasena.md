@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsena"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -35,6 +35,8 @@ He lived for a time in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsena. Một chiến binh. Vào thời của Đức Phật Kassapa, ông đã cúng dường cơm sữa cho các tỳ-kheo trong 20.000 năm. Sau này ông được sinh ra ở Kubukandha và đã gia nhập vào lực lượng của Duṭṭhagāmaṇī, đóng một vai trò nổi bật trong việc chiếm lấy Mahelanagara. Thế rồi tâm trí nhà vua bị đầu độc khiến ông chống lại Dāṭhāsena và một con voi đã được thả ra để tấn công ông. Nhưng ông đã giết chết nó và đi đến Mahā Jallika, ở đó ông đã đánh bại một ngư dân có sức mạnh phi thường, rồi bơi qua vùng Coḷa và được xuất gia bởi Trưởng lão Mahā Varuṇa.
+
+Ông đã sống một thời gian ở Therambalakavihāra, cách đó sáu mươi do-tuần; nhưng cảm thấy không phù hợp, ông đã chuyển đến Lohakūṭapabbatavihāra, cách mười lăm do-tuần, và tại đó đã chứng đắc quả vị *Arahant*. Ras.ii.104f.
 
 ## Notes

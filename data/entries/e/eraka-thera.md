@@ -5,7 +5,7 @@ base_headword: "Eraka Thera"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -33,6 +33,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eraka Thera. Một vị *Arahant*. Ngài là con trai của một gia đình danh giá ở Sāvatthī. Ngài có nhiều lợi thế hơn những người khác, trong số đó có vẻ đẹp và sức quyến rũ. Cha mẹ ngài đã cưới cho ngài một người vợ phù hợp nhưng, vì đây là kiếp sống cuối cùng của mình, ngài đã tìm đến Đức Phật. Sau khi nghe Đức Phật thuyết pháp, ngài đã xuất gia, nhưng trong nhiều ngày ngài đã bị những ác tầm chế ngự. Đức Phật sau đó đã khuyên răn ngài bằng một bài kệ, và Eraka đã đạt được quả vị *Arahant* (Thag.v.93; Thag­a.i.192f; về tên này, xem *Brethren*, 86, n.2).
+
+Vào thời của Siddhattha Buddha, ngài là một gia chủ. Một ngày nọ, ngài nhìn thấy Đức Phật và, vì không có gì để cúng dường, ngài đã quét dọn con đường mà Đức Phật đang đi ngang qua và chắp tay đứng nhìn ngài. Năm mươi bảy *kappa* trước, ngài là một vị vua tên là Suppabuddha.
+
+Ngài rất có thể đồng nhất với Maggadāyaka Thera trong Apadāna. Ap.i.173.
 
 ## Notes

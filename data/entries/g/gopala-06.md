@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "06"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gopāla 06. A *Devaputta* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 06. Một *Devaputta* của Tāvatiṁsa. Ông từng là một người chăn bò của Rājagaha và có lần đã cúng dường cho Moggallāna một bữa ăn bằng *kummāsa* (sữa đông và cơm). Ngay sau đó ông bị một con rắn cắn và chết trong khi đang quan sát vị Trưởng lão ăn bữa ăn mà ông đã cúng dường cho ngài. Vv.vii.6; Vv-a.308f.
 
 ## Notes

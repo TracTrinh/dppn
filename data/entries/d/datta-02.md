@@ -5,7 +5,7 @@ base_headword: "Datta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Datta 02. A gate-keeper, father of King <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Datta 02. Một người giữ cổng, cha của vua Subha. Mhv.xxxv.51.
 
 ## Notes

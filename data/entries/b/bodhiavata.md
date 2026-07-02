@@ -5,7 +5,7 @@ base_headword: "Bodhiāvāṭa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bodhiāvāṭa. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhiāvāṭa. Một ngôi làng ở Rohaṇa được nhắc đến trong các ghi chép về những chiến dịch của Parakkamabāhu I. Cv.lxxv.97, 146.
 
 ## Notes

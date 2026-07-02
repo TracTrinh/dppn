@@ -5,7 +5,7 @@ base_headword: "Eṇiphassā"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Eṇiphassā. A name, either of some kind of musical instrument or, more probabl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eṇiphassā. Một tên gọi, có thể là của một loại nhạc cụ nào đó hoặc, nhiều khả năng hơn, của một nhóm nhạc công thiên giới đã phục vụ Sakka cùng các hoàng hậu của ông. Vv.xviii.11; i.26; Vv-a.94, 211; phần giải thích xem 372.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Biṇḍusāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -41,6 +41,12 @@ One day, while <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Magadha và là cha của Asoka. Ông là con trai của Candagutta và trị vì trong hai mươi tám năm. Ông có một trăm người con trai – người lớn tuổi nhất là Sumana – chín mươi chín người trong số họ đã bị Asoka giết (Mhv.v.18 f., 38f.; Dpv.v.101; vi.15; một vài ghi chép, e.g., Mhv­ṭ.324, nói rằng ông có một trăm lẻ một người con trai).
+
+Biṇḍusāra đã bảo trợ các vị Bà-la-môn và cung cấp các bữa ăn thường xuyên cho sáu mươi ngàn Bà-la-môn thuộc nhiều giáo phái khác nhau (Vin-a.i.44). Mẹ của ông là người em họ ngoại của Candagutta và là hoàng hậu chính.
+
+Một ngày nọ, khi Biṇḍusāra vẫn chưa chào đời, bà đang ăn cùng Candagutta và ông đã bón cho bà một ít thức ăn được chuẩn bị cho riêng ông. Thức ăn có chứa chất độc, được đặt vào đó theo lệnh của đại thần của Candagutta là Cāṇakka, để nhà vua có thể dần dần được miễn nhiễm với chất độc. Cāṇakka bước vào khi bà chuẩn bị nuốt thức ăn, và, lo lắng muốn cứu đứa bé chưa sinh, ông đã dùng gươm chém đứt đầu hoàng hậu trước khi thức ăn có thể di chuyển xuống dạ dày của bà, mổ bụng bà, lấy đứa bé ra, và đặt nó vào trong bụng của một con dê vừa mới bị giết mổ. Trong bảy ngày, đứa bé nằm trong bụng của một con dê, mỗi ngày là một con dê mới, cho đến khi, vào cuối của bảy ngày này, đứa bé đã sẵn sàng để được sinh ra. Bởi vì điều này, cơ thể của Biṇḍusāra bị lốm đốm ở nhiều nơi khác nhau từ máu của những con dê, và từ đây ông có được cái tên của mình (Mhv­ṭ.187f).
+
+Hoàng hậu chính của Biṇḍusāra là Dhammā thuộc gia tộc Moriya. Bà sinh được hai người con trai, Asoka và Tissa (Mhv­ṭ.189, 324). Biṇḍusāra đã phải giết Yakkha Devagabbha (*q.v.*) trước khi ông có thể lên ngôi (Mhv­ṭ.188).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gambhīracāri"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gambhīracāri. The name of one of the two otters in the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gambhīracāri. Tên của một trong hai con rái cá trong Dabbhapupphajātaka (*q.v.*). Ja.iii.333.
 
 ## Notes

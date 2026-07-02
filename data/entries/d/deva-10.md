@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "10"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Deva 10. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 10. Một vị tướng của Parakkamabāhu I., được gọi là Laṅkāpura, có lẽ đồng nhất với mục 9. Ông chiến đấu chống Sūkarabhātu, và về sau tham gia cuộc viễn chinh của người Sinhala đến Nam Ấn, chiến đấu trong những trận dữ dội tại Tirippāḷuru và Rājinā, chiếm được địa điểm sau. Cv.lxxv.130; lxxvi.250, 310, 324, 326.
 
 ## Notes

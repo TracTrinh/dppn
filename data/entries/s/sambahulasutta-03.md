@@ -5,7 +5,7 @@ base_headword: "Sambahulasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambahulasutta 03. A deity in a <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambahulasutta 03. Một vị thiên trong một khu rừng thuộc xứ Kosala thấy một nhóm tỳ-kheo kiêu căng, ồn ào, buông lung và thiếu trí. Vị ấy đến gần và khuyên răn họ. SN.i.203.
 
 ## Notes

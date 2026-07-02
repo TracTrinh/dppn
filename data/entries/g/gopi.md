@@ -5,7 +5,7 @@ base_headword: "Gopī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -30,6 +30,8 @@ See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopī, Gopikā. Thiếu nữ Sākiyan của Kapilavatthu, người sau này được sinh ra làm Gopaka *Devaputta*.
+
+Xem Gopaka (3).
 
 ## Notes

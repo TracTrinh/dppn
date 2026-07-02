@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "07"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Deva 07. *Senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 07. Tướng quân của Kittisirimegha. Ông đóng tại Badalatthalī, và đi cùng Ratnāvalī khi ông đưa Parakkamabāhu trẻ tuổi đến Kittisirimegha. Cv.xxvii.82.
 
 ## Notes

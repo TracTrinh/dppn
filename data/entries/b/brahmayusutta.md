@@ -5,7 +5,7 @@ base_headword: "Brahmāyusutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -28,6 +28,8 @@ The *Sutta* contains a description of the thirty-two marks of the Mahā Purisa (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmāyusutta. Ghi lại câu chuyện về việc hóa độ Brahmāyu (*q.v.*).
+
+*Sutta* chứa đựng một sự mô tả về ba mươi hai tướng của Mahā Purisa (So sánh Lakkhaṇasutta) và cũng có những chi tiết về hành vi của Đức Phật trong các hoàn cảnh khác nhau – chẳng hạn như đi, ăn, thiền định, thuyết pháp, v.v. Đó là một ví dụ về một *Sutta* trong đó từ "*dhammacakkhu*" có nghĩa là ba Đạo dẫn đến *anāgāmiphala*. MN­a.ii.617.
 
 ## Notes

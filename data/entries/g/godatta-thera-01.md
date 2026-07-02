@@ -5,7 +5,7 @@ base_headword: "Godatta Thera"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -33,6 +33,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godatta Thera 01. *v.l.* Godha, Godhaka, Goda, Gotta, Godanta. Ông xuất thân từ một gia đình của những người trưởng đoàn lữ hành và, sau cái chết của cha mình, bản thân ông đã đi khắp nơi với năm trăm cỗ xe bò, tham gia vào việc buôn bán. Một ngày nọ, một trong những con bò đực của ông ngã xuống đường, và nhìn thấy những người làm của mình không thể đỡ nó dậy, Godatta đi đến và đánh nó. Con bò đực, phẫn nộ vì sự tàn ác này, đã nói tiếng người và, quở trách ông vì sự vô ơn bạc nghĩa hèn hạ của ông, đã nguyền rủa ông. Godatta, vô cùng xúc động, đã từ bỏ mọi tài sản của mình và gia nhập Tăng đoàn, sau một thời gian đắc quả vị *Arahant* (Thag­a.i.555f).
+
+Theragāthā (vs.659-72) chứa đựng một vài vần kệ được cho là của ông, trong đó ông đã thuyết pháp cho các nhóm “Bậc Thánh”, cả cư sĩ lẫn xuất gia, về các *lokadhammā* (bản chất của vạn vật?), minh họa cho ý nghĩa của mình bằng vô số các biện pháp tu từ so sánh. Rất có thể ông là Godatta của Godattasutta.
 
 ## Notes

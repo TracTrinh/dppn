@@ -5,7 +5,7 @@ base_headword: "Dārubhaṇḍaka Mahā Tissa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dārubhaṇḍaka Mahā Tissa. A poor man of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārubhaṇḍaka Mahā Tissa. Một người đàn ông nghèo ở phố Valliya thuộc Mahā Gāma, được gọi như vậy vì ông kiếm sống bằng nghề bán củi. Ông rất nghèo, và có một lần, sau khi bàn bạc với vợ mình, đã cúng dường một phần bữa ăn của họ cho một vị sư trẻ. Vị sư đã nhận nó, nhưng, khi nhìn thấy đồ ăn quá đạm bạc, đã ném nó đi. Họ vô cùng đau buồn, và sau khi nhận được mười hai *kahāpaṇa* bằng cách cho con gái đi ở đợ, đã mua một con bò và cúng dường sữa hai lần mỗi ngày cho các vị tỳ-kheo. Sau đó, với mong muốn chuộc lại con gái, người đàn ông đã làm việc sáu tháng trong một xưởng ép mía, và, sau khi kiếm được số tiền cần thiết, đang trên đường về nhà, thì ông gặp Trưởng lão Piṇḍapātiyatissa của Ambariyavihāra. Vì lúc đó là giờ thọ thực, người đàn ông đã đi tìm thức ăn, nhưng chỉ có thể mua được nó bằng cách đưa hết toàn bộ số tiền của mình. Thức ăn có được như vậy ông đã cúng dường cho vị Trưởng lão, người, khi biết được câu chuyện của người đàn ông, đã vô cùng xúc động đến nỗi ngài đã đi đến Tissamahārāma, nỗ lực tinh tấn tột độ và trở thành một *Arahant*. Ngay sau đó ngài viên tịch, nhưng trước khi chết ngài đã kể cho các đồng đạo nghe câu chuyện về vị ân nhân của mình. Vua Kākavaṇṇatissa đã sắp xếp tang lễ cho Trưởng lão, nhưng người ta thấy rằng chiếc cáng chứa thi hài không thể di chuyển được cho đến khi nhà vua cho gọi người đàn ông nghèo đến, người đã nâng nó lên. Thi hài, ngay sau đó, đã bay qua không trung đến giàn hỏa táng, và Dārubhaṇḍaka Mahā Tissa đã nhận được sự vinh danh to lớn từ tay nhà vua. AN­a.i.277ff.
 
 ## Notes

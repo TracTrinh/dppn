@@ -5,7 +5,7 @@ base_headword: "Gaṅgeyyajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,8 @@ The story was told in reference to two monks who bragged of their good looks and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgeyyajātaka (Ja 205). Có lần hai con cá, một con từ Gaṅgā, con kia từ Yamunā, gặp nhau tại nơi hai sông hợp lưu và tranh cãi về vẻ đẹp của mình. Chúng nhờ một con rùa đang ở đó phân xử; con rùa nói rằng cả hai đều đẹp, nhưng chính nó còn đẹp hơn cả hai con cá.
+
+Câu chuyện này được kể liên quan đến hai vị tỳ-kheo khoe khoang về ngoại hình của mình và cãi nhau vì chuyện đó. Họ nhờ một vị tỳ-kheo lớn tuổi hơn phân xử, và vị này đưa ra câu trả lời giống như con rùa trong câu chuyện. Ja.ii.151f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samphusita"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samphusita. A king of three *kappas* ago, a previous birth of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samphusita. Một vị vua từ ba *kappa* trước, một kiếp trước của Tambapupphiya Thera. Ap.i.176.
 
 ## Notes

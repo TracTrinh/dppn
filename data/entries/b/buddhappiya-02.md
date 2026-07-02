@@ -5,7 +5,7 @@ base_headword: "Buddhappiya"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddhappiya 02. A monk, one of those who requested <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhappiya 02. Một vị tỳ-kheo, một trong những người đã yêu cầu Buddhaghosa viết Chú giải Jātaka (Jātaka Commentary). Gv.68; nhưng xem Ja.i.1, nơi tên của ông không xuất hiện.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samantacchadana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samantacchadana. A king of fifty-five *kappas* ago, a previous birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantacchadana. Một vị vua của năm mươi lăm *kappas* trước, một kiếp trước của Ummāpupphiya Thera. Ap.i.258.
 
 ## Notes

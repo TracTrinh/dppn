@@ -5,7 +5,7 @@ base_headword: "Girihālika"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Girihālika. A monastery built in an inland district of Ceylon by King <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girihālika. Một tu viện được Vua Mahallaka Nāga xây dựng tại một quận nội địa của Tích Lan (Mhv.xxxv.125).
 
 ## Notes

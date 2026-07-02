@@ -5,7 +5,7 @@ base_headword: "Mahā Diṭṭhena Sutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Diṭṭhena Sutta. The great heresy: that the four elements and weal and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Diṭṭhena Sutta. Đại tà kiến: rằng bốn đại và khổ vui là vững bền và thường hằng, rằng khổ vui được định sẵn cho từng người và không hề tăng giảm (SN.iii.211f). Một số trong những quan điểm này ở nơi khác được quy cho Pakudha Kaccāyana và những người khác quy cho Makkhali Gosāla.
 
 ## Notes

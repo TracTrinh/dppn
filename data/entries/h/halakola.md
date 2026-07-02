@@ -5,7 +5,7 @@ base_headword: "Hālakola"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hālakola. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hālakola. Một thành trì của người Damiḷa, bị Duṭṭhagāmaṇī chiếm được. Issariya là tướng chỉ huy thành này. Mhv.xxv.11.
 
 ## Notes

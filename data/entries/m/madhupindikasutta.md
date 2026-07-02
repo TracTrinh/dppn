@@ -5,7 +5,7 @@ base_headword: "Madhupiṇḍikasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -36,6 +36,10 @@ Later in the evening the Buddha visits the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhupiṇḍikasutta. Daṇḍapāṇī gặp Đức Phật tại Mahā Vana gần Kapilavatthu và chất vấn ngài về các giáo lý của ngài. Đức Phật giải thích rằng các giáo lý của ngài là như thế, nhằm tránh mọi xung đột và khiến một người sống vượt lên mọi dục lạc, v.v. Daṇḍapāṇī lắc đầu và bước đi, không bình luận gì.
+
+Vào buổi tối muộn hơn, Đức Phật đến thăm Nigrodhārāma và nói tóm tắt cho các tỳ-kheo ở đó cách để loại bỏ mọi sự ám ảnh, sao cho mọi trạng thái tâm xấu ác và sai lệch đều bị dập tắt và diệt tận hoàn toàn. Sau khi Đức Phật rời đi, các tỳ-kheo tìm Mahā Kaccāna và yêu cầu ngài giảng giải chi tiết những gì Đức Phật đã nói vắn tắt với họ. Kaccāna giải thích rằng ở đâu có mắt và sắc, nhãn thức khởi lên, điều này sinh ra xúc, xúc làm duyên cho thọ, những gì một người cảm thọ, người đó tưởng, những gì người đó tưởng, người đó suy tầm, và điều này dẫn đến ám ảnh. Điều tương tự cũng xảy ra với các căn khác. Các tỳ-kheo thuật lại lời giải thích này cho Đức Phật, ngài tán thành nó và ca ngợi sự học hỏi và tuệ giác của Kaccāna. Ānanda ca ngợi bài kinh, so sánh nó với một viên thuốc tẩm mật ong có hương vị thơm ngon, và Đức Phật gợi ý rằng Sutta nên được nhớ đến bằng cái tên đó (*Madhupiṇḍika*) (MN.i.108-14).
+
+Nāgita có mặt trong số những người tham dự khi Sutta được thuyết giảng. Qua đó ngài đã được thuyết phục gia nhập Tăng đoàn, và không lâu sau đã trở thành một vị Arahant. Thag­a.i.183.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dantakumāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dantakumāra. Son of the king of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantakumāra. Con trai của vua xứ Ujjenī. Ông đã đến Dantapura để đảnh lễ Xá-lợi Răng và, trong khi ở đó, đã kết hôn với Hemamālā, con gái của Guhasīva. Ông đã mang Xá-lợi Răng đến Tích Lan vào triều đại của Siri Meghavaṇṇa (Dāṭhāvaṁsa iv.7ff).
 
 ## Notes

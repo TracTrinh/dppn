@@ -5,7 +5,7 @@ base_headword: "Devānampiyatissa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -69,6 +69,16 @@ Among other works of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devānampiyatissa. Vua của Tích Lan (247-207 B.C.). Ông là con trai thứ hai của Muṭasīva. Người ta nói rằng vào ngày ông đăng quang, nhiều báu vật kỳ diệu xuất hiện một cách thần kỳ, một số trong đó ông quyết định gửi như những vật biểu thị lòng kính trọng đến người cùng thời với ông là Dhammāsoka của Ấn Độ, người mà ông đã có quan hệ bằng hữu từ lâu. Một sứ bộ, do cháu trai ông là Mahāriṭṭha dẫn đầu, được phái đến Pāṭaliputta, và hoàng đế dành cho các sứ giả mọi dấu hiệu tôn kính. Ông gửi họ trở về cùng tất cả các vật dụng cần cho một lễ đăng quang, với chỉ thị cử hành lễ tấn phong vua Sinhala, người mà ông mời theo Phật giáo. Khi sứ bộ trở về, nhà vua được long trọng đội vương miện lần thứ hai. Sự xác nhận chủ quyền của Devānampiyatissa dưới sự bảo hộ của Asoka này có thể do vị thế uy quyền của Asoka, hoặc nhằm củng cố các liên hệ gia đình. Asoka là một Moriyan (một nhánh của người Sākiyan) và Devānampiyatissa có huyết thống Sākiyan.
+
+Sự kiện chính trong triều đại Devānampiyatissa là việc Mahinda đến Tích Lan. Vị ấy đến dẫn đầu một phái đoàn vào năm nhà vua đăng quang lần thứ hai. Mahinda gặp nhà vua đang săn bắn vào ngày trăng tròn tháng *Jeṭṭha*. Nhà vua đón tiếp vị ấy với sự tôn kính lớn lao và nhanh chóng theo tôn giáo mới, điều mà Asoka trước đó đã lưu ý ông.
+
+Sự cải đạo của ông là kết quả trực tiếp của việc Mahinda thuyết Cūḷa Hatthipadopamasutta. Tôn giáo trước kia của ông không được biết, có thể là Jainism. Gương của ông được rất nhiều thần dân noi theo, nhiều người trong số đó gia nhập Tăng đoàn. Devānampiyatissa hiến tặng cho họ sử dụng công viên Nandana và Mahā Meghavana, do chính ông lập nên không lâu trước đó. Trong Mahā Meghavana, ông xây Mahā Vihāra nổi tiếng, nơi trong nhiều thế kỷ vẫn là trung tâm của tôn giáo chính thống ở Tích Lan. Việc hiến cúng Mahā Vihāra diễn ra vào năm thứ 236 sau khi Đức Phật qua đời. Công trình công đức kế tiếp của nhà vua là dựng Cetiyapabbata *vihāra* và về sau ông xây Thūpārāma, chứa xương đòn bên phải của Đức Phật.
+
+Khi các phụ nữ trong cung, do Anulā, vợ của phó vương Mahā Nāga, dẫn đầu, bày tỏ mong muốn trở thành Tỳ-kheo-ni, Devānampiyatissa gửi một sứ bộ khác đến Asoka, thỉnh ông gửi Saṅghamittā cùng với nhánh bên phải của cây Bodhi thiêng. Nhánh này tự tách khỏi cây mẹ một cách thần kỳ và, cùng với Saṅghamittā và mười một người khác, được đưa xuôi sông Ganges và đến Jambukola, nơi nó được Devānampiyatissa đón nhận với đầy đủ sự tôn kính. Từ Jambukola, nó được rước trong đoàn rước đến Anurādhapura, nơi nó được trồng trong Mahā Meghavana, nhà vua thiết lập một lễ hội tôn vinh nó, được cử hành trong nhiều thế kỷ. Để Saṅghamittā và các Tỳ-kheo-ni sử dụng, nhà vua dựng nhiều tòa nhà khác nhau, quan trọng nhất là Hatthāḷhakavihāra và Upāsikāvihāra với mười hai tòa nhà của nó (tường thuật này được tóm lược từ Mahā Vaṃsa (chaps.xi., xiii.–xx.); cũng Dpv.xi.14ff; xii.7; xvii.92).
+
+Trong số các công trình khác của Devānampiyatissa, chúng ta được biết về việc xây dựng các *vihāra* Issarasamaṇavihāra và Vessagiri, nhà ăn gọi là Mahā Pāli, Jambukolavihāra ở Nāgadīpa, Tissa Mahā Vihāra, Pācīnārāma và Paṭhamathūpa. Ông cũng xây Tissavāpi tại Anurādhapura (Cūḷavaṃsa (xxxvii.94) cũng nhắc Dhammacakka là do Devānampiyatissa xây. Về sau nó trở thành Đền Xá-lợi Răng tại Anurādhapura).
+
+Mahinda sống lâu hơn ông tám năm. Devānampiyatissa dường như chết mà không có con nối dõi, vì ông được kế vị bởi bốn người em trai.
 
 ## Notes

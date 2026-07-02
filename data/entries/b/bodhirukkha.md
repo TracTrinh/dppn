@@ -5,7 +5,7 @@ base_headword: "Bodhirukkha"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -159,6 +159,50 @@ Later, King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="102" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhirukkha. Tên gọi chung được đặt cho cây mà dưới đó một vị Phật đạt được Giác ngộ (DN.A.ii.416). Loài cây là khác nhau đối với từng vị Phật. Vì thế,
+
+- với Gotama và cả với Koṇḍañña, đó là cây asvattha;
+- với Dīpaṅkara và Kakusandha, đó là cây sirīsa;
+- với Maṅgala, Sumana, Revata và Sobhita, đó là cây Nāga;
+- với Anomadassī, đó là cây ajjuna;
+- với Paduma và Nārada, đó là cây mahā soṇa;
+- với Padumuttara, đó là cây salala;
+- với Sumedha, đó là cây nimba;
+- với Sujāta, đó là một cây tre;
+- với Piyadassī, đó là cây kakudha;
+- với Atthadassī, đó là cây campaka;
+- với Dhammadassī, đó là cây bimbajāla;
+- với Siddhattha, đó là cây kaṇikāra;
+- với Tissa, đó là cây asana;
+- với Phussa, đó là cây āmaṇḍa;
+- với Vipassī, đó là cây pāṭalī;
+- với Sikhī, đó là cây puṇḍarīka;
+- với Vessabhū, đó là cây sāla;
+- với Koṇāgamana, đó là cây udumbara;
+- với Kassapa, đó là một cây đa (xem rải rác ở nhiều nơi; các chi tiết hơi khác biệt tại Bv­a.247).
+
+Vị trí của cây bodhi là giống nhau đối với tất cả chư Phật (Bv­a.247), và nó tạo thành rốn của trái đất (Ja.iv.233) (puthuvinābhi). Không có nơi nào khác có thể chịu được sức nặng sự chứng đạt của Đức Phật. Ja.iv.229.
+
+Khi không có cây bodhi nào mọc lên, Bodhimaṇḍa (khoảng đất quanh cây bodhi), trong khoảng cách một karīsa hoàng gia, không có bất kỳ loài thực vật nào, thậm chí không có bất kỳ ngọn cỏ nào, và hoàn toàn bằng phẳng, trải đầy cát giống như một đĩa bạc, trong khi xung quanh nó là cỏ, dây leo và cây cối. Không ai có thể di chuyển trên không trung ngay phía trên nó, ngay cả Sakka (Ja.iv.232f).
+
+Khi thế giới bị phá hủy vào cuối một kappa, Bodhimaṇḍa là địa điểm cuối cùng biến mất; khi thế giới xuất hiện trở lại vào hiện hữu, nó là nơi đầu tiên xuất hiện. Một bông sen mọc lên ở đó mang nó vào tầm nhìn và nếu trong kappa được bắt đầu như vậy sẽ có một vị Phật đản sinh, bông sen nở hoa, tùy theo số lượng chư Phật (DN­a.ii.412).
+
+Trong trường hợp của Gotama Buddha, cây bodhi của ngài đã mọc lên vào ngày ngài đản sinh (DN­a.ii.425; Bv­a.248). Sau khi Giác ngộ, ngài đã trải qua trọn một tuần trước cây này, đứng không chớp mắt, nhìn nó với lòng biết ơn. Một điện thờ sau đó đã được dựng lên trên địa điểm ngài đã đứng như vậy, và được gọi là Animisacetiya (xem mục từ này). Địa điểm này được dùng như một điện thờ ngay cả khi Đức Phật còn tại thế, điện thờ duy nhất có thể được sử dụng theo cách đó. Khi Đức Phật vẫn còn sống, để mọi người có thể dâng cúng phẩm vật dưới danh nghĩa Đức Phật khi ngài đi du hành, ngài đã cho phép trồng một hạt giống từ cây bodhi ở Gayā trước cổng Jetavana. Vì mục đích này, Moggallāna đã lấy một quả từ một cái cây ở Gayā khi nó rụng khỏi cuống, trước khi nó chạm đất. Nó được Anāthapiṇḍika trồng trong một hũ vàng với sự tráng lệ và nghi lễ trang trọng. Một chồi non lập tức mọc lên, cao năm mươi cubit, và để thánh hóa nó, Đức Phật đã dành một đêm dưới gốc cây, thiền định. Cái cây này, vì được trồng dưới sự chỉ đạo của Ānanda, được biết đến với tên gọi Ānandabodhi (Ja.iv.228ff).
+
+Theo Biên niên sử Ceylon (ví dụ, Mhv.xv), các nhánh từ những cây bodhi của tất cả chư Phật sinh ra trong kappa này đã được trồng ở Ceylon trên địa điểm mà cây bodhi thiêng liêng đang đứng ngày nay ở Anurādhapura. Nhánh cây của Kakusandha được mang đến bởi một tỳ-kheo-ni tên là Rucānandā, của Koṇāgamana bởi Kaṇṭakānandā (hoặc Kanakadattā), và của Kassapa bởi Sudhammā.
+
+Asoka đã hết sức tinh tấn trong việc đảnh lễ cây bodhi, và tổ chức một lễ hội hằng năm để tôn vinh cây vào tháng Kattika (Mhv.xvii.17). Hoàng hậu của ông, Tissarakkhā, ghen tị với Cây, và ba năm sau khi trở thành hoàng hậu (tức là vào năm thứ mười chín của triều đại Asoka), bà đã khiến cây bị chết bằng những chiếc gai maṇḍu (Mhv.xx.4f). Tuy nhiên, cái cây lại mọc lại, và một tu viện lớn đã được gắn liền với Bodhimaṇḍa. Trong số những người có mặt tại buổi lễ đặt nền móng cho Mahā Thūpa, có đề cập đến ba mươi ngàn tỳ-kheo từ Vihāra này, do Cittagutta dẫn dắt (Mhv.xxix.41).
+
+Kittisirimegha của Ceylon, sống cùng thời với Samudragupta, đã xây dựng với sự cho phép của Samudragupta, một Saṅghārāma gần Mahā Bodhivihāra, chủ yếu để cho các tỳ-kheo Sinhalese sử dụng khi đến đảnh lễ cây bodhi. Các hoàn cảnh liên quan đến Saṅghārāma được đưa ra bởi Xuanzang, người đã cung cấp một mô tả về nó như chính ông đã nhìn thấy (Beal-Xuan, op.cit., 133ff). Có thể chính tại đây Buddhaghosa đã gặp Trưởng lão Revata, người đã thuyết phục ông đến Ceylon.
+
+Vào năm thứ mười hai của triều đại Asoka, nhánh bên phải của cây bodhi đã được Saṅghamittā mang đến Anurādhapura và được Devānampiyatissa đặt tại Mahā Meghavana.
+
+Đức Phật, trên giường bệnh, đã quyết định năm điều, một trong số đó là nhánh cây được đưa đến Ceylon sẽ tự tách ra (Mhv.xvii.46f). Từ Gayā, nhánh cây được đưa đến Pāṭaliputta, sau đó đến Tāmalittī, nơi nó được đặt trên một con tàu và đưa đến Jambukola, qua biển; cuối cùng nó đến Anurādhapura, dừng lại trên đường tại Tivakka. Những người đã phụ tá nhà vua trong nghi lễ trồng Cây là những quý tộc của Kājaragāma và của Candanagāma và của Tivakka. Từ các hạt của một trái mọc trên cây đã mọc ra tám chồi non, lần lượt được trồng tại Jambukola, ở ngôi làng Tivakka, tại Thūpārāmā, tại Issaramaṇārāma, trong sân của Paṭhamacetiya, ở Cetiyagiri, ở Kājaragāma và ở Candanagāma (Mhv.xix.60ff.; để biết thêm chi tiết liên quan đến việc mang cây bodhi, xem Mbv.144 ff).
+
+Ba mươi hai chồi non khác, từ bốn trái khác, đã được trồng rải rác đây đó ở khoảng cách một do-tuần. Các nghi lễ đã được thiết lập để tôn vinh Cây, sự giám sát nghi lễ được giao cho Bodhāhārakula, đứng đầu là tám đại thần của Asoka, những người này, do Bodhigutta và Sumitta dẫn dắt, đã được cử đi làm người hộ tống của Cây (xem Mbv.165f., để biết tên của những người khác). Ngân khố đã được cung cấp cho những buổi lễ này.
+
+Về sau, Vua Dhātusena đã xây một Bodhighara hoặc mái che cho Cây (Cv.xxxviii.431) trong khi Silākāla thực hiện những việc cúng dường hằng ngày tại điện thờ (xem Cv.Trs.i.32, n.6; Cv.xli.29), và Kittisirimegha đã cho lợp Bodhighara bằng các tấm thiếc (Cv.xli.65). Mahā Nāga đã mạ vàng mái của Bodhighara, xây một rãnh quanh sân và dựng các tượng Phật trong nhà chứa tượng (Cv.xli.94). Aggabodhi I. đã dựng một bệ đá quanh Cây và đặt, ở dưới cùng của bệ, một hố dầu để hứng dầu thắp sáng vào các ngày lễ hội (Cv.xlii.19). Aggabodhi II. đã cho đào một giếng nước để khách hành hương sử dụng (Cv.xlii.66), và Moggallāna III. đã tổ chức một buổi lễ lớn để tôn vinh Cây (Cv.xliv.45).
+
+Aggabodhi VII. tìm thấy Bodhighara trong tình trạng đổ nát và đã cho xây dựng lại (Cv.xlviii.70); Mahinda II. đã thiết lập một sự cúng dường thường xuyên để tôn vinh nó (Cv.xlviii.124), và Udaya III. đã ban một ngôi làng gần Anurādhapura để phục vụ cây bodhi. Cv.liii.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Aṭṭhakathā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -40,6 +40,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Aṭṭhakathā. Bản xưa nhất và quan trọng nhất trong các Bản Chú giải về Tipiṭaka, theo truyền thống, được đưa đến Tích Lan bởi Mahinda, ngài đã dịch nó sang tiếng Sinhalese (Cv.xxxvii.228f). Vì vậy nó được gọi là Sīhalaṭṭhakathā. Bên cạnh tài liệu chú giải về Kinh điển Pāli, nó cũng chứa những tài liệu lịch sử mà về sau làm cơ sở cho các Biên niên sử Pāli, Mahā Vaṁsa và Dīpavaṁsa. Để biết mô tả, xem *Dīpavaṁsa and Mahavaṁsa* của Geiger, pp. 44, 63, v.v...
+
+Mahā Aṭṭhakathā là nguồn chính yếu mà Buddhaghosa đã trích xuất các tài liệu của mình cho các Bản Chú giải của ngài và thường được nhắc đến trong các tác phẩm của ngài, đặc biệt là trong Samantapāsādikā, vd., Vin-a.i.2; ii.494; 265; iii.537, 616, 617, 627, 701, 716, 718, 726; iv. 744, 776, 783, 817, 863, 914, 923; Dhs-a.157; DN­a.i.180, v.v...
+
+Mahā Aṭṭhakathā được giao phó cho các tỳ-kheo của Mahā Vihāra ở Anurādhapura. Nó đã bị thay thế bởi các Bản Chú giải của Buddhaghosa, Dhammapāla và những vị khác, và hiện không còn tồn tại. Nó thường chỉ được nhắc đến như là Aṭṭhakathā, vd., Vibh­a.56, 155, 200, v.v...
 
 ## Notes

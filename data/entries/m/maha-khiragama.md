@@ -5,7 +5,7 @@ base_headword: "Mahā Khīragāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Khīragāma. A village near <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Khīragāma. Một ngôi làng gần Nāgadīpa ở Tích Lan; đây là nơi cư ngụ của Loṇagirivāsītissa. AN­a.ii.653; MN­a.i.545.
 
 ## Notes

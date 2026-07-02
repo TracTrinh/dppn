@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gopāla 04. A *seṭṭhi*, father of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 04. Một vị *seṭṭhi*, cha của Tapassu và Bhallika, trong thời đại của Kassapa Buddha. Thag­a.i.48.
 
 ## Notes

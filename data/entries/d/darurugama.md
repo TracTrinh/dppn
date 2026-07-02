@@ -5,7 +5,7 @@ base_headword: "Dārūrugāma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dārūrugāma. A village near <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārūrugāma. Một ngôi làng gần Kalyāṇi ở Tích Lan. Gần nó là Jayavaḍḍhanakoṭṭa (Cv.xci.6). Tên có thể là Dārugāma, với từ *uru* là một tính từ mô tả có nghĩa là *mahā* (Cv.Trs.ii.213, n.2).
 
 ## Notes

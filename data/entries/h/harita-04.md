@@ -5,7 +5,7 @@ base_headword: "Hārita"
 disambiguator: "04"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hārita 04. Trưởng lão Hārita. Ông là một Bà-la-môn ở Sāvatthī, và vì kiêu hãnh về dòng dõi, thường gọi người khác là kẻ hèn kém. Về sau ông gia nhập Tăng đoàn, nhưng ngay cả khi đó thói quen này vẫn còn. Một hôm, sau khi nghe Đức Phật thuyết pháp, ông xét lại tâm mình, và cảm thấy đau khổ vì sự ngã mạn và kiêu căng của mình. Từ đó, ông nỗ lực, khơi dậy tuệ quán và chứng đắc quả vị *Arahant*.
+
+Vào thời Padumuttara Buddha, ông đã dâng cúng hương thơm tại giàn hỏa táng của Đức Phật (Thag.vss.261-3; Thag­a.i.376f). Ông có lẽ chính là Trưởng lão Gandhapūjaka của bộ Apadāna. Ap.ii.406.
 
 ## Notes

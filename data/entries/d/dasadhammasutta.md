@@ -5,7 +5,7 @@ base_headword: "Dasadhammasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dasadhammasutta. The name given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasadhammasutta. Tên được đặt trong Suttasaṅgaha (Số 84) cho Dhammasutta (2) (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Hambatthi"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hambatthi. A tank built by King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hambatthi. Một hồ chứa nước do vua Dhātusena xây dựng. Cv.xxxviii.50.
 
 ## Notes

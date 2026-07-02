@@ -5,7 +5,7 @@ base_headword: "Gaṅgamāla"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgamāla. A barber who later became a <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgamāla. Một người thợ cạo sau này trở thành một vị Pacceka Buddha. Xem Gaṅgamālajātaka (Ja 421).
 
 ## Notes

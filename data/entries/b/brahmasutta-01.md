@@ -5,7 +5,7 @@ base_headword: "Brahmasutta"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmasutta 01. The Buddha is under the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmasutta 01. Đức Phật đang ở dưới gốc cây Ajapālanigrodha, không lâu sau khi Giác ngộ, đang suy ngẫm về bốn *satipaṭṭhāna* như là con đường duy nhất dẫn đến *Nibbāna*. Sahampati viếng thăm ngài và đồng tình với những suy ngẫm của ngài. SN.v.167.
 
 ## Notes

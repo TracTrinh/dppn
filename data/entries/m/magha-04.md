@@ -5,7 +5,7 @@ base_headword: "Māgha"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,6 @@ Māgha 04. A usurper from <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgha 04. Một kẻ soán ngôi từ Kāliṅga đã đến Tích Lan cùng với một toán chiến binh Keraḷa vào khoảng năm 1215 CN, phế truất vị vua đang trị vì là Parakkamapaṇḍu II, chọc mù mắt ông ta, và chiếm ngai vàng tại Pulatthipura. Là một người theo đạo Hindu mù quáng, hắn đã phá hủy các công trình tôn giáo của Phật giáo và đốt những cuốn sách của họ. Hắn đàn áp người dân bằng nhiều cách khác nhau và chia đất đai của họ cho các chiến binh của mình. Hắn cai trị trong hai mươi mốt năm, và dường như được kế vị tại Pulatthipura bởi Jayabāhu (*q.v.*) (Cv.lxxx.58ff). Trong một phần thời gian trị vì của hắn, Vijayabāhu III (*q.v.*) đã cai trị một phần của Tích Lan. Cv.lxxxi.10ff.
 
 ## Notes

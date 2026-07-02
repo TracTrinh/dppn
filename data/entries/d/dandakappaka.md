@@ -5,7 +5,7 @@ base_headword: "Daṇḍakappaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,6 @@ Daṇḍakappaka. A township of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍakappaka. Một thị trấn của người Kosala gần Aciravatī; nó đã được Đức Phật Gotama viếng thăm trong một chuyến du hành ở Kosala. Tại đó ngài đã thuyết Udānasutta để trả lời câu hỏi của Ānanda, về việc làm thế nào Đức Phật biết về sự tàn ác không thể cứu vãn của Devadatta. AN.iii.402.
 
 ## Notes

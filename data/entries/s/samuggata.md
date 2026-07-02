@@ -5,7 +5,7 @@ base_headword: "Samuggata"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samuggata. Fifty thousand *kappas* ago there were seven kings of this name, all 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuggata. Năm mươi ngàn *kappa* trước có bảy vị vua mang tên này, tất cả đều là những kiếp trước của Sobhita Thera (Rakkhita Thera). Ap.i.164; Thag­a.i.173.
 
 ## Notes

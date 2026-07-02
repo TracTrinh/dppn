@@ -43,6 +43,6 @@ Câu chuyện được kể liên quan đến một thiếu nữ, con gái của
 
 Nàng là Asitābhū trong đời trước (Ja.ii.229ff).
 
-Câu chuyện được nhắc đến trong Vibhaṅga Commentary (p.470f) liên quan đến một vị vua xứ Benares, người đã vào rừng với hoàng hậu của mình để ăn thịt nướng, rồi phải lòng một *kinnarī* và bỏ rơi vợ. Khi ông trở lại với hoàng hậu, ông thấy bà bay qua không trung rời xa ông, sau khi đã phát triển các năng lực *iddhi*. Một thần cây sau đó thốt lên một bài kệ, nêu ví dụ của Asitābhū.
+Câu chuyện được nhắc đến trong Vibhaṅga Commentary (p.470f) liên quan đến một vị vua xứ Benares, người đã vào rừng với hoàng hậu của mình để ăn thịt nướng, rồi phải lòng một *kinnarī* và bỏ rơi vợ. Khi ông trở lại với hoàng hậu, ông thấy bà bay qua không trung rời xa ông, sau khi đã phát triển các năng lực *iddhi*. Một thọ thần sau đó thốt lên một bài kệ, nêu ví dụ của Asitābhū.
 
 ## Notes

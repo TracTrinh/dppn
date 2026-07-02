@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vaṁsa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -33,6 +33,6 @@ Cūḷa Vaṁsa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vaṁsa, Cūla Vaṁsa. Một biên niên sử tiếng Pāli của Tích Lan. Nó là phần tiếp nối của Mahā Vaṁsa, nhưng, không giống như tác phẩm trước, không phải là một tác phẩm đồng nhất vì nó được viết bởi những tác giả khác nhau vào những thời kỳ khác nhau. Người ta thường nhất trí rằng từ chương ba mươi bảy đến bảy mươi chín do Thera Dhammakitti viết vào thế kỷ mười ba. Phần thứ hai, bắt đầu với triều đại của Vijayabāhu II và kết thúc với triều đại của Parakkamabāhu ở Hatthiselapura (Chaps.80-90), dường như là tác phẩm của một tác giả duy nhất mà danh tính của ông vẫn chưa được biết. Phần đó của biên niên sử đề cập đến thời kỳ từ Parakkamabāhu đến năm 1758 CN., năm Kittisiri Rājasīha băng hà, được biên soạn bởi Tibbotuvāve Sumaṅgala Thera, và chương cuối cùng đã được Hikkaḍuve Siri Sumaṅgala tiếp nối cho đến năm 1815. Để biết chi tiết, xem PLC.141ff.
 
 ## Notes

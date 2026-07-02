@@ -5,7 +5,7 @@ base_headword: "Sambara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -32,6 +32,8 @@ Mrs. Rhys Davis (KS.i.306 n) thinks there was a rank of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambara. Một thủ lĩnh của các Asura. Trong “Isayo Samuddakāsutta” (*q.v.*), ta được biết rằng vì Sambara đã từ chối lời thỉnh cầu của các vị hiền nhân về một sự bảo đảm an toàn, họ đã nguyền rủa ông, và tâm trí ông trở nên điên loạn (SN.i.227). Buddhaghosa nói thêm rằng, do sự điên loạn tâm trí này, ông được gọi là Vepacitti (*s.v.*) (SN­a.i.266). Tuy nhiên, ở một chỗ khác (SN.i.239), có nói rằng có lần Sakka đã yêu cầu Vepacitti dạy cho mình pháp thuật của Sambara (*Sambarimāyā*). Vepacitti đã hỏi ý kiến các Asura rồi cảnh báo Sakka không nên học pháp thuật ấy, vì qua pháp thuật của mình, Sambara đã rơi vào địa ngục, nơi ông đã chịu khổ suốt một thế kỷ. Buddhaghosa, trong bối cảnh này (SN­a.i.272), gọi Sambara là một *Asurinda*, một ảo thuật gia (*māyāvī*) đã thực hành *māyā* của mình và đã bị thiêu đốt suốt thế kỷ qua trong địa ngục.
+
+Bà Rhys Davis (KS.i.306 n) cho rằng có một phẩm vị Sambara tương tự như phẩm vị Sakka, và mỗi vị Sambara kế tiếp đều học được pháp thuật ấy. Xem thêm Saṁvara.
 
 ## Notes

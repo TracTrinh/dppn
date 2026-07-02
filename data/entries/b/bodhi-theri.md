@@ -5,7 +5,7 @@ base_headword: "Bodhī Therī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -26,6 +26,6 @@ Bodhī Therī. A friend of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhī Therī. Một người bạn của Isidāsī, người đã kể lại câu chuyện về những tiền kiếp của mình theo yêu cầu của Bodhī. Thīg­a.p.261.
 
 ## Notes

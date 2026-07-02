@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -32,6 +32,6 @@ Mahā Nāma 07. Author of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 07. Tác giả của Saddhammappakāsanī, Chú giải về Paṭisambhidāmagga (Gv.61; Svd.1196). Đoạn kết của cuốn sách (Paṭis-a.526) có ghi rằng ông đã sống trong *pariveṇa* Uttaramanti ở Mahā Vihāra và đã hoàn thành tác phẩm của mình vào năm thứ ba sau sự ra đi của Moggallāna (có lẽ là Moggallāna I.). Gandhavaṁsa (Gv.70) nói rằng tác phẩm đã được viết theo lời yêu cầu của một vị *upāsaka*, cũng có tên là Mahā Nāma.
 
 ## Notes

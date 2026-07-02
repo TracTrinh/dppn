@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -63,6 +63,18 @@ His resolve to attain to eminence as the best distributor of pleasant food to th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 03. Một vị *rājā* người Sākiya, con trai của Amitodana; ông là anh trai của Anuruddha và là anh em họ của Gotama Buddha. Khi các gia đình Sākiya ở Kapilavatthu cử đại diện của họ đến gia nhập Tăng đoàn của vị người thân xuất chúng của họ, Mahā Nāma đã cho phép Anuruddha rời khỏi gia đình, vì ông biết không có bất kỳ điều gì về những công việc trong gia đình. Vin.ii.180f.; Dhp­a.i.133; iv.124, etc.; nhưng theo các nguồn tài liệu phương Bắc (Rockhill, p. 13) thì ông là con trai của Dronodana; theo Thag­a. (ii.123) Ānanda là một người anh em trai (hoặc, ít nhất là, một người anh em cùng cha khác mẹ/cùng mẹ khác cha) của Mahā Nāma, vì ở đó cha của Ānanda được đưa ra là Amitodana. Nhưng xem MN­a.i.289, nơi cha của Mahā Nāma được gọi là Sukkodana và cha của Ānanda là Amitodana.
+
+Mahā Nāma đã thể hiện sự hào phóng to lớn đối với Tăng đoàn, và đã được tuyên bố là người đệ tử xuất sắc nhất trong số những người cúng dường những món khất thực thượng hạng cho các tỳ-kheo (AN.i.26). Một lần nọ, với sự cho phép của Đức Phật, ông đã cung cấp thuốc men cho Tăng đoàn trong ba khoảng thời gian, mỗi khoảng thời gian kéo dài bốn tháng. Nhóm Chabbaggiyā, luôn chú tâm vào việc quấy phá, đã cố gắng một cách vô ích để làm ông thoái chí. Vin.iv.101; AN­a. (i.213) nói thêm rằng điều này đã diễn ra trong khoảng thời gian Đức Phật và các tỳ-kheo của ngài đang trải qua sự thiếu thốn tại Verañjā. Vào cuối năm đó, Mahā Nāma mong muốn được tiếp tục cung cấp những thức ăn ngon cho Đức Phật và các tỳ-kheo của ngài, nhưng Đức Phật đã từ chối sự cho phép của ngài.
+
+Mahā Nāma là một tín đồ tận tụy của Đức Phật và mong muốn được thấu hiểu Pháp. Các kinh điển có ghi lại vài cuộc đàm đạo giữa ông và Đức Phật, và Ānanda, Godha, cùng Lomasavaṅgīsa (xem Mahā Nāmasutta và Lomasavaṅgīsa). Một lần nọ khi Đức Phật đến Kapilavatthu, ngài đã yêu cầu Mahā Nāma tìm cho ngài một chỗ nghỉ qua đêm. Mahā Nāma đã cố gắng ở khắp mọi nơi mà không thành công, và cuối cùng đã đề xuất rằng Đức Phật nên qua đêm trong am thất của Bharaṇḍu Kāḷāma (SN.v.327f). Ngài đã làm điều này, và sáng hôm sau Mahā Nāma đã đến gặp ngài ở đó; như một kết quả của cuộc đàm đạo giữa Đức Phật, Mahā Nāma và Bharaṇḍu, người được nhắc đến cuối cùng đã rời khỏi Kapilavatthu để không bao giờ quay trở lại. Trong một dịp khác, Mahā Nāma đã đến thăm Đức Phật tại Nigrodhārāma nơi Đức Phật đang dưỡng bệnh sau một trận ốm nặng, và ngay lập tức Mahā Nāma đã đặt một câu hỏi về việc liệu sự định tâm diễn ra sau hay trước trí tuệ. Ānanda, người cũng có mặt ở đó, không muốn Đức Phật bị quấy rầy, đã đưa Mahā Nāma sang một bên và giải thích cho ông nghe những lời dạy của Đức Phật về chủ đề này. Xem Sakkasutta (SN.i.219f.).
+
+Mahā Nāma có một cô con gái là Vāsabhakhattiyā, do một nữ tì tên là Nāgamuṇḍā sinh ra cho ông, và khi Pasenadi yêu cầu những người Sākiya gả cho ông ta một thiếu nữ Sākiya, họ đã họp tại Mote Hall và, làm theo lời khuyên của Mahā Nāma, đã gả Vāsabhakhattiyā cho ông ta. Nhằm làm xoa dịu mọi sự nghi ngờ, Mahā Nāma đã ngồi xuống dùng bữa với cô, ăn một miếng từ cùng một đĩa thức ăn; nhưng trước khi ông kịp nuốt nó thì một người đưa tin đã đến, theo như sự sắp đặt bí mật, và gọi ông đi. Ông rời đi, yêu cầu Vāsabhakhattiyā hãy tiếp tục dùng bữa (Dhp­a.i.345f.; Ja.i.133; iv. 145f).
+
+Xem thêm Cūḷa Dukkhakkhandhasutta và Sekhasutta, cả hai đều được thuyết giảng cho Mahā Nāma.
+
+Quyết tâm đắc được sự lỗi lạc của ông với tư cách là người phân phát thức ăn ngon xuất sắc nhất cho các tỳ-kheo đã được lập vào thời kỳ của Padumuttara Buddha. Khi đó ông là một gia chủ ở Haṁsavatī và đã nghe Đức Phật phong một vị trí tương tự cho một tỳ-kheo (AN­a.i.213).
+
+Mahā Nāma được bao gồm trong một danh sách những nam cư sĩ đệ tử gương mẫu (AN.iii.451). Samantapāsādikā (Vin-a.iv.857) nói thêm rằng Mahā Nāma lớn hơn Đức Phật một tháng tuổi và ông là một vị *Sakadāgāmī*.
 
 ## Notes

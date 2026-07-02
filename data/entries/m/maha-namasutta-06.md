@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasutta"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāmasutta 06. On six qualities which are developed in a monk who is faith
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasutta 06. Nói về sáu phẩm chất được phát triển ở một vị tỳ-kheo có đức tin, tinh tấn, chánh niệm, định tâm và trí tuệ. Những suy nghĩ của vị ấy hướng về Tathāgata, Pháp và Tăng đoàn, về sự hào phóng của chính vị ấy và về chư thiên. Do đó tâm vị ấy thoát khỏi những suy nghĩ về ác ý, dục vọng, si mê; tâm ấy ngay thẳng, và vị ấy nhận ra *attha* và Pháp cùng niềm hoan hỷ gắn liền với Pháp; thân của vị ấy được thanh thản và tâm vị ấy tràn ngập niềm hoan hỷ. AN.v.328ff.; cp. No. 5 above.
 
 ## Notes

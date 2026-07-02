@@ -5,7 +5,7 @@ base_headword: "Dāṭhā Nāga Thera"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhā Nāga Thera 02. A forest-dwelling monk in the time of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhā Nāga Thera 02. Một tỳ-kheo sống ở rừng vào thời kỳ của Mahinda IV. Nhà vua đã nhờ ngài phục vụ trong các buổi tụng đọc Abhidhamma. Cv.liv.36.
 
 ## Notes

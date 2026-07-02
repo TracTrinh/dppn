@@ -5,7 +5,7 @@ base_headword: "Magha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -35,6 +35,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Magha. Tên mà Sakka mang trong một tiền kiếp khi ngài được sinh ra là một con người ở Macalagāma thuộc Magadha. Dạng thông thường của tên gọi là một từ phái sinh – vd., Ja.vi.212; ngài thường được gọi là *Maghavā Sujampati* – vd., Ja.iii.146; iv.403; v.137, 139; vi.102, 481, 573; hay *Maghavā Sakko* – vd., Ja.v.141; cũng xem Mvu.i.165, 167 (*sahasranetro Maghavān va sobhase*) và Mvu.iii.366 (*Sakro āha: Maghavān ti me āhu syaloke*).
+
+Câu chuyện về ngài được kể trong Kulāvakajātaka (Ja 31). Để có một phiên bản hơi khác, xem Dhp­a.i.264ff. Do lần hóa sinh làm Magha, Sakka về sau được biết đến là Maghavā. Maghavā có lẽ không phải là tên riêng của một Sakka cụ thể nào, mà là một tước hiệu của tất cả các vị Sakka, vì Sakka, người thực sự là Magha, được đồng nhất với Bodhisatta (Ja.i.207), trong khi Đức Phật nói (SN.i.231; Dhp­a.i.264) rằng vị Sakka, người đã đến thăm ngài, và cuộc trò chuyện của vị ấy được ghi lại trong Sakkapañhasutta, cũng được biết đến là Maghavā. Tước hiệu này có lẽ bắt nguồn từ thời điểm khi Magha trở thành Sakka.
+
+Tuy nhiên, Chú giải Saṁyutta nói rằng Magha không phải là Bodhisatta, mà cuộc đời ngài giống như cuộc đời của một Bodhisatta (*Bodhisattacariyā viyassa cariyā ahosi*); trong trường hợp đó tên gọi Maghavā chỉ thuộc về Sakka hiện tại (SN­a.i.267; điều này được hỗ trợ bởi câu chuyện được ghi trong DN­a.iii.710 ff. và Dhp­a.i.264ff., nơi không đề cập đến Bodhisatta). Magha đã tự thọ nhận bảy lời nguyện (*vatapadāni*), những điều đã mang lại cho ngài sự hóa sinh thành Sakka: phụng dưỡng cha mẹ, kính trọng các bậc trưởng thượng, sử dụng lời nói nhã nhặn, không nói lời vu khống, không bị lòng tham lam chi phối, thực hành sự hào phóng, lòng quảng đại và sự tử tế, nói lời chân thật, không bị sân hận chi phối (SN.i.227f.; SN­a.i.267). Về điều này và các tước hiệu khác của Sakka, xem Sakka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Cūḷanī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Cūḷanī. King, father of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Cūḷanī. Một vị vua, cha của Cūḷanī Brahmadatta. Vợ của ông là Talatā, bà đã tư thông với vị *Purohita* của ông là Chambhī và đầu độc chồng mình. Ja.vi.470.
 
 ## Notes

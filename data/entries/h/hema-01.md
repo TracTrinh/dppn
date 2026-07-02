@@ -5,7 +5,7 @@ base_headword: "Hemā"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,6 @@ Hemā 01. A woman who lived in a village near <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemā 01. Một người phụ nữ sống trong một ngôi làng gần Anurādhapura. Bà kết hôn với một người đàn ông gần Mahā Titthapaṭṭana. Có lần, vì muốn gặp chồng, bà đi dọc theo bờ biển và bị một Nāga bắt giữ. Nhưng khi Nāga phát hiện bà thuộc lòng Dhammacakkappavattanasutta, hắn đã dành cho bà sự tôn kính lớn lao. Ras.ii.135f.
 
 ## Notes

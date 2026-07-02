@@ -5,7 +5,7 @@ base_headword: "Sambhava"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambhava 02. The constant attendant of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhava 02. Thị giả thường trực của Revata Buddha. Ja.i.35; Bv.vi.21.
 
 ## Notes

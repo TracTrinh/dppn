@@ -5,7 +5,7 @@ base_headword: "Devala"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devala 01. An ascetic who once came from the region of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devala 01. Một đạo sĩ khổ hạnh từng đến từ vùng Himavā để tìm giấm và mật ong, rồi trú qua đêm trong nhà một thợ gốm. Một đạo sĩ khác, Nārada (Bodhisatta), về sau đến túp lều ấy và, với sự cho phép của Devala, ở lại đó. Trong đêm, Nārada đi ra khỏi lều, giẫm lên búi tóc của Devala, người nằm chắn ngang ngay lối cửa. Ông xin tha lỗi, và khi trở vào, đi qua chỗ ông tưởng là chân của Devala, nhưng Devala đã quay người lại và Nārada lại giẫm lên tóc ông. Do đó Devala nguyền rủa ông, nói rằng khi mặt trời mọc, đầu ông sẽ vỡ làm bảy mảnh; nhưng Nārada ngăn mặt trời mọc. Nhà vua hỏi xem chuyện gì đã xảy ra, và khi biết câu chuyện, buộc Devala xin Nārada tha lỗi. Vì ông không làm điều này theo ý chí tự do của mình, theo đề nghị của Nārada, ông bị đưa đến một hồ nước và bị buộc đứng ngập đến cổ trong nước với một cục đất sét trên đầu. Ngay khi mặt trời mọc, cục đất sét vỡ thành bảy mảnh và Devala bơi đi. Devala được nhận diện với Thullatissa. Dhp­a.i.32ff.
 
 ## Notes

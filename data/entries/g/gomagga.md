@@ -5,7 +5,7 @@ base_headword: "Gomagga"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gomagga. A spot in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gomagga. Một địa điểm ở Siṁsapāvana gần Āḷavī. Có lần Đức Phật đã lưu trú tại đó trong suốt mùa lạnh và được Hatthaka Āḷavaka đến thăm (AN.i.136).
 
 ## Notes

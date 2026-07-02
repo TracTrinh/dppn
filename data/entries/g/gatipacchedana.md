@@ -5,7 +5,7 @@ base_headword: "Gatipacchedana"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gatipacchedana. A king of eighty-four *kappas* ago; a previous birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatipacchedana. Một vị vua sống tám mươi bốn *kappa* trước; một tiền kiếp của Sammukhāthavika (Ap.i.159) (hay Māṇava). Thag­a.i.163.
 
 ## Notes

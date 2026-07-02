@@ -5,7 +5,7 @@ base_headword: "Samuddagiripariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samuddagiripariveṇa. A building in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddagiripariveṇa. Một công trình trong Mahā Vihāra do Kassapa IV. cho xây dựng, và được giao lại cho các Paṁsukūlika. Cv.lii.21.
 
 ## Notes

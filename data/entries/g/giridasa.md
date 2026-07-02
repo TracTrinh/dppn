@@ -5,7 +5,7 @@ base_headword: "Giridāsa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giridāsa. A poor caravan leader, the husband of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giridāsa. Một người trưởng đoàn lữ hành nghèo khổ, chồng của Isidāsī, trong một kiếp trước. Thīg.445f; Thīg­a.260, 265.
 
 ## Notes

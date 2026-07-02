@@ -5,7 +5,7 @@ base_headword: "Gahapativagga"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gahapativagga 03. The fifth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahapativagga 03. Chương thứ năm của Nidānasaṁyutta. SN.ii.68-80.
 
 ## Notes

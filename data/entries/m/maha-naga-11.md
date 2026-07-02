@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "11"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nāga 11. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 11. Mahā Nāga Thera. Ông và anh trai của mình, Cūḷa Nāga, những gia chủ của Vasāḷanagara, đã từ bỏ thế gian và trở thành các vị *Arahant*. Một ngày nọ, trong khi đang viếng thăm ngôi làng của chính mình, họ đã đi đến nhà của mẹ họ để khất thực. Người mẹ, không hoàn toàn chắc chắn họ là ai, đã hỏi liệu họ có phải là những người con trai của bà hay không. Nhưng họ, không mong muốn bất kỳ mối liên kết tình cảm nào, đã đưa ra một câu trả lời lảng tránh. SN­a.ii.125.
 
 ## Notes

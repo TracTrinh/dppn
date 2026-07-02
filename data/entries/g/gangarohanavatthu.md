@@ -5,7 +5,7 @@ base_headword: "Gaṅgārohaṇavatthu"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgārohaṇavatthu. The account of the Buddha’s visit to <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgārohaṇavatthu. Câu chuyện về chuyến viếng thăm Vesālī của Đức Phật nhằm thuyết giảng Ratanasutta (*q.v.*). Dhp­a.iii.436ff.
 
 ## Notes

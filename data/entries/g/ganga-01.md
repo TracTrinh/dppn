@@ -5,7 +5,7 @@ base_headword: "Gaṅgā"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -108,6 +108,42 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="66" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgā 01. Gaṅga, Ganges. Một trong năm con sông lớn (*Mahā Nadī*) tưới nước cho Jambudīpa, các sông kia là Yamunā, Aciravatī, Sarabhū, và Mahī (e.g., Vin.ii.237; SN.ii.135; v.401; AN.iv.101; v.22; Mil.114 nói đến mười con sông).
+
+Các bản Chú giải đưa ra một mô tả dài về nguồn gốc của các sông này (e.g., Snp­a.ii.438f; AN­a.ii.761ff; MN­a.ii.586; Ud­a.301). Từ hồ Anotatta chảy ra bốn con sông: sông chảy về phía nam vòng quanh hồ ba lần dưới tên Avaṭṭagaṅgā, rồi mang tên Kaṇhagaṅgā chảy thẳng sáu mươi do-tuần trên bề mặt một tảng đá, va chạm dữ dội với một vách đá dựng đứng, và bị hất tung lên thành một cột nước có chu vi ba *gāvuta*; cột nước này, được gọi là Akāsagaṅgā, chảy qua không trung sáu mươi do-tuần, rơi xuống tảng đá Tiyaggala, đào sâu vào đó năm mươi do-tuần, từ đó tạo thành một hồ nước gọi là Tiyaggala *pokkharaṇī*; rồi con sông, dưới tên Bahalagaṅgā, chảy qua một khe nứt trong đá suốt sáu mươi do-tuần, sau đó, dưới tên Ummaggagaṅgā, chảy qua một đường hầm thêm sáu mươi do-tuần nữa, và cuối cùng gặp phải tảng đá xiên Vijjha, chia thành năm dòng, tạo thành năm con sông đã nói ở trên.
+
+Trong số những nơi được nhắc đến là nằm trên bờ sông Gaṅgā có Benares, Campā, Ayojjha, Kimbhilā, Ukkāvelā, Payāga, Pāṭaliputta, và Saṅkassa. Gaṅgā là một trong những tuyến giao thông và thương mại quan trọng nhất đối với các vùng mà nó chảy qua – e.g., từ Rājagaha đến Vesālī. Vùng đất phía bắc con sông, giáp với vương quốc Aṅga, được gọi là Aṅguttarāpa (Snp­a.ii.439). Con sông dài năm trăm do-tuần (SN­a.ii.119).
+
+Tên gọi Gaṅgā xuất hiện lặp đi lặp lại trong các ví dụ và ẩn dụ trong các sách Pāli:
+
+- cát của nó không thể đếm được (SN.iv.376);
+- nước của nó không thể trở nên mặn dù có thêm vào một hạt muối (AN.i.250);
+- nó đầy bọt nước, nhưng bọt nước ấy lại trống rỗng (SN.iii.140);
+- sẽ là điều ngu xuẩn nếu muốn dùng nắm tay để chặn đứng dòng chảy của nó (SN.iv.298);
+- cũng như con sông chỉ tìm được sự an nghỉ trong đại dương, các đệ tử của Đức Phật cũng chỉ tìm được sự an nghỉ trong Nibbāna (MN.i.493);
+- có những điều tất yếu xảy ra, cũng như việc Gaṅgā chảy ra biển vậy (SN.iv.179);
+- không có cái gọi là Gaṅgā tách rời khỏi cát, nước, và bờ của nó;
+- bị đẩy sang bờ bên kia của Gaṅgā (*pāragaṅgāya*) là một bất hạnh lớn (xem, e.g., SN.i.207, Snp-a.i.228).
+- Gaṅgā chảy từ tây sang đông (*pācīnaninnā*, SN.iv.191);
+- vào mùa mưa, nó đầy nước đến mức ngay cả một con quạ cũng có thể uống nước từ bờ sông (Vin.i.230);
+- đôi khi bờ sông bị ngập lụt và các công trình trên đó bị phá hủy (SN­a.i.164), khiến người ta khó qua sông;
+- có lúc khác nó lại cạn và có thể qua bằng một cây cầu làm bằng sậy (Snp-a.i.18);
+- gia súc có thể dễ dàng được lùa từ bờ này sang bờ kia (MN.i.225).
+- Ở nhiều nơi có những bến đò nơi người lái đò chở khách để lấy tiền công (e.g., Ja.iii.230).
+- Trên các đoạn thượng lưu của bờ sông, có nhiều rắn và vẹt (Ja.ii.145, iii.491),
+- và dọc theo bờ sông có nhiều am thất (e.g., Ja.iii.476, v.191, etc.).
+- Người ta thường tắm trong sông, và vào những ngày lễ hội, ngay cả phụ nữ thuộc các gia đình quý phái cũng đến vui chơi dưới nước, đôi khi ở lại trong sông suốt cả ngày; các vị vua cũng đến cùng đoàn tùy tùng của mình (e.g., Ja.i.295; MN­a.ii.604; Dhp­a.iii.199).
+
+Cũng có nhắc đến một Gaṅgāmahīkīlā (Smp. chú giải Vin.i.191, và một lần nữa ở ii.276). Buddhaghosa nói rằng ở đây Mahī chỉ trái đất, nhưng Rhys Davids (VT.ii.25, n.3) cho rằng đó là chỉ con sông cùng tên.
+
+Sự hợp lưu của Gaṅgā và Yamunā thường được nhắc đến, và được dùng làm ví dụ cho sự hòa hợp trọn vẹn (e.g., Ja.vi.412, 415). Có nhắc đến một nhánh sông của Gaṅgā chảy từ Himavā, tên là Migasammatā (Ja.vi.72). Bến đò tại Pāṭaliputta, nơi Đức Phật đã qua sông trên đường từ Rājagaha đến Vesālī, được gọi là Gotamatittha (Vin.i.230); khoảng cách từ đó đến Rājagaha là năm do-tuần, và đến Vesālī là ba do-tuần (Khp-a.162-3). Khi Đức Phật, sau khi trừ được nạn dịch tại Vesālī, trở về Rājagaha, một lễ hội lớn đã đánh dấu sự kiện này, và lễ hội đó được gọi là Gaṅgārohaṇa. Chư thiên và các Nāga tranh nhau tôn vinh bậc Đạo sư, và có một cuộc tụ hội lớn của mọi hạng chúng sinh, tương tự như các dịp diễn phép thần thông song hành và cuộc giáng hạ từ cõi Tusita (Dhp­a.iii.444). Trong số các Nāga cư ngụ tại Gaṅgā có nhắc đến Eraka (Dhp­a.iii.231).
+
+Nước sông Gaṅgā được xem là linh thiêng và được dùng để làm lễ quán đảnh cho các vị vua, không chỉ ở Ấn Độ mà cả ở Tích Lan (Mhv.xi.30; Mhv­ṭ.305).
+
+Dân chúng ở bờ bắc thô lỗ và cộc cằn, trong khi những người ở bờ nam thì mộ đạo và rộng lượng, là những người tin theo Đức Phật (DN­a.i.160).
+
+Đoạn thượng lưu của con sông được gọi là Uddhagaṅgā (Ja.ii.283, vi.427) hoặc Uparigaṅgā (Ja.iv.230), và đoạn hạ lưu là Adhogaṅgā (Ja.ii.283, 329, v.3).
+
+Xem thêm Kosikī, Bhagīrathī, Mahā Gaṅgā, và Pāragaṅgā.
 
 ## Notes

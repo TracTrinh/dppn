@@ -5,7 +5,7 @@ base_headword: "Gavesī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,8 @@ The Buddha related this story to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavesī. Một đệ tử của Đức Phật Kassapa. Có năm trăm người khác cùng đi với ông, và lúc đầu đời sống tâm linh của họ còn kém cỏi. Gavesī, nhận ra điều này, đã nỗ lực và từng bước đạt được sự tiến bộ ngày càng cao, cho đến khi cuối cùng trở thành một vị Arahant. Các bạn đồng tu noi theo ông trong từng bước tiến tu tập, và họ cũng trở thành các vị Arahant.
+
+Đức Phật đã kể câu chuyện này cho Ānanda trong một chuyến du hành ở Kosala. Hai vị đến một khu rừng *sāla*, và tại đó Đức Phật mỉm cười; khi được hỏi lý do vì sao Ngài mỉm cười, Ngài trả lời rằng khu rừng đó chính là nơi Gavesī đã thực hành đời sống tâm linh. AN.iii.214ff.
 
 ## Notes

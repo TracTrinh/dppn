@@ -5,7 +5,7 @@ base_headword: "Girivāhana"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Girivāhana. One of the palaces of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girivāhana. Một trong những cung điện của Atthadassī Buddha trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.xv.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Haṅkāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Haṅkāra. A village in Ceylon, given by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṅkāra. Một ngôi làng ở Tích Lan, do Aggabodhi III ban cho *Padhānaghara* mang tên Mahallarāja. Cv.xliv.120.
 
 ## Notes

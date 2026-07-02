@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgavana"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nāgavana 01. An open space in Ceylon, on the banks of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgavana 01. Một không gian mở ở Tích Lan, trên bờ sông Mahā Vālukagaṅgā. Nó có chiều dài ba *yojana* và chiều rộng một *yojana* và là địa điểm tụ hội của các Yakkha. Đức Phật đã đến đó trong chuyến viếng thăm đầu tiên của ngài tới Tích Lan, và Mahiyaṅgaṇa Thūpa sau này đã được xây dựng trong đó. Mhv.i.22f.
 
 ## Notes

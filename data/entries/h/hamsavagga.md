@@ -5,7 +5,7 @@ base_headword: "Haṁsāvagga"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Haṁsāvagga. The twelfth section of the *Ekanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsāvagga. Phẩm thứ mười hai của *Ekanipāta* trong Chú giải Jātaka. Ja.i.424-40.
 
 ## Notes

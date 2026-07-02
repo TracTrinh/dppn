@@ -5,7 +5,7 @@ base_headword: "Mahā Janaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Janaka 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Janaka 01. Vua của Mithilā ở Videha. Ông có hai người con trai, Ariṭṭhajanaka và Polajanaka. Ja.vi.30.
 
 ## Notes

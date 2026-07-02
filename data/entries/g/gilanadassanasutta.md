@@ -5,7 +5,7 @@ base_headword: "Gilānadassanasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gilānadassanasutta. When <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānadassanasutta. Khi Cittagahapati nằm bệnh, có rất nhiều Deva đến gần ông và thúc giục ông ước nguyện trở thành một vị chuyển luân vương. Ông bác bỏ lời đề nghị đó và, khi bị những người thân của ông hỏi tại sao ông lại nói chuyện một mình, ông đã nói cho họ biết và khuyên bảo họ hãy có đức tin vào Đức Phật, Dhamma và Tăng đoàn. Ngay sau đó ông qua đời. SN.iv.302f.
 
 ## Notes

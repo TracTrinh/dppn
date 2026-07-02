@@ -5,7 +5,7 @@ base_headword: "Hiraññamalaya"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hiraññamalaya. A locality in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiraññamalaya. Một địa phương ở Rohaṇa. Cv.lvii.62.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgavana"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Nāgavana 02. A park near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgavana 02. Một công viên gần Anurādhapura. Tại đó những xá-lợi do Sumana mang đến cho Thūpārama đã được Devānampiyatissa tiếp nhận lần đầu tiên. Mhv.xvii.7, 22f.
 
 ## Notes

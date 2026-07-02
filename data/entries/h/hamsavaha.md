@@ -5,7 +5,7 @@ base_headword: "Haṁsavaha"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Haṁsavaha. The horse on which <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsavaha. Con ngựa mà Sujāta Buddha đã cưỡi khi rời bỏ đời sống gia đình. Bva.168.
 
 ## Notes

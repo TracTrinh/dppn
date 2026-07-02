@@ -5,7 +5,7 @@ base_headword: "Gaṅgāmātivihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgāmātivihāra. A monastery in Ceylon, to which <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgāmātivihāra. Một tu viện ở Tích Lan, được Jeṭṭhatissa III ban cho Keheta làm làng cung cấp lương thực. Cv.xliv.99.
 
 ## Notes

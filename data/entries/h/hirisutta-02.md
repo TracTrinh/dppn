@@ -5,7 +5,7 @@ base_headword: "Hirisutta"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hirisutta 02. The disadvantages of lack of *hiri* (conscientiousness) and fear o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hirisutta 02. Những bất lợi của việc thiếu *hiri* (tàm) và sự e sợ lỗi lầm, cùng những lợi ích khi có được hai điều này. AN.iv.99.
 
 ## Notes

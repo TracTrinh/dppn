@@ -5,7 +5,7 @@ base_headword: "Madhubhaṇḍapūjā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Madhubhaṇḍapūjā. A ceremony held by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhubhaṇḍapūjā. Một buổi lễ do Bhātikābhaya tổ chức để tôn vinh Mahā Thūpa. Nó bao gồm những lễ vật là các bình đựng đầy mật ong, và những bông hoa sen rải ngập đến mắt cá chân trong sân, những ngọn đèn thắp sáng đổ đầy dầu thơm, v.v. Mhv.xxxiv.52ff.; Mhv­ṭ.631.
 
 ## Notes

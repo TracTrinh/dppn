@@ -5,7 +5,7 @@ base_headword: "Hatthigiripura"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -32,6 +32,8 @@ The king was cremated close to the *vihāra*, and his son, <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthigiripura, Hatthiselapura. Tên Pāḷi của thị trấn Kurunegala ngày nay ở Tích Lan. Sở dĩ có tên như vậy vì gần đó có một ngọn núi có hình dáng như một con voi đang nằm. Địa danh này lần đầu được nhắc đến vào thời Parakkamabāhu II, người đã cho *yuvarāja* của mình, Bhuvanekabāhu, xây một *vihāra* tại đó (Cv.lxxxv.62).
+
+Nhà vua được hỏa táng gần *vihāra* này, và con trai ông, Vijayabāhu, đã hành hương đến *vihāra* này và đến nơi hỏa táng (Cv.lxxxviii.53f). Bhuvanekabāhu đã dời kinh đô từ Subhagiri đến Hatthigiripura, nơi kinh đô vẫn đặt cho đến khi Parakkamabāhu IV qua đời. Cv.xc.59,106.
 
 ## Notes

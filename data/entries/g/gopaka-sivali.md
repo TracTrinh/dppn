@@ -5,7 +5,7 @@ base_headword: "Gopaka Sīvalī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gopaka Sīvalī. A resident of Ceylon. He built a *cetiya* in <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka Sīvalī. Một cư dân của Tích Lan. Ông đã xây dựng một *cetiya* ở Tālapiṭṭhikavihāra. Vào lúc lâm chung, khi nhớ lại hành động này, ông đã được tái sinh trong thế giới *Deva*. Vibh­a.156.
 
 ## Notes

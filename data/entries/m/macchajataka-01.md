@@ -5,7 +5,7 @@ base_headword: "Macchajātaka"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,8 @@ The story was related to a passion-tossed monk who longed for the wife of his la
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchajātaka 01. (Ja 34). Một lần nọ, vài ngư dân quăng lưới xuống một con sông, và một con cá lớn, đang bơi dọc theo đó, nô đùa tình tứ với vợ mình, đã bị mắc lưới, trong khi vợ nó chạy thoát. Những ngư dân kéo nó lên và bỏ lại trên cát trong lúc họ tiến hành đốt lửa và đẽo một cái xiên để nướng nó. Con cá than vãn, nói rằng vợ nó sẽ bất hạnh biết bao khi nghĩ rằng nó đã bỏ đi với con cá khác. Bodhisatta, lúc đó là tư tế của nhà vua, đi đến sông để tắm, nghe tiếng than vãn của con cá và đã xin những ngư dân trả tự do cho nó.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo bị dục vọng giày vò, mong nhớ người vợ thời còn là cư sĩ. Hai con cá chính là vị tỳ-kheo và người quyến rũ ông. J.i.210-12.2.
 
 ## Notes

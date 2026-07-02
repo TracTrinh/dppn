@@ -5,7 +5,7 @@ base_headword: "Samaṇabrāhmaṇasutta"
 disambiguator: "10"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇabrāhmaṇasutta 10. Recluses and Brahmins who have gained, are gaining,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇabrāhmaṇasutta 10. Các sa-môn và Bà-la-môn đã đạt được, đang đạt được, và sẽ đạt được trí tuệ tối thượng, đều đạt được nhờ sự hiểu biết về Tứ Diệu Đế. SN.v.416f.
 
 ## Notes

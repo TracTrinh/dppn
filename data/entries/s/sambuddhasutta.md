@@ -5,7 +5,7 @@ base_headword: "Sambuddhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambuddhasutta. On the difference between the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambuddhasutta. Về sự khác biệt giữa Tathāgata, bậc đã hoàn toàn giác ngộ, và một vị tỳ-kheo được giải thoát nhờ tuệ. SN.iii.65f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dānasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dānasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānasutta 02. Sāriputta, cùng với các đệ tử cư sĩ ở Campā, đến thăm Đức Phật tại *pokkharaṇī* Gaggarā và hỏi ngài tại sao cùng những sự cúng dường như nhau nhưng trong một trường hợp thì không có phước báu, trong trường hợp khác thì có phước báu to lớn. Đức Phật đã giải thích chi tiết. AN.iv.59ff.
 
 ## Notes

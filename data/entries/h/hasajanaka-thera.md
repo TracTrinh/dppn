@@ -5,7 +5,7 @@ base_headword: "Hāsajanaka Thera"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hāsajanaka Thera. An *Arahant*, Ninety-one *kappas* ago he saw the rag robe of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hāsajanaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông thấy chiếc y phấn tảo của một vị Phật treo trên cành cây. Vui mừng trước cảnh tượng đó, ông đã đảnh lễ nó. Ap.i.259.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samaṇasaññāvagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇasaññāvagga. The eleventh chapter of the *Dasakanipāta* of the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇasaññāvagga. Chương thứ mười một của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.210ff.
 
 ## Notes

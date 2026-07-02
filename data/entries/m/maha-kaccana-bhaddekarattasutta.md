@@ -5,7 +5,7 @@ base_headword: "Mahā Kaccāna Bhaddekarattasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -32,6 +32,8 @@ Mahā Kaccāna Bhaddekarattasutta. <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kaccāna Bhaddekarattasutta. Samiddhi có lần đang lau khô người sau khi tắm tại Tapodā ở Rājagaha, thì một thiên nhân xuất hiện trước mặt ông và hỏi liệu ông có biết Bhaddekarattasutta không. Khi ông trả lời là không, vị chư thiên đã yêu cầu ông đi học nó, và ngày hôm sau Samiddhi đã tìm đến Đức Phật và học những vần kệ của bài Kinh (Sutta).
+
+Samiddhi và các đồng đạo của mình sau đó đã đi đến chỗ Mahā Kaccāna và thỉnh cầu ông giải thích bài Kinh một cách chi tiết. Ông đã làm điều này, và họ vô cùng biết ơn vì điều đó. Họ đã thuật lại phần giải thuyết của Kaccāna cho Đức Phật nghe, và Ngài vô cùng tán thành nó. MN.iii.192ff.
 
 ## Notes

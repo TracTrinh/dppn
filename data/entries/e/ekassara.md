@@ -5,7 +5,7 @@ base_headword: "Ekassara"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekassara. A king of ninety-four *kappas* ago; a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekassara. Một vị vua của chín mươi bốn *kappa* trước; một tiền kiếp của Kisalayapūjaka Thera. Ap.i.200.
 
 ## Notes

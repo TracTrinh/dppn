@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -35,6 +35,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 03. Trong Chú giải Jātaka, đây được đưa ra làm tên của vô số vị vua xứ Benares. Trong hầu hết các trường hợp, chúng ta không được biết thêm gì về họ ngoại trừ việc họ trị vì tại Benares vào thời điểm xảy ra những sự việc được kể trong câu chuyện. Brahmadatta, có lẽ là tên vương triều của các vị vua xứ Benares. Ví dụ như, trong Gaṅgamālajātaka (Ja 421, Ja.iii.452) Udaya, vua xứ Benares, được gọi là Brahmadatta.
+
+Tuy nhiên, trong Gaṇḍatindujātaka (Ja 520, Ja.v.102-106) Pañcāla, vua xứ Uttarapañcāla, cũng được gọi là Brahmadatta; trong trường hợp này nó rõ ràng là tên riêng của ông. Đó cũng là tên người chồng của Piṅgiyāni (*q.v.*). Ông là một vị vua, nhưng chúng ta không được cho biết là của đất nước nào. Ông được đồng nhất (Ja.v.444) với Kuṇāla.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cumbaṭakalaha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cumbaṭakalaha. The name given (e.g., Ja.i.208) to the quarrel between the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cumbaṭakalaha. Tên được đặt cho (vd., Ja.i.208) cuộc cãi vã giữa những người Sākyan và những người Koḷiyan về nước của dòng sông Rohiṇī (xem từ này).
 
 ## Notes

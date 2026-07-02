@@ -5,7 +5,7 @@ base_headword: "Gomayasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -31,6 +31,8 @@ This *Sutta* was preached by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gomayasutta, hoặc Gomayapiṇḍīsutta. Được thuyết giảng tại Jetavana. Một vị tỳ-kheo hỏi Đức Phật liệu có bất kỳ thân nào hay bất kỳ thứ gì hoàn toàn thường hằng và ổn định hay không. Đức Phật lấy một cục phân bò trong tay và nói với vị này rằng nhân cách trong bất kỳ khoảng thời gian sống nào (*attabhāva*) cho dù nhỏ như cục phân đó cũng không ổn định. Đức Phật sau đó kể cho vị tỳ-kheo nghe về những thứ xa xỉ to lớn mà Ngài đã thụ hưởng khi làm vua (Mahā Sudassana) xứ Kusāvati, và về việc tất cả chúng đã bị hoại diệt như thế nào (SN.iii.143f).
+
+*Sutta* này đã được Mahinda thuyết giảng tại khu rừng nhỏ Nandana, vào ngày thứ sáu sau khi ông đến Tích Lan. Mhv.xv.197.
 
 ## Notes

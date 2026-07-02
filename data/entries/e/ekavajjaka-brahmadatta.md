@@ -5,7 +5,7 @@ base_headword: "Ekavajjaka Brahmadatta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,8 @@ His verse is included in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekavajjaka Brahmadatta. Một vị vua. Ông vô cùng ân cần, và sẵn sàng ban cho bất cứ ai một cuộc yết kiến nếu họ muốn, bất kể trong hoàn cảnh nào. Ông luôn cho phép người yết kiến mình thực hiện điều đó một cách không có người hầu hạ đi kèm, và từ đó ông được biết đến với tên gọi Ekavajjaka ("đi một mình"). Một lần nọ, hai vị quan đại thần của ông đã cãi vã vì họ cùng muốn cai trị một khu vực. Nhà vua, nhận ra những tác hại xấu xa của lòng tham, đã phát triển tuệ quán và trở thành một vị Pacceka Buddha.
+
+Bài kệ của ông được bao gồm trong Khaggavisāṇasutta. Sn.vs.40; Snp-a.i.84f.
 
 ## Notes

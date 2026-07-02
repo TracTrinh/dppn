@@ -5,7 +5,7 @@ base_headword: "Ghoṭamukha"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -32,6 +32,8 @@ The Commentary (MN­a.ii.786f) adds that Ghoṭamukha held the view that one sho
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghoṭamukha. Một người Bà-la-môn, có lẽ ở Pāṭaliputta. Khi đến thăm Benares, ông đã gặp Udena ở đó trong Khemiyambavana và có một cuộc trò chuyện với ông, được ghi lại trong Ghoṭamukhasutta. Khi kết thúc cuộc trò chuyện, ông tuyên bố mình đã cải đạo và muốn cúng dường cho Udena khoản trợ cấp hàng ngày trị giá năm trăm *kahāpaṇa* mà ông thường xuyên nhận được từ vua của Aṅga. Udena gợi ý rằng số tiền đó có thể được sử dụng để xây dựng một hội trường cho Tăng chúng ở Pāṭaliputta. Đề xuất đó đã được đồng ý và hội trường, khi được xây dựng xong, được gọi là *Ghoṭamukhī* (MN.ii.157ff).
+
+Chú giải (MN­a.ii.786f) nói thêm rằng Ghoṭamukha giữ quan điểm rằng người ta nên tìm kiếm sự vinh quang cho bản thân, thậm chí bằng cách giết cha mẹ mình, và rằng ông là người duy nhất được sinh ra trên thiên giới, mặc dù đã giữ quan điểm đó. Sau khi được sinh ra trên thiên giới, khi đã khám phá ra nguyên nhân dẫn đến vận may của mình, ông đã cải trang xuống trần gian và, sau khi tiết lộ danh tính với người chị gái duy nhất còn sống của mình, ông đã nói cho bà biết nơi giấu kho báu của mình và hướng dẫn bà dùng một phần số tiền đó để tu sửa một nhà ăn cũ mà các tỳ-kheo đang cố gắng phục hồi.
 
 ## Notes

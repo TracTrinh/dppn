@@ -45,7 +45,7 @@ Ambalaṭṭhikā. Là một địa điểm mang tên này ở phía đông củ
 
 Vào một dịp khác, vua Vasabha nghe các *Dīghabhāṇakas* tụng Mahā Sudassanasutta, và nghĩ rằng họ đang bàn luận về những gì họ đã ăn uống, nên ông đến gần hơn để nghe; khi phát hiện sự thật, ông tán thán các vị Tăng (DN­a.ii.635).
 
-Địa điểm được nói đến ở đây có lẽ không phải là một công viên, mà là một tòa nhà tạo thành một phần của Lohapāsāda. Trong tường thuật Mahā Vaṁsa (Mhv.xxvii.11-20) về việc xây dựng Lohapāsāda, chúng ta được kể rằng các bản thiết kế đã được chép lại từ cung điện bằng châu báu của nữ thần Bīraṇī. Phần trung tâm của cung điện được gọi là Ambalaṭṭhikapāsāda. “Nó có thể nhìn thấy từ mọi phía, sáng rực, với các phướn được treo ra.”
+Địa điểm được nói đến ở đây có lẽ không phải là một công viên, mà là một tòa nhà tạo thành một phần của Lohapāsāda. Trong tường thuật Mahā Vaṁsa (Mhv.xxvii.11-20) về việc xây dựng Lohapāsāda, chúng ta được kể rằng các bản thiết kế đã được chép lại từ cung điện bằng châu báu của thiên nữ Bīraṇī. Phần trung tâm của cung điện được gọi là Ambalaṭṭhikapāsāda. “Nó có thể nhìn thấy từ mọi phía, sáng rực, với các phướn được treo ra.”
 
 Duṭṭhagāmaṇī có lẽ đã đưa một phần trung tâm tương tự vào Lohapāsāda. Quan điểm này được củng cố bởi Ambalaṭṭhikā (4).
 

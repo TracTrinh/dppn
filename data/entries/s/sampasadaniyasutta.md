@@ -5,7 +5,7 @@ base_headword: "Sampasādanīyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,6 @@ Sampasādanīyasutta. The twenty-eighth *Sutta* of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sampasādanīyasutta. Bản *Sutta* thứ hai mươi tám của Dīghanikāya. Đức Phật đang trú tại Pāvārika-ambavana ở Nālandā. Sāriputta đảnh lễ Ngài và tuyên bố rằng chưa từng có, hiện không có, và sẽ không có ai vĩ đại hơn Đức Phật, hay thông tuệ hơn Ngài, về mặt *sambodhi*. Ông thừa nhận, khi được Đức Phật hỏi, rằng ông không biết gì về các vị Phật quá khứ cũng như các vị Phật tương lai, và rằng ông không thể thấu hiểu tâm của Đức Phật bằng tâm của chính mình. Nhưng ông biết được dòng truyền thừa của Chánh Pháp (*Dhammanvaya*), và nhờ đó có thể suy luận ra các phẩm chất của chư Phật quá khứ và tương lai. Sau đó ông tiếp tục kể lại các phẩm chất và thành tựu mà Đức Phật vượt trội hơn và không thể bị vượt qua. Đức Phật đồng ý rằng lời tuyên bố của Sāriputta phù hợp với Dhamma. Mahā Udāyī, người có mặt lúc đó, bày tỏ sự kinh ngạc rằng Đức Phật, dù sở hữu những phẩm chất kỳ diệu như vậy, vẫn an tĩnh và điềm nhiên như thế. Bản *Sutta* kết thúc bằng lời khuyên của Đức Phật rằng Sāriputta nên thường xuyên thuyết giảng về đề tài này cho nam và nữ để những nghi hoặc của họ được giải tỏa. DN.iii.99-116.
 
 ## Notes

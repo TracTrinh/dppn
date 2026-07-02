@@ -5,7 +5,7 @@ base_headword: "Harītakīvāta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Harītakīvāta. A place in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Harītakīvāta. Một địa danh ở Rohaṇa, được nhắc đến trong ghi chép về các cuộc chiến của Parakkamabāhu I. Cv.lxxv.173.
 
 ## Notes

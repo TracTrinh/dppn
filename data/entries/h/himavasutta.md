@@ -5,7 +5,7 @@ base_headword: "Himavāsutta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Himavāsutta. Six things, possession of which will enable a monk to cleave <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Himavāsutta. Sáu điều mà nếu sở hữu, một vị tỳ-kheo có thể chẻ đôi Himavā. AN.iii.311.
 
 ## Notes

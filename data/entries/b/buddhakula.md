@@ -5,7 +5,7 @@ base_headword: "Buddhakula"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,8 @@ He and his wife had been the parents of the Buddha in five hundred births, and w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhakula. Gia đình của vị Bà-la-môn ở Sāketa được đề cập trong Chú giải cho Jarāsutta.
+
+Ông và vợ đã là cha mẹ của Đức Phật trong năm trăm lần sinh, và khi họ nhìn thấy Ngài tại Sāketa, họ đã chào đón Ngài như một đứa con trai lâu ngày thất lạc. Từ đó trở đi, họ được biết đến là Buddhapitā và Buddhamātā, và gia đình họ là Buddhakula. Snp­a.ii.531ff.; xem thêm Sāketajātaka và *Avadānaśataka* ii. 41.
 
 ## Notes

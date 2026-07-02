@@ -5,7 +5,7 @@ base_headword: "Ghanamaṭṭhaka"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -26,6 +26,6 @@ Ghanamaṭṭhaka. An ornament which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghanamaṭṭhaka. Một món đồ trang sức mà Migāra đã tặng cho Visākhā để bày tỏ lòng biết ơn của ông đối với bà. Dhp­a.i.407.
 
 ## Notes

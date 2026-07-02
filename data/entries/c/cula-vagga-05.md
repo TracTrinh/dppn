@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vagga"
 disambiguator: "05"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Vagga 05. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vagga 05. Cūla Vagga. Chương thứ hai của Suttanipāta. Snp., pp.29-72.
 
 ## Notes

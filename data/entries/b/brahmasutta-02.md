@@ -5,7 +5,7 @@ base_headword: "Brahmasutta"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmasutta 02. The scene is the same as in the above. The Buddha is reflecting 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmasutta 02. Bối cảnh cũng giống như trong phần trên. Đức Phật đang suy ngẫm về năm *indriya* (*saddhā*, *sati*, v.v.), như là con đường dẫn đến *Nibbāna*, và Sahampati viếng thăm ngài và đồng tình với ngài, kể lại rằng, khi ngài còn là một tỳ-kheo tên là Sahaka, vào thời của Kassapa Buddha, ngài đã trau dồi năm *indriya* và được sinh ra trong cõi *Brahma*. SN.v.232f.
 
 ## Notes

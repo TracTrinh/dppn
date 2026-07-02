@@ -5,7 +5,7 @@ base_headword: "Dasarathajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -41,6 +41,10 @@ The story was related to a man of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasarathajātaka (Ja 461). Dasaratha, vua của Benares, có ba người con, Rāmapaṇḍita, Lakkhaṇa và Sītā. Khi hoàng hậu của mình qua đời, ông lấy một hoàng hậu khác và có với bà một cậu con trai, Bharata. Khi Bharata được bảy tuổi, mẹ của cậu đã đòi ngai vàng cho cậu theo một ân huệ đã được nhà vua ban cho bà. Nhà vua kinh hoàng và sợ rằng bà sẽ làm hại những người con lớn của mình, nên đã gửi họ vào rừng trong mười hai năm, yêu cầu họ quay trở lại sau khi ông qua đời. Trong rừng Rāma sống một đời sống của một tu sĩ trong khi Lakkhaṇa và Sītā cung cấp thức ăn cho ông. Dasaratha qua đời sau chín năm, và khi các vị quan đại thần từ chối công nhận Bharata làm vua, ông đã vào rừng để tìm kiếm Rāma. Tuy nhiên, Rāma đã từ chối quay về cho đến khi thêm ba năm nữa trôi qua, và khi Bharata từ chối chiếm ngai vàng, Rāma đã đưa cho ông đôi dép rơm của mình để đặt lên ngai vàng khi ông vắng mặt. Khi các vụ án được xét xử, nếu phán quyết được đưa ra là sai, đôi dép sẽ đập vào nhau, nhưng, nếu đúng, chúng sẽ nằm yên. Sau ba năm, Rāma đã trở về và cai trị từ cung điện Sucandaka của mình trong mười sáu ngàn năm, với Sītā làm hoàng hậu.
+
+Dasaratha là Suddhodana, Bharata là Ānanda, Lakkhaṇa là Sāriputta, Sītā là Rāhulamātā và Rāma là Bodhisatta.
+
+Câu chuyện được kể lại cho một người đàn ông ở Sāvatthī, người vô cùng đau buồn trước cái chết của cha mình và bỏ bê mọi bổn phận của bản thân. Ja.iv.12330.
 
 ## Notes

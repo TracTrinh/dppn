@@ -5,7 +5,7 @@ base_headword: "Sampadāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sampadāsutta 02. The five attainments – faith, virtue, learning, charity, ins
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sampadāsutta 02. Năm thành tựu – tín, giới, đa văn, bố thí, tuệ. AN.iii.53.
 
 ## Notes

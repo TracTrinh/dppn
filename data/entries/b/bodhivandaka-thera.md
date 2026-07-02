@@ -5,7 +5,7 @@ base_headword: "Bodhivandaka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bodhivandaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw the *pāṭalī
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhivandaka Thera. Một vị Arahant. Chín mươi mốt *kappa* trước ngài nhìn thấy cây pāṭalī-Bodhi của Vipassī Buddha và chiêm bái nó. Ap.i.290.
 
 ## Notes

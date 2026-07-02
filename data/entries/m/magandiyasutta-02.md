@@ -5,7 +5,7 @@ base_headword: "Māgandiyasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māgandiyasutta 02. Records the conversation between the Buddha and the *paribb�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiyasutta 02. Ghi lại cuộc trò chuyện giữa Đức Phật và *paribbājaka* Māgandiya. Māgandiya nói Đức Phật là một người chủ trương kìm nén hà khắc (*bhunahu*) và Đức Phật phủ nhận điều này, nói rằng ngài chỉ dạy sự nhiếp phục các căn, thấu hiểu nguồn gốc và sự hoại diệt của chúng; ngài đã vứt bỏ mọi sự tham ái đối với chúng và sống với tâm bình an. Sau đó ngài kể lại cách ngài, trong thời thanh xuân, đã thọ hưởng những loại dục lạc to lớn và xa hoa nhất và đã từ bỏ chúng. Ngài không thể khao khát chúng hơn là một người phong cùi, đã được chữa khỏi bệnh, lại thèm khát những vết lở loét cũ của mình. Cả Đức Phật và các đạo sư của những niềm tin khác đều tin chắc rằng sức khỏe là ân huệ lớn nhất và Nibbāna là niềm an lạc tối thượng. Nhưng quan niệm của Đức Phật về sức khỏe và Nibbāna lại khác biệt với các đạo sư khác. Kiến thức của họ giống như kiến thức của một người mù, được tiếp nhận dựa trên lòng tin cậy. Māgandiya lắng nghe và bị thuyết phục. Ngài gia nhập Tăng đoàn và trở thành một vị Arahant. MN.i.501-13; Thomas: *Life and Legend of the Buddha*, 115.
 
 ## Notes

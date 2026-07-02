@@ -5,7 +5,7 @@ base_headword: "Gāmaṇī"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gāmaṇī 02. A prince, youngest of one hundred brothers. His story is given in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇī 02. Một vị hoàng tử, em út trong một trăm anh em. Câu chuyện của ông được kể trong Saṁvarajātaka. Ja.iv.130ff; xem thêm Ja.i.136f.
 
 ## Notes

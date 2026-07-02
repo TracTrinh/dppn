@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsiva"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhāsiva 04. *Uparājā* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsiva 04. *Uparājā* của Aggabodhi IV. Ông đã bị Potthakuṭṭha bắt giữ và bỏ tù. Cv.xlvi.40.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāru Kassapa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāru Kassapa. A minister of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāru Kassapa. Một vị quan đại thần của Dappula II. Ông đã bắt đầu xây dựng Kassaparājakavihāra, nhưng không thể hoàn thành nó (Cv.l.81). Ông có lẽ là em trai của *Ādipāda* Kassapa, người đã bị vua Paṇḍu giết chết. Cv.Trs.i.145, n.5.
 
 ## Notes

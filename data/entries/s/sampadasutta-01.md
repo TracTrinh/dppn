@@ -5,7 +5,7 @@ base_headword: "Sampadāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sampadāsutta 01. The three attainments and the three growths – faith, virtue,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sampadāsutta 01. Ba thành tựu và ba sự tăng trưởng – tín, giới, tuệ. AN.i.287.
 
 ## Notes

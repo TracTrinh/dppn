@@ -5,7 +5,7 @@ base_headword: "Mahā Āsana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Āsana. A spot in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Āsana. Một địa điểm ở Anurādhapura, nơi hạt giống từ cành cây Bodhi, do Saṅghamittā mang đến, được Devānampiyatissa trồng vào một chiếc bình vàng. Ngay lập tức tám cây non mọc lên từ hạt giống đó. Mhv.xix.57; Mbv.162.
 
 ## Notes

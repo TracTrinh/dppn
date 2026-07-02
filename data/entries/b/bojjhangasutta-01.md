@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgasutta"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bojjhaṅgasutta 01. Among the four kinds of deeds – dark with a dark result, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgasutta 01. Trong số bốn loại nghiệp – nghiệp đen có quả báo đen, nghiệp đen có quả báo trắng, nghiệp trắng có quả báo trắng và nghiệp trắng có quả báo đen – bảy loại trí tuệ (*bojjhaṅga*) không đen cũng không trắng, và dẫn đến sự hao mòn của các nghiệp. AN.ii.236f.
 
 ## Notes

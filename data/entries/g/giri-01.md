@@ -5,7 +5,7 @@ base_headword: "Giri"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giri 01. A *Nigaṇṭha* who occupied the *Nigaṇṭhārāma*, later destroyed
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giri 01. Một vị *Nigaṇṭha* đã chiếm đóng *Nigaṇṭhārāma*, sau này bị Vaṭṭagāmaṇī phá hủy để lấy chỗ cho việc xây dựng Abhayagiri Vihāra. Tên của vị *Nigaṇṭha* đã được bao gồm trong tên của *Vihāra* mới. Mhv.xxxiii.43f, 83; Dpv.xix.14.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Brahmanimantanikasutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -30,6 +30,8 @@ The *Sutta* is so-called because it was preached on account of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmanimantanikasutta. Được thuyết tại Jetavana. Đức Phật kể cho các tỳ-kheo về chuyến viếng thăm của ngài đến Bakabrahma, người mang tà kiến rằng thế giới này là thường hằng. Đức Phật bảo Baka rằng tà kiến của ngài là sai lầm, do đó Māra, sau khi đã nhập vào một trong những vị *Brahma*, đã phản đối và hối thúc Đức Phật không được bướng bỉnh. Bản thân Baka đồng ý với Đức Phật, người nói với ngài về các cõi hiện hữu mà Baka không biết gì về chúng. Sau đó Baka nói rằng ngài sẽ biến mất khỏi sự hiện diện của Đức Phật, nhưng thấy mình không thể làm được như vậy. Đức Phật sau đó biến mất và lặp lại một bài kệ cho các *Brahma* nghe. Baka thừa nhận thất bại, nhưng Māra lại nhập vào một *Brahma* và yêu cầu Đức Phật không được truyền đạt giáo pháp của ngài cho những người khác. Đức Phật từ chối đồng ý với điều này.
+
+*Sutta* được gọi như vậy vì nó được thuyết do sự thách thức của Bakabrahma (MN.i.326ff). So sánh Bakabrahmasutta.
 
 ## Notes

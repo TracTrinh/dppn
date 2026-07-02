@@ -5,7 +5,7 @@ base_headword: "Mahā Nanda"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Nanda. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nanda. *v.l.* Mahā Nāma. Một tác giả của Haṁsavatī, người mà một số nhà chức trách gán cho quyền tác giả của Madhusāraṭṭhadīpanī trong Abhidhamma. Bode, 47, n.6;.
 
 ## Notes

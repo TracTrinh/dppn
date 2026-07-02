@@ -5,7 +5,7 @@ base_headword: "Daṇḍissara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Daṇḍissara. A special grant given by kings to mendicant artists. It is first
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍissara. Một khoản trợ cấp đặc biệt được các vị vua trao cho những nghệ sĩ khất thực. Nó được nhắc đến lần đầu vào thời Kassapa IV. (Cv.lii.3), và dường như đã được duy trì bởi Sena III. (Cv.liii.30) và Vijayabāhu I. (Cv.lx.22).
 
 ## Notes

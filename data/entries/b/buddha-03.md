@@ -5,7 +5,7 @@ base_headword: "Buddha"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Buddha 03. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddha 03. Một vị quan đại thần của Mahinda V. Ông là người gốc Māragallaka và, hợp tác cùng với Kitti, một vị đại thần khác, đã đánh bại quân đội Coḷa tại Palutthagiri. Ông đã nhận được ngôi làng quê hương của mình như một phần thưởng. Cv.lv.26-31.
 
 ## Notes

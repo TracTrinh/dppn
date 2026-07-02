@@ -5,7 +5,7 @@ base_headword: "Cūḷa Taṇhāsaṅkhayasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -33,6 +33,8 @@ Cūḷa Taṇhāsaṅkhayasutta, <span class="dppn-term dppn-term-t15" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Taṇhāsaṅkhayasutta, Cūla Taṇhāsaṅkhayasutta. Sakka đến thăm Gotama Buddha tại Migārāmatupāsāda và hỏi Ngài làm thế nào một vị tỳ-kheo có thể được giải thoát nhờ sự nhổ tận gốc các tham ái và trở nên tối thắng giữa chư thiên và loài người. Đức Phật giải thích ngắn gọn, và Sakka rời khỏi Ngài sau khi bày tỏ sự hài lòng của mình.
+
+Moggallāna, với mong muốn biết liệu Sakka có thực sự hiểu giáo lý hay không, đã đến thăm ông và hỏi ông câu hỏi tương tự. Sakka lảng tránh câu hỏi này và, cùng với Vessavaṇa, dẫn Moggallāna đi khắp cung điện của ông, Vejayanta, nhằm thể hiện uy lực của mình. Moggallāna làm cho cung điện rung chuyển và, khi nhìn thấy sự bối rối của Sakka, ông lại hỏi ông ta câu hỏi tương tự; Sakka đưa ra lời giải thích của Đức Phật, từng từ một, và Moggallāna thấy hài lòng. MN.i.251ff.
 
 ## Notes

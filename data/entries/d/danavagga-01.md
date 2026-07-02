@@ -5,7 +5,7 @@ base_headword: "Dānavagga"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dānavagga 01. The thirteenth chapter of the *Dukanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānavagga 01. Phẩm thứ mười ba của *Dukanipāta* trong Aṅguttaranikāya. AN.i.91f. (gr: AN.II.142-151)
 
 ## Notes

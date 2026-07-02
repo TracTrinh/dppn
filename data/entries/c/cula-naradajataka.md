@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nāradajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -39,6 +39,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nāradajātaka, Culla Nāradajātaka *v.l.* Cūḷa Nāradakassapajātaka (Ja 477). Bodhisatta từng là một vị Bà-la-môn giàu có, sau khi vợ mất, đã rút lui cùng con trai vào Himālaya và trở thành một tu sĩ. Một ngày nọ, một cô gái bị bọn trộm bắt cóc đã trốn thoát khỏi chúng và đến túp lều của tu sĩ khi Bodhisatta đi vắng. Người con trai đã sa ngã trước sự quyến rũ của cô và đồng ý quay trở về cùng cô đến những nơi chốn của con người. Cô đi trước và anh ta sẽ đi theo sau, nhưng người cha, nghe biết về những gì đã xảy ra trong lúc mình đi vắng, đã mô tả cho chàng trai trẻ những cạm bẫy của đời sống gia đình một cách vô cùng sinh động khiến anh ta từ bỏ ý định đi theo cô gái.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo hão huyền đã khuất phục trước những mưu mô của một thiếu nữ ở Sāvatthī. Mẹ của cô gái đã lợi dụng cô để dụ dỗ vị tỳ-kheo trở thành con rể của mình. Đức Phật cảnh báo ông rằng trong quá khứ, cũng chính cô gái này đã cố gắng phá hủy đời sống tâm linh của ông (Ja.iv.219-24).
+
+Trong bản thân Jātaka, con trai của Bodhisatta được gọi là Nārada (p.222), nhưng ở những nơi khác (Ja.i.416, 417), anh ta được nhắc đến là Cūḷa Tāpasa (có lẽ chỉ là một tước hiệu mô tả). Cũng liên quan đến cùng một vị tỳ-kheo đó mà Muṇikajātaka (Ja 30), Udañcanijātaka (Ja 106), Sālūkajātaka (Ja 286) và Araññajātaka (Ja 348) đã được kể lại.
 
 ## Notes

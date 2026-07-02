@@ -5,7 +5,7 @@ base_headword: "Samiddhisutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samiddhisutta 03. Preached at the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhisutta 03. Được thuyết tại Kalandakanivāpa trong Veḷuvana, để trả lời câu hỏi của Samiddhi về Māra là gì và những đặc tính riêng biệt của hắn là gì. SN.iv.38f.
 
 ## Notes

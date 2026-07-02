@@ -5,7 +5,7 @@ base_headword: "Bodhitalagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bodhitalagāma. A village on the road from <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhitalagāma. Một ngôi làng trên con đường từ Gaṅgāsiripura đến Samantakūṭa nơi Devappatirāja xây dựng một cây cầu. Cv.lxxxvi.21.
 
 ## Notes

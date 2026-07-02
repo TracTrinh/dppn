@@ -5,7 +5,7 @@ base_headword: "Mahā Ariyavaṁsasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -44,6 +44,12 @@ It is probably this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ariyavaṁsasutta. Về bốn dòng dõi bậc Thánh, được xem là cổ xưa và thanh tịnh, và được các sa-môn và Bà-la-môn sáng suốt của mọi thời đại kính trọng. Một vị tỳ-kheo bằng lòng với bất kỳ loại y nào; ngài không vì muốn có y mà dùng đến hành vi không phù hợp; ngài hoàn toàn không có sự ích kỷ hoặc tham lam đối với y; ngài cũng không tự đề cao mình vì sự bằng lòng đó. Tương tự đối với những nhu yếu phẩm khác. Ngài cũng vui thích trong sự từ bỏ và trong *bhāvanā*. Một tỳ-kheo sở hữu bốn *Ariyavaṁsā* này thực sự trở thành một bậc hiền trí, được chính Brahma ca ngợi (AN.ii.27ff).
+
+*Sutta* này rõ ràng là một chủ đề được yêu thích trong một bài pháp (AN­a.i.385, 386). Chú giải giải thích (AN­a.ii.494) rằng, ví dụ, bất kỳ ai thuyết giảng về ba *Ariyavaṁsā* đầu tiên (*catupaccayasantosa*) đều có thể đem toàn bộ Vinayapiṭaka vào trong cuộc thảo luận, trong khi một cuộc thảo luận về *bhāvanārāma­ariyavaṁsa* có thể bao gồm hai *Piṭaka* còn lại, chủ yếu là *nekkhammapāli* của Paṭisambhidāmagga, Dasuttarasutta của Dīghanikāya, Satipaṭṭhānasutta của Majjhimanikāya, và Niddesapariyāya của Abhidhamma.
+
+Tên đầy đủ của *Sutta* dường như là Catupaccayasantosabhāvanārāmamahā-ariyavaṁsasutta (AN­a.i.385). Nó có lẽ cũng được gọi vắn tắt là Vaṁsasutta.
+
+Có lẽ chính Mahā Ariyavaṁsasutta này đã được Vohārakatissa vô cùng kính trọng, đến nỗi ông đã ra lệnh bố thí khắp Tích Lan bất cứ khi nào “*Ariyavaṁsa*” được tụng đọc (Mhv.xxxvi.38; nhưng xem Mhv.Trs.258, n.6). Có nói rằng mọi người sẽ đi bộ năm do-tuần để nghe một vị tỳ-kheo thuyết giảng Ariyavaṁsa (vd., AN­a.i.386), và có đề cập đến các vị Mahā Ariyavaṁsabhāṇakā, những người, đánh giá từ những câu chuyện về họ (vd., SN­a.iii.151), là những nhà truyền giáo vô cùng tài năng và hùng hồn.
 
 ## Notes

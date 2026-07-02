@@ -5,7 +5,7 @@ base_headword: "Samiddhisutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samiddhisutta 02. Describes the unsuccessful attempt of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhisutta 02. Mô tả nỗ lực bất thành của Māra nhằm làm cho Samiddhi Thera (*q.v.*) sợ hãi. Māra đã tạo ra một tiếng động lớn gần ông, và Samiddhi đã đến hỏi ý kiến Đức Phật. Đức Phật giải thích cho ông rằng tiếng động đó là do Māra gây ra, và lần sau khi Māra đến, Samiddhi đã thách thức hắn làm điều tồi tệ nhất có thể. SN.i.119 f.
 
 ## Notes

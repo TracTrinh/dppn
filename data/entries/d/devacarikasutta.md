@@ -5,7 +5,7 @@ base_headword: "Devacārikasuttā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devacārikasuttā. A group of three *Suttas* describing how <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devacārikasuttā. Một nhóm ba *Sutta* mô tả cách Moggallāna viếng thăm các cõi chư thiên và học từ chư thiên cách họ đạt được hạnh phúc nhờ noi theo lời dạy của Đức Phật (SN.v.366f).
 
 ## Notes

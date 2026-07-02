@@ -5,7 +5,7 @@ base_headword: "Erukkaṭṭa"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -27,6 +27,6 @@ Erukkaṭṭa (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erukkaṭṭa (Erukkhāvūra). Một ngôi làng ở Nam Ấn, đã bị Kulasekhara chiếm đóng trong cuộc chiến của ông với lực lượng Sinhalese dưới sự chỉ huy của Laṅkāpura. Cv.lxxvi.149, 167.
 
 ## Notes

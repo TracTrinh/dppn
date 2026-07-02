@@ -5,7 +5,7 @@ base_headword: "Devadāniya"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devadāniya. A robber. See <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadāniya. Một tên cướp. Xem Mahā Latāpasādhana và Bandhula.
 
 ## Notes

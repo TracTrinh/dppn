@@ -5,7 +5,7 @@ base_headword: "Gonnagāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gonnagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonnagāma. Một ngôi làng ở Rohaṇa, được Dappula trao cho Rājavihāra (Cv.xlv.58).
 
 ## Notes

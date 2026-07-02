@@ -5,7 +5,7 @@ base_headword: "Sammasāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sammasāsutta. A detailed description of the “inward handling.” SN.ii.107f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammasāsutta. Một sự mô tả chi tiết về “sự quán xét nội tâm.” SN.ii.107f.
 
 ## Notes

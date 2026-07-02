@@ -5,7 +5,7 @@ base_headword: "Gamika"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gamika. Father of the nun <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gamika. Cha của tỳ-kheo-ni Mahā Tissā. Dpv.xviii.39.
 
 ## Notes

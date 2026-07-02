@@ -5,7 +5,7 @@ base_headword: "Gomatakandarā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gomatakandarā. A grotto some distance from <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gomatakandarā. Một hang động cách Veḷuvana ở Rājagaha một khoảng. Các vị tỳ-kheo từ xa đến Rājagaha được chu cấp chỗ ở tại đây, và Dabba Mallaputta được giao phụ trách những sự sắp xếp này (Vin.ii.76; iii.160).
 
 ## Notes

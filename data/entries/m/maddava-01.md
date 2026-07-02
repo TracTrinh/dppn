@@ -5,7 +5,7 @@ base_headword: "Maddava"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maddava 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddava 01. Vua của Benares. Bodhisatta là cố vấn Senaka của ông. Xem Dasaṇṇakajātaka. Ja 401, Ja.iii.337.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambhūta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -45,6 +45,12 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhūta 03. Sambhūta Thera. Ông thuộc một gia đình dòng dõi và gia nhập Saṅgha dưới sự hướng dẫn của Ānanda, sau khi Đức Phật viên tịch, rồi theo thời gian chứng đắc quả vị *Arahant*.
+
+Ông sống trong niềm an lạc của sự giải thoát cho đến một trăm năm sau khi Đức Phật viên tịch, và khi tà thuyết Vajjiputtaka phát sinh, Yasa Kākaṇḍakaputta đã tìm đến ông để cầu sự giúp đỡ. Lúc đó ông sống tại Ahogaṅgapabbata và được gọi là Sānavāsī vì ông mặc y bằng sợi gai. Tại cuộc hội họp của các bậc *Arahant* tổ chức tại Ahogaṅgapabbata, Sambhūta đề nghị họ nên tìm sự hỗ trợ của Soreyya Revata. Cùng nhau họ đến gặp Sabbakāmī, và Sambhūta chất vấn vị này về “Mười Điều.” Sambhūta là một trong các vị tỳ-kheo được cử vào ủy ban để thảo luận các điểm được nêu ra, và khi các điều đó bị tuyên bố là tà thuyết, ông đã tham gia tổ chức kỳ Kết Tập lần thứ Hai. Vin.ii.298 f., 303ff.; Thag­a.i.390 f.; Mhv.iv.18, 57; Dpv.iv.49; v.22; Vin-a.i.34f. Một loạt các bài kệ do Sambhūta thốt lên, do niềm xúc động chính đáng trước sự xuyên tạc Dhamma và Vinaya mà các Vajjiputtaka đề xuất, được đưa vào Theragāthā (Thag.vss.291-4).
+
+Trong quá khứ, vào một thời kỳ không có Đức Phật nào trên thế gian, Sambhūta là một *Kinnara* sống bên bờ sông Candabhāgā, và khi thấy một vị Pacceka Buddha, ông đã đảnh lễ vị ấy và dâng cúng hoa *ajjuna*.
+
+Ông rõ ràng là cùng một người với Ajjunapupphiya trong Apadāna. Ap.i.450.
 
 ## Notes

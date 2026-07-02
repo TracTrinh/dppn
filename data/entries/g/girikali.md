@@ -5,7 +5,7 @@ base_headword: "Girikālī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girikālī (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girikālī (Girikārī). Con gái của vị tế sư của Kākavaṇṇatissa. Cô đã trở thành một tỳ-kheo-ni, đắc quả vị *Arahant*, và trở nên nổi tiếng như một vị đạo sư xuất chúng về Vinaya. Dpv.xviii.20.
 
 ## Notes

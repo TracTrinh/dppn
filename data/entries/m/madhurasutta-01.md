@@ -5,7 +5,7 @@ base_headword: "Madhurasutta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,6 @@ Madhurasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurasutta 01. Avantiputta, vua của Madhurā, đến thăm Mahā Kaccāna, người đang lưu trú tại Gundāvana ở Madhurā, một thời gian sau khi Đức Phật nhập diệt, và chất vấn ngài về những tuyên bố của các Bà-la-môn về sự ưu việt so với các đẳng cấp khác. Kaccāna chỉ ra rằng của cải ban cho quyền lực đối với tất cả, không chỉ riêng các Bà-la-môn. Một Bà-la-môn trải nghiệm kết quả của các hành động cả tốt và xấu của mình, trong thế giới này và trong thế giới tiếp theo, cũng giống như các thành viên của các đẳng cấp khác. Một tu sĩ Bà-la-môn không nhận được nhiều sự tôn kính hơn so với một tu sĩ thuộc các đẳng cấp khác. Avantiputta chấp nhận Tôn giáo của Đức Phật. MN.ii.83-90; so sánh Ambaṭṭhasutta; để biết về cuộc thảo luận, xem Dial.i.105.
 
 ## Notes

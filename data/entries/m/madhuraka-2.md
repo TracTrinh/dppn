@@ -5,7 +5,7 @@ base_headword: "Mādhuraka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mādhuraka. The classifying name for an inhabitant of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mādhuraka. Tên gọi phân loại cho một cư dân của Madhurā, vd., Mil.331.
 
 ## Notes

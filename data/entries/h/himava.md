@@ -5,7 +5,7 @@ base_headword: "Himavā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -76,6 +76,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="43" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Himavā, Himālaya, Himācala, Himavanta, etc. Tên gọi dành cho dãy Himālaya. Đây là một trong bảy dãy núi bao quanh Gandhamādana (Snp­a.i.66). Nó trải rộng ba trăm ngàn do-tuần (Snp­a.i.224), có tám mươi bốn ngàn đỉnh núi, đỉnh cao nhất cao năm trăm *yojana* (Snp­a.ii.443). Trong Himavā có bảy hồ lớn, mỗi hồ dài, rộng và sâu năm mươi do-tuần – Anotatta, Kaṇṇamuṇḍa, Rathakāra, Chaddanta, Kuṇāla, Mandākinī và Sīhappapātaka; những hồ này không bao giờ bị mặt trời làm nóng lên (AN.iv.101; Snp­a.ii.407; cf. AN­a.ii.759). Từ Himavā chảy ra năm trăm con sông. Snp­a.ii.437; nhưng theo Mil.114, chỉ có mười con sông trong số đó được tính đến, số còn lại chỉ chảy gián đoạn. Mười con sông đó là: Gaṅgā, Yamunā, Aciravatī, Sarabhū, Mahī, Sindhu, Sarassatī, Vettavatī, Vītaṁsā và Candabhāgā.
+
+Trong nhiều Bổn sinh, Himavā được nhắc đến như nơi các vị khổ hạnh lui về khi rời bỏ đời sống gia đình. Nơi đây đầy rừng cây và lùm cây, thích hợp cho các vị ẩn sĩ (ví dụ, SN­a.i.265). Trong Himavā có một đỉnh núi tên là Mahā Papāta, nơi các vị Pacceka Buddha viên tịch (Snp­a.i.129). Các Nāga đến Himavā để sinh con (SN­a.iii.120; cf. SN.v.63). Ngọn núi này thường được dùng trong các ví dụ; khi đó nó được gọi là *pabbatarājā* (e.g., SN.ii.137; v.464; AN.iii.311; MN.iii.166, etc.). Trưởng lão Sīvalī có lần đã đến đó từ Sāvatthī cùng với năm trăm người khác. Cuộc hành trình mất tám ngày (chi tiết được nêu tại Thag­a.ii.138; Paṭis-a.252).
+
+Vùng đất quanh Himavā được Trưởng lão Majjhima cải đạo (Mhv.xii.41). Ngài được bốn vị khác tháp tùng: Kassapagotta, Mūladeva (Alakadeva), Sahadeva và Dundubhissara (Dpv.viii.10; Mhvṭ.317). Majjhima thuyết giảng Dhammacakkappavattanasutta và tám mươi crore người chứng đắc giải thoát. Năm vị Trưởng lão này đã cải đạo năm vương quốc, và mỗi vị đã truyền giới xuất gia cho một trăm ngàn người (Mhv.xii.42f).
+
+Chư thiên đã mang đến cho Asoka sử dụng, từ Himālaya, những cành *Nāgalatā* để làm sạch răng, các loại trái cây bổ dưỡng, me rừng, chiêu liêu và xoài (Mhv.v.25f), trong khi đó, để làm nền móng cho Mahā Thūpa, các *sāmaṇera* có thần thông đã mang đến loại đất thơm ngọt *marumba* (Mhv.xxix.9).
+
+Kuṇālajātaka (Ja 536, *q.v.*) được thuyết giảng tại vùng Himavā. Đức Phật đã đưa các hoàng tử Sākyan đến đó và cho họ xem các đặc điểm khác nhau, bao gồm nhiều đỉnh núi, như: Maṇipabbata, Hiṅgulapabbata, Añjanapabbata, Sānupabbata, và Phalikapabbata (Ja.v.415). Vào những ngày trai giới, chư thiên tụ họp tại Himavā và luận đàm. Vin-a.iv.759.
 
 ## Notes

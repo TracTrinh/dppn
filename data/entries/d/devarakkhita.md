@@ -5,7 +5,7 @@ base_headword: "Devarakkhita"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devarakkhita. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devarakkhita. Một tên khác của Dhammakitti, tác giả của Nikāya Saṅgraha. PLC.243.
 
 ## Notes

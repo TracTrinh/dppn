@@ -5,7 +5,7 @@ base_headword: "Gijjhakūṭa"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gijjhakūṭa 02. A tank in Ceylon, built by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gijjhakūṭa 02. Một hồ chứa nước ở Tích Lan, do Upatissa II xây dựng. Cv.xxxvii.185.
 
 ## Notes

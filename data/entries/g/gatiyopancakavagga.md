@@ -5,7 +5,7 @@ base_headword: "Gatiyopañcakavagga"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gatiyopañcakavagga. The eleventh chapter of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatiyopañcakavagga. Chương thứ mười một của Saccasaṁyutta và là chương cuối cùng của Saṁyuttanikāya. SN.v.474f.
 
 ## Notes

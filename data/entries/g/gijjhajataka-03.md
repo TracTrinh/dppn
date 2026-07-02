@@ -5,7 +5,7 @@ base_headword: "Gijjhajātaka"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -34,6 +34,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gijjhajātaka 03. (Ja 427). Xưa kia Bodhisatta là một con kền kền ở Gijjhapabbata. Con trai của ông, Supatta, là vua của loài kền kền; anh ta rất mạnh mẽ và phụng dưỡng cha mẹ mình. Một ngày nọ, bất chấp lời khuyên của cha mình, anh ta đã bay ở vùng không khí thượng tầng và bị gió *Veramba* quật chết.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo không vâng lời, xuất thân từ một gia đình tốt, người đã phản đối việc được hướng dẫn về các bổn phận của mình (Ja.iii.483f.; cf. Migalopajātaka; xem thêm Dubbacajātaka và Indasamānagottajātaka).
+
+Catudvārajātaka (Ja.iv.1ff) đã được kể liên quan đến chính vị tỳ-kheo này.
 
 ## Notes

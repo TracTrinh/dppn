@@ -5,7 +5,7 @@ base_headword: "Samaṇaguttaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samaṇaguttaka. A bandit, employed by the heretics to kill <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇaguttaka. Một tên cướp, được các ngoại đạo thuê để giết Moggallāna Thera. Xem Sarabhaṅgajātaka (Ja 522). Ja.v.126.
 
 ## Notes

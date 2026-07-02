@@ -5,7 +5,7 @@ base_headword: "Girimekhalā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girimekhalā. Con voi của Māra. Nó cao một trăm năm mươi do tuần.
+
+Khi Māra thúc giục nó tiến lên chống lại Đức Phật tại cội Bồ-đề, nó đã tiến tới và quỳ gối xuống. Ja.i.72, 73, 74; MN­a.i.384; Mbv.31; Windisch, “*Māra and Buddha*,” 199; Bv­a.239; Mhv­ṭ.473.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devadatta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -277,6 +277,136 @@ Only once is mention made (AN.iv.402f) of the text of a sermon by Devadatta. <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadatta. Con trai của Sākiyan Suppabuddha (cậu của Đức Phật) và vợ ông là Amitā. Ông có một em gái là Bhaddakaccānā, người kết hôn với hoàng tử Siddhattha. Mhv.ii.22; Mhv­ṭ.136; Dhp­a.iii.44. *Dulva* (Rockhill, p.13) gọi ông là con trai của Amitodana và anh em của Ānanda. Điều này được *Mahā Vastu* (Mvu.ii.69) ủng hộ, khi nói rằng sau khi Đức Phật xuất gia, Devadatta đã cố cám dỗ Bhaddakaccānā.
+
+Trong một đoạn của Vinaya (ii.189), Devadatta được nói đến là Godhiputta. Điều này có nghĩa là mẹ ông tên Godhī chăng? Các sách Sanskrit (e.g., *Mahā Vastu*) kể nhiều câu chuyện thời trẻ của ông cho thấy ác ý của ông. Khi Siddhattha sắp phô bày tài nghệ của mình trong các môn nghệ thuật, một con voi trắng đang được đưa đến cho Ngài, và Devadatta, vì ganh tị, đã giết nó. Xác con voi chặn các cổng thành cho đến khi Siddhattha ném nó ra ngoài. Các Chú giải Pāli (e.g., SN­a.i.62) nói rằng Devadatta có sức mạnh của năm con voi. Một lần khác, ông cãi nhau với Siddhattha, người phản đối việc ông bắn một con ngỗng.
+
+Khi Đức Phật viếng Kapilavatthu sau khi Giác ngộ và thuyết pháp cho các Sākiyan, Devadatta được cải hóa cùng với các bạn của ông là Ānanda, Bhagu, Kimbila, Bhaddiya, Anuruddha, và thợ cạo của họ, Upāli, rồi ông tìm đến Đức Phật tại Anupiyā và gia nhập Tăng đoàn (Vin.ii.182). Trong mùa an cư tiếp theo, Devadatta đạt được năng lực *iddhi* có thể có đối với những người vẫn còn thuộc thế gian (*puthujjanika-iddhi*) (Vin.ii.183; chi tiết xem Rockhill, p.85). Trong một thời gian, dường như ông được hưởng danh dự lớn trong Tăng đoàn, và trong một đoạn, ông được nhắc trong danh sách mười một vị Trưởng lão chính mà Đức Phật đều nói lời tán thán.(Ud.i.5. Lại nữa, trong Vin.ii.189 Sāriputta được nhắc là đã đi khắp Rājagaha hát lời ca ngợi Devadatta; xem thêm Dhp­a.i.64f). Về sau Devadatta bị nghi có những ý muốn xấu (e.g., SN.ii.156).
+
+Khoảng tám năm trước khi Đức Phật qua đời, Devadatta, háo hức được lợi dưỡng và ân sủng, đồng thời ganh tị với danh tiếng của Đức Phật, đã cố gắng lôi kéo Ajātasattu.
+
+Tường thuật sau đây được tóm lược từ nhiều đoạn trong các sách, chủ yếu là Vin.ii.184ff; iii.171f; 174f; iv.71; Dhp­a.i.112ff; iii.154; AN.iii.123, 402; ii.73; iv.160; Ja.i.113, 142, 185, 490; iv.37, 158; v.333ff; vi.129f., etc.
+
+Ông hóa thành hình một đứa trẻ có đai bằng rắn, và đột nhiên xuất hiện trên đùi Ajātasattu, làm ông ta hoảng sợ. Rồi ông trở lại hình dạng của mình, và Ajātasattu, rất ấn tượng, dành cho ông sự tôn kính lớn lao và, người ta nói, đến thăm ông sáng chiều với năm trăm cỗ xe và hằng ngày gửi cho ông năm trăm phần thức ăn (Theo Ja.i.186, 508, Ajātasattu xây cho ông một tu viện tại Gayāsīsa và hằng ngày gửi cho ông năm trăm nồi cơm có hương vị ba năm cùng những món ngon nhất. Những bữa ăn này hấp dẫn đến nỗi một số người theo Đức Phật đến đó ăn rồi lén lút trở về).
+
+Điều này khích lệ Devadatta trong các mưu đồ của ông, và ông nảy ra ý tưởng thay thế Đức Phật làm người lãnh đạo Tăng đoàn. Ngay khi ý nghĩ này khởi lên trong ông, năng lực *iddhi* của ông biến mất.
+
+Kakudha người Koḷiyan, môn đồ của Moggallāna, tái sinh làm một *manomayakāyikadeva*, biết được kế hoạch của Devadatta và báo cho Moggallāna. Vị sau thuật lại việc ấy với Đức Phật, nhưng Đức Phật nói không cần bàn về điều đó vì cuối cùng Devadatta sẽ tự bộc lộ chính mình.
+
+Một thời gian sau, Devadatta đến gặp Đức Phật và đề nghị rằng quyền lãnh đạo Tăng đoàn nên được trao cho ông, xét vì Đức Phật đang đến tuổi già. Đức Phật khinh bác đề nghị ấy, nói: “Ngay cả cho Sāriputta hay Moggallāna Ta cũng không trao Tăng đoàn, thì lẽ nào Ta lại trao cho ngươi, kẻ hèn hạ, đáng bị nhổ ra như nước bọt?” (Vin.ii.188. Sự kiện này được nhắc đến trong Abhayarājakumārasutta, MN.i.393). Devadatta biểu lộ sự oán giận lớn và thề báo thù. Do đó, theo đề nghị của Đức Phật, một tuyên cáo được ban hành cho Tăng đoàn rằng trong bất cứ việc gì do Devadatta làm nhân danh Đức Phật, Pháp và Tăng đoàn, không ai ngoài Devadatta được xem là chịu trách nhiệm.
+
+Chính lúc này Devadatta xúi Ajātasattu giết cha mình là Bimbisāra, trong khi chính ông chuẩn bị giết Đức Phật (Ap.ii.300f giải thích rằng tất cả các kế hoạch này của Devadatta nhằm hại Đức Phật là kết quả của những ác nghiệp trước kia của Đức Phật).
+
+Ajātasattu đồng ý, và cung cấp cho Devadatta các cung thủ hoàng gia để bắn Đức Phật. Những người này được bố trí trên các con đường khác nhau, một người trên một đường, hai người trên đường khác, và cứ thế đến mười sáu, và kế hoạch được sắp đặt sao cho không một ai trong họ sống sót để kể lại câu chuyện. Nhưng khi Đức Phật đến gần người đầu tiên, người ấy kinh sợ trước uy nghi của Đức Phật, và thân cứng đờ. Đức Phật nói lời từ ái với người ấy, và người ấy, ném bỏ vũ khí, thú nhận tội ác mình định làm. Đức Phật liền thuyết pháp cho người ấy và, sau khi cải hóa người ấy, sai người ấy trở về bằng một con đường khác. Các nhóm cung thủ khác, mệt mỏi vì chờ đợi, lần lượt bỏ cuộc canh chừng và đi mất. Các nhóm khác nhau được năng lực *iddhi* của Đức Phật dẫn đến Ngài, và Ngài thuyết pháp cho họ và cải hóa họ. Người đầu tiên trở về nói với Devadatta rằng ông không thể giết Đức Phật vì năng lực *iddhi* lớn lao của Ngài.
+
+Devadatta bấy giờ quyết định tự mình giết Đức Phật. Một ngày nọ, khi Đức Phật đang đi trên sườn Gijjhakūṭa, ông đẩy một tảng đá lớn xuống phía Ngài. Hai đỉnh núi bật lên từ mặt đất, nhờ đó chặn đà lao xuống của nó, nhưng một mảnh vỡ trúng chân Đức Phật, khiến máu chảy ra. Vì rất đau, Ngài được đưa đến Maddakucchi, và từ đó đến Jīvakambavana, nơi Jīvaka chăm sóc Ngài. Sau sự kiện này, các vị sư muốn Đức Phật có người bảo vệ, nhưng Ngài từ chối, nói rằng không ai có thể đoạt mạng một Tathāgata.
+
+Nỗ lực kế tiếp của Devadatta nhằm lấy mạng Đức Phật là thuyết phục những người giữ voi thả một con voi hung dữ, Nālāgiri (hay Dhanapāla), say rượu thốt nốt, ra con đường Đức Phật sẽ đi qua. Tin tức lan nhanh, và Đức Phật được cảnh báo, nhưng Ngài từ chối quay lại. Khi con voi tiến tới, Ngài bao phủ nó bằng lòng từ, và nhờ vậy hoàn toàn chế phục nó.
+
+Hành động tàn bạo này khiến Devadatta rất mất lòng dân, và ngay cả Ajātasattu cũng bị sức ép dư luận buộc phải rút sự bảo trợ dành cho Devadatta, khiến lợi dưỡng và danh dự của ông giảm sút (Vin-a.iv.811. Lúc này, Kokālika rất hữu ích cho Devadatta, Ja. ii.438). Do đó, với sự giúp đỡ của vài người khác, Kokālika, Kaṭamorakatissa, Khaṇḍadeviyāputta và Samuddadatta, ông quyết định gây chia rẽ trong Tăng đoàn. Năm người này theo đó đến gặp Đức Phật và yêu cầu áp đặt năm điều luật cho tất cả thành viên của Tăng đoàn:
+
+- (1) Rằng các vị sư phải sống suốt đời trong rừng,
+- (2) Rằng họ không được nhận lời mời dùng bữa, mà sống hoàn toàn bằng thức ăn khất thực,
+- (3) Rằng họ chỉ được mặc y làm từ giẻ rách bị vứt bỏ và không nhận y từ cư sĩ,
+- (4) Rằng họ phải sống dưới gốc cây chứ không dưới mái nhà,
+- (5) Rằng họ phải hoàn toàn kiêng cá và thịt.
+
+Câu trả lời của Đức Phật là những ai cảm thấy có khuynh hướng như vậy có thể theo các điều luật này - ngoại trừ việc ngủ dưới gốc cây trong mùa an cư - nhưng Ngài từ chối đặt các điều luật ấy thành bắt buộc. Sự từ chối này làm Devadatta vui mừng; ông đi khắp nơi cùng phe của mình, tuyên bố rằng Đức Phật thiên về xa hoa và sung túc. Những người ngu tin ông, và bất chấp lời Đức Phật cảnh báo về trọng tội đáng sợ là gây chia rẽ trong Tăng đoàn, Devadatta báo cho Ānanda biết ý định tổ chức một buổi họp *uposatha* không có Đức Phật, và sau khi thuyết phục năm trăm vị sư mới thọ giới từ Vesālī theo mình, ông đi đến Gayāsīsa. Nhân dịp này ông cố bắt chước Đức Phật, giữ hai vị đệ tử chính bên cạnh mình (Dhp­a.i.122). Ba *Sutta*, hai Devadattasutta và Mahāsāropamasutta, được thuyết sau sự kiện này.
+
+Trong số những người theo Devadatta cũng có một số Tỳ-kheo-ni, đứng đầu là Thullanandā, người không bao giờ chán ca ngợi ông (Vin.iv.66, 335). Mẹ của Kumāra Kassapa (*q.v.*) cũng trước tiên gia nhập Tăng đoàn dưới Devadatta, nhưng khi ông tố cáo bà sau khi phát hiện bà mang thai, bà tìm nơi nương tựa nơi Đức Phật. Một số Sākiyan nữa dường như cũng thích Devadatta hơn Đức Phật - e.g., Daṇḍapāṇī (MN­a.i.298).
+
+Đức Phật sai Sāriputta và Moggallāna đến Gayāsīsa để đưa những người mê lầm trở về. Devadatta, tin rằng họ đến để theo mình, vui mừng, và bất chấp lời cảnh báo của Kokālika, đã đón tiếp họ. Đêm ấy ông thuyết cho các vị sư rất khuya, và vì muốn nghỉ, ông xin Sāriputta nói với hội chúng. Sāriputta và Moggallāna thuyết pháp hiệu quả đến nỗi họ thuyết phục được năm trăm vị sư trở về cùng họ. Kokālika đá vào ngực Devadatta để đánh thức ông và báo tin cho ông. Khi Devadatta biết chuyện đã xảy ra, máu nóng trào ra từ miệng ông, và trong chín tháng ông nằm bệnh nặng (tường thuật Vinaya bỏ qua việc đá, nhưng việc ấy được nhắc trong Dhp­a.i.143 và Ja.i.491).
+
+Khi cái chết đến gần, ông muốn gặp Đức Phật, dù Ngài đã tuyên bố rằng điều ấy sẽ không thể xảy ra trong đời này. Tuy nhiên, Devadatta bắt đầu cuộc hành trình trên một chiếc cáng, nhưng khi đến Jetavana, ông dừng cáng bên bờ ao và bước xuống để rửa. Mặt đất mở ra và ông bị nuốt vào Avīci, nơi, sau khi chịu khổ trong một trăm nghìn *kappa*, ông sẽ tái sinh làm một Pacceka Buddha tên Atthissara (*Saddharmapuṇḍarīka* (chap.xi.) nói ông sẽ là một vị Phật tên *Devarāja*). Người ta nói rằng vào khoảnh khắc bị đất nuốt, Devadatta đọc một kệ trong đó ông tuyên bố rằng ông không có nơi nương tựa nào khác ngoài Đức Phật (Dhp­a.i.147; xem thêm Mil.108). Chính hành động cuối cùng này của Devadatta là điều Đức Phật đã nghĩ đến khi Ngài đồng ý cho Devadatta xuất gia (ông là một trong năm người bị đất nuốt trong thời Đức Phật. Mil.101).
+
+Dhammapada Commentary chứa một tường thuật sống động về những cực hình của Devadatta trong Avīci (Dhp­a.i.147; cũng Paṭis-a.79. Thân ông trong địa ngục dài một trăm do-tuần). Trong các đời trước, ông cũng đã từng bị đất nuốt, khi là vua Kalābu và khi là Mahā Patāpa. Khi dân chúng nghe tin Devadatta chết, họ tổ chức một lễ hội lớn, như họ từng làm ngày xưa khi Piṅgala chết, người vốn là một hiện thân của Devadatta (Dhp­a.i.126f).
+
+Jātaka Commentary chứa nhiều câu chuyện cho thấy sự thù địch của Devadatta đối với Đức Phật không chỉ giới hạn trong đời này. Nó đã tồn tại qua nhiều *kappa*, và dù đôi khi ông bị ngăn trở trong các nỗ lực làm hại Bodhisatta, trong nhiều trường hợp ông đã thành công trong việc thực hiện ý muốn của mình. Khởi đầu của sự thù địch này, vốn tăng lên theo thời gian, được mô tả trong Serivāṇijajātaka (Ja 3).
+
+Một trong các vấn nạn của Milinda (200ff) như sau: “Tại sao Devadatta, người ác đến như vậy, lần này qua lần khác lại vượt trội hơn Bodhisatta về quyền lực?” Một danh sách các trường hợp như vậy được đưa ra. Câu trả lời của Nāgasena là Devadatta đã làm nhiều việc thiện, như bảo vệ người nghèo, xây cầu, etc.
+
+Sự xấu ác của Devadatta và lòng thù ghét của ông đối với Bodhisatta được minh họa trong nhiều Jātaka khác ngoài những truyện đã nhắc - e.g.,
+
+- Kakkara (Ja 209)
+- Kapi (Ja 250)
+- Kukkura (Ja 22)
+- Kuruṅga,
+- Kuruṅgamiga (Ja 21)
+- Khaṇḍahāla (Ja 542)
+- Godha (Ja 138)
+- Campeyya (Ja 506)
+- Cūḷa Nandiya (Ja 222)
+- Chaddanta (Ja 514)
+- Tacchasūkara (Ja 492)
+- Tayodhamma, (Ja 58)
+- Tittira,
+- Dummedha (Ja 50)
+- Dhammaddhaja (Ja 220)
+- Dhonasākha (Ja 353)
+- Paṇḍara (Ja 518)
+- Bhūridatta (Ja 543)
+- Maṇicora (Ja 194)
+- Mahā Ummagga (Ja 546)
+- Mahā Kapi (Ja 407)
+- Mahā Nāradakassapa (Ja 544)
+- Mahā Paduma (Ja 472)
+- Mahā Sīlava (Ja 51)
+- Romaka (Ja 277)
+- Laṭukika (Ja 357)
+- Vānara (Ja 342)
+- Vānarinda (Ja 57)
+- Vessantara (Ja 547)
+- Saccaṅkira (Ja 73)
+- Sattigumba (Ja 503)
+- Sāliya (Ja 367)
+- Suṃsumāra (Ja 208)
+- Suvaṇṇakakkaṭa (Ja 389).
+
+Trong Dhammajātaka (Ja 457), Devadatta được nói đến là đã từng là chính hiện thân của sự phi Pháp, *adhamma*. Trong vài câu chuyện, sự xảo quyệt của ông được nhấn mạnh - e.g.,
+
+- như con chó rừng trong Sigālājātaka (Ja 113),
+- như kẻ say rượu trong Sigāla (Ja 2) và cũng trong Manoja (Ja 397).
+
+Trong Kālabāhujātaka (Ja 329), ông được trình bày là rất ganh tị, và sự giả dối cùng hai mặt của ông được nhấn mạnh trong
+
+- Cetiya (Ja 422),
+- Kakkāru (Ja 326) và
+- Somanassa (Ja 505).
+
+Sự vô ơn của ông được minh họa trong những câu chuyện như
+
+- Anta (Ja 259),
+- Amba (Ja 474),
+- Asampadāna (Ja 131),
+- Upāhana (Ja 231),
+- Guttila (Ja 243),
+- Javasakuṇa (Ja 308),
+- Dūbhiyamakkaṭa (Ja 174),
+- Nigrodha (Ja 445),
+- Mahā Kapi (Ja 407),
+- Ruru (Ja 482) và
+- các Sīlavanāgajātaka (Ja 72),
+
+trong khi những truyện khác, như
+
+- Apaṇṇaka (Ja 1),
+- Ubhatobhaṭṭha (Ja 139),
+- Kandagalaka (Ja 210),
+- Kāsāva (Ja 221),
+- Giridanta (Ja 184),
+- Jambuka (Ja 335),
+- Jambukhādaka (Ja 295),
+- Parantapa (Ja 416),
+- Lakkhaṇa (Ja 11),
+- Vinīlaka (Ja 160),
+- Virocana (Ja 143),
+- Vīraka (Ja 204),
+- Sabbadāṭha (Ja 241),
+- Samuddavāṇija (Ja 466),
+- Sammodamāna (Ja 33), nói về sự ngu dại và bất tài của ông.
+
+Có nói rằng bất chấp lòng thù ghét lớn lao mà Devadatta bày tỏ đối với Ngài, về phần mình Đức Phật không nuôi dù chỉ một cảm giác ác ý nào (e.g., Mil.410).
+
+Chỉ một lần có nhắc đến (AN.iv.402f) văn bản một bài thuyết pháp của Devadatta. Candikāputta thuật lại điều này cho Sāriputta, vị này nhân đó nói một bài pháp cho các vị sư.
 
 ## Notes

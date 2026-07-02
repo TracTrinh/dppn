@@ -5,7 +5,7 @@ base_headword: "Gajabhuja"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gajabhuja 01. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajabhuja 01. Một viên quan của Māṇābharaṇa (2). Ông bị Māyāgeha đánh bại tại Samīrakkha (Cv.lxxii.10).
 
 ## Notes

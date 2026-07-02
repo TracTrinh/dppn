@@ -5,7 +5,7 @@ base_headword: "Cūḷanī Brahmadatta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -39,6 +39,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷanī Brahmadatta. Vua của Uttarapañcāla, trong quốc gia Kampilla. Quốc sư của ông là Kevaṭṭa. Để biết câu chuyện của họ, xem Mahā Ummaggajātaka (Ja 546). Cūḷanī được đồng nhất với Sāriputta (Ja.vi.478). Ông cũng được gọi là Cūḷanīya (Ja.vi.437, 477) và Cūḷaneyya (Ja.vi.437).
+
+Petavatthu (Pv.ii.13; Pv-a.160ff) chứa một câu chuyện về một hoàng hậu của Cūḷanī Brahmadatta tên là Ubbarī, người mà ông đã gặp khi đang lang thang trong vương quốc của mình dưới lớp cải trang thành một thợ may. Ở đây nhà vua cũng được gọi là Cūḷanīputta (vs.8.9), và người chú giải giải thích (Pv-a.164) rằng Cūḷanī là tên của cha ông; người ta nói rằng (Pv.ii.13, vs.9, 10) có vô số vị vua của Pañcāla mang cái tên đó.
 
 ## Notes

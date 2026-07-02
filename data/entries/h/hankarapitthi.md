@@ -5,7 +5,7 @@ base_headword: "Haṅkārapiṭṭhi"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Haṅkārapiṭṭhi. A place in Ceylon outside the gate of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṅkārapiṭṭhi. Một địa danh ở Tích Lan, bên ngoài cổng thành Kapallakkhaṇḍa. Tại đó, Iḷanāga đã giáng cho người Lambakaṇṇa, những kẻ đã nổi dậy chống lại ông, một thất bại nặng nề. Mhv.xxxv.34.
 
 ## Notes

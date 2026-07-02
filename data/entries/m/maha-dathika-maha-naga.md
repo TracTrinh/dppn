@@ -5,7 +5,7 @@ base_headword: "Mahā Dāṭhika Mahā Nāga"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -41,6 +41,8 @@ From the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dāṭhika Mahā Nāga. Em trai của Bhātikābhaya và là vua của Tích Lan trong mười hai năm (67-79 CN). Ông đã tạo một khoảng sân bằng đá *kiñcikkha* đặt trên vữa xung quanh Mahā Thūpa, và xây dựng *Thūpa* Ambatthala, làm cho nó trở nên vững chãi dẫu phải liều mạng sống của chính mình. Ông bố trí những chiếc ghế cho các vị Pháp sư tại tất cả các *vihāra* ở Tích Lan, và xây dựng khuôn viên xung quanh Cetiyagiri, tổ chức một buổi lễ kỷ niệm lớn được gọi là Giribhaṇḍapūjā (*q.v.*).
+
+Từ Kadambanadī đến Cetiyagiri ông trải thảm để khách hành hương có thể bước đi thoải mái. Ông đã xây dựng các *vihāra* Maṇināgapabbata, Kalanda, Samudda, và Cūḷānāgapabbata, và dâng tặng đất để các tỳ-kheo sử dụng tại các *vihāra* Pāsāṇadīpaka và Maṇḍavāpi để tỏ lòng biết ơn đối với những ân huệ mà các sa-di của những tu viện này đã dành cho ông. Ông có hai con trai là Āmaṇḍagāmaṇī Abhaya và Kaṇirajānutissa, cả hai đều nối ngôi vua. Mhv.xxxiv. 68ff.; xxx*v.l.*9; Dpv.xxi.34. Ông có một vị vương phi tên là Damiḷadevī (có vẻ là một phu nhân người Tamil) qua đời khi còn trẻ. AN­a.i.13.
 
 ## Notes

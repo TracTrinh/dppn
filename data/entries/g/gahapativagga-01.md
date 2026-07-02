@@ -5,7 +5,7 @@ base_headword: "Gahapativagga"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gahapativagga 01. The sixth section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahapativagga 01. Phần thứ sáu của Majjhimanikāya. MN.i.339-413.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Madhuraddhamakkāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhuraddhamakkāra. A district in South India, the forces of which were among t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhuraddhamakkāra. Một quận ở Nam Ấn Độ, lực lượng của nơi này nằm trong số các đồng minh của Kulasekhara. Cv.lxxvii.2.
 
 ## Notes

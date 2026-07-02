@@ -5,7 +5,7 @@ base_headword: "Māgandiyapañhā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māgandiyapañhā. The name given to the questions asked of the Buddha by the Br
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiyapañhā. Tên gọi dành cho những câu hỏi mà Bà-la-môn Māgandiya đã đặt ra cho Đức Phật. (SN.iii.12). Xem Māgandiyasutta (1).
 
 ## Notes

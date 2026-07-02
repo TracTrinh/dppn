@@ -5,7 +5,7 @@ base_headword: "Mahā Buddharakkhita"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Buddharakkhita. A monk of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Buddharakkhita. Một vị tỳ-kheo ở Piyaṅgudīpa, được mô tả là Yonakarājaputta. Xem Ariyagālatissa.
 
 ## Notes

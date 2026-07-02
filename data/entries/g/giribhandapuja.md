@@ -5,7 +5,7 @@ base_headword: "Giribhaṇḍapūjā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,8 @@ The festival was probably connected with the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribhaṇḍapūjā, Giribhaṇḍavāhanapūjā. Một lễ hội lớn, do Vua Mahā Dāṭhika Mahā Nāga tổ chức trên ngọn núi Cetiyagiri. Những tấm thảm được trải từ Kadambanadī đến núi, để mọi người có thể tiếp cận núi với đôi chân sạch sẽ; con đường được trang trí và thắp sáng, các cửa hàng được dựng lên và sự hào phóng được ban phát. Có các vở kịch câm, các bài hát và âm nhạc. Các ngọn đèn được thắp sáng trên toàn bộ hòn đảo và thậm chí trên biển trong vòng một *yojana* (Mhv.xxxiv.75ff; AN­a.i.13). Người ta nói rằng vào ngày diễn ra lễ hội Māra, với mong muốn phá hỏng nó, đã làm một trận mưa than rơi xuống, nhưng một vị Trưởng lão đã tạo ra mặt đất trên bầu trời, do đó ngăn chặn không cho than rơi xuống (Vsm.376; Vsm.Trs.ii.436, n.4). Những phẩm vật cúng dường quý giá nhất được trao trong lễ hội này cho bất kỳ vị tỳ-kheo nào – viz., một đôi y phục – đã thuộc về một vị sa-di trẻ, Loṇagirivāsītissa, bất chấp những nỗ lực của các đại thần của nhà vua nhằm trao chúng vào tay của những vị tỳ-kheo lớn tuổi hơn. Đó là bởi vì vị sa-di đã thực hành *sārāṇīyadhammā* (DN­a.ii.535; AN­a.ii.653f; MN­a.i.545f).
+
+Lễ hội này có lẽ có liên quan đến Giribhaṇḍavihāra, nếu vậy đó chính là lý do cho tên gọi này.
 
 ## Notes

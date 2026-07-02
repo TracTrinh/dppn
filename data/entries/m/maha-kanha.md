@@ -5,7 +5,7 @@ base_headword: "Mahā Kaṇha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kaṇha. The name assumed by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kaṇha. Tên gọi được Mātali sử dụng khi ngài hóa thành một con chó. Xem Mahā Kaṇhajātaka (Ja 469).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gokaṇṇa"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,6 @@ Gokaṇṇa 02. A general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gokaṇṇa 02. Một vị tướng của Gajabāhu, người đã đánh bại Kittisirimegha; ông có sở chỉ huy của mình ở *Kālavāpi*, nơi ông là *Nagaragiri*. Tại một cuộc gặp gỡ giữa ông và Parakkamabāhu tại Buddhagāma, Parakkamabāhu đã lôi kéo ông về phía mình. Một câu chuyện thú vị được kể về một giấc mơ của ông sau khi hứa hẹn giúp đỡ Parakkamabāhu (Cv.lxvi.47ff). Do đó, ông đã chạy trốn đến *Kālavāpi* và, trong nhiều dịp khác nhau, đã đề nghị giao chiến với quân đội của Parakkamabāhu, nhưng ở khắp nơi ông đều bị đánh bại, thất bại tồi tệ nhất là ở Nīlagala dưới tay của vị tướng Māyāgeha. Sau đó, ông đã xây dựng một pháo đài ở *Kālavāpi*, nơi ông sống trong sự yên bình tương đối. Lần cuối cùng chúng ta nghe nói về ông là việc ông xúi giục Māṇābharaṇa chiếm đoạt ngai vàng (Cv.lxiii.34; lxvi.35ff, 62; lxx.68, 71, 83, 257). Geiger nghĩ rằng (Cv. Trs i.255, n.3) Gokaṇṇa có lẽ là tên của một gia tộc.
 
 ## Notes

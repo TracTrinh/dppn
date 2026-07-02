@@ -5,7 +5,7 @@ base_headword: "Hatthārohaputta Thera"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthārohaputta Thera. Ông sinh ra trong gia đình một người điều khiển voi ở Sāvatthī và trở nên thông thạo về nghề voi. Một hôm, khi đang huấn luyện một con voi bên bờ sông, ông cảm thấy rằng sẽ tốt hơn nếu ông tự huấn luyện chính mình. Vì vậy ông đến gặp Đức Phật, nghe Ngài thuyết pháp, và, sau khi gia nhập Tăng đoàn, chứng đắc quả vị *Arahant* (Thag.vs.77; Thag­a.i.170f).
+
+Vào thời Vipassī Buddha, ông là một gia chủ. Sau khi thấy Đức Phật, ông đã dâng hoa cúng dường và đảnh lễ Ngài. Bốn mươi mốt *kappa* trước, ông từng là một vị vua, tên là Varaṇa. Ông có lẽ chính là Trưởng lão Gaṇṭhipupphiya của bộ Apadāna. Ap.i.162.
 
 ## Notes

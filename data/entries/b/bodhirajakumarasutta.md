@@ -5,7 +5,7 @@ base_headword: "Bodhirājakumārasutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhirājakumārasutta. Records the visits of the Buddha to Prince <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhirājakumārasutta. Ghi chép lại những chuyến viếng thăm của Đức Phật đến Vương tử Bodhi (1) và cuộc thảo luận diễn ra sau đó. Đức Phật bác bỏ quan điểm của Bodhi rằng sự an vui thực sự chỉ đến thông qua những điều không vừa ý, và tuyên bố rằng nếu một tỳ-kheo có niềm tin vào Đức Phật và cũng có những phẩm chất cần thiết về trí tuệ và trái tim, vị ấy có thể chứng đạt Pháp mà không chậm trễ. MN.ii.91ff.
 
 ## Notes

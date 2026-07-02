@@ -5,7 +5,7 @@ base_headword: "Brahmaññasutta"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmaññasutta 01. The highest life is the Noble Eightfold Path, and the fruit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmaññasutta 01. Đời sống cao quý nhất là Bát Thánh đạo, và quả của nó là *Sotāpatti*, v.v. SN.v.26.
 
 ## Notes

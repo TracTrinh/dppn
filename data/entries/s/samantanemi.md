@@ -5,7 +5,7 @@ base_headword: "Samantanemi"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samantanemi. Seventy-three *kappas* ago there were thirteen kings of this name, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantanemi. Bảy mươi ba *kappas* trước có mười ba vị vua mang tên này, là những kiếp trước của Asanabodhiya Thera. Ap.i.111.
 
 ## Notes

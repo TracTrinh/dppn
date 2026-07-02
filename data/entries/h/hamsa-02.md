@@ -5,7 +5,7 @@ base_headword: "Haṁsa"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Haṁsa 02. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsa 02. Một tòa cung điện mà Phussa Buddha đã ở trước khi xuất gia. Bv.xix.15.
 
 ## Notes

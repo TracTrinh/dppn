@@ -5,7 +5,7 @@ base_headword: "Samudayasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samudayasutta. The *puthujjanas* do not know the arising and going out of body, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudayasutta. Các *puthujjana* không biết sự sinh khởi và sự chấm dứt của thân, thọ, v.v. SN.iii.82, 174.
 
 ## Notes

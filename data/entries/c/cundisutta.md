@@ -5,7 +5,7 @@ base_headword: "Cundīsutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,6 @@ Cundīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundīsutta. Cundī đến thăm Đức Phật và nói với Ngài rằng, theo lời người anh trai của cô, Cunda, những người quy y Phật, Pháp và Tăng và từ bỏ việc sát sinh, trộm cắp, tà dâm, nói dối và uống rượu, sẽ được sinh vào một cõi an vui sau khi chết. Cô muốn biết thêm về điều này. Đức Phật giải thích cho cô rằng Như Lai (*Tathāgata*) là tối thắng trong các chúng sinh, Pháp dẫn đến Niết-bàn là tối thắng trong các giáo lý, Tăng đoàn của Như Lai là ruộng phước tối thắng, và về các giới đức, thì những giới đức được các bậc Thánh yêu quý là tối thắng. AN.iii.35f.
 
 ## Notes

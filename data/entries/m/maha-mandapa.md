@@ -5,7 +5,7 @@ base_headword: "Mahā Maṇḍapa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Maṇḍapa. A palace in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṇḍapa. Một cung điện ở Anurādhapura, có lẽ nằm trong Mahā Vihāra, được các pháp sư sử dụng. Maliyadeva Thera đã thuyết giảng Chakkasutta tại đó, khi sáu mươi tỳ-kheo đắc quả vị *Arahant*. MN­a.ii.1024.
 
 ## Notes

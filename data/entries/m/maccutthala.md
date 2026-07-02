@@ -5,7 +5,7 @@ base_headword: "Maccutthala"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maccutthala. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccutthala. Một địa phương ở Rohaṇa, nơi Vijayabāhu I từng thiết lập một khu trại. Cv.Iviii.35.
 
 ## Notes

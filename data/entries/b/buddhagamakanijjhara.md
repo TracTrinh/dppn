@@ -5,7 +5,7 @@ base_headword: "Buddhagāmakanijjhara"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddhagāmakanijjhara. A tank restored by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhagāmakanijjhara. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxviii.45.
 
 ## Notes

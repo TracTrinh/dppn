@@ -5,7 +5,7 @@ base_headword: "Buddhagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhagāma. A village and district in the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhagāma. Một ngôi làng và quận ở Dakkhiṇadesa của T?ch Lan. Nơi này được đề cập trong lời kể về các chiến dịch của Parakkamabāhu I. Cv.lviii.43; lxvi.19, 25, 39, 62; lxix.9; lxx.311; lxxii.178; để biết về việc xác định vị trí của nó, xem Cv.Trs.i.206, n.1.
 
 ## Notes

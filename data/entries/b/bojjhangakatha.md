@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgakathā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Bojjhaṅgakathā. The third chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgakathā. Phẩm thứ ba của Yuganaddhavagga thuộc Paṭisambhidāmagga.
 
 ## Notes

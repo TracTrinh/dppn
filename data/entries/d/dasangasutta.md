@@ -5,7 +5,7 @@ base_headword: "Dasaṅgasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dasaṅgasutta. The ten classes of people who flock together because of the qual
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasaṅgasutta. Mười hạng người tụ tập lại với nhau vì những phẩm chất mà họ sở hữu chung (SN.ii.168).
 
 ## Notes

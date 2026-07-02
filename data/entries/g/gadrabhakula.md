@@ -5,7 +5,7 @@ base_headword: "Gadrabhakula"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gadrabhakula. Mentioned as one of the families in which horses are born. <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gadrabhakula. Được nhắc đến như một trong những dòng giống mà ngựa được sinh ra. Ngựa Valāhaka không sinh ra trong dòng giống này. MN­a.i.248.
 
 ## Notes

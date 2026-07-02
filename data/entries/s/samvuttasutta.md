@@ -5,7 +5,7 @@ base_headword: "Saṁvuttasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saṁvuttasutta. The three spheres – *kāma*, *rūpa*, *arūpa* – must be gi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvuttasutta. Ba cõi – *kāma*, *rūpa*, *arūpa* – phải được từ bỏ, và ba loại tu tập phải được phát triển: giới cao hơn (*adhisīla*), tâm cao hơn, và tuệ cao hơn. AN.iv.444.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Buddhavaṁsa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -44,6 +44,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhavaṁsa. Cuốn sách thứ mười bốn của Khuddakanikāya (DN­a.i.17). Các vị Dīghabhāṇaka đã loại nó khỏi kinh điển, nhưng nó được các vị Majjhimabhāṇaka chấp nhận (DN­a.i.17).
+
+Nó chứa đựng, bằng thơ, cuộc đời của hai mươi lăm vị Phật, trong đó Gotama là vị cuối cùng. Tên của vị Bodhisatta dưới thời mỗi vị Phật cũng được đưa ra. Chương cuối cùng nói về việc phân chia xá-lợi của Gotama.
+
+Người ta nói (Bv.i.74) rằng Buddhavaṁsa đã được thuyết giảng, theo yêu cầu của Sāriputta, tại Nigrodhārāma ở Kapilavatthu, sau khi Đức Phật thực hiện phép thần thông Ratanacaṅkama. Chú giải cho Buddhavaṁsa được biết đến là Madhuraṭṭhavilāsinī (*q.v.*).
+
+Gandhavaṁsa (p.61) nói về một tác phẩm Buddhavaṁsa được viết bởi một tác giả tên là Kassapa. Đây có lẽ không phải là cùng một tác phẩm. Cũng có đề cập (Gv.60) về một *Ṭīkā* cho Buddhavaṁsa, tên là Paramatthadīpanī.
 
 ## Notes

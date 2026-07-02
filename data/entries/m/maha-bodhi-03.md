@@ -5,7 +5,7 @@ base_headword: "Mahā Bodhi"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Bodhi 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Bodhi 03. Mahā Bodhi Thera. Ngài thuộc về Mahā Vihāra, và đã viết các Bản Chú giải về Paramatthavinicchaya và Saccasaṅkhepa. PLC.174.
 
 ## Notes

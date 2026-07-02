@@ -5,7 +5,7 @@ base_headword: "Samita"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samita. A king of fourteen *kappas* ago, a previous birth of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samita. Một vị vua từ mười bốn *kappa* trước, một kiếp trước của Buddhasaññaka Thera (Meghiya Thera). Ap.i.152; Thag­a.i.150.
 
 ## Notes

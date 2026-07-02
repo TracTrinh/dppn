@@ -5,7 +5,7 @@ base_headword: "Gītasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gītasutta. The five evil results of preaching the Dhamma in a sing-song style (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gītasutta. Năm kết quả xấu xa của việc thuyết giảng Dhamma theo phong cách ngâm nga (*gītassareṇa*). AN.iii.251.
 
 ## Notes

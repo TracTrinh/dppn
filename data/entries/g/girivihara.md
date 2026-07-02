@@ -5,7 +5,7 @@ base_headword: "Girivihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Girivihāra. A *vihāra* in Ceylon erected by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girivihāra. Một *vihāra* ở Tích Lan do Aggabodhi I dựng lên; ông đã cúng dường một trăm cánh đồng để hỗ trợ cho nó (Cv.xlii.12). Đây là nơi cư trú của Cūḷa Piṇḍapātiyatissa (AN­a.i.367), và cũng của một sa-di, đệ tử của *Tepiṭaka*, tên là Cūḷa Summa Thera. (DN­a.ii.514).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Deva 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 07. Trưởng lão Mahā Deva. Đến từ Dāmahālaka. Vua Saṅghatissa vào một ngày nọ đã nghe vị này thuyết giảng về công đức của việc bố thí cháo gạo, và ngay sau đó đã thiết lập một cuộc bố thí dồi dào cháo gạo cho các tỳ-kheo tại các cổng của Anurādhapura. Mhv.xxxvi.68.
 
 ## Notes

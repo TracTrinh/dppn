@@ -5,7 +5,7 @@ base_headword: "Mahā Muṇḍa"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Muṇḍa 02. A lay disciple of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Muṇḍa 02. Một cư sĩ đệ tử của Muṇḍa, ở Viñjhaṭavi. Ông là người bạn và là nhà bảo trợ của Anuruddha và có hai người con, Mahā Sumana và Cūḷa Sumana. Anuruddha đã đến thăm ông vì vị này mong muốn thọ giới cho Cūḷa Sumana (*q.v.*). Dhp­a.iv.128
 
 ## Notes

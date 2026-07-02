@@ -5,7 +5,7 @@ base_headword: "Gaggarā"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaggarā 02. The queen for whom the lotus pond <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggarā 02. Vị hoàng hậu mà vì bà, hồ sen Gaggarā (*q.v.*) đã được tạo ra.
 
 ## Notes

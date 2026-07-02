@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Deva 04. A Thera of Ceylon at whose request <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 04. Một Trưởng lão của Tích Lan; theo lời thỉnh cầu của vị này, Upasena viết Chú giải Mahā Niddesa (MNid-a.i.1).
 
 ## Notes

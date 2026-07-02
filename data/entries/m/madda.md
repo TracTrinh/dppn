@@ -5,7 +5,7 @@ base_headword: "Madda"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -81,6 +81,20 @@ For the identification of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madda, Maddā. Tên của một quốc gia và người dân ở đó (*Maddā*). Trong Kusajātaka (*q.v.*), Kusa, con trai của Okkāka, vua của Mahā Sammata ở quốc gia Malla, được nhắc đến là đã kết hôn với Pabhāvatī, con gái của vua Madda, và thủ đô của vua Madda là Sāgala (Ja.v.283ff.; Kusāvati cách Sāgala một trăm do-tuần (Ja.v.290), so sánh Mvu.ii.441f).
+
+Trong câu chuyện tương tự về Anitthigandha, một hoàng tử của Benares đính ước kết hôn với một người con gái của vua Sāgala, tên của ông ta là Maddava; nhưng cô gái qua đời trên đường đi đến với chồng cô. (Snp­a.i.68f.; so sánh Dhp­a.iii.281, về vị Anitthigandha khác ở Sāvatthī trong thời của Đức Phật, người cũng kết hôn với một công chúa Madda).
+
+Chaddantajātaka cũng nhắc đến một liên minh hôn nhân giữa các hoàng gia của Benares và Sāgala, trong khi ở Kāliṅgabodhijātaka (Ja.iv.230f), con gái của vua Madda kết hôn với một hoàng tử của Kāliṅga trong lúc cả hai đang bị lưu đày.
+
+Ja.v.39f.; cũng như vậy trong Mūgapakkhajātaka (Ja.vi.1), vợ của vua Kāsi là con gái của vua Madda, tên là Candadevī; trong khi Phusatī, vợ của Sañjaya ở Jetuttara trong vương quốc Sivi và là mẹ của Vessantara, cũng là một công chúa Madda (Ja.vi.480); tương tự như vậy với Maddī, vợ của Vessantara.
+
+Cūḷanī, con trai của Talatā, cũng kết hôn với một công chúa của Madda (Ja.vi.471). Theo Mahā Vaṁsa (Mhv.viii.7; điều này có lẽ đề cập đến Madras chứ không phải quốc gia Madda, vốn có thủ đô là Sāgala), Sumitta, con trai của Sīhabāhu và là vua của Sīhapura, đã kết hôn với con gái của vua Madda và có ba người con trai với bà, người con trai út, Paṇḍuvāsudeva, đã trở thành vua của Tích Lan.
+
+Bhaddā Kāpilānī, vợ của *māṇava* Pippali (Mahā Kassapa), là con gái của một Bà-la-môn Kosiyagotta ở Sāgala trong quốc gia Madda. Người ta đã đến đó để tìm vợ cho ông vì nơi đó nổi tiếng về sắc đẹp của phụ nữ (*Maddaraṭṭham nāma itthāgāro*) (Thag­a.ii.142; Thīg­a.68). Anojā, vợ của Mahā Kappina ở Kukkuṭavatī, cũng xuất thân từ hoàng gia Madda (Dhp­a.ii.116), Khemā, vợ của Bimbisāra cũng vậy (Thīg­a.127).
+
+Vợ của một vị Cakkavattī xuất thân từ Uttarakuru hoặc từ hoàng gia Madda (MN­a.ii.950; DN­a.ii.626; Khp­a.173).
+
+Để biết sự đồng nhất của Madda, xem Sāgala.
 
 ## Notes

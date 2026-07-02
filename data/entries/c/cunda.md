@@ -5,7 +5,7 @@ base_headword: "Cunda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -68,6 +68,18 @@ The *Piṭakas* contain several discourses (AN.iii.355; v.41, 157) given to the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cunda 02. Các sách dường như đề cập đến hai vị Thera có tên là Cunda, vị được biết đến nhiều hơn là Mahā Cunda và vị kia là Cūḷa Cunda. Nhưng những truyền thuyết gắn liền với họ lại lộn xộn đến mức không thể phân biệt rõ người này với người kia.
+
+Cũng có nhắc đến một Cunda Samaṇuddesa mà, tuy nhiên, các Chú giải đồng nhất với Mahā Cunda (vd. DN­a.iii.907). Mahā Cunda, chẳng hạn, được mô tả trong Theragāthā Commentary là em trai của Sāriputta, dưới sự hướng dẫn của vị này ông đã gia nhập Tăng đoàn, đắc quả vị *Arahant* sau nỗ lực gian khổ và căng thẳng (Thag­a.i.261; xem thêm Dhp­a.ii.188 và AN­a.ii.674).
+
+Vào thời của Vipassī Buddha, ông từng là một người thợ gốm và đã dâng cho Đức Phật một cái bát làm bằng đất sét. Những câu kệ Apadāna được trích dẫn trong Theragāthā Commentary thì, trong chính Apadāna (Ap.ii.444), lại được cho là của một tỳ-kheo tên là Ekapattadāyaka. Chúng hoàn toàn không đề cập đến mối quan hệ của ông với Sāriputta. Mặt khác, có thể tìm thấy ở những nơi khác trong Apadāna (Ap.i.101f) một số câu kệ được gán cho một vị Cunda Thera, trong đó nêu rõ ràng rằng ông là con trai của Bà-la-môn Vaṅganta, và mẹ ông là Sārī. Nhưng trong những câu kệ này ông được gọi là Cūḷa Cunda, và có sự đề cập đến tiền kiếp của ông vào thời Siddhattha Buddha, người mà ông đã dâng cúng một bó hoa nhài. Kết quả là ông trở thành vua của chư thiên bảy mươi bảy lần và đã từng một lần là vua loài người, tên là Dujjaya. Người ta nói thêm rằng ông trở thành Arahant khi vẫn còn là một *Sāmaṇera* và rằng ông đã phục vụ Đức Phật, anh trai ruột của mình và các tỳ-kheo đức hạnh khác. Lời kể này tiếp tục nói rằng sau cái chết của anh trai mình, Cunda đã mang xá lợi của vị đó trong một cái bát và dâng chúng cho Đức Phật, người đã thốt ra những lời tán thán Sāriputta. Điều này sẽ đồng nhất Cūḷa Cunda với Cunda Samaṇuddesa, người mà, theo Saṁyuttanikāya (SN.v.161f), đã chăm sóc Sāriputta trong cơn bệnh cuối cùng của ông và, sau cái chết của ông ấy, đã mang cái bát, y áo ngoài và xá lợi được bọc trong đồ lọc nước của Sāriputta đến cho Đức Phật tại Jetavana. Do đó, nếu Buddhaghosa đúng trong việc đồng nhất Cunda Samaṇuddesa với Mahā Cunda, thì cả ba đều là một và giống nhau (Buddhaghosa nói rằng các tỳ-kheo gọi ông là *Samaṇuddesa* vào thời trẻ của ông trước lễ *upasampadā* của ông, và ông không bao giờ đánh mất cái tên đó, DN­a.iii.907).
+
+Cunda Samaṇuddesa đã từng, trong một khoảng thời gian, là người thị giả cá nhân của Gotama Buddha (Thag­a.ii.124; Ja.iv.95, v.v.), và khi Đức Phật chuẩn bị thực hiện Song thông, ông đã đề nghị chính mình thực hiện một phép lạ để tránh cho Đức Phật khỏi phiền nhọc và phải gắng sức (Dhp­a.iii.211). Thầy của Cunda là Ānanda, và chính Ānanda là người đầu tiên được ông báo tin Sāriputta qua đời (SN­a.iii.178; xem thêm Pāsādikasutta và Sāmagāmasutta, nơi Cunda mang tin tức về cái chết của Nigaṇṭha Nātaputta đến cho Ānanda rồi sau đó là Đức Phật; xem thêm Sallekhasutta).
+
+Mahā Cunda rõ ràng là một đệ tử rất lỗi lạc, và được Đức Phật đề cập (AN.iii.299; xem thêm MN.iii.78; Ud.i.5) cùng với Hai vị Đại Đệ tử, Mahā Kassapa, Mahā Koṭṭhita, Mahā Kaccāna và các Trưởng lão rất lỗi lạc khác.
+
+Các Piṭaka có chứa một vài bài thuyết pháp (AN.iii.355; v.41, 157) được Mahā Cunda thuyết cho các tỳ-kheo trong khi đang lưu trú tại Sahajātī giữa những người Ceti, có lẽ là sau khi Đức Phật viên tịch. Cunda (hay Cundaka như ông được gọi trong bối cảnh này) đã ở cùng Đức Phật trong chuyến hành trình cuối cùng của Ngài đến Kusinārā, và đã trải một chỗ nằm cho Ngài tại rừng Xoài bên bờ sông Kakuṭṭhā (DN.ii.134f; Ud.viii.5).
+
+Cunda được đề cập (SN.iv.50f.; MN.iii.263f) như là người đã đi cùng Sāriputta khi ông đến gặp Channa tại Kalandakanivāpa ở Rājagaha, ngay trước khi Channa tự sát. Có lần, khi Đức Phật nằm bệnh tại Kalandakanivāpa, Cunda đã đến thăm Ngài và họ đã nói chuyện về các chi giác ngộ (*bojjhaṅga*). Ngay lúc ấy, tại nơi ấy, cơn bệnh của Đức Phật biến mất. SN.v.81.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "12"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Nāga 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 12. Mahā Nāga Thera. Ông sống ở Uccatalaṅka (Uccavālika). *Talaṅkavāsi* Dhammadinna (*q.v.*) là học trò của ông và đã trở thành một vị *Arahant* thông qua sự can thiệp của ông. Vibh-a.489; Vsm.634.
 
 ## Notes

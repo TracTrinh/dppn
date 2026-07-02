@@ -5,7 +5,7 @@ base_headword: "Sambhava"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sambhava 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhava 04. Một vị Pacceka Buddha cách đây ba mươi mốt *kappa*. Sappaka Thera, trong một kiếp trước, là một Nāga và đã giương một đóa sen che trên vị ấy. Thag­a.i.399.
 
 ## Notes

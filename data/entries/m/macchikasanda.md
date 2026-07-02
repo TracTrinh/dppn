@@ -5,7 +5,7 @@ base_headword: "Macchikāsaṇḍa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -62,6 +62,16 @@ It was thirty leagues from <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchikāsaṇḍa. Một thị trấn ở Kāsī, nơi cư ngụ của Cittagahapati, cùng với những người khác (SN.iv.281).
+
+Nó có chứa Ambāṭakavana, mà Citta đã dâng cúng làm tu viện cho các tỳ-kheo, đứng đầu trong số đó là Mahā Nāma.
+
+Trưởng lão Sudhamma cũng sống ở đó, và nơi này đã được viếng thăm bởi Sāriputta và Moggalāna và cũng bởi Acela Kassapa (SN.iv.300).
+
+Để biết chi tiết, xem Dhp­a.ii.74f.; theo Vin.ii.15f., họ được tháp tùng bởi Mahā Kaccāna, Mahā Koṭṭhita, Mahā Kappina, Mahā Cunda, Anuruddha, Revata, Upāli, Ānanda và Rāhula; tất cả những vị này đều đã đến đó trong khi đang du hành trong vương quốc Kāsi.
+
+Các cuốn sách có chứa, ngoài những người này, tên của một số vị tỳ-kheo đã sống ở Macchikāsaṇḍa – vd., Isidatta, Mahaka, Kāmabhū và Godatta. Nơi này cũng có thể là một trung tâm của những Nigaṇṭha, vì Nigaṇṭha Nātāputta được nhắc đến là đã đến đó cùng với một lượng lớn tùy tùng (SN.iv.298).
+
+Nó cách Sāvatthī ba mươi do-tuần (Dhp­a.ii.79), và gần đó là ngôi làng Migapathaka.
 
 ## Notes

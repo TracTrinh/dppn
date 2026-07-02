@@ -5,7 +5,7 @@ base_headword: "Desanāsutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Desanāsutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Desanāsutta hay Bhāvanāsutta. Về thần thông, nền tảng của nó, và pháp hành dẫn đến sự tu tập nó (SN.v.276). *Sutta* này tương ứng từng chữ với một đoạn trong *Sūtrālaṅkāra* của Aśvaghoṣa.
 
 ## Notes

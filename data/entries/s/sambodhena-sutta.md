@@ -5,7 +5,7 @@ base_headword: "Sambodhena Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambodhena Sutta. The Buddha explains how it was only after his <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambodhena Sutta. Đức Phật giải thích rằng chỉ sau khi Ngài Giác Ngộ, Ngài mới có thể hiểu được vị ngọt, sự tai hại và con đường thoát ly khỏi mắt, tai, v.v. SN.iv.6f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Tuṇḍila"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Tuṇḍila, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Tuṇḍila, Culla Tuṇḍila. Một con heo, anh hoặc em trai của Bodhisatta. Để biết chi tiết, xem Tuṇḍilajātaka (Ja 388).
 
 ## Notes

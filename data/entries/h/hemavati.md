@@ -5,7 +5,7 @@ base_headword: "Hemavatī"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hemavatī. A channel branching off from the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemavatī. Một con kênh tách ra từ Parakkamasamudda theo hướng Mahā Meghavana. Cv.lxxix.41.
 
 ## Notes

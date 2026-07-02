@@ -5,7 +5,7 @@ base_headword: "Dārukkhandhasutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dārukkhandhasutta 03. The same as the above, except that the place mentioned is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārukkhandhasutta 03. Giống như kinh trên, ngoại trừ việc địa điểm được nhắc đến là Kimbilā, và những lời giải thích được giảng cho Kimbila. SN.iv.181.
 
 ## Notes

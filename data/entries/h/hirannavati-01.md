@@ -5,7 +5,7 @@ base_headword: "Hiraññavatī"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hiraññavatī 01. Another name for <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiraññavatī 01. Một tên khác của Bhagalavatī, nơi cư trú của Kuvera. Ja.vi.269, 270.
 
 ## Notes

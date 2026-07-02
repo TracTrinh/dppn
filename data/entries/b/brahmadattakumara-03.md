@@ -5,7 +5,7 @@ base_headword: "Brahmadattakumāra"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmadattakumāra 03. Brother of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadattakumāra 03. Anh em trai của Asadisa; xem Asadisajātaka. Ja 181, Ja.ii.87ff.
 
 ## Notes

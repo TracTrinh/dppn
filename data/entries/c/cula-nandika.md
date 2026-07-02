@@ -5,7 +5,7 @@ base_headword: "Cūḷa Nandikā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Nandikā, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Nandikā, Culla Nandikā. Talatādevī được đồng nhất với Cūḷa Nandikā (Ja.vi.478) trong thời hiện tại, nhưng dường như không có thêm điều gì được biết về bà sau này.
 
 ## Notes

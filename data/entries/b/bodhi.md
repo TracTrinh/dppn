@@ -5,7 +5,7 @@ base_headword: "Bodhī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -25,6 +25,6 @@ Bodhī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhī. Con gái của Kassapa I. Cv.xxxix.11.
 
 ## Notes

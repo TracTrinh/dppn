@@ -5,7 +5,7 @@ base_headword: "Sammuñjanī Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sammuñjanī Thera. So called because he was always sweeping. One day he saw <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammuñjanī Thera. Được gọi như vậy vì ông luôn quét dọn. Một ngày kia ông thấy Revata trong phòng của mình và cho rằng vị ấy là kẻ lười biếng. Revata đọc được ý nghĩ của ông, và, muốn khuyên răn ông, đã bảo ông quay lại sau khi tắm. Khi Sammuñjanī làm như vậy, Revata đã thuyết giảng cho ông về bổn phận của một vị tỳ-kheo. Sammuñjanī trở thành một *Arahant*, và tất cả các phòng đều không được quét dọn. Các tỳ-kheo báo cáo việc này lên Đức Phật, nhưng Ngài tuyên bố ông không có lỗi, vì không còn cần thiết để ông tiếp tục quét dọn nữa. Dhp­a.iii.168f.
 
 ## Notes

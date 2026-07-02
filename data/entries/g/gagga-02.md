@@ -5,7 +5,7 @@ base_headword: "Gagga"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,6 @@ Gagga 02. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gagga 02. Một Bà-la-môn, cha của Aṅgulimāla (MN.ii.102). Gagga, có vợ là Mantāṇī, làm quốc sư cho vua xứ Kosala (MN­a.ii.743). Gagga có thể là một tên dòng họ (*gotta*). Do đó, khi sau khi xuất gia, Aṅgulimāla được giới thiệu với Pasenadi, nhà vua đã gọi ông là Gagga Mantāṇiputta. MN.ii.102.
 
 ## Notes

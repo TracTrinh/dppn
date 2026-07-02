@@ -5,7 +5,7 @@ base_headword: "Sambahulasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sambahulasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambahulasutta 01. Māra, trong lốt một Bà-la-môn, búi tóc và khoác da linh dương, già nua và còng lưng, đến thăm một số tỳ-kheo tại Silāvatī và bảo họ hãy hưởng thụ khoái lạc vì họ còn trẻ. Họ không nên từ bỏ những gì thuộc về đời sống này để chạy theo những điều liên quan đến thời gian. Các tỳ-kheo đáp rằng những dục vọng tự nhiên mới là những điều liên quan đến thời gian, đầy sầu khổ và tuyệt vọng, chứ không phải giáo pháp mà họ đang thực hành, vốn có kết quả ngay tức thì. Vị Bà-la-môn rút lui trong hổ thẹn, và khi sự việc được trình lên Đức Phật, Ngài nhận ra đó chính là Māra. SN.i.117f.
 
 ## Notes

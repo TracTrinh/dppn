@@ -5,7 +5,7 @@ base_headword: "Daraga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Daraga. A locality near <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daraga. Một địa phương gần Pulatthipura. Cv.lxx.177.
 
 ## Notes

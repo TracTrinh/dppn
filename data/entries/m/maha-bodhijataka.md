@@ -5,7 +5,7 @@ base_headword: "Mahā Bodhijātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -44,6 +44,16 @@ The story was related in the same circumstances as the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Bodhijātaka (Ja 528). Bodhisatta sinh ra trong một gia đình Bà-la-môn Udicca, và, khi lớn lên, đã từ bỏ thế gian. Tên ngài là Bodhi.
+
+Có một lần, trong mùa mưa, ngài đến Benares, và, theo lời mời của nhà vua, ngài đã lưu lại trong công viên hoàng gia. Nhà vua có năm vị đại thần, là những người bất công, họ ngồi ở tòa án và đưa ra những phán quyết bất công. Một ngày nọ, một người đàn ông, người đã bị họ đối xử vô cùng tệ bạc, đã yêu cầu Bodhi can thiệp. Bodhi xét xử lại vụ án và đưa ra phán quyết có lợi cho ông ta. Mọi người hoan hô, và nhà vua cầu xin Bodhi thay mặt ông phân xử công lý tại triều đình. Bodhi miễn cưỡng đồng ý và mười hai năm trôi qua. Các vị đại thần trước đây, bị tước đi bổng lộc, đã âm mưu chống lại Bodhi và liên tục gieo rắc vào tâm trí nhà vua những điều tồi tệ về ngài; đầu tiên họ cắt giảm tất cả những vinh dự dành cho Bodhi, và khi điều đó không thể xua đuổi ngài, họ đã xin phép nhà vua để giết ngài.
+
+Một con chó màu hung, con chó mà Bodhi thường cho đồ ăn từ bát của ngài, đã tình cờ nghe được âm mưu đó, và, khi Bodhi đến gần cung điện vào ngày hôm sau, nó đã nhe răng và sủa như một lời cảnh báo về âm mưu đó. Bodhi hiểu ra, ngài trở về thảo am của mình, và, bất chấp việc nhà vua bày tỏ sự hối hận, ngài rời khỏi thành phố, hứa sẽ quay lại sau, và ngài sống ở một ngôi làng biên giới. Các vị đại thần, lo sợ Bodhi sẽ quay lại, đã báo với nhà vua rằng Bodhi và hoàng hậu đang âm mưu sát hại ông. Tin lời họ, nhà vua đã ra lệnh xử tử hoàng hậu. Bốn người con trai của hoàng hậu sau đó đã nổi dậy, và nhà vua vô cùng sợ hãi và rơi vào cảnh nguy hiểm lớn.
+
+Khi Bodhi nghe về điều này, ngài lấy một tấm da khỉ khô, đi đến Benares, và lại lưu trú trong công viên hoàng gia. Nhà vua đến để tôn vinh ngài, nhưng Bodhi ngồi im lặng, vuốt ve tấm da khỉ. Nhà vua hỏi ngài tại sao ngài làm như vậy. Ngài trả lời, “Con khỉ này đã phục vụ ta rất đắc lực; ta đã cưỡi trên lưng nó để đi đó đây, nó mang bình nước cho ta, quét dọn chỗ ở của ta, và thực hiện nhiều nhiệm vụ khác cho ta; cuối cùng, thông qua sự giản dị của nó, ta đã ăn thịt nó và bây giờ ta đang ngồi và nằm trên da của nó.” (Ngài đã dùng da của nó làm y phục, nên “Ta đã ngồi trên lưng con khỉ”; ngài đã khoác da của nó trên vai, từ đó cái bình nước của ngài được treo, nên “nó mang bình nước”; ngài đã dùng da quét dọn thất, nên “quét dọn chỗ ở của ta”; ngài đã ăn thịt khỉ, nên “Ta đã ăn thịt nó”).
+
+Các vị đại thần có mặt ở đó đã làm ầm ĩ lên, gọi ngài là một kẻ giết người và một kẻ phản bội. Nhưng Bodhi biết rằng trong số các vị đại thần này, một người phủ nhận ảnh hưởng của mọi loại *kamma*, một người cho rằng mọi thứ đều là do một Đấng Tối Cao an bài, một người tin rằng mọi thứ đều là kết quả của các hành động trong quá khứ, một người tin vào sự đoạn diệt, và một người theo học thuyết Khattiya rằng người ta nên bảo vệ lợi ích của mình, thậm chí bằng việc giết cha mẹ của mình. Do đó, ngài đã tranh luận với từng người một, và chứng minh rằng theo học thuyết của họ, không có bất kỳ lời chê trách nào gán cho ngài vì đã giết con khỉ. Sau khi làm họ hoàn toàn thất bại, ngài khuyên nhà vua đừng tin tưởng vào những kẻ vu khống, và yêu cầu các con trai của nhà vua xin vua cha tha thứ. Nhà vua muốn giết các vị đại thần, nhưng Bodhi can thiệp, và họ bị tước phẩm hàm và bị lưu đày khỏi vương quốc, tóc của họ bị buộc thành năm lọn.
+
+Câu chuyện được kể lại trong cùng một hoàn cảnh như Mahā Ummaggajātaka (Ja 546). Năm vị đại thần được đồng nhất với Pūraṇa Kassapa, Makkhali Gosāla, Pakudha Kaccāna, Ajita Kesakambala và Nigaṇṭha Nātaputta; con chó là Ānanda. Ja.v.227-46; so sánh *Jātakamālā*, xxiii.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gāḷhagaṅgā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāḷhagaṅgā. A river in South Ceylon which was once decreed to be the bound
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāḷhagaṅgā. Một con sông ở miền Nam Tích Lan, từng được ấn định làm ranh giới của Rohaṇa. Sông này thường được đồng nhất với Mahā Vālukagaṅgā. Cv.xlviii.132; Cv.Trs.i.122, n.4.
 
 ## Notes

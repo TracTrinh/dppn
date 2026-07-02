@@ -5,7 +5,7 @@ base_headword: "Samuddajā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samuddajā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddajā. Mẹ của Bhūridatta. Xem Bhūridattajātaka (Ja 543).
 
 ## Notes

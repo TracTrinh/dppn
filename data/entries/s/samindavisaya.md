@@ -5,7 +5,7 @@ base_headword: "Sāmindavisaya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -39,6 +39,8 @@ Some time later, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmindavisaya. Tên gọi Pāli của Xiêm La. Đã có mối quan hệ rất mật thiết giữa Tích Lan và Xiêm La từ thời trung cổ. Để biết chi tiết, xem JRAS (Ceylon) xxxii.190ff. Khi Phật giáo rơi vào thời kỳ suy vi ở Tích Lan, các vị vua của hòn đảo này đã tìm đến Xiêm La để xin giúp đỡ khôi phục lại Chánh Pháp. Kittisirirājāsīha đã có được các bản sao của Mahā Vaṁsa từ Xiêm La và hoàn thành biên niên sử cho đến thời của ông (Cv.xcix.78f). Với sự giúp đỡ của người Olandā (Hà Lan), ông đã gửi một phái đoàn đến Ayojjhā – kinh đô của Dhammika, vua xứ Xiêm La – yêu cầu gửi một đoàn tỳ-kheo đến Tích Lan. Mười vị tỳ-kheo đã được cử đến, dẫn đầu bởi Upāli và Ariyamuni, cùng với nhiều sách vở và các tặng phẩm khác. Các vị tỳ-kheo đã cư trú tại Pupphārāma ở Sirivaḍḍhanapura (Kandy), và, dưới sự bảo trợ của nhà vua, lễ thọ giới đã được tổ chức vào năm thứ 2296 sau khi Đức Phật viên tịch, vào ngày trăng tròn tháng *Āsāḷha*.
+
+Một thời gian sau, Dhammika lại gửi một đoàn khác do Visuddhācariya và Varañāṇamuni dẫn đầu. Để tỏ lòng biết ơn, Kittisirirājasīha đã gửi cho Dhammika một mô hình Xá Lợi Răng Phật ở Kandy, cùng với nhiều tặng phẩm khác. Dhammika đáp lại thịnh tình đó bằng cách gửi nhiều sách vở không có ở Tích Lan, một bản sao dấu chân Đức Phật tìm thấy trên núi Saccabaddha, v.v. Cv.c.63ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devappatirāja"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Devappatirāja. A minister of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devappatirāja. Một đại thần của Parakkamabāhu II. Nhà vua giao cho ông nhiều việc công đức khác nhau, như xây con đường đến điện thờ ở Sumanakūṭa. Khi làm con đường này, vị đại thần xây nhiều cây cầu, và trên đỉnh núi, ông đặt một tượng của thần Sumana. Ông cũng xây một *pāsāda* ba tầng tại Hatthavanagallavihāra. Ngôi làng Mahā Lābugaccha được ban vĩnh viễn cho gia đình ông, và ông được giao chăm sóc đặc biệt Xá-lợi Răng (về tường thuật chi tiết các việc làm của ông, xem Cv.lxxxvi.4ff). Rõ ràng ông là một người bảo trợ lớn của học thuật (PLC.214, 219).
 
 ## Notes

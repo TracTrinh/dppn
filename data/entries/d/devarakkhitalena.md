@@ -5,7 +5,7 @@ base_headword: "Devarakkhitalena"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devarakkhitalena. A cave in Ceylon, once the residence of Talaṅgaratissapabbat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devarakkhitalena. Một hang động ở Tích Lan, từng là nơi cư trú của Mahā Dhamma Thera, vị ở Talaṅgaratissapabbata. Sās-d. 88.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāmavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāmavihāra. A *pariveṇa* founded by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāmavihāra. Một *pariveṇa* được thành lập bởi Mahinda II. Cv.xlviii.133.
 
 ## Notes

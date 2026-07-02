@@ -5,7 +5,7 @@ base_headword: "Hatthadāṭha"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,6 @@ Hatthadāṭha 02. A native of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthadāṭha 02. Người quê ở Uṇhanagara. Ông được Potthakuṭṭha, người Damiḷa, triệu đến Tích Lan và được tấn phong làm vua (676 CN). Ông xây dựng *Padhānaghara* ở Kāḷadīghāvika và qua đời sau một triều đại chỉ kéo dài sáu tháng, bị giết bởi quân lính của Māṇavamma. Cv.xlvi.45; xlvii.57; xem thêm Cv.Trs.i.102, n.3.
 
 ## Notes

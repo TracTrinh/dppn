@@ -5,7 +5,7 @@ base_headword: "Macchajātaka"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,8 @@ The story was told in reference to a great drought in <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchajātaka 02. (Ja 75). Một lần nọ, Bodhisatta sinh làm một con cá trong hồ; có một đợt hạn hán lớn, mùa màng khô héo, và nước cạn kiệt trong các bể và hồ gây ra cảnh khốn cùng. Thấy vậy, Bodhisatta đến gần Pajjuna, vị thần mưa, và thực hiện một Lời Nguyện Sự Thật, cầu xin mưa. Lời yêu cầu thành công, và một cơn mưa lớn trút xuống.
+
+Câu chuyện được kể lại liên quan đến một đợt hạn hán lớn ở Kosala. Ngay cả cái hồ bên cổng Jetavana cũng cạn khô, và Đức Phật, xúc động trước nỗi khổ đau chung, đã quyết định sẽ làm cho trời mưa. Trên đường trở về sau chuyến khất thực, ngài sai Ānanda đi lấy chiếc y ngài dùng để tắm. Khi ngài đang mặc y vào, ngai vàng của Sakka nóng lên, và ông ra lệnh cho Pajjuna làm mưa. Vị thần tự lấp đầy mình bằng những đám mây, và sau đó cúi mặt và miệng xuống, trút những trận mưa xối xả khắp Kosala. Pajjuna trong câu chuyện trước đó được đồng nhất với Ānanda. Ja.i.329-32; so sánh Cp.iii.10.
 
 ## Notes

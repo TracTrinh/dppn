@@ -5,7 +5,7 @@ base_headword: "Mahā Assapurasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Assapurasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Assapurasutta. Được thuyết giảng tại Assapura, ở quốc gia Aṅga. Bởi vì các tỳ-kheo được gọi là những sa-môn (*samaṇā*), họ phải tu tập để trở thành những *samaṇa* và *Brāhmaṇa* thực sự; họ phải tận tâm và cẩn trọng, thanh tịnh trong hành động, lời nói và ý nghĩ, phòng hộ các căn, chừng mực trong ăn uống, luôn cảnh giác, chánh niệm và tỉnh giác, nỗ lực diệt trừ năm *nivaraṇā* và tu tập *jhāna*. Một khất sĩ như thế có thể thực sự được gọi là một *samaṇa*, một Bà-la-môn, một *nahātaka*, *vedagū*, *sotthiya*, *ariya*, và *Arahant*. Vị ấy là một sa-môn lý tưởng. MN.i.271-80.
 
 ## Notes

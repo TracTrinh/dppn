@@ -5,7 +5,7 @@ base_headword: "Hemāsā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hemāsā. An eminent Therī, teacher of the Vinaya at <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemāsā. Một vị Trưởng lão ni ưu tú, giảng sư Vinaya tại Anurādhapura vào thời Devānampiyatissa. Dpv.xviii.24.
 
 ## Notes

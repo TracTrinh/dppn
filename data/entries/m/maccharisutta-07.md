@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "07"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 07. Seven fetters must be destroyed in order that the good life m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 07. Bảy kiết sử phải bị đoạn tận để có thể sống phạm hạnh: sự thuận theo, sự kháng cự, tà kiến, sự hoài nghi, mạn, tật đố, sự keo kiệt. AN.iv.8.
 
 ## Notes

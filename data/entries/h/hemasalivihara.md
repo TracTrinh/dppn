@@ -5,7 +5,7 @@ base_headword: "Hemasālīvihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hemasālīvihāra. A monastery in Ceylon. In the time of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemasālīvihāra. Một tu viện ở Tích Lan. Vào thời Mahinda II, có một vị Trưởng lão trong *vihāra* này, thông thạo Abhidhamma, và nhà vua đã cho vị này tụng đọc Abhidhamma, đồng thời xây một hồ tắm để vị Trưởng lão sử dụng. Cv.xlviii.142.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bodhisiñcaka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -27,6 +27,6 @@ Bodhisiñcaka Thera. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisiñcaka Thera. *v.l.* Bodhisaññaka Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, khi một lễ hội lớn được tổ chức để tôn vinh cây Bodhi của Vipassī Buddha, ngài đã tưới nước hoa thơm lên cây. Ba mươi ba *kappa* trước ngài làm vua tám lần với tên Udakāsecana (Ap.i.131).
 
 ## Notes

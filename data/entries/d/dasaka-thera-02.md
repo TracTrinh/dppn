@@ -5,7 +5,7 @@ base_headword: "Dāsaka Thera"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Dāsaka Thera 02. Friend of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāsaka Thera 02. Người bạn của Soṇaka và là đệ tử của Upāli. Ngài là một vị Bà-la-môn uyên bác ở Vesālī, và, khi gặp Upāli tại Vālikārāma, đã có một cuộc thảo luận với ngài, vào cuối buổi ngài đã gia nhập Tăng đoàn với mục đích nghiên cứu Pháp. Ngài đã học thuộc lòng toàn bộ *Tipiṭaka* và trở thành một *Arahant*. Sau này ngài đã xuất gia cho Soṇaka, con trai của người trưởng đoàn lữ hành, và là thầy của Siggava và Caṇḍavajji. Sau khi Upāli viên tịch, Dāsaka trở thành vị trưởng của các vị thầy về Vinaya. Mhv.v.104ff; Dpv.iv.28ff; v.77ff; Vin.v.2; Vin-a.i.32, 235; but see Divy.3ff.
 
 ## Notes

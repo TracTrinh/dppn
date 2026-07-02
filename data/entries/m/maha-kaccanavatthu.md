@@ -5,7 +5,7 @@ base_headword: "Mahā Kaccānavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kaccānavatthu. The story of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kaccānavatthu. Câu chuyện về việc Sakka tôn kính Mahā Kaccāna. Dhp­a.ii.176f.
 
 ## Notes

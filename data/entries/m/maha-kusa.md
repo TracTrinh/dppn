@@ -5,7 +5,7 @@ base_headword: "Mahā Kusa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,6 @@ Mahā Kusa. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kusa. Một vị vua của Jambudīpa, hậu duệ của Mahā Sammata. Cha của ông là Kusa và con trai của ông là Navaratha (Bharata). Họ đã trị vì ở Kapilavatthu. Dpv.iii.40; Mhv­ṭ.130.
 
 ## Notes

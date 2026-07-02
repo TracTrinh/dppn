@@ -5,7 +5,7 @@ base_headword: "Garītara"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Garītara. A tank in Ceylon constructed by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Garītara. Một hồ chứa nước ở Tích Lan do Moggallāna II xây dựng bằng cách đắp đập trên sông Kadambanadī. Cv.xli.61.
 
 ## Notes

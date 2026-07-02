@@ -5,7 +5,7 @@ base_headword: "Cūḷa Pantha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Pantha, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Pantha, Culla Pantha. Một pariveṇa được xây dựng, có lẽ, bởi một thủ lĩnh người Damiḷa trong triều đại của Aggabodhi IV. Cv.xlvi.24.
 
 ## Notes

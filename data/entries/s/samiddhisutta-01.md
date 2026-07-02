@@ -5,7 +5,7 @@ base_headword: "Samiddhisutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Samiddhisutta 01. The story of a nymph who tried to tempt <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhisutta 01. Câu chuyện về một nàng tiên đã cố cám dỗ Samiddhi Thera. Câu chuyện tương tự như câu chuyện dẫn nhập của Samiddhijātaka, nhưng cuộc đối thoại giữa Samiddhi và vị *Devatā* được kể chi tiết hơn. Khi Samiddhi kể cho nàng nghe về mục đích sống đời phạm hạnh của mình, nàng muốn biết thêm về giáo pháp của Đức Phật, và yêu cầu ông tìm cơ hội để nàng được diện kiến Đức Phật. Samiddhi đã làm điều đó, và Đức Phật đã thuyết pháp cho nàng. SN.i.8 ff.
 
 ## Notes

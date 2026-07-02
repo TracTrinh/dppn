@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasutta"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -27,6 +27,6 @@ Brāhmaṇasutta 03. The Brahmin <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasutta 03. Vị Bà-la-môn Uṇṇābha đến thăm Ānanda tại Ghositārāma và thẩm vấn ngài. Ānanda nói với ông rằng cuộc sống của một ẩn sĩ có mục tiêu của nó là sự từ bỏ dục vọng và điều này được mang lại bởi sự trau dồi bốn *iddhipāda*. Đó sẽ là một nhiệm vụ không có hồi kết, Uṇṇābha nói; nhưng Ānanda chứng minh cho ông thấy rằng một khi mục đích đã hoàn thành, không còn lại gì nhiều hơn để làm. Uṇṇābha chấp nhận Ānanda làm đạo sư của mình. SN.v.271f.
 
 ## Notes

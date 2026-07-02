@@ -5,7 +5,7 @@ base_headword: "Giridatta Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giridatta Thera. An *Arahant*, teacher of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giridatta Thera. Một vị *Arahant*, thầy của Vitāsoka (*q.v.*). Giridatta đặc biệt tinh thông về *Sutta* và Abhidhamma. Thag­a.i.295.
 
 ## Notes

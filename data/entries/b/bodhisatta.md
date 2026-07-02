@@ -5,7 +5,7 @@ base_headword: "Bodhisatta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -545,6 +545,207 @@ The Bodhisatta was born several times in the purgatories (Ap.i.299 ff). The wish
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta. Danh xưng được đặt cho một chúng sanh mong cầu đạt đến *Bodhi* hoặc Giác ngộ. Các Bản Chú giải (như DN­a.ii.427) định nghĩa từ này như sau: *Bodhisatto ti paṇḍitasatto bujjhanakasatto; bodhisaṅkhātesu vā catusu maggesu āsatto laggamānaso ti Bodhisatto* (Bodhisatta nghĩa là ‘bậc đính kèm với trí tuệ,’ ‘một chúng sanh hướng đến Giác ngộ,’ hoặc ‘người có tâm hướng về và gắn liền với bốn đạo được gọi là Giác ngộ.’) Xem thêm AN­a.i.453. Để có thảo luận về ý nghĩa của từ này xem Har Dayal: *The Bodhisattva Doctrine*, pp.4ff..
+
+Do đó, từ này có thể được dùng để nói đến tất cả những ai tìm kiếm *Nibbāna* (Niết-bàn), bao gồm các vị Phật, Pacceka Buddhas, và các đệ tử của Phật (*Buddha-paccekabuddha-Buddhasāvakā*), nhưng thường chỉ được dùng để nói về những chúng sanh mong cầu trở thành Phật. Từ này có thể ban đầu chỉ được dùng liên quan đến kiếp sống cuối cùng của một vị Phật, trong các ngữ cảnh như “vào những ngày trước khi tôi Giác ngộ, khi tôi vẫn chỉ là một Bodhisatta”, ví dụ, MN.i.17, 114, 163; cũng như thế trong Mahāpadānasutta (DN.ii.13) và Acchariya-abbhutadhammasutta (MN.iii.119).
+
+Nhưng ngay từ trong Kathāvatthu (ví dụ, 283-90, 623) các tiền kiếp của Gotama Buddha và các vị thánh khác đã bắt đầu gợi lên sự quan tâm và suy đoán.
+
+Trong dạng phát triển của các tư tưởng về chư vị Bodhisatta, sự nghiệp của một vị Bodhisatta bắt đầu bằng việc ngài lập nguyện trước một vị Phật (*abhinīhārakaraṇa* hoặc *mūlapaṇidhāna*) để trở thành một vị Phật vì lợi ích và sự giải thoát của tất cả chúng sanh. Trong các tài liệu sau này, *abhinīhāra* (lời nguyện) được đi trước bởi một thời kỳ mà trong đó vị Bodhisatta thực hành *manopaṇidhi*, khi ngài quyết định trong tâm mong muốn trở thành một vị Phật mà không tuyên bố ý định này cho người khác biết.
+
+Để *abhinīhāra* có hiệu lực, tám điều kiện cần phải được thỏa mãn (Bv.ii.59; được giải thích ở Bv­a.75f. và Snp­a.i.48f): người phát nguyện phải là
+
+- (1) một con người,
+- (2) một nam nhân,
+- (3) đã đủ sự phát triển để trở thành một vị Arahant ngay trong kiếp sống đó,
+- (4) một ẩn sĩ vào thời điểm tuyên bố,
+- (5) ngài phải tuyên bố lời nguyện của mình trước một vị Phật,
+- (6) phải sở hữu các chứng đắc như các jhānas,
+- (7) sẵn sàng hy sinh tất cả, thậm chí là sinh mạng, và
+- (8) sự quyết tâm của ngài phải hoàn toàn vững chắc và không dao động.
+
+Trong trường hợp của Gotama Buddha, *abhinīhāra* của ngài được lập tại Amaravatī trước sự hiện diện của Dīpaṅkara Buddha. Tên của ngài lúc bấy giờ là Sumedha (*q.v.*). Vị Phật mà trước ngài lời *abhinīhāra* được lập ra, sẽ nhìn vào tương lai và, nếu hài lòng, sẽ tuyên bố sự thành tựu của lời nguyện, đề cập đến các chi tiết của sự thành tựu đó. Lời tuyên bố này được gọi là *vyākaraṇa* (thọ ký), và cũng được đưa ra bởi tất cả các vị Phật tiếp theo mà vị Bodhisatta có thể gặp trong suốt sự nghiệp của mình. Sau khi nhận được *vyākaraṇa* đầu tiên, vị Bodhisatta tiến hành khảo sát các phẩm chất cần phải được thu thập bởi mình cho các mục đích của Phật quả (*buddhakārakadhammā*), phù hợp với tập quán của các vị Bodhisatta trước đây. Ngài khám phá ra rằng chúng có số lượng là mười, Mười Ba-la-mật (*dasapāramī*): *dāna* (bố thí), *sīla* (trì giới), *nekkhamma* (xuất gia), *paññā* (trí tuệ), *viriya* (tinh tấn), *khanti* (nhẫn nại), *sacca* (chân thật), *adhiṭṭhāna* (quyết định), *mettā* (tâm từ) và *upekhā* (tâm xả). Bv.ii.116ff.
+
+Đôi khi ba mươi *pāramī* được nói đến, mỗi một trong mười được chia làm ba, khác nhau về loại và mức độ. Do vậy, trong trường hợp của *dāna*, *dānapāramī* bao gồm việc cho đi các chân tay của mình, *dāna-upapāramī* trong việc cho đi tài sản bên ngoài và *dānapāramatthapāramī* trong việc hy sinh mạng sống, điều cuối cùng này là cao tột nhất.
+
+Trong trường hợp của Gotama Buddha, các ví dụ về các kiếp sống mà mười *pāramī* được thực hành đến mức độ cao nhất như sau: các Jātaka Ekarāja, Khantivādī, Cūḷasaṅkhapāla, Mahā Janaka, Mahā Sutasoma, Mūgapakkha, Lomahaṁsa, Sattubhattaka, Sasa, và Sutasomajātakas (Bv­a. 50; Ja.i.44f).
+
+Ngài cũng phát triển bốn Buddhabhūmi (*catasso buddhabhūmiyo*) – *ussāha*, *ummagga*, *avaṭṭhāna* và *hitacariyā* – được giải thích theo thứ tự là nhiệt huyết (*viriya*), trí tuệ (*paññā*), quyết định (*adhiṭṭhāna*) và lòng bi mẫn (*mettābhāvanā*).
+
+Ngài trau dồi sáu *ajjhāsaya* (khuynh hướng tâm) dẫn đến sự thuần thục của Giác ngộ (*bodhiparipākiyā saṁvattanti*), sáu đặc tính này là: *nekkhammajjhāsaya*, *pavivekajjhāsaya*, *alobhajjhāsaya*, *adosajjhāsaya*, *amohajjhāsaya* và *nissaravajjhāsaya*. Snp­a.i.50.
+
+Một Bodhisatta, trong suốt sự nghiệp của mình, thoát khỏi việc bị sinh ra trong mười tám cảnh giới không may mắn (*aṭṭhārasa abhabbaṭṭhānāni*). Ngài không bao giờ sinh ra bị mù, điếc, điên, ngu đần (*eḷamūga*) hoặc tàn tật, hay ở giữa những kẻ man rợ (*milakkhesu*), trong bụng của một nữ nô lệ, hoặc là một kẻ ngoại đạo. Ngài không bao giờ chuyển đổi giới tính của mình, không bao giờ phạm phải bất kỳ điều nào trong năm *ānantarikakamma* (vô gián nghiệp), và không bao giờ trở thành người mắc bệnh phong. Nếu sinh làm loài vật, ngài không bao giờ trở thành loài nhỏ hơn con chim cút hoặc lớn hơn con voi. Ngài không bao giờ sinh ra giữa các hạng *Petas* (Ngạ quỷ) khác nhau hoặc giữa những Kāḷakañjakas, không ở Avīci hay trong các *lokantarakaniraya* (địa ngục giữa các thế giới), cũng không làm Māra, hay trong các cõi giới nơi không có tưởng (*asaññībhava*), không ở Suddhāvāsas, không ở các cõi *Arūpa* (Vô sắc), cũng không bao giờ ở một Cakkavāḷa khác. Snp­a.i.50 f.
+
+Bên cạnh việc thực hành (ba mươi) *pāramī*, tất cả các Bodhisatta phải thực hiện năm sự hy sinh vĩ đại (*mahāpariccāgā*) – cho đi vợ, con cái, vương quốc, cuộc sống và chân tay (Ja.vi.552) và phải hoàn thành ba loại hành vi (*cariyā*): *ñātatthacariyā* (hành vì lợi ích quyến thuộc), *lokatthacariyā* (hành vì lợi ích thế gian) và *buddhi-atthacariyā* (hành vì lợi ích giác ngộ) và bảy *mahādana* (đại bố thí) như được thực hành bởi Vessantara, điều đã làm cho mặt đất chấn động bảy lần. DN­a.ii.427; Dhp­a.iii.441; Bv­a. (116 f.) đưa ra một câu chuyện về Maṅgala Buddha tương ứng với câu chuyện của Vessantara liên quan đến Gotama Buddha. Xem Kharadāṭhika.
+
+Độ dài sự nghiệp của một Bodhisatta thì khác nhau; một số thực hành các *pāramī* trong ít nhất bốn *asaṅkheyya* và một trăm ngàn *kappa*, những người khác trong ít nhất tám *asaṅkheyya* và một trăm ngàn *kappa*, và vẫn có những người khác trong mười sáu *asaṅkheyya* và một trăm ngàn *kappa*. Khoảng thời gian đầu tiên trong số này là mức tối thiểu nhất được yêu cầu và dành cho những ai xuất chúng về trí tuệ (*paññā*), giống như Gotama Buddha của chúng ta. Khoảng giữa dành cho những ai xuất chúng về đức tin (*saddhā*); và khoảng cuối cùng và cao nhất dành cho những ai có đặc điểm chính là sự kiên trì (*viriya*) (Snp­a.i.47 f) giống như Metteyya Buddha.
+
+Trong kiếp sống áp chót của họ, tất cả các vị Bodhisatta được sinh ra ở Tusita (xem Buddha), nơi tuổi thọ kéo dài trong năm mươi bảy crore và sáu triệu năm, nhưng hầu hết các Bodhisatta rời khỏi Tusita trước khi hoàn tất tuổi thọ của họ. Vipassī, ví dụ, là nằm trong số các trường hợp ngoại lệ (DN­a.ii.427).
+
+Khi thời gian công bố về kiếp sinh cuối cùng của họ đến gần, mọi thứ trở nên náo động bởi vì nhiều điềm báo xuất hiện trong mười ngàn thế giới hệ. Chư thiên khắp các thế giới tụ tập lại ở Tusita và thỉnh cầu vị Bodhisatta tìm kiếm sự sinh ra như một con người, để ngài có thể trở thành Đức Phật. Vị Bodhisatta giữ lại câu trả lời của mình cho đến khi ngài đã thực hiện Năm Đại Quán Sát (*pañcamahāvilokanā*) về thời gian, đại lục, nơi sinh, mẹ của ngài và phần tuổi thọ còn lại của bà. Các vị Phật không xuất hiện ở thế gian khi loài người sống thọ hơn một trăm ngàn năm hoặc ít hơn một trăm năm. Các ngài chỉ sinh ra ở Jambudīpa và ở Majjhimadesa, và chỉ thuộc đẳng cấp *Khattiya* hoặc Brahmin (Bà-la-môn). Mẹ của vị Bodhisatta trong kiếp sống cuối cùng của ngài không được là người đam mê sắc dục hoặc nghiện rượu; bà phải thực hành các *pāramī* trong một trăm ngàn *kappa*, đã giữ gìn các giới luật không bị vi phạm từ lúc sinh ra, và không được có định mệnh sống lâu hơn mười tháng bảy ngày sau khi thọ thai vị Bodhisatta.
+
+Sau khi đã hài lòng về những chi tiết này, vị Bodhisatta đi cùng chư thiên khác đến Nandanavana ở Tusita, nơi ngài thông báo sự rời khỏi giữa nhóm của họ và biến mất khỏi họ trong khi đang vui chơi. Vào ngày thọ thai của ngài, mẹ của vị Bodhisatta thọ trì các giới nguyện nhịn ăn và phạm hạnh tại lúc kết thúc của một lễ hội lớn, và khi bà đã lui về nghỉ ngơi, bà nằm mộng thấy Four Regent Gods (Tứ Đại Thiên Vương) mang bà đi cùng với chiếc giường của bà, tắm cho bà ở Hồ Anotatta, mặc cho bà y phục chư thiên, và đặt bà trong một cung điện bằng vàng bao quanh bởi mọi thứ xa hoa. Trong lúc bà nằm đó vị Bodhisatta trong hình dáng một con voi trắng nhập vào bụng bà qua hông phải của bà. Trái đất rung chuyển và tất cả mười ngàn thế giới hệ tràn ngập hào quang. Ngay lập tức Four Regent Gods đảm nhận việc canh gác cho mẹ và con. Trong suốt thời kỳ thai nghén, kéo dài chính xác mười tháng, người mẹ vẫn không bị ốm đau và nhìn thấy đứa trẻ trong bụng bà ngồi kiết già (giống như một người thuyết pháp trên bục, Chú giải DN­a.ii.436 cho hay). Cuối tháng thứ mười; bà hạ sinh đứa trẻ, trong thế đứng ở một khu rừng, không bao giờ ở trong nhà. Các Phạm thiên ở cõi Suddhāvāsa, thoát khỏi mọi dục ái, đón đứa trẻ đầu tiên trong một chiếc lưới vàng, và từ tay các vị này Four Regent Gods đón lấy ngài trên một mảnh da linh dương và trao ngài cho mẹ ngài. Mặc dù vị Bodhisatta sinh ra không có các chất nhầy thường có khi sinh, hai dòng nước – một nóng, một lạnh – dội từ trên trời xuống và tắm cho mẹ và con. Đứa trẻ sau đó bước đi bảy bước về hướng Bắc, đứng vững trên đôi chân của mình, nhìn khắp các hướng, và thấy không có ai ở bất cứ đâu sánh bằng mình, ngài tuyên bố sự tối thượng của mình trên toàn bộ thế giới và sự kiện rằng đây là kiếp sống cuối cùng của ngài. (Gotama Buddha với tư cách là Bodhisatta, đã nói, trong ba kiếp sống khác nhau, ngay khi vừa chào đời – khi là Mahosadha, khi là Vessantara, và trong kiếp sống cuối cùng của ngài, Ja.i.53).
+
+Bảy ngày sau khi sinh mẹ ngài qua đời. Bà chết vì bà không được mang thai một sinh linh nào khác. Thời gian thọ thai của vị Bodhisatta được tính toán sao cho phần tuổi thọ theo định mệnh của người mẹ sẽ kết thúc đúng vào bảy ngày sau khi ngài ra đời. Từ bản kể của Chú giải dường như tuổi của mẹ vị Bodhisatta vào thời điểm ngài sinh ra là khoảng giữa năm mươi và sáu mươi (*majjhimavayassa pana dve koṭṭhāsā atikkamma tatiye koṭṭhāse*) (DN­a.ii.437; Ud­a.278).
+
+Kiếp sống cuối cùng của vị Bodhisatta đi kèm với nhiều phép lạ. Các Chú giải nhìn thấy, trong các sự kiện khác nhau liên quan đến kiếp sống cuối cùng của Bodhisatta, các dấu hiệu của nhiều đặc điểm khác nhau, mà sau này, được liên kết với Đức Phật và giáo pháp của ngài; về các chi tiết xin xem DN­a.ii.439ff.
+
+Các thầy bói, khi được triệu tập, nhìn thấy trên cơ thể của đứa trẻ ba mươi hai tướng tốt của một Đại nhân (*mahāpurisa*), và tuyên bố rằng đứa trẻ sẽ trở thành hoặc là một vị Cakkavatti (Chuyển luân thánh vương) hoặc là một Đức Phật (về các chi tiết của những tướng tốt này hãy xem DN.ii.17ff.; MN.ii.136f. Lý do của những tướng này được đưa ra tại DN.iii.145ff). Cha của ngài, mong muốn rằng con mình sẽ là một vị Cakkavatti thay vì là một Đức Phật, nuôi dưỡng ngài trong sự xa hoa to lớn, che giấu ngài khỏi mọi tội lỗi và sự xấu xí của thế gian. Nhưng số mệnh của một Bodhisatta tự khẳng định lấy nó, và ngài nhận thức được sự hiện diện trên thế gian của tuổi già, bệnh tật, cái chết và sự tự do của tâm trí được tìm thấy trong đời sống của một ẩn sĩ. Trong trường hợp của một số Bodhisatta (ví dụ, Vipassī) bốn dấu hiệu này (được gọi là *nimittāni*) được các ngài nhìn thấy vào những khoảng thời gian khác nhau, nhưng trong trường hợp của những vị khác thì vào cùng một ngày (DN­a.ii.457).
+
+Thúc giục bởi khao khát tìm ra nguyên nhân của đau khổ trên thế gian và lối thoát khỏi nó, vị Bodhisatta xuất gia vào ngày con trai của ngài ra đời.
+
+- Một số Bodhisatta xuất gia cưỡi trên một con voi (ví dụ, Dīpaṅkara, Sumana, Sumedha, Phussa, Sikhī và Koṇāgamana),
+- một số trên cỗ xe ngựa (ví dụ, Koṇḍañña, Revata, Paduma, Piyadassī, và Kakusandha),
+- một số cưỡi ngựa (ví dụ, Maṅgala, Sujāta, Atthadassī, Tissa, Gotama), và
+- một số trong kiệu (ví dụ, Anomadassī, Siddhattha và Vessabhū).
+- Một số, như Nārada, đi bộ,
+- trong khi Sobhita, Dhammadassī và Kassapa di chuyển trong các cung điện của đời sống cư sĩ của mình.
+
+Sau khi xuất gia, vị Bodhisatta thực hành các khổ hạnh, thời gian của những sự thực hành đó khác nhau.
+
+- Trong trường hợp của Dīpaṅkara, Koṇḍañña, Sumana, Anomadassī, Sujāta, Siddhattha và Kakusandha đó là mười tháng;
+- đối với Maṅgala, Sumedha, Tissa và Sikhī đó là tám;
+- đối với Revata là bảy;
+- đối với Piyadassī, Phussa, Vessabhū và Koṇāgamana là sáu;
+- đối với Sobhita là bốn;
+- đối với Paduma, Atthadassī và Vipassī là hai tuần lễ;
+- đối với Nārada, Padumuttara, Dhammadassī và Kassapa là một tuần lễ;
+- và đối với Gotama là sáu năm (về lý do cho khoảng thời gian vĩ đại này trong trường hợp cuối cùng, xem Gotama Buddha).
+
+Vào ngày vị Bodhisatta chứng đạt Phật quả, ngài nhận một bữa ăn cơm sữa (*pāyāsa*) từ một người phụ nữ và một món quà là cỏ *kusa*, thường là từ một vị Ājīvaka, ngài trải nó dưới cội Bồ-đề (cây Bồ-đề thì khác nhau đối với mỗi vị Bodhisatta) làm chỗ ngồi cho ngài. Kích thước của chỗ ngồi này thay đổi;
+
+- các chỗ ngồi của Dīpaṅkara, Revata, Piyadassī, Atthadassī, Dhammadassī và Vipassī dài năm mươi ba cùi tay;
+- chỗ ngồi của các vị Koṇḍañña, Maṅgala, Nārada và Sumedha năm mươi bảy cùi tay;
+- của vị Sumana sáu mươi cùi tay;
+- của các vị Sobhita, Anomadassī, Paduma, Padumuttara và Phussa ba mươi tám;
+- của vị Sujāta ba mươi hai;
+- của vị Kakusandha hai mươi sáu;
+- của vị Koṇāgamana hai mươi;
+- của vị Kassapa mười lăm;
+- của vị Gotama mười bốn (Bv­a. 247).
+
+Trước khi Giác ngộ, vị Bodhisatta có năm giấc mộng lớn:
+
+- (1) Thế giới là chiếc giường của ngài với dãy núi Himālaya làm gối, tay trái của ngài tựa trên vùng biển phía Đông, tay phải trên vùng biển phía Tây, và đôi bàn chân trên vùng biển phía Nam;
+- (2) Một ngọn cỏ tiriyā (kusa) mọc ra từ rốn của ngài chạm đến tận các đám mây;
+- (3) Những con giun trắng có đầu đen bò lên từ chân ngài, che phủ đến đầu gối ngài;
+- (4) Bốn con chim với những bộ lông có màu sắc khác nhau từ bốn phương của thế giới rơi xuống chân ngài và biến thành màu trắng;
+- (5) Ngài đi tới đi lui trên một đống phân, mà không bị dấy bẩn.
+
+Để biết về các lời giải thích của những giấc mộng này, hãy xem AN.iii.240f.; những giấc mộng này được đề cập đến ở Ja.i.69.
+
+Vào ngày hôm sau, vị Bodhisatta ngồi kiết già trên chỗ ngồi của mình quay mặt về hướng Đông, quyết tâm không đứng dậy cho đến khi ngài đạt được mục tiêu của mình. Chư thiên ở tất cả các thế giới tụ hội về để tôn vinh ngài, nhưng Māra (*q.v.*) đến với các đội quân hùng mạnh của y và chư thiên chạy trốn. Suốt ngày, cuộc chiến tiếp diễn giữa Māra và vị Bodhisatta; chỉ có các *pāramī* là hiện diện để trợ giúp vị Bodhisatta, và khi thời điểm đến, Nữ thần Trái đất làm chứng cho những sự hy sinh to lớn của ngài, trong khi Māra và các đạo quân của y rút lui trong sự thất bại vào lúc mặt trời lặn, chư thiên khi đó quay trở lại và hát một bài ca chiến thắng. Trong khi đó, vị Bodhisatta trải qua đêm đó trong sự tĩnh định sâu sắc; trong canh một ngài đạt được tuệ giác về các tiền kiếp, trong canh hai ngài phát triển thiên nhãn, trong khi ở canh cuối ngài suy ngẫm về và thấu hiểu học thuyết *Paṭiccasamuppāda* (Duyên khởi). Tư duy của ngài di chuyển xuôi và ngược qua chuỗi nhân duyên và mười hai lần trái đất rung chuyển. Với bình minh, sự toàn tri (nhất thiết trí) bừng nở nơi ngài, và ngài trở thành Vị Chánh Đẳng Giác, thốt lên *udāna* (câu cảm thán) chiến thắng của mình, trong khi toàn bộ thế giới vui mừng cùng với ngài.
+
+Về *Paṭiccasamuppāda* xem DN.ii.31ff.; về các chi tiết khác xem Ja.i.56ff., nơi câu chuyện của Gotama được cung cấp. DN­a.ii.462ff đưa ra những chi tiết tương tự liên quan đến Vipassī; Bv­a.248 nói rằng điều này là giống nhau đối với tất cả các vị Bodhisatta.
+
+Bên trên là một báo cáo vắn tắt, được đưa ra trong kinh sách, về một số đặc điểm chung đối với tất cả các Bodhisatta. Ngoài những điều này, các chi tiết về sự nghiệp cá nhân của vị Bodhisatta đã trở thành Gotama, được tìm thấy, chủ yếu trong Buddhavaṁsa và Jātaka Commentary. Nó đã được nói đến rằng mỗi vị Bodhisatta nhận được *vyākaraṇa* (sự thọ ký) từ mọi vị Phật mà ngài gặp, và Gotama không là một ngoại lệ.
+
+- Ngài đã nhận được vyākaraṇa đầu tiên của ngài với tư cách là ẩn sĩ Sumedha, từ vị Phật Dīpaṅkara;
+- và sau đó, khi là một vị Cakkavatti, từ Koṇḍañña;
+- với tư cách là Bà-la-môn Suruci, từ Maṅgala;
+- với tư cách là Nāga vương Atula, từ Sumana;
+- với tư cách là Bà-la-môn Atideva, từ Revata;
+- với tư cách là Bà-la-môn Ajita, từ Sobhita;
+- với tư cách là một thủ lĩnh của các Yakkha, từ Anomadassī;
+- với tư cách là một con sư tử, từ Paduma;
+- với tư cách là một ẩn sĩ (Isi) từ Nārada;
+- với tư cách là một quan thống đốc (Mahā Raṭṭhiya) Jaṭila, từ Padumuttara;
+- với tư cách là thanh niên Uttara, từ Sumedha;
+- với tư cách là vị vua Cakkavatti, từ Sujāta;
+- với tư cách là thanh niên Kassapa, từ Piyadassī;
+- với tư cách là ẩn sĩ Susīma, từ Atthadassī;
+- với tư cách là Sakka, từ Dhammadassī;
+- với tư cách là ẩn sĩ Maṅgala, từ Siddhattha;
+- với tư cách là Sujāta, từ Tissa;
+- với tư cách là Vua Vijitāvī, từ Phussa;
+- với tư cách là Nāga vương Atula, từ Vipassī;
+- với tư cách là Vua Arindama, từ Sikhī;
+- với tư cách là Vua Sudassana, từ Vessabhū;
+- với tư cách là Vua Khema, từ Kakusandha;
+- với tư cách là Vua Pabbata, từ Koṇāgamana;
+- và với tư cách là thanh niên Jotipāla, từ Kassapa.
+
+Jātaka Commentary cung cấp các chi tiết về những kiếp sống khác của vị Bodhisatta (vào những kiếp sống được đưa ra ở dưới và được lấy từ Jātaka Commentary nên được thêm vào những kiếp được đưa ra trong Pubbakammapiloti của Apadāna i.299ff.; cũng như Ud­a, và được đưa ra ở mục từ Gotama) ví dụ, như là Akitti, Ajjuna, Aṭṭhisena, Anitthigandha, Ayoghara, Araka, Arindama, Alīnacitta, Alīnasattu, Asadisa, Ādāsamukha, Udaya, Udayabhadda, Kaṭṭhavāhana, Kaṇhadīpāyana, Kaṇha *paṇḍita*, Kapila, Kappa, Kassapa, Kāraṇḍiya, Kāliṅga Bhāradvāja, Kuṇāla, Kuṇḍakumāra, Kuddālaka, Kusa, Komāyaputta, Khadiravaniya, Guttila, Ghata, Canda, Candakumāra, Campeyya, Citta *paṇḍita*, Cūḷaka *seṭṭhi*, Cūḷa Dhanuggaha, Chaddanta, Chalaṅga *kumāra*, Janasandha, Juṇha, Jotipāla (= Sarabhaṅga), Takkapaṇḍita, Takkāriya, Tirīṭavaccha, Temiya (= Mūgapakkha), Dīghāvu, Duyyodhana, Dhanañjaya, Dhamma, Dhammaddhaja, Dhammapāla (hoàng tử và Bà-la-môn), Nārada, Nigrodha, Nimi, Pañcālacaṇḍa, Pañcāvudha, Paṇḍita, Paduma *kumāra*, Baka, Bodhi *kumāra*, Brahmadatta (trong một số kiếp sống), Bhaddasāla, Bharata, Bhallātiya, Bhūridatta, Bhojanasuddhika, Makhādeva, Magha, Mandhātā, Mahā Kañcana, Mahā Janaka, Mahā Dhana, Mahā Bodhi (= Bodhi), Mahā Sīlava, Mahā Sudassana, Mahiṁsāsa, Mahosadha, Mātaṅga, Mūgapakkha (= Temiya,) Yuvañjaya, Rakkhita, Rāma, *Lomasa* Kassapa, Vacchanakha, Vidhura, Visayha, Vessantara, Saṅkicca, Saṅkha, Santusita, Sambhava, Sarabhaṅga, Sādhīna, Siri, Suciparivāra, Sujāta, Sutana, Sutasoma, Suppāraka, Suvaṇṇasāma, Susīma, Senaka, Seruva, Soṇa, Soma, Somadatta, Somanassa, Hatthipāla và Hārita.
+
+Trong những kiếp này và các kiếp sống khác, vị Bodhisatta đã giữ nhiều vị trí khác nhau trong cuộc sống, chẳng hạn như một
+
+- người nhào lộn (Dubbacajātaka);
+- ājīvaka (tu sĩ ngoại đạo) (Lomahaṁsajātaka);
+- ẩn sĩ (trong nhiều kiếp);
+- thợ cắt tóc (Illīsajātaka);
+- trưởng đoàn lữ hành (Kimpakkajātaka và Mahā Vāṇijajātaka);
+- thợ mộc (Samuddavāṇijajātaka);
+- giáo sĩ (trong nhiều kiếp);
+- người thổi ốc tù và (Saṅkhadhamanajātaka);
+- quan cố vấn (Kacchapa, Kalāyamuṭṭhi, Kukku, Giridanta, Dhūmakāri, Pabbatūpatthara, Pādañjali, Puṭabhatta, các Vālodakajātaka);
+- cận thần (Bāhayi, Sālittaka, v.v.);
+- người chơi xúc xắc (Littajātaka);
+- người đánh trống (Bherivādajātaka);
+- người huấn luyện voi (Saṅgāmāvacarajātaka);
+- nông dân (Kañcanakkhandha, Kummāsapiṇḍa, Sīhacamma, các Suvaṇṇakakkaṭajātaka);
+- người gác rừng (Khurappajātaka);
+- người làm vườn (Kuddālakajātaka);
+- thợ kim hoàn (Kuṇālajātaka);
+- người bán hàng rong (Serivajātaka);
+- người buôn ngựa (Kuṇḍakakucchisindhavajātaka);
+- gia chủ (Gahapati và Jāgarajātaka, cũng như Kuṇḍaka, Sutana và Hārita);
+- quan tòa (Kūṭavāṇijajātaka, Rathalatthijātaka);
+- vua (trong nhiều kiếp, ví dụ: Arindama, Ādasamukha, v.v.);
+- thủy thủ (Suppārakajātaka);
+- thương nhân (một số kiếp, ví dụ như Paṇḍita, v.v.);
+- đại thần (trong nhiều kiếp, ví dụ như Senaka, Vidhura);
+- nhạc sĩ (Guttila); y sĩ (Kāmajātaka và Visavantajātaka);
+- thợ gốm, (Kacchapajātaka, Kumbhakārajātaka);
+- tướng cướp (Chú giải sư, Ja.ii.389, giải thích rằng khi một vị Bodhisatta sinh ra như một kẻ ác thì điều đó là do lỗi trong lá số tử vi của ngài) (Kaṇaverajātaka, Satapattajātaka);
+- thợ rèn (Sūcijātaka);
+- điền chủ (ví dụ, Nandajātaka);
+- thợ cắt đá (Babbujātaka);
+- bậc thầy (trong nhiều kiếp, ví dụ: Anabhirati, Durājāna, Losakajātaka);
+- quan thủ quỹ (ví dụ như Cūḷaka, Visayha, Saṅkha và Suciparivāra);
+- người nhào lộn (Ucchiṭṭhabhattajātaka); và
+- người định giá (Taṇḍulanālijātaka).
+
+Vị Bodhisatta đã được sinh ra
+
+- là một Caṇḍāla (kẻ bần cùng) trong nhiều kiếp sống (ví dụ, như Citta và Mātaṅga);
+- trong một số trường hợp là Sakka, (ví dụ trong các Jātaka Kāmanīta, Kelisīla, Mahā Panāda và Vakajātakas;).
+- Ngài đã sinh ra vài lần trong cõi Deva (chư thiên) (ví dụ như Dhamma và Bhaddasāla, cũng trong các Jātaka Kakkāru, Kāmavilāpa và Mittavindajātaka.)
+- Ngài là một vị Brahma (Phạm thiên) của cõi Ābhassara (Candābhajātaka và Janasodhanajātaka);
+- và một vị Mahā Brahmā (Parosahassa và Mahā Nārada Kassapa), trong kiếp sau ngài có tên là Nārada.
+- Ngài là một tinh linh không khí (Puppharattajātaka) và một tinh linh núi (ví dụ: Kākajātaka và Samuddajātaka);
+- một tinh linh cây trong vô số kiếp (ví dụ: Āyācitabhatta, Baka, Matakabhatta, Rukkhadhammajātaka);
+- và một tinh linh rừng (các Jātaka Kaṇḍina và Gūthapānajātaka).
+
+Nhiều Jātaka đề cập đến việc sinh ra của vị Bodhisatta giữa các loài vật – ví dụ:
+
+- làm con trâu (Mahisajātaka);
+- bò đực (như Ayyakāḷaka, Nandivisāla, Mahā Lohita, Sārambha);
+- gà trống (trong hai Kukkuṭajātaka, Số 383, 448);
+- quạ (như Vīraka và Supatta và trong Kākajātaka);
+- chó (Kukkurajātaka);
+- voi (ví dụ: các Jātaka Chaddanta và Sīlavajātaka;);
+- cá (Mitacintī);
+- ếch (Haritamātajātaka);
+- garuḍa (kim sí điểu) (ví dụ: Sussoṇḍijātaka);
+- ngỗng (ví dụ: các Jātaka Ulūka, Cakkavāka, Neru, Palāsajātaka);
+- thỏ (Sasajātaka);
+- ngựa (các Jātaka Ājañña, Bhogājānīyajātaka và như Vātaggasindhava);
+- kỳ đà (Godhajātaka);
+- chó rừng (Sigālajātakas);
+- Kinnara (như Canda);
+- sư tử (ví dụ: Guṇa, Sigālajātaka (Ja 152), Sūkarajātaka);
+- vịt cổ xanh (Naccajātaka);
+- khỉ (Kapi, Naḷapāna, Mahā Kapi, các Suṁsumārajātaka và như Nandiya);
+- vẹt (ví dụ như Jambuka, Pupphaka, Poṭṭhapāda, và Rādha);
+- công (Các số 42, 375, Mora, Bāveru, và các Mahā Morajātaka);
+- lợn (Mahā Tuṇḍilajātaka);
+- chim bồ câu (Kapota, Kāka Số 395, Romaka, các Lolajātaka);
+- chim cút (ba Vaṭṭaka, và các Sammodamānajātaka);
+- chuột (các Jātaka Aggika và Bilārajātaka);
+- rắn – Nāga (như Campeyya, Bhuridatta, Mahā Daddara, Saṅkhapāla);
+- kền kền (như Aparaṇṇa và trong ba Gijjhajātaka, Các số 164, 399, 427), và
+- chim gõ kiến (như Khadiravaniya và trong Javasakuṇajātaka).
+
+Vị Bodhisatta đã sinh ra vài lần trong các địa ngục (Ap.i.299 ff). Những ước muốn của các vị Bodhisatta thường được hoàn thành (Ja.iii.283; v.282, 291; vi. 401, 405, v.v.), chủ yếu là do trí tuệ to lớn của các ngài (Ja.iii.282) và sự nhiệt tâm (Ja.iii.425). Trí tuệ của một Bodhistatta thì lớn hơn của một vị Pacceka Buddha (Ja.iv.341). Xem thêm Buddha.
 
 ## Notes

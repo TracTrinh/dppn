@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "17"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāga 17. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 17. Một vị tỳ-kheo của *vihāra* Kontaraṭṭhakapabbata. Ông đã viên tịch khi đang ngồi giữa không trung, và Kākavaṇṇatissa, sau khi nghe một con quạ báo tin về điều đó, đã dành cho ông sự tôn vinh to lớn. Ras.ii.64.
 
 ## Notes

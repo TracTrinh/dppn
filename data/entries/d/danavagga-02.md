@@ -5,7 +5,7 @@ base_headword: "Dānavagga"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dānavagga 02. The fourth chapter of the *Aṭṭhakanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānavagga 02. Phẩm thứ tư của *Aṭṭhakanipāta* trong Aṅguttaranikāya. AN.iv.236-48.
 
 ## Notes

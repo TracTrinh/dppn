@@ -5,7 +5,7 @@ base_headword: "Devadahasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Devadahasutta 01. Preached to the monks at <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadahasutta 01. Được thuyết cho các vị sư tại Lumbinīvana (MN­a.ii.810), ở Devadaha. Kinh này bàn về giáo thuyết của các Nigaṇṭhas, rằng bất cứ điều gì cá nhân trải nghiệm đều đến từ các hành động trước kia. *Sutta* này cũng nêu mười niềm tin của các Nigaṇṭhas, mà Đức Phật nói là đáng bị khiển trách. Đối lập với những điều này, mười phát biểu được đưa ra về Tathāgata, vốn tự thân là chân thật. MN.ii.214ff.
 
 ## Notes

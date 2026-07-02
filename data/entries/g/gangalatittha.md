@@ -5,7 +5,7 @@ base_headword: "Gaṅgalatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gaṅgalatittha. A ford on the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgalatittha. Một bến đò trên sông Kadambanadī gần Anurādhapura. Đây là điểm khởi đầu của ranh giới mà Devānampiyatissa đã vạch ra cho Mahā Vihāra. Mhv­ṭ.361; cf. Mbv.136.
 
 ## Notes

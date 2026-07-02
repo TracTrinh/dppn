@@ -5,7 +5,7 @@ base_headword: "Giridantajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,8 @@ For the introductory story see the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giridantajātaka (Ja 184). Vua Sāma nước Benares có một con ngựa của nhà nước tên là Paṇḍava, người huấn luyện nó là Giridanta bị thọt. Quan sát thấy người huấn luyện của mình đi khập khiễng, con ngựa đã bắt chước ông ta. Khi nhà vua nhìn thấy con ngựa đi khập khiễng, không thể khám phá ra nguyên nhân, ngài đã nhờ người cố vấn của mình, là Bodhisatta, điều tra vấn đề này. Bodhisatta báo cáo rằng đó là kết quả của sự giao du xấu, và đã cho người huấn luyện khác thay thế ông ta. Người huấn luyện đó là Devadatta (Ja.ii.98f).
+
+Đối với câu chuyện giới thiệu, xem Mahilāmukhajātaka (Ja 26).
 
 ## Notes

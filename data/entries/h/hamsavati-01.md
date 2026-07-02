@@ -5,7 +5,7 @@ base_headword: "Haṁsavatī"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -30,6 +30,6 @@ Haṁsavatī 01. The city of birth of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsavatī 01. Thành phố nơi Padumuttara Buddha sinh ra (Ja.i.37; Bv.xi.19, etc.). Thành này cũng tồn tại vào thời Tissa Buddha, vì ngài đã thuyết pháp cho Brahmadeva và Udayana của Haṁsavatī (Bva.189). Con sông Bhagīrathī chảy qua thành này. Ap.ii.343.
 
 ## Notes

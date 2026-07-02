@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷa"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Kāḷa 04. A householder of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷa 04. Một gia chủ của Bandhumatī vào thời Đức Phật Vipassī. Ông là một tiền kiếp của Aññā Koṇḍañña. Ông và em trai của mình là Cūḷa Kāḷa đã dâng cúng những hoa trái đầu mùa từ vụ thu hoạch của họ, trong chín giai đoạn phát triển của nó, cho Đức Phật. AN­a.i.79ff.; Thag­a.ii.1f.
 
 ## Notes

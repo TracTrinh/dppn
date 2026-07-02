@@ -5,7 +5,7 @@ base_headword: "Saṁyama"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Saṁyama. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁyama. Một vị vua xứ Benares, được nhắc đến trong Mahā Haṁsajātaka (Ja 534). Khemā là hoàng hậu chính của ông. Ông được nhận diện là Sāriputta. Ja.v.354, 382.
 
 ## Notes

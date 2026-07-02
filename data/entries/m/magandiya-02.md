@@ -5,7 +5,7 @@ base_headword: "Māgandiya"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,8 @@ Māgandiya 02. A *Paribbājaka*. The Buddha was once staying in the fire hut of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiya 02. Một vị *Paribbājaka*. Đức Phật có lần đang lưu trú trong ngôi nhà thờ lửa của Bà-la-môn *gotta* Bhāradvāja ở Kammāsadamma thì Māgandiya đến ngôi nhà đó. Nhìn thấy chiếc chiếu cỏ mà Đức Phật ngủ vào ban đêm, ông hỏi đó là của ai, và, khi được cho biết, ông đã rất khó chịu, gọi Đức Phật là một kẻ chủ trương kìm nén hà khắc (*bhunahu*). Bhāradvāja phản đối, thế là Māgandiya đề nghị lặp lại lời buộc tội của ông ngay trước mặt Đức Phật. Đức Phật, nhận biết được cuộc trò chuyện này, đã bước vào ngôi nhà thờ lửa vào buổi tối và có một cuộc thảo luận với Māgandiya, người cuối cùng đã gia nhập Tăng đoàn, sau này trở thành một vị Arahant. MN.i.502ff.; Mil.313.
+
+Buddhaghosa giải thích (MN­a.ii.681) rằng Māgandiya này là cháu trai của Māgandiya (1).
 
 ## Notes

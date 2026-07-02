@@ -5,7 +5,7 @@ base_headword: "Mahā Devarattakurava"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Devarattakurava. A *vihāra* in the district of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Devarattakurava. Một tu viện ở quận Kāsikhaṇḍa tại Tích Lan; Anurārāma là một tòa nhà gắn liền với nó. Cv.xli.101.
 
 ## Notes

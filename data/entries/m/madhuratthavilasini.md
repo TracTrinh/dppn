@@ -5,7 +5,7 @@ base_headword: "Madhuratthavilāsinī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,6 @@ Madhuratthavilāsinī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhuratthavilāsinī, Chú giải Buddhavaṁsa. Một Bản Chú giải về Buddhavaṁsa do Trưởng lão Buddhadatta ở Kāvīrapaṭṭana viết theo yêu cầu của Buddhasīha. Gv.60; Bv­a.249; Svd.1195.
 
 ## Notes

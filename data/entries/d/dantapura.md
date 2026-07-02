@@ -5,7 +5,7 @@ base_headword: "Dantapura"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -35,6 +35,6 @@ Dantapura. Capital of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantapura. Thủ đô của quốc gia Kaliṅga, được trị vì bởi Vua Sattabhu, cùng thời với Reṇu (DN.ii.235f). Các vị vua khác được nhắc đến là Nāḷikīra (Ja.v.144) và Karaṇḍu (Ja.iii.376ff). Thành phố cũng được đề cập đến trong Kurudhammajātaka (Ja 276, also Dhp­a.iv.89; see also Mvu.iii.361, 364), Cūḷa Kāliṅgajātaka (Ja 301), và Kāliṅgabodhijātaka (Ja 479) (*q.v.*). Răng nanh bên trái của Đức Phật đã được thờ ở Dantapura cho đến khi được Dantakumāra mang đến Tích Lan. Nó đã được Trưởng lão Khema (Dāṭh.ii.52, 57; for its identification see CAGI.593) trao lại cho Brahmadatta, vua của Dantapura.
 
 ## Notes

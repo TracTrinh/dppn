@@ -5,7 +5,7 @@ base_headword: "Mahā Dundubhi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Dundubhi. Thirty thousand *kappas* ago there were sixteen kings of this na
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dundubhi. Ba mươi nghìn kappa trước có mười sáu vị vua mang tên này, đều là những tiền kiếp của Trưởng lão Vappa (hoặc Saraṇāgamaniya). Thag.i.141; Ap.i.149.
 
 ## Notes

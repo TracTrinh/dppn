@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇadhammikasutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -28,6 +28,8 @@ The Brahmins, pleased with the Buddha’s sermon, declared themselves his follow
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇadhammikasutta. Một vài vị Bà-la-môn già yếu và lụ khụ nhưng giàu có (*Mahā Sāla*) ở Kosala, đến thăm Đức Phật tại Jetavana và hỏi ngài liệu những thực hành của những vị Bà-la-môn trong chính thời đại của họ có phù hợp với những người thời xưa hay không. Đức Phật trả lời là không và mô tả chi tiết tiêu chuẩn đạo đức cao của cuộc sống của các Bà-la-môn thời cổ đại. Tuy nhiên, theo thời gian, các Bà-la-môn đã bị xáo trộn bởi cảnh tượng về sự giàu có của vua và những người phụ nữ trang điểm và đeo châu báu, và trở nên thèm khát những thứ này. Sau đó họ đã xúi giục vua cúng dường và tổ chức các lễ hiến tế động vật để những thứ này có thể đem lại lợi ích cho chính họ. Do đó, sự công chính đã suy tàn và bệnh tật trở nên phổ biến trong loài người.
+
+Các vị Bà-la-môn, hoan hỷ với bài pháp của Đức Phật, đã tuyên bố mình là tín đồ của ngài. Snp.pp.50-55.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Kaṁsa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,6 @@ Mahā Kaṁsa. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kaṁsa. Vua của Asitañjana ở Kaṁsabhoga tại Uttarāpatha. Các con của ông là Kaṁsa, Upakaṁsa và Devagabbhā. Ja.iv.79; Pv-a.111.
 
 ## Notes

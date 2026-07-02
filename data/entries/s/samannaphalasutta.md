@@ -5,7 +5,7 @@ base_headword: "Sāmaññaphalasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -44,6 +44,14 @@ The Commentary adds (DN­a.i.238) that as a result of hearing this discourse, <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmaññaphalasutta. *Sutta* thứ hai của Dīghanikāya. Ajātasattu, cùng với Jīvaka, đến thăm Đức Phật tại Ambavana của Jīvaka và hỏi Ngài về các quả vị của đời sống sa-môn, vì sao người ta gia nhập Tăng đoàn của Đức Phật. Đức Phật trả lời, và trong câu trả lời có bao gồm sự biện minh của Ngài cho việc thành lập Tăng đoàn, cho việc ban hành Vinaya, và các quy tắc thực hành mà theo đó đời sống trong Tăng đoàn được điều chỉnh.
+
+*Sutta* này cũng chứa một danh sách các nghề nghiệp thông thường mà người ta theo đuổi vào thời Đức Phật, tạo nên phần đọc thú vị.
+
+Trong câu chuyện dẫn nhập, Ajātasattu giải thích rằng ông đã từng đặt câu hỏi này cho những vị sáng lập của sáu giáo phái khác: Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambala, Pakudha Kaccāyana, Nigaṇṭha Nātaputta, Sañjaya Belatthiputta. Nhưng các vị thầy này, thay vì trả lời câu hỏi của ông, lại đưa ra một tuyên bố chung về học thuyết của mình.
+
+Những bản tóm lược về các học thuyết của họ được trình bày ở đây rất đáng chú ý, vì chúng ít nhất cũng là một dạng bằng chứng về những quan điểm mà họ ưa chuộng. Bằng một câu hỏi ngược lại, Đức Phật khiến Ajātasattu nhận ra rằng ngay cả khi một người đầy tớ của ông gia nhập Tăng đoàn, người ấy cũng sẽ nhận được vinh dự và sự kính trọng của nhà vua. Rồi Đức Phật lần lượt chỉ ra, từng bước một, những quả vị cao quý hơn đang chờ đợi vị *samaṇa*, có hiệu quả ngay tức thì, đạt đến đỉnh điểm là sáu loại *abhiññā* của một *Arahant*. Nhà vua vô cùng cảm kích, quy y Đức Phật, và bày tỏ sự hối hận vì đã giết cha mình. Đức Phật không nói một lời trách móc nào, nhưng sau khi nhà vua rời đi, Ngài cho các tỳ-kheo biết rằng nếu Ajātasattu không phạm tội giết cha thì đã chứng đắc quả vị đầu tiên của Đạo (DN.i.47-86).
+
+Chú giải nói thêm (DN­a.i.238) rằng nhờ nghe pháp thoại này, về sau Ajātasattu sẽ trở thành một Pacceka Buddha có tên là Viditavisesa. Từ khoảnh khắc này, Ajātasattu trở thành một trong những đệ tử tận tụy nhất của Đức Phật. Có nói rằng, sau khi cha mình qua đời, Ajātasattu không bao giờ có thể ngủ được vào ban đêm cho đến khi đã được nghe Đức Phật thuyết pháp, sau đó ông mới có được giấc ngủ an lành.
 
 ## Notes

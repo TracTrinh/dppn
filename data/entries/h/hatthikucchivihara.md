@@ -5,7 +5,7 @@ base_headword: "Hatthikucchivihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,6 @@ Hatthikucchivihāra. A monastery in Ceylon where <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthikucchivihāra. Một tu viện ở Tích Lan nơi Aggabodhi I đã xây một *pāsāda*, mang tên con gái ông là Dāṭhā (Cv.xlii.21). Aggabodhi VI xây tại đó một *pāsāda* khác (Cv.xlviii.65), được Aggabodhi IX trùng tu (Cv.xlix.76). Rõ ràng đây từng là một *vihāra* nổi tiếng. Xem, eg., Vsm.120.
 
 ## Notes

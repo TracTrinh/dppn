@@ -5,7 +5,7 @@ base_headword: "Hetusutta"
 disambiguator: "03"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hetusutta 03. The body, etc., are void of self, so is their cause. SN.iii.24.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hetusutta 03. Thân, etc., đều không có tự ngã, nguyên nhân của chúng cũng vậy. SN.iii.24.
 
 ## Notes

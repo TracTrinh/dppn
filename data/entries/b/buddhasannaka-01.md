@@ -5,7 +5,7 @@ base_headword: "Buddhasaññaka"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Buddhasaññaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasaññaka 01. Buddhasaññaka Thera. Một vị *Arahant*. Vào thời Đức Phật Vipassī, ông là một thiên nhân (Deva) ở cõi địa cầu, và khi Đức Phật viên tịch, trái đất rung chuyển, ông đã nhận ra oai lực của Đức Phật và tôn kính Ngài trong tâm. Mười bốn *kappa* trước, ông là một vị vua tên Samita (Ap.i.151f). Có lẽ ông đồng nhất với Meghiya Thera. Thag­a.i.149f.
 
 ## Notes

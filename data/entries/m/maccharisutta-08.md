@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "08"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 08. The five forms of meanness: in sharing lodgings, the services
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 08. Năm hình thức của sự keo kiệt: trong việc chia sẻ chỗ ở, sự phục vụ của một gia đình, lợi lộc, danh tiếng và Pháp. AN.iv.459.
 
 ## Notes

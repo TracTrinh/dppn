@@ -5,7 +5,7 @@ base_headword: "Sambodhivagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambodhivagga. The eleventh chapter of the *Tikanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambodhivagga. Chương thứ mười một của *Tikanipāta* trong Aṅguttaranikāya. AN.i.258-65.
 
 ## Notes

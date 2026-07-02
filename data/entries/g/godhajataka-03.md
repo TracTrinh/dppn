@@ -5,7 +5,7 @@ base_headword: "Godhajātaka"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Godhajātaka 03. (Ja 325). The story of the past is very similar to No.1 above, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhajātaka 03. (Ja 325). Câu chuyện của quá khứ rất giống với No.1 ở trên, ngoại trừ việc chỉ có sự đề cập đến một vị khổ hạnh và ông ta là một kẻ đạo đức giả. Con thằn lằn nhỏ đã đe dọa sẽ vạch trần sự đạo đức giả của vị khổ hạnh và ép buộc ông ta phải rời khỏi am thất. Câu chuyện được kể liên quan đến một vị tỳ-kheo là kẻ gian lận và là một kẻ bịp bợm (Ja.iii.84f). Cf. Kuhaka Brāhmaṇavatthu (Dhp­a.iv.154f.).
 
 ## Notes

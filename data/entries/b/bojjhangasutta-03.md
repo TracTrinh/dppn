@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgasutta"
 disambiguator: "03"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bojjhaṅgasutta 03. Describes how concentration on breathing leads to the culti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgasutta 03. Mô tả cách định tâm trên hơi thở dẫn đến sự trau dồi bảy *bojjhaṅga*. SN.v.312.
 
 ## Notes

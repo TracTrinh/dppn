@@ -5,7 +5,7 @@ base_headword: "Mahā Maṅgalajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -34,6 +34,8 @@ The story was related in reference to the preaching of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṅgalajātaka (Ja 453). Bodhisatta, tên là Rakkhita, sinh ra trong một gia đình Bà-la-môn giàu có. Ông kết hôn, và sau đó, khi đã phân phát toàn bộ tài sản của mình, ông trở thành một vị đạo sĩ với năm trăm môn đồ. Trong mùa mưa, các đệ tử của ông đã đi đến Benares và cư ngụ trong công viên của nhà vua, trong khi Rakkhita ở lại trong am thất. Vào thời điểm đó, có một cuộc thảo luận lớn đang diễn ra giữa những người dân về điều gì cấu thành nên sự điềm lành, và các đệ tử của Rakkhita, khi được hỏi ý kiến, nói rằng Rakkhita sẽ giải quyết vấn đề này. Do đó, họ đi đến am thất của Rakkhita và hỏi ông câu hỏi đó, mà ông đã trả lời trong một loạt tám bài kệ. (Những *maṅgala* được liệt kê trong những bài kệ này khác với những điều được đưa ra trong Maṅgalasutta). Các đệ tử, sau khi đã học thuộc các bài kệ, đã trở về Benares, nơi họ đã diễn giải chúng, qua đó dập tắt mọi nghi ngờ.
+
+Câu chuyện này được kể lại liên quan đến việc thuyết giảng Mahā Maṅgalasutta. Chuyện xảy ra là tại Rājagaha có một hội chúng lớn tại Santhāgāra, và một người đàn ông đứng lên rồi đi ra ngoài, nói rằng, “Đây là một ngày của điềm lành.” Một người nào đó, nghe thấy điều này, đã hỏi ý nghĩa của “điềm lành”. Một người nói, “Sự nhìn thấy một vật may mắn là một điềm lành.” Nhưng điều này đã bị phủ nhận, và sau đó bắt đầu cuộc thảo luận về những điềm báo, cuối cùng, nó được đưa đến Sakka, và được ngài chuyển đến Đức Phật. Vị đệ tử trưởng của Rakkhita được nhận diện là Sāriputta (Ja.iv.72-9).
 
 ## Notes

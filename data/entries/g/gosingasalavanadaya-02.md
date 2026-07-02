@@ -5,7 +5,7 @@ base_headword: "Gosiṅgasālavanadāya"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -33,6 +33,6 @@ Gosiṅgasālavanadāya 02. A forest tract near <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gosiṅgasālavanadāya 02. Một vùng rừng gần Vesālī. Khi Đức Phật đang sống ở Kūṭāgārasāla, tại Mahavana, Ngài được rất nhiều người đến thăm và có sự quấy rầy rất lớn. Để tìm kiếm sự yên tĩnh và cô độc, một số vị tỳ-kheo, trong đó có Cāla, Upacāla, Kakkaṭa, Kalimbha, Nikaṭa và Kaṭissaha, đã lui về khu rừng này (AN.v.133).
 
 ## Notes

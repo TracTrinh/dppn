@@ -5,7 +5,7 @@ base_headword: "Heḷigāma"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Heḷigāma 01. A village near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Heḷigāma 01. Một ngôi làng gần Mahā Gāma, được vua Vasabha ban tặng cho Anurārāmavihāra. Mhv.xxxv.83.
 
 ## Notes

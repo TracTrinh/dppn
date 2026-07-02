@@ -5,7 +5,7 @@ base_headword: "Hāliddakāni Suttā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,6 @@ Hāliddakāni Suttā. Three *Suttas* which describe the interviews which <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hāliddakāni Suttā. Ba bài *Sutta* mô tả các cuộc gặp gỡ giữa Hāliddakāni (*q.v.*) với Mahā Kaccāna tại Kumaragharapapāta ở Avanti. SN.iii.9 f; 13f; iv.115f; bài cuối được gọi là Hāliddakasutta. Xem thêm MNid.i.197f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maggasutta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maggasutta 01. The Buddha tells the monks how, as he meditated under the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasutta 01. Đức Phật kể cho các tỳ-kheo nghe về việc khi ngài đang thiền định dưới gốc cây *nigrodha* Ajapāla, ngài đã có một niềm tin chắc chắn rằng con đường duy nhất dẫn đến Nibbāna là sự tu tập bốn *satipaṭṭhāna*. Brahma Sahampati đã đọc được suy nghĩ của ngài, và, hiện ra trước mặt ngài, đã xác nhận quan điểm này. SN.v.167f.; 185f.
 
 ## Notes

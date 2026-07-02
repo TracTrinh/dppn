@@ -5,7 +5,7 @@ base_headword: "Esukārī"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -26,6 +26,6 @@ Esukārī 01. A Brahmin who visits the Buddha at <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Esukārī 01. Một vị Bà-la-môn đã đến thăm Đức Phật tại Jetavana và hỏi ngài nhiều câu hỏi khác nhau về các giai cấp và sự phân biệt của chúng, từ góc độ chức năng của họ. Đức Phật trả lời rằng rào cản bất công của sự sinh ra đã được đặt ra bởi các vị Bà-la-môn, mà không hề tham khảo ý kiến của bất kỳ ai khác; cả bốn giai cấp đều có thể sống một đời sống tốt đẹp, đó là sự phụng sự đích thực, và tuân theo Pháp, đó là sự giàu có đích thực. Vào cuối bài thuyết giảng, Esukārī đã tuyên bố mình là một môn đồ của Đức Phật (MN.ii.177ff).
 
 ## Notes

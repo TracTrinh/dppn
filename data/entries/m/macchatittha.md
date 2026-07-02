@@ -5,7 +5,7 @@ base_headword: "Macchatittha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Macchatittha. The name of two villages and two monasteries of Ceylon. Cv.xlviii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchatittha. Tên của hai ngôi làng và hai tu viện ở Tích Lan. Cv.xlviii.24; Ep.Zey.i.216, 221, 227.
 
 ## Notes

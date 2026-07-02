@@ -5,7 +5,7 @@ base_headword: "Dasavaragāthā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Dasavaragāthā. The section of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasavaragāthā. Phần của Vessantarajātaka chứa tài liệu ghi chép về mười ân huệ do Sakka ban cho Phusatī ngay trước khi bà rời khỏi thế giới của Sakka để giáng sinh làm con gái của Madda. Mười ân huệ này là: được làm chánh hậu của vương quốc Sivi, có đôi mắt đen và lông mày đen, được đặt tên là Phusatī, sinh được một người con trai, giữ được thân hình thon thả, có bộ ngực săn chắc, không bị bạc tóc, và cứu được những người bị kết án. Ja.vi.482-4.
 
 ## Notes

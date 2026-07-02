@@ -5,7 +5,7 @@ base_headword: "Girilaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girilaka. A Tamil stronghold, near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girilaka. Một đồn lũy của người Tamil, gần Vijitapura, do Giriya chỉ huy. Nó đã bị Duṭṭhagāmaṇī chiếm giữ. Mhv.xxv.47.
 
 ## Notes

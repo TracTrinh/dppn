@@ -5,7 +5,7 @@ base_headword: "Macchasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,10 @@ It was the same, he said, with those who killed other creatures; those guilty of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchasutta. Một lần nọ, trong một chuyến du hành ở Kosala cùng với một số lượng lớn các tỳ-kheo, Đức Phật thấy một ngư dân đang bán cá.
+
+Ngồi xuống dưới gốc cây ven đường, Đức Phật chỉ ra cho các tỳ-kheo thấy rằng không một ngư dân nào tận hưởng được một cuộc sống hạnh phúc vì tâm trí của anh ta, mãi mãi dính líu đến sự tàn sát.
+
+Ngài nói, điều đó cũng tương tự đối với những ai giết hại các sinh vật khác; những người phạm tội sát sinh sẽ phải chịu đau khổ cùng cực sau khi chết. AN.iii.301f.
 
 ## Notes

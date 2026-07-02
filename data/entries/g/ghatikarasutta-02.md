@@ -5,7 +5,7 @@ base_headword: "Ghaṭīkārasutta"
 disambiguator: "02"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,6 @@ Ghaṭīkārasutta 02. Relates the visit of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭīkārasutta 02. Kể lại chuyến viếng thăm của Ghaṭīkāra Mahā Brahma đến yết kiến Đức Phật tại Jetavana và cuộc đàm thoại diễn ra sau đó. SN.i.35f, 60.
 
 ## Notes

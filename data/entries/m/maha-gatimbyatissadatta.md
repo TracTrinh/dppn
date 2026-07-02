@@ -5,7 +5,7 @@ base_headword: "Mahā Gatimbyatissadatta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Gatimbyatissadatta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gatimbyatissadatta (v.l. Mahā Gatigamiyatissadatta). Một vị Trưởng lão. Một lần nọ ông đã đi từ Tích Lan sang Ấn Độ để chiêm bái cây bodhi. Trong khi vượt biển, chỉ nhìn thấy vùng nước bao quanh mình, ông bắt đầu tự hỏi điều gì phi thường hơn, âm thanh của những con sóng đại dương hay phương pháp của hai mươi bốn phần của Paṭṭhāna. Những giới hạn của đại dương rộng lớn sau đó đã trở nên rõ ràng đối với ông. Dhs-a. p.11.
 
 ## Notes

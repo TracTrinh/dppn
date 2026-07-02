@@ -5,7 +5,7 @@ base_headword: "Mahā Labujagaccha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Labujagaccha. A forest cleared by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Labujagaccha. Một khu rừng được phát quang bởi Devappatirāja. Ông đã xây dựng một ngôi làng ở đó, và trồng một lùm cây mít lớn ở gần đó (Cv.lxxxvi.49). Ngôi làng này nằm trong số những ngôi làng được Parakkamabāhu II. ban cho Devappatirāja, để nắm giữ vĩnh viễn. Cv.lxxxvi.53.
 
 ## Notes

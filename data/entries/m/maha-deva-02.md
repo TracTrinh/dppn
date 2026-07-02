@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Deva 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 02. Mahā Deva Thera. Một đệ tử của Kakusandha Buddha, người đã cùng ngài đến Tích Lan, và được Đức Phật để lại để chăm sóc cho những người mới quy y. Mhv.xv.89; Dpv.xv.38, 43; xvii.25; Vin-a.i.86.
 
 ## Notes

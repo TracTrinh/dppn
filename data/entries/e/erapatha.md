@@ -5,7 +5,7 @@ base_headword: "Erāpatha"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -28,6 +28,6 @@ Erāpatha. A royal family of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erāpatha. Một dòng dõi hoàng gia của Nāga, được đề cập cùng với các Virūpakkha, Chabbyāputta, và Kaṇhagotamaka, tất cả họ được mô tả là “*Nāgarājakulāni*” (Ja.ii.145). Vì sự an toàn của chính mình, các tỳ-kheo được khuyên nên rải tâm từ đến bốn nhóm Nāga này. AN.ii.72; Vin.ii.109f.
 
 ## Notes

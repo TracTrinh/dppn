@@ -5,7 +5,7 @@ base_headword: "Girimaṇḍala"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Girimaṇḍala. A district in Ceylon. See <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girimaṇḍala. Một quận ở Tích Lan. Xem Giri (4). Cv.li.111; để nhận dạng xem Cv.Trs.i.159, n.l.
 
 ## Notes

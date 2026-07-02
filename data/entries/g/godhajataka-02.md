@@ -5,7 +5,7 @@ base_headword: "Godhajātaka"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,8 @@ The story was told about a treacherous monk, identified with the young iguana (J
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhajātaka 02. (Ja 141). Bodhisatta từng có lần được sinh ra là một con kỳ đà, là người lãnh đạo của rất nhiều con khác. Con trai của ông trở nên thân thiết với một con tắc kè hoa trẻ tuổi, anh ta thường ôm và âu yếm nó. Bodhisatta đã cảnh báo con trai mình về sự thân mật trái tự nhiên này, nhưng, thấy rằng lời khuyên của mình vô ích, và biết rằng sự nguy hiểm sẽ đến với chúng thông qua con tắc kè hoa, ông đã chuẩn bị một lối thoát, phòng khi cần thiết. Con tắc kè hoa, vì trở nên mệt mỏi với tình bạn với con kỳ đà, đã chỉ cho một người thợ săn chỗ ở của những con kỳ đà. Người thợ săn đã đốt một ngọn lửa quanh cái hang và giết chết rất nhiều con kỳ đà khi chúng cố gắng chạy trốn, nhưng Bodhisatta đã đạt đến sự an toàn thông qua cái hang mà ông đã dự phòng.
+
+Câu chuyện này được kể về một vị tỳ-kheo phản trắc, được nhận diện là con kỳ đà trẻ tuổi (Ja.i.487f). Để biết chi tiết, xem Mahilāmukhajātaka (Ja 26)
 
 ## Notes

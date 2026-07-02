@@ -5,7 +5,7 @@ base_headword: "Māgha"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Māgha 02. A youth of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgha 02. Một thanh niên ở Rājagaha. Chàng đã đến thăm Đức Phật tại Gijjhakūṭa và hỏi xem liệu chàng có đạt được nhiều lợi ích nhờ những món quà mà chàng đã cúng dường cho nhiều người, những món quà có được một cách chân chính hay không. Đức Phật trả lời rằng những món quà của chàng sẽ mang lại quả báo to lớn. Cuối bài pháp của Đức Phật, Māgha đã trở thành tín đồ của ngài. Snp. pp. 86ff.; Snp­a.ii.413ff.
 
 ## Notes

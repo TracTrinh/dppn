@@ -5,7 +5,7 @@ base_headword: "Girinagara"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girinagara (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girinagara (Girivhanagara). Một tu viện ở Devapāli do Aggabodhi V xây dựng. Cv.xlviii.3.
 
 ## Notes

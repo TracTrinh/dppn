@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sakuladāyisutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Sakuladāyisutta, <span class="dppn-term dppn-term-t15" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sakuladāyisutta, Cūla Sakuladāyisutta. Đức Phật đến thăm Sakuladāyi tại Moranivāpa gần Rājagaha và cuộc nói chuyện của họ chuyển sang chủ đề về sự hoàn thiện. Đức Phật chỉ ra rằng quan niệm của Sakuladāyi về sự hoàn thiện là mơ hồ và không xác định, và khi xem xét kỹ, nó chứng tỏ là trống rỗng và nhiều thiếu sót. Trả lời câu hỏi của Sakuladāyi về việc Đức Phật định nghĩa thế nào là niềm an lạc tuyệt đối, Đức Phật giải thích về bốn jhāna và sự đoạn tận các āsava. Sakuladāyi được cảm hóa (MN.ii.29ff). Sutta này cũng chứa các tham chiếu đến giáo lý của Nigaṇṭha Nātaputta.
 
 ## Notes

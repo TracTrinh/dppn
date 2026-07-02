@@ -5,7 +5,7 @@ base_headword: "Ekavihāriya"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Ekavihāriya 02. A monk greatly famed for his love of solitude. When they told t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekavihāriya 02. Một vị tỳ-kheo rất nổi tiếng với lòng yêu thích sự độc cư. Khi người ta kể cho Đức Phật nghe về ngài, Đức Phật đã ngợi khen ngài giữa hội chúng. Dhp­a.iii.471f.
 
 ## Notes

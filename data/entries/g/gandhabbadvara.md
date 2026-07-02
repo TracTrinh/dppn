@@ -5,7 +5,7 @@ base_headword: "Gandhabbadvāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhabbadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhabbadvāra. Một trong các cổng thành của Pulatthipura. Cv.lxxiii.163.
 
 ## Notes

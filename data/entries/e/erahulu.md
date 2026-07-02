@@ -5,7 +5,7 @@ base_headword: "Erāhuḷu"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Erāhuḷu. A locality in Ceylon, near which an engagement took place between th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erāhuḷu. Một địa danh ở Tích Lan, gần nơi đã diễn ra một cuộc giao tranh giữa lực lượng của Parakkamabāhu I và những kẻ thù của ông (Cv.lxxiv.91). Nó được xác định là quận Eravur hiện tại, phía tây bắc của Batticaloa. Cv.Trs.ii.30, n.3.
 
 ## Notes

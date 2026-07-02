@@ -5,7 +5,7 @@ base_headword: "Hatthāroha"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hatthāroha. A *gāmaṇi* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthāroha. Một *gāmaṇi* của Rājagaha, đến thăm Đức Phật và hỏi Ngài số phận nào đang chờ đợi mình sau khi chết. Đức Phật đáp rằng ông sẽ tái sinh vào Sārañjita Niraya (Sārājita). SN.iv.310.
 
 ## Notes

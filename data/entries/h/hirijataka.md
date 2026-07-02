@@ -5,7 +5,7 @@ base_headword: "Hirijātaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hirijātaka. (Ja 363). The story of both the present and the past is the same as
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hirijātaka. (Ja 363). Câu chuyện của cả hiện tại lẫn quá khứ đều giống với câu chuyện của Akataññujātaka (Ja 90) (*q.v.*) Ja.iii.196f, nhưng các bài kệ thì khác nhau.
 
 ## Notes

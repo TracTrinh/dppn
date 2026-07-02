@@ -5,7 +5,7 @@ base_headword: "Haritamātajātaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haritamātajātaka (Ja 239). Có lần vị Bodhisatta sinh làm một con Ếch Xanh. Một con rắn nước, đi tìm cá, rơi vào một chiếc lồng đan bằng liễu gai do người ta đặt để bắt cá. Đàn cá, thấy con rắn, cắn nó cho đến khi nó phải bỏ chạy, mình đẫm máu. Kiệt sức, nó nằm ở mép nước. Thấy con Ếch Xanh ở miệng lồng, con rắn hỏi ếch rằng đàn cá làm vậy có đúng không khi tấn công nó. “Sao lại không?” Ếch đáp; “ngươi ăn những con cá lạc vào chỗ của ngươi, và chúng ăn ngươi khi ngươi lạc vào chỗ của chúng.” Đàn cá, nghe vậy, xông vào con rắn và giết chết nó.
+
+Câu chuyện này được kể liên quan đến cuộc chiến giữa Ajātasattu và Pasenadi. Khi thắng trận, Ajātasattu tỏ ra vô cùng hân hoan, nhưng khi thua trận, ông lại hết sức chán nản. Con rắn được nhận diện là Ajātasattu. Ja.ii.237-39.
 
 ## Notes

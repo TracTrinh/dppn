@@ -5,7 +5,7 @@ base_headword: "Gagga"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -23,6 +23,6 @@ Gagga 01. A monk. He became insane, and in this condition did many things unwort
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gagga 01. Một vị tỳ-kheo. Ngài trở nên điên loạn, và trong tình trạng đó đã làm nhiều việc không xứng đáng với một vị tỳ-kheo. Khi các đồng đạo khiển trách ngài, Đức Phật đã can thiệp thay ngài và đề nghị rằng ngài nên được xá tội cho những lỗi lầm của mình, xét đến chứng điên loạn của ngài. Chư tăng đã làm theo lời khuyên của Đức Phật. Vin.i.123; ii.80f.
 
 ## Notes

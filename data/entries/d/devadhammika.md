@@ -5,7 +5,7 @@ base_headword: "Devadhammika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Devadhammika. A class of ascetics (?) mentioned in a nominal list. They are doom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadhammika. Một lớp tu sĩ khổ hạnh (?) được nhắc trong một danh sách tên gọi. Họ bị đọa vào địa ngục. AN.iii.277; xem thêm Dial.i.222.
 
 ## Notes

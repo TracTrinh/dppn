@@ -5,7 +5,7 @@ base_headword: "Maghavapupphiya Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maghavapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he saw the Buddha (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maghavapupphiya Thera. Một vị Arahant. Chín mươi mốt kappa trước ngài nhìn thấy Đức Phật (? Vipassī) đang ngồi thiền định trên bờ sông Nammadā, và đã tôn vinh Đức Phật bằng cách đặt một bông hoa *maghava* gần ngài. Ap.i.240f.
 
 ## Notes

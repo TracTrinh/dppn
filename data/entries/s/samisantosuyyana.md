@@ -5,7 +5,7 @@ base_headword: "Sāmisantosuyyāna"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāmisantosuyyāna. A Park laid out by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmisantosuyyāna. Một công viên do Parakkamabāhu I cho xây dựng. Cv.lxxix.12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Janakajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -67,6 +67,25 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="45" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Janakajātaka (Ja 539). Mahā Janaka, vua xứ Mithilā ở Videha, có hai người con trai, Ariṭṭhajanaka và Polajanaka. Sau cái chết của ông, người con cả đã lên ngôi và lập em trai mình làm phó vương, nhưng, sau này, nghi ngờ ông ta phản bội, đã sai người xiềng xích ông ta lại. Polajanaka trốn thoát, và, khi đã hoàn tất các sự chuẩn bị của mình, đã bao vây thành phố, giết chết Ariṭṭhajanaka, và chiếm đoạt ngai vàng. Vợ của Ariṭṭhajanaka đã cải trang trốn thoát, mang theo mình rất nhiều của cải. Bà đang mang thai, và vì đứa con của bà là Bodhisatta, ngai vàng của Sakka đã nóng lên, và ngài xuất hiện trước mặt bà dưới hình hài một người đánh xe ngựa và đưa bà đến Kāḷa Campā. Tại đó bà được một vị Bà-la-môn Udicca nhận làm em gái và đứa trẻ đã ra đời. Khi cậu bé chơi đùa cùng những cậu bé khác, chúng đã chế nhạo cậu, gọi cậu là con trai của góa phụ. Cậu hỏi mẹ điều này có nghĩa là gì, nhưng bà liên tục né tránh bằng những câu trả lời thoái thác cho đến một ngày cậu cắn vào ngực bà và khăng khăng đòi được biết sự thật. Khi cậu mười sáu tuổi, bà đưa cho cậu một nửa của cải, và cậu đã lên một chiếc thuyền đi đến Suvaṇṇabhūmi để buôn bán. Chiếc thuyền bị đắm giữa đại dương, nhưng không hề nao núng, Mahā Janaka (tên gọi của cậu bé) đã dũng cảm bơi trong bảy ngày, cho đến khi Maṇimekhalā, nữ thần biển cả, ngưỡng mộ lòng can đảm của cậu, đã cứu cậu và đặt cậu trong rừng xoài ở Mithilā.
+
+Trong khi đó Polajanaka đã qua đời và để lại mệnh lệnh rằng ngai vàng nên được trao cho người nào có thể tìm được ân sủng trong mắt con gái ông, biết được đâu là đầu của một chiếc giường hình vuông, có thể giương được cây cung đòi hỏi sức mạnh của một nghìn người, và có thể lấy ra mười sáu kho báu lớn. Có vẻ như không một ai sắp xuất hiện mà có khả năng đáp ứng những điều kiện này; các đại thần ngay sau đó đã trang hoàng chiếc xe ngựa của quốc gia với năm huy hiệu của hoàng gia và đưa nó đi, kèm theo âm nhạc. Chiếc xe rời khỏi cổng thành, và những con ngựa đi đến rừng xoài và dừng lại tại nơi Mahā Janaka đang nằm ngủ. Vị quốc sư, khi nhìn thấy các dấu hiệu cát tường trên bàn chân của cậu, đã đánh thức cậu dậy, và giải thích cho cậu về sứ mệnh của mình, đã tôn cậu làm vua. Khi cậu bước vào cung điện, Sīvalī (con gái của vị vua quá cố) ngay lập tức bị thu phục bởi vẻ ngoài của cậu, và sẵn sàng đồng ý trở thành hoàng hậu của cậu. Cậu được kể về các điều kiện khác do vị vua đã chết đưa ra; cậu đã giải được những câu đố chứa đựng trong một số điều kiện và hoàn thành tất cả.
+
+Đến kỳ hạn Sīvalī sinh cho ngài một người con trai, Dīghāvu kumāra, người mà, vào đúng thời điểm, Mahā Janaka đã lập làm phó vương. Một ngày nọ Mahā Janaka đi vào công viên của mình, và khi chú ý đến việc một cây xoài có quả đã bị các triều thần của mình cướp phá như thế nào trong khi một cây xoài khác cằn cỗi lại được để yên bình, ngài nhận ra rằng những vật sở hữu đồng nghĩa với đau buồn, và lui vào một căn phòng, sống cuộc đời khổ hạnh. Tuổi thọ của ngài là mười nghìn năm, trong đó ngài vẫn còn lại ba nghìn năm. Sau khi sống bốn tháng trong cung điện, ngài quyết định từ bỏ thế gian, và sau khi thực hiện các chuẩn bị của mình, đã bí mật rời khỏi cung điện. Hoàng hậu gặp ngài trên cầu thang, nhưng không nhận ra ngài trong trang phục khổ hạnh. Khi phát hiện ra sự vắng mặt của ngài, bà đã chạy theo ngài và cố gắng dùng nhiều mưu kế để thuyết phục ngài trở về, nhưng vô ích. Sau đó bà thúc giục thần dân của mình đi theo ngài, nhưng ngài đã quay họ lại. Tuy nhiên, bà sẽ không tuân lệnh ngài, và trong sáu mươi do-tuần bà và thần dân đã đi theo Mahā Janaka.
+
+Vị đạo sĩ Nārada, đang cư ngụ ở Himavā, đã nhìn thấy Mahā Janaka bằng thiên nhãn của mình và cổ vũ ngài trong quyết tâm của ngài, một vị đạo sĩ khác, Migājina, cũng làm như vậy, người này vừa mới xuất ra khỏi một trạng thái jhāna. Cứ như vậy họ tiếp tục cuộc hành trình cho đến khi đến ngôi làng Thūṇa. Tại đó nhà vua nhìn thấy một con chó đang chạy trốn với một miếng thịt nướng, mà nó đã đánh rơi trong lúc bỏ chạy. Nhà vua nhặt nó lên, làm sạch nó, và ăn nó. Hoàng hậu, vô cùng kinh tởm, cảm thấy rằng ngài không xứng đáng làm một vị vua. Xa hơn nữa họ nhìn thấy một cô gái đang sàng cát trong một cái nia; trên một cánh tay cô đeo một chiếc vòng tay duy nhất, trên cánh tay kia, đeo hai chiếc. Hai chiếc vòng tay kêu lanh canh, trong khi chiếc vòng duy nhất lại không phát ra tiếng động. Mahā Janaka đã chỉ ra ý nghĩa đạo đức của điều này cho Sīvalī, và bà đồng ý đi theo một con đường khác, nhưng chẳng bao lâu sau lại chạy quay lại với ngài và đi theo ngài cho đến khi họ tình cờ gặp một người thợ làm mũi tên, đang nắn thẳng một mũi tên, nhìn vào nó chỉ bằng một con mắt. Khi bị nhà vua gặng hỏi, anh ta đã trả lời rằng tầm nhìn rộng mở của hai con mắt chỉ dùng để làm phân tán tầm nhìn. Nhưng Sīvalī vẫn từ chối rời bỏ ngài cho đến khi, ở bìa của một khu rừng, ngài bảo bà rằng không thể có thêm bất kỳ sự giao thiệp nào giữa họ nữa, và bà ngã ra bất tỉnh. Nhà vua lao vào trong rừng, trong khi các đại thần cứu tỉnh hoàng hậu. Khi bà hồi phục nhà vua đã không còn được nhìn thấy nữa, và bà trở về thành phố. Các bảo tháp (Thūpa) đã được dựng lên trên nhiều địa điểm khác nhau liên quan đến sự từ bỏ thế gian của nhà vua, và hoàng hậu đã sống như một nữ tu khổ hạnh trong khu vườn hoàng gia ở Mithilā.
+
+Câu chuyện đã được kể liên quan đến Sự Từ Bỏ Thế Gian của Đức Phật.
+
+- Maṇimekhalā được đồng nhất với Uppalavaṇṇā,
+- Nārada với Sāriputta,
+- Migājina với Moggallāna,
+- cô gái với Khemā,
+- người thợ làm mũi tên với Ānanda,
+- Sīvalī với Rāhulamātā,
+- Dīghāvu với Rāhula,
+- trong khi Mahā Janaka là Bodhisatta (Ja.iii.30-68).
+
+Jātaka này là ví dụ điển hình cho viriyapāramitā. Bv­a.51.
 
 ## Notes

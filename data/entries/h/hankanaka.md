@@ -5,7 +5,7 @@ base_headword: "Haṅkanaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Haṅkanaka. A place, evidently in Ceylon, where lived <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṅkanaka. Một địa danh, rõ ràng là ở Tích Lan, nơi Trưởng lão Mahā Datta đã sống. Vibha.489; Vsm.634.
 
 ## Notes

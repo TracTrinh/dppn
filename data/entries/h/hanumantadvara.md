@@ -5,7 +5,7 @@ base_headword: "Hanumantadvāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hanumantadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hanumantadvāra. Một trong các cổng thành của Pulatthipura. Cv.lxxiii.161.
 
 ## Notes

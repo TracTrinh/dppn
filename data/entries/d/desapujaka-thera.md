@@ -5,7 +5,7 @@ base_headword: "Desapūjaka Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Desapūjaka Thera. An *Arahant*. He once saw <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Desapūjaka Thera. Một *Arahant*. Có lần ông thấy Atthadassī Buddha đi qua hư không và, rất hoan hỷ, đã đảnh lễ theo hướng của Ngài. Trong một đời khác, ông là một vị vua tên Gosujāta (Ap.i.183).
 
 ## Notes

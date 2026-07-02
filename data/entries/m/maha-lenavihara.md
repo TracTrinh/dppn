@@ -5,7 +5,7 @@ base_headword: "Mahā Lenavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Lenavihāra. A monastery in Ceylon. See <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Lenavihāra. Một tu viện ở Tích Lan. Xem Saṅghadattā.
 
 ## Notes

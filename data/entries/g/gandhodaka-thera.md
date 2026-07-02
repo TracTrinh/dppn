@@ -5,7 +5,7 @@ base_headword: "Gandhodaka Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhodaka Thera (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhodaka Thera (Gandhokadāyaka Thera). Một vị Arahant. Có lần, khi đang diễn ra lễ hội tôn vinh cây Bodhi của Đức Phật Padumuttara, ngài đã rưới nước thơm từ một chiếc bình sơn vẽ lên cây. Khi ấy có một cơn giông và ngài bị sét đánh chết ngay tại chỗ. Sinh lên cõi trời, ngài đã đọc lên những bài kệ ca ngợi Đức Phật và giáo pháp của Ngài. Một trăm hai mươi tám *kappa* trước, ngài đã làm vua, tên là Saṁvasita. Ap.i.105f.
 
 ## Notes

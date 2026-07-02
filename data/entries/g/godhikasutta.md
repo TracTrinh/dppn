@@ -5,7 +5,7 @@ base_headword: "Godhikasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Godhikasutta. Contains the story of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhikasutta. Chứa đựng câu chuyện về vụ tự tử của Godhika, được đề cập ở trên. SN.i.120f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gaṇaka Moggallānasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṇaka Moggallānasutta (MN 107). The one hundred and seventh *Sutta* of the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇaka Moggallānasutta (MN 107). Bài kinh thứ một trăm lẻ bảy của Majjhimanikāya; được thuyết cho Gaṇaka Moggallāna. Moggallāna nói rằng sự huấn luyện theo truyền thống Bà-la-môn là một hệ thống có thứ lớp rõ ràng (*anupubbasikkhā anupubbakiriyā*). Liệu Đức Phật có thể nói điều tương tự về giáo pháp của Ngài hay không? Đức Phật nói rằng có thể, và tiếp tục giải thích. Đúng là không phải tất cả đệ tử của Đức Phật đều đạt đến mục đích, nhưng lỗi là ở nơi họ; Đức Phật không nhận trách nhiệm về việc đó, Ngài chỉ chỉ ra con đường. MN.iii.1ff.
 
 ## Notes

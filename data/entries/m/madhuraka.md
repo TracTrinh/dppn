@@ -5,7 +5,7 @@ base_headword: "Madhurakā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhurakā. The people of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurakā. Người dân của Madhurā, được nhắc đến trong một danh sách các bộ tộc. Ap.i.359; cũng thấy ở Mil.331.
 
 ## Notes

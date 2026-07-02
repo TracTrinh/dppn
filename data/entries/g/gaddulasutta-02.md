@@ -5,7 +5,7 @@ base_headword: "Gaddulasutta"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,8 @@ As a painter fashions all kinds of likenesses, so the *puthujjana* creates and r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaddulasutta 02. Cũng như một con chó bị buộc dây vào một cây cột chắc chắn không thể thoát ra được, kẻ phàm phu chưa được nghe Pháp (*puthujjanas*) không thể thoát khỏi năm uẩn. Tâm còn đa dạng hơn cả một bức tranh trưng bày (*caraṇacitta*).
+
+Cũng như một họa sĩ tạo ra đủ loại hình ảnh, kẻ phàm phu (*puthujjana*) tạo ra rồi lại tạo ra năm uẩn. SN.iii.151f.
 
 ## Notes

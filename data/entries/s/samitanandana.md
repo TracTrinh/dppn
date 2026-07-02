@@ -5,7 +5,7 @@ base_headword: "Samitanandana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samitanandana. A king of fifty *kappas* ago, a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samitanandana. Một vị vua từ năm mươi *kappa* trước, một kiếp trước của Yūthikapupphiya Thera. Ap.i.202.
 
 ## Notes

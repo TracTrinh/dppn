@@ -5,7 +5,7 @@ base_headword: "Giritimbilatissa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giritimbilatissa. A mountain and a *vihāra* in <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giritimbilatissa. Một ngọn núi và một *vihāra* ở Rohaṇa. Gần đó là ngôi làng Siva. Xem Dhammā. Ras.ii.42.
 
 ## Notes

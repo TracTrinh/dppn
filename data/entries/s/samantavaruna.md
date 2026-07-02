@@ -5,7 +5,7 @@ base_headword: "Samantavaruṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samantavaruṇa. Twenty-seven *kappas* ago there were four kings of this name, p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantavaruṇa. Hai mươi bảy *kappas* trước có bốn vị vua mang tên này, là những kiếp trước của Ādhāradāyaka Thera. Ap.i.207.
 
 ## Notes

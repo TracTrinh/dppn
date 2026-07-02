@@ -5,7 +5,7 @@ base_headword: "Gāmaṇijātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāmaṇijātaka (Ja 8). The story of Prince <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇijātaka (Ja 8). Câu chuyện về hoàng tử Gāmaṇi (Ja.i.136f). Muốn biết chi tiết, xem Saṁvarajātaka (Ja 462).
 
 ## Notes

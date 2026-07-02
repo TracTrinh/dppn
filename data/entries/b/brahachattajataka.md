@@ -5,7 +5,7 @@ base_headword: "Brahāchattajātaka"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -32,6 +32,8 @@ The story was told in reference to a knavish monk, identified with <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahāchattajātaka (Ja 336). Ngày xưa Brahmadatta, vua xứ Benares, chiếm đóng Kosala cùng với vị vua của nó, và mang toàn bộ kho báu về Benares, nơi ông chôn chúng trong các chậu sắt tại ngự uyển. Chatta, con trai của vua Kosala, đã trốn thoát, và trở thành một tu sĩ khổ hạnh gần Takkasilā với hội chúng năm trăm người. Sau này chàng cùng tùy tùng đến Benares, thu phục được cảm tình của nhà vua bằng phong thái của mình, và sống trong ngự uyển. Ở đó, bằng một câu thần chú, chàng phát hiện ra kho báu bị chôn giấu, và tiết lộ bí mật cho các tùy tùng của mình, mang kho báu về Sāvatthī và khiến thành phố này trở nên bất khả xâm phạm. Khi Brahmadatta phát hiện ra sự mất mát của mình cùng những hậu quả của nó, ông đã vô cùng sầu não, nhưng được an ủi bởi vị tể tướng của mình, người chính là Bodhisatta, và người đã chỉ ra cho ông thấy rằng Chatta chỉ lấy đi những gì thuộc về chàng.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo lừa đảo, được đồng nhất với Chatta. Ja.iii.115ff.
 
 ## Notes

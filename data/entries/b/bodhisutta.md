@@ -5,7 +5,7 @@ base_headword: "Bodhisutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -23,6 +23,6 @@ Bodhisutta. On the seven *bojjhaṅgas* as the seven things that prevent decline
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisutta. Nói về bảy *bojjhaṅga* (giác chi) như là bảy pháp ngăn ngừa sự thối giảm (*aparihāniyā dhammā*). AN.iv.23.
 
 ## Notes

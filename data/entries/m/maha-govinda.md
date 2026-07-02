@@ -5,7 +5,7 @@ base_headword: "Mahā Govinda"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,8 @@ Vv-a.(p. 82) speaks of a <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Govinda. Một vị vua thời nguyên thủy, được nhắc đến cùng với Mandhātā như là đang trị vì ở Rājagaha. Snp­a.ii.413; DN­a.i.132, v.v...
+
+Vv-a.(p. 82) nói về một paṇḍita Mahā Govinda, người đã quy hoạch và xây dựng Rājagaha. Xem Jotipāla.
 
 ## Notes

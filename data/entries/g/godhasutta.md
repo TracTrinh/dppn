@@ -5,7 +5,7 @@ base_headword: "Godhasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -30,6 +30,8 @@ The two seek the Buddha to ask his opinion. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhasutta hoặc Mahā Nāmasutta. Mahā Nāma đến thăm Godha người Sākiyan tại Kapilavatthu và hỏi ông những phẩm chất nào, khi được một *Sotāpanna* sở hữu, sẽ bảo đảm cho người đó sự giác ngộ cuối cùng. Có ba, Godha trả lời – lòng trung thành bất động đối với Đức Phật, Dhamma và Tăng đoàn. Khi Godha, đến lượt mình, hỏi câu hỏi tương tự với Mahā Nāma, vị này đã trả lời rằng có bốn, và bổ sung thêm sự sở hữu những đức hạnh của bậc Thánh.
+
+Hai người tìm đến Đức Phật để hỏi ý kiến của Ngài. Mahā Nāma tuyên bố với Đức Phật rằng ông sẽ chấp nhận quyết định của Đức Phật trước quan điểm của bất kỳ ai khác trong vũ trụ. Trả lời cho câu hỏi của Đức Phật, Godha trả lời rằng về một người giữ quan điểm như vậy, ông không có gì để nói ngoài sự tốt đẹp, kết luận rõ ràng là ông chấp nhận quan điểm của Mahā Nāma thay vì quan điểm của mình. SN.v.371f.
 
 ## Notes

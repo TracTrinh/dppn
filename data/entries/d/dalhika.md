@@ -5,7 +5,7 @@ base_headword: "Daḷhika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,10 @@ But the value of the turban was less than five *māsakas* and the pupil was save
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhika. Một vị tỳ-kheo ở Sāgala.
+
+Một đệ tử của ông từng ăn trộm một chiếc khăn quấn đầu từ một người chủ tiệm và thú nhận lỗi lầm của mình với Daḷhika, nghĩ rằng do đó anh ta sẽ phạm *pārājika*.
+
+Nhưng giá trị của chiếc khăn quấn đầu chưa tới năm *māsaka* nên người đệ tử đã thoát khỏi một tội *pārājika*. Vin.iii.67.
 
 ## Notes

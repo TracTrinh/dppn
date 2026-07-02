@@ -5,7 +5,7 @@ base_headword: "Mahā Dhanaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Dhanaka. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhanaka. Một vị trưởng giả (seṭṭhi) của Benares được đồng nhất với Devadatta. Về câu chuyện của ông, xem Rurujātaka (Ja 482). Ja.iv.255ff.
 
 ## Notes

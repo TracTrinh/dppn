@@ -5,7 +5,7 @@ base_headword: "Bodhiguttā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,6 @@ Bodhiguttā. A nun of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhiguttā. Một tỳ-kheo-ni của Hatthāḷhakārāma tại Anurādhapura, đồng sự của Saṅghamittā. Bà thuộc gia tộc Moriya và là chị gái của Sunandā, vợ của Bodhigutta. Mbv. 169.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gijjhajātaka"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ The story was told in reference to a monk who supported his mother. <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gijjhajātaka 02. (Ja 399). Xưa kia Bodhisatta là một con kền kền, và phụng dưỡng cha mẹ mù lòa sống trong một hang động. Một ngày nọ, bị mắc bẫy, con kền kền đã được một người thợ săn nghe thấy nó than khóc cho cha mẹ mình; người thợ săn đã thả nó ra tự do.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo đã phụng dưỡng mẹ mình. Channa là người thợ săn. Ja.iii.330f.
 
 ## Notes

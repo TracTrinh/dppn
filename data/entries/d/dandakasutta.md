@@ -5,7 +5,7 @@ base_headword: "Daṇḍakasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Daṇḍakasutta. A stick thrown into the air may fall in different ways; even s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍakasutta. Một cây gậy ném lên không trung có thể rơi xuống theo nhiều cách khác nhau; cũng như vậy, các chúng sinh bị trói buộc bởi ái dục đi từ thế giới này sang thế giới tiếp theo và quay trở lại, vì họ không thấy được Tứ Thánh đế. SN.v.469.
 
 ## Notes

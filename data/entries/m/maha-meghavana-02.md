@@ -5,7 +5,7 @@ base_headword: "Mahā Meghavana"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Meghavana 02. A park laid out by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Meghavana 02. Một công viên được thiết kế bởi Parakkamabāhu I. Cv.lxxix. 7, 41.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,8 @@ This may be the Thera whom <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 03. Một vị sư, trú tại Kappukagāma (*v.l.* Kambugāma). Vohārikatissa nghe ông thuyết pháp và phục hồi năm tòa nhà cho ông (Mhv.xxxvi.29; Dpv.xxii.41).
+
+Đây có thể là vị Trưởng lão mà Saṅghatissa nghe thuyết Andhakavindasutta. Nhà vua, vì rất hoan hỷ với ông, đã thiết lập một lễ cúng cháo cho các vị sư của Mahā Vihāra (Dpv.xxii 50).
 
 ## Notes

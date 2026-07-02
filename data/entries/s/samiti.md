@@ -5,7 +5,7 @@ base_headword: "Samīti"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -30,6 +30,6 @@ Samīti. A waggon-builder of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samīti. Một người thợ đóng xe ở Sāvatthī. Trong Aṅganasutta (*q.v.*), Moggallāna kể cho Sāriputta nghe rằng có lần ông thấy Samīti đang uốn một vành bánh xe; bên cạnh ông, Paṇḍuputta đang theo dõi, mong rằng Samīti có thể uốn vành bánh xe không cong vênh, xoắn hay tì vết. Khi Samīti làm được điều đó, Paṇḍuputta hát lên trong niềm vui, nói rằng Samīti đã đọc được ý nghĩ của mình. MN.i.31f.
 
 ## Notes

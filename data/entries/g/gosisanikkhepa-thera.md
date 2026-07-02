@@ -5,7 +5,7 @@ base_headword: "Gosīsanikkhepa Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gosīsanikkhepa Thera. An *Arahant*. Ninety-four *kappas* ago he had spread *gos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gosīsanikkhepa Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã rải *gosīsa* (bột gỗ đàn hương) bên ngoài một tu viện. Bảy mươi lăm *kappa* trước, ông trở thành một vị vua, tên là Suppatiṭṭhita (Ap.i.245).
 
 ## Notes

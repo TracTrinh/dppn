@@ -5,7 +5,7 @@ base_headword: "Daḷhavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daḷhavagga. The first chapter of the *Dukanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhavagga. Phẩm đầu tiên của *Dukanipāta* trong chú giải Jātaka. Ja.ii.1-40.
 
 ## Notes

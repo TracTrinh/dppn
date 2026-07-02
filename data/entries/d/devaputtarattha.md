@@ -5,7 +5,7 @@ base_headword: "Devaputtaraṭṭha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devaputtaraṭṭha. A district, evidently in Ceylon, the residence of an Elder 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devaputtaraṭṭha. Một quận, hiển nhiên ở Tích Lan, nơi cư trú của một Trưởng lão tên Piṇḍapātikatissa. Vsm.292.
 
 ## Notes

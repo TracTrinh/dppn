@@ -5,7 +5,7 @@ base_headword: "Samaṇaguttā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samaṇaguttā. The second of the seven daughters of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇaguttā. Người con gái thứ hai trong bảy người con gái của Kikī, vua xứ Benares. Bà chính là Uppalavaṇṇā trong kiếp hiện tại. Ap.ii.546; cf. Ja.vi.481.
 
 ## Notes

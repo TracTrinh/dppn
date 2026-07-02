@@ -5,7 +5,7 @@ base_headword: "Samphassasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samphassasutta 02. The Buddha makes <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samphassasutta 02. Đức Phật khiến Rāhula nhận ra rằng xúc giác quan là vô thường. SN.ii.246.
 
 ## Notes

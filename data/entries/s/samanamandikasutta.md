@@ -5,7 +5,7 @@ base_headword: "Samaṇamaṇḍikāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -30,6 +30,6 @@ Samaṇamaṇḍikāsutta. *v.l.* <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇamaṇḍikāsutta. *v.l.* Samaṇamuṇḍikā. Trên đường đến gặp Đức Phật, Pañcakaṅga ghé thăm *Paribbājaka* Uggāhamāna tại Samayappavādaka trong Tindukācīra ở Mallikārāma. Uggāhamāna nói với ông rằng, theo quan điểm của mình, vị sa-môn chiến thắng là người không làm điều ác, không nói và không nghĩ điều ác, và kiếm sống bằng cách không ác. Pañcakaṅga thuật lại điều này với Đức Phật, và Đức Phật nói rằng, theo cách nói của Uggāhamāna, một đứa bé còn ẵm ngửa cũng sẽ là một sa-môn như vậy! Không, Đức Phật nói, vị sa-môn chiến thắng là người thông thạo Bát Thánh đạo, thông đạt tuệ tri trọn vẹn và giải thoát trọn vẹn, và Ngài tiếp tục mô tả chi tiết một vị sa-môn như vậy. MN.ii.22-9.
 
 ## Notes

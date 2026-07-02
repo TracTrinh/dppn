@@ -5,7 +5,7 @@ base_headword: "Eso me attā Sutta"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Eso me attā Sutta. On the view “this is the self, it is permanent,” etc. SN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eso me attā Sutta. Về quan kiến "đây là tự ngã, nó là thường hằng," etc. SN.iii.182.
 
 ## Notes

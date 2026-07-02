@@ -5,7 +5,7 @@ base_headword: "Devagabbha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devagabbha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devagabbha. Một Yakkha. Khi Candagutta chết, Yakkha nhập vào thi thể của ông và giả vờ rằng nhà vua vẫn còn sống. Do đó Biṇḍusāra chém đầu ông ta (Mhv­ṭ.188f; cp. Ja.vi.474).
 
 ## Notes

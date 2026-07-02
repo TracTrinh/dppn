@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇavagga"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇavagga 03. The twentieth chapter of the *Pañcakanipāta* of the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇavagga 03. Phẩm thứ hai mươi của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.221-46.
 
 ## Notes

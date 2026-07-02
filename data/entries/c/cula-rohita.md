@@ -5,7 +5,7 @@ base_headword: "Cūḷa Rohita"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Rohita, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Rohita, Culla Rohita. Một con bò đực thuộc về một vị Bà-la-môn. Dhp­a.iv.160.
 
 ## Notes

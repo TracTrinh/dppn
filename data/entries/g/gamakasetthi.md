@@ -5,7 +5,7 @@ base_headword: "Gāmakaseṭṭhi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāmakaseṭṭhi. The name, of the treasurer whose daughter was married by <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmakaseṭṭhi. Tên của vị trưởng giả có con gái được Ghosakaseṭṭhi cưới làm vợ. AN­a.i.230; bản tường thuật của Dhammapada Commentary không nêu tên người này.
 
 ## Notes

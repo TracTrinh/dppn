@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsiva"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhāsiva 03. A Thera*,* resident of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsiva 03. Một vị Trưởng lão, cư trú tại Nāgasālā; ngài rất uyên bác và được Aggabodhi IV vô cùng kính trọng. (Cv.xlvi.6).
 
 ## Notes

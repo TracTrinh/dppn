@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sumana"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -32,6 +32,6 @@ Cūḷa Sumana 01. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sumana 01. Cūḷa Sumana Thera, Cūla Sumana Thera. Một Trưởng lão của Tích Lan, bậc thầy về *Tipiṭaka* và một nhà chú giải nổi tiếng. Lời giải thích của ông, được đưa ra tại Lohapāsāda, về ý nghĩa của *ubhatobhāgavimutta* được coi là lời diễn dịch có thẩm quyền nhất (DN­a.ii.514). Visuddhimagga cũng đề cập đến một Cūḷa Sumana, cư trú tại Niṅkaponnakapadhānaghara trên Cittalapabbata (p.364; xem thêm Cūḷa Summa). Ông đã từ bỏ tham muốn, và do đó trong ông nảy sinh ý nghĩ rằng mình là một vị thánh.
 
 ## Notes

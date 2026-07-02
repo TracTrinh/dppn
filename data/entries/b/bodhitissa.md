@@ -5,7 +5,7 @@ base_headword: "Bodhitissa"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhitissa. A chieftain, probably of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhitissa. Một tù trưởng, có lẽ ở Malaya. Ông đã xây dựng Bodhitissavihāra. Cv.xlvi.30.
 
 ## Notes

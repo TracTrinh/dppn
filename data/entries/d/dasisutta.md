@@ -5,7 +5,7 @@ base_headword: "Dāsīsutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dāsīsutta. Few are those who abstain from accepting male and female slaves; ma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāsīsutta. Ít thay là những người kiêng tránh việc nhận các nam tỳ và nữ tỳ; nhiều thay là những người không như vậy. SN.v.472.
 
 ## Notes

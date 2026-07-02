@@ -5,7 +5,7 @@ base_headword: "Gaṅgāsutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgāsutta. Preached to a Brahmin at <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgāsutta. Được thuyết cho một người Bà-la-môn tại Veḷuvana. Khởi điểm của *Saṁsāra* là không thể tính đếm, và số kiếp đã trôi qua cũng không thể tính đếm, nhiều như cát sông Gaṅgā. SN.ii.153.
 
 ## Notes

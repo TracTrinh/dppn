@@ -5,7 +5,7 @@ base_headword: "Samathakkhandhaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samathakkhandhaka. The fourth section of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samathakkhandhaka. Phần thứ tư của Cūḷa Vagga thuộc Vinaya. Vin.ii.73-104.
 
 ## Notes

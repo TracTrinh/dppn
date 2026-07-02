@@ -5,7 +5,7 @@ base_headword: "Buddhasaññaka"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhasaññaka 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasaññaka 02. Buddhasaññaka Thera. Chín mươi bốn *kappa* trước, ông đã nhìn thấy Đức Phật Siddhattha và tâm ông tràn ngập hoan hỷ. Ap.i.252.
 
 ## Notes

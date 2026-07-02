@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -27,6 +27,6 @@ Brahmadatta 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 01. Vua xứ Kāsi. Ông đã chiếm Kosala và sát hại vua nước đó là Dīghīti và vợ của Dīghīti, nhưng sau đó đã làm hòa với con trai của Dīghīti là Dīghāvu, phục hồi lại vương quốc của cha chàng cho chàng, và gả con gái của mình cho chàng. Vin.i.342ff.; Dhp­a.i.56f.
 
 ## Notes

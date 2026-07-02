@@ -5,7 +5,7 @@ base_headword: "Girisigāmuka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Girisigāmuka. One of the tanks restored by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girisigāmuka. Một trong những hồ chứa nước được Parakkamabāhu I tu sửa. (Cv.lxviii.49).
 
 ## Notes

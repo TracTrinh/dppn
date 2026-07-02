@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇatissacora"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -52,6 +52,10 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇatissacora. *v.l.* Brāhmaṇatiyacora, Brāhmaṇatissabhaya. Sự đề cập được thực hiện trong Biên niên sử Tích Lan và trong một vài bản Chú giải đến một thời kỳ vô cùng khốn khó ở Tích Lan, do những hoạt động của một *cora* (? kẻ cướp) tên là Brāhmaṇatissa vào thời của Vaṭṭagāmaṇī-Abhaya (Pitirājā).
+
+Theo Mahā Vaṁsa và Mahā Vaṁsaṭīkā (Mhv.xxxiii.37ff.; Mhv­ṭ.613), Tissa là một thanh niên Bà-la-môn ở Rohaṇa. Một ngày nọ, y nghe một thầy bói Bà-la-môn thông báo rằng nếu một kẻ cướp bắt đầu các hoạt động của mình dưới một sự kết hợp nhất định của các hành tinh, hắn ta sẽ chinh phục toàn bộ Tích Lan. Tissa, hành động theo ý tưởng này, đã trở thành một tên cướp và gửi lời nhắn đến vua rằng ông nên giao lại ngai vàng của mình cho y. Cùng lúc đó bảy người Damiḷa, cùng với những tùy tùng của họ, đã đến Mahā Tittha với cùng một yêu cầu. Sau đó nhà vua gửi lời nhắn đến Tissa rằng vương quốc sẽ là của y nếu y có thể đánh bại người Damiḷa. Tissa đồng ý điều này và tiến đánh họ, nhưng đã bị bắt làm tù binh trong một trận chiến gần Saṅketahāla. Các Chú giải Pāli đưa ra thêm những chi tiết khác. Tissa đã cướp bóc đất đai suốt mười hai năm ròng; thức ăn trở nên khan hiếm đến mức, do nạn đói, mọi người mất cả ham muốn nhục dục của mình, và sự ra đời của một đứa trẻ là một sự kiện hiếm hoi đến mức cả vùng đất đều vui mừng về một sự ra đời như vậy (SN­a.ii.83). Các hoạt động của Tissa ở mức đỉnh điểm khi Vaṭṭagāmaṇī đang lẩn trốn. Kho dự trữ lương thực ở *vihāra* Cittalapabbata và ở Tissamahārāma đã bị phá hoại bởi những con chuột khổng lồ và các tỳ-kheo không thể xin được thức ăn, Tissa đã tàn phá vùng đất này. Do đó, họ đã cử tám vị Thera đến chỗ Sakka, cầu xin ngài hãy giải phóng đất nước khỏi Tissa; nhưng Sakka gửi lại câu trả lời rằng ngài bất lực, và gợi ý rằng các tỳ-kheo nên vượt biển. Vài người nghe theo lời khuyên của ngài và lên thuyền từ Jambukola, nhưng những người lãnh đạo của giáo đoàn – *Saṁyuttabhāṇaka* Cūḷa Sīva, Isidatta và Mahā Soṇa – đã ở lại phía sau để chờ đợi thời điểm tốt hơn (xem thêm Nāgā Therī, câu chuyện của bà được đưa ra trong AN­a.ii.654f.; và MN­a.i.546). Mahā Vihāra ở Anurādhapura đã bị bỏ hoang; Mahā Thūpa bị cây cối mọc um tùm bao phủ. Các tỳ-kheo phải sống bằng cọng ngó sen và vỏ trái cây bị người dân ném bỏ. Khi Brāhmaṇatissa chết, Vaṭṭagāmaṇī một lần nữa lên ngôi (Vibh­a.445-51). *v.l.* Brāhmaṇatiyacora (từ đó Biên niên sử Tích Lan phái sinh ra hình thức Bæmiṇitiyā). Về niên đại của Bæmiṇisāya (nạn đói do Bà-la-môn gây ra như cách nó được gọi trong tiếng Sinhalese), xem Cv.Trs. Introd. xvii., đoạn 4.
+
+Xem thêm Caṇḍāla Tissa (Caṇḍāla Tiya) điều rõ ràng ám chỉ cùng sự "*bhaya*" này.
 
 ## Notes

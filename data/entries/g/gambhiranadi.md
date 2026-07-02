@@ -5,7 +5,7 @@ base_headword: "Gambhīranadī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gambhīranadī. A river, one *yojana* north of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gambhīranadī. Một con sông, cách Anurādhapura một *yojana* về phía bắc; gạch dùng xây Mahā Thūpa và các *Thūpa* của ba vị Phật quá khứ đã được chuẩn bị trên bờ sông này (Mhv.xxviii.7; Mhv­ṭ.508). Trên bờ sông có Upatissagāma. Mhv.vii.44.
 
 ## Notes

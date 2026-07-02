@@ -5,7 +5,7 @@ base_headword: "Ekūposathikā Therī"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -29,6 +29,8 @@ She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekūposathikā Therī. Vị *Arahant*. Trong quá khứ, cô là một nữ nô lệ, một người gánh nước trong thành phố Bandhumatī. Khi nhìn thấy Vua Bandhumā đang thọ trì trai giới, cô đã tự mình thọ nhận các giới và gìn giữ chúng tốt đẹp. Sáu mươi bốn lần cô đã trở thành hoàng hậu của những đấng cai trị trên cõi trời, và sáu mươi ba lần là hoàng hậu giữa loài người. Nước da của cô luôn có màu vàng rực rỡ. Trong kiếp sống cuối cùng của mình, cô đã xuất gia ở tuổi lên bảy, và đạt được quả vị *Arahant* trong vòng tám tháng (Ap.ii.522f).
+
+Cô rất có thể đồng nhất với Uttamā Therī. Xem Thīg­a.46ff.
 
 ## Notes

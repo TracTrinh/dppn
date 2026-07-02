@@ -5,7 +5,7 @@ base_headword: "Gatisutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gatisutta. The five conditions of birth – in purgatory, among lower animals, *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gatisutta. Năm cảnh giới tái sinh – địa ngục, súc sinh, ngạ quỷ, loài người, hoặc chư thiên. AN.iv.459.
 
 ## Notes

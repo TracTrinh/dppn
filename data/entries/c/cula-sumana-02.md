@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sumana"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -26,6 +26,6 @@ Cūḷa Sumana 02. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sumana 02. Cūla Sumana. Một gia chủ ở Tích Lan, người đã ngã xuống chết khi Piturājā (xem từ này) nhìn ông và nghiến răng trong cơn tức giận. Vin-a.ii.440f.
 
 ## Notes

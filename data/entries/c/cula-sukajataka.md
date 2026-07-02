@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sūkajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -28,6 +28,6 @@ Cūḷa Sūkajātaka, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sūkajātaka, Culla Sūkajātaka (Ja 430). Câu chuyện quá khứ giống như câu chuyện của Mahā Sūkajātaka (xem từ này). Nó được kể liên quan đến chuyến viếng thăm của Đức Phật đến Verañjā, nơi, trong ba tháng của mùa an cư, Ngài đã phải sống nhờ nước và một lượng nhỏ bột rễ cây nghiền nát, vì ác lực của Māra. Ja.iii.494-6; Vibh.iii.1ff.
 
 ## Notes

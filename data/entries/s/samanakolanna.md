@@ -5,7 +5,7 @@ base_headword: "Samaṇakolañña"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samaṇakolañña. A king of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇakolañña. Một vị vua xứ Kāliṅga. Ông là một Cakkavatti, nhưng khi đang cưỡi voi bay qua không trung, ông không thể bay qua chỗ có cây Bodhi (Mil. p. 256). Rõ ràng đây là ám chỉ câu chuyện trong Kāliṅgabodhijātaka (Ja 479), nhưng ở đó tên vị vua không được nêu ra. Ja.iv.232f.
 
 ## Notes

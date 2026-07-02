@@ -5,7 +5,7 @@ base_headword: "Sāmaṇḍaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sāmaṇḍaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmaṇḍaka, Sāmaṇḍakāni, Sāmañcakāni. Một *Paribbājaka*, được nhắc đến (SN.iv.261f) là đã đến thăm Sāriputta tại Ukkācelā (Ukkāvelā) và hỏi ông về *Nibbāna*, và một lần khác (AN.v.121f) tại Nālakagāma, nơi vị này hỏi ông về hạnh phúc và khổ đau. Có lẽ vị này chính là Sāmaññakāni.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Macchari Kosiya"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -34,6 +34,8 @@ The Buddha saw him with his divine eye and sent <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchari Kosiya 01. Một vị trưởng giả (*seṭṭhi*), sở hữu tám mươi crore, ở Sakkhara gần Rājagaha. Tên thật của ông là Kosiya, nhưng vì ông quá keo kiệt không dám cho đi dù chỉ một giọt dầu, nên ông được gọi là Macchari Kosiya (Kosiya Keo Kiệt). Một ngày nọ, khi từ cung điện trở về, ông thấy một người nhà quê đói lả đang ăn một chiếc bánh nướng tròn nhân cháo chua. Cảnh tượng đó làm ông thèm ăn, nhưng sợ phải tiêu tiền, ông không nói với ai mà nằm trên giường trong sự khổ sở tột độ, cho đến khi vợ ông phát hiện. Sau khi khám phá ra nguyên nhân nỗi khổ của ông, bà nói bà sẽ nướng đủ bánh cho mọi người ở Sakkhara. "Nhưng như thế sẽ rất lãng phí," Kosiya nói, và thuyết phục vợ ông chỉ nướng một cái bánh, chỉ dùng những hạt gạo tấm. Sợ có ai đó sẽ xin một miếng bánh của mình, ông cùng bà lui lên tầng bảy của ngôi nhà và ở đó bắt bà bắt đầu nấu nướng sau khi đã chốt mọi cánh cửa.
+
+Đức Phật thấy ông bằng thiên nhãn và phái Moggallāna đến gặp ông; Moggallāna lơ lửng giữa không trung ngay bên ngoài cửa sổ của Kosiya và tỏ ý muốn xin một chút gì đó để ăn, nhưng Kosiya lớn tiếng hăm dọa, và, sau khi từ chối cho ngài bất cứ thứ gì, bảo vợ nướng một cái bánh nhỏ khác cho ngài. Nhưng mỗi cái bánh bà nướng đều nở to hơn cái trước đó, và khi bà cố lấy một chiếc bánh duy nhất từ rổ, chúng lại dính chặt vào nhau. Trong lúc tuyệt vọng, Kosiya dâng cả bánh và rổ cho vị Trưởng lão. Moggallāna sau đó thuyết giảng về tầm quan trọng của sự rộng lượng, và đưa Kosiya, vợ ông và những chiếc bánh đến Jetavana. Ở đó những chiếc bánh được dâng lên Đức Phật và năm trăm vị tỳ-kheo, và ngay cả sau khi tất cả đã ăn xong, vẫn không cạn số bánh. Địa điểm nơi những chiếc bánh còn lại được vứt bỏ ở cổng Jetavana được biết đến là *pabbhāra* Kapallapūva. Đức Phật thuyết giảng cho Kosiya và vợ ông và họ trở thành các vị Sotāpanna. Kosiya sau đó dành toàn bộ tài sản của mình để phục vụ Đức Phật và tôn giáo của ngài. Chính trong mối liên hệ với ông mà Illīsajātaka đã được thuyết, Illīsa được đồng nhất với Macchari Kosiya. Dhp­a.i.367ff.; Ja.i.345ff.
 
 ## Notes

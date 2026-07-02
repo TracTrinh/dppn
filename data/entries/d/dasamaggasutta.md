@@ -5,7 +5,7 @@ base_headword: "Dasamaggasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dasamaggasutta. On the tenfold way, which consists of the Eightfold Path with th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasamaggasutta. Về đạo mười chi, bao gồm Bát Thánh đạo cộng thêm với chánh trí và giải thoát. AN.ii.221.
 
 ## Notes

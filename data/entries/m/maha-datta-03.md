@@ -5,7 +5,7 @@ base_headword: "Mahā Datta"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Datta 03. An Elder of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Datta 03. Một Trưởng lão ở Moravāpi, một nhà chú giải xuất chúng mà các ý kiến của ngài được trích dẫn trong các Bản Chú giải, vd., Dhs-a. 230, 267, 284, 286; Paṭis-a.405.
 
 ## Notes

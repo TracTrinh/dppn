@@ -5,7 +5,7 @@ base_headword: "Giripunnāgiya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Giripunnāgiya Thera. An *Arahant*. Ninety-four *kappas* ago he offered a *girip
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giripunnāgiya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã cúng dường một quả *giripunnāga* cho Đức Phật Sobhita, khi đó đang lưu trú tại Cittakūṭa (Ap.ii.416). Ông rõ ràng là cùng một người với Kaṇhadinna. Thag­a.i.304.
 
 ## Notes

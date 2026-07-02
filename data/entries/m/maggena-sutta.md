@@ -5,7 +5,7 @@ base_headword: "Maggena Sutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maggena Sutta. The Noble Eightfold Path goes to the Uncompounded (*asaṅkhata*)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggena Sutta. Bát Thánh đạo dẫn đến Vô vi (*asaṅkhata*). Đức Phật đã chỉ ra điều đó cho các đệ tử của ngài vì hạnh phúc của họ. SN.iv.361.
 
 ## Notes

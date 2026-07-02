@@ -5,7 +5,7 @@ base_headword: "Daḷhavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Daḷhavihāra. A *vihāra* on <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daḷhavihāra. Một *vihāra* trên Sīhagiri, được Moggallāna I trao cho các vị Dhammarucika. Cv.xxxix.41.
 
 ## Notes

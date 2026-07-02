@@ -5,7 +5,7 @@ base_headword: "Cūḷa Pāla"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Pāla, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Pāla, Culla Pāla. Con trai của Mahā Suvaṇṇa và là em trai của Trưởng lão Cakkhupāla. Dhp­a.i.2.
 
 ## Notes

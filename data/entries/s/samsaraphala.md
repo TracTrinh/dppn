@@ -5,7 +5,7 @@ base_headword: "Saṁsāraphala"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saṁsāraphala. A park in Ceylon, laid out by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁsāraphala. Một công viên ở Tích Lan, do Parakkamabāhu I cho xây dựng. Cv.lxxix.10.
 
 ## Notes

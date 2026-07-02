@@ -5,7 +5,7 @@ base_headword: "Buddharakkhita"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddharakkhita 02. A monk of Ceylon. He was once, with thirty thousand others, m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddharakkhita 02. Một vị tỳ-kheo ở T?ch Lan. Một lần nọ, ông cùng với ba mươi ngàn người khác đang thị giả Trưởng lão Mahā Rohaṇagutta ở Therambatthala, thì ông nhìn thấy vua của loài Supaṇṇa đang lao qua bầu trời để bắt vua Nāga (Nāga), người đang cúng dường cháo gạo cho Trưởng lão. Buddharakkhita ngay lập tức hóa hiện ra một ngọn núi và đưa Trưởng lão vào trong đó, qua đó cứu được vua Nāga. Vsm.154 f., 376.
 
 ## Notes

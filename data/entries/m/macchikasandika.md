@@ -5,7 +5,7 @@ base_headword: "Macchikāsaṇḍika"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Macchikāsaṇḍika. An epithet of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macchikāsaṇḍika. Một danh xưng của Cittagahapati, bởi vì ông sống ở Macchikāsaṇḍa. AN.i.26; AN­a.i.209; Thag­a.i.238.
 
 ## Notes

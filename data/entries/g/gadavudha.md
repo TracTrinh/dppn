@@ -5,7 +5,7 @@ base_headword: "Gadāvudha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gadāvudha. The club wielded by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gadāvudha. Cây gậy mà Vessavaṇa cầm khi ông vẫn còn là một *puthujjana*. Nó rơi xuống đầu hàng ngàn Yakkha rồi quay về tay Vessavaṇa. Snp­a.i.225.
 
 ## Notes

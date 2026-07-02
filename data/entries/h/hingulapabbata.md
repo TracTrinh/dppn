@@ -5,7 +5,7 @@ base_headword: "Hiṅgulapabbata"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hiṅgulapabbata. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiṅgulapabbata. Một ngọn núi trong Himavā (Ja.v.415), nơi Nālaka qua đời. Snp­a.ii.501; nhưng xem Ja.v.415 để biết một dị bản khác.
 
 ## Notes

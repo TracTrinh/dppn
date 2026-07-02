@@ -5,7 +5,7 @@ base_headword: "Gandhamādana"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -85,6 +85,38 @@ It is said that the Buddha <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhamādana. Một dãy núi nằm bên ngoài bảy dãy núi:
+
+- Cūḷa Kāḷa
+- Mahā Kāḷa
+- Nāgapaliveṭhana
+- Candagabbha
+- Suriyagabbha
+- Suvaṇṇapassa
+- Himavā
+
+Đây là một trong năm dãy núi bao quanh Anotatta. Đỉnh núi là một cao nguyên, có màu xanh (*muggavaṇṇa*), phủ đầy các loại cây thuốc. Từ xa nó chiếu sáng "như một đám lửa rực cháy trong đêm không trăng."
+
+Trong dãy núi có một sườn dốc (*pabbhāra*) gọi là Nandamūlaka, chứa ba hang động là Suvaṇṇaguhā, Maṇiguhā và Rajataguhā, vốn là nơi cư ngụ của các Pacceka Buddha.
+
+Ở lối vào Maṇiguhā có một cây tên là Mañjūsaka, cao một do-tuần và có chu vi một do-tuần; trên cây này nở tất cả các loài hoa mọc cả trên cạn lẫn dưới nước, và đặc biệt nở rộ vào những dịp các Pacceka Buddha đến thăm; quanh cây là Sabbaratanamāla.
+
+Tại đó, Sammajjanakavāta quét sạch mặt đất, Samakaranavāta san bằng cát, và Siñcanakavāta rưới nước từ Anotatta.
+
+Sugandhakaraṇavāta mang đến mọi hương thơm của Himavā, Ocinakavāta hái hoa, và Santharaṇakavāta rải hoa ra.
+
+Trong *māla* luôn có sẵn chỗ ngồi dành cho các Pacceka Buddha, những vị này tụ họp tại đó vào các ngày trai giới và vào ngày sinh của chính mình. Khi một vị Pacceka Buddha mới xuất hiện trên thế gian, vị ấy trước tiên đến Gandhamādana, và các Pacceka Buddha khác, nếu đang có mặt trên thế gian, sẽ tụ họp tại đó để chào đón vị ấy, và tất cả cùng ngồi nhập *samādhi*. Sau đó, vị trưởng thượng nhất trong số họ sẽ hỏi vị mới đến kể lại quá trình vị ấy trở thành Pacceka Buddha như thế nào (Snp­a.i.52, 66f; ii.437; AN­a.ii.759; Ud­a.300, etc.; MN­a.ii.585).
+
+Các Pacceka Buddha sống trên Gandhamādana thường nhập *samādhi* trong bảy ngày, và khi hết thời gian đó, sẽ đi khất thực từ một người nào đó mà các vị muốn ban cho ân huệ đặc biệt, để người ấy nhờ đó mà đạt được công đức (e.g., Dhp­a.iii.368f; iv.121, 199f; Ja.iv.16). Đôi khi các vị Phật này rời khỏi núi, và sau khi khuyên bảo những người mà các vị muốn giúp đỡ, lại trở về (e.g., Ja.iii.453).
+
+Ngoài các Pacceka Buddha, còn có những vị khác cũng được nhắc đến là đã cư trú tại Gandhamādana – e.g., Nārada (Ja.iv.393), Naḷinikā (Ja.v.186), Bahusodarī (Ja.vi.83); cũng như vị vua chư thiên Nāgadatta (Thag­a.i.138), và Vessantara, cùng gia đình, sau khi ông từ bỏ vương quốc của mình (Ja.vi.528f.). Cũng có nói rằng các *Kinnara* (Ja.iv.438) và các Nāga (Rockhill, 169) sống trên các sườn núi Gandhamādana. Đây cũng là một trong những nơi được Khadiravaniya Revata ghé thăm (AN­a.i.139).
+
+Không có ghi chép rõ ràng rằng tất cả các Pacceka Buddha đều qua đời tại Gandhamādana, nhưng điều này dường như được ngụ ý. Chẳng hạn, có lần năm trăm vị Pacceka Buddha do Mahā Paduma dẫn đầu đã qua đời tại đó, và thi thể của các vị được hỏa táng (Thag­a.ii.141).
+
+Chú giải Jātaka (vi.79) giải thích Gandhamādana là *gandhena madakaro pabbato*.
+
+Cây thơm Bhujaka chỉ mọc trên cõi trời và tại Gandhamādana (Vv-a.162).
+
+Có nói rằng Đức Phật Metteya sẽ lui về Gandhamādana một thời gian, sau khi trải qua mùa an cư đầu tiên của Ngài (Anāgatavaṁsa v.81).
 
 ## Notes

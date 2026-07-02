@@ -5,7 +5,7 @@ base_headword: "Mahā Magagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Magagāma. A village given by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Magagāma. Một ngôi làng do Udaya I. ban tặng cho các buổi lễ kỷ niệm nhằm tôn vinh bức tượng Kholakkhiya của Đức Phật. Cv.xlix.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Galambatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,10 @@ See *s.v.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Galambatittha. Một ngôi làng ở Tích Lan, có một *vihāra* và một *Thūpa*. Vua Vasabha đã tu sửa *Thūpa* này, xây một nhà *uposatha*, và cúng dường đất để duy trì đèn trong ngôi nhà đó (Mhv.xxxv.85). Ngôi làng này có lẽ trùng với nơi được nhắc đến ở chỗ khác là Galambatitthagāma (Cv.lxxv.7). Nếu vậy, nó nằm ở Rohaṇa và là nơi diễn ra một trận chiến trong chiến dịch của Parakkamabāhu I.
+
+Các bộ Chú giải (e.g., Snp­a.i.57; Vibh­a.353) có nhắc đến một nhóm năm mươi vị tỳ-kheo cư trú tại Galambatitthavihāra, những vị đã phát nguyện không bao giờ nói chuyện với nhau cho đến khi chứng đắc quả vị *Arahant*.
+
+Xem *s.v.* Kalambatittha.
 
 ## Notes

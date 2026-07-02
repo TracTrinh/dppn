@@ -5,7 +5,7 @@ base_headword: "Dasaratha"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dasaratha 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasaratha 02. Vua của Benares, được nhận dạng là Suddhodana. Xem Dasarathajātaka.
 
 ## Notes

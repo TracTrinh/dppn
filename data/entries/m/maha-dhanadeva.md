@@ -5,7 +5,7 @@ base_headword: "Mahā Dhanadeva"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Dhanadeva. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhanadeva. Cha của Ariyagālatissa.
 
 ## Notes

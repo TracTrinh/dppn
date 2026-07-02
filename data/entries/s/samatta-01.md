@@ -5,7 +5,7 @@ base_headword: "Samatta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samatta 01. One hundred and fifteen *kappas* ago there were eight kings of this 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samatta 01. Một trăm mười lăm *kappas* trước có tám vị vua mang tên này, là những kiếp trước của Nandiya Thera. Thag­a.i.82.
 
 ## Notes

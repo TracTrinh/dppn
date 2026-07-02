@@ -5,7 +5,7 @@ base_headword: "Cūḷa Subhaddā"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -29,6 +29,6 @@ Cūḷa Subhaddā 01. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Subhaddā 01. Culla Subhaddā. Một con voi cái, một trong hai người vợ chính của Chaddanta, người mà cô nảy sinh ác cảm vì ông thiên vị tình địch của cô hơn cô. Cô đã dâng những món quà cho một vị Pacceka Buddha và, như kết quả lời ước nguyện của cô, cô được sinh ra là Subhaddā, hoàng hậu chính của vua Madda. Cô ra lệnh mang những chiếc ngà của Chaddanta đến cho mình, nhưng người thợ săn được giao nhiệm vụ đã giết chết con voi, và khi nghe tin về cái chết của ông, Subhaddā đã chết vì tan nát cõi lòng. Để biết chi tiết, xem Chaddanta (4)
 
 ## Notes

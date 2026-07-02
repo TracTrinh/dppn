@@ -5,7 +5,7 @@ base_headword: "Samaṇupassanāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samaṇupassanāsutta. On how thoughts of self lead to ignorance and to varying 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇupassanāsutta. Về việc các ý niệm về tự ngã dẫn đến vô minh và các quan điểm khác nhau như thế nào. SN.iii.46.
 
 ## Notes

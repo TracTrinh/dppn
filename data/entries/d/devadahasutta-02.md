@@ -5,7 +5,7 @@ base_headword: "Devadahasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devadahasutta 02. Preached to the monks at <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadahasutta 02. Được thuyết cho các vị sư tại Devadaha. Một số vị sư, sắp đi cư trú ở các quận phía tây, đến gặp Đức Phật để từ biệt Ngài. Ngài khuyên họ, trước khi lên đường, hãy đến thăm Sāriputta, người mà Ngài tán thán. Họ làm như vậy, và Sāriputta giải thích cho họ các giáo lý căn bản của Đức Phật, để họ có thể sẵn sàng trả lời bất kỳ câu hỏi nào được đặt ra cho họ. SN.iii.6ff.
 
 ## Notes

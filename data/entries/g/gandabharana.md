@@ -5,7 +5,7 @@ base_headword: "Gaṇḍābharaṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṇḍābharaṇa *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍābharaṇa *v.l.* Gandhābharaṇa. Một cuốn sách do Ariyavaṁsa biên soạn. Gv.65, 75; Sās., p.98.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasutta"
 disambiguator: "06"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brāhmaṇasutta 06. Two Brahmins, skilled in *lokāyata*, visit the Buddha and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasutta 06. Hai vị Bà-la-môn, điêu luyện về *lokāyata*, đến thăm Đức Phật và nói rằng, theo Pūraṇa Kassapa, thế giới là hữu hạn, trong khi, theo Nigaṇṭha Nātaputta, nó là vô hạn, và rằng cả hai đạo sư đều tuyên bố sự toàn tri. Làm thế nào một người có thể biết giáo lý nào là đúng? Đức Phật gác lại câu hỏi của họ và dạy họ rằng không phải bằng cách cố gắng đi đến tận cùng của thế giới mà sự tận cùng của thế giới có thể đạt đến được, mà bằng cách thấu hiểu năm sợi dây dục (*kāmaguṇa*). Điều này có thể được hoàn thành bằng sự trau dồi các *jhāna*. AN.iv.428f.
 
 ## Notes

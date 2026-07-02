@@ -5,7 +5,7 @@ base_headword: "Gopaka"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Gopaka 02. A king of ninety-one *kappas* ago; he offered *kaṇavera*-flowers to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka 02. Một vị vua của chín mươi mốt *kappa* trước; ông đã dâng cúng những bông hoa *kaṇavera* cho Đức Phật. Ông là một tiền kiếp của Kaṇaverapupphiya. Ap.i.182.
 
 ## Notes

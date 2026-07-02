@@ -5,7 +5,7 @@ base_headword: "Gamiṭṭhavālivihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gamiṭṭhavālivihāra. A monastery in <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gamiṭṭhavālivihāra. Một tu viện ở Rohaṇa, do Kākavaṇṇatissa sáng lập. Mhv.xxii.23.
 
 ## Notes

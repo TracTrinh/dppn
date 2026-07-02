@@ -5,7 +5,7 @@ base_headword: "Eḷeyya"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -32,6 +32,6 @@ Eḷeyya. A *rājā*, probably of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Eḷeyya. Một vị vua (*rājā*), có lẽ là của Magadha. Ông là một môn đồ sùng đạo của Uddaka Rāmaputta. Trong đoàn tùy tùng của ông có Yamaka, Moggalla, Ugga, Nāvindaki, Gandhabba, và Aggivessa, tất cả họ cũng đều là những môn đồ của cùng vị đạo sư này (AN.ii.180f).
 
 ## Notes

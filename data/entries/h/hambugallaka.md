@@ -5,7 +5,7 @@ base_headword: "Hambugallaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hambugallaka. A monastery in Ceylon, where a Thera*,* named <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hambugallaka. Một tu viện ở Tích Lan, nơi một vị Trưởng lão tên Tissa, thông thạo các *Nikāya*, đã hòa giải giữa Vaṭṭagāmaṇī và các vị đại thần bất mãn với ông. Mhv.xxxiii.71ff.
 
 ## Notes

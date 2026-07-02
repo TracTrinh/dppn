@@ -5,7 +5,7 @@ base_headword: "Sambhavajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -41,6 +41,8 @@ The story is related in reference to the Buddha’s great wisdom. <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhavajātaka (Ja 515). Dhanañjaya Koravya, vua xứ Indapatta, hỏi vị quốc sư của mình là Sucīrata về *dhammayāga* (Sự Phụng Sự Chân Lý). Sucīrata thú nhận mình không biết, và tuyên bố rằng chỉ có Vidhura, quốc sư của vua xứ Benares, mới có thể tìm ra câu trả lời. Nhà vua lập tức phái ông đi cùng một đoàn hộ tống, một món quà và một tấm bảng vàng để ghi lại câu trả lời. Sucīrata ghé thăm các bậc hiền nhân khác trên đường đi, và cuối cùng đến gặp Vidhura, người từng là bạn học của ông. Khi câu hỏi được đặt ra, Vidhura chuyển nó cho con trai mình là Bhadrakāra, nhưng người này đang bận rộn với một cuộc tình vụng trộm với một phụ nữ nên không thể chú tâm đến việc đó. Ông cho Sucīrata đến gặp người em trai của mình, Sañjaya, nhưng người này cũng đang bận và cho ông đến gặp người em của mình, Sambhava (Bodhisatta), một cậu bé bảy tuổi. Sucīrata thấy cậu đang chơi ngoài đường, nhưng khi được hỏi câu hỏi, cậu đã trả lời với tất cả sự thông tuệ lưu loát của một vị Phật. Cả thành Benares, kể cả nhà vua, đều nghe câu trả lời và ở lại lắng nghe. Sambhava được ban tặng vinh dự lớn và nhận được nhiều tặng phẩm. Sucīrata ghi lại câu trả lời trên tấm bảng vàng và mang về cho Dhañanjaya.
+
+Câu chuyện này được kể liên quan đến trí tuệ vĩ đại của Đức Phật. Dhanañjaya được nhận diện là Ānanda, Sucīrata là Anuruddha, Vidhura là Kassapa, Bhadrakāra là Moggallāna và Sañjaya là Sāriputta. Ja.v.57-67.
 
 ## Notes

@@ -884,7 +884,7 @@ Tên của Ānanda xuất hiện trong vô số câu chuyện tiền thân (Jāt
 - thủ lĩnh toán cướp trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="403" data-dppn-term-class="t24">Takka</span> (i.299),
 - vị Bà-la-môn trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="404" data-dppn-term-class="t24">Sārambha</span> (i.375),
 - chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="405" data-dppn-term-class="t24">Sattubhasta</span> (iii.351), chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="406" data-dppn-term-class="t24">Palāsa</span> (iii.25), chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="407" data-dppn-term-class="t24">Juṇha</span> (iv.100), và chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="408" data-dppn-term-class="t24">Sālikedāra</span> (iv.282);
-- vị thung thần (thần cây) trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="409" data-dppn-term-class="t24">Kusaṇāli</span> (i.443),
+- vị thọ thần/thần cỏ (thần của bụi cỏ kusa) trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="409" data-dppn-term-class="t24">Kusaṇāli</span> (i.443),
 - người huấn luyện voi trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="410" data-dppn-term-class="t24">Sumedha</span> (i.446),
 - người em trai của vị Bodhisatta trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="411" data-dppn-term-class="t24">Maṇikaṇṭha</span> (ii.286),
 - kẻ cướp bóc trong chuyện tiền thân <span class="dppn-term dppn-term-t24" data-dppn-term-pos="412" data-dppn-term-class="t24">Seyya</span> (ii.403),

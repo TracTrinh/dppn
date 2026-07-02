@@ -5,7 +5,7 @@ base_headword: "Sāmaññasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāmaññasutta. Few are they who reverence recluses, many they who do not. SN.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmaññasutta. Ít người kính trọng các sa-môn, nhiều người thì không. SN.v.468.
 
 ## Notes

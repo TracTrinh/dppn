@@ -5,7 +5,7 @@ base_headword: "Godatta Thera"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Godatta Thera 03. An incumbent of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godatta Thera 03. Một vị trụ trì của Kalyāṇi Mahā Vihāra ở Tích Lan. Ông thường kiếm thức ăn khi bóng của mặt trời dài hai inch và ăn nó khi nó chỉ còn một inch. Ngay cả khi không thể nhìn thấy mặt trời, ông vẫn biết chính xác thời gian. Mọi người đã khám phá ra điều này bằng cách quan sát ông và chỉnh “đồng hồ” của họ theo những chuyển động của ông. MN­a.i.100.
 
 ## Notes

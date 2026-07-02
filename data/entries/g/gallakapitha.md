@@ -5,7 +5,7 @@ base_headword: "Gallakapīṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gallakapīṭha. A village in Ceylon. Five hundred youths from the village were 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gallakapīṭha. Một ngôi làng ở Tích Lan. Năm trăm thanh niên trong làng đã được Mahinda cho xuất gia, ngay sau khi ngài đến Tích Lan. Mhv.xvii.59.
 
 ## Notes

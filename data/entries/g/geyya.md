@@ -5,7 +5,7 @@ base_headword: "Geyya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Geyya. The second section of the *Tipiṭaka* arranged according to matter (*a�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Geyya. Phần thứ hai của *Tipiṭaka* được sắp xếp theo chủ đề (*aṅgavasena*). Phần này bao gồm tất cả các *Sutta* được sáng tác bằng thơ, đặc biệt là toàn bộ Sagāthakavagga của Saṁyuttanikāya. DN­a.i.23f.
 
 ## Notes

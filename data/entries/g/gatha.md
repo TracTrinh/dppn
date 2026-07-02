@@ -5,7 +5,7 @@ base_headword: "Gāthā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ It includes the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāthā. Một phần của *Tipiṭaka* được phân loại theo nội dung (*aṅga*) của từng phần.
+
+Phần này bao gồm Dhammapada, Theragāthā và Therīgāthā, cùng những *Sutta* chỉ gồm các bài kệ, có trong Suttanipāta nhưng không được xếp vào loại *Sutta*. DN­a.i.23f; Vin.iii.8.
 
 ## Notes

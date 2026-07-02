@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -37,6 +37,6 @@ Mahā Nāma 05. King of Ceylon. He was the younger brother of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 05. Vua của Tích Lan. Ông là em trai của Upatissa II. và đã từng là một tỳ-kheo trong một khoảng thời gian, nhưng ông đã có quan hệ tư tình với vợ của Upatissa, và bà ta đã giết chồng mình. Sau đó Mahā Nāma đã trở thành một cư sĩ, đảm nhận quyền cai trị tối cao, và kết hôn với hoàng hậu của Upatissa. Ông đã xây dựng những nơi nương tựa dành cho người bệnh, mở rộng Hội trường Mahā Pāli, và dựng lên các *vihāra* Lohadvāra, Ralaggāma, và Koṭipassāvana, những nơi mà ông đã trao cho các tỳ-kheo của Abhayagiri; một *vihāra* mà ông đã xây dựng trên ngọn núi Dhūmarakkha, ông đã trao nó, do sự xúi giục của hoàng hậu của mình, cho các tỳ-kheo của Mahā Vihāra. Ông trị vì trong hai mươi hai năm (409-31 CN.). Chính trong suốt triều đại của ông, Buddhaghosa đã đặt chân đến Tích Lan và viết nên những Chú giải của ngài, cư ngụ trong một *vihāra* do nhà vua trao tặng. Cv.xxxvii.209ff.; xem thêm PLC. 96. Nhà vua dường như cũng được gọi là Sirinivāsa và Sirikuḍḍa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vāpiyagāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Vāpiyagāma, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vāpiyagāma, Cūla Vāpiyagāma. Một ngôi làng được Aggabodhi VIII ban tặng để duy trì Rājasālavihāra. Cv.xlix.47.
 
 ## Notes

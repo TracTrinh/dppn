@@ -5,7 +5,7 @@ base_headword: "Dasama"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -34,6 +34,8 @@ Dasama. A householder (*gahapati*) of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasama. Một gia chủ (*gahapati*) ở Aṭṭhakanagara. Một ngày nọ, sau khi giải quyết xong một số công việc đưa ông đến Pāṭaliputta, ông đã đến thăm Kukkuṭārāma để gặp Ānanda. Khi biết rằng Ānanda đang ở Beluvagāma gần Vesālī, ông đã đến thăm ngài tại đó và đã có một cuộc thảo luận với ngài, cuộc thảo luận này được ghi lại trong Aṭṭhakanāgarasutta. Sau đó, tập hợp các tỳ-kheo từ Pāṭaliputta và Vesālī, ông đã thiết đãi họ và cúng dường cho mỗi người hai xấp vải, trong khi cho Ānanda, ông cúng dường một bộ ba y và xây cho ngài một tịnh thất trị giá năm trăm đồng (MN.i.349ff; AN.v.342ff).
+
+Buddhaghosa nói rằng Dasama được gọi như vậy bởi vì trong thứ tự ưu tiên liên quan đến dòng dõi quý tộc và sự giàu có, ông đứng ở vị trí thứ mười (MN­a.ii.571; AN­a.ii.866).
 
 ## Notes

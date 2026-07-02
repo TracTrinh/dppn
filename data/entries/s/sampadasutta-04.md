@@ -5,7 +5,7 @@ base_headword: "Sampadāsutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sampadāsutta 04. The five losses of kin, wealth, health, virtue, right view. Th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sampadāsutta 04. Năm sự mất mát về quyến thuộc, tài sản, sức khỏe, giới đức, chánh kiến. Điều trái ngược với chúng là năm điều lợi ích. AN.iii.147.
 
 ## Notes

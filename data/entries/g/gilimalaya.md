@@ -5,7 +5,7 @@ base_headword: "Gilimalaya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gilimalaya. A village given by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilimalaya. Một ngôi làng do Vijayabāhu I cúng dường để duy trì việc chiêm bái tại Samantakūṭa. Cv.lx.65; cũng xem Cv.Trs.i.22I, n.2.
 
 ## Notes

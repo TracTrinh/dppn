@@ -5,7 +5,7 @@ base_headword: "Saṁvasita"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saṁvasita. A king of twenty-eight *kappas* ago, a former birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvasita. Một vị vua từ hai mươi tám *kappa* trước, một kiếp trước của Gandhodaka Thera. Ap.i.106.
 
 ## Notes

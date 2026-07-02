@@ -5,7 +5,7 @@ base_headword: "Damatha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Damatha. A king of one hundred and fifteen *kappas* ago, a former birth of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Damatha. Một vị vua của một trăm mười lăm *kappa* trước, một tiền kiếp của Bodhi-upatthāyaka (Ap.i.194).
 
 ## Notes

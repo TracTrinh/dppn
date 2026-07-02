@@ -5,7 +5,7 @@ base_headword: "Gaṇānandapariveṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaṇānandapariveṇa. A monastery at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇānandapariveṇa. Một tu viện tại Rājagāma ở Tích Lan, là nơi cư trú của Trưởng lão Maittreya Mahā Thera. PLC.248.
 
 ## Notes

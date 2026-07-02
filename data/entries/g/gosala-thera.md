@@ -5,7 +5,7 @@ base_headword: "Gosāla Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -34,6 +34,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gosāla Thera. Ông xuất thân từ một gia đình giàu có của Magadha và làm quen với Soṇa Kuṭikaṇṇa. Khi ông nghe nói rằng vị sau đã từ bỏ thế gian, ông cũng gia nhập Tăng đoàn và sống ở vùng cao nguyên gần ngôi làng quê hương của mình. Một ngày nọ, mẹ ông cho ông một bữa ăn bằng cháo gạo với mật ong và đường. Sau bữa ăn, ông đã nỗ lực hết sức và đắc quả vị *Arahant*.
+
+Chín mươi mốt *kappa* trước, ông nhìn thấy mảnh y phấn tảo của một vị Pacceka Buddha treo trên thân cây và đã dâng hoa để đảnh lễ (Thag.vs.23; Thag­a.i.79f).
+
+Ông có lẽ chính là Paṁsukūlapūjaka của Apadāna. Ap.ii.434; nhưng cũng xem Mahā Kāḷa.
 
 ## Notes

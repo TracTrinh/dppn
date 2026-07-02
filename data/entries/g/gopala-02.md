@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gopāla 02. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 02. Một trong những Yakkha vương, để cho những người theo Đức Phật kêu cầu vào lúc cần thiết. DN.iii.205.
 
 ## Notes

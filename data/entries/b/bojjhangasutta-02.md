@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgasutta"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bojjhaṅgasutta 02. The seven *bojjhaṅgas* lead to the Uncompounded (*Asaṅk
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgasutta 02. Bảy *bojjhaṅga* dẫn đến pháp Vô vi (*Asaṅkhata*). SN.iv.361.
 
 ## Notes

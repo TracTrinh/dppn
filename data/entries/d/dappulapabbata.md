@@ -5,7 +5,7 @@ base_headword: "Dappulapabbata"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dappulapabbata. A dwelling erected by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dappulapabbata. Một nơi ở được dựng lên bởi Udaya I. (có lẽ cũng được gọi là Dappula) trong Ambuyyānavihāra (Cv.xlix.30). Cũng có đề cập đến một *vihāra* tên là Dappulapabbata được bắt đầu bởi một người tên là Mahā Deva vào thời Vua Dappula (có lẽ là Dappula II), và được hoàn thành bởi Sena I. (Cv.l.80). Có thể đã có hai tòa nhà có cùng tên. Xem Cv.Trs.i.126, n.1.
 
 ## Notes

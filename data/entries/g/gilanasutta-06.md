@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "06"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gilānasutta 06. The Buddha lies ill in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 06. Đức Phật đang nằm bệnh tại Kalandakanivāpa ở Veḷuvana; Mahā Cunda đến thăm Ngài, và họ nói chuyện về bảy *bojjhaṅga*. Đức Phật ngay lập tức bình phục. SN.v.81.
 
 ## Notes

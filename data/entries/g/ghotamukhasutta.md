@@ -5,7 +5,7 @@ base_headword: "Ghoṭamukhasutta"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,6 @@ Ghoṭamukhasutta. Records a conversation between <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghoṭamukhasutta. Ghi lại một cuộc trò chuyện giữa Udena Thera và Ghoṭamukha tại Khemiyambavana, sau khi Đức Phật viên tịch. Ghoṭamukha cho rằng có một Vị Sa môn có thể được gọi là Bậc Đạo Đức (*dhammiko paribbājo*). Udena có biết ngài không? Udena mô tả cho ông bốn hạng người – những người tự hành hạ mình, những người hành hạ người khác, những người hành hạ cả hai và những người không hành hạ ai cả, hạng người cuối cùng là những người sống vượt khỏi sự thèm khát, viên mãn, không nóng nảy và an lạc. Họ không muốn bất cứ thứ gì mà con người khao khát, mà gạt bỏ tất cả để xuất gia sống không nhà. Ghoṭamukha thừa nhận rằng đó chính là Bậc Sa môn Đạo Đức. MN.ii.157ff.
 
 ## Notes

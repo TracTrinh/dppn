@@ -5,7 +5,7 @@ base_headword: "Daṇḍanāyakabhātaro"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -35,6 +35,10 @@ These honours won from them their allegiance to the king. They took an active pa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍanāyakabhātaro. Hai anh em, Kitti và Saṅkhadhātu, là các vị tướng của Parakkamabāhu I.
+
+Kitti được phong làm thủ lĩnh của các Kesadhātu và Saṅkhadhātu được phong làm một Nagaragalla.
+
+Những vinh dự này đã thu phục được sự trung thành của họ đối với nhà vua. Họ đã tham gia tích cực vào chiến dịch của Parakkamabāhu chống lại Gajabāhu (Cv.lxx.279, 284, 293, 301) và cả trong các cuộc chiến tranh mà ông tiến hành để thống nhất đất nước. Cv.lxxii.36, 162, 222, 272; lxxv.181.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Buddhabhelagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddhabhelagāma. A village in Ceylon given by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhabhelagāma. Một ngôi làng ở T?ch Lan được Jeṭṭhā, vợ của Aggabodhi IV., ban tặng để bảo trì Jeṭṭhārāma. Cv.xvli.28.
 
 ## Notes

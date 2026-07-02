@@ -5,7 +5,7 @@ base_headword: "Mahā Haṁsajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -44,6 +44,14 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Haṁsajātaka (Ja 534). Khemā, vợ của Saṁyama, vua xứ Benares, đã có một giấc mơ, sau đó bà ao ước được nhìn thấy một con haṁsa vàng thuyết giảng giáo pháp từ ngai vàng của hoàng gia. Khi nhà vua biết được điều này, ông đã tham khảo ý kiến của nhiều người khác nhau, và, hành động theo lời khuyên của họ, đã cho đào một cái ao ở phía bắc thành phố với hy vọng thu hút một con haṁsa vàng đến đó, và bổ nhiệm một người bắt chim, người sau đó được gọi là Khemaka, để trông coi cái ao.
+
+Kế hoạch đã thành công. Năm loại ngỗng khác nhau đã đến: ngỗng cỏ, ngỗng vàng, ngỗng đỏ, ngỗng trắng, và ngỗng pāka.
+
+Dhataraṭṭha, vua của loài ngỗng vàng, sống ở Cittakūṭa, đã lấy một con ngỗng pāka làm vợ, và theo lời đề nghị nhiều lần của vị đại thần của ngài là Sumukha, đã đến cùng với bầy ngỗng chín mươi nghìn con của mình, để xem cái ao tuyệt vời ở Benares. Khemaka nhìn thấy chúng và chờ đợi cơ hội của mình. Vào ngày thứ bảy, anh ta đã tìm thấy nó, và giăng một cái bẫy mà Dhataraṭṭha đã bị mắc vào. Nghe tiếng kêu báo động của ngài, cả bầy đã bay đi mất, ngoại trừ Sumukha, người đã ở lại và thỉnh cầu Khemaka cho phép mình thế chỗ của Dhataraṭṭha. Khi Sumukha nghe được lý do tại sao họ bị bắt, ông yêu cầu cả ông và Dhataraṭṭha phải được đưa đến trước Saṁyama. Khi Saṁyama nghe về sự tận tụy của Sumukha, ông vô cùng xúc động, và đã bày tỏ mọi sự tôn kính có thể có đối với các con haṁsa, sau khi xin sự tha thứ của chúng vì cách chúng đã bị đối xử. Dhataraṭṭha đã thuyết giảng cho hoàng hậu và các thành viên hoàng gia, và, sau khi khuyên bảo nhà vua hãy cai trị một cách công bình, đã trở về Cittakūṭa.
+
+Câu chuyện đã được kể liên quan đến nỗ lực của Ānanda nhằm hy sinh mạng sống của chính mình cho mạng sống của Đức Phật, khi Nālāgiri (q.v.) được phái đến để giết Ngài.
+
+Khemaka là Channa, Khemā là vị nữ Trưởng lão Khemā, nhà vua là Sāriputta, Sumukha là Ānanda, và Dhataraṭṭha là Bodhisatta. Ja.v.354-82; so sánh Cūḷa Haṁsajātaka.
 
 ## Notes

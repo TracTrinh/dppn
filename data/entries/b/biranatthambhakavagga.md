@@ -5,7 +5,7 @@ base_headword: "Bīranatthambhakavagga"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bīranatthambhakavagga. The seventh chapter of the *Dukanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ bảy của *Dukanipāta* của Chú giải Jātaka Ja.ii.164ff.
 
 ## Notes

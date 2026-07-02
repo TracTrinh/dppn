@@ -5,7 +5,7 @@ base_headword: "Gavaravāliya­aṅgaṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gavaravāliya­aṅgaṇa. A monastic establishment in Ceylon, the residence of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavaravāliya­aṅgaṇa. Một cơ sở tu viện ở Tích Lan, nơi cư trú của Trưởng lão Pītamalla và ba mươi vị khác. MN­a.i.190.
 
 ## Notes

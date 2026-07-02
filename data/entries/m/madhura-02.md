@@ -5,7 +5,7 @@ base_headword: "Madhurā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -44,6 +44,8 @@ Madhurā 02. A city in South India, in the Madras Presidency, and now known as M
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurā 02. Một thành phố ở miền Nam Ấn Độ, thuộc Phủ Madras, và hiện nay được biết đến với tên gọi Madura. Nó thường được gọi là Dakkhiṇa Madhurā, để phân biệt với (Uttara Madhura) trên bờ sông Yamunā. Dakkhiṇa Madhurā là kinh đô thứ hai của vương quốc Paṇḍya (kinh đô đầu tiên của họ là Korkai, xem Vincent Smith, EHI.335ff), và có sự giao thương liên tục giữa thành phố này và Tích Lan. Từ Madhurā đã có sự xuất hiện của vương phi của Vijaya, vị vua đầu tiên của Tích Lan, và bà được tháp tùng bởi nhiều thiếu nữ thuộc các gia đình khác nhau, những người đã định cư ở Tích Lan (Mhv.vii.49ff). Sena II đã phái một đạo quân đến cướp phá Madhurā, và đưa lên ngai vàng một hoàng tử Paṇḍu người đã cầu xin sự hỗ trợ của ngài (Cv.li.27ff). Sau đó, Madhurā bị Kulasekhara tấn công, và vua của nó, Parakkama, đã cầu viện sự trợ giúp của Parakkamabāhu I ở Tích Lan. Vị vua này đã phái một đạo quân dưới sự chỉ huy của vị tướng Laṅkāpura của ông, nhưng trong lúc đó, vị vua Paṇḍya đã bị giết và thủ đô của ông đã bị chiếm. Tuy nhiên, đạo quân Sinhalese đã đổ bộ lên bờ biển đối diện và tiến hành một cuộc chiến chống lại những người Coḷa, và xây dựng một pháo đài gần Rāmnād, được họ gọi là Parakkamapura. Họ đã đánh bại được Kulasekhara và khôi phục vương miện của Madhurā cho con trai của vị vua Paṇḍya, Vīra Paṇḍu. Những tù binh bị đạo quân bắt giữ đã được đưa đến Tích Lan. Để biết chi tiết, xem Cv.lxxvi.76ff.; lxxvii.1ff.; cũng xem Cv.Trs.ii.100, chú thích 1.
+
+Rājasīha II được cho là đã cưới được các người vợ từ Madhurā (Cv.xcvi.40), cũng như các vị vua kế vị ông là Vimaladhammasūriya II, Narindasīha và Vijayarājasīha. (Cv.xcvii.2, 24; Cv.xcviii.4.)
 
 ## Notes

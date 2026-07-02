@@ -5,7 +5,7 @@ base_headword: "Devaputta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Devaputta. A city in India, fifteen leagues from <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devaputta. Một thành phố ở Ấn Độ, cách Pāṭaliputta mười lăm do-tuần. Trong đó có *Sīhakumbhavihāra*. Đó là nơi sinh của Rūpadevī và Kañcanadevī. Có một thời Bát Xá-lợi của Đức Phật ở đó và các lễ hội được tổ chức để tôn vinh xá-lợi ấy. Vua của Devaputta, vào thời Asoka, cũng được gọi là Devaputta. Ras.i.25, 34, 80.
 
 ## Notes

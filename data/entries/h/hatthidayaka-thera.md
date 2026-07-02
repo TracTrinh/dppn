@@ -5,7 +5,7 @@ base_headword: "Hatthidāyaka Thera"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hatthidāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he presented an elep
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthidāyaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ông đã dâng cúng một con voi cho Siddhattha Buddha. Bảy mươi tám *kappa* trước, ông từng làm vua mười sáu lần, dưới tên Samantapāsādika. Ap.i.208.
 
 ## Notes

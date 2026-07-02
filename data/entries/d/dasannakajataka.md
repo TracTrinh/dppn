@@ -5,7 +5,7 @@ base_headword: "Dasaṇṇakajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,10 @@ The king was identified with the monk, <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasaṇṇakajātaka (Ja 401). Xưa kia Bodhisatta từng sinh ra là Senaka, một vị Bà-la-môn, làm cố vấn cho Vua Maddava của Benares. Maddava, khi thấy con trai của vị quốc sư của mình đang khao khát vị chánh hậu của ông, đã giao bà cho anh ta trong một tuần. Nhưng vào cuối tuần lễ, vị hoàng hậu đã bỏ trốn cùng chàng thanh niên và nhà vua trở nên ốm yếu vì nhung nhớ bà. Senaka ngay sau đó đã sắp xếp một lễ hội, trong quá trình đó nhà vua được xem một người đàn ông nuốt một thanh kiếm. Nhà vua sau đó hỏi các vị cố vấn của mình, Āyura, Pukkusa và Senaka, liệu có điều gì có thể khó làm hơn thế không. Lần lượt họ trả lời rằng hứa một món quà, trao nó, và sau khi đã trao nó, không hối tiếc về nó, những hành động này, theo mức độ tăng dần, khó hơn nhiều so với việc nuốt một thanh kiếm được rèn ở Dasaṇṇa. Nhà vua, khi nắm được ý nghĩa những câu trả lời của họ, đã lấy lại được sự bình tĩnh của mình.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo bị cám dỗ bởi người vợ cũ của mình.
+
+Nhà vua được nhận dạng với vị tỳ-kheo đó, Āyura với Moggallāna, và Pukkusa với Sāriputta (Ja.iii.336-41).
 
 ## Notes

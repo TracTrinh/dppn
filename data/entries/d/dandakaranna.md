@@ -5,7 +5,7 @@ base_headword: "Daṇḍakārañña"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ It was on the banks of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍakārañña. Khu rừng đã mọc phủ kín Kaliṅga khi vương quốc này bị tàn phá vì sự tàn ác của vua Daṇḍakī (*q.v.*) (MN.i.378; Mil.130).
+
+Nó nằm trên bờ sông Godhāvarī và, cùng với Viñjhāṭavi, chia tách Majjhimadesa khỏi Dakkhiṇāpatha. Nó có lẽ bao gồm tất cả các khu rừng từ Bundelkhand đến sông Krishna.
 
 ## Notes

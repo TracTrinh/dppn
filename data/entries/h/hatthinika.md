@@ -5,7 +5,7 @@ base_headword: "Hatthinika"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthinika. One of the four sons of the third <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthinika. Một trong bốn người con trai của vị Okkāka thứ ba, do hoàng hậu Hatthā (*q.v.*) sinh ra. Trong Mvu.i.348, ông được gọi là Hastikaśirṣa.
 
 ## Notes

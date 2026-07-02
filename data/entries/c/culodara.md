@@ -5,7 +5,7 @@ base_headword: "Cūḷodara"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -29,6 +29,6 @@ Cūḷodara, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷodara, Cūlodara. Một Nāga vương của Tích Lan, cháu trai của Mahodara. Cha của ông là vua của ngọn núi Kaṇṇavaḍḍhamāna. Chính cuộc cãi vã giữa Cūḷodara và Mahodara liên quan đến một chiếc ngai nạm ngọc là nguyên nhân cho chuyến viếng thăm của Đức Phật đến Tích Lan. Mhv.i.45ff; Dpv.ii.7, 29; Vin-a.i.120.
 
 ## Notes

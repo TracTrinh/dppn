@@ -5,7 +5,7 @@ base_headword: "Dasaratharājaputta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dasaratharājaputta. A name given to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasaratharājaputta. Tên được đặt cho Rāma. Ja.vi.558.
 
 ## Notes

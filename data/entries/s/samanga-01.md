@@ -5,7 +5,7 @@ base_headword: "Samaṅga"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṅga 01. The constant attendant of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṅga 01. Thị giả thường trực của Tissa Buddha. Bv.xviii.21; Bv­a (p. 191) gọi ông là Samata.
 
 ## Notes

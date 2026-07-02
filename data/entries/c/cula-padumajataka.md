@@ -5,7 +5,7 @@ base_headword: "Cūḷa Padumajātaka"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -38,6 +38,12 @@ The story was told in reference to a backsliding monk. The details are given in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Padumajātaka, Culla Padumajātaka (Ja 193). Bodhisatta từng tái sinh làm Paduma, con trai của vị hoàng hậu chánh cung của vua Benares. Ông có sáu người anh em. Nhà vua, trở nên nghi ngờ các con trai của mình, đã ra lệnh cho họ rời khỏi vương quốc. Họ rời đi cùng các người vợ của mình, và khi đến một vùng không có thức ăn nào để kiếm, họ đã giết từng người vợ một và ăn thịt.
+
+Bodhisatta đã xoay xở để cứu vợ mình bằng cách nhường một phần bữa ăn mỗi ngày, và trốn chạy cùng bà. Trong cuộc chạy trốn, Bodhisatta đã cho vợ uống một ít máu của mình, vì bà đang rất khát. Sau đó họ sống trong một túp lều trên bờ sông Ganges. Một ngày nọ, Bodhisatta cứu từ dòng sông một tên trộm bị chặt đứt tay chân đang trôi xuôi dòng trên một chiếc thuyền. Ban đầu, vợ của Bodhisatta thậm chí không thèm nhìn người đàn ông đó, nhưng chẳng bao lâu bà nảy sinh lòng đam mê hắn và ném chồng mình xuống một vách đá. Bodhisatta rơi trúng một cây sung, và sau một thời gian đã leo xuống được nhờ sự giúp đỡ của một con kỳ đà. Ông đi đến Benares và thiết lập lại quyền kế vị vương quốc của cha mình. Người vợ trước đây của ông, lang thang từ nơi này sang nơi khác với người tàn tật trên vai, đã đạt được danh tiếng lớn như một người vợ tận tụy. Một ngày nọ, bà ta đến Benares. Tại đó, nhà vua đã nhận ra bà và vạch trần sự phản trắc của bà (Ja.ii.115-21).
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo thoái thất. Các chi tiết được đưa ra trong Ummadantījātaka (Ja 527).
+
+Devadatta là tên trộm, Ciñcā là người phụ nữ phản trắc, và Ānanda là con kỳ đà.
 
 ## Notes

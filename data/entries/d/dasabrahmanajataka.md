@@ -5,7 +5,7 @@ base_headword: "Dasabrāhmaṇajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,8 @@ The story was related in reference to the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasabrāhmaṇajātaka (Ja 495). Xưa kia Bodhisatta từng tái sinh làm Vidhura, vị cố vấn cho Koravya của gia tộc (*gotta*) Yudhiṭṭhila, và là vua của Indapatta. Sự hào phóng của nhà vua là vô song, nhưng ông không đạt được sự mãn nguyện nào từ điều đó vì tất cả những người nhận đồ bố thí của ông đều là những kẻ độc ác. Do đó, ông đã bàn bạc với Vidhura và, sau khi thảo luận với vị này về các phẩm chất của đức hạnh thực sự, đã có được, với sự giúp đỡ của Vidhura, năm trăm Đức Phật Độc giác (*Pacceka Buddha*) từ Nandapabbata ở Himavā và đã thiết đãi các ngài trong bảy ngày.
+
+Câu chuyện được kể lại liên quan đến Asadisadāna của Pasenadi. Koravya được nhận dạng với Ānanda. Ja.iv.360-8.
 
 ## Notes

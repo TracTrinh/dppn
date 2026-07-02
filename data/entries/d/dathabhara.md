@@ -5,7 +5,7 @@ base_headword: "Dāṭhābhāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāṭhābhāra. A general of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhābhāra. Một vị tướng của Gajabāhu. Cv.lxx.104.
 
 ## Notes

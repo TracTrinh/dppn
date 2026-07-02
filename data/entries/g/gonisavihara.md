@@ -5,7 +5,7 @@ base_headword: "Gonisavihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gonisavihāra. A *vihāra* in Ceylon where the young <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonisavihāra. Một *vihāra* ở Tích Lan nơi Dhatusena (*q.v.*) thời trẻ được chú của ông nuôi dưỡng, trong khi ông cải trang thành một vị tỳ-kheo (Cv.xxxviii.21). Geiger nghĩ rằng nó nằm ở phía nam Anurādhapura (Cv.Trs.i.30, n.1).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Kanda"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kanda. The name of a <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kanda. Tên của một người Damiḷa và của một pariveṇa được xây dựng bởi ông trong triều đại của Aggabodhi IV. Cv.xlvi.23.
 
 ## Notes

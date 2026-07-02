@@ -5,7 +5,7 @@ base_headword: "Ghaṭīkāra"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -52,6 +52,14 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭīkāra. Một trong những vị *Brahma* vĩ đại. Trong thời của Kassapa Buddha, ông là một thợ gốm ở Vehaliṅga, chăm sóc cha mẹ mù lòa của mình. Ông là một tín đồ rất sùng đạo và tận tụy của Đức Phật, phụng sự Ngài tốt hơn bất kỳ ai khác, và Đức Phật đã chấp nhận lời mời của ông thay vì lời mời của vua nước Benares. Người ta nói rằng khi Đức Phật cần bất cứ thứ gì, Ngài sẽ đến nhà của Ghaṭīkāra và lấy nó, cho dù ông có ở nhà hay không, niềm tin của Ngài vào sự đạo đức của Ghaṭīkāra lớn đến vậy. Có lần, khi Ghaṭīkāra đi vắng, mọi người, theo gợi ý của Đức Phật, đã lấy mái tranh từ nhà ông để lợp túp lều của Tathāgata. Trong ba tháng, nhà của Ghaṭīkāra vẫn trống hoác, nhưng không có hạt mưa nào rơi xuống đó, đức tin của ông thật lớn lao (Mil.223f). Theo Naḷapānajātaka (Ja.i.172), sẽ không bao giờ có mưa rơi xuống vị trí nhà của Ghaṭīkāra chừng nào *kappa* này còn kéo dài.
+
+Bodhisatta, người vào thời của Ghaṭīkāra là một thanh niên Bà-la-môn tên là Jotipāla, là bạn của Ghaṭīkāra nhưng không có đức tin vào Đức Phật, và Ghaṭīkāra, sau khi không thuyết phục được vị này đến thăm Đức Phật, cuối cùng đã dùng vũ lực đưa vị này đi. Jotipāla đã cải đạo và gia nhập Tăng đoàn, nhưng Ghaṭīkāra, là chỗ dựa duy nhất của cha mẹ mình, không thể xuất gia. Kikī, vua của Benares, sau khi nghe về các đức hạnh của ông từ Kassapa Buddha, đã gửi cho ông năm trăm xe chở đầy gạo ngon nhất, v.v., nhưng Ghaṭīkāra đã trả lại các món quà, nói rằng ông đã có đủ cho bản thân mình (MN.ii.46ff; SN.i.35f; Bv.xxv.41; Snp-a.i.152).
+
+Sau khi chết, Ghaṭīkāra được tái sinh làm *Mahā Brahmā* trong cõi Brahma Avihā, và là một *Anāgāmī*. Rõ ràng là ông đã là một *Sakadāgāmi* trước khi chết (xem Dhp­a.i.380), nhưng ông không muốn các thành tựu của mình được biết đến (AN­a.i.44).
+
+Ông đã cung cấp cho Đức Phật tám vật dụng của một vị tỳ-kheo khi Đức Phật, sau khi từ bỏ thế gian, quyết định sống cuộc đời của một bhikkhu (Ja.i.65; Snp-a.ii.382; Bv­a.236; Vv-a.314). Chiếc bình bát, lúc đó do ông cung cấp, đã biến mất khi Đức Phật được Sujātā cúng dường một bát cháo sữa (Ja.i.69).
+
+Theo Saṁyuttanikāya (SN.i.35f; 60), Ghaṭīkāra đã đến thăm Đức Phật một thời gian sau Sự Giác Ngộ và Đức Phật đã nhắc nhở ông về tình bạn trước đây của họ. Ghaṭīkāra, vào dịp đó, đã nói về một số người khác (ngoài Jotipāla) từng là bạn của ông ở Vehaliṅga – Upaka, Phalagaṇḍa, Pukkusāti, Bhaddiya, Khaṇḍadeva, Bāhuraggi và Piṅgiya. Họ đã lắng nghe giáo pháp của Đức Phật và, sau khi chết, được sinh ra trong cõi *Avihā*, nơi mà chính ông cũng đang ở đó. Trong bối cảnh này, Đức Phật gọi ông là Bhaggava (*q.v.*).
 
 ## Notes

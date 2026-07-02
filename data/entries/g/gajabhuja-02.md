@@ -5,7 +5,7 @@ base_headword: "Gajabhuja"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gajabhuja 02. A chieftain of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajabhuja 02. Một tù trưởng xứ Gova. Ông bị Konappu, sau này là Vimaladhammasūriya, giết chết (Cv.xciv.2).
 
 ## Notes

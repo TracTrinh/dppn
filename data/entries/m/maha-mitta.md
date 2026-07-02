@@ -5,7 +5,7 @@ base_headword: "Mahā Mitta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Mitta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mitta (*v.l.* Ayyamitta). Một tỳ-kheo của Kassakalena. Một người phụ nữ rất nghèo đã cúng dường thức ăn cho ông. Khi một vị thụ thần chỉ ra điều này cho ông, ông đã dốc sức nỗ lực và trở thành một *Arahant*). MN­a.i.237f; DN­a.iii.790.
 
 ## Notes

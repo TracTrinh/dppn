@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇavagga"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇavagga 02. The sixth chapter of the *Tikanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇavagga 02. Phẩm thứ sáu của *Tikanipāta* thuộc Aṅguttaranikāya. AN.i.155-73.
 
 ## Notes

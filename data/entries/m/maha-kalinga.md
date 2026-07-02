@@ -5,7 +5,7 @@ base_headword: "Mahā Kāliṅga"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Kāliṅga. King of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāliṅga. Vua của Dantapura và là anh trai của Cūḷa Kāliṅga. Về câu chuyện của họ, xem Kāliṅgabodhijātaka (Ja 479. Ja.iv.230ff).
 
 ## Notes

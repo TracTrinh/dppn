@@ -5,7 +5,7 @@ base_headword: "Buddhasīha"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Buddhasīha. A monk of Ceylon, pupil of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasīha. Một vị tỳ-kheo ở T?ch Lan, đệ tử của Buddhadatta. Chính vì yêu cầu của ông mà Buddhadatta (1) đã viết Rūpārūpavibhāga (một luận thư Abhidhamma). (PLC.108). Theo một truyền thống (Sās-d.30) chính Buddhasīha là tác giả của tác phẩm này, nhưng phần kết của cuốn sách lại tuyên bố ngược lại.
 
 ## Notes

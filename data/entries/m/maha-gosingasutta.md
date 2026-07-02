@@ -5,7 +5,7 @@ base_headword: "Mahā Gosiṅgasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -43,6 +43,15 @@ They all seek the Buddha and ask for his opinion. He praises the opinion of each
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gosiṅgasutta. Một cuộc thảo luận tại Gosiṅgasālavana, giữa Sāriputta, Mahā Moggallāna, Mahā Kassapa, Anuruddha, Revata và Ānanda. Sāriputta được những người khác đến thăm vào buổi tối, và hỏi họ loại tỳ-kheo nào sẽ làm sáng chói khu rừng Gosiṅga.
+
+- Ānanda nói về một người trân quý những gì mình đã được dạy và học thuộc lòng những giáo lý tuyên bố về đời sống cao thượng trong tất cả sự hoàn hảo và thanh tịnh của nó;
+- Revata nói về một người hoan hỷ trong thiền định và sống tĩnh cư;
+- Anuruddha nói về một người sở hữu thiên nhãn;
+- Mahā Kassapa nói về một người sống trong rừng một cuộc đời tinh tấn, khuyến khích cuộc đời đó;
+- Moggallāna, nói về một người tổ chức các cuộc thảo luận với người khác về Abhidhamma;
+- Sāriputta nói về một vị tỳ-kheo làm chủ tâm mình và không bị tâm chi phối.
+
+Tất cả họ đều tìm đến Đức Phật và thỉnh cầu ý kiến của Ngài. Ngài tán thán ý kiến của từng vị Trưởng lão, nhưng bản thân Ngài sẽ chọn một vị tỳ-kheo đã được giải thoát khỏi các āsava. MN.i.212-19.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Girinelapūjaka Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girinelapūjaka Thera. An *Arahant*. Thirty-one *kappas* ago he was a hunter, an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girinelapūjaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một người thợ săn, và sau khi nhìn thấy Sikhī Buddha, ông đã dâng cúng cho Ngài một bông hoa *nela* (Ap.ii.457). Ông rõ ràng là cùng một người với Gavampati. Thag­a.i.104.
 
 ## Notes

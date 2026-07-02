@@ -5,7 +5,7 @@ base_headword: "Samiddhi"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -49,6 +49,10 @@ Once when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhi 01. Samiddhi Thera. Ông thuộc một gia đình gia chủ ở Rājagaha. Từ khi ông sinh ra, gia đình ông trở nên thịnh vượng, và bản thân ông hạnh phúc và tốt lành, do đó có tên gọi này. Ông đã có mặt tại cuộc gặp gỡ giữa Đức Phật và Bimbisāra, và cảm động sâu sắc đến mức đã gia nhập Saṅgha. Một lần, khi ông đang ở Tapodārāma suy ngẫm về phước duyên của mình khi làm tỳ-kheo, Māra đã cố gắng làm ông sợ hãi. Samiddhi kể lại việc này với Đức Phật, nhưng Đức Phật bảo ông cứ ở lại nơi đó. Ông vâng theo, và không lâu sau chứng đắc quả vị *Arahant*. Sau đó ông tuyên bố *aññā* của mình bằng một bài kệ (Thag.vs.46), và Māra rút lui trong thất vọng. Câu chuyện này cũng được kể tại SN.i.119 f, nhưng nơi chốn được nêu không phải là Tapodārāma, mà là Silāvati.
+
+Trong quá khứ ông đã gặp Siddhattha Buddha, dâng lên Ngài một số hoa có cuống mà ông đã hái được nhờ cây cung và mũi tên của mình. Năm mươi mốt *kappa* trước, ông là một vị vua tên Jutindhara (Thag­a.i.117f). Ông có lẽ là cùng một người với Salaḷamāliya trong Apadāna (Ap.i.206).
+
+Một lần khi Samiddhi đang lau khô mình sau khi tắm ở Tapodā, một vị thiên đến gần và hỏi ông về Bhaddekarattasutta. Samiddhi thú nhận mình không biết, và vị thiên bảo ông nên học điều đó từ Đức Phật. Ông đã làm như vậy qua một bài pháp ngắn được Đức Phật thuyết cho ông, mà sau đó Mahā Kaccāna đã khai triển thành Mahā Kaccāna Bhaddekarattasutta (*q.v.*) (MN.iii.192f). Một cuộc trò chuyện giữa Potaliputta và Samiddhi, ba năm sau khi Samiddhi gia nhập Saṅgha, đã dẫn đến việc thuyết giảng Mahā Kammavibhaṅgasutta (*q.v.*) (MN.iii.207). Trong bản *Sutta* này, Đức Phật gọi Samiddhi là *moghapurisa*, và Samiddhi cũng bị Potaliputta trêu chọc vì đã dám giảng giải Dhamma trong khi mới chỉ ở trong Saṅgha được ba năm. Theo Aṅguttara Commentary (AN­a.ii.799), Samiddhi là một đệ tử (*saddhivihārika*) của Sāriputta, và bản Aṅguttara (AN.iv.385f) có ghi lại một bài học mà Sāriputta đã dạy cho Samiddhi về *saṅkappavitakkas*. Xem thêm Samīddhijātaka và Samiddhisutta 2.
 
 ## Notes

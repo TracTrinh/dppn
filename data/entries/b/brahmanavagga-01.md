@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇavagga"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇavagga 01. The tenth section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇavagga 01. Phần thứ mười của Majjhimanikāya, *Suttas* 91-100.
 
 ## Notes

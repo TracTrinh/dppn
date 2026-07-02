@@ -5,7 +5,7 @@ base_headword: "Mahā Kappinatheravatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Kappinatheravatthu. Describes the good deeds done by <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kappinatheravatthu. Miêu tả những việc làm tốt đẹp được thực hiện bởi Kappina và Anojā vào thời Đức Phật Kassapa. Xem Mahā Kappina. Dhp­a.ii.112-27.
 
 ## Notes

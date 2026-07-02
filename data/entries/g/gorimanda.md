@@ -5,7 +5,7 @@ base_headword: "Gorimanda"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gorimanda. A rich man of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gorimanda. Một người đàn ông giàu có của Mithilā. Ông không có con và rất xấu xí; khi ông nói chuyện nước bọt chảy ra từ miệng ông, và hai người phụ nữ xinh đẹp, đứng bên cạnh ông, lau mặt cho ông bằng những bông hoa súng xanh và ném chúng đi. Khi những người ăn chơi trác táng không có tiền để mua hoa, họ sẽ đứng bên ngoài nhà của Gorimanda và gọi ông. Khi ông chồm ra khỏi cửa sổ để hỏi xem họ muốn gì, mặt của ông phải được lau bằng những bông hoa súng và những bông hoa súng đó sau đó bị ném đi. Những người ăn chơi trác táng đã nhặt chúng lên, rửa sạch, và đội chúng tại các buổi tiệc tùng của họ. Ja.vi.367f.
 
 ## Notes

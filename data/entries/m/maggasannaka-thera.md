@@ -5,7 +5,7 @@ base_headword: "Maggasaññaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maggasaññaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasaññaka Thera. Một vị Arahant. Trong thời của Padumuttara Buddha, ngài là một Devaputta ở Himavā, và, khi tình cờ gặp một số tỳ-kheo bị lạc đường trong rừng, ngài đã tiếp đãi họ và chỉ cho họ con đường đúng. Một trăm lẻ năm kappa trước, ngài làm vua mười hai lần dưới cái tên Sacakkhu (Ap.i.152f). Ngài có lẽ đồng nhất với Ekadhammasavaniya. Thag­a.i.151f.
 
 ## Notes

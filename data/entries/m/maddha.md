@@ -5,7 +5,7 @@ base_headword: "Maddha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maddha. A locality in Ceylon, probably a *vihāra*, residence of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddha. Một địa phương ở Tích Lan, có lẽ là một *vihāra*, nơi cư ngụ của Trưởng lão Mahā Nāga. Ja.vi.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Deva 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 01. Mahā Deva Thera. Đệ tử tối thắng của Padumuttara Buddha. AN­a.i.114; nhưng Bv.xi.24 gọi ngài là Devala.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samantakūṭavaṇṇanā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Samantakūṭavaṇṇanā. A Pāli poem, of about eight hundred verses, written
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantakūṭavaṇṇanā. Một bài thơ Pāli, gồm khoảng tám trăm câu kệ, được viết vào thế kỷ thứ mười ba bởi Vedeha Thera, theo yêu cầu của Rāhula, một vị tỳ-kheo. Bài thơ chứa đựng một mô tả về Samantakūṭa và những câu chuyện liên quan đến nơi này. PLC. 223f.
 
 ## Notes

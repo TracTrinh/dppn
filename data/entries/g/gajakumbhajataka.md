@@ -5,7 +5,7 @@ base_headword: "Gajakumbhajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ The story was related in reference to a monk who was slothful regarding his duti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajakumbhajātaka (Ja 345). Bodhisatta từng là một vị đại thần của vua xứ Benares. Nhận thấy nhà vua lười biếng, Bodhisatta đã lấy con rùa làm bài học minh họa, cho vua thấy kẻ biếng nhác sẽ chuốc lấy khổ đau như thế nào.
+
+Câu chuyện được kể ra liên quan đến một vị tỳ-kheo lười biếng trong bổn phận của mình. Ja.iii.139f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gilānavagga"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gilānavagga 03. The second chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānavagga 03. Phẩm thứ hai của Bojjhaṅgasaṁyutta. SN.v.78.83.
 
 ## Notes

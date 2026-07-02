@@ -5,7 +5,7 @@ base_headword: "Māghasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māghasutta. Records the conversation between <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māghasutta. Ghi lại cuộc trò chuyện giữa Māgha (1) và Đức Phật.
 
 ## Notes

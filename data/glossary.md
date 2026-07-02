@@ -17,8 +17,10 @@ phân vân, giữ Pāli — luôn an toàn và khớp với cơ chế gắn link
 Dhamma → Pháp — khi nói về giáo pháp; giữ "Dhamma" trong tên riêng/nhan đề.
 adhamma → phi Pháp — khi đối lập với Dhamma/Pháp trong nghĩa điều không phải Pháp; giữ "*adhamma*" nếu bản gốc in nghiêng và cần đối chiếu thuật ngữ.
 Sangha → Tăng đoàn
-Devas → chư thiên — số nhiều; "Deva" (số ít) → thiên thần/thiên nhân (tùy ngữ cảnh). KHÔNG để nguyên "Devas"/"các Devas" trong bản dịch — luôn dịch "chư thiên" (lưu ý: "chư" đã hàm số nhiều, không viết "các chư thiên").
+Devas → chư thiên — số nhiều; "Deva" (số ít) → thiên nhân (天人). KHÔNG dùng "thiên thần" (gợi hình ảnh "angel" Tây phương, không hợp deva Phật giáo). KHÔNG để nguyên "Devas"/"các Devas" trong bản dịch — luôn dịch "chư thiên" (lưu ý: "chư" đã hàm số nhiều, không viết "các chư thiên").
 Devaputtas → các thiên tử
+Devī / devatā (nữ, số ít) → thiên nữ — nữ chúng sinh cõi trời; KHÔNG dùng "nữ thiên thần" hay "nữ thiên nhân".
+tree deity / rukkha-devatā (deva trú trong cây) → thọ thần — phân biệt với deva chung ("thiên nhân"); cùng loại thần trú trong tự nhiên: thần sông → thủy thần, thần đất → địa thần.
 Asura(s) → Asura(s) — giữ Pāli cho loài/chúng sinh; không Việt hóa tên riêng liên quan.
 Thera → Trưởng lão — giữ "Thera" khi là một phần tên riêng
 Bodhisatta → Bodhisatta — giữ Pāli (in nghiêng khi bản gốc in nghiêng); KHÔNG dịch "Bồ-tát".
@@ -112,3 +114,9 @@ uṇṇaloma → uṇṇaloma — sợi lông trắng giữa hai chân mày củ
 Yamakapāṭihāriya → Yamakapāṭihāriya — phép thần thông song hành (lửa và nước); giữ nguyên
 avijahitaṭṭhānāni → avijahitaṭṭhānāni — những nơi bất biến (của tất cả chư Phật); giữ nguyên
 Paribbājakārāma → tu viện của các du sĩ ngoại đạo
+iddhipāda(s) → iddhipāda(s) — giữ Pāli cho các nền tảng của thần thông (tứ như ý túc); in nghiêng nếu bản gốc in nghiêng.
+Cakkavatti → Cakkavatti — giữ Pāli cho vị vua chuyển luân (Chuyển luân thánh vương); không Việt hóa.
+recluse → sa-môn — dịch nghĩa cho "recluse" khi chỉ chung người xuất gia tu khổ hạnh; giữ "samaṇa" in nghiêng khi bản gốc dùng thuật ngữ Pāli.
+Twin Miracle → Song thông — dịch nghĩa khi bản gốc không dùng thuật ngữ Pāli "Yamakapāṭihāriya"; xem mục Yamakapāṭihāriya khi bản gốc dùng thuật ngữ đó.
+Ceylon → Tích Lan — dùng khi bản gốc dùng "Ceylon" như địa danh chung (không phải tên riêng công trình).
+Act of Truth → Lời Nguyện Sự Thật — saccakiriyā: hành động trang trọng khẳng định một sự thật có thực rồi dựa vào oai lực của sự thật đó mà phát nguyện. Dùng "Nguyện" (không phải "Nguyền" = lời rủa). Mô típ lặp lại trong Jātaka; kèm gloss *saccakiriyā* lần đầu khi bản gốc có; dùng nhất quán kể cả khi bản gốc không kèm thuật ngữ Pāli.

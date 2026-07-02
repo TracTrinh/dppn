@@ -5,7 +5,7 @@ base_headword: "Sammappadhānavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sammappadhānavagga. The eighth chapter of the *Navakanipāta* of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammappadhānavagga. Chương thứ tám của *Navakanipāta* trong Aṅguttaranikāya. AN.iv.462f.
 
 ## Notes

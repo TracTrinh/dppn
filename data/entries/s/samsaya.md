@@ -5,7 +5,7 @@ base_headword: "Saṁsaya"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saṁsaya. A divine musician or a musical instrument. Vv-a.93, 372.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁsaya. Một nhạc công cõi trời hoặc một loại nhạc cụ. Vv-a.93, 372.
 
 ## Notes

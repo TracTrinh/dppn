@@ -5,7 +5,7 @@ base_headword: "Buddharāja"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddharāja. A powerful man of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddharāja. Một người quyền lực ở Rohaṇa, người được cho là đã cãi vã với Loka, người cai trị Kājaragāma. Cv.lvii.45.
 
 ## Notes

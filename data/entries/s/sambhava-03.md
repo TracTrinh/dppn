@@ -5,7 +5,7 @@ base_headword: "Sambhava"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sambhava 03. The constant attendant of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhava 03. Thị giả thường trực của Tissa Buddha. Ja.i.40, nhưng xem Samaṅga.
 
 ## Notes

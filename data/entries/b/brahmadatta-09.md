@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "09"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmadatta 09. A monk, sometimes credited with having supplied the illustration
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 09. Một vị tỳ-kheo, đôi khi được cho là đã cung cấp những hình ảnh minh hoạ cho các cách ngôn trong ngữ pháp của Kaccāyana. PLC. 180.
 
 ## Notes

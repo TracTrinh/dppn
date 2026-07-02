@@ -5,7 +5,7 @@ base_headword: "Samattasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samattasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samattasutta 01. Sāriputta nói với Anuruddha rằng chính nhờ tu tập bốn *satipaṭṭhāna* mà người ta trở thành bậc vô học (*asekha*). SN.v.175.
 
 ## Notes

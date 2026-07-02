@@ -5,7 +5,7 @@ base_headword: "Hatthibhoga"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hatthibhoga. The district given for the maintenance of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthibhoga. Vùng đất được ban để nuôi dưỡng con voi ngự của Iḷanāga, con voi đã cứu nhà vua khỏi nhà ngục mà ông bị người Lambakaṇṇa giam vào (Mhv.xxv.20f., 44). Vùng này nằm ở miền Nam Tích Lan, và trong làng có Paṅguravihāra. MN­a.i.530.
 
 ## Notes

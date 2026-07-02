@@ -5,7 +5,7 @@ base_headword: "Macalavihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Macalavihāra. A *vihara* in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macalavihāra. Một vihāra ở Mahā Gama. Ras.ii.52
 
 ## Notes

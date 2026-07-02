@@ -5,7 +5,7 @@ base_headword: "Sāmaṇerasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāmaṇerasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmaṇerasutta, Sāmaneriyasutta. Về hai vị sa-di, một nam một nữ, đã sinh làm ngạ quỷ vì các ác nghiệp của họ vào thời Kassapa Buddha. Moggallāna đã thấy họ khi ông đi xuống Gijjhakūṭa. SN.ii.261.
 
 ## Notes

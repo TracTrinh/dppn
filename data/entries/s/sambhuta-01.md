@@ -5,7 +5,7 @@ base_headword: "Sambhūta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Sambhūta 01. A *Caṇḍāla*, brother of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhūta 01. Một *Caṇḍāla*, em trai của Citta. Ông là con trai của chị/em gái của Bodhisatta. Xem Citta Sambhūtajātaka (Ja 498). Sambhūta được nhận diện là Ānanda. Ja.iv.401.
 
 ## Notes

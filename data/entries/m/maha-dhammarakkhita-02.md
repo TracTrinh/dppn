@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammarakkhita"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Dhammarakkhita 02. An ancient Commentator, generally called *Tipiṭaka* <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhammarakkhita 02. Một vị Luận sư cổ đại, thường được gọi là Tipiṭaka Mahā Dhammarakkhita, người được trích dẫn vài lần trong các Bản Chú Giải. Ông là người cùng thời với Dīghabhāṇaka Abhaya, vd., Dhs-a.267, 278, 286f.; Vibh-a.81; Paṭis-a.405.
 
 ## Notes

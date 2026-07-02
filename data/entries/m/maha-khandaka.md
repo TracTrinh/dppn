@@ -5,7 +5,7 @@ base_headword: "Mahā Khandaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Khandaka. The first chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Khandaka. Chương đầu tiên của Mahā Vagga thuộc Vinayapiṭaka.
 
 ## Notes

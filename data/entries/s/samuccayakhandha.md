@@ -5,7 +5,7 @@ base_headword: "Samuccayakhandha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samuccayakhandha. The third chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuccayakhandha. Chương thứ ba của Cūḷa Vagga trong Vinayapiṭaka. Vin.ii.38-72.
 
 ## Notes

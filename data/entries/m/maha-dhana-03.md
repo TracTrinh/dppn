@@ -5,7 +5,7 @@ base_headword: "Mahā Dhana"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Dhana 03. A merchant of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhana 03. Một thương nhân của Benares. Trên đường đến Sāvatthī với năm trăm cỗ xe chở đầy vải màu hoa rum, ông đến bờ sông và tháo ách cho bầy bò của mình, nghĩ rằng sẽ vượt sông vào ngày hôm sau. Trong đêm trời đã mưa và có một trận lũ. Cơn mưa kéo dài trong bảy ngày, và Mahā Dhana đã quyết định ở lại cho đến khi hàng hóa của mình được bán hết rồi sau đó mới trở về nhà. Đức Phật, trong chuyến khất thực của Ngài, đã nhìn thấy ông và mỉm cười. Khi được Ānanda hỏi lý do, Ngài nói rằng người đàn ông đó, bất chấp mọi kế hoạch của mình, chỉ còn sống được bảy ngày nữa. Với sự cho phép của Đức Phật, Ānanda đã cảnh báo Mahā Dhana, ông ta ngay sau đó đã cung thỉnh Đức Phật cùng các tỳ-kheo của Ngài và thiết đãi họ. Vào cuối bữa ăn Đức Phật đã thuyết giảng cho ông và ông đã trở thành một vị Sotāpanna. Ngay sau đó ông lên cơn đau đầu và lập tức qua đời, được tái sinh ở Tusita. Dhp­a.iii.429f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vagga"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Vagga 03. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vagga 03. Cūla Vagga. Chương thứ bảy của Udāna. Ud., pp.74ff.
 
 ## Notes

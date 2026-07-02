@@ -5,7 +5,7 @@ base_headword: "Hetusutta"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hetusutta 01. Body, feeling, etc., and their cause, are all impermanent. SN.iii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hetusutta 01. Thân, thọ, etc., và nguyên nhân của chúng, đều là vô thường. SN.iii.23.
 
 ## Notes

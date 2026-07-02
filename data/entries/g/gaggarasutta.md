@@ -5,7 +5,7 @@ base_headword: "Gaggarāsutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaggarāsutta. Records the incident of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaggarāsutta. Ghi lại sự kiện Vaṅgīsa hát ca ngợi Đức Phật trên bờ hồ Gaggarā (SN.i.195; cf. Thag.v.1252).
 
 ## Notes

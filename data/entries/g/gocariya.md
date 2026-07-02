@@ -5,7 +5,7 @@ base_headword: "Gocariya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gocariya *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gocariya *v.l.* Kāḷāvaka. Một trong mười gia tộc của voi. Người ta nói rằng một con voi Chaddanta thì được sinh ra trong một Chaddantakula chứ không phải trong một gia tộc như Gocariya. MN­a.i.248.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gopālamātā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -30,6 +30,6 @@ Gopālamātā. Queen consort of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopālamātā. Vương hậu của Udena. Bà xuất thân từ gia đình của một thương gia nghèo ở Telappanāḷi và có mái tóc dài và đẹp, sự ghen tị của những người bạn của bà. Một ngày nọ, Mahā Kaccāna và bảy người khác đến thăm làng, và bà đã bán mái tóc của mình để lấy tám *kahāpaṇa*, để bà có thể cung cấp cho những vị khách một bữa ăn. Người ta nói rằng bà đã khôi phục lại mái tóc của mình ngay sau khi nhìn thấy Mahā Kaccāna. Khi vị Trưởng lão đến Ujjenī vào chính ngày hôm đó, bằng đường hàng không, ngài đã kể lại sự việc cho Vua Udena và nhà vua, sau khi cử những người đưa tin đến rước Gopālamātā, đã lập bà làm chính thất của mình. Bà sinh được một người con trai, mà bà gọi là Gopāla, theo tên của chính cha mình, và kể từ đó bản thân bà được gọi là Gopālamātā. AN­a.i.118; Mil.291.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devadahavagga"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devadahavagga 01. The eleventh section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadahavagga 01. Phần thứ mười một của Majjhimanikāya (*Suttas* 101-10), trong đó Devadahasutta là *Sutta* đầu tiên. MN.ii.214ff.
 
 ## Notes

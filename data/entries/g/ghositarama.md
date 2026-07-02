@@ -5,7 +5,7 @@ base_headword: "Ghositārāma"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -78,6 +78,18 @@ Thirty thousand monks from the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghositārāma. Một tu viện ở Kosambī, do Ghosita (Ghosaka, *q.v.*) xây dựng để Đức Phật và các vị tỳ-kheo sử dụng. Đức Phật thường trú tại đây trong những chuyến viếng thăm Kosambī và có rất nhiều sự kiện liên quan đến tu viện này được nhắc đến trong các kinh điển. Chính vì một cuộc tranh chấp giữa hai vị tỳ-kheo của Ghositārāma, một vị tinh thông về Vinaya và một vị tinh thông về Dhamma, mà cuộc phân liệt đầu tiên trong Tăng đoàn đã nảy sinh, khiến cho chính Đức Phật phải tìm kiếm sự yên tĩnh trong khu rừng Pārileyyaka. Vin.i.337f; MN.i.320; Dhp­a.i.44ff; các vị tỳ-kheo ở Kosambī rõ ràng là có phần hơi lập dị (xem Vin.iv.197).
+
+Ngay cả vào những lúc khác, Đức Phật dường như cũng đã tìm kiếm sự cô tịch trong khu rừng này trong thời gian Ngài lưu trú tại Ghositārāma (See, e.g., SN.iii.96f). Chính tại đây, Đức Phật đã ban hành *ukkhepaniyakamma* cho Channa, người đã từ chối thừa nhận và chuộc lại những lỗi lầm của mình (Vin.ii.21f), và cũng tại đây Ngài đã đặt ra các thủ tục cần tuân theo liên quan đến vấn đề đó. Devadatta đang ở Ghositārāma khi ông ta lần đầu tiên nảy sinh ý nghĩ sử dụng Ajātasattu cho những mục đích riêng của mình (Vin.ii.184f). Đức Phật đang có mặt ở đó vào thời điểm ấy và người ta nói rằng *Devaputta* Kakudha đã xuất hiện trước Mahā Moggallāna để cảnh báo ông về các mưu đồ của Devadatta. Thông tin này đã được báo cáo lên Đức Phật, Ngài đã cảnh báo Moggallāna không được truyền lại cho những người khác. Sau đó Đức Phật tiếp tục kể cho Moggallāna về năm hạng đạo sư xuất hiện trên thế gian (AN.iii.122f). Ānanda được cho là đã nhiều lần lưu trú tại Ghositārāma, đôi khi cùng với Đức Phật, đôi khi một mình. Trong một dịp như vậy, ông đã hỏi Đức Phật tại sao phụ nữ lại phải chịu một số sự thiệt thòi nhất định so với nam giới (AN.ii.82). Và một lần khác (AN.iii.132f), những hoàn cảnh nào đưa đến sự an lạc (*phāsuvihāra*) cho các vị tỳ-kheo? Liệu có thể nói về một đệ tử của Đức Phật rằng các thành tựu của người đó phụ thuộc vào khoảng thời gian mà người đó đã tuân giữ những lời dạy của Đức Phật hay không? Có một lần Ānanda đã đến thăm (AN.iv.37f), theo yêu cầu của bà, một tỳ-kheo-ni sống gần đó được báo cáo là đang bị bệnh và si tình với ông. Chỉ cần nhìn thấy ông cũng làm cho bà bình phục, nhưng ông đã thuyết pháp cho bà nghe về bản chất vô thường của thân thể và khiến bà nhận ra chân lý (AN.ii.144f). Trong số những người đến thăm Ānanda tại Ghositārāma và đàm luận nhiều vấn đề với ông, có những người được nhắc đến: Ghosita (SN.iv.113), Uṇṇābha (SN.v.271f.), một gia chủ, là tín đồ của các Ājīvaka (AN.i.217f.), và Bhaddaji (AN.iii.202). Udāyī đã hai lần đến thăm ông tại đó, một lần để hỏi về sự mô tả của thức (SN.iv.169f.), và một lần khác để trích dẫn một vần kệ do *Devaputta* Pañcālacaṇḍa nói ra và yêu cầu Ānanda giải thích nó (AN.iv.449). Chúng ta cũng thấy ông tham gia vào một cuộc thảo luận diễn ra sau một bài thuyết pháp cho các tỳ-kheo của Ānanda (AN.iv.426f.). Udāyī đã thuyết pháp cho những hội chúng lớn tại Ghositārāma và rõ ràng là rất được tán thưởng, vì chúng ta thấy Ānanda báo cáo điều đó với Đức Phật và được cho biết rằng không phải là chuyện dễ dàng để thuyết pháp cho một hội chúng lớn mà nhận được sự chấp thuận (AN.iii.184f.). Yuganaddhasutta là một bài pháp do Ānanda tự mình thuyết giảng cho các tỳ-kheo tại Ghositārāma (AN.ii.156f.). Channa được nhắc đến một vài lần liên quan đến các sự cố diễn ra tại Ghositārāma. Đã có sự đề cập đến *ukkhepaniyakamma* được tuyên bố đối với ông. Một gia chủ sùng đạo, muốn xây một *vihāra* cho ông, đã hỏi ông về địa điểm. Vin.iii.155f; có sự đề cập đến những hành vi sai trái khác mà ông đã phạm phải để có được một *vihāra* tuyệt đẹp (Vin.iv.47).
+
+Channa đã bắt đầu chặt cây và những thứ khác, để dọn dẹp mặt bằng, và điều này dẫn đến một sự náo động lớn. Trong một dịp khác, ông bị báo cáo lên Đức Phật vì từ chối lắng nghe các đồng sự của mình và Đức Phật đã quở trách ông (Vin.iii.77, cũng xem iv.35f, 113. Xem thêm SN.iii.132f). Chính khi Channa đang ở Ghositārāma, Ānanda đã đến, theo yêu cầu của các tỳ-kheo, để thi hành *brahmadaṇḍa* đối với ông (Vin.ii.292).
+
+Trong số những người khác được nhắc đến là đã lưu trú tại Ghositārāma có Mūsila, Saviṭṭha, Nārada, cùng với Ānanda (SN.ii.115), Piṇḍola Bhāradvāja – người đã hóa độ Udena khi vị vua này đến thăm ông (SN.iv.110f.) và nhận được những lời khen ngợi của Đức Phật cho các thành tựu của ông (SN.v.224) – Sāriputta và Upavāṇa (SN.v.76), và Bāhiya cùng Anuruddha (AN.ii.239). Anuruddha đã ở đó vào thời điểm cuộc phân liệt của các tỳ-kheo ở Kosambī nhưng từ chối can thiệp. Thay vào đó, ông đắm chìm trong các năng lực thiên nhãn của mình và có sự đề cập đến một chuyến viếng thăm của các *Devā* Manāpakāyikā đến gặp ông (AN.iv.262f).
+
+Dāsaka và một số tỳ-kheo khác có lần đang lưu trú tại Ghositārāma; khi biết rằng Khemaka đang nằm bệnh ở Badarikārāma, cách đó một *gāvuta*, những người khác đã cử Dāsaka đi tới đi lui nhiều lần để hỏi Khemaka về nhiều vấn đề khác nhau. Cuối cùng, bản thân Khemaka đã đến chỗ họ để giải đáp những thắc mắc của họ (SN.iii.126f).
+
+Xem thêm Kosambiyasutta, Jāliyasutta, Sandakasutta, Upakkilesasutta và Sekhasutta, Daḷhadhammajātaka, Kosambījātaka và Suripānajātaka, tất cả đều được thuyết giảng trong khi Đức Phật đang trú tại Ghositārāma.
+
+Ba mươi ngàn vị tỳ-kheo từ Ghositārāma, dưới sự lãnh đạo của Urudhammarakkhita, đã có mặt tại buổi lễ đặt nền móng của Mahā Thūpa ở Anurādhapura. Mhv.xxix.34.
 
 ## Notes

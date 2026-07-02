@@ -5,7 +5,7 @@ base_headword: "Bubbula"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Bubbula. A village in Ceylon, mentioned in the account of the campaigns of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bubbula. Một ngôi làng ở Tích Lan, được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.99; xem Cv.Trs.i.295, n.4.
 
 ## Notes

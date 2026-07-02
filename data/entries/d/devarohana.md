@@ -5,7 +5,7 @@ base_headword: "Devārohaṇa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devārohaṇa. The name given to the episode describing the Buddha’s ascent to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devārohaṇa. Tên được đặt cho sự kiện mô tả việc Đức Phật lên cõi chư thiên để thuyết Abhidhamma và việc Ngài xuống tại Saṅkassa.
 
 ## Notes

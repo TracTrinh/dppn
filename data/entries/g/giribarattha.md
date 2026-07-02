@@ -5,7 +5,7 @@ base_headword: "Giribāraṭṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giribāraṭṭha. A district in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribāraṭṭha. Một quận ở Dakkhiṇadesa của Tích Lan. Cv.lxix.8; lxx.125.
 
 ## Notes

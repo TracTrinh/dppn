@@ -5,7 +5,7 @@ base_headword: "Sāmugāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāmugāma. A village gifted by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmugāma. Một ngôi làng do Aggabodhi III. hiến tặng cho *padhānaghara*, gọi là Mahallarāja. Cv.xliv.120.
 
 ## Notes

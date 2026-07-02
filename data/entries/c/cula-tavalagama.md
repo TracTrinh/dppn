@@ -5,7 +5,7 @@ base_headword: "Cūḷa Tavālagāma"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Tavālagāma. A village probably on the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Tavālagāma. Một ngôi làng có lẽ nằm trên sông Mahā Vālukanadī. Xem Tambasumana.
 
 ## Notes

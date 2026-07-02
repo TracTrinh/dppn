@@ -5,7 +5,7 @@ base_headword: "Sammukhāthavika"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -36,6 +36,6 @@ Sammukhāthavika 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammukhāthavika 02. Sammukhāthavika Thera. Một vị *Arahant*. Rõ ràng là cùng một người với Māṇava Thera. Ông đã từng làm vua nhiều lần, dưới các tên gọi Sammukhāthavika, Paṭhavidundubhi, Obhāsamata, Saritacchadana, Agginibbāpana, Vātasama, Gatipacchedana, Ratanapajjala, Padavikkamana và Vilokana. Ap.i.158 f.; Thag­a.i.163f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Brahmadevasutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmadevasutta. Records the story of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadevasutta. Ghi lại câu chuyện của Brahmadeva Thera (*q.v.* 3) và mẹ của ngài. SN.i.140ff.
 
 ## Notes

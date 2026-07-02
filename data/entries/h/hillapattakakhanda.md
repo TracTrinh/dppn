@@ -5,7 +5,7 @@ base_headword: "Hillapattakakhaṇḍa"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hillapattakakhaṇḍa. A ford in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hillapattakakhaṇḍa. Một bến lội qua sông Mahā Vālukagaṅgā, được nhắc đến trong ghi chép về các cuộc chiến của Parakkamabāhu I (Cv. lxxii.41). Cũng có một hồ chứa nước cùng tên. Cv.lxxix.37.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Kirālavāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Kirālavāpi. A tank restored by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kirālavāpi. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxviii.46.
 
 ## Notes

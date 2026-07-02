@@ -5,7 +5,7 @@ base_headword: "Gaṇḍamba"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,6 @@ Gaṇḍamba. The mango-tree, at the gate of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍamba. Cây xoài ở cổng thành Sāvatthī, dưới gốc cây này Đức Phật đã thực hiện Yamakapāṭihāriya (*q.v.*). Người làm vườn của vua, Gaṇḍa, trên đường đến cung điện để dâng vua một trái xoài chín từ vườn ngự uyển, đã thấy Đức Phật đang đi khất thực và dâng trái xoài ấy cho Ngài. Đức Phật ăn ngay trái xoài đó, rồi trao hạt xoài cho Ānanda để người làm vườn đem trồng ở cổng thành. Một cây cao một trăm khuỷu tay lập tức mọc lên, phủ đầy hoa trái. Dưới gốc cây này, theo lệnh của Sakka, Vissakamma đã dựng lên một gian đình làm bằng bảy loại châu báu. Ja.iv.264f; Ja.i.88; Dhp­a.iii.206ff; Mil.349.
 
 ## Notes

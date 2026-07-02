@@ -5,7 +5,7 @@ base_headword: "Dāṭhopatissa"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhopatissa 02. Also called *Bhāgineyya* <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhopatissa 02. Cũng được gọi là *Bhāgineyya* Dāṭhopatissa. Xem Hatthadāṭha.
 
 ## Notes

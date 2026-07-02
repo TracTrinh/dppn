@@ -5,7 +5,7 @@ base_headword: "Cūḷa Subhaddā"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -39,6 +39,8 @@ Cūḷa Subhaddā, while still in her father’s house, had become a *Sotāpanna
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Subhaddā 02. Cūla Subhaddā. Con gái của Anāthapiṇḍika. Trước yêu cầu tha thiết của người bạn là Uggaseṭṭhi, và sau khi tham vấn với Đức Phật, Anāthapiṇḍika đã đồng ý gả cô cho con trai của Ugga (theo Aṅguttara Commentary (ii.482ff), tên của vị trưởng giả (*seṭṭhi*) là Kāḷaka và thành phố của ông không phải là Ugga, mà là Sāketa). Nhưng người này là một người không có đức tin, và khi những Nigaṇṭha đến nhà ông theo lời mời, Subhaddā đã từ chối đảnh lễ họ. Vì điều này, cô bị cha chồng ra lệnh đuổi ra khỏi nhà; nhưng cô đã thuyết phục được mẹ chồng rằng những lý do cho hành vi của cô là đúng đắn, và theo gợi ý của mẹ chồng, cô đã chuẩn bị một bữa ăn và thỉnh mời Đức Phật cùng Tăng đoàn tỳ-kheo đến dự, bằng cách tung vào không trung từ tầng cao nhất của ngôi nhà tám vốc hoa nhài. Đức Phật thấu thị tâm trí của cô và đã quang lâm cùng với năm trăm vị Arahant. Sau bữa ăn, Đức Phật thuyết giảng Pháp và Ugga cùng gia đình ông đã được cảm hóa. Để thể hiện sự ưu ái đối với Subhaddā, Đức Phật đã yêu cầu Anuruddha ở lại Ugganagara (Dhp­a.iii.465ff; câu chuyện này cũng được kể trong AN­a.ii.482ff, nhưng với một vài thay đổi trong các chi tiết. Có vẻ như có một sự so sánh giữa những câu chuyện của Mahā Subhaddā và Cūḷa Subhaddā. Xem thêm AN­a.i.146 và Vsm.390).
+
+Cūḷa Subhaddā, khi vẫn còn ở trong nhà cha mình, đã trở thành một Sotāpanna, và cùng với các chị em của cô là Mahā Subhaddā và Sumanā, cô đã được giao nhiệm vụ phân phát thức ăn cho các tỳ-kheo. Dhp­a.i.128; Ja.i.93; Ap­a.i.81; xem thêm Mil.383, 387.
 
 ## Notes

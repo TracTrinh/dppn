@@ -5,7 +5,7 @@ base_headword: "Gandhāravagga"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhāravagga. The second chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhāravagga. Chương thứ hai của Suttanipāta thuộc Chú giải Jātaka (Ja.iii.363-421).
 
 ## Notes

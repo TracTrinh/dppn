@@ -5,7 +5,7 @@ base_headword: "Samaṇavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇavagga. The ninth chapter of the *Tikanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇavagga. Chương thứ chín của *Tikanipāta* thuộc Aṅguttara. AN.i.229-39.
 
 ## Notes

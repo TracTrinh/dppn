@@ -5,7 +5,7 @@ base_headword: "Buddhupaṭṭhāka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddhupaṭṭhāka Thera. An *Arahant*. Ninety-one *kappas* ago he blew a conch
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhūpaṭṭhāka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã thổi một tù và ốc để tôn vinh Đức Phật Vipassī. Hai mươi bốn *kappa* trước, ông đã làm vua mười sáu lần với tên gọi Mahā Nigghosa (Ap.i.138f). Có lẽ ông đồng nhất với Vimala Thera. Thag­a.i.122f.
 
 ## Notes

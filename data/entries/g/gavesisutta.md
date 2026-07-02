@@ -5,7 +5,7 @@ base_headword: "Gavesīsutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gavesīsutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavesīsutta. Câu chuyện về Gavesī.
 
 ## Notes

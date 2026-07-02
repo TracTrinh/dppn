@@ -5,7 +5,7 @@ base_headword: "Bodhimātu Mahā Tissa Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bodhimātu Mahā Tissa Thera. He came through the air to receive from <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhimātu Mahā Tissa Thera. Ngài đã bay qua không trung để nhận từ Duṭṭhagāmaṇī một phần thức ăn mà vị vua này có được khi đang chạy trốn khỏi Cūḷaṅganiyapiṭṭhi. Theo các ghi chép khác, tên của vị Thera này là Kuṭumbiyaputtatissa. AN­a.i.366.
 
 ## Notes

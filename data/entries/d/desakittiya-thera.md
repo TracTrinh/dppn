@@ -5,7 +5,7 @@ base_headword: "Desakittiya Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Desakittiya Thera. An *Arahant*. Ninety-two *kappas* ago he was a Brahmin named 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Desakittiya Thera. Một *Arahant*. Chín mươi hai *kappa* trước, ông là một Bà-la-môn tên Upasālaka, người, khi thấy Đức Phật trong rừng, đã đảnh lễ Ngài. Ap.i.246.
 
 ## Notes

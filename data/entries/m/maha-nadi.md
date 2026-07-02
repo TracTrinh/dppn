@@ -5,7 +5,7 @@ base_headword: "Mahā Nadī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nadī. A river, dammed up by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nadī. Một con sông, được đắp đập bởi Udaya II. Cv.li.127; Cv.Trs.i.159, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāsiyā"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāsiyā 01. A nun who came from India to Ceylon; she was eminent in the knowled
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāsiyā 01. Một vị tỳ-kheo-ni đã đi từ Ấn Độ đến Tích Lan; bà xuất chúng trong kiến thức về Vinaya. Bà sống ở Anurādhapura. Dpv.xviii.14.
 
 ## Notes

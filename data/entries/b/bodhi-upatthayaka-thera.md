@@ -5,7 +5,7 @@ base_headword: "Bodhi-upaṭṭhāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -27,6 +27,6 @@ Bodhi-upaṭṭhāyaka Thera. An *Arahant*. Eighteen *kappas* ago he was born in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi-upaṭṭhāyaka Thera. Một Arahant. Mười tám kappa trước, ngài được sinh ra tại Rammavatī với tên gọi là Muraja và đã vô cùng tôn kính cây bodhi. Mười lăm kappa trước, ngài là một vị vua tên là Damatha. Ap.i.174.
 
 ## Notes

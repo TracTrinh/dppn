@@ -5,7 +5,7 @@ base_headword: "Gandhabbakāyasaṁyutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhabbakāyasaṁyutta. The thirty-first chapter of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhabbakāyasaṁyutta. Chương thứ ba mươi mốt của Saṁyuttanikāya. SN.iii.249-53.
 
 ## Notes

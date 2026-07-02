@@ -5,7 +5,7 @@ base_headword: "Maggasaṁyutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maggasaṁyutta. The forty-fifth section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasaṁyutta. Phần thứ bốn mươi lăm của Saṁyuttanikāya. SN.v.1-62.
 
 ## Notes

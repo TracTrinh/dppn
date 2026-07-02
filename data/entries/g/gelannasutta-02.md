@@ -5,7 +5,7 @@ base_headword: "Gelaññasutta"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gelaññasutta 02. The topic is the same as in the above, but the wording differ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gelaññasutta 02. Chủ đề giống như bài trên, nhưng cách diễn đạt khác. SN.iv.213f.
 
 ## Notes

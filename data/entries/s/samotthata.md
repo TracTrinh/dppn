@@ -5,7 +5,7 @@ base_headword: "Samotthata"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samotthata. Seven *kappas* ago there were seven kings of this name, all previous
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samotthata. Bảy *kappa* trước có bảy vị vua mang tên này, tất cả đều là những kiếp trước của Saṅghupaṭṭhāka Thera. Ap.i.191.
 
 ## Notes

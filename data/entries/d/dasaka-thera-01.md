@@ -5,7 +5,7 @@ base_headword: "Dāsaka Thera"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,10 @@ Perhaps it is this same <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāsaka Thera 01. Ngài sinh ra ở Sāvatthī và được Anāthapiṇḍika bổ nhiệm trông coi *vihāra*. Tại đây, bị ấn tượng bởi những gì mình nhìn thấy và nghe thấy, ngài đã gia nhập Tăng đoàn. Có người nói rằng ngài là con trai của một nữ nô tỳ của Anāthapiṇḍika. Vị trưởng giả (*seṭṭhi*) rất hài lòng với ngài và đã giải phóng ngài để ngài có thể trở thành một vị tỳ-kheo. Tương truyền rằng trong một tiền kiếp, ngài đã sai một vị *Arahant* làm việc gì đó cho mình, vì vậy nên ngài mới bị sinh ra làm nô lệ. Kể từ lúc xuất gia, ngài trở nên lười biếng và ham ngủ. Đức Phật đã quở trách ngài, và, được truyền cảm hứng mạnh mẽ, ngài đã nỗ lực tinh tấn và chứng đắc quả vị *Arahant*.
+
+Chín mươi mốt *kappa* trước, ngài đã gặp Đức Phật Độc giác (*Pacceka Buddha*) Ajita và cúng dường cho ngài một ít trái xoài ngon để ăn. Sau này, vào thời của Đức Phật Kassapa, ngài là một tỳ-kheo (Thag.17; Thag­a.i.68ff).
+
+Có lẽ cũng chính Dāsaka này là người được nhắc đến trong Saṁyuttanikāya (SN.iii.127ff; SN­a.ii.230) khi được các tỳ-kheo ở Kosambī phái đến gặp Khemaka, mang các tin nhắn qua lại cho đến khi ngài phải đi bộ tới lui hơn hai *yojana*.
 
 ## Notes

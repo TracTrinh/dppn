@@ -5,7 +5,7 @@ base_headword: "Samīrukkhatittha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samīrukkhatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samīrukkhatittha. Một bến đò trên sông Mahā Vālukagaṅgā. Cv.lxxii.9, 33.
 
 ## Notes

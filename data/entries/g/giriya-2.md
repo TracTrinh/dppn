@@ -5,7 +5,7 @@ base_headword: "Giriya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giriya. A Tamil general, commander of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giriya. Một vị tướng người Tamil, chỉ huy của Girilaka; ông ta đã bị giết bởi Duṭṭhagāmaṇī. Mhv.xxv.47.
 
 ## Notes

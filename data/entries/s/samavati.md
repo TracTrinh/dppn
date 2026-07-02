@@ -5,7 +5,7 @@ base_headword: "Sāmāvatī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "needs_check"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -63,6 +63,26 @@ The two Therī’s named <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāmāvatī. Một trong ba vị chánh hậu của vua Udena. Bà là con gái của *seṭṭhi* Bhaddavatiya ở Bhaddavatī, người là bạn của Ghosaka ở Kosambī. Khi dịch bệnh bùng phát ở Bhaddavatī, bà cùng cha mẹ chạy trốn đến Kosambī, và tại đó nhận được thức ăn từ nhà bố thí do Ghosaka lập ra. Ngày đầu tiên, Sāmāvatī xin ba phần ăn, ngày thứ hai xin hai phần, ngày thứ ba chỉ xin một phần. Vì cha bà đã qua đời sau bữa ăn ngày đầu tiên, mẹ bà qua đời vào ngày thứ hai. Khi, vào ngày thứ ba, bà chỉ xin một phần ăn, Mitta, người đang phân phát đồ bố thí, trêu chọc bà, nói: "Hôm nay cô đã biết được sức chứa của cái bụng mình rồi." Bà hỏi ông muốn nói gì, và khi ông giải thích, bà kể cho ông nghe những gì đã xảy ra. Mitta thương xót bà và nhận bà làm con nuôi.
+
+Một hôm, khi đến nhà ăn, bà thấy một cảnh náo loạn lớn, người ta chen lấn khắp nơi để nhận đồ bố thí. Bà xin được phép lập lại trật tự giữa cảnh hỗn loạn này, và cho dựng một hàng rào bao quanh nhà ăn với cửa vào và cửa ra riêng biệt. Việc này đã chấm dứt tình trạng lộn xộn. Ghosaka, không còn nghe tiếng ồn ào trong nhà ăn như trước, bèn hỏi lý do, và khi biết được việc Sāmāvatī đã làm, ông nhận bà làm con nuôi của chính mình. Tên gốc của Sāmāvatī là Sāmā, nhưng sau khi dựng hàng rào (*vati*) quanh nhà ăn, bà được gọi là Sāmāvatī.
+
+Vào một ngày lễ hội, Udena thấy Sāmāvatī đang đi ra sông tắm, và, đem lòng yêu bà, đã yêu cầu Ghosaka gửi bà vào cung. Nhưng Ghosaka từ chối, và nhà vua đuổi ông cùng vợ ra khỏi nhà và niêm phong nhà của ông. Khi Sāmāvatī biết được việc này, bà đã khiến Ghosaka gửi bà vào cung, và Udena lập bà làm chánh hậu. Một thời gian sau, Udena cũng nhận Māgandiyā làm vương phi.
+
+Khi Gotama Buddha đến thăm Kosambī theo lời thỉnh cầu của Ghosaka, Kukkuṭa và Pāvāriya, Khujjutarā, người hầu gái của Sāmāvatī, đã nghe Ngài thuyết pháp và trở thành một *Sotāpanna*. Lúc đó bà đang trên đường đến chỗ người làm vườn, Sumana, để mua hoa cho Sāmāvatī, với tám đồng tiền mà nhà vua cấp cho bà hằng ngày để dùng vào việc này. Theo lời mời của Sumana, bà đã đến nghe Đức Phật tại nhà ông. Những ngày khác, bà chỉ tiêu một nửa số tiền để mua hoa, giữ lại phần còn lại cho mình; nhưng ngày hôm đó, sau khi trở thành một *Sotāpanna*, bà đã dùng toàn bộ số tiền để mua hoa và mang đến cho Sāmāvatī, kể cho bà nghe câu chuyện của mình. Theo lời yêu cầu của Sāmāvatī, Khujjuttarā đã thuật lại cho bà và các bạn của bà bài pháp mà bà đã nghe từ Đức Phật. Sau đó, bà đến gặp Đức Phật hằng ngày, rồi thuật lại bài pháp của Ngài cho Sāmāvatī và các bạn của bà. Khi biết được rằng Đức Phật thường đi ngang qua con đường nơi cung điện tọa lạc, Sāmāvatī cho khoét các lỗ trên tường để bà và các bạn có thể nhìn thấy Đức Phật và đảnh lễ Ngài. Māgandiyā nghe được việc này trong một lần đến thăm nơi ở của Sāmāvatī, và, vì lòng thù hận đối với Đức Phật, bà quyết định khiến Sāmāvatī bị trừng phạt. Xem chi tiết tại mục Māgandiyā.
+
+Lúc đầu, các âm mưu của bà không thành, và Udena, tin chắc vào đức hạnh của Sāmāvatī, đã ban cho bà một điều ước, và bà chọn việc mời Đức Phật đến cung điện thuyết pháp cho bà và các bạn hằng ngày. Nhưng Đức Phật đã cử Ānanda đến thay, và họ dâng cúng thức ăn cho ngài mỗi ngày và lắng nghe Pháp. Một hôm, họ dâng cúng ngài năm trăm tấm y do nhà vua ban cho họ; nhà vua, lúc đầu, rất tức giận; nhưng khi nghe Ānanda nói rằng không có gì dâng cúng cho các tỳ-kheo mà bị mất đi, ông đã tự mình ban tặng thêm năm trăm tấm y nữa.
+
+Cuối cùng, âm mưu của Māgandiyā đã thành công, và Sāmāvatī cùng các bạn của bà bị thiêu chết trong chính ngôi nhà của mình. Lúc đó Udena đang ở trong công viên của mình, và khi trở về, ông thấy tất cả họ đều đã chết. Khi được hỏi, Đức Phật nói rằng một số người trong các phụ nữ ấy đã chứng đắc quả vị thứ nhất của Đạo, một số khác chứng đắc quả vị thứ hai, và một số khác nữa chứng đắc quả vị thứ ba.
+
+Người ta kể rằng trong một kiếp trước, Sāmāvatī và các bạn của bà từng thuộc hậu cung của vua xứ Benares. Một hôm, họ cùng nhà vua đi tắm, và, cảm thấy lạnh khi lên khỏi nước, họ đốt một đám cỏ rối gần đó. Khi đám cỏ cháy xuống, họ phát hiện một vị Pacceka Buddha đang ngồi trong đám cỏ ấy, và vì sợ rằng mình đã thiêu chết ngài, họ nhổ thêm cỏ, chất quanh thân ngài, rồi sau khi đổ dầu lên, họ đốt cháy để mọi dấu vết của tội lỗi ấy có thể bị xóa sạch. Vị Pacceka Buddha lúc ấy đang nhập *samādhi* nên không gì có thể làm hại ngài, nhưng chính hành động này đã mang lại quả báo cho Sāmāvatī và các bạn của bà.
+
+Câu chuyện về Sāmāvatī nằm trong chuỗi truyện về Udena. Xem chi tiết đặc biệt tại Dhp­a.i.187-91, 205-225; câu chuyện này cũng xuất hiện, với một số khác biệt về chi tiết, tại AN­a.i.232-4, 236ff., và được kể rất vắn tắt tại Ud­a.382f., bỏ qua phần lý do cái chết của Sāmāvatī vốn được trình bày đầy đủ trong phần giải thích một bài Udāna (Ud.vii.10) nói về sự việc này. Cf. Divy.575f. Theo Visuddhimagga (p.380f), lòng ham muốn giết Sāmāvatī của Māgandiyā xuất phát từ ước muốn được tự mình trở thành chánh hậu.
+
+Hai vị Therī cùng tên Sāmā là bạn của Sāmāvatī, và vì quá đau buồn trước cái chết của bà nên đã từ bỏ gia đình để gia nhập Tăng đoàn.
+
+Sāmāvatī được xem là một trong những nữ cư sĩ lỗi lạc nhất trong số các đệ tử tại gia của Đức Phật, và được Ngài tuyên bố là đệ nhất trong những người sống với lòng từ ái (*aggaṁ mettāvihārinaṁ*) (AN.i.26; cf. iv.348). *Iddhi* của bà, trong việc dùng tâm từ để hóa giải mũi tên mà Udena bắn vào bà, thường được nhắc đến, e.g. Bv­a.24; Iti-a.23; Paṭis-a.498; AN­a.ii.791.
 
 ## Notes
+
+- [CHECK: nguồn có 'the moist eminent of the lay women' — có vẻ là lỗi in/OCR của 'the most eminent'; đã dịch theo nghĩa 'most eminent' thay vì dịch nghĩa đen 'ẩm ướt'.]

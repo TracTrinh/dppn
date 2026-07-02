@@ -5,7 +5,7 @@ base_headword: "Demaṭṭhapādatthāli"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Demaṭṭhapādatthāli. A village in the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Demaṭṭhapādatthāli. Một ngôi làng trong quận Malaya của Tích Lan. Cv.lxx.11.
 
 ## Notes

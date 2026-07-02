@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "09"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,6 @@ Deva 09. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 09. Một vị tướng của Parakkamabāhu I. Ông tham gia các chiến dịch chống Gajabāhu, và về sau được phái đến cứu ông ấy ở Pulatthipura. *Deva* bị giam ở đó, và Parakkamabāhu sai những người phá nhà đến giải thoát ông, sau đó ông được phái cùng một đạo quân đến Gaṅgātaṭāka, nơi ông đánh bại Māṇābharaṇa. Tại Hedillakhaṇḍagāma, ông đánh bại Mahinda. Điều cuối cùng ta nghe về ông là ông rơi vào tay kẻ thù tại một ngôi làng tên Surulla. Parakkamabāhu đi cứu ông, nhưng phải bỏ cuộc. Có thể ông đã được chuộc về và trở thành Laṅkāpura (xem dưới đây) Cv.lxx.123, 153-7, 245, 285, 300, 316; lxxii.45, 75, 82, 122, 137f.
 
 ## Notes

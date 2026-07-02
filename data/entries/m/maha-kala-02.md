@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷa"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Kāḷa 02. An *upāsaka* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷa 02. Một cư sĩ nam (upāsaka) của Sāvatthī, người là một bậc Sotāpanna. Một ngày nọ ông đã thọ trì các giới uposatha và, sau khi nghe thuyết pháp suốt đêm, đang rửa mặt dưới hồ nước gần Jetavana vào sáng sớm hôm sau, thì những tên trộm đã đột nhập vào một ngôi nhà và đang bị truy đuổi đã đặt hàng hóa đánh cắp của chúng xuống gần ông và bỏ chạy. Bị coi là một tên trộm, ông đã bị đánh đến chết. Khi điều này được báo cáo với Đức Phật, Ngài đã kể lại một câu chuyện trong quá khứ, trong đó Mahā Kāḷa đã là một người canh rừng của vua xứ Benares. Một ngày nọ ông nhìn thấy một người đàn ông đi vào con đường rừng cùng với người vợ xinh đẹp của mình và, phải lòng người vợ, đã mời họ đến nhà của ông. Sau đó ông đã sai người đặt một viên ngọc vào trong xe của người đàn ông, và người đàn ông này đã bị đánh đến chết như một tên trộm. Dhp­a.iii.149ff.
 
 ## Notes

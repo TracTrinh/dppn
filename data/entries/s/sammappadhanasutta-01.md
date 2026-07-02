@@ -5,7 +5,7 @@ base_headword: "Sammappadhānasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sammappadhānasutta 01. The four *sammappadhānas* this is the path leading to t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammappadhānasutta 01. Bốn *sammappadhāna* — đây là con đường dẫn đến “Pháp Vô Vi.” SN.iv.360.
 
 ## Notes

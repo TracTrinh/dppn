@@ -5,7 +5,7 @@ base_headword: "Sambahulasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambahulasutta 02. A deity in a <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambahulasutta 02. Một vị thiên trong một khu rừng thuộc xứ Kosala than khóc khi các vị tỳ-kheo từng sống ở đó rời đi du hành. Một vị thiên khác an ủi vị ấy, nói rằng các tỳ-kheo được tự do và không có nhà riêng. SN.i.199.
 
 ## Notes

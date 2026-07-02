@@ -5,7 +5,7 @@ base_headword: "Mahā Daddara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Daddara. The Bodhisatta born as a *Nagā* king, son of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Daddara. Bodhisatta hóa sinh thành một vị vua *Nāga*, con trai của Sūradaddara. Xem Daddarajatāka (Ja 172). Ja.iii.16ff.
 
 ## Notes

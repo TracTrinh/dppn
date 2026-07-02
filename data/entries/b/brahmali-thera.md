@@ -5,7 +5,7 @@ base_headword: "Brahmāli Thera"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -28,6 +28,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmāli Thera. Ngài thuộc một gia đình Bà-la-môn ở Kosala, và, thông qua việc kết giao với những người bạn có khuynh hướng tâm linh và sự liễu ngộ của chính ngài về những sự khổ của *Saṁsāra*, ngài gia nhập Saṅgha. Sống trong rừng ngài sớm phát triển tuệ minh sát và đắc quả *Arahant*.
+
+Trong thời của Vipassī Buddha ngài là một gia chủ, và, khi thấy Đức Phật đang đi khất thực, ngài đã dâng cho ngài một quả *vāra*. Thag.vs.205-6; Thag­a.i.327f.
 
 ## Notes

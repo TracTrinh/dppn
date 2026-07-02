@@ -25,6 +25,6 @@ Asurasutta. The first of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Asurasutta. Bài kinh đầu tiên của Asuravagga. Có bốn hạng người tồn tại trên thế giới: *asura* (a) với đoàn tùy tùng là các *asura*, (b) với đoàn tùy tùng là chư thiên; vị thiên thần (a) với đoàn tùy tùng là chư thiên, (b) với đoàn tùy tùng là các *asura*. Hạng thứ nhất bản thân là người vô đạo đức, cũng như hội chúng của anh ta, và tương tự như vậy đối với các hạng khác (AN.ii.91).
+Asurasutta. Bài kinh đầu tiên của Asuravagga. Có bốn hạng người tồn tại trên thế giới: *asura* (a) với đoàn tùy tùng là các *asura*, (b) với đoàn tùy tùng là chư thiên; vị thiên nhân (a) với đoàn tùy tùng là chư thiên, (b) với đoàn tùy tùng là các *asura*. Hạng thứ nhất bản thân là người vô đạo đức, cũng như hội chúng của anh ta, và tương tự như vậy đối với các hạng khác (AN.ii.91).
 
 ## Notes

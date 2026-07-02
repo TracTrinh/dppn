@@ -5,7 +5,7 @@ base_headword: "Māgandiya"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -45,6 +45,12 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgandiya 01. Một Bà-la-môn của quốc gia Kuru. Ông có một người con gái rất xinh đẹp, tên là Māgandiyā. Rất nhiều người có địa vị cao sang đã dạm hỏi cô, nhưng vị Bà-la-môn không coi họ là xứng đáng. Một ngày nọ, Đức Phật nhận thấy rằng cả Māgandiya và vợ ông đều đã sẵn sàng để được hóa độ, vì vậy ngài đã đến thăm ngôi làng của họ. Māgandiya nhìn thấy ngài, và, chú ý đến những tướng tốt trên cơ thể ngài, đã nói với ngài về con gái của mình và cầu xin ngài hãy chờ cho đến khi cô ấy được đưa đến. Đức Phật không nói gì, và Māgandiya trở về nhà và quay lại cùng với vợ và con gái được trang điểm vô cùng lộng lẫy. Khi đến nơi, họ thấy Đức Phật đã rời đi, nhưng dấu chân của ngài vẫn còn nhìn thấy, và vợ của Māgandiya, người rất am hiểu về những vấn đề như vậy, nói rằng chủ nhân của dấu chân như thế là người không còn mọi tham ái. Nhưng Māgandiya không bận tâm, và, đi một đoạn ngắn, nhìn thấy Đức Phật và đề nghị dâng con gái cho ngài. Sau đó Đức Phật kể cho họ nghe về tiền kiếp của ngài, sự từ bỏ thế gian của ngài, sự chiến thắng Māra của ngài, và những nỗ lực cám dỗ bất thành của những cô con gái rất xinh đẹp của Māra đối với ngài. So với họ, ngài nói, Māgandiyā chỉ là một cái xác chết, chứa đầy ba mươi hai sự ô uế, một cái bình bất tịnh được sơn phết bên ngoài; ngài sẽ không đụng đến cô ta dù chỉ bằng chân. Cuối bài pháp, Māgandiya và vợ ông trở thành các vị Anāgāmī. Dhp­a.iii.193ff.; Snp­a.ii.542f.; so sánh Divy.515ff., nơi tên được ghi là Mākandika và ông được gọi là một *parivrājaka*. Tên người con gái được ghi là Anūpamā và người vợ là Sākalī.
+
+Có nói rằng họ đã giao phó con gái cho người chú của cô, Cūḷa Māgandiya, giã từ thế gian, và trở thành những vị Arahant. Dhp­a.i.202
+
+Theo Chú giải Aṅguttara (AN­a.i.235f), ngôi làng của Māgandiya là Kammāsadamma, và Đức Phật đã đến đó trên chuyến hành trình đến Kosambī theo lời mời của Ghosita, Kukkuṭa và Pāvārika. Ngài đã rẽ khỏi con đường chính để đến thăm Māgandiya.
+
+Cũng xem Māgandiya (2), Māgandiyasutta, và Māgandiyapañha.
 
 ## Notes

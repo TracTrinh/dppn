@@ -5,7 +5,7 @@ base_headword: "Mahā Meghavana"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -59,6 +59,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Meghavana 01. Một công viên ở phía nam của Anurādhapura. Giữa công viên và thành phố là Nandana hoặc Jotivana. Công viên được thiết kế bởi Muṭasīva, và được gọi như vậy bởi vì vào lúc địa điểm này được chọn làm một khu vườn, một đám mây lớn, tụ lại vào một thời điểm bất thường, đã đổ mưa xuống (Mhv.xi.2f). Devānampiyatissa đã dâng công viên này cho Mahinda để Tăng đoàn sử dụng và trong ranh giới của nó, Mahā Vihāra và các tòa nhà bao quanh nó đã được hình thành sau đó (Mhv.xv.8, 24; Dpv.xviii.18; Vin-a.i.81). Chương thứ mười lăm của Mahā Vaṁsa đưa ra một danh sách những địa điểm chính có liên quan đến tôn giáo, vốn đã được hình thành ở đó (Mhv.xv.27ff). Chính yếu trong số này là các địa điểm của cây bodhi, ba mươi hai *mālaka*, Catussālā, Mahā Thūpa, Thūpārāma, Lohapāsāda, và những *pariveṇa* khác nhau có liên hệ với Mahinda: Suṇhāta, Dīghacaṅkamana, Phalagga, Therāpassaya, Marugana và Dīghasandasenāpati. Về sau, Abhayagirivihāra và Jetavanārāma cũng được xây dựng tại đó.
+
+Mahā Meghavana đã được Gotama Buddha đến thăm (Mhv.i.80; Dpv.ii.61, 64), và cũng bởi ba vị Phật trước ngài. Trong thời kỳ của Kakusandha, nó được biết đến với tên gọi là Mahā Tittha, trong thời kỳ của Koṇagamana là Mahānoma, và trong thời kỳ của Kassapa là Mahā Sāgara (Mhv.xv.58, 92, 126).
+
+Mahā Meghavana cũng được gọi là Tissārāma, và vào ngày nó được ban tặng cho Tăng đoàn, Mahinda đã rải hoa lên tám vị trí nằm trong đó, được dành cho những tòa nhà trong tương lai, và trái đất đã rung chuyển tám lần (Mhv.xv.174). Đây là vào ngày Mahinda đặt chân đến Anurādhapura. Tòa nhà đầu tiên được xây dựng trong Mahā Meghavana là *pariveṇa* Kāḷapāsāda (*q.v.*) để Mahinda sử dụng. Nhằm đẩy nhanh tiến độ công việc, những viên gạch được sử dụng trong tòa nhà đã được sấy khô bằng những ngọn đuốc (Mhv.xv.203). Ranh giới của Mahā Meghavana có lẽ trùng khớp với *sīmā* của Mahā Vihāra, nhưng sau đó nó đã bị thay đổi bởi Kaniṭṭhatissa, khi ông xây dựng *vihāra* Dakkhiṇa. Mhv.xxxvi.12. Để biết về sự sắp đặt những vị trí khác nhau của Mahā Meghavana, xem Mbv.137.
 
 ## Notes

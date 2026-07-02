@@ -5,7 +5,7 @@ base_headword: "Samayavimuttisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samayavimuttisutta. Five things that lead to the falling away of a monk who is t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayavimuttisutta. Năm điều dẫn đến sự thoái đọa của một tỳ-kheo tạm thời được giải thoát. AN.iii.173.
 
 ## Notes

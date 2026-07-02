@@ -5,7 +5,7 @@ base_headword: "Daṭṭhabbasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Daṭṭhabbasutta. The five powers – of faith, energy, mindfulness, concentra
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṭṭhabbasutta. Năm lực - tín, tinh tấn, niệm, định và tuệ - cùng nơi chúng cần được thấy. AN.iii.12; SN.v.196.
 
 ## Notes

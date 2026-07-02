@@ -5,7 +5,7 @@ base_headword: "Girisutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Girisutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girisutta (hoặc Girimānandasutta). Được thuyết giảng tại Jetavana. Ānanda mang tin đến cho Đức Phật rằng Girimānanda đang bị ốm; liệu Đức Phật có đến thăm ông không? Đức Phật gợi ý rằng Ānanda nên nhắc lại cho Girimānanda mười tưởng (*saññā*) – *aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā, sabbaloka­anabhiratisaññā, sabbasaṅkhāresu aniccasaññā*, và *ānāpānasatisaññā* (tưởng vô thường, tưởng vô ngã, tưởng bất tịnh, tưởng nguy hiểm, tưởng từ bỏ, tưởng ly tham, tưởng đoạn diệt, tưởng không hoan hỷ đối với toàn bộ thế gian, tưởng vô thường trong tất cả các hành, chánh niệm khi hơi thở vào và ra) – và tiến hành giảng giải chi tiết về chúng. Ānanda đã làm như vậy và Girimānanda đã bình phục. AN.v.108ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Piṇḍapātikatissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -36,6 +36,10 @@ The Buddha, hearing of this, preached the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Piṇḍapātikatissa, Culla Piṇḍapātikatissa. Người con trai trẻ của một đôi vợ chồng giàu có ở Rājagaha.
+
+Sau khi nghe Đức Phật thuyết pháp tại Veḷuvana, anh mong muốn được gia nhập Tăng đoàn; nhưng chỉ có thể nhận được sự đồng ý của cha mẹ bằng cách tuyệt thực trong bảy ngày. Sau đó, anh đã đi cùng Đức Phật đến Jetavana. Vào ngày lễ hội, cha mẹ anh đã vô cùng than khóc và một nữ tì đã đề nghị dụ dỗ anh trở về. Cô đi kiệu đến Sāvatthī và đến cư ngụ trên một con phố nơi Trưởng lão đến khất thực. Cô dần dần làm quen với ông, và sau đó, giả vờ ốm, đã dụ dỗ ông vào căn hộ của mình. Rồi, sau khi xâm phạm sự tịnh hạnh của ông, cô đã đưa ông trở lại Rājagaha (Ja.i.156f).
+
+Đức Phật, nghe được điều này, đã thuyết giảng Vātamigajātaka (Ja 14), trong câu chuyện này Tissa được đồng nhất với con linh dương. Ông cũng được nhắc đến là Cūḷa Piṇḍapātiya (Ja.i.159).
 
 ## Notes

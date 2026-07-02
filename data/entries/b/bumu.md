@@ -5,7 +5,7 @@ base_headword: "Bumū"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -30,6 +30,6 @@ Bumū. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bumū. *v.l.* Thulū và Khulū. Tên của một *gotta*. Ngôi làng Uttarakā thuộc về họ, và khi Đức Phật đang ngự tại đó cùng với Sunakkhatta, vị này đã bị thu hút mạnh mẽ bởi những thực hành của Korakkhattiya (DN.ii.6). Các biên tập viên của Sumaṅgalavilāsinī đã chấp nhận cách đọc Khulū. DN­a.iii.819.
 
 ## Notes

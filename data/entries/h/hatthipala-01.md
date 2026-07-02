@@ -5,7 +5,7 @@ base_headword: "Hatthipāla"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthipāla 01. A teacher of old, with a following of many hundred disciples to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthipāla 01. Một vị đạo sư thời xưa, có hàng trăm đệ tử theo học, ông dạy cho họ con đường hợp nhất với Brahma (AN.iii.371, 373; iv.135). Ông có lẽ là cùng một người với Hatthipāla 2.
 
 ## Notes

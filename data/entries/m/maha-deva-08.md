@@ -5,7 +5,7 @@ base_headword: "Mahā Deva"
 disambiguator: "08"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Deva 08. A minister of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Deva 08. Một vị đại thần của Dappula II. Vị này đã xây dựng tu viện Dappulapabbata. Cv.l.80.
 
 ## Notes

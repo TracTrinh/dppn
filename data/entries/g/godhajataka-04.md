@@ -5,7 +5,7 @@ base_headword: "Godhajātaka"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,8 @@ The story was told in reference to a couple who had been given a roast lizard, w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godhajātaka 04. (Ja 333). Một hoàng tử và vợ của mình, khi quay trở về sau một chuyến đi dài, đã bị cơn đói hành hạ vô cùng, và một vài người thợ săn, nhìn thấy họ, đã cho họ một con thằn lằn nướng. Vị phu nhân cầm nó trong tay, treo nó bằng một sợi dây leo. Khi đến một hồ nước, họ ngồi xuống dưới gốc của một cái cây, và trong khi vợ ông ta đi lấy nước, vị hoàng tử đã ăn toàn bộ con thằn lằn. Khi vợ ông ta quay lại, ông ta đã nói với cô ấy rằng con thằn lằn đã chạy mất, chỉ để lại cái đuôi trong tay ông ta. Sau này, hoàng tử trở thành vua, nhưng vợ của ông ta, mặc dù được chỉ định là vương hậu, nhưng không nhận được danh dự thực sự. Bodhisatta, lúc bấy giờ là một vị đại thần của nhà vua, vì muốn nhìn thấy công lý được thực thi cho vương hậu, đã sắp xếp để nhà vua được nhắc nhở về sự vô ơn bạc nghĩa của mình bằng cách nói bóng gió đến sự cố về con thằn lằn nướng. Ngay sau đó, nhà vua đã nhận ra sự bỏ bê của mình đối với người vợ tận tụy của mình, và trao cho cô ấy quyền lực tối cao.
+
+Câu chuyện này được kể liên quan đến một cặp vợ chồng đã được cho một con thằn lằn nướng, khi đang trở về sau một chuyến đi để đòi nợ. Người chồng đã ăn toàn bộ con thằn lằn khi vợ ông ta đi vắng. Cô ấy không nói gì và uống một chút nước để làm dịu cơn đói của mình, nhưng khi họ đến thăm Đức Phật, và Ngài hỏi cô ấy xem chồng cô ấy có tốt và tình cảm hay không, cô ấy đã trả lời bằng câu phủ định. Đức Phật sau đó đã kể cho cô nghe câu chuyện của quá khứ. Ja.iii.106f.; cf. Succajajātaka.
 
 ## Notes

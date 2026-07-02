@@ -5,7 +5,7 @@ base_headword: "Buddhasiri"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhasiri. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasiri. Một vị tỳ-kheo của Mahā Vihāra, chính vì yêu cầu của ông mà Buddhaghosa đã viết Samantapāsādikā. Vin-a.i.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambala"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sambala 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambala 01. *v.l.* Samphala và Sambahula. Một trong các đại đệ tử chính của Siddhattha Buddha. Ja.i.40; Bv.xvii.48.
 
 ## Notes

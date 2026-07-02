@@ -5,7 +5,7 @@ base_headword: "Giribāvāpi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giribāvāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribāvāpi. Một hồ chứa nước được Parakkamabāhu I tu sửa. Cv.lxviii.44; để xác định vị trí, hãy xem Cv.Trs.i.280, n.5.
 
 ## Notes

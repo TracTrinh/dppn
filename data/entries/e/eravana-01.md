@@ -5,7 +5,7 @@ base_headword: "Erāvaṇa"
 disambiguator: "01"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -38,6 +38,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erāvaṇa 01. Voi của Sakka. Trước đây nó từng là voi của vua nước Magadha, người đã tặng nó cho Māgha và những người bạn đồng hành của ông để giúp họ thực hiện những việc thiện trên trần gian. Kết quả là, khi Māgha và những người khác tái sinh vào cõi Tāvatiṁsa, bản thân Erāvaṇa cũng được sinh ra ở đó và trở thành người bạn đồng hành của họ. Thông thường vị này là một thiên nhân giống như những người khác, vì không có động vật trong cõi chư thiên, nhưng khi họ đến công viên để dạo chơi, Erāvaṇa mang hình dáng của một con voi, với kích thước một trăm năm mươi do-tuần. Đối với ba mươi ba vị thiên nhân, Erāvaṇa dựng lên ba mươi ba cái đầu (*kumbha*), mỗi cái có chu vi bằng hai phần tư hoặc ba phần tư do-tuần. Mỗi cái đầu có bảy cái ngà, mỗi cái ngà dài năm mươi do-tuần, mỗi cái ngà nâng bảy cây hoa sen, mỗi cây có bảy bông hoa, mỗi bông hoa có bảy cánh, và trên mỗi cánh hoa có bảy thiên nữ nhảy múa (Padumaccharā). Dành riêng cho Sakka có một cái đầu đặc biệt, Sudassana, có chu vi ba mươi do-tuần, bên trên là một tán che rộng mười hai do-tuần hoàn toàn bằng đá quý. Ở chính giữa là một chiếc sập đính ngọc dài một do-tuần, trên đó Sakka ngự trị một cách trang trọng. Dhp­a.i.273f; also Snp-a.i.368f. (nơi có một vài khác biệt nhỏ).
+
+Trong Dhammikasutta (Sn.vs.379), Erāvaṇa được đề cập trong số chư thiên đã đến gặp Đức Phật để đảnh lễ ngài. Vị này cũng được đề cập trong số những Nāga có mặt tại buổi thuyết giảng Mahā Samayasutta (DN.ii.258; có lẽ ở đây ngụ ý một vị vua rắn, vì vị này được đề cập cùng với những vị khác công khai là loài rắn). Nhiều nơi nhấn mạnh (e.g., MN­a.i.472; DN­a.ii.688; also Vv-a.15 và Kv.ii.599) rằng Erāvaṇa là một thiên tử (*Devaputta*) và chỉ mang gốc gác là Nāga do nguồn gốc sinh ra (*jātiyā*). Các chuyện Jātaka (Ja.v.137) có nhắc đến việc Sakka cưỡi voi Erāvaṇa, đặc biệt là khi đưa ra những so sánh giữa các vị vua diễu hành trên lưng voi (e.g., Ja.iii.392). Erāvaṇa là một trong những nét đặc trưng chính của cõi Tāvatiṁsa (V.vi.278).
 
 ## Notes

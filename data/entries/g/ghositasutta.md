@@ -5,7 +5,7 @@ base_headword: "Ghositasutta"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -26,6 +26,6 @@ Ghositasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghositasutta. Ghositaseṭṭhi đến thăm Ānanda tại Ghositārāma và hỏi ông về những lời dạy của Đức Phật liên quan đến sự đa dạng trong các giới (*dhātunānattaṁ*). Ānanda giải thích cách thức phát sinh của ba loại cảm thọ – lạc thọ, khổ thọ và xả thọ. SN.iv.113f.
 
 ## Notes

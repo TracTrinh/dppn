@@ -5,7 +5,7 @@ base_headword: "Mahā Dhanakumāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Dhanakumāra. The Bodhisatta born as the son of the Treasurer of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhanakumāra. Bodhisatta đản sinh làm con trai của vị Trưởng khố xứ Benares (Ja.iii.475ff). Về câu chuyện của ngài, xem Aṭṭhānajātaka (Ja 425).
 
 ## Notes

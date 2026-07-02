@@ -5,7 +5,7 @@ base_headword: "Mahā Cūḷa Mahā Tissa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -44,6 +44,8 @@ Mahā Cūḷa Mahā Tissa (<span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Cūḷa Mahā Tissa (Mahā Cūḷika Mahā Tissa). Con trai của Khallāṭanāga và Anulādevī. Vaṭṭagāmaṇī đã nhận ông làm con nuôi (do đó có được tước hiệu Pitirājā) và đưa ông theo khi buộc phải chạy trốn khỏi những người Damiḷa (Mhv.xxxiii.35, 45; Dpv.xx.22f, 31).
+
+Mahā Cūḷa kế vị Vaṭṭagāmaṇī làm vua của Tích Lan và cai trị trong mười bốn năm (17-3 TCN). Ông đã làm việc trên một cánh đồng lúa, cải trang thành một người lao động, và với số tiền công kiếm được như vậy, ông đã cúng dường cho Mahā Summa. Trong ba năm, ông đã làm việc trong một xưởng đường gần Soṇṇagiri và xây dựng các *vihāra* được gọi là Maṇḍavāpi, Abhayagallaka, Vaṅkāvaṭṭakagalla, Dīghabāhugallaka, và Jālagāma. Người kế vị ông là Coranāga (Mhv.xxxiv.1ff). Mahā Cūḷa có hai con trai là Tissa (bị Anulā khét tiếng hạ độc) và Kuṭakaṇṇatissa. Mhv.xxxiv.15, 28.
 
 ## Notes

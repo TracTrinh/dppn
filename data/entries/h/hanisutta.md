@@ -5,7 +5,7 @@ base_headword: "Hānisutta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hānisutta. On seven things which lead to a lay disciple’s decline – failure
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hānisutta. Về bảy điều dẫn đến sự suy thoái của một cư sĩ – không đến gặp chư tăng, xao lãng Pháp, etc. AN.iv.25.
 
 ## Notes

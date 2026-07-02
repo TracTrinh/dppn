@@ -5,7 +5,7 @@ base_headword: "Dānānisaṁsasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dānānisaṁsasutta. The five advantages of making gifts – popularity, affect
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānānisaṁsasutta. Năm lợi ích của việc bố thí – sự nổi tiếng, được yêu mến, danh tiếng tốt, sự kiên định trong bổn phận của người gia chủ, và tái sinh an vui (AN.iii.41).
 
 ## Notes

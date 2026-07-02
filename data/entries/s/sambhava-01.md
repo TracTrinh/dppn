@@ -5,7 +5,7 @@ base_headword: "Sambhava"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sambhava 01. One of the two chief disciples of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhava 01. Một trong hai đại đệ tử của Sikhī Buddha. DN.ii.4; Ja.i.41; Bv.xxi.20; SN.i.155.
 
 ## Notes

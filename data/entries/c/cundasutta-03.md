@@ -5,7 +5,7 @@ base_headword: "Cundasutta"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cundasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cundasutta 03. Mahā Cunda nói cho các tỳ-kheo tại Sahajātī biết cách có thể phân biệt những lời nói thật với lời nói dối khi một tỳ-kheo nói về bản thân mình và các chứng đắc của mình (AN.v.41ff).
 
 ## Notes

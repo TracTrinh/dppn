@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "07"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gilānasutta 07. Once, shortly before his death, the Buddha spent the rainy seas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 07. Xưa kia, ngay trước khi viên tịch, Đức Phật đã trải qua mùa an cư ở Beluva, nơi Ngài bị ốm rất nặng. Bằng nỗ lực ý chí to lớn, Ngài đã vượt qua cơn bạo bệnh. Ānanda bày tỏ sự ngưỡng mộ của mình đối với sức mạnh tinh thần của Đức Phật, nhưng nói thêm niềm tin của ông rằng Đức Phật sẽ không viên tịch mà không đưa ra một số lời tuyên bố liên quan đến Tăng đoàn. Tiếp theo đó là lời chỉ dạy nổi tiếng của Đức Phật cho những người đi theo Ngài rằng họ không nên lấy người dẫn đường hay nơi nương tựa nào khác ngoài Dhamma và chính bản thân họ. SN.v.152f.; *Sutta* được tìm thấy gần như nguyên văn trong DN.ii.98f.
 
 ## Notes

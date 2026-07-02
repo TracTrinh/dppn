@@ -5,7 +5,7 @@ base_headword: "Damiḷathūpa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Damiḷathūpa. A *cetiya* erected at <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Damiḷathūpa. Một *cetiya* được dựng lên tại Pulatthipura bởi Parakkamabāhu I. Tên ban đầu của nó là Mahā Thūpa, nhưng nó đã được đổi tên do nó được xây dựng bởi những người Damiḷa bị bắt làm tù binh từ vương quốc Damiḷa. Chu vi của nó là một ngàn ba trăm cubit, lớn hơn tất cả các *Thūpa* khác và, theo Biên niên sử, nó được xây dựng mà không có sự trợ giúp của bất kỳ năng lực thần thông nào. Cv.lxxviii.76ff.
 
 ## Notes

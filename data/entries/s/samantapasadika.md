@@ -5,7 +5,7 @@ base_headword: "Samantapāsādikā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -33,6 +33,8 @@ It was written at the request of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samantapāsādikā, Vinaya Commentary. Một bộ Chú giải về Vinayapiṭaka do Buddhaghosa Thera biên soạn (Gv.59).
+
+Tác phẩm được viết theo yêu cầu của Buddhasiri và dựa trên Mahā Paccariya và Kurundī *Aṭṭhakathā*. Xem thêm Sāraṭṭhadīpanī. Vin-a.i.2.; lý do của tên gọi này được nêu tại Vin-a.i.201. *Sampassataṁ na dissati, kiñci apāsādikaṁ yato ettha, viññūnam-ayaṁ tasmā, Samantapāsādikā tveva*, đối với những ai quan sát kỹ lưỡng, không có gì đáng chê ở đây cả. Vì vậy, đối với bậc trí, đây quả thật là Hoàn Toàn Đẹp Lòng (*Samantapāsādikā*).
 
 ## Notes

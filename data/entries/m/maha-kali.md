@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Kāḷī. An eminent Therī of Ceylon. Dpv.xviii.39.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷī. Một vị nữ Trưởng lão (Therī) xuất chúng của Tích Lan. Dpv.xviii.39.
 
 ## Notes

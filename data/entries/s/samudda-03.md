@@ -5,7 +5,7 @@ base_headword: "Samudda"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samudda 03. One of the chief lay patrons of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudda 03. Một trong các đại thí chủ cư sĩ của Siddhattha Buddha. Bv.xvii.20.
 
 ## Notes

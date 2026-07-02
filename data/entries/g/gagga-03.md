@@ -5,7 +5,7 @@ base_headword: "Gagga"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gagga 03. A Brahmin, father of the Bodhisatta in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gagga 03. Một Bà-la-môn, cha của Bodhisatta trong Gaggajātaka (*q.v.*).
 
 ## Notes

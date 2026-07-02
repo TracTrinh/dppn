@@ -5,7 +5,7 @@ base_headword: "Gokaṇṇa"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gokaṇṇa 03. A general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gokaṇṇa 03. Một vị tướng của Parakkamabāhu I được nhắc đến trong số những người lãnh đạo của cuộc viễn chinh mà ông đã cử đến Nam Ấn Độ. Cv.lxxvi.253, 270, 324-6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -36,6 +36,6 @@ Mahā Nāga 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 02. Con trai của Muṭasiva và là phó vương của Devānampiyatissa. Vợ của ông là Anulā, người mà Saṅghamittā đã đi từ Jambudīpa đến để thọ giới cho bà (Mhv.xiv.56; Dpv.xi.6; xvii.75). Người vợ thứ hai của ông là một người phụ nữ ngu ngốc, bà ta đã cố gắng đầu độc ông nhằm giành ngai vàng cho con trai mình. Trong khi ông đang xây dựng hồ chứa nước Taraccha, bà ta đã gửi cho ông một vài quả xoài, quả nằm trên cùng, dành cho ông, đã bị tẩm thuốc độc. Nhưng chính con trai của bà ta đã ăn quả xoài đó và tử vong. Mahā Nāga ngay sau đó đã đi đến Rohaṇa, nơi ông đã thành lập vương triều mang tên đó tại Mahā Gāma. Con trai của ông là *Yaṭṭhālayaka* Tissa. Mahā Nāga đã xây dựng Nāgamahāvihāra và *vihāra* Uddhakandaraka. Mhv.xxii.2ff.
 
 ## Notes

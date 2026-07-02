@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasutta"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brāhmaṇasutta 02. A Brahmin visits the Buddha at <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasutta 02. Một vị Bà-la-môn đến thăm Đức Phật tại Jetavana và hỏi vì sao Pháp của Đức Phật sẽ biến mất không lâu sau khi ngài viên tịch. Đức Phật nói đó là vì sự thất bại của con người trong việc thấu đạt bốn *satipaṭṭhāna*. SN.v.174.
 
 ## Notes

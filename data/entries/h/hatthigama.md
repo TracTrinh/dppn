@@ -5,7 +5,7 @@ base_headword: "Hatthigāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,6 @@ Hatthigāma. A village on the road from <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthigāma. Một ngôi làng trên đường từ Vesālī đến Bhoganagara. Đây là nơi cư trú của Uggagahapati và được mô tả là một ngôi làng của người Vajji. Đức Phật đã lưu trú tại đó và được Ugga đến thăm (AN.iv.212; AN­a.i.214; SN.iv.109). Trong chuyến đi cuối cùng của Ngài, Ngài lại nghỉ chân ở ngôi làng này. DN.ii.123.
 
 ## Notes

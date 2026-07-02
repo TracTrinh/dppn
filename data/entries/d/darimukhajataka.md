@@ -5,7 +5,7 @@ base_headword: "Darīmukhajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,8 @@ The story was related in reference to the Buddha’s Renunciation. Ja.iii.238-46
 
 ## Vietnamese translation
 
-Chưa dịch.
+Darīmukhajātaka (Ja 378). Bodhisatta từng tái sinh làm Brahmadatta, con trai của vua nước Magadha. Ngài đã theo học tại Takkasilā cùng với người bạn của mình là Darīmukha, con trai của vị *Purohita* của nhà vua. Một lần, trong khi du hành, họ đã đến Benares và ở đó, khi đang nghỉ ngơi trong ngự uyển của nhà vua, Brahmadatta đã ngủ thiếp đi và Darīmukha, người đã nhận thấy những điềm báo chắc chắn tiên đoán về ngôi vua cho bạn mình, đã rời bỏ ngài, và sau khi trở thành một Đức Phật Độc giác (*Pacceka Buddha*), đã rút lui về Nandamūlaguhā. Brahmadatta đã trở thành vua của Benares và, trong vinh quang của mình, đã quên Darīmukha trong nhiều, rất nhiều năm. Khi năm mươi năm đã trôi qua Darīmukha đã đến thăm nhà vua và thuyết pháp cho ông về sự Từ bỏ. Sau này, Brahmadatta cũng đã trở thành một tu sĩ.
+
+Câu chuyện được kể lại liên quan đến cuộc Xuất gia của Đức Phật. Ja.iii.238-46.
 
 ## Notes

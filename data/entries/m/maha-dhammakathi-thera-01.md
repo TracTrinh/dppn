@@ -5,7 +5,7 @@ base_headword: "Mahā Dhammakathī Thera"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Dhammakathī Thera 01. In the time of king <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Mahā Dhammakathī 01. Dưới thời vua Buddhadāsa, vị này đã dịch các Kinh điển (Suttas) Pāli sang tiếng Sinhalese. Cv.xxxvii.175; rõ ràng ông được Faxian (Pháp Hiển) nhắc đến (Giles, p. 72).
 
 ## Notes

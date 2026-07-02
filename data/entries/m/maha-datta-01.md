@@ -5,7 +5,7 @@ base_headword: "Mahā Datta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Datta 01. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Datta 01. Một vị Thera của Ariyakoṭiya. Có lần ngài đang ngồi thiền định dưới gốc cây, nhưng vì sức mạnh lớn lao từ đức hạnh của ngài, những đứa con của vị thọ thần trở nên bồn chồn, và vị thọ thần đã cố gắng dọa ngài bỏ đi nhưng không thành công. Sau đó bà xuất hiện trước vị Thera*,* trong một hình dáng cải trang, và nói với ngài về rắc rối của mình. Ngài yêu cầu bà đưa gia đình mình đi nơi khác chỉ trong ngày hôm đó vì ngài không muốn người ta nghĩ rằng bà đã làm ngài sợ hãi mà bỏ đi. MN­a.i.131.
 
 ## Notes

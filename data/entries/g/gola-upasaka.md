@@ -5,7 +5,7 @@ base_headword: "Gola-upāsaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gola-upāsaka. A pious man of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goḷa-upāsaka. Một người đạo đức của Goṭhagāma, được gọi như vậy vì ông hơi bị gù. Câu chuyện của ông được kể ở Ras.ii.170f.
 
 ## Notes

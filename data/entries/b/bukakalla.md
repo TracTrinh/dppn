@@ -5,7 +5,7 @@ base_headword: "Būkakalla"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Būkakalla. A village in Ceylon near which was the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Būkakalla. Một ngôi làng ở T?ch Lan gần đó có Ambavāpī được Potthakuṭṭha dâng tặng cho *padhānaghara* của Māṭambiya. Cv.xlvi.20.
 
 ## Notes

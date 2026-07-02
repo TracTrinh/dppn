@@ -5,7 +5,7 @@ base_headword: "Dāṭhānāma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Dāṭhānāma. A householder of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhānāma. Một gia chủ ở Ambilayāgu và là con trai của Dhātusena thuộc Nandivāpigāma. Dāṭhanāma có hai người con trai, Dhātusena (sau này là vua) và Silātissabodhi. Cv.xxxviii.14.
 
 ## Notes

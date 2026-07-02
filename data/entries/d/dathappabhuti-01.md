@@ -5,7 +5,7 @@ base_headword: "Dāṭhāppabhuti"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāṭhāppabhuti 01. Father of King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāppabhuti 01. Cha của Vua Silākāla. Ông là một người Lambakaṇṇa và từng phục vụ dưới quyền Kassapa I. Sau đó ông đã cãi nhau với nhà vua và lui về quận Mereliya. Cv.xxxix.44.
 
 ## Notes

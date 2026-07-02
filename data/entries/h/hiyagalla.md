@@ -5,7 +5,7 @@ base_headword: "Hīyagalla"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hīyagalla. A place near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hīyagalla. Một địa danh gần Anurādhapura, nơi ranh giới *sīmā* của Mahā Vihāra đi qua. Mbv. 135,136.
 
 ## Notes

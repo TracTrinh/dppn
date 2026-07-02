@@ -5,7 +5,7 @@ base_headword: "Biṇḍumatī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Biṇḍumatī. A courtesan of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một kỹ nữ của Pāṭaliputta. Nàng có mặt khi Asoka, đang giương buồm ngược dòng sông Ganges, đã hỏi các quan đại thần của ông và những người dân xem liệu có ai có thể làm cho dòng sông chảy ngược lại hay không. Biṇḍumatī đã thực hiện một Lời Nguyện Sự Thật (*saccakiriyā*) và dòng sông đã chảy ngược lại. Mil.121f.
 
 ## Notes

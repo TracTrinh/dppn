@@ -5,7 +5,7 @@ base_headword: "Gopāla"
 disambiguator: "05"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -29,6 +29,6 @@ Gopāla 05. A *Devaputta* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopāla 05. Một *Devaputta* của Tāvatiṁsa. Ông là thầy của Uracchadamālā và đã cúng dường đồ ăn cho Kassapa Buddha và các vị tỳ-kheo; ông đã nghe Dhamma nhưng không đạt được sự chứng ngộ đặc biệt nào. Moggallāna đã gặp ông trong một chuyến viếng thăm Tāvatiṁsa và, để trả lời cho những câu hỏi của vị Trưởng lão, Gopāla đã đưa ra một lời kể về chính mình. Sau đó Moggallāna đã thuyết giảng cho ông và ông đã trở thành một *Sotāpanna*. Vv.v.14; Vv-a.270ff.
 
 ## Notes

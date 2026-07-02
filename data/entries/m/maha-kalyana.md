@@ -5,7 +5,7 @@ base_headword: "Mahā Kalyāṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Kalyāṇa. Another name for <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kalyāṇa. Một tên gọi khác của Varakaḷyāna.
 
 ## Notes

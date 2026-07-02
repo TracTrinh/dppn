@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "06"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Deva 06. A Thera of Ceylon, who, according to the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 06. Một Trưởng lão của Tích Lan, theo Gandhavaṃsa (Gv.p.63), đã viết Sumantakūṭavaṇṇanā. Tuy nhiên, tác phẩm này thường được gán cho Vedeha (PLC.223f; Svd.1263).
 
 ## Notes

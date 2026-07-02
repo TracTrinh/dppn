@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sāri Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Sāri Thera, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sāri Thera, Cūla Sāri Thera. Một vị sống cùng với Sāriputta. Rõ ràng là ông am hiểu y thuật, và một ngày nọ, ông đã thực hiện việc điều trị y tế cho một người bệnh, đổi lại ông nhận được một phần thức ăn hảo hạng. Khi đi ra ngoài, ông gặp một Trưởng lão trên đường và ông đã dâng cúng phần thức ăn đó, kể lại hoàn cảnh mà ông có được nó và đề nghị sẽ mang cho vị Trưởng lão thức ăn có được theo cách như vậy trong tương lai. Trưởng lão lắng nghe, rồi bỏ đi không nói một lời. Khi Đức Phật nghe được việc này, Ngài tuyên bố rằng một người vô liêm sỉ có thể, theo một cách nói nào đó, sống hạnh phúc, giống như một con quạ. Dhp-a.iii.351f.
 
 ## Notes

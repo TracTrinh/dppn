@@ -5,7 +5,7 @@ base_headword: "Gandhavilepanasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -23,6 +23,6 @@ Gandhavilepanasutta. Few are those who abstain from flowers, scents, etc.; many 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhavilepanasutta. Ít người từ bỏ hoa, hương thơm, etc.; nhiều người không từ bỏ. SN.v.471.
 
 ## Notes

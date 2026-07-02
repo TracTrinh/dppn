@@ -5,7 +5,7 @@ base_headword: "Gaṅgārohaṇasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -34,6 +34,8 @@ The *Sutta* mentioned is probably, therefore, the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgārohaṇasutta. Cūḷa Vaṁsa (Cv.xxxvii.191) có nhắc đến một *Sutta* mang tên này. Các bản Chú giải Dhammapada (Dhp­a.iii.436ff) và Khuddakapāṭha (Khp-a.162ff) có ghi lại chuyến viếng thăm Vesālī của Đức Phật nhằm xua tan nỗi sợ hãi về nạn đói và dịch bệnh tại đó, và các bản này mô tả rất chi tiết những lễ hội diễn ra khi Đức Phật trở về Rājagaha dọc theo sông Gaṅgā. Chuyến đi này được gọi là Gaṅgārohaṇa.
+
+Do đó, bài *Sutta* được nhắc đến có lẽ chính là Ratanasutta (*q.v.*) mà Đức Phật đã thuyết tại Vesālī.
 
 ## Notes

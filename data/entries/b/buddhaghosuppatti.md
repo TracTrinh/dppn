@@ -5,7 +5,7 @@ base_headword: "Buddhaghosuppatti"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Buddhaghosuppatti. A very late account of the life of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhaghosuppatti. Một lời kể rất muộn về cuộc đời của Buddhaghosa; nó thiên về một câu chuyện lãng mạn hơn là một biên niên sử. Để biết về điều này, xem Law, *Pāli Literature* p.558 f. Tác phẩm này đã được Gray (London) dịch và hiệu đính.
 
 ## Notes

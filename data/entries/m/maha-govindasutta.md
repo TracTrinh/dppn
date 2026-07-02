@@ -5,7 +5,7 @@ base_headword: "Mahā Govindasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -55,6 +55,12 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="45" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Govindasutta. Pañcasikha đến thăm Đức Phật tại Gijjhakūṭa và kể cho Ngài nghe về một cuộc họp từng được tổ chức ở Tāvatiṁsa. Tại cuộc họp này, Sakka cùng chư thiên ở Tāvatiṁsa hoan hỷ về sự gia tăng số lượng của họ nhờ vào sự xuất hiện ở giữa họ của chư thiên mới được tạo ra bởi kamma tốt của những người đi theo quan điểm sống mới được Đức Phật đề xướng. Sakka bày tỏ niềm vui của mình trong một bài ca và sau đó thốt lên một bài tán thán về tám phẩm chất của Đức Phật. Phạm thiên (Brahma) Sanaṅkumāra xuất hiện và mong muốn được nghe bài tán thán, theo đó, nó được lặp lại vì lợi ích của ông. Sanaṅkumāra nói rằng Đức Phật vẫn luôn trí tuệ như vậy, và kể lại câu chuyện về Disampati cùng người con trai là Reṇu của ông. Disampati có một vị Purohita tên là Govinda và khi ông này chết, Disampati rất đau buồn, nhưng, theo lời đề nghị của Reṇu, đã bổ nhiệm con trai của Govinda là Jotipāla vào vị trí của ông ta.
+
+Sau cái chết của Disampati, Reṇu trở thành vua, và với sự giúp đỡ của Jotipāla, đã chia vương quốc của mình thành bảy phần để chia sẻ cho bản thân ông và sáu người bạn của mình, các phần của vương quốc là Dantapura, Potana, Māhissati, Roruka, Mithilā, Campā và Bārāṇasī; và các vị vua tương ứng là: Sattabhū, Brahmadatta, Vessabhū, Bharata, Reṇu và hai vị Dhataraṭṭha. Jotipāla, nay được gọi là Mahā Govinda nhờ vào chức vụ của mình, đã đào tạo bảy người khác để đảm nhận các chức vụ quản gia cho bảy vị vua. Mahā Govinda có được danh tiếng là đã nhìn thấy Phạm thiên (Brahma) mặt đối mặt, và để chứng minh danh tiếng này, ông từ biệt Reṇu và thực hành thiền định trong bốn tháng. Trong lúc ông đang thiền định, Sanaṅkumāra xuất hiện trước mặt ông và bảo ông rằng ông có thể nhìn thấy Phạm thiên (Brahma) mặt đối mặt và đạt được sự hiệp thông với Ngài. Ở đây chúng ta có lời dạy liên quan đến vị Bà-la-môn lý tưởng. Mahā Govinda quyết định từ bỏ thế gian và thực hiện các lời dạy của Sanaṅkumāra. Sau khi được sự cho phép của chủ nhân, ông bước vào đời sống không nhà, nơi ông thực hành bốn trạng thái hỷ lạc của từ, bi, hỷ và xả. Ông dạy những điều này cho các đệ tử của mình, và sau khi chết, tất cả họ đều được tái sinh vào cõi Brahma.
+
+Khi kết thúc phần kể lại của Pañcasikha, Đức Phật bảo với ông rằng bản thân Ngài chính là Mahā Govinda và do đó nhớ lại tất cả về cuộc đời đó. DN.ii.220-51; so sánh Janavasabhasutta, cũng xem Mvu.iii.197ff.
+
+Trong Mahā Govindasutta, brahmacariyā được giải thích là bốn vô lượng (appamaññā), từ vô lượng, v.v... DN­a.i.178; MN­a.i.275.
 
 ## Notes

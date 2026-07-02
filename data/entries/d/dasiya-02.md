@@ -5,7 +5,7 @@ base_headword: "Dāsiyā"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dāsiyā 02. nun of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāsiyā 02. Vị tỳ-kheo-ni của Anurādhapura; bà là thầy dạy về Vinaya. Dpv.xviii.28.
 
 ## Notes

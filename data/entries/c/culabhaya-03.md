@@ -5,7 +5,7 @@ base_headword: "Cūḷābhaya"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -30,6 +30,6 @@ Cūḷābhaya 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷābhaya 03. Cūlābhaya. Một Trưởng lão của Tích Lan và là một nhà chú giải nổi tiếng; ông được biết đến là *Tipiṭaka* Cūḷābhaya. Ông nhiều lần được trích dẫn trong các Chú giải (vd., Vibh­a.11, 16; Vsm.69, 394, 397). Ông có một trí nhớ phi thường. Có lần ông đã đóng ba trong số các cổng của Anurādhapura, chỉ để lại một cửa cho những người rời khỏi thành phố sử dụng. Khi mỗi người đi ra, ông hỏi tên người đó, và ông có thể lặp lại từng cái tên này khi người sở hữu nó trở về thành phố vào buổi tối (DN­a.ii.530). Ông là người cùng thời với Cūḷa Nāga (Dhs­a.230; SN­a.iii.206), vị mà ông thường thảo luận cùng. Lời mô tả của ông (đưa ra tại Lohapāsāda) (DN­a.ii.442) về những chi tiết liên quan đến những lời nói đầu tiên được Đức Phật thốt ra sau khi Ngài đản sinh, và cách Ngài bước đi, được chấp nhận là xác thực. Có lần ông đi cùng một đoàn tỳ-kheo trong một chuyến hành hương đến Nāgadīpa. Trên đường đi, ông lưu lại trong một tu viện. Một trong những người theo ông, vốn thiếu tự chủ, đã kết bạn với một người khác có tính khí giống vậy trong *vihāra*, và Cūḷābhaya, thấy họ cười lớn, đã chỉ ra rằng trong Dhātusaṁyutta Đức Phật đã nói thật đúng khi dạy rằng những người giống nhau sẽ kết hợp với những người giống nhau. Vibh­a.457f.
 
 ## Notes

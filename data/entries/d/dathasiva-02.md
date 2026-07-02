@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsiva"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,6 @@ Dāṭhāsiva 02. Minister of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsiva 02. Vị đại thần của Jeṭṭhatissa III. Ông đã bị các lực lượng của Aggabodhi III bắt giữ tại Māyetti, nhưng sau đó đã lấy lại được sự tự do và được Jeṭṭhatissa cử đến Ấn Độ để cắt đứt liên lạc đường hậu phương của Aggabodhi. Khi Jeṭṭhatissa tự sát và Aggabodhi một lần nữa trở thành vua, Dāṭhāsiva đã quay trở lại Tích Lan, đánh bại Aggabodhi và trở thành vua với tên gọi là Dāṭhopatissa. Nhưng triều đại của ông không được vững chắc và ông thường xuyên phải bỏ trốn. Ông rất tham lam và đã cướp bóc các ngôi đền. Về sau, để chuộc lỗi, ông đã xây dựng Sākavatthuvihāra và khôi phục Thūpārāma. Cuối cùng, ông đã trốn chạy khỏi Kassapa II sang Ấn Độ, nhưng sau đó đã quay lại và chiến đấu trong một trận chiến mà ông đã tử trận (Cv.xliv.128ff). Ông có một người cháu trai, Hatthadāṭha (Cv.xliv.155), người được biết đến với tên gọi là *Bhāgineyya* Dāṭhopatissa. Vương tử Bodhi và công chúa Lokitā là hậu duệ của Dāṭhopatissa (Cv.lvii.40).
 
 ## Notes

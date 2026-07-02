@@ -5,7 +5,7 @@ base_headword: "Sammukhāthavika"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sammukhāthavika 01. A king of ninety *kappas* ago, a former birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammukhāthavika 01. Một vị vua từ chín mươi *kappa* trước, một kiếp trước của Māṇava Thera. Thag­a.i.163.
 
 ## Notes

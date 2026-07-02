@@ -5,7 +5,7 @@ base_headword: "Mahā Dhana"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Dhana 01. The son of the Treasurer of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhana 01. Con trai của Trưởng khố xứ Benares. Cha mẹ của anh ta sở hữu tám mươi crore, và việc học của anh ta chỉ gồm âm nhạc và ca hát. Anh ta kết hôn với con gái của một gia đình giàu có không kém và có học vấn tương tự. Sau cái chết của cha mẹ họ, họ rất giàu có. Một đêm nọ, khi người chồng đang trên đường từ cung điện trở về, một số kẻ xảo trá đã cám dỗ anh ta uống rượu. Anh ta nhanh chóng trở thành nạn nhân của thói quen này và tất cả của cải của anh ta đã bị phung phí. Sau đó anh ta tiêu sạch tiền của vợ mình, và cuối cùng bán hết mọi tài sản của mình, và thường đi ăn xin, tay cầm một mảnh bình vỡ. Một ngày nọ Đức Phật, khi nhìn thấy anh ta đang đứng đợi bên ngoài nhà ăn để xin thức ăn thừa, đã mỉm cười. Để trả lời Ānanda, người đã hỏi Ngài lý do cho nụ cười của Ngài, Đức Phật nói rằng có một người đàn ông đã từng có khả năng trở thành Trưởng khố hoặc chứng đạt quả vị Arahant, nếu như anh ta biết tận dụng những cơ hội của mình, nhưng giờ đây anh ta đã bị giảm sút thành kẻ ăn mày, giống như một con cò trong một cái ao cạn nước. Dhp­a.iii.129ff.
 
 ## Notes

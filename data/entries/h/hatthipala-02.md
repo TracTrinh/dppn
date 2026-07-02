@@ -5,7 +5,7 @@ base_headword: "Hatthipāla"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hatthipāla 02. The Bodhisatta, born as son of the chaplain of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthipāla 02. Vị Bodhisatta, sinh làm con trai của vị tế sư của Esukārī, vua xứ Benares. Xem Hatthipālajātaka (Ja 509).
 
 ## Notes

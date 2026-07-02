@@ -5,7 +5,7 @@ base_headword: "Cūḷa Tissa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -30,6 +30,6 @@ Cūḷa Tissa. A minister of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Tissa. Một đại thần của Duṭṭhagāmaṇī. Có lần khi con voi Kaṇḍula bị lạc, ông đã được phái đi tìm kiếm và thấy nó đang chăm sóc các tỳ-kheo của Mahā Nijjhara. Tissa dâng cho các tỳ-kheo một thức uống từ trái *kāra* và đường, rồi đưa con vật trở lại với nhà vua. Sau này, Tissa được sinh ra ở Ambaviṭṭhi và gia nhập Tăng đoàn. Sau đó, trong khi đang trên một chuyến hải trình đến Cội Bồ-đề ở Gayā, con tàu của ông bị cạn kiệt nước. Tissa thả chiếc bát của mình xuống biển. Nước trở nên ngọt ngào và tươi mát, và ông đã chia sẻ nó với những người khác. Sau khi chết, ông được tái sinh vào cõi chư thiên. Ras.ii.29f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Samitigutta Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -35,6 +35,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samitigutta Thera. Ông thuộc một gia đình Bà-la-môn ở Sāvatthī và gia nhập Saṅgha sau khi nghe Đức Phật thuyết pháp. Ông đạt đến sự trong sạch hoàn toàn trong hành vi, nhưng, do một hành động nào đó trong kiếp trước, đã bị bệnh phong tấn công, và tay chân ông dần dần bị hủy hoại. Vì vậy ông sống trong trạm y tế. Một ngày kia Sāriputta, trong khi thăm người bệnh, đã thấy ông và trao cho ông một bài tập về quán thọ. Thực hành điều này, Samitigutta đã phát triển tuệ quán và trở thành một *Arahant*. Sau đó ông nhớ lại hành động trong quá khứ của mình và thốt lên một bài kệ (Thag.vs.81).
+
+Trong quá khứ ông từng là một gia chủ và đã dâng cúng hoa nhài lên Vipassī Buddha. Trong một kiếp khác ông đã thấy một vị Pacceka Buddha và đã sỉ nhục vị ấy, gọi vị ấy là “kẻ hủi đói khát” và nhổ nước bọt trước mặt vị ấy. Vì việc này ông đã chịu khổ lâu dài trong địa ngục, và tái sinh trên trần gian vào thời Kassapa Buddha. Ông trở thành một *Paribbājaka*, và, nổi giận với một người đệ tử của Đức Phật, đã nguyền rủa người ấy “Mong ngươi trở thành kẻ hủi.” Ông cũng làm bẩn các loại bột tắm mà người ta đặt tại các nơi tắm rửa; do đó ông mắc phải căn bệnh này trong đời hiện tại (Thag­a.i.175 f).
+
+Ông rõ ràng là cùng một người với Jātipūjaka trong Apadāna. Ap.i.154.
 
 ## Notes

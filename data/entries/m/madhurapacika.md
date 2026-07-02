@@ -5,7 +5,7 @@ base_headword: "Madhurapācikā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Madhurapācikā. A woman of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurapācikā. Một phụ nữ ở Sāvatthī, vợ của một người đàn ông đã gia nhập Tăng đoàn khi về già cùng với những người bạn của mình. Tất cả những người bạn này thường dùng bữa tại nhà ông, nơi họ được chăm sóc chu đáo. Nhưng người vợ qua đời, và tất cả họ đều than khóc rất nhiều. Đức Phật nghe được chuyện này, đã cho gọi họ đến và kể cho họ nghe Kākajātaka (*q.v.*, Ja.i.497ff). Khi kết thúc bài pháp, tất cả các vị tỳ-kheo lớn tuổi đều trở thành những vị Sotāpanna (Dhp­a.iii.422ff.)
 
 ## Notes

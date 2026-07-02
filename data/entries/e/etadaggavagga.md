@@ -5,7 +5,7 @@ base_headword: "Etadaggavagga"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Etadaggavagga. The fourteenth chapter of the *Ekanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Etadaggavagga. Chương thứ mười bốn của *Ekanipāta* thuộc Aṅguttaranikāya. Nó chứa tên của các đệ tử của Đức Phật, cả nam và nữ, mỗi người được phân biệt bởi một số phẩm chất đặc biệt nào đó. AN.i.23-6.
 
 ## Notes

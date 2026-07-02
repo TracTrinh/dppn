@@ -5,7 +5,7 @@ base_headword: "Gaṇakaputtatissa Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṇakaputtatissa Thera. Probably a Commentator. <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇakaputtatissa Thera. Có lẽ là một vị Chú giải sư. Buddhaghosa trích dẫn ngài trong Aṅguttara Commentary (AN­a.i.439) khi giải thích thuật ngữ *tisahassīmahāsahassī* khác với cách hiểu thường được chấp nhận.
 
 ## Notes

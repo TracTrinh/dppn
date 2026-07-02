@@ -5,7 +5,7 @@ base_headword: "Devamantiya"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,10 @@ The name is considered to be a corruption of the Greek Demetrius (Mil. Trans.vol
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devamantiya. Một trong các quý tộc của vua Milinda.
+
+Chính ông là người đưa nhà vua đến gặp Nāgasena và được yêu cầu mời Nāgasena đến cung điện (Mil.22f.29).
+
+Tên này được xem là dạng biến đổi của tên Hy Lạp Demetrius (Mil. Trans.vol.i.p.xix, etc.).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devagandha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devagandha. Fourteen *kappas* ago there were sixteen kings of this name, all pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devagandha. Mười bốn *kappa* trước có mười sáu vị vua mang tên này, tất cả đều là những đời trước của Gandhamāliya Thera. Ap.i.135.
 
 ## Notes

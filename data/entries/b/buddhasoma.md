@@ -5,7 +5,7 @@ base_headword: "Buddhasoma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhasoma. A monk of Ceylon, friend of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhasoma. Một vị tỳ-kheo ở T?ch Lan, bạn của Ānanda, tác giả của Saddhammopāyana. Tác phẩm này được Ānanda biên soạn để gửi làm quà tặng pháp cho Buddhasoma. PLC.212.
 
 ## Notes

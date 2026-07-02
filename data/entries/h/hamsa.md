@@ -5,7 +5,7 @@ base_headword: "Haṁsā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Haṁsā. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsā. Một tòa cung điện mà Dīpaṅkara Buddha đã ở trước khi xuất gia. Bv.ii.208.
 
 ## Notes

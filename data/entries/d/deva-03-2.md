@@ -5,7 +5,7 @@ base_headword: "Devā"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devā 03. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devā 03. Con gái của Dappula II. và là vợ của Kittaggabodhi. Cv.xlix.71.
 
 ## Notes

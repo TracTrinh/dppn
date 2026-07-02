@@ -5,7 +5,7 @@ base_headword: "Giribhaṇḍa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giribhaṇḍa. A monastery in Ceylon restored by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giribhaṇḍa. Một tu viện ở Tích Lan được Udaya I tu sửa. (Cv.xlix.29). Xem bên dưới, Giribhaṇḍapūjā.
 
 ## Notes

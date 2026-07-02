@@ -5,7 +5,7 @@ base_headword: "Buddhadāsa"
 disambiguator: "01"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -37,6 +37,12 @@ Among religious buildings erected by him was the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhadāsa 01. Vua của T?ch Lan trong hai mươi chín năm (từ năm 362 đến 409 CE). Ông là con trai của Jeṭṭhatissa và có một đời sống rất đạo hạnh. Ông nổi tiếng là một vị danh y, và nhiều phương pháp chữa bệnh kỳ diệu được cho là do ông thực hiện, thậm chí cả loài rắn cũng tìm kiếm sự giúp đỡ của ông. Một viên ngọc mà ông nhận được từ một con rắn để tri ân vì đã được chữa bệnh, ông đã đặt vào pho tượng đá ở Abhayagirivihāra.
+
+Một tác phẩm y học, Sāraṭṭhasaṅgaha, bằng tiếng Phạn, được cho là của ông (nhưng xem Cv.Trs. 13, n.7). Tương truyền rằng ông đã bổ nhiệm một ngự y cho mỗi mười ngôi làng, và lập các bệnh viện cho người tàn tật và người câm, cũng như cho động vật. Ông đã cử các vị giảng sư đến chăm lo đời sống tâm linh của người dân.
+
+Trong số các công trình tôn giáo do ông xây dựng có Morapariveṇa. Ông đã bảo trợ cho một vị tỳ-kheo thánh thiện tên là Mahā Dhammakathī, người đã dịch các *Sutta* sang tiếng Sinhalese.
+
+Buddhadāsa có tám mươi người con trai, được đặt tên theo các đệ tử xuất chúng của Đức Phật, người con trưởng là Upatissa II. đã kế vị ông. Cv.xxxvii.105ff.
 
 ## Notes

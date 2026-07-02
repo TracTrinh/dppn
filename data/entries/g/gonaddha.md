@@ -5,7 +5,7 @@ base_headword: "Gonaddha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -35,6 +35,8 @@ The Commentary (Snp-a.ii.583) says that <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gonaddha (Godhapura, Gonaddhapura). Một trong những địa điểm mà các đệ tử của Bāvarī đi ngang qua trên đường từ am thất của Bāvarī đến gặp Gotama Buddha tại Rājagaha. Nằm giữa Gonaddha và nơi xuất phát của họ là Patiṭṭhāna, Māhissati và Ujjenī, và địa điểm dừng chân tiếp theo sau Gonaddha là Vedisā. (Sn.vs.1011).
+
+Chú giải (Snp-a.ii.583) nói rằng Gonaddha là một tên gọi khác của Godhapura.
 
 ## Notes

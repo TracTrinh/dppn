@@ -5,7 +5,7 @@ base_headword: "Mahā Latāpasādhana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -35,6 +35,8 @@ The making of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Latāpasādhana (Mahā Latāpilandhana). Một món đồ trang sức bằng vàng rất đắt tiền. Trong thời kỳ của Đức Phật, nó chỉ thuộc sở hữu của ba người: vợ của Bandhula là Mallikā, Visākhā và Devadāniyacora (DN­a.ii.599; tại Dhp­a.i.412, con gái của vị trưởng khố ở Benares được thay thế cho Devadāniya). Một lần Visākhā đã để quên nó lại trong tu viện, nơi bà đã đi đến để nghe Đức Phật thuyết pháp, và khi bà sai nữ tỳ của mình đi lấy thì Ānanda đã cất nó đi rồi. Do đó, bà đã từ chối nhận lại nó và đã rao bán nó. Nó trị giá chín crore, riêng tiền công chế tác đã trị giá một trăm ngàn. Không một ai được tìm thấy có khả năng mua nó, vì vậy chính Visākhā đã tự trả giá cho nó, và, với số tiền thu được, bà đã xây dựng Migāramātupāsāda (Dhp­a.i.411ff). Mallikā, sau khi chồng bà qua đời, đã từ chối đeo đồ trang sức của mình, và, khi nhục thân của Đức Phật đang được đưa đi hỏa táng, bà đã rửa món đồ trang sức của mình trong nước thơm và đặt nó lên linh cữu của Đức Phật với lời phát nguyện sau: “Mong sao, trong những kiếp lai sinh, tôi sẽ có một thân thể không cần đến những đồ trang sức nào, nhưng sẽ xuất hiện như thể nó luôn luôn mang chúng” (DN­a.ii.597).
+
+Việc chế tác món đồ trang sức của Visākhā đã mất bốn tháng, với năm trăm người thợ kim hoàn làm việc ngày đêm. Trong quá trình chế tạo nó, người ta đã sử dụng bốn đấu (*nāḷi*) kim cương, mười một đấu ngọc trai, hai mươi hai đấu san hô, ba mươi ba đấu hồng ngọc, một ngàn *nikkha* vàng đỏ, và đủ lượng bạc. Phần chỉ viền được làm hoàn toàn bằng bạc, bộ trang sức được gắn vào đầu và kéo dài xuống tận bàn chân. Ở nhiều vị trí khác nhau, những con dấu bằng vàng và khuôn bằng bạc được gắn vào để giữ nó ở đúng vị trí. Trong chính phần kết cấu có hình một con công với năm trăm chiếc lông vũ bằng vàng ở hai bên cánh, chiếc mỏ bằng san hô, những viên ngọc dành cho đôi mắt, những chiếc lông cổ và phần đuôi. Khi người đeo bước đi, những chiếc lông vũ này chuyển động, tạo ra âm thanh của âm nhạc. Chỉ có một người phụ nữ sở hữu sức mạnh của năm con voi mới có thể đeo nó. Dhp-a.i.393ff. MN­a.i.471.
 
 ## Notes

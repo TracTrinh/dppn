@@ -5,7 +5,7 @@ base_headword: "Ghatamaṇḍadāyaka Thera"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -30,6 +30,8 @@ His verses are repeated elsewhere (Ap.ii.436), and are ascribed in the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghatamaṇḍadāyaka Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã nhìn thấy Pacceka Buddha, Sucintita, bị mắc một căn bệnh thần kinh và đã dâng cho vị này bơ sữa trâu (*ghatamaṇḍa*). Ông đã trở thành vua của các vị thần năm mươi tư lần và làm vua của loài người năm mươi mốt lần (Ap.ii.383f).
+
+Các vần kệ của ông được lặp lại ở một nơi khác (Ap.ii.436), và trong Chú giải Theragāthā, chúng được cho là của Ajina Thera. Thag­a.i.250.
 
 ## Notes

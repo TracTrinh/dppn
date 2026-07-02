@@ -5,7 +5,7 @@ base_headword: "Hattanna"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hattanna. A village near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hattanna. Một ngôi làng gần Nālanda, ở Tích Lan, được nhắc đến trong ghi chép về các cuộc chiến của Parakkamabāhu I. Cv.lxx.215, 296.
 
 ## Notes

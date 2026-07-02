@@ -5,7 +5,7 @@ base_headword: "Mahā Datta"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Datta 04. A *senāpati*. He was a follower of the *Brāhmaṇas*, and at t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Datta 04. Một vị *senāpati*. Ông là một tín đồ của những người *Brāhmaṇa*, và vào thời khắc qua đời, ông đã nhìn thấy trước mặt mình một bức tranh về địa ngục. Những vị Bà-la-môn xung quanh ông hỏi ông đã nhìn thấy gì, và ông nói rằng ông nhìn thấy một ngôi nhà màu đỏ như máu. Họ cam đoan với ông rằng đó là thế giới *Brahma*, nhưng sau khi chết, ông đã tái sinh vào địa ngục. MN­a.ii.803.
 
 ## Notes

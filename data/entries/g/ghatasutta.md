@@ -5,7 +5,7 @@ base_headword: "Ghaṭasutta"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -29,6 +29,6 @@ Ghaṭasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭasutta. Sāriputta và Moggallāna đang trú tại Kalandakanivāpa và, trong suốt quá trình đàm đạo của họ, người ta biết được rằng Moggallāna, bằng việc sử dụng thiên nhãn và thiên nhĩ thông, đã nhìn thấy và nghe thấy Đức Phật, lúc bấy giờ đang ngự tại Jetavana. Chủ đề của bài pháp thoại của Ngài là sự tinh tấn tột bậc (*āraddhaviriya*). Sāriputta tuyên bố rằng, khi so sánh với Moggallāna, bản thân ông giống như một đống sỏi đặt cạnh núi Himālaya. Moggallāna đáp lại lời khen ngợi bằng cách nói rằng, so với Sāriputta, ông giống như một nhúm muối đặt bên cạnh một hũ muối lớn, và nhắc lại những lời khen ngợi cao quý mà Đức Phật đích thân ban tặng cho Sāriputta. SN.ii.275f.
 
 ## Notes

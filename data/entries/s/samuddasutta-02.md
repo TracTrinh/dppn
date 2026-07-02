@@ -5,7 +5,7 @@ base_headword: "Samuddasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samuddasutta 02. In the discipline of the Ariyans it is sight, sounds, etc., whi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddasutta 02. Trong giới luật của bậc Thánh, chính sắc, thanh, v.v., tạo thành biển cả. Phần lớn thế gian đều chìm đắm trong đó. SN.iv.157.
 
 ## Notes

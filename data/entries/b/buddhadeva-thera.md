@@ -5,7 +5,7 @@ base_headword: "Buddhadeva Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddhadeva Thera. A member of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhadeva Thera. Một thành viên của bộ phái Mahiṁsāsaka. Ông là một trong ba vị tỳ-kheo – những người khác là Atthadassī và Buddhamitta – đã đề nghị viết Chú giải Jātaka (Jātaka Commentary). Ja.i.1.
 
 ## Notes

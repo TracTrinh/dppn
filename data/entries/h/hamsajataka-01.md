@@ -5,7 +5,7 @@ base_headword: "Haṁsajātaka"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -38,6 +38,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsajātaka 01. (Ja 502). Thuở xưa, Khemā, vợ vua Bahuputtaka xứ Benares, nằm mơ thấy một con ngỗng vàng thuyết Pháp, và khao khát giấc mơ ấy trở thành hiện thực. Nhà vua cho đào một hồ nước, gọi là Khemā, ở ngoài thành, và thả vào đó nhiều loại thức ăn khác nhau để dụ những con ngỗng vàng sống ở Cittakūṭa. Chúng bay đến, do Dhataraṭṭha, vị Bodhisatta, dẫn đầu, và bị mắc vào chiếc bẫy do người thợ săn của nhà vua giăng ra. Vị Bodhisatta báo động, và tất cả đàn ngỗng đều bỏ chạy, trừ Sumukha, vị đội trưởng của mình, người từ chối rời bỏ ngài dù được bảo hãy đi. Khi người thợ săn đến, Sumukha thuyết phục ông ta thả Dhataraṭṭha ra và bắt mình thay thế. Người thợ săn đồng ý, nhưng khi vị Bodhisatta nghe được lý do khiến mình bị bắt, ngài cũng nhất quyết cùng đi đến trước mặt nhà vua. Vì vậy, cả hai con ngỗng đều được dẫn đến trước nhà vua, và nhà vua hết sức vui mừng. Dhataraṭṭha thuyết Pháp, và niềm khao khát của hoàng hậu được xoa dịu; sau đó đàn ngỗng được thả cho bay đi.
+
+Câu chuyện này được kể liên quan đến việc Ānanda sẵn lòng hiến mạng sống mình vì Đức Phật. Channa được nhận diện là người thợ săn, Sāriputta là nhà vua, Khemā Therī là hoàng hậu, và Ānanda là Sumukha. Ja.iv.423-30; cf. Mahā Haṁsajātaka (Ja 534).
 
 ## Notes

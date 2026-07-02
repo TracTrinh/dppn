@@ -5,7 +5,7 @@ base_headword: "Dāṭhā Nāga Thera"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāṭhā Nāga Thera 01. Resident of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhā Nāga Thera 01. Vị sư thường trú của Sumaṅgalapariveṇa thuộc Mahā Vihāra. Theo yêu cầu của ngài, Buddhaghosa đã viết Sumaṅgalavilāsinī. DN­a.ii.780 (Chuỗi ấn bản Hewavitame Bequest).
 
 ## Notes

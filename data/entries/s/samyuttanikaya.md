@@ -5,7 +5,7 @@ base_headword: "Saṁyuttanikāya"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -45,6 +45,14 @@ The Saṁyuttanikāya is quoted in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁyuttanikāya, Saṁyuttāgama. Một trong năm phần của Suttapiṭaka. Nó gồm 7.762 *Sutta* (DN­a.i.17; Gv.56), và, tại Kỳ Kết Tập thứ Nhất, được giao cho Mahā Kassapa và dòng truyền thừa đệ tử của ngài (*nissitaka*) (DN­a.i.15).
+
+*Nikāya* này được chia thành năm Vagga chính và năm mươi sáu phần, gọi là các Saṁyutta, mỗi Saṁyutta lại được chia nhỏ hơn thành các Vagga hay chương nhỏ.
+
+Buddhaghosa đã viết một bản Chú giải về Saṁyutta, gọi là Sāraṭṭhappakāsinī.
+
+Saṁyuttanikāya được trích dẫn trong Milindapañha, ví dụ, pp. 137, 242, 377, 379; xem thêm Vin.ii.306, nơi một Uposathasaṁyutta được nhắc đến, nhưng rõ ràng điều được muốn nói đến là Uposathakkhandhaka.
+
+Kittisirirājasīha, vua xứ Tích Lan, đã cho các người chép kinh sao chép lại Saṁyuttanikāya (Cv.xcix.33). Một trong các Saṁyutta, là Anamatagga, đã được Rakkhita thuyết giảng ở Vanavāsa (Mhv.xii.32) và được Mahinda thuyết giảng ở Tích Lan (Mhv.xv.186), không lâu sau khi mỗi vị đến các xứ này, vào lúc kết thúc Kỳ Kết Tập thứ Ba. *Nikāya* này đã được dịch sang tiếng Miến Điện. Bode, 92.
 
 ## Notes

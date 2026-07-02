@@ -5,7 +5,7 @@ base_headword: "Mahā Nāga"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Nāga 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāga 06. Mahā Nāga Thera. Vị sư trụ trì của Bhūtārāma. Như một dấu hiệu của sự ân sủng, Kaniṭṭhatissa đã xây dựng cho ông Ratanapāsāda tại Abhayagirivihāra. Mhv.xxxvi.7.
 
 ## Notes

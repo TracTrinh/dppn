@@ -5,7 +5,7 @@ base_headword: "Madhusāraṭṭhadīpanī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhusāraṭṭhadīpanī. A Commentary on the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhusāraṭṭhadīpanī. Một bản Chú giải về *ṭīkā* Abhidhamma do Ānanda ở Haṁsavatī biên soạn. Sās.48.
 
 ## Notes

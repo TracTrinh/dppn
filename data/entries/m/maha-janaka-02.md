@@ -5,7 +5,7 @@ base_headword: "Mahā Janaka"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Janaka 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Janaka 02. Con trai của Ariṭṭhajanaka. Xem Mahā Janakajātaka (Ja 539).
 
 ## Notes

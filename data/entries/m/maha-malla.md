@@ -5,7 +5,7 @@ base_headword: "Mahā Malla"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Malla. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Malla. Em trai của Sena, vị tướng của Sena V. Ông ta đã phạm tội loạn luân với mẹ của mình và nhà vua đã ra lệnh xử tử ông ta. Cv.liv.60.
 
 ## Notes

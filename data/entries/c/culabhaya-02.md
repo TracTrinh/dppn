@@ -5,7 +5,7 @@ base_headword: "Cūḷābhaya"
 disambiguator: "02"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Cūḷābhaya 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷābhaya 02. Cūlābhaya. Một vị Thera đã dạy Vinaya ở Tích Lan. Vin.v.3; Vin-a.i.63.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāṭhāsiva"
 disambiguator: "05"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhāsiva 05. An *Ādipāda*, ruler of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāsiva 05. Một vị *Ādipāda*, nhà cai trị của Rohaṇa. Con trai ông là Mahinda, người đã cãi nhau với ông và, với sự giúp đỡ của nhà vua, đã xua đuổi ông sang Ấn Độ và chiếm giữ Rohaṇa. Cv.xlix.10.
 
 ## Notes

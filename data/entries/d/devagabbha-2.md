@@ -5,7 +5,7 @@ base_headword: "Devagabbhā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,8 @@ They had ten sons – the notorious <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devagabbhā. Con gái của Mahā Kaṃsa, vua Asitañjana. Có lời tiên đoán rằng con trai của bà sẽ tiêu diệt dòng dõi Kaṃsa; do đó bà bị giam trong một căn phòng xây trên một cây cột đơn. Với sự giúp đỡ của nữ tỳ Nandagopā, bà có quan hệ lén lút với Upasāgara, người về sau bà kết hôn.
+
+Họ có mười người con trai - các Andhakaveṇhudāsaputtā khét tiếng - và một con gái, Añjanā (Ja.iv.79ff; Pv-a.99ff).
 
 ## Notes

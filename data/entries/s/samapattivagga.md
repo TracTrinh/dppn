@@ -5,7 +5,7 @@ base_headword: "Samāpattivagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samāpattivagga. The fifteenth chapter of the *Dukanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samāpattivagga. Chương thứ mười lăm của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.94f.
 
 ## Notes

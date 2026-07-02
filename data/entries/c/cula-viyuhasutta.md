@@ -5,7 +5,7 @@ base_headword: "Cūḷa Viyūhasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cūḷa Viyūhasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Viyūhasutta, Cūla Viyūhasutta. Được thuyết liên quan đến Mahā Samayasutta (Snp­a.ii.554). Nó mô tả làm thế nào các triết gia của những trường phái khác nhau tuyên bố những chân lý khác nhau; những cuộc tranh luận như vậy chỉ dẫn đến sự xung đột trên thế giới. Snp., pp.171-4.
 
 ## Notes

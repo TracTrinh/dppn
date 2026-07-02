@@ -5,7 +5,7 @@ base_headword: "Gajabāhukagāmaṇi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -34,6 +34,8 @@ In later chronicles be is credited with having invaded the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajabāhukagāmaṇi. Còn gọi là Gajabāhu; vua xứ Tích Lan (174-96 CN); con trai của Vaṅkanāsikatissa. Ông sáng lập Mātuvihāra để vinh danh mẹ mình, mở rộng thêm *Cetiya* Abhayagiri, xây dựng hồ chứa nước Gamaṇitissa, và xây dựng Rāmukavihāra cùng Mahejāsanasālā (Mhv.xxxv.115ff; Dpv.xxii.13, 28,29).
+
+Trong các biên niên sử sau này, ông được cho là đã xâm chiếm vương quốc Coḷa để trả thù cho một cuộc tấn công vào Tích Lan, và đã du nhập việc thờ nữ thần Pattini vào Tích Lan. Xem Codr.23f.
 
 ## Notes

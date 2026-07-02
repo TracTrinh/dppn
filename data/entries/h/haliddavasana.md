@@ -5,7 +5,7 @@ base_headword: "Haliddavasana"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Haliddavasana. A township of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haliddavasana. Một thị trấn của người Koḷiya. Khi lưu trú tại đó, Đức Phật đã thuyết Kukkuravatikasutta cho Puṇṇakoliyaputta và Seniya Kukkuravatika. MN.i.387; xem thêm SN.v.115f., nơi có nhắc đến một vị Phật khác đã từng thuyết pháp tại đó.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambulajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -37,6 +37,12 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambulajātaka (Ja 519). Sambulā là vợ của Sotthisena, vua xứ Benares, có cha là Bodhisatta. Sambulā rất xinh đẹp, nhưng khi Sotthisena mắc bệnh phong và rời bỏ vương quốc để vào rừng, nàng đã đi theo ông và chăm sóc ông với lòng tận tụy lớn lao. Một ngày kia, sau khi tìm thức ăn từ rừng về, nàng đi tắm, và khi đang lau khô mình thì bị một Yakkha bắt giữ, đe dọa sẽ bắt nàng đi.
+
+Do năng lực của nàng, ngai của Sakka trở nên nóng lên, và Sakka, mang theo lưỡi tầm sét của mình đến, đã làm cho Yakkha khiếp sợ và xiềng nó lại. Đã khuya khi Sambulā trở về nhà, và Sotthisena, muốn thử lòng chung thủy của nàng, đã từ chối tin câu chuyện của nàng.
+
+Nàng liền thực hiện một Lời Nguyện Sự Thật, tuyên bố mình chung thủy, và rảy nước lên Sotthisena. Ông liền được chữa lành hoàn toàn, và cùng nhau họ trở về Benares, nơi cha của Sotthisena vẫn còn là vua. Ông lập Sotthisena làm vua và trở thành một vị khổ hạnh. Sotthisena buông mình theo hưởng lạc và bỏ bê Sambulā. Vị khổ hạnh, khi trở về, thấy nàng gầy gò và khổ sở, và khi biết được lý do, đã khuyên răn Sotthisena.
+
+Câu chuyện được kể liên quan đến lòng tận tụy lớn lao của Mallikā đối với chồng mình. Nàng được nhận diện là Sambulā, và Pasenadi là Sotthisena. Ja.v.88-98.
 
 ## Notes

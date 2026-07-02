@@ -5,7 +5,7 @@ base_headword: "Buddhūpaṭṭhāyaka Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddhūpaṭṭhāyaka Thera. An *Arahant*. Thirty-one *kappas* ago he was named
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhūpaṭṭhāyaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông tên là Veṭambarī và cha ông đã dâng ông vào phục vụ Đức Phật (? Đức Phật Sikhī). Hai mươi ba *kappa* trước, ông đã làm vua bốn lần với tên gọi Samaṇūpaṭṭhaka. Ap.i.242.
 
 ## Notes

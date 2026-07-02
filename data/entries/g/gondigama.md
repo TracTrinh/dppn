@@ -5,7 +5,7 @@ base_headword: "Goṇḍigāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Goṇḍigāma. A tank constructed by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇḍigāma. Một hồ chứa nước do Upatissa II xây dựng. (Cv.xxxvii.185). Ngôi làng thuộc về nó đã được Jeṭṭhatissa III dâng cho Jetavanavihāra (Cv.xliv.97). Hồ chứa nước được Aggabodhi V tu sửa. Cv.xlviii.9.
 
 ## Notes

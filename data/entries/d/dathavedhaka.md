@@ -5,7 +5,7 @@ base_headword: "Dāṭhāvedhaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -34,6 +34,6 @@ Dāṭhāvedhaka. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāvedhaka. Mahā Vaṃsaṭīkā nhắc đến (Mhv­ṭ.176) hai Trưởng lão có tên này, một vị trú tại *pariveṇa* Kurundacullaka, và vị kia tại *pariveṇa* Kolambahālaka. Họ sống vào thời *Bhāgineyya* Dāṭhopatissa, và khoảng năm mươi năm sau khi phái Sāgalikā tách khỏi *nikāya* Dhammaruci, họ lập một trường phái riêng, trong đó họ mượn *Ubhatovibhaṅga* từ các Dhammarucikas và Khandaka cùng Parivāra từ các Sāgalikas.
 
 ## Notes

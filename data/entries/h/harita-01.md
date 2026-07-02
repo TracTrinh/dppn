@@ -5,7 +5,7 @@ base_headword: "Hārita"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hārita 01. The same as <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hārita 01. Giống như Harittaca. Xem Hāritajātaka (Ja 431).
 
 ## Notes

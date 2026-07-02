@@ -5,7 +5,7 @@ base_headword: "Magadhakhetta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Magadhakhetta. Những cuốn sách có đề cập đến Magadhakhetta, có lẽ là một cánh đồng lúa rộng lớn ngay lập tức thu hút ánh nhìn bởi những thửa ruộng bậc thang của nó. Có thể nhìn thấy nó từ Indasālaguhā (Thag­a.i.333). Đường nét của cánh đồng đã gây ấn tượng trong tâm trí Đức Phật và ngài đã yêu cầu Ānanda thiết kế một chiếc y có hoa văn tương tự. Ānanda đã làm việc này rất thành công, và hoa văn này đã được áp dụng cho y của các thành viên Tăng đoàn kể từ đó (Vin.i.287).
+
+Suvaṇṇakakkaṭajātaka (Ja 389, Ja.iii.293; cũng thấy ở iv.277) có nhắc đến một cánh đồng rộng một ngàn *karīsa* (khoảng tám ngàn mẫu Anh) tại một ngôi làng Bà-la-môn tên là Sālindiya ở phía đông Rājagaha. Magadhakhetta đôi khi có thể được dùng làm một tên gọi khác của Magadha. Vd., xem AN­a.i.126, nơi Nālakagāma được đề cập là nằm ở Magadhakhetta.
 
 ## Notes

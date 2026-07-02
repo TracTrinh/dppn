@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷa"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -39,6 +39,10 @@ When the Buddha’s relics, deposited at <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷa 03. Một vị vua Nāga cư ngụ trong Mañjerika Nāgabhavana. Khi Đức Phật, sau khi dùng bữa ăn do Sujātā dâng cúng, đã thả chiếc bát trôi ngược dòng, nó đã di chuyển một đoạn ngắn và sau đó dừng lại, khi đã chạm đến nơi ở của Nāga dưới dòng sông Nerañjarā, và sau đó tiếp xúc với những chiếc bát cũng được thả tương tự bởi ba vị Phật trước đó của kappa này. Đối với Nāga, do tuổi thọ quá dài của ông, dường như vị Phật trước đó chỉ mới qua đời vào ngày hôm trước, và ông hoan hỷ khi nghĩ rằng một vị Phật khác đã đản sinh. Do đó, ông đã đi đến nơi Đức Phật Giác Ngộ (Awakening) cùng với các thiếu nữ Nāga của mình và họ đã hát lên những lời tán thán Đức Phật. Ja.i.70, 72; sự việc này nằm trong số những cảnh được khắc họa bằng tượng trong Phòng Xá-lợi của Mahā Thūpa (Mhv.xxxi.83); cũng xem Divy.392; Mhv.ii.265, 302, 304.
+
+Tuổi thọ của Kāḷa là một kappa; do đó ông đã nhìn thấy cả bốn vị Phật của kappa này, và khi Asoka muốn nhìn thấy hình hài của Đức Phật, ông đã cho mời Mahā Kāḷa, người đã tạo ra cho ông một bức tượng xinh đẹp của Đức Phật, hoàn chỉnh trong mọi chi tiết (Mhv.v.87f.; Vin-a.i.43, v.v...).
+
+Khi xá-lợi của Đức Phật, được cất giữ tại Rāmagāma, bị cuốn trôi, Mahā Kāḷa đã mang chiếc giỏ chứa chúng vào nơi ở của mình và tại đó đã tôn kính chúng cho đến khi chúng bị Soṇuttara lấy đi, trái với ý muốn của ông. Mhv.xxxi.25ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dānūpapattisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dānūpapattisutta. On the eight modes of rebirth of an almsgiver, according to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānūpapattisutta. Về tám cách tái sinh của một người bố thí, theo như mong muốn của vị ấy. AN.iv.239ff.
 
 ## Notes

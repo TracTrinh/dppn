@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sugandha Thera"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -32,6 +32,6 @@ Cūḷa Sugandha Thera, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sugandha Thera, Cūla Sugandha Thera. Một vị Arahant. Vào thời của Kassapa Buddha, ông thuộc một gia đình rất giàu có ở Benares, và sau khi nghe Đức Phật thuyết pháp, ông đã che phủ Gandhakuṭi của Đức Phật tám lần bằng bốn loại vật phẩm tỏa hương thơm (*catujātiyagandha*). Trong thời đại này, ông được sinh ra ở Sāvatthī. Trong khi ông vẫn còn trong bụng mẹ, mùi hương của gỗ đàn hương đã tỏa ra từ cơ thể bà và vào ngày ông chào đời, nó đã tràn ngập toàn bộ thành phố; điều đó cũng xảy ra vào ngày ông thọ giới và vào ngày ông viên tịch. Ông gia nhập Tăng đoàn khi thấy Đức Phật cảm hóa Sela và những người đi theo ông ấy (Ap.ii.508ff). Ông có lẽ đồng nhất với Subhūti Thera (Thag­a.i.405). Truyền thuyết về ông dường như đã bị nhầm lẫn với truyền thuyết về Sugandha. Xem Ap.ii.459 và Thag­a.i.80f.
 
 ## Notes

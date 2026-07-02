@@ -5,7 +5,7 @@ base_headword: "Gajjagiri"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gajjagiri. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gajjagiri. Một ngọn núi ở Aparantaka. Sās.35.
 
 ## Notes

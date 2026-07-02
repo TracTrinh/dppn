@@ -5,7 +5,7 @@ base_headword: "Gandhamāliya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhamāliya Thera. An *Arahant*. Ninety-four *kappas* ago he offered to <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhamāliya Thera. Một vị Arahant. Chín mươi bốn *kappa* trước, ngài đã dâng lên Đức Phật Siddhattha một *gandha-thūpa* phủ đầy hoa *sumana*. Bốn mươi *kappa* trước, ngài đã làm vua mười sáu lần, dưới tên Devagandha. Ap.i.135.
 
 ## Notes

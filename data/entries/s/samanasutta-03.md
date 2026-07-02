@@ -5,7 +5,7 @@ base_headword: "Samaṇasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samaṇasutta 03. On the different names by which a <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samaṇasutta 03. Về những tên gọi khác nhau mà một Tathāgata được biết đến. AN.iv.340.
 
 ## Notes

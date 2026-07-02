@@ -5,7 +5,7 @@ base_headword: "Cūḷa Raṭṭha"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Raṭṭha. A district in India, near <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Raṭṭha. Một quận ở Ấn Độ, gần Benares. Ras.i.36.
 
 ## Notes

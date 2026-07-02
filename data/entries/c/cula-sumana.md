@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sumanā"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -25,6 +25,6 @@ Cūḷa Sumanā, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sumanā, Cūla Sumanā. Một vị Therī của Tích Lan, một bậc thầy lỗi lạc về Vinaya. Dpv.xviii.39.
 
 ## Notes

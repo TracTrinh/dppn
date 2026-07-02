@@ -5,7 +5,7 @@ base_headword: "Samuddā"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samuddā 02. An eminent Therī of Ceylon. Dpv.xviii.28.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddā 02. Một vị Therī lỗi lạc của Tích Lan. Dpv.xviii.28.
 
 ## Notes

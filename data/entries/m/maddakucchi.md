@@ -5,7 +5,7 @@ base_headword: "Maddakucchi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -41,6 +41,12 @@ Once when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddakucchi. Một khu công viên gần Rājagaha, ở chân núi Gijjhakūṭa. Đó là một khu bảo tồn (*migadāya*) nơi hươu nai và thú rừng có thể sinh sống an toàn. Khi Devadatta, với ý định giết Đức Phật, đã lăn một tảng đá từ trên Gijjhakūṭa xuống, tảng đá đó bị chặn lại nửa chừng bởi một tảng đá khác, nhưng một mảnh vỡ từ đó đã rơi trúng chân Đức Phật, khiến ngài bị thương nặng. Vì Đức Phật phải chịu đau đớn nhiều do mất máu, các tỳ-kheo đã đưa ngài trên một chiếc cáng đến Maddakucchi, và từ đó đến *ambavana* của Jīvaka, nơi ngài được Jīvaka điều trị (Vin.ii.193f.; Dhp­a.ii.164ff.; Ja.iv.430; Mil.179). Có nói rằng (SN.i.27f) bảy trăm chư thiên thuộc nhóm Satullapa đã đến viếng thăm Đức Phật tại đó và bày tỏ với ngài sự ngưỡng mộ to lớn của họ đối với các phẩm chất của ngài. Māra đã cố gắng khơi dậy sự bất mãn trong Đức Phật, nhưng phải rút lui trong thất bại (SN.i.110; chuyến viếng thăm này của Māra được nhắc đến tại DN.ii.116).
+
+Theo các Chú giải (vd., SN.A.i.61; so sánh Ja.iii.121f), Maddakucchi được gọi như vậy vì chính tại đó, hoàng hậu của Bimbisāra, mẹ của Ajātasattu, đã cố gắng phá thai khi bà được các thầy bói báo rằng đứa trẻ trong bụng bà được định mệnh sẽ mang đến cái chết cho Bimbisāra. Bà đã đi vào công viên mà không cho nhà vua biết và xoa bóp bụng mình một cách thô bạo, nhưng không thành công. Nhà vua biết được điều này và cấm bà không được đến công viên nữa.
+
+Một lần nọ khi Mahā Kappina đang ở Maddakucchi, những hoài nghi khởi lên trong tâm ngài về sự cần thiết của việc tham gia vào hội chúng tỳ-kheo để tổ chức *uposatha*, do bản thân ngài đã thanh tịnh. Đức Phật đã đọc được suy nghĩ của ngài, hiện ra trước mặt ngài, và thúc giục ngài về sự cần thiết của việc làm đó (Vin.i.105).
+
+Maddakucchi là một nơi khó tiếp cận; những vị tỳ-kheo đến từ xa vào đêm muộn, với mong muốn thử thách các năng lực của Dabba Mallaputta, thường yêu cầu ngài sắp xếp chỗ ở cho họ tại đó. Vin.ii.76; iii.159.
 
 ## Notes

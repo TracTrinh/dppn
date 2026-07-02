@@ -5,7 +5,7 @@ base_headword: "Mahā Mahindabāhupariveṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Mahindabāhupariveṇa. A monastic building, probably in <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mahindabāhupariveṇa. Một tòa nhà tu viện, có lẽ ở Hatthiselapura, được xây dựng bởi Bhuvanekabāhu, theo lời yêu cầu của anh trai ông, Parakkamabāhu II. Cv.lxxxv.63.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gopālapabbata"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gopālapabbata. A hill near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopālapabbata. Một ngọn đồi gần Pulatthipura, được dùng làm cột mốc. Cv.lxxviii.65; để nhận dạng xem Cv.Trs.i.110, n.1.
 
 ## Notes

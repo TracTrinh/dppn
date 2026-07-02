@@ -5,7 +5,7 @@ base_headword: "Devapāli"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devapāli. A village in Ceylon in which <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devapāli. Một ngôi làng ở Tích Lan, nơi Aggabodhi V. xây Girinagaravihāra. Cv.xlviii.3.
 
 ## Notes

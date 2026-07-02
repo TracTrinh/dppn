@@ -5,7 +5,7 @@ base_headword: "Cūḷa Samudda"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -29,6 +29,6 @@ Cūḷa Samudda, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Samudda, Cūla Samudda. Một Trưởng lão của Tích Lan (Tambapaṇṇi). Có lần, trong một thời kỳ đói kém, bảy trăm vị tỳ-kheo đã đến gặp ông vào sáng sớm. Nhận ra rằng mình không thể kiếm được đồ khất thực ở bất cứ đâu tại Tích Lan, ông đã đưa họ vượt biển đến Pāṭaliputta bằng năng lực iddhi của mình. Trước khi khởi hành, các tỳ-kheo hỏi ông thời gian, và khi ông cho họ biết, họ nói: "Nhưng, thưa Ngài, Pāṭaliputta ở rất xa!" "Này các hiền giả, các trưởng lão lớn tuổi nắm lấy khoảng cách và làm cho nó gần lại." "Đại dương ở đâu, thưa Ngài?" "Này các hiền giả, đó chính là cái mương tối tăm mà quý vị đã đi qua trên đường!" "Nhưng, thưa Ngài, đại dương thì rộng lớn!" "Này các hiền giả, các trưởng lão lớn tuổi làm cho cái lớn thành cái nhỏ." (Vsm.403). Majjhima Commentary (ii.758) có đề cập đến một Cūḷa Sammuda ở Gavilaṅgaṇavāsi, người mà khi được hỏi ông mong muốn điều gì, đã trả lời: "Chỉ mong những điều *Lokuttara* (Siêu thế)."
 
 ## Notes

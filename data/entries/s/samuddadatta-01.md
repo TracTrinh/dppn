@@ -5,7 +5,7 @@ base_headword: "Samuddadatta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samuddadatta 01. A monk whom <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddadatta 01. Một vị tỳ-kheo mà Devadatta đã thuyết phục tham gia cùng mình trong nỗ lực gây chia rẽ Saṅgha (Vin.ii.196; iii.171). Vị này là người được Thullanandā yêu thích. Vin.iv. 66.
 
 ## Notes

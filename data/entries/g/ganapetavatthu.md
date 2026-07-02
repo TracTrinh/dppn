@@ -5,7 +5,7 @@ base_headword: "Gaṇapetavatthu"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gaṇapetavatthu. The story of a large number of people of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇapetavatthu. Câu chuyện về một số đông người ở Sāvatthī, do các ác nghiệp của mình mà đã sinh làm ngạ quỷ. Pv.iv.10; Pv-a.269f.
 
 ## Notes

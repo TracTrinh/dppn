@@ -5,7 +5,7 @@ base_headword: "Sambala"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sambala 03. One of the monks who accompanied <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambala 03. Một trong các tỳ-kheo tháp tùng Mahinda đến Tích Lan (Mhv.xii.7; Dpv.xii.12, 38; Vin-a.i.62). Sirimeghavaṇṇa đã cho tạc một pho tượng của vị này để thờ phụng. Cv.xxxvii.87.
 
 ## Notes

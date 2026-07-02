@@ -5,7 +5,7 @@ base_headword: "Dānakkhanda"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dānakkhanda. A section of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dānakkhanda. Một phần của Vessantarajātaka đề cập đến các món quà mà Vessantara đã trao tặng trên đường đến Vaṅkagiri, bao gồm cả chiếc xe ngựa mà ngài cưỡi. Ja.vi.513.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sambulā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sambulā. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambulā. Hoàng hậu của Sotthisena. Xem Sambulajātaka (Ja 519).
 
 ## Notes

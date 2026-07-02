@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "08"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gotama 08. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 08. Một ngọn núi gần Himavā (Ap.i.162).
 
 ## Notes

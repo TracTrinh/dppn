@@ -5,7 +5,7 @@ base_headword: "Samuddhara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samuddhara. A king of sixty-seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddhara. Một vị vua từ sáu mươi bảy *kappa* trước, một kiếp trước của Yūthikapupphiya Thera. Ap.i.184.
 
 ## Notes

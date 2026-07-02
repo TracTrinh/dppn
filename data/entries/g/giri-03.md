@@ -5,7 +5,7 @@ base_headword: "Giri"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Giri 03. One of the palaces occupied by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giri 03. Một trong những cung điện được Sikhī Buddha sử dụng trong kiếp sống cư sĩ cuối cùng của mình (Bv.xxi.16). Chú giải (Bv­a., p.201) gọi nó là Giriyasa.
 
 ## Notes

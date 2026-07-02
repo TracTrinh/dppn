@@ -5,7 +5,7 @@ base_headword: "Hatthikkhandhavihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hatthikkhandhavihāra. A monastery built by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthikkhandhavihāra. Một tu viện do Sūratissa xây dựng ở phía đông Anurādhapura (Mhv.xxi.4) và gần ngôi làng Dvāramaṇḍala. Mhvṭ. 424.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bodhighariya Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bodhighariya Thera. An *Arahant*. Ninety-four *kappas* ago he built a pavilion b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhighariya Thera. Một Arahant. Chín mươi tư kappa trước, ngài đã xây một đình lợp bên cây bodhi của Siddhattha Buddha. Sáu mươi lăm kappa trước, ngài trở thành vua ở Kāsika, thành phố này được Vissakamma xây dựng cho ngài, dài mười do-tuần và rộng tám do-tuần. Cung điện của ngài được gọi là Maṅgala. Ap.ii.401.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gaṇatissa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṇatissa. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇatissa. Con trai của Paṇḍuvāsudeva (Mbv.112). Theo Rājāvaliya, ông trị vì làm vua trong bốn mươi năm. Xem thêm Cv.Trs.ii.Introd. p.ix.
 
 ## Notes

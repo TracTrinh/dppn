@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "07"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmadatta 07. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 07. Một vị Bà-la-môn, cha của Kassapa Buddha. Ja.i.43; Bv.xxv.34.
 
 ## Notes

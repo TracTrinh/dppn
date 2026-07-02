@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇasutta"
 disambiguator: "04"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brāhmaṇasutta 04. The Buddha explains to the monks how the teachings of the B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇasutta 04. Đức Phật giải thích cho các tỳ-kheo làm thế nào những giáo lý của những vị Bà-la-môn khác với của ngài về sự thực hành dẫn đến sự thịnh vượng. SN.v.361.
 
 ## Notes

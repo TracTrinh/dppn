@@ -5,7 +5,7 @@ base_headword: "Sambahula"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Sambahula. A chief of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambahula. Một tù trưởng của Amaranagara, nơi ông và người em trai, Sumitta, cai trị. Ông đã nghe Siddhattha Buddha thuyết pháp tại Amaruyyāna và trở thành một *Arahant* (Bv­a.186). Có lẽ vị này chính là Sambala 1.
 
 ## Notes

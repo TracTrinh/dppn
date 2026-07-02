@@ -5,7 +5,7 @@ base_headword: "Erāvaṇa"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Erāvaṇa 02. The name of the elephant belonging to <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erāvaṇa 02. Tên của con voi thuộc về Candakumāra. Ja.vi.147.
 
 ## Notes

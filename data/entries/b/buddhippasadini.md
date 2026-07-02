@@ -5,7 +5,7 @@ base_headword: "Buddhippasādinī"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhippasādinī. A *Ṭīkā* on the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhippasādinī. Một *Ṭīkā* về Padasādhana do Srī Rāhula ở thế kỷ mười lăm sáng tác. PLC.205.
 
 ## Notes

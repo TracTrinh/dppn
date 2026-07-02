@@ -5,7 +5,7 @@ base_headword: "Madhurammānavīra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhurammānavīra. A fortress in South India subdued by <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhurammānavīra. Một pháo đài ở Nam Ấn Độ bị Jagadvijaya khuất phục. (Cv.lxxvi.304.)
 
 ## Notes

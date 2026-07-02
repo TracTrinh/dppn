@@ -5,7 +5,7 @@ base_headword: "Giridīpā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Giridīpā. An island near Ceylon. When the Buddha visited Ceylon he drew <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giridīpā. Một hòn đảo gần Tích Lan. Khi Đức Phật đến thăm Tích Lan, Ngài đã kéo Giridīpā đến sát Tích Lan, bảo các Yakkha đi lên đó, và sau đó đưa nó trở lại vị trí cũ (Mhv.i.30; Dpv.i.67f). Geiger nghĩ rằng tài liệu tham khảo này không nói về một hòn đảo, mà là các vùng cao nguyên (*giri*) ở sâu trong nội địa Tích Lan (Mhv.Trs., p.4, n.4).
 
 ## Notes

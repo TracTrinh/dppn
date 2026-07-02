@@ -5,7 +5,7 @@ base_headword: "Brahmavaḍḍhana"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -26,6 +26,6 @@ Brahmavaḍḍhana 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmavaḍḍhana 02. Con trai của Metteyya Buddha trước khi ngài Xuất gia. Anāgatavaṁsa, vs.48.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Buddhanāga Thera"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -28,6 +28,6 @@ Buddhanāga Thera. A disciple of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhanāga Thera. Một đệ tử của Sāriputta ở T?ch Lan. Ông đã viết Vinayatthamañjūsā về Kaṅkhāvitaraṇī theo yêu cầu của một vị tỳ-kheo tên là Sumedha. Gv.61f., 71; Sās-d.65; Svd.1212; PLC.201.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dasabalasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dasabalasutta 01. The Buddha, possessor of the ten powers, the four confidences,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasabalasutta 01. Đức Phật, người sở hữu mười năng lực, bốn vô sở úy, etc., thuyết giảng về bản chất của năm uẩn (*khandha*) và sự sinh diệt của khổ (*dukkha*). SN.ii.27.
 
 ## Notes

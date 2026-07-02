@@ -5,7 +5,7 @@ base_headword: "Devadattasutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devadattasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadattasutta 03. Brahma Sahampati viếng Đức Phật tại Gijjhakūṭa không lâu sau khi Devadatta rời Tăng đoàn, và nói kệ được chứa trong No.1 ở trên. SN.i.153.
 
 ## Notes

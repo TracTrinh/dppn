@@ -5,7 +5,7 @@ base_headword: "Gokulaṅkavihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gokulaṅkavihāra. A monastery built by cowherds for <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gokulaṅkavihāra. Một tu viện được những người chăn bò xây dựng cho Dhaniya và vợ của ông sau khi họ thọ giới. Buddhaghosa nói rằng nó vẫn còn tồn tại ngay cả trong thời đại của ông. Snp­a.i.46.
 
 ## Notes

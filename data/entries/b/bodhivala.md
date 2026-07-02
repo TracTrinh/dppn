@@ -5,7 +5,7 @@ base_headword: "Bodhivāla"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bodhivāla. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhivāla. Một ngôi làng ở Rohaṇa, được đề cập trong tường thuật về các chiến dịch của Kitti (Vijayabāhu I.). Cv.lvii.54.
 
 ## Notes

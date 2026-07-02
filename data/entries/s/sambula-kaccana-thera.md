@@ -5,7 +5,7 @@ base_headword: "Sambula Kaccāna Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -35,6 +35,8 @@ Ninety-four *kappas* ago he had seen a <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambula Kaccāna Thera, Sambula Kaccāyana Thera. Ông thuộc một gia đình dòng họ Kaccāna ở Magadha, và sau khi gia nhập Saṅgha, đã sống trong một hang động gọi là Bheravā, gần rặng Himālaya, chuyên tâm thiền định. Một ngày kia có một trận bão lớn trái mùa nổi lên; mây kéo đến đầy trời cùng với sấm sét và chớp giật. Mọi sinh vật đều kêu la trong sợ hãi và run rẩy. Nhưng Sambula, không màng đến tiếng ồn và được làm mát bởi cơn bão, đã định tâm, phát triển tuệ quán và trở thành một *Arahant*. Sau đó, tràn đầy hoan hỷ, ông đã thốt lên một bài kệ (Thag.vss.189-90).
+
+Chín mươi bốn *kappa* trước, ông đã thấy một vị Pacceka Buddha tên là Sataraṁsi vừa xuất khỏi *samādhi*, và đã dâng cho vị ấy một trái cây cọ (Thag­a.i.313 f). Ông rõ ràng là cùng một người với Tālaphaliya trong Apadāna. Ap.i.447.
 
 ## Notes

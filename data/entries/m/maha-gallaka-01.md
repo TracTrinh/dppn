@@ -5,7 +5,7 @@ base_headword: "Mahā Gallaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Gallaka 01. A village in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gallaka 01. Một ngôi làng ở vùng Dakkhiṇadesa của Tích Lan nơi Saṅghatissa đã từng cắm trại (Cv.xliv.3). Dāṭhopatissa II đã cúng dường ngôi làng này cho Padhānaghara trong tu viện Kassapa. Ngôi làng được nhắc đến trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxv.27. Cv.lviii.43; cũng xem Cv.Trs.i.74, n.2; 206, n.1.
 
 ## Notes

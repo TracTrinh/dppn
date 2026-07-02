@@ -5,7 +5,7 @@ base_headword: "Gāmaṇivāpi"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāmaṇivāpi. A tank near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇivāpi. Một hồ chứa nước gần Anurādhapura. Gần đó có một am thất do Paṇḍukābhaya xây dựng. Mhv.x.96; xem Mhv.Trs., p.75, n.1.
 
 ## Notes

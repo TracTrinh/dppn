@@ -5,7 +5,7 @@ base_headword: "Madhupādapatittha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Madhupādapatittha. A landing place, probably in the north of Ceylon. It was use
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhupādapatittha. Một bến cập thuyền, có lẽ ở phía bắc Tích Lan. Nó được Māgha và Jayabāhu sử dụng làm thành trì. Cv.lxxxiii.18.
 
 ## Notes

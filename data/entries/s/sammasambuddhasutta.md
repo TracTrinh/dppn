@@ -5,7 +5,7 @@ base_headword: "Sammāsambuddhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sammāsambuddhasutta. It is by knowledge of the Four Ariyan Truths that a <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sammāsambuddhasutta. Chính nhờ tri kiến về Bốn Chân Lý Thánh mà một vị Tathāgata trở thành bậc hoàn toàn Giác Ngộ. SN.v.433.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Brahmaññasutta"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmaññasutta 02. The highest life is the Noble Eightfold Path, and its aim i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmaññasutta 02. Đời sống cao quý nhất là Bát Thánh đạo, và mục đích của nó là sự tận diệt của tham, sân, và si. SN.v.26; cf. Brahmacariyasutta (3).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāṭhaggabodhi"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dāṭhaggabodhi 01. The name of a building erected in the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhaggabodhi 01. Tên của một tòa nhà được dựng lên trong Abhayuttaravihāra bởi Aggabodhi II. Ông đã đặt tên nó theo tên ông và hoàng hậu của mình là Dāṭhā. Cv.xlii.64.
 
 ## Notes

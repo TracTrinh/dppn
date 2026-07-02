@@ -5,7 +5,7 @@ base_headword: "Goḷabāhatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Goḷabāhatittha. A ford over the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goḷabāhatittha. Một bến cạn bắc qua sông Mahā Vālukagaṅgā. Cv.lxxii.51.
 
 ## Notes

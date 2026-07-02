@@ -5,7 +5,7 @@ base_headword: "Ekasaññaka Thera"
 disambiguator: "02"
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -25,6 +25,6 @@ Ekasaññaka Thera 02. An *Arahant*. Thirty-one *kappas* ago he saw a rag-robe h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasaññaka Thera 02. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài nhìn thấy một mảnh y rách vắt trong rừng, và hoan hỷ trước cảnh tượng đó nên đã đảnh lễ. Hai mươi lăm *kappa* trước, ngài là một vị vua tên là Amitābha. Ap.i.210f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Devacavanasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devacavanasutta. The name given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devacavanasutta. Tên được Suttasaṅgaha (No. 29) đặt cho một *Sutta* của Itivuttaka (p.76 f.), mô tả các dấu hiệu đi kèm cái chết của một *Deva* và các yếu tố quyết định tương lai của vị ấy.
 
 ## Notes

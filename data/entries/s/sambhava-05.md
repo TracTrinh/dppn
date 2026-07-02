@@ -5,7 +5,7 @@ base_headword: "Sambhava"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sambhava 05. The Bodhisatta, born as the son of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sambhava 05. Bodhisatta, sinh ra làm con trai của Vidhura và là em trai của Sañjaya và Bhadrakāra. Xem Sambhavajātaka (Ja 515).
 
 ## Notes

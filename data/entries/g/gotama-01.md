@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 01. Gotama Thera. Ông xuất thân từ một gia đình Bà-la-môn của Rājagaha và thọ giới lúc bảy tuổi. Khi lên mười bảy tuổi, ông kết bạn với những kẻ xấu, trao tất cả những gì mình có cho một kỹ nữ và phá vỡ lời thề độc thân của mình. Sau đó ông cảm thấy hối hận vô cùng khi nghĩ đến những gì mình đã làm, nhưng Đức Phật đã hiện ra trước mặt ông và ông đã gia nhập Tăng đoàn, trở thành một *Arahant* tại phòng cạo đầu.
+
+Ông từng là một gia chủ trong thời đại của Vipassī Buddha và đã cúng dường cho Đức Phật một quả *āmoda* (Thag.137f.; Thag­a.i.256f).
+
+Ông rõ ràng là cùng một người với Āmodaphaliya của Apadāna. Ap.ii.447.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dasakammasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dasakammasutta. Ten qualities the possessor of which is called an unworthy man, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasakammasutta. Mười phẩm chất mà người sở hữu chúng được gọi là một kẻ không xứng đáng, và việc tránh xa chúng làm cho một người trở nên xứng đáng. AN.ii.219.
 
 ## Notes

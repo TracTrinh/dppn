@@ -5,7 +5,7 @@ base_headword: "Buddhavagga"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -24,6 +24,6 @@ Buddhavagga 02. he first chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhavagga 02. Chương đầu tiên của Nidānasaṁyutta. SN.ii.1-11.
 
 ## Notes

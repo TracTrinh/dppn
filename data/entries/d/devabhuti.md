@@ -5,7 +5,7 @@ base_headword: "Devabhūti"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devabhūti. Thirty *kappas* ago there were five kings of this name, all previous
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devabhūti. Ba mươi *kappa* trước, có năm vị vua mang tên này, tất cả đều là những đời trước của Pupphacaṅgotiya. Ap.i.118.
 
 ## Notes

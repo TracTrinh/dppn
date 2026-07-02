@@ -5,7 +5,7 @@ base_headword: "Madhutthalavihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Madhutthalavihāra. A *vihāra* restored by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhutthalavihāra. Một *vihāra* được Vijayabahu I tu bổ. Cv.Ix.58; cũng xem Cv.Trs.i.220, chú thích 2.
 
 ## Notes

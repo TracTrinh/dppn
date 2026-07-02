@@ -5,7 +5,7 @@ base_headword: "Gavara"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gavara. A Tamil general of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavara. Một tướng quân người Tamil của Doṇa, bị Duṭṭhagāmaṇī chinh phục. Mhv.xxv.11.
 
 ## Notes

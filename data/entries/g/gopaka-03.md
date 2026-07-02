@@ -5,7 +5,7 @@ base_headword: "Gopaka"
 disambiguator: "03"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -31,6 +31,6 @@ Gopaka 03. A *Deva*. He had been a <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gopaka 03. Một *Deva*. Ông từng là một thiếu nữ Sākiyan của Kapilavatthu tên là Gopikā (Gopī), người đã sống một cuộc đời đạo đức và, theo lời dạy của Đức Phật, đã trau dồi những suy nghĩ của một người đàn ông. Sau khi qua đời, cô được sinh ra làm một *Devaputta* ở Tāvatiṁsa. Tại đó, khi nhìn thấy các vị tỳ-kheo tái sinh làm các Gandhabba, ông đã quở trách họ vì đã bỏ lỡ những cơ hội của họ. Một loạt các vần kệ được cho là của Gopaka được đưa ra trong Sakkapañhasutta. DN.ii.271-5.
 
 ## Notes

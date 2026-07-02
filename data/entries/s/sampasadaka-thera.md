@@ -5,7 +5,7 @@ base_headword: "Sampasādaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sampasādaka Thera. An *Arahant*. Ninety-four *kappas* ago, when in danger of hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sampasādaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, khi đang gặp nguy hiểm đến tính mạng, ông đã thấy Siddhattha Buddha và cầu xin sự bảo hộ của Ngài. Đức Phật khuyên ông đặt niềm tin vào Saṅgha. Không lâu sau đó ông qua đời và tái sinh vào cõi Tusita. Ap.i.250.
 
 ## Notes

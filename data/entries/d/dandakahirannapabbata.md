@@ -5,7 +5,7 @@ base_headword: "Daṇḍakahiraññapabbata"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Daṇḍakahiraññapabbata. A golden mountain in the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍakahiraññapabbata. Một ngọn núi vàng ở Himālaya. Bodhisatta từng tái sinh ở đó với tư cách là một con công vàng. Để biết chi tiết, xem Morajātaka. Ja.ii.33, 36, 38.
 
 ## Notes

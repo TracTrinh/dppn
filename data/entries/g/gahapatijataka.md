@@ -5,7 +5,7 @@ base_headword: "Gahapatijātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ The Buddha related the story to a backsliding monk to demonstrate to him how wom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahapatijātaka (Ja 199). Có lần, tại Kāsi, vợ của Bodhisatta tư thông với trưởng làng. Người chồng, quyết tâm bắt quả tang họ, giả vờ rời khỏi làng, nhưng quay về ngay khi trưởng làng vào nhà. Người vợ, thấy chồng mình, liền leo lên vựa thóc, và tuyên bố rằng trưởng làng đến để đòi tiền thịt mà ông ta đã cung cấp cho họ trong nạn đói, và vì không có tiền nên ông ta khăng khăng đòi được trả bằng thóc, điều mà bà nói bà nhất quyết từ chối. Nhưng Bodhisatta nhìn thấu mưu kế đó, đánh đòn trưởng làng rồi đến vợ mình.
+
+Đức Phật kể lại câu chuyện này cho một vị tỳ-kheo đang thoái thất để cho ông thấy phụ nữ luôn xấu xa như thế nào (Ja.ii.134f).
 
 ## Notes

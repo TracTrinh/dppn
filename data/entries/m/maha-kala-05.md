@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷa"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Kāḷa 05. One of the seven mountains surrounding <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷa 05. Một trong bảy ngọn núi bao quanh Gandhamādana. Snp­a.i.66; Ja.v.38.
 
 ## Notes

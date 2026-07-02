@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -29,6 +29,6 @@ Brahmadatta 02. King of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 02. Vua của những người Assaka và là bạn của Reṇu. Khi Mahā Govinda chia Jambudīpa thành bảy phần bằng nhau cho Reṇu và sáu người bạn của ông, Brahmadatta được chia vương quốc của người Assaka, với Potana làm thủ đô. DN.ii.235f.
 
 ## Notes

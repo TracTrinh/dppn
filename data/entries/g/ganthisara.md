@@ -5,7 +5,7 @@ base_headword: "Ganthisāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Ganthisāra. A book composed by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ganthisāra. Một cuốn sách do Saddhammajotipāla biên soạn; rõ ràng đây là một tuyển tập hay một cẩm nang được soạn từ các văn bản quan trọng. Bode, 18; Gv. (p.64) gọi tác phẩm này là Gandhasāra.
 
 ## Notes

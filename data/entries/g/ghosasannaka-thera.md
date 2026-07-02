@@ -5,7 +5,7 @@ base_headword: "Ghosasaññaka Thera"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,6 @@ Ghosasaññaka Thera. An *Arahant*. Thirty-one *kappas* ago he was a hunter, and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghosasaññaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một thợ săn, và khi nghe Đức Phật thuyết pháp, ông đã vô cùng hoan hỷ trước âm thanh giọng nói của Ngài (Ap.ii.451). Các vần kệ của ông trong Chú giải Theragāthā được cho là của Gahavaratīriya (Thag­a.i.91) và của Dhammika. Ibid., p.398.
 
 ## Notes

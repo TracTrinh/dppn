@@ -5,7 +5,7 @@ base_headword: "Samiddhi"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samiddhi 03. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhi 03. Một người Bà-la-môn ở Sāvatthī, cha của Puṇṇamāsa Thera. Thag­a.i.53.
 
 ## Notes

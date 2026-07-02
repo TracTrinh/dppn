@@ -5,7 +5,7 @@ base_headword: "Dantabhumisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,12 @@ He illustrates his meaning by various examples, one being a description of the c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantabhumisutta. Jayasena đến thăm sa-di Aciravata tại chòi rừng ở Veḷuvana và yêu cầu vị ấy giải thích làm thế nào một tỳ-kheo có đời sống tinh tấn và đã gột rửa cái tôi lại có thể tìm thấy sự bình an trong tâm hồn mình.
+
+Vào cuối bài pháp của Aciravata, Jayasena rời khỏi vị ấy, phàn nàn rằng vấn đề này hoàn toàn không rõ ràng với ông.
+
+Aciravata đề cập vấn đề này với Đức Phật Gotama, ngài nói rằng Jayasena không thể hiểu những vấn đề như vậy, vì quá đắm chìm trong dục lạc và không có kỷ luật.
+
+Ngài minh họa ý nghĩa của mình bằng nhiều ví dụ khác nhau, một trong số đó là mô tả về việc bắt và thuần hóa một con voi rừng. MN.iii.128ff.
 
 ## Notes

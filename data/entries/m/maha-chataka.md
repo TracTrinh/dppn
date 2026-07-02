@@ -5,7 +5,7 @@ base_headword: "Mahā Chātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Chātaka. A nickname given to <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Chātaka. Một biệt danh được đặt cho Bhaddāli, vì ngài luôn luôn ăn. MN­a.ii.648.
 
 ## Notes

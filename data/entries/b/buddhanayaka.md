@@ -5,7 +5,7 @@ base_headword: "Buddhanāyaka"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -31,6 +31,6 @@ Buddhanāyaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhanāyaka, Buddhanātha. Một tướng quân của Māṇābharaṇa (2). Ông đã bị Kesadhātu Rakkha đánh bại tại Nāla. Sau đó, trong suốt tám ngày, ông đã chiến đấu tại Pillaviṭṭhi trong một trận chiến chống lại quân đội của Parakkamabāhu I. và một lần nữa chống lại *Adhikārī* Rakkha. Ông đã tử trận trong cuộc xung đột được nhắc đến sau cùng. Cv.lxx.296; lxxii.171, 266, 270. Xem Cv.Trs.i.311,n.2.
 
 ## Notes

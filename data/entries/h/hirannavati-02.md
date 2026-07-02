@@ -5,7 +5,7 @@ base_headword: "Hiraññavatī"
 disambiguator: "02"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,6 @@ Hiraññavatī 02. A river, on the bank of which was the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiraññavatī 02. Một con sông, trên bờ sông này có Upavattana Sālavana của người Malla xứ Kusināra, nơi Đức Phật nhập diệt (DN.ii.137). Sông này được xác định là sông Little Gandak; nó chảy qua vùng Gorakhpur, cách khoảng tám dặm về phía tây Great Gandak, và đổ vào sông Gogrā (Sarayū). Law, *Geography of Early Buddhism of Buddhism*, p. 37.
 
 ## Notes

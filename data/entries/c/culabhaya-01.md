@@ -5,7 +5,7 @@ base_headword: "Cūḷābhaya"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -28,6 +28,6 @@ Cūḷābhaya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷābhaya 01. Cūlābhaya. Vua của Tích Lan (năm 92-93 TL.). Ông là con trai của Āmaṇḍagāmaṇī và đã xây dựng Cūḷa Gallakavihāra. Sīvalī là em gái của ông. Mhv.xxxv.12-14; Dpv.xxi.39f.
 
 ## Notes

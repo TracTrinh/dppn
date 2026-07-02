@@ -5,7 +5,7 @@ base_headword: "Hārika"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hārika. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hārika. *v.l.* Hārita. Một tên cướp ở Rājagaha. Sau khi chết, ông tái sinh làm một ngạ quỷ với thân hình không đầu, và bị Moggallāna nhìn thấy. Miệng và mắt ông nằm trên ngực. SN.ii.260.
 
 ## Notes

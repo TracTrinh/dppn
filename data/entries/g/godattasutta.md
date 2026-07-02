@@ -5,7 +5,7 @@ base_headword: "Godattasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -28,6 +28,6 @@ Godattasutta. A conversation between <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godattasutta. Một cuộc trò chuyện giữa Godatta và Cittagahapati tại Ambāṭakavana ở Macchikāsaṇḍa. Godatta hỏi Citta về những loại giải thoát của tâm (*cetovimutti*) khác nhau – *appamānā cetovimutti, ākiñcaññā cetovimutti, suññato cetovimutti và animittā cetovimutti*. Citta giải thích chúng và chỉ ra rằng, theo một quan điểm, những trạng thái này khác nhau cả về tinh thần lẫn về chữ nghĩa như thế nào và, theo một quan điểm khác, chúng giống nhau về tinh thần, mặc dù khác nhau về chữ nghĩa, như thế nào. SN.iv.295f.
 
 ## Notes

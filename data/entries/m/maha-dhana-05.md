@@ -5,7 +5,7 @@ base_headword: "Mahā Dhana"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Dhana 05. Sixty-five *kappas* ago there were four kings of this name, all 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhana 05. Sáu mươi lăm kappa trước có bốn vị vua mang tên này, tất cả đều là các tiền kiếp của Trưởng lão Tiṇasanthāradāyaka. Ap.i.198.
 
 ## Notes

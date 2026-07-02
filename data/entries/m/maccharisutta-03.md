@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 03. The same as the above except that the fifth quality is given 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 03. Tương tự như trên ngoại trừ việc phẩm chất thứ năm được đưa ra là sự keo kiệt đối với Pháp. AN.iii.266f.
 
 ## Notes

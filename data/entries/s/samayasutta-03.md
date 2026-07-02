@@ -5,7 +5,7 @@ base_headword: "Samayasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Samayasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayasutta 03. Mahā Kaccāna nhắc lại *Sutta* (2) để giải quyết một cuộc tranh cãi đã nảy sinh giữa các tỳ-kheo. AN.iii.320.
 
 ## Notes

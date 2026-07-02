@@ -5,7 +5,7 @@ base_headword: "Hatthaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -40,6 +40,10 @@ After death, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthaka, còn gọi là Āḷavaka, Hatthakāḷavaka. Một vị cư sĩ ưu tú của Đức Phật, được tuyên bố là bậc đứng đầu trong số những người quy tụ đồ chúng bằng bốn nền tảng của lòng cảm thông (catūhi vatthūhi parisaṁ saṅgaṇhantānaṁ) (AN.i.26). Ông là con trai của vua xứ Ālavī (do đó có tên Āḷavaka), và Đức Phật đã cứu ông khỏi bị Yakkha Āḷavaka ăn thịt. Ông được đặt tên là Hatthaka vì được Yakkha trao cho Đức Phật sau khi quy y, rồi Đức Phật lại trao ông cho các sứ giả của nhà vua. Vì vậy ông được “chuyển từ tay này sang tay khác” (hatthato hatthaṁ gatattā) (AN­a.i.212; Snp­a.i.240).
+
+Khi trưởng thành, Hatthaka nghe Đức Phật thuyết pháp, và dần dần trở thành một vị *Anāgāmī*. Ông luôn có năm trăm cư sĩ tháp tùng, và là một trong bảy vị cư sĩ có đồ chúng như vậy (SN­a.iii.223). Kinh điển ghi lại một số cuộc đối thoại giữa Đức Phật và Hatthaka. Có lần ông gặp Đức Phật tại Gomagga trong Siṁsapavana, gần Ālavī, và hỏi Ngài có phải là một trong những người sống an lạc hay không. Đức Phật đáp rằng Ngài luôn an lạc trong mọi hoàn cảnh (AN.i.136f). Vào một dịp khác, Đức Phật hỏi Hatthaka làm thế nào ông có thể thu phục lòng trung thành của một đoàn thể đông đảo như vậy. “Bằng bốn nền tảng của lòng cảm thông,” ông đáp, bằng cách bố thí, bằng lời nói ái ngữ, bằng hành vi tử tế, bằng sự đối xử bình đẳng. Và khi Hatthaka đã ra về, Đức Phật khen ngợi ông về sự xuất sắc của mình, ở chỗ ông sở hữu tám phẩm chất kỳ diệu: đức tin, giới hạnh, sự cẩn trọng, sự e sợ lỗi lầm, khả năng lắng nghe tốt, lòng rộng lượng, trí tuệ, và tính khiêm tốn (AN.iv.218f; tính khiêm tốn của ông đặc biệt được nhắc đến ở nơi khác nữa, e.g., tại AN.iv.216). Cùng với Cittagahapati, Hatthaka thường được nêu lên như một tấm gương để người khác noi theo (e.g., tại SN.ii.235; AN.i.88; ii.164; iii.451, etc.).
+
+Sau khi chết, Hatthaka tái sinh tại Avihā, để từ đó nhập diệt hoàn toàn. Từ đó, có lần ông đến thăm Đức Phật và cố gắng đứng trước mặt Ngài, nhưng lại ngã quỵ, không thể đứng vững. Đức Phật liền bảo ông tạo ra một thân hình thô trọng, và khi làm như vậy, ông đã có thể đứng được. Ông thưa với Đức Phật rằng mình luôn được vây quanh bởi chư thiên muốn học Pháp từ ông, và thú nhận rằng khi chết ông có ba điều hối tiếc – vì chưa được gặp Đức Phật đủ nhiều, chưa được nghe Pháp đủ nhiều, chưa phụng sự Tăng đoàn đủ nhiều (AN.i.278f). Trong Buddhavaṁsa (Bv.xxvi.19), Citta và Hatthakāḷavaka được nhắc đến là những vị thí chủ hộ trì chủ chốt (aggupaṭṭhākā) của Gotama Buddha.
 
 ## Notes

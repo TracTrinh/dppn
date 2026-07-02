@@ -5,7 +5,7 @@ base_headword: "Daliddasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Daliddasutta 02. The term “poor wretch” (*dalidda*) is rightly applicable to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daliddasutta 02. Thuật ngữ "kẻ khốn khổ" (*dalidda*) thực sự được áp dụng cho người không phát triển bảy *bojjhaṅga*. SN.v.100.
 
 ## Notes

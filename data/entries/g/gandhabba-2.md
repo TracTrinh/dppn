@@ -5,7 +5,7 @@ base_headword: "Gandhabbā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -53,6 +53,16 @@ The Commentaries (e.g., MN­a.i.481f) explain that here Gandhabba means *tatrūp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhabbā, Gandhabba, Gandhabbas. Một loại chúng sinh bán thần, cư trú trong cõi Cātummahārājika và là hạng thấp nhất trong hàng chư thiên (DN.ii.212). Họ thường được xếp chung với các Asura và các Nāga (e.g., AN.iv.200, 204, 207). Chúng sinh sinh vào hàng này là do đã thực hành hình thức thấp nhất của *sīla* (DN.ii.212, 271).
+
+Đối với một tỳ-kheo, sinh vào cõi Gandhabba là điều đáng hổ thẹn (DN.ii.221, 251, 273f). Các Gandhabba được xem là các nhạc công cõi trời, và Pañcasikha, Suriyavaccasā cùng cha nàng là Timbarū đều nằm trong số đó (DN.ii.264).
+
+Họ hầu hạ các vị chư thiên như Sakka, và những vị Gandhabba nam là đối ứng phái nam của các *accharā*, tức các tiên nữ. Vua của họ là Dhataraṭṭha, người cai quản phương đông (DN.ii.257). Các thủ lĩnh khác cũng được nhắc đến (DN.ii.258): Panāda, Opamañña, Mātali — người đánh xe của Sakka, Cittasena, Nala và Janesabha.
+
+Các Gandhabba đôi khi được mô tả là *vihaṅgamā* (đi qua hư không) (AN.ii.39; AN­a.ii.506). Trong Āṭānāṭiyasutta (DN.iii.203, 204), các Gandhabba được nhắc đến trong số những chúng sinh có thể quấy nhiễu chư tăng ni khi họ thiền định nơi vắng vẻ. Đức Phật nói rằng chúng sinh sinh vào hàng *Gandhabbakāyikādevā* là do họ mong muốn như vậy; họ được mô tả là cư ngụ trong hương thơm của gỗ rễ, của vỏ cây và nhựa cây, cùng hương thơm của hoa và các loại hương liệu (SN.iii.250f).
+
+Người ta thường nói rằng các Gandhabba chủ trì việc thụ thai; điều này bắt nguồn từ một cách dịch sai từ Gandhabba trong các đoạn văn (e.g., MN.i.157, 265f) nói về những điều kiện cần thiết để thụ thai (*mātāpitaro ca sannipatitā honti, mātā ca utunī hoti, gandhabbo ca paccupaṭṭhito hoti*).
+
+Các bản Chú giải (e.g., MN­a.i.481f) giải thích rằng ở đây Gandhabba có nghĩa là *tatrūpakasatta – tasmiṁ okāse nibbattanako satto*, tức một chúng sinh đã sẵn sàng và thích hợp để sinh ra với cha mẹ liên quan. *Ṭīkā* nói rằng từ này là biến thể của *gantabba*. Xem thêm Gandhabbarājā.
 
 ## Notes

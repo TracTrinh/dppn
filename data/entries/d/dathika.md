@@ -5,7 +5,7 @@ base_headword: "Dāṭhika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dāṭhika. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhika. Một kẻ tiếm vị Damiḷa. Ông giết Piḷayamāra và trị vì tại Anurādhapura trong hai năm, cho đến khi bị Vaṭṭagāmaṇī Abhaya giết. Mhv.xxxiii.59, 60, 78; Dpv.xix.15, 16; xx.17, 18.
 
 ## Notes

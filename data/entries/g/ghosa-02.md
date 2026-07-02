@@ -5,7 +5,7 @@ base_headword: "Ghosa"
 disambiguator: "02"
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -31,6 +31,8 @@ He was later reborn as <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghosa 02. Ghosaka. Là một *Devaputta*, vốn là Kotūhalaka, trong một kiếp trước. Do không thể kiếm sống ở đất nước của mình, ông đã rời đi và cùng vợ con đến nhà của một người chăn gia súc, tại đây, sau khi ăn quá no một cách ngon lành sau một khoảng thời gian dài chết đói, ông đã qua đời và được sinh ra làm một con chó trong chính ngôi nhà đó, bởi vì ông đã ghen tị với một con chó cái sống ở đó. Khi con chó lớn lên, nó thường đi theo người chăn gia súc đến thăm một vị Pacceka Buddha, người thường dùng bữa tại nhà anh ta. Đôi khi, khi bản thân người chăn gia súc không thể đi được, anh ta sẽ phái con chó đi thỉnh Pacceka Buddha. Con đường dẫn qua một khu rừng và con chó sẽ sủa lớn để dọa những loài thú dữ chạy đi. Một ngày nọ, khi Pacceka Buddha đi nơi khác, con chó đã chết vì đau lòng và được tái sinh ở Tāvatiṁsa làm vị thần Ghosa hay Ghosaka.
+
+Sau này ông được tái sinh làm Ghosakaseṭṭhi. Dhp­a.i.169f; AN­a.i.227f; MN­a.i.539f; DN­a.i.317.
 
 ## Notes

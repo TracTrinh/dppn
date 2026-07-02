@@ -5,7 +5,7 @@ base_headword: "Gandhārajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -34,6 +34,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhārajātaka (Ja 406). Có lần Bodhisatta làm vua xứ Gandhāra, và ông cùng vua xứ Videha kết bạn với nhau, dù chưa từng gặp mặt. Một hôm, vua Gandhāra thấy nguyệt thực, tâm chấn động, liền từ bỏ vương quốc và trở thành một vị khổ hạnh trong Himavā.
+
+Nghe tin này, vua Videha cũng làm y như vậy. Hai người gặp nhau trong Himavā, nhưng không nhận ra nhau, cho đến khi, thấy một lần nguyệt thực khác, họ kể lại chuyện xưa cho nhau nghe. Họ cùng nhau đi khất thực, và vị khổ hạnh Videha, có lần được cho một lượng muối lớn, đã cất giữ một phần để dành cho ngày không có muối. Vị khổ hạnh Gandhāra phát hiện ra việc này, trách bạn mình tham lam, và người kia đã xin lỗi.
+
+Vị khổ hạnh Videha được đồng nhất với Ānanda. Câu chuyện này được kể liên quan đến dịp ban hành giới luật cấm tỳ-kheo cất giữ dược phẩm quá bảy ngày. Ja.iii.363ff; câu chuyện dẫn nhập được kể trong Vin.i.206ff; xem thêm Pilindavaccha; câu chuyện Jātaka được kể trong MN­a.i.534f.
 
 ## Notes

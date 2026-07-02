@@ -5,7 +5,7 @@ base_headword: "Gaṇṭhipupphiya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṇṭhipupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he gave a *ganth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇṭhipupphiya Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, ngài đã dâng một đóa hoa *ganthi* lên Đức Phật Vipassī. Bốn mươi mốt *kappa* trước, ngài là một vị vua tên Varaṇa (Ap.i.162). Có lẽ ngài chính là Hatthārohaputta. Thag­a.i.170.
 
 ## Notes

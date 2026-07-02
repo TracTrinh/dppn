@@ -5,7 +5,7 @@ base_headword: "Bodhisenapabbatagāma"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -27,6 +27,6 @@ Bodhisenapabbatagāma. A village in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisenapabbatagāma. Một ngôi làng ở Dakkhiṇadesa của Tích Lan nơi Vikkamabāhu II. đánh bại Māṇābharaṇa và hai anh em của ông. Cv.lxi.33.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Haṁsārāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Haṁsārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Haṁsārāma. Một tu viện ở Haṁsavatī, nơi Padumuttara Buddha đã sống. Ap.ii.501.
 
 ## Notes

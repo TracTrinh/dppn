@@ -5,7 +5,7 @@ base_headword: "Buddhā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -32,6 +32,6 @@ Buddhā. Wife of Prince <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhā. Vợ của Vương tử Bodhi và, sau này, của Moggallāna. Với Bodhi bà có một con gái tên là Lokitā và với Moggallāna có bốn người con: Kitti (sau này là Vijayabāhu I.), Mittā, Mahinda và Rakkhita. Cv.lvii.40.
 
 ## Notes

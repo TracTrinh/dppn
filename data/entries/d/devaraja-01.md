@@ -5,7 +5,7 @@ base_headword: "Devarāja"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Devarāja 01. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devarāja 01. Một vị tướng của Parakkamabāhu I. Ông giữ chức Kesadhātu và sống ở Pañcayojana. Ông giành một chiến thắng lớn tại Gimhatittha. Cv.lxxv.21.
 
 ## Notes

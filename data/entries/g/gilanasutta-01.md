@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gilānasutta 01. There are three types of sick men – those who will not, in an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 01. Có ba hạng người bệnh – những người, trong bất kỳ trường hợp nào, cũng sẽ không hồi phục; những người sẽ hồi phục cho dù có được chăm sóc hay không; những người chỉ hồi phục nếu được chăm sóc đúng cách. Cũng như vậy, có ba hạng người – những người sẽ không bao giờ, cho dù họ có nghe Dhamma hay không, đắc được sự bảo đảm của sự toàn thiện, v.v. AN.i.120f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgasaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bojjhaṅgasaṁyutta. The second section (forty-sixth <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgasaṁyutta. Phần thứ hai (Saṁyutta thứ bốn mươi sáu) của Mahā Vagga thuộc Saṁyuttanikāya. SN.v.61ff.
 
 ## Notes

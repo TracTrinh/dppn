@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sumana"
 disambiguator: "03"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/035.html"
@@ -36,6 +36,6 @@ Cūḷa Sumana 03. <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sumana 03. Cūla Sumana. Một vị sa-di. Trong một tiền kiếp, ông là vị trưởng giả Sumana, người mà Annabhārā (xem từ này) làm việc dưới quyền. Trong thời đại này, ông được sinh ra tại Muṇḍa, gần dãy núi Viñjhā, là con trai của Mahā Muṇḍa. Khi Anuruddha trở thành một vị Arahant và nhìn lại những tiền kiếp của mình, ông thấy Sumana đã giúp đỡ mình như thế nào. Do đó, ông đã đến thăm Mahā Muṇḍa và tận hưởng lòng hiếu khách của ông ấy trong một mùa an cư. Cuối thời gian lưu lại, ông đã nhận được sự đồng ý của Muṇḍa để truyền giới cho Cūḷa Sumana, người đã trở thành một vị Arahant trong khi đang được cạo đầu. Có lần, khi Anuruddha bị chứng khó tiêu, sa-di Sumana, sau khi khám phá ra rằng nước từ Anotatta sẽ chữa khỏi cho ông, đã đi đến đó và mang nước về, bất chấp mọi nỗ lực của vị Nāga vương Paṇṇaka (xem từ này) nhằm ngăn cản ông. Sau này, Paṇṇaka, nhận ra uy lực của vị sa-di, đã xin ông tha thứ và trở thành người bạn cũng như người phục vụ của ông. Khi Anuruddha đi cùng Sumana đến Sāvatthī để yết kiến Đức Phật, một số tỳ-kheo bắt đầu đùa giỡn với Sumana, vỗ đầu và véo tai ông. Để cho họ thấy uy lực của Sumana, Anuruddha đã yêu cầu Ānanda triệu tập tất cả các sa-di trong tu viện và yêu cầu họ lấy nước từ Anotatta để ông có thể rửa chân. Chỉ có Sumana, người trẻ nhất trong số họ, là có khả năng làm việc này, và danh tiếng của ông lan rộng vô ngần (Dhp­a.iv.128ff).
 
 ## Notes

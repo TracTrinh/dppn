@@ -5,7 +5,7 @@ base_headword: "Ghanasela"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -27,6 +27,6 @@ Ghanasela, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghanasela, Ghanaselapabbata. Một ngọn núi ở Avanti trong Dakkhiṇāpatha, nơi Kāḷadevala sinh sống. Ja.v.133.
 
 ## Notes

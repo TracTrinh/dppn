@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sāropamasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -31,6 +31,8 @@ Cūḷa Sāropamasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sāropamasutta, Cūla Sāropamasutta. Piṅgala Koccha đến thăm Đức Phật tại Jetavana và hỏi Ngài về các đạo sư nổi tiếng như Pūraṇa Kassapa, Makkhali Gosāla và những người khác. Đức Phật nói với ông rằng phần thưởng của đời sống phạm hạnh không nằm ở những món quà, sự tôn kính, hay danh tiếng tốt, cũng không nằm ở một đời sống đạo đức, sự định tâm sâu sắc, hay tuệ giác huyền bí. Chỉ có sự giải thoát Bất tử mới là phần thưởng và mục tiêu của đời sống phạm hạnh. Nếu một người cần loại gỗ tốt nhất, không có phần nào khác của cái cây có thể đáp ứng được.
+
+Piṅgala Koccha chấp nhận Đức Phật làm đạo sư của mình. MN.i.198ff.
 
 ## Notes

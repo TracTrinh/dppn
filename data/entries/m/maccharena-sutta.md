@@ -5,7 +5,7 @@ base_headword: "Maccharena Sutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maccharena Sutta. A woman who is faithless, shameless, stingy, and of weak wisdo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharena Sutta. Một người phụ nữ không có đức tin, vô tàm, keo kiệt, và trí tuệ yếu kém, sẽ phải chịu đau khổ. SN.iv.24.
 
 ## Notes

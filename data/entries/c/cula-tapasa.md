@@ -5,7 +5,7 @@ base_headword: "Cūḷa Tāpasa"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Tāpasa, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Tāpasa, Culla Tāpasa. Nārada, con trai của Bodhisatta trong Cūḷa Nāradakassapajātaka (Ja 477), được gọi bằng danh hiệu này. Ja.i.416.
 
 ## Notes

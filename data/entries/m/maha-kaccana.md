@@ -5,7 +5,7 @@ base_headword: "Mahā Kaccāna"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -105,6 +105,28 @@ According to tradition, Kaccāna was the author of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kaccāna, Mahā Kaccāyana. Một trong những đệ tử xuất chúng nhất của Đức Phật, được coi là đệ nhất trong số những người diễn giải đầy đủ các lời dạy tóm tắt của Đức Phật (*saṅkhittena bhāsitassa vitthārena atthaṁ vibhajantānaṁ*) (AN.i.23). Ông được sinh ra tại Ujjenī trong gia đình của vị quốc sư của vua Caṇḍappajjota, và được gọi là Kaccāna cả vì màu da vàng của ông lẫn vì Kaccāna là tên gotta của ông. Ông đã nghiên cứu các kinh Vệ-đà (Vedas), và sau cái chết của cha mình, đã kế nhiệm ông làm quốc sư. Cùng với bảy người khác, ông đã đến thăm Đức Phật, theo yêu cầu của Caṇḍappajjota, để cung thỉnh Ngài đến Ujjenī. Kaccāna và những người bạn của ông đã lắng nghe bài pháp thoại của Đức Phật, và sau khi chứng đạt quả vị Arahant, đã gia nhập Tăng đoàn. Sau đó ông chuyển lời mời của nhà vua đến Đức Phật, Ngài đã chỉ ra rằng giờ đây chỉ cần bản thân Kaccāna trở về Ujjenī là đủ.
+
+Kaccāna theo đó đã lên đường đến Ujjenī cùng với bảy người bạn đồng hành của mình, nhận đồ khất thực trên đường đi tại nhà của một cô gái rất nghèo ở Telappanāḷi, người sau này trở thành hoàng hậu của Caṇḍappajjota. Về chi tiết, xem Telappanāḷi.
+
+Đến Ujjenī, Kaccāna sống trong công viên hoàng gia, nơi nhà vua đã dành cho ông mọi sự tôn kính. Ông liên tục thuyết giảng cho dân chúng, và, bị thu hút bởi các bài thuyết pháp của ông, vô số người đã gia nhập Tăng đoàn, đến mức toàn bộ thành phố là một ngọn lửa của những chiếc y màu cam. Người ta kể rằng sau khi đã thiết lập vững chắc Sāsana ở Avanti, Kaccāna đã trở lại gặp Đức Phật một lần nữa (như vậy, phần giải thích của Madhupiṇḍikasutta đã được đưa ra tại Kapilavatthu). Caṇḍappajjota đã tham vấn ông vào nhiều dịp khác nhau, và trong số các vần kệ được quy cho ông trong Theragāthā (Thag.vss.494-501), có một vài câu nhắm thẳng đến bản thân nhà vua.
+
+Chính vào thời của Đức Phật Padumuttara, Kaccāna đã đưa ra quyết tâm giành được vị trí xuất chúng như mình đã làm, sau khi lắng nghe lời tán thán của Padumuttara dành cho một vị tỳ-kheo, cũng tên là Kaccāna, vì sự tinh thông tương tự. Kaccāna khi đó là một vijjādhara, và đã dâng lên Đức Phật ba bông hoa kaṇikāra. Apadāna (ii.463) nói như vậy, nhưng Thag­a. nói rằng ông là một vijjādhara vào thời của Đức Phật Sumedha. Vào thời của Đức Phật Kassapa, ông là một gia chủ ở Benares, và đã dâng cúng một viên gạch vàng, trị giá một trăm nghìn, cho cetiya đang được xây dựng trên phần xá-lợi của Đức Phật, và sau đó đã phát nguyện rằng trong các kiếp tương lai cơ thể của mình sẽ có màu vàng (Thag­a.i.483f.; AN­a.i.117f).
+
+Theo Apadāna (Ap.ii.465), cha của Kaccāna tên là Tirīṭivaccha (hoặc Tidivavaccha), và mẹ của ông là Candapadumā. Có một bản ghi chép khác về Mahā Kaccāna trong Apadāna (AN.i.84f), trong đó nói rằng vào thời của Đức Phật Padumuttara, ông đã xây dựng một gandhakuṭi tên là Paduma có hình dạng một bông sen và được bao phủ bằng những bông hoa sen, và ba mươi kappa sau đó ông đã trở thành vua với tên gọi là Pabhassara.
+
+Ba bài Kinh (Suttas) được nhắc đến (AN­a.i.118) như là đã mang lại cho Kaccāna danh hiệu xuất chúng của mình – Madhupiṇḍika, Kaccāyana và Pārāyaṇa; một vài ví dụ được đưa ra về những người tìm kiếm sự hỗ trợ của Mahā Kaccāna, cho một lời giải thích chi tiết về điều gì đó được Đức Phật nói một cách tóm tắt – vd., Hāliddikāni, Kāḷī, Samiddhi, Uttara và Valliya (cũng xem AN.iii.314, 321; v. 225; MN.iii.223). Trong số các đệ tử và tín đồ của Kaccāna cùng những người đã tham vấn ông có Soṇa Kuṭikaṇṇa, Isidatta, Avantiputta, Lohicca, Arāmadaṇḍa, và Kaṇḍarāyaṇa.
+
+Ở Avanti, Kaccāna được cho là đã ở lại, không phải trong công viên của nhà vua, nơi ông đã sống ngay sau khi trở về từ chỗ Đức Phật, mà chủ yếu là ở papātā của Kuraraghara (vd., SN.iii.9; AN.v.46; Ud.v.6; Vin.i.194; Dhp­a.iv.101) và trong một túp lều ở khu rừng Makkarakaṭa. SN.iv.116; cũng xem Vv-a.259, theo đó ông đã ở lại gần Potali.
+
+Ngoài ra còn có đề cập đến việc ông ở lại Varaṇā trên bờ sông Kaddamadaha (AN.i.65); tại Gundāvana ở Madhurā (AN.i.67; MN.ii.83); tại Tapodā ở Rājagaha (AN.iii.192), ở Soreyya (Dhp­a.i.325; về một sự việc kỳ lạ liên quan đến chuyến viếng thăm của Kaccāna, xem Soreyya), và ở Kosambī (Pv-a. 140). Theo Divy.551, 585, 586 ông cũng đã ở lại Roruka.
+
+Người ta kể rằng ngay cả khi Kaccāna đang sống ở Avanti, cách một khoảng cách rất xa, ông vẫn thường xuyên đi nghe Đức Phật thuyết pháp, và khi các vị Trưởng lão hàng đầu vào vị trí của họ trong hội chúng, họ luôn nhường chỗ cho ông (Dhp­a.ii.176). Trong một dịp như vậy, Sakka đã dành cho ông sự tôn kính lớn lao, phủ phục dưới chân ông, và Đức Phật giải thích rằng điều này là do Mahā Kaccāna luôn giữ gìn tốt các giác quan của mình.
+
+Bản Chú Giải Majjhima (MN­a.ii.854) ghi lại một câu chuyện kỳ lạ liên quan đến Kaccāna. Vassakāra, đại thần của Ajātasattu, đã nhìn thấy Kaccāna đang đi xuống từ Gijjhakūṭa và nói rằng ông trông giống hệt như một con khỉ. Đức Phật đọc được những suy nghĩ của Vassakāra, và cảnh báo ông ta rằng sau khi chết ông ta sẽ đản sinh làm một con khỉ ở Veḷuvana. Ông ta tin lời Đức Phật, và đã chuẩn bị sẵn ở Veḷuvana cho sự thoải mái trong tương lai của mình dưới dạng một con khỉ. Và điều này thực sự đã trở thành sự thật, sống ở Veḷuvana và đáp lời với cái tên Vassakāra!
+
+Kaccāna được đồng nhất với người đánh xe ngựa trong Kurudhammajātaka (Ja 276, Ja.ii.181), và với Devala trong Sarabhaṅgajātaka (Ja 522, Ja.v.151).
+
+Theo truyền thống, Kaccāna là tác giả của Nettippakaraṇa, cuốn ngữ pháp Pāli mang tên ông, và của Peṭakopadesa. Rất có thể những tác phẩm này là sự biên soạn của một trường phái, vốn truy nguyên nguồn gốc của nó về Mahā Kaccāna. Cũng xem Madhurasutta.
 
 ## Notes

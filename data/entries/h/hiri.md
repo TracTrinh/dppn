@@ -5,7 +5,7 @@ base_headword: "Hiri"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -24,6 +24,6 @@ Hiri. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hiri. Một thủ lĩnh Yakkha, được các đệ tử của Đức Phật cầu khấn khi cần thiết. DN.iii.205; DN­a.iii.970.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Deva"
 disambiguator: "08"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Deva 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deva 08. Laṅkādhināyaka. Một vị tướng của Gajabāhu II. Cv.lxx.104, 324.
 
 ## Notes

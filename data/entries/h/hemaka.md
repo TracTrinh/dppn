@@ -5,7 +5,7 @@ base_headword: "Hemaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -28,6 +28,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemaka. Một trong các đệ tử của Bāvarī. Ông đến gặp Đức Phật, hỏi các câu hỏi, và trở thành một vị *Arahant* (Snp.vs.1006, 1084-7).
+
+Vào thời Piyadassī Buddha, ông là một vị khổ hạnh, tên là Anoma, và đã dâng cúng Đức Phật một chỗ ngồi bằng châu báu. Ap.ii.352f.
 
 ## Notes

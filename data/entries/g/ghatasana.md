@@ -5,7 +5,7 @@ base_headword: "Ghatāsana"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -25,6 +25,6 @@ Ghatāsana. Twenty *kappas* ago <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghatāsana. Hai mươi *kappa* trước, Pupphathūpiya (*q.v.*) đã làm vua ba mươi tám lần với tên gọi này. Ap.i.156.
 
 ## Notes

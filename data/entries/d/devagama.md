@@ -5,7 +5,7 @@ base_headword: "Devagāma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devagāma. A village to the west of Ceylon. Near it was the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devagāma. Một ngôi làng ở phía tây Tích Lan. Gần đó có Pupphavāsavihāra. Ras.ii.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Girikaṇḍa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,10 @@ The district around it was called <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girikaṇḍa. Một ngọn núi bị Paṇḍukābhaya chiếm giữ trong một thời gian trong suốt chiến dịch chống lại người chú của ông ta.
+
+Chính ở vùng lân cận của ngọn núi này mà Paṇḍukābhaya đã gặp gỡ và kết hôn với Suvaṇṇapālī (Mhv.x.28ff).
+
+Quận xung quanh nó được gọi là Girikaṇḍadesa, và sau này được Paṇḍukābhaya trao cho cha vợ của mình, là Girikaṇḍasiva (Mhv.x.82).
 
 ## Notes

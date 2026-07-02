@@ -5,7 +5,7 @@ base_headword: "Gāmaṇisaṁyutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gāmaṇisaṁyutta. The fifty-second <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇisaṁyutta. Saṁyutta thứ năm mươi hai của Saṁyuttanikāya. Chương này ghi lại các bài pháp Đức Phật thuyết cho nhiều vị trưởng thôn (*gāmaṇī*) khác nhau (SN.iv.305-59).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Cūḷa Puṇṇamasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -25,6 +25,6 @@ Cūḷa Puṇṇamasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Puṇṇamasutta, Cūla Puṇṇamasutta. Được thuyết giảng cho các tỳ-kheo hội họp vào một đêm trăng rằm tại Migārāmātupāsāda. *Sutta* giảng dạy về việc làm thế nào có thể nhận biết một người xấu và một người tốt thông qua hành vi của họ. MN.iii.20ff.
 
 ## Notes

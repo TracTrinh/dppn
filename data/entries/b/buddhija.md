@@ -5,7 +5,7 @@ base_headword: "Buddhija"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddhija, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhija, Buddhiya. Thị giả riêng của Đức Phật Kakusandha. Bv.xxiii.20; Ja.i.42; DN.ii.6.
 
 ## Notes

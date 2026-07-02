@@ -5,7 +5,7 @@ base_headword: "Damiḷādevī"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Damiḷādevī 02. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Damiḷādevī 02. Hoàng hậu của Mahā Dāṭhika Mahā Nāga. Bà còn trẻ và xinh đẹp, và khi bà đến thăm Ambatthala, một vị sư già tên Citta đã đem lòng yêu bà và từ chối được an ủi mặc dù bà đã qua đời ngay sau đó. AN­a.i.13.
 
 ## Notes

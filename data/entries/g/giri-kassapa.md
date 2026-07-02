@@ -5,7 +5,7 @@ base_headword: "Giri Kassapa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Giri Kassapa. Eldest son of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giri Kassapa. Con trai trưởng của Upatissa III. Ông có mười sáu người anh em. Khi Silākāla nổi dậy, Kassapa đã đánh bại ông ta trong một số trận chiến, và cuối cùng đã truy đuổi ông ta đến tận căn cứ của ông ta ở Pācīnapabbata, cưỡi voi lên đến tận đỉnh núi. Hành động này đã mang lại cho ông danh hiệu Giri Kassapa. Sau đó, trong khi chạy trốn cùng với cha mẹ của mình khỏi Silākāla, ông đã bị lạc đường và bị kẻ thù bao vây. Không tìm thấy đường thoát, ông đã tự cắt cổ mình. Cv.xli.11ff.
 
 ## Notes

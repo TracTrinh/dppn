@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇagāmavāpi"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇagāmavāpi. A tank in Ceylon, restored by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇagāmavāpi. Một hồ chứa nước ở Tích Lan, được khôi phục bởi Parakkamabāhu I. Cv.lxxix.32.
 
 ## Notes

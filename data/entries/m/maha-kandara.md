@@ -5,7 +5,7 @@ base_headword: "Mahā Kandara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Kandara. A river in Ceylon, at the mouth of which <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kandara. Một dòng sông ở Tích Lan, tại cửa sông này Paṇḍuvāsudeva cùng tùy tùng của ông đã đổ bộ từ Ấn Độ. Mhv.viii.12.
 
 ## Notes

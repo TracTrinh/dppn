@@ -5,7 +5,7 @@ base_headword: "Erakavassa"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -24,6 +24,6 @@ Erakavassa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Erakavassa, Erakavassakhanda. Một địa danh ở Tích Lan. Ras.ii.181, 185.
 
 ## Notes

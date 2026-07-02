@@ -5,7 +5,7 @@ base_headword: "Garahadinna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,10 @@ It is said that when the Buddha preached at <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Garahadinna. Một cư dân ở Sāvatthī và là bạn của Sirigutta. Sirigutta là một tín đồ của Đức Phật, còn Garahadinna là tín đồ của các Nigaṇṭha. Bị các Nigaṇṭha xúi giục, Garahadinna liên tục trách móc bạn mình vì lòng trung thành với Đức Phật, cho đến một hôm, vì quá bực tức, Sirigutta mời các Nigaṇṭha đến nhà mình để chứng minh rằng lời tuyên bố về sự toàn tri của họ là giả dối. Để làm việc này, ông cho đào một cái hào và đổ đầy chất bẩn vào đó, căng dây dọc theo hào, rồi sắp xếp chỗ ngồi sao cho ngay khi các Nigaṇṭha ngồi xuống, họ sẽ bị lật nhào và rơi xuống hào. Các Nigaṇṭha đến, và mọi việc xảy ra đúng như Sirigutta đã sắp đặt. Garahadinna, tràn đầy ý muốn trả thù, giấu kín mối oán hận và mời Đức Phật cùng các đệ tử của Ngài với ý định làm nhục họ. Ông dùng cùng một mưu kế như bạn mình, chỉ khác là hào được đổ đầy than hồng thay vì chất bẩn. Đức Phật đến, biết rõ mọi việc đã xảy ra, và bằng thần lực *iddhi*, đã khiến những đóa sen lớn mọc lên từ lớp than hồng. Ngồi trên đó, Ngài tạo ra một nguồn thức ăn dồi dào và thuyết Pháp. Garahadinna, Sirigutta, và nhiều người khác đã trở thành các *Sotāpanna* (Dhp­a.i.434f).
+
+Nhân dịp này, Khadiraṅgārajātaka cũng được thuyết giảng (nhưng xem câu chuyện dẫn nhập của Jātaka này).
+
+Có nói rằng khi Đức Phật thuyết pháp tại nhà Garahadinna, tám mươi bốn ngàn chúng sinh đã chứng ngộ Chân lý (Mil.350).
 
 ## Notes

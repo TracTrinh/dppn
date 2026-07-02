@@ -5,7 +5,7 @@ base_headword: "Gaṇadevaputtā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gaṇadevaputtā. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇadevaputtā. Buddhaghosa có nhắc đến (MN­a.ii.737) các cung điện của các *Gaṇadevaputtas* (*Gaṇadevaputtānañ-ca vimānāni*) trong số những cung điện mà vua Nemi thấy khi được Mātali dẫn đi qua các cõi chư thiên. Tôi không tìm thấy tên này trong Nimijātaka. Từ này có thể được dùng như một danh từ tập hợp.
 
 ## Notes

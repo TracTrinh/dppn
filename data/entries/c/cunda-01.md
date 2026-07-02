@@ -5,7 +5,7 @@ base_headword: "Cunda"
 disambiguator: "01"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -43,6 +43,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cunda 01. Một thợ kim loại (*kammāraputta*) sống ở Pāvā. Khi Gotama Buddha đến Pāvā trên đường tới Kusinārā, Ngài đã lưu lại trong rừng Xoài của Cunda. Tại đó Cunda đã đến thăm Ngài và mời Ngài cùng các tỳ-kheo đến dùng bữa vào ngày hôm sau. Bữa ăn bao gồm cơm ngọt, bánh ngọt và *sūkaramaddava*. Trong bữa ăn, Đức Phật ra lệnh rằng chỉ một mình Ngài mới được dọn món *sūkaramaddava*, và những gì còn thừa lại phải được chôn vào một cái hố. Đây là bữa ăn cuối cùng của Đức Phật, vì rất nhanh sau đó Ngài bị kiết lỵ (DN.ii.126; Ud.viii.5). Đức Phật, một khoảng thời gian ngắn trước khi viên tịch, đã đưa ra những chỉ dẫn đặc biệt cho Ānanda rằng ông nên đến thăm Cunda và trấn an ông ấy bằng cách nói với ông ấy rằng hoàn toàn không có lỗi nào thuộc về ông và rằng ông không nên cảm thấy hối hận, mà ngược lại, nên hoan hỷ, vì ông đã có thể dâng cho Đức Phật một bữa ăn mà, về công đức, vượt xa bất kỳ bữa ăn nào khác (DN.ii.135f).
+
+Suttanipāta Commentary (Snp­a.i.159) đề cập rằng, tại bữa ăn này, Cunda đã cung cấp các đồ đựng bằng vàng cho các tỳ-kheo sử dụng; một số vị đã dùng chúng, những vị khác thì không. Một tỳ-kheo đã lấy cắp một món đồ đựng và cho vào túi của mình. Cunda đã nhận thấy điều này nhưng không nói gì. Về sau, vào buổi chiều, ông đến thăm Đức Phật và hỏi Ngài về các hạng *samaṇa* khác nhau có trên thế giới. Đức Phật đã thuyết cho ông bài Cundasutta.
+
+Chú giải cho biết thêm (p.166; cũng xem Ud­a.399) rằng Cunda không đạt được chứng đắc nào, mà chỉ đơn thuần được xua tan những hoài nghi của mình. Tuy nhiên, Dīgha Commentary lại nói (DN­a.ii.568) rằng ông đã trở thành một Sotāpanna ngay lần đầu tiên nhìn thấy Đức Phật và đã xây cho Ngài một *vihāra* tại Ambavana. Sự kiện sau này, có lẽ, đã diễn ra trong một chuyến viếng thăm trước đó của Đức Phật, vì chúng ta được biết (DN.iii.207) rằng trong khi Đức Phật đang lưu lại trong rừng Xoài của Cunda, Ngài đã được những người Malla mời đến để làm lễ khánh thành hội trường mới của họ, Ubbhaṭaka. Ngài đã chấp nhận lời mời, thuyết pháp trong hội trường cho đến khuya, và sau đó yêu cầu Sāriputta tiếp tục; vị này đã tiếp tục bằng việc thuyết giảng Saṅgītisutta. Điều này xảy ra ngay sau cái chết của Nigaṇṭha Nātaputta (DN.iii.210).
+
+Aṅguttaranikāya (v.263ff) có đề cập đến một cuộc trò chuyện khác giữa Đức Phật và Cunda. Cunda nói với Đức Phật rằng ông chấp thuận những phương pháp thanh tịnh (*soceyyāni*) được đặt ra bởi các Bà-la-môn ở phương tây (*Pacchābhūmakā*). Đức Phật nói cho ông về giáo lý của các bậc Thánh liên quan đến ba loại nhiễm ô và thanh tịnh của thân, bốn loại nhiễm ô và thanh tịnh của khẩu, và ba loại nhiễm ô và thanh tịnh của ý. Cunda chấp nhận những lời giải thích của Đức Phật và tuyên bố mình là người đi theo Ngài.
 
 ## Notes

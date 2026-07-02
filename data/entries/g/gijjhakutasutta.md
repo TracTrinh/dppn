@@ -5,7 +5,7 @@ base_headword: "Gijjhakūṭasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -35,6 +35,12 @@ The Buddha declares these to be wrong, and instructs Abhaya in the *nīvaraṇas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gijjhakūṭasutta. (thường được gọi là Abhayasutta)
+
+Chứa đựng một lời kể về chuyến viếng thăm của Abhayarājakumāra đến yết kiến Gotama Buddha tại Gijjhakūṭa.
+
+Abhaya hỏi Đức Phật về các quan điểm của Pūraṇa Kassapa.
+
+Đức Phật tuyên bố các quan điểm đó là sai lầm, và hướng dẫn Abhaya về các *nīvaraṇa* và các *bojjhaṅga*. SN.v.126f.
 
 ## Notes

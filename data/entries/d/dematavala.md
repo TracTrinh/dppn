@@ -5,7 +5,7 @@ base_headword: "Demaṭavala"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Demaṭavala. A locality of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Demaṭavala. Một địa phương của Rohaṇa. Cv.lxxiv.139.
 
 ## Notes

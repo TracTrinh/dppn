@@ -5,7 +5,7 @@ base_headword: "Mahā Muni"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Muni. A village in Ceylon, in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Muni. Một ngôi làng ở Tích Lan, trong quận Dīghavāpi. Sumana, cha của Sumanā, người vợ của Lakuṇṭaka Atimbara, đã sống ở đó. Dhp­a.iv.50.
 
 ## Notes

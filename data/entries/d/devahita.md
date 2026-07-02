@@ -5,7 +5,7 @@ base_headword: "Devahita"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devahita. Một Bà-la-môn ở Sāvatthī. Một lần, khi Đức Phật bị đau quặn và muốn có nước nóng, Upavāṇa lấy từ Devahita nước nóng và mật mía, được ông gửi bằng đòn gánh do một người hầu mang. Chườm nóng và dùng mật mía chữa khỏi chứng bệnh của Đức Phật. Về sau Devahita đến gặp Đức Phật, và sau một cuộc trò chuyện, ông được cải hóa (SN.i.174f; Dhp­a.iv.232). Devahita được nói là bạn của Upavāṇa (Thag­a.i.311f).
+
+Saṃyutta Commentary (SN­a.i.201) thêm rằng Devahita kiếm sống bằng việc cung cấp nước được đun nóng trên dãy lò của mình và mỹ phẩm cho những người đến tắm. Khi nghe Đức Phật bị bệnh, ông đưa cho Upavāṇa một loại mật đường đặc để pha trong nước.
 
 ## Notes

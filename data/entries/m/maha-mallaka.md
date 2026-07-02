@@ -5,7 +5,7 @@ base_headword: "Mahā Mallaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Mallaka. A nunnery built by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Mallaka. Một tỳ-kheo-ni viện được xây dựng bởi Mahinda IV. dành cho các tỳ-kheo-ni Theravāda. Cv.liv.47.
 
 ## Notes

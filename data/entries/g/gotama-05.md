@@ -5,7 +5,7 @@ base_headword: "Gotama"
 disambiguator: "05"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -38,6 +38,10 @@ Gotama is the name by which the Buddha is addressed by Brahmins and others who a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotama 05. Tên của gia tộc mà Đức Phật và những người Sākiyan thuộc về. Những thành viên của gia tộc, mặc dù là *Khattiya*, nhưng lại tuyên bố có nguồn gốc từ một vị *Isi* Bà-la-môn, là Gotama (để có lời giải thích về điều này xem Thomas: *Life and Legend of the Buddha*, 22f). Cả Gotama và Aṅgīras đều được liệt kê trong nghi lễ *Pravara* với tư cách là tổ tiên của gia tộc Gotama (Aśvalāyana, *Srautasūtra*, 12, 11, 1).
+
+Những tín đồ Phật giáo muộn dường như đã quên mất *Ṛsi* của Veda, bởi vì, theo một truyền thuyết cổ, Okkāka, vị tổ tiên trực tiếp của người Sākiyan, được sinh ra từ một quả trứng hình thành từ máu và tinh dịch đông đặc của một vị khổ hạnh tên là Gotama, khi ông nằm bị đâm xuyên vì bị cáo buộc tội giết một kỹ nữ. Quả trứng được ấp nở nhờ mặt trời (Mvu.i.338ff; Rockhill, *Buddha*, 9f).
+
+Gotama là cái tên mà Đức Phật được gọi bởi các Bà-la-môn và những người khác không phải là tín đồ của Ngài. Tại một chỗ, ít nhất, Đức Phật được miêu tả là đang xưng hô với người Sākiyan bằng “Gotamā.” (SN.iv.183). *Gotta* Gotama được xếp vào nhóm các *gotta* cao hơn, cùng với các *gotta* như Moggallāna, Kaccāyana và Vāseṭṭha (Vin.iv.6; DN­a.i.246f, *uccākulaparidīpanaṁ*). Theo Chú giải Theragāthā (ii.204; cũng xem AN­a.i.395; *Gotamabuddhassa sāvako pi Gotamo*), đệ tử của Đức Phật (e.g., trong trường hợp của Vaṅgīsa) cũng được gọi là Gotama, ngay cả khi họ vốn không thuộc về gia tộc đó. Xem thêm Sakyā.
 
 ## Notes

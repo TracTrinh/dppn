@@ -5,7 +5,7 @@ base_headword: "Samudda"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samudda 02. A sage of long ago. Ja.vi.99.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samudda 02. Một bậc hiền nhân thời xa xưa. Ja.vi.99.
 
 ## Notes

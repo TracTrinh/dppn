@@ -5,7 +5,7 @@ base_headword: "Gāmaṇicandajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -39,6 +39,14 @@ Gāmaṇicanda is identified with <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇicandajātaka (Ja 257). Có lần Bodhisatta sinh làm Ādāsamukha, con trai của Janasandha, vua xứ Benares. Ādāsamukha lên ngôi vua lúc bảy tuổi, sau khi đã giải quyết thành công những vấn đề mà các quan cận thần đặt ra cho ông.
+
+Janasandha có một người hầu tên là Gāmaṇicanda, vì tuổi già nên đã về hưu khi Ādāsamukha lên ngôi. Nhưng nhiều tai họa đã xảy đến với Gāmaṇicanda, và ông bị nhiều người khác nhau buộc tội về nhiều khoản khác nhau. Khi đang bị áp giải đến trước vua để chịu hình phạt, ông được nhiều người nhờ chuyển lời đến vua, và hỏi vua tìm cách giải quyết cho những rắc rối của họ.
+
+Nhà vua lắng nghe những lời buộc tội đối với Gāmaṇi cùng lời giải thích của ông về các tội đó. Tin rằng Gāmaṇi vô tội, vua đã tuyên các phán quyết mà cuối cùng đem lại lợi ích cho Gāmaṇi. Sau đó nhà vua tiếp tục giải quyết những vấn đề chứa trong các lời nhắn mà Gāmaṇi mang đến. Vua ban cho Gāmaṇi ngôi làng nơi ông sinh sống, miễn mọi thứ thuế, và tại đó Gāmaṇi sống hạnh phúc cho đến hết đời.
+
+Câu chuyện này được Đức Phật kể cho một số tỳ-kheo đang bàn luận về trí tuệ của Ngài.
+
+Gāmaṇicanda được đồng nhất với Ānanda. Trong câu chuyện, ông cũng được gọi là Gāmaṇi, Candagāmaṇi và Canda. Ja.ii.297-310.
 
 ## Notes

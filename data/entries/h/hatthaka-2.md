@@ -5,7 +5,7 @@ base_headword: "Hatthaka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -25,6 +25,6 @@ Hatthaka. A monk. He was a <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthaka. Một vị tỳ-kheo. Ông là người Sākyan và thích tranh luận với các phái ngoại đạo. Khi bị thua trong tay họ, ông thường dùng đến sự dối trá và né tránh, hoặc hẹn đối thủ gặp mình ở một nơi nào đó rồi đến trước giờ hẹn và loan tin rằng đối thủ đã né tránh mình. Việc này được trình lên Đức Phật, và Ngài đã quở trách Hatthaka về hành vi của ông. Vin.iv.1f.; cf. Dhp­a.iii.390.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Hatthadāṭha"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -48,6 +48,6 @@ Hatthadāṭha 01. A nephew of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hatthadāṭha 01. Cháu trai của Dāṭhopatissa I, chạy sang Jambudīpa khi Dāṭhopatissa bị Kassapa II đánh bại. Sau đó ông trở về cùng một đạo quân Damiḷa, đánh bại Dappula II khi đó đang tại vị, và lên ngôi vua dưới tên Dāṭhopatissa II (650-58 CN) (Cv.xliv.154). Cháu trai của ông, Aggabodhi, trở thành Phó vương và tổng trấn Dakkhiṇadesa. Hatthadāṭha ban Senāmagāma cho Kassapavihāra, Mahā Galla cho Padhānaghara, Kasagāma cho Morapariveṇa, và Puṇṇeli cho Thūpārāma. Ông xây dựng Kappurapariveṇa và Tiputthullapariveṇa trong Abhayuttaravihāra. Māṇavamma của Rohaṇa nổi dậy chống lại ông, nhưng bị đánh bại trong một trận chiến. Aggabodhi VI kế vị Dāṭhopatissa. Cv.xlv.22, 78 f.; xlvi.1; xlvii.4, 36, 39.
 
 ## Notes

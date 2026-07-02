@@ -5,7 +5,7 @@ base_headword: "Ghatāsanajātaka"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -28,6 +28,8 @@ The story was told to a monk whose hut was burnt by fire. The villagers undertoo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghatāsanajātaka (Ja 133). Thuở xưa, Bodhisatta là vua của các loài chim và sống cùng thần dân của mình trên một cái cây khổng lồ, cành lá của nó vươn ra bao phủ trên một hồ nước. Vua Nāga của hồ nước đó là Canda, tức giận vì phân chim rơi xuống nước, đã làm cho ngọn lửa phóng từ dưới nước lên cây, và Bodhisatta, nhận thấy mối nguy hiểm, đã cùng bầy chim của mình bay đi.
+
+Câu chuyện này được kể cho một vị tỳ-kheo có túp lều bị lửa thiêu rụi. Dân làng đã hứa sẽ xây cho ông một túp lều khác, nhưng có sự chậm trễ mất ba tháng, trong thời gian đó vị tỳ-kheo không có chỗ che mưa nắng nên không thể tiếp tục việc thiền định của mình. Đức Phật đã quở trách ông vì không tìm kiếm một nơi trú ẩn khác. Ja.i.471f.
 
 ## Notes

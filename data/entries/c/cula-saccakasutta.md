@@ -5,7 +5,7 @@ base_headword: "Cūḷa Saccakasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -34,6 +34,6 @@ Cūḷa Saccakasutta, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Saccakasutta, Cūla Saccakasutta. Saccaka Nigaṇṭhīputta đi khắp Vesālī nói rằng ông không thể tìm thấy đối thủ ngang tầm của mình trong việc tranh luận. Ông gặp Assaji và, sau một cuộc tranh luận sơ bộ với ngài, đã cùng với một đoàn tùy tùng lớn các người Licchavī đi tìm Đức Phật trong Mahā Vana. Ông chất vấn Đức Phật về phương pháp huấn luyện của Ngài, và Đức Phật giải thích điều này cho ông. Cuộc nói chuyện sau đó chuyển sang vấn đề Bản ngã, và Đức Phật chỉ ra sự trống rỗng trong các lập luận của Saccaka. Saccaka (ở đây được gọi là Aggivessana) từ chối thừa nhận thất bại cho đến khi Yakkha Vajirapāṇī đe dọa sẽ đánh gục ông. Saccaka bị dồn ép đến mức phải nhượng bộ hết điểm này đến điểm khác cho đến khi mồ hôi túa ra trên trán, và Đức Phật chỉ cho đám đông tụ tập thấy da của Ngài vẫn hoàn toàn khô ráo như thế nào. Cuối cùng, Saccaka mời Đức Phật và các đệ tử của Ngài đến dùng bữa vào ngày hôm sau. MN.i.227ff.
 
 ## Notes

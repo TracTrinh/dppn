@@ -5,7 +5,7 @@ base_headword: "Mahā Kassapa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Kassapa. An eminent Thera of Ceylon, incumbent of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kassapa. Một vị Thera xuất chúng của Tích Lan, trụ trì của *vihāra* Udumbaragiri, người mà, với tư cách là vị sư trưởng thâm niên nhất, chịu trách nhiệm về cuộc cải cách Tăng đoàn do Parakkamabāhu I thực hiện. Cv.lxxviii.6, 16, 57; Cv.Trs.ii.102, n.2.
 
 ## Notes

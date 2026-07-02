@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -34,6 +34,8 @@ Mahā Nāma 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 02. Mahā Nāma Thera. Một trong nhóm Pañcavaggiyā (Ja.i.82). Ông đã trở thành một *Sotāpanna* vào ngày thứ ba sau buổi thuyết giảng Dhammacakkappavattanasutta. Ông đã trở thành một *Arahant* vào ngày thuyết giảng Anattalakkhaṇasutta, cùng với những vị Pañcavaggiyā khác (AN­a.i.84; MN­a.i.390).
+
+Mahā Nāma từng đến thăm Macchikāsaṇḍa, và ở đó *gahapati* Citta, nhìn thấy ông đang đi khất thực và hài lòng với phong thái của ông, đã mời ông đến nhà mình, cúng dường cho ông một bữa ăn, và lắng nghe một bài pháp thoại do ông thuyết giảng. Citta vô cùng hài lòng, và đã dâng cúng khu vườn thượng uyển Ambāṭakavana của mình cho Mahā Nāma như một món quà dành cho Tăng đoàn và đã xây dựng một tu viện lớn ở đó. Dhp­a.ii.74.
 
 ## Notes

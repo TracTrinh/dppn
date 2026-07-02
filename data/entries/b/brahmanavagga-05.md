@@ -5,7 +5,7 @@ base_headword: "Brāhmaṇavagga"
 disambiguator: "05"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brāhmaṇavagga 05. The twenty-sixth section of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brāhmaṇavagga 05. Phần thứ hai mươi sáu của Dhammapada.
 
 ## Notes

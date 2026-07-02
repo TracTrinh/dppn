@@ -5,7 +5,7 @@ base_headword: "Hemavata"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hemavata. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemavata. Một thủ lĩnh Yakkha, được các đệ tử của Đức Phật cầu khấn khi cần thiết (DN.iii.204). Vị này có mặt khi Mahā Samayasutta được thuyết giảng (DN.ii.256). Vị này là bạn của Sātāgira (*q.v.* để biết câu chuyện của vị này).
 
 ## Notes

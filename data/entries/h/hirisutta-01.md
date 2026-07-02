@@ -5,7 +5,7 @@ base_headword: "Hirisutta"
 disambiguator: "01"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -23,6 +23,6 @@ Hirisutta 01. A conversation between the Buddha and a *Deva* regarding *hiri* (c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hirisutta 01. Một cuộc đối thoại giữa Đức Phật và một vị thiên về *hiri* (tàm). SN.i.7.
 
 ## Notes

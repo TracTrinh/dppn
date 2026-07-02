@@ -5,7 +5,7 @@ base_headword: "Cunda"
 disambiguator: "04"
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -26,6 +26,6 @@ Cunda 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cunda 04. Một *rājakumāra* (vương tử), anh hoặc em trai của Cundī và, do đó, là con trai của Bimbisāra. (AN.iii.35)
 
 ## Notes

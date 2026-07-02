@@ -5,7 +5,7 @@ base_headword: "Hadayuṇhapariveṇa"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hadayuṇhapariveṇa. A monastery on <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hadayuṇhapariveṇa. Một tu viện trên Cetiyagiri, do Sena Ilaṅga xây dựng và giao cho các Dhammarucika. Cv.lii.18.
 
 ## Notes

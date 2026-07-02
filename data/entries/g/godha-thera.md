@@ -5,7 +5,7 @@ base_headword: "Godha Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Godha Thera. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Godha Thera. Một người Sākiyan. Một cuộc trò chuyện giữa ông và Mahā Nāma người Sākiyan được ghi lại trong Godhasutta (*q.v.*). SN.v.371.
 
 ## Notes

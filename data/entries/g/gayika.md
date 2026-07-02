@@ -5,7 +5,7 @@ base_headword: "Gāyikā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gāyikā. One of the four wives of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāyikā. Một trong bốn người vợ của Candakumāra. Ja.vi.148.
 
 ## Notes

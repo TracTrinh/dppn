@@ -5,7 +5,7 @@ base_headword: "Gaṇḍa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ Gaṇḍa. Gardener of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍa. Người làm vườn của Pasenadi, vua xứ Kusala. Chính ông là người đã dâng lên Đức Phật trái xoài mà hạt của nó sau này mọc thành Gaṇḍamba (Ja.iv.264). Apadāna Commentary (i.97) gọi người làm vườn này là Gaṇḍabba, còn *Divyāvadāna* (p.157) gọi ông là Gaṇḍaka.
 
 ## Notes
+
+- Nguyên bản ghi "king of Kusala" (không phải "Kosala" như thường thấy); giữ nguyên theo văn bản nguồn, không tự sửa.

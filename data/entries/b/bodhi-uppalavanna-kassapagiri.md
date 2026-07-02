@@ -5,7 +5,7 @@ base_headword: "Bodhī-uppalavaṇṇā Kassapagiri"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/053.html"
@@ -26,6 +26,6 @@ Bodhī-uppalavaṇṇā Kassapagiri. The name given to the enlarged monastery at
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhī-uppalavaṇṇā Kassapagiri. Tên được đặt cho tu viện mở rộng tại Issarasamaṇārāma do Kassapa I xây dựng. Cv.xxxix.11; xem thêm Cv.Trs.i.43, n.7.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gahapativagga"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gahapativagga 04. The thirteenth chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gahapativagga 04. Chương thứ mười ba của Saḷāyatanasaṁyutta. Chương này gồm các cuộc đối thoại giữa nhiều vị gia chủ danh tiếng ở một bên, và Đức Phật cùng chư tăng ở bên kia. SN.iv.109-24.
 
 ## Notes

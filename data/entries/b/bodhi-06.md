@@ -5,7 +5,7 @@ base_headword: "Bodhi"
 disambiguator: "06"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bodhi 06. A descendant of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhi 06. Hậu duệ của Dāṭhopatissa. Ông kết hôn với Buddhā (xem mục từ này), và có với bà một cô con gái tên là Lokitā. Cv.lvii.40.
 
 ## Notes

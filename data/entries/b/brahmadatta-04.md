@@ -5,7 +5,7 @@ base_headword: "Brahmadatta"
 disambiguator: "04"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -27,6 +27,6 @@ Brahmadatta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadatta 04. Brahmadatta Thera. Ngài là con trai của vua nước Kosala, và, sau khi chứng kiến sự oai vệ của Đức Phật tại lễ cung hiến Jetavana, ngài gia nhập Saṅgha và theo thời gian trở thành một vị Arahant. Một ngày nọ, trong lúc đi khất thực, ngài bị một vị Bà-la-môn nhục mạ, nhưng vẫn giữ im lặng. Vị Bà-la-môn nhục mạ ngài hết lần này đến lần khác, và mọi người kinh ngạc trước sự nhẫn nhục của Brahmadatta, người sau đó đã thuyết pháp cho họ về sự khôn ngoan của việc không đáp trả lại sự nhục mạ bằng sự nhục mạ. Vị Bà-la-môn vô cùng xúc động và gia nhập Saṅgha dưới sự hướng dẫn của Brahmadatta. Thag. vs. 441-6; Thag­a.i.460ff.
 
 ## Notes

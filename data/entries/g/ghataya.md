@@ -5,7 +5,7 @@ base_headword: "Ghaṭāya"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -28,6 +28,6 @@ Ghaṭāya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭāya. Một người Sākiyan ở Kapilavatthu, người đã xây dựng một tu viện gắn liền với Nigrodhārāma. Tại đây Mahā Suññatāsutta đã được thuyết giảng. MN.iii.110; MN­a.ii.907.
 
 ## Notes

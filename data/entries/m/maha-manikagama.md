@@ -5,7 +5,7 @@ base_headword: "Mahā Maṇikagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Maṇikagāma. A village granted by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Maṇikagāma. Một ngôi làng được trao tặng bởi Aggabodhi III. cho *vihāra* Jetavana. Cv.xliv.121.
 
 ## Notes

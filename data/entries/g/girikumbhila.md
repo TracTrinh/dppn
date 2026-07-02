@@ -5,7 +5,7 @@ base_headword: "Girikumbhila"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Girikumbhila. A *vihāra* in Ceylon built by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girikumbhila. Một *vihāra* ở Tích Lan do Lañjitissa xây dựng (Mhv.xxxiii.14). Tại buổi lễ hiến cúng *vihāra* này, Lañjitissa đã phân phát cho sáu mươi ngàn vị tỳ-kheo mỗi vị sáu bộ y phục (Mhv.xxxiii.26).
 
 ## Notes

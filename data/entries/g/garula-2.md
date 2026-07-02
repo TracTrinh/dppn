@@ -5,7 +5,7 @@ base_headword: "Garuḷā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -60,6 +60,18 @@ The *Garuḷas* are sometimes called <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Garuḷā, Garuḷas, Garuḍā, Garuḍas. Một loài chim thần thoại thường được nhắc đến cùng với các Nāga (e.g., Ja.iv.181, 202).
+
+Chúng sống trong các khu rừng *Simbali* (e.g., Ja.i.202) và thường có kích thước khổng lồ, đôi khi sải cánh dài tới một trăm năm mươi do-tuần (Ja.iii.397). Tiếng vỗ cánh của chúng có thể tạo ra bão tố, được gọi là gió Garuḍa (Ja.v.77). Cơn gió này có thể nhấn chìm cả một thành phố trong bóng tối và khiến nhà cửa sụp đổ vì sức mạnh dữ dội của nó (Ja.iii.188).
+
+Một Garuḷa có sức mạnh đủ để cuốn bay cả một cây đa, bứng cả gốc rễ lên (Ja.vi.177). Các Garuḷa là kẻ thù truyền kiếp của các Nāga (Ja.ii.13; iii.103) và sống ở những nơi có Nāga, chẳng hạn như đảo Seruma (Ja.iii.187). Niềm hạnh phúc lớn nhất của các Nāga là được thoát khỏi các cuộc tấn công của Garuḷa (Ja.iv.463). Bộ lông của một Garuḷa dày đến mức một người – như Naṭakuvera (Ja.iii.91) – có thể ẩn nấp trong đó mà con chim không hề hay biết. Đôi khi các Garuḷa mang hình dạng con người; có nói rằng hai vị vua Garuḷa từng đánh xúc xắc với các vị vua xứ Benares và đem lòng yêu hoàng hậu của họ, rồi đưa các bà về thành Garuḷa – một trong hai hoàng hậu là Sussondī (Ja 360, Ja.iii.187) và người kia là Kākātī (Ja 327, Ja.iii.91). Trong cả hai trường hợp, khi hoàng hậu bị phát hiện không chung thủy với người tình Garuḷa, bà đều bị trả về cho chồng. Các Garuḷa biết chú thuật Ālambāyana, mà không một Nāga nào có thể chống lại (Ja.vi.178, 184). Có nói rằng ngày xưa các Garuḷa không biết cách bắt Nāga hiệu quả; chúng bắt Nāga bằng cách túm lấy đầu, còn những Nāga nào đã nuốt đá lớn thì quá nặng để nhấc khỏi mặt đất; do đó các Garuḷa chết vì kiệt sức khi cố mang chúng đi. Về sau, các Garuḷa học được bí quyết này nhờ sự phản bội của vị khổ hạnh Karambiya, như được kể trong Paṇḍarajātaka (Ja 518, Ja.vi.175f).
+
+Các Garuḷa cũng được nhắc đến là đôi khi sống đời đạo đức, giữ trai giới và tuân giữ giới luật. Một ví dụ là vị vua Garuḷa được nhắc đến trong Paṇḍarajātaka, và một ví dụ khác là con trai của Vināta, người đã đến thăm khu vườn của Dhanañjaya Koravya và tặng một vòng hoa bằng vàng sau khi nghe Vidhurapaṇḍita thuyết giảng (Ja.vi.261f).
+
+Thân hình của Garuḷa rõ ràng được xem là có cấu tạo đặc biệt để bay nhanh, vì nguyên mẫu cổ xưa của máy bay được dựa trên hình tượng Garuḷa (Dhp­a.iii.135). Một trong năm đội canh gác do Sakka bổ nhiệm để bảo vệ Tāvatiṁsa khỏi các Asura được lập nên từ các Garuḷa (Ja.i.204).
+
+Bodhisatta (Ja.iii.187) và Sāriputta (Ja.iii.400), vào những dịp khác nhau, đều từng sinh làm vua Garuḷa. Simbalī là loài cây đặc trưng của cõi Garuḷa (Vsm.i.206). Garuḷa thường được thể hiện trong nghệ thuật dưới hình dạng một người có cánh (xem Fergusson: *Tree and Serpent Worship*, pl.xxvi.1; xxviii.1. etc.; cũng xem Gründwedel: *Buddhistische Kunst*, pp.47-50).
+
+Các Garuḷa đôi khi cũng được gọi là Supaṇṇa (*Suvaṇṇa*). Vv-a.9.
 
 ## Notes

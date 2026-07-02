@@ -5,7 +5,7 @@ base_headword: "Gambhīrasatta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gambhīrasatta. Four conditions – following after the good, hearing the Dhamma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gambhīrasatta. Bốn điều kiện – gần gũi người thiện, nghe Pháp, khéo tác ý đến đó, và sống đúng theo các giới điều của Pháp – nếu được tu tập, sẽ dẫn đến tuệ giác sâu xa. SN.v.412.
 
 ## Notes

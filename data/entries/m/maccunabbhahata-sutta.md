@@ -5,7 +5,7 @@ base_headword: "Maccunābbhāhata Sutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maccunābbhāhata Sutta. A name in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccunābbhāhata Sutta. Một cái tên trong Suttasaṅgaha (số 38) gọi cho Abbhāhatasutta.
 
 ## Notes

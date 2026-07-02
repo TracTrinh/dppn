@@ -5,7 +5,7 @@ base_headword: "Devakaṭasobbha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Devakaṭasobbha. A pool near <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devakaṭasobbha. Một hồ nước gần Kosambī. Gần đó có Pilakkhaguhā và *Paribbājakārāma*, nơi Ānanda từng viếng Sandaka và thảo luận với ông. MN.i.513; MN­a.ii.687.
 
 ## Notes

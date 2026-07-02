@@ -5,7 +5,7 @@ base_headword: "Macalavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Macalavagga. The ninth chapter of the *Catukkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Macalavagga. Chương thứ chín của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.83-91.
 
 ## Notes

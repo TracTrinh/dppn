@@ -5,7 +5,7 @@ base_headword: "Mahā Gāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Gāma. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Gāma. Một hồ chứa nước được xây dựng bởi Mahā Sena. Mhv.xxxvii.47.
 
 ## Notes

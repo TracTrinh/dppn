@@ -5,7 +5,7 @@ base_headword: "Gandhabbarājā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gandhabbarājā. The name given to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhabbarājā. Tên gọi dành cho Sakka trong Vidhurapaṇḍitajātaka (Ja 545, Ja.vi.260).
 
 ## Notes

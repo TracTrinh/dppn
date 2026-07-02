@@ -5,7 +5,7 @@ base_headword: "Devadahakkhaṇasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devadahakkhaṇasutta. Arahants need not strive earnestly in respect of the six-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadahakkhaṇasutta. Các Arahant không cần nỗ lực chuyên cần đối với lĩnh vực sáu căn, nhưng những vị còn là bậc hữu học (*sekhā*) thì phải làm như vậy. Các lý do cho điều này được nêu ra (SN.iv.124).
 
 ## Notes

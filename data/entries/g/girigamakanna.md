@@ -5,7 +5,7 @@ base_headword: "Girigāmakaṇṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Girigāmakaṇṇa. The residence of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girigāmakaṇṇa. Nơi ở của Cūḷa Sudhamma Thera (Vibh­a.452). Có lẽ nó là một tu viện gần Girigāma.
 
 ## Notes

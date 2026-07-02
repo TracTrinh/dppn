@@ -5,7 +5,7 @@ base_headword: "Girimānanda Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girimānanda Thera. Ông là con trai của vị tế sư của Vua Bimbisāra và, sau khi nhìn thấy uy lực của Đức Phật khi Đức Phật đi vào Rājagaha, ông đã gia nhập Tăng đoàn. Ông sống trong một ngôi làng để tu học, nhưng một ngày nọ, khi ông đến Rājagaha để thăm Đức Phật, nhà vua đã yêu cầu ông ở lại, hứa sẽ chăm lo cho ông. Tuy nhiên, nhà vua đã quên mất lời hứa của mình, và Girimānanda đã phải sống ở ngoài trời. Các vị thần, sợ làm ông ướt, đã ngừng không cho mưa rơi xuống. Nhà vua, quan sát thấy hạn hán và khám phá ra lý do của nó, đã xây cho ông một am thất tại đây vị Thera đã nỗ lực và trở thành một bậc *Arahant*.
+
+Trong thời đại của Sumedha Buddha, ông là một gia chủ, và khi vợ con qua đời, ông đã chạy trốn vào rừng trong sự đau buồn. Tại đây Đức Phật đã an ủi ông, và ông đã dâng hoa cho Đức Phật và hát những lời ca ngợi Ngài (Thag.vv.325-9; Thag­a.i.409ff; Ap.i.330f).
+
+Girisutta đã được thuyết giảng liên quan đến Girimānanda, khi ông đang nằm bệnh rất nặng. AN.v.108ff.
 
 ## Notes

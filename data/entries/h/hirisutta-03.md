@@ -5,7 +5,7 @@ base_headword: "Hirisutta"
 disambiguator: "03"
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,8 @@ The *Sutta* is a short dissertation on true friendship. A friend is one who help
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hirisutta 03. Bài *Sutta* thứ ba của Cūḷa Vagga trong Suttanipāta (Snp.vs.253-7). Bài này được thuyết giảng để trả lời các câu hỏi của một vị khổ hạnh. Vị này từng là một Bà-la-môn rất giàu có ở Sāvatthī trước khi Đức Phật ra đời. Ông đã từ bỏ hết của cải và trở thành một vị khổ hạnh tại Himavā. Tại đó, tràn đầy hoan hỷ khi nghe tin Đức Phật xuất hiện trên thế gian, ông đã đến Sāvatthī và đến thăm Ngài. Đức Phật thuyết pháp cho ông, và cuối bài pháp, ông gia nhập Tăng đoàn, chứng đắc quả vị *Arahant* (Snp­a.i.294f).
+
+Bài *Sutta* này là một luận giải ngắn về tình bạn chân chính. Một người bạn là người giúp đỡ khi cần thiết, không chỉ nói lời dễ nghe mà còn thật lòng với những lời ấy, người khuyến khích và nuôi dưỡng mọi điều thiện lành.
 
 ## Notes

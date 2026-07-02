@@ -5,7 +5,7 @@ base_headword: "Brahmaññasutta"
 disambiguator: "03"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmaññasutta 03. Few are they who reverence Brahmins, many they who do not. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmaññasutta 03. Số ít là những người tôn kính những vị Bà-la-môn, số đông là những người không làm như vậy. SN.v.468.
 
 ## Notes

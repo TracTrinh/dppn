@@ -5,7 +5,7 @@ base_headword: "Gaṇḍasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gaṇḍasutta. The body is like a festering sore (*gaṇḍa*), full of pus, wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇḍasutta. Thân này giống như một vết thương lở loét (*gaṇḍa*), đầy mủ, có chín lỗ hổng, luôn rỉ ra chất dơ. AN.iv.386f.
 
 ## Notes

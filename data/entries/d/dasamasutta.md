@@ -5,7 +5,7 @@ base_headword: "Dasamasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dasamasutta. Another name for the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dasamasutta. Tên khác của Aṭṭhakanāgarasutta.
 
 ## Notes

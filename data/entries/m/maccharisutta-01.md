@@ -5,7 +5,7 @@ base_headword: "Maccharīsutta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maccharīsutta 01. On the five disadvantages of staying too long in one place �
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maccharīsutta 01. Về năm bất lợi của việc ở lại một nơi quá lâu – người ta sinh tâm keo kiệt chia sẻ chỗ ở của mình, những gia đình cung cấp vật thực, vật dụng của mình, danh tiếng của mình, hoặc Pháp. AN.iii.258.
 
 ## Notes

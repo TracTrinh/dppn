@@ -5,7 +5,7 @@ base_headword: "Gāmaṇī"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gāmaṇī 01. A Tamil general and his stronghold, subdued by <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmaṇī 01. Một tướng quân người Tamil và thành trì của ông, bị Duṭṭhagāmaṇī chinh phục. Mhv.xxv.13.
 
 ## Notes

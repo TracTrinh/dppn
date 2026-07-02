@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasikkhāpada"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Nāmasikkhāpada. A rule formulated by the Buddha regarding the advisabili
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasikkhāpada. Một điều luật do Đức Phật ban hành liên quan đến tính hợp lý của việc những người không thực sự bị bệnh lại tiếp nhận thuốc men. Vin-a.iv.842; xem Vin.iv.102.
 
 ## Notes

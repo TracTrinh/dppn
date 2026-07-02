@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sīva"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -38,6 +38,8 @@ Another Thera of the same name is mentioned in the Commentaries and is described
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sīva, Cūla Sīva. Một Trưởng lão của Tích Lan. Có lần ông đã đi đến Jambudīpa, lên một chiếc thuyền tại Mahā Tittha, trên đó ông sống ẩn cư. Trên đường băng qua biển, trong khi nhìn vào đại dương, ông đã tu tập *āpokasiṇa* (đề mục nước) (Vsm.170).
+
+Một Thera khác có cùng tên được đề cập trong các Chú giải và được mô tả là một *Saṁyuttabhāṇaka*. Người ta nói rằng vì ông sống trong *mettā* (tâm từ) nên chất độc không có tác dụng đối với ông (Vsm.313; AN­a.i.865). Có lẽ ông sống vào thời của Brāhmaṇa Tissābhaya (xem từ này). Các đồng nghiệp của ông là Isidatta và Mahā Soṇa. Trong thời kỳ nguy hiểm, ông đã từ giã các đồng nghiệp của mình và đi đến lễ bái tại Mahā Vihāra. Ông thấy nó trống không và bắt đầu đi về phía nam, khi đó tinh linh của một cái cây gần đó, mang hình dáng con người, đã chăm sóc ông và hộ tống ông đến một ngôi làng gần Jajjaranadī, nơi ông được những người sống trong rừng (? *paṇṇakhādakamanussā*) hỗ trợ cho đến khi mối nguy hiểm qua đi (Vibh­a.446). Dīgha Commentary (DN­a.iii.883) có đề cập đến một Cūḷa Sīva khác và gọi ông là Tilokanagaravāsi (biến thể Lokuttaravāsī). Rõ ràng ông là một nhà chú giải nổi tiếng.
 
 ## Notes

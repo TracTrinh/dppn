@@ -5,7 +5,7 @@ base_headword: "Cūḷa Sīhanādasutta"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -28,6 +28,8 @@ Their goal is the goal of men without cravings, without attachments, without fac
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Sīhanādasutta, Cūla Sīhanādasutta. Những người đi theo Đức Phật vượt trội hơn những người đi theo các đạo sư khác ở niềm tin vào đạo sư của mình, niềm tin vào Pháp của Ngài, sự tuân thủ nghiêm ngặt các giới (*sīla*) và ở tình thương yêu dành cho những bạn đồng tu, cả cư sĩ và tỳ-kheo.
+
+Mục tiêu của họ là mục tiêu của những người không có tham ái, không có chấp thủ, không có sự bỡn cợt, không có tinh thần hiếu chiến, không có sự ám ảnh. Pháp của họ là hoàn hảo, được hiển bày một cách đúng đắn, được thuyết giảng một cách đúng đắn. MN.i.63ff.
 
 ## Notes

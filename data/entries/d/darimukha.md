@@ -5,7 +5,7 @@ base_headword: "Darīmukha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Darīmukha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Darīmukha. Một Đức Phật Độc giác (*Pacceka Buddha*). Xem Darimukhajātaka (Ja 378).
 
 ## Notes

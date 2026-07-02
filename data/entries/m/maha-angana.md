@@ -5,7 +5,7 @@ base_headword: "Mahā Aṅgana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Aṅgana. A locality in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Aṅgana. Một địa phương ở Anurādhapura mà *sīmā* của Mahā Vihāra đi qua; nó được gọi như vậy vì có một cây *aṅgaṇa* lớn mọc ở đó. Mbv.135,136.
 
 ## Notes

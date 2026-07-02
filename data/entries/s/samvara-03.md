@@ -5,7 +5,7 @@ base_headword: "Saṁvara"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Saṁvara 03. A chieftain of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvara 03. Một thủ lĩnh của các Asura, thiện xảo trong mưu kế. So sánh với Sambara. Ja.v.452, 454.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "04"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gilānasutta 04. The Buddha visits <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 04. Đức Phật đến thăm Mahā Kassapa đang nằm bệnh ở Pippalīguhā, và nói với vị này về bảy *bojjhaṅga*. Hoan hỷ với bài pháp, Kassapa bình phục. SN.v.79.
 
 ## Notes

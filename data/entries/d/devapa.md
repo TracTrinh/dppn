@@ -5,7 +5,7 @@ base_headword: "Devapa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devapa. A king of twenty-five *kappas* ago; a previous birth of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devapa. Một vị vua của hai mươi lăm *kappa* trước; một đời trước của Aḍḍhacandiya (Ap.i.231).
 
 ## Notes

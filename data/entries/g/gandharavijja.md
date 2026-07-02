@@ -5,7 +5,7 @@ base_headword: "Gandhāravijjā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -33,6 +33,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhāravijjā hay Gandhārīvijjā. Một loại chú thuật nhờ đó người ta có thể trở nên vô hình và biến hóa thành nhiều hình dạng, xuyên qua mọi chướng ngại, xuyên qua đất và nước, và chạm đến mặt trời mặt trăng (DN.i.213). Ở một chỗ khác (Ja.iv.498), chú thuật này được nhắc đến chỉ có công dụng làm cho mình trở nên vô hình.
+
+Chú giải Theragāthā (I.51f) phân biệt một loại Nhỏ và một loại Lớn. Pilindavaccha biết loại thứ nhất và nghĩ rằng Đức Phật sẽ dạy cho ông loại kia. Chú thuật này giúp ông có thể đi qua hư không và đọc được ý nghĩ của người khác.
+
+Buddhaghosa (DN­a ii.389) giải thích rằng chú thuật này được gọi như vậy, hoặc vì nó được phát minh bởi một vị hiền triết tên là Gandhāra, hoặc vì nó bắt nguồn từ xứ Gandhāra.
 
 ## Notes

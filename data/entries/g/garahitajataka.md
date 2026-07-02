@@ -5,7 +5,7 @@ base_headword: "Garahitajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ The story was told in reference to a discontented monk. Ja.ii.184.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Garahitajātaka (Ja 219). Có lần Bodhisatta là một con khỉ ở Himalaya, bị một người thợ rừng bắt được rồi đem dâng cho vua. Vua trở nên quý mến nó, và con khỉ học được lối sống của loài người. Vua thả nó ra, và khi các bạn bè nó trông thấy, chúng nằng nặc đòi nghe nó kể về cách con người sinh sống. Nó kể cho chúng nghe về lòng tham của con người đối với của cải, và về việc mỗi nhà đều có hai người chủ, một trong hai không có râu, có bộ ngực dài và tóc tết. Bầy khỉ, nghe những điều ngu xuẩn ấy, liền bịt tai và bỏ đi nơi khác, nói rằng chúng không thể chịu nổi khi sống ở một nơi đã nghe những điều thô tục như vậy! Nơi đó về sau được gọi là Garahitapiṭṭhipāsāṇa.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo bất mãn. Ja.ii.184.
 
 ## Notes

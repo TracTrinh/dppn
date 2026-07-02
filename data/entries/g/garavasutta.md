@@ -5,7 +5,7 @@ base_headword: "Gāravasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gāravasutta. As the Buddha sat under the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāravasutta. Khi Đức Phật đang ngồi dưới gốc cây đa Ajapāla, không lâu sau khi Giác ngộ (vào tuần lễ thứ năm, theo Chú giải, SN.A i.158), một ý nghĩ khởi lên trong tâm Ngài rằng Ngài nên có một ai đó để Ngài có thể xem là bậc thầy và tôn kính. Nhưng vì không thấy ai xứng đáng với sự tôn kính đó, Ngài quyết định lấy Pháp làm thầy của mình. Ngay khi đó, Sahampati hiện ra trước Ngài và nhắc rằng trong quyết định này, Ngài đang hành xử giống như mọi vị Phật đã từng hành xử. SN.i.138f.
 
 ## Notes

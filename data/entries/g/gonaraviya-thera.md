@@ -5,7 +5,7 @@ base_headword: "Goṇaraviya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,6 @@ Goṇaraviya Thera. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇaraviya Thera. *v.l.* Moraṇāḷa Thera. Một vị tỳ-kheo của Tích Lan, có lẽ là đồng môn của Mahā Sīva. Người ta nói rằng Mahā Sīva đang giảng giải cho ông về Mahā Saccakasutta, và rằng khi ngài đi đến đoạn Đức Phật buộc tội Saccaka không hiểu sự tu tập của thân, càng không hiểu sự tu tập của tâm, Goṇaraviya đã đặt quạt của mình sang một bên và bước đi, nói rằng Đức Phật không thể nói một điều như vậy; nhưng Mahā Sīva đã thuyết phục ông rằng đúng là như vậy. MN­a.i.463.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāmahālaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāmahālaka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāmahālaka (Dāmagallaka). Một tu viện ở Tích Lan, là chỗ ở của Trưởng lão Mahā Deva. Mhv.xxxvi.68.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maddava"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maddava 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddava 02. Vua của Sāgala ở quốc gia Madda. Con gái của ông được hứa hôn với Anitthigandha của Benares, nhưng cô qua đời trên đường đến nhà chồng. Snp­a.i.69.
 
 ## Notes

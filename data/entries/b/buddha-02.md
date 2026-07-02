@@ -5,7 +5,7 @@ base_headword: "Buddha"
 disambiguator: "02"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Buddha 02. A king of forty-one *kappas* ago, a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddha 02. Một vị vua cách đây bốn mươi mốt *kappa*, một kiếp trước của Trưởng lão Vacchapāla (Pāyāsadāyaka). Thag­a.i.160; Ap.i.157.
 
 ## Notes

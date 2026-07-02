@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgavihara"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Nāgavihara 02. A monastery built by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgavihara 02. Một tu viện được xây dựng bởi Aggabodhi I. để tưởng nhớ Vua Mahā Nāga (Cv.xlii.24) (xem Mahā Nāga 16). Jeṭṭhatissa III. đã chỉ định các ngôi làng Mātulaṅgaṇa và Odumbaraṅgaṇa cho *padhānaghara* ở đó. Cv.xliv.98.
 
 ## Notes

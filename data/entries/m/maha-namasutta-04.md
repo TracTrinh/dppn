@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasutta"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nāmasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasutta 04. Mahā Nāma đã hỏi Đức Phật, tại Nigrodhārāma, về việc làm thế nào một người trở thành một đệ tử, làm thế nào để trở thành một người đức hạnh và có đức tin, người ấy rộng lượng đến mức nào và được tuệ giác ban phước ra sao. Đức Phật đã trả lời những câu hỏi của ông. SN.v.395f.
 
 ## Notes

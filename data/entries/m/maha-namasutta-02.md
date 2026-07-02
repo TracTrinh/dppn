@@ -5,7 +5,7 @@ base_headword: "Mahā Nāmasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nāmasutta 02. The circumstances are similar to those of the above *Sutta*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāmasutta 02. Những tình huống đều tương tự như những tình huống của *Sutta* ở trên. Vị đệ tử cao quý, sở hữu lòng trung thành kiên định đối với Đức Phật, Pháp và Tăng đoàn, và là người trau dồi những giới hạnh được các bậc Thánh quý mến, một người như vậy được định sẵn để đến với *Nibbāna*. Mahā Nāma là một người như vậy. SN.v.371; 404.
 
 ## Notes

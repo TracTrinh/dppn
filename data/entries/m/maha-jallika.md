@@ -5,7 +5,7 @@ base_headword: "Mahā Jallika"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Jallika. A fishing village in Ceylon. In it was a fisherman, also called <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Jallika. Một làng chài ở Tích Lan. Trong đó có một ngư dân, cũng được gọi là Mahā Jallika, người đã bị Dāṭhāsena đánh bại. Ras.ii.107.
 
 ## Notes

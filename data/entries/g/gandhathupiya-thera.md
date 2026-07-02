@@ -5,7 +5,7 @@ base_headword: "Gandhathūpiya Thera"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhathūpiya Thera. An *Arahant*, probably identical with <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhathūpiya Thera. Một vị Arahant, có lẽ chính là Gandhamāliya (*q.v.*). Cùng những bài kệ được gán cho cả hai vị. Ap.i.267.
 
 ## Notes

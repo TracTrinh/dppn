@@ -5,7 +5,7 @@ base_headword: "Girikaṇḍaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,8 @@ The *vihāra*’s *gocaragāma* was a village called <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Girikaṇḍaka. Một *vihāra* ở Tích Lan được Vijayabāhu I tu sửa. (Cv.lx.60).
+
+*Gocaragāma* của *vihāra* này là một ngôi làng có tên là Vattakālaka (*q.v.*), nơi có một cô gái sinh sống, cô gái này nhờ vào niềm hoan hỷ tột độ của mình, đã tự mình di chuyển đến *vihāra* xuyên qua không trung. Vsm.143; Dhs-a.116.
 
 ## Notes

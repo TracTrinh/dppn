@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgatissavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nāgatissavihāra. A monastery in Ceylon where <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgatissavihāra. Một tu viện ở Tích Lan nơi Vohārikatissa đã dựng một chiếc lọng che phía trên *Thūpa*. Mhv.xxxvi.34.
 
 ## Notes

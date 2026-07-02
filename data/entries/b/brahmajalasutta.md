@@ -5,7 +5,7 @@ base_headword: "Brahmajālasutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -44,6 +44,10 @@ The *Sutta* is often quoted, sometimes even in the Canon, e.g., SN.iv.286, 287.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmajālasutta. *Sutta* đầu tiên của Dīghanikāya. Nó được thuyết cho *paribbājaka* Suppiya và người đệ tử của ông là Brahmadatta. Nó giải thích trước tiên về các *sīlā*, hay là các giới luật đạo đức, trong ba phần liên tiếp *cūḷa* (ngắn gọn), *majjhima* (trung bình), và *mahā* (chi tiết) và sau đó tiến hành phơi bày thành sáu mươi hai phần chia những sự suy đoán và lý thuyết khác nhau liên quan đến "linh hồn" (DN.i.46). Các tên gọi khác cho nó là Atthajāla, Dhammajāla, Diṭṭhijāla, và Saṅgāmavijaya. Vào cuối bài giảng mười hệ thống thế giới đã rung chuyển (DN.i.46). Người ta nói rằng có lần khi Piṇḍapātiya Thera tụng *Sutta* này tại *vihāra* Kalyāṇiya, tâm ngài định trên Đức Phật, trái đất đã rung chuyển; hiện tượng tương tự đã xảy ra khi Dīghabhāṇaka Theras tụng nó tại Ambalaṭṭhikā, ở phía đông của Lohapāsāda (DN­a.i.131).
+
+Brahmajāla là *Sutta* đầu tiên được thuyết ở Suvaṇṇabhūmi, khi Soṇa và Uttara viếng thăm nơi này với tư cách là những nhà truyền giáo (Mhv.xii.51).
+
+*Sutta* thường được trích dẫn, đôi khi ngay cả trong Chánh Tạng, ví dụ, SN.iv.286, 287.
 
 ## Notes

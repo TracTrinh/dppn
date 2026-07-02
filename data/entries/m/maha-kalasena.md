@@ -5,7 +5,7 @@ base_headword: "Mahā Kāḷasena"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Kāḷasena. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Kāḷasena. *v.l.* Kāḷasena. Vị Yakkha thủ lĩnh của Sirīsavatthu, người đã kết hôn với Polamittā của Laṅkāpura (Mhv­ṭ. 259f). Xem Kāḷasena (2).
 
 ## Notes

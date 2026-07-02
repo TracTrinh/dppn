@@ -5,7 +5,7 @@ base_headword: "Giraggasamajjā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -38,6 +38,10 @@ The Sanskrit equivalent is *Girivaggusamāgama*. AvS.ii.24.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giraggasamajjā. Một lễ hội được tổ chức từ lúc này đến lúc khác (*kālānukālaṁ*) tại Rājagaha. (Có lẽ ở các nơi khác cũng vậy. Bv­a. p.102 nói rằng đó là một lễ hội hàng năm được tổ chức trên khắp Jambudīpa và có từ thời Dīpaṅkara Buddha; xem thêm Ja.iii.538). Nó được tổ chức ngoài trời vào buổi chiều và có sự tham gia của tất cả mọi người thuộc mọi tầng lớp xã hội từ Aṅga và Magadha. Những chỗ ngồi đặc biệt được chuẩn bị cho những khán giả lỗi lạc hơn, và các hoạt động lễ hội dường như chủ yếu bao gồm các điệu múa *nautch* (Snp­a.i.326). Theo các lời kể của Vinaya thì cũng có ca hát và âm nhạc, và lễ hội không chỉ có sự tham dự của các nam cư sĩ, mà còn của các thành viên trong các giáo đoàn, bởi vì nếu không thì có lẽ các Sattarasavaggiya và Chabbaggiya đã không có mặt ở đó (Vin.ii.107f, 150; iv.85, 267). Thức ăn được cung cấp cũng như các trò giải trí. Buddhaghosa (Vin-a.iv.831) giải thích tên gọi của lễ hội như sau: *giraggasamajjo ti girimhi aggasamajjo girissa vā aggadese sammajo*, và nói cho chúng ta biết rằng nó đã được thông báo trong bảy ngày trước khi khai mạc, và được tổ chức trên vùng đất bằng phẳng dưới bóng của một ngọn đồi và bên ngoài thành phố. Có lẽ nó ban đầu là một lễ hội tôn giáo của những người ngoại giáo, một sự tồn tại của những điệu múa giao hoan cộng đồng cổ xưa (xem Dial.i.7, n.4; VT.iii.71, n.3).
+
+Chính tại một dịp Giraggasamajjā mà Sāriputta và Moggallāna đã quyết định rời bỏ thế gian (Dhp­a.i.73f.; AN­a.i.89, etc.).
+
+Từ tương đương trong tiếng Phạn là *Girivaggusamāgama*. AvS.ii.24.
 
 ## Notes

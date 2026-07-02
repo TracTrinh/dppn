@@ -5,7 +5,7 @@ base_headword: "Madhuvāseṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Madhuvāseṭṭha. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhuvāseṭṭha. Một Bà-la-môn ở Sāketa, cha của Trưởng lão Mahā Nāga (Thag­a.i.442). Có lẽ ông chính là người được đồng nhất với con vượn trong Bhisajātaka (Ja 488). Ja.iv.314.
 
 ## Notes

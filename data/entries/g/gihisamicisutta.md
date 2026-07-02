@@ -5,7 +5,7 @@ base_headword: "Gihīsāmīcisutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gihīsāmīcisutta. The Buddha tells <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gihīsāmīcisutta. Đức Phật nói cho Anāthapiṇḍika biết về bốn điều tạo thành bổn phận của một gia chủ – ông ta phục vụ Tăng đoàn bằng những việc cúng dường y phục, thức ăn, chỗ ở, các vật dụng và thuốc men để sử dụng khi đau ốm. AN.ii.65.
 
 ## Notes

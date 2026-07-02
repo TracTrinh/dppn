@@ -5,7 +5,7 @@ base_headword: "Samayasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Samayasutta 02. On six occasions when one should visit a monk. AN.iii.317.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samayasutta 02. Về sáu dịp mà người ta nên đến thăm một vị tỳ-kheo. AN.iii.317.
 
 ## Notes

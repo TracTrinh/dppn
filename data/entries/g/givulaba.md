@@ -5,7 +5,7 @@ base_headword: "Givulabā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Givulabā. A village in Ceylon where the forces of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Givulabā. Một ngôi làng ở Tích Lan nơi quân đội của Parakkamabāhu I đã giành được một chiến thắng vang dội. Cv.lxxiv.91.
 
 ## Notes

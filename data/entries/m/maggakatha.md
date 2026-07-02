@@ -5,7 +5,7 @@ base_headword: "Maggakathā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maggakathā. The ninth division of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggakathā. Phần thứ chín thuộc Mahā Vagga của Paṭisambhidāmagga.
 
 ## Notes

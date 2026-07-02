@@ -5,7 +5,7 @@ base_headword: "Gaṅgeyya"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gaṅgeyya 02. One of the ten families of elephants. Each elephant had the stren
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgeyya 02. Một trong mười dòng voi. Mỗi con voi có sức mạnh bằng một trăm người. MN­a.i.262; AN­a.ii.822; Bv­a.37.
 
 ## Notes

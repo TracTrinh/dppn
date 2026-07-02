@@ -5,7 +5,7 @@ base_headword: "Heraññakāni Thera"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -34,6 +34,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Heraññakāni Thera. Ông là con trai của một quan chức của vua xứ Kosala, người đã trở thành một tên cướp. Khi cha qua đời, ông kế thừa vị trí của cha. Ông có mặt khi Đức Phật nhận Jetavana, và, tràn đầy kinh ngạc, ông gia nhập Tăng đoàn, nơi ông sớm chứng đắc quả vị *Arahant*. Về sau, ông cũng thuyết phục được em trai mình, dù khá khó khăn, xuất gia làm tỳ-kheo.
+
+Vào thời Padumuttara Buddha, ông là một người lao công (*bhataka*), và thấy đệ tử của Đức Phật, Sujāta, đang tìm vải vụn để may y, ông đã tặng cho vị ấy nửa tấm vải (Thag.vs.145-6; Thag­a.i.266f).
+
+Ông có lẽ chính là Upaḍḍhadussadāyaka của bộ Apadāna. Ap.ii.435f.
 
 ## Notes

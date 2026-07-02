@@ -5,7 +5,7 @@ base_headword: "Bojjhā"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Bojjhā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhā, Bocchā. Một *upāsikā* xuất chúng. Aṅguttaranikāya (AN.iv.259, cũng như 347) ghi lại một chuyến viếng thăm của bà đến Đức Phật tại Jetavana. Đức Phật khi đó đã thuyết pháp cho bà về *uposatha* và những lợi ích của việc thọ trì ngày bát quan trai.
 
 ## Notes

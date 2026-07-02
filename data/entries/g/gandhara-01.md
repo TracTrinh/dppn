@@ -5,7 +5,7 @@ base_headword: "Gandhāra"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gandhāra 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gandhāra 01. Một vị Pacceka Buddha được nhắc đến trong một danh sách tên. MN.iii.69; Ap­a.i.106.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Goṇagāmuka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Goṇagāmuka. A locality near the *Kālavāpi* where <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṇagāmuka. Một địa phương gần *Kālavāpi* nơi Gokaṇṇa bị Rakkhadīvāna đánh bại (Cv.lxx.70). Liệu nơi này có cùng địa điểm với Gonagāmaka không? Nhưng xem Cv.Trs.i.293, n.1.
 
 ## Notes

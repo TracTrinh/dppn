@@ -5,7 +5,7 @@ base_headword: "Brahmadeva"
 disambiguator: "02"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmadeva 02. A *Khattiya* of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadeva 02. Một người *Khattiya* ở Haṁsavatī mà Tissa Buddha đã thuyết bài pháp đầu tiên cho ông (Bv­a.189). Về sau ông trở thành vị đệ tử hàng đầu của Đức Phật. Bv.xviii.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ghaṭṭiyā"
 disambiguator: ""
 letter: "G"
 section: "Gh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/033.html"
@@ -25,6 +25,6 @@ Ghaṭṭiyā. One of the four wives of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghaṭṭiyā. Một trong bốn người vợ của Candakumāra. Ja.iv.148.
 
 ## Notes

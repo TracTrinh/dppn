@@ -5,7 +5,7 @@ base_headword: "Dantika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dantika. A district in South India where <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dantika. Một quận ở Nam Ấn nơi Laṅkāpura đã thiêu rụi hai mươi bảy ngôi làng. Cv.lxxvi.172.
 
 ## Notes

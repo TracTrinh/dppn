@@ -5,7 +5,7 @@ base_headword: "Madhupiṇḍika Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,8 @@ Thirty-four *kappas* ago he was king four times under the name of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Madhupiṇḍika Thera. Một vị Arahant. Trong thời của Siddhattha Buddha, ngài là một thợ săn, và, khi gặp Đức Phật trong rừng, ngài đã dâng cho Đức Phật một chiếc bánh mật ong, khi Đức Phật xuất *samādhi*.
+
+Ba mươi bốn kappa trước, ngài làm vua bốn lần dưới cái tên Sudassana, và lúc ngài sinh ra, những trận mưa mật ong đã trút xuống. Ap.i.136f.
 
 ## Notes

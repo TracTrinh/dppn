@@ -5,7 +5,7 @@ base_headword: "Saṁvarasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saṁvarasutta. On the four efforts: to restrain, abandon, make become and watch
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṁvarasutta. Về bốn sự tinh tấn: chế ngự, đoạn trừ, tu tập và hộ trì. AN.ii.6.
 
 ## Notes

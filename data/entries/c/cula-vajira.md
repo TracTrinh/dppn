@@ -5,7 +5,7 @@ base_headword: "Cūḷa Vajira"
 disambiguator: ""
 letter: "C"
 section: "C."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/034.html"
@@ -27,6 +27,6 @@ Cūḷa Vajira, <span class="dppn-term dppn-term-t15" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cūḷa Vajira, Cūla Vajira. Một nhà ngữ pháp, tác giả của một tác phẩm mang tên Atthabyakkhyāna. Gv.60; nhưng xem p.70, nơi nó được cho là của Cūḷa Vimalabuddhi.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ekasāṭaka"
 disambiguator: ""
 letter: "E"
 section: "E."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/024.html"
@@ -42,6 +42,12 @@ The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ekasāṭaka. Một vị Bà-la-môn rất nghèo sống vào thời Vipassī Buddha. Ông được gọi như vậy vì ông và vợ của mình chỉ có chung một chiếc áo choàng ngoài duy nhất, ai có việc đi ra ngoài thì người đó sẽ mặc. Đức Phật có thói quen thuyết pháp mỗi bảy năm một lần. Trong một dịp như vậy, vị Bà-la-môn đã đến nghe bài thuyết pháp của Đức Phật, và cảm thấy vô cùng hoan hỷ, mong muốn thực hiện một sự cúng dường, ông đã dâng lên Đức Phật chiếc áo choàng ngoài của mình sau một cuộc đấu tranh tư tưởng gay gắt về việc liệu ông có khả năng cúng dường món quà này hay không. Sau khi dâng món quà, ông reo lên vui sướng, nói rằng: "Ta đã chiến thắng". Vị vua của thành phố, Bandhumā, khi nghe tiếng reo đó và biết được nguyên do, đã ban tặng cho vị Bà-la-môn nhiều món quà quý giá, bao gồm cả một *sabbaṭṭhaka*, tất cả những thứ này sau đó ông đều dâng lên Đức Phật, chỉ giữ lại, theo yêu cầu đặc biệt của nhà vua, một cặp y phục duy nhất cho bản thân và vợ. Về sau, nhà vua đã phong Ekasāṭaka làm quốc sư (AN­a.i.92ff; also Thag­a.ii.136).
+
+*sabbaṭṭhaka* dường như là một món quà gồm nhiều thứ theo nhóm tám: tám con voi, tám con ngựa, tám ngàn đồng tiền, etc. (Dhp­a.iii.3); nhưng xem Mil.Trs.ii.147, n.1, nơi nó được nói đến như một chức vụ.
+
+Ekasāṭaka được đề cập trong Chú giải Aṅguttara (*loc.cit.*) là một tiền kiếp của Trưởng lão Mahā Kassapa. Chú giải Dhammapada (Dhp­a.iii.1ff) đề cập đến một vị Bà-la-môn khác, tên là Cūḷa Ekasāṭaka. Tuy nhiên, ông được cho là đã sống vào thời của Gotama Buddha, mặc dù câu chuyện được kể lại, về hầu hết mọi khía cạnh, đều giống hệt với câu chuyện được kể ở trên, ngoại trừ việc vị vua trong câu chuyện về Cūḷa Ekasāṭaka là Pasenadi, vua của Kosala. Không có đề cập nào về việc vị Bà-la-môn được phong làm *Purohita*. Hơn nữa, vị Bà-la-môn này chỉ nhận được *sabbacatukka* (nhóm bốn) như một món quà, chứ không phải *sabbaṭṭhaka*. Quan trọng hơn nữa, Cūḷa Ekasāṭaka được đồng nhất với Mahā Ekasāṭaka, người sau được đề cập là đã sống vào thời Vipassī Buddha. Ở đây rõ ràng là chúng ta có một sự nhầm lẫn giữa các truyền thuyết.
+
+Câu chuyện về Ekasāṭaka được kể trong Milindapañha (pp.115, 291), như một trong bảy trường hợp mà một hành động sùng kính đã nhận được phần thưởng ngay trong kiếp sống này.
 
 ## Notes

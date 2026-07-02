@@ -5,7 +5,7 @@ base_headword: "Bojjhaṅgasākaccavagga"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -25,6 +25,6 @@ Bojjhaṅgasākaccavagga. The sixth chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bojjhaṅgasākaccavagga. Phẩm thứ sáu của Bojjhaṅgasaṁyutta. SN.v.102ff.
 
 ## Notes

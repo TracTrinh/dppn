@@ -5,7 +5,7 @@ base_headword: "Mahā Dhana"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Dhana 04. A very rich man of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Dhana 04. Một người đàn ông rất giàu có của Rājagaha. Ông ta chỉ có một người con trai, và không dạy bảo điều gì cho cậu, phòng trường hợp cậu sẽ chán ngán việc học. Cậu bé, khi lớn lên, đã kết hôn với một người phụ nữ cũng không có học vấn. Sau cái chết của cha mình, anh ta đã phung phí tất cả của cải và tìm kiếm nơi nương tựa trong một nhà tế bần (anāthasālā). Những tên trộm đã nhìn thấy anh ta ở đó, và vì anh ta còn trẻ khỏe nên chúng đã thu nạp anh ta. Một đêm nọ bọn trộm đã đột nhập vào một ngôi nhà, nhưng người chủ đã thức giấc và truy đuổi chúng, bắt được con trai của Mahā Dhana, người này đã bị đưa ra trước vua. Vua đã ra lệnh chém đầu anh ta. Kỹ nữ của thành phố, Sulasā, đã nhìn thấy anh ta đang bị dẫn đi hành quyết, và nhớ lại tình bạn trong quá khứ của họ, đã cho anh ta đồ ngọt và thức uống, hối lộ người lính canh để cho anh ta nhận chúng. Vào khoảnh khắc đó Moggallāna, khi nhìn thấy số phận của chàng thanh niên bằng thiên nhãn của mình, đã xuất hiện trước mặt anh ta và được cho một số đồ ngọt. Sau khi bị hành quyết, người đàn ông này đã được tái sinh làm một vị thọ thần, và một ngày nọ đã bắt cóc Sulasā khi cô đang đi dạo trong công viên và giữ cô trong một tuần. Mẹ của Sulasā đã tham vấn Moggallāna về sự biến mất của cô, và được bảo rằng cô sẽ trở về Veḷuvana khi hết một tuần. Khi thời điểm đến, vị thọ thần đã đưa Sulasā trở lại và bỏ cô ở rìa của đám đông đang nghe Đức Phật thuyết giảng tại Veḷuvana. Sulasā đã được nhận ra, và thuật lại những gì đã xảy ra. Đức Phật đã biến điều này thành chủ đề cho một bài pháp thoại, điều này đã mang lại lợi ích cho nhiều chúng sinh. Pv.i.1; Pv-a.3ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Buddhālaṅkāra"
 disambiguator: ""
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -26,6 +26,6 @@ Buddhālaṅkāra. A Pāli poem based on the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddhālaṅkāra. Một bài thơ tiếng Pāli dựa trên Sumedhakathā của Sīlavaṁsa. Bode, 43.
 
 ## Notes

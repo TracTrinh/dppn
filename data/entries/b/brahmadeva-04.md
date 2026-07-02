@@ -5,7 +5,7 @@ base_headword: "Brahmadeva"
 disambiguator: "04"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmadeva 04. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadeva 04. *Aggasāvaka* của Metteyya Buddha. Anāgatavaṁsa, vs. 97.
 
 ## Notes

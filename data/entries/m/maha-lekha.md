@@ -5,7 +5,7 @@ base_headword: "Mahā Lekha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Lekha. A *pariveṇa* in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Lekha. Một *pariveṇa* trong Abhayagirivihāra; nó được xây dựng bởi Mahinda II. Cv.xlviii.135.
 
 ## Notes

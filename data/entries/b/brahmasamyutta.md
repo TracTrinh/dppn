@@ -5,7 +5,7 @@ base_headword: "Brahmasaṁyutta"
 disambiguator: ""
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -25,6 +25,6 @@ Brahmasaṁyutta. The sixth section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmasaṁyutta. Phần thứ sáu của Saṁyuttanikāya. SN.i.136-59.
 
 ## Notes

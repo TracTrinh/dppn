@@ -5,7 +5,7 @@ base_headword: "Brahmadeva"
 disambiguator: "01"
 letter: "B"
 section: "Br."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/054.html"
@@ -24,6 +24,6 @@ Brahmadeva 01. One of the two chief disciples of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Brahmadeva 01. Một trong hai vị đệ tử hàng đầu của Revata Buddha. Bv.vi.21; Ja.i.35.
 
 ## Notes

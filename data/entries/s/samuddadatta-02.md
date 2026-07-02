@@ -5,7 +5,7 @@ base_headword: "Samuddadatta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samuddadatta 02. A king who traced his descent from <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samuddadatta 02. Một vị vua truy nguyên dòng dõi của mình từ Mahā Sammata. Ông là vị đầu tiên trong một triều đại gồm hai mươi lăm vị vua trị vì ở Rājagaha. Mhv­ṭ.129.
 
 ## Notes

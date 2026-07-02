@@ -5,7 +5,7 @@ base_headword: "Buddha"
 disambiguator: "04"
 letter: "B"
 section: "B."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/052.html"
@@ -27,6 +27,6 @@ Buddha 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Buddha 04. Một vị Kesadhātu, vị tướng của Parakkamabāhu I. Ông đã giáng một đòn thất bại nặng nề cho Māṇābharaṇa tại Pūnagāmatittha. Cv.lxxii.7.
 
 ## Notes

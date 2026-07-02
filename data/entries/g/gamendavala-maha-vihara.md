@@ -5,7 +5,7 @@ base_headword: "Gāmeṇḍavāla Mahā Vihāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -35,6 +35,10 @@ Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gāmeṇḍavāla Mahā Vihāra. Một tu viện ở Rohaṇa. Đây là nơi cư trú của Cūḷa Piṇḍapātikatissa và của Milakkhatissa (AN­a.i.21).
+
+Rõ ràng tu viện này nằm trong tầm dễ dàng đi đến từ Cittalapabbata và Kājaragāma (AN­a.i.22).
+
+Có lần Trưởng lão Maliyadeva đã tụng đọc Chachakkasutta tại tu viện này, và khi tụng xong, sáu mươi vị tỳ-kheo đã trở thành Arahant. MN­a.ii.1024.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maddī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -40,6 +40,10 @@ The next day <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maddī. Vợ của Vessantara đồng thời cũng là chị họ của ngài, là con gái của vua Madda. Khi Vessantara bị lưu đày, bà cùng với hai người con, Jāli và Kaṇhājinā, đã tháp tùng ngài. Tại Vaṅkagiri, bà và các con ở trong một trong những thảo am do Vissakamma cung cấp cho họ, theo lệnh của Sakka. Trong khi bà đi hái trái cây và lá, Jūjaka đã xin được từ Vessantara hai đứa trẻ làm nô lệ. Maddī vào đêm hôm trước đã có một giấc mơ cảnh báo bà về điều này, nhưng Vessantara đã an ủi bà. Khi bà trở về sau chuyến đi tìm thức ăn muộn hơn thường lệ, do các vị thần đã bày mưu giữ bà lại, bà phát hiện các con đã mất tích, và tìm kiếm chúng suốt đêm. Vào lúc bình minh ngày hôm sau, khi bà tỉnh lại sau một cơn ngất xỉu như chết, Vessantara đã kể cho bà nghe về việc đem cho những đứa trẻ, mô tả những phép màu đã xuất hiện cùng với món quà và cho thấy chúng báo trước rằng ngài sẽ đạt được sự Tỉnh giác như thế nào. Maddī, khi hiểu ra, đã tự mình tùy hỷ với món quà.
+
+Ngày hôm sau Sakka xuất hiện dưới lớp ngụy trang của một Bà-la-môn và yêu cầu Vessantara, hãy cho ông Maddī làm nô lệ. Thấy ngài chần chừ, Maddī đã thúc giục ngài hãy để bà đi, nói rằng bà thuộc về ngài để ngài muốn làm gì với bà thì làm. Món quà được trao và được Sakka chấp nhận. Tuy nhiên, sau đó ông đã trả lại bà, kèm theo những lời ca ngợi Vessantara và Maddī. Để biết những chi tiết này, xem Vessantarajātaka (Ja 547); cũng xem Cp.i.9; Mil.117, 281f; Ja.i.77; Dhp­a.i.406.
+
+Maddī được đồng nhất với Rāhulamātā.
 
 ## Notes

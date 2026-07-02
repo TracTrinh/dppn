@@ -5,7 +5,7 @@ base_headword: "Gomayagāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gomayagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gomayagāma. Một ngôi làng ở Rohaṇa. Cv.lxxv.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gaṇaka Moggallāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gaṇaka Moggallāna. A Brahmin teacher of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṇaka Moggallāna. Một vị thầy Bà-la-môn ở Sāvatthī. Ông đến thăm Đức Phật tại Pubbārāma, và Đức Phật đã thuyết cho ông bài Gaṇaka Moggallānasutta, sau đó, người ta nói rằng ông đã trở thành đệ tử của Đức Phật (MN.iii.1ff). Tên gọi và môn học của ông dường như cho thấy ông làm nghề kế toán.
 
 ## Notes

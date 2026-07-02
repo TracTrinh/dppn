@@ -5,7 +5,7 @@ base_headword: "Gilānasutta"
 disambiguator: "08"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gilānasutta 08. The Buddha visits the sick ward in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gilānasutta 08. Đức Phật đến thăm khu bệnh nhân tại Kūṭāgārasāla ở Vesālī và nói chuyện với một vị tỳ-kheo bị bệnh, nói cho vị này biết rằng bằng cách thực hành năm điều trong khi bị bệnh, người ta có thể chắc chắn về sự đoạn diệt nhanh chóng của các *āsava*, năm điều này là *asubhānupassanā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, sabbasaṅkhāresu aniccānupassanā* và *maraṇasaññā*. AN.iii.142; cf. Girisutta.
 
 ## Notes

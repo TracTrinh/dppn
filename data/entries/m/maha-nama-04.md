@@ -5,7 +5,7 @@ base_headword: "Mahā Nāma"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Nāma 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāma 04. Một người Licchavi. Một ngày nọ khi đang đi dạo trong Mahā Vana ở Vesālī, ông đã nhìn thấy một số người Licchavi trẻ tuổi đang bày tỏ lòng tôn kính đối với Đức Phật và đã buộc tội họ về sự không nhất quán. Để biết thêm chi tiết, hãy xem Kumārasutta (AN.iii.75ff.).
 
 ## Notes

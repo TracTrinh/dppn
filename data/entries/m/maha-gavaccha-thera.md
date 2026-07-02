@@ -5,7 +5,7 @@ base_headword: "Mahā Gavaccha Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -36,6 +36,8 @@ In the past he gave a drink of water to <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Mahā Gavaccha. Vị này là con trai của Samiddhi, một vị Bà-la-môn ở Nālaka thuộc Magadha. Mahā Gavaccha vô cùng ngưỡng mộ Sāriputta, và khi biết rằng ngài đã gia nhập Tăng đoàn, ông đã làm theo tấm gương của Sāriputta, trở thành một bậc Arahant vào đúng thời điểm.
+
+Trong quá khứ, ông đã dâng nước uống cho Đức Phật Padumuttara và là một tín đồ ngoan đạo của Đức Phật Sikhī (Thag.vs.12; Thag­a.i.57). Ông có lẽ đồng nhất với Udakadāyaka của Apadāna. Ap.ii.437; nhưng những vần kệ tương tự được quy cho Gaṅgātiriya (Thag­a.i.249).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dāṭhāpāsāda"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dāṭhāpāsāda. A building erected by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dāṭhāpāsāda. Một tòa nhà do Aggabodhi I xây dựng tại Hatthakucchivihāra. Cv.xlii.21.
 
 ## Notes

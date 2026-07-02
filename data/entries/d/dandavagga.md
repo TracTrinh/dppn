@@ -5,7 +5,7 @@ base_headword: "Daṇḍavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Daṇḍavagga. The tenth chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Daṇḍavagga. Phẩm thứ mười của Dhammapada.
 
 ## Notes

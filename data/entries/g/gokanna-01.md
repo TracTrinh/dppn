@@ -5,7 +5,7 @@ base_headword: "Gokaṇṇa"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -41,6 +41,10 @@ Gokaṇṇa (Gokaṇṇaka) is twice described as the scene of magic rites, once
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gokaṇṇa 01. Một địa danh ở Tích Lan và một *vihāra* do Mahā Sena thành lập, trên khu đất của một ngôi đền đạo Hindu (Mhv.xxxvii.41). Theo Mahā Vaṁsaṭīkā (p.685), nó nằm ở bờ biển phía đông của Tích Lan. Ở một chỗ khác (p.269), *Ṭīkā* nói đến một Gokaṇṇatittha ở vùng lân cận cửa sông Mahā Kandaranadī, và Cūḷa Vaṁsa (lxxi.18) đề cập đến Gokaṇṇa như là chỗ cuối cùng của một loạt các bến cạn ở Rohaṇa, quan trọng từ quan điểm chiến lược, dọc theo dòng Mahā Vāḷkaugaṅgā, từ “Sarogāmatittha đến Gokaṇṇa.” Trong một đoạn khác (Cv.xli.79), Gokaṇṇa (Gokaṇṇaka) được nói đến như là *mahaṇṇava* (đại dương). Những sự kiện này ủng hộ phỏng đoán của Geiger (Cv.Trs.i.59, 4; n.316, n.2) rằng Gokaṇṇa ám chỉ Vịnh Trincomalee (Koddiyar) tại cửa sông Mahā Vālukagaṅgā.
+
+Gokaṇṇa (Gokaṇṇaka) được mô tả hai lần như là bối cảnh của những nghi lễ ma thuật, một lần trong trường hợp của Mahā Nāga (Cv.xli.79) và một lần nữa trong trường hợp của Māṇavamma (Cv.lvii.5).
+
+Aggabodhi V đã xây dựng một *padhānaghara* cho Gokaṇṇavihāra. Cv.xlviii.5.
 
 ## Notes

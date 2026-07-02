@@ -5,7 +5,7 @@ base_headword: "Māgadha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Māgadha. The name of a *gotta*. Ja.iii.339.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māgadha. Tên của một *gotta*. Ja.iii.339.
 
 ## Notes

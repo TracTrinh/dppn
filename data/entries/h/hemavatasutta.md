@@ -5,7 +5,7 @@ base_headword: "Hemavatasutta"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hemavatasutta. Contains the conversation between <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hemavatasutta. Chứa cuộc đối thoại giữa Hemavata và Sātāgira về Đức Phật, cùng các chi tiết về cuộc viếng thăm Đức Phật của họ. Đây là bài *Sutta* thứ chín của Uragavagga trong Suttanipāta. Snp.153-80.
 
 ## Notes

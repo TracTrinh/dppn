@@ -5,7 +5,7 @@ base_headword: "Dārukkhandhasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dārukkhandhasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dārukkhandhasutta 01. Sāriputta, khi đang đi xuống từ Gijjhakūṭa, nhìn thấy một khúc gỗ, và nói với các tỳ-kheo rằng một người có trí tuệ có thể nhìn thấy tất cả các yếu tố trong khúc gỗ đó. AN.iii.340.
 
 ## Notes

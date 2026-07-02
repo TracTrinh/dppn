@@ -5,7 +5,7 @@ base_headword: "Gavapāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gavapāna. The name of a special almsgiving held in honour of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gavapāna. Tên của một lễ bố thí đặc biệt do Bodhisatta tổ chức để cúng dường Đức Phật Maṅgala, khi ngài sinh làm Bà-la-môn Suruci. Món ăn chính là một loại bánh pudding làm từ sữa, gạo và mật ong. Bv.iv.11; Bv­a.122.
 
 ## Notes

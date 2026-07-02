@@ -5,7 +5,7 @@ base_headword: "Samiddhi"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Samiddhi 04. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Samiddhi 04. Một người Bà-la-môn ở Nālaka, cha của Mahā Gavaccha Thera. Thag­a.i.57.
 
 ## Notes

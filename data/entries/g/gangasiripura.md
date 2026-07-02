@@ -5,7 +5,7 @@ base_headword: "Gaṅgāsiripura"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gaṅgāsiripura. The Pāli name for the town of Gampola in Ceylon (Cv.xxxxvi.18
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gaṅgāsiripura. Tên gọi Pāli của thị trấn Gampola ở Tích Lan (Cv.xxxxvi.18). Tại đó có một *vihāra* cổ, Nigamaggāmapāsāda (Cv.lxxxviii.48). Bhuvanekabāhu IV đã lấy nơi này làm kinh đô của mình. Cv.xc.107.
 
 ## Notes

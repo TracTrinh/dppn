@@ -5,7 +5,7 @@ base_headword: "Giñjakāvasathasuttā"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Giñjakāvasathasuttā 02. A group of *Suttas* preached at the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giñjakāvasathasuttā 02. Một nhóm các *Sutta* được thuyết giảng tại Giñjakāvasatha để trả lời các câu hỏi của Ānanda liên quan đến số phận của những người đệ tử khác nhau, cả nam lẫn nữ, những người đã qua đời tại Nādikā. *Sutta* đầu tiên của nhóm này bao gồm Dhammādāsa (*q.v.*). SN.v.356ff; cf. DN.191ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Giridanta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Giridanta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giridanta (*v.l.* Giridatta, Giridattha). Người huấn luyện con ngựa Paṇḍava. Ông là tiền kiếp của Devadatta. Xem Giridantajātaka.
 
 ## Notes

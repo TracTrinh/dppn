@@ -5,7 +5,7 @@ base_headword: "Maggasutta"
 disambiguator: "04"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maggasutta 04. The man who has wrong view, aim, speech and action, is censured b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maggasutta 04. Người có tà kiến, tà tư duy, tà ngữ và tà nghiệp thì bị những bậc trí giả chê trách. AN.ii.229.
 
 ## Notes

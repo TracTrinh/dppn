@@ -5,7 +5,7 @@ base_headword: "Mahā Nāgahula"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -40,6 +40,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nāgahula, Mahā Nāgasula, Mahā Nāgakula. Một thị trấn ở Rohaṇa trong Dvādasasahassakaraṭṭha. Nó được đề cập lần đầu tiên trong câu chuyện về các chiến dịch của Vijayabāhu I. (Cv.lviii.39). Vị *Ādipāda* của ngài, Vikkamabāhu, đã biến nó thành thủ phủ của mình và sống ở đó (Cv.lx.90), Kittisirimegha, anh trai của Māṇābharaṇa, cũng vậy (Cv.lxi.23). Sau đó, Sirivallabha đã sống ở đó cùng với hoàng hậu của mình là Ratnāvalī, hai cô con gái của bà và cậu bé Parakkamabāhu trẻ tuổi (Cv.lxiii.4).
+
+Khi Parakkamabāhu trở thành vua với danh hiệu là Parakkamabāhu I., ngài mong muốn đưa thành phố này nằm dưới quyền lực của mình, và đã phái *Damiḷādhikārī* Rakkha và Rakkha Kañcukināyaka đi khuất phục nó. Họ chỉ làm được điều này sau nhiều khó khăn, do sự kháng cự dữ dội của những phiến quân ở Rohaṇa. Sau khi chiếm được nó, *Damiḷādhikārī* Rakkha đã tổ chức một lễ hội lớn để ăn mừng chiến thắng của mình, và nơi này đã được biến thành tổng hành dinh cho các lực lượng của Parakkamabāhu ở Rohaṇa. Cv.lxxv.19, 70, 115ff.; 162f. Để biết về sự xác định vị trí của nó, hãy xem Cv.Trs.i.205, n.3.
 
 ## Notes

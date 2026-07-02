@@ -5,7 +5,7 @@ base_headword: "Devadattasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devadattasutta 02. Preached in the same circumstances as the above. It gives eig
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devadattasutta 02. Được thuyết trong cùng hoàn cảnh như kinh trên. Kinh nêu tám lý do cho sự suy sụp của Devadatta, và khuyến thúc các vị sư về sự cần thiết phải quán xét vận may và vận rủi xảy đến với chính mình và người khác theo thời gian. AN.iv.160f; cp. Vin.ii.202.
 
 ## Notes
