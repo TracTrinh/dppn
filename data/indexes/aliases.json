@@ -322,6 +322,9 @@
   "abhijanasutta": [
     "abhijanasutta"
   ],
+  "abhijika": [
+    "abhinjika"
+  ],
   "abhimarapayojana": [
     "abhimarapayojana"
   ],
@@ -1196,6 +1199,9 @@
   "agginibbapaka": [
     "agginibbapaka"
   ],
+  "agginibbapana": [
+    "agginibbapaka"
+  ],
   "aggisama": [
     "aggisama",
     "aggisama-2"
@@ -1473,6 +1479,9 @@
   "ajelakasutta": [
     "ajelakasutta"
   ],
+  "ajina": [
+    "ajita-08"
+  ],
   "ajinadayaka": [
     "ajinadayaka"
   ],
@@ -1584,6 +1593,9 @@
   ],
   "ajjhohara": [
     "ajjhohara"
+  ],
+  "ajjuhattha": [
+    "ambahattha"
   ],
   "ajjuhatthapabbata": [
     "ajjuhatthapabbata"
@@ -1885,6 +1897,9 @@
   "akusalasutta": [
     "akusalasutta"
   ],
+  "alagaddasutta": [
+    "alagaddupamasutta"
+  ],
   "alagaddupamasutta": [
     "alagaddupamasutta"
   ],
@@ -2075,6 +2090,9 @@
   ],
   "alinacittajataka": [
     "alinacittajataka"
+  ],
+  "alinasatta": [
+    "alinasattu"
   ],
   "alinasattu": [
     "alinasattu"
@@ -2321,6 +2339,9 @@
     "ambalatthika-02"
   ],
   "ambalatthikarahulovadasutta": [
+    "ambalatthika-rahulovadasutta"
+  ],
+  "ambalatthiya": [
     "ambalatthika-rahulovadasutta"
   ],
   "ambalavana": [
@@ -2585,6 +2606,9 @@
   "amitodana": [
     "amitodana"
   ],
+  "amitogata": [
+    "amita"
+  ],
   "amitta": [
     "amitta"
   ],
@@ -2597,6 +2621,15 @@
   "amittatapana": [
     "amittatapana",
     "amittatapana-2"
+  ],
+  "amodaphaliya": [
+    "amoraphaliya-thera"
+  ],
+  "amodaphaliya thera": [
+    "amoraphaliya-thera"
+  ],
+  "amodaphaliyathera": [
+    "amoraphaliya-thera"
   ],
   "amoraphaliya thera": [
     "amoraphaliya-thera"
@@ -3126,6 +3159,9 @@
   ],
   "andhabharigamakutakasutta": [
     "andhabharigamakutakasutta"
+  ],
+  "andhabhuta": [
+    "addhabhutasutta"
   ],
   "andhabhutasutta": [
     "andhabhutasutta"
@@ -4580,6 +4616,9 @@
   "apanasutta": [
     "apanasutta"
   ],
+  "apannadipiya": [
+    "aranadipiya-thera"
+  ],
   "apannakajataka": [
     "apannakajataka"
   ],
@@ -4895,6 +4934,15 @@
   "appatividitasutta": [
     "appatividitasutta"
   ],
+  "appayagadayaka": [
+    "ambayagadayaka-thera-01"
+  ],
+  "appayagadayaka thera": [
+    "ambayagadayaka-thera-01"
+  ],
+  "appayagadayakathera": [
+    "ambayagadayaka-thera-01"
+  ],
   "appiha": [
     "appiha"
   ],
@@ -5151,6 +5199,9 @@
   "arammanasutta02": [
     "arammanasutta-02"
   ],
+  "aranadipaka": [
+    "aranadipiya-thera"
+  ],
   "aranadipiya thera": [
     "aranadipiya-thera"
   ],
@@ -5198,6 +5249,9 @@
   "aranna": [
     "aranna"
   ],
+  "arannadipiya": [
+    "aranadipiya-thera"
+  ],
   "arannajataka": [
     "arannajataka"
   ],
@@ -5212,6 +5266,9 @@
   ],
   "arannakutika": [
     "arannakutika"
+  ],
+  "arannamanna": [
+    "arannasatta"
   ],
   "arannasatta": [
     "arannasatta"
@@ -5350,6 +5407,9 @@
   ],
   "arindama06": [
     "arindama-06"
+  ],
+  "arindamaka": [
+    "arindama-01"
   ],
   "arittha": [
     "arittha-01",
@@ -6738,6 +6798,9 @@
   "avavadaka": [
     "avavadaka"
   ],
+  "avekkheyya": [
+    "aveyya"
+  ],
   "avela": [
     "avela"
   ],
@@ -7035,6 +7098,9 @@
   ],
   "badaratittha": [
     "badaratittha"
+  ],
+  "badaratitthavihara": [
+    "padaratitthavihara"
   ],
   "badaravalli": [
     "badaravalli"
@@ -9360,6 +9426,15 @@
   "bodhisammajjakathera": [
     "bodhisammajjaka-thera"
   ],
+  "bodhisannaka": [
+    "bodhisincaka-thera"
+  ],
+  "bodhisannaka thera": [
+    "bodhisincaka-thera"
+  ],
+  "bodhisannakathera": [
+    "bodhisincaka-thera"
+  ],
   "bodhisatta": [
     "bodhisatta"
   ],
@@ -9763,7 +9838,13 @@
   "brahmanasutta06": [
     "brahmanasutta-06"
   ],
+  "brahmanatissabhaya": [
+    "brahmanatissacora"
+  ],
   "brahmanatissacora": [
+    "brahmanatissacora"
+  ],
+  "brahmanatiyacora": [
     "brahmanatissacora"
   ],
   "brahmanavagga": [
@@ -10434,6 +10515,9 @@
   ],
   "canavela": [
     "canavela"
+  ],
+  "canavelavihara": [
+    "tanavelivihara"
   ],
   "canda": [
     "canda-01",
@@ -11167,6 +11251,9 @@
   "cavala": [
     "cavala"
   ],
+  "cayanti": [
+    "mayanti"
+  ],
   "cayantivapi": [
     "cayantivapi"
   ],
@@ -11596,6 +11683,9 @@
   "chava": [
     "chava"
   ],
+  "chava theri": [
+    "capa-theri"
+  ],
   "chavakajataka": [
     "chavakajataka"
   ],
@@ -11604,6 +11694,9 @@
   ],
   "chavasisa": [
     "chavasisa"
+  ],
+  "chavatheri": [
+    "capa-theri"
   ],
   "chavisutta": [
     "chavisutta"
@@ -11664,6 +11757,12 @@
   "cincamanavika": [
     "cincamanavika"
   ],
+  "cincimanavika": [
+    "cincamanavika"
+  ],
+  "cingaraparivena": [
+    "piyangaparivena"
+  ],
   "cinnamala": [
     "cinnamala"
   ],
@@ -11702,6 +11801,9 @@
   "cira": [
     "cira"
   ],
+  "cira theri": [
+    "vira-theri"
+  ],
   "ciragumba": [
     "ciragumba"
   ],
@@ -11710,6 +11812,9 @@
   ],
   "cirappa": [
     "cirappa"
+  ],
+  "ciratheri": [
+    "vira-theri"
   ],
   "ciravapi": [
     "ciravapi"
@@ -13339,6 +13444,9 @@
   "dantapura": [
     "dantapura"
   ],
+  "dantaroha": [
+    "dantageha"
+  ],
   "dantika": [
     "dantika",
     "dantika-2"
@@ -14400,6 +14508,15 @@
   ],
   "dhammabhinandi": [
     "dhammabhinandi"
+  ],
+  "dhammacakkadayaka": [
+    "dhammacakkika-thera"
+  ],
+  "dhammacakkadayaka thera": [
+    "dhammacakkika-thera"
+  ],
+  "dhammacakkadayakathera": [
+    "dhammacakkika-thera"
   ],
   "dhammacakkakatha": [
     "dhammacakkakatha"
@@ -15725,11 +15842,17 @@
   "dighajantu": [
     "dighajantu"
   ],
+  "dighajantuka": [
+    "dighajantu"
+  ],
   "dighajanu": [
     "dighajanu"
   ],
   "dighajanusutta": [
     "dighajanusutta"
+  ],
+  "dighajayanta": [
+    "dighajantu"
   ],
   "dighakarayana": [
     "digha-karayana-01",
@@ -16143,7 +16266,13 @@
   "duccaritavagga": [
     "duccaritavagga"
   ],
+  "dudadajataka": [
+    "duddadajataka"
+  ],
   "duddadajataka": [
+    "duddadajataka"
+  ],
+  "duddajataka": [
     "duddadajataka"
   ],
   "dudipa": [
@@ -17828,6 +17957,9 @@
   "gavha": [
     "gavha"
   ],
+  "gavita": [
+    "kapittha"
+  ],
   "gaya": [
     "gaya-01",
     "gaya-02"
@@ -18004,6 +18136,9 @@
   ],
   "ghositarama": [
     "ghositarama"
+  ],
+  "ghositasetthi": [
+    "ghosakasetthi"
   ],
   "ghositasutta": [
     "ghositasutta"
@@ -18269,11 +18404,17 @@
   "giridasa": [
     "giridasa"
   ],
+  "giridatta": [
+    "giridanta"
+  ],
   "giridatta thera": [
     "giridatta-thera"
   ],
   "giridattathera": [
     "giridatta-thera"
+  ],
+  "giridattha": [
+    "giridanta"
   ],
   "giriddhi": [
     "giriddhi"
@@ -18390,6 +18531,12 @@
   "gocariya": [
     "gocariya"
   ],
+  "goda": [
+    "godatta-thera-01"
+  ],
+  "godanta": [
+    "godatta-thera-01"
+  ],
   "godatta thera": [
     "godatta-thera-01",
     "godatta-thera-02",
@@ -18466,6 +18613,9 @@
   ],
   "godhajataka04": [
     "godhajataka-04"
+  ],
+  "godhaka": [
+    "godatta-thera-01"
   ],
   "godhapura": [
     "godhapura"
@@ -18917,6 +19067,9 @@
   "gotta": [
     "gotta"
   ],
+  "gottahala": [
+    "sanketahala"
+  ],
   "govaddhamana": [
     "govaddhamana"
   ],
@@ -19069,6 +19222,9 @@
   ],
   "gutta02": [
     "gutta-02"
+  ],
+  "guttahala": [
+    "sanketahala"
   ],
   "guttasala": [
     "guttasala"
@@ -19474,6 +19630,9 @@
   "hema02": [
     "hema-02"
   ],
+  "hemadeva": [
+    "somadeva-01"
+  ],
   "hemaka": [
     "hemaka"
   ],
@@ -19625,6 +19784,9 @@
   ],
   "hirijataka": [
     "hirijataka"
+  ],
+  "hirisara": [
+    "girisara"
   ],
   "hirisutta": [
     "hirisutta-01",
@@ -20223,6 +20385,9 @@
   "jambudipa": [
     "jambudipa"
   ],
+  "jambudipadhaja": [
+    "jambudhaja"
+  ],
   "jambugama": [
     "jambugama"
   ],
@@ -20303,6 +20468,9 @@
   ],
   "jambusanda": [
     "jambusanda"
+  ],
+  "jana": [
+    "roja-03"
   ],
   "janabrahma maharaja": [
     "janabrahma-maharaja"
@@ -20597,6 +20765,9 @@
   ],
   "jatilagahi": [
     "jatilagahi"
+  ],
+  "jatilaka": [
+    "jatila-03"
   ],
   "jatilasutta": [
     "jatilasutta"
@@ -20949,6 +21120,9 @@
   "jhatvasutta": [
     "jhatvasutta"
   ],
+  "jhatvavagga": [
+    "chetvavagga-01"
+  ],
   "jinabodhavali": [
     "jinabodhavali"
   ],
@@ -21064,6 +21238,9 @@
   ],
   "jivakasutta03": [
     "jivakasutta-03"
+  ],
+  "jivanti": [
+    "jiva"
   ],
   "jivitapotthaki": [
     "jivitapotthaki"
@@ -21396,6 +21573,12 @@
   "kadakudda": [
     "kadakudda"
   ],
+  "kadali": [
+    "kandalipupphiya-thera"
+  ],
+  "kadali thera": [
+    "kandalipupphiya-thera"
+  ],
   "kadaligama": [
     "kadaligama"
   ],
@@ -21416,6 +21599,9 @@
   ],
   "kadalisalagama": [
     "kadalisalagama"
+  ],
+  "kadalithera": [
+    "kandalipupphiya-thera"
   ],
   "kadalivata": [
     "kadalivata"
@@ -22049,6 +22235,9 @@
   "kalapilla": [
     "kalapilla"
   ],
+  "kalara": [
+    "kalaramatthuka"
+  ],
   "kalarajanaka": [
     "kalarajanaka"
   ],
@@ -22057,6 +22246,9 @@
   ],
   "kalarakhattiyavagga": [
     "kalarakhattiyavagga"
+  ],
+  "kalaramatthaka": [
+    "kalaramatthuka"
   ],
   "kalaramatthuka": [
     "kalaramatthuka"
@@ -22149,6 +22341,9 @@
   ],
   "kalavallimandapa": [
     "kalavallimandapa"
+  ],
+  "kalavapigama": [
+    "kotalavapigama"
   ],
   "kalavela": [
     "kalavela-01",
@@ -22558,6 +22753,9 @@
   "kammasadamma": [
     "kammasadamma"
   ],
+  "kammasadhamma": [
+    "kammasadamma"
+  ],
   "kammasapada": [
     "kammasapada"
   ],
@@ -22608,6 +22806,9 @@
   ],
   "kampilla": [
     "kampilla"
+  ],
+  "kampupelanda": [
+    "kabupelanda"
   ],
   "kamsa": [
     "kamsa-01",
@@ -23151,6 +23352,9 @@
   "kapathika": [
     "kapathika"
   ],
+  "kapatika": [
+    "kapathika"
+  ],
   "kapi": [
     "kapi"
   ],
@@ -23309,6 +23513,9 @@
   "kapittha": [
     "kapittha"
   ],
+  "kapitthakavana": [
+    "kapitthavana"
+  ],
   "kapitthaphaladayaka thera": [
     "kapitthaphaladayaka-thera"
   ],
@@ -23460,6 +23667,9 @@
   "kappuka": [
     "kappuka"
   ],
+  "kappukandara": [
+    "kappakandara"
+  ],
   "kappuraparivena": [
     "kappuraparivena"
   ],
@@ -23496,6 +23706,9 @@
   ],
   "karakanda02": [
     "karakanda-02"
+  ],
+  "karakandaka": [
+    "karandu"
   ],
   "karakapupphamanjari": [
     "karakapupphamanjari"
@@ -23637,6 +23850,10 @@
   ],
   "kasagama": [
     "kasagama"
+  ],
+  "kasakanda": [
+    "sakata",
+    "sakkata"
   ],
   "kasalla": [
     "kasalla"
@@ -24041,6 +24258,9 @@
   "katattha": [
     "katattha"
   ],
+  "kathaka": [
+    "katthaka"
+  ],
   "kathasutta": [
     "kathasutta-01",
     "kathasutta-02"
@@ -24208,6 +24428,9 @@
   "katthakasala": [
     "katthakasala"
   ],
+  "katthakathupa": [
+    "khandhakathupa"
+  ],
   "katthantanagara": [
     "katthantanagara"
   ],
@@ -24285,6 +24508,9 @@
   ],
   "kavisutta02": [
     "kavisutta-02"
+  ],
+  "kavitthavana": [
+    "kapitthavana"
   ],
   "kayaduccaritasutta": [
     "kayaduccaritasutta"
@@ -24383,6 +24609,15 @@
   ],
   "kekaya": [
     "kekaya"
+  ],
+  "kekkarupupphiya": [
+    "kakkarupupphiya-thera"
+  ],
+  "kekkarupupphiya thera": [
+    "kakkarupupphiya-thera"
+  ],
+  "kekkarupupphiyathera": [
+    "kakkarupupphiya-thera"
   ],
   "kekkharupupphiya": [
     "kekkharupupphiya"
@@ -24585,6 +24820,9 @@
   ],
   "ketumbaraga": [
     "ketumbaraga"
+  ],
+  "kevaddhasutta": [
+    "kevattasutta"
   ],
   "kevatta": [
     "kevatta-01",
@@ -25122,6 +25360,12 @@
   "khemaka04": [
     "khemaka-04"
   ],
+  "khemakara": [
+    "khemankara-02"
+  ],
+  "khemanesada": [
+    "khemaka-03"
+  ],
   "khemankara": [
     "khemankara-01",
     "khemankara-02"
@@ -25225,6 +25469,9 @@
     "khettupamapetavatthu"
   ],
   "khiddapadosika": [
+    "khiddapadosika"
+  ],
+  "khiddapadusika": [
     "khiddapadosika"
   ],
   "khilasutta": [
@@ -25569,6 +25816,9 @@
   ],
   "kimsukopamasutta": [
     "kimsukopamasutta"
+  ],
+  "kincakesara": [
+    "kinjakesara"
   ],
   "kinchandajataka": [
     "kinchandajataka"
@@ -25943,6 +26193,9 @@
   "kodhavagga02": [
     "kodhavagga-02"
   ],
+  "kodumbara": [
+    "kotumbara"
+  ],
   "kohala": [
     "kohala"
   ],
@@ -26213,6 +26466,9 @@
   ],
   "kontaratthapabbatavihara": [
     "kontaratthapabbatavihara"
+  ],
+  "konthadhana": [
+    "kundadhana-thera"
   ],
   "kontimara": [
     "kontimara"
@@ -26548,6 +26804,9 @@
   "kotthagama": [
     "kotthagama"
   ],
+  "kotthamalaka": [
+    "kuntamalaka"
+  ],
   "kotthamalaya": [
     "kotthamalaya"
   ],
@@ -26608,6 +26867,9 @@
   ],
   "kotumbara": [
     "kotumbara"
+  ],
+  "kotumbariya": [
+    "kotumbariya-thera"
   ],
   "kotumbariya thera": [
     "kotumbariya-thera"
@@ -26674,6 +26936,9 @@
   ],
   "kukkuha": [
     "kukkuha"
+  ],
+  "kukkuhajataka": [
+    "kukkutajataka-02"
   ],
   "kukkujataka": [
     "kukkujataka"
@@ -26810,6 +27075,15 @@
   ],
   "kulagharanisutta": [
     "kulagharanisutta"
+  ],
+  "kulakundala": [
+    "kundala-thera"
+  ],
+  "kulakundala thera": [
+    "kundala-thera"
+  ],
+  "kulakundalathera": [
+    "kundala-thera"
   ],
   "kulalitissa": [
     "kulalitissa"
@@ -27318,6 +27592,15 @@
   "kundi02": [
     "kundi-02"
   ],
+  "kundikana": [
+    "kundadhanavana"
+  ],
+  "kundikeliya": [
+    "kundadhanavana"
+  ],
+  "kundikoliya": [
+    "kundadhanavana"
+  ],
   "kundinagariya thera": [
     "kundinagariya-thera"
   ],
@@ -27785,6 +28068,9 @@
   "kuttapiti": [
     "kuttapiti"
   ],
+  "kutthikula": [
+    "kupikkala"
+  ],
   "kutthuka": [
     "kutthuka"
   ],
@@ -27807,6 +28093,9 @@
   "kuvanna": [
     "kuvanna"
   ],
+  "kuveni": [
+    "kuvanna"
+  ],
   "kuvera": [
     "kuvera"
   ],
@@ -27815,6 +28104,9 @@
   ],
   "kuveranalini": [
     "kuveranalini"
+  ],
+  "kuvikkala": [
+    "kupikkala"
   ],
   "kyanagama": [
     "kyanagama"
@@ -28767,6 +29059,9 @@
   "madhurapacika": [
     "madhurapacika"
   ],
+  "madhurarasavahini": [
+    "rasavahini"
+  ],
   "madhurasasavahini": [
     "madhurasasavahini"
   ],
@@ -29245,6 +29540,9 @@
   ],
   "maha ganga": [
     "maha-ganga"
+  ],
+  "maha gatigamiyatissadatta": [
+    "maha-gatimbyatissadatta"
   ],
   "maha gatimba abhaya thera": [
     "maha-gatimba-abhaya-thera"
@@ -30896,6 +31194,9 @@
   "mahaganga": [
     "maha-ganga"
   ],
+  "mahagatigamiyatissadatta": [
+    "maha-gatimbyatissadatta"
+  ],
   "mahagatimbaabhayathera": [
     "maha-gatimba-abhaya-thera"
   ],
@@ -32394,6 +32695,9 @@
   "mahimsaka": [
     "mahimsaka"
   ],
+  "mahimsamandala": [
+    "mahisamandala"
+  ],
   "mahimsasa": [
     "mahimsasa"
   ],
@@ -32886,11 +33190,23 @@
     "maliya",
     "maliya-2"
   ],
+  "maliya maha deva": [
+    "malaya-maha-deva-thera"
+  ],
+  "maliya maha deva thera": [
+    "malaya-maha-deva-thera"
+  ],
   "maliya unna": [
     "maliya-unna"
   ],
   "maliyadeva": [
     "maliyadeva"
+  ],
+  "maliyamahadeva": [
+    "malaya-maha-deva-thera"
+  ],
+  "maliyamahadevathera": [
+    "malaya-maha-deva-thera"
   ],
   "maliyaunna": [
     "maliya-unna"
@@ -32966,8 +33282,23 @@
   "mallikavimanavatthu": [
     "mallikavimanavatthu"
   ],
+  "malliyadeva": [
+    "malaya-maha-deva-thera"
+  ],
+  "malliyadeva thera": [
+    "malaya-maha-deva-thera"
+  ],
+  "malliyadevathera": [
+    "malaya-maha-deva-thera"
+  ],
+  "malukyaputta": [
+    "malunkyaputta-thera"
+  ],
   "malunkya": [
     "malunkya"
+  ],
+  "malunkyaputta": [
+    "malunkyaputta-thera"
   ],
   "malunkyaputta thera": [
     "malunkyaputta-thera"
@@ -33181,6 +33512,9 @@
   ],
   "mandakini": [
     "mandakini"
+  ],
+  "mandalagirika": [
+    "mandalagirivihara"
   ],
   "mandalagirivihara": [
     "mandalagirivihara"
@@ -34030,6 +34364,9 @@
   "mayanti": [
     "mayanti"
   ],
+  "mayantivapi": [
+    "cayantivapi"
+  ],
   "mayasutta": [
     "mayasutta"
   ],
@@ -34165,6 +34502,9 @@
   "meghasutta02": [
     "meghasutta-02"
   ],
+  "meghava": [
+    "meghabba"
+  ],
   "meghavana": [
     "meghavana"
   ],
@@ -34243,6 +34583,9 @@
     "mendakapanha"
   ],
   "mendasira": [
+    "mendasira"
+  ],
+  "mendasisa": [
     "mendasira"
   ],
   "mendissara": [
@@ -34466,6 +34809,9 @@
   ],
   "migaketu": [
     "migaketu"
+  ],
+  "migaladdhika": [
+    "migalandika"
   ],
   "migalandika": [
     "migalandika"
@@ -35635,6 +35981,9 @@
   ],
   "nagara": [
     "nagara"
+  ],
+  "nagaracatukka": [
+    "nagacatukka"
   ],
   "nagaragalla": [
     "nagaragalla"
@@ -37328,6 +37677,9 @@
   "natikasutta": [
     "natikasutta"
   ],
+  "natiki": [
+    "natika-2"
+  ],
   "natthiputtasamasutta": [
     "natthiputtasamasutta"
   ],
@@ -37961,6 +38313,9 @@
   ],
   "nimijataka": [
     "nimijataka"
+  ],
+  "nimindhara": [
+    "nemindhara"
   ],
   "nimittasannaka thera": [
     "nimittasannaka-thera"
@@ -38687,6 +39042,9 @@
   "pacchasamanasutta": [
     "pacchasamanasutta"
   ],
+  "pacchidayaka": [
+    "sajjhadayaka-thera"
+  ],
   "pacchidayaka thera": [
     "pacchidayaka-thera"
   ],
@@ -39183,6 +39541,9 @@
   "padumuttara02": [
     "padumuttara-02"
   ],
+  "padyapadanuvamsa": [
+    "padyapadoruvamsa"
+  ],
   "padyapadoruvamsa": [
     "padyapadoruvamsa"
   ],
@@ -39267,6 +39628,9 @@
   ],
   "pajapati03": [
     "pajapati-03"
+  ],
+  "pajjalitapabbata": [
+    "panjalipabbata"
   ],
   "pajjamadhu": [
     "pajjamadhu"
@@ -39718,6 +40082,9 @@
   "pancali": [
     "pancali"
   ],
+  "pancalipabbata": [
+    "panjalipabbata"
+  ],
   "pancaliputta": [
     "pancaliputta"
   ],
@@ -40094,6 +40461,9 @@
   ],
   "paniyajataka": [
     "paniyajataka"
+  ],
+  "paniyattha": [
+    "padiyattha"
   ],
   "panjalipabbata": [
     "panjalipabbata"
@@ -40554,6 +40924,9 @@
   ],
   "parapara": [
     "parapara"
+  ],
+  "parapariya": [
+    "parasariya-01"
   ],
   "parapariya thera": [
     "parapariya-thera"
@@ -41554,6 +41927,9 @@
   "pelivapikagama": [
     "pelivapikagama"
   ],
+  "pemambangana": [
+    "setambangana"
+  ],
   "pemasutta": [
     "pemasutta-01",
     "pemasutta-02"
@@ -41929,6 +42305,9 @@
   ],
   "pilayamara": [
     "pilayamara"
+  ],
+  "pilhakasutta": [
+    "milhakasutta"
   ],
   "pilimvatthu": [
     "pilimvatthu"
@@ -42336,6 +42715,9 @@
   "posalasutta": [
     "posalasutta"
   ],
+  "posamitta": [
+    "polamitta"
+  ],
   "posiya thera": [
     "posiya-thera"
   ],
@@ -42549,8 +42931,14 @@
   "pubbasutta02": [
     "pubbasutta-02"
   ],
+  "pubbavicira": [
+    "pubbajira"
+  ],
   "pubbavideha": [
     "pubbavideha"
+  ],
+  "pubbavijjhana": [
+    "pubbajira"
   ],
   "pubbayogavacarasutta": [
     "pubbayogavacarasutta"
@@ -45240,6 +45628,9 @@
   "sabbosama": [
     "sabbosama"
   ],
+  "sabbosana": [
+    "sabbagahana"
+  ],
   "sabbupasama": [
     "sabbupasama"
   ],
@@ -46910,6 +47301,9 @@
     "samanamandikaputta"
   ],
   "samanamandikasutta": [
+    "samanamandikasutta"
+  ],
+  "samanamundika": [
     "samanamandikasutta"
   ],
   "samanasannavagga": [
@@ -48724,6 +49118,9 @@
   "santana thera": [
     "santana-thera"
   ],
+  "santanamika": [
+    "bhavanimmita"
+  ],
   "santanathera": [
     "santana-thera"
   ],
@@ -49193,6 +49590,9 @@
   "saranagamaniyathera": [
     "saranagamaniya-thera"
   ],
+  "sarananivagga": [
+    "sarakanivagga"
+  ],
   "saranankara": [
     "saranankara-01",
     "saranankara-02"
@@ -49383,6 +49783,9 @@
   ],
   "saritacchadana": [
     "saritacchadana"
+  ],
+  "saritacchedana": [
+    "sadinacchedana"
   ],
   "sarivaggapitthi": [
     "sarivaggapitthi"
@@ -50385,6 +50788,9 @@
   ],
   "setarama": [
     "setarama"
+  ],
+  "setavahana": [
+    "satavahana"
   ],
   "setavya": [
     "setavya"
@@ -51634,8 +52040,14 @@
   "sirisanghabodhivihara02": [
     "sirisanghabodhivihara-02"
   ],
+  "sirisara": [
+    "girisara"
+  ],
   "sirisavatthu": [
     "sirisavatthu"
+  ],
+  "sirisumangala": [
+    "sirimangala-01"
   ],
   "sirivaddha": [
     "sirivaddha",
@@ -56405,6 +56817,9 @@
   "takkarika": [
     "takkarika"
   ],
+  "takkarikajataka": [
+    "takkariyajataka"
+  ],
   "takkariya": [
     "takkariya"
   ],
@@ -57257,6 +57672,9 @@
   "thuparama02": [
     "thuparama-02"
   ],
+  "thuparamavihara": [
+    "ruparammavihara"
+  ],
   "thupasikha": [
     "thupasikha"
   ],
@@ -57305,6 +57723,9 @@
   ],
   "tidivadhibhu": [
     "tidivadhibhu"
+  ],
+  "tikandakivagga": [
+    "tikantakivagga"
   ],
   "tikandakivana": [
     "tikandakivana"
@@ -58350,6 +58771,9 @@
   "ubbhida": [
     "ubbhida"
   ],
+  "ubbiddha": [
+    "ubbhida"
+  ],
   "ubbiri theri": [
     "ubbiri-theri"
   ],
@@ -58358,6 +58782,9 @@
   ],
   "ubhaka": [
     "ubhaka"
+  ],
+  "ubhatobhaga": [
+    "ubhosutta"
   ],
   "ubhatobhatthajataka": [
     "ubhatobhatthajataka"
@@ -58375,6 +58802,12 @@
     "uccankuttha"
   ],
   "uccatalanka": [
+    "uccatalanka"
+  ],
+  "uccavalanka": [
+    "uccatalanka"
+  ],
+  "uccavalika": [
     "uccatalanka"
   ],
   "ucchangajataka": [
@@ -58796,6 +59229,9 @@
   "udditasutta": [
     "udditasutta"
   ],
+  "uddiya": [
+    "ubbhida"
+  ],
   "udena": [
     "udena-01",
     "udena-02",
@@ -58967,6 +59403,9 @@
   ],
   "ugga08": [
     "ugga-08"
+  ],
+  "uggagahapati": [
+    "ugga-04"
   ],
   "uggaha mendakanatta": [
     "uggaha-mendakanatta"
@@ -59226,6 +59665,9 @@
   ],
   "ukkattha": [
     "ukkattha"
+  ],
+  "ukkavela": [
+    "ukkacela-2"
   ],
   "ukkhasutta": [
     "ukkhasutta"
@@ -60059,6 +60501,12 @@
   "upavala": [
     "upavala"
   ],
+  "upavala thera": [
+    "uvala-thera"
+  ],
+  "upavalathera": [
+    "uvala-thera"
+  ],
   "upavana": [
     "upavana-01",
     "upavana-02"
@@ -60169,6 +60617,9 @@
   ],
   "uposathakkhandhasutta": [
     "uposathakkhandhasutta"
+  ],
+  "uposathangasutta": [
+    "uposathasutta-04"
   ],
   "uposathasutta": [
     "uposathasutta-01",
@@ -60991,6 +61442,9 @@
   "uttaravaddhamana": [
     "uttaravaddhamana"
   ],
+  "uttaravavaddhamana": [
+    "antaravaddhamana"
+  ],
   "uttaravihara": [
     "uttaravihara"
   ],
@@ -61497,6 +61951,9 @@
   ],
   "vajirapani": [
     "vajirapani"
+  ],
+  "vajirasakha": [
+    "vajirasama"
   ],
   "vajirasama": [
     "vajirasama"
@@ -62772,6 +63229,9 @@
   "vattalagama": [
     "vattalagama"
   ],
+  "vattamuda": [
+    "vaggumuda"
+  ],
   "vattanahanakottha": [
     "vattanahanakottha"
   ],
@@ -63100,6 +63560,9 @@
   ],
   "vejayanta03": [
     "vejayanta-03"
+  ],
+  "vekalinga": [
+    "vehalinga"
   ],
   "vekhanassa": [
     "vekhanassa"
@@ -65731,6 +66194,15 @@
     "yasojasutta"
   ],
   "yasojathera": [
+    "yasoja-thera"
+  ],
+  "yasojoti": [
+    "yasoja-thera"
+  ],
+  "yasojoti thera": [
+    "yasoja-thera"
+  ],
+  "yasojotithera": [
     "yasoja-thera"
   ],
   "yassam disam sutta": [
