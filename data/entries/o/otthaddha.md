@@ -5,7 +5,7 @@ base_headword: "Oṭṭhaddha"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -36,6 +36,10 @@ He went to visit the Buddha at the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oṭṭhaddha. Một người trong tộc Licchavī. Tên riêng (*mūla-nāma*) của ông là Mahāli, nhưng ông được gọi là Oṭṭhaddha vì ông bị sứt môi (*aḍḍhoṭṭhatāya*) (DN­a.i.310).
+
+Ông đã đến viếng Đức Phật tại Kūṭāgārasālā ở Vesālī, vào lúc Đức Phật đã hạ lệnh rằng không ai được phép gặp Ngài; nhưng thông qua sự can thiệp của sa-di Sīha, Oṭṭhaddha đã được phép diện kiến Đức Phật cùng với một đoàn tùy tùng đông đảo, tất cả đều được trang điểm lộng lẫy theo nhiều cách khác nhau, mặc dù có ghi chép rằng vào đầu ngày hôm đó họ đã thọ giới *uposatha*. Cuộc trò chuyện diễn ra giữa Oṭṭhaddha và Đức Phật được ghi lại trong Mahālisutta (DN.i.150ff).
+
+Buddhaghosa gọi Oṭṭhaddha là một *rājā*.
 
 ## Notes

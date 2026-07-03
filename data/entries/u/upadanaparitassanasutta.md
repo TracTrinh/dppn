@@ -5,7 +5,7 @@ base_headword: "Upādānaparitassanāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upādānaparitassanāsutta. Two discourses on how grasping and worry arise and h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādānaparitassanāsutta. Hai bài giảng về sự chấp thủ và sự lo âu khởi sinh như thế nào và làm thế nào có thể loại bỏ chúng. SN.iii.15-18.
 
 ## Notes

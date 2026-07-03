@@ -5,7 +5,7 @@ base_headword: "Dhammapadasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammapadasutta. On four righteous things which are always held in esteem – fr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapadasutta. Bàn về bốn pháp chân chính vốn luôn được tôn trọng – không có tính tham lam, không có tính đố kỵ, chánh niệm và chánh định của tâm. AN.129.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "09"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paduma 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 09. Paduma Thera. Một vị *Arahant*. Ngài từng ném một hoa sen cúng dường Padumuttara Buddha khi Ngài đang đi ngang qua không trung, và Đức Phật đã thọ nhận. Trong ba mươi *kappa*, Paduma làm vua chư thiên, và bảy trăm lần làm vua loài người. Ap.i.109f.
 
 ## Notes

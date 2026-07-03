@@ -5,7 +5,7 @@ base_headword: "Rakkhaka"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rakkhaka 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhaka 02. Rakkhaka Ilaṅga. Một vị tướng của Dappula IV. Ông đã xây dựng một nơi ở gần Thūpārāma, được đặt theo tên của nhà vua. Cv.liii.11.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhajadāyaka Thera"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhajadāyaka Thera 02. An Arahant. Ninety-two *kappas* ago he saw <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhajadāyaka Thera 02. Một vị *Arahant*. Chín mươi hai *kappa* trước ngài đã nhìn thấy Đức Phật Tissa và dựng một lá cờ để tôn vinh ngài (Ap.i.277f).
 
 ## Notes

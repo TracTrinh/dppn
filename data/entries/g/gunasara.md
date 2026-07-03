@@ -5,7 +5,7 @@ base_headword: "Guṇasāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Guṇasāra. A pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇasāra. Một học trò của Guṇagandha. Vị này là cư dân của Sahassorodhagāma. Sās.112, 162, 164.
 
 ## Notes

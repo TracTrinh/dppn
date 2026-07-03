@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,6 @@ Satipaṭṭhānasutta 01. The tenth *Sutta* of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānasutta 01. Bài *Sutta* thứ mười của Majjhimanikāya. Nó giống hệt với Mahā Satipaṭṭhānasutta của Dīghanikāya, ngoại trừ việc về cuối bài *Sutta* thuộc Dīgha có chèn thêm các đoạn văn giải thích chi tiết về Bốn Sự thật thuộc bậc Thánh. Những điều này, trong Majjhima, tạo thành một phần của một bài *Sutta* riêng biệt, Saccavibhaṅgasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Udena 03. An *upāsaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *upāsaka* của Kosala. Ông đã xây dựng một *vihāra* cho Tăng đoàn, và ông đã mời các tỳ-kheo đến cho lễ khánh thành của nó, điều đã diễn ra trong *Vassa*. Bởi vì việc đi trong một chuyến hành trình trước *Vassa* là vi phạm các quy tắc, các tỳ-kheo đã yêu cầu ông hoãn lại lễ khánh thành. Điều này đã làm ông bực mình. Khi vấn đề này được đệ trình lên Đức Phật, ngài đã thay đổi quy tắc sao cho một chuyến du hành kéo dài không quá bảy ngày có thể được thực hiện trong suốt *Vassa*. Vin.i.139.
 
 ## Notes

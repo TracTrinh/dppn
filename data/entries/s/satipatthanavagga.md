@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Satipaṭṭhānavagga. The seventh chapter of the *Navakanipāta* of the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānavagga. Chương thứ bảy của *Navakanipāta* thuộc Aṅguttaranikāya. AN.iv.457-61.
 
 ## Notes

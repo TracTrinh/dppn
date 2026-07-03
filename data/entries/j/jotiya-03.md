@@ -5,7 +5,7 @@ base_headword: "Jotiya"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jotiya 03. A *Nigaṇṭha*, for whom <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotiya 03. Một *Nigaṇṭha*, người mà Paṇḍukābhaya đã xây dựng cho một ngôi nhà ở phía đông của Nīcasusāna tại Anurādhapura (Mhv.x.97). Mahā Vaṁsaṭīkā (p.296) gọi ông ta là một *Nagaravaḍḍhakī*. Abhayagirivihāra về sau được dựng lên trên vị trí vốn là nơi ở của Jotiya. Mhv­ṭ.620.
 
 ## Notes

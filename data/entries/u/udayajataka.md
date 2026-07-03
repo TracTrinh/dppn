@@ -5,7 +5,7 @@ base_headword: "Udayajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Udayajātaka (Ja 458). The story of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện của Udayabhadda và Udayabhaddā (*q.v.*). Câu chuyện được kể lại liên quan đến một vị tỳ-kheo thối thất; các chi tiết được đưa ra trong Kusajātaka. Udayajātaka cũng mang những điểm tương đồng nhất định với Ananusociyajātaka.
 
 ## Notes

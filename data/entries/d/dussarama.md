@@ -5,7 +5,7 @@ base_headword: "Dussārāma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dussārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussārāma. Một tu viện ở Sīlavatī nơi Buddha Sikhī viên tịch (Bv.xxi.28). Chú giải gọi đó là Assārāma (Bv­a.204).
 
 ## Notes

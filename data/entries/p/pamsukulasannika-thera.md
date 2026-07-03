@@ -5,7 +5,7 @@ base_headword: "Paṁsukūlasaññika Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Paṁsukūlasaññika Thera. An *Arahant*. He was a hunter in the time of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsukūlasaññika Thera. Một vị *Arahant*. Ngài là một thợ săn vào thời Tissa Buddha, và một ngày nọ, khi nhìn thấy trong rừng một y phấn tảo (*paṁsukūla*) của Đức Phật, ngài đã đảnh lễ nó (Ap.ii.418f). Ngài có lẽ cũng chính là Puṇṇāmāsa Thera. Thag­a.i.297f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -60,6 +60,22 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="38" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 03. Revata Khadiravaniya. Một vị Arahant Thera. Một đệ tử xuất chúng của Gotama Buddha, được ngài tuyên bố là bậc tối thắng trong số những vị ở rừng (*araññakānaṁ*) (AN.i.24). Ông là em trai út của Sāriputta, và một cuộc hôn nhân đã được mẹ ông sắp xếp cho ông, bà rất đau khổ khi nhìn thấy những đứa con của mình lần lượt rời bỏ bà để gia nhập Tăng đoàn, và mong muốn giữ người con trai út ở nhà. Cậu bé mới bảy tuổi, và, trong ngày cưới, thân nhân của cả cô dâu và chú rể đã trút muôn vàn lời chúc phúc cho cặp đôi và nói với cô dâu: "Mong cháu sống lâu như bà cố của cháu". Revata đòi xem bà cố, và được chỉ cho thấy một người phụ nữ một trăm hai mươi tuổi, già yếu lụ khụ, và mang mọi dấu hiệu của tuổi già sức yếu. Nhận ra rằng vợ mình có thể cũng sẽ chịu chung số phận như vậy, cậu bé đã viện cớ rời khỏi đoàn rước dâu trên đường về nhà, và bỏ trốn đến nơi có một số tỳ-kheo sinh sống. Sāriputta, lường trước điều này, đã dặn dò các tỳ-kheo cho em trai mình thọ giới mà không cần hỏi ý kiến cha mẹ, và, khi Revata tiết lộ danh tính của mình, các tỳ-kheo đã lập tức cho cậu gia nhập Tăng đoàn.
+
+Khi Sāriputta nghe tin này, ông muốn đi thăm em trai mình, nhưng đã được Đức Phật thuyết phục hãy chờ đợi. Revata, sau một thời gian dài chờ đợi chuyến viếng thăm từ Sāriputta, đã xin các thầy của mình một đề mục thiền và đích thân khởi hành đi gặp Đức Phật. Trên đường đi, ông dừng chân tại một *khadiravana* (rừng cây keo) trong suốt mùa mưa và tại đó đắc quả Arahant.
+
+Vào cuối mùa mưa, Đức Phật, cùng với Sāriputta và Ānanda, với năm trăm tỳ-kheo khác, đã lên đường đi thăm Revata. Có hai tuyến đường dẫn đến *khadiravana*, trong đó tuyến đường ngắn hơn dài ba mươi do-tuần, đi thẳng, nhưng bị ác quỷ hoành hành. Đức Phật đã chọn tuyến đường này bởi vì có mặt Sīvalī Thera trong đoàn tỳ-kheo, và Đức Phật biết rằng chư thần của khu rừng sẽ cung cấp cho các tỳ-kheo tất cả những gì họ cần do có sự hiện diện của Sīvalī. Khi Revata biết Đức Phật đang đến gần, ông đã bằng thần thông của mình tạo ra những chỗ ở tráng lệ cho ngài và các tỳ-kheo của ngài. Đức Phật đã lưu lại trong rừng hai tháng và sau đó trở về Pubbārāma ở Sāvatthī. Tại đó ngài thấy Visākhā đã nghe được những lời kể mâu thuẫn về chỗ ở mà Revata dựng lên cho các tỳ-kheo tháp tùng Đức Phật. Ngài đã xua tan những nghi ngờ của Visākhā và nói về thần thông của Revata. Dhp­a.ii.188ff.; chính trong dịp này Đức Phật đã kể lại câu chuyện về quá khứ của Sīvalī; xem thêm Dhp­a.iv.186f.
+
+Một trong các bài kệ (Số 212), của Munisutta cũng được thuyết cho các tỳ-kheo, theo Buddhaghosa (Snp­a.i.261f.), liên quan đến Revata. Điều này diễn ra ngay sau cuộc đàm đạo của Đức Phật với Visākhā, được đề cập ở trên. Câu chuyện về việc thọ giới của Revata cũng được đưa ra tại AN­a.i.126ff., với một số khác biệt về chi tiết. Ghi chép được cung cấp ở Thag­a.i.108ff. thì ngắn gọn hơn nhiều; không có ghi chép nào về chuyến viếng thăm của Đức Phật tới *khadiravana*. Ở đây nói rằng, sau khi đạt quả vị Arahant, Revata đã đến Sāvatthī để đảnh lễ Đức Phật và Sāriputta.
+
+Một thời gian sau, Revata trở về ngôi làng quê hương mình và mang theo ba người cháu trai của mình, con trai của ba người chị/em gái, Cālā, Upacālā và Sisūpacālā. Sāriputta nghe được chuyện này và đến thăm Revata. Revata biết Sāriputta đang đến, đã khuyên răn các cháu của mình phải đặc biệt thận trọng, và Sāriputta đã bày tỏ sự hoan hỉ trước cách hành xử của họ. Thag­a.i.110; lời khuyên răn của ông được đưa ra tại Thag.vs.43; hai bài kệ do Sāriputta thốt ra để ca ngợi Revata được cung cấp tại Thag.vss.991-2.
+
+Thag­a.i.551f đề cập đến một sự kiện khác xảy ra trong thời kỳ tuổi già của Revata. Ông có thói quen thỉnh thoảng đến viếng thăm Đức Phật và Sāriputta sau khi trở về quê nhà ở *khadiravana*. Có lần, trong một chuyến viếng thăm Sāvatthī, ông trú tại một khu rừng gần thành phố. Lính tráng, trong lúc truy lùng một số tên trộm, đã tình cờ gặp ông, và, khi tìm thấy ông đang ở gần chiến lợi phẩm mà bọn trộm đánh rơi trong lúc bỏ trốn, họ đã bắt giữ ông và giải ông đến trước nhà vua. Khi nhà vua chất vấn ông, vị Trưởng lão đã thuyết một loạt các bài kệ (Thag.646-58; Bà Rhys Davids nói về Revata như một vị đạo sư của giáo lý Jain về *ahiṁsā*, *Gotama the Man*, p.116), chứng minh rằng không thể nào ông lại phạm vào một hành động như vậy, và đồng thời thông qua đó giảng dạy Giáo Pháp cho nhà vua. Người ta nói (Thag­a.l.555) rằng vào cuối những bài kệ đó, ông đã ngồi kiết già giữa không trung cho đến khi thân thể ông tự bốc cháy thành tro bụi.
+
+Revata yêu thích sự ẩn cư tĩnh lặng, và, có một lần (Dhp­a.iii.325f), một nam cư sĩ tên là Atula, nghe tin ông đang ở Sāvatthī, đã đi cùng năm trăm người khác đến nghe ông thuyết pháp. Nhưng Revata nói rằng ông thích ẩn cư tĩnh lặng và từ chối thuyết pháp cho họ, và Atula đã bỏ đi trong sự bực tức thầm trách móc.
+
+Sự yêu thích ẩn cư tĩnh lặng của Revata đôi khi bị hiểu lầm. Lấy ví dụ, Trưởng lão Sammuñjani có thói quen đi quanh quét dọn liên tục, và, khi thấy Revata đang ngồi kiết già, nghĩ ông là một kẻ lười biếng. Revata đã đọc được ý nghĩ của ông và đã khuyên răn ông ta.
+
+Vào thời Padumuttara Buddha, Revata là một người lái đò ở Payāga trên sông Ganges, và từng đưa Đức Phật cùng một ngàn môn đệ của ngài qua sông trên một con thuyền được trang hoàng bằng lọng che, hoa tươi, v.v. Trong dịp đó ông nghe Đức Phật tuyên bố một tỳ-kheo là bậc tối thắng trong số các vị ở rừng, và nguyện ước một vinh dự tương tự cho chính mình dưới thời một vị Phật tương lai (Thag­a.i.108; AN.A.i.126). Về sau, ông sinh vào các cõi Deva. Năm mươi tám *kappa* trước, ông là một vị vua tên là Tāraṇa, và một *kappa* sau đó là một vị vua khác tên là Campaka. Ap.i.51f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sandiṭṭhikasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sandiṭṭhikasutta 01. A conversation between the Buddha and <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandiṭṭhikasutta 01. Một cuộc trò chuyện giữa Đức Phật và Moliya Sīvaka về việc Pháp là dành cho kiếp sống này ra sao. AN.iii.356.
 
 ## Notes

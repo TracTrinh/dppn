@@ -5,7 +5,7 @@ base_headword: "Dhanasutta"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhanasutta 03. The same as No.2, but the “treasures” are explained in detail
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanasutta 03. Giống như Số 2, nhưng các “tài sản” được giải thích chi tiết. AN.iv.5f.
 
 ## Notes

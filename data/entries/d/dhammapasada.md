@@ -5,7 +5,7 @@ base_headword: "Dhammapāsāda"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammapāsāda. The palace built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāsāda. Cung điện do Vissakamma xây dựng theo yêu cầu của Sakka cho Mahā Sudassana. Về những chi tiết xây dựng của nó xem DN.ii.181f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jarāvagga"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jarāvagga 03. The eleventh section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāvagga 03. Phần thứ mười một của Dhammapada.
 
 ## Notes

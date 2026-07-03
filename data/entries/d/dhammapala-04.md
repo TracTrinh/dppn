@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammapāla 04. The Bodhisatta born as the son of King <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 04. Bodhisatta được sinh làm con trai của Vua Mahā Patāpa. Về câu chuyện của ngài, xem Cūḷa Dhammapālajātaka (Ja 358).
 
 ## Notes

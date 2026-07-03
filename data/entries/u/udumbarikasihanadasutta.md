@@ -5,7 +5,7 @@ base_headword: "Udumbarikasīhanādasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,10 @@ Though <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Udumbarikā *Paribbājakārāma*.
+
+Sandhāna, trên đường đến gặp Đức Phật, đã dừng lại tại *Paribbājakārāma* bởi vì vẫn còn quá sớm cho cuộc phỏng vấn của ông, và đã bắt đầu nói chuyện với *Paribbājaka* Nigrodha. Nigrodha đã nói một cách coi thường về tình yêu của Đức Phật đối với sự tĩnh dật. Nhìn thấy Đức Phật đang đi dọc theo bờ sông Sumāgadhā, Nigrodha đã mời ngài đến am thất của mình và hỏi ngài các câu hỏi khác nhau. Đức Phật đã chuyển hướng cuộc thảo luận sang những lợi ích và tác hại của sự tự hành xác và kết thúc bằng việc công bố mục đích của giáo lý của chính mình.
+
+Mặc dù Nigrodha bày tỏ sự ngưỡng mộ vĩ đại đối với sự trình bày của Đức Phật, ông và các đệ tử của mình đã không trở thành những người đi theo Đức Phật (DN.iii.36ff). Tuy nhiên, Buddhaghosa nói (DN­a.iii.844) rằng *Sutta* này sẽ hữu ích cho họ trong tương lai.
 
 ## Notes

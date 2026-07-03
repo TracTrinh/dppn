@@ -5,7 +5,7 @@ base_headword: "Nāgadāsaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nāgadāsaka. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgadāsaka. Vua của Magadha và là con trai của Muṇḍa. Ông đã sát hại cha mình và cai trị trong hai mươi bốn năm. Nhân dân đã phế truất ông và đưa Susunāga lên làm vua thay thế. Mhv.xvi.4 ff.; Vin-a.i.73; Dpv.iv.41; Dpv.v.78; Dpv.xi.10, nơi ông được gọi là Dasaka. Nhưng xem DN­a. i. 1.53, nơi cha của ông được gọi là Anuruddha.
 
 ## Notes

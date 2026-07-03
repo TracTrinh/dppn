@@ -5,7 +5,7 @@ base_headword: "Ñāṇakathā"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇakathā. Chương đầu tiên của Mahā Vagga của Paṭisambhidāmagga. Paṭis.i.4-135.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhanapiṭṭhi"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanapiṭṭhi. A locality in Ceylon. In the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapiṭṭhi. Một địa phương ở Tích Lan. Vào thời của Aggabodhi IV, vị thủ lĩnh của nó là Datta. Ông đã dựng lên tại đó một *vihāra* được gọi theo tên của ông. Cv.xlvi.41, 43.
 
 ## Notes

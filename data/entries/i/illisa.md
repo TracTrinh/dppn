@@ -5,7 +5,7 @@ base_headword: "Illīsa"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -43,6 +43,22 @@ Illīsa, taking heed of the warning, becomes a virtuous man (Ja.i.349ff).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Illīsa. Một vị trưởng giả (*seṭṭhi*) của Rājagaha. Ở phần đầu của câu chuyện, vị vua của Benares được nhắc đến, nhưng chính tại Rājagaha mà Sakka đã đến (xem p.350), vì vậy Rājagaha rõ ràng là nơi cư ngụ của Illīsa.
+
+Ông ta bị thọt và gù lưng, lại còn bị lác mắt. Ông là một người không có đức tin và keo kiệt, không bao giờ cho đi bất kỳ tài sản nào của mình và cũng không tự mình tận hưởng nó.
+
+Trong bảy thế hệ, tổ tiên của ông là những người hào phóng, nhưng Illīsa đã thiêu rụi nhà chẩn bần và đuổi những người nghèo ra khỏi nhà ông.
+
+Có lần, khi nhìn thấy một gã nhà quê đang uống rượu với một miếng cá khô làm mồi nhắm, Illīsa đã bị cám dỗ dữ dội muốn tự mình uống rượu. Trong một thời gian dài ông đã chống lại sự cám dỗ đó, nhưng ông phát ốm vì thèm khát, và sau khi phái một người nô lệ cầm một đồng xu duy nhất đến quán rượu, ông đã mua được một ít rượu cọ; ông ra lệnh cho người nô lệ đặt hũ rượu vào một bụi rậm bên bờ sông để ông có thể uống mà không bị ai nhìn thấy.
+
+Trong khi đó, cha của Illīsa, người đã được tái sinh làm Sakka, sau khi biết được nhờ sự điều tra rằng con trai mình đã trở thành một kẻ keo kiệt, đã giáng trần để giúp ông cai bỏ sự ngu ngốc của mình. Mang hình dáng giống hệt Illīsa đến từng chi tiết, ông đi vào cung điện của nhà vua và đề nghị dâng tất cả tài sản của Illīsa cho vua. Khi lời đề nghị bị từ chối, ông đi đến nhà của Illīsa và ra lệnh cho những người hầu mở tung tất cả các kho báu và đem của cải phân phát cho người nghèo. Những người hầu tưởng Sakka đang cải trang chính là Illīsa, và vợ của Illīsa, tin rằng sự hào phóng đột ngột của chồng mình là do ông bị say rượu, đã ưng thuận làm theo những chỉ thị đó.
+
+Trong số những người được hưởng lợi từ sự may mắn bất ngờ này có một người nông dân từng là người đánh xe ngựa của Illīsa. Đổ đầy xe ngựa với bảy món đồ giá trị, người này lên đường, đi ngang qua bụi rậm nơi Illīsa đang nằm uống rượu. Người đàn ông đang hát ca ngợi Illīsa, và khi nghe nhắc đến tên mình, Illīsa bước ra, nhìn thấy người này đang bỏ đi với tài sản của mình nên đã cố gắng cản anh ta lại. Nhưng người đàn ông, không nhận ra ông, đã đánh gục ông và tiếp tục lên đường. Illīsa vội vã về nhà nhưng bị những người gác cổng đuổi ra khỏi nhà, và cuối cùng ông đã tìm đến nhà vua. Nhà vua, sau khi nghe câu chuyện của ông, đã tiến hành điều tra và phát hiện ra sự tồn tại của hai Illīsa, giống hệt nhau về mọi phương diện, đến từng chi tiết nhỏ nhất, thậm chí là có một nốt ruồi trên đầu.
+
+Ngay cả vợ và các con của Illīsa, hay ngay cả người thợ cạo của ông, cũng không thể phân biệt ông với Illīsa thứ hai.
+
+Mất hết mọi hy vọng, Illīsa ngất xỉu, Sakka bèn hiển lộ thân phận của mình và nói với Illīsa rằng tài sản đó thực sự là của ông chứ không phải của Illīsa, vì Illīsa đã không kiếm ra nó. Ông thúc giục Illīsa làm điều thiện và thực hành sự hào phóng, nếu không ông ta sẽ chết, bị sét của Indra đánh trúng.
+
+Illīsa, chú ý đến lời cảnh báo, đã trở thành một người đức hạnh (Ja.i.349ff).
 
 ## Notes

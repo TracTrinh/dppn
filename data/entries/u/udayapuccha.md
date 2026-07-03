@@ -5,7 +5,7 @@ base_headword: "Udayapucchā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Udayapucchā (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Udayapucchā (Udayamāṇavapucchā hay Udayapañhā). Những câu hỏi được hỏi Đức Phật bởi Udaya *māṇava*, học trò của Bāvarī (xem Udaya 2), và những lời đáp của Đức Phật cho những điều đó (Sn.vv.1105-11; Snp-a.ii.599-600). Chúng giải quyết vấn đề về sự chứng đạt của *samāpatti*. AN­a.i.363.
 
 ## Notes

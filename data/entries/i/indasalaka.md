@@ -5,7 +5,7 @@ base_headword: "Indasālaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -28,6 +28,6 @@ Indasālaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indasālaka, Indasālakalena. Một hang động, có kích thước bằng cái giường trong phòng của một tỳ-kheo, gần Vallipāsāṇavihāra. Nó là nơi ở của Mahā Nāgasena Thera. Khi ông bị ốm, tám ngàn bậc *Arahant* và những cư dân của hai cõi *Deva*, do Sakka dẫn đầu, đã đến chăm sóc ông. Tất cả họ đều tìm được chỗ trống trong hang. Mhv­ṭ.552.
 
 ## Notes

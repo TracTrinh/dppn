@@ -5,7 +5,7 @@ base_headword: "Paccaya"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paccaya 02. The state elephant of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccaya 02. Con voi ngự của Vessantara, được một con voi cái biết bay mang đến chuồng vào ngày ngài sinh ra, và được đặt ở đó. Nó có màu trắng, và được gọi là Paccaya bởi vì nó đã đáp ứng một nhu cầu của Vessantara. Ja.vi.485.
 
 ## Notes

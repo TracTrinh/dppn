@@ -5,7 +5,7 @@ base_headword: "Dhammadāyādasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,8 @@ This *Sutta* is often referred to as teaching the virtues of contentment (e.g., 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadāyādasutta. Đức Phật khuyên dạy các tỳ-kheo tại Jetavana hãy tinh tấn nỗ lực để trở thành những người thừa tự, không phải của các của cải thế gian, mà là của Pháp. Khi Đức Phật rời đi, các tỳ-kheo quây quần quanh Sāriputta và hỏi ngài làm thế nào Đức Phật mong đợi họ trau dồi đời sống nội tâm với cùng sự viễn ly như chính bản thân Đức Phật, và Sāriputta đã thuyết một bài pháp (MN.i.12ff).
+
+*Sutta* này thường được nhắc đến như là bài giảng về những đức hạnh của sự tri túc (vd., Mil.242; Vin-a.iii.694).
 
 ## Notes

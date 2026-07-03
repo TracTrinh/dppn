@@ -5,7 +5,7 @@ base_headword: "Dhammaruci"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,6 @@ Dhammaruci 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaruci 02. Dhammaruci Thera. Một vị Arahant. Vào thời của Đức Phật Dīpaṅkara ngài là một thanh niên tên là Megha, và khi nghe được lời tuyên bố của Đức Phật liên quan đến Sumedha, ngài đã gia nhập Tăng đoàn dưới sự chỉ dẫn của vị sau. Nhưng, do kết giao sai lầm, ngài đã rời khỏi Tăng đoàn và sát hại mẹ mình. Vì tội lỗi này ngài đã phải chịu đau khổ trong địa ngục Avīci và sau đó được tái sinh làm một con cá. Một ngày nọ ngài nghe thấy một số thủy thủ bị đắm tàu kêu gọi tên của Đức Phật Gotama để cầu xin sự bảo vệ, và, nhớ lại lời tiên tri của Dīpaṅkara, con cá đã chết. Sau đó ngài được sinh ra ở Sāvatthī, và sau khi nghe Đức Phật thuyết pháp tại Jetavana, ngài đã gia nhập Tăng đoàn và trở thành *Arahant*. Ap.ii.429f.
 
 ## Notes

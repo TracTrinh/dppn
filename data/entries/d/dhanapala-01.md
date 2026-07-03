@@ -5,7 +5,7 @@ base_headword: "Dhanapāla"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanapāla 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapāla 01. (Dhanapālaka). Một tên gọi khác của Nālāgiri (*q.v.*). Ja.i.66; iii.293, v.v...
 
 ## Notes

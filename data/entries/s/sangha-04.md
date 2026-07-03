@@ -5,7 +5,7 @@ base_headword: "Saṅgha"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -32,6 +32,6 @@ Saṅgha 04. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgha 04. Một vị quan của Duṭṭhagāmaṇī. Ông đã bố thí, trong những hoàn cảnh giành được sự tán thưởng từ vị thần lọng của nhà vua, cho Mahā Nāga Thera của Koṭagallapabbata, cho một tỳ-kheo của Timbarugāma, và cho một vị khác của *Devagirivihāra* và Cetiyapabbata. Nhà vua đã cho gọi ông và phong ông làm Thủ quỹ. Có lẽ cũng chính Saṅgha này là người được đề cập trong Extended Mahā Vaṁsa (xxxii.246) là người được định sẵn sẽ trở thành thí chủ chính của Metteyya Buddha. Vợ của ông là Saṅghadattā (xem mục này). Ras.ii.75f, 180.
 
 ## Notes

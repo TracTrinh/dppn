@@ -5,7 +5,7 @@ base_headword: "Sārandadasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,8 @@ This *Sutta* is often referred to in the books, and the virtues mentioned are fa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārandadasutta 02. Có lần, một nhóm người Licchavī đã đến thăm Đức Phật tại Sārandadacetiya, và Ngài đã kể cho họ về bảy điều sẽ đảm bảo sự an khang của họ và ngăn họ khỏi sự suy thoái: thường xuyên tụ họp, hòa hợp, tôn trọng truyền thống và quy ước, kính trọng người lớn tuổi, lịch sự đối với phụ nữ, tôn kính các nơi thờ tự, và bảo vệ những bậc thánh nhân sống giữa họ. AN.iv.16f.; cf. DN.ii.72ff.
+
+*Sutta* này thường được tham chiếu trong các sách, và những đức hạnh được đề cập nổi tiếng với tên gọi *satta aparihāniyadhammā*. *Sutta* này cũng có thể được gọi là Vajjīsutta. Xem, e.g., DN­a.ii.524.
 
 ## Notes

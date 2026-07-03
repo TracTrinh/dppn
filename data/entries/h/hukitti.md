@@ -5,7 +5,7 @@ base_headword: "Hukitti"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hukitti. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hukitti. Một Laṅkānātha, thủ lĩnh của Rerupallika, ở quận Malaya; ông bị đánh bại bởi các sĩ quan của Parakkamabāhu I. Cv.lxx.25.
 
 ## Notes

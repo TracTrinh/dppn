@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhavikāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāraṭṭhavikāsinī. A *ṭīkā* on <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhavikāsinī. Một bản *ṭīkā* về ngữ pháp Pāli của Kaccāyana do Ariyālaṅkāra ở Ava biên soạn. Bode, 37 n.2; 55.
 
 ## Notes

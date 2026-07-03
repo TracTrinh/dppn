@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -35,6 +35,8 @@ Nāgasutta 05. The Buddha goes to the bathing place near the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 05. Đức Phật đi đến nơi tắm rửa gần Migāramātupāsāda cùng với Ānanda, tắm ở đó, và, trong khi đang lau khô tứ chi của mình, Ngài nhìn thấy con voi Seta của Pasenadi đang đi ra khỏi nơi tắm rửa, được tháp tùng bởi một nghi thức trang trọng. Mọi người, khi nhìn thấy nó, đã bày tỏ sự kinh ngạc và sự ngưỡng mộ của họ đối với con vật quý phái này.
+
+Udāyī (Kāḷudāyī, theo Chú giải, AN­a.ii.669), người đang ở gần đó, hỏi Đức Phật rằng có phải mọi người chỉ tán dương con voi vì kích thước khổng lồ của nó hay họ cũng tán dương những thứ to lớn khác? Đức Phật nói, họ tán dương tất cả những thứ khổng lồ – những con ngựa, những con bò tót, những con rắn, những cái cây, và những người đàn ông to lớn, gọi chúng là các Nāga, nhưng thực sự, Nāga tốt nhất là người không phạm phải điều ác độc nào trong lời nói hay ý nghĩ (*āguṁ na karoti, taṁ nāgo*). Ngay lúc đó Udāyī đã xướng lên một bài ca, tán thán giáo pháp của Đức Phật, so sánh Đức Phật với một con voi, mỗi chi đại diện cho một đức hạnh khác nhau (AN.iii.345). *Sutta* này còn được gọi là Nāgopamasutta. Thag­a.ii.7.
 
 ## Notes

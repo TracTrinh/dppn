@@ -5,7 +5,7 @@ base_headword: "Saraṇa"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saraṇa 01. One of the two chief disciples (Ja.i.34; Bv.v.26) and also step-bro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇa 01. Một trong hai đệ tử tối thắng (Ja.i.34; Bv.v.26) và cũng là anh em cùng cha khác mẹ (Bv­a.120) của Đức Phật Sumana.
 
 ## Notes

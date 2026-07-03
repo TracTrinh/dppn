@@ -5,7 +5,7 @@ base_headword: "Duddadajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,6 @@ Duddadajātaka. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duddadajātaka. *v.l.* Duddajātaka, Dudadajātaka (Ja 180). Có một lần Bodhisatta là một vị Bà-la-môn ở Kāsi và, sau khi được học hành ở Takkasilā, ngài đã trở thành một đạo sĩ ở Himālaya. Khi ngài và các đạo sĩ bạn đến Benares để tìm muối và gia vị, người dân đã tụ tập lại và cúng dường thức ăn cho họ. Câu chuyện được kể lại liên quan đến hai thanh niên đã quyên góp ở Sāvatthī để cúng dường thức ăn cho Đức Phật và các tỳ-kheo của ngài (Ja.ii.85f).
 
 ## Notes

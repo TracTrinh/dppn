@@ -5,7 +5,7 @@ base_headword: "Saṅkāsanāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkāsanāsutta. The Buddha says that in the Four Ariyan Truths, as taught by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkāsanāsutta. Đức Phật nói rằng trong Bốn Sự Thật Cao Quý (Tứ Thánh Đế), như được giảng dạy bởi Ngài, có vô số sắc thái và các biến thể của ý nghĩa. SN.v.430.
 
 ## Notes

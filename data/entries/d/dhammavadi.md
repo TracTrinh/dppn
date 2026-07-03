@@ -5,7 +5,7 @@ base_headword: "Dhammavādi"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -34,6 +34,12 @@ These two monks were later born as <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammavādi. Một vị tỳ-kheo sống vào thời của Kassapa Buddha.
+
+Sau khi vị Phật nhập diệt, một vị tỳ-kheo khác, Adhammavādi, bị buộc tội đã vi phạm các điều luật của Vinaya, và Dhammavādi đã phán quyết chống lại ông ta.
+
+Nhưng Adhammavādi đã thành công trong việc khiến hai người khác đưa ra phán quyết ủng hộ mình.
+
+Hai vị tỳ-kheo này sau đó đã tái sinh thành Hemavata và Sātāgira. Snp­a.i.195f.
 
 ## Notes

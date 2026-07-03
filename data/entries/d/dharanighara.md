@@ -5,7 +5,7 @@ base_headword: "Dhāraṇīghara"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhāraṇīghara. A building in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhāraṇīghara. Một tòa nhà ở Pulatthipura được xây dựng bởi Parakkamabāhu I để các Bà-la-môn tụng niệm các câu thần chú. Cv.lxxiii.71.
 
 ## Notes

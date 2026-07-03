@@ -5,7 +5,7 @@ base_headword: "Na tumhākaṁ Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Na tumhākaṁ Sutta. None of the *khandhas* belong to you; therefore they shoul
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na tumhākaṁ Sutta. Không có uẩn nào thuộc về bạn; do đó chúng nên được đoạn trừ. Việc đoạn trừ chúng sẽ mang lại lợi ích và an lạc cho bạn. (SN.3.33-4).
 
 ## Notes

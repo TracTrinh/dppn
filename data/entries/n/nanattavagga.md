@@ -5,7 +5,7 @@ base_headword: "Nānattavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nānattavagga. The first chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nānattavagga. Chương đầu tiên của Dhātusaṁyutta (SN.ii.140-9).
 
 ## Notes

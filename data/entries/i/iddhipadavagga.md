@@ -5,7 +5,7 @@ base_headword: "Iddhipādavagga"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Iddhipādavagga. The ninth chapter of the *Navakanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādavagga. Chương thứ chín của *Navakanipāta* thuộc Aṅguttaranikāya (AN.iv.463-4). Nó bao gồm mười *Sutta* đề cập đến việc tu tập bốn *iddhipāda*.
 
 ## Notes

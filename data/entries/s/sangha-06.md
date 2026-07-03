@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,6 @@ Saṅghā 06. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 06. Con gái của Kittaggabodhi và Devā và là vợ của Sena II. Bà có một người con trai (Kassapa V.). Bà đã xây dựng *ārāma* Saṅghasenapabbata và đặt một vương miện ngọc bích lên bức tượng đá của Đức Phật. Cv.i.58; *li*. 6, 9, 86; con trai của Saṅghā (Kassapa V.) được gọi là *dvayābhiseka sañjāta* (được sinh ra bởi vị vương hậu hai lần được xức dầu). Truyền thuyết kể rằng sau cái chết của Sena II., bà đã trở thành vợ của người kế vị ông, người đã lập bà làm *mahesī* của mình.
 
 ## Notes

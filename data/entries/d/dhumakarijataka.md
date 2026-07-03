@@ -5,7 +5,7 @@ base_headword: "Dhūmakārijātaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -36,6 +36,10 @@ The story was told to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dhūmakārijātaka* (Ja 413). Dhanañjaya, vua của Indapattana, có thói quen phớt lờ những chiến binh kỳ cựu của mình và chỉ tỏ ra ưu ái đối với những người mới đến. Kết quả là có lần ông đã chuốc lấy thảm bại trong một cuộc nổi loạn. Khi trở về từ trận chiến, ông tham khảo ý kiến vị tư tế của mình là Vidhurapaṇḍita (*Bodhisatta*), người đã kể cho ông nghe về một người chăn dê thuở xưa, tên là Dhūmakāri. Một lần, khi Dhumakāri đang chăn bầy dê của mình, một đàn hươu vàng đi đến từ Himālaya, và ông đã chăm sóc chúng và bỏ mặc bầy dê của chính mình. Vào mùa thu, đàn hươu quay trở lại núi và ông phát hiện ra rằng những con dê của mình đã chết đói.
+
+Câu chuyện này được kể cho Pasenadi người, cũng giống như Dhanañjaya, đã phải chịu một thất bại, và vì những lý do tương tự. Pasenadi đã tìm kiếm sự an ủi từ Đức Phật, ngài đã kể cho ông nghe câu chuyện cổ xưa này.
+
+Dhanañjaya được đồng nhất với Ānanda và Dhumakāri với Pasenadi. Ja.iii.400ff.
 
 ## Notes

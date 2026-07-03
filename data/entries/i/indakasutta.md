@@ -5,7 +5,7 @@ base_headword: "Indakasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Indakasutta. Contains the question asked by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indakasutta. Chứa đựng câu hỏi được Indaka hỏi và câu trả lời của Đức Phật. (SN.i.206).
 
 ## Notes

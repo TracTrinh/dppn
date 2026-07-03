@@ -5,7 +5,7 @@ base_headword: "Dīghalaṭṭhisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghalaṭṭhisutta. Records the visit of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghalaṭṭhisutta*. Ghi lại chuyến viếng thăm của Dīghalaṭṭhi (*q.v.*) đến Đức Phật.
 
 ## Notes

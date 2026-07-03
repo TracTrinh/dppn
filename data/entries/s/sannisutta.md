@@ -5,7 +5,7 @@ base_headword: "Saññīsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saññīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta giải thích cho Ānanda làm thế nào ông trú trong xứ “phi tưởng phi phi tưởng”. SN.iii.238.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammika 05. King of Siam, contemporary of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 05. Vua của Siam, sống cùng thời với Kittisirirājasīha của Tích Lan. Ngài đã chào đón phái đoàn được gửi từ Tích Lan đến Siam để đưa về một số tỳ-kheo, và đã dành cho phái đoàn mọi sự giúp đỡ. Trong hai dịp, ngài đã phái các nhóm tỳ-kheo đến Tích Lan để thiết lập lại sự truyền giới ở quốc gia đó, và vua của Tích Lan, để tỏ lòng biết ơn, đã gửi cho ngài một bản sao của Xá Lợi Răng và nhiều món quà khác. Cv.c.66, 136, 151, 157.
 
 ## Notes

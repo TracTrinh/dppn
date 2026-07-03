@@ -5,7 +5,7 @@ base_headword: "Pacchimadesa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pacchimadesa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacchimadesa, Pacchimadisā, Pacchimapassa. Một tỉnh ở Tích Lan, có lẽ ở phía tây. Cv.xliv.88f.; nhưng hãy xem Cv.Trs.i.82, n.4. Trong tỉnh này có Vallipāsāṇavihāra, nơi ở của Mahā Nāgasena. Mhv­ṭ.552.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Guḷapūvatintini"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Guḷapūvatintini. A place on the outskirts of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guḷapūvatintini. Một địa danh ở vùng ngoại ô Anurādhapura, gần Cetiyagiri. Ras.ii.50.
 
 ## Notes

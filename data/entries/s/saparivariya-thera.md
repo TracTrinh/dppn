@@ -5,7 +5,7 @@ base_headword: "Saparivāriya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saparivāriya Thera. An *Arahant*. He built a palisade of sandalwood round the *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saparivāriya Thera. Một vị *Arahant*. Ông đã xây một hàng rào cọc bằng gỗ đàn hương xung quanh bảo tháp (*Thūpa*) của Padumuttara Buddha. Mười lăm *kappa* trước, ông đã tám lần làm vua dưới tên là Pamatta (bản khác: Samagga). Ap.i.172.
 
 ## Notes

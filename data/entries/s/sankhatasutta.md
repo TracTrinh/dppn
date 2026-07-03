@@ -5,7 +5,7 @@ base_headword: "Saṅkhatasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkhatasutta. There are three condition marks in that which is “conditioned
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có ba dấu hiệu bị điều kiện hóa ở những gì là “bị điều kiện hóa” (*Saṅkhata*). Sự sinh khởi của nó là rõ ràng, tương tự như vậy là sự diệt đi của nó và tính có thể biến đổi của nó trong khi nó vẫn tồn tại. AN.i.152.
 
 ## Notes

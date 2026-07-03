@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhatissa"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -36,6 +36,6 @@ Jeṭṭhatissa 03. Son of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhatissa 03. Con trai của vua Saṅghatissa. Khi Moggallāna III. đoạt ngôi, Jeṭṭhatissa đã bỏ trốn đến xứ Malaya. Từ đó, ông đã giúp đỡ *Asiggāhaka* Silāmeghavaṇṇa trong cuộc chiến với Moggallāna, nhưng khi phát hiện ra rằng Silāmeghavaṇṇa cũng muốn giết mình, ông lại bỏ trốn đến Malaya một lần nữa. Về sau, ông đặt đại bản doanh tại Ariṭṭhapabbata, và từ đó dẫn một đạo quân chống lại Aggabodhi III., người khi đó đang ở trên ngai vàng. Aggabodhi bỏ trốn đến Jambudīpa, và Jeṭṭhatissa trở thành vua dưới tên Jeṭṭhatissa III. Ông chỉ trị vì trong năm tháng, trong thời gian đó ông đã làm một số công việc công đức. Aggabodhi quay trở lại cùng với một đạo quân, và trong trận chiến theo sau đó Jeṭṭhatissa đã tự sát khi nhìn thấy đạo quân của mình chịu thất bại. Vương hậu của ông đã gia nhập Tăng đoàn và trở nên thông thạo Abhidhamma. Cv.xliv.28, 55, 61, 70, 86-106.
 
 ## Notes

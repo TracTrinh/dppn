@@ -5,7 +5,7 @@ base_headword: "Saṅkhapāla"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅkhapāla 01. The Bodhisatta born as a <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhapāla 01. Bodhisatta sinh ra như một vị vua Nāga. Xem Saṅkhapālajātaka (Ja 521). Saṅkhapāla hiển nhiên là một tên gọi chung cho các Nāga của thế giới đó.
 
 ## Notes

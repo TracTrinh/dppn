@@ -5,7 +5,7 @@ base_headword: "Oghavagga"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -32,6 +32,6 @@ Oghavagga. Several chapters in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghavagga. Vài phẩm trong Saṁyuttanikāya được gọi bằng tên này; đó là, trong Maggasaṁyutta (SN.v.59), Bojjhaṅga (SN.v.136, 139), Satipaṭṭhāna (SN.v.191), Indriya (SN.v.241-242), Sammappadhāna (SN.v.247), Bala (SN.v.251, 253), Iddhipāda (SN.v.292) và Jhāna (SN.v.309).
 
 ## Notes

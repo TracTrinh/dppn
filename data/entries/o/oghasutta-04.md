@@ -5,7 +5,7 @@ base_headword: "Oghasutta"
 disambiguator: "04"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -23,6 +23,6 @@ Oghasutta 04. The Buddha instructs the monks on the four floods. SN.v.59.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghasutta 04. Đức Phật hướng dẫn các tỳ-kheo về bốn bộc lưu. SN.v.59.
 
 ## Notes

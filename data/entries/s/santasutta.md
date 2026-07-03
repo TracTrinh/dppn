@@ -5,7 +5,7 @@ base_headword: "Santasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Santasutta. On ten qualities which make a monk altogether charming and complete 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về mười phẩm chất khiến cho một vị tỳ-kheo hoàn toàn đáng mến và trọn vẹn trong mọi thuộc tính. AN.v.11.
 
 ## Notes

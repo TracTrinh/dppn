@@ -5,7 +5,7 @@ base_headword: "Nāgadattasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgadattasutta. Records the admonition given by a *Deva* to <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgadattasutta. Ghi chép lại lời khiển trách được một *Deva* (thiên nhân) đưa ra đối với Trưởng lão Nāgadatta (*xem từ này*). SN.i.200.
 
 ## Notes

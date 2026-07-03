@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "06"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabbata 06. A class of gods (*Pabbatā*) mentioned with the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 06. Một hạng chư thiên (*Pabbatā*) được đề cập cùng với nhóm Nārada (Snp.vs.543). Chú giải nói (Snp­a.ii.435) rằng họ là những người có trí huệ (*paññavanto*).
 
 ## Notes

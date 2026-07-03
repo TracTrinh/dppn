@@ -5,7 +5,7 @@ base_headword: "Jantu"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jantu 01. A *Devaputta*. He saw a number of monks in a forest-lodge on the slope
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jantu 01. Một vị thiên tử (*Devaputta*). Vị này nhìn thấy một nhóm các tỳ-kheo trong một am thất trong rừng trên những sườn dốc của dãy Himālaya, có tâm trí rối bời, buông thả trong lời nói và thiếu chánh niệm. Vị này đã hiện ra trước mặt họ vào một ngày *uposatha* và nhắc nhở họ về những bổn phận của mình. SN.i.61f.
 
 ## Notes

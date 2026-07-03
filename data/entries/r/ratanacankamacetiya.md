@@ -5,7 +5,7 @@ base_headword: "Ratanacaṅkamacetiya"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ratanacaṅkamacetiya or <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanacaṅkamacetiya hoặc Ratnacetiya. Một ngôi đền được dựng lên gần Animisacetiya kề bên cây bodhi, để đánh dấu nơi Đức Phật đã trải qua tuần thứ ba sau khi giác ngộ, đi bách bộ tới lui trên Con Đường Kinh Hành Bằng Ngọc (*Ratanacaṅkama*). Ja.i.78; Bv­a.8, 241.
 
 ## Notes

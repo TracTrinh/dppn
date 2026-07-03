@@ -5,7 +5,7 @@ base_headword: "Saṅghabhedaparisakkanavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghabhedaparisakkanavatthu. The story of how <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabhedaparisakkanavatthu. Câu chuyện về việc Devadatta thông báo cho Ānanda ý định của mình nhằm gây ra sự chia rẽ trong Tăng đoàn như thế nào. Dhp­a.iii.154f.
 
 ## Notes

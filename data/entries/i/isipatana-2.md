@@ -5,7 +5,7 @@ base_headword: "Isipatana"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -128,6 +128,52 @@ But more often <span class="dppn-term dppn-term-t14" data-dppn-term-pos="90" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isipatana. Một bãi đất trống gần Benares, nơi tọa lạc của Migadāya (Lộc Uyển) hay Công viên Nai nổi tiếng. Nó cách Uruvelā mười tám do-tuần, và khi Gotama từ bỏ những pháp khổ hạnh khắc nghiệt của mình, những người bạn của ngài, nhóm năm tỳ-kheo Pañcavaggiya, đã rời bỏ ngài và đi đến Isipatana (Ja.i.68). Sau khi Giác ngộ, Đức Phật, rời khỏi Uruvelā, đã gia nhập với họ tại Isipatana, và chính tại đây ngài đã thuyết bài pháp đầu tiên của mình, Dhammacakkappavattanasutta, vào ngày trăng tròn của tháng *Āsāḷha*. Vin.i.10f.; trong dịp này 80 *koṭi* vị *Brahma* và vô số chư thiên đã đạt được sự thấu hiểu Chân lý (Mil.30); (130 *koṭi* theo Mil.350 nói). *Lalitavistara* (528) cung cấp các chi tiết về những chặng đường của chuyến đi này. Đức Phật, vì không có tiền để trả cho người lái đò, đã băng qua sông Hằng bằng cách đi trên không. Khi Bimbisāra nghe về điều này, ông đã bãi bỏ mức phí cầu đường dành cho các tu sĩ khổ hạnh.
+
+Tại đó, Đức Phật cũng đã trải qua mùa an cư đầu tiên của mình (Bv­a., p.3).
+
+Tất cả chư Phật đều thuyết bài pháp đầu tiên của các ngài tại Migadāya ở Isipatana; nó là một trong bốn *avijahitaṭṭhānāni* (những nơi bất biến), những nơi còn lại là *bodhipallaṅka*, địa điểm tại cổng thành Saṅkassa, nơi Đức Phật chạm đất lần đầu tiên trong chuyến trở về từ Tāvatiṁsa, và vị trí chiếc giường trong Gandhakuṭi ở Jetavana (Bv­a.247; DN­a.ii.424).
+
+Isipatana được Đức Phật nhắc đến như là một trong bốn địa điểm hành hương mà những môn đồ sùng đạo của ngài nên viếng thăm (DN.ii.141).
+
+Isipatana được gọi như vậy bởi vì các nhà hiền triết, trên đường đi xuyên qua không trung (từ dãy Himalaya), đã hạ xuống ở đây hoặc khởi hành từ đây trong chuyến bay trên không của họ (*isayo ettha nipatanti uppatanti cā ti Isipatanaṁ*).
+
+Migadāya được gọi như vậy bởi vì nai được phép tự do đi lang thang ở đó mà không bị quấy rầy.
+
+Các Pacceka Buddha, sau khi đã dành bảy ngày để thiền quán ở Gandhamādana, đã tắm ở hồ Anotatta và đi đến chỗ ở của loài người xuyên qua không trung, để tìm kiếm vật thực khất thực. Các ngài hạ xuống mặt đất tại Isipatana (MN­a.i.387; AN­a.i.347 nói thêm rằng các nhà hiền triết cũng tổ chức lễ *uposatha* tại Isipatana).
+
+Đôi khi các Pacceka Buddha đi đến Isipatana từ Nandamūlakapabbhāra (MN­a.ii.1019; Paṭis-a.437-8).
+
+Một vài sự kiện khác liên quan đến Đức Phật, bên cạnh việc thuyết bài pháp đầu tiên, được đề cập là đã diễn ra ở Isipatana. Nơi đây là lúc mà vào một ngày lúc bình minh Yasa đã đến gặp Đức Phật và trở thành một *Arahant* (Vin.i.15f). Cũng tại Isipatana, quy định đã được ban hành cấm sử dụng những đôi dép làm từ lá cọ dại (Vin.i.189). Vào một dịp khác khi Đức Phật đang trú tại Isipatana, đi đến đó từ Rājagaha, ngài đã thiết lập các giới luật cấm sử dụng một số loại thịt, bao gồm cả thịt người (Vin.i.216ff.; giới luật liên quan đến thịt người là cần thiết bởi vì Suppiyā đã nấu nước lèo từ chính thịt của cô ấy cho một vị tỳ-kheo bị bệnh). Hai lần, trong khi Đức Phật đang ở tại Isipatana, Māra đã đến thăm ngài nhưng phải bỏ đi trong sự thất bại (SN.i.105f).
+
+Bên cạnh Dhammacakkappavattanasutta được nhắc đến ở trên, một vài bài *Sutta* khác đã được Đức Phật thuyết trong lúc ngài trú tại Isipatana, trong số đó có
+
+- Pañcasutta (SN.iii.66f),
+- Rathakārasutta hay Pacetanasutta (AN.i.110f),
+- hai bài Pāsasutta (SN.i.105f),
+- Samayasutta (AN.iii.320ff),
+- Kaṭuviyasutta (AN.i.279f.),
+- một bài pháp thoại về Metteyyapañha của Pārāyaṇa (AN.iii.399f), và
+- Dhammadinnasutta (SN.v.406f), được thuyết cho vị cư sĩ lỗi lạc Dhammadinna, người đã đến thăm Đức Phật.
+
+Một số thành viên lỗi lạc nhất của Tăng đoàn dường như đã từng cư ngụ tại Isipatana theo thời gian; trong số những cuộc trò chuyện được ghi lại tại Isipatana có một vài cuộc giữa Sāriputta và Mahā Koṭṭhita (SN.ii.112f;iii.167f;iv.162f; 384ff), và một cuộc giữa Mahā Koṭṭhita và Cittahatthisāriputta (AN.iii.392f).
+
+Người ta cũng đề cập đến một bài pháp thoại trong đó một vài tỳ-kheo đang ở tại Isipatana đã cố gắng giúp đỡ Channa giải quyết những khó khăn của ông ấy (SN.iii.132f).
+
+Theo Mahā Vaṁsa, có một cộng đồng tỳ-kheo lớn ở Isipatana vào thế kỷ thứ hai trước Công nguyên. Vì, chúng ta được kể rằng trong lễ đặt móng của Mahā Thūpa tại Anurādhapura, có mười hai ngàn tỳ-kheo từ Isipatana đã hiện diện, do Trưởng lão Dhammasena dẫn đầu (Mhv.xxix.31).
+
+Huyền Trang (Beal-Xuan.ii.45ff) đã tìm thấy ở Isipatana mười lăm trăm tỳ-kheo đang nghiên cứu hệ thống Hīnayāna (Tiểu thừa). Trong khu vực khuôn viên của Saṅghārāma là một *vihāra* cao khoảng hai trăm feet, được xây dựng kiên cố, mái của nó được đội lên trên bởi một hình tượng quả xoài bằng vàng. Ở trung tâm của *vihāra* là một bức tượng có kích thước bằng người thật của Đức Phật đang chuyển bánh xe Pháp. Về phía tây nam là tàn tích của một *stūpa* bằng đá do Asoka xây dựng. *Divyāvadāna* (389-94) đề cập đến việc Asoka thông báo cho Upagupta về mong muốn viếng thăm những địa điểm gắn liền với các hoạt động của Đức Phật, và dựng lên các *Thūpa* tại đó. Theo đó ông đã viếng thăm Lumbinī, Bodhimūla, Isipatana, Migadāya và Kusinagara; điều này được xác nhận bởi các bia ký bằng đá của Asoka, ví dụ như Rock Edict, viii.
+
+Phía trước nó là một cột đá để đánh dấu địa điểm nơi Đức Phật đã thuyết bài pháp đầu tiên của ngài. Gần đó là một *stūpa* khác nằm trên địa điểm nơi các Pañcavaggiya (năm tỳ-kheo) đã dành thời gian để thiền định trước khi Đức Phật đến, và một cái khác nữa là nơi năm trăm vị Pacceka Buddha nhập *Nibbāna*. Gần sát nó là một tòa nhà khác, nơi Metteyya Buddha tương lai nhận được sự bảo chứng về việc ngài sẽ trở thành một vị Phật.
+
+Huyền Trang trích dẫn Nigrodhamigajātaka (Ja.i.145ff) để giải thích nguồn gốc của Migadāya. Theo ông, Lộc Uyển là khu rừng do nhà vua xứ Benares của câu chuyện Jātaka ban tặng, nơi loài nai có thể lang thang mà không bị quấy rầy.
+
+Theo Udapānajātaka (Ja.ii.354ff), có một cái giếng rất cổ gần Isipatana, mà vào thời của Đức Phật, đã được sử dụng bởi các tỳ-kheo sống ở đó.
+
+Trong các thời đại quá khứ, Isipatana đôi khi giữ tên gọi riêng của nó, ví dụ, vào thời của Phussa Buddha (Bv.xix.18), Dhammadassī (Bv­a.182) và Kassapa (Bv­a.218). Kassapa được sinh ra ở đó (sđd., 217).
+
+Nhưng thường thì Isipatana được biết đến bằng những cái tên khác nhau (về các tên gọi này hãy xem bên dưới tên của các vị Phật khác nhau). Do vậy trong thời của Vipassī, nó được biết đến với tên gọi là Khemauyyāna. Việc tất cả chư Phật đi xuyên qua không trung đến Isipatana để thuyết bài pháp đầu tiên của các ngài là một phong tục. Tuy nhiên, Gotama, đã đi bộ suốt quãng đường mười tám do-tuần, bởi vì ngài biết rằng bằng cách làm như vậy, ngài sẽ gặp Upaka, vị Ājīvaka, người mà ngài có thể giúp ích (DN­a.ii.471).
+
+Isipatana được đồng nhất với Sarnath hiện đại, cách Benares sáu dặm. Cunningham (*Arch. Reports*, i. p. 107) đã phát hiện ra Migadāya được đại diện bởi một khu rừng xinh đẹp, bao phủ một khu vực khoảng nửa dặm, kéo dài từ ngôi mộ lớn của Dhammek ở phía bắc đến gò Chaukundi ở phía nam.
 
 ## Notes

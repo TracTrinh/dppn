@@ -5,7 +5,7 @@ base_headword: "Ucchuvimāna"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ Later she visited <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+cũng được gọi là Ucchudāyikāvimāna. Một cô gái, người thuộc về một gia đình đạo đức ở Rājagaha, thường tặng cho những bậc thánh nhân một nửa của bất cứ thứ gì cô nhận được. Cô được gả vào một gia đình của những người không có đức tin. Một ngày nọ, cô nhìn thấy Moggallāna đang đi khất thực, và sau khi mời ngài vào nhà của mình, cô đã dâng cho ngài một khúc mía đã được để dành cho mẹ chồng của cô, sự chấp thuận của bà đối với món quà mà cô hy vọng sẽ giành được. Nhưng khi người mẹ chồng nghe về những gì đã xảy ra trong sự vắng mặt của bà, bà ta đã nổi trận lôi đình và dùng một chiếc ghế đẩu đánh cô gái. Cô gái qua đời ngay lập tức và được sinh ra ở Tāvatiṁsa.
+
+Sau đó, cô đã đến thăm Moggallāna và tiết lộ danh tính của mình. Cung điện của cô được gọi là Ucchudāyikāvimāna. Vv.24f; Vv-a.124ff.
 
 ## Notes

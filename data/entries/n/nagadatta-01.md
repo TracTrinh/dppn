@@ -5,7 +5,7 @@ base_headword: "Nāgadatta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāgadatta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgadatta 01. Nāgadatta Thera. Ngài từng sống ở một khu rừng tại Kosala và có khuynh hướng trở nên biếng nhác. Một *Deva* (thiên nhân), khi chú ý đến điều này, đã khiển trách ngài, và có nói rằng Nāgadatta đã chú ý đến lời cảnh báo. SN.i.200.
 
 ## Notes

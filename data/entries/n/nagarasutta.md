@@ -5,7 +5,7 @@ base_headword: "Nagarasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nagarasutta. The Buddha tells the monks how, before his <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagarasutta. Đức Phật nói với các tỳ-kheo về việc làm thế nào mà, trước khi giác ngộ, Ngài đã lo âu bởi sự tồn tại của sinh, lão, suy tàn và tử trong thế giới này, và làm thế nào mà, dần dần, Ngài đã khám phá ra các điều kiện là nguyên nhân khiến chúng sinh khởi và đoạn diệt. Qua đó trí tuệ sinh khởi trong Ngài cùng với cái nhìn thấu suốt. Cũng giống như khi một người đi xuyên qua khu rừng, tình cờ bắt gặp một kinh thành cổ xưa và thông báo sự khám phá của mình cho nhà vua, người đã cho trùng tu kinh thành đó, tương tự như vậy Đức Phật đã nhìn thấy con đường cổ xưa mà các bậc Giác Ngộ trong quá khứ đã đi qua và đã tuyên thuyết nó cho nhiều người, cho chư thiên và loài người. SN.ii.104 ff.
 
 ## Notes

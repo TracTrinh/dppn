@@ -5,7 +5,7 @@ base_headword: "Jotidāsa Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -38,6 +38,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotidāsa Thera. Một vị Bà-la-môn giàu có của Pādiyattha (Pāniyattha). Một ngày nọ, nhìn thấy Mahā Kassapa đang đi khất thực, ông đã thết đãi vị Trưởng lão và thỉnh cầu vị ấy thuyết pháp. Trên một ngọn đồi gần ngôi làng, Jotidāsa đã xây dựng một *vihāra* cho Kassapa và cung cấp cho vị ấy những vật dụng thiết yếu. Cảm động bởi lời dạy của vị Trưởng lão, ông đã xuất gia và ngay sau đó trở thành một *Arahant*. Sau mười năm – trong thời gian đó ông đã học thuộc Tam Tạng, đặc biệt thông thạo về Vinaya – trong khi đang trên đường đến Sāvatthī để diện kiến Đức Phật, ông đã đi vào một tu viện của các du sĩ ngoại đạo (*Paribbājakārāma*), và tại đó đã có một cuộc thảo luận với các *Paribbājaka* về cách để thiêu rụi cái ác. Vào cuối cuộc thảo luận, họ đã được xuất gia dưới sự chỉ dẫn của ông.
+
+Vào thời của Sikhī Buddha, ông là một vị gia chủ và, khi nhìn thấy Đức Phật, đã cúng dường lên Ngài một quả *kāsumārika* (Thag.143-4; Thag­a.i.264f).
+
+Ông có lẽ đồng nhất với Kāsumāraphaladāyaka trong Apadāna ii.445. Nhưng xem Sīvaka.
 
 ## Notes

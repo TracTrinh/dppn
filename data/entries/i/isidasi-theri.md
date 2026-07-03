@@ -5,7 +5,7 @@ base_headword: "Isidāsī Therī"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -43,6 +43,14 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidāsī Therī. Cô là con gái của một thương gia tốt bụng và giàu có ở Ujjenī. Khi đến tuổi trưởng thành, cô được gả cho con trai của một thương gia ở Sāketa.
+
+Trong một tháng, cô sống cùng anh như một người vợ tận tụy; sau đó vì *kamma* trong quá khứ của cô, người chồng trở nên xa lánh cô và đuổi cô ra khỏi nhà. Cô tái giá nhưng vẫn nhận lấy kết quả tương tự, và lần thứ ba với một tu sĩ khất thực. Cha của Isidāsī đã thuyết phục người này từ bỏ đời sống du sĩ; ông ta sống với vợ mình chỉ trong nửa tháng và từ chối ở lại với cô thêm nữa. Isidāsī sau đó gặp Therī Jinadattā, người mà cô đã thết đãi một bữa ăn tại nhà mình. Dưới sự dẫn dắt của Jinadattā, Isidāsī đã gia nhập Tăng đoàn và trở thành một bậc *Arahant*.
+
+Therīgāthā (vv.400-47), nơi chứa đựng bốn mươi bảy bài kệ được gán cho cô, không chỉ mô tả về kiếp sống hiện tại, mà còn về các kiếp sống quá khứ của cô. Cô từng là một thợ kim hoàn ở Erakaccha và đã phạm tội ngoại tình trong kiếp sống đó. Do kết quả này, cô bị sinh vào địa ngục trong một thời gian dài, và, trong các lần sinh tiếp theo, cô trở thành một con vượn, một con dê, một con bò đực, một người nô lệ lưỡng tính và con gái của một người đánh xe bò. Trong lần sinh cuối cùng này, cô bị bán cho một thương gia để gán nợ cho cha mình. Khi cô mười sáu tuổi, con trai của vị thương gia, Giridāsa, đã phải lòng và cưới cô. Anh ta vốn đã có một người vợ, và người vợ mới này đã gây ra sự bất hòa giữa cô ta và chồng mình. Do đó mà trong kiếp sống này, cô đã bị những người chồng của mình thù ghét. Bản tường thuật này về sự lưu chuyển của cô trong *Saṁsāra* được Isidāsī kể lại để đáp lại lời thỉnh cầu từ một trong những vị sư cô đồng môn của cô, Bodhī (Thīg­a.260ff).
+
+Bà Rhys Davids cho rằng (*Sisters*, Introd. pp.xxii f) những bài kệ của Isidāsī trong Therīgāthā gợi lên một kỹ thuật văn chương muộn màng và mang dấu ấn của sự sáng tác văn chương thời kỳ sau. Bối cảnh là Pāṭaliputta, chứ không phải bất kỳ thị trấn thông thường nào được nhắc đến trong Kinh điển, và tên của người bảo trợ cho Isidāsī – Jinadattā – theo bà, là có ý nghĩa. Có lẽ ở đây có những dấu vết của sự ảnh hưởng từ Kỳ-na giáo.
+
+Trong Dīpavaṁsa (xviii.9) Isidāsī (Isidāsikā) được nhắc đến trong một danh sách những vị *Therī* lỗi lạc, những người từng là lãnh đạo Tăng đoàn của các tỳ-kheo-ni.
 
 ## Notes

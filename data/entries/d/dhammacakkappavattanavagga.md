@@ -5,7 +5,7 @@ base_headword: "Dhammacakkappavattanavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammacakkappavattanavagga. Second chapter of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacakkappavattanavagga. Chương thứ hai của Saccasaṁyutta (SN.v.420-31). *Sutta* đầu tiên được biết đến là Dhammacakkappavattana.
 
 ## Notes

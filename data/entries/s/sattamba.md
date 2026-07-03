@@ -5,7 +5,7 @@ base_headword: "Sattamba"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sattamba, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattamba, Sattambaka. Một điện thờ gần Vesālī. (DN.ii.102; Ud.vi.1; SN.v.259; AN.iv.309, v.v.). Nó được gọi như vậy bởi vì, trong quá khứ, bảy công chúa, những người con gái của Kikī, vua xứ Benares, đã rời Rājagaha và đấu tranh để đạt được giác ngộ tại địa điểm đó. Ban đầu nó được dâng hiến cho một vị thần nào đó, nhưng sau chuyến viếng thăm của Đức Phật đến Vesālī, nó đã trở thành một nơi ở của Ngài (Ud­a.323, v.v.). Nó nằm ở phía tây của Vesālī. DN.iii.9.
 
 ## Notes

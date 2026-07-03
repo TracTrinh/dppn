@@ -5,7 +5,7 @@ base_headword: "Okkantikasaṁyutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Okkantikasaṁyutta. The twenty-fifth division of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okkantikasaṁyutta. Phẩm thứ hai mươi lăm của Saṁyuttanikāya, và là chương thứ tư của Khandhavagga. SN.iii.225-8.
 
 ## Notes

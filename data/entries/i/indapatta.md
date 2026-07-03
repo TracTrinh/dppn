@@ -5,7 +5,7 @@ base_headword: "Indapatta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -43,6 +43,14 @@ The modern Delhi stands on the site of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indapatta (Indapattana, Indapaṭṭha). Một thị trấn ở quốc độ Kuru. Trong Kurudhammajātaka (Ja 276, Ja.ii.365f; cũng xem Ja.iii.400; iv.361; v.457; vi.255; Cp.i.3, v.1), Dhanañjaya Koravya, được nhắc đến là vị vua của nơi này và là chủ nhân của Añjanavasabha, con voi có sức mạnh kỳ diệu.
+
+Thị trấn này rộng bảy do-tuần (Ja.v.57; 484) và có một con đường chạy thẳng từ Indapatta đến Bārāṇasī (Ja.v.59).
+
+Vào thời xa xưa, Indapatta được coi là một trong ba thành phố chính của Jambudīpa, hai thành phố còn lại là Uttarapañcāla và Kekaka (Ja.ii.213, 214).
+
+Theo một bài kệ nằm ở cuối Buddhavaṁsa (Bv.xxviii.11), dao cạo và kim khâu của Đức Phật đã được tôn thờ tại Indapatta.
+
+Thành phố Delhi hiện đại nằm trên nền cũ của Indapatta.
 
 ## Notes

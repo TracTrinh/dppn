@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Satipaṭṭhānasaṁyutta. The forty-seventh section of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānasaṁyutta. Phần thứ bốn mươi bảy của Saṁyuttanikāya. SN.v.141-2.
 
 ## Notes

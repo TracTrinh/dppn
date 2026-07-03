@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,6 @@ Dhanañjaya 05. Also called <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 05. Cũng được gọi là Koravya, vị vua của xứ Kuru, với thủ đô ở Indapatta. Vị đại thần của ngài là Vidhurapaṇḍita. Ngài thích các trò chơi xúc xắc và đã bị Puṇṇaka đánh bại. Về câu chuyện của ngài, xem Vidhurapaṇḍitajātaka (Ja 545, Ja.vi.255ff; Snp­a.i.223). Ngài được đồng nhất với Ānanda. Ngài có lẽ cũng là vị vua được nhắc đến trong Dhūmakārijātaka (Ja 413). Ja.iii.400ff.
 
 ## Notes

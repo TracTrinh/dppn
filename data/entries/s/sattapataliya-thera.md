@@ -5,7 +5,7 @@ base_headword: "Sattapāṭaliya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattapāṭaliya Thera. An *Arahant*. Ninety-four *kappas* ago he saw the Buddha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattapāṭaliya Thera. Một bậc *Arahant*. Chín mươi tư *kappa* trước, ngài đã nhìn thấy Đức Phật (Siddhattha?) và cúng dường Ngài những bông hoa *pāṭali*. Ap.i.227.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "15"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandā 15. The collective name of the nine Nandas (see <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 15. Tên gọi chung của chín vị Nanda (xem Nanda 20) đã cai trị sau mười người con trai của Kāḷāsoka. Mhv.v.15.
 
 ## Notes

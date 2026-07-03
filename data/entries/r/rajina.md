@@ -5,7 +5,7 @@ base_headword: "Rājinā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rājinā. A town in South India, captured from <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājinā. Một thị trấn ở Nam Ấn Độ, bị Laṅkāpura và Jagadvijaya chiếm được từ tay Kulasekhara. Cv.lxxvi.317ff.
 
 ## Notes

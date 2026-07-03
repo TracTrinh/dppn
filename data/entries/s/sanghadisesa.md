@@ -5,7 +5,7 @@ base_headword: "Saṅghādisesa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghādisesa. The second division of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghādisesa. Phần thứ hai của Pārājikā của Vinayapiṭaka. Nó bao gồm mười ba điều luật, sự vi phạm chúng dẫn đến sự cách ly tạm thời khỏi Tăng đoàn.
 
 ## Notes

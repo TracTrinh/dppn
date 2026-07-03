@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammika 02. A householder of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 02. Một gia chủ ở Sāvatthī, người đã sống một đời rất thanh tịnh. Một ngày nọ ông cảm thấy mong muốn trở thành một vị tỳ-kheo và nói điều đó với vợ mình, nhưng bà van xin ông hãy đợi cho đến sau khi đứa con của họ chào đời. Ông đã đợi cho đến khi đứa trẻ có thể đi lại, và sau đó lại nói với bà, nhưng khi đó bà lại muốn ông chờ cho đến khi đứa trẻ đến tuổi trưởng thành. Ông đã không đồng ý với điều này, mà gia nhập Tăng đoàn và không lâu sau đó trở thành một *Arahant*. Sau đó, ngài về thăm gia đình và thuyết giảng cho người con trai của mình, người cũng đã trở thành một tỳ-kheo và đạt quả vị *Arahant*. Mẹ của cậu, còn lại một mình, đã gia nhập Ni đoàn, tự mình trở thành một *Arahant*. Dhp­a.ii.157-9.
 
 ## Notes

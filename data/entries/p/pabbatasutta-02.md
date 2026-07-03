@@ -5,7 +5,7 @@ base_headword: "Pabbatasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabbatasutta 02. An aeon is longer than the time taken by a man to waste away a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatasutta 02. Một kappa thì dài hơn khoảng thời gian một người cần để làm mòn đi một ngọn núi cao một do-tuần, dài một do-tuần, và rộng một do-tuần, bằng cách vuốt qua nó mỗi trăm năm một lần bằng một tấm vải Kāsī. SN.ii.181.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ubhatovibhaṅga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -29,6 +29,6 @@ Ubhatovibhaṅga. A collective term, comprehending the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thuật ngữ tập thể, bao gồm Bhikkhuvibhaṅga và Bhikkhunīvibhaṅga của Vinayapiṭaka. Nó bao gồm sáu mươi bốn *bhāṇavāra* (DN­a.i.13; Vin-a.i.15). Trong chín phần phân loại những lời dạy của Đức Phật – *Sutta*, *geyya*, v.v., Ubhatovibhaṅga rơi vào thể loại *Sutta* (DN­a.i.23; Gv.57. 43). Đôi khi từ này dường như được sử dụng như *varia lectio* cho Ubhatovinaya, ví dụ, Vin.ii.287; xem thêm Dpv.vii.43.
 
 ## Notes

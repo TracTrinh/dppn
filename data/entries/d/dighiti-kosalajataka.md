@@ -5,7 +5,7 @@ base_headword: "Dīghīti Kosalajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,10 @@ The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghīti Kosalajātaka* (Ja 371). Chứa đựng phần sau của câu chuyện về Dīghāyu, con trai của Dīghīti, người, khi nhớ lại lời khuyên của cha mình, đã kìm nén không giết Brahmadatta khi cơ hội đến, và sau đó được hưởng lợi từ hành động này của ông (Ja.iii.211f; so sánh Vin.i.342ff; Ja.iii.487).
+
+Trong *Jātaka* có nói rằng toàn bộ câu chuyện được đưa ra trong *Saṅghabhedakajātaka*. Tuy nhiên, không tìm thấy câu chuyện nào như vậy, trừ phi đây là một tên gọi khác của *Kosambījātaka*.
+
+Câu chuyện về Dīghīti được kể lại liên quan đến những tỳ-kheo hay tranh cãi ở Kosambī. Một số bài kệ được tìm thấy trong câu chuyện *Jātaka* được lặp lại trong *Upakkilesasutta* (MN.ii.154).
 
 ## Notes

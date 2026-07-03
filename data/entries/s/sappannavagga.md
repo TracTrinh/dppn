@@ -5,7 +5,7 @@ base_headword: "Sappaññavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sappaññavagga. The sixth chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ sáu của Sotāpattisaṁyutta. SN.v.404-14.
 
 ## Notes

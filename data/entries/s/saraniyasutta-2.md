@@ -5,7 +5,7 @@ base_headword: "Sārāṇīyasuttā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārāṇīyasuttā. Two *Suttas* on what a monk should bear in mind in order th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārāṇīyasuttā. Hai bài *Sutta* về những điều mà một tỳ-kheo nên ghi nhớ để hành vi của vị ấy khiến vị ấy được người khác quý mến, mang lại sự hòa hợp, và dẫn đến sự nhất tâm. AN.iii.288f.
 
 ## Notes

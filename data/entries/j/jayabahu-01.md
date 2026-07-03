@@ -5,7 +5,7 @@ base_headword: "Jayabāhu"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,6 @@ Jayabāhu 01. King of Ceylon (1114-1116 CE.). He was a brother of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayabāhu 01. Vua của Tích Lan (1114-1116 CN.). Ông là một người em trai của Vijayabāhu I, người đã phong cho ông làm *Ādipāda* và giao cho ông cai quản Rohaṇa (Cv.lix.12). Ông đã kết hôn với người chị gái cùng cha khác mẹ hoặc cùng mẹ khác cha (*step-sister*) của mình là Sumittā (Cv.lix.43) và sau đó được phong làm *Uparāja* (Cv.lx.87). Khi Vijayabāhu qua đời, Jayabāhu đã trở thành vua với sự giúp đỡ của bè phái Pāṇḍya thuộc hoàng gia và đã chỉ định, "trái với phong tục trước đây", Māṇābharaṇa làm *Uparāja* của mình. Tuy nhiên, người này dường như mới là vị vua thực sự; những nỗ lực của ông ta nhằm tấn công Vikkamabāhu, vị *Uparāja* hợp pháp, đã kết thúc trong thảm họa, và Vikkamabāhu đã chiếm giữ thủ đô, Pulatthipura, sau đó Jayabāhu đã rút lui đến Rohaṇa. Ông đã sống ở đó như một vị quốc vương trên danh nghĩa và đã qua đời trong sự vô danh (Cv.lxi).
 
 ## Notes

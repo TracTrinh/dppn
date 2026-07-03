@@ -5,7 +5,7 @@ base_headword: "Dhammaka"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammaka 02. A mountain in the neighbourhood of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaka 02. Một ngọn núi ở khu vực lân cận của Himavā, nơi Sumedha có thảo am của ngài. Ja.i.6; Bv.ii.29.
 
 ## Notes

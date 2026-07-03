@@ -5,7 +5,7 @@ base_headword: "Udāyī"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udāyī 03. A Brahmin. He visited the Buddha at <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Bà-la-môn. Ông đã đến thăm Đức Phật tại Sāvatthī và hỏi liệu Đức Phật có bao giờ khen ngợi tế lễ hay không. Câu trả lời của Đức Phật là ngài không tán dương các tế lễ liên quan đến sự sát sinh, nhưng khen ngợi những tế lễ hoàn toàn vô tội với bất kỳ sự giết chóc nào (AN.ii.43f).
 
 ## Notes

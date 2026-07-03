@@ -5,7 +5,7 @@ base_headword: "Raṁsisaññaka"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Raṁsisaññaka 03. An *Arahant* Thera. Thirty thousand *kappas* ago he saw a B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṁsisaññaka 03. Một vị Arahant Thera. Ba mươi ngàn *kappa* trước, ông nhìn thấy một vị Phật ngồi trên tảng đá tỏa vầng hào quang bao trùm khắp nơi, và ông cảm thấy hoan hỉ trước cảnh tượng đó. Năm mươi bảy *kappa* trước, ông là một vị vua tên là Sujāta. Ap.i.210.
 
 ## Notes

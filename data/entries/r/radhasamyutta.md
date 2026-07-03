@@ -5,7 +5,7 @@ base_headword: "Rādhasaṁyutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rādhasaṁyutta. The twenty-third section of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhasaṁyutta. Phần thứ hai mươi ba của Saṁyuttanikāya. Nó chứa nhiều bài *Sutta* khác nhau do Đức Phật thuyết giảng để trả lời những câu hỏi của Rādha. SN.iii.188-201.
 
 ## Notes

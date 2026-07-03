@@ -5,7 +5,7 @@ base_headword: "Upajotiya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upajotiya. One of the door-keepers summoned by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upajotiya. Một trong những người gác cổng được Maṇḍavya triệu tập để tống cổ Mātaṅga ra khỏi nhà ông. Ja.iv.382.
 
 ## Notes

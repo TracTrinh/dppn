@@ -5,7 +5,7 @@ base_headword: "Naḷakapānasutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naḷakapānasutta 03. The circumstances are the same as in (2), but the qualiti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakapānasutta 03. Hoàn cảnh tương tự như trong (2), nhưng những phẩm chất được Sāriputta đề cập thì khác nhau – *saddhā*, *hiri*, *ottappa*, *viriya*, *sotāvadhāna*, *dhammadhāraṇā*, *atthūpaparikkhā*, *dhammānudhammapaṭipatti*, và *appamāda*. AN.v.125ff.
 
 ## Notes

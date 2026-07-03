@@ -5,7 +5,7 @@ base_headword: "Sattanāsasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattanāsasutta. On the unworthy man and the still more unworthy; the worthy man
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattanāsasutta. Về người không xứng đáng và người thậm chí còn không xứng đáng hơn; người xứng đáng và người thậm chí còn xứng đáng hơn. AN.ii.218.
 
 ## Notes

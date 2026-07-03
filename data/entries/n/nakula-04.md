@@ -5,7 +5,7 @@ base_headword: "Nakula"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nakula 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakula 04. Con trai của Nakulapitā và Nakulamātā. Không có gì thêm được ghi chép lại về ông. SN­a. ii. 181.
 
 ## Notes

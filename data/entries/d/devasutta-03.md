@@ -5,7 +5,7 @@ base_headword: "Devāsutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Devāsutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devāsutta 03. Mahāli đến thăm Đức Phật tại Kūṭāgārasālā và hỏi ngài có từng gặp Sakka chưa. Đức Phật trả lời rằng ngài đã gặp và ngài biết nhiều điều về Sakka. Sau đó ngài lặp lại những gì được đưa ra ở số 1 và 2 ở trên. SN.i.229.
 
 ## Notes

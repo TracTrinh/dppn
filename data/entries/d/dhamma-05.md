@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammā 05. An eminent Therī of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 05. Một vị Therī xuất chúng ở Anurādhapura, một vị giáo thọ sư lỗi lạc về Luật (Vinaya). Dpv.xviii.14.
 
 ## Notes

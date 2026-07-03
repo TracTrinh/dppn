@@ -5,7 +5,7 @@ base_headword: "Rammavatī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rammavatī 01. The birthplace of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rammavatī 01. Nơi đản sinh của Koṇḍañña Buddha (Ja.i.30; Bv.iii.25). Tại đây Bodhi-upatthāyaka Thera sinh làm Muraja. Ap.i.194.
 
 ## Notes

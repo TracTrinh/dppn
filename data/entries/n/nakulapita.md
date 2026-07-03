@@ -5,7 +5,7 @@ base_headword: "Nakulapitā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -38,6 +38,12 @@ It is said that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulapitā và Nakulamātā. Một người đàn ông và vợ của ông, những gia chủ của Suṁsumāragiri ở quốc gia Bhagga. Khi Đức Phật đến thăm ngôi làng và ở lại Bhesakalāvana, họ đã đến gặp Ngài. Họ ngay lập tức phủ phục dưới chân Ngài, gọi Ngài là “con trai” và hỏi tại sao Ngài lại đi xa lâu như vậy. Có nói rằng họ từng là cha mẹ của Bodhisatta trong năm trăm kiếp sống và là những người thân cận của ngài trong nhiều kiếp hơn nữa. Đức Phật đã thuyết giảng cho họ và họ đã trở thành những *Sotāpanna* (bậc Dự lưu). Đức Phật đã đến thăm ngôi làng của họ một lần nữa khi họ đã già. Họ đã đón tiếp Ngài, kể về sự tận tụy của họ dành cho nhau trong kiếp sống này và cầu xin một lời dạy mà sẽ giữ họ luôn ở bên nhau trong kiếp sống sau. Đức Phật đã đề cập điều này trong hội chúng Tăng đoàn, tuyên bố họ là những người bạn đời thân thiết nhất (*vissāsikā*) trong số các đệ tử của Ngài. (AN.I.26, AN.II.61f, AN­a.i.216f, 246; ii.514; SN­a.ii.182)
+
+Có lần, khi Nakulapitā bị bệnh nặng, vợ ông nhận thấy rằng ông đang bực dọc vì lo âu. Bà trấn an ông rằng không cần phải lo lắng về phần mình, dù là thay mặt cho bà hay những đứa con của ông. Bà đã nói với sự quả quyết đến mức Nakulapitā lấy lại được sự điềm tĩnh trong tâm trí và đã khỏe lại. Sau đó ông đã đến thăm Đức Phật và kể cho Ngài nghe về điều này, và đã được Đức Phật chúc mừng vì có một người vợ tuyệt vời như vậy (AN.III.295ff)
+
+Saṁyuttanikāya có chứa các ghi chép về những cuộc trò chuyện giữa Nakulapitā và Đức Phật (SN.3.1, SN.4.116; AN.IV.268). Cả người chồng và người vợ đều được nhắc đến trong các danh sách của những đệ tử lỗi lạc (AN.iii.465; AN.iv.348).
+
+Có nói rằng mong muốn về sự xuất chúng của Nakulapitā lần đầu tiên được hình thành vào thời của Đức Phật Padamuttara. Khi đó ông là một gia chủ của Haṁsavatī, và đã có mặt tại một hội chúng nơi Đức Phật tuyên bố một người nào đó là vị đứng đầu trong số các *vissāsika*. AN.I.216.
 
 ## Notes

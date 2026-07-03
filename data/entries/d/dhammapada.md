@@ -5,7 +5,7 @@ base_headword: "Dhammapada"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,6 @@ Dhammapada. The second book of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapada. Cuốn sách thứ hai của Khuddakanikāya thuộc Suttapiṭaka. Có lẽ nó là một hợp tuyển muộn hơn so với Theragāthā và Therīgāthā, và nó được đề cập bằng tên sớm nhất là trong Milindapañha (p.408). Nó bao gồm các bài kệ (*gātha*) được tập hợp lại từ nhiều cuốn sách khác nhau trong Kinh điển, nhưng hầu như không chứa bài kệ nào từ bộ sưu tập Jātaka, hoặc bắt nguồn trực tiếp từ Suttanipāta. Văn bản hiện tại của Dhammapada bao gồm bốn trăm hai mươi ba bài kệ được chia thành hai mươi sáu chương (*vagga*). Cho đến nay, có năm bản hiệu đính của Dhammapada đã được khám phá (để biết chi tiết, xem Law: *Pāli Literature*, pp.215f). Một bản chú giải cho tác phẩm này vẫn tồn tại có tên là Chú giải Dhammapada.
 
 ## Notes

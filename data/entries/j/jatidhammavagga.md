@@ -5,7 +5,7 @@ base_headword: "Jātidhammavagga"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jātidhammavagga. The fourth chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātidhammavagga. Chương thứ tư của Saḷāyatanasaṁyutta. SN.iv.26ff.
 
 ## Notes

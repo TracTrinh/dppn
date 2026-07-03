@@ -5,7 +5,7 @@ base_headword: "Udapānadāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udapānadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he had built a well
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Chín mươi mốt *kappa* trước, ngài đã xây một cái giếng cho Vipassī Buddha và dâng nó lên cho Đức Phật. Ap.i.188.
 
 ## Notes

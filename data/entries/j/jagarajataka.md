@@ -5,7 +5,7 @@ base_headword: "Jāgarajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -32,6 +32,10 @@ The tree-sprite is identified with <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāgarajātaka (Ja 414). Xưa kia, Bodhisatta là một Bà-la-môn, sau khi học xong ở Takkasilā, đã trở thành một đạo sĩ ở vùng Himālaya, chỉ sống trong tư thế đứng và đi. Một ngày nọ, một thọ thần hiện ra trước mặt ngài và hỏi ngài một câu đố về việc thức và ngủ, ngài đã giải đáp khiến vị ấy hài lòng.
+
+Câu chuyện này được kể lại liên quan đến một cư sĩ là một vị *Sotāpanna*. Có lần ông đang đi du hành cùng một đoàn buôn dọc theo con đường rừng. Khi đoàn buôn dừng lại qua đêm, họ bị bọn cướp tấn công. Nhưng khi thấy vị cư sĩ đi qua đi lại suốt đêm, chúng đã ngừng tấn công và báo cáo sự việc với thủ lĩnh của chúng. Vị cư sĩ được tôn kính vô cùng và khi đến Sāvatthī, ông đã kể lại chuyện này cho Đức Phật.
+
+Thọ thần được nhận diện là Uppalavaṇṇā (Ja.iii.403f).
 
 ## Notes

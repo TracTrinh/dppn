@@ -5,7 +5,7 @@ base_headword: "Padumissara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Padumissara. A king of forty-seven *kappas* ago; a former birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumissara. Một vị vua cách đây bốn mươi bảy *kappa*; tiền kiếp của Padumacchadaniya Thera. Ap.i.98.
 
 ## Notes

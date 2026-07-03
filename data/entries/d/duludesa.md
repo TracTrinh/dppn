@@ -5,7 +5,7 @@ base_headword: "Duḷudesa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Duḷudesa. A country, probably in South India. Cv.lvi.11.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duḷudesa. Một quốc gia, có lẽ ở Nam Ấn Độ. Cv.lvi.11.
 
 ## Notes

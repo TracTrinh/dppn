@@ -5,7 +5,7 @@ base_headword: "Janavasabhasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -37,6 +37,6 @@ Janavasabhasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janavasabhasutta. Ānanda hỏi Đức Phật tại Giñjakāvasatha về những câu hỏi liên quan đến những người đi theo Đức Phật ở Magadha. Dạ-xoa (*Yakkha*) Janavasabha xuất hiện và nói ngài đã từng là Vua Bimbisāra và bây giờ được tái sinh vào hội chúng của Vua Vessavaṇa. Ngài sau đó tiếp tục thuật lại một báo cáo mà ngài vừa nghe từ Vessavaṇa về một cuộc tập hợp của các vị thần được tổ chức ở Tāvatiṁsa nhiều năm trước đó, vào ngày trăng tròn của tháng Āsāḷha. Sakka chủ trì và có sự hiện diện của Tứ Đại Thiên Vương. Tất cả chư thiên đều vui mừng vì số lượng của họ đang ngày càng gia tăng bởi vì rất nhiều người trên thế gian đang tuân theo những lời dạy của Đức Phật. Sau đó, Phạm thiên (*Brahma*) Sanaṅkumāra xuất hiện trong hội chúng dưới hình dạng của Pañcasikha; hiện thân dưới ba mươi ba hình dáng, vị này đứng ở chỗ của mình bên cạnh mỗi vị thần của Tāvatiṁsa và xác nhận tin mừng về sự gia tăng số lượng của chư thiên. Vị này sau đó giảng cho họ về Bốn Con đường của Iddhi và Ba Nẻo đường Hạnh phúc như đã được Đức Phật chỉ dạy, và về bảy *samādhiparikkhārā*. Sau đó tất cả bọn họ đã hát vang những lời ngợi ca Đức Phật. DN.ii.200ff. (DN.18)
 
 ## Notes

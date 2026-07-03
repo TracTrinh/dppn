@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānakathā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Satipaṭṭhānakathā. The eighth chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānakathā. Chương thứ tám của Paññāvagga thuộc Paṭisambhidāmagga. Paṭis.ii.232-6.
 
 ## Notes

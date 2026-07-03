@@ -5,7 +5,7 @@ base_headword: "Nakulasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nakulasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulasutta 01. Nakulasutta. Ghi chép lại sự kiện về căn bệnh nghiêm trọng của Nakulapitā, khi vợ ông đã khuyên ông nên giữ bình tĩnh và tự chủ, nói rằng không có lý do gì để phải bực dọc. AN. iii. 295.
 
 ## Notes

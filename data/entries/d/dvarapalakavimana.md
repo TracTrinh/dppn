@@ -5,7 +5,7 @@ base_headword: "Dvārapālakavimāna"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -32,6 +32,12 @@ The gate-keeper was born after death in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvārapālakavimāna. Câu chuyện về một người đàn ông được một người mộ đạo ở Rājagaha thuê để canh gác cổng của mình.
+
+Cổng phải luôn được đóng kín vì sợ kẻ trộm và, kết quả là, các tỳ-kheo thường phải rời đi mà không nhận được bất kỳ vật phẩm bố thí nào.
+
+Do đó, một người đàn ông đã được thuê để đảm bảo rằng các nhu cầu của các tỳ-kheo được đáp ứng.
+
+Người gác cổng sau khi chết đã tái sinh vào Tāvatiṁsa. Vv.v.5; Vv-a.246f.
 
 ## Notes

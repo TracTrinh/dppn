@@ -5,7 +5,7 @@ base_headword: "Saññasāmika Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saññasāmika Thera. An *Arahant*. Ninety-four *kappas* ago he mastered the Ved
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saññasāmika Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã tinh thông kinh Veda khi mới bảy tuổi. Ông chuẩn bị một buổi tế lễ lớn mà ông đã thỉnh ý Siddhattha Buddha về điều đó. Đức Phật dạy ông rằng hạnh phúc không thể tìm thấy bằng cách đó, và cậu bé, làm theo lời khuyên của ngài, đã được tái sinh ở Tusita. Ap.i.261.
 
 ## Notes

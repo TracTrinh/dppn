@@ -5,7 +5,7 @@ base_headword: "Pādapīṭhiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pādapīṭhiya Thera. An *Arahant*. In the past he made a footstool for the sea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādapīṭhiya Thera. Một vị *Arahant*. Trong quá khứ, ngài đã làm một chiếc ghế đẩu gác chân cho chỗ ngồi của Sumedha Buddha. Ap.ii.400.
 
 ## Notes

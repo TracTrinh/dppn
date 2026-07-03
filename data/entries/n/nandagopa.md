@@ -5,7 +5,7 @@ base_headword: "Nandagopā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,10 @@ These, because they were adopted by her husband, came to be known as <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandagopā. Một người nữ tì của Devagabbhā.
+
+Chồng của bà là Andhakaveṇhu. Bà đã sinh ra mười người con gái, sự ra đời của họ trùng khớp với sự ra đời của mười người con trai của Devagabbhā, và đã đổi các con gái của mình để lấy các con trai của bà kia.
+
+Những người con trai này, vì được nhận nuôi bởi chồng của bà, nên được biết đến là Andhaveṇhudāsaputtā. Ja.iv.79ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṁsukūlī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -56,6 +56,12 @@ It is mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsukūlī, Paṁsukūlino, Paṁsukūlikā, Paṁsukūlīs. Một giáo phái khổ hạnh ở Tích Lan, với việc hành trì đặc thù có lẽ là sử dụng y phấn tảo (*paṁsukūla*). Nguồn gốc ban đầu của họ không được biết rõ, Māṇavamma được cho là đã xây dựng cho họ một *pāsāda* ở Thūpārāma (Cv.xlvii.66). Họ cũng chiếm giữ *Rājamātikavihāra* và được cả Aggabodhi V. và Aggabodhi VII. đặc biệt ân sủng (Cv.xlviii.4, 16, 73). Vajira, tướng quân (*senāpati*) của Aggabodhi IX., đã xây dựng Kacchavāla *vihāra* cho họ (Cv.xlix.80). Sena I. đã thiết lập trụ sở cho họ trên ngọn núi (*pabbata*) Ariṭṭha và cũng cung cấp chu cấp đặc biệt cho họ ở Pulatthipura (Cv.l.63, 76).
+
+Họ dường như ban đầu thuộc về hội chúng của Abhayagirivihāra, và tiếp tục như vậy cho đến triều đại của Sena II., khi họ tách ra và hình thành những nhóm đặc biệt (Cv.li.52). Về sau, Sena Ilaṅga, vị tướng của Kassapa IV., đã xây dựng *pariveṇa* Samuddagiri trong Mahā Vihāra cho họ sử dụng, và người ta nói rằng ông đã phân phát gạo và y phục cho những người mẹ của các Paṁsukūlika (Cv.lii.21).
+
+Vào thời Udaya III., các quan chức khác nhau của triều đình đã chạy trốn đến *tapovana* (khu rừng khổ hạnh) do các Paṁsukūlika chiếm giữ, nhưng đã bị nhà vua và vị phó vương truy đuổi đến tận đó rồi bị chặt đầu. Phẫn nộ trước hành động này, các Paṁsukūlika đã rời khỏi *tapovana*, vốn nằm trên phần đất do nhà vua ban tặng, và đi đến Rohaṇa. Dân chúng nổi dậy làm loạn, và những kẻ đã gây ra tội ác trong *tapovana* phải đến viếng thăm các Paṁsukūlika ở Rohaṇa, cầu xin sự tha thứ của họ và thuyết phục họ quay trở lại (Cv.Iiii.14ff., 21ff). Mahinda IV. cũng bày tỏ sự tôn kính lớn lao đối với họ (Cv.liv.18, 24f). Chúng ta nghe nói về họ lần cuối dưới triều đại của Vikkamabāhu II., khi vị vua này tước đoạt đất đai của họ, và trong cơn giận dữ, họ một lần nữa lui về Rohaṇa (Cv.lxi.59f). Từ đó trở đi, chúng ta không còn nghe nói về giáo phái này nữa, và nó có lẽ đã ngừng tồn tại.
+
+Trong Chú giải Aṅguttara (AN­a.i.52f) có đề cập rằng, sau sự cướp bóc tàn phá của Caṇḍāla Tissa, khi tôn giáo đang ở giai đoạn rất suy tàn, một cuộc thảo luận đã nổ ra giữa các Paṁsukūlika và các Dhammakathīka về việc nhánh nào của Giáo pháp (*Sāsana*) là quan trọng hơn: pháp học (*pariyatti*) hay pháp hành (*paṭipatti*). Các Paṁsukūlika bỏ phiếu cho *paṭipatti*, nhưng đã bị những người kia đánh bại.
 
 ## Notes

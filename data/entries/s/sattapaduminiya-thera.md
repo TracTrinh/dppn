@@ -5,7 +5,7 @@ base_headword: "Sattapaduminiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattapaduminiya Thera. An *Arahant*. Ninety-four *kappas* ago he was a Brahmin, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattapaduminiya Thera. Một bậc *Arahant*. Chín mươi tư *kappa* trước, ngài là một người Bà-la-môn, tên là Nesāda, và, nhìn thấy Đức Phật Siddhattha trong rừng, ngài đã quét dọn túp lều của mình và cúng dường hoa sen. Bảy *kappa* trước, ngài làm vua bốn lần, dưới tên gọi Pādapāvara. Ap.i.254.
 
 ## Notes

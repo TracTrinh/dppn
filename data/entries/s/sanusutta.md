@@ -5,7 +5,7 @@ base_headword: "Sānusutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sānusutta. Contains the conversation between <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chứa cuộc trò chuyện giữa mẹ của Sānu và *Yakkhinī*, người đã nhập vào Sānu (xem Sānu) nhằm ngăn cản ông “đánh mất linh hồn mình”. Mẹ của Sānu nói rằng bà không thể hiểu làm thế nào các Yakkha có thể nhập vào những bậc thánh nhân, những người thọ trì trai giới và sống cuộc đời thánh thiện. *Yakkhinī* nói rằng bà nói đúng; nhưng sự thánh thiện bao gồm việc kiềm chế khỏi điều ác, cả công khai và bí mật. Mẹ của Sānu đã hiểu, và, khi con trai bà tỉnh lại và hỏi bà tại sao bà lại khóc khi ông chưa chết, bà trả lời rằng ông cũng như đã chết khi mà ông mong muốn trở lại đời sống gia đình, giống như hàng hóa, đã được cứu khỏi đám cháy, lại muốn bị ném vào đó một lần nữa. SN.i.208f.
 
 ## Notes

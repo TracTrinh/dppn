@@ -5,7 +5,7 @@ base_headword: "Dvemātikā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -27,6 +27,6 @@ Dvemātikā. A late compilation, made in Burma, from the Pāli texts. It contain
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvemātikā. Một tuyển tập ra đời muộn, được biên soạn ở Miến Điện, từ các văn bản Pāli. Nó chứa Bhikkhupātimokkha và Bhikkhunīpātimokkha, cùng các trích đoạn từ Parivāra và các văn bản Vinaya khác. Bode, 6, n.2.
 
 ## Notes

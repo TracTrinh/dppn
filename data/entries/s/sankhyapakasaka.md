@@ -5,7 +5,7 @@ base_headword: "Saṅkhyāpakāsaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkhyāpakāsaka. A grammatical work by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tác phẩm ngữ pháp của Ñāṇavilāsa người Lào (Laos). Sirimaṅgala đã viết một bản *ṭīkā* về nó. Bode, 47.
 
 ## Notes

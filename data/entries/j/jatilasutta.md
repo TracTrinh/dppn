@@ -5,7 +5,7 @@ base_headword: "Jaṭilasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jaṭilasutta. Once when <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭilasutta. Có một lần khi Pasenadi đang trò chuyện với Đức Phật trong hàng hiên bên ngoài Migāramātupāsāda, có ba mươi lăm vị đạo sư thuộc nhiều giáo phái khác nhau – *Jaṭila*, Nigaṇṭha, v.v. – đi ngang qua, và nhà vua đã đảnh lễ họ một cách kính trọng. Sau đó, ông đã hỏi Đức Phật xem họ có phải là những vị *Arahant* hoặc đang trên con đường hướng tới quả vị *Arahant* hay không. Đức Phật giải thích cho ông nghe thật khó khăn như thế nào đối với một người cư sĩ tại gia, với tất cả những sự vướng bận của anh ta, để tìm ra một cơ hội nhằm tìm hiểu được sự thật về các vị *Arahant*; cần phải có nhiều thời gian, sự quan tâm và sự chú ý. Nhà vua đã đồng ý và đề cập đến việc ông thu thập tin tức thông qua những người do thám của mình như thế nào. SN.i.77f.
 
 ## Notes

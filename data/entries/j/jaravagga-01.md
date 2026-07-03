@@ -5,7 +5,7 @@ base_headword: "Jarāvagga"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jarāvagga 01. The sixth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāvagga 01. Chương thứ sáu của Devatāsaṁyutta. SN.i.36-9.
 
 ## Notes

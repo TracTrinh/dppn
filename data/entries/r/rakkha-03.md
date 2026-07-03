@@ -5,7 +5,7 @@ base_headword: "Rakkha"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rakkha 03. called *Mahā Lekha*. He was an officer of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkha 03. được gọi là *Mahā Lekha*. Ông là một sĩ quan của Parakkamabāhu I. và đã tham gia vào các chiến dịch chống lại Māṇābharaṇa, đóng quân tại Maṅgalabegāma, tại Pillaviṭṭhi. Tại nơi này, ông đã đánh một trận chiến, kéo dài trong tám ngày, chống lại Buddhanāyaka và Mahā Māladeva, và đưa khu vực Kālavāpi dưới quyền kiểm soát của mình. Cv.lxxii.161, 170ff., 182, 206.
 
 ## Notes

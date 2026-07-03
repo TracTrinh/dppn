@@ -5,7 +5,7 @@ base_headword: "Sappinī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -31,6 +31,8 @@ The river lay between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sappinī, Sappinikā. Một con sông, chảy qua Rājagaha. Trên bờ sông có một *Paribbājakārāma*, nơi những *Paribbājaka* nổi tiếng đã sống vào thời của Đức Phật (AN.i.185; ii.29, 176; SN.i.153).
+
+Con sông nằm giữa Andhakavinda và Rājagaha, và có lẽ bắt nguồn ở Gijjhakūṭa (xem Vin. Texts i.254, n.2). Nó được đồng nhất với sông Pañcāna. Law, *Geography of Early Buddhism*, p. 38.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udayaggabodhi"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udayaggabodhi. A *pariveṇa* built by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *pariveṇa* được xây dựng bởi Aggabodhi VIII và được đặt theo tên của chính ông và cha ông (Udaya I). Cv.xlix.45; xem thêm Ep.Zey.i.216, 221, 227.
 
 ## Notes

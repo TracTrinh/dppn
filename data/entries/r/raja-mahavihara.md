@@ -5,7 +5,7 @@ base_headword: "Rāja Mahāvihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāja Mahāvihāra. A monastery in Ceylon, built by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāja Mahāvihāra. Một tu viện ở Tích Lan, do Kaniṭṭhatissa xây dựng. Mhv.xxxvi.16.
 
 ## Notes

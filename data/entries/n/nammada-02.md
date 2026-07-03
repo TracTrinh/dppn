@@ -5,7 +5,7 @@ base_headword: "Nammadā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nammadā 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nammadā 02. Một vua Nāga ngự ở sông Nammadā. Khi Đức Phật trở về sau chuyến viếng thăm Puṇṇa (*q.v.*) và đến sông Nammadā, vua Nāga đã thỉnh Đức Phật đến nơi ở của mình và ở đó đã bày tỏ sự tôn kính lớn lao đối với Đức Phật và các tỳ-kheo của Ngài. Theo lời thỉnh cầu của Nāga, Đức Phật đã lưu lại dấu chân của Ngài trên bờ sông để các Nāga thờ phượng. MN­a.ii.1018; SN­a.iii.18.
 
 ## Notes

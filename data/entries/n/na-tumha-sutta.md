@@ -5,7 +5,7 @@ base_headword: "Na tumhā Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Na tumhā Sutta. The body is not yours nor is it any other’s. It is brought ab
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na tumhā Sutta. Thân này không phải của bạn cũng không phải của bất kỳ ai khác. Nó được tạo ra bởi những hành động trong quá khứ, v.v. Nhờ vậy mà đệ tử của bậc Thánh thấu hiểu được luật nhân quả. *Sutta* này đã ảnh hưởng đến Trưởng lão Pitamalla khiến vị này gia nhập Tăng đoàn (SN.2.64, MN­a. I. 190).
 
 ## Notes

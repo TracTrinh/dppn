@@ -5,7 +5,7 @@ base_headword: "Padasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Padasutta 02. The simile is the same as the above; but it illustrates the fact t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padasutta 02. Sự ví von tương tự như trên; nhưng nó minh họa cho sự thật rằng trong tất cả các yếu tố dẫn đến trí huệ, khả năng kiểm soát của sự thấu suốt được xem là điều chính yếu. SN.v.231.
 
 ## Notes

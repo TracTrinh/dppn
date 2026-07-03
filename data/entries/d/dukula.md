@@ -5,7 +5,7 @@ base_headword: "Dukūla"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dukūla (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukūla (Dukūlaka). Con trai của một người thợ săn, cha của Suvaṇṇasāma. Ông được đồng nhất với Mahā Kassapa. Về câu chuyện của ông, xem Sāmajātaka (Ja 540). Xem thêm Mil.123; Vin-a.i.214.
 
 ## Notes

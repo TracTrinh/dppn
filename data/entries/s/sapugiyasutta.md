@@ -5,7 +5,7 @@ base_headword: "Sāpūgiyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāpūgiyasutta. The inhabitants of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những cư dân của Sāpūga đến thăm Ānanda, người đang sống ở đó. Ông nói cho họ về bốn yếu tố của sự nỗ lực (*padhāniyaṅgāni*): cho sự thanh tịnh hoàn toàn về giới, về tâm, về kiến, và cho sự thanh tịnh hoàn toàn của sự giải thoát. AN.ii.194f.
 
 ## Notes

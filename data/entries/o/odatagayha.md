@@ -5,7 +5,7 @@ base_headword: "Odātagayhā"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Odātagayhā. A class of eminent <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Odātagayhā. Một hạng chư thiên lỗi lạc (được mô tả là *pāmokkhā*), trong số những vị có mặt tại buổi thuyết giảng kinh Mahā Samayasutta. DN.ii.260.
 
 ## Notes

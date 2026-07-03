@@ -5,7 +5,7 @@ base_headword: "Dūsī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,10 @@ The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūsī. Tên của Māra vào thời của Kakusandha Buddha. Trong kiếp sống đó, ông là con trai của Kāḷī, chị gái của Moggallāna. Lúc đầu, ông kích động những gia chủ Bà-la-môn lăng mạ các tỳ-kheo của Kakusandha, những vị đứng đầu là Vidhura và Sañjīva; khi nỗ lực đó thất bại do những ý nghĩ về từ, bi, hỷ và xả được các vị tỳ-kheo tu tập, ông tiếp tục kích động những người Bà-la-môn thể hiện sự tôn kính lớn lao đối với các tỳ-kheo, hy vọng rằng, bằng cách đó, có thể cám dỗ họ. Nhưng, do sự can thiệp của Kakusandha, những nỗ lực của Dūsī đã thất bại và ông bị sinh vào Đại địa ngục (Mahā Niraya).
+
+Câu chuyện được kể lại trong Māratajjanīyasutta (MN.i.333ff; cũng xem Thag.1187-91; Thag­a.ii.183).
+
+Dūsī được đề cập là đã chết sớm vì mạng sống của ông bị cắt đứt bởi *kamma* (Vsm.229).
 
 ## Notes

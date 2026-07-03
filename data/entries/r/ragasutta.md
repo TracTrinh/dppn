@@ -5,7 +5,7 @@ base_headword: "Rāgasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rāgasutta. In order to get rid of passion, cultivate the idea of foulness; to g
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāgasutta. Để loại bỏ tham ái, hãy tu tập ý niệm về sự bất tịnh; để loại bỏ sân hận, hãy tu tập tâm từ; để loại bỏ si mê, tu tập tuệ. AN.iii.445.
 
 ## Notes

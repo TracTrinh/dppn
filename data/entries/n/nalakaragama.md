@@ -5,7 +5,7 @@ base_headword: "Naḷakāragāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naḷakāragāma. A village mentioned in the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakāragāma. Một ngôi làng được đề cập trong Subhasutta (MN.ii.206) là nằm không xa Sāvatthī.
 
 ## Notes

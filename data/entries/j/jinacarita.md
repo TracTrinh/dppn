@@ -5,7 +5,7 @@ base_headword: "Jinacarita"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jinacarita. A Pāli poem of four hundred and seventy-two stanzas dealing with th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jinacarita. Một bài thơ tiếng Pāli gồm bốn trăm bảy mươi hai khổ thơ viết về cuộc đời của Đức Phật, được sáng tác bởi Vanaratana Medhaṅkara của Vijayabāhupariveṇa. Gv.72; PLC.230f.
 
 ## Notes

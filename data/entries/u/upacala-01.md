@@ -5,7 +5,7 @@ base_headword: "Upacālā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,6 @@ Upacālā 01. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upacālā 01. Chị em gái của Sāriputta (những người chị em gái khác của ngài là Cālā, Sisūpacālā) và là mẹ của Upacāla. Khi Sāriputta rời bỏ thế gian để gia nhập Tăng đoàn tỳ-kheo, ba người chị em gái của ngài đã noi gương ngài và trở thành tỳ-kheo ni. Người ta nói rằng khi Upacālā đang nghỉ trưa ở Andhavana, Māra đã cố gắng khơi dậy trong bà những ham muốn nhục dục, nhưng bà đã đánh bại hắn và trở thành một *Arahant*. Cuộc trò chuyện của bà với Māra được ghi lại trong Therīgāthā kệ 189-95; Thīg­a.165f. Saṁyutta (i.133f) đề cập đến sự cám dỗ của Māra đối với cả ba chị em gái và sự chiến thắng của họ trước hắn. Nhưng trong lời thuật này, những vần kệ của Upacālā được đặt vào miệng của Cālā, của Sisūpacālā được quy cho Upacālā và của Cālā được quy cho Sisūpacālā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gūḷhatthaṭīkā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gūḷhatthaṭīkā. A work, probably a glossary, written by a monk in Burma, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūḷhatthaṭīkā. Một tác phẩm, có lẽ là một từ vựng, được viết bởi một vị tỳ-kheo ở Miến Điện, cũng là tác giả của Bālappabodhana. Gv.63, 73; xem Vinayagandhi.
 
 ## Notes

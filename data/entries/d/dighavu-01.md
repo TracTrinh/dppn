@@ -5,7 +5,7 @@ base_headword: "Dīghāvu"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghāvu 01. Eldest son of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāvu 01. Con trai trưởng của Vua Arindama I. Ông được đồng nhất với Rāhula. Ja.v.490.
 
 ## Notes

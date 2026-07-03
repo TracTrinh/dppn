@@ -5,7 +5,7 @@ base_headword: "Rattiyasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rattiyasutta. A monk who desires much, is fretful and discontented with his requ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattiyasutta. Một tỳ-kheo đa dục, cáu kỉnh và bất mãn với các vật dụng của mình, không có đức tin hay giới hạnh, lười biếng, thất niệm, và thiếu trí tuệ, một người như vậy sẽ thối thất thiện pháp "ngày qua, đêm tới". AN.iii.434.
 
 ## Notes

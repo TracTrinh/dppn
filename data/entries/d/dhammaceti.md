@@ -5,7 +5,7 @@ base_headword: "Dhammaceti"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammaceti. King of Pegu (A.C.1460-91); a very enlightened monarch. He was first
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaceti. Vua xứ Pegu (TL.1460-91); một vị vua rất sáng suốt. Trước tiên ông là một tu sĩ; sau đó ông xả y và ban đầu trở thành đại thần rồi sau đó là con rể và người kế vị của Nữ hoàng Shin-san-bu. Ông đã cử một phái đoàn đến Tích Lan, nơi một nhóm tỳ-kheo Rāmañña được thọ giới tại Kalyāṇisīmā. Những người này trở về Rāmañña và được biết đến với tên gọi là *Sīhalasaṅgha*. Để biết thêm chi tiết, xem Bode, 38f.
 
 ## Notes

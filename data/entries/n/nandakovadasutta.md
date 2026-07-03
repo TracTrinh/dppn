@@ -5,7 +5,7 @@ base_headword: "Nandakovādasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandakovādasutta. Preached at the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandakovādasutta. Được thuyết giảng tại Rājakārāma, theo yêu cầu đặc biệt của Đức Phật, bởi Nandaka (*q.v.*), cho năm trăm tỳ-kheo-ni do Pajāpatī dẫn đầu. Phần đầu của bài thuyết pháp là một phần vấn đáp, phần thứ hai mang tính giải thích nhiều hơn, và có chứa nhiều hình ảnh so sánh khác nhau minh họa cho sự vô thường của các giác quan và các đối tượng của giác quan. Bài thuyết pháp kết thúc bằng bảy *bojjhaṅga*. Sau bài thuyết pháp, các tỳ-kheo-ni đã đến viếng thăm Đức Phật, Ngài thấy rằng tâm trí của họ chưa hoàn toàn chín muồi, nên đã yêu cầu Nandaka lặp lại bài thuyết pháp cho họ vào ngày hôm sau. Nandaka đã làm như vậy, và sự giác ngộ của họ đã được đảm bảo. MN.iii.270ff.; cf. Ja.ii.392, ở đó nói rằng các tỳ-kheo-ni đã trở thành những *Arahant* khi kết thúc bài thuyết pháp.
 
 ## Notes

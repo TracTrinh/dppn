@@ -5,7 +5,7 @@ base_headword: "Dīghāvu"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghāvu 03. Son of King <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāvu 03. Con trai của Vua Mahā Janaka và hoàng hậu của ông là Sīvalī. Ông trở thành vua khi Mahā Janaka từ bỏ thế gian. Ông được đồng nhất với Rāhula. Ja.vi.44, 61, 62, 68.
 
 ## Notes

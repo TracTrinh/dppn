@@ -5,7 +5,7 @@ base_headword: "Diṭṭhadhammikasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Diṭṭhadhammikasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Diṭṭhadhammikasutta*. Kāludāyi hỏi Ānanda, người đã giải thích, ý nghĩa của *diṭṭhadhammika-Nibbāna* (Nibbāna ngay trong hiện tại). AN.iv.454.
 
 ## Notes

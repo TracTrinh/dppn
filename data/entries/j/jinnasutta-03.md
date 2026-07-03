@@ -5,7 +5,7 @@ base_headword: "Jiṇṇasutta"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jiṇṇasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jiṇṇasutta 03. Mahā Kassapa đến thăm Đức Phật tại Rājagaha. Đức Phật đề nghị rằng giờ đây khi ông đã rất già, ông nên từ bỏ việc mặc những y phấn tảo nhặt được và sống trong rừng, và nên thọ nhận những món quà do các gia chủ cúng dường cho ông. Kassapa từ chối từ bỏ những thói quen sống khổ hạnh đã được thiết lập từ lâu của mình. Khi được hỏi lý do cho phương pháp sống này, Kassapa trả lời rằng điều đó là vì hạnh phúc của chính ông và vì lòng từ bi đối với những người đi sau (SN.ii.202). Bản chú giải nói thêm rằng Đức Phật đã hỏi câu hỏi này nhằm cho Kassapa một cơ hội cho "tiếng rống của sư tử" của ông (*Kassapasīhanāda*) (SN­a.ii.128).
 
 ## Notes

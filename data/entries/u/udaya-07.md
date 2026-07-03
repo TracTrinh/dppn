@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udaya 07. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con trai của Kittaggabodhi, người cai trị Rohaṇa vào thời của Sena I. Cv.l.56.
 
 ## Notes

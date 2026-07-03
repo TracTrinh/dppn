@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -32,6 +32,6 @@ Rāma 04. The Bodhisatta born as the eldest son of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 04. Bodhisatta sinh làm con trai cả của Dasaratha, vua xứ Benares. Ngài cũng được gọi là Rāmapaṇḍita. Ngài kết hôn với em gái mình là Sītā, và sự tận tụy của nàng đối với ngài đã trở thành huyền thoại (vd., Ja.iv.559, 560; Cv.lxxiii.137). Để biết câu chuyện của Rāma, xem Dasarathajātaka (Ja 461). Một số hoàng tử cai trị Tích Lan (Ceylon) nhận là hậu duệ của Rāma, vd., Jagatipāla (q.v.). Trận chiến của Rāma với Rāvaṇa và các sự kiện được kể lại trong Rāmāyaṇa chỉ được nhắc đến trong các Biên niên sử Pāli muộn hơn, chẳng hạn như Cūḷa Vaṁsa. Cv.lxiv.42; lxviii.20; lxxv.59; lxxxiii.46, 69, 88.
 
 ## Notes

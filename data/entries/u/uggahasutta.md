@@ -5,7 +5,7 @@ base_headword: "Uggahasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggahasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Bhaddiya cho các con gái của Uggaha Meṇḍakanattā ngay trước khi kết hôn. Một người vợ nên dậy sớm trước chồng mình, và ngủ sau chồng; nàng nên tôn trọng những mong muốn của chồng, mang lại cho chồng niềm vui và có lời nói ngọt ngào. Cha mẹ và những bậc trưởng bối của chồng, cùng tất cả những người mà chồng kính trọng, nàng nên kính trọng và tôn vinh; nàng nên khéo léo trong tất cả các bổn phận của gia đình; nàng nên chăm sóc những người hầu trong nhà và giám sát các bổn phận của họ, cung cấp cho họ tất cả các vật dụng cần thiết, tử tế và giúp đỡ họ; nàng nên bảo vệ các lợi ích của chồng mình và chăm sóc tài sản của chồng; nàng nên có đạo đức tốt đẹp về mọi mặt. AN.iii.36ff.
 
 ## Notes

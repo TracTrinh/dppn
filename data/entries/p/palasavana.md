@@ -5,7 +5,7 @@ base_headword: "Palāsavana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Palāsavana. A wood near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palāsavana. Một khu rừng gần Naḷakapāna ở Kosala. Đức Phật đã lưu trú tại đó (AN.v.122), và cũng chính tại nơi đó mà bài kinh Naḷakapānasutta được thuyết giảng. MN.i.462.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅkhajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -40,6 +40,12 @@ The story was related by way of thanks to a pious layman of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhajātaka 01. Saṅkhabrāhmaṇajātaka (Ja 442). Bodhisatta từng sinh ra ở *nagara* Molinī (Benares) như một Bà-la-môn rất giàu có, tên là Saṅkha. Ông đã chi tiêu sáu ngàn mỗi ngày cho việc bố thí. Ông đã cho đóng một con tàu, trang bị và chuẩn bị nhổ neo đi Suvaṇṇabhūmi. Một Pacceka Buddha, nhìn thấy ông bằng thiên nhãn của ngài, và lường trước được mối nguy hiểm đang chờ đợi ông, đã xuất hiện trước ông trên con đường đến cảng biển. Saṅkha đã dành cho ngài mọi sự tôn kính và dâng cúng cho ngài đôi giày và chiếc ô của mình.
+
+Con tàu của Saṅkha bị rò rỉ nước vào ngày thứ bảy. Mang theo một người bạn đồng hành, ông nhảy xuống biển và bơi về hướng Molinī. Ông bơi như vậy trong bảy ngày, cho đến khi Maṇimekhalā, nhìn thấy hoàn cảnh khó khăn của ông, đã đến giải cứu ông và mời ông thức ăn. Nhưng ông đã từ chối điều này, vì ông đang giữ trai giới. Nữ thần nói với ông rằng sự thanh tịnh của ông trong việc tôn kính Pacceka Buddha là lý do khiến cô đến giúp đỡ ông và đề nghị cho ông một ân huệ. Ông đã chọn được đưa trở lại Molinī. Nữ thần đã cung cấp cho ông một con tàu chứa đầy kho báu, và ông đã trở về Molinī an toàn cùng với người tùy tùng của mình.
+
+Câu chuyện được kể lại như một lời cảm ơn tới một cư sĩ mộ đạo ở Sāvatthī, người đã thiết đãi Đức Phật và các tỳ-kheo của Ngài trong bảy ngày, đã dâng cúng giày cho Đức Phật và cho các thành viên trong Tăng đoàn của Ngài.
+
+Ānanda được đồng nhất với người tùy tùng của Saṅkha và Uppalavaṇṇā với Maṇimekhalā (Ja.iv.15-22). Câu chuyện cũng được gọi là Saṅkhabrāhmaṇajātaka, ví dụ, Ja.iv.120.
 
 ## Notes

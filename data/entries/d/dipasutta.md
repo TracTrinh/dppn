@@ -5,7 +5,7 @@ base_headword: "Dīpasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dīpasutta. A monk should cultivate in-breathing and out-breathing in order to a
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīpasutta*. Một tỳ-kheo nên tu tập sự thở vô và thở ra (niệm hơi thở) để đạt được mọi mong mỏi của mình trong đời sống tâm linh. Khi đó vị ấy sẽ thấu hiểu các pháp đúng như chúng thực sự là và, khi sức chịu đựng của cơ thể vị ấy đã đạt đến giới hạn của nó, vị ấy sẽ biết rằng sự thể là như vậy, giống như một ngọn đèn sẽ tắt khi dầu và bấc đã cạn kiệt. SN.v.316ff.
 
 ## Notes

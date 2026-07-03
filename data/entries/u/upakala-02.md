@@ -5,7 +5,7 @@ base_headword: "Upakāla"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upakāla 02. A *Niraya*, also the name of the tortures in the same *Niraya*. Ja.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakāla 02. Một *Niraya*, cũng là tên của những sự tra tấn trong cùng *Niraya* đó. Ja.vi.248.
 
 ## Notes

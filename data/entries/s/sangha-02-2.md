@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghā 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 02. Con gái của Mahā Nāma và chị em cùng cha khác mẹ của Sotthisena. Cô đã giết Sotthisena và trao vương quốc cho chồng mình, người từng là người che lọng cho ông, nhưng ông ta đã qua đời trong vòng một năm. Cv.xxxviii.1f.
 
 ## Notes

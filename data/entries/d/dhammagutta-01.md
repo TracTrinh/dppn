@@ -5,7 +5,7 @@ base_headword: "Dhammagutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhammagutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammagutta 01. Dhammagutta Thera. Một vị Arahant. Ngài sống tại Kalyāṇikavihāra và được biết đến như là "người làm rung chuyển trái đất" (*paṭhavicālaka*). Ngài nằm trong số những người đã nhận một phần từ bữa ăn do Duṭṭhagāmaṇī cúng dường khi vị vua này chạy trốn khỏi Cūḷaṅganiyapiṭṭhi. Ngài đã chia sẻ phần của mình với năm trăm người khác (Mhv.xxxii.50; xxiv.24ff). Theo bản Chú giải Jātaka (Ja.iv.490), ngài là một trong những người đã tham gia vào các hội chúng (*samāgama*) được biết đến là *Kuddalasamāgama*, *Mūgapakkhasamāgama*, *Ayogharasamāgama* và *Hatthipālasamāgama*. Mahā Vaṁsaṭīkā (p.606) nhắc đến ngài như là một trong những người đã thọ nhận bữa ăn thịt lợn do Sāliya và vợ cúng dường, khi họ là những người thợ rèn, trong kiếp sống ngay trước kiếp cuối cùng của họ.
 
 ## Notes

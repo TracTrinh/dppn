@@ -5,7 +5,7 @@ base_headword: "Sappurisasutta"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sappurisasutta 05. The 113th *Sutta* of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bài kinh thứ 113 của Majjhimanikāya, được thuyết giảng tại Jetavana. Vị tỳ-kheo tốt không tự đề cao mình hay chê bai người khác vì sự khác biệt về gia thế, sự giàu có nổi bật, danh tiếng cá nhân, những món quà và sự giáo huấn đã nhận được, khả năng thuyết pháp, kiến thức về Pháp, việc tuân thủ các thực hành khổ hạnh, v.v.; vị tỳ-kheo xấu thì làm điều đó. MN.iii.37-45.
 
 ## Notes

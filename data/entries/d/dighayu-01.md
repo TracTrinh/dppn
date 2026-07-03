@@ -5,7 +5,7 @@ base_headword: "Dīghāyu"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Dīghāyu 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāyu 01. (Dīghāvu). Con trai của Dīghīti, vua của Kosala. Sau khi cha mẹ ông bị sát hại một cách tàn nhẫn bởi Brahmadatta, vua của Kāsi, ông đã trở thành người hầu cận của vị vua này; nhằm mục đích báo thù cho cái chết của họ, nhưng khi cơ hội đến ông đã giảng hòa với Brahmadatta. Vương quốc của cha ông đã được phục hồi cho ông, và ông đã kết hôn với con gái của Brahmadatta (Vin.i.343ff; Dhp­a.i.46f; Ja.iii.211f, 487). Ông là *Bodhisatta* (Ja.iii.490).
 
 ## Notes

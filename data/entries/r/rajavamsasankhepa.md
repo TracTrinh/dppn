@@ -5,7 +5,7 @@ base_headword: "Rājavaṁsasaṅkhepa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājavaṁsasaṅkhepa. A historical work by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavaṁsasaṅkhepa. Một tác phẩm lịch sử của Aggadhammālaṅkāra. Bode, 57.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rattabeduma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rattabeduma. A place in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattabeduma. Một địa điểm ở vùng Malaya của Tích Lan, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxx.15.
 
 ## Notes

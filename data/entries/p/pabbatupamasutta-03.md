@@ -5,7 +5,7 @@ base_headword: "Pabbatūpamasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbatūpamasutta 03. Same as (2) above, except that the simile used is that of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatūpamasutta 03. Tương tự như (2) ở trên, ngoại trừ việc sự so sánh được sử dụng là Himālayas hiện tại, so với việc nó sẽ ra sao nếu nó bị mòn đi đến kích thước của bảy hạt sỏi bằng hạt mù tạt. SN.v.465.
 
 ## Notes

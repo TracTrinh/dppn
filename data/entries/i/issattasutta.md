@@ -5,7 +5,7 @@ base_headword: "Issattasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,8 @@ The Commentary (SN­a.i.129f) describes this interview as a public one, taking p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issattasutta. Pasenadi chất vấn Đức Phật về việc các món quà nên được trao tặng như thế nào và câu trả lời của Đức Phật là chúng nên được ban tặng ở nơi mà trái tim cảm thấy vui thích khi cho đi. Câu hỏi xa hơn được đặt ra là đối với ai, khi được trao tặng, một món quà sẽ mang lại nhiều quả báu. Đối với người có giới hạnh, không phân biệt giai cấp, Đức Phật nói, và ngài lấy ví dụ về trường hợp của một thanh niên được huấn luyện kỹ năng chiến tranh đối lập với một người không được đào tạo và không có kỹ năng, bất kể địa vị xã hội của anh ta là gì. Đức Phật tiếp tục mô tả những phẩm chất mà một người có đức hạnh sở hữu (SN.i.98f).
+
+Bản Chú giải (SN­a.i.129f) mô tả cuộc phỏng vấn này là một cuộc phỏng vấn công khai, diễn ra trước một hội chúng lớn, trong số đó có các vị đạo sư của những trường phái đối nghịch, “đang cào chân xuống đất”. Danh tiếng của họ đã bị tổn hại do sự được yêu mến của Đức Phật và họ đã mô tả ngài như là người khuyên bảo dân chúng chỉ cúng dường cho bản thân ngài và cho những môn đồ của ngài. Ở đây, Pasenadi đã tạo cho Đức Phật cơ hội để minh oan cho chính mình.
 
 ## Notes

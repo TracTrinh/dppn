@@ -5,7 +5,7 @@ base_headword: "Guṇaratanadhara"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Guṇaratanadhara. The name given by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇaratanadhara. Tên được Bhuvanekabāhu đặt cho một trong các tỳ-kheo đã đến Miến Điện từ Tích Lan để mang tôn giáo thanh tịnh trở về Tích Lan. Sās.45.
 
 ## Notes

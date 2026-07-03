@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "09"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nandā 09. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 09. Con gái của Vua Ānanda ở Haṁsavatī và là em gái cùng cha khác mẹ của Padumuttara Buddha. Bà là một tiền kiếp của Sakulā (Pakulā) Therī (*q.v.*). Thīg­a.91, 92.
 
 ## Notes

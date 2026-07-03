@@ -5,7 +5,7 @@ base_headword: "Iddhikathā"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Iddhikathā. The second division of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhikathā. Phần thứ hai của Paññāvagga thuộc Paṭisambhidāmagga. Paṭis.ii.205-15.
 
 ## Notes

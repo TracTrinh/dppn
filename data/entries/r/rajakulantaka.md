@@ -5,7 +5,7 @@ base_headword: "Rājakulantaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājakulantaka. The name given to one of the suburbs (*sākhānagarā*) of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājakulantaka. Tên gọi được đặt cho một trong những vùng ngoại ô (*sākhānagarā*) của Pulatthipura (Cv.lxxiii.153). Geiger (Cv.Trs.ii.18, n.3) cho rằng nơi này đồng nhất với Sīhapura, được nhắc đến ở nơi khác (Cv.lxxviii.79ff) như là một vùng ngoại ô của Pulatthipura.
 
 ## Notes

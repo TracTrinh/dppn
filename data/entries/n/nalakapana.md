@@ -5,7 +5,7 @@ base_headword: "Naḷakapāna"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,6 @@ Naḷakapāna. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakapāna. Một ngôi làng ở Kosala, nơi Đức Phật từng ngự và thuyết giảng Naḷakapānasutta (MN.i.462). Ngôi làng có tên gọi này từ hồ Naḷakapāna *pokkharaṇī* (MN­a.ii.66-4f.; AN­a.ii.813). Lý do về tên gọi của hồ nước nằm trong ngôi làng này được giải thích trong Naḷapānajātaka. Có hai khu rừng gần làng là Ketakavana và Palāsavana; ở khu rừng sau, Sāriputta đã thuyết hai bài kinh theo yêu cầu của Đức Phật. AN.v.122f., 125 f.
 
 ## Notes

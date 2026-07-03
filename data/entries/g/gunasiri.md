@@ -5,7 +5,7 @@ base_headword: "Guṇasiri"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Guṇasiri. A pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇasiri. Một học trò của Trưởng lão Canda của Repinagāma. Vị này là thầy của Ñāṇadhaja. Sās.162, 163, 164.
 
 ## Notes

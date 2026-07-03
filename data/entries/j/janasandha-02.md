@@ -5,7 +5,7 @@ base_headword: "Janasandha"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janasandha 02. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasandha 02. Một Sát-đế-lỵ, cha của Tissa Buddha (Ja.i.40; Bv, xviii.16). Dường như ông cũng được gọi là Saccasandha. Bv­a.188.
 
 ## Notes

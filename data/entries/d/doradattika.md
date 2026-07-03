@@ -5,7 +5,7 @@ base_headword: "Dorādattika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dorādattika. A locality on the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dorādattika. Một địa phương trên bờ sông Jajjarānadī. Tại địa điểm này Parakkamabāhu I. đã xây một con đập chắn ngang sông và xây dựng một con kênh từ đó đến Sūkaranijjhara. Cv.lxviii.37.
 
 ## Notes

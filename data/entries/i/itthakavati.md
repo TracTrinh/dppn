@@ -5,7 +5,7 @@ base_headword: "Iṭṭhakāvatī"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -33,6 +33,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṭṭhakāvatī. Một ngôi làng ở Magadha, được nhắc đến, cùng với Dīgharājī, như là nơi ở của những kẻ ngoại đạo Saṁsāramocaka. Gần đó là Āruṇavatīvihāra, nơi Sāriputta từng cư ngụ cùng với một nhóm các tỳ-kheo. Ngôi làng này đã giữ nguyên tên gọi của nó trong suốt năm trăm năm (Pv-a.67).
+
+Petavatthu (pp.12-13) có chứa câu chuyện về một người phụ nữ ở Iṭṭhakāvatī, người bị sinh ra làm một *Peta*.
 
 ## Notes

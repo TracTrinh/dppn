@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -36,6 +36,6 @@ Dhataraṭṭha 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 04. Một vị vua Nāga. Nhờ vào mưu kế của con rùa Cittaculla, ngài đã kết hôn với Samuddajā, con gái của vua xứ Benares. Họ có bốn người con trai: Sudassana, Bhūridatta, Subhaga và Kāṇāriṭṭha. Vương quốc của ngài nằm bên dưới dòng sông Yamunā. Dhataraṭṭha được đồng nhất với Suddhodana. Ja.vi.162ff., 171.186, 200, 219. Về chi tiết, xem Bhūridattajātaka (Ja 543).
 
 ## Notes

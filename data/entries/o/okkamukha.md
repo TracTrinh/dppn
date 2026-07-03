@@ -5,7 +5,7 @@ base_headword: "Okkāmukha"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -29,6 +29,6 @@ Okkāmukha. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okkāmukha. Vua của Kapilavatthu. Ông là một tổ tiên của người Sākiyan và là con trai cả của Okkāka và hoàng hậu Bhattā (hoặc Hatthā).
 
 ## Notes

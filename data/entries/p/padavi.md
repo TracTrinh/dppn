@@ -5,7 +5,7 @@ base_headword: "Padāvi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padāvi. A locality in Ceylon where <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padāvi. Một địa phương ở Tích Lan nơi Udaya I đã xây dựng một đại sảnh dành cho những người bệnh. Cv.xlix.19.
 
 ## Notes

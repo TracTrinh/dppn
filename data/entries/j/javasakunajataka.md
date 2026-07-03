@@ -5,7 +5,7 @@ base_headword: "Javasakuṇajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Javasakuṇajātaka (Ja 308). The Bodhisatta was once a woodpecker, and coming a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Javasakuṇajātaka (Ja 308). Bodhisatta có một lần là một con chim gõ kiến, và khi tình cờ bắt gặp một con sư tử đang bị một khúc xương mắc kẹt trong cổ họng, nó đã gắp khúc xương đó ra, sau khi đã cắm một thanh củi vào miệng con sư tử để ngăn cản nó cắn đứt đầu của người ân nhân đã cứu mạng mình. Sau đó, ngài nhìn thấy con sư tử đang ăn xác chết của một con trâu và đã xin một ân huệ. Con sư tử đã từ chối, nói rằng việc ngài thoát chết sau khi đưa đầu vào trong hàm của một con sư tử đã là quá đủ đối với ngài rồi. Con sư tử được nhận diện là Devadatta, và câu chuyện này được kể lại liên quan đến sự vô ơn của ông ta. Ja.iii.25-7; cp. *Jātakamāla* Số xxxiv.
 
 ## Notes

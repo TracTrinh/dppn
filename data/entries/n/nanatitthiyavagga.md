@@ -5,7 +5,7 @@ base_headword: "Nānātitthiyavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nānātitthiyavagga. The third chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nānātitthiyavagga. Chương thứ ba của Devaputtasaṁyutta. SN.i.56-68.
 
 ## Notes

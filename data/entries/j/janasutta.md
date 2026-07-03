@@ -5,7 +5,7 @@ base_headword: "Janasuttā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janasuttā. Three *Suttas*, in answer to questions by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasuttā. Ba bài *Sutta*, để trả lời cho những câu hỏi do chư thiên đặt ra về việc điều gì dẫn đến sự tái sinh. Ái dục, Đức Phật đã trả lời. SN.i.37f.
 
 ## Notes

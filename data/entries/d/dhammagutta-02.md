@@ -5,7 +5,7 @@ base_headword: "Dhammagutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammagutta 02. A brother of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammagutta 02. Một người anh em của Vedisadevī. Ông là một trong những quý tộc đã hộ tống cây bodhi. Ông được phong làm Moriyaseṭṭhi và được Devānampiyatissa ban cho vùng Moriyajanapada. Mbv.166.
 
 ## Notes

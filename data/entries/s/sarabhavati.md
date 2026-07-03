@@ -5,7 +5,7 @@ base_headword: "Sarabhavatī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarabhavatī. A city, the capital of King <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố, thủ đô của Vua Sudassana (Bodhisatta). Nơi này đã được Vessabhū Buddha viếng thăm, người đã thuyết pháp cho nhà vua. Bv­a. 207.
 
 ## Notes

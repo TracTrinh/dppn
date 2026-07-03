@@ -5,7 +5,7 @@ base_headword: "Dhammarathasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammarathasutta. A name given in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarathasutta. Một cái tên được đưa ra trong Suttasaṅgaha (Số 42) cho Accharāsutta (*q.v.*).
 
 ## Notes

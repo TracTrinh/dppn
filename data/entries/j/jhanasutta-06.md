@@ -5,7 +5,7 @@ base_headword: "Jhānasutta"
 disambiguator: "06"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -24,6 +24,6 @@ Jhānasutta 06. On the advantages that result from the practice of mindfulness c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasutta 06. Bàn về những lợi ích là kết quả từ việc thực hành chánh niệm hướng về thân. AN.i.43f.
 
 ## Notes

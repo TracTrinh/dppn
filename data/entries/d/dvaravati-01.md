@@ -5,7 +5,7 @@ base_headword: "Dvāravatī"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -32,6 +32,6 @@ Dvāravatī 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvāravatī 01. (Dvāraka). Một thành phố ở Ấn Độ. Nó có biển ở một bên và ngọn núi ở bên kia. Nhóm Andhakaveṇhudāsaputtā đã cố gắng chiếm lấy nó nhưng vô ích, vì khi con yêu tinh canh gác thành phố báo động, thành phố sẽ bay lên không trung và nằm trên biển cho đến khi kẻ thù biến mất. Sau đó họ tìm kiếm lời khuyên của Kaṇhadīpāyana và dùng xiềng xích cố định thành phố lại. Điều này giúp nhóm Andhākaveṇhudāsaputtā chiếm được nó và biến nó thành kinh đô của họ (Ja.iv.82ff). Đó cũng là kinh đô của Vua Sivi (Ja.vi.421). Petavatthu và Chú giải của nó nói về Dvāravati như một thành phố của Kamboja (Pv.ii.9; Pv-a.113). Nơi được ngụ ý ở đây có thể là Kaṁsabhoja, quốc gia của nhóm Andhakaveṇhudāsaputtā.
 
 ## Notes

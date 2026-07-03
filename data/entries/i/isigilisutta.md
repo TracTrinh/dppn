@@ -5,7 +5,7 @@ base_headword: "Isigilisutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -30,6 +30,10 @@ It explains how <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isigilisutta. Bài *Sutta* thứ 116 của Majjhimanikāya (MN.iii.68ff).
+
+Được thuyết cho các tỳ-kheo tại Isigili.
+
+Nó giải thích bằng cách nào Isigili có được tên gọi của mình, và đưa ra một danh sách các vị Pacceka Buddha đã từng cư ngụ ở đó.
 
 ## Notes

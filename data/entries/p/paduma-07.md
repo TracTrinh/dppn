@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "07"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paduma 07. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 07. Một vị Cakkavatti của tám *kappa* trước; là một tiền kiếp của Piṇḍola Bhāradvāja. Ap.i.50.
 
 ## Notes

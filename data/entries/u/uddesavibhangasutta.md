@@ -5,7 +5,7 @@ base_headword: "Uddesavibhaṅgasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uddesavibhaṅgasutta. The Buddha utters the brief statement that a monk should 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật thốt ra lời tuyên bố ngắn gọn rằng một vị tỳ-kheo nên luôn luôn phòng hộ tâm trí của mình sao cho nó không bị phân tán ra bên ngoài cũng như không bị cố định ở bên trong. Các tỳ-kheo lặp lại lời tuyên bố này cho Mahā Kaccāna, người đã đưa ra một sự giải thích chi tiết cho nó. Khi Đức Phật được kể về sự giải thích của Kaccāna, ngài khen ngợi sự uyên bác của ông (MN.iii.223ff).
 
 ## Notes

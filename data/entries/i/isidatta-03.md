@@ -5,7 +5,7 @@ base_headword: "Isidatta"
 disambiguator: "03"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Isidatta 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidatta 03. Vua xứ Soreyya. Anomadassī Buddha đã thuyết pháp cho ông và cho tám mươi ngàn tùy tùng của ông. Tất cả họ đều trở thành *Arahant*. Bv­a.143-4.
 
 ## Notes

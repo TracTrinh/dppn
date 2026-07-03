@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāgasutta 04. An elephant, to be fit for the royal stalls, should have four qua
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 04. Một con voi, để xứng đáng ở trong chuồng voi hoàng gia, phải có bốn phẩm chất: nó phải là một người biết lắng nghe (*sotā*), một kẻ tiêu diệt giỏi (*hantā*), tràn đầy sự nhẫn nại (*khantā*), và một người đi giỏi (*gantā*). Một tỳ-kheo nên có những phẩm chất tương ứng để xứng đáng với sự tôn kính và những món quà của thế gian. AN.ii.116.
 
 ## Notes

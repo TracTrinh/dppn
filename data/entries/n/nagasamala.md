@@ -5,7 +5,7 @@ base_headword: "Nāgasamālā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgasamālā. One of the two chief women disciples of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasamālā. Một trong hai nữ đại đệ tử của Đức Phật Sujāta. Bv.xiii.26; Ja.i.38.
 
 ## Notes

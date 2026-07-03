@@ -5,7 +5,7 @@ base_headword: "Sarājita"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarājita. A *Niraya* in which those who die in battle are born (SN.iv.311). The
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa ngục trong đó những người chết trong trận chiến bị sinh vào (SN.iv.311). Chú giải (SN­a.iii.100) nói rằng nó không phải là một địa ngục riêng biệt, mà là một phần của Avīci, nơi các loại chiến binh chiến đấu trong tưởng tượng. So sánh với Sarañjita.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Okkāka"
 disambiguator: "02"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -33,6 +33,8 @@ The story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okkāka 02. Vua của Mahā Sammata ở xứ Malla. Ông có mười sáu ngàn người vợ, người đứng đầu trong số đó là Sīlavatī. Nhờ việc bà chung đụng với Sakka, hai người con trai đã ra đời là Kusa và Jayampati.
+
+Câu chuyện được kể lại trong Kusajātaka. Ja.v.278ff.
 
 ## Notes

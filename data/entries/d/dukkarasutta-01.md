@@ -5,7 +5,7 @@ base_headword: "Dukkarasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dukkarasutta 01. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkarasutta 01. (hoặc Kummasutta). Một vị tỳ-kheo khôn ngoan nên thu mình lại vào bên trong, giống như con rùa rụt các chi của nó. SN.i.7.
 
 ## Notes

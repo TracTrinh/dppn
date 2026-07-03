@@ -5,7 +5,7 @@ base_headword: "Dhammasavapitā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -33,6 +33,8 @@ Once, in the past, he saw a <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasavapitā. Cha của Dhammasava. Ông đã một trăm hai mươi tuổi khi con trai mình gia nhập Tăng đoàn, và xúc động trước việc con trai xuất gia khi còn trẻ, ông đã noi gương con và không lâu sau đó trở thành một *Arahant*.
+
+Có lần, trong quá khứ, ông nhìn thấy một vị Pacceka Buddha trên ngọn núi Bhūtagaṇa, và đã tôn kính ngài bằng những bông hoa *tiṇasūla*. Mười một *kappa* trước, ông là một vị vua tên là Dharaṇīpati (Dharaṇiruha) (Thag.108; Thag­a.i.215f). Ông có lẽ chính là Tiṇasūlaka của Apadāna. Ap.i.179.
 
 ## Notes

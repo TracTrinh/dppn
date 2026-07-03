@@ -5,7 +5,7 @@ base_headword: "Sarīraṭṭhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sarīraṭṭhasutta. Ten conditions inherent in the body: cold and heat, hunger
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarīraṭṭhasutta. Mười điều kiện vốn có trong cơ thể: lạnh và nóng, đói và khát, đại tiện và tiểu tiện, sự thu thúc thân, khẩu, mạng, và uẩn tạo ra sự trở thành (*bhavasaṅkhāra*). AN.v.88.
 
 ## Notes

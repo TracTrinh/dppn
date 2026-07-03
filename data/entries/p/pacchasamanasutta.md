@@ -5,7 +5,7 @@ base_headword: "Pacchāsamaṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pacchāsamaṇasutta. The five qualities which should be lacking in a monk who i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacchāsamaṇasutta. Năm phẩm chất không nên có ở một tỳ-kheo được nhận làm thị giả (*pacchāsamaṇa*). AN.iii.137.
 
 ## Notes

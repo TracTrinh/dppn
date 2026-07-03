@@ -5,7 +5,7 @@ base_headword: "Dvayasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dvayasutta 01. The various “duals” which exist – eye and object, ear and s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvayasutta 01. Các “bộ đôi” khác nhau hiện hữu – mắt và cảnh sắc, tai và âm thanh, v.v. SN.iv.67.
 
 ## Notes

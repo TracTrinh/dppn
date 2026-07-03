@@ -5,7 +5,7 @@ base_headword: "Orambhāgiyasutta"
 disambiguator: "01"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Orambhāgiyasutta 01. The five fetters concerned with the lower stages of existe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Orambhāgiyasutta 01. Năm kiết sử liên quan đến các cõi hiện hữu thấp hơn: *sakkāyadiṭṭhi*, *vicikicchā*, v.v... Chúng có thể bị tiêu diệt bằng cách tu tập Bát Thánh đạo. SN.v.61.
 
 ## Notes

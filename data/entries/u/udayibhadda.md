@@ -5,7 +5,7 @@ base_headword: "Udāyibhadda"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -43,6 +43,12 @@ It was in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Udāyibhadda (Udāyibhaddaka). Con trai của Ajātasattu. Khi Ajātasattu, sau cái chết của cha mình, thực hiện chuyến viếng thăm đầu tiên đến Đức Phật và nhìn thấy Đức Phật đang ngồi giữa các tỳ-kheo trong một khung cảnh của sự tĩnh lặng và im lặng hoàn hảo, ý nghĩ đầu tiên của ông là: "Ước gì con trai ta, Udāyibhadda, có thể có được sự tĩnh lặng như thế này." (DN.i.50).
+
+Buddhaghosa giải thích (DN­a.i.153) ý nghĩ này bằng cách nói rằng Ajātasattu sợ rằng con trai ông có thể theo gương của chính ông và giết ông như ông đã giết chính cha mình. Những nỗi sợ hãi của ông đã được minh chứng, vì ông đã bị giết bởi con trai mình là Udāyibhadda, người đã trị vì trong mười sáu năm.
+
+Người sau, đến lượt mình, lại bị giết bởi con trai là Anuruddhaka (Mhv.iv.1ff. Theo *Divyāvadāna* con trai của ông là Muṇḍa).
+
+Đó là vào năm thứ tám của Udāyibhadda mà Vijaya, vua của Tích Lan, đã qua đời, và vào năm thứ mười lăm của ông mà Paṇḍuvasudeva đã lên ngôi (Vin-a.i.72). Dīpavaṁsa (iv.38; v.97; xi.8) gọi ông là Udaya và Mahā Bodhivaṁsa (p.96) là Udayabhadda. Xem thêm Kāḷāsoka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīghathūṇikā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dīghathūṇikā. The mare on which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghathūṇikā. Con ngựa cái mà Duṭṭhagāmaṇī đã cưỡi để chạy trốn từ Cūḷaṅganiyapiṭṭhi. Khi nhà vua và vị đại thần của ông là Tissa dâng cúng thức ăn của họ cho Trưởng lão Gotama, con ngựa cũng nhường phần của mình cho ông. Mhv.xxiv.20, 27.
 
 ## Notes

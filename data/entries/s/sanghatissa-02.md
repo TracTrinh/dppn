@@ -5,7 +5,7 @@ base_headword: "Saṅghatissa"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -37,6 +37,6 @@ Saṅghatissa 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghatissa 02. Được gọi là Asiggāha. Ông kế vị Aggabodhi II. làm vua của Tích Lan (611-13 CN.). Moggallāna (sau này là Moggallāna III.) nổi dậy chống lại ông, và Anurādhapura đã bị người dân bỏ hoang. Saṅghatissa đã từng bị buộc phải ăn thức ăn được chuẩn bị cho các tỳ-kheo tại Mahā Pāli. Vị tướng quân (*Senāpati*) của ông tỏ ra phản bội, nhà vua bị đánh bại trong trận chiến và buộc phải bỏ trốn đến Merumajjara. Từ đó ông đến Veḷuvana, nơi, theo gợi ý của các tỳ-kheo, ông đắp y vàng và hướng về Rohaṇa cùng với con trai và vị quan của mình. Tuy nhiên, ông đã bị nhận ra và bị bắt làm tù binh tại Maṇihīra, bị đưa đến Sīhagiri, và bị chặt đầu theo lệnh của Moggallāna. Con trai của ông yêu cầu được chặt đầu trước ông, và lời thỉnh cầu của người này đã được chấp thuận; vị quan của ông cũng bị chặt đầu, bởi vì ông ta từ chối rời bỏ nhà vua của mình. Saṅghatissa có một người con trai khác, Jeṭṭhatissa. Cv.xliv.1ff.; xem Cv.Trs.i.74, n.1.
 
 ## Notes

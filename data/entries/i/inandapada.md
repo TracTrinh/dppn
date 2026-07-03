@@ -5,7 +5,7 @@ base_headword: "Inandapada"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Inandapada. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Inandapada. Một thủ lĩnh người Damiḷa được Kulasekhara chiêu mộ làm đồng minh của ông. Ông là một chỉ huy quân đội ở Uccaṅkuṭṭha. Cv.lxxvii.74ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ramaṇīyavihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ramaṇīyavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramaṇīyavihāra. Một tu viện ở Amarapura thuộc Miến Điện (Burma). Sās. 132,143.
 
 ## Notes

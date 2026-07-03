@@ -5,7 +5,7 @@ base_headword: "Pālita"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pālita 03. The constant attendant of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pālita 03. Vị thị giả thường trực của Maṅgala Buddha. Bv.iv.23; Ja.i.34.
 
 ## Notes

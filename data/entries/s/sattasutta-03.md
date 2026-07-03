@@ -5,7 +5,7 @@ base_headword: "Sattasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sattasutta 03. On the nine spheres of being, as regards body, perceptive power, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasutta 03. Về chín cõi của chúng sinh, liên quan đến cơ thể, năng lực nhận thức, cảm thọ, tâm thức, v.v. AN.iv.401f.
 
 ## Notes

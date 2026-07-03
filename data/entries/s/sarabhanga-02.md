@@ -5,7 +5,7 @@ base_headword: "Sarabhaṅga"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sarabhaṅga 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarabhaṅga Thera. Ông thuộc về một gia đình Bà-la-môn ở Rājagaha, và được đặt một cái tên theo truyền thống gia đình. Khi lớn lên, ông trở thành một tu sĩ khổ hạnh, và dựng cho mình một túp lều bằng những thân cây lau sậy, thứ mà ông đã bẻ gãy, do đó có tên là Sarabhaṅga (Người bẻ lau sậy). Đức Phật đã nhìn thấy ở ông những điều kiện của quả vị *Arahant*, và đã đi đến chỗ ông và thuyết giảng Pháp. Ông lắng nghe và gia nhập Tăng đoàn, đạt được quả vị *Arahant* đúng kỳ hạn. Ông tiếp tục sống trong túp lều của mình cho đến khi nó mục nát và sụp đổ, và, khi được hỏi tại sao ông không sửa chữa nó, ông trả lời rằng ông đã chăm sóc nó trong suốt quá trình thực hành khổ hạnh của mình, nhưng giờ đây ông không có thời gian cho những việc như vậy. Sau đó ông đã tuyên bố sự liễu tri của mình trong một loạt các bài kệ. Thag­a.i.480 f. Những bài kệ này được tìm thấy trong Thag.vs.487-93.
 
 ## Notes

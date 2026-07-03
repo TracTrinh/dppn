@@ -5,7 +5,7 @@ base_headword: "Saṅkicca"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkicca 03. The Bodhisatta, born as an ascetic. See the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta, sinh ra là một tu sĩ khổ hạnh. Xem Saṅkiccajātaka (Ja 530).
 
 ## Notes

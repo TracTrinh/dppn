@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgasutta 03. Snakes which dwell in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 03. Các loài rắn sống ở Himālaya, khi đã lớn và khỏe mạnh, sẽ tìm đường ra biển, nơi chúng phát triển thậm chí còn to lớn hơn. Cũng như vậy là các tỳ-kheo, những người tu tập Bát Thánh đạo (SN.v.47).
 
 ## Notes

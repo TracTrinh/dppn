@@ -5,7 +5,7 @@ base_headword: "Isidatta"
 disambiguator: "04"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Isidatta 04. One of the three leaders of the monks in Ceylon during the time tha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidatta 04. Một trong ba người lãnh đạo các tỳ-kheo ở Ceylon trong thời gian Brāhmaṇatissacora tàn phá đất nước này. Hai người kia là Cūḷa Sīva và Mahā Soṇa. Về câu chuyện liên quan đến họ, hãy xem Mahā Soṇa.
 
 ## Notes

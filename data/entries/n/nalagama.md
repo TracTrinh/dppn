@@ -5,7 +5,7 @@ base_headword: "Nālagāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālagāma. Một ngôi làng ở quận Malaya tại Tích Lan. Cv.lxx.296.
 
 ## Notes

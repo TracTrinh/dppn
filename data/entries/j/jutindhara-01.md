@@ -5,7 +5,7 @@ base_headword: "Jutindhara"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jutindhara 01. A king of fifty-one *kappas* ago, a former birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutindhara 01. Một vị vua của năm mươi mốt *kappa* trước, một tiền kiếp của Salaḷamāliya (Ap.i.206) hoặc Samiddhi (Thag­a.i.117).
 
 ## Notes

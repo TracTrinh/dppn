@@ -5,7 +5,7 @@ base_headword: "Pahātabbasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pahātabbasutta 02. The six *nivāraṇas* must be given up by those who wish to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahātabbasutta 02. Sáu triền cái (*nivāraṇas*) phải được từ bỏ bởi những ai mong muốn đạt được chánh kiến. AN.iii.438.
 
 ## Notes

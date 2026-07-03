@@ -5,7 +5,7 @@ base_headword: "Oghasutta"
 disambiguator: "01"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,8 @@ The Commentary (SN­a.i.14) adds that the *Deva* was conceited, thinking he knew
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghasutta 01. Một thiên nhân (*Deva*) đến viếng Đức Phật tại Jetavana và hỏi Ngài đã vượt qua "Bộc lưu" như thế nào. "Không đứng lại và không bước tới," Đức Phật trả lời. Thiên nhân (*Deva*) bối rối trước câu trả lời, cho đến khi vị ấy được giải thích rằng điểm tựa sai lầm và nỗ lực sai hướng cũng nguy hiểm như việc chết đuối ngay lập tức. Thiên nhân (*Deva*) bày tỏ sự ngưỡng mộ của mình đối với Đức Phật (SN.i.1).
+
+Chú giải (SN­a.i.14) cho biết thêm rằng thiên nhân (*Deva*) kiêu ngạo, nghĩ rằng mình biết tất cả về quả vị thánh của một vị Phật, do đó Ngài mới trả lời đầy ẩn ngữ để làm vị ấy bối rối.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nāgā 03. A former birth of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 03. Một tiền kiếp của Asokamālā, khi bà là vợ của Tissa (sau này là Sāliya), một nghệ nhân của Muṇḍagaṅgā. Mhv­ṭ.605.
 
 ## Notes

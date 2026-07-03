@@ -5,7 +5,7 @@ base_headword: "Issarasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Issarasutta. One of the *Suttas* in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issarasutta. Một trong những bài *Sutta* thuộc Devatāsaṁyutta. Những câu hỏi được đặt ra về điều gì tạo nên quyền lãnh đạo giữa những người nam, món hàng hóa tối thượng là gì, v.v..., và câu trả lời là sức mạnh của quyền chỉ huy chính là thứ mang lại quyền lãnh đạo và rằng phụ nữ là món hàng hóa tối thượng, v.v... SN.i.43.
 
 ## Notes

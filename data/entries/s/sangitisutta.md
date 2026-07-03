@@ -5,7 +5,7 @@ base_headword: "Saṅgītisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -40,6 +40,12 @@ The *Sutta* treats of the *dasadhammā* (or ten conditions) in much the same way
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgītisutta. Bài kinh (*Sutta*) thứ ba mươi ba của Dīghanikāya (DN.iii.207ff), được thuyết tại Ubbhaṭaka, Hội trường mới của những người Malla ở Pāvā. Họ đã thỉnh mời Đức Phật thánh hóa nó bằng cách thuyết giảng ở đó, và Ngài đã làm điều này cho đến tận đêm khuya. Sau đó, thấy rằng hội chúng của Ngài mong muốn được nghe thêm, Ngài yêu cầu Sāriputta tiếp tục việc thuyết giảng trong khi bản thân Ngài nghỉ ngơi. Do đó, Sāriputta đã thuyết giảng Saṅgītisutta, vào cuối bài kinh Đức Phật đã bày tỏ sự trân trọng sâu sắc của mình đối với sự trình bày của Sāriputta.
+
+Bài kinh (*Sutta*) này, giống như Dasuttara, được sắp xếp theo một kế hoạch mới – điều được tuân theo một cách thường xuyên trong Aṅguttaranikāya về việc nhóm các điểm hoặc các khoản mục chính được đưa ra, theo số lượng, theo cấp số cộng – trong trường hợp này là từ 1 đến 10. Sơ đồ này là một loại chỉ mục theo chủ đề cho các giáo lý nằm rải rác trong Bốn *Nikāya*.
+
+Những người thuộc thuyết Sarvāstivāda đã giữ bài kinh (*Sutta*) này với sự kính trọng cao độ, và đưa nó (dưới tên gọi Saṅgītipariyāya) vào trong số bảy cuốn sách cấu thành Abhidhammapiṭaka của họ. Các bản hiệu đính Tây Tạng cho bài kinh (*Sutta*) này là của Mahā Koṭṭhita. Xem bài báo của Takākusu về những người thuộc Sarvāstivāda (JPTS 1904-5).
+
+Bài kinh (*Sutta*) đề cập đến *dasadhammā* (hoặc mười điều kiện) theo cách gần giống như Puggalapaññatti đề cập đến *dasapuggalā* (mười cá nhân).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pacchābhūmakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,8 @@ The Buddha explains to him that a man’s destiny depends on the life he leads; 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacchābhūmakasutta (= Matakasutta). Thuở nọ, khi Đức Phật đang ở *Pāvārika­ambavana*, Asibandhakaputta đã đến thăm ngài và hỏi liệu ngài có tuyên bố là có khả năng đưa con người lên cõi trời giống như các vị Bà-la-môn Pacchābhūmaka hay không.
+
+Đức Phật giải thích cho ông rằng số phận của một người phụ thuộc vào cuộc sống mà người đó dẫn dắt; không một ai khác có thể đưa người đó lên cõi trời hoặc đến một nơi đau khổ. SN.iv.311f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājavagga"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājavagga 01. The ninth section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavagga 01. Phần thứ chín của Majjhimanikāya (Các *Sutta* 81-90). MN.ii.44ff.
 
 ## Notes

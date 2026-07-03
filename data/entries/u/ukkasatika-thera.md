@@ -5,7 +5,7 @@ base_headword: "Ukkāsatika Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,8 @@ Fifty-five *kappas* ago he reigned as king of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkāsatika Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã nhìn thấy Pacceka Buddha Kosika, ở Himavā, đang tham thiền, và trong bảy ngày ngài đã thắp sáng một trăm ngọn đuốc gần Đức Phật. Vào ngày thứ tám, ngài cúng dường thức ăn cho vị Pacceka Buddha. Kết quả là ngài được tái sinh ở Tusita, và từ thân ngài những tia sáng phát ra, lan rộng một trăm do-tuần.
+
+Năm mươi lăm *kappa* trước, ngài cai trị với tư cách là vua của Jambudīpa, với thủ đô ở Sobhana, do chính Vissakamma xây dựng, hoàn toàn bằng vàng. Ap.ii.414-15.
 
 ## Notes

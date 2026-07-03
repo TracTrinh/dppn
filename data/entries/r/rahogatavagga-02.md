@@ -5,7 +5,7 @@ base_headword: "Rahogatavagga"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rahogatavagga 02. The first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahogatavagga 02. Chương thứ nhất của Anuruddhasaṁyutta. SN.v.294ff.
 
 ## Notes

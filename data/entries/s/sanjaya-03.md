@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,6 @@ Sañjaya 03. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 03. Cha của Vessantara. Ông là con trai của Sivi, vua của Jetuttara, và sau cái chết của cha mình, ông đã kế vị làm vua. Vợ ông là Phusatī. Ông được đồng nhất với Suddhodana trong thời đại hiện tại. Xem Vessantarajātaka (Ja 547) để biết chi tiết. Ông được đề cập trong một danh sách các vị vua tại Dpv.iii.42.
 
 ## Notes

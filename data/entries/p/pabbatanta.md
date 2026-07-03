@@ -5,7 +5,7 @@ base_headword: "Pabbatanta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbatanta. A canal built by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatanta. Một con kênh do Mahā Sena xây dựng từ Mahā Vālukagaṅgā. Mhv.xxxvii.50.
 
 ## Notes

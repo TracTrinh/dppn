@@ -5,7 +5,7 @@ base_headword: "Isidatta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -43,6 +43,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidatta 01. Một vị Thera. Ông là con trai của một người dẫn đường cho các đoàn lữ hành tại Vaḍḍhagāma (*v.l.* Veḷugāma) ở Avanti. Thông qua việc trao đổi thư từ, ông trở thành người bạn chưa từng gặp mặt của Cittagahapati ở Macchikāsaṇḍa. Người này từng gửi cho ông một bức thư liên quan đến những phẩm chất tuyệt hảo của Đức Phật, và Isidatta, hoan hỷ với những lời kể được đưa ra về tôn giáo của Đức Phật, đã gia nhập Tăng đoàn dưới sự dẫn dắt của Mahā Kaccāna và theo thời gian đã trở thành một bậc *Arahant*. Về sau, với sự cho phép của Mahā Kaccāna, ông đã đến thăm Đức Phật tại Majjhimadesa và được ngài nồng nhiệt chào đón (Thag­a.i.238). Một bài kệ do Isidatta thốt ra, để đáp lại lời hỏi thăm của Đức Phật về sức khỏe của ông, được ghi lại trong Therīgāthā (v.120).
+
+Isidatta từng là một cư sĩ vào thời của Vipassī Buddha và có lần, khi nhìn thấy Đức Phật đang đi dọc trên đường và hoan hỷ với oai nghi của ngài, ông đã cúng dường cho ngài một quả *āmoda* (Thag­a. *loc.cit.*). Ông có lẽ được đồng nhất với Amodaphaliya của Apadāna (ii.447).
+
+Theo Saṁyuttanikāya (iv.283-8, cũng xem AN­a.i.210), Isidatta có lần đang ở cùng một số vị tỳ-kheo cao hạ tại Macchikāsaṇḍa trong khu rừng Ambāṭaka. Cittagahapati đã mời các tỳ-kheo đến dùng bữa. Trong dịp này Citta đã hỏi một câu hỏi liên quan đến giáo lý của Đức Phật về sự đa dạng của các giới. Vị Trưởng lão đứng đầu, do không thể trả lời, vẫn giữ im lặng. Isidatta, mặc dù là người nhỏ hạ nhất trong toàn bộ hội chúng, đã xin phép vị Trưởng lão, và trả lời câu hỏi làm thỏa mãn Citta. Citta tương tự cũng hỏi những câu hỏi liên quan đến nhiều tà kiến khác nhau, chẳng hạn như tính vô tận của thế giới, v.v... Kết thúc buổi pháp thoại, Citta tình cờ phát hiện ra rằng vị Trưởng lão đã thuyết pháp cho ông không ai khác chính là người bạn chưa từng gặp mặt của ông, Isidatta. Hoan hỷ với sự phát hiện này, ông đã mời Isidatta dành thời gian ở lại Macchikāsaṇḍa, hứa sẽ cung cấp cho vị ấy mọi vật dụng cần thiết. Nhưng ngay trong ngày hôm đó Isidatta đã rời Macchikāsaṇḍa và không bao giờ quay trở lại, bởi vì, Buddhaghosa nói (AN­a.i.210), ông không muốn ở lại sau khi đã bị nhận ra.
 
 ## Notes

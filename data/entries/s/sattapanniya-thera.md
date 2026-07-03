@@ -5,7 +5,7 @@ base_headword: "Sattapaṇṇiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattapaṇṇiya Thera. An *Arahant*. One hundred thousand *kappas* ago he offer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattapaṇṇiya Thera. Một bậc *Arahant*. Một trăm ngàn *kappa* trước, ngài đã cúng dường một bông hoa *sattapaṇṇi* cho Đức Phật Sumana. Ap.i.292.
 
 ## Notes

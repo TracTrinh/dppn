@@ -5,7 +5,7 @@ base_headword: "Jātipupphiya Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jātipupphiya Thera. An *Arahant*. In a previous birth he placed a bouquet of fl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātipupphiya Thera. Một vị *Arahant*. Trong một kiếp sống trước đây, ngài đã đặt một bó hoa lên di hài của Padumuttara Buddha. Kết quả là ngài được tái sinh giữa các vị thần Nimmānaratī. Ap.i.405f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammā 02. The chief woman disciple of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 02. Nữ đệ tử thanh văn tối thắng của Đức Phật Atthadassī. Bv.xv.20; Ja.i.39.
 
 ## Notes

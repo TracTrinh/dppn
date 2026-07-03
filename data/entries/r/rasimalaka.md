@@ -5,7 +5,7 @@ base_headword: "Rāsimālaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāsimālaka. A holy spot on the west of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāsimālaka. Một địa điểm linh thiêng ở phía tây của Mahā Meghavana. Mbv.137
 
 ## Notes

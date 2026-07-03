@@ -5,7 +5,7 @@ base_headword: "Jantusutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jantusutta. Records the incident of the admonishment of the indolent monks by th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jantusutta. Ghi lại sự kiện một vị thiên tử (*Devaputta*) là Jantu (*q.v.*) khiển trách các tỳ-kheo biếng nhác. SN.i.61f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīghābhaya"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghābhaya 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghābhaya 02. Một vị tướng Damiḷa, nắm quyền chỉ huy Dīghābhayagallaka, và bị Duṭṭhagāmaṇī chinh phục. Mhv.xxv.12.
 
 ## Notes

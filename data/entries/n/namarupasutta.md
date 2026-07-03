@@ -5,7 +5,7 @@ base_headword: "Nāmarūpasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāmarūpasutta. In him who contemplates the enjoyment of all that makes for fet
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāmarūpasutta. Nơi người quán sát sự tận hưởng của tất cả những gì tạo thành sự trói buộc, sẽ xuất hiện sự giáng hạ của danh và sắc. Các mắt xích còn lại trong chuỗi nhân duyên sẽ theo sau điều này. SN.ii.90.
 
 ## Notes

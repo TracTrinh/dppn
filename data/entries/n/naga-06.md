@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāgā 06. An eminent Therī of Ceylon. Dpv.xviii.35.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 06. Một Tỳ-kheo-ni lỗi lạc của Tích Lan. Dpv.xviii.35.
 
 ## Notes

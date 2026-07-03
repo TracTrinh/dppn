@@ -5,7 +5,7 @@ base_headword: "Uggāhamāna Samaṇa Maṇḍikāputta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -38,6 +38,10 @@ Chalmers (*Further Dialogues* ii.12n) suggests that perhaps his mother’s name 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Paribbājaka*. Một lần khi ngài đang ở gần Sāvatthī trong khu vui chơi của Mallikā tại hội trường Samayappavādaka, người thợ mộc (*thapati*), Pañcakaṅga, trên đường đi gặp Đức Phật, đã đến thăm ngài và có một cuộc trò chuyện với ngài, cuộc trò chuyện mà Pañcakaṅga sau đó đã báo cáo lại với Đức Phật (MN.ii.22f). Các chi tiết được đưa ra trong Samaṇa Maṇḍikāsutta.
+
+Theo Buddhaghosa (MN­a.ii.710), tên ban đầu của vị *Paribbājaka* là Sumana, nhưng ngài được gọi là Uggāhamāna bởi vì ngài có khả năng học hỏi một vài điều (bởi vì ngài luôn học hỏi mọi thứ?).
+
+Chalmers (*Further Dialogues* ii.12n) cho rằng có lẽ tên mẹ của ngài ban đầu là Sumanā và nó đã được đổi thành Samaṇā, cũng giống như có khuynh hướng thêm vào để đọc là *muṇḍikā* cho phần thứ hai, ngõ hầu làm cho tên của bà có nghĩa là "vị tu sĩ cạo đầu" theo phép loại suy quen thuộc của tiếng Pāli.
 
 ## Notes

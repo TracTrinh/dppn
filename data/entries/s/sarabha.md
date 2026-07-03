@@ -5,7 +5,7 @@ base_headword: "Sarabha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -33,6 +33,8 @@ It is said (AN­a.i.412 f) that <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Paribbājaka* đã gia nhập Tăng đoàn và rời đi ngay sau đó. Sau đó ông đi khắp nơi ở Rājagaha tuyên bố rằng ông biết rõ Pháp và Vinaya của các vị tỳ-kheo Sākyaputta, và đó là lý do tại sao ông đã rời khỏi Tăng đoàn của họ. Đức Phật, khi được thông báo về điều này, đã đến thăm *Paribbājakārāma*, trên bờ sông Sappinikā, và thách thức Sarabha lặp lại lời tuyên bố của mình. Lời thách thức được đưa ra ba lần, nhưng Sarabha vẫn ngồi im lặng. Đức Phật sau đó tuyên bố với các *Paribbājaka* rằng không ai có thể nói rằng sự xác nhận của ngài về sự Giác Ngộ là không chính đáng, hoặc rằng Pháp của ngài, nếu được thực hành, không dẫn đến sự diệt tận khổ đau. Sau khi Đức Phật rời đi, các *Paribbājaka* đã chế giễu và lăng mạ Sarabha (AN.i.185ff).
+
+Người ta nói (AN­a.i.412 f) rằng Sarabha đã gia nhập Tăng đoàn theo yêu cầu của các *Paribbājaka*. Họ đã thất bại trong việc tìm ra bất kỳ khuyết điểm nào trong cuộc sống của Đức Phật, và nghĩ rằng sức mạnh của ngài là do một “*āvattanīmāyā*”, phép thuật cải đạo, mà ngài và các đệ tử của ngài thực hành hai tuần một lần đằng sau những cánh cửa đóng kín. Sarabha đồng ý tìm ra và học lấy nó. Do đó, ông đã đến Gijjhakūṭa, nơi ông thể hiện sự khiêm nhường lớn lao đối với tất cả các vị tỳ-kheo thường trú. Một vị Trưởng lão, thương xót ông, đã truyền giới cho ông. Đến kỳ hạn, ông đã học *Pātimokkha*, điều mà ông nhận ra, chính là cái mà các *Paribbājaka* coi là “*māyā*” của Đức Phật. Sau khi đã học được nó, ông quay trở lại với các *Paribbājaka*, dạy nó cho họ, và cùng họ đi khắp thành phố khoe khoang rằng ông biết giáo lý của Đức Phật và nhận thấy nó là vô giá trị.
 
 ## Notes

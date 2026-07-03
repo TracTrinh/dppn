@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāma 01. A Brahmin, skilled in physiognomy. He was one of the eight consulted b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 01. Một vị Bà-la-môn, giỏi thuật xem tướng. Ông là một trong tám người được Suddhodana thỉnh ý về con trai ngài, vị Phật tương lai. Ja.i.56; Mil.236.
 
 ## Notes

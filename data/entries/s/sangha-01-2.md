@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅghā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 01. Saṅghā Therī. Cô thuộc triều đình của Hoàng tử Siddhattha, và sau khi gia nhập Tăng đoàn cùng với Pajāpatī Gotamī, đã trở thành một bậc *Arahant*. Thīg. vs. 18; Thīg-a.24.
 
 ## Notes

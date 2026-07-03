@@ -5,7 +5,7 @@ base_headword: "Pallavabhogga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pallavabhogga. A country from which came <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallavabhogga. Một quốc gia mà từ đó Mahā Deva cùng với bốn trăm sáu mươi ngàn tỳ-kheo đã đến tham dự buổi lễ đặt nền móng kiến thiết Mahā Thūpa (Mhv.xxix.38). Geiger cho rằng đó là tham chiếu chỉ nước Ba Tư (Persia). Mhv.Trs.194, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Oṭṭabhāsā"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Oṭṭabhāsā. One of the eighteen languages prevalent in the world, none of w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oṭṭabhāsā. Một trong mười tám ngôn ngữ thịnh hành trên thế giới, không ngôn ngữ nào trong số đó phù hợp để tuyên thuyết Giáo Pháp. Vibh­a.388.
 
 ## Notes

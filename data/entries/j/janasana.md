@@ -5,7 +5,7 @@ base_headword: "Janasāna"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasāna (Jarasāna, Jarasoṇa). Một tu sĩ ngoại đạo Ājīvaka. Chính ông là người đã tiên đoán vinh quang của Asoka bằng cách giải thích những sự khao khát khi mang thai của mẹ vị này. Vương hậu đã hứa hẹn sẽ mang đến cho ông niềm vinh dự to lớn nếu những dự đoán của ông trở thành sự thật. Sau đó, khi Asoka trở thành vua và nghe được câu chuyện này, ông đã cử một chiếc kiệu vàng để rước Janasāna đến cung điện. Trên đường đi, Janasāna đã đến viếng thăm am thất Vattaniya nơi Assagutta cư ngụ, và sau khi nghe vị này nói về các *āyatana*, *kamma* trước đây của ông đã trỗi dậy và ông trở thành một tỳ-kheo, đạt được quả vị *Arahant*.
+
+Vào thời Kassapa Buddha, ông từng là một con trăn đã chết trong khi đang nghe một số tỳ-kheo tụng một chương về các *āyatana*. Mhv­ṭ.190ff.
 
 ## Notes

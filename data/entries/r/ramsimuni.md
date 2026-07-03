@@ -5,7 +5,7 @@ base_headword: "Raṁsimuni"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Raṁsimuni. The sixth future Buddha. Anāg, p. 40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṁsimuni. Vị thứ sáu trong các vị Phật tương lai. Anāg, p. 40.
 
 ## Notes

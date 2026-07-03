@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammakitti 03. A Thera in the time of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 03. Một vị Thera vào thời của Vīravikkama (khoảng năm 1542). Nhà vua đã bổ nhiệm ngài làm người đứng đầu Tăng đoàn và đã tổ chức nghi thức thọ giới dưới sự chủ trì của ngài. Cv.xcii.21.
 
 ## Notes

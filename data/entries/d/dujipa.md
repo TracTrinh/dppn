@@ -5,7 +5,7 @@ base_headword: "Dujīpa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dujīpa. *v.l.* Dudīpa. Một vị vua đã sống đến một ngàn tuổi. Ông trị vì trong năm trăm năm và, vào cuối thời kỳ đó, ông đã bố thí cho các vị Bà-la-môn, từ bỏ vương quốc của mình và trở thành một đạo sĩ (Ja.vi.203).
+
+Ông có lẽ là cùng một người với Dudīpa, vua của Benares, người được nhắc đến (Ja.vi.99) là đã cho đi tài sản lớn, và nhờ đó được sinh lên cõi trời.
 
 ## Notes

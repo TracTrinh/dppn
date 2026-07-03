@@ -5,7 +5,7 @@ base_headword: "Dīparājā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīparājā. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīparājā. Một vị vua của Nāgadīpa, con trai của một vị vua Tích Lan với một vị hoàng hậu trẻ hơn. Nhà vua đã ban cho hoàng hậu một ân huệ và bà đã yêu cầu vương quốc cho con trai mình. Nhưng vị vương tử đã bị mù một mắt khi đang xem chọi gà và nhà vua đã từ chối ban yêu cầu đó. Vì vậy ông đã phong chàng làm vua của Nāgadīpa, từ đó chàng được biết đến với tên gọi là Dīparājā (Vibh­a.443f).
 
 ## Notes

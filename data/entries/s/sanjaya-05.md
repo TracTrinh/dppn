@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Sañjaya 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 05. Sañjaya Akāsagotta. Trong Kaṇṇakatthalasutta, Viḍūḍabha nói với Đức Phật rằng chính Sañjaya là người đã bắt đầu câu chuyện quanh cung điện với nội dung rằng, theo Đức Phật, không có sa-môn hay Bà-la-môn nào có thể đạt đến sự hiểu biết và tuệ giác tuyệt đối. Sañjaya được Pasenadi cho gọi đến, nhưng, khi bị chất vấn, lại nói rằng Viḍūḍabha phải chịu trách nhiệm về phát biểu đó. MN.ii.127, 132.
 
 ## Notes

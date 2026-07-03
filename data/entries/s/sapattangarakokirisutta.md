@@ -5,7 +5,7 @@ base_headword: "Sapattaṅgārakokirīsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sapattaṅgārakokirīsutta. The story of a *Petī* seen by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về một ngạ quỷ (*Petī*) được Moggallāna nhìn thấy. Cô ta bay qua không trung trong hình dạng khô héo, đen nhẻm, phát ra những tiếng kêu thống khổ. Cô ta từng là chánh hậu của một vị vua nước Kāliṅga. Điên cuồng vì ghen tuông, cô ta đã hắt một chậu than hồng vào một trong những người phụ nữ của nhà vua. SN.ii.260.
 
 ## Notes

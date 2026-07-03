@@ -5,7 +5,7 @@ base_headword: "Sārambha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sārambha. The Bodhisatta, born as an ox. See the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārambha. Bodhisatta, sinh ra làm một con bò đực. Xem Sārambhajātaka (Ja 88).
 
 ## Notes

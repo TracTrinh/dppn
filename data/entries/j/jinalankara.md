@@ -5,7 +5,7 @@ base_headword: "Jinālaṅkāra"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,10 @@ There exists a *Ṭīkā* on it. Gv.69, 72; see PLC.110f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jinālaṅkāra. Một bài thơ tiếng Pāli gồm hai trăm năm mươi vần kệ, chứa đựng một tiểu sử về cuộc đời của Đức Phật.
+
+Tác quyền của nó không chắc chắn; một số người gán nó cho Buddhadatta, tác giả của Madhuratthavilāsinī, những người khác lại gán cho Buddharakkhita.
+
+Có một *Ṭīkā* tồn tại về nó. Gv.69, 72; xem PLC.110f.
 
 ## Notes

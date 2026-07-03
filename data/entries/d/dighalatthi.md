@@ -5,7 +5,7 @@ base_headword: "Dīghalaṭṭhi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghalaṭṭhi. A *Devaputta* who once visited the Buddha at the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghalaṭṭhi. Một vị thiên tử (*Devaputta*) đã từng đến thăm Đức Phật tại Kalandakanivāpa ở Veḷuvana và nói lên một bài kệ (SN.i.52). Bản Chú giải (SN­a.i.87) nói rằng Dīghalaṭṭhi (cây gậy dài) là biệt danh của ông, ám chỉ chiều cao to lớn của ông khi còn ở trên trần thế.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcahatthiya Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pañcahatthiya Thera 01. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcahatthiya Thera 01. Pañcahatthiya Thera. Một vị *Arahant*. Có một lần ngài nhìn thấy Sumedha Buddha, ngài đã dâng cúng cho Ngài năm nắm hoa huệ tây, tạo thành một lọng hoa che trên đầu Đức Phật. Về sau, ngài đã năm lần làm vua với tên gọi Hatthiya. Ap.i.97f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sārajjasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārajjasutta 01. Five qualities which give confidence to a monk: faith, virtue,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm phẩm chất mang lại sự tự tin cho một vị tỳ-kheo: niềm tin, đức hạnh, sự học hỏi, sự nỗ lực, tuệ minh sát. AN.iii.127.
 
 ## Notes

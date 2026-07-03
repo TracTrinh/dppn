@@ -5,7 +5,7 @@ base_headword: "Nakulapitāsutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nakulapitāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulapitāsutta 02. Nakulapitā đến thăm Đức Phật tại Bhesakalāvana và hỏi Ngài tại sao một số chúng sinh được giải thoát hoàn toàn ngay trong kiếp sống này, trong khi những người khác thì không. Điều này liên quan đến sự chấp thủ, Đức Phật nói, và sau đó tiếp tục giải thích về nó. SN. iv. 107, 116.
 
 ## Notes

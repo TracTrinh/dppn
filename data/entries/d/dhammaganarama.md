@@ -5,7 +5,7 @@ base_headword: "Dhammagaṇārāma"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammagaṇārāma. A monastery built by King <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammagaṇārāma. Một tu viện được xây dựng bởi Vua Uggata ở Mekhalā cho Đức Phật Sobhita sử dụng. Bv­a.139.
 
 ## Notes

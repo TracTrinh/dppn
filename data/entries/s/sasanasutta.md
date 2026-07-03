@@ -5,7 +5,7 @@ base_headword: "Sāsanasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāsanasutta. The Buddha tells <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāsanasutta. Đức Phật nói vắn tắt cho Upāli biết làm thế nào các giáo thuyết khác nhau có thể được xem là thuộc về Pháp hoặc ngược lại. AN.iv.143.
 
 ## Notes

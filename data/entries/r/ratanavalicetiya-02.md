@@ -5,7 +5,7 @@ base_headword: "Ratanāvalicetiya"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ratanāvalicetiya 02. A *Thūpa* in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanāvalicetiya 02. Một *Thūpa* ở Pulatthipura. Nó có lẽ do Parakkamabāhu I. xây dựng và được Kittinissaṅka phục hồi và đội lên một chóp nhọn bằng vàng. Cv.lxxx.20; cũng xem Cv.Trs.ii.128, n.1; 107, n.3.
 
 ## Notes

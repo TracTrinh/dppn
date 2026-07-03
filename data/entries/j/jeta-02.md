@@ -5,7 +5,7 @@ base_headword: "Jeta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jeta 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeta 02. Một vị Pacceka Buddha. MN.iii.70.
 
 ## Notes

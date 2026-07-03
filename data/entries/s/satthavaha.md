@@ -5,7 +5,7 @@ base_headword: "Satthavāha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Satthavāha. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satthavāha. Con trai của Đức Phật Koṇāgamana trong kiếp sống tại gia cuối cùng của Ngài. Mẹ của ông là Rucigattā. Bv.xxiv.19; DN­a.ii.422.
 
 ## Notes

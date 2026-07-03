@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Revata 02. A monk, the personal attendant of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 02. Một tỳ-kheo, thị giả cá nhân của Siddhattha Buddha. Bv.xvii.18; Ja.i.40.
 
 ## Notes

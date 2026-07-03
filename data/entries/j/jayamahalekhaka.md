@@ -5,7 +5,7 @@ base_headword: "Jayamahālekhaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jayamahālekhaka. A rank conferred by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayamahālekhaka. Một chức vụ được Devānampiyatissa trao tặng cho Sumitta, người đã đồng hành cùng với cây bodhi thiêng liêng đến Anurādhapura (Mbv.165). Chức vụ này hiển nhiên đã được các hậu duệ của ông nắm giữ vĩnh viễn, ví dụ, Cv.lxix.12.
 
 ## Notes

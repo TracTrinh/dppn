@@ -5,7 +5,7 @@ base_headword: "Janaka"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janaka 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janaka 01. Vua của Mithilā, một tiền kiếp của Bodhisatta. Để biết câu chuyện của ông, xem Mahā Janakajātaka (Ja 539). Ja.i.268; Ja.vi.59.
 
 ## Notes

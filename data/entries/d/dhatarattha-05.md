@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,6 @@ Dhataraṭṭha 05. The Bodhisatta born as king of the *haṁsas*. He lived in <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 05. Bodhisatta sinh ra làm vua của loài *haṁsa*. Ngài sống ở Cittakūṭa, đứng đầu chín mươi ngàn con ngỗng *haṁsa*. Một ngày nọ ngài bị mắc bẫy trên hồ Khemā, do lệnh của Vua Bahuputtaka giăng ra. Người bạn của Dhataraṭṭha, Sumukha, đã từ chối rời bỏ ngài khi ngài bị bắt. Hai người bạn đã làm người thợ săn động lòng khi anh ta đến bắt Dhataraṭṭha, và sau đó họ được đưa đến trước nhà vua. Dhataraṭṭha đã thuyết Pháp cho nhà vua và hoàng hậu của ngài, Khemā, người đã ao ước được nghe một con *haṁsa* thuyết pháp (Ja.iv.425ff; về chi tiết xem Haṁsajātaka (Ja 502)). Dhataraṭṭha thường được nhắc đến như một vị vua được bao quanh bởi một đoàn tùy tùng lộng lẫy, ví dụ, DN­a.i.40; MN­a.ii.576; Ud­a.57, 412; Pv-a.171.
 
 ## Notes

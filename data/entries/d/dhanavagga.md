@@ -5,7 +5,7 @@ base_headword: "Dhanavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhanavagga. The first chapter of the *Sattakanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanavagga. Chương đầu tiên của *Sattakanipāta* thuộc Aṅguttaranikāya. AN.iv.1ff.
 
 ## Notes

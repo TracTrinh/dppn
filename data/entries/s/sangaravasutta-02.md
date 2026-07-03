@@ -5,7 +5,7 @@ base_headword: "Saṅgāravasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgāravasutta 02. An account of the visit of the Buddha and <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāravasutta 02. Một ghi chép về chuyến viếng thăm của Đức Phật và Ānanda đến Bà-la-môn (*Brāhmaṇa*) Saṅgārava của Sāvatthī. Saṅgārava giải thích với Đức Phật rằng ông gội sạch những lỗi lầm của mình bằng cách tắm vào buổi sáng và buổi tối. Đức Phật nói rằng sự thanh tẩy thực sự duy nhất là thông qua Pháp. SN.i.182f.
 
 ## Notes

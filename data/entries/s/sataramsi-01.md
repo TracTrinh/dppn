@@ -5,7 +5,7 @@ base_headword: "Sataraṁsi"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ See also under <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sataraṁsi 01. Một vị Pacceka Buddha của chín mươi tư *kappa* trước, người mà Ambayāgudāyaka, trong một tiền kiếp, đã cúng dường một bữa ăn gồm cháo gạo xoài (? *ambayāgu*). Ap.i.284.
+
+Cũng xem dưới mục Sigālapitā và Sambula Kaccāyana, những người được đề cập là đã cúng dường cho ngài những trái thốt nốt (*tāla*).
 
 ## Notes

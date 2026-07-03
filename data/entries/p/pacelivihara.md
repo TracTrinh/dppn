@@ -5,7 +5,7 @@ base_headword: "Pacelivihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pacelivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacelivihāra. Một tu viện ở Soṇṇagiripāda, nơi ở của Soṇaka Thera*,* con trai của người thợ săn. MN­a.ii.887. Xem thêm Pipphalivihāra.
 
 ## Notes

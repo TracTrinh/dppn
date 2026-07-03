@@ -5,7 +5,7 @@ base_headword: "Nandādevī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandādevī. Chief queen of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandādevī. Chánh hậu của Cūḷanī Brahmadatta, vua của Pañcāla. Bà được đồng nhất với Yasassikā. Ja.vi.434ff., 478; xem chi tiết trong Mahā Ummaggajātaka.
 
 ## Notes

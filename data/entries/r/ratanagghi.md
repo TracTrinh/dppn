@@ -5,7 +5,7 @@ base_headword: "Ratanagghi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ratanagghi. One of the three palaces occupied by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanagghi. Một trong ba cung điện được Revata Buddha sử dụng trong kiếp sống cư sĩ cuối cùng của ngài. Bv.vi.17.
 
 ## Notes

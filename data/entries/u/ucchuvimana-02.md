@@ -5,7 +5,7 @@ base_headword: "Ucchuvimāna"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ucchuvimāna 02. The story is the same as the above except that the mother in-la
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện giống như trên ngoại trừ việc người mẹ chồng đã đánh cô gái bằng một cục đất. Vv.44f; Vv-a.203ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dubbaṇṇiyasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dubbaṇṇiyasutta. Once an ill-favoured <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dubbaṇṇiyasutta*. Có lần một Yakkha xấu xí đến ngồi trên ngai vàng của Sakka. Các vị thần của Tāvatiṁsa đã vô cùng bực tức khi nhìn thấy hắn, nhưng họ càng khó chịu, thì Yakkha đó càng trở nên đẹp đẽ hơn. Sau đó Sakka đi đến và tỏ ra vô cùng khiêm nhường trước Yakkha này, và sự khiêm nhường của ngài càng lớn thì Yakkha đó càng trở nên xấu xí hơn, cho đến khi hắn biến mất. SN.i.237.
 
 ## Notes

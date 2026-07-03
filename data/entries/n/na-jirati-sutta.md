@@ -5,7 +5,7 @@ base_headword: "Na jirati Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Na jirati Sutta. A series of questions asked by a *Deva* and the Buddha’s answ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na jirati Sutta. Một loạt câu hỏi do một *Deva* (thiên nhân) đặt ra và những câu trả lời của Đức Phật. Câu hỏi đầu tiên là, “Điều gì bị hoại diệt và điều gì không?” Câu trả lời là sắc uẩn của người phàm bị hoại diệt, nhưng tên của họ thì không (SN.1.43)
 
 ## Notes

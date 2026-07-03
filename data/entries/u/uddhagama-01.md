@@ -5,7 +5,7 @@ base_headword: "Uddhagāma"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uddhagāma 01. A district (?) in Ceylon. It contained the village of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một quận (?) ở Tích Lan. Nó bao gồm ngôi làng Vasabha, nơi đã được trao cho Jetavanavihāra bởi Mahā Nāga (Cv.xli.97).
 
 ## Notes

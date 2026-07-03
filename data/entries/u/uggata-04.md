@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uggata 04. King during the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 04. Vua trong thời của Sobhita Buddha. Ông đã xây dựng một *vihāra* tên là Surinda tại Sunandavatī và một cái khác tên là Dhammagaṇārāma tại Mekhalā và cúng dường chúng cho Đức Phật và Tăng đoàn. Tại lễ cúng dường ngôi *vihāra* thứ nhất, một trăm crore người đã trở thành *Arahant* và tại lễ cúng dường ngôi *vihāra* thứ hai, chín mươi crore người (Bv.vii.9f; Bv­a.139).
 
 ## Notes

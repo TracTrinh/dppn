@@ -5,7 +5,7 @@ base_headword: "Disampati"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -34,6 +34,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Disampati. Một vị vua thuở xa xưa. Con trai của ông là Reṇu và các vị quan quản gia trưởng của ông thoạt đầu là Govinda và sau đó là Jotipāla (DN.ii.230f; Mvu.i.197ff).
+
+Tên của ông được nhắc đến trong Dīpavaṁsa (iii.40).
+
+Theo Mahā Vaṁsaṭīkā (p.130), cha của ông là Samatha và ông trị vì ở Ba-la-nại (Benares).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Santusita"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Santusita 02. One of the palaces of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những cung điện của Koṇāgamana Buddha trước khi ngài xuất gia. Bv.xxiv.18.
 
 ## Notes

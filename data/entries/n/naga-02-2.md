@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgā 02. One of the chief women supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 02. Một trong những nữ hộ độ chính của Đức Phật Phussa. Bv.xix.21.
 
 ## Notes

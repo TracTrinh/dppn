@@ -5,7 +5,7 @@ base_headword: "Rakkhitatala"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhitatala. A locality in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhitatala. Một địa danh ở Himālaya. Nơi đây các Arahant đã gặp gỡ và thảo luận xem họ nên làm gì để giải quyết những câu hỏi do Milinda đặt ra. Mil. p. 6.
 
 ## Notes

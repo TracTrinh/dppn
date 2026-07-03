@@ -5,7 +5,7 @@ base_headword: "Ojita"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -29,6 +29,6 @@ Ojita. One of the two merchants, the other being <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ojita. Một trong hai thương nhân, người kia là Ujita, những trưởng đoàn lữ hành, những người đã dâng bữa ăn đầu tiên cho Sikhī Buddha sau khi Ngài Giác ngộ (Thag­a.i.48). Họ tương đương với Tapassu và Bhallika trong câu chuyện của Gotama Buddha.
 
 ## Notes

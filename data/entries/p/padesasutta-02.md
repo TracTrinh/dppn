@@ -5,7 +5,7 @@ base_headword: "Padesasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Padesasutta 02. Whoever cultivates psychic power, partially, can only do so by c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padesasutta 02. Bất cứ ai trau dồi thần túc, dù chỉ một phần, cũng chỉ có thể làm như vậy bằng cách trau dồi và phát triển bốn nền tảng của thần túc (*iddhipādā*). SN.v.255.
 
 ## Notes

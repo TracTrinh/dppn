@@ -5,7 +5,7 @@ base_headword: "Ratanavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ratanavagga. The ninth section of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanavagga. Phần thứ chín trong Pācittiya của Vinayapiṭaka.
 
 ## Notes

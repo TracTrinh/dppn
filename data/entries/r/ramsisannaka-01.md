@@ -5,7 +5,7 @@ base_headword: "Raṁsisaññaka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Raṁsisaññaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṁsisaññaka 01. Raṁsisaññaka Thera. Một vị Arahant. Ông là một đạo sĩ ở Himavā, và khi nhìn thấy Vipassī Buddha tỏa hào quang, ông đã đảnh lễ ngài. Ap.i.129.
 
 ## Notes

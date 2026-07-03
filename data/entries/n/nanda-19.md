@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "19"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,6 @@ Nanda 19. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 19. Nanda Kumāputta Thera. Ông sinh ra ở Veḷukaṇḍa thuộc Avanti và mẹ của ông là Kumā. Sau khi nghe Sāriputta thuyết pháp, ông đã gia nhập Tăng đoàn, sau này ông đã đến viếng thăm Đức Phật. Từ Đức Phật, ông đã nhận được một đề mục thiền định và trở thành một *Arahant* (Thag.vs.36; Thag­a.i.100). Ông có một người bạn tên là Sudanta (cũng được gọi là Vāsula), người cũng đã trở thành một *Arahant* (ibid.101). Vào thời của Vipassī Buddha, Nanda là một đạo sĩ, và khi nhìn thấy Đức Phật trong công viên hoàng gia ở Bandhumatī, đã dâng cho Ngài dầu để xoa bóp bàn chân. Ông có lẽ được đồng nhất với Abbhañjanadāyaka của Apadāna. Ap.ii.456.
 
 ## Notes

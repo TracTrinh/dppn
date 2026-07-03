@@ -5,7 +5,7 @@ base_headword: "Pācittiya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pācittiya. One of the two main divisions of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācittiya. Một trong hai phần chính của Suttavibhaṅga thuộc Vinayapiṭaka. Nó có chứa các điều luật Vinaya kết nối với *Pātimokkha*, sự vi phạm những điều này có thể được chuộc lỗi theo một cách nào đó.
 
 ## Notes

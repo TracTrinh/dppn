@@ -5,7 +5,7 @@ base_headword: "Sataraṁsika Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sataraṁsika Thera. An *Arahant*. In the past he saw <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sataraṁsika Thera. Một bậc *Arahant*. Trong quá khứ ngài đã nhìn thấy Đức Phật Padumuttara và đảnh lễ Ngài. Trong kiếp sống này ngài đã gia nhập Tăng đoàn vào năm bảy tuổi, và những tia sáng liên tục phát ra từ cơ thể ngài. Sáu mươi ngàn *kappa* trước, ngài đã bốn lần làm vua dưới tên gọi Roma. Ap.i.104f.
 
 ## Notes

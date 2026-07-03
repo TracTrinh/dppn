@@ -5,7 +5,7 @@ base_headword: "Dharaṇīruha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dharaṇīruha. A king of eleven *kappas* ago, a former birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dharaṇīruha. Một vị vua của mười một *kappa* trước, một tiền kiếp của Tiṇasūlaka. Ap.i.179.
 
 ## Notes

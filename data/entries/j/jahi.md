@@ -5,7 +5,7 @@ base_headword: "Jahī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jahī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jahī. Một vị Pacceka Buddha, được nêu trong một danh sách tên. Ap­a.i.107.
 
 ## Notes

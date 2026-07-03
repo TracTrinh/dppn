@@ -5,7 +5,7 @@ base_headword: "Okāsalokasūdanī"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Okāsalokasūdanī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okāsalokasūdanī, Okāsaloka. Một tác phẩm của một tác giả vô danh, được nhắc đến trong Gandhavaṁsa (p.62). Tác phẩm này dường như cũng được gọi là Okāsaloka (p.72).
 
 ## Notes

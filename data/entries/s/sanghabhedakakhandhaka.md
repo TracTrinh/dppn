@@ -5,7 +5,7 @@ base_headword: "Saṅghabhedakakhandhaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghabhedakakhandhaka. The seventh chapter of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabhedakakhandhaka. Chương thứ bảy của Cūḷa Vagga của Vinayapiṭaka. Vin.ii.180-206.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammamitta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammamitta. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammamitta. Một vị sư của Sitthagāmapariveṇa. Ngài đã viết một cuốn Chú giải cho tạng Abhidhamma theo yêu cầu của Mahinda IV. Cv.liv.35.
 
 ## Notes

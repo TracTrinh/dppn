@@ -5,7 +5,7 @@ base_headword: "Paccanīkasāta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paccanīkasāta. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccanīkasāta. Một vị Bà-la-môn của Sāvatthī, người mà Đức Phật đã từ chối thuyết pháp (xem Paccaṇīkasutta). Buddhaghosa nói (SN­a.i.205) rằng vị Bà-la-môn này được gọi như vậy (“Người phản bác”) bởi vì ông ta thích thú với việc chống lại mọi thứ mà bất kỳ ai khác nói ra.
 
 ## Notes

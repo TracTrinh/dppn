@@ -5,7 +5,7 @@ base_headword: "Dummukha"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,8 @@ The Commentary says that <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dummukha 01. Một vị thủ lĩnh người Licchavī. Ông có mặt tại cuộc thảo luận của *Nigaṇṭha* Saccaka với Đức Phật, và khi thấy Saccaka bị đánh bại trong cuộc tranh luận, Dummukha đã so sánh ông ta với một con cua bị kéo ra khỏi ao và bị những đứa trẻ trong làng hành hạ (MN.i.234).
+
+Chú giải nói rằng Dummukha Mặt Xấu chỉ tình cờ là tên của ông ấy (MN­a.i.459). Thực tế ông ấy khá đẹp trai.
 
 ## Notes

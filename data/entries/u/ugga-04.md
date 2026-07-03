@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -53,6 +53,23 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Uggagahapati, Uggata. Một người gia chủ của Hatthigāma (Hatthigāmaka) thuộc quốc gia Vajjī. Trong số các người gia chủ, ngài được Đức Phật tuyên bố là người tối thắng trong số những người hầu hạ Tăng đoàn (*saṅghupaṭṭhākānaṁ*) (AN.i.26). Sau cái chết của cha mình, ngài đã được bổ nhiệm vào vị trí *seṭṭhi*. Một lần khi Đức Phật đi đến Hatthigāma trong một chuyến du hành và đang ở tại Nāgavanuyyāna ở đó, Ugga đã đến khu vui chơi, cùng với các vũ công, vào lúc kết thúc của một bữa tiệc rượu kéo dài bảy ngày. Nhìn thấy Đức Phật, ngài đã bị xâm chiếm bởi sự xấu hổ to lớn và sự say xỉn của ngài đã biến mất. Đức Phật đã thuyết giảng cho ngài và ngài đã trở thành một *Anāgāmī*. Sau đó ngài đã giải tán các vũ công của mình và cống hiến bản thân mình cho việc chăm sóc các thành viên của Tăng đoàn. Các chư thiên đã đến thăm ngài vào ban đêm và kể cho ngài nghe về những sự chứng đạt của các tỳ-kheo khác nhau, gợi ý rằng ngài chỉ nên chọn những vị xuất chúng làm người nhận các món quà của ngài. Nhưng những gì ngài tặng, ngài đã dâng cho tất cả với niềm hoan hỉ ngang nhau (AN­a.i.214-5).
+
+Đức Phật có một lần đã tuyên bố rằng Ugga sở hữu tám phẩm chất đặc biệt và kỳ diệu. Một trong những tỳ-kheo, nghe lời tuyên bố của Đức Phật, đã đi đến chỗ Ugga và hỏi ngài những phẩm chất này là gì. Ugga trả lời rằng ngài không nhận thức được Đức Phật đang nghĩ đến điều gì và tiếp tục giải thích tám điều kỳ diệu đã xảy ra với ngài, cụ thể là:
+
+- (1) Ngay khi ngài nhìn thấy Đức Phật, trạng thái say xỉn của ngài đã biến mất và ngài đã đảnh lễ Đức Phật, người đã nói chuyện với ngài về các chủ đề khác nhau, chẳng hạn như bố thí (*dāna*), giới (*sīla*), v.v.
+- (2) Khi Đức Phật thấy rằng tâm trí của Ugga đã sẵn sàng, ngài đã thuyết giảng cho ngài Tứ Diệu Đế, những điều ngài đã hiểu và liễu ngộ.
+- (3) Ngài đã có bốn người vợ trẻ và xinh đẹp; khi ngài thực hiện lời thề tịnh hạnh, ngài đã chuẩn bị đầy đủ cho họ; cho một người trong số họ ngài đã lấy cho cô người chồng theo sự lựa chọn của cô, bởi vì cô mong muốn như vậy, và ngài đã làm điều này mà không có mảy may sự ghen tuông nào.
+- (4) Tất cả khối tài sản khổng lồ của mình, ngài chia sẻ với những người có đạo đức tốt đẹp và dễ mến.
+- (5) Dù hầu hạ bất kỳ vị tỳ-kheo nào, ngài đều làm điều đó với sự toàn tâm toàn ý; ngài chăm chú lắng nghe bài thuyết pháp của vị tỳ-kheo; nếu vị tỳ-kheo không thuyết pháp, chính Ugga đã chỉ dạy cho ngài giáo lý.
+- (6) Chư thiên đã kể cho ngài về những sự chứng đạt khác nhau của các tỳ-kheo khác nhau, nhưng ngài đã dâng cho tất cả như nhau, không có sự phân biệt.
+- (7) Ngài không cảm thấy kiêu ngạo rằng ngài được đàm đạo với chư thiên.
+- (8) Ngài không lo lắng về cái chết bởi vì Đức Phật đã cam đoan với ngài rằng ngài sẽ không bao giờ trở lại thế giới này nữa.
+
+Vị tỳ-kheo báo cáo cuộc đối thoại này với Đức Phật và Đức Phật nói với ngài rằng đây chính là những phẩm chất mà ngài đã nghĩ đến khi khen ngợi Ugga (AN.iv.212-6).
+
+Saṁyuttanikāya (SN.iv.109f) ghi lại một chuyến thăm Đức Phật được thực hiện bởi Ugga, tại Hatthigāmaka. Ngài đã hỏi Đức Phật tại sao có một số chúng sinh chứng đạt được sự tự do trọn vẹn trong chính kiếp sống này, trong khi những người khác thì không. Bởi vì sự dính mắc, Đức Phật nói.
+
+Ugga đã từng là một người gia chủ vào thời của Padumuttara Buddha. Ngài có một lần đã nghe Đức Phật thuyết giảng và tuyên bố, vào lúc kết thúc bài pháp của ngài, một trong những người đệ tử cư sĩ của ngài là người tối thắng trong số những người hầu hạ Tăng đoàn. Ngài đã mong muốn cho bản thân mình một sự chứng đạt tương tự và đã làm nhiều việc thiện hướng đến mục tiêu đó (AN­a.i.214).
 
 ## Notes

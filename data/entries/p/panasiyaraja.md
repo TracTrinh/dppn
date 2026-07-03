@@ -5,7 +5,7 @@ base_headword: "Panasiyarāja"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Panasiyarāja. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panasiyarāja. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.99.
 
 ## Notes

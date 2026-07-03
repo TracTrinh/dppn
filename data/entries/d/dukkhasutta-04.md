@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 04. The Buddha teaches suffering, the arising thereof, the cessation
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 04. Đức Phật giảng dạy về khổ, sự tập khởi của khổ, sự đoạn diệt, và con đường đi đến sự đoạn diệt đó. SN.iii.158.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīghatālā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghatālā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghatālā. Vợ của Golakāla. Nàng đã bỏ trốn cùng Dīghapiṭṭhi, nhưng Mahosadha đã trả nàng về cho chồng mình. Ja.vi.337f.
 
 ## Notes

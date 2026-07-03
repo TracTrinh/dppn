@@ -5,7 +5,7 @@ base_headword: "Ratanadoṇi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ratanadoṇi. A village in Ceylon, given by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanadoṇi. Một ngôi làng ở Tích Lan (Ceylon), được Kittisirirājasīha ban tặng để chu cấp cho Dutiyaselavihāra. Ngôi làng ban đầu thuộc về *vihāra* này nhưng đã bị lấy đi. Cv.c.232.
 
 ## Notes

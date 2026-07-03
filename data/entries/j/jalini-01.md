@@ -5,7 +5,7 @@ base_headword: "Jālinī"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jālinī 01. One of the five queens of the third <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jālinī 01. Một trong năm vương hậu của vị vua Okkāka thứ ba. DN­a.i.258; Mhv­ṭ.131; Snp­a.i.352.
 
 ## Notes

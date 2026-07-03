@@ -5,7 +5,7 @@ base_headword: "Jālinavana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jālinavana. A forest in the dominion of the king of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jālinavana. Một khu rừng trong lãnh thổ của vua xứ Kosala. Đây là nơi ẩn náu của Aṅgulimāla. Thag­a.ii.58.
 
 ## Notes

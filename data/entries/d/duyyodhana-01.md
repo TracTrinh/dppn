@@ -5,7 +5,7 @@ base_headword: "Duyyodhana"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Duyyodhana 01. The Bodhisatta, born as king of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duyyodhana 01. Bodhisatta, sinh làm vua của Magadha. Sau này ngài sinh làm vua của các loài Nāga, dưới cái tên Saṅkhapāla. Về câu chuyện của ngài, xem Saṅkhapālajātaka (Ja 524), SN.v.162ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Udena 05. A king. He joined the Saṅgha under <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua. Ngài đã gia nhập Tăng đoàn dưới thời Koṇḍañña Buddha, cùng với chín mươi *crore* những người đi theo, tất cả họ đều trở thành các Arahant. Bv­a.111.
 
 ## Notes

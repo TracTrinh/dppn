@@ -5,7 +5,7 @@ base_headword: "Dīgha"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dīgha 02. A Thera of Ceylon, and an expert in the Vinaya. Vin.v.3.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgha 02. Một vị Trưởng lão của Tích Lan, và là một chuyên gia về Vinaya. Vin.v.3.
 
 ## Notes

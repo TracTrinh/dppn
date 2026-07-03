@@ -5,7 +5,7 @@ base_headword: "Sāpūga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāpūga. A village of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của những người Koḷiyan, nơi Ānanda từng ở lại, và nơi ông đã thuyết pháp cho cư dân. Họ được gọi là Sāpūgiyā. AN.ii.194.
 
 ## Notes

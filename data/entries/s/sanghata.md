@@ -5,7 +5,7 @@ base_headword: "Saṅghāta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅghāta. A *Niraya*. It is so-called because massive rocks of heated iron me
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghāta. Một địa ngục (*Niraya*). Nó được gọi như vậy bởi vì những tảng đá khổng lồ bằng sắt nung đỏ gặp nhau và nghiền nát các nạn nhân. Ja.v.256, 270.
 
 ## Notes

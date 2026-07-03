@@ -5,7 +5,7 @@ base_headword: "Nāmācāradīpanī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāmācāradīpanī. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāmācāradīpanī. Một luận thư Abhidhamma, có lẽ do Chapaṭa biên soạn. Bode, 18.
 
 ## Notes

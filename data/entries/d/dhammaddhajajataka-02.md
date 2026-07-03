@@ -5,7 +5,7 @@ base_headword: "Dhammaddhajajātaka"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,8 @@ The story was related in reference to a deceitful monk, who is identified with t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaddhajajātaka 02. (Ja 384). Bodhisatta có lần được sinh làm thủ lĩnh của một đàn chim trên một hòn đảo. Những thương nhân nào đó ở Benares đã bắt đầu một chuyến hành trình, mang theo cùng với họ, để giúp họ trên đường đi, một con quạ đã đi nhiều nơi. Con tàu bị đắm và con quạ bay đến hòn đảo. Ở đó nó giả vờ với những con chim khác rằng nó là một bậc thánh nhân, thực hành khổ hạnh và sống bằng không khí. Lũ chim, bị nó lừa dối, đã giao cho nó trông nom trứng và những con non của chúng, mà nó tiến hành ăn thịt mỗi ngày. Một ngày nọ Bodhisatta đã đứng canh gác và từ đó phát hiện ra hành vi bất lương của nó. Đàn chim đã xúm lại quanh con quạ và mổ nó đến chết.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo dối trá, người được nhận diện là con quạ. Ja.iii.267-70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saññāvagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saññāvagga. The seventh chapter of the *Pañcakanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ bảy của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.79f.
 
 ## Notes

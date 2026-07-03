@@ -5,7 +5,7 @@ base_headword: "Palokasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Palokasutta. The Buddha tells <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palokasutta. Đức Phật nói với Ānanda rằng thế giới (*loka*) được gọi như vậy là do bản chất mong manh dễ hoại diệt của nó (*palokadhamma*). Trong giáo pháp của các bậc Thánh, thế giới bao gồm con mắt, các sắc, v.v. SN.iv.53.
 
 ## Notes

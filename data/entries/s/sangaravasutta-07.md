@@ -5,7 +5,7 @@ base_headword: "Saṅgāravasutta"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgāravasutta 07. The Buddha tells <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāravasutta 07. Đức Phật nói với Saṅgārava rằng sát sanh, trộm cắp, tà dâm, nói dối, ác khẩu và lời nói cay độc, nói lời phù phiếm, tham lam, sân hận, tà kiến, là "bờ bên này" và sự kiêng tránh khỏi những điều này là "bờ bên kia." AN.v.252f.
 
 ## Notes

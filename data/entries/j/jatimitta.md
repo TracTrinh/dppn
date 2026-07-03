@@ -5,7 +5,7 @@ base_headword: "Jātimitta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jātimitta. One of the chief disciples of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātimitta. Một trong những đệ tử chính yếu của Metteyya Buddha. Anāgatavaṁsa, vs.59.
 
 ## Notes

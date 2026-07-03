@@ -5,7 +5,7 @@ base_headword: "Disā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Disā. A slave-woman of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Disā. Một nữ tỳ của Okkāka. Bà là mẹ của Kaṇha, thủy tổ của dòng họ Kaṇhāyana (Kaṇhāyanagotta). DN.i.93.
 
 ## Notes

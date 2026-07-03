@@ -5,7 +5,7 @@ base_headword: "Nāgita Thera"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgita Thera 03. A Thera of Ceylon, author of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgita Thera 03. Một Trưởng lão của Tích Lan, tác giả của Saddasāraṭṭhajālinī. Gv.p.74; Svd.vs.1249.
 
 ## Notes

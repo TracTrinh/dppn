@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dukkhasutta 02. All the *khandhas* are <span class="dppn-term dppn-term-t20" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 02. Tất cả các *khandha* đều là khổ; ai liễu tri được điều này sẽ phá hủy sự tái sinh. SN.iii.21; 196.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uddhanadvāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Uddhanadvāra. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Rohaṇa. Tại đó, *Ādipāda* Vikkamabāhu đã giành được một chiến thắng. (Cv.lxi.16, 25). Nó nằm trong khu vực được gọi là Aṭṭhasahassa, và Sirivallabha, người trị vì quận này, đã biến Uddhanadvāra thành thủ đô của mình. Ngôi làng đã hình thành nên một trong những trung tâm của trận chiến trong chiến dịch của Parakkamabāhu I. (Cv.lxxiv.86, 113; lxxv.182. Về sự nhận diện của nó, xem Cv.Trs.i.29, n.4).
 
 ## Notes

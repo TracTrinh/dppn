@@ -5,7 +5,7 @@ base_headword: "Diṭṭhisutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Diṭṭhisutta 02. The same qualities, as in the above, make one’s life barre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Diṭṭhisutta 02. Những phẩm chất tương tự, như ở trên, làm cho cuộc đời của một người trở nên cằn cỗi, và chuốc lấy sự chê trách của những bậc trí; những điều ngược lại có tác động trái ngược. AN.ii.228.
 
 ## Notes

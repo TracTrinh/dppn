@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "09"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Udaya 09. King of Ceylon, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Tích Lan, Udaya III (sau Công nguyên 934-937). Ông là con trai của Mahinda, một người em trai của Sena II, và mẹ ông là Kittī hoặc Kittā. Ông trước hết là *yuvarāja* của Dappula IV và sau đó đã kế vị ông ta làm vua. Cv.liii.4, 13ff; Cv.Trs.i.172, n.5 và 174, n.6.
 
 ## Notes

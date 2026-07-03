@@ -5,7 +5,7 @@ base_headword: "Isindā"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Isindā. A tribe mentioned in a list of various tribes. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isindā. Một bộ tộc được nhắc đến trong danh sách nhiều bộ tộc khác nhau. Ap.ii.359.
 
 ## Notes

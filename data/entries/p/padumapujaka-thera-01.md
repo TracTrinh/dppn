@@ -5,7 +5,7 @@ base_headword: "Padumapūjaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,6 @@ Padumapūjaka Thera 01. An *Arahant*. Ninety-one *kappas* ago he lived in <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumapūjaka Thera 01. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài sống ở Romasa, gần Himavā, và đã dâng cúng một hoa sen cho Pacceka Buddha Sambhava (Ap.i.279f.; xem thêm Padumadhāriya). Trong Chú giải Theragāthā (i.399), các vần kệ của ngài được quy cho Sappaka Thera, và ở đó nói rằng vào thời của Sambhava ngài là một vị vua Nāga.
 
 ## Notes

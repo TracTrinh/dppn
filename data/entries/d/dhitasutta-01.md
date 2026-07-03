@@ -5,7 +5,7 @@ base_headword: "Dhītāsutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhītāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhītāsutta 01. Pasenadi đến thăm vị Phật và càu nhàu bởi vì Mallikā đã sinh ra một cô con gái. Vị Phật chỉ ra cho ngài thấy rằng một người nữ có thể chứng tỏ là một người con tốt hơn nam giới. SN.i.86.
 
 ## Notes

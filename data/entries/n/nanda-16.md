@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "16"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nanda 16. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 16. Được gọi là Nandakumāra. Một đạo sĩ Bà-la-môn, em trai của Bodhisatta trong tiền kiếp làm Soṇa của ngài. Nanda được đồng nhất với Ānanda. Xem chi tiết trong Soṇa Nandajātaka (Ja 532). Ja.v.312ff.
 
 ## Notes

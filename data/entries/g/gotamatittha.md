@@ -5,7 +5,7 @@ base_headword: "Gotamatittha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gotamatittha. The ford by which the Buddha crossed the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamatittha. Bến sông nơi Đức Phật vượt qua sông Ganges, sau khi rời Pāṭaligāma. Xem thêm Gotamadvāra. Vin.i.230; Ud.viii.6; Ud­a.424; DN.ii.89.
 
 ## Notes

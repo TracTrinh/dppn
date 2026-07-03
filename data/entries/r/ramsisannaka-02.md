@@ -5,7 +5,7 @@ base_headword: "Raṁsisaññaka"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Raṁsisaññaka 02. An *Arahant* Thera. Ninety-two *kappas* ago he was an ascet
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṁsisaññaka 02. Một vị Arahant Thera. Chín mươi hai *kappa* trước, ông là một đạo sĩ, và khi nhìn thấy Phussa Buddha trong *jhāna*, ông đã vô cùng hoan hỉ trước cảnh tượng đó. Ap.i.130.
 
 ## Notes

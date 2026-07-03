@@ -5,7 +5,7 @@ base_headword: "Dhanusekha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhanusekha (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanusekha (Dhanusekhavā). Con trai của người đầu bếp của Nữ hoàng Talatā. Cậu được sinh ra cùng ngày với Cūḷanī (*q.v.*), người đã được gửi đến nhà người đầu bếp như một nơi ẩn náu khỏi Chambhī. Hai cậu bé trở thành bạn bè chơi cùng nhau. Khi Cūḷanī trở thành vua, Dhanusekhavā vẫn là người bạn đồng hành thường xuyên của ngài, thậm chí đến thăm ngài mà không cần mời, do đó trở thành một sự phiền toái, như Cūḷanī đã thú nhận với Bherī (Ja 537, Ja.v.469, 471, 475).
 
 ## Notes

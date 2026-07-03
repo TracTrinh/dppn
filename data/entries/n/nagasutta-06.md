@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāgasutta 06. Sometimes it happens that a forest dwelling elephant gets bored w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 06. Đôi khi xảy ra việc một con voi sống trong rừng cảm thấy chán nản với sự đồng hành của đồng loại, các voi cái và các con voi non chắn ngang đường và cản trở sự tự do của nó. Sau đó nó tách khỏi chúng và lui về một nơi thanh vắng. Tương tự như vậy, vị tỳ-kheo mệt mỏi với những nơi lui tới của con người, nên tìm đến sự tĩnh lặng và ở đó rũ bỏ các *āsava* (lậu hoặc). AN.iv.435.
 
 ## Notes

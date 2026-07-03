@@ -5,7 +5,7 @@ base_headword: "Nālijaṅgha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālijaṅgha. A Brahmin, whom <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālijaṅgha. Một Bà-la-môn mà Mallikā đã phái đến chỗ Đức Phật để tìm hiểu xem có đúng là Đức Phật đã nói rằng những người thân yêu mang lại sầu muộn và khổ não hay không. MN.ii.108.
 
 ## Notes

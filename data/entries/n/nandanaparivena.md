@@ -5,7 +5,7 @@ base_headword: "Nandanapariveṇa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandanapariveṇa. A monastery built in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanapariveṇa. Một tu viện được Vīrabāhu, cháu trai của Parakkamabāhu II, xây dựng ở Devanagara. Cv.lxxxiii.50.
 
 ## Notes

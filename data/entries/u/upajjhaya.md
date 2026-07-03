@@ -5,7 +5,7 @@ base_headword: "Upajjhāya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upajjhāya. A gatekeeper of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upajjhāya. Một người gác cổng của Maṇḍavya, được ông triệu tập để đuổi Mātaṅga ra ngoài. Ja.iv.382.
 
 ## Notes

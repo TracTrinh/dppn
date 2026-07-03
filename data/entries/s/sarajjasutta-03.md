@@ -5,7 +5,7 @@ base_headword: "Sārajjasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārajjasutta 03. Abstention from the five wrongs (taking life, theft, etc.) giv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārajjasutta 03. Sự kiêng tránh năm điều sai trái (sát sinh, trộm cắp, v.v.) mang lại sự tự tin cho một tỳ-kheo. AN.iii.203.
 
 ## Notes

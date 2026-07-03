@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -62,6 +62,22 @@ He is probably to be identified with <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 01. Nanda Thera. Con trai của Suddhodana và Mahā Pajāpatī, và do đó là em trai cùng cha khác mẹ của Đức Phật. Ông chỉ nhỏ hơn Đức Phật vài ngày, và khi mẹ của Đức Phật qua đời, Pajāpatī đã giao con ruột của mình cho những người vú nuôi và tự mình cho Đức Phật bú (AN­a.i.186).
+
+Vào ngày thứ ba của chuyến viếng thăm Kapilavatthu của Đức Phật, sau khi Ngài đã giác ngộ, Đức Phật đã đến nhà của Nanda, nơi đang diễn ra các lễ hội để tôn vinh lễ đăng quang và lễ thành hôn của Nanda với Janapadakaḷyānī Nandā. Đức Phật chúc Nanda nhiều may mắn và đưa bình bát cho ông cầm để mang đến *vihāra*. Sau đó, Nanda đi cùng Đức Phật ra khỏi cung điện. Janapadakaḷyānī, khi thấy ông đi, đã yêu cầu ông nhanh chóng quay lại. Tuy nhiên, khi vào bên trong *vihāra*, Đức Phật đã yêu cầu Nanda xuất gia làm tỳ-kheo, và vì không thể từ chối lời yêu cầu, ông đã miễn cưỡng đồng ý. Nhưng khi những ngày tháng trôi qua, ông bị giày vò bởi những suy nghĩ về người mình yêu, trở nên rất chán nản và tuyệt vọng, và sức khỏe của ông bị sa sút. Đức Phật đề nghị họ nên đi viếng thăm Himālaya. Trên đường đi, Ngài chỉ cho Nanda thấy hài cốt cháy đen của một con khỉ cái và hỏi ông xem Janapadakaḷyānī có đẹp hơn con khỉ đó không. Câu trả lời là khẳng định. Sau đó, Đức Phật đưa ông đến Tāvatiṁsa nơi Sakka, cùng với những tiên nữ xinh đẹp nhất của mình, đang chờ đón họ. Để trả lời một câu hỏi của Đức Phật, Nanda thừa nhận rằng những tiên nữ này hấp dẫn hơn Janapadakaḷyānī rất nhiều, và Đức Phật hứa sẽ ban cho ông một người làm vợ nếu ông sống đời tu hành. Nanda rất háo hức và sẵn sàng đồng ý. Khi họ trở về Jetavana, Đức Phật đã kể câu chuyện này cho tám mươi vị đại đệ tử, và khi họ gạn hỏi Nanda, ông cảm thấy vô cùng xấu hổ vì dục vọng của mình. Lấy hết can đảm, ông nỗ lực tinh tấn và không lâu sau đó, đã chứng quả vị *Arahant*. Sau đó, ông đến gặp Đức Phật và giải trừ lời hứa của Ngài (Thag.157f.; Ja.i.91; ii.92ff.; Ud.iii.2; Dhp­a.i.96-105; Ud­a.168ff.; Snp­a.273f.)
+
+Khi một *Devatā* báo cho Đức Phật biết về quả vị *Arahant* của Nanda, Ngài đã kể lại Saṅgāmāvacarajataka (Ja 182, *q.v.*) để cho thấy rằng, trong quá khứ, Nanda cũng đã từng rất nhanh chóng làm theo những lời khuyên. Ngài cũng kể câu chuyện về Kappaṭa (*q.v.*) và con lừa của anh ta để cho thấy rằng đó không phải là lần đầu tiên Nanda bị khuất phục để tuân phục bằng sự cám dỗ của nữ giới. Con lừa đực trong câu chuyện là Nanda và con lừa cái là Janapadakaḷyānī. (Dhp­a.i.103f.)
+
+Nanda được đồng nhất với vị phó vương (*uparājā*) trong Kurudhammajataka (*q.v.*).
+
+Sau này, khi thấy Nanda đã được huấn luyện tuyệt vời như thế nào về sự tự chủ, Đức Phật đã tuyên bố ông là vị đệ tử tối thắng trong số các đệ tử của Ngài về phương diện đó (*indriyesu guttadvārānaṁ*). Nanda đã phát nguyện đạt đến sự tối thắng này vào thời của Padumuttara Buddha. Vào thời của Atthadassi Buddha, ông là một con rùa ở sông Vinatā, và khi thấy Đức Phật đang chờ trên bờ để sang sông, ông đã cõng Ngài trên lưng để đưa Ngài sang bờ bên kia (AN.i.25; AN­a.i.174f.; Thag­a.i.276ff.)
+
+Ông được cho là có tên Nanda vì sự ra đời của ông đã mang lại niềm vui cho thân quyến. Apadāna (i.57) nói rằng ông có màu da vàng rực, như là phần thưởng cho việc cúng dường một chiếc y đắt giá cho Padumuttara Buddha. Một trăm ngàn kappa trước, ông từng bốn lần làm vua dưới tên là Cela. Sáu mươi ngàn kappa trước, ông lại làm vua trong bốn đời, dưới tên là Upacela. Sau đó, năm ngàn kappa trước, ông bốn lần làm vua Cakkavatti, và tên của ông khi đó cũng là Cela.
+
+Nanda rất đẹp trai, và chỉ thấp hơn Đức Phật bốn inch. Có lần ông mặc một chiếc y được may theo kích thước của y của Đức Phật. Phát hiện ra điều này, Đức Phật đã chê trách ông vì sự ngạo mạn (Vin.iv.173). Có lẽ đây là một phiên bản khác của câu chuyện được tìm thấy tại SN.ii.281. Ở đó, Nanda được cho là đã khoác một chiếc y được ủi phẳng cả hai mặt, sơn mặt, và đi đến gặp Đức Phật, mang theo một bình bát sáng loáng. Đức Phật đã chê trách ông, và Nanda sau đó đã trở thành một người sống trong rừng và một người mặc y phấn tảo. Buddhaghosa (SN­a.ii.174) nói rằng Nanda đã ăn mặc diện như vậy nhằm khơi gợi một lời bình phẩm nào đó từ Đức Phật – hoặc là sự tán thành, để ông có thể ăn mặc như vậy trong suốt quãng đời còn lại, hoặc là sự chỉ trích, trong trường hợp đó ông sẽ mặc y phấn tảo và sống trong rừng.
+
+Aṅguttaranikāya (AN.iv.166f) có chứa một bài kinh trong đó Đức Phật thảo luận về tuyên bố của Nanda rằng ông đã đạt được sự tự chủ trong mọi thứ.
+
+Ông có lẽ được đồng nhất với Taraṇiya Thera của Apadāna. (ii.428; cp. Thag­a.i.277.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "08"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nanda 08. A *Devaputta* who visited the Buddha and had a conversation with him. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 08. Một *Devaputta* đã đến viếng thăm Đức Phật và có một cuộc trò chuyện với Ngài. SN.i.62.
 
 ## Notes

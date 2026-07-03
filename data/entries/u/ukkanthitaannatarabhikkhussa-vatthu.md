@@ -5,7 +5,7 @@ base_headword: "Ukkaṇṭhitaaññatarabhikkhussa vatthu"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Ukkaṇṭhitaaññatarabhikkhussa vatthu. The name given in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkaṇṭhitaaññatarabhikkhussa vatthu. Tên được đặt trong Chú giải Dhammapada (Dhp-a.i.297-300) cho câu chuyện của Anupubba.
 
 ## Notes

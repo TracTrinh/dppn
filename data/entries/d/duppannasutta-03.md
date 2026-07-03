@@ -5,7 +5,7 @@ base_headword: "Duppaññasutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Duppaññasutta 03. A monk asks the Buddha as to who can be called a witless imb
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duppaññasutta 03. Một vị tỳ-kheo hỏi Đức Phật ai có thể được gọi là một kẻ ngu ngốc vô trí, và câu trả lời là, người không tu tập bảy *bojjhaṅga*. SN.v.99.
 
 ## Notes

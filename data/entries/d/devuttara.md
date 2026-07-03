@@ -5,7 +5,7 @@ base_headword: "Devuttara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devuttara. Thirty-six *kappas* ago there were sixteen kings of this name all pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devuttara. Ba mươi sáu *kappa* trước, có mười sáu vị vua mang tên này, tất cả đều là các tiền kiếp của Muṭṭhipupphiya (Añjavaniya), Ap.i.142; Thag­a.i.128.
 
 ## Notes

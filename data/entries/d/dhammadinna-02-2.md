@@ -5,7 +5,7 @@ base_headword: "Dhammadinnā"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammadinnā 02. One of the chief supporters, among lay women, of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinnā 02. Một trong những nữ thí chủ tối thắng của Đức Phật Piyadassī. Bv.xiv.22.
 
 ## Notes

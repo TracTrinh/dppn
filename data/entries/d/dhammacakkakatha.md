@@ -5,7 +5,7 @@ base_headword: "Dhammacakkakathā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammacakkakathā. The seventh chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacakkakathā. Chương thứ bảy của Yuganaddhavagga thuộc Paṭisambhidāmagga. Paṭis.ii.159-66.
 
 ## Notes

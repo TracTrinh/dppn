@@ -5,7 +5,7 @@ base_headword: "Rammavatī"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rammavatī 02. A city in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rammavatī 02. Một thành phố vào thời Revata Buddha, nơi Atideva (*q.v.*) sinh sống. Bv.A.134.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pācīnavaṁsa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pācīnavaṁsa. The name of Mount <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnavaṁsa. Tên của Núi Vepulla vào thời của Kakusandha Buddha. Những người dân cư trú được gọi là Tivarā, và họ đã mất bốn ngày để leo lên ngọn núi và bốn ngày để đi xuống. SN.ii.190.
 
 ## Notes

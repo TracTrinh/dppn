@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udena 06. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Yakkha. Xem Udena Cetiya.
 
 ## Notes

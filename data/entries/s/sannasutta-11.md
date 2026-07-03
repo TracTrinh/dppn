@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "11"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 11. Perception of a visible object is fleeting. SN.ii.247.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sự nhận thức về một đối tượng có thể nhìn thấy là phù du. SN.ii.247.
 
 ## Notes

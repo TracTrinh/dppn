@@ -5,7 +5,7 @@ base_headword: "Iddhisutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Iddhisutta 02. Same as above, but the psychic power is that of the divine power 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhisutta 02. Giống như trên, nhưng thần thông ở đây là năng lực thiên nhĩ nghe được mọi thứ, cả xa và gần. SN.v.304.
 
 ## Notes

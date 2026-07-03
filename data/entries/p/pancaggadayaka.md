@@ -5,7 +5,7 @@ base_headword: "Pañcaggadāyaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,8 @@ Dhp­a.iv.98 ff.; the story is also found at Snp­a.i.270, but there the Brahmin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcaggadāyaka. Một người Bà-la-môn, được gọi như vậy vì ông dâng cúng những sản vật đầu mùa thu hoạch của mình trong năm giai đoạn: khi lúa chín, khi đang đập lúa, khi lúa được cho vào thùng, khi lúa được cho vào nồi đun, và khi nó được đơm đầy thành đống trên đĩa. Một ngày nọ, Đức Phật đến nhà ông và đứng ở trước cửa, trong lúc người Bà-la-môn đang thọ thực, còn vợ ông thì phục vụ ông. Người vợ, khi nhìn thấy Đức Phật, và sợ rằng chồng mình sẽ đem bố thí thức ăn của ông đi, bèn ra hiệu cho Đức Phật rời đi. Nhưng Đức Phật ra dấu hiệu từ chối và phóng một luồng hào quang về hướng người Bà-la-môn. Người vợ bật cười trước sự cố chấp của Đức Phật, và ngay lúc đó, người Bà-la-môn nhìn thấy Đức Phật bèn mang cho Ngài phần thức ăn còn lại của mình, được Đức Phật thọ nhận. Sau đó Ngài thuyết pháp cho người Bà-la-môn cùng vợ của ông, cả hai người đều trở thành những bậc *Anāgāmī*.
+
+Dhp­a.iv.98 ff.; câu chuyện này cũng được tìm thấy tại Snp­a.i.270, nhưng ở đó người Bà-la-môn và vợ của ông chỉ trở thành những bậc *Sotāpanna*.
 
 ## Notes

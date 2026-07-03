@@ -5,7 +5,7 @@ base_headword: "Dīghābhaya"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghābhaya 01. A son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghābhaya 01. Một người con trai của Kākavaṇṇatissa với một người vợ khác ngoài Vihāramahādevī. Ông phụ trách pháo đài tại Kacchakatittha. Mhv.xxiii.17.
 
 ## Notes

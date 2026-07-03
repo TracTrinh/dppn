@@ -5,7 +5,7 @@ base_headword: "Pānadhidāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pānadhidāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he gave a pair of s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pānadhidāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài đã dâng cúng một đôi dép (*pānadhi*?) cho một vị hiền triết sống trong rừng. Bảy mươi bảy *kappa* trước, ngài tám lần làm vua với tên gọi Suyāna. Ap.i.208f.
 
 ## Notes

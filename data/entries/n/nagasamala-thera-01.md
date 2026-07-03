@@ -5,7 +5,7 @@ base_headword: "Nāgasamāla Thera"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -37,6 +37,10 @@ Nāgasamāla was a householder in the time of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasamāla Thera 01. Ngài là một người Sākiyan và đã gia nhập Tăng đoàn khi Đức Phật Gotama viếng thăm những người thân của mình tại Kapilavatthu. Trong một thời gian, ngài là thị giả riêng của Đức Phật – ví dụ, khi Đức Phật thuyết giảng Mahā Sīhanādasutta (hay Lomahaṁsapariyāya) (MN.i.83; MN­a.i.283; AN­a.i.163; Ud­a. 217; Ja.iv.95).
+
+Một ngày nọ, khi đang đi vào thành phố để khất thực, ngài đã nhìn thấy một vũ nữ ăn mặc lộng lẫy, đang nhảy múa theo tiếng nhạc đi kèm và đã quán chiếu cô như một cạm bẫy của Māra. Bằng việc lấy điều này làm chủ đề suy ngẫm, ngài đã phát triển cái nhìn thấu suốt về sự dễ hoại diệt của đời sống và đã trở thành một *Arahant* (Thag.vs.267-70; Thag­a.i.378). Một ngày khác (hiển nhiên là trước sự kiện trước đó), khi đang đi bộ cùng với Đức Phật, họ đến một ngã rẽ trên đường, và Đức Phật muốn đi theo một hướng, trong khi Nāgasamāla muốn đi theo hướng khác, bất chấp lời cảnh báo của Đức Phật rằng điều đó rất nguy hiểm. Cuối cùng, ngài đã đặt bình bát và y áo của Đức Phật xuống đất rồi rời bỏ Ngài. Những tên cướp đã phục kích ngài và ngược đãi ngài, làm vỡ bình bát và đe dọa giết ngài. Sau đó ngài đã quay trở lại gặp Đức Phật và cầu xin sự tha thứ của Ngài (Ud.viii.7; Ud­a.425f).
+
+Nāgasamāla từng là một cư sĩ vào thời của Đức Phật Padumuttara, và, khi nhìn thấy Đức Phật đang đi dưới trời nắng, ông đã dâng lên Ngài một chiếc ô. Sau đó, bất cứ nơi nào ngài đi, một chiếc lọng trắng luôn xuất hiện trên đầu ngài. Trong suốt ba mươi *kappa* ngài là vua của các vị thần. Ngài có lẽ được đồng nhất với Ekachattiya của Apadāna. Ap.ii.405
 
 ## Notes

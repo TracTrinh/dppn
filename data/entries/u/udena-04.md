@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udena 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Udena Thera. Người thị giả của Sumana Buddha. Bv.v.24; Ja.i.34.
 
 ## Notes

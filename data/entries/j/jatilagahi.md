@@ -5,7 +5,7 @@ base_headword: "Jaṭilagāhī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,8 @@ The Commentary (AN­a.ii.812) says that the *bhikkhunī* was so-called because s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭilagāhī. Tên gọi được đưa ra cho một vị Tỳ-kheo-ni (*bhikkhunī*), người mà, theo như Ānanda nói với Udāyī, đã đến gặp ông tại Añjanavana ở Sāketa. Vị ni sư này đã hỏi ông về mục đích mà Đức Phật yêu cầu việc thực hành *samādhi* là gì và Ānanda đã trả lời rằng đó là nhằm mục đích đạt được sự chứng ngộ (AN.iv.427f).
+
+Chú giải (AN­a.ii.812) nói rằng vị Tỳ-kheo-ni (*bhikkhunī*) này được gọi như vậy bởi vì bà đến từ một thành phố tên là Jaṭilagaha.
 
 ## Notes

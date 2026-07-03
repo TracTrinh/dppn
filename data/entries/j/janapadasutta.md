@@ -5,7 +5,7 @@ base_headword: "Janapadasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,8 @@ This *Sutta* seems also to have been called the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janapadasutta, Janapadakaḷyānisutta. Được thuyết cho các tỳ-kheo tại Desakā trong xứ Sumbhā. Giả sử người thiếu nữ xinh đẹp nhất trong toàn vùng đó đang nhảy múa và ca hát trước công chúng, và một người đàn ông được bảo rằng nếu anh ta bưng một chiếc bát chứa đầy tràn dầu đi xuyên qua đám đông đó thì anh ta sẽ giành được thiếu nữ kia, nhưng nếu anh ta làm đổ dù chỉ một giọt duy nhất thì anh ta sẽ mất đầu, người đàn ông đó sẽ không chuyển sự chú ý của mình sang bất cứ thứ gì khác hay trở nên chểnh mảng trong những nỗ lực của mình. Cùng theo cách thức đó, các tỳ-kheo nên trau dồi chánh niệm liên quan đến cơ thể (SN.v.169f).
+
+Bản *Sutta* này dường như cũng được gọi là Janapadakaḷyānisutta, ví dụ, Ja.i.393f.
 
 ## Notes

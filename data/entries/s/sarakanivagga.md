@@ -5,7 +5,7 @@ base_headword: "Sarakāṇivagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarakāṇivagga (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarakāṇivagga (*v.l.* Saranāṇivagga). Chương thứ ba của Sotāpattisaṁyutta. SN.v.369-91.
 
 ## Notes

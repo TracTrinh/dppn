@@ -5,7 +5,7 @@ base_headword: "Icchānaṅgala"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -47,6 +47,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Icchānaṅgala, Icchānaṅkala. Một ngôi làng Bà-la-môn ở quốc độ Kosala. Khi đang ở trong một khu rừng rậm (*vanasaṇḍa*) tại đó, Đức Phật đã thuyết bài kinh Ambaṭṭhasutta (DN.i.87). Từ Sutta này, có vẻ như ngôi làng nằm gần lãnh địa Ukkaṭṭhā của Pokkharasādi. Đó là nơi cư ngụ của các Bà-la-môn “*Mahā Sāla*”. Suttanipāta (p.115) (đánh vần tên là Icchānaṅkala) có nhắc đến một vài Bà-la-môn danh tiếng sống ở đó, trong số họ có Caṅkī, Tārukkha, Pokkharasāti, Jāṇussoṇī và Todeyya.
+
+Cũng có hai thanh niên học thức là Vāseṭṭha và Bhāradvāja tại Icchānaṅkala, những người nhận thấy không thể đưa cuộc thảo luận của họ đến một kết luận, đã tìm đến Đức Phật, khi đó đang ở tại ngôi làng. Cuộc phỏng vấn của họ với Đức Phật được ghi lại trong bài kinh Vāseṭṭhasutta (Sđd., 115ff.; MN ii.146ff). Buddhaghosa (Snp-a.ii.462) nói rằng các Bà-la-môn học thức của Kosala, những người am tường sâu sắc kinh Vệ-đà, có thói quen tụ họp cùng nhau theo thời gian (sáu tháng một lần, MN­a.ii.796) tại Icchānaṅgala để tụng đọc kinh Vệ-đà và thảo luận về cách diễn giải của họ. Các Bà-la-môn này tụ họp tại Ukkaṭṭhā, dưới sự chủ trì của Pokkharasāti, khi họ muốn thanh lọc giai cấp của mình (*jātisodhanatthaṁ*), và tại Icchānaṅkala để duyệt lại các bài thánh ca Vệ-đà của họ (*mante sodhetukāmā*), MN­a.ii.796.
+
+Theo Saṁyuttanikāya (v.325), Đức Phật từng ở lại ba tháng trong khu rừng rậm tại Icchānaṅgala, trong sự tĩnh mộc gần như hoàn toàn, chỉ có một vị tỳ-kheo mang thức ăn đến viếng thăm ngài. Nhưng từ Aṅguttaranikāya (iii.30f.; cf. iii.341 and iv.340ff), có vẻ như Đức Phật đã không được để yên để tận hưởng sự thanh vắng mà ngài mong muốn, vì chúng ta được kể rằng những cư dân của Icchānaṅgala, khi nghe tin Đức Phật đến thăm, đã kéo đến với số lượng lớn và gây náo loạn bởi những tiếng la hét của họ. Đức Phật đã phải cử Nāgita, người lúc đó là thị giả của ngài, ra để kềm chế sự nhiệt tình của những người ngưỡng mộ ngài.
 
 ## Notes

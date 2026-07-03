@@ -5,7 +5,7 @@ base_headword: "Pacetana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pacetana. A king of old, whose wheelwright was the Bodhisatta (AN.i.110). See <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacetana. Một vị vua thuở xưa, có người thợ làm bánh xe là vị Bodhisatta (AN.i.110). Xem Cakkavattisutta.
 
 ## Notes

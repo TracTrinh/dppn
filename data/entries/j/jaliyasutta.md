@@ -5,7 +5,7 @@ base_headword: "Jāliyasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jāliyasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāliyasutta. Được thuyết cho Jāliya và Maṇḍissa tại Ghositārāma về câu hỏi liệu thân và linh hồn là một và giống nhau hay không. DN.i.159f. Bản *Sutta* này giống hệt với phần thứ hai của Mahālisutta và có lẽ trước kia đã từng được bao gồm trong đó.
 
 ## Notes

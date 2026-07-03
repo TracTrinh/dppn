@@ -5,7 +5,7 @@ base_headword: "Udapānadūsakajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,8 @@ The story was related concerning the fouling of the water at <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong những thời đã qua, Bodhisatta, sau khi nắm lấy đời sống tôn giáo, đã cư ngụ cùng với một nhóm những người đi theo tại Isipatana. Một con chó rừng có thói quen làm bẩn cái giếng từ nơi mà các tu sĩ khổ hạnh lấy nước của họ. Một ngày nọ, các tu sĩ khổ hạnh đã bắt được con chó rừng và dẫn nó đến trước Bodhisatta. Khi bị thẩm vấn, con chó rừng nói rằng nó chỉ đơn thuần tuân theo "quy luật" của nòi giống nó, đó là làm bẩn cái nơi mà chúng đã uống nước. Bodhisatta đã cảnh cáo nó không được lặp lại hành vi vi phạm này.
+
+Câu chuyện được kể lại liên quan đến việc làm bẩn dòng nước tại Isipatana bởi một con chó rừng. Khi việc làm bẩn này được báo cáo lên Đức Phật, ngài nói rằng nó được gây ra bởi con chó rừng, kẻ đã phạm phải cùng một lỗi lầm trong câu chuyện *Jātaka*. Ja.ii.354ff.
 
 ## Notes

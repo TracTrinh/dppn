@@ -5,7 +5,7 @@ base_headword: "Pañcacchiddageha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -38,6 +38,13 @@ The wife was angry at the sight of them and sent the man back. He brought, in tu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcacchiddageha. Một người Bà-la-môn và vợ của ông ta muốn dâng thức ăn cúng dường cho bốn vị Bà-la-môn; người Bà-la-môn đi đến tu viện để mời họ. Cùng quay về với ông là bốn vị *sāmaṇera* đắc quả *Arahant*:
+
+- Saṅkicca (Saṁkicca)
+- Paṇḍita
+- Sopāka
+- Revata
+
+Người vợ rất tức giận khi nhìn thấy họ và đuổi người đàn ông quay lại. Đến lượt, ông mang về Sāriputta và Moggallāna, cả hai người này đều quay đi khi nhìn thấy các chú sa-di. Ngai vàng của Sakka nóng lên, khi các chú sa-di đang ngồi chịu đói, và ngài hóa thân thành một người Bà-la-môn, bước vào nhà, và ngồi xuống sau khi đảnh lễ các chú sa-di. Người Bà-la-môn và vợ của ông cố đuổi ngài ra ngoài; nhưng không thành công, bèn dâng thức ăn cho cả năm vị khách của mình. Mỗi vị trong số họ đã tạo ra một lỗ hổng ở một phần nào đó của ngôi nhà, thông qua đó mà các ngài rời đi. Kể từ đó ngôi nhà được biết đến với tên gọi *Pañcacchiddageha*. Dhp­a.iv.176ff.
 
 ## Notes

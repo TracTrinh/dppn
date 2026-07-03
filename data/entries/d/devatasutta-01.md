@@ -5,7 +5,7 @@ base_headword: "Devatāsutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devatāsutta 01. A *Devatā* visits the Buddha at <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāsutta 01. Một vị *Devatā* đến thăm Đức Phật tại Jetavana và thưa với ngài về sáu điều cần thiết cho sự phát triển tâm linh của một tỳ-kheo: tôn kính Đức Phật, Pháp và Tăng đoàn, tôn kính giới luật, hòa nhã trong lời nói và có tình bạn tốt. Đức Phật thuật lại chuyến viếng thăm này cho các tỳ-kheo, và Sāriputta giải thích vì sao vị *Devatā* lại đề cập đến những phẩm chất đặc biệt này. AN.iii.423.
 
 ## Notes

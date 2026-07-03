@@ -5,7 +5,7 @@ base_headword: "Dussīlyasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dussīlyasutta 02. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussīlyasutta 02. hoặc Anāthapiṇḍikasutta. Giống như kinh đầu tiên, nhưng ở đây chính Ānanda là người khuyên nhủ và nhắc nhở Anāthapiṇḍika rằng ông sở hữu tất cả các phẩm chất của một *Sotāpanna*. SN.v.385f.
 
 ## Notes

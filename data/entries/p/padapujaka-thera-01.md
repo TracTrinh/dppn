@@ -5,7 +5,7 @@ base_headword: "Pādapūjaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pādapūjaka Thera 01. An *Arahant.* In the past he scattered seven jasmine flow
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādapūjaka Thera 01. Một vị *Arahant.* Trong quá khứ, ngài đã rải bảy bông hoa nhài lên trên bàn chân của Siddhattha Buddha. Năm *kappa* trước, ngài đã làm vua mười ba lần dưới tên gọi là Samantagandha (Samantabhadda) (Ap.i.141f). Ngài có lẽ được đồng nhất với Uttiya Thera. Thag­a.i.125.
 
 ## Notes

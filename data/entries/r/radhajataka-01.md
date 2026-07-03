@@ -5,7 +5,7 @@ base_headword: "Rādhajātaka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rādhajātaka 01. (Ja 145). The Bodhisatta was once born as a parrot, named <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhajātaka 01. (Ja 145). Vị Bodhisatta từng sinh làm một con vẹt, tên là Poṭṭhapāda, và anh em của ngài là Rādha. Họ được một vị Bà-la-môn ở Kāsī nuôi dưỡng. Khi vị Bà-la-môn đi vắng, vợ ông đã cho những người đàn ông vào nhà và chồng bà đã bảo những con chim canh chừng. Rādha muốn khuyên can bà, nhưng anh em của ngài nói rằng điều đó là vô ích và họ phải đợi vị Bà-la-môn trở về. Sau khi kể cho ông nghe những gì đã xảy ra, hai con vẹt bay đi, nói rằng chúng không thể sống ở đó được nữa. Rādha được đồng nhất với Ānanda (Ja.i.495f). Câu chuyện giới thiệu giống hệt với câu chuyện của Indriyajātaka (Ja 423).
 
 ## Notes

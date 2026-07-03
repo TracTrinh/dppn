@@ -5,7 +5,7 @@ base_headword: "Ujjayasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ujjayasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjayasutta 02. Lời thỉnh cầu của Ujjaya lên Đức Phật (được đề cập ở trên dưới mục Ujjaya 3) về một giáo pháp sẽ mang lại cho ông hạnh phúc ở cả hai thế giới và câu trả lời của Đức Phật về điều đó, chi tiết hóa bốn phẩm chất sẽ mang lại sự thịnh vượng trong thế giới này – những thành tựu của sự nỗ lực (*uṭṭhānasampādā*), và của sự bảo vệ (*ārakkhasampadā*), tình bạn với người tốt (*kaḷyānamittatā*), và lối sống chừng mực (*samajīvitā*) – và bốn phẩm chất khác để mang lại hạnh phúc trong thế giới tiếp theo – cụ thể là, bốn *sampadā* (sự thành tựu) của *sīla* (giới), *citta* (sự tập trung và thiền định), *cāga* (sự rộng lượng), và *paññā* (tuệ). AN.iv.285-9.
 
 ## Notes

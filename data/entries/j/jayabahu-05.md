@@ -5,7 +5,7 @@ base_headword: "Jayabāhu"
 disambiguator: "05"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jayabāhu 05. A Thera of Ceylon, better known as <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayabāhu 05. Một vị Thera của Tích Lan, được biết đến nhiều hơn với tên gọi Devarakkhita hay Dhammakitti. Ngài là một vị *Saṅgharāja* và đã biên soạn Nikāyasaṅgraha. PLC.242f.
 
 ## Notes

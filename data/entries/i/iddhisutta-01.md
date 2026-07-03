@@ -5,7 +5,7 @@ base_headword: "Iddhisutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iddhisutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhisutta 01. Anuruddha nói với các tỳ-kheo rằng bằng cách tu tập bốn *satipaṭṭhāna*, ông tận hưởng thần thông bằng nhiều cách, chẳng hạn như phân thân. Ông có thể đi đến tận cõi Brahma. SN.v.303.
 
 ## Notes

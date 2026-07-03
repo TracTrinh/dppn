@@ -5,7 +5,7 @@ base_headword: "Gumbiyajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ The story was related to a monk who, fascinated by a woman’s charm, wished to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gumbiyajātaka (Ja 366). Xưa kia Bodhisatta là một thương nhân của Benares, và đã dẫn đầu một đoàn lữ hành gồm năm trăm cỗ xe đi qua khu rừng. Ngài cảnh báo những người của mình rằng họ không nên ăn bất cứ thứ gì được tìm thấy trong rừng mà không hỏi ý kiến ngài trước. Trên đường đi họ bắt gặp những chiếc lá rải rác trong rừng, được phủ đầy sáp ong. Những thứ này đã được đặt ở đó bởi một Yakkha, tên là Gumbiya, kẻ đã bỏ thuốc độc vào mật ong. Một số người đã ăn mật ong, trong khi những người khác nhớ lại lời cảnh báo của Bodhisatta ngay khi họ vừa nếm thử. Những người đã ăn bị chết, những người khác được cho uống thuốc mửa và đã hồi phục.
+
+Câu chuyện này được liên hệ đến một vị tỳ-kheo, vì bị mê hoặc bởi sự quyến rũ của một người phụ nữ, đã muốn trở thành cư sĩ. Các dục lạc giống như mật ong được rắc đầy chất độc chết người, Đức Phật nói. Vị tỳ-kheo đó đã trở thành một *Sotāpanna*. Ja.iii.200f.; so sánh Kimpakkajātaka.
 
 ## Notes

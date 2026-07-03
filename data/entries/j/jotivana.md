@@ -5,7 +5,7 @@ base_headword: "Jotivana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -32,6 +32,8 @@ It is said (DN­a.i.131; see also Cv.xxxvii.65; lii.59) that when <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotivana. Tên được đặt cho Nandanavana ở Anurādhapura sau khi Mahinda đã thuyết giảng tại đó, cảm hóa một lượng lớn dân chúng (Vin-a.i.82: Mhv.xv.202). Nó nằm ngay trước cổng phía nam của thành phố (Ibid., 1, 7, 8). Nó được bao gồm trong ranh giới của Mahā Vihāra và, về sau, Mahā Sena đã xây dựng Jetavanavihāra ở Jotivana (Mhv.xxxvii.33).
+
+Người ta nói rằng (DN­a.i.131; cũng xem Cv.xxxvii.65; lii.59) khi Mahinda thuyết giảng tại Jotivana đã có một trận động đất.
 
 ## Notes

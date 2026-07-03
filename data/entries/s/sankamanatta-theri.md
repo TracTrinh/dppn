@@ -5,7 +5,7 @@ base_headword: "Saṅkamanattā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkamanattā Therī. An *Arahant*. Seeing <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkamanattā Therī. Một bậc *Arahant*. Khi nhìn thấy Koṇḍañña Buddha đang đi dọc theo con đường, bà đã bước ra khỏi nhà mình và phủ phục xuống. Đức Phật đã chạm vào đầu bà bằng chân của Ngài. Ap.ii.514.
 
 ## Notes

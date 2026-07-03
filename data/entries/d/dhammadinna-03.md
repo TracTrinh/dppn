@@ -5,7 +5,7 @@ base_headword: "Dhammadinna"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,6 @@ Dhammadinna 03. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinna 03. Một vị sư ở Tissa Mahā Vihāra gần Talaṅgarapabbata. Một lần, trong khi đang hành hương đến Nāgadīpa cùng với 500 người khác, ngài đã dừng lại ở Sāgirivihāra, và họ được chăm sóc bởi Bahulamassutissa Thera. Ngày hôm sau họ đã đi khất thực đến Puṇṇasālakoṭṭhaka, nơi một cư dân đã thết đãi họ một bữa ăn với thịt thỏ rừng. Dhammadinna sau đó hỏi tại sao Tissa Thera không khuyên răn đệ tử của mình về những tội lỗi của việc sát sinh, khi thấy rằng có một đống xương bên ngoài ngôi nhà. Tissa đã yêu cầu Dhammadinna làm điều đó vào ngày hôm sau. Việc này đã được thực hiện; người nam tín đồ đã thú nhận rằng ông chưa bao giờ giết một con thỏ rừng nào, nhưng trong nhà ông chưa bao giờ thiếu thịt thỏ rừng, và ông không biết tại sao. Dhammadinna, với thiên nhãn của ngài, đã tiết lộ cho ông rằng vào thời của Đức Phật Padumuttara ông đã từng cúng dường với thịt thỏ rừng. Ras.ii.128f.
 
 ## Notes

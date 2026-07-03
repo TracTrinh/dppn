@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Udaya 04. The Bodhisatta born as king of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra làm vua của Benares. Trong kiếp trước của mình, ngài đã từng là một người hầu của Suciparivāra (*q.v.*). Vào những ngày trai giới, phong tục trong nhà của Suciparivāra là mọi người, kể cả cho đến những người chăn bò, đều phải thọ trì *uposatha*, nhưng người hầu này, vì là người mới đến, đã không nhận thức được điều này. Anh ta đi làm vào sáng sớm và trở về muộn vào buổi tối. Khi anh ta phát hiện ra rằng tất cả những người khác đều đang giữ trai giới, anh ta đã từ chối đụng đến bất kỳ thức ăn nào và, kết quả là, đã qua đời trong cùng một đêm. Ngay trước khi chết, anh ta đã nhìn thấy vua của Benares đi diễu hành với sự huy hoàng vĩ đại, và cảm thấy một sự khao khát đối với hoàng gia. Do đó, anh ta được sinh ra làm con trai của vua của Benares và được đặt tên là Udaya. Đến đúng thời điểm, ngài đã trở thành vua, và một ngày nọ, khi đã nhìn thấy Aḍḍhamāsaka (*q.v.*) và biết được câu chuyện của ông, ngài đã trao cho ông một nửa vương quốc của mình. Sau đó, khi Aḍḍhamāsaka thú nhận với ngài về ý nghĩ xấu xa đã sượt qua tâm trí ông ta về việc giết nhà vua để giành lấy toàn bộ vương quốc, Udaya, nhận ra sự xấu xa của dục vọng, đã từ bỏ vương quốc và trở thành một vị tu sĩ khổ hạnh trong vùng Himālaya. Khi rời bỏ ngai vàng, ngài đã thốt ra một vần kệ chứa một câu đố mà cuối cùng đã được giải thích bởi Gaṅgamāla (*q.v.*). Ja.iii.444ff..
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammasālavihāra"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammasālavihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasālavihāra. Một *vihāra* ở Rohaṇa nơi Aggabodhi, con trai của Mahā Tissa, đã dựng lên một vài tòa nhà. Cv.xlv.46.
 
 ## Notes

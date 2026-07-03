@@ -5,7 +5,7 @@ base_headword: "Pabbatārāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Pabbatārāma. A monastery built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatārāma. Một tu viện do Pabbata, vị đại thần của Vaṭṭagāmaṇī xây dựng. Đây có lẽ cũng là tu viện được đề cập trong Mahā Vaṁsaṭīkā (p.616) là nằm ở phía nam của *vihāra* Vessagiri và gần ngôi làng Silāsobbhakaṇḍaka. (Mhv.xxxiii.90)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rādhā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rādhā. One of the two chief women disciples of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhā. Một trong hai nữ đại đệ tử của Paduma Buddha. Bv.ix.22.
 
 ## Notes

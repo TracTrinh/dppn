@@ -5,7 +5,7 @@ base_headword: "Nāgakesariya Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgakesariya Thera. An *Arahant*. In the past he was a hunter, and, while wande
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgakesariya Thera. Một *Arahant*. Trong quá khứ ngài là một thợ săn, và trong lúc lang thang trong rừng, ngài đã nhìn thấy một bông hoa Nāga nở rộ và dâng cúng nó bằng cả hai tay cho Đức Phật Tissa. Bảy mươi bảy *kappa* trước, ngài là một vị vua có tên là Pamokkharaṇa. Ap.i.222.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ravideva"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ravideva. A Sinhalese chief. He fought with the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ravideva. Một tù trưởng Sinhalese. Ông đã cùng những người Coḷa chiến đấu chống lại Vijayabāhu I., nhưng, về sau, dường như đã gia nhập phe của Vijayabāhu. Cv.lviii.16, 65; Cv.Trs.i.203, n.3.
 
 ## Notes

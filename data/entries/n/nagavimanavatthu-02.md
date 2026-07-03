@@ -5,7 +5,7 @@ base_headword: "Nāgavimānavatthu"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgavimānavatthu 02. The story of a man who, having offered eight flowers at t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgavimānavatthu 02. Câu chuyện về một người đàn ông, sau khi dâng cúng tám bông hoa tại *Thūpa* (bảo tháp) của Đức Phật Kassapa, đã được sinh ra ở Tāvatiṁsa, nơi ông cưỡi một con bạch tượng. Ông đã tìm được những bông hoa này với muôn vàn khó khăn. Moggallāna đã nhìn thấy ông trong một chuyến du hành của ngài và đã nghe câu chuyện của ông từ chính miệng ông kể. Vv.v.10; Vv-a.252ff.
 
 ## Notes

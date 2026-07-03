@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "08"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Padumā 08. A distinguished Therī of Ceylon. Dpv.xviii.24.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 08. Một vị Therī xuất chúng của Tích Lan. Dpv.xviii.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ujjaya"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjaya 02. Một Trưởng lão. Ngài là con trai của một Bà-la-môn *Sotthiya* ở Rājagaha, và trở nên thông thạo ba bộ Veda. Bất mãn với giáo lý của kinh Veda, ngài đến gặp Đức Phật và nghe ngài thuyết pháp tại Veḷuvana. Về sau ngài gia nhập Tăng đoàn và lui vào rừng, sau khi đã học một đề mục thiền định. Ngay sau đó ngài trở thành một *Arahant*. Trong một kiếp quá khứ ngài đã cúng dường một bông hoa *kaṇikāra* lên Đức Phật. Ba mươi lăm *kappa* trước, ngài là một vị vua tên là Aruṇabala (Thag.v.67; Thag­a.i.118f).
+
+Ngài có lẽ đồng nhất với Kaṇikārapupphiya của Apadāna (Ap.i.203).
 
 ## Notes

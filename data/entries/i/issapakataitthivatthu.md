@@ -5,7 +5,7 @@ base_headword: "Issāpakataitthivatthu"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Issāpakataitthivatthu. The story of a woman who, finding that her husband had r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issāpakataitthivatthu. Câu chuyện về một người phụ nữ, khi phát hiện ra chồng mình có quan hệ với một nữ hầu gái, đã trói tay chân cô hầu gái, cắt mũi và nhốt cô ta vào một căn phòng bí mật. Để che giấu hành vi đó với chồng mình, cô đưa anh ta đến tu viện để nghe Đức Phật thuyết pháp. Một số người thân của cô hầu gái đã đến nhà và khi phát hiện ra chuyện gì đã xảy ra, họ đã giải thoát cho cô ấy. Cô đi đến tu viện nơi nữ chủ nhân của mình đang nghe bài thuyết pháp của Đức Phật và lớn tiếng tuyên bố về tội ác đã gây ra cho cô. Đức Phật, theo đó, đã chỉ ra sự ngu ngốc của việc làm ác với hy vọng rằng nó sẽ không bị phát hiện. Chúng ta được kể rằng cả người phụ nữ và chồng cô ấy đều trở thành *Sotāpanna* vào cuối bài thuyết pháp. Cô hầu gái đã được trả tự do (Dhp­a.iii.486-7).
 
 ## Notes

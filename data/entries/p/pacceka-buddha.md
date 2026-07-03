@@ -5,7 +5,7 @@ base_headword: "Pacceka Buddha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -57,6 +57,16 @@ Among the teachings preserved of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacceka Buddha, các Pacceka Buddha. Tên gọi được ban cho một người được giác ngộ bởi chính mình và vì chính mình – nghĩa là, người đã đạt đến sự thấu suốt vô thượng và hoàn hảo, nhưng đã qua đời mà không tuyên xưng chân lý đó cho thế giới – do đó có từ tương đương "Silent Buddha" (Đức Phật tĩnh lặng) đôi khi được tìm thấy trong các bản dịch. Các Pacceka Buddha thực hành các *pāramī* của mình trong ít nhất hai ngàn *asaṅkheyya kappa*. Họ được sinh ra trong bất kỳ *kula* nào trong ba *kula*: *Brāhmaṇa*, *Khattiya*, hoặc *gahapati* chỉ trong một *vivaṭṭamānakappa*, thời kỳ mà các Đức Phật cũng được sinh ra, nhưng họ không bao giờ gặp một Đức Phật trực tiếp. Họ không thể hướng dẫn người khác; sự liễu ngộ của họ về Pháp "giống như một giấc mơ được nhìn thấy bởi một người vừa điếc vừa câm." Họ đạt được tất cả các *iddhi*, *samāpatti* và *paṭisambhidā* của các Đức Phật, nhưng đứng thứ hai sau các Đức Phật trong sự phát triển tâm linh của họ. Họ có làm lễ xuất gia cho những người khác; những lời răn dạy của họ chỉ đề cập đến hành vi tốt đẹp và đúng đắn (*abhisamācārikasikkhā*).
+
+Đôi khi có tuyên bố rằng kiến thức và sự thấu hiểu của một Pacceka Buddha về các phương pháp và phương tiện thì ít hơn so với một Bodhisatta (vd., tại Ja.iv.341). Họ cử hành *uposatha* của mình ở Ratanamālaka, dưới chân cây Mañjūsarukkha ở Gandhamādana. Một người có khả năng trở thành một Pacceka Buddha trong khi vẫn còn là một cư sĩ, nhưng trong trường hợp này, các dấu hiệu của một người cư sĩ sẽ biến mất ngay lập tức. Ba hang động ở Nandamūlapabbhāra – Suvaṇṇaguhā, Maṇiguhā và Rajataguhā – là nơi cư trú của các Pacceka Buddha. Xung quanh Ratanamālaka, *q.v.* (hoặc Sabbaratanamālaka), các chỗ ngồi luôn sẵn sàng để tiếp đón các Pacceka Buddha. Khi một Pacceka Buddha xuất hiện trên thế giới, vị ấy lập tức tìm đến Ratanamālaka, và ngồi vào vị trí đã được chỉ định của mình tại đó. Sau đó, tất cả các Pacceka Buddha khác trên thế giới tập hợp tại đó để gặp ngài, và để trả lời một câu hỏi của người đứng đầu trong số họ, ngài kể lại những hoàn cảnh đã dẫn đến sự giác ngộ của mình. Tương tự như vậy, tất cả các Pacceka Buddha tập hợp tại cùng một địa điểm khi một trong số họ sắp qua đời. Vị đang hấp hối từ biệt những người khác, và sau cái chết của vị ấy, họ hỏa táng cơ thể ngài và các xá-lợi của ngài biến mất. Những chi tiết này được đưa ra trong Snp­a.i.47, 51, 58, 63; Khp­a.178, 199; Ap­a.i.125; xem thêm Gandhamādana.
+
+Nhưng, theo một ghi chép khác, họ chết trên ngọn núi có tên là Mahā Papāta (*q.v.*). Dường như không có bất kỳ giới hạn nào về số lượng Pacceka Buddha có thể xuất hiện đồng thời. Trong một ví dụ, năm trăm vị được đề cập là đang làm như vậy, tất cả đều là con trai của Padumavatī (*q.v.*), đứng đầu trong số họ là Mahā Paduma. Trong Isigilisutta (MN.iii.68ff) xuất hiện một danh sách dài các Pacceka Buddha đã cư trú trên Núi Isigili (*q.v.*), và ngọn núi đã được đặt theo tên của họ.
+
+Theo Buddhaghosa (MN­a.ii.889ff), các tên trong danh sách này thuộc về năm trăm người con trai của Padumavatī, nhưng số lượng tên thì ít hơn rất nhiều so với năm trăm. Sự khác biệt này được giải thích bằng cách nói rằng có đến mười hai người mang cùng một tên. Những cái tên khác được tìm thấy rải rác trong các văn bản khác nhau, chẳng hạn như Chú giải Jātaka, vd., Darīmukha (Ja.iii.240), Soṇaka (v.249); xem thêm Chú giải Dhammapada Dhp-a.iv.120, v.v.
+
+Cái tên xuất hiện thường xuyên nhất trong các văn bản là Tagarasikhī (*q.v.*). Cũng có sự đề cập đến việc các Pacceka Buddha đi vào giữa loài người để khất thực và trải qua mùa an cư trong những chỗ ở do con người cung cấp, vd., Dhp­a.ii.112f.; iii.91, 368; iv.200. Lời nguyện (*patthanā*) của họ (Snp­a.51). Trí huệ của họ kém hơn so với một Bodhisatta (Ja.iv.341).
+
+Trong số những giáo lý được bảo tồn của các Pacceka Buddha, quan trọng nhất là Khaggavisāṇasutta (*q.v.*). Để biết định nghĩa về một Pacceka Buddha, xem Puggalapaññatti (p.14; so sánh với p.70). Tại đó, ngài được mô tả là một người thấu hiểu Chân lý bằng nỗ lực của chính mình, nhưng không đạt được sự toàn tri hay sự làm chủ đối với các quả vị (*phalesu vasībhāvaṁ*). Xem thêm Mātaṅga (2).
 
 ## Notes

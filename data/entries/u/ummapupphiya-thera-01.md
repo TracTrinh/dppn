@@ -5,7 +5,7 @@ base_headword: "Ummāpupphiya Thera"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -29,6 +29,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummāpupphiya Thera 01. Một *Arahant*. Trong một kiếp quá khứ khi một lễ hội đang được tổ chức để tôn vinh *Thūpa* được dựng lên trên những xá-lợi của Siddhattha Buddha, ngài đã đặt một bông hoa *ummā* lên *Thūpa*. Chín *kappa* trước, ngài đã trở thành vua tám mươi lăm lần dưới cái tên là Somadeva (Ap.i.172).
+
+Ngài có lẽ được đồng nhất với Cakkhupāla Thera. Xem Thag­a.i.196.
 
 ## Notes

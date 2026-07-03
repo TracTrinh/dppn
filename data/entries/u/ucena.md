@@ -5,7 +5,7 @@ base_headword: "Ūcena"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một quận ở Nam Ấn Độ, từ nơi mà những binh lính đã đến để chống lại các lực lượng của vị tướng quân Laṅkāpura. Ông đã khuất phục họ. Cv.lxxvi.247, 260.
 
 ## Notes

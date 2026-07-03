@@ -5,7 +5,7 @@ base_headword: "Gulissāni"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gulissāni. A monk living in the wilds, who once came on some business to see th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gulissāni. Một vị tỳ-kheo sống ở nơi hoang dã, người từng đến để gặp các tỳ-kheo tại Kalandakanivāpa vì một số công việc. Chính vì vị này mà Gulissānisutta đã được thuyết giảng. MN.i.469.
 
 ## Notes

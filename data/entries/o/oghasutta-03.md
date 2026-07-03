@@ -5,7 +5,7 @@ base_headword: "Oghasutta"
 disambiguator: "03"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Oghasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghasutta 03. Sāriputta giải thích bốn bộc lưu cho Sāmaṇḍaka. SN.iv.261f.
 
 ## Notes

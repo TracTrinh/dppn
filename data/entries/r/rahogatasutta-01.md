@@ -5,7 +5,7 @@ base_headword: "Rahogatasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rahogatasutta 01. While in solitude a monk thinks of the three kinds of feelings
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahogatasutta 01. Trong khi ở nơi thanh vắng, một vị tỳ-kheo suy nghĩ về ba loại cảm thọ, và, khi đến thăm Đức Phật, đã đặt câu hỏi cho Ngài. Đức Phật nói với vị ấy rằng tuyên bố, “Bất cứ điều gì được cảm thọ đều gắn liền với *dukkha*” được đưa ra liên quan đến sự vô thường của các pháp hữu vi. Sự chấm dứt của các hoạt động là dần dần, việc làm chủ chúng cũng vậy. SN.iv.216f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ummadantījātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -30,6 +30,10 @@ The tale of a maiden who made all who saw her mad, and of the love-smitten monar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummadantījātaka (Ja 527). Câu chuyện của Ummadantī. Câu chuyện được kể lại liên quan đến một vị sư thối thất người mà, sau khi nhìn thấy một người phụ nữ rất xinh đẹp khi ngài đang đi khất thực ở Sāvatthī, đã buông mình trong sự tuyệt vọng và phải được dẫn đến gặp Đức Phật để được khiển trách (Ja.v.209ff).
+
+Câu chuyện này cũng được tìm thấy, với một số biến thể nhỏ, trong *Jātakamālā* dưới tiêu đề *Ummādayantījātaka* (Ja xiii).
+
+Câu chuyện về một thiếu nữ đã làm cho tất cả những ai nhìn thấy nàng phải điên cuồng, và về vị quốc vương si tình, người thà bước đi trên con đường chân chính và thậm chí tự mình đối mặt với cái chết thay vì đắm chìm trong dục vọng, cũng được tìm thấy trong *Kathāsaritsāgara*, ví dụ, ở các *taraṅga* thứ 15, 23 và 91.
 
 ## Notes

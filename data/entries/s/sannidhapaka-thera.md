@@ -5,7 +5,7 @@ base_headword: "Sannidhāpaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sannidhāpaka Thera. An *Arahant*. He had been a householder, and later an ascet
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sannidhāpaka Thera. Một vị *Arahant*. Ông từng là một gia chủ, và sau đó là một tu sĩ khổ hạnh vào thời của Padumuttara Buddha. Ông đã dâng cho Đức Phật một quả bầu (*āmaṇḍa*) và nước để uống. Bốn mươi mốt *kappa* trước, ông là một vị vua tên là Arindama. Ap.i.97.
 
 ## Notes

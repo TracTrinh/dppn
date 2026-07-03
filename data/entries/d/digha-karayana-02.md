@@ -5,7 +5,7 @@ base_headword: "Dīgha Kārāyaṇa"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dīgha Kārāyaṇa 02. A minister of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgha Kārāyaṇa 02. Một vị đại thần của Bhātiya (Bhātikābhaya?). Ông là một người Bà-la-môn rất uyên bác và được nhà vua bổ nhiệm để giải quyết một cuộc tranh chấp giữa những người trú ngụ tại Mahā Vihāra và Abhayagiri, liên quan đến lời buộc tội nhắm vào Dabba Mallaputta bởi vị tỳ-kheo-ni Mettiyā. Ông đã phân xử có lợi cho những người trú ngụ tại Mahā Vihāra (Vin-a.iii.583).
 
 ## Notes

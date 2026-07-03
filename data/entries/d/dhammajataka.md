@@ -5,7 +5,7 @@ base_headword: "Dhammajātaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammajātaka (Ja 457). The Bodhisatta once became a *Kāmāvacara*-god, named D
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammajātaka (Ja 457). Bodhisatta có lần được sinh làm một thiên nhân cõi *Kāmāvacara*, tên là Dhamma (Pháp), và Devadatta trở thành *Adhamma* (phi Pháp). Vào những ngày *uposatha*, Dhamma sẽ xuất hiện giữa con người và kêu gọi họ sống cuộc đời đức hạnh, trong khi *Adhamma* xúi giục họ làm những điều độc ác. Một ngày nọ, hai cỗ xe ngựa của họ chạm mặt giữa hư không, mỗi người đều đòi quyền đi trước. Nhưng vào cuối cuộc tranh cãi, cỗ xe ngựa của *Adhamma* đã rơi thẳng xuống đất, nơi ông bị nuốt chửng vào địa ngục. Câu chuyện được kể liên quan đến việc Devadatta bị nuốt chửng vào địa ngục Avīci. Ja.iv.100-4.
 
 ## Notes

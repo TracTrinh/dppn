@@ -5,7 +5,7 @@ base_headword: "Sandaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sandaka. A *Paribbājaka*. See the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandaka. Một *Paribbājaka*. Xem Sandakasutta.
 
 ## Notes

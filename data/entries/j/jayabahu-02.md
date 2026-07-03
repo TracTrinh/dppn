@@ -5,7 +5,7 @@ base_headword: "Jayabāhu"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jayabāhu 02. A Tamil usurper who, with <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayabāhu 02. Một kẻ cướp ngôi người Tamil, người cùng với Māgha, dường như đã chiếm giữ khu vực phía bắc của Tích Lan và thủ đô tại Pulatthipura trong nhiều năm, cả trước và trong thời gian trị vì của Parakkamabāhu II. Cv.lxxxii.87; lxxxiii.15ff.
 
 ## Notes

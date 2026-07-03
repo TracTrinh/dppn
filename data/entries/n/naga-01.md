@@ -5,7 +5,7 @@ base_headword: "Nāga"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāga 01. An eminent Thera of Ceylon, a teacher of the Vinaya. Vin.v.3.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāga 01. Một Trưởng lão lỗi lạc của Tích Lan, một bậc thầy về Vinaya. Vin.v.3.
 
 ## Notes

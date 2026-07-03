@@ -5,7 +5,7 @@ base_headword: "Dhātaraṭṭhā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhātaraṭṭhā. A tribe of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātaraṭṭhā. Một bộ tộc Nāga, những người đi theo Dhātaraṭṭha. Ja.vi.219.
 
 ## Notes

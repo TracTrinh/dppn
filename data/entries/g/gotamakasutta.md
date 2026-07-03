@@ -5,7 +5,7 @@ base_headword: "Gotamakasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -28,6 +28,8 @@ It is said that at this pronouncement the thousand-fold universe trembled (Also 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamakasutta. Bài kinh được thuyết giảng cho các tỳ-kheo tại Gotamakacetiya. Đức Phật tuyên bố rằng việc Ngài công bố một Pháp là với sự liễu tri trọn vẹn, với sự liên hệ nhân duyên (*sanidānaṁ*), và đi kèm với các phép mầu. Những lời chỉ dạy của Ngài đều có căn nguyên (AN.i.276f).
+
+Người ta nói rằng khi nghe lời tuyên bố này, một ngàn thế giới đã rung chuyển (Cũng xem DN­a.i.130; Ja.ii.259). Majjhima Commentary (i.49) ghi rằng *Sutta* này được thuyết cho các tỳ-kheo được nhắc đến trong Mūlapariyāyasutta, và rằng, khi kết thúc, họ đã trở thành các Arahant.
 
 ## Notes

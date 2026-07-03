@@ -5,7 +5,7 @@ base_headword: "Sasajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -41,6 +41,12 @@ The story is included in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sasajātaka, Sasapaṇḍitajātaka (Ja 316). Bodhisatta từng sinh ra làm một con thỏ rừng. Ngài sống cùng ba người bạn: một con khỉ, một con chó rừng, và một con rái cá. Cả ba sống trong tình bạn thân thiết, và Thỏ là người hướng dẫn chúng trong cuộc sống tốt đẹp. Một ngày nọ, Thỏ, nhận thấy trăng rằm đang đến gần, đã nói với các bạn của mình rằng ngày hôm sau sẽ là một ngày trai giới và chúng phải thu thập thức ăn và chia sẻ cho bất kỳ người ăn xin nào đến gần chúng. Tất cả các con vật đều ra ngoài rất sớm vào buổi sáng, từng con một; Rái cá tìm thấy một ít cá bị chôn vùi trong cát; Chó rừng tìm thấy một con thằn lằn chết, một ít thịt, và một hũ sữa đông; và Khỉ tìm thấy một ít trái cây; và, thấy không có ai xuất hiện để nhận thức ăn, mỗi con mang chúng về chỗ ở riêng của mình. Thỏ chỉ có cỏ *kusa*, thứ mà ngài không thể cúng dường cho bất kỳ ai. Do đó, ngài quyết định bố thí chính cơ thể mình, và, vì quyết định dũng cảm này, ngai vàng của Sakka đã nóng lên. Cải trang thành một vị Bà-la-môn, vị ấy đến để thử thách Thỏ. Đầu tiên, vị ấy đến gặp những con vật khác theo lượt và tất cả chúng đều cúng dường vị ấy những gì chúng có. Sau đó, vị ấy đến gần Thỏ, xin ngài thức ăn. Thỏ bảo vị ấy đi nhặt cành cây khô từ trong rừng và nhóm một ngọn lửa. Sau đó, nói với vị Bà-la-môn rằng ngài sẽ bố thí cho vị ấy chính cơ thể mình, mà không cần vị Bà-la-môn phải giết ngài, ngài rũ sạch bất kỳ con vật nhỏ nào có thể đang ẩn nấp trong bộ lông của ngài, và sau đó nhảy vào đống lửa như nhảy vào một khóm sen. Nhờ oai lực của Sakka, ngọn lửa vẫn mát mẻ như tuyết, và Sakka đã tiết lộ danh tính của mình. Sau đó, để sự cao thượng của Thỏ có thể được cả thế gian biết đến, vị ấy lấy một ít tinh túy của Himālaya và vẽ hình một con thỏ trên mặt trăng, để lưu lại ở đó trong suốt toàn bộ *kappa* này. Sau khi làm xong việc này, vị ấy đến gặp Thỏ và trò chuyện về Pháp, và sau đó, cho Thỏ nằm xuống trên chiếc giường cỏ của ngài, Sakka trở về cõi trời của mình.
+
+Câu chuyện này được kể lại trong lúc nói lời tạ ơn đến một điền chủ ở Sāvatthī, người đã thiết đãi Đức Phật và các tỳ-kheo của Ngài trong bảy ngày.
+
+Ānanda được đồng nhất với Rái cá, Moggallāna với Chó rừng, và Sāriputta với Khỉ (Ja.iii.51-6).
+
+Câu chuyện này được đưa vào Cariyāpiṭaka (i.10) và trong *Jātakamālā* (Số 6). Nó cũng được tham chiếu trong Jayaddisajātaka (Ja 513, Ja.v.33). *Jātaka* này minh họa việc thực hành hạnh *dānapāramitā* (bố thí ba-la-mật). Bv­a.50.
 
 ## Notes

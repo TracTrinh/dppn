@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammapāla 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 06. Dhammapāla Kumāra. Con trai của Vidhurapaṇḍita (*q.v.*). Vị này được nhận diện là Rāhula. Ja.vi.290, 300, 329.
 
 ## Notes

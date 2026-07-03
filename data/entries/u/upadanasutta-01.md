@@ -5,7 +5,7 @@ base_headword: "Upādānasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,8 @@ It is like a fire with many loads of faggots, constantly supplied with fuel. SN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādānasutta 01. Sự thụ hưởng mang lại sự khát ái, sự chấp thủ, sự trở thành, sự sinh, v.v., và, đến lượt nó, toàn bộ khối khổ đau.
+
+Nó giống như một ngọn lửa với nhiều bó củi, liên tục được cung cấp nhiên liệu. SN.ii.84f.
 
 ## Notes

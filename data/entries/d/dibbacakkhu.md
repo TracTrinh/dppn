@@ -5,7 +5,7 @@ base_headword: "Dibbacakkhu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dibbacakkhu. A false ascetic, a previous birth of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dibbacakkhu. Một vị ngụy sa-môn, một tiền kiếp của Devadatta. Về câu chuyện của ông, xem *Somanassajātaka* (Ja 505).
 
 ## Notes

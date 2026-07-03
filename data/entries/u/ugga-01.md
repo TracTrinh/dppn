@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Ugga 01. A banker in the time of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị trưởng giả vào thời của Koṇāgamana Buddha; ngài là một trong những vị cư sĩ hộ độ tối thắng của Đức Phật và đã xây cho ngài một nơi cư trú, có diện tích rộng nửa do-tuần, trên địa điểm của Jetavana sau này. Ja.i.94; Bv.xxiv.24.
 
 ## Notes

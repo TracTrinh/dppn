@@ -5,7 +5,7 @@ base_headword: "Indasamānagotta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -35,6 +35,10 @@ Perhaps the man’s name was <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indasamānagotta. Một tu sĩ khổ hạnh từng sống cùng với rất đông những vị tu sĩ ẩn dật khác ở Himālaya. Ông có một con voi con mà ông đã nuôi dưỡng; vốn là người cứng đầu và thô lỗ trong lời nói, ông đã không nghe theo lời cảnh báo của thầy mình là Bodhisatta, rằng thật nguy hiểm khi nuôi một thú cưng như vậy. Có lần, khi các tu sĩ khổ hạnh đi vắng, con voi lên cơn điên cuồng, và khi chủ của nó trở về, nó đã giết ông (Ja.ii.41-3).
+
+Có lẽ tên của người đàn ông này là Kosiya, bởi vì chúng ta được kể (Ja.vi.501) rằng Inda thuộc thị tộc Kosiyagotta.
+
+Kātiyāna, một Bà-la-môn thuộc thị tộc Kosiyagotta (Thag­a.i.450), được gọi trong một bài kệ (416) của Theragāthā là Indasagotta.
 
 ## Notes

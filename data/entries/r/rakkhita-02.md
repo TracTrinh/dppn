@@ -5,7 +5,7 @@ base_headword: "Rakkhita"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rakkhita 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhita 02. Rakkhita Thera. Ông được cử đến vùng Vanavāsa để cải đạo xứ này vào cuối kỳ Kết tập thứ ba. Lơ lửng trên không trung giữa đám đông, ông thuyết giảng Anamataggasaṁyutta. Sáu mươi ngàn người đã theo tôn giáo mới và ba mươi bảy ngàn người gia nhập Tăng đoàn, năm trăm vihāra được thành lập. Mhv.xii.4, 31ff.; Dpv.viii.7; Vin-a.i.63, 66.
 
 ## Notes

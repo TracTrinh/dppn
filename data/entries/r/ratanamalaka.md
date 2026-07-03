@@ -5,7 +5,7 @@ base_headword: "Ratanamālaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ratanamālaka. A platform in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanamālaka. Một nền đất ở Gandhamādana, dưới gốc cây Mañjūsa, nơi các Pacceka Buddha tụ họp vào những dịp đặc biệt như *uposatha* (Snp­a.i.52). Dường như nó cũng được gọi là *Sabbaratnamāla*, vd., Snp­a.i.66.
 
 ## Notes

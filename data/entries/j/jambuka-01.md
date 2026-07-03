@@ -5,7 +5,7 @@ base_headword: "Jambuka"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -40,6 +40,12 @@ It is said (Mil.350; AN­a.i.57) that when the Buddha preached to <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambuka 01. Jambuka Thera. Ngài sinh ra ở Rājagaha trong gia đình cha mẹ giàu có nhưng từ thuở sơ sinh ngài không chịu ăn gì ngoài phân. Khi lớn lên ngài được thọ giới cùng với các tu sĩ ngoại đạo Ājīvaka, những người đã nhổ tóc ngài bằng một chiếc lược làm bằng gỗ thốt nốt. Khi những người Ājīvaka phát hiện ra ngài ăn đồ uế tạp, họ đã đuổi ngài đi và ngài sống như một đạo sĩ lõa thể, thực hành mọi loại khổ hạnh và không nhận đồ cúng dường nào ngoại trừ bơ và mật ong được đặt trên đầu lưỡi bằng đầu một ngọn cỏ. Danh tiếng của ngài vang xa. Khi ngài năm mươi lăm tuổi, Đức Phật đã đến viếng thăm ngài và trải qua đêm trong một hang động gần nơi ở của ngài. Trong đêm đó, Jambuka nhìn thấy những vị thần hùng mạnh đến đảnh lễ Đức Phật và ngài đã vô cùng ấn tượng đến nỗi ngày hôm sau ngài đã tìm đến lời khuyên của Đức Phật. Đức Phật nói cho ngài nghe về những ác nghiệp trong quá khứ đã kết án ngài phải thực hành khổ hạnh trong một thời gian dài như vậy và khuyên ngài nên từ bỏ những ác đạo của mình. Trong suốt bài thuyết pháp, Jambuka ngày càng cảm thấy xấu hổ về sự lõa thể của mình và Đức Phật đã đưa cho ngài một mảnh y tắm. Vào lúc kết thúc bài pháp, Jambuka đã trở thành một vị *Arahant*, và khi những người dân của Aṅga và Magadha đến gặp ngài mang theo những món đồ cúng dường của họ, ngài đã thi triển một phép thần thông trước mặt họ và đảnh lễ Đức Phật, thừa nhận ngài là bậc đạo sư của mình.
+
+Vào thời Kassapa Buddha, Jambuka là một tỳ-kheo và có một người cư sĩ hộ độ lo liệu cho ngài. Một ngày nọ, một tỳ-kheo mộ đạo đã đến *vihāra* của ngài, và người cư sĩ kia, do hài lòng với vị này, đã dành cho vị này nhiều sự quan tâm. Tỳ-kheo cư trú ở đó, rất đỗi ghen tị, đã chửi bới người khách, nói rằng: "Thà ông ăn phân còn hơn là ăn thức ăn trong nhà của người cư sĩ này, thà nhổ tóc bằng lược thốt nốt còn hơn là để thợ cạo của ông ấy cắt tóc cho ông, thà đi lại trần truồng còn hơn là mặc y do ông ấy cúng dường, thà nằm trên đất còn hơn là nằm trên chiếc giường do ông ấy cung cấp". Vị Trưởng lão kia, không muốn trở thành nguyên nhân khiến ngài phạm tội, đã rời bỏ tu viện vào ngày hôm sau. Bởi vì hành động này, những thiền định do Jambuka thực hành trong suốt hai mươi ngàn năm đã không mang lại kết quả gì, và ngài đã bị tái sinh vào Avīci, nơi ngài phải chịu đựng những sự tra tấn trong khoảng thời gian giữa hai vị Phật. Trong kiếp sống cuối cùng này, ngài cũng bị kết án phải chịu khổ bằng nhiều cách, như đã được thuật lại ở trên (Dhp­a.ii.52-63; Thag.283-6; Thag­a.i.386f).
+
+Vào thời Tissa Buddha ngài là một gia chủ và đã thực hiện những việc cúng dường tại cây bodhi của Đức Phật, dùng một chiếc quạt để quạt cho chỗ ngồi của Đức Phật. Ngài có lẽ cũng chính là Sīhāsanavījanīya của Apadāna (Ap.ii.403).
+
+Có nói (Mil.350; AN­a.i.57) rằng khi Đức Phật thuyết pháp cho Jambuka, tám mươi tư ngàn người khác đã chứng ngộ Chân lý.
 
 ## Notes

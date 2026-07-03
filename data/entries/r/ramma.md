@@ -5,7 +5,7 @@ base_headword: "Rammā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rammā. One of the chief lay women supporters of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rammā. Một trong những nữ thí chủ chính ủng hộ Siddhattha Buddha. Bv.xvii.20.
 
 ## Notes

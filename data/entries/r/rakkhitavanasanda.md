@@ -5,7 +5,7 @@ base_headword: "Rakkhitavanasaṇḍa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,8 @@ It is said (Dhp­a.i.49), that the place derived its name from the fact that <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhitavanasaṇḍa. Một khu rừng gần làng Pārileyya. Nơi đó Đức Phật đã rút lui và sống dưới gốc cây Bhaddasāla, khi ngài không thể dàn xếp cuộc tranh chấp giữa các tỳ-kheo ở Kosambī. Con voi Pārileyya đã sống ở đó và hầu hạ Đức Phật (Vin.i.352f.; Ud.iv.5; Dhp­a.i.47; iv. 26; Ud­a.250).
+
+Người ta nói (Dhp­a.i.49) rằng nơi này có tên như vậy từ sự việc Pārileyya chăm sóc Đức Phật, canh gác ngài suốt đêm, đi lang thang quanh rừng cho đến bình minh, với một cây gậy trên vòi, để xua đuổi nguy hiểm.
 
 ## Notes

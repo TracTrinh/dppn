@@ -5,7 +5,7 @@ base_headword: "Ñāṇagambhīra"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇagambhīra. Một tỳ-kheo ở Pagan, tác giả của Tathāgatuppatti. Bode: *op.cit.*, 16.
 
 ## Notes

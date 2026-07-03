@@ -5,7 +5,7 @@ base_headword: "Inda"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -86,6 +86,32 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="53" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Inda 02. Từ Pāli tương đương với thần Indra của Vệ-đà. Vị thần này rất hiếm khi được nhắc đến trong các *Nikāya*. Trong một đoạn như vậy (DN.i.244-5), ông được đề cập cùng với Soma, Varuṇa, Isāna, Pajāpatī, Brahma, Mahiddhi và Yāma, như là một vị thần mà các Bà-la-môn kêu cầu và cầu nguyện, để được hợp nhất với *Brahma* sau khi chết. Ở một nơi khác, ông được mô tả là đang ngồi trong hội chúng của Pajāpatī và các vị thần khác tại Hội trường tên là Sudhamma. Hai người bạn đồng hành của ông, sau khi nghe lời khuyên giảng của Gopaka, đã trở thành đệ tử của Đức Phật và, kết quả là, đã vượt xa về vinh quang so với Inda và người bạn đồng hành khác của ông là các Deva. Trong cùng ngữ cảnh đó, Vāsava, thủ lĩnh của các vị thần, được đồng nhất với Sakka, được Gopaka gọi là “Indra.” (Sđd., ii.274; trong MN.i.140; Ja.v.411 và vi.568, ông được nhắc đến cùng với Brahma và Pajāpatī; trong Ja.iv.568, 571 có một danh sách trong đó Inda xuất hiện cùng với Brahma, Pajāpatī, Soma, Yama và Vessavaṇa).
+
+Đến thời kỳ biên soạn các *Nikāya*, sức ảnh hưởng của vị thần Vệ-đà Indra trong tâm trí người dân dường như đã suy yếu đi rất nhiều và Indra đã được hợp nhất vào Sakka, mặc dù, nói một cách chính xác, Indra và Sakka là những khái niệm hoàn toàn khác nhau (xem Sakka).
+
+Tuy nhiên, trong các tài liệu muộn hơn, đặc biệt là trong Chú giải Jātaka, tên của Indra xuất hiện thường xuyên, nhưng luôn được đồng nhất hoặc có thể được đồng nhất với Sakka. Ít nhất là ở một nơi (Ja.v.115), nhà chú giải nói rằng, “*Sakko ti Indo*.”
+
+Chẳng hạn, trong Ayakūṭajātaka (Ja 347, Ja.iii.146), Indra được gọi là vua của các vị thần (*devārājā*) trong một bài kệ, và trong bài kệ tiếp theo, ông được đồng nhất với Maghavā, chồng của Sujā, và được mô tả là “*devānaṁ indo*.” Indra là vị thần được tôn kính nhất (Sn.vs.316). Ông thoát khỏi tuổi già và cái chết, và do đó, là kiểu vị vua hạnh phúc nhất (Sn.vs.515), một trạng thái có thể đạt được bằng sự hiến tế (Sn.vs.517). Đơn thương độc mã ông đã chinh phục các Asura (Ja.iv.347; do đó ông được gọi là *Asurinda* và *Asurādhipa*; xem Asura). Ông được nói đến như là chúa tể của những người chiến thắng (*jayataṁ pati*, Ja.v.322), và ông là hiện thân của lòng dũng cảm lớn lao nhất (Mhv.xxx.10).
+
+Đôi khi ông xuống trần gian trong hình dạng cải trang (Ja.v.33). Ông cũng được mô tả là người trừng phạt những kẻ phạm tội ác tày trời; ông trừng phạt họ bằng tia sét của mình (Dhp­a.iv.105).
+
+Khung cảnh những thú vui của ông là ở trong công viên Nandana (Ja.v.158), và sự tận hưởng lạc thú của ông là lý tưởng, được vây quanh bởi những người bạn (Ja.v.506; Sn.vs.679) và bởi những người vợ sùng bái (Ja.vi.240). Các vị thần của Tāvatiṁsa được gọi là Indapurohitā, bởi vì, với Inda làm vị thủ lĩnh của họ, họ tìm cách thúc đẩy phúc lợi cho các vị thần và loài người (Ja.vi.127; các vị thần Tāvatiṁsa cũng được mô tả là *Sa-Indakā*, sđd., 568).
+
+Inda được gọi là Tidivapuravara và Suravaratara (DN.iii.176). Thủ đô của ông là Masakkasāra (Ja.vi.271; nhưng xem Amarāvatī).
+
+Trong nghi lễ hiến tế, chồi *palāsayaṭṭhi* (chồi cây Butea), được vị tu sĩ hiến tế sử dụng, được mô tả là bàn tay phải của Indra (Ja.vi.212).
+
+*Gotta*, hay thị tộc, của Indra là Kosiya (Ja.vi.501); ông được gọi là Vatrabhū liên quan đến chiến thắng của ông trước Vatra (Skt. Vṛtra, Ja.v.153), và người ta cũng đề cập đến tia sét của ông, Indavajira (Ja.i.354); vì vậy ông được gọi là Vajirahattha (DN.ii.259; DN­a.ii.689). Âm thanh từ tia sét của Indra giáng xuống nạn nhân vượt trội hơn tất cả các âm thanh khác bởi cường độ, âm lượng và sự đáng sợ của nó (Ud­a.67); không có sự cản trở nào có thể ngăn cản bước tiến Vajira của Indra và nó không bao giờ trượt mục tiêu; nó là *avirajjhanaka* (Vibh­a.333).
+
+Sau chiến thắng của ông trước các Asura, các bức tượng của ông đã được tạo ra (*Indapaṭimā*) và đặt xung quanh Cittakūṭa để làm cho các Asura sợ hãi tránh xa, trong trường hợp chúng cố gắng giành lại danh dự đã mất (Ja.vi.125-6; xem thêm Ja.i.203-4; Dhp­a.i.280).
+
+Được sinh ra trong hội chúng của Indra (*Indasahavyatā*) được coi là rất may mắn (vd., Ja.v.411).
+
+Một loài côn trùng màu đỏ san hô (*kimi*), dễ thấy sau cơn mưa, được gọi là *Indagopakā*. Lý do cho cái tên này không rõ ràng (xem *Brethren*, 18n., và PTS PED).
+
+Chú giải Udāna (p.75, n.12) dường như đưa ra Viḍojā như một danh xưng của Indra; nhưng đây có lẽ là một cách đọc sai, cách đọc đúng là, như trong một số bản thảo, “*Visam-ucchājapaṁ japanti*.”
+
+Inda là một vị bảo hộ đặc biệt của loài bò, và khi con người bắt đầu giết những sinh vật này, ông đã trút cơn thịnh nộ của mình lên họ. Sn.vs.310.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhanuvillaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhanuvillaka. A locality in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanuvillaka. Một địa phương ở quận Malaya của Tích Lan. Cv.lxx.15.
 
 ## Notes

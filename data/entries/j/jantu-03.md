@@ -5,7 +5,7 @@ base_headword: "Jantu"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,8 @@ The *Mahā Vastu* (i.348) calls Jantu, Jentā, and his mother Jentī. He reigned
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jantu 03. Con trai của vị Okkāka thứ ba, với một người phụ nữ được ông phong làm vương hậu chính của mình khi người vợ đầu tiên của ông là Hatthā qua đời. Người phụ nữ này đã được hứa ban cho một ân huệ và bà đã yêu cầu con trai mình là Jantu được chỉ định làm người kế vị Okkāka, được ưu tiên hơn những người con khác của ông. Ban đầu Okkāka đã từ chối nhưng bị buộc phải nhượng bộ. Những người con trai và con gái khác của ông sau đó đã rời khỏi vương quốc và trở thành những người sáng lập ra bộ tộc Sākiyan (DN­a.258f; Snp­a.i.352f; Mhv­ṭ.131).
+
+Mahā Vastu (i.348) gọi Jantu là Jentā, và mẹ của vị này là Jentī. Vị này đã trị vì ở Sāketa.
 
 ## Notes

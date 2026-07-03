@@ -5,7 +5,7 @@ base_headword: "Ullapanagāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Ullapanagāma. A village where there was a bridge of thirty cubits, built over t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ullapanagāma. Một ngôi làng nơi có một cây cầu dài ba mươi cubit, được xây dựng qua sông Mahā Vālukagaṅga bởi Devappatirāja (Cv.lxxxvi.23). Ngôi làng được đồng nhất với Ulapane ngày nay, cách Gampola bốn dặm (Cv.Trs.ii.173, chú thích 3).
 
 ## Notes

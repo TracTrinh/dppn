@@ -5,7 +5,7 @@ base_headword: "Upakañcana"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upakañcana. A Brahmin, brother of the Bodhisatta <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakañcana. Một Bà-la-môn, anh/em trai của Bodhisatta Mahā Kañcana. Câu chuyện của họ được kể lại trong Bhisajātaka (Ja 488). Ja.iv.305ff.
 
 ## Notes

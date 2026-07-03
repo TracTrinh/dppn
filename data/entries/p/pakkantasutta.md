@@ -5,7 +5,7 @@ base_headword: "Pakkantasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pakkantasutta. The Buddha addresses the monks at <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pakkantasutta. Đức Phật nói với các tỳ-kheo tại Gijjhakūṭa, ngay sau khi Devadatta tách khỏi Tăng đoàn, và bảo họ rằng lợi lộc của Devadatta chính là sự hủy diệt của ông ta, giống như sự trổ hoa của cây chuối, cây tre và cây sậy. SN.ii.241.
 
 ## Notes

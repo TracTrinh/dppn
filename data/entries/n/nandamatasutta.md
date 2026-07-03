@@ -5,7 +5,7 @@ base_headword: "Nandamātāsutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandamātāsutta. Gives the story of the encounter between <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandamātāsutta. Kể câu chuyện về cuộc gặp gỡ giữa Veḷukaṇṭakī Nandamātā (*q.v.*) và Vessavaṇa. AN.iv.63ff.
 
 ## Notes

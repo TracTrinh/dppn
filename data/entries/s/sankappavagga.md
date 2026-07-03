@@ -5,7 +5,7 @@ base_headword: "Saṅkappavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkappavagga. The first chapter of the *Tikanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkappavagga. Chương đầu tiên của *Tikanipāta* (Chương ba pháp) của Chú giải Jātaka Ja.ii.271-321.
 
 ## Notes

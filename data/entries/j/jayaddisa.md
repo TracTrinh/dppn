@@ -5,7 +5,7 @@ base_headword: "Jayaddisa"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jayaddisa. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayaddisa. Vua của Kampilla và là cha của Alīnasattu. Xem Jayaddisajātaka (Ja 513).
 
 ## Notes

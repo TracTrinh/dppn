@@ -5,7 +5,7 @@ base_headword: "Sandeha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sandeha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandeha, Sandeva. Một Trưởng lão trong dòng truyền thừa trực tiếp tại Jambudīpa, thuộc các đạo sư của Abhidhamma. Dhs-a., p. 32.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgita Thera"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgita Thera 02. For some time the personal attendant of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgita Thera 02. Trong một thời gian ngài là thị giả cá nhân của Đức Phật Gotama (DN.i.151; DN­a.i.310; AN.iii.31, 341; iv.341; Ja.iv.95, v.v.). Ngài là cậu của sa-di Sīha, người được cho là đã gọi ngài bằng cái tên Kassapa, tên *gotta* của ngài. Ngài mập mạp và, do đó, lười biếng; ngài để hầu hết công việc của mình cho Sīha làm.
 
 ## Notes

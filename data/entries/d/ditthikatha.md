@@ -5,7 +5,7 @@ base_headword: "Diṭṭhikathā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Diṭṭhikathā. Second chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Diṭṭhikathā*. Chương thứ hai của Mahā Vagga thuộc Paṭisambhidāmagga. Paṭis.i.135-62.
 
 ## Notes

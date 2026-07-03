@@ -5,7 +5,7 @@ base_headword: "Janapadakaḷyānīsutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Janapadakaḷyānīsutta 02. Not even a *janapadakaḷyānī* (a city belle) can
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janapadakaḷyānīsutta 02. Thậm chí một *janapadakaḷyānī* (một trang tuyệt sắc giai nhân trong xứ) cũng không thể liên tục chiếm hữu trái tim của một người đàn ông có tâm trí đã bị thu phục bởi những lợi lộc, ân sủng và những lời xu nịnh. SN.ii.233.
 
 ## Notes

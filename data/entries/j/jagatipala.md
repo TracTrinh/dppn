@@ -5,7 +5,7 @@ base_headword: "Jagatipāla"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -33,6 +33,8 @@ He had a daughter named <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jagatipāla. Vua của Tích Lan (1047-51 CN). Ông đến từ Ayojjha và tự nhận là dòng dõi của Rāma. Sau khi giết Vikkamapaṇḍu, ông cai trị ở Rohaṇa cho đến khi chính ông bị những người Coḷa giết chết (Cv.lvi.13f).
+
+Ông có một cô con gái tên là Līlāvatī, người sau này trở thành vương phi của Vijayabāhu I. Cv.lix.23f.
 
 ## Notes

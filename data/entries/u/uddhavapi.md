@@ -5,7 +5,7 @@ base_headword: "Uddhavāpi"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uddhavāpi. A village and a tank. The <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng và một hồ chứa nước. Māragiri Nigrodha (*q.v.*) đã đóng quân ở đó (Cv.lxxii.164, 174).
 
 ## Notes

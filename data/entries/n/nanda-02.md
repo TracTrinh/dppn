@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nanda 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 02. Được gọi là Nandamāṇava. Một trong những đệ tử chính của Bāvarī; ông đã đến viếng thăm Đức Phật: Cuộc trò chuyện của ông với Đức Phật được ghi lại trong Nandamāṇavapucchā. Sau này, ông đã trở thành một *Arahant*. Snp.vs.1007, 1124.
 
 ## Notes

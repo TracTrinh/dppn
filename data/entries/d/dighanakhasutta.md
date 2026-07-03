@@ -5,7 +5,7 @@ base_headword: "Dīghanakhasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dīghanakhasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghanakhasutta*, *Vedanāpariggahasutta*. Được thuyết giảng tại Sūkarakhatalena cho Dīghanakha, người nói với Đức Phật rằng không có quan điểm nào có thể làm ông thỏa mãn. Đức Phật chỉ ra cho ông thấy sự cần thiết của tính nhất quán trong quan điểm và giảng giải cho ông về giáo lý của chính ngài. Sāriputta có mặt ở đó, đang quạt cho Đức Phật. Vào cuối bài pháp, Sāriputta trở thành một *Arahant* và Dīghanakha trở thành một *Sotāpanna* (MN.i.497ff). Ở những nơi khác, *Sutta* này được gọi là *Vedanāpariggahasutta*. Dhp­a.i.79; Thag­a.ii.95; MN­a.ii.862; AN­a.i.92, 321; DN­a.iii.882.
 
 ## Notes

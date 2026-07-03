@@ -5,7 +5,7 @@ base_headword: "Saṅkhadhātu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkhadhātu. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhadhātu. Một trong những Daṇḍanāyakabhātaro (xem mục này). Cv.lxxii.162.
 
 ## Notes

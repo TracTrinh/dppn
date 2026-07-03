@@ -5,7 +5,7 @@ base_headword: "Rativaḍḍhana"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rativaḍḍhana 01. One of the three palaces of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rativaḍḍhana 01. Một trong ba cung điện của Vessabhū Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv­a.205; Bv.xxii.19 gọi nó là Vaḍḍhana.
 
 ## Notes

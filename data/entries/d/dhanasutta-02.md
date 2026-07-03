@@ -5,7 +5,7 @@ base_headword: "Dhanasutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhanasutta 02. On the seven treasures – the five given above, and fear and sha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanasutta 02. Về bảy tài sản – năm tài sản đã được đưa ra ở trên, cùng với sự biết sợ điều sai và biết hổ thẹn. AN.iv.4f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ujjenī"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Ujjenī 02. A city in Ceylon, founded by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjenī 02. Một thành phố ở Tích Lan, được thành lập bởi đại thần Accutagāmī của Vijaya (Dpv.ix.36; Mhv.vii.45).
 
 ## Notes

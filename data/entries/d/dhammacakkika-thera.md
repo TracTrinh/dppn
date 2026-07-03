@@ -5,7 +5,7 @@ base_headword: "Dhammacakkika Thera"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammacakkika Thera (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacakkika Thera (*v.l.* Dhammacakkadāyaka Thera). Một vị *Arahant*. Chín mươi tư *kappa* trước, ngài đã đặt một *Dhammacakka* (pháp luân) trước chỗ ngồi của Đức Phật Siddhattha. Mười một *kappa* trước, ngài làm vua tám lần với tên là Sahassarāja. Ap.i.90.
 
 ## Notes

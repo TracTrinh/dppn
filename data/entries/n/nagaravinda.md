@@ -5,7 +5,7 @@ base_headword: "Nagaravinda"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nagaravinda. A Brahmin village in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagaravinda. Một ngôi làng của các Bà-la-môn ở Kosala nơi Đức Phật đã từng ở lại trong một chuyến du hành và nơi Ngài đã thuyết giảng Nagaravindeyyasutta. MN.iii.290.
 
 ## Notes

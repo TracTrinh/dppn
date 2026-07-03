@@ -5,7 +5,7 @@ base_headword: "Ramanīyavihārī Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -32,6 +32,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramanīyavihārī Thera. Một vị Arahant. Ông là con trai của một vị trưởng giả xứ Rājagaha và từng sống một cuộc đời phóng đãng, cho đến một ngày, khi chứng kiến việc bắt giữ một kẻ ngoại tình, ông vô cùng rúng động và gia nhập Tăng đoàn. Dù là một tỳ-kheo, ông vẫn sống trong xa hoa, trong một căn phòng đầy đủ tiện nghi, do đó ông có cái tên này. Về sau, bị chấn động bởi sự hối hận, ông đã lang thang ra khỏi phòng mình. Trên đường đi, ông thấy một người đánh xe cho một con bò mệt mỏi nghỉ ngơi rồi lại thắng ách cho nó. Quyết tâm gánh vác trách nhiệm của một tỳ-kheo, ông tìm gặp Upāli, và, với sự trợ giúp của vị này, đã đạt được quả vị Arahant. Trong quá khứ ông từng cúng dường hoa koraṇḍa cho Vipassī Buddha (Thag.vs.45; Thag­a.i.115f).
+
+Ông có lẽ đồng nhất với Koraṇḍapupphiya Thera của Apadāna. Năm mươi bảy kappa trước, ông là một vị vua tên là Vītamala. Ap.i.206.
 
 ## Notes

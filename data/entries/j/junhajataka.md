@@ -5,7 +5,7 @@ base_headword: "Juṇhajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -34,6 +34,10 @@ See also the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Juṇhajātaka (Ja 456). Có một lần Bodhisatta được sinh ra là Juṇha, con trai của Brahmadatta, vua xứ Benares. Ông đã học ở Takkasilā và, trong một dịp nọ, khi đang đi trong bóng tối, ông đã va phải một vị Bà-la-môn, xô ngã ông ta và làm vỡ bình bát của ông ta. Juṇha đã đỡ vị Bà-la-môn đứng dậy và, khi bị đòi tiền bồi thường cho một bữa ăn, ông đã nói cho vị Bà-la-môn biết ông là ai. Ông không có tiền trong người, nhưng yêu cầu vị Bà-la-môn nhắc nhở ông về hoàn cảnh này khi ông lên làm vua. Đến đúng thời điểm, Juṇha được tấn phong, và vị Bà-la-môn nọ một ngày kia đã đứng bên đường khi nhà vua đang đi ngang qua trên con voi của mình. Vị Bà-la-môn dang tay ra, hét lên, "Chiến thắng cho nhà vua." Juṇha không chú ý, vì vậy vị Bà-la-môn đã ngâm một khổ thơ với đại ý rằng một vị vua không nên phớt lờ lời thỉnh cầu của một người Bà-la-môn. Juṇha sau đó quay lại, và người đàn ông giải thích ông ta là ai, yêu cầu Juṇha ban cho năm ngôi làng, một trăm nữ tỳ, một nghìn đồ trang sức và hai người vợ, tất cả những thứ đó Juṇha đều đã ban cho ông ta.
+
+Câu chuyện được kể lại liên quan đến tám ân huệ do Đức Phật ban cho Ānanda khi vị này trở thành thị giả thường trực của Ngài. Ānanda được đồng nhất với vị Bà-la-môn (Ja.iv.95-100).
+
+Xem thêm Nāṇacchandajātaka (Ja 289).
 
 ## Notes

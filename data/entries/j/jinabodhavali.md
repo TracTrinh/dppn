@@ -5,7 +5,7 @@ base_headword: "Jinabodhāvalī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jinabodhāvalī. A Pāli work composed by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jinabodhāvalī. Một tác phẩm tiếng Pāli được biên soạn bởi Dhammakitti, tác giả của Bālāvatāra. PLC.243.
 
 ## Notes

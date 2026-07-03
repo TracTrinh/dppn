@@ -5,7 +5,7 @@ base_headword: "Dhanapālaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanapālaka. A householder of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapālaka. Một gia chủ ở Dhanañjaya, người đã được cải đạo bởi Sikhī Buddha. Bv­a.202.
 
 ## Notes

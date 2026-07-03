@@ -5,7 +5,7 @@ base_headword: "Pallaṅkadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pallaṅkadāyaka Thera. An *Arahant*. He once gave a couch (*pallaṅka*), with
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallaṅkadāyaka Thera. Một vị *Arahant*. Có một lần ngài dâng cúng một cái sập (*pallaṅka*), với nệm đệm, v.v. cho Sumedha Buddha. Hai mươi ngàn *kappa* trước ngài làm vua ba lần với tên gọi Suvaṇṇābha (Ap.i.175). Ngài có lẽ cũng chính là Uttiya Thera. Thag­a.i.202f.
 
 ## Notes

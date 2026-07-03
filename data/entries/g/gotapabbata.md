@@ -5,7 +5,7 @@ base_headword: "Gotapabbata"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gotapabbata *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotapabbata (dị bản: Koṭapabbata). Một vihāra ở Nam Tích Lan do Mahallaka Nāga xây dựng (Mhv.xxxv.124). Có thể nó đồng nhất với vihāra Koṭapabbata và Mahallaka chỉ việc trùng tu lại nó.
 
 ## Notes

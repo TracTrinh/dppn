@@ -5,7 +5,7 @@ base_headword: "Janapada"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janapada. A district in Northern <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janapada. Một khu vực ở Bắc Malaya thuộc Tích Lan, gần biên giới của Dakkhiṇadesa. Cv.xliv.56, v.v. Về việc nhận diện, xem Cv.Trs.i.79, n.4; 262, n.1.
 
 ## Notes

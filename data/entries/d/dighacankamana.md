@@ -5,7 +5,7 @@ base_headword: "Dīghacaṅkamana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghacaṅkamana. A *pariveṇa* in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghacaṅkamana. Một *pariveṇa* tại Anurādhapura, được xây dựng trên chính nơi mà Mahinda thường đi kinh hành tới lui trong lúc thiền định. Mhv.xv.208.
 
 ## Notes

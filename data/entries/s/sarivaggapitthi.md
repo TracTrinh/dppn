@@ -5,7 +5,7 @@ base_headword: "Sarīvaggapiṭṭhi"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarīvaggapiṭṭhi. A village in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarīvaggapiṭṭhi. Một ngôi làng ở Rohaṇa, được đề cập trong bản tường thuật về các chiến dịch của Vijayabāhu I. Cv.lvii.53.
 
 ## Notes

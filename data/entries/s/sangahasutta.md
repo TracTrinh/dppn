@@ -5,7 +5,7 @@ base_headword: "Saṅgahasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅgahasutta. The four basis of sympathy (*saṅgahavatthu*) are charity, kind
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgahasutta. Bốn nền tảng của sự nhiếp thọ (*saṅgahavatthu*) là bố thí, ái ngữ, lợi hành, và đồng sự với tất cả mọi người. AN.ii.31 = AN.ii.248.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sappasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Sappasutta 03. Same as (2), the qualities being anger, ill-will, poison (passion
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như (2), những phẩm chất đó là sự tức giận, ác ý, chất độc (đam mê dục vọng ở một người phụ nữ), lưỡi chẻ đôi và sự phản bội. AN.iii.260.
 
 ## Notes

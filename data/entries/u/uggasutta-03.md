@@ -5,7 +5,7 @@ base_headword: "Uggasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggasutta 03. Deals with the eight wonderful qualities of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggasutta 03. Đề cập đến tám phẩm chất kỳ diệu của Ugga xứ Hatthigāmaka. Xem Ugga (4). AN.iv.212-6.
 
 ## Notes

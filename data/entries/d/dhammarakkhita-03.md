@@ -5,7 +5,7 @@ base_headword: "Dhammarakkhita"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammarakkhita 03. A Thera in Ceylon in the time of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarakkhita 03. Một vị Thera ở Tích Lan vào thời của Kittisirirājasīha. Cv.c.299.
 
 ## Notes

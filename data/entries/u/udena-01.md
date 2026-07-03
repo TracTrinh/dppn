@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -65,6 +65,18 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="61" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Kosambī. Ông là con trai của Parantapa. Mẹ của ông, khi đang mang thai ông, đã bị mang đi bởi một con chim quái vật và bị đặt trên một cái cây gần nơi cư trú của Allakappa. Đứa trẻ được sinh ra trong một cơn bão (*utu*?) – do đó có cái tên này. Allakappa, sau khi phát hiện ra hai mẹ con, đã đưa họ dưới sự bảo hộ của mình. Một ngày nọ, khi Udena đã trưởng thành, Allakappa đã nhìn thấy qua sự giao hội của các hành tinh rằng Parantapa đã băng hà. Khi ông thông báo tin tức này, mẹ của Udena đã tiết lộ cho ông danh tính của bà. Allakappa đã dạy cho Udena các bùa chú khác nhau mà ông biết để thuần hóa những con voi và gửi ông đến Kosambī, cùng với một nhóm lớn những con voi đi theo, để đòi lại vương quốc. Một thời gian sau khi trở thành vua, Udena đã bổ nhiệm Ghosaka làm thủ quỹ của mình, và một ngày nọ, sau khi nhìn thấy người con gái nuôi của Ghosaka, Sāmāvatī, đang đi đến bờ sông để tắm, đã cho người gọi nàng và cưới nàng. Sau đó ông kết hôn, trong những hoàn cảnh rất lãng mạn, với Vāsuladattā, con gái của Caṇḍappajjota, vua của Ujjenī. Chú giải Dhammapada (Dhp-a.i.161ff) chứa đựng một toàn bộ chu kỳ truyện về Udena từ đó những chi tiết này, ngoại trừ những nơi được nêu khác đi, được lấy ra. Về các chi tiết của những người khác được đề cập trong bài viết và các cuộc chạm trán của họ với Udena, hãy xem dưới các tên tương ứng của họ.
+
+Udena có một người vợ khác, Māgandiyā, người đã lợi dụng vị trí mới của mình để trả thù Đức Phật vì đã từng coi thường bà. Khi Sāmāvatī được chuyển hóa sang đức tin của Đức Phật bởi nữ tỳ của bà là Khujjuttarā, Māgandiyā đã cố gắng đầu độc tâm trí của nhà vua để chống lại bà, nhưng nỗ lực này đã bị thất bại, mặc dù Sāmāvatī gần như đã mất mạng dưới tay của nhà vua. Khi Udena nhận ra ông đã làm tổn thương bà nghiêm trọng như thế nào, ông đã hứa sẽ ban cho bà một ân huệ, và, như kết quả cho sự lựa chọn của bà, Đức Phật đã cử Ānanda cùng với năm trăm tỳ-kheo đến cung điện mỗi ngày, để thuyết giảng cho các phụ nữ của triều đình. Bản thân Udena dường như không quan tâm đến tôn giáo. Một lần khi ông phát hiện ra rằng các phụ nữ của triều đình đã dâng năm trăm chiếc y phục đắt tiền cho Ānanda, ông đã bực mình, nhưng khi trả lời cho những câu hỏi của ông Ānanda đã giải thích với ông rằng không có thứ gì được trao cho các thành viên của Tăng đoàn bị lãng phí, ông đã hài lòng và chính ông đã làm một sự dâng cúng các y phục tương tự cho Ānanda. Cũng được đề cập trong Vin.ii.291. Sự kiện này đã diễn ra sau cái chết của Đức Phật.
+
+Tuy nhiên, cuộc chạm trán của ông trong công viên Udakavana của mình với Piṇḍola Bhāradvāja, trong những hoàn cảnh hơi tương tự, đã không kết thúc một cách vui vẻ như vậy. Các phụ nữ của Udena đã tặng những y phục của họ cho Piṇḍola, và khi nhà vua chất vấn Piṇḍola về sự thích hợp của món quà, ngài vẫn im lặng. Udena đã đe dọa sẽ để ngài bị cắn bởi những con kiến đỏ; nhưng Piṇḍola đã biến mất qua không trung (Snp-a.ii.514-5; SN­a.iii.27; trong một kiếp trước cũng vậy, với tư cách là Maṇḍavya, Udena đã phạm phải việc lăng mạ các vị thánh nhân, xem Mātaṅgajātaka (Ja 497), Ja.iv.375ff). Sau đó (SN.iv.110f) chúng ta thấy ông đến thăm Piṇḍola một lần nữa trong quan hệ thân thiện và nhận được thông tin về cách những thành viên trẻ tuổi của Tăng đoàn đã thành công trong việc kiềm chế các dục vọng của họ bất chấp tuổi trẻ của họ. Trong bối cảnh này Udena đã tự gọi mình là một người đi theo Đức Phật.
+
+Udena có một người con trai tên là Bodhi (Ja.iii.157), trong số các hoạt động của ông thì việc xây dựng một cung điện, tên là Kokanada, được ghi chép đặc biệt. Rõ ràng từ sự cố dâng y phục cho Ānanda, được nhắc đến ở trên, cũng như bởi một tuyên bố chắc chắn về hệ quả đó được chứa đựng trong Chú giải Petavatthu (p.140), rằng Udena đã sống sót sau Đức Phật; nhưng việc con trai Bodhi của ông có kế vị ông hay không thì không được biết đến.
+
+Trong số các tài sản của Udena, đề cập được thực hiện về cây cung của ông, đòi hỏi một ngàn người để giương nó (Dhp­a.i.216), và về con voi Bhaddavatikā của ông (Ja.iv.384).
+
+Udena đôi khi được gọi là Vaṁsarājā (vua của những người Vaṁsa) (ví dụ, Ja.iv.375; *Divyāvadāna* ví dụ, 528, gọi ông là Vatsarājā), những người Vaṁsa hay các Vaccha là những cư dân của Kosambī.
+
+Trong Chú giải Udāna (p.382) ông được gọi là Vajjirājā. Milindapañha (p.291) kể một câu chuyện về một người phụ nữ tên là Gopālamātā, người đã trở thành một hoàng hậu của Udena. Cô là con gái của những người nông dân, và, vì nghèo, cô đã bán mái tóc của mình để lấy tám đồng xu, với số tiền ấy cô đã dâng một bữa ăn cho Mahā Kaccāna và bảy người bạn đồng hành của ngài. Chính trong ngày đó cô đã trở thành hoàng hậu của Udena.
 
 ## Notes

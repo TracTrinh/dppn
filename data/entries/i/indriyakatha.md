@@ -5,7 +5,7 @@ base_headword: "Indriyakathā"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Indriyakathā. The fourth division of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyakathā. Phần thứ tư của Mahā Vagga thuộc Paṭisambhidāmagga (ii., pp.1-35).
 
 ## Notes

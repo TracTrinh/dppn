@@ -5,7 +5,7 @@ base_headword: "Palaṅkoṭṭa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Palaṅkoṭṭa. A locality in South India, mentioned in the account of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palaṅkoṭṭa. Một địa phương ở Nam Ấn, được nhắc đến trong bản tường thuật về chiến dịch của Laṅkāpura chống lại Kulasekhara. Cv.lxxvii.58, 64, 66.
 
 ## Notes

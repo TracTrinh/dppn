@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "14"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paduma 14. The Bodhisatta born as son of the king of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 14. Bodhisatta khi sinh ra làm con trai vua xứ Benares. Xem Mahā Padumajātaka (Ja 472).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅgha"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,6 @@ Saṅgha 05. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgha 05. Một vị quan của Kākavaṇṇatissa; anh trai của ông là Cūḷa Saṅgha và con gái của ông là Kiñcisaṅghā. Khi cô con gái được dạy nấu ăn, bữa ăn đầu tiên cô nấu đã được dâng cho các tỳ-kheo. Do đó cô được gọi là *Saṅghupaṭṭhāyikā*. Sau này, cô bị cha mẹ bỏ rơi tại Nigrodhasālakhaṇḍa, nhưng cô đã được Sakka trong hình dáng một thanh niên cứu giúp. Cô đã bố thí cho một tỳ-kheo của Cittalapabbata khi cô đã bị chết đói trong bảy ngày, và cũng dâng tặng mảnh y phục duy nhất của mình, bản thân cô thì mặc lá cây. Nhà vua nghe điều này từ vị thần lọng của mình, và, sau khi cho người đi đón cô, đã gả cô cho một trong những người con trai của ông. Ras.ii.45f.
 
 ## Notes

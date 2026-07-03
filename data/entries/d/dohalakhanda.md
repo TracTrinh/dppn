@@ -5,7 +5,7 @@ base_headword: "Dohaḷakhaṇḍa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dohaḷakhaṇḍa. A section of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dohaḷakhaṇḍa. Một phần của *Vidhurapaṇḍitajātaka*. Nó đề cập đến kế hoạch của Vimalā để được gặp Vidhura. Ja.vi.26274.
 
 ## Notes

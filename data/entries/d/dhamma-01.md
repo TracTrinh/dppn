@@ -5,7 +5,7 @@ base_headword: "Dhamma"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,8 @@ See the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhamma 01. Bodhisatta, được sinh làm một thiên tử (*Devaputta*) trong cõi *Kāmāvacara*.
+
+Xem Dhammajātaka (Ja 457). Trong Milindapañha (p.212) ngài được gọi là một Yakkha.
 
 ## Notes

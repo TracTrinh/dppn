@@ -5,7 +5,7 @@ base_headword: "Padasādhana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padasādhana. A Pāli grammar belonging to the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padasādhana. Một cuốn ngữ pháp Pāli thuộc trường phái Moggallāna, bởi Piyadassī. Vanaratana Ānanda đã viết một bản diễn giải tiếng Sinhalese về nó, và cũng có tồn tại một *Ṭīkā* về nó có tên là *Buddhippasādanī*. Cuốn sách này cũng được gọi là *Moggallānasaddattharatnakāra*. PLC. 201, 205.
 
 ## Notes

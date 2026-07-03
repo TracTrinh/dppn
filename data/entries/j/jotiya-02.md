@@ -5,7 +5,7 @@ base_headword: "Jotiya"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jotiya 02. A king of seventy-three *kappas* ago, a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotiya 02. Một vị vua của bảy mươi ba *kappa* trước, một tiền kiếp của Mañjaripūjaka. Ap.i.228.
 
 ## Notes

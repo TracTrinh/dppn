@@ -5,7 +5,7 @@ base_headword: "Dummedhajātaka"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dummedhajātaka 02. (Ja 122). Có một lần Bodhisatta là con voi của hoàng gia thuộc vị vua Magadha ở Rājagaha. Khi nhà vua cưỡi voi diễu hành, người dân chỉ dán mắt vào con voi, và nhà vua, vì ganh tị, đã lập mưu để ném con voi xuống một vực thẳm. Người quản tượng phát hiện ra điều này, đã bay trên lưng voi đến Benares. Vua của Benares chào đón họ và, với sự giúp đỡ của họ, đã giành được quyền thống trị toàn bộ Ấn Độ.
+
+Câu chuyện được kể lại liên quan đến sự ganh tị của Devadatta trước sự tán thán của mọi người dành cho Đức Phật. Devadatta được đồng nhất với vua Magadha, Sāriputta với vua của Benares và Ānanda với người quản tượng. Ja.i.444f.
 
 ## Notes

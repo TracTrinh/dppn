@@ -5,7 +5,7 @@ base_headword: "Rājasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rājasutta 01. Five good qualities in a king: pure descent, great wealth, strong
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasutta 01. Năm phẩm chất tốt đẹp của một vị vua: xuất thân trong sạch, tài sản to lớn, quân đội hùng mạnh, quan đại thần khôn ngoan, vinh quang, những điều làm cho ông được an toàn trong cuộc chinh phục của mình; năm phẩm chất tương tự ở một tỳ-kheo: đức hạnh, học thức rộng và sâu, tinh tấn nhiệt thành, chánh trí (*insight*), sự giải thoát mang lại cho vị ấy sự giải thoát hoàn toàn (*emancipation*). AN.iii.149ff.
 
 ## Notes

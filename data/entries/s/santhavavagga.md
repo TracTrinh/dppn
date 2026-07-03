@@ -5,7 +5,7 @@ base_headword: "Santhavavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Santhavavagga. The second chapter of the *Dukanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ hai của *Dukanipāta* thuộc Chú giải Jātaka. Ja.ii.41-63.
 
 ## Notes

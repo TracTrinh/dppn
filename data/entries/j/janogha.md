@@ -5,7 +5,7 @@ base_headword: "Janogha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janogha. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janogha. Một thành phố ở Uttarakuru, vương quốc của Kuvera. DN.iii.201.
 
 ## Notes

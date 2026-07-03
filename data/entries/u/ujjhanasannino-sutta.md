@@ -5,7 +5,7 @@ base_headword: "Ujjhānasaññino Sutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Ujjhānasaññino Sutta. Records the visit of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjhānasaññino Sutta. Ghi lại chuyến viếng thăm của nhóm chư thiên Ujjhānasaññikā đến gặp Đức Phật (SN.i.23-5).
 
 ## Notes

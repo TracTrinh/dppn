@@ -5,7 +5,7 @@ base_headword: "Uṇhasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uṇhasutta. When the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇhasutta. Khi Uṇhavalāhaka *Devā* muốn phơi bày cơ thể của họ, thời tiết trở nên nóng bức, đúng theo ước muốn của họ. SN.iii.251.
 
 ## Notes

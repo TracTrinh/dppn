@@ -5,7 +5,7 @@ base_headword: "Ubhaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Ubhaka. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong mười người con trai của Kāḷāsoka.
 
 ## Notes

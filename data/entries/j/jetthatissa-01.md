@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhatissa"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,6 @@ Jeṭṭhatissa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhatissa 01. Jeṭṭhatissa I. Vua của Tích Lan (năm 323-33 CN.), con trai lớn của Goṭhābhaya, con trai nhỏ là Mahā Sena. Ông đã tàn sát tất cả những quan đại thần đã bất trung với cha mình và nhận được tước hiệu "Kẻ Tàn Bạo". Ông đã xây dựng lại Lohapāsāda với độ cao bảy tầng và đổi tên nó thành Maṇipāsāda, dựa trên những viên ngọc đắt giá mà ông đã cúng dường trong đó. Ông cũng đã xây dựng Pācīnatissapabbatavihāra và bể nước Ālambagāma. Mhv.xxxvi.118ff; Dpv.xxii.61, 66.
 
 ## Notes

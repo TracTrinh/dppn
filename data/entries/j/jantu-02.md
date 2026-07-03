@@ -5,7 +5,7 @@ base_headword: "Jantu"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jantu 02. One of the five queens of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jantu 02. Một trong năm người vợ của Okkāka, người sáng lập ra triều đại Okkāka thứ ba. DN­a.i.258f; Snp­a.i.352f; Mhv­ṭ.131.
 
 ## Notes

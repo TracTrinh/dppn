@@ -5,7 +5,7 @@ base_headword: "Dhānañjāni"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhānañjāni 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhānañjāni 03. Buddhaghosa nói (SN­a.i.175) rằng đây là tên của một dòng họ Bà-la-môn có niềm tự hào lớn về xuất thân, tự nhận là dòng dõi sinh ra từ đầu của *Brahma*, trong khi các Bà-la-môn khác sinh ra từ miệng của ngài.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pācīnadesa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pācīnadesa. The Eastern Province of Ceylon. It was less important than the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnadesa. Tỉnh miền Đông của Tích Lan. Nó ít quan trọng hơn so với Dakkhiṇadesa (Xem, vd., Cv.xlviii.33, 41). Nó cũng được gọi là Pubbadesa (vd., Cv.xlv.21) và Puratthimadesa (Cv.xli.33).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sānumātā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sānumātā. The name given to the *Yakkhinī* who had been the mother of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cái tên được đặt cho *Yakkhinī*, người từng là mẹ của Sānu (*xem mục này*) trong một tiền kiếp. Khi các Yakkha tập hợp lại để nghe Sānu thuyết giảng Pháp, họ đã bày tỏ sự tôn kính lớn đối với bà, do mối quan hệ họ hàng của bà với ông. SN­a.i.236; Dhp­a.iv.19.
 
 ## Notes

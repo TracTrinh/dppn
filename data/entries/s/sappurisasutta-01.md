@@ -5,7 +5,7 @@ base_headword: "Sappurisasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Sappurisasutta 01. The unworthy man (*asappurisa*) always speaks what is discred
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người không xứng đáng (*asappurisa*) luôn nói những gì làm mất uy tín của người khác, không bao giờ nói những gì làm mất uy tín của chính mình, và luôn tự ca ngợi mình. Người xứng đáng thì hoàn toàn ngược lại. AN.ii.77.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhanapālī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhanapālī. A slave-girl who, in spite of her name meaning, Wealth-protector, w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapālī. Một cô hầu gái, mặc dù tên của cô có nghĩa là Người bảo vệ tài sản, vẫn bị ông bà chủ đối xử tệ bạc. Sự việc này được nhắc đến như một minh họa cho tầm quan trọng nhỏ bé của một cái tên. Ja.i.402.
 
 ## Notes

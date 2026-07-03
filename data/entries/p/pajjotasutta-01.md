@@ -5,7 +5,7 @@ base_headword: "Pajjotasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pajjotasutta 01. The four splendours: of the moon, the sun, fire, and wisdom. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjotasutta 01. Bốn ánh sáng: ánh sáng mặt trăng, mặt trời, lửa, và trí tuệ. AN.ii.140.
 
 ## Notes

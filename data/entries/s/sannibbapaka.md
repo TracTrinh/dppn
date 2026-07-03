@@ -5,7 +5,7 @@ base_headword: "Sannibbapaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sannibbapaka. A king of one hundred and seven *kappas* ago, a previous birth of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua của một trăm lẻ bảy *kappa* trước, một tiền kiếp của Āsanūpaṭṭhāyaka Thera. Ap.i.144.
 
 ## Notes

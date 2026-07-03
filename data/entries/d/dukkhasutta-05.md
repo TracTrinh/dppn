@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "05"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 05. That which is suffering and of the nature of suffering must be p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 05. Cái gì là khổ và có bản chất của khổ thì phải bị dứt bỏ. SN.iv.199.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rattakkhi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,8 @@ The king heard of this, and, by the power of his goodness, compelled the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattakkhi. Một Yakkha từng quấy nhiễu Tích Lan (Ceylon) vào thời của Sirisaṅghabodhi. Tất cả những ai nhìn thấy hắn hoặc nghe nói về hắn đều phát triển một cơn sốt (*jararoga*) kèm theo triệu chứng đỏ mắt và tử vong vì căn bệnh này, còn Yakkha thì ăn tươi nuốt sống thân xác họ.
+
+Nhà vua nghe được chuyện này, và, bằng sức mạnh của ân đức của mình, đã buộc Yakkha phải đến trình diện, và thuyết phục hắn từ bỏ ảnh hưởng tà ác của mình. Đổi lại, nhà vua hứa sẽ cho đặt các lễ vật (*bali*) cho Yakkha ở lối vào của mỗi ngôi làng. Mhv.xxxvi.82ff.; *Attanagaluvaṁsa*, p.16.
 
 ## Notes

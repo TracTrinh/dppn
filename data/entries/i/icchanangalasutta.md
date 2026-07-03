@@ -5,7 +5,7 @@ base_headword: "Icchānaṅgalasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Icchānaṅgalasutta. Preached to the monks at <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Icchānaṅgalasutta. Được thuyết cho các tỳ-kheo tại Icchānaṅgala vào cuối ba tháng tĩnh cư. Nếu có ai hỏi các tỳ-kheo rằng Đức Phật đã dành thời gian của ngài như thế nào trong mùa an cư, họ nên trả lời rằng ngài đã dành nó cho sự tập trung mãnh liệt vào hơi thở vào và hơi thở ra. Bất kỳ ai sống một cuộc đời trong sự tập trung như vậy sẽ là một cuộc đời sống theo con đường của bậc Thánh và sẽ dẫn đến việc đoạn tận các *āsava* (SN.v.325f).
 
 ## Notes

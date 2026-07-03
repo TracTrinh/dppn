@@ -5,7 +5,7 @@ base_headword: "Indasama"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Indasama. A king of thirteen *kappas* ago; a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indasama. Một vị vua của mười ba *kappa* trước; một tiền kiếp của Setuccha Thera (Thag­a.i.207), cũng được gọi là Khajjakadāyaka (Ap.i.182).
 
 ## Notes

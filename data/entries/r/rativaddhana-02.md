@@ -5,7 +5,7 @@ base_headword: "Rativaḍḍhana"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rativaḍḍhana 02. A palace of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rativaḍḍhana 02. Một cung điện của Kakusandha Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv­a.209; nhưng Bv­a.xxiii.16 gọi nó là Vaḍḍhana.
 
 ## Notes

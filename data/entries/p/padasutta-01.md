@@ -5,7 +5,7 @@ base_headword: "Padasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Padasutta 01. Just as all the foot characteristics of roaming creatures are unit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padasutta 01. Giống như tất cả các đặc điểm về chân của các sinh vật đi lang thang đều được hợp nhất trong bàn chân của con voi, và được bao hàm trong nó, vì vậy, trong tất cả các trạng thái có lợi ích bắt nguồn từ sự nhiệt tâm, sự nhiệt tâm được xem là điều chính yếu. SN.v.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ujjaya"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Ujjaya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjaya 01. Ujjāya. Một Pacceka Buddha, được đề cập trong danh sách ở Isigilisutta. MN.iii.70.
 
 ## Notes

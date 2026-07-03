@@ -5,7 +5,7 @@ base_headword: "Panāda"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Panāda 02. One of the chief <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panāda 02. Một trong những vị thủ lĩnh Yakkha cần được các tín đồ của Đức Phật cầu khẩn trong lúc nguy nan (DN.iii.204). Ông cũng được nhắc đến trong Mahā Samayasutta (DN.ii.258). Buddhaghosa nói (DN­a.ii.688) rằng Panāda là một Gandhabba.
 
 ## Notes

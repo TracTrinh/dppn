@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "13"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 13. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 13. Một cung điện được Sujāta Buddha sử dụng trong đời sống cư sĩ cuối cùng của Ngài. Bv.xiii.21.
 
 ## Notes

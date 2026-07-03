@@ -5,7 +5,7 @@ base_headword: "Dhonasākhajātaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -41,6 +41,12 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dhonasākhajātaka* (Ja 353). Xưa kia, một vương tử của Ba-la-nại (Benares) tên là Brahmadatta đã học các kỹ năng từ *Bodhisatta*, khi đó là một vị thầy ở Takkasilā. Vị thầy (Pārāsariya), sau khi quan sát tính cách của chàng, đã cảnh báo chàng không nên tàn nhẫn và khuyên chàng hãy ôn hòa. Đúng thời hạn, Brahmadatta lên làm vua, và theo lời khuyên của vị tư tế của mình là Piṅgiya, đã dẫn đầu một đội quân lớn đi chinh phạt và bắt sống một ngàn vị vua.
+
+Tuy nhiên, ông không thể chiếm được Takkasilā, và Piṅgiya gợi ý rằng nên thực hiện một buổi tế lễ, bằng hình thức móc mắt các vị vua bị bắt và để máu của họ chảy quanh thành lũy. Điều này đã được thực hiện; nhưng khi Brahmadatta đi tắm, một Yakkha đã móc đi con mắt phải của ông, và, khi ông nằm xuống, một mảnh xương nhọn do một con kền kền đánh rơi, đã làm mù con mắt trái của ông. Ông chết trong đau đớn và tái sinh vào địa ngục.
+
+Câu chuyện này được kể lại liên quan đến Bodhirājakumāra, người đã làm mù vị kiến trúc sư của cung điện của mình (Kokanada), để ông ta không thể xây dựng một cung điện nào khác nguy nga như vậy.
+
+Bodhi được đồng nhất với Brahmadatta và Devadatta với Piṅgiya (Ja.iii.157.161).
 
 ## Notes

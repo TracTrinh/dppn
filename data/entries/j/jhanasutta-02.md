@@ -5,7 +5,7 @@ base_headword: "Jhānasutta"
 disambiguator: "02"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -24,6 +24,6 @@ Jhānasutta 02. Six things one must give up in order to develop *jhāna*. AN.iii
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasutta 02. Sáu điều mà một người phải từ bỏ nhằm tu tập *jhāna*. AN.iii.428.
 
 ## Notes

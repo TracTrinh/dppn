@@ -5,7 +5,7 @@ base_headword: "Govindamala"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Govindamala. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govindamala. Một ngọn núi ở Rohaṇa. *Ādipāda* Bhuvanekabāhu đã lập một thị trấn ở đó và sử dụng nó như một pháo đài cho Rohaṇa khi lực lượng của Māgha tràn qua đất nước. Cv.lxxxi.6; cũng xem Cv.Trs.ii.135, n.4.
 
 ## Notes

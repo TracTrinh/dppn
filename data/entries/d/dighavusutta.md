@@ -5,7 +5,7 @@ base_headword: "Dīghāvusutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,13 @@ Dīghāvusutta. Records the visit of the Buddha to <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghāvusutta*. Ghi lại chuyến viếng thăm của Đức Phật đến Dīghāvu (xem Dighāvu 2). Đức Phật khuyến tấn ông thực hành sáu điều kiện là các phần cấu thành của trí tuệ (*cha vijjābhāgiyadhamme*). Đó là:
+
+- sự quán chiếu về tính vô thường trong các saṅkhāra (hành),
+- ý thức về dukkha (khổ) trong sự vô thường,
+- về sự không có tự ngã trong những gì là dukkha,
+- ý thức về sự từ bỏ, về sự ly tham, và về sự diệt tận. SN.v.344f.
+
+Dīghāsana. Một tu viện ở Tích Lan, nơi sinh sống của Trưởng lão Mahā Nāma (Cv.xxxix.42). Geiger nghĩ rằng (Cv.Trs.i.48, n.1) Dīghāsana rất có thể là một cách đọc sai của Dīghasanda.
 
 ## Notes

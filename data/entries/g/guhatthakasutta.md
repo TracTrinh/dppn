@@ -5,7 +5,7 @@ base_headword: "Guhaṭṭhakasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -39,6 +39,12 @@ It is commented on in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guhaṭṭhakasutta. *Sutta* thứ hai thuộc Aṭṭhakavagga của Suttanipāta; bài kinh này được thuyết cho Piṇḍola Bhāradvāja. Một lần ông đi đến Udakavana ở Kosambī, và tại đó, các phi tần trong cung điện của Vua Udena, những người đã đến công viên cùng với nhà vua, đã rời đi khi nhà vua đang ngủ, và khi thấy Trưởng lão, họ đã ngồi xuống và nghe ông thuyết pháp. Nhà vua, khi thức giấc, đã đi tìm họ, và rất tức giận khi phát hiện ra nơi họ đang ở. Vua đã chất vấn Piṇḍola về sự độc cư mà vị này tuyên bố muốn tìm kiếm trong công viên, nhưng do Piṇḍola từ chối trả lời, nhà vua đã đe dọa sẽ thả kiến đỏ vào ông. Sau đó Piṇḍola bay qua hư không đến Gandhakuṭi của Đức Phật và kể lại câu chuyện. Đức Phật đang nằm nghỉ trên giường của Ngài và, trong tư thế đó, Ngài đã thuyết *Sutta* này cho vị Trưởng lão.
+
+Một người bám víu vào thân thể và vào những dục lạc của các giác quan, sống trong sự sợ hãi triền miên. Do đó, người ta nên từ bỏ lòng tham và vượt qua dòng nước lũ, không bị hoen ố bởi thế gian (Snp.vv.772-9; Snp­a.ii.514ff).
+
+*Sutta* này có lẽ có tên như vậy từ thực tế là, trong bài kệ đầu tiên, thân thể được nói đến như một *guhā* (hang động).
+
+Bài kinh được chú giải trong Mahā Niddesa pp.23ff.
 
 ## Notes

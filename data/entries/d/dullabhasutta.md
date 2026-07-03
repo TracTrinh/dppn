@@ -5,7 +5,7 @@ base_headword: "Dullabhasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dullabhasutta. Three persons are hard to find in the world: a <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dullabhasutta. Ba hạng người khó tìm trên thế gian: một vị Tathāgata, người có thể giảng giải Pháp và Vinaya của một vị Tathāgata, và một người biết ơn. AN.i.266.
 
 ## Notes

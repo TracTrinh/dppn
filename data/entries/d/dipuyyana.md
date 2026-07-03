@@ -5,7 +5,7 @@ base_headword: "Dīpuyyāna"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīpuyyāna. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpuyyāna. Một công viên ở Pulatthipura do Parakkamabāhu I xây dựng. Nó được gọi như vậy vì nó tạo thành một bán đảo. Cv.lxxiii.113; lxxix.6; Cv.Trs.ii.14, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jatukaṇṇī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jatukaṇṇī (Jatukaṇṇika). Một trong những đệ tử của Bāvarī. Câu hỏi của ông và câu trả lời của Đức Phật được tìm thấy trong Jatukaṇṇīsutta Jatukaṇṇīmāṇavapucchā (Snp.vv.1007, 1096-1100; Divy.635).
+
+Vào thời Padumuttara Buddha, Jatukaṇṇī là một chủ ngân hàng ở Haṁsavatī, đủ giàu có để có thể cho cả nhà vua, Arindama, mượn tiền. Một ngày nọ, ông nhìn thấy Đức Phật đang đi dọc theo con đường và, sau khi thỉnh mời ngài cùng hai mươi ngàn tỳ-kheo, đã thết đãi họ một bữa ăn tại nhà của mình. Ap.ii.357ff.
 
 ## Notes

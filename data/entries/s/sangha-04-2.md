@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Saṅghā 04. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 04. Con gái của Aggabodhi VI. và vợ của Aggabodhi VII. Chồng cô đã từng đánh cô trong lúc tức giận, và, khi cô phàn nàn với cha mình, ông đã gửi cô đến một ni viện. Ở đó, người anh em họ ngoại của cô, cũng tên là Aggabodhi, đã trở nên thân thiết với cô và cùng cô bỏ trốn đến Rohaṇa. Nhưng chồng cô đã gây chiến với anh ta và bắt giữ cả anh ta và Saṅghā. Sau đó, hai vợ chồng sống trong hòa bình. Cv.x1viii.54ff.
 
 ## Notes

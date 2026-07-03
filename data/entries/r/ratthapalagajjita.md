@@ -5,7 +5,7 @@ base_headword: "Raṭṭhapālagajjita"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Raṭṭhapālagajjita. An unorthodox Buddhist work, whose views were rejected b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṭṭhapālagajjita. Một tác phẩm Phật giáo không chính thống, có các quan điểm bị các Theravādin bác bỏ vì đi ngược lại những lời dạy của Đức Phật (*abuddhavacana*), vd., Vin-a.iv.742; SN­a.ii.150.
 
 ## Notes

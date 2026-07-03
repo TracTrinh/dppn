@@ -5,7 +5,7 @@ base_headword: "Dhaññasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhaññasutta. Few are they who refrain from accepting uncooked grain, many thos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaññasutta. Ít thay là những người kiềm chế không nhận ngũ cốc sống, nhiều thay là những người không như vậy. SN.v.471.
 
 ## Notes

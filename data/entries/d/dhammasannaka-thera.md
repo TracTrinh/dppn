@@ -5,7 +5,7 @@ base_headword: "Dhammasaññaka Thera"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammasaññaka Thera. An *Arahant*. Once, during a festival in honour of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasaññaka Thera. Một *Arahant*. Có lần, trong một lễ hội tôn vinh cây *bodhi* của Vipassī Buddha, ngài đã nghe vị Phật thuyết pháp và đảnh lễ ngài. Ba mươi ba *kappa* trước, ngài là một Cakkavatti tên là Sutavā. Ap.i.249.
 
 ## Notes

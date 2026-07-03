@@ -5,7 +5,7 @@ base_headword: "Jallibāva"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jallibāva. A tank in Ceylon. Cv.lxviii.47.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jallibāva. Một hồ chứa nước ở Tích Lan. Cv.lxviii.47.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Illīsajātaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -33,6 +33,10 @@ The story is given as an example of *iddhi* by means of which <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Illīsajātaka (Ja 78). Câu chuyện về Illīsa. Bài Jātaka được kể lại liên quan đến việc Moggallāna hóa độ vị trưởng giả Macchari Kosiya (*q.v.*) của Sakkhara.
+
+Illīsa trong quá khứ được đồng nhất với Macchari Kosiya (Ja.i.345ff).
+
+Câu chuyện được đưa ra như một ví dụ về thần thông (*iddhi*) mà bằng cách đó Moggallāna đã làm cho một vật nhỏ tăng lên gấp nhiều lần. Vsm.ii.403.
 
 ## Notes

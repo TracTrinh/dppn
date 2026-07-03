@@ -5,7 +5,7 @@ base_headword: "Dīghabhāṇakā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -39,6 +39,12 @@ It is said that once, when the *Dīghabhāṇakas* recited the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghabhāṇakā. Những người tụng đọc Dīghanikāya.
+
+Họ đã tách Cariyāpiṭaka, Apadāna và Buddhavaṁsa ra khỏi Khuddakanikāya và gán mười hai phần còn lại của *Nikāya* đó cho Abhidhammapiṭaka (DN­a.i.15).
+
+Họ cũng cho rằng bốn điềm báo mà *Bodhisatta* đã nhìn thấy, trước Cuộc Đại Từ Bỏ (Renunciation) của ngài, đã được nhìn thấy trong cùng một ngày (Ja.i.59).
+
+Người ta kể rằng có một lần, khi những *Dīghabhāṇaka* tụng Brahmajālasutta tại Ambalaṭṭhikā, ở phía đông của Lohapāsāda, trái đất đã chấn động. DN­a.i.131; về các quan điểm do họ bày tỏ, xem Vin-a.ii.413; Dhs-a.159, v.v.
 
 ## Notes

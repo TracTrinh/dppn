@@ -5,7 +5,7 @@ base_headword: "Jotipāla"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jotipāla 04. A monk at whose request <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotipāla 04. Một tỳ-kheo mà theo yêu cầu của ông Buddhaghosa đã viết Sāraṭṭhappakāsinī và Manoraṭṭhapūraṇī. Ông dường như từng là một đồng đạo của Buddhaghosa và đã sống cùng ông ấy ở một vài nơi, bao gồm cả Kañcīpura. Gv.68; SN­a.iii.235; AN­a.ii.874.
 
 ## Notes

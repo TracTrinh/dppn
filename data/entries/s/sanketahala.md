@@ -5,7 +5,7 @@ base_headword: "Saṅketahāla"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅketahāla. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅketahāla. Các cách đọc khác: Guttahāla, Gottahāla. Một địa danh ở Tích Lan, nơi những người Damiḷa đã bắt giữ Brāhmaṇatissa. Mhv-ṭ. 613.
 
 ## Notes

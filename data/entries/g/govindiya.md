@@ -5,7 +5,7 @@ base_headword: "Govindiya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Govindiya. Evidently the title given to the High Treasurer. It occurs in the phr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govindiya. Hiển nhiên đây là tước hiệu dành cho vị Tổng quản thủ quỹ. Nó xuất hiện trong cụm từ *Govindiye abhisiñcissāmi*, khi Disampati đề nghị bổ nhiệm Jotipāla vào chức vụ Thủ quỹ. DN.ii.232, so sánh Jāṇussoṇī.
 
 ## Notes

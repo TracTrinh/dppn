@@ -5,7 +5,7 @@ base_headword: "Sārandadacetiya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sārandadacetiya. A shrine of pre-Buddhistic worship at <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārandadacetiya. Một điện thờ thuộc tín ngưỡng tiền Phật giáo tại Vesālī. Nó được dâng hiến cho Yakkha Sārandada, nhưng, về sau, một *vihāra* đã được dựng lên trên địa điểm đó cho Đức Phật và Tăng đoàn của Ngài. DN.ii.75, 102; Ud.vi.1; DN­a.ii.521; Ud­a.323; AN­a.ii.701.
 
 ## Notes

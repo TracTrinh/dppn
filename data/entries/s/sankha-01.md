@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkha 01. The Bodhisatta, born as a Brahmin in <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 01. Bodhisatta, sinh ra là một Bà-la-môn ở *nagara* (thành phố) Molinī (Benares). Xem Saṅkhajātaka (Ja 442).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sātā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sātā. An eminent Therī of Ceylon. Dpv.xviii.16.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sātā. Một nữ Trưởng lão (Therī) xuất chúng của Tích Lan. Dpv.xviii.16.
 
 ## Notes

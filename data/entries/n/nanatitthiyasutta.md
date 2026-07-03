@@ -5,7 +5,7 @@ base_headword: "Nānātitthiyasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -41,6 +41,13 @@ Nānātitthiyasutta. Various *Devaputtas* – followers of different teachers �
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nānātitthiyasutta. Nhiều vị thiên tử khác nhau – những đệ tử của các đạo sư khác nhau – đi đến Đức Phật và hát lên những lời tán dương vị đạo sư tương ứng của họ –
+
+- Asama tán dương Puraṇa Kassapa,
+- Sahali tán dương Makkhali Gosāla;
+- Niṅka tán dương Nigaṇṭha Nātaputta và
+- Akoṭaka tán dương cả ba vị.
+
+Vetambarī lên tiếng phản bác Akoṭaka và Māra đồng tình với ông, trong khi Māṇava Gāmiya hát lên những lời tán dương Đức Phật. SN.i.65ff.
 
 ## Notes

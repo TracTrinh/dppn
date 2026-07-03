@@ -5,7 +5,7 @@ base_headword: "Pallavavāla"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pallavavāla. A locality in Ceylon occupied by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallavavāla. Một địa phương ở Tích Lan bị Māṇābharaṇa chiếm đóng trong chiến dịch của ông ta chống lại Parakkamabāhu I. Cv.lxxii.178,220.
 
 ## Notes

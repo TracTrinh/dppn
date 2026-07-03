@@ -5,7 +5,7 @@ base_headword: "Nālandā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālandā 02. A village in the central province of Ceylon. Once <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālandā 02. Một ngôi làng ở tỉnh trung tâm của Tích Lan. Có lần Parakkamabāhu I đóng quân tại đó, và nó được nhắc đến nhiều lần trong các tường thuật về những chiến dịch của ông. Cv.lxx.167, 207; lxxii.169.
 
 ## Notes

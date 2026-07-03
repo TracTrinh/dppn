@@ -5,7 +5,7 @@ base_headword: "Nāgasamāla Thera"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasamāla Thera 02. Một *Arahant*. Apadāna (Ap.i.119) phân biệt ngài với vị ở trên, người mà nó gọi là Ekachattiya. Ba mươi mốt *kappa* trước ngài đã đặt một bông hoa *pāṭalī* lên *Thūpa* (bảo tháp) của Đức Phật Sikhī. Mười lăm *kappa* trước ngài là một vị vua có tên là Bhūmiya.
+
+Tuy nhiên, Chú giải Apadāna nói rằng vị Trưởng lão này là *pacchāsamaṇa* (thị giả cá nhân) của Đức Phật trong một thời gian và ngài được gọi là Nāgasamāla vì cơ thể ngài mềm mại như những nụ hoa *nāga*.
 
 ## Notes

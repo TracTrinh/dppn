@@ -5,7 +5,7 @@ base_headword: "Santusita"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Santusita 01. Chief of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị thủ lĩnh của chư thiên thuộc thế giới Tusita (DN.i.218; AN.iv.243; SN.iv.280). Đó là tên của Bodhisatta khi ngài ở Tusita (Bv­a. 45; Ja.i.48) và cũng là tên của người kế vị ngài (Ja.i.81). Tại các lễ hội quan trọng, Santusita xuất hiện với một cây phất trần đuôi bò Tây Tạng, ví dụ, Mhv.xxxi.78.
 
 ## Notes

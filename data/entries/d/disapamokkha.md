@@ -5,7 +5,7 @@ base_headword: "Disāpāmokkha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Disāpāmokkha. A monk of Burma. He joined the Saṅgha in his old age and studi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Disāpāmokkha. Một tỳ-kheo của Miến Điện (Burma). Ông gia nhập Tăng đoàn khi đã lớn tuổi và học tập chăm chỉ, cho đến khi ông làm kinh ngạc các vị Trưởng lão đứng đầu bằng sự học vấn của mình, và được Vua Narapati bổ nhiệm làm vị thầy của nhà vua. Sās., p.77.
 
 ## Notes

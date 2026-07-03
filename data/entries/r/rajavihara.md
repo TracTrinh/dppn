@@ -5,7 +5,7 @@ base_headword: "Rājavihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rājavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavihāra. Một tu viện ở Rohaṇa được Silādāṭha chỉ định ngôi làng Gonnagāma cho nơi này. Cv.xlv.58.
 
 ## Notes

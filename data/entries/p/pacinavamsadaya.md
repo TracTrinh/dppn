@@ -5,7 +5,7 @@ base_headword: "Pācīnavaṁsadāya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -43,6 +43,12 @@ The park lay between <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnavaṁsadāya, Pācīnavaṁsamigadāya. Một công viên ở vương quốc Cetiya (AN.iv.228f). Gotama Buddha đã đến thăm nó trong suốt các chuyến đi của ngài, và có một lần, trong khi đang ở đó với Meghīya, người sau đã dừng lại ở một lùm cây xoài trong ngôi làng Jantugāma, và từ chối đi xa hơn nữa (AN.iv.163).
+
+Công viên nằm giữa Bālakaloṇakāragāma và Pārileyyakavana (Dhp­a.i.47).
+
+Anuruddha, Nandiya và Kimbila đang sống ở đó trong khoảng thời gian diễn ra cuộc tranh cãi của các tỳ-kheo ở Kosambī, và Đức Phật đã đến thăm họ trên đường ngài đi đến Pārileyyaka (Vin.i.350f.; so sánh với MN.i.205ff). Chính tại đó, Anuruddha đã trở thành một vị *Arahant* (AN.iv.228f.; AN­a.i.108).
+
+Buddhaghosa giải thích rằng công viên được gọi như vậy bởi vì nó nằm ở phía đông của nơi mà Đức Phật đang sống và nó được bao phủ bởi những cây tre xanh (AN­a.iv.117).
 
 ## Notes

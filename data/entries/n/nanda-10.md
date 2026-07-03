@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "10"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nanda 10. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 10. *v.l.* Canda. Một trong những nam cư sĩ hộ độ chính của Sikhī Buddha.. Bv­a.204.
 
 ## Notes

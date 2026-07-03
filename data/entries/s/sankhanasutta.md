@@ -5,7 +5,7 @@ base_headword: "Saṅkhānasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkhānasutta. Four powers that are in the world: of computation, cultivation
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhānasutta. Bốn sức mạnh ở thế gian: của sự suy tính, sự tu tập, sự vô tội và sự tĩnh tâm. AN.ii.142.
 
 ## Notes

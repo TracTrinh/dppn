@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "09"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanañjaya 09. A city in the time of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 09. Một thành phố vào thời của Sikhī Buddha. Tại đó vị Phật đã cải đạo gia chủ Dhanapālaka. Bv­a.202.
 
 ## Notes

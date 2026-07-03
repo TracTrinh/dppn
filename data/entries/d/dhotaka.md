@@ -5,7 +5,7 @@ base_headword: "Dhotaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhotaka. Một trong những đệ tử của Bāvarī; ông nằm trong số những người đã đến thăm Đức Phật theo yêu cầu của Bāvarī (Snp. p.194). Những câu hỏi ông hỏi Đức Phật trong dịp này, và những câu trả lời được đưa ra, được tìm thấy trong Dhotakamāṇavapucchā. SN, p.204f; được giải thích tại Snp­a (ii.592f.) và cũng tại CNid. (19ff.). Ông trở thành một *Arahant*.
+
+Vào thời của Đức Phật Padumuttara, ông là một vị đạo sư Bà-la-môn tên là Chalaṅga, với một lượng lớn người theo học, và ông đã xây một cây cầu bắc qua sông Bhagīrathī để Đức Phật và các tỳ-kheo của ngài vượt qua một cách thoải mái. Ap.ii.343ff.
 
 ## Notes

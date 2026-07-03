@@ -5,7 +5,7 @@ base_headword: "Rājavasatikhaṇḍa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājavasatikhaṇḍa. One of the sections of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavasatikhaṇḍa. Một trong những phần của Vidhurapaṇḍitajātaka. Ja.vi.298.
 
 ## Notes

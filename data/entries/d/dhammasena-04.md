@@ -5,7 +5,7 @@ base_headword: "Dhammasena"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammasena 04. A monk of Ceylon of the thirteenth century. He translated a large
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasena 04. Một vị tỳ-kheo ở Tích Lan vào thế kỷ mười ba. Ngài đã dịch một phần lớn Dhammapada Commentary sang tiếng Sinhalese, tác phẩm này ngài gọi là *Saddharmaratnāvalī*. PLC.97.
 
 ## Notes

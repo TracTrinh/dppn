@@ -5,7 +5,7 @@ base_headword: "Udakāsanadāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,8 @@ Fifteen *kappas* ago he was a king named <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Ba mươi mốt *kappa* trước, ngài đã từng là một vị tu sĩ khổ hạnh, và tại cửa am thất của mình, ngài đã đặt một chiếc ghế dài cho những người lữ hành và cung cấp nước cho họ.
+
+Mười lăm *kappa* trước, ngài là một vị vua tên là Abhisāma (Ap.i.218).
 
 ## Notes

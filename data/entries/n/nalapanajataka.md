@@ -5,7 +5,7 @@ base_headword: "Naḷapānajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -30,6 +30,10 @@ The story was related by the Buddha in the village of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷapānajātaka (Ja 20). Bodhisatta sinh ra là thủ lĩnh của một bầy khỉ. Ngài đã ban chỉ thị nghiêm ngặt rằng không ai trong số các tùy tùng của mình được ăn hoặc uống ở một nơi xa lạ khi chưa có sự đồng ý của ngài. Một ngày nọ, bầy khỉ rất khát và đi đến một hồ nước trong rừng, nhưng không chịu uống cho đến khi thủ lĩnh của chúng đến. Ngài kiểm tra cái hồ và phát hiện ra rằng nó bị một chằn tinh ám. Ngài bèn cung cấp cho tất cả các tùy tùng của mình những cây lau sậy dài, nhờ oai lực từ đức hạnh của ngài, lập tức trở nên rỗng ruột. Kể từ đó, tất cả lau sậy quanh hồ đó đều rỗng, và bản thân cái hồ được gọi là Naḷakapāna *pokkharaṇī*.
+
+Đây là một trong bốn phép lạ sẽ tồn tại trong suốt kappa.
+
+Câu chuyện này được Đức Phật kể ở làng Naḷakapāna để giải thích sự rỗng ruột của những cây gậy mọc quanh hồ. Chằn tinh trong câu chuyện được đồng nhất với Devadatta. Ja.i.170ff.
 
 ## Notes

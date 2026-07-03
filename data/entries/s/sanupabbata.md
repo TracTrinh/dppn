@@ -5,7 +5,7 @@ base_headword: "Sānupabbata"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sānupabbata. A mountain in the region of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn núi ở vùng Himavā. Ja.v.415.
 
 ## Notes

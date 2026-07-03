@@ -5,7 +5,7 @@ base_headword: "Sato Sutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sato Sutta 01. The Buddha tells the monks, at <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sato Sutta 01. Tại Ambapālivana, Đức Phật chỉ dạy các tỳ-kheo cách để giữ chánh niệm và điềm tĩnh. SN.v.142.
 
 ## Notes

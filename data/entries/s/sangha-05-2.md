@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -31,6 +31,6 @@ Saṅghā 05. *Mahesī* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 05. *Mahesī* của Sena I. Bà và chồng đã xây dựng Pubbārāma và Saṅghasenārāma trong Mahā Vihāra. Saṅghā cũng đã xây dựng Uttaravihāra và *pariveṇa* Mahindasena. Cv.l.7, 69, 79.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhaniya"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -33,6 +33,8 @@ Dhaniya later changed his ways and became an *Arahant*. In the time of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaniya 02. Một thợ gốm ở Rājagaha. Tại nhà ông, vị Phật đã dạy cho Pukkusāti kinh Chadhātuvibhaṅgasutta. Dhaniya, khi nghe tin Pukkusāti đã qua đời như một *Arahant* ngay trong đêm đó, đã vô cùng ấn tượng bởi uy lực của Pháp, đến nỗi ngài đã gia nhập Tăng đoàn (Thag.v.228-30; Tha.gA.i.347f). Có lần ngài đã dựng một túp lều cỏ trên các sườn dốc của ngọn núi Isigili và sống tại đó cùng với một vài người khác trong mùa mưa. Ngài tiếp tục sống ở đó sau khi những người khác đã rời đi. Trong khi ngài đi khất thực, túp lều của ngài đã bị kéo đổ bởi những người phụ nữ tìm kiếm rơm và củi, nhưng ngài đã xây lại nó. Điều này xảy ra ba lần, cho đến khi, trong sự bực tức, Dhaniya đã rất khéo léo làm gạch và ngói và xây một túp lều vừa kiên cố vừa lộng lẫy, với những viên ngói màu đỏ thẫm sáng bóng phát ra âm thanh như tiếng chuông khi gõ vào. Vị Phật, khi nhìn thấy điều này, đã quở trách Dhaniya và ra lệnh phá bỏ túp lều. Dhaniya sau đó xây một túp lều bằng gỗ mà ngài lấy từ một hội những nhà buôn gỗ, những nhà cung cấp gỗ cho nhà vua, bằng cách làm cho họ hiểu rằng ngài đã có sự cho phép của nhà vua. Vassakāra, khi nghe điều này, đã báo cáo sự việc lên Bimbisāra, người đã cho gọi Dhaniya. Dhaniya khẳng định rằng nhà vua, bằng chiếu chỉ hoàng gia, đã cho phép các tỳ-kheo sử dụng các nguồn cung cấp gỗ và các vật liệu khác của hoàng gia. Bimbisāra thừa nhận chiếu chỉ đó, nhưng nói rằng nó chỉ đề cập đến các nguồn cung cấp được lấy thẳng từ trong rừng, và ông bảo Dhaniya rời đi cùng với một lời cảnh cáo. Sự việc này đã tạo ra một sự náo động lớn và vị Phật đã khiển trách Dhaniya. Vin.iii.41-5; Vin-a.ii.286.
+
+Sau đó Dhaniya đã thay đổi cách hành xử của mình và trở thành một *Arahant*. Vào thời của Sikhī Buddha, ngài là một gia chủ và đã cúng dường lên vị Phật một chuỗi lau sậy (? *naḷamālā*). Ngài có lẽ chính là *Naḷamāliya* của Apadāna. Ap.ii.412.
 
 ## Notes

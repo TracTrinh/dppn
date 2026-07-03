@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhasamuccaya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāraṭṭhasamuccaya. The name given to the *Catubhāṇavāraṭṭhakathā*.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhasamuccaya. Tên được đặt cho *Catubhāṇavāraṭṭhakathā*. Nó được viết bởi một học trò của Ānanda theo yêu cầu của Vanaratana Thera của Tích Lan. Được xuất bản trong Hewavitarne Bequest Series (Colombo), vol. xxvii.
 
 ## Notes

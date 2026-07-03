@@ -5,7 +5,7 @@ base_headword: "Uṇṇābhasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uṇṇābhasutta. The conversation between the Buddha and <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇṇābhasutta. Cuộc trò chuyện giữa Đức Phật và Uṇṇābha được đề cập ở trên. SN.v.
 
 ## Notes

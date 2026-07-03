@@ -5,7 +5,7 @@ base_headword: "Santhāravagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Santhāravagga. The fourteenth chapter of the *Dukanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ mười bốn của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.93f.
 
 ## Notes

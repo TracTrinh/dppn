@@ -5,7 +5,7 @@ base_headword: "Ummadantī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -40,6 +40,12 @@ The story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummadantī. Con gái của trưởng giả Tirīṭavaccha xứ Ariṭṭhapura. Khi cô đến tuổi trưởng thành, cô xinh đẹp đến mức tất cả những ai nhìn thấy cô đều mất kiểm soát bản thân. Theo yêu cầu của cha cô, Sivi, vị vua của đất nước (người là Bodhisatta) đã cử các thầy bói đến để xem xét cô, với ý định lấy cô làm vợ, nhưng các vị Bà-la-môn, khi nhìn thấy cô, đã say sưa với nhục dục đến mức Ummadantī đã sai người đuổi họ ra khỏi nhà. Họ quay trở lại và tâu với nhà vua rằng cô là một phù thủy, và do đó, cô đã được gả cho Ahipāraka, con trai của vị tổng tư lệnh. Ummadantī ôm lòng oán hận nhà vua vì đã từ chối lời cầu hôn của cô, và vào một ngày lễ hội, khi nhà vua đi ngang qua dưới cửa sổ của cô, cô đã ném hoa vào ông để thu hút sự chú ý của ông. Kể từ giây phút nhà vua nhìn thấy Ummadantī, ông đã không thể tự chủ được sự khao khát dành cho cô và nằm trên giường điên cuồng vì cô. Khi Ahipāraka nghe kể về những gì đã xảy ra, ông đã dâng vợ mình cho nhà vua, nhưng Sivi quá chính trực để có thể nghe đến việc chấp nhận món quà này, và bằng một nỗ lực tột cùng của ý chí, ông đã vượt qua sự si mê của mình.
+
+Trong một kiếp trước, Ummadantī được sinh ra trong một gia đình nghèo ở Benares, và vào một ngày lễ hội nọ, sau khi nhìn thấy một số thánh nữ mặc y phục nhuộm màu đỏ tươi bằng hoa rum, cô đã xin cha mẹ một bộ y phục tương tự. Nhận ra rằng họ quá nghèo để có thể mua được món quà đó, cô đã làm việc trong một thời gian dài cho một gia đình khác, và cuối cùng họ đã tặng cô một bộ y phục. Khi cô chuẩn bị mặc nó, sau khi tắm dưới sông, cô nhìn thấy một đệ tử của Kassapa Buddha đang đứng mà không có bất kỳ bộ quần áo chỉnh tề nào, y phục của ngài đã bị đánh cắp khỏi bờ sông. Đầu tiên cô cúng dường cho ngài một nửa bộ y phục của mình, sau đó, khi thấy ngài trông rạng rỡ như thế nào trong bộ y phục đó, cô cũng cúng dường luôn nửa còn lại và thốt lên một lời cầu nguyện rằng trong một kiếp tương lai, cô sẽ vượt qua tất cả những người phụ nữ khác về nhan sắc và có vẻ đẹp khiến người khác phải điên cuồng.
+
+Cô được đồng nhất với Uppalavaṇṇā Therī. Cũng xem Thīg­a.192, v.28, được trích dẫn từ Apadāna.
+
+Câu chuyện được kể lại trong Ummadantījātaka. Ja.v.209ff.
 
 ## Notes

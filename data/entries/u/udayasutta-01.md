@@ -5,7 +5,7 @@ base_headword: "Udayasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "needs_check"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,8 @@ Udayasutta 01. The conversation between the Buddha and the Brahmin <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cuộc đối thoại giữa Đức Phật và Bà-la-môn Udaya (xem Udaya
 
 ## Notes
+
+[CHECK: English source appears truncated after "(see Udaya"; Vietnamese translation mirrors the available source, but the entry should be checked against the original source before final publication.]

@@ -5,7 +5,7 @@ base_headword: "Reṇu"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Reṇu 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇu 03. Vua xứ Uttarapañcāla, thủ đô của người Kuru. Ông là cha của Somanassa. Để biết chi tiết, xem Somanassajātaka. Ja 505, Ja.iv.444ff.
 
 ## Notes

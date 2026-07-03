@@ -5,7 +5,7 @@ base_headword: "Sāramaṇḍakappa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāramaṇḍakappa. The name given to a *kappa* in which four Buddhas are born.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāramaṇḍakappa. Tên được đặt cho một *kappa* trong đó có bốn vị Phật ra đời. Bv­a.159.
 
 ## Notes

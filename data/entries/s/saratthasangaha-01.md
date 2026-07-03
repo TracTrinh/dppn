@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhasaṅgaha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāraṭṭhasaṅgaha 01. A religious work, ascribed to <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhasaṅgaha 01. Một tác phẩm tôn giáo, được cho là của Buddhappiya. Gv.60, 71; PLC. 222.
 
 ## Notes

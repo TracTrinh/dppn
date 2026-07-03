@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 02. The thoughts of impermanence, of not-self, death the repulsive
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những ý niệm về sự vô thường, về vô ngã, cái chết, sự ghê tởm của thức ăn, sự chán ghét – những điều này, nếu được phát triển, dẫn đến lợi ích lớn. AN.iii.79.
 
 ## Notes

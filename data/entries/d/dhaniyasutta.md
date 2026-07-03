@@ -5,7 +5,7 @@ base_headword: "Dhaniyasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhaniyasutta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaniyasutta (Dhaniyagopālasutta). Ghi lại cuộc trò chuyện giữa người chăn gia súc Dhaniya (*q.v.*) và vị Phật. Snp.vv.18ff.
 
 ## Notes

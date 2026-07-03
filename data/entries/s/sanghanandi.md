@@ -5,7 +5,7 @@ base_headword: "Saṅghanandi"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghanandi. A monk to whom is attributed the *Vutti* of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghanandi. Một vị tỳ-kheo được cho là tác giả của *Vutti* thuộc ngữ pháp của Kaccāyana. PLC.180.
 
 ## Notes

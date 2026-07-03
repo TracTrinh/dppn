@@ -5,7 +5,7 @@ base_headword: "Iṭṭiya"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -32,6 +32,8 @@ King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṭṭiya (*v.l.* Ittiya, Iddhiya). Cũng được đánh vần là Iṭṭhiya, một trong những tỳ-kheo đã đồng hành cùng với Mahinda trong chuyến viếng thăm Ceylon của ông (Mhv.xii.7; Dpv.xii.12; Vin-a.i.71; Mbv.116; Dhs­a.32).
+
+Vua Sirimeghavaṇṇa đã cho làm một bức tượng của Iṭṭhiya và đặt nó bên cạnh tượng của Mahinda và những người bạn đồng hành của ông trong *vihāra* mà ông đã xây dựng ở góc đông nam cung điện của mình. Ông đã khai mạc một lễ hội kéo dài một năm để tôn vinh những bức tượng này (Cv.xxxvii.vv.87ff).
 
 ## Notes

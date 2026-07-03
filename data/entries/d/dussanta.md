@@ -5,7 +5,7 @@ base_headword: "Dussanta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dussanta. The Pāli form of the Sanskrit Duṣyanta, e.g., Cv.lxiv.44.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussanta. Dạng Pāli của tên tiếng Sanskrit Duṣyanta, ví dụ, Cv.lxiv.44.
 
 ## Notes

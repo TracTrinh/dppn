@@ -5,7 +5,7 @@ base_headword: "Pabbatavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabbatavagga. The first chapter of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatavagga. Phẩm đầu tiên của Bojjhaṅgasaṁyutta. SN.v.63ff.
 
 ## Notes

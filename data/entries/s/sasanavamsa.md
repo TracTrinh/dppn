@@ -5,7 +5,7 @@ base_headword: "Sāsanavaṁsa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -34,6 +34,6 @@ Sāsanavaṁsa. An ecclesiastical chronicle by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāsanavaṁsa. Một cuốn biên niên sử của giáo hội do Paññasāmi của Miến Điện biên soạn, được viết vào năm 1861 CN. Phần đầu của tác phẩm bắt đầu bằng sự đản sinh của Đức Phật và đưa lịch sử đến thời kỳ Kết tập lần thứ ba (Third Council) và việc phái các nhà truyền giáo đến chín quốc gia khác nhau: Sīhala, Suvaṇṇabhūmi, Yonakaraṭṭha, Vanavāsī, Kasmīra-Gandhāra, Mahiṁsakamaṇḍala, Cīnaraṭṭha, Mahā Raṭṭha (Siam) và Aparanta. Tiếp theo là các bản tường thuật về tôn giáo của các quốc gia này, một chương riêng được dành cho mỗi quốc gia. Nhưng các bản tường thuật về Sīhala (Tích Lan) và Suvaṇṇabhūmi (Miến Điện) thể hiện sự đầy đủ hơn so với các bản khác. Phần thứ hai hoàn toàn dành riêng cho Aparanta của chính Miến Điện. Được PTS xuất bản vào năm 1897.
 
 ## Notes

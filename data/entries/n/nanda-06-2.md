@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -47,6 +47,16 @@ The legends about them seem to have been confused from very early times.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 06. Nandā Therī. Được Đức Phật (AN.i.25) tuyên bố là vị đệ tử tối thắng trong số các tỳ-kheo-ni về năng lực thiền định (*jhāyīnaṁ*). Bà là con gái của Suddhodana và Mahā Pajāpatī, và do đó là em gái của Nanda Thera.
+
+Bà rõ ràng được đồng nhất với Sundarīnandā.
+
+Có ba vị *Therī* (Snp­a.i.241) mang tên Nandā đã được thọ giới cùng với Pajāpatī:
+
+- Nandā, em gái của Nanda Thera (rõ ràng cũng được gọi là Sundarīnandā và đôi khi là Rūpanandā và thậm chí là Janapadakaḷyāni Nandā) (vd. AN­a.i.198; và Thīg­a.80),
+- Abhirūpānandā (con gái của người Sākyan tên là Khema) và
+- Janapadakaḷyāni Nandā (rõ ràng đôi khi cũng được gọi là Rūpānandā, vd.,Dhp­a.iii.113f.).
+
+Những truyền thuyết về họ dường như đã bị nhầm lẫn từ thời rất xa xưa.
 
 ## Notes

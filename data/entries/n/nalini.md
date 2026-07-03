@@ -5,7 +5,7 @@ base_headword: "Naḷiṇi"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naḷiṇi. The kingdom of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷiṇi. Vương quốc của Vessavaṇa. Ja.vi.313; nhưng Vv-a (339, 340) giải thích Naḷiṇi là một *kīḷanaṭṭhāna*. Điều này thống nhất với DN.iii.202, nơi đề cập đến một Kuvera Naḷiṇi như một trong những cảnh đẹp của vương quốc Vessavaṇa.
 
 ## Notes

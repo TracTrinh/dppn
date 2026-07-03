@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhataraṭṭha 02. A mythical king, mentioned in a list of kings – with <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 02. Một vị vua huyền thoại, được nhắc đến trong một danh sách các vị vua – cùng với Vessāmitta, Aṭṭhaka, Yāmataggi, Usinnara và Sivi – như là đã bước vào cõi trời của Sakka nhờ vào đức hạnh của mình và sự phụng sự đối với những người sùng đạo. Ja.vi.251.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indriyajātaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -50,6 +50,14 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyajātaka (Ja 423). Xưa kia, một tu sĩ khổ hạnh tên là Nārada, em trai của Kāḷadevala, đã trở thành đệ tử của Bodhisatta Jotipāla (trong câu chuyện cũng được gọi là Sarabhaṅga), và sống ở vùng đồi núi Arañjara. Gần am thất của Nārada có một con sông, trên bờ sông ấy có những kỹ nữ thường ngồi, cám dỗ đàn ông. Nārada nhìn thấy một trong những kỹ nữ này, và trở nên say mê cô ta, đã từ bỏ sự thiền định của mình và tiều tụy vì thiếu thức ăn. Kāḷadevala, nhận biết được điều này, đã cố gắng giúp ông dứt bỏ những ham muốn của mình. Tuy nhiên, Nārada từ chối được an ủi, ngay cả khi các đồng môn của ông, Sālissara, Meṇḍissara và Pabbatissara khuyên can ông. Cuối cùng bản thân Sarabhaṅga đã được gọi đến và Nārada, sau khi nghe những lời của Đạo sư mình, đã được thuyết phục để từ bỏ dục vọng của bản thân.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo thoái thất. Anh ta thường đi khất thực cùng với các bậc thầy và những vị giáo thọ của mình nhưng, vì là người nhỏ tuổi hơn họ, anh ta nhận được rất ít sự chú ý. Bất mãn với thức ăn và cách đối xử dành cho mình, anh ta tìm đến người vợ ngày xưa của mình. Cô ta cung cấp cho anh ta mọi sự thoải mái và dần dần cám dỗ anh ta với mong muốn trở lại làm một cư sĩ tại gia. Khi các vị đồng tu của tỳ-kheo này phát hiện ra mong muốn của anh ta, họ đã đưa anh ta đến gặp Đức Phật, người đã thuyết cho anh ta bài Jātaka này, cho thấy rằng trong một tiền kiếp, anh ta cũng đã bị chính người phụ nữ đó cám dỗ dữ dội. Nārada được đồng nhất với vị tỳ-kheo thoái thất và nàng kỹ nữ với người vợ trong thời cư sĩ của anh ta (Ja.iii.461-9).
+
+Đức Phật được ghi nhận trong dịp này cũng đã thuyết Kaṇḍinajātaka (Ja.i.153ff), Rādhajātaka (Ja.i.495ff), Ruhakajātaka (Ja.ii.113ff), Kaṇaverajātaka (Ja.iii.58ff), Asaṅkajātaka (Ja.iii.248ff) và Alambusājātaka (Ja.v.152ff).
+
+Indriyajātaka cũng được nhắc đến trong Kāmavilāpajātaka (Ja.ii.443ff), nhưng mối liên kết giữa hai câu chuyện không rõ ràng; có lẽ sự liên hệ là đến một câu chuyện khác có cùng tên.
+
+Xem thêm Sarabhaṅgajātaka.
 
 ## Notes

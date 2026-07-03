@@ -5,7 +5,7 @@ base_headword: "Jegucchisutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -23,6 +23,6 @@ Jegucchisutta. On the three kinds of persons – one is to be shunned as loathso
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jegucchisutta. Bàn về ba hạng người – một hạng đáng bị xa lánh như một sự gớm ghiếc, hạng thứ hai đáng bị xem với sự thờ ơ, và hạng thứ ba đáng được bước theo và tôn kính. AN.i.126f.
 
 ## Notes

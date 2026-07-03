@@ -5,7 +5,7 @@ base_headword: "Padīraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padīraṭṭha. A district in Ceylon, where <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padīraṭṭha. Một quận ở Tích Lan, nơi Māgha và Jayabāhu đã thiết lập các công sự. Cv.lxxxiii.16; xem thêm lxxxviii.64; và Cv.Trs.ii.149, n.9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Isidinna"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -32,6 +32,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidinna. Một vị Thera. Ông là con trai của một vị trưởng giả (*seṭṭhi*) ở Sunāparanta. Ông đã chứng kiến thần thông khi Đức Phật thọ nhận tòa Candanamālā (có lẽ là Candanamālaka), và, sau khi nghe Đức Phật thuyết pháp, ông đã trở thành một *Sotāpanna*. Khi vẫn đang sống đời sống của một cư sĩ tại gia, một vị thần có lòng trắc ẩn đã thúc giục ông từ bỏ nó. Ông gia nhập Tăng đoàn và ngay sau đó trở thành một bậc *Arahant* (Thag­a.i.312-3).
+
+Theragāthā (vv.187-8) chứa đựng hai bài kệ mà ông đã thốt ra khi tuyên bố chánh trí (*aññā*). Chúng cũng chính là những bài kệ đã được vị thần thân thiện kia nói với ông. Trong thời của Vipassī Buddha, ông từng là một cư sĩ và đã đảnh lễ cây Bồ-đề của Đức Phật bằng một chiếc quạt làm từ hoa *sumana* (Thag­a.312f). Có lẽ ông được đồng nhất với Sumanavājaniya của Apadāna (Ap.ii.415).
 
 ## Notes

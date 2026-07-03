@@ -5,7 +5,7 @@ base_headword: "Rāmāyaṇa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rāmāyaṇa. Reference to this Epic Poem does not occur in the *Piṭaka* or in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmāyaṇa. Sử thi này không được đề cập trong Piṭaka hay trong các kinh điển thời kỳ đầu. Ngay cả trong các Chú giải, việc đề cập đến nó cũng hiếm hoi (vd., DN­a.i.76; MN­a.i.163, với tên gọi Sītāharaṇa), và khi đó nó chỉ bị lên án là "lời nói vô ích" (*niraṭṭhakakathā*). Chỉ trong các Biên niên sử muộn hơn, chẳng hạn như Cūḷa Vaṁsa (vd., Cv.lxiv.42), tác phẩm này mới thực sự được nhắc đến bằng tên. Xem thêm Rāma (5).
 
 ## Notes

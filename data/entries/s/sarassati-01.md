@@ -5,7 +5,7 @@ base_headword: "Sarassatī"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sarassatī 01. A river in India, rising in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarassatī 01. Một con sông ở Ấn Độ, bắt nguồn từ Himālaya. (Thag.1104; Mil.114 và AN­a.ii.737; Snp­a.i.321). Nó hiển nhiên là con sông Sarasvatī trong văn học Sanskrit, mà theo các kinh văn *Brāhmaṇa*, v.v., đã hình thành nên biên giới phía tây của vùng Madhyadesa thuộc Bà-la-môn giáo. Nó bắt nguồn từ những ngọn đồi Sirmu trong dãy Himalaya, được gọi là Semalik, và tiến vào bình nguyên tại Ād Badvi ở Ambala. Nó được những người Ấn giáo (Hindu) coi là thiêng liêng. Law: *Geography of Early Buddhism*, p. 39; cũng xem CAGI.382f.
 
 ## Notes

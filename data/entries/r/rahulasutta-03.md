@@ -5,7 +5,7 @@ base_headword: "Rāhulasutta"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rāhulasutta 03. Similar to No. 2. <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulasutta 03. Tương tự như số 2. Rāhula hỏi làm thế nào tâm của một người có thể dứt bỏ được những kiêu mạn hão huyền như vậy. SN.iii.136. *Sutta* này được đưa ra tại SN.ii.253 dưới tên gọi Apagatasutta.
 
 ## Notes

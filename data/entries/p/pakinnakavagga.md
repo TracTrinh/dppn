@@ -5,7 +5,7 @@ base_headword: "Pakiṇṇakavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pakiṇṇakavagga. The twenty-first chapter of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pakiṇṇakavagga. Phẩm thứ hai mươi mốt của Dhammapada.
 
 ## Notes

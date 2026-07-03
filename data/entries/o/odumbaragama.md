@@ -5,7 +5,7 @@ base_headword: "Odumbaragāma"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Odumbaragāma. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Odumbaragāma. Một hồ chứa nước do Parakkamabāhu I xây dựng. Cv.lxviii.48.
 
 ## Notes

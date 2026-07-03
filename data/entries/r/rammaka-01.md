@@ -5,7 +5,7 @@ base_headword: "Rammaka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rammaka 01. A Brahmin whose hermitage was in <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rammaka 01. Một vị Bà-la-môn có am thất ở Sāvatthī, gần Pubbakoṭṭhaka. Đó là nơi lui tới thường xuyên của các tỳ-kheo, và tại đó Đức Phật đã thuyết giảng Ariyapariyesanasutta. MN.i.160.
 
 ## Notes

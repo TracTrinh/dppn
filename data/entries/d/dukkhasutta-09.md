@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "09"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 09. It is impossible that a monk who sees happiness in any phenomeno
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 09. Không thể có chuyện một vị tỳ-kheo nào thấy hạnh phúc trong bất kỳ hiện tượng nào lại có thể sống trong sự hòa hợp và bình an. AN.iii.442.
 
 ## Notes

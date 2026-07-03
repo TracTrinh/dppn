@@ -5,7 +5,7 @@ base_headword: "Pabbatūpamasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbatūpamasutta 02. The *dukkha* which one Ariyan disciple who has won underst
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatūpamasutta 02. *Dukkha* mà một đệ tử thuộc bậc Thánh đã đạt được sự hiểu biết đã phá hủy, khi đặt cạnh *dukkha* vẫn còn phải bị phá hủy, sẽ giống như toàn bộ Himālaya đặt cạnh bảy hạt sỏi bằng hạt mù tạt. SN.v.464.
 
 ## Notes

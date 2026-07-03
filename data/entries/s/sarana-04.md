@@ -5,7 +5,7 @@ base_headword: "Saraṇa"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saraṇa 04. The city of birth of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇa 04. Thành phố đản sinh của Đức Phật Dhammadassī (Ja.i.39; Bv.xvi.13). Chính tại đó ngài đã gặp hai đệ tử tối thắng của mình là Paduma và Phussadeva. Bv­a.183.
 
 ## Notes

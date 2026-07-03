@@ -5,7 +5,7 @@ base_headword: "Indasālaguhā"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -46,6 +46,18 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indasālaguhā. Một hang động trên núi Vediya, về phía bắc của Ambasaṇḍā, một ngôi làng Bà-la-môn, nằm ở phía đông của Rājagaha. Có lần, khi Gotama Buddha đang ở đó, Sakka đã đến thăm ngài và hỏi ngài những câu hỏi được ghi lại trong Sakkapañhasutta (DN.ii.263).
+
+Buddhaghosa nói (DN­a.iii.697) rằng hang động nằm giữa hai tảng đá nhô ra, với một cây *sāla* lớn ở lối vào. Cộng đồng dân làng đã dựng thêm những bức tường có cửa ra vào và cửa sổ, trang trí nó bằng những cuộn vữa đánh bóng cùng những vòng hoa, và đã dâng nó cho Đức Phật.
+
+Vào thời đại của Pháp Hiển (Giles, p.48f), nơi này vẫn có người ở và ngài mô tả nó nằm cách Nālandā một do-tuần về phía đông bắc. Tuy nhiên, Huyền Trang lại thấy nó bị bỏ hoang. Ông gọi nó là *Indrakaśailagūhā* (Beal-Xuan.ii.180-1).
+
+Cả hai vị khách hành hương đều chú ý đến những dấu vết trên tảng đá; theo Pháp Hiển, đó là những câu trả lời cho các câu hỏi của Sakka được Đức Phật viết bằng ngón tay của ngài, trong khi Huyền Trang nói rằng cả câu hỏi lẫn câu trả lời đều được viết trên đá.
+
+Hang động này được đồng nhất với một hang động nằm cách ngôi làng hiện đại Giriyek khoảng hai dặm về phía tây nam. (CAGI.539ff; Stein, Ind.An. 1901, p.54).
+
+Người ta nói rằng trong dịp thuyết bài kinh Sakkapañhasutta, có tám trăm triệu Deva đã liễu ngộ Chân lý (Mil.349).
+
+Xem thêm Somanassa (3).
 
 ## Notes

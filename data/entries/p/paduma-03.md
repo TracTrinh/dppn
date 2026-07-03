@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paduma 03. One of the three palaces occupied by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 03. Một trong ba cung điện được Sobhita Buddha cư ngụ trong kiếp sống cư sĩ cuối cùng của mình. Bv.vii.17.
 
 ## Notes

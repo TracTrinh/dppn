@@ -5,7 +5,7 @@ base_headword: "Dhammikasilāmegha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammikasilāmegha. A title of King <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammikasilāmegha. Một danh xưng của Vua Mahinda III. Cv.xlix.39.
 
 ## Notes

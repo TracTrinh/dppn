@@ -5,7 +5,7 @@ base_headword: "Rativaḍḍhana"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rativaḍḍhana 04. A palace in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rativaḍḍhana 04. Một cung điện ở Mithilā. Nó là nơi ở đặc biệt được cung cấp cho Rujā bởi cha cô là Aṅgati. Ja.iv.231,232.
 
 ## Notes

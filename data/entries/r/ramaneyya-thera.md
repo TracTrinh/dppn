@@ -5,7 +5,7 @@ base_headword: "Rāmaṇeyya Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -36,6 +36,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmaṇeyya Thera, Rāmaṇeyyaka Thera. Một vị Arahant. Ông xuất thân từ một gia đình giàu có ở Sāvatthī, và đã xuất gia sau khi vô cùng ấn tượng trước việc hiến cúng Jetavana. Trú trong rừng, ông thực hành thiền định, và, nhờ vào những thành tựu cùng sự duyên dáng của mình, ông được gọi là Rāmaṇeyyaka. Có lần Māra cố gắng làm ông kinh sợ, nhưng không thành công. Bài kệ ông thốt ra vào dịp đó được đưa vào Theragāthā (Thag. vs. 49).
+
+Vào thời Sikhī Buddha, ông đã cúng dường hoa cho ngài. Hai mươi chín kappa trước, ông là vua dưới tên gọi Sumedhayasa (v.l. Sumeghaghana) (Thag­a.i.120f). Ông có lẽ đồng nhất với Minelapupphiya của Apadāna. Ap.i.203f.
 
 ## Notes

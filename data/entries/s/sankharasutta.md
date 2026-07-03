@@ -5,7 +5,7 @@ base_headword: "Saṅkhārasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkhārasutta. Some people accumulate acts of body, speech and mind that are 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một số người tích lũy các hành động của thân, khẩu và ý bất hòa; những người khác tích lũy những hành động hòa hợp; lại có những người khác tích lũy những hành động vừa bất hòa vừa hòa hợp. AN.i.122.
 
 ## Notes

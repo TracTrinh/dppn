@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udena 07. A king, father of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua, cha của Siddhattha Buddha (Bv.xvii.13); cũng được gọi là Jayasena (Bv­a.187).
 
 ## Notes

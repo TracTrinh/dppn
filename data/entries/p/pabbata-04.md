@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pabbata 04. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 04. Một vị đại thần của Vaṭṭagāmaṇī, người đã xây dựng một tu viện tên là Pabbatārāma, tu viện này ông đã dâng cúng cho *Kupikkala* Mahā Tissa. Mhv.xxxiii.91.
 
 ## Notes

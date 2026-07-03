@@ -5,7 +5,7 @@ base_headword: "Jagatidāyaka Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jagatidāyaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jagatidāyaka Thera. Một vị *Arahant*. Vào thời Dhammadassī Buddha, ngài đã dựng một *jagati* tại cây bodhi của Đức Phật. Ap.ii.402.
 
 ## Notes

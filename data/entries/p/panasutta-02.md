@@ -5,7 +5,7 @@ base_headword: "Pāṇāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṇāsutta 02. Supposing a man were to collect all the grass, sticks, etc., i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṇāsutta 02. Giả sử một người đi thu gom toàn bộ cỏ, cành cây, v.v., ở Jambudīpa, và sau khi làm ra những chiếc cọc với đủ mọi kích cỡ, người đó đem xuyên qua tất cả các sinh vật của đại dương, các sinh vật đủ mọi kích cỡ; ngay cả như vậy, phần lớn các loài động vật cực nhỏ vẫn sẽ thoát, vì chúng quá nhỏ để bị xuyên qua. Sự hoại diệt của các pháp lan rộng như thế; tuy nhiên, khỏi sự hoại diệt lan rộng như vậy, những ai có khả năng chứng ngộ Bốn Sự Thật Cao Quý (Tứ Thánh Đế) sẽ được cứu thoát. SN.v.441.
 
 ## Notes

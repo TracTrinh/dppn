@@ -5,7 +5,7 @@ base_headword: "Duṭṭhakumārī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Duṭṭhakumārī. Daughter of a banker of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duṭṭhakumārī. Con gái của một trưởng giả ở Benares. Về câu chuyện của bà, xem Takkajātaka (Ja 446).
 
 ## Notes

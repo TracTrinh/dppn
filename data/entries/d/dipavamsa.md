@@ -5,7 +5,7 @@ base_headword: "Dīpavaṁsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The work was edited and published by Oldenberg in 1879. For details see Geiger: 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpavaṁsa. Biên niên sử bằng tiếng Pāli lâu đời nhất còn tồn tại của Tích Lan. Giống như Mahā Vaṁsa, nó dựa trên các *Aṭṭhakathā* (Chú giải) được lưu truyền trong Mahā Vihāra của Tích Lan. Nó mang lại ấn tượng không phải là một chỉnh thể được trau chuốt đồng đều, mà giống như một sự xâu chuỗi các đoạn chắp vá với nhau, một sự chắp ghép của toàn bộ các dòng, đôi khi là toàn bộ các bài kệ, vay mượn từ *Aṭṭhakathā*. Người ta thường đồng ý rằng Dīpavaṁsa đã mang hình thức hiện tại của nó vào khoảng thế kỷ thứ tư Công nguyên (CE). Người ta nói (Cv.xxxviii.59) rằng Dhātusena đã thực hiện các khoản hiến tặng cho việc tụng đọc thường xuyên Dīpavaṁsa.
+
+Tác phẩm này đã được biên tập và xuất bản bởi Oldenberg vào năm 1879. Về chi tiết, xem Geiger: *Dīpavaṁsa and Mahā Vaṁsa*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattānisaṁsasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattānisaṁsasutta. Seven advantages resulting from the cultivation of the fiv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattānisaṁsasutta. Bảy lợi ích mang lại từ việc trau dồi năm *indriya*. SN.v.237.
 
 ## Notes

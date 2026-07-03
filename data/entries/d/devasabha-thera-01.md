@@ -5,7 +5,7 @@ base_headword: "Devasabha Thera"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devasabha Thera 01. Một vị *Arahant*. Ngài là con trai của một vị quan cai trị một tỉnh và đã kế thừa tước vị này khi còn khá trẻ. Ngài đã đến thăm Đức Phật, và sau khi nghe ngài thuyết Pháp, đã gia nhập Tăng đoàn, đạt quả vị *Arahant* không lâu sau đó.
+
+Vào thời của Đức Phật Sikhī, ngài là một con chim bồ câu, và, sau khi nhìn thấy Đức Phật, đã cúng dường ngài một quả *piyāla*. Ngài đã ba lần làm vua dưới tên là Piyālī (Thag.v.100; Thag­a.i.187f). Ngài có lẽ là cùng một người với Piyālaphaladāyaka của Apadāna. Ap.i.169f.
 
 ## Notes

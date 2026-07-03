@@ -5,7 +5,7 @@ base_headword: "Saraṇaṅkara"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -35,6 +35,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇaṅkara 02. Saraṇaṅkara Thera. Một tỳ-kheo xuất chúng của Tích Lan. Narindasīha, bị thu hút bởi sự thành kính và học thức của ngài, đã trao cho ngài, trong khi ngài vẫn còn là một *Sāmaṇera*, một tháp đựng xá-lợi nạm bảy trăm viên ngọc và vô số sách, và cũng chu cấp cho việc bảo hộ ngài. Theo yêu cầu của nhà vua, Saraṇaṅkara đã biên soạn *Sāraṭṭhasaṅgraha* và các Chú giải tiếng Sinhala cho Mahā Bodhivaṁsa và Bhesajjamañjūsā (Cv.xcvii.48ff).
+
+Khi Vijayarājasīha lên ngôi, Saraṇaṅkara sống ở *Uposathārāma* và đã biên soạn, theo yêu cầu của nhà vua, một Chú giải tiếng Sinhala cho Catubhāṇavāra (Cv.xcviii.23f). Dưới triều đại của Kittisirirājasīha, cùng với sự giúp đỡ của nhà vua, ngài đã thực hiện nhiều cuộc cải cách trong số các tỳ-kheo, áp dụng các biện pháp mạnh mẽ chống lại những người vi phạm. Ngài cũng đóng vai trò quan trọng trong việc thuyết phục nhà vua gửi một phái bộ ngoại giao đến Vua Dhammika của Xiêm La (Sāminda) để thỉnh từ đó một phái đoàn tỳ-kheo cho việc tái thiết lập *upasampadā* ở Tích Lan. Khi việc này đã hoàn thành, nhà vua đã phong cho Saraṇaṅkara chức vị *Saṅgharāja* cai quản Tích Lan. Cv.c.49ff;101ff.
 
 ## Notes

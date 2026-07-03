@@ -5,7 +5,7 @@ base_headword: "Pañcagativaṇṇanā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pañcagativaṇṇanā. The name of a Commentary Gv.65, 75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcagativaṇṇanā. Tên của một bộ Chú giải Gv.65, 75.
 
 ## Notes

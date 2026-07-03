@@ -5,7 +5,7 @@ base_headword: "Jhānasaṁyutta"
 disambiguator: "02"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -26,6 +26,6 @@ Jhānasaṁyutta 02. he fifty-third <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasaṁyutta 02. Saṁyutta thứ năm mươi ba của Saṁyuttanikāya. SN.v.307-10.
 
 ## Notes

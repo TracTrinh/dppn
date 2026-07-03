@@ -5,7 +5,7 @@ base_headword: "Nālika"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nālika. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālika. Một tướng quân người Damiḷa, phụ trách Nāḷisobbha. Ông đã bị Duṭṭhagāmaṇī đánh bại. Mhv.xxv.11.
 
 ## Notes

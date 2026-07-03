@@ -5,7 +5,7 @@ base_headword: "Pabbhāradāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pabbhāradāyaka Thera. An *Arahant*. He once cleaned the shed (*pabbhāra*) in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbhāradāyaka Thera. Một vị *Arahant*. Ngài từng dọn dẹp nhà chứa nước (*pabbhāra*) nơi Piyadassī Buddha giữ nước uống của ngài và cung cấp cho ngài một cái bình. Hai mươi hai *kappa* trước, ngài là một vị vua tên là Susuddha. Ap.i.252.
 
 ## Notes

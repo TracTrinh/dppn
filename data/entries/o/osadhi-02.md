@@ -5,7 +5,7 @@ base_headword: "Osadhī"
 disambiguator: "02"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Osadhī 02. The city at the gates of which <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Osadhī 02. Thành phố mà tại cổng của nó Anomadassī Buddha đã thi triển Song thông (Bv­a.143) và, do đó, là tên gọi trước đây của Saṅkassa.
 
 ## Notes

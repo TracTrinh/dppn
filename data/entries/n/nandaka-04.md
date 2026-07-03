@@ -5,7 +5,7 @@ base_headword: "Nandaka"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandaka 04. A minister of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandaka 04. Một vị quan của tộc người Licchavī. Xem Nandakasutta (2).
 
 ## Notes

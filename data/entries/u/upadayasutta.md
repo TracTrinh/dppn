@@ -5,7 +5,7 @@ base_headword: "Upādāyasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upādāyasutta. Personal weal and woe are dependent on the eye, ear, etc. But th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādāyasutta. Hạnh phúc và khổ đau của cá nhân phụ thuộc vào mắt, tai, v.v. Nhưng những thứ này là vô thường, khổ đau, có bản chất luôn thay đổi. Do đó, người ta không nên ham muốn chúng. SN.iv.85f.
 
 ## Notes

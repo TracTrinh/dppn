@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "10"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 10. Diversity of thoughts is due to diversity of elements; hence a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sự đa dạng của các ý niệm là do sự đa dạng của các giới; từ đó phát sinh sự đa dạng của những mục tiêu, những sự khao khát, những sự mong mỏi, và những sự tìm kiếm. SN.ii.143.
 
 ## Notes

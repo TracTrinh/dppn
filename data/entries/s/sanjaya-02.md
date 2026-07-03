@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sañjaya 02. A *rājā* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 02. Một *rājā* của Tagara. Ông đã từ bỏ thế gian cùng với chín mươi crore người khác và trở thành một tu sĩ khổ hạnh. Dhammadassī Buddha đã thuyết pháp cho họ và tất cả họ đều đạt quả vị *Arahant*. Bv.xvi.3; Bv-a.183.
 
 ## Notes

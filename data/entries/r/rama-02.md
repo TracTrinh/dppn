@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -31,6 +31,6 @@ Rāma 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 02. Vua xứ Benares. Ông mắc một căn bệnh ngoài da quái ác, và, để lại vương quốc cho con trai cả, đã vào rừng, nơi ông được chữa khỏi nhờ ăn các loại thảo dược. Trong rừng, ông gặp và kết hôn với Piyā, con gái cả của Okkāka. Nàng mắc cùng một căn bệnh, và được ông chữa khỏi. Họ sống trong rừng cùng ba mươi hai người con. Một người đi rừng nhận ra Rāma trong rừng, và, khi trở về thành phố, đã báo tin cho nhà vua. Nhà vua cùng đoàn tùy tùng vào rừng và cầu xin cha trở về vương quốc. Ông từ chối, và, theo đề nghị của chính ông, một thành phố được xây dựng cho ông trong rừng, được gọi là Koḷiya hoặc Vyagghapajja. Rāma do đó trở thành tổ tiên của những người Koḷiyan. DN­a.i.260ff.; Snp­a.355f.; x. Mvu.i.355, nơi ông được gọi là Kola.
 
 ## Notes

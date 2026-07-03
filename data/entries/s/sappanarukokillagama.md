@@ -5,7 +5,7 @@ base_headword: "Sappanārukokillagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sappanārukokillagāma. A village in Ceylon in which the Buddha’s Alms Bowl an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon nơi mà Bình Bát và Xá-lợi Răng của Đức Phật đã từng được cất giữ. Cv.lxxiv.142.
 
 ## Notes

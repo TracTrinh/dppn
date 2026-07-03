@@ -5,7 +5,7 @@ base_headword: "Saṅkhāruppattisutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,8 @@ The *Sutta* contains a long list of *Deva*-worlds and *Brahma* worlds.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bài *Sutta* thứ 120 của Majjhimanikāya. Một vị tỳ-kheo sở hữu năm *saṅkhāra* (“các sức mạnh tạo tác”) gồm đức tin, giới hạnh, sự học hỏi, tính hào phóng và trí tuệ, nếu vị ấy trau dồi và phát triển chúng, có thể được tái sinh vào bất kỳ điều kiện hay thế giới nào mà vị ấy mong muốn; nhờ đó, vị ấy thậm chí có thể đạt được *Nibbāna* (MN.iii.99ff).
+
+Bài *Sutta* chứa một danh sách dài các cõi *Deva* và các cõi *Brahma*.
 
 ## Notes

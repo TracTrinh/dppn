@@ -5,7 +5,7 @@ base_headword: "Jambukola"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -35,6 +35,8 @@ Geiger thinks that, besides the seaport, there was another locality in the inter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukola. Một hải cảng ở Nāgadīpa thuộc miền bắc Tích Lan. Tại đây Mahāriṭṭha và những người bạn đồng hành của ông đã lên thuyền khởi hành chuyến hành trình của mình với tư cách là các phái viên đến gặp Dhammāsoka (Mhv.xi.23). Cũng tại đây con thuyền chở Saṅghamittā và nhánh cây bodhi thiêng liêng đã cập bến, được chào đón bởi Devānampiyatissa, người đang chờ đợi sự xuất hiện của bà trong Samuddapaṇṇasālā (Mhv.xix.25f). Một cây non từ cây bodhi sau đó đã được trồng trên chính vị trí mà nó đã được đặt sau khi cập bến (Mhv.vs.59; Vin-a.i.100; Mbv.145-62, *passim*) và Devānampiyatissa đã xây dựng một *vihāra* ở đó được gọi là Jambukolavihāra (Mhv.xx.25). Từ Jambukola đến Tāmalitti bằng đường biển là một chuyến hành trình mất bảy ngày (Mhv.xi.23), và dường như đã mất năm ngày để đi đến Anurādhapura từ Jambukola (Mhv.vs.38). Đây là hải cảng của Anurādhapura (ví dụ, Vibh­a.446).
+
+Geiger cho rằng, bên cạnh hải cảng, còn có một địa điểm khác trong đất liền của Tích Lan mang cùng tên, mà ông nhận diện đó là Dambulla hiện đại (Cv.Trs.i.293, n.1; xem Cv.lxx.72; lxxii.136).
 
 ## Notes

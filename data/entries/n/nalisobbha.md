@@ -5,7 +5,7 @@ base_headword: "Nāḷisobbha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāḷisobbha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāḷisobbha. Một thành trì của người Damiḷa do Nāḷika phụ trách, và bị Duṭṭhagāmaṇī chiếm. Mhv.xxv.11.
 
 ## Notes

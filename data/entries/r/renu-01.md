@@ -5,7 +5,7 @@ base_headword: "Reṇu"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -51,6 +51,8 @@ The seven divisions of the kingdom were called <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇu 01. Con trai và người kế vị của Vua Disampati. Trước cái chết của cha mình, Reṇu, với lời khuyên và sự hợp tác của vị quan quản gia trưởng (Mahā Govinda) Jotipāla, người đồng thời cũng là người bạn lớn của ông, đã chia vương quốc của mình thành bảy phần và chia sẻ nó với những người bạn của mình – Sattabhu, Brahmadatta, Vessabhū, Bharata, và hai người tên Dhataraṭṭha.
+
+Bảy bộ phận của vương quốc được gọi là Kaliṅga, Assaka, Avanti, Sovīra, Videha, Aṅga và Kāsi; thủ đô của chúng tương ứng là Dantapura, Potana, Māhissatī, Roruka, Mithilā, Campā và Bārāṇasī. Đích thân Reṇu chiếm giữ vương quốc trung tâm. DN.ii.228-36; Reṇu có lẽ trị vì ở Benares, mặc dù bản ghi chép được cung cấp trong Mahā Govindasutta không làm rõ đâu là vương quốc của ông; xem Dial.ii.270 n.; cũng xem Mvu.iii.197-209; và Reṇu (2).
 
 ## Notes

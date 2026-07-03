@@ -5,7 +5,7 @@ base_headword: "Duppaññasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Duppaññasutta 01. One who is an unbeliever, immoral, indolent and of weak wisd
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duppaññasutta 01. Người không có niềm tin, vô luân, lười biếng và trí tuệ kém cỏi, thì tái sinh vào địa ngục. AN.ii.227.
 
 ## Notes

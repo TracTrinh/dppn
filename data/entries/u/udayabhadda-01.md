@@ -5,7 +5,7 @@ base_headword: "Udayabhadda"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Udayabhadda 01. The Bodhisatta, born as king of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta, sinh ra làm vua của Benares. Ngài được gọi như vậy (“Chào mừng”) vì ngài đã được sinh ra cho cha mẹ của ngài như một kết quả của những lời cầu nguyện của họ. Ngài có một người chị kế, Udayabhaddā. Khi cha mẹ ngài mong muốn ngài kết hôn, ngài đã từ chối, nhưng cuối cùng, nhượng bộ trước những lời cầu xin của họ, ngài đã làm một bức tượng phụ nữ bằng vàng và mong muốn họ tìm một người vợ giống như nó. Chỉ riêng Udayabhaddā mới có thể sánh ngang với bức tượng, vì vậy nàng đã được gả cho Udayabhadda. Họ đã sống cùng nhau trong sự tịnh hạnh và, đến đúng thời điểm, khi Udayabhadda qua đời, công chúa đã trở thành hoàng hậu. Nhà vua được sinh ra làm Sakka, và để tôn vinh một lời hứa mà ngài đã lập với công chúa về việc sẽ quay trở lại và thông báo cho nàng nơi sinh của mình, ngài đã đến thăm nàng ngay khi ngài nhớ đến nàng, và, trước khi tiết lộ bản thân mình, ngài đã thử thách nàng theo nhiều cách khác nhau. Hài lòng với đức hạnh của nàng, ngài đã hướng dẫn nàng và rời đi. Công chúa, từ bỏ vương quốc, đã trở thành một nữ tu sĩ. Sau đó nàng được sinh ra ở Tāvatiṁsa như một tỳ nữ của Bodhisatta. Ja.iv.104ff.
 
 ## Notes

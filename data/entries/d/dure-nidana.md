@@ -5,7 +5,7 @@ base_headword: "Dūre nidāna"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,8 @@ This forms part of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūre nidāna. Câu chuyện về Bodhisatta từ lúc có lời thọ ký của Dīpaṅkara về sự Giác ngộ của ngài cho đến khi ngài sinh vào cõi Tusita.
+
+Phần này tạo thành một phần của Nidānakathā thuộc Chú giải Jātaka Ja.i.2-47.
 
 ## Notes

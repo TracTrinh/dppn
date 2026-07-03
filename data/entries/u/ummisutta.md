@@ -5,7 +5,7 @@ base_headword: "Ummisutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Ummisutta. Four perils have to be faced by those who go down into the water: wav
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummisutta. Có bốn mối nguy hiểm mà những người đi xuống nước phải đối mặt: những con sóng, cá mập, những vòng xoáy và thủy quái. Những mối nguy hiểm tương tự đang chờ đón những người đi từ đời sống gia đình đến sự không nhà. AN.ii.123ff. Bài *Sutta* này được bao gồm như là một phần của Cātumasutta (MN.i.460f).
 
 ## Notes

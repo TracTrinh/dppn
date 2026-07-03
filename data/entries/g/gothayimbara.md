@@ -5,7 +5,7 @@ base_headword: "Goṭhayimbara"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -41,6 +41,10 @@ See also Ras.ii.87f, which says that he was so-called because he was short, but 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṭhayimbara. Một trong những dũng tướng của Duṭṭhagāmaṇī. Ông là con trai của Mahā Nāga ở Niṭṭhulaviṭṭhika và mang cái tên này là do thân hình nhỏ bé như người lùn của mình. Ông đã nhổ các cây *imbara* từ một vùng rừng thưa, qua đó chứng tỏ sức mạnh phi thường của mình. Kākavaṇṇatissa, khi nghe nói về điều này, đã triệu ông vào triều (Mhv.xxiii.49ff; Rasavāhini ii.28 nói rằng ông đã thu phục một Yakkha tên là Jayasena). Ông đóng một vai trò quan trọng trong cuộc tấn công vào Vijitapura, sử dụng một cây dừa làm vũ khí (Mhv.xxv.27, 32, 44f).
+
+Người ta kể rằng (Mhv­ṭ.452) vào thời của Kassapa Buddha, ông đã cúng dường cháo sữa hàng ngày cho các tỳ-kheo.
+
+Xem thêm Ras.ii.87f, ở đó nói rằng ông được gọi như vậy vì ông thấp lùn, nhưng theo các tỳ-kheo Uttaravihāra, ông được đặt tên như vậy là do khi đi săn, ông giết các con vật bằng cách đập chúng vào các cây *koṭṭhayimbara*. Một lần, khi ông đang tổ chức một bữa tiệc tại nhà, sau khi đánh bại người Damiḷa, một Yakkha tên là Jayasena ở Ariṭṭhapabbata tình cờ đi ngang qua, và khi bước vào nhà, đã phải lòng vợ của Goṭhayimbara. Goṭhayimbara đã thách đấu với Yakkha này và đánh bại hắn. Ông ăn mừng chiến thắng trong bảy ngày và đi đến cung điện trong tình trạng say xỉn. Bị từ chối cho vào, ông đã bơi sang Kāvīrapaṭṭana, và đi đến tận Himālaya để tìm các vị thánh tăng, khi ông đang định tự tử trong tuyệt vọng thì một vị Thera Arahant xuất hiện trước mặt ông và truyền giới cho ông. Về sau ông đắc quả vị *Arahant*.
 
 ## Notes

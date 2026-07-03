@@ -5,7 +5,7 @@ base_headword: "Padīvāpī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padīvāpī. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padīvāpī. Một cái bể được Parakkamabāhu II khôi phục lại. Cv.lxxix.34. Xem thêm Cv.Trs.ii.119, n.2.
 
 ## Notes

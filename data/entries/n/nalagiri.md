@@ -5,7 +5,7 @@ base_headword: "Nālāgiri"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -39,6 +39,8 @@ The Bodhisatta, in a past life, was once riding an elephant when he saw a <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālāgiri, Nāḷāgiri. Một con voi của chuồng voi hoàng gia tại Rājagaha. Devadatta, sau nhiều nỗ lực vô ích để giết Đức Phật, đã xin được sự đồng ý của Ajātasattu để sử dụng Nālagiri như một phương tiện nhằm gây ra cái chết cho Đức Phật. Con voi, ông ta nói, không biết gì về những đức hạnh của Đức Phật và sẽ không do dự trong việc tiêu diệt Ngài. Nālagiri là một con vật hung dữ, và để làm tăng thêm sự hung tợn của nó, Devadatta đã hướng dẫn người quản tượng cho nó uống gấp đôi lượng rượu cọ thông thường. Một thông cáo đã được đưa ra, bằng việc đánh trống, rằng các con phố của thành phố nên được dọn sạch vì Nālāgiri sẽ được thả rông trên đó. Khi Đức Phật được thông báo về điều này và được cảnh báo về việc không nên đi vào thành phố để khất thực, Ngài đã phớt lờ lời cảnh báo, và đi vào Rājagaha cùng với các tỳ-kheo của mười tám tu viện trong thành phố. Khi nhìn thấy Nālāgiri, tất cả mọi người đã bỏ chạy trong sự kinh hoàng. Ānanda, khi thấy con voi đang tiến về phía Đức Phật, đã đi lên, bất chấp những mệnh lệnh ngược lại của Đức Phật, và đứng phía trước Đức Phật, người đã phải sử dụng thần thông của mình để di dời ngài khỏi vị trí đó. Ngay lúc đó, một người phụ nữ, đang bế một đứa trẻ, nhìn thấy con voi đang lao tới và bỏ chạy, trong sự hoảng sợ cô đã đánh rơi đứa trẻ dưới chân Đức Phật. Khi con voi chuẩn bị tấn công đứa trẻ, Đức Phật đã nói chuyện với nó, bao trùm nó bằng tất cả tình yêu thương mà Ngài có thể, và, đưa tay phải ra, Ngài đã vuốt ve trán con vật. Run rẩy vì vui sướng trước sự đụng chạm đó, Nālāgiri đã quỳ gối trước Đức Phật, và Đức Phật đã thuyết giảng Dhamma cho nó. Có nói rằng nếu con voi không phải là một con thú hoang dã thì nó đã trở thành một *Sotāpanna* (bậc Dự lưu). Kinh ngạc trước cảnh tượng đó, những người dân đang tụ tập đã ném tất cả các đồ trang sức của họ lên cơ thể con voi, che phủ hoàn toàn nó, và kể từ đó con voi được biết đến với tên gọi Dhanapāla (Dhanapālaka). Đức Phật đã quay trở lại Veḷuvana, và ngày hôm đó, vào buổi tối, Ngài đã thuyết giảng Cūḷa Haṁsajātaka để tán thán lòng trung thành của Ānanda đối với bản thân Ngài (Vin.ii.194f.: Ja.v.333ff.; Avś.i. 177). Có nói rằng chín trăm triệu chúng sinh, những người đã chứng kiến phép thần thông đó, đã chứng ngộ Chân lý (Mil. 349).
+
+Bodhisatta, trong một kiếp quá khứ, có lần đang cưỡi voi thì nhìn thấy một Pacceka Buddha. Say sưa với vinh quang của chính mình, ngài đã khiến con voi lao vào Pacceka Buddha. Kết quả của hành động này là Đức Phật, trong kiếp sống này, đã bị Nālāgiri lao tới tấn công (Ud­a.265; Ap.i.300). cp. Doṇamukha.
 
 ## Notes

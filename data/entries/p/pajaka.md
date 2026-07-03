@@ -5,7 +5,7 @@ base_headword: "Pajāka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pajāka. A king. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajāka. Một vị vua. Lambacūḷaka ở trong vương quốc của ông và Meṇḍissara (*q.v.*) sống ở đó cùng với các môn đồ của mình (Ja.iii.463). Nhưng ở chỗ khác (Ja.v.133), chúng ta được biết rằng Lambacūḷaka ở trong vương quốc của Caṇḍappajjota. Điều này có nghĩa là vương quốc của Caṇḍappajjota cũng chính là vương quốc của Pajāka?
 
 ## Notes

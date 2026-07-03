@@ -5,7 +5,7 @@ base_headword: "Ūhānadī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ūhānadī. Một con sông ở Himālaya, rõ ràng là khó tiếp cận. Mil.70.
 
 ## Notes

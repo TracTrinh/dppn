@@ -5,7 +5,7 @@ base_headword: "Uddhaccasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Uddhaccasutta. Conceit, want of restraint and of diligence, should all be destro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sự kiêu ngạo, sự thiếu vắng của sự kiềm chế và của sự chuyên cần, tất cả nên bị hủy diệt bởi sự tĩnh lặng (*samatha*), sự kiềm chế và sự không phóng dật (AN.iii.449).
 
 ## Notes

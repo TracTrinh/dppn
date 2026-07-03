@@ -5,7 +5,7 @@ base_headword: "Najūpama"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Najūpama. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Najūpama. *v.l.* Sabbūpasama. Chín mươi bốn *kappa* trước đã có năm trăm vị vua mang tên này, tất cả đều là những kiếp trước của Trưởng lão Uppalahatthiya (Valliya). Ap.i.141; Thag­a.i.125.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naḷakhaṇḍapadhāna"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naḷakhaṇḍapadhāna. A practising hall. It was the residence of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakhaṇḍapadhāna. Một thiền đường thực hành. Đó là nơi ở của Cūḷa Piṇḍapātiyanāga Thera. Ras.ii.145.
 
 ## Notes

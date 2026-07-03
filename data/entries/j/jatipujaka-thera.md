@@ -5,7 +5,7 @@ base_headword: "Jātipūjaka Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -30,6 +30,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātipūjaka Thera. Một vị *Arahant*. Vào ngày Vipassī Buddha đản sinh, nhiều phép lạ đã xảy ra, và những người đoán điềm giải mộng đã tiên đoán rằng ngài sẽ trở thành một vị Phật. Jātipūjaka, khi nghe được điều này, đã dâng tặng ngài những bông hoa nhài. Cách đây ba *kappa* ngài đã trở thành vua ba mươi tư lần với tên gọi là Supāricariya (Ap.i.154).
+
+Ngài có lẽ cũng chính là Samitigutta. Thag­a.i.176.
 
 ## Notes

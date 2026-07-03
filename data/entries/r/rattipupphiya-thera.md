@@ -5,7 +5,7 @@ base_headword: "Rattipupphiya Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rattipupphiya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattipupphiya Thera. Một vị Arahant. Vào thời của Vipassī Buddha, ông là một thợ săn, và, khi nhìn thấy Đức Phật trong rừng, ông đã dâng cho ngài một số bông hoa nở về đêm (*rattikaṁ pupphaṁ*). Tám *kappa* trước, ông là một vị vua tên là Suppasanna. Ap.i.188.
 
 ## Notes

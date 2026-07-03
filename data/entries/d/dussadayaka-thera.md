@@ -5,7 +5,7 @@ base_headword: "Dussadāyaka Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dussadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a *Khattiya*, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussadāyaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ngài là một người thuộc giai cấp Sát-đế-lỵ (*Khattiya*), và sau khi nhận được một số y phục như một cống vật, ngài đã cúng dường chúng cho Siddhattha Buddha. Sáu mươi bảy *kappa* trước, ngài là một vị vua tên là Parisuddha (Ap.i.185).
 
 ## Notes

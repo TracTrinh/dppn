@@ -5,7 +5,7 @@ base_headword: "Udakapabbata"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Udakapabbata. A mountain in the region of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn núi trong vùng của Himavā. Ja.v.38; Ap.ii.434.
 
 ## Notes

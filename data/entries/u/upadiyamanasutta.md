@@ -5,7 +5,7 @@ base_headword: "Upādiyamānasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upādiyamānasutta. When asked by a certain monk to give a topic for reflection,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādiyamānasutta. Khi được một vị tỳ-kheo nọ yêu cầu đưa ra một chủ đề để suy ngẫm, Đức Phật bảo ông ấy rằng nếu một người dính mắc, thì người đó là nô lệ của Māra. Nếu người đó không dính mắc, thì người đó được tự do. Đức Phật hỏi vị tỳ-kheo ông ấy hiểu gì về điều này và hài lòng với lời giải thích. Vị tỳ-kheo thiền định về điều này và trở thành một *Arahant*. SN.iii.73f.
 
 ## Notes

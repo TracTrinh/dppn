@@ -5,7 +5,7 @@ base_headword: "Sarogāmatittha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sarogāmatittha. A ford on the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarogāmatittha. Một bến cạn trên sông Mahā Vālukanadī, được đề cập trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Nó có thể đồng nhất với Sarasigāma. Cv.lxxi.18; lxxii.1, 31; cũng xem Cv.Trs.i.316, n.2.
 
 ## Notes

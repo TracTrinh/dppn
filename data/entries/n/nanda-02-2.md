@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandā 02. One of the four wives of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 02. Một trong bốn người vợ của Magha. Khi Magha và bạn bè của ông xây dựng hội trường của họ, Nandā đã cho xây một cái ao trong khuôn viên. Kết quả là, bà đã tái sinh làm người bạn đời của Sakka, và Nandāpokkharaṇī đã ra đời nhờ vào phước báu của bà. Ja.i.201ff.; Dhp­a.i.269f.
 
 ## Notes

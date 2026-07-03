@@ -5,7 +5,7 @@ base_headword: "Nālandā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -57,6 +57,18 @@ Xuanzang (Beal-Xuan: op.cit., ii.167f) gives several explanations of the name <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālandā 01. Một thị trấn gần Rājagaha, cách đó một do-tuần (theo Buddhaghosa, DN­a.i.35). Đức Phật được đề cập là đã ở đó vài lần trong thời gian Ngài lưu lại vườn xoài của Pāvārika, và khi ở đó Ngài đã có các cuộc thảo luận với Upāli *gahapati* và Dīghatapassī (SN.ii.110; MN.i.376ff.), với Kevaṭṭa (DN.i.211ff.), và cũng có một số cuộc trò chuyện với Asibandhakaputta (SN. ii. 311-23).
+
+Gotama Buddha đã viếng thăm Nālandā trong chuyến du hành cuối cùng của Ngài qua Magadha, và chính tại đó Sāriputta đã thốt lên tiếng rống của sư tử, khẳng định niềm tin của mình vào Đức Phật, không lâu trước khi ông qua đời (DN.ii.81f.; iii.99ff.; SN.v.159ff.). Con đường từ Rājagaha đến Nālandā đi qua Ambalaṭṭhikā (DN.ii.81; Vin.ii.287), và từ Nālandā đi tiếp đến Pāṭaligāma (DN.ii.84). Nằm giữa Rājagaha và Nālandā là Bahuputtacetiya (SN.ii.220).
+
+Theo Kevaṭṭasutta (DN.i.211), vào thời Đức Phật, Nālandā vốn đã là một thị trấn có ảnh hưởng và thịnh vượng, đông dân cư, mặc dù mãi về sau nó mới trở thành trung tâm học thuật nổi tiếng. Có một ghi chép trong Saṁyuttanikāya về việc thị trấn này từng là nạn nhân của một nạn đói nghiêm trọng trong thời Đức Phật (SN.iv.322).
+
+Nālandā là nơi ở của Sonnadinnā (Vv-a.144). Nigaṇṭha Nātaputta nhiều lần được nhắc đến là đã lưu trú tại Nālandā, nơi hiển nhiên là trung tâm hoạt động của những người Nigaṇṭha.
+
+Xuanzang (Beal-Xuan: op.cit., ii.167f) đưa ra một số lời giải thích về cái tên Nālandā. Một cách giải thích là nó được đặt theo tên của Nāga sống trong một cái ao giữa vườn xoài. Cách giải thích khác – và được ông chấp nhận – là Bodhisatta từng đóng đô ở đây và ban phát bố thí mà không ngơi nghỉ, do đó có cái tên này.
+
+Nālandā được cho là tên nơi sinh của Sāriputta trong các sách phương Bắc (xem Nālaka).
+
+Nālandā được đồng nhất với Baragaon ngày nay (CAGI.537).
 
 ## Notes

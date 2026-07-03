@@ -5,7 +5,7 @@ base_headword: "Palannagara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Palannagara. A village and a monastery in Ceylon. <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palannagara. Một ngôi làng và một tu viện ở Tích Lan. Aggabodhi II đã xây dựng một *padhānaghara* gắn với tu viện để tôn vinh Thera Jotipāla. Cv.xlii.50.
 
 ## Notes

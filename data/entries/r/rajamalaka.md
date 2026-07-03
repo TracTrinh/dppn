@@ -5,7 +5,7 @@ base_headword: "Rājamālaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājamālaka. A courtyard outside the precincts of the monastery where the body 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājamālaka. Một khoảng sân nằm bên ngoài khuôn viên của tu viện nơi thi hài của Duṭṭhagāmaṇī được hỏa táng. Mhv.xxxii.80.
 
 ## Notes

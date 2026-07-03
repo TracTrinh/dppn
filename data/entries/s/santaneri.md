@@ -5,7 +5,7 @@ base_headword: "Sāntanerī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāntanerī. A fortress in South India, mentioned in the account of the campaign
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một pháo đài ở Nam Ấn Độ, được đề cập trong ghi chép về các chiến dịch của Laṅkāpura. Cv.lxxvii.44.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udakadāyaka Thera"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Udakadāyaka Thera 01. An *Arahant*. In a former birth he saw the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Trong một kiếp trước, ngài đã nhìn thấy Buddha Siddhattha đang thọ thực và đã mang đến cho Đức Phật một bình nước. Sáu mươi mốt *kappa* trước, ngài đã trở thành một vị vua tên là Vimala (Ap.i.205). Ngài có lẽ đồng nhất với Sānu Thera. Thag­a.i.115.
 
 ## Notes

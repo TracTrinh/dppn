@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgasutta 01. Once, when the Buddha was seated under the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 01. Có lần, khi Đức Phật đang ngồi dưới cây Đa Ajapāla, không lâu sau sự Giác Ngộ của Ngài, Māra đã hóa hiện thành hình dạng của một con voi đáng sợ và cố gắng làm Ngài hoảng sợ. Nhưng Đức Phật đã nhận ra Māra và đuổi ông ta đi trong sự thất bại. SN.i.103f.
 
 ## Notes

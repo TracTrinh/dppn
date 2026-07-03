@@ -5,7 +5,7 @@ base_headword: "Pācīnadīpa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnadīpa. Một hòn đảo ngoài khơi bờ biển Tích Lan. Trong khi đang trên một chuyến hành trình đến đó để ăn quả *jambu*, Saṅghatissa đã bị những người dân đảo tức giận giết chết (Mhv.xxxvi.70f).
+
+Mahā Vaṁsaṭīkā giải thích (p.666) rằng nó nằm trên vùng biển ngoài khơi Mahā Tittha, trong trường hợp đó nó là một trong những hòn đảo giữa điểm cực bắc của Tích Lan và lục địa Ấn Độ. Mhv.Trs.261, n.4.
 
 ## Notes

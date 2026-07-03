@@ -5,7 +5,7 @@ base_headword: "Nandana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandana. A *Devaputta* who visited the Buddha at <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandana. Một *Devaputta* đã đến viếng thăm Đức Phật tại Sāvatthī và hỏi Ngài những câu hỏi liên quan đến giới hạnh, trí tuệ, v.v.. Đức Phật đã trả lời họ, và ông đã rời đi với sự hài lòng. SN.i.62.
 
 ## Notes

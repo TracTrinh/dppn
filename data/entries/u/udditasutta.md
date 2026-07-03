@@ -5,7 +5,7 @@ base_headword: "Uḍḍitasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uḍḍitasutta. Preached in answer to a question by one of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng để trả lời cho một câu hỏi bởi một vị thiên nhân. Thế gian đều bị treo lơ lửng bởi các sợi dây của sự ái dục và được hộ tống bởi sự suy tàn. SN.i.40.
 
 ## Notes

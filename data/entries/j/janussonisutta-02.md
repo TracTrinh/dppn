@@ -5,7 +5,7 @@ base_headword: "Jāṇussoṇīsutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jāṇussoṇīsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāṇussoṇīsutta 02. Jāṇussoṇī đến viếng thăm Đức Phật, và ngài nói cho ông nghe rằng khi cho rằng mọi thứ tồn tại là một thái cực, và một thái cực khác là khi cho rằng không có gì tồn tại – và ngài đã thuyết giảng cho ông về Dhamma của Trung Đạo, *paṭiccasamuppāda*. SN.ii.76.
 
 ## Notes

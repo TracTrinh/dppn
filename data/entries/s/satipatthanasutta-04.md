@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satipaṭṭhānasutta 04. A monk who abides, contemplating body, etc., follows 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānasutta 04. Một tỳ-kheo an trú, quán chiếu cơ thể, v.v., đang đi theo con đường đến trạng thái “Vô vi”. SN.iv.363.
 
 ## Notes

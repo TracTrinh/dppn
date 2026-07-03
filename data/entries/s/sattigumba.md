@@ -5,7 +5,7 @@ base_headword: "Sattigumba"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattigumba. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattigumba. Devadatta sinh ra làm một con vẹt. Xem Sattigumbajātaka (Ja 503).
 
 ## Notes

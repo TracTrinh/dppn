@@ -5,7 +5,7 @@ base_headword: "Upāli"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Upāli 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāli 05. Upāli Thera. Người đứng đầu phái đoàn các tỳ-kheo được cử đi từ Siam, theo yêu cầu của Kittisirirājasīha, để thiết lập lại lễ xuất gia *Upasampadā* ở Tích Lan. Ngài đã được vua xứ Tích Lan vô cùng kính trọng và thường xuyên thuyết pháp cho ông. Upāli qua đời ở Tích Lan vì một căn bệnh nan y ở mũi, và tang lễ của ngài đã được cử hành với sự trang trọng lớn. Cv.c.71, 94, 117, 127, 142.
 
 ## Notes

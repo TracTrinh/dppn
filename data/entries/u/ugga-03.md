@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Ugga 03. One of those that formed the retinue of the *rājā* <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những người đã hình thành nên đoàn tùy tùng của *rājā* Eḷeyya. Ông là một người đi theo Uddaka Rāmaputta, người mà nhà vua cũng giữ trong sự tôn kính. AN.ii.180.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indadvāra"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Indadvāra. One of the fourteen gates of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indadvāra. Một trong mười bốn cổng của Pulatthipura do Parakkamabāhu I xây dựng. (Cv.lxxiii.160).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandamāṇavapucchā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandamāṇavapucchā. The questions asked of the Buddha by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandamāṇavapucchā. Những câu hỏi do Nanda *māṇava*, đệ tử của Bāvarī, đặt ra cho Đức Phật, và những câu trả lời của Đức Phật cho những câu hỏi đó. Nó tạo thành *Sutta* thứ bảy của Pārāyaṇavagga (Snp.vs.1077-83) và được chú giải trong Cūḷa Niddesa. CNid.26ff.
 
 ## Notes

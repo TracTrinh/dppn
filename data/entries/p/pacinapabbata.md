@@ -5,7 +5,7 @@ base_headword: "Pācīnapabbata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pācīnapabbata. A monastery in Ceylon, on the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnapabbata. Một tu viện ở Tích Lan, trên ngọn núi Vaṅguttarapabbata, và được Sūratissa xây dựng. Mhv.xxi.5.
 
 ## Notes

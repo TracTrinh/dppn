@@ -5,7 +5,7 @@ base_headword: "Dhavajālikā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhavajālikā. A *vihāra* on <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhavajālikā. Một *vihāra* trên núi Saṅkheyyakapabbata ở Mahisavatthu. Một vị tỳ-kheo, tên là Uttara, từng sống tại đó và đã được Sakka đến thăm (AN.iv.162ff). *Vihāra* được đặt tên như vậy bởi vì nó được bao quanh bởi một khu rừng *dhava*. AN­a.ii.739.
 
 ## Notes

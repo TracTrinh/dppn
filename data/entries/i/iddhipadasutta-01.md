@@ -5,7 +5,7 @@ base_headword: "Iddhipādasutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iddhipādasutta 01. The cultivation of the four *iddhipādas* and of exertion (*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādasutta 01. Việc tu tập bốn *iddhipāda* và sự tinh tấn (*ussoḷhi*) mang lại trí tuệ (*aññā*) trong kiếp sống này, hoặc Quả thứ ba của Đạo. AN.iii.81-2.
 
 ## Notes

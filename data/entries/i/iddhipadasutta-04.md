@@ -5,7 +5,7 @@ base_headword: "Iddhipādasutta"
 disambiguator: "04"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iddhipādasutta 04. The path mentioned above should be practised, accompanied by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādasutta 04. Con đường được đề cập ở trên nên được thực hành, kèm theo sự định tâm và nỗ lực, kết hợp với dục, cần, tâm và thẩm sát. SN.iv.365.
 
 ## Notes

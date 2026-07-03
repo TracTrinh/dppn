@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "13"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paduma 13. The Bodhisatta born as king of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 13. Bodhisatta khi sinh ra làm vua xứ Benares. Xem Cūḷa Padumajātaka (Ja 193).
 
 ## Notes

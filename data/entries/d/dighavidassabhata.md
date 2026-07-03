@@ -5,7 +5,7 @@ base_headword: "Dīghavidassabhātā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghavidassabhātā. The <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghavidassabhātā. Bản Chú giải Khuddakapāṭha (Khp­a.126f) có chứa một sự tham chiếu đến một “Dīghavidassabhātā” với ý nghĩa rằng, trong suốt khoảng thời gian giữa bốn vị Phật, ông ta đã bị thiêu đốt trong địa ngục, trồi lên sụp xuống, thân hình của ông ta cao sáu mươi do-tuần, và năm trăm gia đình chấp nhận các quan điểm của ông ta cũng phải chịu đựng cùng với ông.
 
 ## Notes

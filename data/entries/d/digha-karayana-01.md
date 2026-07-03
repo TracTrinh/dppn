@@ -5,7 +5,7 @@ base_headword: "Dīgha Kārāyaṇa"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,6 @@ Dīgha Kārāyaṇa 01. Nephew of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgha Kārāyaṇa 01. Cháu trai của Bandhula, vị tổng tư lệnh của Pasenadi. Sau cái chết của Bandhula, Dīgha được bổ nhiệm vào vị trí của ông ta và tháp tùng nhà vua. Có lần, trong những chuyến du hành của họ, họ đã đến Naṅgaraka (Dhp­a.iii.356 nói là Uḷumpa) và, khi nghe tin Đức Phật đang ở Medatalumpa, đã đến để gặp ngài, nhưng Dīgha đứng ở bên ngoài trong lúc Đức Phật nói chuyện với Pasenadi (MN.ii.118f; MN­a.ii.753f; Ja.iv.151). Dhammapada Commentary (Dhp-a.i.355ff) cho biết thêm rằng Dīgha đã đi khắp nơi để lăng mạ nhà vua vì tội sát hại chú của mình, và rằng khi Pasenadi đi vào gặp Đức Phật, để lại phù hiệu hoàng gia cho Dīgha phụ trách, người sau đã nhìn thấy cơ hội trả thù của mình. Ông bỏ mặc Pasenadi, vội vàng đi đến chỗ Viḍūḍabha và tôn vị này lên làm vua. Sau đó ông quay trở về Sāvatthī, chỉ để lại cho Pasenadi một con ngựa duy nhất và một nữ tỳ. Chính sự phản trắc này đã dẫn đến cái chết bất đắc kỳ tử của Pasenadi.
 
 ## Notes

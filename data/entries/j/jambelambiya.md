@@ -5,7 +5,7 @@ base_headword: "Jambelambiya"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jambelambiya. A weavers’ village in Ceylon, given by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambelambiya. Một ngôi làng thợ dệt ở Tích Lan, được Mahā Nāga trao tặng cho Uttaravihāra. Cv.xli.96.
 
 ## Notes

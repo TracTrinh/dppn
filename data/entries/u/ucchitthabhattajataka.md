@@ -5,7 +5,7 @@ base_headword: "Ucchiṭṭhabhattajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,8 @@ The story was told to a monk who hankered after his wife. The Buddha related the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong một ngôi làng gần Kāsī, người vợ xấu xa của một Bà-la-môn đã tiếp tình nhân của bà ta khi chồng bà đi vắng. Bà ta chuẩn bị một bữa ăn cho tình nhân của mình và trong khi người đó ăn, bà ta đứng ở cửa để canh chừng người chồng của bà. Người Bà-la-môn xuất hiện trước khi ông ta được dự kiến, người tình nhân đã bị tống vào phòng kho. Người phụ nữ bỏ một ít cơm nóng lên trên thức ăn do tình nhân của bà bỏ lại chưa ăn xong và đưa chiếc đĩa cho chồng bà. Khi được hỏi tại sao cơm lại nóng ở trên cùng và lạnh ở dưới cùng, bà ta vẫn im lặng. Bodhisatta, người đã được sinh ra như một nghệ sĩ nhào lộn nghèo, đã ở trước cửa nhà chờ khất thực và đã nhìn thấy tất cả những gì đã xảy ra. Ngài đã thông báo cho người Bà-la-môn về hành vi của vợ ông ta và cả người vợ cùng người tình nhân đều nhận được một trận đòn chí tử.
+
+Câu chuyện được kể cho một tỳ-kheo đang khao khát vợ của mình. Đức Phật kể lại câu chuyện để chỉ cho ông thấy rằng trong một kiếp quá khứ, cũng chính người vợ này đã bắt ông ăn đồ ăn thừa của nhân tình của bà ta. Ja.ii.167ff.
 
 ## Notes

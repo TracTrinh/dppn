@@ -5,7 +5,7 @@ base_headword: "Dhammikavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammikavagga. The fifth chapter of the *Chakkanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammikavagga. Chương thứ năm của *Chakkanipāta* thuộc Aṅguttaranikāya. AN.iii.344ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Joti"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Joti 02. A Burmese monk, author of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Joti 02. Một tỳ-kheo người Miến Điện, tác giả của Vinayagaṇṭhipada. PLC.190.
 
 ## Notes

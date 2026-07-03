@@ -5,7 +5,7 @@ base_headword: "Rādha"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -44,6 +44,14 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādha 04. Rādha Thera. Ngài là một vị Bà-la-môn ở Rājagaha, người bị con cái bỏ rơi trong lúc tuổi già nên đã tìm cầu việc xuất gia. Các tỳ-kheo từ chối thỉnh cầu của ngài với lý do tuổi tác, vì vậy ngài tìm đến Đức Phật, người nhận thấy *upanissaya* (tiềm năng) của ngài và yêu cầu Sāriputta thu nhận ngài. Không lâu sau đó ngài đạt quả vị *Arahant*. Có lẽ chính sự việc này được nhắc đến tại Thag­a.ii.114, nơi nói rằng Sāriputta đã xuất gia cho một vị Bà-la-môn nghèo tên là Rādha, nhưng không đề cập gì đến bất kỳ mệnh lệnh nào từ Đức Phật. Nếu nguồn tham khảo này đề cập đến cùng một vị Trưởng lão thì Rādha, trong một thời gian, là thị giả (*pacchāsamaṇa*) của Sāriputta, và có một bài kệ trong Thag. (993) do Sāriputta nói với ngài, người rất hài lòng với thái độ hiền hòa của Rādha. Dhp­a.ii.104ff. cung cấp thêm chi tiết về việc xuất gia của Rādha. Ở đó chúng ta được biết rằng ngài đã đến tu viện, nơi ngài thực hiện nhiều nhiệm vụ khác nhau. Nhưng các tỳ-kheo không chịu nhận ngài vào Tăng đoàn, và, do sự thất vọng của mình, ngài trở nên gầy gò. Một ngày nọ Đức Phật, nhìn thấy ngài bằng thiên nhãn của mình, đã đến chỗ ngài, và nghe nói về mong muốn gia nhập Tăng đoàn của ngài, liền triệu tập các tỳ-kheo và hỏi xem có ai trong số họ nhớ bất kỳ sự giúp đỡ nào do Rādha làm không. Sāriputta đề cập rằng ngài đã từng nhận được một vá thức ăn của chính Rādha khi đang khất thực ở Rājagaha. Đức Phật sau đó gợi ý rằng Sāriputta nên lắng nghe thỉnh cầu xuất gia của Rādha. Sau khi xuất gia, Rādha đâm ra chán ngán thức ăn của nhà ăn, nhưng Sāriputta liên tục khuyên bảo ngài và nhận thấy ngài cực kỳ khiêm tốn; sau đó, ngài ca ngợi sự vâng lời của Rādha, và Đức Phật cũng khen ngợi ngài. Chính vì Rādha mà Alīnacittajātaka (Ja 156) đã được thuyết giảng. AN­a.i.179f. ít nhiều đồng tình với lời kể trên; Ap.ii.485f. cũng vậy.
+
+Ngài ở gần Đức Phật, và, nhờ sự thành thạo của ngài, Đức Phật tuyên bố ngài là vị đệ nhất trong số những người thuyết pháp ứng khẩu (? *paṭibhāṇakeyyānaṁ*) (AN.i.25; Thag­a.i.253f). Do đó ngài có tên là Paṭibhāṇiya Thera (SN­a.ii.246). Theragāthā (vss.133-4) chứa hai bài kệ do ngài nói để ca ngợi sự định tâm.
+
+Rādhasaṁyutta (SN.iii.188-201; xem thêm Rādhasutta) chứa một lượng lớn các *Sutta* do Đức Phật thuyết giảng để trả lời những câu hỏi của Rādha về nhiều chủ đề khác nhau. Người ta nói rằng khi Đức Phật nhìn thấy Rādha, Ngài cảm thấy có xu hướng nói về những vấn đề liên quan đến các chủ đề vi tế, minh họa chúng bằng nhiều ví dụ khác nhau. SN­a.ii.246; điều này là do sự phong phú về các quan điểm (*diṭṭhisamudācāra*) và niềm tin không lay chuyển (*okappaniyasaddhā*) của Radha; AN­a.i.179; cũng xem Thag­a.i.254.
+
+Trong thời của Padumuttara Buddha, Rādha là một gia chủ ở Haṁsavatī và đã tổ chức một cuộc đại bố thí để cúng dường Đức Phật, với mong muốn đạt được vị trí đệ nhất về khả năng thuyết pháp ứng khẩu. Ngài đã dâng những quả xoài chín cho Vipassī Buddha (Thag­a.i.253; AN­a.i.180; Ap.ii.484) và, kết quả là, được sinh lên cõi trời.
+
+Surādha Thera là em trai của ngài. Rādha, trong một thời gian, là thị giả của Đức Phật. AN­a.i.163.
 
 ## Notes

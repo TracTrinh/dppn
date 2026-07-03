@@ -5,7 +5,7 @@ base_headword: "Jāṇussoṇīvagga"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jāṇussoṇīvagga. The seventeenth chapter of the *Dasakanipāta* of the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāṇussoṇīvagga. Chương thứ mười bảy của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.249-73.
 
 ## Notes

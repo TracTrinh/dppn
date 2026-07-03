@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgā 01. Chief woman disciple of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 01. Nữ đại đệ tử của Đức Phật Sujāta. Ja.i.38; Bv.xiii.26.
 
 ## Notes

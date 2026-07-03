@@ -5,7 +5,7 @@ base_headword: "Rādhatheravatthu"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rādhatheravatthu. Gives a detailed account of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhatheravatthu. Cung cấp một lời kể chi tiết về việc Rādha gia nhập Tăng đoàn và lời ca ngợi của Sāriputta dành cho ngài. Dhp­a.ii.104ff.
 
 ## Notes

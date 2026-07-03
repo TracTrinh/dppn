@@ -5,7 +5,7 @@ base_headword: "Dhammajoti"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammajoti. A Sinhalese monk of the eighteenth century who wrote a Sinhalese par
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammajoti. Một vị sư người Tích Lan sống ở thế kỷ mười tám, người đã viết một bản diễn giải tiếng Tích Lan (*sanne*) cho Bālavatāra, được gọi là *Okandapolasanne*, bởi vì nó được viết tại *Okandapolavihāra*. PLC.244, 284.
 
 ## Notes

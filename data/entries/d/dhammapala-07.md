@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "07"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammapāla 07. The name of the family (*kula*) of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 07. Tên gia tộc (*kula*) của Dhammapāla, và ngôi làng ở Kāsi nơi ngài sinh sống (Ja.iv.50; Pv-a.61). Xem Mahā Dhammapālajātaka (Ja 447).
 
 ## Notes

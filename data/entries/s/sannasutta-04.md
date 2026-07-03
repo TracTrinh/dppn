@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 04. Thoughts of impermanence, not-self, unlovely things, peril, re
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những ý niệm về vô thường, vô ngã, những điều không đáng yêu, sự hiểm nguy, sự từ bỏ, sự ly tham, sự đoạn diệt – những điều này dẫn đến sự thăng tiến và không dẫn đến sự suy thoái. AN.iv.24.
 
 ## Notes

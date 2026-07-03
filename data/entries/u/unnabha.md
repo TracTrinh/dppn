@@ -5,7 +5,7 @@ base_headword: "Uṇṇābha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,10 @@ The same *Nikāya* (SN.v.272f) records a visit of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇṇābha. Một Bà-la-môn. Có lần ông đã đến thăm Đức Phật tại Sāvatthī và hỏi ngài liệu năm giác quan (*indriyāni*), vốn có phạm vi và giới hạn khác nhau, có bất kỳ chỗ nương tựa chung nào không (*paṭisaraṇa*). Đức Phật trả lời rằng tâm trí là chỗ nương tựa chung của chúng và, để trả lời cho những câu hỏi tiếp theo, ngài giải thích rằng không có gì vượt ra ngoài *Nibbāna*; rằng đời sống phạm hạnh lấy *Nibbāna* làm cứu cánh.
+
+Khi vị Bà-la-môn, vô cùng hài lòng với lời dạy của Đức Phật, rời đi, Đức Phật nói với các tỳ-kheo rằng Uṇṇābha đã trở thành một *Anāgāmī* và do đó, sau khi chết, sẽ không còn quay trở lại thế giới này nữa (SN.v.217f).
+
+Cùng một *Nikāya* (SN.v.272f) ghi lại một chuyến viếng thăm của Uṇṇābha đối với Ānanda tại Kosambī. Ông hỏi Ānanda mục đích của đời sống phạm hạnh là gì và, khi được biết rằng đó là sự từ bỏ dục vọng bằng phương tiện *jhāna*, ông gợi ý rằng đó sẽ là một công việc không có điểm kết thúc. Nhưng Ānanda, thông qua một ví dụ minh họa, đã giải thích công việc đó thực sự đi đến kết thúc như thế nào, và Uṇṇābha bày tỏ sự vô cùng hài lòng với câu trả lời. Có lẽ điều này đề cập đến một vị Bà-la-môn khác cùng tên.
 
 ## Notes

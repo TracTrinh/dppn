@@ -5,7 +5,7 @@ base_headword: "Pacceka Brahma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pacceka Brahma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacceka Brahma, các Pacceka Brahma. Một sự đề cập được thực hiện ở một hoặc hai nơi trong các cuốn sách về các vị *Brahma* được mô tả là Pacceka Brahma – vd., Subrahmā, Suddhāvāsa và Tudu. Tôi chưa bắt gặp bất kỳ lời giải thích nào về thuật ngữ này. Nó có thể chỉ định một vị *Brahma* không sống trong bất kỳ cõi *Brahma* nào được công nhận, mà sống trong một cõi của riêng ngài. *Ṭīkā* của Sagāthavagga (SN 1-11) nói: *Pacceka Brahmā ti ca ekacārī Brahmā, na parisacārī Brahmā ti attho*; “một Pacceka Brahma là một vị Brahmā sống một mình, không phải là một vị Brahma sống cùng với một đoàn tùy tùng.”
 
 ## Notes

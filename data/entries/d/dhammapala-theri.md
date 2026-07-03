@@ -5,7 +5,7 @@ base_headword: "Dhammapālā Therī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammapālā Therī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapālā Therī, Dhammapālī Therī. Một vị *Arahant*. Bà là vị giáo thọ (*upajjhāya*) của Saṅghamittā. Mhv.v.208; Vin-a.i.51.
 
 ## Notes

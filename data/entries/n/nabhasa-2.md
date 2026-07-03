@@ -5,7 +5,7 @@ base_headword: "Nābhasā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nābhasā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nābhasā. Một tầng lớp Nāga sống ở hồ Nābhasa (DN­a.ii.688); họ có mặt tại Mahā Samaya. DN­a.ii.258.
 
 ## Notes

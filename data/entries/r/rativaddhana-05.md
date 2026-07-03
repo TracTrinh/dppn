@@ -5,7 +5,7 @@ base_headword: "Rativaḍḍhana"
 disambiguator: "05"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rativaḍḍhana 05. A pleasure park of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rativaḍḍhana 05. Một hoa viên của Asoka. Nhà vua đã đưa Moggaliputtatissa đến đó khi ông đến từ Ahogaṅgapabbata, và, theo yêu cầu của nhà vua, vị Trưởng lão đã gây ra một trận động đất cục bộ. Mhv.v.257ff.
 
 ## Notes

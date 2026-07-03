@@ -5,7 +5,7 @@ base_headword: "Duccaritasutta"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Duccaritasutta 04. Three conditions – wicked conduct in deed, word and thought
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duccaritasutta 04. Ba điều kiện – ác hạnh trong việc làm, lời nói và ý nghĩ – và những điều trái ngược của chúng. AN.iii.446.
 
 ## Notes

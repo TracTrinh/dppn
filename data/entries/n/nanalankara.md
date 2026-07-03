@@ -5,7 +5,7 @@ base_headword: "Ñāṇālaṅkāra"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇālaṅkāra. Một tỳ-kheo người Miến Điện, tác giả của Padavibhāga (Bode: *op.cit.*, 77).
 
 ## Notes

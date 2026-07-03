@@ -5,7 +5,7 @@ base_headword: "Doṇamukha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Doṇamukha. The elephant sent by Prince <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇamukha. Con voi được Vương tử Mahā Pāduma của Kumudanagara phái đến, theo yêu cầu của Soṇa, để giết Đức Phật Piyadassī. Đức Phật đã nói chuyện với con voi và qua đó đã thu phục được nó. So sánh Nālāgiri. Bv.xiv.6; Bv­a.174f.
 
 ## Notes

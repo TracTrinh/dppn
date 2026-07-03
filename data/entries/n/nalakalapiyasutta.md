@@ -5,7 +5,7 @@ base_headword: "Naḷakalāpiyasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Naḷakalāpiyasutta. A discussion between <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakalāpiyasutta. Một cuộc thảo luận giữa Sāriputta và Mahā Koṭṭhita tại Migadāya ở Isipatana. Sāriputta nói rằng mỗi mắt xích trong chuỗi nhân duyên phụ thuộc vào cái kế tiếp nó. Giống như hai bó lau sậy đứng, dựa cái này vào cái kia; nếu một bó bị đẩy, cái kia chắc chắn sẽ phải ngã. SN.ii.112f.
 
 ## Notes

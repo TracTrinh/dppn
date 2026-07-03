@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "07"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhataraṭṭha 07. A class of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 07. Một nhóm Nāga (DN.ii.259), những hậu duệ của vị vua Nāga Dhataraṭṭha và Samuddajā (Ja.vi.219), và sở hữu sức mạnh to lớn. Họ cư ngụ ở Sattasidantarasamudda (SN­a.ii.254).
 
 ## Notes

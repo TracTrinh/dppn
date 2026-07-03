@@ -5,7 +5,7 @@ base_headword: "Jaṭila"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jaṭila 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭila 02. *v.l.* Jaṭika. Một vị thống đốc của một tỉnh (*Mahā Raṭṭhiya*) vào thời của Padumuttara Buddha. Ngài là một vị Bodhisatta. Ja.i.37; Bv.xi.11.
 
 ## Notes

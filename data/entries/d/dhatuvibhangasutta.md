@@ -5,7 +5,7 @@ base_headword: "Dhātuvibhaṅgasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,10 @@ This *Sutta* forms the *Suttanta* counterpart of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātuvibhaṅgasutta. Được thuyết giảng cho Pukkusāti, người mà vị Phật đã gặp tại nhà của thợ gốm Bhaggava. Kinh này đề cập đến sáu giới gồm đất, nước, lửa, gió, hư không và thức.
+
+Pukkusāti đã nhận ra vị Phật thông qua bài pháp của ngài và, vào cuối bài pháp, đã mong ước được truyền giới. Vị Phật yêu cầu ngài đi tìm một cái bát và y. Trên đường đi tìm những thứ này, Pukkusāti đã bị giết bởi một con bò điên (MN.iii.248ff).
+
+*Sutta* này là phần tương ứng thuộc *Suttanta* với Vibhaṅga.
 
 ## Notes

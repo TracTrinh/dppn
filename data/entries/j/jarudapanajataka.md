@@ -5,7 +5,7 @@ base_headword: "Jarudapānajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,8 @@ The story was related in reference to some *Arahants* of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarudapānajātaka (Ja 256). Có một lần Bodhisatta đang đi lại cùng với một đoàn lữ hành lớn. Trong một khu rừng, họ bắt gặp một cái giếng bỏ hoang và, vì đang cần nước, họ đã đào nó sâu hơn. Tại đó họ tình cờ tìm thấy một kho báu bị chôn vùi, nhưng những người này, do không cảm thấy hài lòng, đã tiếp tục đào sâu hơn nữa, bất chấp những lời cảnh báo của Bodhisatta. Một long vương (*Nāga-king*) sống ở đó đã bị quấy rầy và giết chết tất cả mọi người ngoại trừ Bodhisatta.
+
+Câu chuyện này được kể lại liên quan đến một số vị *Arahant* ở Sāvatthī, những người trên đường trở về từ nơi đó, sau khi đã thiết đãi Đức Phật, đã nhìn thấy chính cái giếng này và tìm thấy kho báu ở đó. Tuy nhiên, họ đã hài lòng với những gì mình tìm thấy và đã báo cáo điều đó với Đức Phật (Ja.ii.294f).
 
 ## Notes

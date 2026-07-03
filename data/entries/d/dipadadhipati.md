@@ -5,7 +5,7 @@ base_headword: "Dīpadādhipati"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpadādhipati. There were once four kings of this name, all previous births of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpadādhipati. Từng có bốn vị vua mang tên này, tất cả đều là các tiền kiếp của Trưởng lão Sūcidāyaka. Ap.i.122.
 
 ## Notes

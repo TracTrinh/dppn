@@ -5,7 +5,7 @@ base_headword: "Pallavavaṅka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pallavavaṅka. A harbour in Ceylon, the starting place of the expeditionary for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallavavaṅka. Một bến cảng ở Tích Lan, điểm xuất phát của lực lượng viễn chinh do Parakkamabāhu I phái đi đánh lại vua xứ Kamboja. Cv.lxxvi.46.
 
 ## Notes

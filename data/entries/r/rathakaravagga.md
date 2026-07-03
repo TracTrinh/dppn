@@ -5,7 +5,7 @@ base_headword: "Rathakāravagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rathakāravagga. The second chapter of the *Tikanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathakāravagga. Chương thứ hai trong *Tikanipāta* của Aṅguttaranikāya. AN.i.106-118.
 
 ## Notes

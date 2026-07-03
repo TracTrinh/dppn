@@ -5,7 +5,7 @@ base_headword: "Sannaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sannaka. One of the chief lay supporters of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nam cư sĩ hộ độ chính của Piyadassī Buddha. Bv.xiv.22.
 
 ## Notes

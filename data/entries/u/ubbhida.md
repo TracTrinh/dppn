@@ -5,7 +5,7 @@ base_headword: "Ubbhida"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Ubbhida *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ubbhida *v.l.* Ubbiddha, Uddiya. Một Sát-đế-lỵ của sáu mươi ngàn *kappa* trước; một tiền kiếp của Mahā Kassapa (Ap.i.34).
 
 ## Notes

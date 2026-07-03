@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhataraṭṭha 03. There were two kings of this name, contemporaries and vassal
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 03. Có hai vị vua mang tên này, sống cùng thời và là chư hầu của Reṇu. Một trong hai vị này là vua của Aṅgā với kinh đô ở Campā, và vị kia là vua của Kāsī với kinh đô ở Benares. DN.ii.235f.
 
 ## Notes

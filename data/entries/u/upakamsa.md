@@ -5,7 +5,7 @@ base_headword: "Upakaṁsa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,6 @@ Upakaṁsa. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakaṁsa. Con trai của Mahā Kaṁsa, vua xứ Asitañjana và là anh/em trai của Kaṁsa. Khi Kaṁsa trở thành vua, Upakaṁsa là phó vương của ông. Upakaṁsa đã bị giết bởi một chiếc đĩa do Vāsudeva, con trai của Devagabbhā ném. Ja.iv.79-82.
 
 ## Notes

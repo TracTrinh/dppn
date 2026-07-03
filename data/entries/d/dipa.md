@@ -5,7 +5,7 @@ base_headword: "Dīpa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpa. A monk, probably of Ceylon, author of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpa. Một tỳ-kheo, có lẽ của Tích Lan, tác giả của *Parivārapātha* (Vin.v.226).
 
 ## Notes

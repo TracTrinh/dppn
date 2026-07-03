@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 01. Chief woman disciple of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 01. Nữ đệ tử tối thắng của Dīpaṅkara Buddha. Bv.ii.214; Ja.i.29.
 
 ## Notes

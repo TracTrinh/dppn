@@ -5,7 +5,7 @@ base_headword: "Dhānañjāni"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhānañjāni 01. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhānañjāni 01. (*v.l.* Dhanañjāni). Một Bà-la-môn ở Taṇḍulapāladvāra tại Rājagaha. Ông là một đại thần của nhà vua và đã áp bức dân chúng để làm giàu. Sāriputta, khi nghe tin về sự sa ngã của ông khỏi lối sống không phóng dật – sau khi người vợ đầu tiên sùng đạo của ông qua đời và ông kết hôn với một người khác – đã đến thăm Dhānañjāni và chỉ ra cho ông rằng nếu ông từ bỏ sự công bằng và chính trực, ông không thể hy vọng được bào chữa bằng lời biện hộ rằng sự sa ngã của ông là do áp lực hoàn cảnh. Dhānañjāni đã tiếp nhận lợi ích từ bài giảng, và sau đó, khi bị bệnh, ông đã nhắn tin cho Sāriputta, báo cho ngài về căn bệnh trầm trọng của mình, và bày tỏ mong ước được tái sinh vào một trong các cõi *Brahma*. Sāriputta đã dạy làm thế nào để đạt được sự hợp nhất với *Brahma*. Không lâu sau, Dhānañjāni qua đời, và vị Phật nói rằng ông đã được tái sinh vào một trong những cõi *Brahma* thấp. MN.ii.184ff.
 
 ## Notes

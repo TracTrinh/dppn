@@ -5,7 +5,7 @@ base_headword: "Ubbarī"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Ubbarī 04. Wife of the Prince <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Thái tử Brahmadatta, được đề cập trong Dhonasākhajātaka (Ja.iii.161). Trên giường bệnh, nhà vua nghĩ về bà một cách khao khát và nói về bà như là có nước da ngăm đen.
 
 ## Notes

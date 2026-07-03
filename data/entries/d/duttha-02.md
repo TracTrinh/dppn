@@ -5,7 +5,7 @@ base_headword: "Duṭṭha"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Duṭṭha 02. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duṭṭha 02. Cũng được gọi là Duṭṭhakumāra, con trai của Kitavāsa. Vào lúc ông ra đời, các thầy bói đã tiên đoán cái chết của ông là do khát nước, và Kitavāsa đã cho đào nhiều hồ và ao ở nhiều nơi khác nhau trong kinh đô và đặt các chum nước ở khắp mọi nơi. Một ngày nọ, Duṭṭha nhìn thấy một vị Pacceka Buddha đang đi khất thực và đã ném vỡ bình bát của vị ấy xuống đất. Ông bị một cơn khát ập đến, và tất cả nước trong thành phố đều cạn kiệt. Ông đã chết, và tái sinh vào Avīci. Ja.ii.194f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Guṇagandha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Guṇagandha. A scholarly monk of Burma. Sās.111, 112.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇagandha. Một vị tỳ-kheo học giả của Miến Điện. Sās.111, 112.
 
 ## Notes

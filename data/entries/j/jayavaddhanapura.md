@@ -5,7 +5,7 @@ base_headword: "Jayavaḍḍhanapura"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jayavaḍḍhanapura. The Pāli name of the town usually known as Koṭṭe (the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayavaḍḍhanapura. Tên Pāli của thị trấn thường được biết đến là Koṭṭe (pháo đài), do Bhuvanekabāhu V xây dựng. Cv.xci.7, 16; xciii.1.
 
 ## Notes

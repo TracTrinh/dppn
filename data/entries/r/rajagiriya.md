@@ -5,7 +5,7 @@ base_headword: "Rājagiriyā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājagiriyā. One of the heterodox Buddhist sects which branched off in the seco
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājagiriyā. Một trong những bộ phái Phật giáo dị giáo đã tách ra vào thế kỷ thứ hai sau khi Đức Phật viên tịch (Dpv.v.54; Mhv.v.12). Họ tạo thành một phần của bộ phái Andhaka. *Points of Controversy*, p.104.
 
 ## Notes

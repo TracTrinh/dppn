@@ -5,7 +5,7 @@ base_headword: "Paṁsudhovakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Paṁsudhovakasutta. The process of getting rid of the impurities found in gold 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsudhovakasutta. Quá trình loại bỏ các tạp chất có trong quặng vàng là một tiến trình rất tuần tự, bao gồm nhiều giai đoạn; sự tiến bộ trong thiền định an chỉ cũng giống như vậy, bước đầu tiên trong đó là sự gột sạch những tội lỗi thô tháo. AN.i.253.
 
 ## Notes

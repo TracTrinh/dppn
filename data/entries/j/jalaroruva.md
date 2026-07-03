@@ -5,7 +5,7 @@ base_headword: "Jālaroruva"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jālaroruva. A *Niraya*, one of the divisions of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jālaroruva. Một địa ngục (*Niraya*), một trong những phần của Roruva, phần kia là Dhūmaroruva. Nơi đây chứa đầy những bông hoa màu đỏ như máu, chúng xâm nhập vào cơ thể của những chúng sinh cư ngụ ở đó thông qua chín lỗ trống. Ja.v.271.
 
 ## Notes

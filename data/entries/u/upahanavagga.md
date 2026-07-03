@@ -5,7 +5,7 @@ base_headword: "Upāhanavagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upāhanavagga. The ninth section of the *Dukanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāhanavagga. Phần thứ chín của *Dukanipāta* thuộc Chú giải Jātaka Ja.ii.221-42.
 
 ## Notes

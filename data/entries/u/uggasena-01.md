@@ -5,7 +5,7 @@ base_headword: "Uggasena"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,8 @@ The story is told in the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Benares. Vị vua Nāga, Campeyya, đã được mang đến trước ông bởi một người dụ rắn Bà-la-môn để biểu diễn, nhưng khi nhà vua biết được từ người em gái của vị Nāga, Sumanā, những gì đã xảy ra, ông đã ra lệnh để cho vị Nāga được trả tự do. Sau đó, Campeyya đã đưa ông đến thế giới Nāga và bày tỏ với ông mọi sự tôn kính. Các thần dân của Uggasena được cho phép mang về từ thế giới Nāga bất cứ thứ gì họ mong muốn (Ja.v.458ff; Mhv.ii.177ff).
+
+Câu chuyện được kể trong Campeyyajātaka (*q.v.*). Trong thời đại hiện tại Uggasena đã trở thành Sāriputta. Ja.v.468.
 
 ## Notes

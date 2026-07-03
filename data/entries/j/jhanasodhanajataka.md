@@ -5,7 +5,7 @@ base_headword: "Jhānasodhanajātaka"
 disambiguator: ""
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -31,6 +31,10 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasodhanajātaka (Ja 134). Bodhisatta từng là một vị khổ hạnh, người mà vào thời khắc lâm chung đã nói rằng "không phải có tưởng cũng không phải không có tưởng." Vị đệ tử chính của ông đã giải thích những lời này, nhưng những người khác sẽ không tin ông ấy cho đến khi Bodhisatta giáng hạ từ cõi *Brahma* nhằm xác nhận lời giải thích của ông ấy.
+
+Câu chuyện được kể lại liên quan đến một lời giải thích do Sāriputta đưa ra tại Saṅkassa (Ja.i.473).
+
+Jātaka này có lẽ cũng được gọi là *Anaṅgaṇajātaka*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammavādisutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammavādisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammavādisutta. Sāriputta nói, để trả lời câu hỏi của Jambukhādaka, rằng những ai thuyết giảng giáo lý về việc từ bỏ tham ái, sân hận và si mê là những người thuyết pháp thực sự. Để có thể làm điều này, họ phải thực hành giáo lý mà họ thuyết giảng, và phương pháp của sự thực hành như vậy là Bát Thánh đạo. SN.iv.252; cp.261f.
 
 ## Notes

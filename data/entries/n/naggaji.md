@@ -5,7 +5,7 @@ base_headword: "Naggaji"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -30,6 +30,6 @@ Naggaji. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naggaji. Một vị vua của Kasmīra-Gandhāra, kinh đô của ông là Takkasilā. Một ngày nọ, trong khi đang ngồi trên sân thượng hoàng cung, ông nhìn thấy một người phụ nữ đang nghiền hương liệu, đeo một chiếc vòng tay đính ngọc trên mỗi tay. Một lúc sau, bà đeo cả hai chiếc vòng lên cùng một tay và chúng bắt đầu va chạm kêu leng keng. Điều này khiến nhà vua suy ngẫm về những đức hạnh của sự viễn ly, và ông đã trở thành một Pacceka Buddha. Ông đã gia nhập cùng Karaṇḍu, Dummukha và Nimi, những người cũng đã trở thành các Pacceka Buddha. Ja.iii.377,381.
 
 ## Notes

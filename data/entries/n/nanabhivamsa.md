@@ -5,7 +5,7 @@ base_headword: "Ñāṇābhivaṁsa"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇābhivaṁsa. Một thủ lĩnh của những Pārupaṇa trong cuộc tranh luận của họ với phái *Ekaṁsika* ở Miến Điện (Bode: *op.cit.*, 76). Ông đã viết một vài *ṭīkā* và một bản dịch tiếng Miến Điện của các Jātaka và *Rājādhirājavilāsinī* (Bode: *op.cit.*, 78; Svd.vs.1215).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jaṭilagaha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jaṭilagaha. A city, the residence of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭilagaha. Một thành phố, nơi cư trú của Jaṭilagāhī. AN­a.ii.812.
 
 ## Notes

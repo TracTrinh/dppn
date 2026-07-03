@@ -5,7 +5,7 @@ base_headword: "Rathakāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rathakāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathakāra, Rathakārī. Một trong bảy hồ lớn (Mahā Sarā, *q.v.*) ở Himālaya.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dutiyasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dutiyasutta 01. On the four modes of progress: painful with sluggish intuition a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dutiyasutta 01. Bàn về bốn phương thức tu tập: đau khổ với trực giác chậm chạp và với trực giác nhanh nhạy, và dễ chịu, với hai loại trực giác tương tự. AN.ii.154.
 
 ## Notes

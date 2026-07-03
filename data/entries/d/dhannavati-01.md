@@ -5,7 +5,7 @@ base_headword: "Dhaññavatī"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhaññavatī 01. The city of birth of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaññavatī 01. Thành phố nơi sinh ra của Nārada Buddha. Bv.x.20.
 
 ## Notes

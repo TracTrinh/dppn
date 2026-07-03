@@ -5,7 +5,7 @@ base_headword: "Jayasenapabbata"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jayasenapabbata. A monastery built by the queen of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasenapabbata. Một tu viện do vương hậu của Udaya I xây dựng. Nó có lẽ đã được bà cúng dường cho cộng đồng *bhikkhu* người Damiḷa ở Tích Lan. Cv.xlix.24; nhưng xem Cv.Trs.i.129, n.4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhūmasikha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhūmasikha. Mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūmasikha. Được nhắc đến cùng với Apalāla, Cūḷodara, Mahodara, Aggisikha và Dhanapāla, như một ác thú được Đức Phật cảm hóa và cải đạo theo đức tin. Vin-a.i.120.
 
 ## Notes

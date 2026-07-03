@@ -5,7 +5,7 @@ base_headword: "Pabhassarasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pabhassarasutta. The mind is luminous, but is defiled by taints from without. It
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhassarasutta. Tâm vốn chói sáng, nhưng bị làm ô uế bởi những bợn nhơ từ bên ngoài. Tuy nhiên, nó có thể được thanh lọc khỏi những bợn nhơ này. AN.i.10.
 
 ## Notes

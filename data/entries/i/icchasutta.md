@@ -5,7 +5,7 @@ base_headword: "Icchāsutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Icchāsutta. Wishes it is which hold the world prisoner; by subjugating them, li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Icchāsutta. Chính những sự mong cầu là thứ giam cầm thế giới; bằng cách chế ngự chúng, sự tự do đạt được. SN.i.40.
 
 ## Notes

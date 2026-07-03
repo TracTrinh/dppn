@@ -5,7 +5,7 @@ base_headword: "Jambuphaliya Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jambuphaliya Thera. An *Arahant*. He once gave <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambuphaliya Thera. Một vị *Arahant*. Ngài từng dâng cho Padumuttara Buddha những quả đầu mùa của một cây *jambu* (Ap.ii.395). Ngài có lẽ cũng chính là Nadī Kassapa. Thag­a.i.415.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,8 @@ He was reported to the Buddha, who related the story of an elephant who dwelt by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasutta 02. Một sa-di nọ có thói quen dành quá nhiều thời gian ở nhà của những người trong gia tộc. Khi bị cảnh báo về điều này, vị ấy đã trả lời rằng mình không thể hiểu làm sao mình lại bị khiển trách khi thấy nhiều vị tỳ-kheo thâm niên cũng hành xử theo cách tương tự.
+
+Vị ấy bị báo cáo với Đức Phật, và Ngài đã kể câu chuyện về một con voi sống cạnh một cái hồ lớn. Nó lao xuống hồ, nhổ những cọng sen lên, làm sạch chúng và sau đó, nhờ ăn chúng, nó có được sức mạnh và vẻ đẹp. Nhưng khi những con voi con cố gắng làm theo tấm gương của nó, chúng không thể làm sạch các cọng sen, và do ăn chúng cùng với bùn và bụi bẩn, chúng sinh bệnh, một số con thậm chí đã chết (SN.ii.268).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dovacasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dovacasutta. To get rid of unruliness, evil friendship and being tossed about in
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dovacasutta*. Để loại bỏ sự ngang bướng, tình bạn xấu ác và việc bị dao động trong tâm, người ta nên trau dồi những phẩm chất ngược lại. AN.iii.448.
 
 ## Notes

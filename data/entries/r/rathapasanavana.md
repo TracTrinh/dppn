@@ -5,7 +5,7 @@ base_headword: "Rathapāsāṇavana"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rathapāsāṇavana. A forest tract near <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathapāsāṇavana. Một khu rừng gần Villagāma. Ras.ii.147.
 
 ## Notes

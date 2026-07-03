@@ -5,7 +5,7 @@ base_headword: "Jeyyapura"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -23,6 +23,6 @@ Jeyyapura. The Pāli name for Sagaing. Bode, 40, 71.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeyyapura. Tên Pāli của Sagaing. Bode, 40, 71.
 
 ## Notes

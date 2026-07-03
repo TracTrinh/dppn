@@ -5,7 +5,7 @@ base_headword: "Dīghalambika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghalambika. A village, the birthplace of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghalambika. Một ngôi làng, nơi sinh của Dīghāyu. Đức Phật đã sống tại đó trong Araññakuṭikā. Dhp­a.ii.235.
 
 ## Notes

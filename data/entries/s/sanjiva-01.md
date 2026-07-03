@@ -5,7 +5,7 @@ base_headword: "Sañjīva"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sañjīva 01. One of the two chief disciples of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjīva 01. Một trong hai vị Thượng thủ thanh văn của Kakusandha Buddha (DN.ii.4; Ja.i.42; Bv.xxiii.20). Ông tinh thông về định (*samādhi*), và sống trong các am thất, hang động, v.v., nuôi dưỡng bản thân bằng *samādhi*. Một ngày nọ, khi đang ở trong trạng thái *jhāna* (thiền na) trong một khu rừng, những người tiều phu, nghĩ rằng ông đã chết, đã đốt thi hài của ông, nhưng ông, xuất khỏi *jhāna* vào đúng lúc, đã rũ áo y của mình và đi vào ngôi làng để khất thực; do đó ông có tên là Sañjīva (Sống sót/Sống lại) (MN.i.333; so sánh DN­a.ii.417; MN­a.i.522; Paṭis-a.496). Kỳ tích này được nhắc đến như một ví dụ về *samādhivipphāra-iddhi* (định lực uy thế), ví dụ, Vsm.380, 706; Paṭis.ii.212; Bv-a.24, v.v.
 
 ## Notes

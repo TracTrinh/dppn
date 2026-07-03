@@ -5,7 +5,7 @@ base_headword: "Sārī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sārī. A *Brāhmiṇī*, mother of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārī. Một nữ Bà-la-môn (*Brāhmiṇī*), mẹ của Sāriputta (1) (*q.v.*). Tên đầy đủ của bà là Rūpasārī.
 
 ## Notes

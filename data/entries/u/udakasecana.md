@@ -5,7 +5,7 @@ base_headword: "Udakāsecana"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udakāsecana. Thirty-three *kappas* ago there were eight kings of this name, all
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ba mươi ba *kappa* trước, có tám vị vua mang tên này, tất cả đều là những tiền kiếp của Bodhisaññaka Thera (Bodhisiñcaka Thera). Ap.i.131.
 
 ## Notes

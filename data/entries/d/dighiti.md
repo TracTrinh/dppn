@@ -5,7 +5,7 @@ base_headword: "Dīghīti"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Dīghīti, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghīti, Dīghati. Một vị vua của Kosala. Vương quốc của ông bị đánh chiếm bởi Brahmadatta, vua của Kāsi, và ông cùng vợ trốn đến Ba-la-nại (Benares), nơi họ sống ẩn danh trong nhà của một người thợ gốm. Vợ ông sinh một người con trai tên là Dīghāyu (*v.l.* Dīghāvu). Trước khi con sinh ra, mẹ cậu đã có một sự thèm khát được nhìn thấy quân đội dàn trận, với những thanh gươm được tôi luyện. Dīghīti đã xoa dịu cơn thèm khát của bà với sự giúp đỡ của bạn mình, vị tư tế của Brahmadatta. Dīghāyu đã được gửi ra khỏi thành phố để tránh khỏi sự hãm hại. Sau đó, nơi trú ẩn của Dīghīti bị phát hiện và ông cùng vợ đang bị dẫn đến nơi hành quyết thì Dīghāyu, người đang có chuyến thăm thành phố, nhìn thấy họ. Dīghīti, nhận ra con trai mình, đã gọi với theo lời khuyên trăn trối của mình “*mā dīghaṁ passa mā rassaṁ*” (chớ nhìn quá xa, cũng chớ nhìn quá gần). Dīghāyu nghe và hiểu ý; chàng gia nhập vào sự phục vụ của Brahmadatta, thoạt đầu là một người huấn luyện voi, sau đó là một nhạc công, và cuối cùng là người hầu cận riêng của nhà vua. Chàng muốn báo thù cho cái chết của cha mẹ mình, nhưng khi cơ hội đến, chàng đã nhớ lại những lời dặn dò của cha mình và đã dừng tay. Vin.i.342ff.
 
 ## Notes

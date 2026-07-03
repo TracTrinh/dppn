@@ -5,7 +5,7 @@ base_headword: "Pakkha Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -39,6 +39,12 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pakkha Thera. Một vị *Arahant*. Ngài là một người Sākyan ở Devadaha và tên là Sammoda, nhưng thuở nhỏ ngài mắc bệnh thấp khớp (*vātaroga*) và bị tàn tật một thời gian; do đó ngài bị gọi là *Pakkha* (người tàn tật) ngay cả sau khi đã hồi phục. Khi Đức Phật về thăm thân tộc, ngài đã gia nhập Tăng đoàn và sống trong rừng. Một ngày nọ, ngài nhìn thấy một con diều hâu gắp một miếng thịt bay lên trời, từ miếng thịt đó, hết con diều hâu này đến con diều hâu khác lao vào giành giật. Quán chiếu rằng những ham muốn thế tục cũng giống như miếng thịt bị diều hâu gắp lấy, ngài phát triển tuệ quán và đắc quả *Arahant*.
+
+Vào thời của Vipassī Buddha ngài từng là một Yakkha tướng quân (*senāpati*) với đoàn tùy tùng gồm tám mươi bốn ngàn người và đã cúng dường Đức Phật một y phục chư thiên.
+
+Mười lăm *kappa* trước, ngài mười sáu lần làm vua chuyển luân (Cakkavatti) với tên gọi Suvāhana (Vāhana) (Thag.vs.63; Thag­a.i.144f).
+
+Rõ ràng ngài chính là Mahā Parivāra trong Apadāna. Ap.i.146f.
 
 ## Notes

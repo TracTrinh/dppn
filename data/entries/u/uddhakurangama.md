@@ -5,7 +5,7 @@ base_headword: "Uddhakuraṅgāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uddhakuraṅgāma. A village and a fortification in the district of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng và một pháo đài trong quận Āḷisāra. Nó đã bị chiếm đóng bởi tướng quân của Parakkamabāhu, Māyāgeha (Cv.lxx.171).
 
 ## Notes

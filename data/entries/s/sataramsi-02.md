@@ -5,7 +5,7 @@ base_headword: "Sataraṁsi"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sataraṁsi 02. Twelve *kappas* ago there were eight kings of this name, previou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sataraṁsi 02. Mười hai *kappa* trước, có tám vị vua mang tên này, những tiền kiếp của Maṇipūjaka Thera. Ap.i.190.
 
 ## Notes

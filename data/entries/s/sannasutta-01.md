@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 01. The thought of foulness, death, peril, cloying of food, distas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ý niệm về sự bất tịnh, cái chết, sự hiểm nguy, sự nhàm chán đối với thức ăn, sự chán ghét – những điều này, nếu được trau dồi, mang lại lợi ích lớn. AN.iii.79.
 
 ## Notes

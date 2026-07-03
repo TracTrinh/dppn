@@ -5,7 +5,7 @@ base_headword: "Santuṭṭha"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Santuṭṭha 01. A disciple of the Buddha at <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một đệ tử của Đức Phật tại Ñātikā. Sau khi qua đời, ông được tái sinh ở Akaniṭṭhābhavana, và tại đó hoàn toàn nhập diệt. DN.ii.92; SN.v.358f.
 
 ## Notes

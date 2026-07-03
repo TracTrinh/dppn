@@ -5,7 +5,7 @@ base_headword: "Iḍagaḷissara"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Iḍagaḷissara. A village in South India where <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iḍagaḷissara. Một ngôi làng ở Nam Ấn nơi Kulasekhara có một khu cắm trại trong trận chiến của ông với các lực lượng người Sinhalese (Cv.lxxvi.149).
 
 ## Notes

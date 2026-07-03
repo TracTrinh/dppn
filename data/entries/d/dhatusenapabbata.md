@@ -5,7 +5,7 @@ base_headword: "Dhātusenapabbata"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhātusenapabbata. A *vihāra* built by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusenapabbata. Một *vihāra* được xây dựng bởi Mahā Sena và được trùng tu bởi Dhātusena, ở phía tây của Tích Lan. Mhv.xxxvii.42; Cv.xxxviii.47.
 
 ## Notes

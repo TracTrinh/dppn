@@ -5,7 +5,7 @@ base_headword: "Opammasaṁyutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Opammasaṁyutta. The twentieth section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Opammasaṁyutta. Chương thứ hai mươi của Saṁyuttanikāya, được gọi như vậy vì nó có rất nhiều các ví dụ (*opamma*). (SN.ii.262ff).
 
 ## Notes

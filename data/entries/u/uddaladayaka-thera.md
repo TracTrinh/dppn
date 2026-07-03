@@ -5,7 +5,7 @@ base_headword: "Uddāladāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uddāladāyaka Thera. An *Arahant*. In a previous birth, thirty-one *kappas* ago
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Trong một kiếp trước, ba mươi mốt *kappa* trước, ngài đã nhìn thấy một vị Pacceka Buddha Kakudha, gần một dòng sông, và dâng cho ngài một bông hoa *uddālaka* (Ap.i.225).
 
 ## Notes

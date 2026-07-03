@@ -5,7 +5,7 @@ base_headword: "Isisiṅga"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Isisiṅga. A hermit, the son of the Bodhisatta and a doe. His story is related 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isisiṅga. Một tu sĩ ẩn dật, con trai của Bodhisatta và một con nai cái. Câu chuyện của ông được kể lại trong Alambusājātaka (Ja 523) và trong Naḷinikājātaka (Ja 526).
 
 ## Notes

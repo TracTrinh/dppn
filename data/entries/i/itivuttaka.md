@@ -5,7 +5,7 @@ base_headword: "Itivuttaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -41,6 +41,14 @@ In the scholiast of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Itivuttaka. Cuốn sách thứ tư của Khuddakanikāya, chứa đựng 110 bài *Sutta*, mỗi bài bắt đầu bằng những từ: *vuttaṁ h’etaṁ Bhagavatā*, điều này đã được Bhagavā nói.
+
+Theo Dhammapāla (Iti-a.24ff), các bài *Sutta* được Đức Phật thuyết vào những thời điểm khác nhau cho Khujjuttarā tại Kosambī. Sau đó cô thuật lại chúng cho năm trăm người phụ nữ trong cung điện của Udena, đứng đầu trong số họ là Sāmāvatī. Để nhấn mạnh với khán giả của mình về việc cô đang tường thuật lại lời của Đức Phật chứ không phải của chính mình, cô đã mở đầu mỗi bài *Sutta* bằng cụm từ được trích dẫn ở trên. Không cần thiết phải mô tả bất kỳ hoàn cảnh đặc biệt nào mà trong đó các bài *Sutta* này đã được thuyết, bởi vì khán giả của Khujjuttarā đều quen thuộc với chúng.
+
+Tại Kỳ kết tập Rājagaha, Ānanda đã trùng tuyên lại những bài *Sutta* này trước Hội chúng và chúng đã được tập hợp vào bộ sưu tập này.
+
+Itivuttaka cũng là tên được đặt cho một trong chín phần (*aṅga*) mà những lời giáo huấn của Đức Phật được chia ra và nó được định nghĩa như sau: *vuttaṁ h’etaṁ Bhagavatā ti ādinayappavattā dasuttarasataṁ suttantā* *Itivuttakam ti veditabbaṁ* (DN­a.i.24).
+
+Trong phần bình giải của Kummāsapiṇḍajātaka (Ja 415, Ja.iii.409; l.21), Itivuttaka được nhắc đến ở dạng số nhiều (*Itivuttakesu*) và một bài *Sutta* được trích dẫn từ nó, tán dương những phẩm chất của sự hào phóng. Có lẽ, Itivuttaka đã được biên soạn như là kết quả của một nghiên cứu phản biện về những giáo lý đích thực của Đức Phật, được xem xét dưới một góc độ nhất định và được thực hiện vì một mục đích cụ thể.
 
 ## Notes

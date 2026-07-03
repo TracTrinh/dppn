@@ -5,7 +5,7 @@ base_headword: "Goṭhābhaya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Goṭhābhaya. A monk living in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṭhābhaya. Một tỳ-kheo sống trong pariveṇa Saṅghapāla. Ông là cậu ruột của Vua Goṭhakābhaya II, và đã cố gắng thu phục nhà vua khỏi ảnh hưởng của Saṅghamitta, nhưng không thành công. Mhv.xxxvi.115f.
 
 ## Notes

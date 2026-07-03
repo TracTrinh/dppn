@@ -5,7 +5,7 @@ base_headword: "Ujjhānasaññī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ujjhānasaññī. A Thera. He was so-called because he went about finding fault 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjhānasaññī. Một Trưởng lão. Ngài được gọi như vậy vì ngài đi khắp nơi để bắt lỗi các vị tỳ-kheo. Ngài bị báo cáo với Đức Phật, người sau đó đã thuyết một bài pháp quở trách những hành động như của ngài. Dhp­a.iii.376-7.
 
 ## Notes

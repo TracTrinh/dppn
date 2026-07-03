@@ -5,7 +5,7 @@ base_headword: "Janapadakaḷyānī Nandā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -40,6 +40,12 @@ In one of her previous lives, Janapadakaḷyānī was born as a she-mule; she so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janapadakaḷyānī Nandā. Một trong ba người tên Nandā đã trở thành Tỳ-kheo-ni – những người kia là Nandā, em gái của Nandatthera và Abhirūpanandā. Nhờ sắc đẹp tuyệt trần của mình, bà đã có được biệt danh là *Janapadakaḷyānī*. Chú giải Udāna (170) đưa ra những chi tiết về vẻ đẹp của bà, điều đã biện minh cho danh xưng của bà; xem thêm Ja.i.394.
+
+Janapadakaḷyānī đã đính hôn để kết hôn với Nanda, nhưng vào ngày ấn định cho lễ cưới, Đức Phật đã khuyến khích Nanda gia nhập Tăng đoàn, bất chấp những mong muốn của Nanda, và đến đúng thời điểm, ông đã trở thành một vị *Arahant*. Sau này, khi những người phụ nữ được chấp nhận vào Tăng đoàn, Janapadakaḷyānī, cảm thấy mình không còn gì để mong đợi, đã trở thành một Tỳ-kheo-ni dưới sự chỉ dẫn của Pajāpatī. Trong một thời gian dài, bà không chịu đến thăm viếng Đức Phật, vì nghe nói rằng ngài thường nói những lời chê bai về vẻ đẹp thể chất, nhưng một ngày nọ, được thúc đẩy bởi sự tò mò, bà đã đi cùng các bạn đồng tu của mình đến nghe Đức Phật thuyết pháp. Ngài, nhận biết được những suy nghĩ của bà, đã tạo ra hình ảnh của một thiếu nữ xinh đẹp nhất đang đứng quạt cho ngài. Khi Janapadakaḷyānī ngồi nhìn chằm chằm vào cô gái ấy, bị mê hoặc bởi vẻ đẹp của cô, bà nhìn thấy cô ấy dần dần đi đến sự già nua tột độ, trải qua tất cả các giai đoạn, cho đến cuối cùng bà nhìn thấy cô ấy chết đi, bỏ lại cơ thể của mình bị thối rữa và trở thành một đống rác rưởi uế tạp. Vào thời khắc quyết định, Đức Phật đã thốt lên những lời thích hợp và Janapadakaḷyānī trở thành một vị *Sotāpanna*. Sau đó Đức Phật thuyết bài Kāyavicchandanikasutta và bà trở thành một vị *Arahant* (Ud.iii.2; Ja.i.91; Snp­a.i.241f, 243f, 254, 273; Dhp­a.i.97, 100).
+
+Dường như bà cũng được biết đến với tên gọi Rūpanandā. Dhp­a.iii.113f; nhưng xem Rūpanandā; có lẽ ở đây chúng ta có một sự nhầm lẫn giữa các truyền thuyết. Trong các sách phương bắc, bà được gọi là Bhadrā (Rockhill, p.55.)
+
+Trong một kiếp sống trước đây của bà, Janapadakaḷyānī đã sinh ra là một con la cái; nó đã quyến rũ Nanda một cách dữ dội, người khi ấy cũng là một con la thuộc về một thương nhân tên là Kappaṭa (Dhp­a.i.105). Sundarīnandā dường như cũng được gọi là Janapadakaḷyānī.
 
 ## Notes

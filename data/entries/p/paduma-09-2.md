@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "09"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumā 09. One of the chief women disciples of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 09. Một trong những nữ đệ tử tối thắng của Metteyya Buddha. Anāg.,vs.98.
 
 ## Notes

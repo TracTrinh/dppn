@@ -5,7 +5,7 @@ base_headword: "Dundubhissara Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dundubhissara Thera, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dundubhissara Thera, Durabhisāra Thera. Một vị *Arahant*. Sau kỳ Kết tập thứ ba, ông đã tháp tùng vị Thera Majjhima đến vùng dưới chân núi Himālaya (Vin-a.i.68; Mhv­ṭ.317; Mbv.115). Trong Dīpavaṁsa (viii.10), ông được gọi là Durabhisāra.
 
 ## Notes

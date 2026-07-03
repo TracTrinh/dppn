@@ -5,7 +5,7 @@ base_headword: "Dvayasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dvayasutta 02. Owing to the “duals,” mentioned above, arise the different ki
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvayasutta 02. Do các “bộ đôi” được đề cập ở trên, phát sinh các loại thức khác nhau, v.v. – ví dụ, do mắt và cảnh sắc phát sinh nhãn thức, v.v. SN.v.167f.
 
 ## Notes

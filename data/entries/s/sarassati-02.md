@@ -5,7 +5,7 @@ base_headword: "Sarassatī"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarassatī 02. A channel branching off from the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarassatī 02. Một con kênh rẽ nhánh từ Toyavāpi đến Punnavaḍḍhanavāpi. Cv.lxxix.46.
 
 ## Notes

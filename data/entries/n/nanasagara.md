@@ -5,7 +5,7 @@ base_headword: "Ñāṇasāgara"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇasāgara. Một tỳ-kheo ở Pagan, tác giả của *Liṅgatthavivaraṇappakāsana*. Gv.63. Bode: *op.cit.*, 22.
 
 ## Notes

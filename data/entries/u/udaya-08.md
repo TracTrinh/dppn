@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "08"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udaya 08. King of Ceylon, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Tích Lan, Udaya II (sau Công nguyên 885-896), một người em trai của Sena II và sau này là *yuvarāja* của ông (Cv.li.63, 90ff; Cv.Trs.i.156, n.4). Ông kế vị Sena II và trị vì mười một năm. Trong thời gian trị vì của ông, tỉnh Rohaṇa lại một lần nữa được đặt dưới sự cai trị của nhà vua.
 
 ## Notes

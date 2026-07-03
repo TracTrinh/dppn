@@ -5,7 +5,7 @@ base_headword: "Santa"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Santa 01. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Aggasāvaka* của Atthadassī Buddha (Ja.i.39; Bv.xv.19). Ông là con trai của vua nước Sucandaka, và Upasanta, con trai của vị tư tế, là bạn của ông. Hai người này đã bố trí bốn người rất uyên bác ở bốn cổng thành để báo cho họ biết về sự xuất hiện của bất kỳ bậc hiền nhân nào. Họ đã thông báo về sự xuất hiện của Atthadassī Buddha. Santa và Upasanta đã đến thăm Đức Phật và các vị tỳ-kheo của ngài, cúng dường họ những bữa ăn trong bảy ngày, và lắng nghe bài thuyết pháp của Đức Phật. Vào ngày thứ bảy, họ trở thành các vị *Arahant*, cùng với chín mươi ngàn người khác. Bv­a. p. 179.
 
 ## Notes

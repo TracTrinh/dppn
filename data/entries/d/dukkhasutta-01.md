@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 01. *Dukkha* arises from the contact of the senses and the objects p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 01. *Dukkha* phát sinh từ sự tiếp xúc của các căn và các trần cảnh tương ứng của các căn, dẫn đến cảm thọ, và cảm thọ, đến lượt nó, sinh ra ái dục. Bằng cách đoạn diệt tiến trình này, *dukkha* bị tiêu diệt. SN.ii.71; cf. SN.iv.86.
 
 ## Notes

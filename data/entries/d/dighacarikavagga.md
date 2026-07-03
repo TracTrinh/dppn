@@ -5,7 +5,7 @@ base_headword: "Dīghacārikavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghacārikavagga. The twenty-third chapter of the *Pañcakanipāta* of the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghacārikavagga*. Chương thứ hai mươi ba của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.257-61.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Inda"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -40,6 +40,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Inda 01. Được nêu trong Āṭānāṭiyasutta như là tên của chín mươi mốt người con trai của Dhataraṭṭha, vị vua của các Gandhabba. Họ được mô tả là có sức mạnh to lớn và là những môn đồ của Đức Phật (DN.iii.197).
+
+Cái tên này cũng được đưa ra như là tên của chín mươi mốt người con trai của Virūḷha, vị vua của các *Kumbhaṇḍa* (DN.iii.198); của Virūpakkha, vua của các Nāga (p.199); và của Kuvera, vua của các Yakkha (p.202). Tiếp theo trong cùng bài *Sutta* này, Inda được nhắc đến cùng với Soma, Varuṇa và những người khác như là một Yakkha, người mà các đệ tử của Đức Phật nên kêu gọi khi cần sự bảo vệ (p.204).
+
+Trong Mahā Samayasutta (DN.ii.257f) cũng vậy, Inda được nhắc đến như là tên của các Người con của các vị Tứ Đại Thiên Vương của Bốn Phương.
 
 ## Notes

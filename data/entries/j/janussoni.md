@@ -5,7 +5,7 @@ base_headword: "Jāṇussoṇī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -40,6 +40,6 @@ Jāṇussoṇī. A *Mahā Sāla* Brahmin, ranking with eminent Brahmins such as 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāṇussoṇī. Một vị Bà-la-môn Mahā Sāla, có vị thế ngang hàng với những vị Bà-la-môn lỗi lạc như Caṅkī, Tārukkha, Pokkharasāti và Todeyya (Snp. p.115). Ông được nhắc đến là đang lưu trú tại Icchānaṅgala (MN.ii.196), nơi hiển nhiên ông đã tham gia vào những cuộc tụ họp định kỳ của các vị thủ lĩnh Bà-la-môn – và cũng ở tại Manasākaṭa (DN.i.235). Ông là một người đi theo Đức Phật, mà đối với ngài ông là một người vô cùng ngưỡng mộ. Dường như ông có thói quen trò chuyện với những vị đạo sư nổi tiếng của các trường phái khác và lắng nghe những quan điểm của họ về Đức Phật, hoặc là nhằm mục đích so sánh đức tin của chính ông nơi ngài hoặc là để khám phá ra những quan điểm của họ. Hai cuộc trò chuyện như vậy đã được ghi lại – một với Subha Todeyyaputta (MN.ii.209), cuộc trò chuyện kia với Pilotika (MN.i.175ff). Ông đã thuật lại cuộc thảo luận của mình với Pilotika cho Đức Phật nghe, và Đức Phật đã mở rộng nó để hình thành nên Cūḷahatthipadopamasutta. Đức Phật cũng đã thuyết cho Jāṇussoṇī nghe bài Bhayabheravasutta (MN.i.16ff). Nơi cư trú thường xuyên của Jāṇussoṇī là Sāvatthī (DN­a.ii.399), và ông thường xuyên đến viếng thăm Đức Phật tại Jetavana, tham vấn ngài về nhiều chủ đề, chẳng hạn như: những quả báo của các hành động (AN.i.56), *sandiṭṭhakanibbāna* (AN.i.157), những người Bà-la-môn *tevijja* (AN.i.166), sự không sợ hãi cái chết (AN.ii.173), những lý tưởng của nhiều tầng lớp con người khác nhau (AN.iii.362), sự sống độc thân chân chính (AN.iv.54), nghi lễ Paccārohaṇī (AN.v.233ff., 249ff.), sự hữu hiệu của những món quà (AN.v.269ff.), và thuyết thường hằng cùng thuyết đoạn diệt (SN.ii.76). Ông có một chiếc xe ngựa màu trắng với những phụ kiện bằng bạc và những bộ đồ trang sức màu trắng được kéo bởi bốn con ngựa cái thuần chủng màu trắng. Ông sẽ lái chiếc xe này đi vòng quanh, mặc những bộ y phục màu trắng, đội khăn xếp, đi dép và được quạt bằng một chiếc quạt màu trắng. Những sợi dây cương, những chiếc roi thúc ngựa và tán che cũng đều có màu trắng. Chiếc xe ngựa của ông được xem là cỗ xe đẹp nhất trong toàn bộ Sāvatthī (SN.v.4f; cp. MN.i.175 và ii.208). Buddhaghosa nói rằng Jāṇussoṇī không phải là tên cá nhân của ông mà là tên chức vị ông nắm giữ như một vị quốc sư của vua Kosala. MN­a.i.90; theo AN­a. (i.308) thì đó là tên gọi của bất cứ gia đình quý tộc nào có thành viên nắm giữ chức vị này. Cp. *Govindiye abhisiñci* (tại DN.ii.231).
 
 ## Notes

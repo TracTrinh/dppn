@@ -5,7 +5,7 @@ base_headword: "Naḷannaru"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naḷannaru. A tank in Ceylon, repaired by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷannaru. Một cái hồ ở Tích Lan, được Parakkamabāhu I tu bổ. Cv.lxviii.47.
 
 ## Notes

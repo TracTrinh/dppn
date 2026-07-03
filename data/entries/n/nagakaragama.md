@@ -5,7 +5,7 @@ base_headword: "Nāgakāragāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāgakāragāma. A village in the north of Ceylon. Ras.ii.191.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgakāragāma. Một ngôi làng ở phía bắc của Tích Lan. Ras.ii.191.
 
 ## Notes

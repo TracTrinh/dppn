@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Revata 04. The DhpA.iv.176f mentions a novice Revata, with three others – <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 04. DhpA.iv.176f đề cập đến một sa-di Revata, cùng với ba vị khác – Saṅkicca, Paṇḍita và Sopāka – cả bốn người họ đều trở thành Arahant khi mới bảy tuổi. Vị Revata được dẫn chiếu đến này, rất có khả năng, là Revata (3). Về câu chuyện của họ, xem Pañcachiddageha.
 
 ## Notes

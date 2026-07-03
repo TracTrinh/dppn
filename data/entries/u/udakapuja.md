@@ -5,7 +5,7 @@ base_headword: "Udakapūjā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udakapūjā. A celebration held by a <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một buổi lễ kỷ niệm được tổ chức bởi một vị vua Nāga để vinh danh Kañcanadevī.
 
 ## Notes

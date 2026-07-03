@@ -5,7 +5,7 @@ base_headword: "Jīvitasutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jīvitasutta 02. There are three faculties – femininity, masculinity and vital
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvitasutta 02. Có ba căn – nữ căn, nam căn và mạng căn. SN.v.204.
 
 ## Notes

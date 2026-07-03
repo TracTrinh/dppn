@@ -5,7 +5,7 @@ base_headword: "Dhātukathā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,8 @@ The Sarvāstivādins call the Dhātukathā the Dhātukāyapada. There seems to h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātukathā. Một trong bảy cuốn sách của Abhidhammapiṭaka. Nó dường như được thiết kế như một phần bổ sung cho Dhammasangaṇi, và thảo luận, chủ yếu là, các đặc tính tâm lý được tìm thấy ở những người đã quy hướng và tinh cần. Nó được chia thành mười bốn phần và có một bản Chú giải của Buddhaghosa. Được PTS xuất bản.
+
+Những người theo phái Sarvāstivādin gọi Dhātukathā là Dhātukāyapada. Dường như đã từng tồn tại ở Tích Lan một tác phẩm khác mang tên Mahā Dhātukathā, được các *Vitaṇḍavādin* tuyên bố là một tác phẩm Abhidhamma, nhưng bị những người chính thống bác bỏ vì cho rằng không thuộc kinh điển. Dhs-a.4.83, 1010, 103, 215.
 
 ## Notes

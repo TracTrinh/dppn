@@ -5,7 +5,7 @@ base_headword: "Dīpijātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,8 @@ The story was related in reference to a she-goat whom <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīpijātaka* (Ja 426). Những người chăn dê từng chiếm giữ túp lều của một vị sa-môn, và, khi rời đi, đã bỏ lại một con dê cái bị đi lạc. Khi nó chạy đi để gia nhập với những con khác, nó nhìn thấy một con báo chặn đường; nó tỏ ra cực kỳ táo bạo và cố gắng làm dịu con báo bằng những lời lẽ mềm mỏng, nhưng tất cả đều vô ích, vì con báo đã ăn thịt nó.
+
+Câu chuyện này được kể lại liên quan đến một con dê cái mà Moggallāna từng nhìn thấy gần túp lều trên núi của ông. Tuy nhiên, khi nhìn thấy một con báo, con dê cái đó, với sự táo bạo to lớn, đã nhảy qua người con báo và trốn thoát. Ja.iii.479f.
 
 ## Notes

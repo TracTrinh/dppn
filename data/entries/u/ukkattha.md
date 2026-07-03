@@ -5,7 +5,7 @@ base_headword: "Ukkaṭṭhā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -50,6 +50,14 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkaṭṭhā. Một thị trấn ở Kosala, gần Himālaya. Nó đã được ban tặng, miễn mọi loại thuế (dưới hình thức *brahmadeyya*), cho Pokkharasāti bởi vua của Kosala, để ghi nhận kỹ năng của ông. Nó có đông dân cư và có nhiều đồng cỏ, đất rừng và lúa gạo (DN.i.87; DN­a.i.245). Khu rừng Icchānaṅgala nằm ở vùng lân cận, và khi Đức Phật đang ngự trong khu rừng đó, trước tiên Pokkharasāti cử đệ tử của mình là Ambaṭṭha đến và sau đó chính ông đi đến thăm Đức Phật (xem Ambaṭṭhasutta).
+
+Có một con đường nối Ukkaṭṭhā với Setavyā (AN.ii.37) và với Vesālī (Ja.ii.259). Chatta đi từ Setavyā đến Ukkaṭṭhā để học dưới sự chỉ dẫn của Pokkharasāti (Vv-a.229).
+
+Chính tại Subhagavana ở Ukkaṭṭhā, bài kinh Mūlapariyāyasutta (MN.i.1ff) đã được thuyết và Mūlapariyāyajātaka (Ja.ii.259ff) đã được kể lại liên quan đến nó. Ukkaṭṭhā là nơi cư trú của Aṅgaṇika Bhāradvāja (Thag­a.339).
+
+Buddhaghosa giải thích (MN­a.i.9; AN­a.ii.504) rằng thành phố được gọi như vậy vì nó được xây dựng bằng ánh sáng của những ngọn đuốc (*ukkā*) vào ban đêm, để nó có thể được hoàn thành trong thời điểm cát tường.
+
+Trong Brahmanimantikasutta (MN.i.326; nhưng xem SN.i.142; Ja.iii.359), Đức Phật kể rằng trong khi ngài đang ngự tại Subhagavana thì ngài đã nhận ra những tà kiến của Baka-*Brahma* và đi đến cõi *Brahma* để dạy cho Baka chân lý. *Divyāvadāna* gọi thành phố này là Ukkatā (p.621).
 
 ## Notes

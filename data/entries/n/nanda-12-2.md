@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "12"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 12. One of the palaces occupied by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 12. Một trong những cung điện được Paduma Buddha sử dụng trong đời sống cư sĩ cuối cùng của Ngài. Bv.ix.17.
 
 ## Notes

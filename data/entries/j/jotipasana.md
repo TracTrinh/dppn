@@ -5,7 +5,7 @@ base_headword: "Jotipāsāṇa"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jotipāsāṇa. The name given to the crystals brought from <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotipāsāṇa. Tên được đặt cho những viên pha lê do vợ của Jotika mang về từ Uttarakuru. Khi bất cứ thứ gì cần nấu chín được đặt lên chúng, chúng sẽ bừng sáng tỏa nhiệt, và sẽ tự tắt khi việc nấu nướng hoàn tất. Dhp­a.iv.209; DN­a.iii.965.
 
 ## Notes

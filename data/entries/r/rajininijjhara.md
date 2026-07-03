@@ -5,7 +5,7 @@ base_headword: "Rājinīnijjhara"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājinīnijjhara. A weir in a river in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājinīnijjhara. Một đập nước trên một con sông ở Dakkhiṇadesa, được Parakkamabāhu I khôi phục. Cv.lxxix.66.
 
 ## Notes

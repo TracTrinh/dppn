@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "08"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 08. If a monk has brooding on sense-desires, ill-will, cruelty and c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 08. Nếu một vị tỳ-kheo luôn ấp ủ các dục vọng, ác ý, sự tàn ác và khơi lên những ý nghĩ về những điều này, vị ấy sẽ sống không an ổn trong hiện tại và cả sau khi chết. AN.iii.429.
 
 ## Notes

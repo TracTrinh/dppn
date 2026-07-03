@@ -5,7 +5,7 @@ base_headword: "Padumacchadaniya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumacchadaniya Thera. An *Arahant*. He offered a lotus at the pyre of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumacchadaniya Thera. Một vị *Arahant*. Ngài đã dâng cúng một hoa sen tại giàn hỏa táng của Vipassī Buddha. Bốn mươi bảy *kappa* trước, ngài là một vị vua tên Padumissara. Bất cứ nơi nào ngài đi qua, một lọng hoa sen tự giăng che phía trên ngài. Ap.i.98.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Guḷavaṇṇa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ The story was told to illustrate the good qualities of a well-trained horse.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guḷavaṇṇa. Một con ngựa thuộc về Vua Kuṭakaṇṇatissa. Một lần nọ nhà vua, trên đường từ Anurādhapura đến Cetiyapabbata, đã đi đến sông Kadamba và nhận thấy con ngựa của ông không chịu lội qua đó. Khi người huấn luyện bị khiển trách, anh ta giải thích rằng con ngựa không muốn đuôi của mình bị ướt, phòng khi trang phục của nhà vua bị hỏng. Nhà vua nâng đuôi ngựa lên, và nó lập tức lội qua dòng suối (MN­a.ii.653f).
+
+Câu chuyện này được kể lại để minh họa những phẩm chất tốt của một con ngựa được huấn luyện tốt.
 
 ## Notes

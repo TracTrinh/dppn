@@ -5,7 +5,7 @@ base_headword: "Jayanta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jayanta. King of Ceylon (then known as <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayanta. Vua của Tích Lan (khi đó được gọi là Maṇḍadīpa) vào thời của Kassapa Buddha. Thủ đô của ông là Visāla. Đó là một cuộc chiến tranh tàn khốc giữa Jayanta và người em trai của ông đã đưa Kassapa đến Tích Lan. Mhv.xv.127ff; Dpv.xv.60; xvii.7; Vin-a.i.87, v.v.
 
 ## Notes

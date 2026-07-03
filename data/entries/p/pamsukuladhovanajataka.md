@@ -5,7 +5,7 @@ base_headword: "Paṁsukūladhovanajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Paṁsukūladhovanajātaka. The <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsukūladhovanajātaka. Sumaṅgalavilāsinī (DN­a.i.130) có nhắc đến một Jātaka với tên gọi này, cùng với Vessantarajātaka, và nói rằng mặt đất đã rung chuyển khi các Jātaka này được thuyết giảng. Đây là một sự hiểu lầm của Malalasekera. Đoạn văn mà ông tham chiếu đến không chỉ định rõ đây là một Jātaka, mà đơn thuần chỉ đề cập đến "việc giặt y phấn tảo" (*paṁsukūladhovane*). Cũng trong cùng đoạn văn này có nhắc đến "việc thọ nhận y phấn tảo" (*paṁsukūlagahaṇe*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Janasandha"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Janasandha 03. A title given to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasandha 03. Một tước hiệu được trao cho Dhanañjaya Koravya, vua của Kurukkhetta (Ja.vi.291). Nhà chú giải giải thích điều đó như sau: *mittaganthanena mittajanassa santhānakaro*.
 
 ## Notes

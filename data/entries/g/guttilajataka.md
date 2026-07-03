@@ -5,7 +5,7 @@ base_headword: "Guttilajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guttilajātaka (Ja 243). Câu chuyện về Guttila (xem bài) và cuộc thi đấu của ngài với Mūsila. Mūsila được đồng nhất với Devadatta, Sakka với Anuruddha, và nhà vua với Ānanda.
+
+Câu chuyện này được kể liên quan đến Devadatta. Các tỳ-kheo đã cố gắng thuyết phục ông ta công nhận Đức Phật là đạo sư của mình, bởi vì chính từ Ngài mà ông ta đã học được ba bộ *Piṭaka* và bốn *Jhāna*. Nhưng Devadatta không chịu đồng ý. Ja.ii.248ff.
 
 ## Notes

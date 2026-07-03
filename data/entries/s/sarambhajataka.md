@@ -5,7 +5,7 @@ base_headword: "Sārambhajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sārambhajātaka (Ja 88). The story is the same as that of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārambhajātaka (Ja 88). Câu chuyện giống như câu chuyện của Nandivisālajātaka (Ja 28) (*q.v.*), nhưng có một điểm khác biệt này, đó là Bodhisatta là một con bò đực tên Sārambha, và thuộc về một vị Bà-la-môn uyên bác của Takkasilā. Ja.i.374f.
 
 ## Notes

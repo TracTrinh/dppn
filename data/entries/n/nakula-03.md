@@ -5,7 +5,7 @@ base_headword: "Nakula"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nakula 03. One of the chief lay supporters of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakula 03. Một trong những nam cư sĩ ủng hộ chính của Đức Phật Atthadassi. Bv.xv. 21.
 
 ## Notes

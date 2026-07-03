@@ -5,7 +5,7 @@ base_headword: "Sanaṅkumārasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sanaṅkumārasutta. *Brahma* <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sanaṅkumārasutta. Phạm thiên Sanaṅkumāra đến thăm Đức Phật bên bờ sông Sappinī, và nói một bài kệ ca ngợi sự học hỏi và hạnh kiểm tốt (SN.i.153; về bài kệ xem Sanaṅkumāra). Đức Phật chấp thuận cảm tưởng chứa đựng trong bài kệ.
 
 ## Notes

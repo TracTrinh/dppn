@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "11"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paduma 11. A rock near <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 11. Một tảng đá gần Himavā. Ap.ii.362.
 
 ## Notes

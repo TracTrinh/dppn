@@ -5,7 +5,7 @@ base_headword: "Saraṇa Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saraṇa Thera. A monk. He was given the name because, when he was in his mother
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇa Thera. Một tỳ-kheo. Ngài được đặt tên này bởi vì, khi ngài còn trong bụng mẹ, mẹ ngài đã được cứu thoát khỏi cái chết nhờ đức hạnh của bà. Bà là con gái của Sumana và Sujampatikā ở Sāvatthī. Về sau Saraṇa trở thành một bậc *Arahant*. Để biết chi tiết, xem Ras.i.15f.
 
 ## Notes

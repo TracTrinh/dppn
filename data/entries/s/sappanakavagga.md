@@ -5,7 +5,7 @@ base_headword: "Sappānakavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sappānakavagga. The seventh chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ bảy của Pācittiya.
 
 ## Notes

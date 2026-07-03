@@ -5,7 +5,7 @@ base_headword: "Pagatasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pagatasutta. A conversation between <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pagatasutta. Một cuộc đàm đạo giữa Sāriputta và Mahā Koṭṭhita về việc Tathāgata có tồn tại sau khi chết hay không. SN.iv.384f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattasuriyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattasuriyasutta. Mentioned in the scholiast to the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasuriyasutta. Được đề cập trong phần chú giải của người chép tay (scholiast) cho Ayogharajātaka (Ja.iv.498). Tham chiếu này hiển nhiên là nói đến Suriyasutta của Aṅguttaranikāya. AN.iv.100f.; xem Suriyasutta (1).
 
 ## Notes

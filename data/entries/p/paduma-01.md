@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -53,6 +53,8 @@ His body was fifty-eight cubits high, and he lived for one hundred thousand year
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 01. Paduma Buddha. Vị Phật thứ tám trong số hai mươi bốn vị Phật. Ngài được sinh ra ở Campaka. Cha của ngài là vị *Khattiya* tên là Asama (nhưng xem Ja.i.36, nơi ngài được gọi là Paduma) và mẹ của ngài là Asamā. Trong suốt mười ngàn năm, ngài đã sống như một cư sĩ trong ba cung điện: Nandā, Suyasā và Uttarā (Bv­a. gọi chúng là Uttarā, Vasuttarā và Yasuttarā). Vợ của ngài là Uttarā và con trai của ngài là Ramma. Ngài đã rời khỏi nhà trên một cỗ xe ngựa và thực hành các hạnh khổ hạnh trong tám tháng. Dhaññavatī đã dâng cho ngài món cơm sữa, và một Ājīvaka, tên là Titthaka, đã trải cỏ làm chỗ ngồi cho ngài dưới gốc cây Bodhi của ngài, đó là một cây Mahā Soṇa. Ngài đã thuyết bài pháp đầu tiên của mình ở Dhanañjuyyāna. Những đệ tử tối thắng của ngài là các em trai của ngài, Sāla và Upasāla, và vị thị giả của ngài là Varuṇa. Rādhā và Surādhā là các nữ đệ tử tối thắng của ngài, và những thí chủ chính của ngài là Bhiyya và Asama trong số những người nam và Rucī và Nandarāmā trong số những người nữ.
+
+Cơ thể của ngài cao năm mươi tám cubit, và ngài đã sống được một trăm ngàn năm. Ngài đã qua đời ở Dhammārāma và các xá-lợi của ngài đã bị phân tán. Chú giải Buddhavaṁsa tuyên bố rằng tên đầy đủ của ngài là Mahā Paduma, rằng ngài được gọi như vậy bởi vì vào ngày ngài sinh ra một trận mưa hoa sen đã rơi xuống bao trùm Jambudīpa, và rằng, vào thời điểm đó, vị Bodhisatta là một con sư tử. Bv.ix.; Bv­a.146ff.; Ja.i.36; Mhv.i.7; Dhp­a.i.84.
 
 ## Notes

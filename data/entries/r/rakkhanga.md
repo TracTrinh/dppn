@@ -5,7 +5,7 @@ base_headword: "Rakkhaṅga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -30,6 +30,6 @@ Rakkhaṅga. A country (modern Arakan) from which <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhaṅga. Một quốc gia (nay là Arakan) từ đó Vimaladhammasūriya I đã thu nhận một số tỳ-kheo, do Nandicakka đứng đầu, nhằm thiết lập lại lễ *upasampadā* ở Tích Lan (Cv.xciv.15). Vimaladhammasūriya II cũng làm điều tương tự (Cv.xcvii.10; xem thêm Cv.Trs.ii.239, n.1); Vijayarājasīha cũng vậy (Cv.xcviii.89; xem thêm Cv.Trs.ii.253, n.2). Hai vị vua sau đã được người Hà Lan giúp đỡ trong công cuộc của họ. Kittisirirājasīha (Cv.xcix.25) được đề cập là đã dành sự tôn kính đặc biệt cho các tỳ-kheo đến từ Rakkhaṅga.
 
 ## Notes

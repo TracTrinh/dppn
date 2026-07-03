@@ -5,7 +5,7 @@ base_headword: "Pañcagarujātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ This Jātaka was related in reference to the attempts made by <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcagarujātaka (Bhirukajātaka) (Ja 132). Có một lần Bodhisatta là người con út trong số một trăm người con trai của Brahmadatta, vua xứ Benares. Theo như có thể thấy được, ngài không có cơ hội làm vua, nhưng khi tìm kiếm lời khuyến tu của một vị Pacceka Buddha và làm theo lời khuyên của ngài, ngài đã trở thành vua khi phụ vương băng hà. Để biết thông tin chi tiết, vui lòng tham khảo "Takkasilājātaka," đây rõ ràng là một tên gọi khác của Telapattajātaka (*q.v.*).
+
+Jātaka này được kể lại liên quan đến những nỗ lực cám dỗ Đức Phật do các con gái của Māra thực hiện khi Ngài đang ngồi dưới cây *nigrodha* Ajapāla. Ja.i.469ff.
 
 ## Notes

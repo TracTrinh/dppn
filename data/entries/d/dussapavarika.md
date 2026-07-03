@@ -5,7 +5,7 @@ base_headword: "Dussapāvārika"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dussapāvārika. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussapāvārika. Một vị trưởng giả (*seṭṭhi*) ở Nālandā, người sở hữu một vườn xoài gần thành phố. Sau khi nghe Đức Phật thuyết pháp, ông đã trở thành môn đồ của ngài và xây dựng cho ngài cùng Tăng đoàn của ngài một tu viện trong vườn xoài của mình, nơi này sau đó được gọi là Pāvārikambavana. DN­a.iii.873; MN­a.ii.594; SN­a.iii.169.
 
 ## Notes

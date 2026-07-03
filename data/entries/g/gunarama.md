@@ -5,7 +5,7 @@ base_headword: "Guṇārāma"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Guṇārāma. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇārāma. Một Trưởng lão của Arimaddanapura. Vua Ujana đã xây dựng Jetavanavihāra cho vị này. Sās.83.
 
 ## Notes

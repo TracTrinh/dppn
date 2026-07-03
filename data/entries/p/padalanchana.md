@@ -5,7 +5,7 @@ base_headword: "Padalañchana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Padalañchana. A village in Ceylon where <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padalañchana. Một ngôi làng ở Tích Lan, nơi Vajirā, hoàng hậu của Kassapa V, đã xây dựng một tu viện cho các Theravādin (Cv.lii.63). Có một sự đề cập (Cv.liv.44) về một ngôi đền có bốn *cetiya* ở Padalañchana, đã bị những người Coḷa thiêu rụi và được Mahinda IV khôi phục lại.
 
 ## Notes

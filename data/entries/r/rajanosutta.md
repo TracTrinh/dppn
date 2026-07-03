@@ -5,7 +5,7 @@ base_headword: "Rājānosutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rājānosutta. Kings do not punish beings who practice goodness; they punish onl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājānosutta. Các vị vua không trừng phạt những chúng sanh thực hành điều thiện; họ chỉ trừng phạt những kẻ tội phạm. AN.iii.208f.
 
 ## Notes

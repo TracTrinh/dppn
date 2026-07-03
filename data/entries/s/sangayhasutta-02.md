@@ -5,7 +5,7 @@ base_headword: "Saṅgayhasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgayhasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgayhasutta 02. Māluṅkyaputta đến thăm Đức Phật vào lúc tuổi già và xin một bài giáo huấn tóm tắt. Đức Phật dạy ông hộ trì sáu căn. SN.iv.72f.
 
 ## Notes

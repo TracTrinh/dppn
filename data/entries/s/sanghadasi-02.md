@@ -5,7 +5,7 @@ base_headword: "Saṅghadāsī"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghadāsī 02. An eminent nun of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghadāsī 02. Một vị ni sư lỗi lạc của Jambudīpa. Dpv.xviii.10.
 
 ## Notes

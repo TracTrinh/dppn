@@ -5,7 +5,7 @@ base_headword: "Dubbinodasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dubbinodasutta. Five things are hard to push against: sensuality, ill-will, infa
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dubbinodasutta*. Năm điều khó chống lại: lòng dục, ác ý, sự mê đắm, sự phô trương và những ý nghĩ lang thang. AN.iii.184.
 
 ## Notes

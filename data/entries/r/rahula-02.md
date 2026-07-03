@@ -5,7 +5,7 @@ base_headword: "Rāhula"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rāhula 02. One of the four monks who accompanied <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhula 02. Một trong bốn vị tỳ-kheo đã đi cùng Chapaṭa đến Tích Lan. Những tỳ-kheo này sau đó trở thành những người sáng lập nên *Sīhalasaṅgha* ở Miến Điện. Về sau, tại một trong những lễ hội của Vua Narapati, Rāhula đã phải lòng một nữ diễn viên và đi cùng cô đến Malayadīpa, nơi ông đã dạy cho nhà vua Khuddasikkhā và Chú giải của nó. Với số tiền mà nhà vua ban cho ông, ông đã hoàn tục. Sās. 65; Bode, 23f.
 
 ## Notes

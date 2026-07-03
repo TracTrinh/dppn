@@ -5,7 +5,7 @@ base_headword: "Uddhagāma"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uddhagāma 02. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Rohaṇa. Các lực lượng của Parakkamabāhu I, đã tiến hành một chiến dịch ở đó trong ba tháng (Cv.lxxiv.92).
 
 ## Notes

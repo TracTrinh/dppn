@@ -5,7 +5,7 @@ base_headword: "Pajānasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pajānasutta 02. <span class="dppn-term dppn-term-t20" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajānasutta 02. Khổ đau không thể bị đoạn tận nếu không liễu tri các sắc, thanh, vị, v.v. SN.iv.90.
 
 ## Notes

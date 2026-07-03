@@ -5,7 +5,7 @@ base_headword: "Dharaṇī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dharaṇī. A lake in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dharaṇī. Một hồ nước ở thành phố của Kuvera. DN.iii.201.
 
 ## Notes

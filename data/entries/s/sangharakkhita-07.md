@@ -5,7 +5,7 @@ base_headword: "Saṅgharakkhita"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅgharakkhita 07. An eminent monk in the time of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgharakkhita 07. Một vị tỳ-kheo lỗi lạc vào thời của Kittisirirājasīha. Ông được nhà vua giao phó việc trùng tu Majjhapallivihāra. Cv.c.234.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sandiṭṭhikasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sandiṭṭhikasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandiṭṭhikasutta 03. Ānanda giải thích cho Udāyī (Kāḷudāyī) về việc giáo pháp của Đức Phật có thể được thấy cho chính mình trong kiếp sống này như thế nào. AN.iv.453.
 
 ## Notes

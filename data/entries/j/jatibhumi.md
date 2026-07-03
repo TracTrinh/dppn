@@ -5,7 +5,7 @@ base_headword: "Jātibhūmi"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jātibhūmi. Occurs in the phrase *Jātabhūmakā bhikkhū*. MN.i.145; but see M
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātibhūmi. Xuất hiện trong cụm từ *Jātabhūmakā bhikkhū*. MN.i.145; nhưng xem MN­a.i.346, ở đây nó được giải thích là *jāvaṭṭhāna*.
 
 ## Notes

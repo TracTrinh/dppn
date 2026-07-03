@@ -5,7 +5,7 @@ base_headword: "Udañcanijātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,8 @@ For the circumstances relating to the telling of the story, see the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta và con trai ngài sống trong một am thất. Một buổi chiều khi Bodhisatta mang trái cây trở về am thất, ngài phát hiện ra rằng con trai ngài đã không mang thức ăn và củi vào cũng như chưa nhóm lửa. Khi bị người cha gặng hỏi, cậu trả lời rằng trong sự vắng mặt của người cha, một người phụ nữ đã cám dỗ cậu, và đang đợi bên ngoài để cậu đi cùng với cô ta, nếu cậu có thể nhận được sự đồng ý của cha mình. Bodhisatta, thấy rằng con trai mình đã vô cùng say đắm người phụ nữ, đã ban sự đồng ý của mình, nói thêm rằng nếu cậu từng có mong muốn quay lại, cậu sẽ được chào đón. Chàng trai trẻ đã ra đi cùng với người phụ nữ, nhưng sau một thời gian, nhận ra rằng mình phải làm nô lệ để thỏa mãn các nhu cầu của cô ta, anh ta đã bỏ chạy khỏi cô ta và trở về với cha mình (Ja.i.416-7).
+
+Đối với các tình huống liên quan đến việc kể lại câu chuyện, xem Cūḷa Nāradakassapajātaka.
 
 ## Notes

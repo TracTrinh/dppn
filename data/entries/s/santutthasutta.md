@@ -5,7 +5,7 @@ base_headword: "Santuṭṭhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Santuṭṭhasutta. The Buddha speaks in praise of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật nói lời ca ngợi Mahā Kassapa, sự bằng lòng của ông với bất cứ thứ gì ông nhận được như y áo, vật thực khất thực, chỗ ở và thuốc men. Ông là một tấm gương đáng để noi theo. SN.ii.194.
 
 ## Notes

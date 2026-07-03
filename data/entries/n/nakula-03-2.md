@@ -5,7 +5,7 @@ base_headword: "Nakulā"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nakulā 03. Daughter of the *seṭṭhi* of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulā 03. Con gái của *seṭṭhi* của Nakulanigama. Cô đã dâng một bữa ăn gồm cơm sữa cho Đức Phật Sumedha ngay trước sự Giác Ngộ của Ngài. Bv­a. 163.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Raṭṭhapāla"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Raṭṭhapāla 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṭṭhapāla 04. Raṭṭhapāla Thera. Một tỳ-kheo của Tích Lan, tác giả của Madhura Rasavāhinī (*q.v.*)
 
 ## Notes

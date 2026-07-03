@@ -5,7 +5,7 @@ base_headword: "Saṅkhajātaka"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -36,6 +36,8 @@ The Buddha related the story to the monks at <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhajātaka 02. (Dhp­a 21.1). Bodhisatta, tên là Saṅkha, từng sinh ra như một Bà-la-môn ở Takkasilā và có một người con trai, Susīma. Khi Susīma khoảng mười sáu tuổi, anh đã từ biệt cha mình và đi đến Benares để nghiên cứu các kinh Vệ-đà (Vedas). Vị thầy của anh, người là một người bạn của cha anh, đã dạy anh tất cả những gì ông biết, và sau đó Susīma đến Isipatana, nơi có một số vị Pacceka Buddha đang sinh sống. Anh đã gia nhập Tăng đoàn dưới sự chỉ dẫn của họ, đạt quả vị *Arahant*, và qua đời khi vẫn còn trẻ. Không nhận được tin tức gì về con trai mình trong một thời gian, Saṅkha cảm thấy hoảng hốt và đi đến Benares để tìm kiếm anh. Tại đó, sau khi hỏi thăm, ông đã nghe về cái chết của con trai mình như một vị Pacceka Buddha, và được cho xem ngôi tháp được dựng lên để tưởng nhớ anh. Saṅkha đã nhổ cỏ xung quanh ngôi tháp, rải cát, tưới nước, rải hoa dại xung quanh nó, và giương cao chiếc áo y của mình như một lá cờ phía trên nó. Sau đó ông cắm chiếc ô của mình trên đỉnh tháp và rời đi.
+
+Đức Phật đã kể câu chuyện cho các tỳ-kheo ở Rājagaha, sau khi Ngài trở về từ Vesālī, để giải thích những sự tôn kính vô song mà Ngài đã nhận được trong suốt chuyến hành trình. Bởi vì ông đã nhổ cỏ xung quanh ngôi tháp của Susīma, một con đường dài tám do tuần đã được chuẩn bị để Ngài có thể hành trình một cách thoải mái; bởi vì ông đã rải cát, tuyến đường của Ngài cũng được rải như vậy; bởi vì ông đã rải hoa, tuyến đường của Ngài đã được bao phủ bằng hoa; bởi vì ông đã tưới nước, có một cơn mưa rào ở Vesālī khi Ngài đến; bởi vì ông đã dựng một lá cờ và cắm một chiếc ô, toàn bộ cõi *cakkavāla* đã rực rỡ với những lá cờ và những chiếc ô. Dhp­a.iii.445f.; Khp-a.198f. Câu chuyện không được đưa ra trong Jātakaṭṭhakatha.
 
 ## Notes

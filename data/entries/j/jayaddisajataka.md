@@ -5,7 +5,7 @@ base_headword: "Jayaddisajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -42,6 +42,14 @@ The story was related in reference to a monk who supported his mother; for detai
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayaddisajātaka (Ja 513). Có hai lần, những người con trai của Pañcāla, vua của Kampilla, đã bị nuốt chửng bởi một nữ dạ-xoa (*ogress*), người đã nuôi dưỡng một sự căm thù dành cho vương hậu của ông. Vào lần thứ ba, nữ dạ-xoa này đã bị đội vệ binh hoàng cung xua đuổi trước khi ả có thể ăn thịt đứa trẻ, nhưng ả đã thành công trong việc bắt cóc đứa trẻ đi và nuôi nấng nó như con đẻ của mình. Cậu bé đã lớn lên trở thành một dạ-xoa ăn thịt người (*ogre*) và cư ngụ trên một cái cây. Người con trai thứ tư của Pañcāla là Jayaddisa, người đã kế vị cha của mình.
+
+Nữ dạ-xoa (*ogress*) này đã qua đời trước khi ông được sinh ra. Ông có một người con trai tên là Alīnasattu.
+
+Một ngày nọ, Jayaddisa đã ra lệnh tổ chức một cuộc đi săn, nhưng ngay khi ông vừa chuẩn bị khởi hành, Nanda, một vị Bà-la-môn đến từ Takkasilā, đã mang đến cho ông bốn bài kệ, mỗi bài kệ có giá trị bằng một trăm đồng tiền. Jayaddisa đã ra lệnh làm một nơi ở cho vị này và tuyên bố rằng con nai chạy thoát về phía người nào thì người đó sẽ phải trả tiền cho những bài kệ này. Một con linh dương đã đi thẳng về phía nhà vua và chạy thoát. Nhà vua đã truy đuổi và giết chết nó, nhưng trong khi đang trên đường quay trở lại cùng với xác của nó, ông đã đi đến nơi ở của dạ-xoa (*ogre*) và ngay lập tức bị hắn tuyên bố là con mồi của mình. Nhớ đến lời hứa sẽ trả tiền cho Nanda, Jayaddisa đã thuyết phục được dạ-xoa (*ogre*) để cho ông đi với điều kiện là ông sẽ quay trở lại khi ông đã trả tiền cho những bài kệ đó. Alīnasattu, khi nghe được điều này, đã đề nghị được đi thay vào vị trí của cha mình và điều này đã được chấp thuận. Cậu đã thu phục được dạ-xoa (*ogre*) bằng sự không sợ hãi của mình, thuyết giảng cho ông ta giáo lý luân lý và, do nghi ngờ rằng dạ-xoa (*ogre*) này là người anh trai lớn của cha mình, đã chứng minh được mối quan hệ đó với sự giúp đỡ của một đạo sĩ được ban tặng nhãn quan siêu nhiên. Jayaddisa, khi được thông báo về điều này, đã thiết lập một nơi định cư cho dạ-xoa (*ogre*), nơi đó sau này được gọi là Cūḷa Kammāsadamma.
+
+Dạ-xoa (*ogre*) là Aṅgulimāla và Alīnasattu là Bodhisatta (Ja.v.21-30).
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo đã nuôi dưỡng mẹ của mình; để biết các chi tiết, xem Sāmajātaka. Câu chuyện của Jayaddisa được đưa vào trong Cariyāpiṭaka (ii.9).
 
 ## Notes

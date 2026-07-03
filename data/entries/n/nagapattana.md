@@ -5,7 +5,7 @@ base_headword: "Nāgapaṭṭana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgapaṭṭana. The port from which <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgapaṭṭana. Bến cảng mà từ đó Buddhaghosa đã giong buồm đến Tích Lan. Sās-d.53.
 
 ## Notes

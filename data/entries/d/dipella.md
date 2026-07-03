@@ -5,7 +5,7 @@ base_headword: "Dipellā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dipellā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dipellā. Con gái của Vijaya và Kuveni. Mhv­ṭ.264.
 
 ## Notes

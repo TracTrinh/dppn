@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -30,6 +30,6 @@ Rāma 06. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 06. Được gọi là Mātuposaka Rāma. Ông là một cư dân của Benares và rất mực yêu thương cha mẹ mình. Có lần ông đi công việc đến Kumbhavatī, trong xứ Daṇḍakī, và tại đó, khi đất nước đang bị phá hủy do sự độc ác của nhà vua, Rāma đã nghĩ đến lòng tốt của cha mẹ mình. Chư thiên đã cảm động bởi sức mạnh của ý nghĩ này và đưa ông về an toàn với mẹ (Ja.v.29). Ông là một trong ba người sống sót sau thảm họa ập xuống vương quốc của Daṇḍakī. MN­a.ii.602.
 
 ## Notes

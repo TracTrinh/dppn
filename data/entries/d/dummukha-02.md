@@ -5,7 +5,7 @@ base_headword: "Dummukha"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dummukha 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dummukha 02. Vua của Kampilla ở Uttarapañcāla. Một ngày nọ, khi nhìn từ cửa sổ của mình xuống sân điện, ông thấy vài con bò đực đang xông vào một con bò cái trong cơn dục vọng, và một con bò đực, mạnh hơn những con còn lại, đã giết chết một con khác bằng sừng của nó. Nhà vua, nhận ra bản chất xấu xa của dục vọng, đã nhập vào một *jhāna* và trở thành một Pacceka Buddha. Ja.iii.379, 381.
 
 ## Notes

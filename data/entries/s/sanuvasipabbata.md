@@ -5,7 +5,7 @@ base_headword: "Sānuvāsīpabbata"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sānuvāsīpabbata. A hill near the village of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn đồi gần ngôi làng Kuṇḍi, nơi Poṭṭhapāda Thera (hoặc Kuṇḍinagariya Thera) đã sống. Pv.iii.2; Pv-a.179.
 
 ## Notes

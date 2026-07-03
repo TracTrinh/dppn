@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhammā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 04. Vợ của Biṇḍusāra và là mẹ của Asoka. Bà có hai người con trai, Asoka và Tissa. Mhv­ṭ.189, 193; bộ Mahavaṁsa "Campuchia" (vs.1129) gọi bà là Siridhammā.
 
 ## Notes

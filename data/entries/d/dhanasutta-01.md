@@ -5,7 +5,7 @@ base_headword: "Dhanasutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhanasutta 01. On the five treasures – faith, virtue, learning, charity, and i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanasutta 01. Về năm tài sản – niềm tin, giới hạnh, sự học hỏi, bố thí và tuệ quán. AN.iii.53.
 
 ## Notes

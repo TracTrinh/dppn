@@ -5,7 +5,7 @@ base_headword: "Dhammasutta"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasutta 04. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasutta 04. (hoặc Sajjhāyasutta). Có lần một vị tỳ-kheo nọ đã lui về một con đường mòn trong rừng ở Kosala. Đời sống của ngài từng là một đời sống rất tinh tấn, nhưng sau đó ngài sống nhàn nhã, buông bỏ và hướng đến sự tĩnh lặng. Một thiên nhân hỏi ngài lý do của sự thay đổi này, và ngài trả lời rằng ngài đã chứng ngộ trạng thái Thanh Tịnh và Thánh Thiện (SN.i.202).
 
 ## Notes

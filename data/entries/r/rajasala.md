@@ -5,7 +5,7 @@ base_headword: "Rājasālā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājasālā. A monastery in Ceylon, to which <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasālā. Một tu viện ở Tích Lan, được Aggabodhi VIII cúng dường ngôi làng Cūḷa Vāpiyagāma. Cv.xlix.47.
 
 ## Notes

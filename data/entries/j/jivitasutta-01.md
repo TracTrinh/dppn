@@ -5,7 +5,7 @@ base_headword: "Jīvitasutta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jīvitasutta 01. One should train oneself not to lie, even at the cost of one’
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvitasutta 01. Một người nên rèn luyện bản thân để không nói dối, ngay cả khi phải trả giá bằng mạng sống của mình. SN.ii.234.
 
 ## Notes

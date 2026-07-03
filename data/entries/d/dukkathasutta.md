@@ -5,7 +5,7 @@ base_headword: "Dukkathāsutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dukkathāsutta. To five persons certain talk is ill-talk – talk on faith to th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkathāsutta. Đối với năm hạng người, lời bàn luận nhất định là lời không tốt – bàn luận về niềm tin với người không có niềm tin, về giới đức với người không có giới đức, về sự học hỏi với người ít học, về sự rộng lượng với người keo kiệt, về tuệ minh sát với người ngu ngốc. AN.iii.181.
 
 ## Notes

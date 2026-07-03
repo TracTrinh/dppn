@@ -5,7 +5,7 @@ base_headword: "Nāgapupphiya Thera"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nāgapupphiya Thera 01. An *Arahant*. In the time of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgapupphiya Thera 01. Một *Arahant*. Vào thời Đức Phật Padumuttara, ngài là một vị thầy Bà-la-môn, tên là Suvaccha. Một ngày nọ ngài nhìn thấy Đức Phật đang du hành qua hư không và, kinh ngạc trước phép thần thông này, đã rải những bông hoa Nāga dọc theo lộ trình của Đức Phật. Ba mươi mốt *kappa* trước, ngài là một vị vua có tên là Mahā Ratha (Ap.i.179). Ngài có lẽ được đồng nhất với Trưởng lão Dhammasava. Thag­a.i.214.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naḷamāliya Thera"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naḷamāliya Thera 02. An *Arahant*. Thirty-one *kappas* ago he saw <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷamāliya Thera 02. Một *Arahant*. Ba mươi mốt kappa trước, ngài nhìn thấy Sikhī Buddha và cúng dường cho Ngài một vòng hoa bằng lau sậy (Ap.ii.412). Ngài có lẽ chính là Dhaniya Thera (Thag­a.i.347).
 
 ## Notes

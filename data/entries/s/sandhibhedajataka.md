@@ -5,7 +5,7 @@ base_headword: "Sandhibhedajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -31,6 +31,10 @@ This is probably the story referred to as the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandhibhedajātaka (Ja 349). Bodhisatta từng là vua của Benares. Một ngày nọ, một người chăn bò vô tình để lại một con bò cái đang mang thai, và một tình bạn nảy nở giữa nó và một con sư tử cái. Con bò sinh ra một con bê và con sư tử sinh ra một con sư tử con, và hai con non này trở thành bạn chơi đùa cùng nhau. Một người đi rừng thấy chúng đi cùng nhau, đã báo cáo sự việc cho nhà vua, vị vua này muốn được thông báo nếu một con vật thứ ba xuất hiện tại hiện trường. Một con chó rừng, thấy con bê và con sư tử con, và hy vọng có thức ăn, đã kết bạn với chúng, và chẳng bao lâu đã tìm cách khiến chúng cãi nhau. Nhà vua được thông báo về điều này, và vào lúc ông đến hiện trường thì hai con vật đã chết.
+
+Câu chuyện này được kể cho nhóm Chabbaggiyā như một lời cảnh báo chống lại thói quen nói xấu sau lưng của họ (Ja.iii.149ff).
+
+Đây có lẽ là câu chuyện được nhắc đến với tên gọi là Saṅghabhedajātaka (Ja.iii.211).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upāgatabhāsaniya Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upāgatabhāsaniya Thera. An *Arahant*. In the time of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāgatabhāsaniya Thera. Một *Arahant*. Vào thời của Vipassī Buddha ngài là một *Rakkhasa* trong một cái hồ ở Himavā. Có lần Đức Phật đã đến thăm vị tinh linh này người đã tỏ lòng tôn kính với ngài. Ap.i.233.
 
 ## Notes

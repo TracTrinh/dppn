@@ -5,7 +5,7 @@ base_headword: "Jambāvatī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jambāvatī. A *caṇḍālī*, mother of King <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambāvatī. Một người nữ *caṇḍālī*, mẹ của Vua Sivi và là vợ của Vāsudeva thuộc dòng dõi Kaṇhāyanagotta. Vāsudeva đã nhìn thấy bà trên đường đi đến công viên từ Dvāravatī, và, bất chấp xuất thân của bà, đã cưới bà và phong bà làm chánh hậu của mình. Ja.vi.421.
 
 ## Notes

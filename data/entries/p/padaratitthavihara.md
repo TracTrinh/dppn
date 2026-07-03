@@ -5,7 +5,7 @@ base_headword: "Padaratitthavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padaratitthavihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padaratitthavihāra. *v.l.* Badaratitthavihāra. Một tu viện ở quốc gia Damiḷa thuộc Nam Ấn Độ. Nó là nơi ở của *Ācariya* Dhammapāla (Sās.33; Svd.1194).
 
 ## Notes

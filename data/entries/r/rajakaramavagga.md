@@ -5,7 +5,7 @@ base_headword: "Rājakārāmavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājakārāmavagga. Also called <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājakārāmavagga. Cũng được gọi là Sahassaka. Chương thứ hai của Sotāpattisaṁyutta. SN.v.360-69.
 
 ## Notes

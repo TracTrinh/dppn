@@ -5,7 +5,7 @@ base_headword: "Pahasambahula"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pahasambahula. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahasambahula. *v.l.* Sambahula. Ba mươi mốt *kappa* trước có ba vị vua mang tên này, tất cả đều là tiền kiếp của Nisseṇidāyaka Thera (Ap.i.187).
 
 ## Notes

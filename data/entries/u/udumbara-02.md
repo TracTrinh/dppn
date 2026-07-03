@@ -5,7 +5,7 @@ base_headword: "Udumbara"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Udumbara 02. A village. <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng. Revata đã đi đến đó từ Kaṇṇakujja và dừng lại đó trước khi tiếp tục đến Aggaḷapura và Sahajāti. Các Trưởng lão đã đi theo ngài đến đó để hỏi ý kiến của ngài về tà thuyết Vajjī. Vin.ii.299.
 
 ## Notes

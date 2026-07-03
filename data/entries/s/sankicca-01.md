@@ -5,7 +5,7 @@ base_headword: "Saṅkicca"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -42,6 +42,14 @@ As soon as they saw him, they captured him and prepared for the sacrifice. The m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkicca Thera. Ông sinh ra trong một gia đình Bà-la-môn rất danh giá ở Sāvatthī. Mẹ ông qua đời ngay trước khi sinh ông và được hỏa táng, nhưng ông được phát hiện là không bị thiêu cháy trên giàn thiêu (so sánh với câu chuyện của Dabba). Những người hỏa thiêu thi thể mẹ ông, khi lật giàn thiêu bằng những cây gậy, đã đâm thủng tử cung và làm hỏng con ngươi mắt của đứa bé. Do đó ông có tên này (*Saṅkunā chinnakkhikoṭitāya = Saṅkicco*). Khi ông được phát hiện, họ đã tham khảo ý kiến của các thầy bói, những người nói với họ rằng nếu ông sống trong gia đình, bảy thế hệ sẽ bị bần cùng hóa, nhưng nếu ông trở thành tỳ-kheo, ông sẽ là thủ lĩnh của năm trăm người. Năm bảy tuổi, ông biết được cái chết của mẹ mình và bày tỏ mong muốn gia nhập Tăng đoàn. Chấp thuận điều này, những người giám hộ của ông đã cho ông xuất gia dưới sự hướng dẫn của Sāriputta. Ông đạt được quả vị *Arahant* trong phòng cạo đầu (Thag­a.i.533).
+
+Vào thời điểm đó, ba mươi người đàn ông của Sāvatthī, những người đã gia nhập Tăng đoàn và đã thực hành các bổn phận của việc thọ đại giới trong bốn năm, mong muốn thực hành thiền định. Đức Phật, thấy trước nguy hiểm đối với họ, đã phái họ đến gặp Sāriputta. Sāriputta khuyên họ nên đưa vị sa-di Saṅkicca đi cùng, và họ miễn cưỡng đồng ý. Sau một cuộc hành trình dài một trăm hai mươi do-tuần, họ đến một ngôi làng có một ngàn gia đình, nơi họ ở lại theo yêu cầu của những cư dân, những người cung cấp mọi nhu cầu của họ. Vào đầu mùa mưa (mùa an cư), các vị tỳ-kheo đồng ý với nhau rằng sẽ không nói chuyện với nhau; nếu bất kỳ ai trong số họ lâm bệnh, người đó sẽ đánh một tiếng chuông. Một ngày nọ, khi các vị tỳ-kheo đang ăn bữa ăn của họ trên bờ của một con sông gần đó, một người đàn ông nghèo khổ đi từ xa đến đứng gần họ và họ đã cho anh ta một ít thức ăn. Sau đó, anh ta quyết định ở lại với họ, nhưng hai tháng sau, vì muốn thăm con gái mình, anh ta đã rời bỏ các vị tỳ-kheo mà không nói một lời. Anh ta đi qua một khu rừng nơi có năm trăm tên cướp sinh sống, những kẻ đã thề sẽ hiến tế một con người cho một vị thần linh của khu rừng.
+
+Ngay khi nhìn thấy anh ta, chúng đã bắt giữ anh ta và chuẩn bị cho việc hiến tế. Người đàn ông sau đó đề nghị cung cấp cho chúng một nạn nhân có địa vị cao hơn nhiều so với bản thân mình, và dẫn chúng đến gặp các vị tỳ-kheo. Biết được thói quen của họ, anh ta đánh chuông và tất cả họ đều tập hợp lại. Khi những tên cướp cho biết ý định của chúng, mỗi một vị tỳ-kheo đều tự nguyện làm nạn nhân, và cuối cùng Saṅkicca, với rất nhiều khó khăn, đã thuyết phục được những người khác để ông đi. Những tên cướp bắt lấy Saṅkicca, và, khi mọi thứ đã sẵn sàng, tên thủ lĩnh tiến lại gần ông với thanh gươm rút ra. Saṅkicca nhập vào *samādhi*, và khi nhát chém giáng xuống, thanh gươm bị oằn và cong lại ở phần mũi và nứt từ chuôi đến đầu. Kinh ngạc trước điều này, những tên cướp đã đảnh lễ Saṅkicca, và, sau khi nghe ông thuyết pháp, đã xin phép được xuất gia. Saṅkicca đồng ý với điều này, và, sau khi xuất gia cho chúng, đưa chúng đến chỗ các vị tỳ-kheo khác. Tại đó, ông từ biệt họ và cùng những người theo mình đi đến gặp Đức Phật. Đến lúc thích hợp, Saṅkicca thọ đại giới, và mười năm sau, ông đã xuất gia cho con trai của chị/em gái mình, Atimuttaka (Adhimuttaka), người mà, tương tự như vậy, đã xuất gia cho năm trăm tên cướp. Dhp­a.ii.240ff.; xem *s.v.* về câu chuyện của Atimuttaka.
+
+Câu chuyện của Saṅkicca thường được nhắc đến – ví dụ, Vsm.313; Ja.vi.14. Nāgapetavatthu có chứa một câu chuyện về một đệ tử khác của Saṅkicca (Pv-a.53ff). Theragāthā (Thag. vs. 597-607) chứa một loạt các bài kệ được Saṅkicca nói ra để ca ngợi vẻ đẹp của khu rừng nhằm đáp lại một cư sĩ, người mong muốn được hầu hạ ông, muốn ông ở lại trong làng.
+
+Saṅkicca là một trong bốn vị sa-di được đề cập trong Catusāmaṇeravatthu. Thần thông (*iddhi*) của Saṅkicca được miêu tả là *ñāṇavipphāra-iddhi* (Paṭis.ii.211; Bv­a.24). Thần thông được đề cập đến trong mối liên hệ này là sự trốn thoát khỏi cái chết của Saṅkicca trong khi thi thể mẹ ông đang bị thiêu. Vsm., p.379.
 
 ## Notes

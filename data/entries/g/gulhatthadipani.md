@@ -5,7 +5,7 @@ base_headword: "Gūḷhatthadīpanī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gūḷhatthadīpanī. A work by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūḷhatthadīpanī. Một tác phẩm của Sāradassī, giải thích những đoạn khó trong bảy cuốn sách của Abhidhamma. Sās. p.116; Bode, 56.
 
 ## Notes

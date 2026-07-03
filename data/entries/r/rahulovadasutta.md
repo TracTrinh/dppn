@@ -5,7 +5,7 @@ base_headword: "Rāhulovādasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rāhulovādasutta. See<span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulovādasutta. Xem Cūḷa Rahulovāda, Mahā Rāhulovāda và Ambalaṭṭhika Rāhulovāda. Cūḷa Rāhulovāda là bài kinh thường được gọi là Rāhulovāda.
 
 ## Notes

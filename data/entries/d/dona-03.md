@@ -5,7 +5,7 @@ base_headword: "Doṇa"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Doṇa 03. A bathing place in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇa 03. Một nơi tắm gội ở Jambudīpa, nơi đồ cúng tế được dâng lên các vị thần. Ja.v.388f.
 
 ## Notes

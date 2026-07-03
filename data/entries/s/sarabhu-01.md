@@ -5,7 +5,7 @@ base_headword: "Sarabhū"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Sarabhū 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarabhū Thera. Một đệ tử của Sāriputta. Khi Đức Phật viên tịch, Sarabhū đã thu hồi xương đòn của Đức Phật từ giàn hỏa táng, và, mang nó đến Ceylon, cất giữ nó trong *cetiya* Mahiyaṅgaṇa, bao bọc buồng chứa xá-lợi bằng những viên đá *medavaṇṇa* trước sự hiện diện của một số lượng lớn tỳ-kheo. Ông đã nâng *cetiya* lên chiều cao mười hai cubit. Mhv.i.37.
 
 ## Notes

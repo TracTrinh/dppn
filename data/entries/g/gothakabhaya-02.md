@@ -5,7 +5,7 @@ base_headword: "Goṭhakābhaya"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -39,6 +39,6 @@ Goṭhakābhaya 02. King of Ceylon (302-15 CE.). He was a <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṭhakābhaya 02. Vua của Tích Lan (302-15 CN). Ông là một Lambakaṇṇa của Mahiyaṅgaṇa, và sau khi đi đến Anurādhapura cùng với Saṅghatissa và Saṅghabodhi, ông, với sự trợ giúp của họ, đã giết vị vua đang trị vì, Vijaya, và họ lần lượt trị vì tiếp theo (Mhv.xxxvi.58). Goṭhakābhaya trở thành quan thủ quỹ của Saṅghabodhi nhưng, nhận thấy sự yếu kém của nhà vua, ông đã lãnh đạo một cuộc nổi loạn chống lại vua và chiếm lấy ngai vàng (vv.91, 98-117; để biết chi tiết xem Saṅghabodhi). Cùng với các công trình tôn giáo khác, ông đã xây dựng Meghavaṇṇābhaya *vihāra*. Ông đã trục xuất khỏi Abhayagiri sáu mươi tỳ-kheo đã chấp nhận dị giáo Vetulla, nhưng một tỳ-kheo người Coḷa là Saṅghamitta đã đánh bại Thera Goṭhābhaya, cậu ruột của nhà vua, trong một cuộc tranh luận, và trở thành người được sủng ái của nhà vua, giành được vị trí gia sư cho hai con trai của vua là Jeṭṭhatissa và Mahā Sena. Nhà vua cũng được biết đến với tên gọi Meghavaṇṇābhaya (v.98).
 
 ## Notes

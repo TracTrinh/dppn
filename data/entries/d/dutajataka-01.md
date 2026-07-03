@@ -5,7 +5,7 @@ base_headword: "Dūtajātaka"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,8 @@ The story was told in reference to a greedy monk. Ja.ii.318-21.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūtajātaka 01. (Ja 260). Có một lần Bodhisatta là vua của Benares. Ông rất kén chọn thức ăn, và đã tiêu tốn rất nhiều cho việc đó đến mức ông được biết đến với tên gọi Bhojanasuddhika (Người kén ăn). Ông luôn ăn trong một đình nghỉ mát được trang hoàng trước sự chứng kiến của tất cả thần dân. Một ngày nọ, một kẻ tham lam nhìn thấy ông ăn và muốn nếm thử thức ăn, đã chắp tay lao đến chỗ ông, nói rằng anh ta là một sứ giả (*dūta*), vì các sứ giả được tự do yết kiến nhà vua. Tiếp cận bàn ăn, anh ta giật lấy một ít thức ăn và nhét vào miệng. Các thị vệ của nhà vua muốn chém đầu anh ta, nhưng nhà vua đã mời anh ta chia sẻ bữa ăn của mình, và khi kết thúc, ông đã hỏi về thông điệp của anh ta. Anh ta nói mình là sứ giả của Tham muốn và của Cái bụng, và kể cho nhà vua nghe sức mạnh của hai thứ này lớn đến nhường nào. Nhà vua hài lòng với anh ta và đã tặng cho anh ta một ngàn con bò.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo tham lam. Ja.ii.318-21.
 
 ## Notes

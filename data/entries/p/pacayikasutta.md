@@ -5,7 +5,7 @@ base_headword: "Pacāyikasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pacāyikasutta. Few are they that pay respect to the elders of the clan; more nu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacāyikasutta. Rất ít những người bày tỏ sự tôn kính đối với các bậc trưởng thượng trong gia tộc; những người không làm như vậy thì nhiều hơn (SN.v.468). Cả văn bản và *uddāna* đều gọi *Sutta* này là *Pacāyika*, nhưng tên đúng của nó là *Apacāyika*, và nó nên được sửa lại như vậy.
 
 ## Notes

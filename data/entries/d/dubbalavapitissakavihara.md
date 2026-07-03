@@ -5,7 +5,7 @@ base_headword: "Dubbalavāpitissakavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dubbalavāpitissakavihāra. A monastery in Ceylon, founded by <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dubbalavāpitissakavihāra. Một tu viện ở Tích Lan, do Saddhātissa thành lập (Mhv.xxxiii.8). Kaniṭṭhatissa đã xây dựng cho nó một tòa yết-ma (*uposatha*). Mhv.xxxvi.17.
 
 ## Notes

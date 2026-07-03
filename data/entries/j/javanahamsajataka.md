@@ -5,7 +5,7 @@ base_headword: "Javanahaṁsajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -30,6 +30,6 @@ Javanahaṁsajātaka (Ja 476). The Bodhisatta was once king of ninety thousand g
 
 ## Vietnamese translation
 
-Chưa dịch.
+Javanahaṁsajātaka (Ja 476). Bodhisatta có một lần là vua của chín mươi ngàn con ngỗng ở Cittakūṭa. Nhà vua xứ Benares, khi nhìn thấy ngài, đã vô cùng yêu mến ngài và tôn kính ngài, mong muốn có được tình bạn của ngài. Khi nhà vua đi đến Anotatta, Bodhisatta cũng đã dành cho ông sự tôn vinh tương tự và tình bạn đã được thiết lập giữa hai người. Một ngày nọ, hai con ngỗng non, bất chấp lời khuyên của Bodhisatta, đã mong muốn thử thách tốc độ của chúng với mặt trời. Vị vua của chúng, vì muốn cứu chúng khỏi cái chết, đã đi cùng với chúng, giải cứu cho chúng khi chúng cảm thấy mệt mỏi. Sau đó chính ngài đã đua với mặt trời và giành chiến thắng, đến được cung điện của nhà vua. Nhà vua, khi nghe được điều này, đã mong muốn nhìn thấy một màn trình diễn về những năng lực tốc độ của Bodhisatta, và mong muốn của ông đã được đáp ứng. Khi được hỏi liệu có bất cứ thứ gì nhanh nhẹn hơn mình hay không, vị vua ngỗng đã trả lời rằng sự suy tàn của các yếu tố của sự sống còn nhanh hơn gấp ngàn lần. Sau đó ngài đã thuyết giảng giáo lý luân lý cho nhà vua. Ānanda được nhận diện là nhà vua, và Sāriputta cùng Moggallāna là hai con ngỗng đó. Ja.iv.211-8.
 
 ## Notes

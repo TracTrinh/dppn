@@ -5,7 +5,7 @@ base_headword: "Saṅgharakkhita"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -35,6 +35,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgharakkhita 01. Saṅgharakkhita Thera. Ông thuộc một gia đình giàu có ở Sāvatthī, và, sau khi gia nhập Tăng đoàn, đã sống cùng một vị tỳ-kheo khác trong một khu rừng, thực hành thiền định. Gần chỗ họ, một con nai cái đã sinh một con nai con trong một bụi rậm. Trong khi nó chăm sóc con, tình yêu của nó giữ nó luôn ở gần con, và nó bị chết đói vì thiếu cỏ và nước. Khi nhìn thấy nó, vị Thera lặp lại: "Than ôi! thế gian này đau khổ, bị trói buộc trong những xiềng xích của ái dục," và với điều này làm động lực của mình, ông đã phát triển tuệ giác và đạt quả vị *Arahant*. Thấy người bạn đồng tu của mình ấp ủ những tà tư duy, vị Thera đã khuyên răn ông bằng một bài kệ (Thag.vs.109) và vị ấy cũng trở thành một bậc *Arahant*.
+
+Chín mươi bốn *kappa* trước, Saṅgharakkhita đã nhìn thấy bảy vị Pacceka Buddha dưới chân một tảng đá và dâng cúng họ những bông hoa *kadamba*. Chín mươi hai *kappa* trước, ông làm vua bảy lần, dưới tên gọi Phulla (Thag­a.i.216f).
+
+Ông hiển nhiên đồng nhất với Kadambapupphiya của Apadāna. Ap.i.178.
 
 ## Notes

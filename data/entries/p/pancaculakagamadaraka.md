@@ -5,7 +5,7 @@ base_headword: "Pañcacūlakagāmadāraka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pañcacūlakagāmadāraka. The disguise assumed by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcacūlakagāmadāraka. Lớp ngụy trang được Vissakamma hóa hiện khi ngài, hành động theo lệnh của Sakka, đã cùng với Asoka đi thỉnh các xá-lợi cho các *cetiya* của ông. Các xá-lợi này nằm chôn vùi, và chưa có ai có thể tìm thấy chúng. DN­a.ii.614; xem Pañcacūḷaka để biết cách giải thích có khả năng hơn.
 
 ## Notes

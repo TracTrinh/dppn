@@ -5,7 +5,7 @@ base_headword: "Dhammarakkhita"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammarakkhita 05. Mentioned as a high-class name, e.g., Vin.iv.8; Vin-a.ii.448,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarakkhita 05. Được nhắc đến như một cái tên thuộc tầng lớp cao quý, vd., Vin.iv.8; Vin-a.ii.448, 480.
 
 ## Notes

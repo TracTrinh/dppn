@@ -5,7 +5,7 @@ base_headword: "Sattasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattasutta 02. The Buddha explains to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasutta 02. Đức Phật giải thích cho Rādha ý nghĩa của *satta* (chúng sinh). SN.iii.189.
 
 ## Notes

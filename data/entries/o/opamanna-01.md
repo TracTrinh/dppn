@@ -5,7 +5,7 @@ base_headword: "Opamañña"
 disambiguator: "01"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Opamañña 01. One of the names of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Opamañña 01. Một trong những tên gọi của Pokkharasāti (MN.ii.200). Ông được gọi như vậy vì tên gia tộc (*gotta*) của ông là Upamañña (MN­a.ii.804).
 
 ## Notes

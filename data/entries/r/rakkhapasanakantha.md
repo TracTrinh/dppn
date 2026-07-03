@@ -5,7 +5,7 @@ base_headword: "Rakkhapāsāṇakaṇṭha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rakkhapāsāṇakaṇṭha. A place in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhapāsāṇakaṇṭha. Một địa điểm ở Rājaraṭṭha. Đó là ranh giới của lãnh thổ Coḷa ở Tích Lan trong thời của Mahinda V (Cv.lv.22). Đây hiển nhiên là một tiền đồn biên giới. Cv.lvii.67.
 
 ## Notes

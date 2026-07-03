@@ -5,7 +5,7 @@ base_headword: "Naggavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naggavagga. The third section of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naggavagga. Phẩm thứ ba của Pācittiya trong Bhikkhunīvibhaṅga. Vin.iv.278-88.
 
 ## Notes

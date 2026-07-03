@@ -5,7 +5,7 @@ base_headword: "Dhammacāri"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammacāri. A Burmese monk of the twelfth century; he was a pupil of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacāri. Một vị sư người Miến Điện sống ở thế kỷ mười hai; ngài là học trò của Chapaṭa, người đã viết Suttaniddesa theo yêu cầu của ngài. Gv.74; Bode, 18.
 
 ## Notes

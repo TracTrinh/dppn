@@ -5,7 +5,7 @@ base_headword: "Saṅgāravasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgāravasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāravasutta 04. Saṅgārava đến thăm Đức Phật và phát biểu rằng một Bà-la-môn thì hữu ích hơn một *Paribbājaka* bởi vì ông không chỉ tự mình thực hiện các nghi lễ tế tự, mà còn khiến những người khác cũng làm như vậy. Đức Phật nói rằng sự xuất hiện của một vị Tathāgata trên thế gian là mang lại lợi ích cho nhiều chúng sinh. Ānanda hỏi Saṅgārava rằng thực hành nào trong hai thực hành đó đối với ông là đơn giản hơn và mang lại lợi ích lớn lao hơn. Saṅgārava lảng tránh một câu trả lời thẳng thắn, mặc dù được hỏi ba lần. Sau đó Đức Phật nói cho ông về những thần thông của *iddhi*, *ādesanā* và *anusāsanā* được sở hữu bởi các tỳ-kheo, và mô tả chúng một cách chi tiết. Saṅgārava thừa nhận rằng *ādesanāpāṭihāriya* hấp dẫn ông nhất. Đức Phật nói với ông rằng vô số tỳ-kheo trong Tăng đoàn sở hữu cả ba thần thông này. AN.i.168ff.
 
 ## Notes

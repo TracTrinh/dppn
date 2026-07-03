@@ -5,7 +5,7 @@ base_headword: "Saññojanasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññojanasutta. The seven fetters of complying, resisting, of view, uncertaint
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bảy kiết sử của sự thuận theo, sự kháng cự, tà kiến, sự hoài nghi, sự kiêu mạn, những dục vọng thế gian, và vô minh. AN.iv.7.
 
 ## Notes

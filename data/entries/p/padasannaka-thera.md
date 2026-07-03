@@ -5,7 +5,7 @@ base_headword: "Padasaññaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padasaññaka Thera. An *Arahant*. Ninety-two *kappas* ago he happened upon the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padasaññaka Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài đã tình cờ bắt gặp dấu chân của Tissa Buddha và vô cùng vui sướng khi nhìn thấy. Bảy *kappa* trước, ngài là một vị vua tên là Sumedha. Ap.i.119.
 
 ## Notes

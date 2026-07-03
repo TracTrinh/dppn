@@ -5,7 +5,7 @@ base_headword: "Naḷinakesariya Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naḷinakesariya Thera. An *Arahant*. Ninety-two *kappas* ago he was a water fow
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷinakesariya Thera. Một *Arahant*. Chín mươi hai kappa trước, ngài là một con chim nước, sau khi nhìn thấy Tissa Buddha bay ngang qua không trung, đã dùng mỏ cắp một bông hoa sen và cúng dường cho Ngài. Bảy mươi ba kappa trước, ngài là một vị vua tên là Satapatta (Ap.i.223).
 
 ## Notes

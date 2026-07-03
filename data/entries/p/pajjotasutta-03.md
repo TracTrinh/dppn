@@ -5,7 +5,7 @@ base_headword: "Pajjotasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pajjotasutta 03. A series of questions asked by a *Deva*, and the Buddha’s ans
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjotasutta 03. Một loạt câu hỏi do một vị thiên nhân đặt ra, và những câu trả lời của Đức Phật; câu đầu tiên là về ánh sáng, trí tuệ mang lại ánh sáng cho toàn thế giới. SN.i.44.
 
 ## Notes

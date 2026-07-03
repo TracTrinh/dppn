@@ -5,7 +5,7 @@ base_headword: "Dvebhāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -26,6 +26,6 @@ Dvebhāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvebhāra. *v.l.* Vebhāra. Một vị vua của hai mươi lăm thế kỷ trước, một tiền kiếp của Sukatāveḷiya. Ap.i.217.
 
 ## Notes

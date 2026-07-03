@@ -5,7 +5,7 @@ base_headword: "Dhātupūjaka"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhātupūjaka 01. An *Arahant* Thera. In the past he obtained a relic of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātupūjaka 01. Một vị *Arahant* Thera. Trong quá khứ, ngài đã có được một xá-lợi của Siddhattha Buddha, và đã tôn kính xá-lợi ấy trong năm năm. Ap.i.224.
 
 ## Notes

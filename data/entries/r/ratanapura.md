@@ -5,7 +5,7 @@ base_headword: "Ratanapura"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Ratanapura. The Pāli name for Ava. Bode, 29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanapura. Tên tiếng Pāli của Ava. Bode, 29.
 
 ## Notes

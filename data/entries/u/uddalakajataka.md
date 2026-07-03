@@ -5,7 +5,7 @@ base_headword: "Uddālakajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,10 @@ On the same occasion were preached the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện của Uddālaka được đưa ra ở trên. Nó được kể lại liên quan đến một vị tỳ-kheo có một lối sống dối trá. Vị tỳ-kheo được đồng nhất với Uddālaka (Ja.iii.232).
+
+*Jātaka* được khắc họa trong Tháp Bhārhut (xem Cunningham, Bản thảo XLVI).
+
+Cũng trong dịp đó, Makkaṭajātaka, Kuhakajātaka và Setaketujātaka đã được thuyết giảng.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcacūḷaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcacūḷaka. The name of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcacūḷaka. Tên gọi của Sanaṅkumāra khi ngài tái sinh làm một con người trong một tiền kiếp. Ngài thực hành các *jhāna*, và sau khi qua đời trong trạng thái đó, ngài tái sinh vào cõi *Brahma* (MN­a.ii.584). Có khả năng hơn, Pañcacūḷaka ở đây không phải là một cái tên mà là một sự mô tả mang ý nghĩa "khi ngài hãy còn là một cậu bé với mái tóc buộc thành năm chỏm."
 
 ## Notes

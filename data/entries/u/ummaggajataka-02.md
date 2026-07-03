@@ -5,7 +5,7 @@ base_headword: "Ummaggajātaka"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Ummaggajātaka 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummaggajātaka 02. Samantapāsādikā (iv.742) đề cập đến một tác phẩm được gọi là Gūḷha Ummaggajātaka trong một danh sách các tác phẩm dị giáo được mạo danh là lời của Đức Phật, nhưng thực chất là giáo lý của những kẻ không có đức tin.
 
 ## Notes

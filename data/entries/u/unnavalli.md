@@ -5,7 +5,7 @@ base_headword: "Unnavalli"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Unnavalli. A *vihāra* to which <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Unnavalli. Một *vihāra* mà Aggabodhi I đã ban tặng ngôi làng Ratana. Cv.xlii.18.
 
 ## Notes

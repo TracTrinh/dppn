@@ -5,7 +5,7 @@ base_headword: "Rādhajātaka"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -31,6 +31,8 @@ The story was told in reference to a monk who became a backslider owing to a wom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhajātaka 02. (Ja 198). Vị Bodhisatta từng sinh làm một con vẹt, là anh em với Poṭṭhapāda. Chúng được một vị Bà-la-môn ở Benares nuôi dưỡng. Khi vị Bà-la-môn đi vắng, ông bảo những con chim canh chừng vợ mình và báo cáo lại cho ông bất kỳ hành vi sai trái nào. Nhưng Poṭṭhapāda, bất chấp lời cảnh báo của anh em mình, đã khuyên can người phụ nữ, người này, trong cơn tức giận, trong khi giả vờ vuốt ve nó, đã bẻ cổ nó và ném nó vào lửa. Khi vị Bà-la-môn trở về, Rādha nói rằng nó không muốn chung số phận với anh em mình, và bay đi. Poṭṭhapāda được đồng nhất với Ānanda.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo đã thoái thất vì một người phụ nữ. Ja.ii.132ff.; so sánh với Kālabāhujātaka (Ja 329).
 
 ## Notes

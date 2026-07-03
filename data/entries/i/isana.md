@@ -5,7 +5,7 @@ base_headword: "Īsāna"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -44,6 +44,14 @@ In the assembly of the gods, <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Īsāna. Một trong những Deva thủ lĩnh.
+
+Trong Tevijjasutta (DN.i.244), ông được nhắc đến cùng với Indra, Soma, Varuṇa, Pajāpatī và Brahma, như là được các Bà-la-môn kêu cầu.
+
+Ông đã tham gia trận chiến của các Deva chống lại các Asura và chỉ huy một bộ phận của đạo quân *Deva*. Indra nói với các Deva rằng nếu, trong suốt cuộc đấu tranh, họ cảm thấy yếu lòng, họ nên nhìn vào đỉnh ngọn cờ của chính ông hoặc của Pajāpatī, Varuṇa hay Īsāna, và nỗi sợ hãi của họ sẽ tan biến (SN.i.219).
+
+Trong hội chúng của các vị thần, Īsāna nhận chỗ ngồi thứ tư ngay bên cạnh Varuṇa. Về vẻ đẹp và tuổi thọ, ông ngang hàng với Indra (SN­a.i.262).
+
+Īsāna là một tên gọi cũ hơn của Rudra (Śiva) (Böthlinck và Roth: Wörterbuch). Ý niệm về ông đã thay đổi rất nhiều cho đến thời của Buddhaghosa đến nỗi trong các lời kể của Buddhaghosa, ông được sắp xếp một chỗ ngồi gần Sakka và thấp kém hơn ông ta. Có lẽ ông là một trong ba mươi ba vị thần của Tāvatiṁsa (KS.i.281, n.4).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Diṭṭhamaṅgalikā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Diṭṭhamaṅgalikā. Daughter of a *seṭṭhi* in <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Diṭṭhamaṅgalikā. Con gái của một trưởng giả (*seṭṭhi*) ở Ba-la-nại (Benares) và là vợ của Mātaṅga. Về câu chuyện của nàng, xem *Mātaṅgajātaka* (Ja 497).
 
 ## Notes

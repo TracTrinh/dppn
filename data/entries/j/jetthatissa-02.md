@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhatissa"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jeṭṭhatissa 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhatissa 02. Jeṭṭhatissa II. Vua của Tích Lan, anh/em trai (?) và là người kế vị của Sirimeghavaṇṇa. Ông đã cai trị trong chín năm và là một thợ chạm khắc ngà voi rất điêu luyện. Cv.xxxvii.100-4; Cv.Trs.1.9, n.1.
 
 ## Notes

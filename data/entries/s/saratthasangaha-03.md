@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhasaṅgaha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāraṭṭhasaṅgaha 03. A religious work (*Sārārthasaṅgraha*), written in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhasaṅgaha 03. Một tác phẩm tôn giáo (*Sārārthasaṅgraha*), được viết bằng tiếng Sinhala, do Saraṇaṅkara *Saṅgharāja* biên soạn. Cv.xcvii.57.
 
 ## Notes

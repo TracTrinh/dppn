@@ -5,7 +5,7 @@ base_headword: "Jīvakasutta"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jīvakasutta 03. To those who practise concentration and give themselves up to s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvakasutta 03. Đối với những người thực hành thiền định và phó thác bản thân vào sự tĩnh thất, các sự vật hiện ra đúng như bản chất thật của chúng. SN.iv.143f.
 
 ## Notes

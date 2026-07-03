@@ -5,7 +5,7 @@ base_headword: "Dhammakathikavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammakathikavagga. The twelfth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakathikavagga. Chương thứ mười hai của Khandhasaṁyutta. SN.iii.162-70.
 
 ## Notes

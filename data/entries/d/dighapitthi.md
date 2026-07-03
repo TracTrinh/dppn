@@ -5,7 +5,7 @@ base_headword: "Dīghapiṭṭhi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghapiṭṭhi. The man who ran away with <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghapiṭṭhi. Người đàn ông đã bỏ trốn cùng Dīghatālā, vợ của Golakāla. Ja.vi.337f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sarāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sarāsutta. Records a conversation between a *Deva* and the Buddha – where the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarāsutta. Ghi lại một cuộc trò chuyện giữa một thiên nhân (*Deva*) và Đức Phật – nơi bốn đại không còn chỗ đứng, dòng lũ rút đi, và không có vòng xoáy. SN.i.15.
 
 ## Notes

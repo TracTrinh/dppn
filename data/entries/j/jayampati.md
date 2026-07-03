@@ -5,7 +5,7 @@ base_headword: "Jayampati"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -30,6 +30,6 @@ Jayampati. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayampati. Con trai của Okkāka, vị vua thuộc dòng Mahā Sammata, và vợ là Sīlavatī. Ông là em trai của Kusa. Bất cứ khi nào Kusa muốn gặp Pabhāvatī, Jayampati sẽ đại diện cho ông (Ja.v.282, 286, 287). Ông được đồng nhất với Ānanda. Để biết thêm chi tiết, xem Kusajātaka (Ja 531). Ja.v.312.
 
 ## Notes

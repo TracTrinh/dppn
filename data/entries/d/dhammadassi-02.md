@@ -5,7 +5,7 @@ base_headword: "Dhammadassī"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammadassī 02. A monk of Pagan, author of the Pāli grammar, <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadassī 02. Một vị sư ở Pagan, tác giả của cuốn ngữ pháp tiếng Pāli, Vaccavācaka. Bode, 22.
 
 ## Notes

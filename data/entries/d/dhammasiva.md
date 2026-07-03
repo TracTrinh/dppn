@@ -5,7 +5,7 @@ base_headword: "Dhammasīva"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasīva. A village in Ceylon. See <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasīva. Một ngôi làng ở Tích Lan. Xem Dhammā (6).
 
 ## Notes

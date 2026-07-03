@@ -5,7 +5,7 @@ base_headword: "Dhūmaroruva"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhūmaroruva. A *Niraya*. The eyes of beings born there are put out with fierce 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūmaroruva. Một địa ngục (*Niraya*). Mắt của các chúng sinh sinh ra ở đó bị đâm mù bởi khói dữ. Snp­a.ii.480; Ja.v.271.
 
 ## Notes

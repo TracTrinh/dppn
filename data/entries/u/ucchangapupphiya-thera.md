@@ -5,7 +5,7 @@ base_headword: "Ucchaṅgapupphiya Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Ucchaṅgapupphiya Thera. An *Arahant*. In the time of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Vào thời của Vipassī Buddha, ngài là một thợ kết vòng hoa của Bandhumatī. Ngài đã nhìn thấy Đức Phật đang đi dọc theo con đường với một nhóm đông các tỳ-kheo theo sau, và lấy một bông hoa từ vạt áo của mình, ngài đã dâng nó lên Đức Phật. Ap.ii.374-5.
 
 ## Notes

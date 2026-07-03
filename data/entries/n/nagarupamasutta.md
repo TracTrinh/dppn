@@ -5,7 +5,7 @@ base_headword: "Nagarūpamasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nagarūpamasutta. The seven defenses and the four kinds of supplies which make a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagarūpamasutta. Bảy sự phòng thủ và bốn loại vật tư khiến cho pháo đài biên giới của nhà vua không thể bị công phá bởi kẻ thù và những phẩm chất tương ứng ở một đệ tử của bậc Thánh khiến cho vị đó không thể bị tấn công bởi Māra. AN.iv.106ff.
 
 ## Notes

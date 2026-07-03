@@ -5,7 +5,7 @@ base_headword: "Saṅghadāsī"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghadāsī 01. Cô con gái út trong bảy người con gái của Kikī, vua của Benares. Cô là Visākhā trong thời đại hiện tại (Ja.vi.481). Một ngày nọ, khi cô đang dâng năm sản phẩm của bò cho một hội chúng gồm hai mươi ngàn tỳ-kheo, cô đã thuyết phục họ nhận những món quà của cô ngay cả khi họ đã che bát của mình lại, nói rằng: "Đủ rồi, đủ rồi." Vì lý do này, khi cô, với tư cách là Visākhā, được cha mình cho gia súc vào lúc kết hôn, những đàn gia súc khác đã gia nhập cùng chúng, bất chấp những nỗ lực của con người để ngăn cản chúng (Dhp­a.i.396f., 418).
+
+Tuy nhiên, Apadāna ghi tên của cô là Saṅghadāyikā. Ap.ii.655 (vs. 16).
 
 ## Notes

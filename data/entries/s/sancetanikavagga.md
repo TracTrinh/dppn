@@ -5,7 +5,7 @@ base_headword: "Sañcetanikavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sañcetanikavagga. The eighteenth chapter of the *Catukkanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañcetanikavagga. Phẩm thứ mười tám của *Catukkanipāta* của Aṅguttaranikāya. AN.ii.157-70.
 
 ## Notes

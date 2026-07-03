@@ -5,7 +5,7 @@ base_headword: "Devī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,14 @@ She is sometimes called Vedisadevī (Mhv­ṭ.324).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devī. Mẹ của Mahinda và Saṅghamittā và là vợ của Asoka.
+
+Bà là con gái của *Deva* vùng Vedisagiri.
+
+Asoka gặp và cưới bà trong khi đang trên đường đến Ujjenī, để trở thành Phó vương tại đó.
+
+Khi ông trở thành vua, Devī tiếp tục sống ở Vedisagiri (Mhv.xiii.6ff; Dpv.vi.16; Vin-a.i.70).
+
+Bà thỉnh thoảng được gọi là Vedisadevī (Mhv­ṭ.324).
 
 ## Notes

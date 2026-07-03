@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "07"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padumā 07. One of the most distinguished lay women, followers of the Buddha (AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 07. Một trong những nữ cư sĩ xuất chúng nhất, là những người đi theo Đức Phật (AN.iv.347). Bà là vợ của Meṇḍaka và tên đầy đủ của bà là Candapadumā (*q.v.*).
 
 ## Notes

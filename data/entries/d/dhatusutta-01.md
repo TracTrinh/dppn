@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhātusutta 01. On the diversity in *dhātu* – e.g., the *dhātu* of eye, of v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 01. Về sự đa dạng trong các *dhātu* (giới) – ví dụ, các *dhātu* của mắt, của đối tượng nhìn thấy, của nhãn thức, của tai, v.v... SN.ii.140.
 
 ## Notes

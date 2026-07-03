@@ -5,7 +5,7 @@ base_headword: "Saṅgagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgagāma. A village in Ceylon, near the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgagāma. Một ngôi làng ở Tích Lan, gần Kālavāpi. Cv.xlviii.91.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ubbarī"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Ubbarī 03. Queen Consort of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hoàng hậu của Assaka, vua của Potali trong vương quốc Kāsi. Bà cực kỳ xinh đẹp và, khi bà qua đời, nhà vua đã cho ướp xác bà và đặt trong một cỗ quan tài được để dưới giường của ông. Tuy nhiên, bà đã tái sinh làm một con bọ phân vì bà đã say sưa với vẻ đẹp của chính mình. Câu chuyện được kể lại trong Assakajātaka. Ja.ii.155ff.
 
 ## Notes

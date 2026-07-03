@@ -5,7 +5,7 @@ base_headword: "Pabhāvatī"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pabhāvatī 03. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhāvatī 03. Con gái của Vua Madda xứ Sāgala và là vợ của Kusa. Để biết câu chuyện của nàng, xem Kusajātaka. Ja.v.283ff.; Mvu.ii.441f. gọi nàng là Sudarsanā và cha nàng là Mahendraka.
 
 ## Notes

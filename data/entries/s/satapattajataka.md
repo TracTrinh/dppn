@@ -5,7 +5,7 @@ base_headword: "Satapattajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ The story was told in reference to two of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satapattajātaka (Ja 279). Một điền chủ ở Benares đã đưa một ngàn đồng cho ai đó và đã qua đời trước khi thu hồi lại. Vợ ông, khi đang nằm trên giường bệnh chờ chết, đã yêu cầu con trai bà đi đòi lại cho bà trong khi bà vẫn còn sống. Anh ta đi và thu hồi lại số tiền; nhưng trong khi anh ta đi vắng, mẹ anh ta đã qua đời, và, vì tình thương yêu lớn lao của bà dành cho anh, bà đã tái sinh làm một con chó rừng. Bà cố gắng ngăn anh ta đi vào một khu rừng đầy rẫy bọn cướp, do Bodhisatta đứng đầu, nhưng người đàn ông không hiểu con chó rừng nói gì và liên tục đuổi bà đi. Một con sếu, bay trên đầu, kêu lên với bọn cướp, thông báo sự xuất hiện của chàng trai, nhưng anh ta, cho rằng đó là một con chim báo điềm lành, đã chào nó. Bodhisatta nghe thấy cả hai âm thanh, và khi băng nhóm của ngài bắt được người đàn ông, ngài nói với anh ta rằng anh ta không biết cách phân biệt giữa bạn và thù và đã thả anh ta đi cùng với một lời cảnh báo.
+
+Câu chuyện này được kể lại liên quan đến hai người thuộc nhóm Chabbaggiyā, Paṇḍu và Lohitaka. Họ đã đặt nghi vấn về giáo pháp của Đức Phật về những điểm nhất định và khuyến khích những người khác làm điều tương tự, kết quả là dẫn đến sự cãi vã và xung đột. Đức Phật đã cho gọi họ đến và nói với họ rằng đây là một chính sách ngu ngốc; họ đã không biết điều gì là tốt cho họ. Ja.ii.387-90.
 
 ## Notes

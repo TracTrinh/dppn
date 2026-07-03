@@ -5,7 +5,7 @@ base_headword: "Isibhūmaṅgaṇa"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -29,6 +29,6 @@ Isibhūmaṅgaṇa. A spot in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isibhūmaṅgaṇa. Một địa điểm ở Anurādhapura, nơi một nửa xá-lợi của Mahinda được vua Uttiya chôn cất (Mhv.xx.46). Dīpavaṁsa (xvii.109) gọi nó là Isibhūmi.
 
 ## Notes

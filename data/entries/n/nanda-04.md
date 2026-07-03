@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,8 @@ He is probably identical with No. 3 above. See DN­a.i.122, where Nanda *Gopāla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 04. Nanda Thera. Một *Arahant*. Trong quá khứ, ông từng là một thợ săn, và khi đang đi lang thang trong rừng, ông đã nhìn thấy một vị Pacceka Buddha tên là Anuruddha. Ông đã xây cho vị Phật này một túp lều lợp bằng hoa sen, và sau khi lắng nghe vị Phật thuyết pháp, ông đã xuất gia làm tỳ-kheo. Chẳng bao lâu sau, ông lâm bệnh, qua đời và được tái sinh ở Tusita. Ông sở hữu năng lực bay xuyên qua không trung và đi bộ trên mặt biển. Trong kiếp này, ông đã đến viếng thăm Đức Phật và thỉnh vấn Ngài về "bờ bên kia". Kết thúc cuộc trò chuyện, ông đã trở thành một *Arahant*. Ap.ii.350f.
+
+Ông có lẽ chính là người thứ 3 ở trên. Xem DN­a.i.122, nơi đưa ra những câu hỏi của Nanda *Gopālaka*; những câu hỏi này dường như tương ứng với những câu hỏi của Nanda Thera về "bờ bên kia".
 
 ## Notes

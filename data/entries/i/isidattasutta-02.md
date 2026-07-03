@@ -5,7 +5,7 @@ base_headword: "Isidattasutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Isidattasutta 02. The same, on the various views that arise in the world. <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidattasutta 02. Giống như trên, về những tà kiến khác nhau phát sinh trên thế giới. Isidatta trả lời rằng tất cả chúng đều do thân kiến (*sakkāyadiṭṭhi*) gây ra; sau đó ông tiếp tục, để trả lời cho các câu hỏi xa hơn, giải thích cách thân kiến phát sinh và làm thế nào để mang lại sự vắng mặt của nó. SN.iv.286-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jutideva"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jutideva. A king of seventeen *kappas* ago, a previous birth of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutideva. Một vị vua của mười bảy *kappa* trước, một tiền kiếp của Sappidāyaka. Ap.i.212.
 
 ## Notes

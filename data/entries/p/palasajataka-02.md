@@ -5,7 +5,7 @@ base_headword: "Palāsajātaka"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,8 @@ The story was related by the Buddha to the monks in order to illustrate that sin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palāsajātaka 02. (Ja 370). Có một lần, Bodhisatta là một con ngỗng vàng sống ở Cittakūṭa. Trên đường bay đi bay về từ Himālaya, ngài đậu nghỉ trên một cây *palāsa* và một tình bạn nảy sinh giữa ngài và vị thọ thần. Một ngày nọ, một con chim đánh rơi một hạt đa vào chạc cây *palāsa*, từ đó một chồi non mọc lên. Con ngỗng khuyên vị thần tiêu diệt nó, nhưng vị thần không bận tâm, và dần dần cây đa lớn lên, vươn cao và tiêu diệt cây *palāsa*.
+
+Câu chuyện được Đức Phật kể lại cho các tỳ-kheo nhằm minh họa rằng những tội lỗi phải được nhổ bỏ tận gốc dù chúng có nhỏ nhoi đến đâu. Ja.iii.208ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājamātuvihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rājamātuvihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājamātuvihāra. Một tu viện ở Anurādhapura, có lẽ đồng nhất với Mātuvihāra (2). Nó nằm trên con đường từ Kadambanadī đến Thūpārāma. DN­a.ii.572; SN­a.i.173.
 
 ## Notes

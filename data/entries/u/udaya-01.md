@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Udaya 01. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Bà-la-môn của Sāvatthī. Một ngày nọ, Đức Phật đến nhà ông và ông đã đổ đầy bát của Đức Phật bằng thức ăn được chuẩn bị cho mục đích sử dụng của riêng ông. Ba ngày liên tiếp Đức Phật đã đến, và Udaya, cảm thấy bực mình, đã nói với Đức Phật: "Một người ngoan cố và tham lam là sa-môn Gotama đến nỗi ông ta cứ đến lặp đi lặp lại." Đức Phật đã chỉ ra cho ông cách mà, lặp đi lặp lại, luống cày phải được gieo hạt để đảm bảo một nguồn cung cấp thức ăn liên tục, cách mà lặp đi lặp lại những người làm bơ sữa vắt sữa, và cách mà lặp đi lặp lại sự sinh và sự chết tìm đến với kẻ chậm chạp về trí tuệ. Vào lúc kết thúc bài pháp, cả Udaya và gia đình của ông đều trở thành những người đi theo Đức Phật. SN.i.173f; SN­a.i.199-200.
 
 ## Notes

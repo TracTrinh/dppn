@@ -5,7 +5,7 @@ base_headword: "Naḷamāliya Thera"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Naḷamāliya Thera 01. An *Arahant*. Once he gave a fan, made of reeds, to <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷamāliya Thera 01. Một *Arahant*. Ngài từng cúng dường một chiếc quạt làm bằng lau sậy cho Padumuttara Buddha, và được tán dương vì món quà cúng dường này. Ngài từng nhiều lần làm vua dưới tên Subbata và tám lần dưới tên Māluta (Ap.i.143f.) Ngài có lẽ chính là Kuṭivihāriya Thera (Thag­a.i.131).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Padumajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumajātaka (Ja 261). Có một lần Bodhisatta là con trai của một thương nhân giàu có ở Benares. Trong thành có một hồ nước do một người cùi mất mũi trông coi. Một ngày hội, Bodhisatta cùng hai anh em của mình đi đến hồ nước để lấy vài hoa sen. Hai người anh em cố gắng nịnh bợ người cùi, do đó làm ông ta tức giận, nhưng Bodhisatta vì trung thực nên được cho nguyên một bó hoa sen.
+
+Câu chuyện được kể lại liên quan đến Ānanda. Một số tỳ-kheo từng đi lang thang khắp con phố hoa sen để tìm vài đóa sen cúng dường cây Ānandabodhi (*q.v.*). Nhưng họ không tìm thấy cành nào, và Ānanda, nghe chuyện này, đã tự mình đến phố hoa sen và trở về với nhiều nắm hoa sen xanh. Sự việc được báo lên Đức Phật, Ngài liền kể câu chuyện Jātaka. Ja.ii.321ff.
 
 ## Notes

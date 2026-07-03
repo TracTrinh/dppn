@@ -5,7 +5,7 @@ base_headword: "Saṅghasivā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Saṅghasivā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghasivā. Vợ của Mahā Tissa. Bà là con gái của người cai trị Rohaṇa và có ba người con trai: Aggabodhi, Dappula và Maṇi-akkhika. Cv.xlv.39.
 
 ## Notes

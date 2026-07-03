@@ -5,7 +5,7 @@ base_headword: "Jīvakambavana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -34,6 +34,8 @@ It was in this grove that <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvakambavana. Một vườn xoài ở Rājagaha, thuộc về Jīvaka, nơi mà ông đã cúng dường lại cho Đức Phật và các tỳ-kheo của Ngài. Ông đã xây dựng một tu viện trong khu rừng, và Đức Phật đã lưu trú tại đó vài lần. Vào một dịp như vậy, Ajātasattu đã đến thăm Đức Phật và Sāmaññaphalasutta đã được thuyết giảng (DN 2) (DN.i.47ff). Các Jīvakasutta cũng đã được thuyết giảng tại đó. Vườn xoài nằm gần Maddakucchi, vì vậy họ đã khiêng Đức Phật đến đó khi bàn chân của Ngài bị thương bởi một mảnh vỡ từ tảng đá do Devadatta ném xuống (Dhp­a.ii.164, v.v.).
+
+Chính tại khu rừng này Cūḷa Panthaka đã chứng quả vị *Arahant*, và, vào thời điểm đó, có năm trăm tỳ-kheo ở đó (Ja.i.114f., v.v.). Các ni cô, dường như, cũng đã đến đó để nghỉ trưa. Thīg­a.245f.
 
 ## Notes

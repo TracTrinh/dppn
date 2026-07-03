@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 01. Dhammā Therī. Bà thuộc về một gia đình danh giá ở Sāvatthī và được gả cho một người chồng môn đăng hộ đối. Sau khi nghe Pháp, bà muốn gia nhập Tăng đoàn, nhưng chồng bà từ chối cho phép. Sau khi ông chết bà trở thành một nữ tu, và một ngày nọ, trong khi đang trở về từ vòng khất thực, bà bị trượt chân ngã. Quán niệm về điều này, bà trở thành một vị *Arahant*. Thīg.vs.17; Thīg­a.23f.
 
 ## Notes

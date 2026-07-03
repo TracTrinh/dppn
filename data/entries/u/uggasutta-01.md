@@ -5,7 +5,7 @@ base_headword: "Uggasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggasutta 01. Records the conversation between the Buddha and <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggasutta 01. Ghi lại cuộc đàm thoại giữa Đức Phật và Ugga (2) (*q.v.*), đại thần của Vua Pasenadi. AN.iv.6-7.
 
 ## Notes

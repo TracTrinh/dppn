@@ -5,7 +5,7 @@ base_headword: "Reṇuvatī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Reṇuvatī. A city, capital of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇuvatī. Một thành phố, thủ đô của Cakkavatti Vimala (*q.v.*).
 
 ## Notes

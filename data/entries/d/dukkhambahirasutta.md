@@ -5,7 +5,7 @@ base_headword: "Dukkhambāhirasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dukkhambāhirasutta. Forms seen by the eye are <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhambāhirasutta. Sắc do mắt thấy là khổ, những thứ do các căn khác nhận biết cũng vậy. Chúng rỗng không, không có ngã. SN.iv.4.
 
 ## Notes

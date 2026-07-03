@@ -5,7 +5,7 @@ base_headword: "Rājinīdīpika"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājinīdīpika. A monastery in Ceylon, presented by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājinīdīpika. Một tu viện ở Tích Lan, được Aggabodhi V cúng dường cho các tỳ-kheo Dhammaruci. Cv.xlviii.1.
 
 ## Notes

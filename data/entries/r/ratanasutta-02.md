@@ -5,7 +5,7 @@ base_headword: "Ratanasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Ratanasutta 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanasutta 02. Chú giải Dīgha (DN­a.i.250) chỉ người đọc đến một Ratanasutta của Bojjhaṅgasaṁyutta để biết chi tiết về bảy báu vật của một Cakkavatti. Lời dẫn chiếu hiển nhiên là chỉ đến Cakkavattisutta (*q.v.*). SN.v.98.
 
 ## Notes

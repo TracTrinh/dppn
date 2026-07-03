@@ -5,7 +5,7 @@ base_headword: "Java"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Java, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Java, Javana. Một vị thiên tử (*Devaputta*). Rujā đã nói rằng cô có thể nhìn thấy Java đang làm một vòng hoa chuẩn bị sẵn sàng cho sự tái sinh của cô ở cõi Tāvatiṁsa. Ja.vi.239f.
 
 ## Notes

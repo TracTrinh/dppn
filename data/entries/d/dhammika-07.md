@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "07"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammika 07. Name of a jackal in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 07. Tên của một con chó rừng trong Bilārajātaka (Ja 128).
 
 ## Notes

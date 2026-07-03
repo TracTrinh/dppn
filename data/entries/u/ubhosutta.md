@@ -5,7 +5,7 @@ base_headword: "Ubhosutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Ubhosutta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ubhosutta (*v.l.* Ubhatobhāga). Về sự giải thoát hai phần. AN.iv.453.
 
 ## Notes

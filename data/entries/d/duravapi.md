@@ -5,7 +5,7 @@ base_headword: "Dūravāpi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dūravāpi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūravāpi. Một hồ chứa nước được xây dựng bởi Iḷanāga (Mhv.xxxv.32), có lẽ là cùng một hồ với Dūratissavāpi (*q.v.*).
 
 ## Notes

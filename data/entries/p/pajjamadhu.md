@@ -5,7 +5,7 @@ base_headword: "Pajjamadhu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pajjamadhu. A Pāḷi poem of one hundred and four stanzas, by <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjamadhu. Một bài thơ tiếng Pāḷi gồm một trăm lẻ bốn khổ thơ, do Coḷiya Dīpaṅkara hoặc Buddhapiya sáng tác, ca ngợi vẻ đẹp sắc thân của Đức Phật, giáo pháp của Ngài và Tăng đoàn. PLC.222; Svd.1260.
 
 ## Notes

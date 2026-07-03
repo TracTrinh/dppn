@@ -5,7 +5,7 @@ base_headword: "Nānacchandajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,8 @@ The circumstances leading to the story are given in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nānacchandajātaka (Ja 289). Có lần Bodhisatta là vua của Benares, và trong khi đi dạo quanh thành phố để cải trang, ngài đã rơi vào tay những tên trộm say xỉn vào một đêm nọ. Ngài than nghèo, đưa cho chúng áo choàng của mình và trốn thoát. Trong thành phố có vị giáo sĩ cũ của cha ngài, người đã bị sa thải. Ông nói với vợ mình rằng, khi ông quan sát các vì sao đêm đó, ông đã nhìn thấy nhà vua rơi vào tay kẻ thù và sau đó trốn thoát. Nhà vua tình cờ nghe được tất cả những điều này trong quá trình lang thang của ngài và sáng hôm sau ngài triệu tập các nhà chiêm tinh của mình. Họ đã không quan sát thấy bất cứ điều gì như vậy trong các vì sao. Do đó, ngài sa thải họ, bổ nhiệm người kia vào vị trí của họ, và ban cho ông một ân huệ. Khi vị giáo sĩ về nhà để bàn với gia đình xem mình nên xin ân huệ gì, vợ ông, con trai Chatta của ông, và nữ tì Puṇṇā của ông, mỗi người đều muốn một thứ khác nhau. Ông đã trình báo điều này với nhà vua, và ngài đã ban cho mỗi người điều mà họ mong muốn.
+
+Hoàn cảnh dẫn đến câu chuyện được kể trong Juṇhajātaka (Ja 456). Bà-la-môn được đồng nhất với Ānanda. Ja.ii.426ff.
 
 ## Notes

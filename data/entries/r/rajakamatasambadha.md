@@ -5,7 +5,7 @@ base_headword: "Rajakamatasambādha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rajakamatasambādha. A place near <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajakamatasambādha. Một địa điểm gần Pulatthipura nơi *Laṅkādhinātha* Rakkha và *Jivitapotthakī* Sukha đã đánh một trận chiến chống lại lực lượng của Gajabāhu. Cv.lxx.175.
 
 ## Notes

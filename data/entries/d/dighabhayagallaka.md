@@ -5,7 +5,7 @@ base_headword: "Dīghabhayagallaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghabhayagallaka. A Tamil stronghold in charge of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghabhayagallaka. Một pháo đài Tamil do Dīghābhaya phụ trách và bị Duṭṭhagāmaṇī đánh chiếm. Mhv.xxv.12.
 
 ## Notes

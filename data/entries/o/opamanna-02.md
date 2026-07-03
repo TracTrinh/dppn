@@ -5,7 +5,7 @@ base_headword: "Opamañña"
 disambiguator: "02"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -28,6 +28,6 @@ Opamañña 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Opamañña 02. Một thủ lĩnh Gandhabba, người nằm trong số những vị có mặt tại buổi thuyết giảng kinh Mahā Samayasutta (DN.ii.258). Vị này được nhắc đến trong Āṭānāṭiyasutta (DN.iii.204), ở một danh sách các vị tướng Yakkha lỗi lạc.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅghabhedakagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghabhedakagāma. A village in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabhedakagāma. Một ngôi làng ở Rohaṇa, được đề cập trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv. 125, 127.
 
 ## Notes

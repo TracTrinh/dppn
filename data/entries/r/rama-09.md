@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "09"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāma 09. The second of the future Buddhas. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 09. Vị thứ hai trong các vị Phật tương lai. Anāgatavaṁsa, p. 40.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhātusutta 06. Desire and lust after the *dhātus* is a corruption of the heart
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 06. Sự ham muốn và tham ái đối với các *dhātu* là một sự ô nhiễm của tâm. SN.iii.234.
 
 ## Notes

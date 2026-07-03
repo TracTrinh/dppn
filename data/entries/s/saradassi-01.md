@@ -5,7 +5,7 @@ base_headword: "Sāradassī"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāradassī 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāradassī Thera. Ông sống ở Nayyinyua vùng Ava, vào thế kỷ mười bảy. Ông là tác giả của *Gūḷhatthadīpanī* về Abhidhamma và của *Visuddhimaggagaṇṭhipada*. Ông đã dịch *Nettippakaraṇa* sang tiếng Miến Điện. Ông bị chỉ trích vì đam mê một số thứ xa xỉ, chẳng hạn như khăn trùm đầu và quạt, nhưng sau đó ông đã từ bỏ chúng và sống trong rừng. Sās.116; Bode, 56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rajakatthala"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rajakatthala. A village dedicated by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajakatthala. Một ngôi làng được Kittisirirājasīha cúng dường cho các lễ hội tôn vinh Xá-lợi Răng (*Tooth Relic*). Cv.c.43.
 
 ## Notes

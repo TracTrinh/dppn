@@ -5,7 +5,7 @@ base_headword: "Padhānikatissa Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padhānikatissa Thera. He went with five hundred others to meditate in the fores
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padhānikatissa Thera. Ngài đã đi cùng với năm trăm người khác đến thiền định trong rừng, và sau khi hướng dẫn các đồng đạo của mình nỗ lực siêng năng vào việc thiền định, bản thân ngài đã dành cả đêm để ngủ. Khi những người khác phát hiện ra sự lừa dối của ngài, họ đã phàn nàn với bậc đạo sư, người đã kể lại Akālarāvijātaka (Ja 119, *q.v.*), đồng nhất Tissa với con gà trống trong câu chuyện đó. Dhp­a.iii.142ff.
 
 ## Notes

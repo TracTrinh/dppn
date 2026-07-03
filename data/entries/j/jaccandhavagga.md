@@ -5,7 +5,7 @@ base_headword: "Jaccandhavagga"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jaccandhavagga. The sixth chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaccandhavagga. Chương thứ sáu của Udāna.
 
 ## Notes

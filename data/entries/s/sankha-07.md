@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -29,6 +29,6 @@ Saṅkha 07. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 07. Một vị tướng của Kittisirimegha; ông sống ở Badalatthalī. Nhà vua đã giao phó cho ông các lễ kỷ niệm liên quan đến nghi lễ *upanayana* (lễ thụ pháp) của Parakkamabāhu (sau này là Parakkamabāhu I.). Khi Parakkamabāhu trở về Badalatthalī trong chuyến công du chuẩn bị của mình, Saṅkha đã chào đón ông và dành cho ông mọi sự tôn kính. Nhưng Parakkamabāhu đã tỏ ra phản trắc và ra lệnh giết chết ông. Cv.lxiv.8f., 22f.; lxv.13f, 27f.
 
 ## Notes

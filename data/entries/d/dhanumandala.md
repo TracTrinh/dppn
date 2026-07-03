@@ -5,7 +5,7 @@ base_headword: "Dhanumaṇḍala"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhanumaṇḍala. A locality in the hill-district of Ceylon. In the time of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanumaṇḍala. Một địa phương ở vùng đồi núi của Tích Lan. Vào thời của Gajabāhu, thủ lĩnh của nó là Otturāmallaka (Cv.lxx.17). Nó đã được vị *Adhikārī* Mañju chinh phục cho Parakkamabāhu I. Cv.lxxiv.166.
 
 ## Notes

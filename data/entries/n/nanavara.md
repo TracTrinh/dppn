@@ -5,7 +5,7 @@ base_headword: "Ñāṇavara"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇavara. Một tác giả ở Pagan. Ông đã viết một vài tác phẩm bằng tiếng Pāli, bao gồm Rājādhirājanāmattappakāsinī. Ông là gia sư cho vua Mahārājādhipati. Ông đã dịch Abhidhānappadīpikā sang tiếng Miến Điện. Bode: *op.cit.*, 66f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uṇṇanābhī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uṇṇanābhī. A spider, as big as a chariot wheel, which lived in a cave in M
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇṇanābhī. Một con nhện, lớn bằng bánh xe ngựa, sống trong một hang động ở Núi Cittakūṭa. Trong những cơn mưa, những con ngỗng sống trên núi đi vào hang của nó để trú ẩn. Mỗi tháng con nhện sẽ giăng một mạng nhện, mỗi sợi tơ dày như dây thừng buộc bò, ở cửa hang. Vào cuối mùa mưa, một con ngỗng non, vốn đã được cho ăn hai phần thức ăn để giúp nó khỏe mạnh sẽ phá vỡ mạng nhện và những con ngỗng sẽ bay đi. Có lần những cơn mưa kéo dài suốt năm tháng và bầy ngỗng, vì không có thức ăn, đã buộc phải ăn trứng của chúng và sau đó là những con ngỗng non của chúng. Khi đến lúc chúng phải bay đi, không một con nào trong số chúng đủ sức để phá vỡ mạng nhện và con nhện đã hút máu của tất cả bọn chúng. Đó là sự kết thúc của bầy ngỗng Dhataraṭṭha. Ja.v.469-70.
 
 ## Notes

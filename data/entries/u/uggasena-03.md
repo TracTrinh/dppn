@@ -5,7 +5,7 @@ base_headword: "Uggasena"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uggasena 03. King, husband of Queen <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggasena 03. Vua, phu quân của Hoàng hậu Dinnā (*q.v.*).
 
 ## Notes

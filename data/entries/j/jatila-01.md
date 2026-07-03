@@ -5,7 +5,7 @@ base_headword: "Jaṭila"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jaṭila 01. A class of ascetics, so-called on account of their matted hair (*ja
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭila 01. Một giai cấp các đạo sĩ, được gọi như vậy do những mái tóc bện lại của họ (*jaṭilā ti tāpasā, te hi jaṭādhāritāya idha jaṭilā ti vuttā*) (Ud­a.74; xem thêm 330). Những đạo sĩ này đôi khi được xếp loại thuộc nhóm *Isi* (Cūḷa Niddesa.149) và cũng thuộc nhóm *muni* (Cūḷa Niddesa.513).
 
 ## Notes

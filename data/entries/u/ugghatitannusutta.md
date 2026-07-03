@@ -5,7 +5,7 @@ base_headword: "Ugghaṭitaññusutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ugghaṭitaññusutta. Some people in the world are quick withal and learn by ta
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ugghaṭitaññusutta. Vài người trên thế gian thì nhanh nhẹn và học bằng cách nắm bắt những gợi ý; những người khác học khi được cung cấp đầy đủ chi tiết; một số người phải được dẫn dắt bởi sự hướng dẫn; những người khác chỉ học kinh văn mà không hiểu nó. AN.ii.136.
 
 ## Notes

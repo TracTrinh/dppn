@@ -5,7 +5,7 @@ base_headword: "Saṅgillagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgillagāma. A village in Ceylon, the residence of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgillagāma. Một ngôi làng ở Tích Lan, nơi cư trú của Bhayasīva. Cv.xli.69.
 
 ## Notes

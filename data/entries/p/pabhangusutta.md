@@ -5,7 +5,7 @@ base_headword: "Pabhaṅgusutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabhaṅgusutta. The Buddha teaches that which has the nature of crumbling away 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhaṅgusutta. Đức Phật giảng dạy về những thứ có bản chất tàn lụi và những thứ không có. Thân thể thì tàn lụi, nhưng sự chìm vào tĩnh lặng của thân thể thì không. SN.iii.32.
 
 ## Notes

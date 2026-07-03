@@ -5,7 +5,7 @@ base_headword: "Huhuṅka"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -29,6 +29,8 @@ Huhuṅka. The descriptive name of a Brahmin who visited the Buddha at the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Huhuṅka. Tên gọi mô tả của một vị Bà-la-môn đã đến viếng Đức Phật tại Ajapālanigrodha bảy ngày sau sự Giác ngộ của Ngài và hỏi Ngài những câu hỏi liên quan đến một vị Bà-la-môn thực sự. Đức Phật đã giải thích vấn đề, nhưng không tạo được ấn tượng nào với ông (Vin.i.2; xem thêm Ud.i.4; Ud­a.54; cf. Mvu.iii.325).
+
+Buddhaghosa giải thích rằng vị Bà-la-môn này là một *diṭṭhamaṅgalika*, đầy kiêu ngạo và phẫn nộ, và thường đi loanh quanh thốt ra âm thanh "hu-huṁ"; do đó ông có tên này.
 
 ## Notes

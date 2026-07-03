@@ -5,7 +5,7 @@ base_headword: "Ratanapajjala"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ratanapajjala (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanapajjala (Ratanapattala). Một Cakkavatti của tám mươi *kappa* trước, một tiền kiếp của Sammukhāthavika (hoặc Māṇava) Thera. Ap.i.159; Thag­a.i.164.
 
 ## Notes

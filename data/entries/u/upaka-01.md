@@ -5,7 +5,7 @@ base_headword: "Upaka"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -49,6 +49,18 @@ The words of the Buddha’s speech to Upaka are often quoted (e.g., Kv.289).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaka 01. Một vị Ājīvaka mà Đức Phật đã gặp trên đường đi giữa Gayā và Cây Bồ-đề, sau khi ngài khởi hành từ Isipatana để thuyết bài Pháp Đầu tiên. Upaka đã hỏi Đức Phật về những sự chứng đắc của ngài, và khi Đức Phật nói cho ông ấy biết những gì ngài đã đạt được, ông ấy đã hỏi Đức Phật liệu ngài có phải là “Anantajina.” Khi Đức Phật thừa nhận điều đó, Upaka lắc đầu nói rằng, “Có thể là như vậy, này bạn,” và bỏ đi theo một con đường khác (Ja.i.81; Vin.i.8; MN.i.170-1; Dhp­a.iv.71-2). Có nói rằng (DN­a.ii.471) Đức Phật đã đi bộ trên toàn bộ quãng đường từ Cây Bồ-đề đến Isipatana – thay vì bay qua không trung, như phong cách thường thấy của các vị Phật – bởi vì ngài muốn gặp Upaka.
+
+Sau cuộc gặp gỡ này, Upaka đã đi đến quốc gia Vaṅkahāra và tại đó, sau khi đem lòng yêu say đắm Cāpā, con gái của một người thợ săn đã chăm sóc ông, ông đã nhịn đói suốt bảy ngày và cuối cùng thuyết phục được người thợ săn gả cô cho ông. Để kiếm sống, Upaka đã rao bán thịt do người thợ săn mang về. Đến kỳ hạn Cāpā sinh cho ông một người con trai, Subhadda. Khi đứa bé khóc, Cāpā hát cho nó nghe, nói rằng, “Con trai của Upaka, con trai của tu sĩ, con trai của kẻ buôn thịt thú rừng, đừng khóc,” qua đó chế nhạo chồng mình. Trong sự bực tức, ông kể cho cô nghe về người bạn Anantajina của mình, nhưng cô vẫn không ngừng trêu chọc ông. Một ngày nọ, bất chấp những nỗ lực níu giữ của cô, ông đã rời bỏ cô và đi đến gặp Đức Phật ở Sāvatthī. Đức Phật, khi nhìn thấy ông đang đi tới, đã ra lệnh rằng bất cứ ai hỏi thăm Anantajina đều phải được dẫn đến chỗ ngài. Sau khi biết được câu chuyện của Upaka, Đức Phật đã cho phép ông gia nhập Tăng đoàn. Nhờ vào thiền định của mình, Upaka đã trở thành một *Anāgāmī* và được tái sinh trong cõi trời Avihā (Thīg­a.220ff; MN­a.i.388f. Câu chuyện của Upaka cũng được đưa ra trong Snp-a.i.258ff, với một số biến thể về chi tiết). Saṁyuttanikāya (i.35, 60) ghi lại một chuyến viếng thăm Đức Phật của Upaka và sáu chúng sinh khác được sinh ra ở Avihā. Theo Chú giải Majjhima (i.389), Upaka trở thành một *Arahant* ngay khi ông được sinh ra ở Avihā.
+
+Trong Therīgāthā ông cũng được gọi là Kāḷa (v.309. Đây có thể là một thuật ngữ biểu thị sự yêu mến được sử dụng vì màu da sẫm của ông) và nơi sinh của ông được đưa ra là Nāla, một ngôi làng gần Cây Bồ-đề, nơi mà ông được cho là đã sống cùng với vợ mình vào thời điểm ông rời bỏ cô (Thīg­a.225).
+
+Về sau, Cāpā cũng rời bỏ thế gian và trở thành một *Arahant* Therī.
+
+*Divyāvadāna* (p.393) gọi ông là Upaka Upagana.
+
+Sự liệt kê các ân đức của Đức Phật được thực hiện đối với Upaka không được coi là một *dhammadesanā* thực sự bởi vì nó diễn ra trước việc thuyết bài pháp đầu tiên. Nó chỉ tạo ra kết quả *vāsanā-bhāgiya*, không phải *sekha-bhāgiya* hay *nibaddha-bhāgiya* (Ud­a.54).
+
+Những lời trong bài nói chuyện của Đức Phật với Upaka thường được trích dẫn (ví dụ, Kv.289).
 
 ## Notes

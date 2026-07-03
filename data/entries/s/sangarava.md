@@ -5,7 +5,7 @@ base_headword: "Saṅgārava"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -45,6 +45,14 @@ The Commentary states (AN­a.i.396) that he was an overseer in charge of the rep
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgārava. Một Bà-la-môn rất uyên bác của Candalakappa. Một ngày nọ, ông thấy Dhānañjānī bị vấp ngã, và nghe cô thốt lên ba lần, "Kính lễ Đức Phật, bậc *Arahant*, đấng Giác Ngộ Toàn Vẹn." Ông trách mắng cô vì đã tán dương một vị tỳ-kheo cạo đầu như vậy, nhưng khi cô kể cho ông về những phẩm chất diệu kỳ của Đức Phật, ông cảm thấy khao khát được gặp Ngài. Một thời gian sau, Đức Phật đến Candalakappa và trú tại vườn Xoài của Todeyya. Khi Dhānañjānī báo cho Saṅgārava rằng Ngài đang ở đó, Saṅgārava đã đến thăm Ngài và hỏi Ngài về những quan điểm của Ngài đối với các Bà-la-môn. Đức Phật nói rằng Ngài rất tôn trọng những Bà-la-môn đã đạt được mục tiêu ngay trong hiện tại, nhờ tự mình khám phá ra một giáo pháp chưa từng được biết đến trước đó. Bản thân Ngài là một trong những người này. Sau đó Ngài tiếp tục mô tả cách Ngài rời bỏ đời sống gia đình và bằng cách nào, theo đúng thời điểm, Ngài đã đạt được sự Giác ngộ.
+
+Saṅgārava hỏi thêm liệu có bất kỳ vị thần nào không. Đức Phật trả lời rằng điều đó không có gì phải nghi ngờ; toàn bộ thế giới đều đồng ý về điểm đó. Saṅgārava rất hài lòng và chấp nhận Đức Phật là đạo sư của mình (MN.ii.209ff). Buddhaghosa nói (MN­a.ii.808) rằng Saṅgārava là người trẻ nhất trong những người họ Bhāradvāja (xem mục này), những người anh em của chồng Dhānañjānī.
+
+Saṁyutta (SN.i.182f) đề cập đến một Saṅgārava có lẽ khác biệt với người ở trên. Ông sống ở Sāvatthī và là một "người theo nghi thức tắm gội", tin vào sự thanh tẩy bằng nước, tắm vào buổi sáng và buổi tối. Đức Phật, theo yêu cầu của Ānanda, đã đến thăm nhà ông và thuyết Pháp cho ông, sau đó ông trở thành môn đệ của Đức Phật. Chú giải (SN­a.i.207) giải thích rằng Ānanda và Saṅgārava, khi còn là cư sĩ, đã từng là bạn bè, và Ānanda rất lo lắng để ngăn chặn "kẻ khốn khổ (*varāko*) này, người mà bất chấp mọi tình bạn của chúng ta đã nhiễm phải những tà kiến, khỏi việc trở thành một người làm đầy địa ngục; hơn nữa anh ta có một nhóm bạn bè, và hàng trăm người có thể sẽ theo sau nếu anh ta được cải hóa."
+
+Một đoạn khác của Saṁyutta (SN.v.121f.; xem Saṅgāravasutta 3) chứa một bài kinh (*Sutta*) trong đó Bà-la-môn Saṅgārava đến thăm Đức Phật và hỏi Ngài tại sao ông có thể ghi nhớ một số thần chú với sự dễ dàng lớn lao và những thần chú khác thì hoàn toàn không. Đó có thể là cùng vị Bà-la-môn này, người cũng được đề cập vài lần trong Aṅguttara. AN.i.168 f; iii.230f.; v. 232, 252. Về chi tiết xem Saṅgāravasutta (4-7).
+
+Chú giải nói (AN­a.i.396) rằng ông là một người giám sát phụ trách việc sửa chữa các tòa nhà đổ nát ở Rājagaha (*Rājagahanagare jiṇṇapaṭisaṅkharaṇakārako āyuttakabrāhmaṇo*).
 
 ## Notes

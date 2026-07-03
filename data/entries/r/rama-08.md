@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "08"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rāma 08. One of the generals of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 08. Một trong những tướng quân của Gajabāhu. Rāma từng bị đánh bại bởi vị tướng Deva (Cv.lxx.137, 142), nhưng sau đó đã giành được chiến thắng tại bến vượt sông Mahā Rakkha. Rāma nhận được tước hiệu Nīlagiri, hiển nhiên là tên vùng đất của ông. Cv.lxxii.12; Cv.Trs.i.299, n.1; 320, n.2.
 
 ## Notes

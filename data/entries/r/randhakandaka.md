@@ -5,7 +5,7 @@ base_headword: "Randhakaṇḍaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Randhakaṇḍaka. A tank in Ceylon, built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Randhakaṇḍaka. Một hồ chứa nước ở Tích Lan (Ceylon), do Bhātikatissa xây dựng. Mhv.xxxvi.4.
 
 ## Notes

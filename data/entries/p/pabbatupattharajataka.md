@@ -5,7 +5,7 @@ base_headword: "Pabbatūpattharajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,8 @@ The story was related to the king of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatūpattharajātaka (Ja 195). Thuở xưa, Brahmadatta, vua của Benares, đã phát hiện ra một trong những cận thần của mình đang thông đồng trong hậu cung của ông. Nhưng vì yêu mến cả người đàn ông và người phụ nữ có liên quan, ông đã xin lời khuyên của vị cố vấn của mình, vị Bodhisatta, dưới hình thức một câu đố rằng một hồ nước tuyệt đẹp dưới chân đồi đang bị một con chó rừng sử dụng, trong khi con sư tử vẫn nằm yên mặc cho mọi chuyện xảy ra. Câu trả lời của vị cố vấn là mọi sinh vật đều uống nước theo ý muốn từ một dòng sông lớn mạnh, tuy nhiên con sông vẫn là một con sông mặc cho điều đó. Nhà vua đã hiểu câu trả lời và khuyên răn cả hai người có liên quan.
+
+Câu chuyện này được kể lại cho vua của Kosala, người đã phát hiện ra một sự việc tương tự trong triều đình của mình. Ja.ii.125ff.
 
 ## Notes

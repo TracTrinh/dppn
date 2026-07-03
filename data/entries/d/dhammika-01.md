@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -39,6 +39,12 @@ He may be identical with Ghosasaññaka of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 01. Dhammika Thera. Một Bà-la-môn ở Kosala đã được cải đạo vào dịp cúng dường Jetavana và đã đi vào một *vihāra* trong làng. Khi ngài trở nên tức giận lúc các tỳ-kheo viếng thăm *vihāra*, họ đã không đến nữa, và ngài trở thành vị chủ nhân duy nhất của *vihāra*. Khi điều này được một cư sĩ báo cáo cho vị Phật, Phật đã cho gọi ngài đến và thuyết giảng cho ngài Rukkhadhammajātaka (Ja 74), cho thấy rằng trong quá khứ, ngài cũng đã phạm lỗi lầm tương tự. Dhammika tập trung vào các bài kệ của Jātaka và, bằng cách phát triển tuệ quán, đã trở thành một *Arahant*.
+
+Vào thời của Sikhī Buddha, ngài từng là một thợ săn và đã lắng nghe Phật thuyết pháp cho một hội chúng chư thiên trong một khu rừng. Thag.303-6; Thag­a.i.396ff.
+
+Theo AN.iii.366ff. Dhammika đã phải rời khỏi bảy chỗ ở, hết nơi này đến nơi khác, bởi vì các cư sĩ hỗ trợ chỗ ở đã không thể chịu đựng được những hành vi xúc phạm của ngài. Do đó ngài tìm đến vị Phật và phàn nàn với ngài. Rukkhadhammajātaka được đề cập ở đây rõ ràng không phải là câu chuyện cùng tên được nhắc đến trong Jātaka Commentary (i.327ff.). Câu chuyện này được trình bày đầy đủ trong Aṅguttaranikāya (*loc.cit.*). Tại đó, vị Phật được cho là đã kể lại cho ngài những câu chuyện về một số đạo sư trong quá khứ, chỉ ra những hậu quả tồi tệ của việc nhục mạ những người khác.
+
+Ngài có thể chính là Ghosasaññaka của Apadāna (Ap.ii.451).
 
 ## Notes

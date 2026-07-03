@@ -5,7 +5,7 @@ base_headword: "Dīpaṅkara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -58,6 +58,10 @@ After <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpaṅkara 01. Đức Phật Dīpaṅkara. Vị đầu tiên trong số hai mươi tư vị Phật. Ngài sinh ra ở Rammavatī, cha của ngài là Vua Sudeva (*v.l.* Sumedha) và mẹ của ngài là Sumedhā. Trong mười ngàn năm, ngài sống trong đời sống gia đình, ở ba cung điện, Haṁsā, Koñcā và Mayūrā. Vợ của ngài là Padumā và con trai ngài là Usabhakkhandha (Samavatakkhandha). Ngài rời nhà trên một con voi và thực hành khổ hạnh trong mười tháng. Cây bodhi của ngài là cây *Pipphalī* và cỏ cho chỗ ngồi của ngài được dâng cúng bởi một Ājīvaka tên là Sunanda. Bài pháp đầu tiên của ngài được thuyết giảng tại Nandārāma (Sunandārāma) ở Sirighara, nơi ngài đã cải đạo các ngoại đạo. Ngài có ba cuộc tập hợp lớn của các đồ đệ của mình. Ngài luôn được hầu cận bởi tám mươi tư ngàn *Arahant*, và thân hình ngài cao tám mươi cubit. Ngài viên tịch tại Nandārāma ở độ tuổi một trăm ngàn tuổi và bảo tháp (*Thūpa*) của ngài cao ba mươi sáu do-tuần (*yojana*). Sumaṅgala và Tissa là những vị tỳ-kheo đệ tử thượng thủ của ngài, Nandā và Sunandā là các vị nữ đệ tử thượng thủ, trong khi Sāgata (*v.l.* Nanda) là vị thị giả thường trực của ngài. Tapassu và Bhallika là những nam cư sĩ hộ độ chính và Sirimā và Soṇā là những nữ hộ độ chính.
+
+Chính trong thời của Đức Phật Dīpaṅkara, vị sa-môn Sumedha (*q.v.*), người sau này trở thành Đức Phật Gotama, đã lần đầu tiên tuyên bố ý định trở thành một người khao khát Sự Giác ngộ (một *Bodhisatta*).
+
+Sau khi Dīpaṅkara viên tịch, giáo pháp của ngài kéo dài trong một trăm ngàn năm. Bv.ii.207ff; Bv­a.104f; Ja.i.29; Mhv.i.5; Dpv.iii.31; Dhp­a.i.69; nhưng xem Mhv.i.193ff., nơi các chi tiết khác với những gì được đưa ra ở đây.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sarañjita"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sarañjita. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarañjita. Một hạng chư thiên (những vị thần của “Lạc thú Đam mê”). Theo niềm tin của một số người, một người chết khi đang chiến đấu sẽ được tái sinh giữa họ. SN.iv.308.
 
 ## Notes

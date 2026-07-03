@@ -5,7 +5,7 @@ base_headword: "Padavikkamana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padavikkamana. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padavikkamana. *v.l.* Padakkamana. Một vị vua của tám mươi hai *kappa* trước, là một tiền kiếp của Māṇava Thera (Sammukhāthavika Thera) (Thag­a.i.164; Ap.i.159).
 
 ## Notes

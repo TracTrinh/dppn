@@ -5,7 +5,7 @@ base_headword: "Dīghalomasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dīghalomasutta. One who yearns for gains, favours and flattery, is like a long-
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghalomasutta*. Người khao khát lợi đắc, danh vọng và sự tâng bốc, giống như một con dê cái lông dài mắc trong một bụi gai. SN.ii.228.
 
 ## Notes

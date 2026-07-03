@@ -5,7 +5,7 @@ base_headword: "Pallaṅkavimānavatthu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pallaṅkavimānavatthu. The story of a woman of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallaṅkavimānavatthu. Câu chuyện về một người phụ nữ ở Sāvatthī kết hôn với một thanh niên cùng đẳng cấp, người mà cô đã cùng sống một cuộc đời đức hạnh. Sau khi qua đời cô tái sinh vào cõi Tāvatiṁsa, tại nơi đó Moggallāna đã gặp cô và biết được câu chuyện của cô. Vv.iii.3; Vv-a.128ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ogāḷhasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -28,6 +28,8 @@ The Commentary (SN­a.i.227) explains that the monk was already an *Arahant*, bu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ogāḷhasutta hoặc Kulagharaṇīsutta. Một vị tỳ-kheo sống trong một khu rừng ở Kosala được một gia đình nọ vô cùng kính trọng (*ajjhogāḷhappatto*). Một thiên nhân (*Deva*) của khu rừng, muốn thúc giục vị ấy nỗ lực nhiều hơn, đã đi đến gặp vị tỳ-kheo dưới lớp áo của người nội trợ (*kulagharaṇī*) của gia đình, và hỏi vị ấy tại sao mọi người lại dành thời gian của họ vào những cuộc nói chuyện bất tận. Vị ấy không bị điều đó làm phiền sao? Vị tỳ-kheo trả lời rằng một vị sa-môn không nên bị xáo trộn bởi lời nói của người khác (SN.i.201).
+
+Chú giải (SN­a.i.227) giải thích rằng vị tỳ-kheo đã là một Arahant, nhưng thiên nữ (*Devatā*) không biết điều đó và do vậy không thể hiểu tại sao vị ấy lại dành thời gian đi thăm những người gia chủ, vì thế nên cô mới hỏi vậy với mong muốn khiến vị ấy sống độc cư.
 
 ## Notes

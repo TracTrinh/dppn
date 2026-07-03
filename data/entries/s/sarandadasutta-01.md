@@ -5,7 +5,7 @@ base_headword: "Sārandadasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sārandadasutta 01. Once, five hundred <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārandadasutta 01. Có lần, năm trăm người Licchavī hội họp tại Sārandadacetiya và cuộc thảo luận của họ chuyển sang năm báu vật trên thế gian: voi, ngựa, ngọc báu, phụ nữ, gia chủ. Không thể quyết định về những vấn đề này, họ bố trí một người trên đường để canh chừng sự xuất hiện của Đức Phật, người khi đó đang sống ở Mahā Vana tại Vesālī. Khi được thỉnh mời đến Sārandadacetiya, Đức Phật đã đến chỗ họ, và, sau khi nghe về cuộc thảo luận của họ, đã nói với họ về năm báu vật hiếm có hơn nhiều trên thế gian: Tathāgata, Pháp của Ngài, một người có khả năng nhận ra Pháp trên thế gian, một người tuân theo nó, và một người biết ơn. AN.iii.167 f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅghadatta Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghadatta Thera. He lived in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghadatta Thera. Ông sống ở Mahā Lenavihāra và trong mười hai năm, suốt nạn đói Brāhmaṇatiya, một vị thần đã chăm sóc ông. Trong quá khứ ông đã từng cho một con chó đói một bữa ăn. Ras.ii.181f.
 
 ## Notes

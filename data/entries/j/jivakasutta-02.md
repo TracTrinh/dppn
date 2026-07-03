@@ -5,7 +5,7 @@ base_headword: "Jīvakasutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jīvakasutta 02. Questioned by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvakasutta 02. Khi được Jīvaka đặt câu hỏi, Đức Phật giải thích rằng một *upāsaka* là một người đã quy y Tam Bảo và thọ trì Ngũ Giới, và rằng một người như vậy, nhờ vào những phẩm chất của mình, mang lại phúc lợi cho cả bản thân anh ta và những người khác. AN.iv.222f.
 
 ## Notes

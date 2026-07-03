@@ -5,7 +5,7 @@ base_headword: "Dhammarakkhita"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammarakkhita 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarakkhita 01. Một vị Thera người Yona được Kỳ kết tập thứ ba cử đến Aparantaka. Ở đó ngài đã thuyết giảng Aggikkhandhopamasutta và nhiếp phục được ba mươi bảy nghìn người. Mhv.xii.4, 34f.
 
 ## Notes

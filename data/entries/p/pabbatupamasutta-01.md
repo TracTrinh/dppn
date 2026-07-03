@@ -5,7 +5,7 @@ base_headword: "Pabbatūpamasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pabbatūpamasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatūpamasutta 01. Pasenadi đến gặp Đức Phật và thưa với ngài rằng ông đã rất bận rộn với những việc triều chính. Đức Phật nhắc nhở ông bằng một câu chuyện ngụ ngôn rằng tuổi già và cái chết đang không ngừng cuộn trào về phía ông, giống như những ngọn núi hùng vĩ nghiền nát mọi thứ trên đường đi của chúng. Trước một sự tiến công như vậy, các vị cố vấn và quân đội của ông sẽ vô dụng, và nhà vua thừa nhận rằng sống một cuộc đời đạo hạnh là con đường duy nhất (SN.i.100f). Chú giải nói thêm (SN­a.i.131f) rằng nhân chuyến viếng thăm này, nhà vua đã bị tấn công bởi những tên cướp đang nằm phục kích ông trong Andhavana. Tuy nhiên, ông đã được cảnh báo, và sau khi bao vây khu rừng, ông đã tiêu diệt những tên cướp.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naccasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Naccasutta. Few are they who abstain from witnessing exhibitions of dancing and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naccasutta. Ít thay những người kiêng tránh việc xem các buổi biểu diễn nhảy múa và ca hát, nhiều thay những người không làm vậy.’ SN.v.470.
 
 ## Notes

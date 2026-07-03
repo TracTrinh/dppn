@@ -5,7 +5,7 @@ base_headword: "Govinda"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -32,6 +32,10 @@ He had a son, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govinda. Viên quản gia hoặc thủ quỹ của Vua Disampati.
+
+Ông có một người con trai, Jotipāla, người đã kế vị ông sau khi ông qua đời và được biết đến với tên gọi là Mahā Govinda (DN.ii.230f; Mvu.iii.204).
+
+"Govinda" hiển nhiên là một tước hiệu chứ không phải là một cái tên. Xem Govindiya.
 
 ## Notes

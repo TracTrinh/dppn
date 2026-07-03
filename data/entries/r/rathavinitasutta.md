@@ -5,7 +5,7 @@ base_headword: "Rathavinītasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -46,6 +46,12 @@ It has been suggested by Dr. Neumann that the *upatisapasina* mentioned in <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathavinītasutta. *Sutta* thứ hai mươi tư của Majjhimanikāya. Sāriputta đến thăm Puṇṇa Mantāṇiputta ở Andhavana và hỏi ông tại sao ông lại sống phạm hạnh. Để đạt được *Nibbāna* tuyệt đối, Puṇṇa trả lời, và, khi bị hỏi thêm về bản chất của *Nibbāna*, ông giải thích rằng *Nibbāna* là mục tiêu và chỉ có thể đạt được bằng cách đi qua các giai đoạn nối tiếp nhau: giới thanh tịnh, tâm thanh tịnh, kiến thanh tịnh, đoạn nghi thanh tịnh, đạo phi đạo tri kiến thanh tịnh, đạo tri kiến thanh tịnh, và tri kiến thanh tịnh. Nó có thể được so sánh với một chuyến hành trình của Pasenadi từ Sāvatthī đến Sāketa, bằng cách sử dụng các trạm tiếp sức của bảy cỗ xe ngựa.
+
+Người ta nói trong phần giới thiệu *Sutta* này rằng Sāriputta đã hằng chờ đợi cơ hội để thảo luận với Puṇṇa kể từ khi ông nghe các tỳ-kheo tại Veḷuvana ở Rājagaha kể với Đức Phật về ông này với những lời ngợi khen nồng nhiệt nhất. Nhưng cơ hội này đã không đến mãi cho đến sau này, khi Puṇṇa đến viếng thăm Sāvatthī. Puṇṇa không hay biết gì về danh tính của Sāriputta cho đến khi kết thúc bài thuyết giảng của ông (MN.i.145-51).
+
+Mahā Vaṁsaṭīkā có đề cập (Mhv­ṭ.552f) rằng có lần *Ambapāsāṇavāsī* Cittagutta đã thuyết giảng *Sutta* này cho một hội chúng tỳ-kheo và tỳ-kheo-ni rất đông đảo tại Lohapāsāda ở Anurādhapura, và trong phần diễn giải về *Sutta* của mình, ông đã gộp cả một ghi chép ngắn về các xá-lợi được tôn trí trong Mahā Thūpa.
+
+Tiến sĩ Neumann đã đề xuất rằng *upatisapasina* được đề cập trong Sắc lệnh Bhabru của Asoka, là chỉ đến *Sutta* này. Nhưng xem Rhys Davids, JRAS.1893, và Mukherji, *Asoka*, 118f., n.8.
 
 ## Notes

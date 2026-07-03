@@ -5,7 +5,7 @@ base_headword: "Nakulanigama"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nakulanigama. The village in which lived <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulanigama. Ngôi làng nơi Nakulā (3) sinh sống. Bv­a. 163.
 
 ## Notes

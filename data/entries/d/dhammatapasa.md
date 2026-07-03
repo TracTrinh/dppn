@@ -5,7 +5,7 @@ base_headword: "Dhammatāpasā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammatāpasā. An eminent Therī of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammatāpasā. Một vị Therī lỗi lạc ở Anurādhapura, tinh thông Vinaya. Dpv.xviii.15.
 
 ## Notes

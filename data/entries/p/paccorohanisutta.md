@@ -5,7 +5,7 @@ base_headword: "Paccorohaṇīsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paccorohaṇīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccorohaṇīsutta. Jāṇussoṇī kể cho Đức Phật nghe về cách, vào một số ngày trai giới nhất định, các vị Bà-la-môn thực hiện một buổi lễ gọi là *paccorohaṇi*, khi họ tắm rửa và thanh tẩy bản thân và thờ phượng ngọn lửa ba lần trong suốt đêm. Sau đó, ông hỏi Đức Phật liệu các bậc Thánh có một sự tuân giữ tương ứng hay không, và Đức Phật trả lời ông. AN.v.233ff.
 
 ## Notes

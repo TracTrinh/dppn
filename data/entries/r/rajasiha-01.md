@@ -5,7 +5,7 @@ base_headword: "Rājasīha"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rājasīha 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasīha 01. Rājasīha I. Vua của Tích Lan (1581-93 TL). Ông là con trai của Māyādhanu. Người ta nói rằng ở tuổi mười một, ông đã nổi tiếng vì sự dũng cảm của mình. Ông giành được ngai vàng bằng cách đánh bại người Bồ Đào Nha. Thủ đô của ông ở Sītāvaka. Sau đó, ông giết cha mình, và, khi các tỳ-kheo tuyên bố rằng không thể chuộc lỗi cho một tội ác tày trời như vậy, ông quay sang chống lại họ, ban doanh thu từ Sumanakūṭa cho các tu sĩ Saivite (đạo Shaiva), giết hại các tỳ-kheo, và thiêu hủy các sách thánh của họ. Cv.xciii.3ff.; ông bị sợ hãi tột độ và hiện được tôn thờ như một vị thần; Cv.Trs.ii.226, n.1.
 
 ## Notes

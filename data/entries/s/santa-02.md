@@ -5,7 +5,7 @@ base_headword: "Santa"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Santa 02. Fifty-seven *kappas* ago there were four kings of this name, previous 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm mươi bảy *kappa* trước, có bốn vị vua mang tên này, là những tiền kiếp của Tissa Thera. Thag­a.i.200; nhưng xem Ap.i.174, nơi ông được gọi là Bhavanimmita.
 
 ## Notes

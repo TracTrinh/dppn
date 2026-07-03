@@ -5,7 +5,7 @@ base_headword: "Dhānañjānisutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhānañjānisutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhānañjānisutta 02. Dhānañjānisutta – Ghi lại câu chuyện về việc Bhāradvāja, người chồng của nữ *Brāhmiṇī* Dhānañjāni (*q.v.*), đã trở thành một *Arahant*. SN.i.159ff.
 
 ## Notes

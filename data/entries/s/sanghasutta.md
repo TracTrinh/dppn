@@ -5,7 +5,7 @@ base_headword: "Saṅghasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghasutta. The Buddha tells <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghasutta. Đức Phật nói với Upāli về mười điều gây chia rẽ Tăng đoàn và mười điều đối lập của chúng giúp đoàn kết nó. AN.v.73.
 
 ## Notes

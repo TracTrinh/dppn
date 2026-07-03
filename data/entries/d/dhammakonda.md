@@ -5,7 +5,7 @@ base_headword: "Dhammakoṇḍa"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammakoṇḍa. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakoṇḍa. Một thành phố ở Pabbataraṭṭha thuộc Videha. Ở đó người chăn bò Dhaniya đã được sinh làm một vị con trai trưởng giả (*seṭṭhiputta*). Snp­a.i.26.
 
 ## Notes

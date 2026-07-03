@@ -5,7 +5,7 @@ base_headword: "Isipatana"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Isipatana. A monastery built by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isipatana. Một tu viện được Parakkamabāhu I xây dựng ở vùng ngoại ô Rājavesibhujaṅga, thuộc Pulatthipura. Cv.lxxviii.79; nhưng hãy xem lxxiii.151-5 và Cv.Trs.ii.18, n.3.
 
 ## Notes

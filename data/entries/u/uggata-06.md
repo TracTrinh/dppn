@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uggata 06. King of one thousand and fifty-one *kappas* ago; a previous life of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 06. Vua của một ngàn không trăm năm mươi mốt *kappa* trước; một tiền kiếp của Dhajadāyaka Thera. Ap.i.109.
 
 ## Notes

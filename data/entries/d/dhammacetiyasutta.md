@@ -5,7 +5,7 @@ base_headword: "Dhammacetiyasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -37,6 +37,10 @@ According to the Commentary (MN­a.ii.753ff; Ja.iv.151ff) this was the last occa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacetiyasutta. Pasenadi và Dīgha Kārāyaṇa có lần đang lưu trú tại Naṅgaraka và, nghe tin Đức Phật đang cư trú tại Medatalumpa, cách đó ba do-tuần, nhà vua đã đến thăm ngài. Ông đã vô cùng ấn tượng bởi sự tĩnh lặng bao quanh Đức Phật và, gieo mình dưới chân ngài, ông hôn lên chúng và bày tỏ lòng tôn kính lớn lao. Khi được Đức Phật hỏi tại sao ông làm vậy, nhà vua đã trả lời rằng ông nhận thấy những tác động kỳ diệu của lời dạy của Đức Phật lên các đệ tử của ngài. Họ được thu thúc tốt, nhưng vẫn hoan hỷ, hân hoan, với tâm hồn tự do như những sinh vật hoang dã; và ông nói thêm rằng ông không hề biết đến kỷ luật nào như vậy bên ngoài giáo pháp của Đức Phật. Sau đó ông tiếp tục nói với Đức Phật về các bầy tôi của chính mình, Isidatta và Purāṇa, và về sự tận tâm lớn lao của họ đối với Đức Phật, nhắc nhở Đức Phật rằng họ đều là các quý tộc người Kosalan trạc tuổi ngài. Khi nhà vua rời đi, Đức Phật đã tán thán những lời của nhà vua với các tỳ-kheo, yêu cầu họ ghi nhớ chúng, vì chúng tạo thành một đài kỷ niệm (*cetiya*) về các kết quả của Pháp. MN.ii.118-25.
+
+Theo bản Chú giải (MN­a.ii.753ff; Ja.iv.151ff) đây là lần cuối cùng Pasenadi gặp Đức Phật, vì trong lúc ông vắng mặt Dīgha Kārāyaṇa đã đưa Viḍūḍabha lên ngai vàng.
+
+Pasenadi đã đến Rājagaha để tìm kiếm sự giúp đỡ của Ajātasattu, nhưng đã qua đời trong một túp lều bên vệ đường.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pādalola Brahmadatta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pādalola Brahmadatta. King of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādalola Brahmadatta. Vua của Benares. Ngài yêu thích khiêu vũ, và có ba ngôi nhà, trong đó lần lượt là những người phụ nữ trẻ, trung niên và già đang nhảy múa. Một ngày nọ, ngài đi từ ngôi nhà này sang ngôi nhà khác, và mặc dù các vũ công đã dùng hết tất cả kỹ năng của họ, nhưng nhà vua đã không thể tìm thấy sự thỏa mãn. Khi nhận ra rằng sự bất mãn này là kết quả từ sự khao khát của mình, ngài đã từ bỏ thế gian, phát triển sự thấu suốt, và trở thành một Pacceka Buddha. Vần thơ của ngài được bao gồm trong Khaggavisāṇasutta. Snp.vs.61; Snp­a.i.113f.; Ap­a.i.158.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammuttarā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -34,6 +34,10 @@ Their fundamental doctrine is: in birth is ignorance, in the arresting of birth 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammuttarā, Dhammuttarikā, Dhammuttariyā, Dhammuttaras, Dhammuttariyas. Một nhánh thứ cấp của phái Vajjiputtakas (Mhv.v.7; Dpv.v.46; Mbv.97).
+
+Người ta nói (Rockhill: op cit., 184) rằng họ được gọi như vậy theo tên của vị đạo sư của họ, Dhammuttara.
+
+Giáo lý cơ bản của họ là: trong sự sinh có vô minh, trong sự dứt bặt sự sinh có sự dứt bặt vô minh (ibid., 194).
 
 ## Notes

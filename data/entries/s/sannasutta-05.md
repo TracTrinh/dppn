@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 05. Thoughts of the unattractive, death, cloying of food, all-worl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những ý niệm về những điều không hấp dẫn, cái chết, sự nhàm chán đối với thức ăn, sự bất mãn với toàn thế giới, sự vô thường, của mọi thứ trong đó, của vô ngã trong khổ – mang lại lợi ích lớn. AN.iv.46.
 
 ## Notes

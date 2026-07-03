@@ -5,7 +5,7 @@ base_headword: "Dhana"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhana 02. A banker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhana 02. Một trưởng giả của Benares, một tiền kiếp của Anuruddha. Tên ban đầu của ông là Annabhāra, nhưng một ngày nọ ông đã cúng dường vị Pacceka Buddha tên là Upariṭṭha, và, nhờ đó, được nhà vua ưu ái, phong cho ông địa vị *seṭṭhi*. Thag­a.ii.66.
 
 ## Notes

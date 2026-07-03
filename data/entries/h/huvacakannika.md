@@ -5,7 +5,7 @@ base_headword: "Huvācakaṇṇikā"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Huvācakaṇṇikā. A district in Ceylon where <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Huvācakaṇṇikā. Một quận ở Tích Lan, nơi Mahā Dāṭhika Mahā Nāga xây dựng *vihāra* Cūḷa Nāgapabbata (Mhv.xxxiv.90). Quận này nằm ở Rohaṇa. Mhv­ṭ. 637.
 
 ## Notes

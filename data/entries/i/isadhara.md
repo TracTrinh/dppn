@@ -5,7 +5,7 @@ base_headword: "Īsadhara"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -34,6 +34,8 @@ The *Mahā Vastu* (ii.300) calls it <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Īsadhara. Một trong bảy dãy núi bao quanh Sineru. Đó là nơi ở của các vị Vua *Deva* và của các Deva cùng các Yakkha (Snp-a.ii.443; Vin-a.i.119; Divy.217). Nó cao hơn Karavīka, và giữa hai ngọn núi này là một Sīdantarasamudda; kế tiếp Īsadhara và cao hơn nó là Yugandhara, và giữa chúng là một Sīdantarasamudda khác (Ja.vi.125).
+
+*Mahā Vastu* (ii.300) gọi nó là Iśāndhara (gợi ý về từ nguyên có khả năng xảy ra của nó).
 
 ## Notes

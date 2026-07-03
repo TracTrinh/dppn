@@ -5,7 +5,7 @@ base_headword: "Upādānasutta"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upādānasutta 04. On grasping and the things that encourage it. SN.iv.108.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādānasutta 04. Về sự chấp thủ và những thứ khuyến khích nó. SN.iv.108.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jhānasaṁyutta"
 disambiguator: "01"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -26,6 +26,6 @@ Jhānasaṁyutta 01. The twenty-fourth <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasaṁyutta 01. Saṁyutta thứ hai mươi tư của Saṁyuttanikāya. SN.iii.263-79.
 
 ## Notes

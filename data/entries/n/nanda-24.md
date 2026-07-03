@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "24"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nanda 24. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 24. Isigilisutta đề cập đến bốn vị Pacceka Buddha có tên này. MN.iii.70.
 
 ## Notes

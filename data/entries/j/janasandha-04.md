@@ -5,7 +5,7 @@ base_headword: "Janasandha"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Janasandha 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasandha 04. Con trai của Brahmadatta và vua xứ Benares; một hóa thân của Bodhisatta. Xem Janasandhajātaka (Ja 468).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhavilāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāraṭṭhavilāsinī or <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhavilāsinī hoặc Susaddasiddhi. Một bản *ṭīkā* về *Moggallānapañjikā* do Saṅgharakkhita của Tích Lan biên soạn. PLC. 200.
 
 ## Notes

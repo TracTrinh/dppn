@@ -5,7 +5,7 @@ base_headword: "Sañjīva"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sañjīva 02. A *Niraya*. Beings born there are subjected to numerous tortures, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjīva 02. Một địa ngục (*Niraya*). Những chúng sinh sinh ra ở đó phải chịu đựng vô số sự tra tấn, nhưng vẫn xoay sở để sống sót qua chúng; do đó có tên gọi này. Ja.v.266, 270.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Guttilavimāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Guttilavimāna. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guttilavimāna. Moggallāna viếng thăm Tāvatiṁsa và, khi thấy ba mươi sáu vị thiên nữ có cung điện nằm cạnh nhau, đã hỏi họ về những hành động của họ trong quá khứ, và trình báo những câu trả lời của họ lên Đức Phật. Đức Phật trả lời rằng chính những thiên nữ này đã ở Tāvatiṁsa vào thời điểm diễn ra chuyến viếng thăm của Guttila; sau đó Ngài tiếp tục thuật lại câu chuyện về Guttila. Vv.iii.5; Vv-a.137ff.
 
 ## Notes

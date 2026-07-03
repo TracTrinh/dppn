@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhammakitti 04. Author of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 04. Tác giả của cuốn Dāṭhāvaṁsa. Ngài đã viết cuốn sách này trong triều đại của Līlāvati, theo yêu cầu của vị đại thần của bà là Parakkama, người từng là nhà bảo trợ của ngài. Dhammakitti nói về mình như một học trò của Sāriputta (ở Pulatthipura) (PLC.207f; Gv.62, 67). Ngài có lẽ là cùng một người với Dhammakitti I. PLC.215.
 
 ## Notes

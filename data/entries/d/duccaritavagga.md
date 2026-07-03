@@ -5,7 +5,7 @@ base_headword: "Duccaritavagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Duccaritavagga. The twenty-fifth chapter of the *Pañcakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duccaritavagga. Chương thứ hai mươi lăm của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.267-70.
 
 ## Notes

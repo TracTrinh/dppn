@@ -5,7 +5,7 @@ base_headword: "Sāṇavāsī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sāṇavāsī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāṇavāsī, Sāṇavāsika. Một danh xưng của Trưởng lão Sambhūta (xem mục này).
 
 ## Notes

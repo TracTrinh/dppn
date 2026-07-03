@@ -5,7 +5,7 @@ base_headword: "Sapatta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sapatta. An eminent nun, expert in the Vinaya in Ceylon. Dpv.xviii.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị tỳ-kheo-ni xuất chúng, tinh thông Vinaya ở Ceylon. Dpv.xviii.29.
 
 ## Notes

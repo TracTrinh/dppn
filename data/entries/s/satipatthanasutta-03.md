@@ -5,7 +5,7 @@ base_headword: "Satipaṭṭhānasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satipaṭṭhānasutta 03. The four *satipaṭṭhāna*s form the path that goes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satipaṭṭhānasutta 03. Bốn *satipaṭṭhāna* tạo thành con đường đi đến trạng thái “Vô vi”. SN.iv.360.
 
 ## Notes

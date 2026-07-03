@@ -5,7 +5,7 @@ base_headword: "Devasabha Thera"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devasabha Thera 02. Một vị *Arahant*. Ngài là người Sākiyan xứ Kapilavatthu. Ngài đã chứng kiến Đức Phật dàn xếp cuộc tranh cãi giữa những người Sākiyan và những người Koḷiyan và đã an trú trong Tam bảo. Về sau ngài đã đến thăm Đức Phật tại Nigrodhārāma và gia nhập Tăng đoàn, sau đó đạt quả vị *Arahant*.
+
+Vào thời của Đức Phật Sikhī ngài là một gia chủ và đã cúng dường Đức Phật những bông hoa *bandhujīvaka*. Bảy *kappa* trước, ngài là một vị vua tên là Samantacakkhu (Thag.v.100; Thag­a.i.203f).
+
+Ngài có lẽ là cùng một người với Bandhujīvaka của Apadāna. Ap.i.175f.
 
 ## Notes

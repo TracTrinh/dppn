@@ -5,7 +5,7 @@ base_headword: "Dinna"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dinna. Probably an attendant of King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dinna. Có lẽ là một người hầu cận của Vua Milinda. Mil., p.56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅgha"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgha 01. An astrologer (*saṁvaccarikanāyaka*) who predicted the destiny o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgha 01. Một nhà chiêm tinh (*saṁvaccarikanāyaka*), người đã dự đoán vận mệnh của Kitti (sau này là Vijayabāhu I.). Chính lời dự đoán này đã khiến Buddharāja ủng hộ Kitti. Cv.lvii.48.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saraṇaṅkara"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Saraṇaṅkara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇaṅkara 01. Đức Phật Saraṇaṅkara. Vị Phật xuất hiện trên thế gian ngay trước Đức Phật Dīpaṅkara. Bv.xxvii.1; Ja.i.44; MN­a.i.188.
 
 ## Notes

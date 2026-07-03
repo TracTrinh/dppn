@@ -5,7 +5,7 @@ base_headword: "Saraggāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Saraggāma. A village in the district of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở quận Mahā Tila, thuộc Dakkhiṇadesa của Ceylon, được đề cập trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxvi.71; lxvii.59,79.
 
 ## Notes

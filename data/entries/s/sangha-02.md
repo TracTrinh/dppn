@@ -5,7 +5,7 @@ base_headword: "Saṅgha"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅgha 02. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgha 02. Cha của Sūranimmila; ông là cha của bảy người con trai và sống ở Khaṇḍaviṭṭhika. Mhv.xxiii.19.
 
 ## Notes

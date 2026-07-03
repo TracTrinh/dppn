@@ -5,7 +5,7 @@ base_headword: "Pallavakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pallavakā. The name of a tribe, occurring in a nominal list. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pallavakā. Tên gọi của một bộ tộc, xuất hiện trong một bản danh sách ghi tên. Ap.ii.359.
 
 ## Notes

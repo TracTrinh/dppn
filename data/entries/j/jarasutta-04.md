@@ -5,7 +5,7 @@ base_headword: "Jarāsutta"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jarāsutta 04. The Buddha sits, one afternoon, outside the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāsutta 04. Vào một buổi chiều, Đức Phật đang ngồi bên ngoài Migāramātupāsāda, sưởi ấm chân tay mình dưới ánh nắng mặt trời, và Ānanda, trong lúc đang dùng hai bàn tay xoa bóp tay chân của Đức Phật, đã nói với ngài rằng làn da của ngài không còn sáng sủa nữa, tay chân ngài đã trở nên rũ rượi và cơ thể ngài đã khom xuống. Đức Phật giải thích rằng đây chỉ là điều tự nhiên, tuổi già luôn gắn liền với tuổi trẻ và sự suy tàn cùng với cái chết là những điều không thể tránh khỏi. SN.v.216.
 
 ## Notes

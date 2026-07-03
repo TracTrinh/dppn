@@ -5,7 +5,7 @@ base_headword: "Nakulajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ The story was related to two of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulajātaka (Ja 165). Bodhisatta có lần là một tu sĩ ở Himalayas. Gần nơi đi kinh hành của ngài có một con cầy mangut và một con rắn sống và chúng luôn cãi vã. Ngài đã thuyết giảng cho chúng về những đức hạnh của tình bằng hữu và đã xua tan sự nghi ngờ của chúng đối với nhau.
+
+Câu chuyện được kể liên quan đến hai vị quan của Pasenadi, những người luôn cãi vã. Để biết chi tiết, xem Uragajātaka (Ja 154). Hai nhà quý tộc được đồng nhất với hai con vật. Ja. ii. 52 ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Diyavāsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Diyavāsa. A Brahmin. The boundary of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Diyavāsa. Một người Bà-la-môn. Ranh giới của Mahā Vihāra đã đi qua nhà ông. Mbv.135; Mhv., p.332, vs.14.
 
 ## Notes

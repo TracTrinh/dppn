@@ -5,7 +5,7 @@ base_headword: "Guṇajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -35,6 +35,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇajātaka (Ja 157). Bodhisatta từng là một con Sư tử, và một ngày nọ khi đang đi săn, ngài đã bị lún vào một đầm lầy và mắc kẹt ở đó chịu đói trong bảy ngày cho đến khi được một con Chó rừng cứu. Để bày tỏ lòng biết ơn, Sư tử đã đưa Chó rừng và vợ của nó về nhà mình, và hai con vật cùng vợ của chúng sống cùng nhau, Sư tử và Chó rừng cùng nhau đi săn. Về sau, Sư tử cái trở nên ghen tị với Chó rừng cái và cố gắng dọa đuổi nó đi khi những người chồng của chúng vắng mặt. Khi Sư tử nghe được điều này, ngài đã kể cho vợ nghe cách Chó rừng đã kết bạn giúp đỡ ngài trong giờ phút hiểm nghèo, và từ đó trở đi tất cả bọn chúng chung sống hạnh phúc bên nhau.
+
+Chó rừng được đồng nhất với Ānanda.
+
+Câu chuyện này được kể lại liên quan đến một món quà do Ānanda trao tặng. Một lần nọ, khi ngài đang thuyết pháp cho những người phụ nữ trong cung điện của Pasenadi, họ đã tặng ngài năm trăm bộ y mới mà nhà vua vừa ban cho họ. Nhà vua khi nghe điều này lúc đầu đã tỏ ra bực mình, nhưng sau khi gạn hỏi Ānanda, ông thấy hài lòng rằng không có món quà nào cúng dường cho Tăng đoàn lại bị lãng phí. Vui mừng với phát hiện này, đích thân nhà vua đã tặng năm trăm bộ y cho Ānanda, tất cả số đó Ānanda lại đem tặng cho một vị tỳ-kheo trẻ tuổi, người rất hữu ích và hay giúp đỡ ngài. Vị tỳ-kheo này, đến lượt mình, đã phân phát chúng cho những vị đồng phạm hạnh, những người ngạc nhiên tự hỏi tại sao Ānanda lại ưu ái chọn riêng một vị tỳ-kheo làm người nhận quà của ngài. Khi sự việc được kể lại với Đức Phật, Ngài trấn an các tỳ-kheo rằng món quà được Ānanda tặng cho vị tỳ-kheo đó chỉ để đền đáp vô số sự phục vụ (Ja.ii.23ff).
+
+Jātaka này cũng được gọi là Sīhajātaka, và có lẽ cũng là Sigālajātaka, ví dụ, trong Ja.ii.314.
 
 ## Notes

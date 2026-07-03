@@ -5,7 +5,7 @@ base_headword: "Pahārādasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pahārādasutta. Preached at the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahārādasutta. Được thuyết giảng tại Naḷerupucimandamūla ở Verañjā nơi Pahārāda (*q.v.*) viếng thăm Đức Phật. Để trả lời một câu hỏi, Pahārāda thưa với Đức Phật rằng có tám đặc tính kỳ diệu của đại dương, nhờ đó mà các Asura thích thú với nó. Đức Phật nói cho ông nghe tám đặc tính tương tự trong giáo pháp và giới luật của Ngài, nhờ đó mà các tỳ-kheo tìm thấy niềm vui trong đó. AN.iv.197ff.
 
 ## Notes

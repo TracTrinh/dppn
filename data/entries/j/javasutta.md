@@ -5,7 +5,7 @@ base_headword: "Javasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -23,6 +23,6 @@ Javasutta. The four qualities which make a king’s thoroughbred worthy – stra
 
 ## Vietnamese translation
 
-Chưa dịch.
+Javasutta. Bốn phẩm chất tạo nên một con ngựa thuần chủng xứng đáng của nhà vua – sự thẳng thắn, tốc độ, sự kiên nhẫn và sự ngoan ngoãn – và bốn phẩm chất tương tự của một tỳ-kheo xứng đáng (AN.ii.113).
 
 ## Notes

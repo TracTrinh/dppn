@@ -5,7 +5,7 @@ base_headword: "Padumaccharā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumaccharā. A name given to the nymphs who danced in the lotus blossoms, whic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumaccharā. Tên gọi các thiên nữ múa hát trong những đóa hoa sen mọc ở các hồ nước giữa những ngà của voi Erāvaṇa. Snp­a.i.369.
 
 ## Notes

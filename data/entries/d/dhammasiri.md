@@ -5,7 +5,7 @@ base_headword: "Dhammasiri"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasiri. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasiri. Một vị tỳ-kheo ở Anurādhapura, tác giả của Khuddasikkhā. Ngài có lẽ sống vào khoảng thế kỷ thứ tư CN. Gv.61, 70; Svd.1206; PLC.77.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udakavana"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Udakavana. The name of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên công viên của Vua Udena tại Kosambī nằm trên dòng sông. Đó là một địa điểm yêu thích của Piṇḍola Bhāradvāja, người thường dành trọn ngày ở đó. Trong một dịp khi ngài đang ở đó, Udena đã cùng với các phụ nữ của cung điện đến khu vui chơi để giải trí. Khi nhà vua chìm vào giấc ngủ, các phụ nữ đã đi lang thang quanh công viên và, nhìn thấy Piṇḍola, họ đã đi đến chỗ ngài và ngài đã thuyết pháp cho họ. Nhà vua, khi tỉnh dậy, đã nổi cơn thịnh nộ vì phát hiện ra các phụ nữ vắng mặt và, khi biết được nguyên nhân, đã đi đến chỗ Piṇḍola và chất vấn ngài. Piṇḍola, biết rằng nhà vua không có mong muốn học hỏi, đã ngồi im lặng. Nhà vua, trong cơn giận dữ lớn, đã đe dọa sẽ quăng một lưới kiến đỏ lên Trưởng lão, nhưng trước khi ông có thể thực hiện lời đe dọa của mình, Piṇḍola đã biến mất qua không trung (Snp-a.ii.514f; SN­a.iii.27f).
 
 ## Notes

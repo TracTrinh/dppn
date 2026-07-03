@@ -5,7 +5,7 @@ base_headword: "Saṅkhapāla"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkhapāla 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhapāla 02. Một vị vua của Ekabala. Mahosadha (xem mục này), nghe tin rằng ông ta đang thu thập vũ khí và tập hợp một đội quân, đã cử một con vẹt đi tìm hiểu về chuyện đó. Con vẹt báo cáo rằng không có lý do gì để sợ hãi Saṅkhapāla. Ja.vi.390.
 
 ## Notes

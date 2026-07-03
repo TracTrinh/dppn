@@ -5,7 +5,7 @@ base_headword: "Ubbarī"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -52,6 +52,8 @@ Having recollected her past births from some words uttered by the Elder <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một công chúa. Vào thời của Đức Phật Kakusandha, bà là một con gà mái. Sau khi nghe một vị tỳ-kheo đọc lại một câu thiền ngữ, bà tái sinh làm một công chúa hoàng gia và được đặt tên là Ubbarī. Nhìn thấy một đống giòi trong nhà vệ sinh, bà đã thiền định về nó và nhập vào jhāna thứ nhất và được sinh ra ở cõi Phạm thiên. Vào thời của Gotama Buddha, bà tái sinh làm một con lợn nái ở Rājagaha, và Đức Phật, nhìn thấy nó, đã mỉm cười và kể lại quá khứ của nó cho Ānanda. Sau đó, bà được sinh ra trong hoàng gia ở Suvaṇṇabhūmi, rồi, liên tiếp, trong nhà của một người buôn ngựa ở Suppāraka và trong gia đình của một thủy thủ ở Kāvīra. Sau đó, bà tái sinh trong nhà của một quý tộc ở Anurādhapura, và một lần nữa ở làng Bokkanta ở Nam Tích Lan, là con gái của một gia chủ tên là Sumana. Bà được gọi là Sumanā, theo tên của cha bà. Khi cha bà chuyển đến làng Mahā Muni ở Dīghavāpi, Lakuṇṭaka Atimbara, tể tướng của Duṭṭhagāmaṇī, đã gặp và kết hôn với bà, và bà chuyển đến sống ở Mahā Puṇṇa.
+
+Sau khi nhớ lại các kiếp trước của mình từ vài lời được thốt ra bởi Trưởng lão Anula của Koṭipabbata, bà đã gia nhập Tăng đoàn của các tỳ-kheo-ni Pañcabalaka. Tại Tissamahārāma, bà đã nghe Mahā Satipaṭṭhānasutta và trở thành một Sotāpanna. Sau đó, khi đã nghe Āsīvisopamasutta ở Kallaka Mahā Vihāra, bà chứng đạt quả vị Arahant. Vào ngày viên tịch, bà đã kể lại câu chuyện của mình, trước tiên cho các tỳ-kheo-ni và sau đó trong hội chúng, trước sự hiện diện của Trưởng lão Mahā Tissa của Maṇḍalārāma. Dhp­a.iv.46ff.
 
 ## Notes

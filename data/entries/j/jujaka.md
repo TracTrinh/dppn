@@ -5,7 +5,7 @@ base_headword: "Jūjaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -38,6 +38,10 @@ The wife of the Brahmin who went for alms to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jūjaka. Một vị Bà-la-môn của Dunniviṭṭha ở Kāliṅga. Ông ta được giao cho một thiếu nữ trẻ để trừ một khoản nợ, nhưng bởi vì cô được khen ngợi về những đức hạnh của mình, những người vợ khác trong làng trở nên ghen tị với cô và chế nhạo cô là cục cưng của một ông già. Sau đó cô từ chối đi đến giếng của làng, và gợi ý rằng Jūjaka nên có được những đứa con của Vessantara làm nô lệ, người khi đó đang sống như một vị khổ hạnh ở Vaṅkagiri.
+
+Sau nhiều cuộc phiêu lưu, Jūjaka đã tìm thấy Vessantara, được phép có hai đứa trẻ, Jāli và Kaṇhajinā, và sau khi trói tay chúng lại với nhau, ông ta đã đưa chúng đi. Sau khi ông ta đi được sáu mươi do-tuần, các vị chư thiên đã dẫn ông ta đến Jetuttara, nơi ông nội của những đứa trẻ đang cai trị với tư cách là vua. Nhà vua đã mua lại những đứa trẻ từ Jūjaka với một cái giá rất lớn và ban cho ông ta những loại thức ăn hảo hạng để ăn. Jūjaka, do ăn quá nhiều và không thể tiêu hóa được thức ăn, đã chết ngay tại chỗ (Ja.vi.521-81). Ông ta được đồng nhất với Devadatta (Ja.vi.593).
+
+Người vợ của vị Bà-la-môn, người đã đi khất thực đến Bāvarī, là một hậu duệ của Jūjaka. Những hậu duệ của ông ta vẫn còn sống ở Dunniviṭṭha, ngay cả vào thời của Đức Phật (AN­a.i.183).
 
 ## Notes

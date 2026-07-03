@@ -5,7 +5,7 @@ base_headword: "Nakulanagara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nakulanagara. A village in Ceylon, near <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulanagara. Một ngôi làng ở Tích Lan, gần Guttasāla. Khi Guttasāla bị băng cướp tiêu diệt, một *Arahant* Therī (Trưởng lão ni), cùng với một ni cô trẻ, đã đến ngôi làng này, và tại đó bà đã được nhìn thấy bởi Trưởng lão Mahā Nāga của Kāḷavallimaṇḍapa, đang ngồi dưới gốc cây. Trưởng lão đã dâng cúng thức ăn cho bà, nhưng bà không có bình bát, và Trưởng lão đã cho bà mượn chiếc bát của mình. Chúng ta được kể lại rằng, kết quả là, ngài chưa bao giờ gặp khó khăn trong việc khất thực. Dhs-a. 298 f.
 
 ## Notes

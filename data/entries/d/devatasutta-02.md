@@ -5,7 +5,7 @@ base_headword: "Devatāsutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devatāsutta 02. The Buddha tells the monks how, on various occasions, <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāsutta 02. Đức Phật kể cho các tỳ-kheo nghe trong nhiều dịp, chư thiên đã đến thăm ngài và thưa với ngài rằng họ cảm thấy hối hận sau khi chết vì đã không tôn kính các sa-môn trong lúc họ còn là con người. Những người khác, những người đã tôn kính các sa-môn, đã đạt được hạnh phúc. AN.iv.390f.
 
 ## Notes

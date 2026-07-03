@@ -5,7 +5,7 @@ base_headword: "Uluṅkasaddaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -29,6 +29,8 @@ His story is related in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uluṅkasaddaka. Biệt danh của một sa-di trẻ đã sống cùng với Mahā Kassapa và người về sau đã đốt cháy túp lều của vị Trưởng lão ở Rājagaha.
+
+Câu chuyện của chú được kể lại trong Kuṭidūsakajātaka (Ja 321). (Ja.iii.71ff).
 
 ## Notes

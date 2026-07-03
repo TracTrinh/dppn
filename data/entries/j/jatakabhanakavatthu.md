@@ -5,7 +5,7 @@ base_headword: "Jātakabhāṇakavatthu"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jātakabhāṇakavatthu. The Commentaries (e.g., Vibh­a.484) mention the story 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātakabhāṇakavatthu. Các Bản chú giải (ví dụ, Vibh­a.484) có nhắc đến câu chuyện về một người tụng đọc các Jātaka có một lần đã đi khất thực tại một ngôi nhà. Bà chủ của ngôi nhà đó, do không muốn bố thí, đã đi vào trong và quay trở ra, nói rằng bà không thể tìm thấy bất cứ hạt gạo nào. Vị tỳ-kheo này quan sát thấy trong nhà có những loại đồ ăn khác, và đã ra hiệu cho người phụ nữ đó biết về những gì ngài đã nhìn thấy, thông qua một câu đố.
 
 ## Notes

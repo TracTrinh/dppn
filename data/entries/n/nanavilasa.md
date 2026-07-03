@@ -5,7 +5,7 @@ base_headword: "Ñāṇavilāsa"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇavilāsa. Một tỳ-kheo người Lào, người đã viết Saṅkhyāpakāsaka. Bode: *op.cit.*, 47.
 
 ## Notes

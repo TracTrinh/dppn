@@ -5,7 +5,7 @@ base_headword: "Padumapokkharaṇī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padumapokkharaṇī. A pond in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumapokkharaṇī. Một hồ nước ở Anurādhapura nằm trong khuôn viên hoàng cung. Gần đó là Padumaghara. Mhv­ṭ.633.
 
 ## Notes

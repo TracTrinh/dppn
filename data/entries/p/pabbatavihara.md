@@ -5,7 +5,7 @@ base_headword: "Pabbatavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pabbatavihāra. A monastery built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatavihāra. Một tu viện do Moggallāna I xây dựng và được trao cho Trưởng lão Mahā Nāma của *vihāra* Dīghāsana (? Dīghasanda). Cv.xxxix.42.
 
 ## Notes

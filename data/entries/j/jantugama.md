@@ -5,7 +5,7 @@ base_headword: "Jantugāma"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -35,6 +35,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jantugāma. *v.l.* Janagāma. Một ngôi làng gần Cālikā; gần đó là con sông Kimikālā với một vườn xoài nằm trên bờ sông.
+
+Meghiya, trong khi đang lưu trú cùng với Đức Phật tại Cālikā, có một lần đã đi đến Jantugāma để khất thực (AN.iv.354; Ud.iv.1).
+
+Chú giải Aṅguttara (AN­a.i.163) nói rằng ngôi làng nằm ở Pācīnavaṁsamigadāya. Ud­a.217.
 
 ## Notes

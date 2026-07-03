@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,6 @@ Udaya 06. A brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người anh em của Sena I và vị *Ādipāda* của ông. Trong sự vắng mặt của nhà vua khỏi thủ đô, ông đã kết hôn với Nālā, con gái của cậu ông, và đưa bà đến Pulatthinagara, nhưng nhà vua đã tha thứ cho ông và sau đó, khi anh trai Mahinda của ông qua đời, đã đưa ông làm *Mahādipāda*, cử ông làm người cai trị của tỉnh phía Nam. Tuy nhiên, ngay sau đó, Udaya đã lâm bệnh và qua đời (Cv.l.6, 8, 44, 45). Theo một tấm bia ký, ông có một người con trai, người dưới thời Kassapa IV, đã trở thành *Mahā Lekhaka*. Xem Cv.Trs.i.138, n.3 và 142, n.1.
 
 ## Notes

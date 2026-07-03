@@ -5,7 +5,7 @@ base_headword: "Sattaṭṭhānasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattaṭṭhānasutta. Seven points, skill in which makes a monk who is an inves
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattaṭṭhānasutta. Bảy điểm, mà sự thông thạo về chúng làm cho một tỳ-kheo, người là một nhà nghiên cứu theo ba cách riêng biệt, có thể tuyên bố sự thành tựu trong Dhammavinaya (Pháp và Luật), một người đã đạt đến sự tinh thông (*vusitavā*), một bậc siêu nhân (*uttamapuriso*). SN.iii.61f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Santuṭṭha"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Santuṭṭha 02. A palace of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cung điện của Koṇāgamana Buddha trong đời sống cư sĩ cuối cùng của ngài. Bv.xxiv.18.
 
 ## Notes

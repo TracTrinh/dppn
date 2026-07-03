@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhammakitti 06. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 06. Được gọi là Dhammakitti Mahā Sāmi, tác giả của cuốn Saddhammasaṅgaha. Vị thầy của ngài cũng được gọi là Dhammakitti, rất nổi tiếng ở Tích Lan. Dhammakitti Mahā Sāmi đã đến Tích Lan từ Yodhapura (Ayojjha?) và, sau khi tạo được nhiều công đức, đã quay trở lại đó, nơi ngài sống trong Laṅkārāma, được xây dựng bởi Paramarāja. JPTS, 1890, p.90.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgita Thera"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgita Thera 01. Một *Arahant*. Ngài xuất thân từ một gia đình Sākiyan ở Kapilavatthu và đã gia nhập Tăng đoàn sau khi nghe sự thuyết giảng Madhupiṇḍikasutta.
+
+Vào thời của Đức Phật Padumuttara, ngài là một Bà-la-môn, tên là Nārada, và đã xướng lên ba bài kệ để tán thán Đức Phật. Có lần ngài từng là một vị vua tên là Sumitta (Thag.vs.86; Thag­a.i.183f). Ngài có lẽ được đồng nhất với Atthasandassaka của Apadāna (Ap.i.169).
 
 ## Notes

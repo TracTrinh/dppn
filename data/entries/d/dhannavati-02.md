@@ -5,7 +5,7 @@ base_headword: "Dhaññavatī"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhaññavatī 02. A city in the time of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaññavatī 02. Một thành phố vào thời của Paduma Buddha. Đó là nơi cư ngụ của Sudhaññaseṭṭhi, người có cô con gái, cũng được gọi là Dhaññavatī, đã cúng dường một bữa ăn cơm sữa cho Paduma, ngay trước Sự Giác Ngộ của ngài. Bv­a.147.
 
 ## Notes

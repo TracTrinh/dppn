@@ -5,7 +5,7 @@ base_headword: "Idhalokikasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -27,6 +27,8 @@ To achieve victory in this world a woman should have four qualities: she should 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Idhalokikasutta. Hai *Sutta* được Đức Phật thuyết cho Visākhā tại Migāramātupāsāda.
+
+Để đạt được sự thành tựu ở thế giới này, một người phụ nữ nên có bốn phẩm chất: cô ấy nên hoàn thành hiệu quả các bổn phận của mình với tư cách là một người nội trợ, nên giành được sự tôn trọng của những người hầu và tình cảm của chồng cô ấy, và nên trông coi tài sản của anh ấy. Đối với sự thành tựu ở thế giới tiếp theo, cô ấy nên sở hữu đức tin, giới hạnh, sự hào phóng và trí tuệ. AN.iv.269ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattigumbajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -34,6 +34,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattigumbajātaka (Ja 503). Hai con vẹt đã từng bị gió cuốn đi trong mùa thay lông. Một con rơi vào giữa những vũ khí trong một ngôi làng của bọn cướp và được gọi là Sattigumba; con còn lại rơi vào một ẩn thất giữa những bông hoa và được gọi là Pupphaka. Ngài là Bodhisatta. Một ngày nọ, Pañcāla, vua của Uttarapañcāla, đi săn. Trong khi đuổi theo con hươu cùng với người đánh xe của mình, ông đã bị lạc khỏi đội cận vệ và thấy mình đang ở trong một thung lũng hẹp gần ngôi làng của bọn cướp. Tại đó ông đã ngủ thiếp đi. Bọn cướp đã đi vắng, chỉ để lại Sattigumba và một người đầu bếp, tên là Patikolamba. Con vẹt, nhìn thấy nhà vua, đã âm mưu với người đầu bếp để giết ông. Nhà vua tình cờ nghe được kế hoạch và đã bỏ trốn cùng với người đánh xe của mình. Trong cuộc chạy trốn, ông đã đến ẩn thất, nơi ông được Pupphaka chào đón cho đến khi các nhà hiền triết trở về. Nhà vua kể lại câu chuyện của mình, và Pupphaka giải thích rằng mặc dù ngài và Sattigumba là anh em, sự nuôi dưỡng của chúng lại khác nhau, điều đó giải thích cho sự khác biệt trong bản tính của chúng. Nhà vua đã ban sắc lệnh miễn trừ (khỏi sự giết hại) cho tất cả loài vẹt và chu cấp cho sự thoải mái của các nhà hiền triết trong khu vườn của mình.
+
+Câu chuyện này được kể lại liên quan đến nỗ lực của Devadatta nhằm giết Đức Phật bằng cách ném một tảng đá vào Ngài. Sattigumba được đồng nhất với Devadatta và nhà vua với Ānanda. Ja.iv.430-7.
 
 ## Notes

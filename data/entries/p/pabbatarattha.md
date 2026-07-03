@@ -5,7 +5,7 @@ base_headword: "Pabbataraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pabbataraṭṭha. A district in the centre of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbataraṭṭha. Một khu vực nằm ở trung tâm của Videharaṭṭha. Tại khu vực này có thành phố Dhammakoṇḍa, nơi ở của Dhaniya. Snp­a.i.26.
 
 ## Notes

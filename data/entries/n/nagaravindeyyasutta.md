@@ -5,7 +5,7 @@ base_headword: "Nagaravindeyyasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nagaravindeyyasutta. Preached to the Brahmins of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagaravindeyyasutta. Được thuyết giảng cho các Bà-la-môn của Nagaravinda. Người ta chỉ nên tôn vinh và tôn kính những du sĩ đã rũ bỏ được tham, sân và si, có một trái tim tĩnh lặng, và bước đi trên các đạo lộ chân chính. Những du sĩ như vậy cư ngụ ở những nơi viễn ly xa xôi, nơi không tồn tại bất kỳ thứ gì có thể kích động các giác quan của họ. MN.iii.290ff.
 
 ## Notes

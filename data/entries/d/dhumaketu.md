@@ -5,7 +5,7 @@ base_headword: "Dhūmaketu"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhūmaketu. Thirteen *kappas* ago there were eight kings of this name, all previ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūmaketu. Mười ba *kappa* trước có tám vị vua mang tên này, tất cả đều là các tiền kiếp của Tivaṇṭipupphiya. Ap.i.196.
 
 ## Notes

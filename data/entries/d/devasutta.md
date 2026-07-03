@@ -5,7 +5,7 @@ base_headword: "Devasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devasutta. The struggle of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devasutta. Cuộc chiến đấu của chư thiên và các Asura cũng điển hình như cuộc chiến đấu của các tỳ-kheo với Māra; thỉnh thoảng chiến thắng thuộc về bên này, thỉnh thoảng thuộc về bên kia, cho đến khi kẻ thù bị đè bẹp hoàn toàn và trở nên vô dụng. AN.iv.432f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Padumavatī"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padumavatī 02. A courtesan of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumavatī 02. Một kỹ nữ ở Ujjenī, người sau này trở thành Therī Abhayamātā.
 
 ## Notes

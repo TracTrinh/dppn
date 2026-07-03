@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "08"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 08. One of the chief women supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 08. Một trong những nữ cư sĩ hộ độ chính của Kakusandha Buddha. Bv.xxiii.22.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ratanāvalī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -38,6 +38,8 @@ After her husband’s death, she lived with her children in <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanāvalī. Một trong năm người con gái của Vijayabāhu I. và Tilokasundarī (Cv.lix.31). Các nhà tiên tri đã tiên đoán rằng chỉ riêng bà, trong số những người con gái này, sẽ sinh hạ một bé trai và do đó sẽ trở thành người con cưng của nhà vua. Về sau bà kết hôn với Māṇābharaṇa, sinh cho ông hai người con gái Mittā và Pabhāvatī cùng một người con trai người sau này trở nên nổi tiếng với tên gọi Parakkamabāhu I. (Cv.lix.34ff., 44; lxii.3, 12ff).
+
+Sau cái chết của chồng, bà cùng các con sống ở Mahā Nāgahula, dưới sự che chở của anh/em trai chồng, Sirivallabha (Cv.lxiii.4). Về sau, bà đến và sống tại triều đình của anh/em trai ông này, Kittisirimegha (Cv.lxvii.75ff). Bà mất tại Khīragāma và được hỏa táng tại đó. Parakkamabāhu đã dựng lên Ratanāvalicetiya để tưởng nhớ bà. Cv.lxxix.71.
 
 ## Notes

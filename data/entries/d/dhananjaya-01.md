@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanañjaya 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 01. Vua của Benares. Về câu chuyện của ngài, xem Kāḷabāhujātaka (Ja 329). Ja.iii.97f.
 
 ## Notes

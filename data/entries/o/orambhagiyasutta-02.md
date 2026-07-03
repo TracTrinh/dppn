@@ -5,7 +5,7 @@ base_headword: "Orambhāgiyasutta"
 disambiguator: "02"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Orambhāgiyasutta 02. The five lower fetters could be destroyed by practising th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Orambhāgiyasutta 02. Năm hạ phần kiết sử có thể bị tiêu diệt bằng cách thực hành bốn *satipaṭṭhāna*. AN.iv.459.
 
 ## Notes

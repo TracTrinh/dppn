@@ -5,7 +5,7 @@ base_headword: "Saṅghatissa"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghatissa 03. A viceroy (*Uparāja*) of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghatissa 03. Một vị phó vương (*Uparāja*) của Aggabodhi IV. Ông đã xây dựng *pariveṇa* Uparājaka. Cv.xlvi.24.
 
 ## Notes

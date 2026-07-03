@@ -5,7 +5,7 @@ base_headword: "Ubbhaṭaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -32,6 +32,8 @@ Ubbhaṭaka. A mote-hall built by the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hội trường được xây dựng bởi những người Malla của Pāvā. Khi nó được hoàn thành, họ đã mời Gotama Buddha làm người ở đầu tiên của nó. Đức Phật đã cùng với các tỳ-kheo đến và trải qua đêm ở trong hội trường. Chính trong dịp này mà Sāriputta đã tụng Saṅgītisutta (DN.iii.207ff).
+
+Buddhaghosa nói (DN­a.iii.971) rằng hội trường được gọi như vậy (“Kẻ được ném lên cao”) vì chiều cao tuyệt vời của nó.
 
 ## Notes

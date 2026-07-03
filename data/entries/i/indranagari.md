@@ -5,7 +5,7 @@ base_headword: "Indranagarī"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Indranagarī. The capital of Indra (Cv.lxxxviii.121), evidently another name for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indranagarī. Thủ đô của Indra (Cv.lxxxviii.121), rõ ràng là một tên gọi khác của Amarāvatī.
 
 ## Notes

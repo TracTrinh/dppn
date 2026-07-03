@@ -5,7 +5,7 @@ base_headword: "Devatāvagga"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devatāvagga 02. The seventh chapter of the same. AN.iii.421-9.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāvagga 02. Chương thứ bảy của cùng tập trên. AN.iii.421-9.
 
 ## Notes

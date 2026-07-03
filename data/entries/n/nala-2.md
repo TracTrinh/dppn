@@ -5,7 +5,7 @@ base_headword: "Nāla"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -40,6 +40,8 @@ It was also the birthplace of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāla, Nālaka, Nālika (Nāḷa, Nāḷaka, Nāḷika). Một ngôi làng Bà-la-môn ở Magadha, cách Rājagaha không xa. Đó là thị trấn của những người nhà Upatissa (do đó còn được gọi là Upatissagāma), và chính tại đó Sāriputta và các thành viên khác trong gia đình của ngài đã được sinh ra (SN­a.ii.172; Thag­a.i.108; ii.93; Thīg­a.162; Vv-a.149, 156, 158, 164; *Mahā Vastu* (Mvu.iii. 56) gọi nó là Nālanda).
+
+Nó cũng là nơi sinh của Mahā Gavaccha (Thag­a.i.57). Sāriputta dường như vẫn tiếp tục cư ngụ ở đó tùy lúc, thậm chí sau khi ngài đã gia nhập Tăng đoàn (xem các cuộc thảo luận của ngài với Jambukhādaka (SN.iv.251) và với Sāmaṇḍakāni (AN.v.120,121); Dhp­a.iv.164f.), và khi cái chết của ngài đến gần, ngài đã quay trở lại Nālakagāma và, sau khi giúp mẹ mình trở thành một *Sotāpanna* (bậc Dự lưu), đã viên tịch trong căn phòng nơi ngài được sinh ra (SN.v.161; Ja.i.391; v.125; Ud­a.322, v.v.)
 
 ## Notes

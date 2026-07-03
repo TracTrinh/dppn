@@ -5,7 +5,7 @@ base_headword: "Dussīlasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dussīlasutta 01. For the wicked who lack virtue, right concentration is perforc
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussīlasutta 01. Đối với những kẻ xấu ác thiếu giới đức, chánh định tất yếu bị phá hủy, và điều này cuối cùng dẫn đến sự phá hủy của tri kiến giải thoát, giống như một cái cây không có cành và lá cuối cùng sẽ bị chết.
 
 ## Notes

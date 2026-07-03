@@ -5,7 +5,7 @@ base_headword: "Ratanāvalicetiya"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ratanāvalicetiya 01. Another name for the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanāvalicetiya 01. Một tên gọi khác của Mahā Thūpa (*q.v.*).
 
 ## Notes

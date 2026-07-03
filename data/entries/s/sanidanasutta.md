@@ -5,7 +5,7 @@ base_headword: "Sanidānasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sanidānasutta. Sense desires, ill-will, renunciation, etc., all arise with casu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sanidānasutta. Các dục tham, ác ý, sự xuất ly, v.v., tất cả đều khởi lên với nền tảng có nguyên nhân. SN.ii.151f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammasaṅgaha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,10 @@ Its Commentary is also referred to as the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasaṅgaha. Rõ ràng đây là một cái tên khác và sớm hơn cho Dhammasangaṇi.
+
+Cái tên này xuất hiện trong Sumaṅgalavilāsini (DN­a.i.17) trong việc phân loại các cuốn sách thuộc tạng Abhidhamma.
+
+Bản Chú giải của nó cũng được nhắc đến là Dhammasaṅgahaṭṭhakathā, vd., Vibh­a.391, 43, 105, 518; Paṭis-a.405.
 
 ## Notes

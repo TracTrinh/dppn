@@ -5,7 +5,7 @@ base_headword: "Saṅghupaṭṭhāka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghupaṭṭhāka Thera. An *Arahant*. He was a servant in the monastery of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghupaṭṭhāka Thera. Một bậc *Arahant*. Ông là một người hầu trong tu viện của Vessabhū Buddha và đã phục vụ Tăng đoàn với lòng sùng kính lớn lao. Bảy *kappa* trước, ông làm vua bảy lần, dưới tên gọi Samotthata. Ap.i.191.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dvattiṁsākāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dvattiṁsākāra. The third section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvattiṁsākāra. Phần thứ ba của Khuddakapāṭha – bàn về ba mươi hai bộ phận cấu thành của cơ thể. Khp.p.2; Khp-a.37ff.
 
 ## Notes

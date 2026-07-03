@@ -5,7 +5,7 @@ base_headword: "Dhammasavaṇiya"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasavaṇiya. Một vị Thera đã đạt quả vị *Arahant* ở tuổi lên bảy, sau khi nghe Phật giảng bài kệ bắt đầu bằng “*aniccā vata saṅkhārā*.”
+
+Vào thời của Padumuttara Buddha, ngài là một Jaṭila đang bay trong không trung thì buộc phải hạ xuống nơi vị Phật đang ngồi thuyết pháp, vì không thể bay qua phía trên ngài. Sau đó ngài tái sinh ở Tāvatiṁsa. Ap.i.273f.
 
 ## Notes

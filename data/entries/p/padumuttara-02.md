@@ -5,7 +5,7 @@ base_headword: "Padumuttara"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Padumuttara 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumuttara 02. Một vị Pacceka Buddha. MN.iii.70.
 
 ## Notes

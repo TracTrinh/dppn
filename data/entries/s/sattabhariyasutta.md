@@ -5,7 +5,7 @@ base_headword: "Sattabhariyāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,8 @@ The Commentary says (AN­a.ii.724) that she was established in the Refuges; but 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattabhariyāsutta. Có lần, khi Đức Phật đến thăm nhà của Anāthapiṇḍika, Ngài nghe thấy một tiếng ồn lớn, và khi Ngài hỏi lý do của việc này, Ngài được thông báo rằng đó là do con dâu của Anāthapiṇḍika, Sujātā, người xuất thân từ một gia đình giàu có và không chịu nghe lời khuyên của bất kỳ ai. Đức Phật đã cho gọi cô đến và nói cho cô biết về bảy kiểu người vợ trên thế gian – người vợ như kẻ sát nhân, người vợ như kẻ trộm, người vợ như bà chủ, người vợ như mẹ, người vợ như em gái, người vợ như người bạn đồng hành, người vợ như người hầu gái – và mô tả các phẩm chất của họ. Sujātā, vô cùng ấn tượng, đã nói rằng từ nay trở đi cô sẽ là một người vợ như người hầu gái (AN.iv.91f).
+
+Phần Chú giải nói (AN­a.ii.724) rằng cô đã được an lập vào Tam quy; nhưng xem Sujātā.
 
 ## Notes

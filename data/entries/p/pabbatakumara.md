@@ -5,7 +5,7 @@ base_headword: "Pabbatakumāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pabbatakumāra. The son of Dhananda. He was kidnapped by <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatakumāra. Con trai của Dhananda. Chàng bị Cāṇakka bắt cóc và được nuôi dưỡng cùng với người được ông bảo trợ là Candagutta. Khi phát hiện ra rằng Pabbata yếu kém hơn, ông đã bày mưu để ám sát chàng trong lúc chàng đang ngủ. Để biết chi tiết, xem Mhv­ṭ.183ff.
 
 ## Notes

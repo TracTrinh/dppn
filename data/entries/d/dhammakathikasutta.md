@@ -5,7 +5,7 @@ base_headword: "Dhammakathikasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammakathikasutta. A monk questions the Buddha as to who is a real teacher of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakathikasutta. Một vị tỳ-kheo thỉnh vấn Đức Phật về việc ai là một vị thầy thực sự của Pháp và Đức Phật trả lời. SN.ii.18.
 
 ## Notes

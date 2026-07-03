@@ -5,7 +5,7 @@ base_headword: "Nakulapitāsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nakulapitāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulapitāsutta 01. Nakulapitā đến thăm Đức Phật tại Bhesakalāvana và cầu xin một lời dạy để an ủi ông vì hiện tại ông đã già và thường xuyên ốm đau. Đức Phật khuyên ông nên rèn luyện tâm trí. Nakulapitā, sau đó đến thăm Sāriputta và yêu cầu ngài giải thích lời dạy của Đức Phật về điểm này. Sāriputta giải thích chi tiết rằng việc rèn luyện tâm trí có nghĩa là loại bỏ những suy nghĩ về cái tôi liên quan đến các *khandha* (uẩn). SN.iii.1 ff.
 
 ## Notes

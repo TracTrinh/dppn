@@ -5,7 +5,7 @@ base_headword: "Gotamīsutta"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gotamīsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamīsutta 01. Māra thấy Kisā Gotamī đang nghỉ ngơi một mình trong Andhavana và cố làm bà sợ hãi, nhưng ông ta buộc phải rút lui trong sự bối rối. SN.i.129.
 
 ## Notes

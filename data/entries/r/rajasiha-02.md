@@ -5,7 +5,7 @@ base_headword: "Rājasīha"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rājasīha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasīha 02. Rājasīha II. Con trai út của Vua Senāratana. Ông tước đoạt quyền lực của anh trai mình và trở thành vua; nhiều câu chuyện về sự dũng mãnh của ông được kể lại (ví dụ, Cv.xcvi.7ff). Ông trị vì năm mươi hai năm (1635-87 TL), và thủ đô của ông ở Sirivaḍḍhanapura. Ông lấy các người vợ từ hoàng gia ở Madhurā. Trong thời của ông, người Hà Lan đã đến Tích Lan và đòi tiền cống nạp. Con trai ông là Vimaladhammasūriya. Cv.xcv.23; xcvi.3ff.; xcix.109.
 
 ## Notes

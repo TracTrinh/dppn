@@ -5,7 +5,7 @@ base_headword: "Dutiyamakkaṭajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dutiyamakkaṭajātaka. See <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dutiyamakkaṭajātaka. Xem Dūbhiyamakkaṭajātaka (Ja 174) ??
 
 ## Notes

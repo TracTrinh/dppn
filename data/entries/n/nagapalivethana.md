@@ -5,7 +5,7 @@ base_headword: "Nāgapaliveṭhana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgapaliveṭhana. One of the seven mountain ranges which must be crossed in or
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgapaliveṭhana. Một trong bảy dãy núi phải vượt qua để đến được Gandhamādana. Snp­a.i.66.
 
 ## Notes

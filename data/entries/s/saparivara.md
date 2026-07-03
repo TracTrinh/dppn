@@ -5,7 +5,7 @@ base_headword: "Saparivāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saparivāra. A king of twenty-seven *kappas* ago, a previous birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua của hai mươi bảy *kappa* trước, một tiền kiếp của Paccuggamanīya Thera. Ap.i.240.
 
 ## Notes

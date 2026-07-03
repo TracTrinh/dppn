@@ -5,7 +5,7 @@ base_headword: "Jātattaginidāna"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jātattaginidāna. A work ascribed to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātattaginidāna. Một tác phẩm được gán cho Cūḷa Buddhaghosa. Gv.63.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sarasigāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sarasigāma. A village of Ceylon, the centre of a monastic establishment and the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarasigāma. Một ngôi làng của Tích Lan, trung tâm của một cơ sở tu viện và là trụ sở của hội huynh đệ Vilgammūla (Sarasigāmamūla). Xem Sarogāmatittha. PLC. 253.
 
 ## Notes

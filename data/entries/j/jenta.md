@@ -5,7 +5,7 @@ base_headword: "Jentā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Jentā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jentā, Jentī. Con gái của một gia đình vương giả thuộc tộc Licchavī ở Vesālī. Phần còn lại trong câu chuyện của bà giống với chuyện của Abhirūpanandā (*q.v.*), và bà đã chứng quả vị *Arahant* sau khi nghe Đức Phật thuyết pháp. Thīg.vs.21f; Thag­a.27f.
 
 ## Notes

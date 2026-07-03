@@ -5,7 +5,7 @@ base_headword: "Dvādasasahassaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dvādasasahassaka. A district in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvādasasahassaka. Một quận ở Rohaṇa, Giruvāpattu ngày nay. Ý nghĩa của tên gọi này là tỉnh của mười hai ngàn ngôi làng (Cv.lxi.22; lxxv.160, 166; Cv.Trs.i.227, n.2).
 
 ## Notes

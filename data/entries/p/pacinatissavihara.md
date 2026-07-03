@@ -5,7 +5,7 @@ base_headword: "Pācīnatissavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pācīnatissavihāra. A *vihāra* probably near <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnatissavihāra. Một *vihāra* có lẽ nằm ở gần Jambukola. Khi cây Bodhi đến Tích Lan, nó đã được mang đến đó vào ngày thứ mười. Mbv.158.
 
 ## Notes

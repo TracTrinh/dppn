@@ -5,7 +5,7 @@ base_headword: "Pajānasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pajānasutta 01. It is impossible to destroy <span class="dppn-term dppn-term-t2
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajānasutta 01. Không thể nào đoạn tận khổ đau mà không liễu tri con mắt, cái mũi, v.v. SN.iv.89.
 
 ## Notes

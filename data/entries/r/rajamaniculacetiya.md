@@ -5,7 +5,7 @@ base_headword: "Rājamaṇicūḷacetiya"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rājamaṇicūḷacetiya. A *cetiya* in Sagaing. Bode, 55.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājamaṇicūḷacetiya. Một *cetiya* ở Sagaing. Bode, 55.
 
 ## Notes

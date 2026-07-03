@@ -5,7 +5,7 @@ base_headword: "Diddhasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Diddhasutta (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Diddhasutta* (*v.l.* Diṭṭhasutta). Lợi đắc, danh vọng và sự tâng bốc giống như một mũi tên tẩm độc đối với người mà tâm chưa đạt đến trí tuệ. SN.ii.229.
 
 ## Notes

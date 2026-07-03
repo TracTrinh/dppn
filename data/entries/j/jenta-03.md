@@ -5,7 +5,7 @@ base_headword: "Jenta"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,6 @@ Jenta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jenta 03. Jenta Purohitaputta. Một vị Trưởng lão. Ông là con trai của vị tế sư của vua nước Kosala. (Có phải ông là anh trai của Aṅgulimāla? Xem Aṅgulimāla). Ông đắm chìm trong sự kiêu hãnh về những lợi thế của chính mình, và một ngày nọ, mặc dù đến thăm Đức Phật, ông quyết định sẽ không nói lời nào trừ khi Đức Phật mở lời với ông trước. Đức Phật, đọc được suy nghĩ của ông, đã thuyết một bài pháp, nhắm đến ông, về những tai hại của sự kiêu hãnh, và Jenta đã trở thành một *Sotāpanna*. Về sau, ông gia nhập Tăng đoàn và trở thành một *Arahant* (Thag.vs.423-8; Thag­a.i.455f). Có lẽ ông được đồng nhất với Mānatthaddha trong Saṁyuttanikāya (SN.i.177; KS.i.224, n.1).
 
 ## Notes

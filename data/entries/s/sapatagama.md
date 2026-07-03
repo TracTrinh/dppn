@@ -5,7 +5,7 @@ base_headword: "Sāpatagāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāpatagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Rohaṇa; Mañju, tướng quân của Parakkamabāhu I, đã đánh một trận tại đó với Sūkarabhātu. Cv.lxxiv.131.
 
 ## Notes

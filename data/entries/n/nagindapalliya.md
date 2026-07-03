@@ -5,7 +5,7 @@ base_headword: "Nāgindapalliya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāgindapalliya. An eminent Thera of Ceylon in the time of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgindapalliya. Một Trưởng lão lỗi lạc của Tích Lan vào thời của Parakkamabāhu I.; ngài là vị lãnh đạo của các tỳ-kheo ở Dakkhiṇadesa. Cv.lxxviii.9.
 
 ## Notes

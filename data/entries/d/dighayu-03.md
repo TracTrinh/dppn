@@ -5,7 +5,7 @@ base_headword: "Dīghāyu"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dīghāyu 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāyu 03. Một vương tử người Sākiyan, cháu nội của Amitodana và là anh/em trai của Bhaddakaccānā. Ông đã đi đến Tích Lan và tại đó thành lập một khu định cư mà ông đặt theo tên của chính mình. Con trai ông là Dīghagāmaṇī. Mhv.ix.10f; 18; Dpv.x.6, 8.
 
 ## Notes

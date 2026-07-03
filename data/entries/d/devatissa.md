@@ -5,7 +5,7 @@ base_headword: "Devatissa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devatissa. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatissa. Một ngôi làng ở Koṭṭhavāta, được Aggabodhi V ban cho những người Dhammarucika. Cv.xlviii.2.
 
 ## Notes

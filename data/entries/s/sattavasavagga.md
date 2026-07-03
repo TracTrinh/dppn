@@ -5,7 +5,7 @@ base_headword: "Sattāvāsavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattāvāsavagga. The third chapter of the *Navakanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattāvāsavagga. Chương thứ ba của *Navakanipāta* thuộc Aṅguttaranikāya. AN.iv.390-409.
 
 ## Notes

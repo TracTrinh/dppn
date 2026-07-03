@@ -5,7 +5,7 @@ base_headword: "Dhūmakāri"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhūmakāri. A Brahmin goatherd. For his story see the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūmakāri. Một người chăn dê Bà-la-môn. Về câu chuyện của ông, xem *Dhūmakārijātaka*. Ông được đồng nhất với Pasenadi, vua của Kosala. So sánh Vāseṭṭha. Ja.iii.402.
 
 ## Notes

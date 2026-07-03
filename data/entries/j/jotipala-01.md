@@ -5,7 +5,7 @@ base_headword: "Jotipāla"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -33,6 +33,8 @@ For his story see the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotipāla 01. Bodhisatta sinh ra là con trai của vị tế sư của Brahmadatta, vua xứ Benares. Ông là một cung thủ cừ khôi và đã trở thành một vị khổ hạnh. Ông cũng được gọi là Sarabhaṅga (Ja.v.127ff).
+
+Về câu chuyện của ông, xem Sarabhaṅgajātaka (Ja 522). Rõ ràng ông đồng nhất với Jotipāla trong Indriyajātaka (Ja 423). Ông thuộc về Koṇḍaññagotta. Ja.v.140, 141, 142.
 
 ## Notes

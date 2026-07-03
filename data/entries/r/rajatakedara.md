@@ -5,7 +5,7 @@ base_headword: "Rajatakedāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rajatakedāra. A locality in Ceylon, mentioned in the account of the battle betw
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajatakedāra. Một địa phương ở Tích Lan, được nhắc đến trong bản tường thuật về trận chiến giữa lực lượng của Parakkamabāhu I và lực lượng của Māṇābharaṇa. Cv.lxxii.257, 269.
 
 ## Notes

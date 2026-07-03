@@ -5,7 +5,7 @@ base_headword: "Pamādasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pamādasutta 01. Two <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pamādasutta 01. Hai vị Phạm thiên (*Pacceka Brahma*), Subrahmā và Suddhāvāsa, đã đến diện kiến Đức Phật, nhưng thấy Ngài đang đắm mình trong thiền định, bèn quyết định viếng thăm một vị Phạm thiên (*Brahma*) đang mê đắm (*pamatta*) trong một cõi *Brahma* nọ. Khi họ đề nghị vị này nên viếng thăm Đức Phật, vị Phạm thiên đó phân thân thành một ngàn người và nói rằng mình có thần thông (*iddhi*) vĩ đại hơn Đức Phật. Nhưng Subrahmā phân thân thành hai ngàn người, và chỉ ra rằng thần thông của Đức Phật còn vượt xa họ. Người ta nói rằng vị Phạm thiên mê đắm đó đã viếng thăm Đức Phật sau này. SN.i.146f.
 
 ## Notes

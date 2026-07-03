@@ -5,7 +5,7 @@ base_headword: "Dhammāsoka"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammāsoka 02. A king of Ceylon (1208-9 CE.). He was of royal blood, and was th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammāsoka 02. Một vị vua của Tích Lan (1208-9 CN.). Ngài mang dòng máu hoàng gia, và mới ba tháng tuổi khi lên ngôi. Ngài đã bị giết bởi *Mahādipāda* Anīkaṅga. Cv.lxxx.42, 44; xem thêm Cv.Trs.ii.131, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammaka"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammaka 01. A king, one of the chief supporters of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaka 01. Một vị vua, một trong những thí chủ chính của Đức Phật Anomadassī. Bv­a.145.
 
 ## Notes

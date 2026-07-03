@@ -5,7 +5,7 @@ base_headword: "Dohaḷapabbata"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dohaḷapabbata. A mountain in Ceylon, probably in the district of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dohaḷapabbata. Một ngọn núi ở Tích Lan, có lẽ thuộc quận Janapada. Silāmeghavaṇṇa từng chiếm đóng nơi này (Cv.xliv.56; Cv.Trs.i.79, n.4). Gần đó là một Phật đài, được gọi là Sūkara. Cv. c.294.
 
 ## Notes

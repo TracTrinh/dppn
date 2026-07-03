@@ -5,7 +5,7 @@ base_headword: "Dhanantevāsī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhanantevāsī. An attendant of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanantevāsī. Một người hầu cận của Chalaṅgakumāra. Kuruṅgavī đã ngoại tình với Dhanantevāsī. Ja.v.225, 231.
 
 ## Notes

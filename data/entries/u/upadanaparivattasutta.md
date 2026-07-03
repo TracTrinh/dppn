@@ -5,7 +5,7 @@ base_headword: "Upādānaparivaṭṭasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upādānaparivaṭṭasutta. On the five *khandhas* as grasping and the series o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādānaparivaṭṭasutta. Về năm *khandha* với tư cách là sự chấp thủ và chuỗi bốn sự thật liên quan đến từng *khandha* – tức là, bản thân *khandha*, sự khởi sinh của nó, sự đoạn diệt của nó và con đường dẫn đến điều đó. Người nào hiểu biết hoàn toàn về những điều này thì được giải thoát hoàn toàn. SN.iii.58ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nammadā"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nammadā 03. A canal flowing from the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nammadā 03. Một con kênh chảy từ hồ Puṇṇavaḍḍhana ngang qua *vihāra* Jetavana ở Pulatthipura. Cv.lxxix.48.
 
 ## Notes

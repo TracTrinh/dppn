@@ -5,7 +5,7 @@ base_headword: "Sappasoṇḍikapabbhāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -34,6 +34,8 @@ Sappasoṇḍikapabbhāra. A mountain cave in the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hang động trên núi ở Sītavana, gần Rājagaha (DN.ii.116). Một cuộc trò chuyện diễn ra ở đó giữa Sāriputta và Upasena, ngay trước khi Upasena qua đời, được ghi lại trong Saṁyuttanikāya. Upasena chết vì bị rắn cắn (SN.iv.40). Hang động này được sử dụng làm nơi cư ngụ cho các vị tỳ-kheo từ xa đến Rājagaha (ví dụ, Vin.ii.76).
+
+Buddhaghosa nói (SN­a.iii.10) rằng hang động được gọi như vậy vì nó có hình dạng giống như mang của một con rắn. Chính tại đây Đức Phật đã gặp và thuyết pháp cho Tissa (13), *rājā* của Roruva. Thag­a.i.200.
 
 ## Notes

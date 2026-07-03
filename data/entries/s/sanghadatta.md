@@ -5,7 +5,7 @@ base_headword: "Saṅghadattā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅghadattā. Wife of the minister <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghadattā. Vợ của vị quan Saṅgha, người đã cưới cô vì cô đã bước đi thay vì chạy trong một trận mưa rào. Cô đã dâng một y phục cho Cūḷanāga Thera của Pidhanagalla, và Sakka đã cung cấp cho cô những y phục của chư thiên, những thứ mà cô đã cúng dường tại Dakkhiṇacetiya và Ratanamalicetiya. Ras.ii.177f.
 
 ## Notes

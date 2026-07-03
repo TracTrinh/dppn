@@ -5,7 +5,7 @@ base_headword: "Nālikeramahāthambha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālikeramahāthambha. A tank in Ceylon, restored by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālikeramahāthambha. Một cái hồ ở Tích Lan, được Parakkamabāhu tu bổ. Cv.lxxix.33.
 
 ## Notes

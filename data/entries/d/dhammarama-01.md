@@ -5,7 +5,7 @@ base_headword: "Dhammārāma"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammārāma 01. A monastery where lived <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammārāma 01. Tu viện nơi Đức Phật Anomadassī cư ngụ. Bv.viii.29; Bv­a.145.
 
 ## Notes

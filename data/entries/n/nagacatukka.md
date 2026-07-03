@@ -5,7 +5,7 @@ base_headword: "Nāgacatukka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -33,6 +33,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgacatukka. *v.l.* Nagaracatukka. Một địa danh gần Ambatthala. Trong khi đang ngồi tại đây, Devānampiyatissa đã nghe thấy vị sa-di Sumana thông báo thời điểm để thuyết giảng Dhamma, được nghe thấy trên toàn cõi Tích Lan (Mhv.xiv.36). Geiger (Mhv.Trs. 94, n.1) đồng nhất nó với Nāgapokuṇa ngày nay (nhưng xem Nāgasoṇḍi).
+
+Theo Dīpavaṁsa (Dpv.xiv. 58; xem thêm Mhv.xvi.6) (có một *v.l.* Nagaracatukka), nó là một cái ao ở chân núi Missakapabbata và được tạo ra từ đá.
 
 ## Notes

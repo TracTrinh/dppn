@@ -5,7 +5,7 @@ base_headword: "Dverataniya Thera"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -25,6 +25,6 @@ Dverataniya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dverataniya Thera. Một vị *Arahant*. Vào thời của Vipassī Buddha, ngài là một người thợ săn, và, khi nhìn thấy Đức Phật trong một khu rừng, đã cúng dường cho ngài một miếng thịt. Bốn *kappa* trước, ngài là một vị vua tên là Mahā Rohita. Ap.i.214.
 
 ## Notes

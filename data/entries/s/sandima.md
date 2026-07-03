@@ -5,7 +5,7 @@ base_headword: "Sandimā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sandimā. A king of long ago; a previous birth of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandimā. Một vị vua thời xa xưa; một tiền kiếp của Ramaṇīyakuṭika Thera. Thag­a.i.133.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgavaḍḍhana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgavaḍḍhana. A monastery in Ceylon, on which <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgavaḍḍhana. Một tu viện ở Tích Lan, được Udaya I ban tặng nhiều ngôi làng để bảo trì. Cv.xlix.21.
 
 ## Notes

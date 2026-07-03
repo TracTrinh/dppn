@@ -5,7 +5,7 @@ base_headword: "Rājanārāyaṇa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājanārāyaṇa. A park in Ceylon, laid out by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājanārāyaṇa. Một công viên ở Tích Lan, do Parakkamabāhu I kiến tạo. Cv.lxxix.7.
 
 ## Notes

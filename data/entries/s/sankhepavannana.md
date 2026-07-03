@@ -5,7 +5,7 @@ base_headword: "Saṅkhepavaṇṇanā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkhepavaṇṇanā. A *navaṭīkā* by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bản *navaṭīkā* của Saddhammajotipāla về Abhidhammatthasaṅgaha. Gv.40.
 
 ## Notes

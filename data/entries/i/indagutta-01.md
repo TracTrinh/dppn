@@ -5,7 +5,7 @@ base_headword: "Indagutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -30,6 +30,8 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indagutta 01. Một vị Thera. Ông đã giám sát việc xây dựng Mahā Thūpa ở Anurādhapura (Mhv.xxxviii.98; Dpv.xix.5, 6, 8). Duṭṭhagāmaṇī đã tham khảo ý kiến của ông liên quan đến mọi chi tiết và bổ nhiệm ông làm *kammādhiṭṭhāyaka* ngay từ lúc bắt đầu công việc (Mhv­ṭ.550f). Ông có thần thông to lớn, và tại lễ khánh thành *Thūpa*, ông đã tạo ra một chiếc lọng bằng đồng, to lớn như vũ trụ, để che chở bất kỳ tai hại nào có thể giáng xuống những người tham gia lễ hội (Mhv.xxxi.85). Ông đã ở bên cạnh nhà vua trong suốt lễ hội (Mhv.xxxi.105), và, bằng năng lực của mình, tất cả cư dân của Ceylon, những người mong muốn đảnh lễ xá-lợi tại Mahā Thūpa, đều được tạo điều kiện để đi đến Anurādhapura ngay lúc mong muốn đó khởi lên trong tâm họ, và trở về trong cùng một ngày (Mhv.xxxi.115).
+
+Vị Indagutta này có lẽ được đồng nhất với Thera Indagutta, người đứng đầu một *pariveṇa* lớn ở Rājagaha, người đã đến Ceylon cùng với tám mươi ngàn tỳ-kheo để tham dự lễ đặt móng của Mahā Thūpa (Mhv.xxix.30).
 
 ## Notes

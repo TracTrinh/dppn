@@ -5,7 +5,7 @@ base_headword: "Saṭṭhipeyyāla"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṭṭhipeyyāla. A series of short *Suttas*, forming the seventeenth chapter 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṭṭhipeyyāla. Một chuỗi các bài *Sutta* ngắn, tạo thành chương thứ mười bảy của Saḷāyatanasaṁyutta. SN.iv.148-57.
 
 ## Notes

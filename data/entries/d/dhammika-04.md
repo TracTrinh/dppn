@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammika 04. One of the chief lay supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 04. Một trong những cư sĩ hỗ trợ chính của Piyadassī Buddha. Bv.xiv.22.
 
 ## Notes

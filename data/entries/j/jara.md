@@ -5,7 +5,7 @@ base_headword: "Jarā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jarā. A hunter who killed <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarā. Một người thợ săn đã giết chết Vāsudeva. Ja.iv.88f.
 
 ## Notes

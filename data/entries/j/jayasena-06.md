@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "06"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jayasena 06. One of the Theras present at the foundation of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 06. Một trong những Trưởng lão có mặt tại lễ đặt nền móng cho Mahā Thūpa. Dpv.xix.8; Mhv­ṭ.527.
 
 ## Notes

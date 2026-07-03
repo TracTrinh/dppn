@@ -5,7 +5,7 @@ base_headword: "Jaṅghābhāra"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jaṅghābhāra. A park laid out by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṅghābhāra. Một công viên được Parakkamabāhu I xây dựng. Cv.lxxix.9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhammakitti 02. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 02. Một vị sư ở Tambaraṭṭha. Parakkamabāhu II, nghe về những đức hạnh vĩ đại và sự thánh thiện của ngài, đã gửi cho ngài những món đồ cúng dường thể hiện lòng tôn kính, thỉnh cầu ngài đến Tích Lan. Vị Trưởng lão đã đến và được nhà vua tôn vinh hết mực (Cv.lxxxiv.11). Người ta tin rằng (vd., JRAS., 1896, pp.202ff) đây là vị tỳ-kheo đã viết phần tiếp theo của Mahā Vaṁsa (bộ Cūḷa Vaṁsa) đề cập đến thời kỳ từ triều đại của Mahā Sena cho đến triều đại của Parakkamabāhu II.
 
 ## Notes

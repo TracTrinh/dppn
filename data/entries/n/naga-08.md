@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "08"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -79,6 +79,18 @@ In the accounts given of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 08. Các Nāga là một tầng lớp chúng sinh được xếp chung với các Garuḷa và Supaṇṇa và đóng một vai trò nổi bật trong văn hóa dân gian Phật giáo. Họ được ban cho những khả năng thần thông và sức mạnh to lớn. Nói chung, họ thường bị nhầm lẫn với các loài rắn, chủ yếu là rắn hổ mang bành, và thân thể của họ được mô tả giống như của các loài rắn, mặc dù họ có thể hóa hiện thành hình người theo ý muốn. Họ được chia đại khái thành hai tầng lớp: những vị sống trên cạn (*thalaja*) và những vị sống dưới nước (*jalaja*). Các *Jalajanāgā* sống ở các dòng sông cũng như ở biển, trong khi các *Thalajanāgā* được cho là sống dưới lòng đất. Một vài nơi cư trú của các Nāga được đề cập trong kinh sách: ví dụ, Mañjerikabhavana dưới chân núi Sineru, Daddarabhavana dưới chân núi Daddara ở Himālaya, các *Dhataraṭṭhanāgā* dưới dòng sông Yamunā, các *Nābhasānāgā* ở hồ Nābhasa, và cả các Nāga ở Vesālī, Tacchaka, và Payāga (DN.ii.258). Vinaya (ii.109) chứa một danh sách bốn vương tộc Nāga (*Ahirājakulāni*): *Virūpakkhā*, *Erāpathā*, *Chabyāputtā* và *Kaṇhagotamakā*. Hai bộ tộc Nāga khác thường được đề cập cùng nhau: các Kambala và các Assatara. Có nói rằng (SN­a.iii.120) tất cả các Nāga đều sinh con ở Himālaya.
+
+Các câu chuyện được đưa ra – ví dụ, trong Bhūridattajātaka – về các Nāga, cả nam và nữ, kết đôi với con người; nhưng thế hệ con cháu của các sự kết hợp như vậy thường nhiều nước và ốm yếu (Ja.vi.160). Các Nāga dễ nổi giận và đầy dục vọng, hơi thở của họ chứa độc, và cái nhìn của họ có thể gây chết người (Ja.vi.160, 164). Họ là loài ăn thịt (Ja.iii.361), chế độ ăn của họ chủ yếu bao gồm ếch (Ja.vi.169), và khi ở trong thế giới loài người, họ ngủ trên các tổ kiến (sđd., 170). Sự thù địch giữa các Nāga và các Garuḷa là một điển tích (DN.ii.258). Ban đầu các Garuḷa không biết cách vồ lấy các Nāga, vì những vị này đã nuốt các tảng đá lớn để mang trọng lượng khổng lồ, nhưng họ đã học được cách làm điều đó trong Paṇḍarajātaka (Ja 518, *xem từ này*). Các Nāga thường nhảy múa khi có âm nhạc được tấu lên, nhưng có nói rằng (Ja.vi.191) họ không bao giờ nhảy múa nếu có bất kỳ Garuḷa nào ở gần (vì sợ hãi) hoặc trước mặt các vũ công là con người (vì xấu hổ).
+
+Vị Nāga được biết đến nhiều nhất là Mahā Kāḷa, vua của Mañjerikabhavana (*xem từ này*). Ngài sống trong trọn một *kappa*, và là một tín đồ rất sùng đạo của Đức Phật. Các Nāga ở thế giới của ngài đã nắm quyền bảo vệ một phần xá-lợi của Đức Phật cho đến khi chúng được cần đến cho Māha Thūpa (Mhv.xxxi.27f.), và khi cây bodhi được mang đến Tích Lan, họ đã vô cùng tôn kính nó trong suốt chuyến đi (Mbv.p.163f.). Các vị vua Nāga khác cũng được đề cập là cai trị với quyền lực và sự oai nghiêm to lớn và được cải đạo theo tôn giáo của Đức Phật – ví dụ, Āravāla, Apalāla, Erapatta, Nandopananda, và Paṇṇaka (xem thêm Ahicchatta và Ahināga.) Trong Āṭānāṭiyasutta (DN.iii.198f.), khi nói về những cư dân của cõi Cātummahārājika, các Nāga được nhắc đến là ngự trị ở Phương Tây, với Virūpakkha là vua của họ.
+
+Các Nāga có hai khu định cư chính ở Tích Lan, tại Nāgadīpa (*xem từ này*) và ở cửa sông Kalyāṇī. Chính là để giải quyết một cuộc tranh chấp giữa hai thủ lĩnh Nāga của Nāgadīpa, Mahodara và Cūḷodara, mà Đức Phật đã thực hiện chuyến viếng thăm thứ hai của Ngài đến Tích Lan. Trong chuyến thăm đó, Ngài đã hứa với một vị vua Nāga khác, Maṇi­akkhika của Kalyāṇī, sẽ đến thăm ngài, và chuyến viếng thăm thứ ba của Đức Phật là để hoàn thành lời cam kết đó (Mhv.i.48f.).
+
+Các Nāga tạo thành một trong những đội vệ binh được Sakka thiết lập ở Sineru để chống lại các Asura (Ja.i.204). Các Nāga đôi khi được con người thờ phụng và được cúng tế sữa, cơm, cá, thịt và rượu mạnh (Ja.i.497f.). Viên ngọc của các Nāga nổi tiếng vì vẻ đẹp của nó và sức mạnh mang lại những điều mong ước cho người sở hữu nó (Ja.vi.179, 180).
+
+Từ Nāga thường được dùng như một tước hiệu của Đức Phật và các bậc Arahant, và trong bối cảnh này, từ nguyên được đưa ra là *āguṁ na karotī ti Nāgo* (ví dụ, MNid.201). Bodhisatta đã được sinh ra vài lần làm vua của các Nāga: Atula, Campeyya, Bhūridatta, Mahā Daddara, và Saṅkhapāla.
+
+Trong các lời tường thuật về các Nāga, chắc chắn có sự nhầm lẫn lớn giữa các Nāga với tư cách là những sinh vật siêu nhiên, với các loài rắn, và với tư cách là tên của một số bộ tộc phi Aryan, nhưng sự nhầm lẫn đó là quá khó để tháo gỡ.
 
 ## Notes

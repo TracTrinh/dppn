@@ -5,7 +5,7 @@ base_headword: "Dīghataphala"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,6 @@ Dīghataphala. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghataphala. Một Yakkha cư ngụ trên một cây cọ ở ngoại ô Rājagaha. Vợ của Kāḷavilaṅgika, cải trang thành nam giới, mang thức ăn từ cung điện cho một người bị đóng cọc, đã đi ngang qua dưới gốc cây của ông ta và bị bắt làm con mồi. Nhưng khi biết rằng cô là sứ giả của nhà vua, Yakkha này đã thả cô ra và nhờ cô truyền đạt tin tức rằng vợ của Dīghataphala là Kāḷī, con gái của vị thần Sumana, đã sinh ra một bé trai. Để đền đáp cho sự phục vụ này, Dīghataphala đã trao cho vị sứ giả kho báu được chôn giấu dưới gốc cây. Cô đi khắp nơi và hét to tin tức này, và Sumana, khi nghe được, đã ban cho cô thêm nhiều kho báu nữa. MN­a.ii.818.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sappidāyaka Thera"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sappidāyaka Thera 02. An *Arahant* Ninety-four *kappas* ago he saw <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sappidāyaka Thera 02. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông nhìn thấy Siddhattha Buddha đang nằm bệnh và đã dâng cho ngài một ít bơ. Mười bảy *kappa* trước, ông là một vị vua tên là Jutideva. Ap.i.212.
 
 ## Notes

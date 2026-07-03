@@ -5,7 +5,7 @@ base_headword: "Dhotodana"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhotodana. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhotodana. Con trai của Sīhahanu và là anh em của Suddhodana (Mhv.ii.20; Snp­a.ii.357). Trong các sách Tây Tạng (Rockhill: p.13) ông được gọi là Dhonodana, và được cho là cha của Mahā Nāma và Anuruddha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jinadattiya"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jinadattiya. A fellow celibate of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jinadattiya. Một bạn đồng tu phạm hạnh của Sudinna Kalandaputta. Vin-a.i.206.
 
 ## Notes

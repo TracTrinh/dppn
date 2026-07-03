@@ -5,7 +5,7 @@ base_headword: "Jāṇussoṇīsutta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jāṇussoṇīsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāṇussoṇīsutta 01. Jāṇussoṇī đến viếng thăm Đức Phật và nói với ngài rằng nếu có bất kỳ ai có những món đồ cúng dường để phân phát thì người đó nên trao chúng cho các vị Bà-la-môn *tevijja*. Theo yêu cầu của Đức Phật, ông đã mô tả về những người Bà-la-môn này, và Đức Phật, đến lượt mình, nói cho ông nghe điều gì được các bậc Thánh (*Ariyans*) xem là tam minh (*tevijjā*). AN.i.166.
 
 ## Notes

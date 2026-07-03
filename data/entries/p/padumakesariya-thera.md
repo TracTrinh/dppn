@@ -5,7 +5,7 @@ base_headword: "Padumakesariya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Padumakesariya Thera. An *Arahant*. Ninety-one *kappas* ago he was an elephant a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumakesariya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một con voi và khi thấy Vipassī Buddha, ngài đã rắc phấn hoa sen lên Ngài. Ap.i.248.
 
 ## Notes

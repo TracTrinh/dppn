@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -43,6 +43,12 @@ The *Mahā Vastu* (iii.364f), however, definitely mentions <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 03. Vị vua Kāliṅga người mà cùng với Bhīmaratha, vua xứ Sañjayantī, và Aṭṭhaka, vua xứ Hastināpura, đã tìm đến Bodhisatta Sarabhaṅga để hỏi ngài nơi các vị vua Kalābu, Nāḷikīra, Ajjuna và Daṇḍakī đã tái sinh sau khi chính họ và vương quốc của họ bị hủy diệt do hậu quả của việc họ ngược đãi các bậc thánh. Ja.v.135ff.
+
+Câu chuyện của họ được kể trong Sarabhaṅgajātaka (*q.v.*).
+
+Tuy nhiên, chú giải của Jātaka (Ja.v.137) cho rằng Uggata không phải là tên của vị vua Kāliṅga mà là một danh xưng miêu tả, và giải thích điều đó bằng cách nói *cando viya suriyo viya ca pākaṭo paññāto*.
+
+Tuy nhiên, *Mahā Vastu* (iii.364f) lại đề cập rõ ràng Ugga là tên của vị vua này, tương tự như Bhīmaratha và Aṣṭhamaka (Aṭṭhaka), và cho biết thủ đô của hai vị vua sau lần lượt là Sañjayantī và Hastināpura.
 
 ## Notes

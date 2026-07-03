@@ -5,7 +5,7 @@ base_headword: "Isayo Samuddakāsutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -32,6 +32,8 @@ Isayo Samuddakāsutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isayo Samuddakāsutta (hoặc Sambarasutta). Xưa kia, có nhiều bậc tiên nhân đạo đức đã sống trong các túp lều trên bờ biển. Vào thời đó có một cuộc chiến tranh giữa các vị thần và các Asura. Các tiên nhân coi các vị thần là chính nghĩa nhưng lo sợ sự tổn hại từ các Asura. Vì vậy, họ đã đi đến chỗ Sambara, chúa tể của các Asura, và xin ông một lời cam kết về sự an toàn; ông đã từ chối, nói rằng các tiên nhân là môn đồ của Sakka. Do đó, các tiên nhân đã nguyền rủa ông ta phải chịu đựng nỗi kinh hoàng bất tận. Người ta nói rằng ngay trong đêm đó, Sambara đã thức giấc ba lần, bị nắm lấy bởi sự hoảng loạn (SN.i.227-8).
+
+Buddhaghosa (SN­a.i.266) nói thêm rằng do kết quả của lời nguyền này, tâm trí của Sambara trở nên loạn trí và ông được gọi là Vepacitti (dây thần kinh điên loạn).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dubbuṭṭhi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dubbuṭṭhi. A king of Ceylon. He held a <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dubbuṭṭhi. Một vị vua của Tích Lan. Ông đã tổ chức một Giribhaṇḍamahāpūjā. Ras.ii.183,185.
 
 ## Notes

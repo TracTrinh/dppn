@@ -5,7 +5,7 @@ base_headword: "Jambukhādakajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,8 @@ The story was related in reference to a report that <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukhādakajātaka (Ja 294). Bodhisatta có một lần là một thọ thần trong một khu rừng *jambu* và đã nhìn thấy cách một con quạ, được phỉnh phờ bởi những lời nói của một con chó rừng đang ngồi dưới gốc cây, thả những quả trái cây xuống cho nó ăn, ca ngợi nòi giống của nó. Vị thọ thần đã đuổi cả hai đi vì cho rằng chúng là những kẻ dối trá.
+
+Câu chuyện này được kể lại liên quan đến một báo cáo rằng Devadatta và Kokālika đang đi loanh quanh để ca ngợi lẫn nhau. Ja.ii.438f; cp. Antajātaka.
 
 ## Notes

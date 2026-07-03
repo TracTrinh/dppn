@@ -5,7 +5,7 @@ base_headword: "Pañcaggaḷalenavāsītissa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcaggaḷalenavāsītissa. A young novice who could travel through the air. O
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcaggaḷalenavāsītissa. Một vị sa-di trẻ tuổi có thể du hành qua không trung. Một ngày nọ, khi đang lữ hành như vậy, ngài nghe thấy con gái của người thợ thủ công trưởng ở Girigāma đang ca hát trong một hồ sen trong lúc đang tắm cùng năm trăm người bạn của cô. Ngài bị thu hút bởi giọng hát của cô và đánh mất sự tập trung tâm trí của mình. Snp­a.i.70.
 
 ## Notes

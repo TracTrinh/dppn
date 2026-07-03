@@ -5,7 +5,7 @@ base_headword: "Saṅkitasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkitasutta. A monk who haunts the house of a widow, an unmarried woman (*thu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tỳ-kheo thường xuyên lai vãng đến nhà của một góa phụ, một phụ nữ chưa chồng (*thullakumārī*), một hoạn quan, hoặc khuôn viên của một tỳ-kheo-ni, là điều đáng nghi ngờ. AN.iii.128.
 
 ## Notes

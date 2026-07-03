@@ -5,7 +5,7 @@ base_headword: "Ratanavāluka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ratanavāluka. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanavāluka. Một tên gọi khác của Mahā Thūpa. X. Ratanāvalicetiya.
 
 ## Notes

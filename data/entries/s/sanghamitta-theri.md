@@ -5,7 +5,7 @@ base_headword: "Saṅghamittā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -49,6 +49,10 @@ She died at the age of fifty-nine, in the ninth year of the reign of King <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghamittā Therī. Con gái của Asoka và là em gái của Mahinda. Bà sinh ra ở Ujjenī và đã kết hôn với Aggibrahmā – người sau đó gia nhập Tăng đoàn – và có với ông một người con trai, Sumana. Bà xuất gia vào năm mười tám tuổi cùng với Mahinda, thầy tế độ của bà là Dhammapālā và giáo thọ của bà là Āyupālā (Mhv.v.190-208; xiii.4, 11; DPv.vi.17; vii.18, 19; xv.77, 90; xvii.20; xviii.11, 25; Vin-a.i.51).
+
+Sau khi xuất gia và đạt quả vị *Arahant*, bà sống ở Pāṭaliputta, và, khi Anulā và những người phụ nữ khác trong triều đình của Devānampiyatissa tại Anurādhapura mong muốn gia nhập Tăng đoàn, Devānampiyatissa, theo lời đề nghị của Mahinda, đã cử một phái bộ, do Ariṭṭha dẫn đầu, đến Asoka, yêu cầu rằng Saṅghamittā có thể được gửi đến Tích Lan, và cùng với bà là một nhánh của cây Bodhi cho Anurādhapura. Asoka đã chấp thuận lời thỉnh cầu, và gửi Saṅghamittā, bằng đường biển, cùng với mười một vị ni khác, mang theo một nhánh của cây Bodhi. Trên đường đi, khi các Nāga bao vây quanh cây Bodhi, Saṅghamittā đã làm chúng sợ hãi bỏ chạy bằng cách hóa thân thành một Garuḍa. Bà cập bờ tại Jambukola, và, sau khi đến Anurādhapura, đã làm lễ xuất gia cho Anulā và những người bạn đồng hành của cô. Bà sống tại Upāsikāvihāra, và đã cho xây dựng mười hai tòa nhà ở đó để các vị ni sử dụng. Sau đó, nhà vua đã xây dựng cho bà Hatthāḷhakavihāra.
+
+Bà viên tịch ở tuổi năm mươi chín, vào năm trị vì thứ chín của Vua Uttiya, và những lễ kỷ niệm, kéo dài trọn một tuần lễ, đã được tổ chức để tôn vinh bà trên khắp Tích Lan. Thi hài của bà được hỏa táng ở phía đông của Thūpārāma gần Cittasālā (sau này), trong tầm nhìn của cây Bodhi, trên một vị trí do chính vị Therī chỉ định trước khi bà viên tịch. Uttiya đã cho dựng một bảo tháp (*Thūpa*) phía trên tro cốt của bà. Mhv.xviii.13f.; xix.5, 20, 53, 65, 68ff., 83f.; xx.48ff.; Vin-a.i.90f.
 
 ## Notes

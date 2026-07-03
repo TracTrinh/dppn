@@ -5,7 +5,7 @@ base_headword: "Saṅghapāla"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅghapāla 02. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghapāla 02. Một tỳ-kheo của Mahā Vihāra, thầy của Buddhaghosa. (Cv.xxxvii.232). Visuddhimagga được biên soạn theo những mong muốn của Saṅghapāla. Vsm., p.711.
 
 ## Notes

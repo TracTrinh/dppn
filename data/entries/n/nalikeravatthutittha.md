@@ -5,7 +5,7 @@ base_headword: "Nālikeravatthutittha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālikeravatthutittha. A ford in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālikeravatthutittha. Một bến cạn ở Mahā Vālukagaṅgā. Cv.lxxii.14.
 
 ## Notes

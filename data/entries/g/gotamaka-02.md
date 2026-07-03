@@ -5,7 +5,7 @@ base_headword: "Gotamaka"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gotamaka 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamaka 02. Một Yakkha (dạ-xoa). Xem Gotamakacetiya.
 
 ## Notes

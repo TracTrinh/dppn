@@ -5,7 +5,7 @@ base_headword: "Rakkhamāna"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhamāna. A tank, repaired by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhamāna. Một hồ chứa nước, do Parakkamabāhu I sửa chữa. Cv.lxviii.46.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ubbirī Therī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -40,6 +40,10 @@ No mention is made in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bà được sinh ra trong gia đình của một tư sản rất giàu có ở Sāvatthī và được kết hôn với vua của Kosala (có lẽ là Pasenadi). Sau vài năm, một cô con gái được sinh ra cho bà, người mà bà đặt tên là Jīvā (*v.l.* Jīvantī). Nhà vua quá hài lòng với đứa trẻ đến nỗi ông đã cho tấn phong Ubbirī làm hoàng hậu. Nhưng cô gái qua đời ngay sau đó, và Ubbirī, quẫn trí, đã đi đến bãi tha ma hằng ngày. Một ngày nọ, khi bà đang ngồi than khóc trên bờ sông Aciravatī, Đức Phật đã xuất hiện trước mặt bà trong một tia hào quang. Sau khi nghe câu chuyện của bà, Bậc Đạo Sư đã chỉ ra cho bà rằng trong chính khu chôn cất đó, tám mươi bốn ngàn cô con gái của bà, tất cả đều tên là Jīvā, đã bị thiêu. Suy ngẫm về những lời của Bậc Đạo Sư, bà đã phát triển tuệ giác và trở thành một Arahant.
+
+Khi bà còn là một cô gái trẻ ở Haṁsavatī trong thời của Padumuttara Buddha, một ngày nọ bà bị để ở lại một mình trong nhà. Nhìn thấy một vị Arahant đang khất thực, bà đã mời ngài vào và dâng cho ngài thức ăn. Kết quả là bà được sinh ra ở Tāvatiṁsa. Tám mươi lần bà trị vì với tư cách là hoàng hậu ở cõi trời và bảy mươi lần với tư cách là hoàng hậu giữa cõi người (Thīg.vv.51-2; Thīg­a.53ff).
+
+Không có đề cập nào được thực hiện trong Chú giải Therīgāthā về việc bà đã gia nhập Tăng đoàn, nhưng Apadāna (ii.525f) nói rằng bà đã làm như vậy.
 
 ## Notes

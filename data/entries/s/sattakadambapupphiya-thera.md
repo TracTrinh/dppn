@@ -5,7 +5,7 @@ base_headword: "Sattakadambapupphiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattakadambapupphiya Thera. An *Arahant*. Ninety-four *kappas* ago he met seven 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattakadambapupphiya Thera. Một bậc *Arahant*. Chín mươi tư *kappa* trước, ngài đã gặp bảy vị Pacceka Buddha trên núi Kadamba và cúng dường họ bảy vòng hoa *kadamba*. Ap.i.382f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gotamakacetiya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -37,6 +37,12 @@ The *Divyāvadāna* (p.201), in a list of noted places of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamakacetiya. Một điện thờ (cetiya) gần và nằm ở phía nam của Vesālī (DN.iii.9). Nó được coi là một trong những cảnh quan tươi đẹp của thành phố đó (ví dụ: DN.ii.102, 118) và Đức Phật đã lưu trú tại đó một vài lần, đặc biệt là trong những năm đầu hoằng pháp của Ngài (theo AN­a.i.457). Trong một lần lưu lại như vậy, Ngài đã ban hành giới luật cho phép các tỳ-kheo sử dụng ba y; bản thân Ngài cũng cảm thấy lạnh trong đêm và phải đắp thêm y (Vin.i.288; iii.195).
+
+Điện thờ này đã có từ trước thời Phật giáo và được dành để thờ phụng một Yakkha tên là Gotamaka. Về sau, một vihāra đã được xây dựng tại địa điểm này cho Đức Phật và chúng tỳ-kheo (Ud­a.322; Dhp­a.iii.246; AN­a.i.457; Snp­a.i.344).
+
+Tại đó Gotamakasutta đã được thuyết giảng (và, theo một số nguồn, cả Hemavatasutta Snp­a.i.199).
+
+*Divyāvadāna* (p.201), trong danh sách các địa điểm nổi tiếng của Vesālī, nói đến một Gautamanyagrodha. Điều này hiển nhiên là đề cập đến *cetiya* này. Đã có gợi ý cho rằng *cetiya* này có thể được gọi theo tên của các Nāga là Kāḷa Gotama (Kaṇha Gotama), nhưng gợi ý này dường như khiên cưỡng. Xem JPTS 1891, p.67; Windisch: *Māra and Buddha*, p.68; so sánh Ja.ii.145.
 
 ## Notes

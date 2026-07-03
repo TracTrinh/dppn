@@ -5,7 +5,7 @@ base_headword: "Dhaniya"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,6 @@ Dhaniya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaniya 01. Dhanika. Một người chăn gia súc sống trên bờ sông Mahī. Ông là một *seṭṭhiputta* của Dhammakoṇḍa ở Pabbataraṭṭha, thuộc về vương quốc Videha. Ông có ba mươi ngàn con bò đực và hai mươi ngàn con bò cái. Ông có bảy người con trai và bảy người con gái cùng rất nhiều người hầu cận. Vào mùa khô, ông sống trên một hòn đảo được hình thành bởi hai nhánh của dòng sông Mahī, và vào mùa mưa sống trong một ngôi nhà trên vùng đất cao. Một ngày nọ, trong khi ông đang ở ngôi nhà này, sau khi đã hoàn tất các bước chuẩn bị cho những cơn mưa đang đến gần, ông ngồi suy ngẫm về hoàn cảnh sung túc của mình và cất tiếng hát biểu lộ hạnh phúc. Vị Phật đã nghe thấy bài hát tại Sāvatthī, cách đó bảy trăm do-tuần, và sau khi du hành qua không trung, đã đứng phía trên chỗ ở của Dhaniya. Khi Dhaniya tiếp tục bài hát của mình, vị Phật đã thêm một bài kệ vào mỗi bài kệ của Dhaniya. Vào cuối bài hát này Dhaniya, vợ ông, và hai người con gái của ông, đã trở thành những *Sotāpanna*. Vị Phật sau đó tiết lộ danh tính của mình và Dhaniya cùng vợ ông gia nhập Tăng đoàn. Sau đó họ trở thành các *Arahant* và những người chăn bò đã dựng lên một tu viện cho họ sử dụng, nơi được gọi là Gokulaṅkavihāra. Snp.vv.18ff; Snp­a.i.26ff.
 
 ## Notes

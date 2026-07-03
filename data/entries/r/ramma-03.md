@@ -5,7 +5,7 @@ base_headword: "Ramma"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ramma 03. One of the chief lay patrons of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramma 03. Một trong những nam thí chủ chính của Vessabhū Buddha. Bv.xxii.25.
 
 ## Notes

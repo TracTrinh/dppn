@@ -5,7 +5,7 @@ base_headword: "Upacālāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upacālāsutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upacālāsutta. Câu chuyện về nỗ lực không thành công của Māra nhằm khiến cho Therī Upacālā phạm tội lỗi. SN.i.133.
 
 ## Notes

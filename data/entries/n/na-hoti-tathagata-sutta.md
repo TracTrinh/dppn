@@ -5,7 +5,7 @@ base_headword: "Na hoti Tathāgata Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Na hoti Tathāgata Sutta. One of the many views existing in the world due to wan
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na hoti Tathāgata Sutta. Một trong nhiều tà kiến tồn tại trên thế gian do thiếu sự giác ngộ. SN.iii.215.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dūratissakavāpi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,6 @@ Dūratissakavāpi. A tank in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūratissakavāpi. Một hồ chứa nước ở Rohaṇa, gần Mahā Gāma. Meghavaṇṇābhaya, một vị quan của Mahā Sena, khi lãnh đạo một cuộc nổi dậy chống lại nhà vua, đã từng đóng quân trên bờ hồ này (Mhv.xxxvii.18). Saddhātissa đã xây dựng một *vihāra* gần đó (Mhv.xxxiii.9). Mahā Nāga đã tặng cho các đạo sĩ một ngàn thửa ruộng được tưới tiêu bởi hồ chứa nước này (Cv.xli.99; xem Cv.Trs.i.62, n.1), và Parakkamabāhu I đã cho sửa chữa hồ (Cv.lxxix.32). Geiger nghĩ rằng (Mhv.Trs.248, n.5) Dūratissavāpi có lẽ là cùng một hồ với Dūravāpi.
 
 ## Notes

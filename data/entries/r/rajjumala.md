@@ -5,7 +5,7 @@ base_headword: "Rajjumālā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rajjumālā. A slave in the village of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajjumālā. Một nữ tỳ trong ngôi làng Gayā. Bà chủ của cô không thích cô và ngược đãi cô đủ đường. Một ngày nọ, để tránh bị túm tóc kéo đi, cô đã cạo trọc đầu; nhưng bà chủ của cô sau đó đã buộc một sợi dây quanh đầu cô, và dùng nó để kéo cô đi khắp nơi; do đó cô có tên này. Không thể chịu đựng nổi cuộc sống của mình nữa, người nữ tỳ đi vào ngôi làng gần đó, định tự tử, nhưng ở đó cô tìm thấy Đức Phật đang đợi mình, và Ngài đã thuyết giảng cho cô. Rajjumālā, trở thành một *Sotāpanna*, và sau đó quay trở lại với bà chủ của mình, người mà sau khi nghe câu chuyện của cô, đã đến thăm Đức Phật và trở thành đệ tử của Ngài. Đức Phật giải thích rằng hai người phụ nữ này đã hoán đổi vị trí cho nhau trong một kiếp trước, và người nữ tỳ khi đó, người là bà chủ trong kiếp hiện tại, đã thề sẽ trả thù cho sự tàn ác mà cô phải gánh chịu. Rajjumālā đã được giải phóng và sau khi chết được tái sinh ở Tāvatiṁsa. Vv.iv.12; Vv-a.206ff.
 
 ## Notes

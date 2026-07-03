@@ -5,7 +5,7 @@ base_headword: "Pāṇāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāṇāsutta 01. Just as whatsoever creatures adopt the four postures do so in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṇāsutta 01. Giống như bất cứ loài sinh vật nào giữ bốn oai nghi đều phải nương tựa vào đất, cũng vậy, một tỳ-kheo tu tập bảy *bojjhaṅga* phải nương tựa vào giới. SN.v.78.
 
 ## Notes

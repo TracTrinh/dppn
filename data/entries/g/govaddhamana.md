@@ -5,7 +5,7 @@ base_headword: "Govaḍḍhamāna"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -29,6 +29,6 @@ Govaḍḍhamāna. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govaḍḍhamāna. Một ngôi làng ở Uttarāpatha, trong lãnh địa của Vua Kaṁsa. Đây là nơi cư ngụ của Upasāgara và Devagabbhā và là nơi sinh của những Andhakaveṇhudāsaputtā. Ja.iv.80.
 
 ## Notes

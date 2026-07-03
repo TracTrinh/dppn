@@ -5,7 +5,7 @@ base_headword: "Dukkarasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkarasutta 02. Things difficult to do in the religious life, in varying degree
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkarasutta 02. Những việc khó làm trong đời sống tôn giáo, ở các mức độ khác nhau. SN.iv.260, 262.
 
 ## Notes

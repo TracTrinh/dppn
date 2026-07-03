@@ -5,7 +5,7 @@ base_headword: "Sattarasavaggiyā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattarasavaggiyā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattarasavaggiyā, Sattarasavaggiyas. Một nhóm gồm 17 tỳ-kheo vào thời Đức Phật, những người dường như đã chuốc lấy sự thù hằn của nhóm Chabbaggīya. Nhóm sau đã đuổi họ ra khỏi một *vihāra* ngay sau khi họ vừa chuẩn bị xong, và có thái độ bạo lực đối với họ. Vin.ii.166; cf, Dhp­a.iii.48f.
 
 ## Notes

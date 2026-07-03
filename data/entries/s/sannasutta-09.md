@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "09"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 09. If a recluse develops the thoughts that he has come to the sta
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nếu một sa-môn phát triển những ý niệm rằng vị ấy đã đến trạng thái của một kẻ bị ruồng bỏ, rằng cuộc sống của vị ấy phụ thuộc vào người khác, rằng bây giờ vị ấy phải cư xử khác đi thì điều đó sẽ phát triển trong vị ấy bảy điều kiện. AN.v.210f.
 
 ## Notes

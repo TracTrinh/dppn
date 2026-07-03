@@ -5,7 +5,7 @@ base_headword: "Pahīnasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pahīnasutta. The six *nivāraṇas* are given up by those who have achieved rig
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahīnasutta. Sáu triền cái (*nivāraṇas*) được từ bỏ bởi những ai đã đạt được chánh kiến. AN.iii.438.
 
 ## Notes

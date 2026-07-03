@@ -5,7 +5,7 @@ base_headword: "Dhammikasutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,6 @@ Dhammikasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammikasutta 01. Dhammika Thera bị các cư sĩ của bảy khu định cư liên tiếp đuổi đi, bởi vì ngài đã lăng mạ và nhục mạ các vị tỳ-kheo đến thăm. Do đó, ngài tìm đến vị Phật tại Gijjhakūṭa và báo cáo sự việc với ngài. Vị Phật kể cho ngài nghe một câu chuyện trong quá khứ liên quan đến việc thọ trì *Rukkhadhamma*, và khuyên ngài nên thọ trì Pháp của một sa-môn. Ngài cũng kể cho Dhammika về nhiều đạo sư trong quá khứ mà các đệ tử của họ, nhờ chấp nhận giáo lý của họ, đã được tái sinh vào những cảnh giới an vui. AN.iii.366ff; các vị đạo sư là Sunetta, Mūgapakkha, Araṇemi, Kuddālaka và Jotipāla. Những cái tên này xuất hiện trong các Jātaka; xem để biết chi tiết. Có lẽ những câu chuyện này có từ thời kỳ tiền Phật giáo. Hãy so sánh danh sách này với danh sách tại AN.iv.135, nơi mà tên của Araka được thêm vào.
 
 ## Notes

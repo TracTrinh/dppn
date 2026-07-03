@@ -5,7 +5,7 @@ base_headword: "Dīghāvubhaṇavāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīghāvubhaṇavāra. Second chapter of the tenth <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghāvubhaṇavāra*. Chương thứ hai của Khandaka (Khandhaka) thứ mười thuộc Mahā Vagga của Vinayapiṭaka. Vin.i.343ff.
 
 ## Notes

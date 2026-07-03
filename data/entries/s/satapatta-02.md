@@ -5,7 +5,7 @@ base_headword: "Satapatta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satapatta 02. A palace, once occupied by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satapatta 02. Một cung điện, từng được Ukkhittapadumiya Thera sử dụng làm nơi ở. Ap.i.275.
 
 ## Notes

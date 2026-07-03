@@ -5,7 +5,7 @@ base_headword: "Ratanāvalicetiya"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ratanāvalicetiya 03. A *Thūpa* erected in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanāvalicetiya 03. Một *Thūpa* được Parakkamabāhu I. dựng lên ở Khīragāma trên nền giàn thiêu của mẹ ông. Cv.lxxix.71; Cv.Trs.ii.122, n.7.
 
 ## Notes

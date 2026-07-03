@@ -5,7 +5,7 @@ base_headword: "Paccayasaṅgaha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paccayasaṅgaha. A compilation by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccayasaṅgaha. Một tác phẩm biên soạn bởi Vācissāra. Gv.71.
 
 ## Notes

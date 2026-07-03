@@ -5,7 +5,7 @@ base_headword: "Pajjota"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pajjota. A tank near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjota. Một hồ nước gần Kāsapabbata, do Duṭṭhagāmaṇī xây dựng. Gần đó là thành phố Pajjotanagara. Mhv.xxv.51; MN.i.346.
 
 ## Notes

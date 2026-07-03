@@ -5,7 +5,7 @@ base_headword: "Jaṭā Bhāradvāja"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,10 @@ The Commentary (SN­a.i.179) says that he was given this name by the Recensionis
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṭā Bhāradvāja. Một vị Bà-la-môn thuộc bộ tộc (*gotta*) Bhāradvāja.
+
+Ông đã đi đến gặp Gotama Buddha và hỏi ngài những câu hỏi được đưa ra trong Jaṭāsutta. Đức Phật đã đưa ra cùng một câu trả lời (SN.i.165).
+
+Chú giải (SN­a.i.179) nói rằng ông được những Người biên tập (Recensionist) đặt cho tên gọi này bởi vì ông đã hỏi một câu hỏi về *jaṭā* (sự rối ren).
 
 ## Notes

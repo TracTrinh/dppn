@@ -5,7 +5,7 @@ base_headword: "Jitā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jitā. One of the palaces occupied by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jitā. Một trong những cung điện được Nārada Buddha cư ngụ trước khi Ngài xuất gia. Bv.x.19.
 
 ## Notes

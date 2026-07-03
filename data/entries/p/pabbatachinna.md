@@ -5,7 +5,7 @@ base_headword: "Pabbatachinnā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbatachinnā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatachinnā, Pabbatā. Một nữ tỳ-kheo-ni xuất chúng của Tích Lan. Dpv.xv.78; trong xviii. vị này được gọi là Pabbatā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sarakāṇisutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -28,6 +28,6 @@ Sarakāṇisutta 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarakāṇisutta 01. (Saraṇānisutta). Mahā Nāma báo cáo với Đức Phật những tin đồn phổ biến trong nhóm người Sākyan về Sarakāṇi (*q.v.*). Đức Phật nói rằng Sarakāṇi đã quy y Tam Bảo từ lâu, và sau đó Ngài tiếp tục mô tả nhiều phẩm chất khác nhau, bắt đầu từ những phẩm chất dẫn đến sự đoạn tận các *āsava* cho đến những phẩm chất, chẳng hạn như lòng kính mến đối với Đức Phật, ngăn con người đi đến Đọa xứ. SN.v.375f.
 
 ## Notes

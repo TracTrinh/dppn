@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammā 03. The fifth of the seven daughters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 03. Người thứ năm trong bảy cô con gái của Kikī, vua xứ Benares. Trong hai mươi nghìn năm bà đã sống cuộc sống độc thân. Bà được nhận diện là Kisā Gotamī. Ja.vi.431; Ap.ii.565.
 
 ## Notes

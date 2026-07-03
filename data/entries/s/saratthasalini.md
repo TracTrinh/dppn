@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhasālinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāraṭṭhasālinī. A *Navaṭīkā* on <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhasālinī. Một bản *Navaṭīkā* về Saccasaṅkhepa của Dhammapāla, do Sumaṅgala, học trò của Sāriputta ở Tích Lan, biên soạn. PLC.200.
 
 ## Notes

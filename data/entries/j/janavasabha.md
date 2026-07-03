@@ -5,7 +5,7 @@ base_headword: "Janavasabha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -36,6 +36,8 @@ Janavasabha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janavasabha. Một dạ-xoa (*Yakkha*), một kiếp sống sau này của Vua Bimbisāra. Ngài đã xuất hiện trước Đức Phật tại Giñjakāvasatha ở Ñātikā và tuyên bố danh tính của mình. Ngài đang trên đường làm người đưa tin từ Vessavaṇa đến Virūḷhaka và thuật lại với Đức Phật về cuộc tập hợp của chư thiên ở cõi Tāvatiṁsa đã diễn ra một thời gian trước đó, và bản báo cáo mà ngài khẳng định là đã nghe từ Vessavaṇa. Xem Janavasabhasutta.
+
+Janavasabha là một vị *Sotāpanna* và bày tỏ ước muốn trở thành một vị *Sakadāgāmi*. Ngài nói ngài nhớ tất cả mười bốn kiếp sống. DN.ii.205f, 207, 214; cp. Janesabha.
 
 ## Notes

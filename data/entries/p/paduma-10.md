@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "10"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,8 @@ The monk <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 10. Một địa ngục (Niraya). Suttanipāta giải thích rằng đó không phải là một địa ngục (Niraya) riêng biệt mà chỉ là một khoảng thời gian chịu đau khổ.
+
+Tỳ-kheo Kokālika tái sinh vào đó. Snp. p.126; Ja.iv.245; AN­a.ii.853; Dhp­a.iv.91.
 
 ## Notes

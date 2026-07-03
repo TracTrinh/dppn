@@ -5,7 +5,7 @@ base_headword: "Reṇupūjaka Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Reṇupūjaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇupūjaka Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, ông nhìn thấy Vipassī Buddha và cúng dường ngài phấn hoa (*reṇu*) của những đóa hoa Nāga. Bốn mươi lăm *kappa* trước, ông là một vị vua tên là Reṇu (Ap.i.146). Ông hiển nhiên đồng nhất với Vajjiputta Thera. Thag­a.i.143.
 
 ## Notes

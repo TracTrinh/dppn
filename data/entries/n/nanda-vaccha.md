@@ -5,7 +5,7 @@ base_headword: "Nanda Vaccha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -42,6 +42,14 @@ Elsewhere (ibid.524) the Buddha is reported as saying that though the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda Vaccha. Được đề cập trong danh sách những nhà lãnh đạo nổi tiếng của những người Ājīvaka. Họ đã được Puraṇa Kassapa, trong sự phân loại *chaḷabhijāta* của ông, tuyên bố là những *paramasukkābhijāta* (AN.iii.384; DN­a.i.162; Snp­a.i.372, v.v..; nhưng xem MN­a.ii.632, nơi họ được xếp hạng thấp hơn những người Ājīvaka, những người mà ở đó được xem là những *paramasukkkābhijāta*.)
+
+Dường như có một số điểm không chắc chắn về tên của Nanda. Danh sách trong đó có xuất hiện cái tên này chạy như sau: Nanda Vaccho, Kiso Sankicco, Makkhali Gosālo.
+
+Suttanipāta Commentary (Snp­a.i.372.) dường như xem Nanda và Vaccha là hai người hoàn toàn khác nhau. Tuy nhiên, Majjhima Commentary (MN­a.i.463; xem thêm MN.i.524), nói rằng Nanda là tên cá nhân của ông và Vaccha là tên *gotta* của ông.
+
+Những pháp khổ hạnh được Nanda Vaccha thực hành được trình bày chi tiết trong Mahā Saccakasutta (MN.i.238)
+
+Ở một đoạn khác (ibid.524) Đức Phật được thuật lại là đã nói rằng mặc dù những người Ājīvaka đã tồn tại trong một thời gian dài, nhưng họ mới chỉ sản sinh ra được ba nhà lãnh đạo xuất chúng: Nanda Vaccha, Kisa Saṅkicca, Makkhali Gosāla.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājakārāma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -47,6 +47,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājakārāma. Một tu viện ở Sāvatthī, gần Jetavana, do Pasenadi xây dựng (Ja.ii.15). Nó nằm ở phía đông nam của thành phố, tương ứng với Thūpārāma ở Anurādhapura (MN­a.ii.1021). Chính tại đó Nandakovādasutta đã được thuyết giảng (MN.iii.271). Đây có lẽ là tu viện do Pasenadi xây dựng cho các tỳ-kheo-ni, theo lời đề nghị của Đức Phật, sau vụ hành hung Uppalavaṇṇā ở Andhavana, được đề cập trong Chú giải Dhammapada (Dhp­a.ii.52).
+
+Tuy nhiên, Chú giải Saṁyutta lại đưa ra một lời kể khác (SN­a.iii.218f.; câu chuyện giới thiệu của Bharu Jātaka; Ja.ii.170, cũng đưa ra lời kể tương tự nhưng bỏ qua chi tiết nhà vua xây dựng một *vihāra*). Chú giải này nói rằng các ngoại đạo, ghen tị với Đức Phật và sự nổi tiếng của Ngài, đã muốn xây dựng một tu viện cho riêng họ ở vị trí rất gần với Jetavana, và, để Ngài không thể đưa ra lời phản đối nào, họ đã biếu Pasenadi một trăm ngàn.
+
+Khi Đức Phật phát hiện ra ý đồ của họ, do tiếng ồn ào náo động mà họ tạo ra trong khi chuẩn bị các bước sơ bộ cho việc xây dựng, Ngài đã cử Ānanda đến chỗ nhà vua, yêu cầu dừng việc đó lại. Nhưng Pasenadi từ chối gặp ngài hoặc Sāriputta hay Moggallāna (chính vì hình phạt cho sự bất lịch sự này mà ông đã mất ngôi trước khi chết.) Sau đó, đích thân Đức Phật đã đến. Pasenadi đã đón tiếp và thết đãi Ngài một bữa ăn, vào cuối bữa ăn, Đức Phật đã thuyết giảng cho ông bài Bharujātaka (Ja 213, *xem mục từ này*) về những tác hại của việc hối lộ và tạo cơ hội cho những người đức hạnh cãi vã với nhau. Pasenadi đã tràn đầy hối hận; ông đã trục xuất các ngoại đạo, và, nhận ra rằng mình chưa từng xây dựng một tu viện nào, liền tiến hành xây dựng Rājakārāma.
+
+Saṁyuttanikāya (SN.v.360ff) chứa một vài bài giảng do Đức Phật thuyết giảng tại Rājakārāma.
 
 ## Notes

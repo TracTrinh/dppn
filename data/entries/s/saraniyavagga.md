@@ -5,7 +5,7 @@ base_headword: "Sārāṇīyavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sārāṇīyavagga. The second chapter of the *Chakkanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārāṇīyavagga. Chương thứ hai của *Chakkanipāta* thuộc Aṅguttaranikāya. AN.iii.288-308.
 
 ## Notes

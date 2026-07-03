@@ -5,7 +5,7 @@ base_headword: "Sattapaṇṇiguhā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,10 @@ According to the Commentaries and the Chronicle the First Council was held in a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattapaṇṇiguhā. Một hang động ở Rājagaha, trên sườn núi Vebhāra. Có lần, khi Đức Phật đang trú ngụ tại đó, Ngài đã cho Ānanda cơ hội để thỉnh cầu Ngài sống thêm một aeon (*kappa*), nhưng Ānanda, vì sự thiếu chánh niệm của mình, đã không làm điều đó (DN.ii.116).
+
+Hang động này đôi khi được dùng làm nơi ở cho các tỳ-kheo từ xa đến (ví dụ, Vin.ii.76; iii.159).
+
+Theo các Chú giải và Biên niên sử, Kỳ Kết Tập Thứ Nhất được tổ chức trong một hội trường do Ajātasattu dựng lên bên ngoài Sattapaṇṇiguhā. SN.i.9; Vin-a.i.10; Mhv.iii.19; Dpv.iv.14; v.5; Thag­a.i.351; hang động này không được đề cập trong bản tường thuật của Vinaya về Kỳ Kết Tập, trong chương mười một của Cūḷa Vagga.
 
 ## Notes

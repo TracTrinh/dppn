@@ -5,7 +5,7 @@ base_headword: "Padumaghara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumaghara. A building in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumaghara. Một công trình kiến trúc ở Anurādhapura, nơi người ta cúng dường phẩm vật cho các tỳ-kheo (Mhv.xxxiv.65). Nơi đây nằm trong khuôn viên hoàng cung và gần Padumapokkharaṇī. Mhv­ṭ.633.
 
 ## Notes

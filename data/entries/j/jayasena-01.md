@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jayasena 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 01. Cha của Siddhattha Buddha (Ja.i.40; Bv­a.187). Buddhavaṁsa (xvii.13) gọi ông là Udena.
 
 ## Notes

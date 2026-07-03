@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -38,6 +38,12 @@ A discussion which <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 04. Một vương tử từng đến thăm sa-di Aciravata tại Veḷuvana ở Rājagaha và thỉnh cầu vị ấy giảng dạy Pháp. Vị sa-di miễn cưỡng làm như vậy, nhưng vào cuối bài giảng Jayasena tuyên bố rằng ông không thể đồng tình với nó.
+
+Khi điều này được trình lên Đức Phật, Ngài nói rằng Jayasena, do đắm chìm trong sự xa hoa, không thể được mong đợi là sẽ trân trọng sự từ bỏ (MN.iii.128).
+
+Một cuộc thảo luận mà Jayasena đã có với người chú của mình là Bhūmiya Thera được ghi lại trong Bhūmiyasutta. Trong trường hợp này, chúng ta được cho biết rằng Jayasena đã hài lòng với bài thuyết giảng và thết đãi Bhūmiya chính món cơm của mình (MN.iii.138).
+
+Buddhaghosa (MN­a.ii.932) nói rằng Jayasena là con trai ruột của Bimbisāra (*Bimbisārassa putto orasako*).
 
 ## Notes

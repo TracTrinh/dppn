@@ -5,7 +5,7 @@ base_headword: "Dhammarakkhita"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammarakkhita 06. A monk of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarakkhita 06. Một vị tỳ-kheo của Asokārāma ở Pāṭaliputta, người mà Nāgasena đã theo học bộ *Tipiṭaka* (Tam tạng). Mil.16, 18.
 
 ## Notes

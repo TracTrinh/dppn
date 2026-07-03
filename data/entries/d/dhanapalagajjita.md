@@ -5,7 +5,7 @@ base_headword: "Dhanapālagajjita"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhanapālagajjita. Mentioned in reference to the subjugation of the elephant <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapālagajjita. Được nhắc đến trong mối liên hệ với việc hàng phục con voi Dhanapāla của vị Phật (ví dụ, Ja.iii.293). *Gajjita* có lẽ là cái tên được đặt cho các bài kệ được vị Phật nói với con voi vào dịp đó (*Mā kuñjara, Nāgam āsado*, v.v...). Xem Cūḷa Haṁsajātaka, Ja 533, Ja.v.336.
 
 ## Notes

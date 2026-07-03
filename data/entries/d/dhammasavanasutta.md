@@ -5,7 +5,7 @@ base_headword: "Dhammasavanasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammasavanasutta. The five advantages of hearing the Dhamma: hearing things not
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasavanasutta. Năm lợi ích của việc nghe Pháp: nghe những điều chưa từng nghe, thanh lọc những điều đã nghe, xua tan hoài nghi, làm ngay thẳng các quan điểm của mình, sự bình an của tâm. AN.iii.248.
 
 ## Notes

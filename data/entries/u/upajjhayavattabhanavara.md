@@ -5,7 +5,7 @@ base_headword: "Upajjhāyavattabhāṇavāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upajjhāyavattabhāṇavāra. The thirtieth chapter of the first <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upajjhāyavattabhāṇavāra. Chương thứ ba mươi của Khandaka đầu tiên thuộc Mahā Vagga.
 
 ## Notes

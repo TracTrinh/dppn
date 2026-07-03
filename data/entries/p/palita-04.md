@@ -5,7 +5,7 @@ base_headword: "Pālita"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Pālita 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pālita 04. Một vị vua Nāga vào thời Padumuttara Buddha, một tiền kiếp của Rāhula (*q.v.*). SN­a.iii.26; MN­a.ii.722,1023; nhưng xem Snp­a.i.341, nơi ông được gọi là Saṅkha. Ở AN­a.i.143 tên của ông được đưa ra là Paṭhavindhara.
 
 ## Notes

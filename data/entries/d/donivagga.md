@@ -5,7 +5,7 @@ base_headword: "Doṇivagga"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Doṇivagga. A village mentioned in the campaigns of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇivagga. Một ngôi làng được nhắc đến trong các chiến dịch của Parakkamabāhu I. (Cv.lxxv.69, 72). Nó nằm trong một vùng trũng cách Ratnapura ngày nay mười hai dặm, và cái tên này được lưu giữ ở một con suối chảy qua nó, Denavaka. Cv.Trs.ii.50, n.3.
 
 ## Notes

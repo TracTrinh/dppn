@@ -5,7 +5,7 @@ base_headword: "Indriyagocarasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -28,6 +28,8 @@ The quotation given from it is: “*ekaṁ mahābhūtaṁ upādāya pāsādo pa�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyagocarasutta. Được nhắc đến trong Atthasālinī (pp. 307-8), bản Chú giải của Buddhaghosa cho Dhammasangaṇi.
+
+Trích dẫn được đưa ra từ nó là: “*ekaṁ mahābhūtaṁ upādāya pāsādo paṭhavidhātuyā tīhi mahābhūtehi susaṅgahito āpodhātuyā ca tejodhātuyā ca vāyodhātuyā ca*, một cung điện, lấy một đại chủng làm nền tảng (cụ thể là địa đại), thì được nâng đỡ tốt bởi ba đại chủng khác - thủy đại, hỏa đại, và phong đại.” Cho đến nay, bài *Sutta* này vẫn chưa được tìm thấy ở đâu khác.
 
 ## Notes

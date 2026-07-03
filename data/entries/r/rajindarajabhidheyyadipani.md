@@ -5,7 +5,7 @@ base_headword: "Rājindarājābhidheyyadīpanī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājindarājābhidheyyadīpanī. A treatise (on the naming of kings) by <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājindarājābhidheyyadīpanī. Một bài luận (về việc đặt tên cho các vị vua) của Ratnākara Thera ở Miến Điện ca ngợi nhiều vị vua. Sās, p. 102; Bode, 52.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammasattha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasattha. Name given to the codes of law drawn up from time to time in Burma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasattha. Tên gọi được đặt cho các bộ luật được soạn thảo qua từng thời kỳ ở Miến Điện, với sự hỗ trợ của các tỳ-kheo. Dhammavilāsa (hay Sāriputta) là tác giả của bộ luật lâu đời nhất trong số này được biết đến theo tên gọi. Bode, 33.
 
 ## Notes

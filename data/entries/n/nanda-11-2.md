@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "11"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 11. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 11. Vợ của Nandasena.
 
 ## Notes

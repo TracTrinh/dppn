@@ -5,7 +5,7 @@ base_headword: "Jarāsutta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,8 @@ From selfishness come grief and avarice. The monk who lives away from the world,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāsutta 01. Có một lần, khi Đức Phật đang đi viếng thăm Sāketa, một vị Bà-la-môn giàu có và vợ của ông, khi nhìn thấy ngài, đã gọi ngài là con trai của họ và chăm sóc ngài với tình cảm to lớn. Có nói rằng trong năm trăm kiếp sống, họ từng là cha mẹ của Bodhisatta. Vào lúc kết thúc một bữa ăn, Đức Phật đã thuyết giảng cho họ và họ đã trở thành những vị *Sotāpanna*. Sau khi Đức Phật rời khỏi Sāketa, họ vẫn tiếp tục sống cuộc đời đạo hạnh và trở thành những vị *Arahant* trước khi qua đời. Tại đám tang của họ, họ đã được trao tặng tất cả những sự vinh danh dành cho những vị *Arahant*, và vào lúc kết thúc các nghi lễ, Đức Phật, người đã có mặt ở đó, đã thuyết bài *Sutta* này cho những người tập hợp tại đó (Snp­a.ii.531ff; Dhp­a.iii.317ff; cp. – Sāketajātaka (Ja 68)).
+
+Từ sự ích kỷ sinh ra nỗi buồn đau và lòng tham lam. Vị tỳ-kheo sống tránh xa thế gian, không bị vấy bẩn bởi nó, là người tự tại độc lập và trở nên thanh tịnh. Snp.804-813 được giải thích tại MNid.i.117ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rāmā"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāmā 02. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmā 02. Một trong hai nữ đệ tử chính của Sumedha Buddha. Ja.i.38; Bv.xii.24.
 
 ## Notes

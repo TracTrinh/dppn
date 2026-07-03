@@ -5,7 +5,7 @@ base_headword: "Nāgasena"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāgasena 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasena 02. Một vị vua của Jambudīpa, hậu duệ của Mahā Sammata. Dpv.iii.40.
 
 ## Notes

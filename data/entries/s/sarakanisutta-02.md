@@ -5,7 +5,7 @@ base_headword: "Sarakāṇisutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sarakāṇisutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarakāṇisutta 02. Mahā Nāma lưu ý Đức Phật rằng người Sākyan rất ngạc nhiên trước lời tuyên bố của Ngài về việc đạt được quả vị *Sotāpatti* của Sarakāṇi. Sau đó, Đức Phật mô tả những đức hạnh tạo nên một bậc *Anāgāmī*, một bậc *Sakadāgāmī* hoặc một bậc *Sotāpanna*. Giáo pháp của Đức Phật giống như một thửa ruộng tốt, được làm đất kỹ lưỡng, những hạt giống được gieo vào đó có khả năng nảy mầm và được gieo trồng một cách vui vẻ, và vị thần bầu trời cung cấp một lượng mưa liên tục. SN.v.378f.
 
 ## Notes

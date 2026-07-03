@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sañjaya 01. A gardener (*uyyānapāla*) of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 01. Một người làm vườn (*uyyānapāla*) của Brahmadatta, vua của Benares. Xem Vātamigajātaka. Ông được đồng nhất với cô nô tỳ đã cố gắng cám dỗ Cūḷa Piṇḍapātikatissa Thera. Ja.i.156f.
 
 ## Notes

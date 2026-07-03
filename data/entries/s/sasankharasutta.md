@@ -5,7 +5,7 @@ base_headword: "Sasaṅkhārasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sasaṅkhārasutta. On four kinds of persons: one is set free in this life, but 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sasaṅkhārasutta. Về bốn hạng người: một người được giải thoát trong kiếp sống này, nhưng sau một vài nỗ lực (*sasaṅkhāraparinibbāyī*); một hạng khác được giải thoát khi thân hoại; hạng thứ ba được giải thoát trong kiếp sống này, không cần nỗ lực; hạng thứ tư được giải thoát khi thân hoại ngay cả khi không nỗ lực. AN.ii.155f.
 
 ## Notes

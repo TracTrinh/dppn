@@ -5,7 +5,7 @@ base_headword: "Uddhambhāgiyasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uddhambhāgiyasutta. The Noble Eightfold Way should be cultivated in order to de
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bát Thánh đạo nên được trau dồi để hủy diệt năm kiết sử "hướng thượng" – lòng tham muốn sắc và vô sắc, sự kiêu ngạo, sự trạo cử và sự vô minh (SN.v.61f).
 
 ## Notes

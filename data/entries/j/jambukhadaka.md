@@ -5,7 +5,7 @@ base_headword: "Jambukhādaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,8 @@ The Commentary (SN­a.iii.91) says that he was a nephew of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukhādaka. Một du sĩ ngoại đạo (*Paribbājaka*). Saṁyuttanikāya ghi lại những chuyến viếng thăm của ông đến gặp Sāriputta tại Nālakagāma và các cuộc thảo luận giữa họ về nhiều chủ đề khác nhau, chẳng hạn như *Nibbāna*, quả vị *Arahant*, các *āsava*, *sakkāya*, vô minh, Bát Thánh đạo, v.v. (SN.iv.251-60)
+
+Chú giải (SN­a.iii.91) nói rằng ông là một người cháu trai của Sāriputta và là một du sĩ ngoại đạo giấu diếm (*channaparibbājaka*).
 
 ## Notes

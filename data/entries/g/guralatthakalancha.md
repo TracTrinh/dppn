@@ -5,7 +5,7 @@ base_headword: "Guralaṭṭhakalañcha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Guralaṭṭhakalañcha. A locality in Ceylon, the centre of a fight between the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guralaṭṭhakalañcha. Một địa phương ở Tích Lan, trung tâm của một cuộc giao tranh giữa lực lượng của *Damiḷādhikārī* Rakkha và những kẻ thù của ông. Cv.lxxv.77; Cv.Trs.i.51, n.3.
 
 ## Notes

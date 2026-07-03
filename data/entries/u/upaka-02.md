@@ -5,7 +5,7 @@ base_headword: "Upaka"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ Upaka 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaka 02. Upaka Maṇḍikāputta. Có lần ông đã đến thăm Đức Phật tại Gijjhakūṭa và bày tỏ trước ngài quan điểm của ông rằng bất cứ ai bắt đầu lời nói lăng mạ người khác, mà không thể chứng minh được lý lẽ của mình, thì đều đáng bị khiển trách. Đức Phật đồng ý và nói rằng chính bản thân Upaka đã phạm phải lỗi lầm này. Chú giải (AN­a.ii.554) giải thích rằng Upaka là một người ủng hộ Devadatta. Upaka phản đối việc bị mắc vào một thòng lọng ngôn từ lớn, giống như một con cá bị mắc câu ngay khi nó vừa ngoi đầu lên. Đức Phật giải thích rằng ngài cần phải giảng dạy với vô số biến thể của ngôn từ và sự so sánh. Upaka hài lòng với bài nói chuyện của Đức Phật và thuật lại cuộc trò chuyện cho Ajātasattu. Nhà vua tỏ ra tức giận trước sự xấc xược của người này khi đã lớn tiếng khuyên can Đức Phật (AN.ii.181f), và Chú giải nói thêm rằng nhà vua đã sai người túm cổ và ném ông ra ngoài.
+
+Buddhaghosa nói (AN­a.ii.554-5) rằng Upaka đã đi thăm Đức Phật nhằm tìm hiểu xem liệu Đức Phật có khiển trách ông vì là một người ủng hộ Devadatta hay không. Theo những người khác, ông đến để lăng mạ Đức Phật bởi vì ông nghe nói rằng Đức Phật đã đày Devadatta xuống địa ngục. Rõ ràng là ông thuộc đẳng cấp thấp, và Ajātasattu gọi ông là “con trai của thợ làm muối” (*loṇakārakadāraka*) (AN.ii.182).
 
 ## Notes

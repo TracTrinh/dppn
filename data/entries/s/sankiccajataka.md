@@ -5,7 +5,7 @@ base_headword: "Saṅkiccajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -47,6 +47,15 @@ He is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng được sinh ra trong gia đình vị tư tế của vua nước Benares và được giáo dục ở Takkasilā, cùng với con trai của nhà vua. Họ trở thành những người bạn thân thiết, và, khi vị hoàng tử trở thành phó vương, họ sống cùng nhau. Vị hoàng tử, ấp ủ kế hoạch giết cha mình để trở thành vua, đã thổ lộ ý định này với Saṅkicca. Saṅkicca đã cố gắng can ngăn chàng, nhưng nhận thấy những nỗ lực của mình là vô ích, ông đã chạy trốn đến Himālaya, nơi ông trở thành một tu sĩ khổ hạnh. Vị hoàng tử đã giết cha mình, nhưng sau đó vô cùng hối hận và không thể tìm thấy sự bình yên trong tâm hồn. Chàng khao khát được gặp Saṅkicca, nhưng mãi đến năm mươi năm sau Saṅkicca, cùng với năm trăm người theo mình, mới đến khu vườn Dayāpassa ở Benares. Nhà vua đến thăm ông và hỏi ông về hậu quả của sự độc ác. Saṅkicca mô tả những sự kinh hoàng của địa ngục đang chờ đợi những kẻ độc ác, minh họa cho câu chuyện của mình bằng những câu chuyện
+
+- về Ajjuna, kẻ đã quấy rầy nhà hiền triết Gotama,
+- về Daṇḍaki, kẻ đã thách thức Kisavaccha,
+- về vua nước Mejjha, người mà đất nước của ông ta đã trở thành một sa mạc,
+- về những người Andhaveṇhudāsaputtā, những kẻ đã tấn công Dīpāyana, và về Cecca, kẻ bị đất nuốt chửng.
+
+Sau khi mô tả những sự kinh hoàng đang chờ đợi các nạn nhân của nhiều địa ngục khác nhau, Saṅkicca đã chỉ cho nhà vua thấy các cõi *Deva* và kết thúc bài giảng của mình, chỉ ra khả năng chuộc lỗi. Nhà vua được an ủi rất nhiều và đã thay đổi cách sống của mình.
+
+Nhà vua được đồng nhất với Ajātasattu, người mà hành động giết cha và hậu quả của nó đã làm bối cảnh để câu chuyện được kể. Mãi cho đến khi Ajātasattu tìm đến Đức Phật và lắng nghe bài thuyết pháp của ngài, ông ta mới tìm thấy sự bình yên trong tâm hồn. Ja.v.261-77.
 
 ## Notes

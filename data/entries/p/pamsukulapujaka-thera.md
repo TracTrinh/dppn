@@ -5,7 +5,7 @@ base_headword: "Paṁsukūlapūjaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -32,6 +32,8 @@ His <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsukūlapūjaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước ngài nhìn thấy một y phấn tảo (*paṁsukūla*) treo trên ngọn núi Udaka (Uraga), và cảm thấy hoan hỷ trước cảnh tượng đó, ngài đã dâng cúng ba bông hoa *kiṅkhaṇi* trước y ấy (Ap.ii.434).
+
+Các vần kệ Apadāna của ngài được nhắc đến trong Chú giải Theragātha liên quan đến cả Gosāla Thera (Thag­a.i.79) và Mahā Kāḷa Thera (Ibid.,272).
 
 ## Notes

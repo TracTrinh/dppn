@@ -5,7 +5,7 @@ base_headword: "Saṅgāmāvacarajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -31,6 +31,8 @@ The story was told in reference to the Buddha’s step-brother <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāmāvacarajātaka (Ja 182). Bodhisatta từng là một người huấn luyện voi lành nghề. Vị vua, người mà ông phục vụ, đã tấn công Benares, cưỡi con voi của quốc gia; nhưng con voi đã quá sợ hãi trước những tên đạn và tiếng ồn đến nỗi nó không chịu tiến đến nơi đó. Do đó, người huấn luyện của nó đã khuyến khích nó, nói với nó rằng nó nên cảm thấy như ở nhà trên chiến trường, và con voi, ấn tượng bởi những lời của ông, đã phá vỡ mọi chướng ngại và giành chiến thắng cho chủ nhân của mình.
+
+Câu chuyện này được kể liên quan đến người anh em cùng cha khác mẹ của Đức Phật là Nanda (xem mục này), người mà lúc đầu, đã giữ các giới luật của Tăng đoàn, bởi vì Đức Phật đã hứa sẽ lấy cho ông những thiên nữ chân bồ câu (*kakuṭapādiniyo*) ở cõi trời của Sakka; nhưng sau đó, cảm động bởi những lời của Sāriputta, ông đã nỗ lực và đạt quả vị *Arahant*. Nanda là con voi và Ānanda là vị vua. Ja.ii.92-5.
 
 ## Notes

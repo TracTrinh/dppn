@@ -5,7 +5,7 @@ base_headword: "Nandamāla"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ He wrote the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandamāla. Một vị tỳ-kheo Phật giáo xuất chúng của Miến Điện vào nửa sau của thế kỷ thứ mười tám. Ông đã đóng một vai trò nổi bật trong cuộc tranh luận *Pārupaṇa-Ekaṁsika* và được vua Mahā Dhammarājādhirāja bổ nhiệm làm Vị Lãnh đạo của Tăng đoàn Phật giáo.
+
+Ông đã viết Sāsanasuddhidīpikā. Bode, 73.
 
 ## Notes

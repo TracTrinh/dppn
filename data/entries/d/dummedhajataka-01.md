@@ -5,7 +5,7 @@ base_headword: "Dummedhajātaka"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ For the introductory story see the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dummedhajātaka 01. (Ja 50). Có một lần Bodhisatta sinh làm Brahmadatta, vua của Benares. Nhận thấy các thần dân của mình rất hay cúng tế các vị thần, trong đó động vật bị giết và các tội lỗi khác bị phạm phải, ông đã đưa ra một tuyên bố, ngay sau khi trở thành vua, rằng ông đã lập lời thề sẽ dùng làm vật hiến tế tất cả những thần dân nào nghiện Năm Tội Lỗi và đi trên mười ác đạo. Các vị quan của ông được phái đi tìm kiếm những người như vậy, và bản tuyên bố đã mang lại kết quả như mong muốn (Ja.i.259f).
+
+Về câu chuyện giới thiệu, xem Mahā Kaṇhajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Iṅgirīsi"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iṅgirīsi. The Pāli name for the English, e.g., Cv.ci.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṅgirīsi. Tên Pāli dùng để chỉ người Anh, ví dụ, Cv.ci.29.
 
 ## Notes

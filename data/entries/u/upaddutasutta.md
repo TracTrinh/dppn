@@ -5,7 +5,7 @@ base_headword: "Upaddutasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Upaddutasutta. Everything in the world is oppressed. SN.iv.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaddutasutta. Mọi thứ trên thế giới đều bị áp bức. SN.iv.29.
 
 ## Notes

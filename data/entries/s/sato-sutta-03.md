@@ -5,7 +5,7 @@ base_headword: "Sato Sutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sato Sutta 03. The Buddha instructs the monks how to be mindful. SN.v.186.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sato Sutta 03. Đức Phật hướng dẫn các tỳ-kheo cách giữ chánh niệm. SN.v.186.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rādhavatī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rādhavatī. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhavatī. Một thành phố nơi Anomadassī Buddha đã thuyết pháp cho Vua Madhurindhara. Bv­a.141.
 
 ## Notes

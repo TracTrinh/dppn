@@ -5,7 +5,7 @@ base_headword: "Sāruppasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāruppasutta. On the proper way of approach to the uprooting of all conceits. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāruppasutta. Về phương pháp tiếp cận đúng đắn để nhổ tận gốc mọi kiêu mạn. SN.iv.21.
 
 ## Notes

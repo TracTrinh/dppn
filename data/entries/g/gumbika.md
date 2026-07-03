@@ -5,7 +5,7 @@ base_headword: "Gumbika"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gumbika, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gumbika, Gumbiya. Một Yakkha; xem Gumbiyajātaka (Ja 366).
 
 ## Notes

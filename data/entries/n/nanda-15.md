@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "15"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,8 @@ This is evidently the same story as that related in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 15. Một Bà-la-môn ở Takkasilā, thông thạo kinh Veda, người đã phụng dưỡng cha mẹ mình. Ông đã kể lại bốn vần kệ cho Jayaddisa, người đang ngồi trên ngai vàng, và kiếm được bốn ngàn đồng tiền. Xem chi tiết trong Jayaddisajataka (Ja 513). Ja.v.23ff.
+
+Đây rõ ràng là cùng một câu chuyện với câu chuyện được kể trong Mahā Sutasomajataka (Ja 537, Ja.v.476f.,483). Ở đó, Nanda được cho là đã học các bài kệ từ Kassapa Buddha, và đã đặc biệt đến Indapatta để dạy chúng cho Sutasoma. Nanda được đồng nhất với Ānanda (ibid. 511. Xem chi tiết trong Mahā Sutasomajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandakasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandakasutta 02. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandakasutta 02. (hoặc Licchavīsutta). Nandaka, vị quan của tộc người Licchavī, đã đến viếng thăm Đức Phật tại Kūṭāgārasālā ở Vesālī. Đức Phật nói với ông rằng người đệ tử Ariya, sở hữu lòng trung thành kiên định với Phật, Pháp và Tăng, và có những giới đức của bậc Ariya, chắc chắn sẽ đạt được sự giác ngộ và hạnh phúc. Trong cuộc trò chuyện, một người đàn ông đến báo với Nandaka rằng nước tắm của ông đã sẵn sàng. Nandaka đuổi anh ta đi, nói rằng việc tắm rửa bên trong – lòng trung thành với Đức Phật – quan trọng hơn nhiều. SN.v.389.
 
 ## Notes

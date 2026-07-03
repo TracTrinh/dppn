@@ -5,7 +5,7 @@ base_headword: "Gotamyā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Gotamyā. The name given to the followers of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamyā. Tên gọi được dùng cho những người theo Pajāpatī Gotamī, ví dụ: Dhp­a.iv.149.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dukkhalakkhaṇavatthu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dukkhalakkhaṇavatthu. The story of five hundred monks who, in the time of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhalakkhaṇavatthu. Câu chuyện về năm trăm vị tỳ-kheo, những người vào thời của Kassapa Buddha, đã tu tập thiền quán về đặc tính của khổ. Trong thời hiện tại, họ trở thành các *Arahant* ngay lập tức khi nghe một bài kệ về khổ. Dhp­a.iii.406.
 
 ## Notes

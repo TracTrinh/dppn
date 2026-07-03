@@ -5,7 +5,7 @@ base_headword: "Dvedhāvitakkasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -26,6 +26,6 @@ Dvedhāvitakkasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvedhāvitakkasutta. Được thuyết tại Jetavana. Đức Phật kể cho các tỳ-kheo nghe làm thế nào, trước khi Giác ngộ, ngài đã chia những suy nghĩ của mình thành hai nhóm – nhóm thứ nhất là về các dục lạc, về sự hãm hại và tổn thương, và nhóm còn lại là những suy nghĩ về sự từ bỏ. Sau đó, ngài tiến hành giải thích điều này cuối cùng đã dẫn đến sự Giác ngộ như thế nào. MN.i.114ff.
 
 ## Notes

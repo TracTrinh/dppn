@@ -5,7 +5,7 @@ base_headword: "Saṅgayhasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅgayhasutta 03. The Buddha explains to the monks that they are fortunate to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgayhasutta 03. Đức Phật giải thích cho các tỳ-kheo rằng họ thật may mắn khi được sinh ra làm người, và không phải ở địa ngục, nơi mọi thứ đều không hấp dẫn, cũng không phải ở cõi trời, nơi mọi thứ đều hấp dẫn. SN.iv.126.
 
 ## Notes

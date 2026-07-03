@@ -5,7 +5,7 @@ base_headword: "Iḷanāga"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -42,6 +42,8 @@ He was succeeded by his son <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iḷanāga. Vị vua của Ceylon (CE 133-102). Ông là cháu trai của vua Āmaṇḍagāmaṇī Abhaya. Āmaṇḍa được kế vị bởi con trai ông là Cūḷābhaya, và ông này được kế vị bởi em gái của mình là Sīvalī. Sau khi Sīvalī đã trị vì được bốn tháng, Iḷanāga truất phế bà và tự mình trở thành vua. Trong năm đầu tiên của triều đại, ông đã chọc giận tộc người Lambakaṇṇa hùng mạnh, bị phế truất khỏi ngai vàng và bị bắt làm tù binh. Người ta nói rằng nhà vua đã được con voi của hoàng gia cứu khỏi ngục và ông đã trốn thoát đến Rohaṇa. Ba năm sau, ông giao chiến với những người Lambakaṇṇa tại Kapallakkhaṇḍa và tàn sát hầu hết bọn họ. Ông đã cho cắt mũi và ngón chân của những người còn lại như một sự trừng phạt.
+
+Ông được kế vị bởi con trai mình là Candamukhasiva. Đối với con voi hoàng gia, con vật đã giúp đỡ ông, ông đã ban cho vùng đất có tên là Hatthibhoga. Trong thời gian lưu vong ở Rohaṇa, Iḷanāga đã xây dựng hai hồ chứa nước, Tissa và Dūra, và phục tu Nāga *Mahā Vihāra*, mà ông đã tặng cho Mahā Paduma, vị Thera của Tulādhāra, người đã thuyết cho ông nghe bài kinh Kapijātaka. Ông cũng ban tặng đất đai để duy trì tự viện này. Mhv.xxxv.14-45; Dpv.xxi.41f.
 
 ## Notes

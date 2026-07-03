@@ -5,7 +5,7 @@ base_headword: "Sarada"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sarada 02. An ascetic who, with his large following, was converted by <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu sĩ khổ hạnh, người cùng với một lượng lớn môn đồ của mình, đã được Padumuttara Buddha biến cải. Bv­a.160.
 
 ## Notes

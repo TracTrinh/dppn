@@ -5,7 +5,7 @@ base_headword: "Saṅkhapāla"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅkhapāla 03. A lake in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hồ nước ở Mahiṁsakaraṭṭha. Đây là nơi cư ngụ của vua Nāga, Saṅkhapāla. Bắt nguồn từ hồ này là con sông Kaṇṇapeṇṇā. Ja.v.162.
 
 ## Notes

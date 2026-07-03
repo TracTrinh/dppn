@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhātusutta 03. Taught to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 03. Được dạy cho Rāhula. Tất cả các *dhātu* đều là phù du. SN.ii.248.
 
 ## Notes

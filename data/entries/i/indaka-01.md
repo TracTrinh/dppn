@@ -5,7 +5,7 @@ base_headword: "Indaka"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -29,6 +29,8 @@ Indaka 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indaka 01. Một Yakkha sống ở Indakūṭa, gần Rājagaha. Khi Đức Phật đang ở tại Indakūṭa, vị Yakkha đã hỏi ngài về việc làm thế nào linh hồn tìm được bản sao vật chất của nó. Đáp lại, Đức Phật mô tả cách bào thai phát triển thành hình dạng cuối cùng của nó nhờ vào các quy luật phát triển vật lý chứ không phải bởi mệnh lệnh của một linh hồn (SN.i.206).
+
+Buddhaghosa nói (SN­a.i.231) rằng Yakkha này là một người tin vào thuyết linh hồn (*puggalavādin*).
 
 ## Notes

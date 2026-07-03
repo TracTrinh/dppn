@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udaya 02. A Brahmin, pupil of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn, học trò của Bāvarī. Khi đến lượt mình chất vấn Đức Phật, ngài đã yêu cầu Đức Phật giải thích về sự giải thoát thông qua trí tuệ cao thượng và sự tận diệt của *avijjā*. Bởi vì Udaya đã chứng đạt đến jhāna thứ tư, Đức Phật đã đưa ra lời giải thích của mình trong các thuật ngữ của jhāna. Vào lúc kết thúc bài pháp, Udaya đã liễu ngộ Chân lý. Sn.1006, 1105-11; Snp-a.ii.599-600.
 
 ## Notes

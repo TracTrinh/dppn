@@ -5,7 +5,7 @@ base_headword: "Dīghapāsāṇaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīghapāsāṇaka. A locality in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghapāsāṇaka. Một địa phương ở Anurādhapura, nơi ranh giới (*sīmā*) của Mahā Vihāra đi qua. Mhv. Phụ lục, p.332, vv.13; Mbv.136.
 
 ## Notes

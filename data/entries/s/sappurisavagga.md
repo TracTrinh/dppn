@@ -5,7 +5,7 @@ base_headword: "Sappurisavagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sappurisavagga. The twenty-first chapter of the *Catukkanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ hai mươi mốt của *Catukkanipāta* thuộc Aṅguttara. AN.ii.217-25.
 
 ## Notes

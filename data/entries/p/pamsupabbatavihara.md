@@ -5,7 +5,7 @@ base_headword: "Paṁsupabbatavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Paṁsupabbatavihāra. A monastery in Ceylon, mentioned as the residence of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsupabbatavihāra. Một tu viện ở Tích Lan, được nhắc đến là nơi lưu trú của Bhuvenakabāhu Thera. PLC. 247.
 
 ## Notes

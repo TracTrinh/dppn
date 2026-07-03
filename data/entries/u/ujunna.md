@@ -5,7 +5,7 @@ base_headword: "Ujuññā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -35,6 +35,8 @@ It was here too that *Nigaṇṭha* <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujuññā (Ujjuññā). Một quận và một thị trấn ở Kosala. Có lần khi Gotama Buddha đang ngự tại Vườn Lộc uyển ở Kaṇṇakatthala trong vùng lân cận của thành phố, Pasenadi, người tình cờ ở Ujuññā vì công việc, đã đến thăm Đức Phật. Nhân dịp này bài kinh Kaṇṇakatthalasutta đã được thuyết (MN.ii.125ff; MN­a.ii.757).
+
+Cũng tại đây *Nigaṇṭha* Kassapa đã đến gặp Đức Phật. Chuyến viếng thăm này được ghi lại trong Kassapasīhanādasutta. DN.i.161ff.
 
 ## Notes

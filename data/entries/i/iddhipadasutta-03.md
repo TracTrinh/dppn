@@ -5,7 +5,7 @@ base_headword: "Iddhipādasutta"
 disambiguator: "03"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iddhipādasutta 03. The four *iddhipādas* form the path leading to the Uncompou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādasutta 03. Bốn *iddhipāda* hình thành nên con đường dẫn đến cõi Vô vi (*asaṅkhata*). SN.iv.360.
 
 ## Notes

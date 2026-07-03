@@ -5,7 +5,7 @@ base_headword: "Pabhāvatī"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabhāvatī 01. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhāvatī 01. Mẹ của Sujāta Buddha. Bv.xiii.20; Ja.i.38.
 
 ## Notes

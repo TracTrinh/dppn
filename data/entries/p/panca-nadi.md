@@ -5,7 +5,7 @@ base_headword: "Pañca Nadī,"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,6 @@ Pañca Nadī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañca Nadī, Pañca Mahā Nadī. Ở một vài nơi trong các văn bản, có năm con sông được nhắc đến như năm con sông lớn của Ấn Độ, và chúng được sử dụng trong nhiều phép so sánh và ẩn dụ khác nhau. Những con sông này là: Gaṅgā, Yamunā, Aciravatī, Sarabhū và Mahī, ví dụ, Vin.ii.239; AN.iv.101; SN.ii.135; Ud.v.4; đồng thời xem Mil.380.
 
 ## Notes

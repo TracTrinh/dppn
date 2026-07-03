@@ -5,7 +5,7 @@ base_headword: "Dhammadinnā"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammadinnā 01. One of the two chief women disciples of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinnā 01. Một trong hai vị nữ đệ tử thanh văn tối thắng của Đức Phật Piyadassī. Bv.xiv.21; Ja.i.39.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "05"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Indriyasutta 05. The five *indriyas* (*saddhā*, etc.), when practised with sing
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 05. Năm *indriya* (*saddhā*, v.v...), khi được tu tập với sự nhất tâm, sự ly tham, và sự diệt tận dẫn đến việc từ bỏ, sẽ hình thành nên Con đường dẫn đến cõi Vô vi. SN.iv.365.
 
 ## Notes

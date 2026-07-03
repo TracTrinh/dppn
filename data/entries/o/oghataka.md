@@ -5,7 +5,7 @@ base_headword: "Oghāṭaka"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Oghāṭaka. A poor Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghāṭaka. Một người Bà-la-môn nghèo ở Kosala, cha của Muttā Therī. Thīg­a.14.
 
 ## Notes

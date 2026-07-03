@@ -5,7 +5,7 @@ base_headword: "Ukkhittapadumiya Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ A thousand times he was king of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkhittapadumiya Thera. Một *Arahant*. Vào thời của Padumuttara Buddha, ngài từng là một người làm vòng hoa ở Haṁsavatī. Có lần trong khi ngài đang hái hoa sen trong một cái ao, Đức Phật xuất hiện trước mặt ngài với vô số đệ tử. Người làm vòng hoa đã hái một bông sen và ném nó lên không trung, mong ước nó sẽ ở trên đầu Đức Phật; nhờ oai lực của Đức Phật, nó đã thực sự ở đó. Kết quả là, người làm vòng hoa được tái sinh ở Tāvatiṁsa trong một cung điện tên là Satapatta.
+
+Một ngàn lần ngài là vua của chư thiên và năm trăm lần là vua của loài người. Ap.i.275f.
 
 ## Notes

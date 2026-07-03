@@ -5,7 +5,7 @@ base_headword: "Pacuruyyāna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pacuruyyāna. A park in Ceylon, laid out by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacuruyyāna. Một công viên ở Tích Lan, được Parakkamabāhu I xây dựng. Cv.lxxix.12.
 
 ## Notes

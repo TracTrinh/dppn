@@ -5,7 +5,7 @@ base_headword: "Jālika"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jālika. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jālika. Một trong mười người con trai của Kāḷāsoka *q.v.*
 
 ## Notes

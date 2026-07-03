@@ -5,7 +5,7 @@ base_headword: "Dhaja"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhaja. One of the eight Brahmins who recognised the signs at the Buddha’s birt
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaja. Một trong tám vị Bà-la-môn đã nhận diện các tướng tại thời điểm đản sinh của Đức Phật (Ja.i.56). Milindapañha (p.236) nói về ông như một trong những vị thầy đầu tiên của Đức Phật.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dubbacajātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dubbacajātaka (Ja 116). The Bodhisatta was once a very skilled acrobat and trav
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dubbacajātaka* (Ja 116). *Bodhisatta* từng là một người biểu diễn nhào lộn rất thành thạo và đã đi du hành khắp nơi cùng với vị thầy của mình, người biết điệu múa của bốn ngọn lao. Một ngày nọ, vị thầy, trong một cơn say xỉn và khoác lác, đã tuyên bố rằng ông sẽ thực hiện điệu múa của năm ngọn lao – điều mà ông không hề biết – và khăng khăng đòi thực hiện điều đó bất chấp lời khuyên ngăn của *Bodhisatta*. Kết quả là kẻ khoác lác đã bị đâm xuyên trên ngọn lao thứ năm (Ja.i.430f). Về câu chuyện mở đầu, xem *Gijjhajātaka* (Ja 42).
 
 ## Notes

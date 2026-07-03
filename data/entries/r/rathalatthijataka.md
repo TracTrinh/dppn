@@ -5,7 +5,7 @@ base_headword: "Rathalaṭṭhijātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,8 @@ The story was told in reference to the chaplain of the king of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathalaṭṭhijātaka (Ja 332). Vị tế sư của vua xứ Benares, khi đang trên đường về khu đất của làng mình, đã tình cờ gặp một đoàn lữ hành trên một con đường hẹp, và, trở nên mất kiên nhẫn, đã ném cây gậy thúc bò của mình vào người đánh cỗ xe đầu tiên. Tuy nhiên, cây gậy lại trúng vào ách của chính cỗ xe của ông, và nảy ngược lại, đập vào trán ông, nơi một cục u sưng tấy lên. Ông quay lại trong cơn thịnh nộ và phàn nàn với nhà vua, vị vua này, không cần tra hỏi gì, đã tịch thu tài sản của chủ đoàn lữ hành. Nhưng Bodhisatta, lúc đó là thẩm phán tối cao của nhà vua, đã lật ngược lệnh đó.
+
+Câu chuyện này được kể lại liên quan đến vị tế sư của vua xứ Kosala, người phạm một tội danh tương tự, nhưng, trong trường hợp này, nhà vua đã cho các thẩm phán của mình xét xử vụ án và vị tế sư bị tuyên bố là có tội (Ja.iii.104ff). Các bài kệ của Jātaka được trích dẫn ở nơi khác, vd., tại Ja.iv.30, 451; vi.375.
 
 ## Notes

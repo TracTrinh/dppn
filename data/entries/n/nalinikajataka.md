@@ -5,7 +5,7 @@ base_headword: "Naḷinikājātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -35,6 +35,10 @@ Delighted with the outcome of his plot, <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷinikājātaka. *v.l.* Naḷinijātaka (Ja 526). Bodhisatta từng là một sa-môn ở Himavā. Một con nai cái đã uống nước có rơi tinh dịch của ngài vào và thụ thai một bé trai, người mà ngài đã nhận nuôi và đặt tên là Isisiṅga.
+
+Isisiṅga là một đạo sĩ có khổ hạnh đến mức Sakka cũng phải run sợ trước oai lực của ông. Để phá hủy giới hạnh của ông, Sakka đã gây ra một trận hạn hán ở Kāsi, kéo dài ba năm. Khi dân chúng than phiền với nhà vua, Sakka đã hiện ra trước mặt vua và gợi ý rằng nếu con gái của nhà vua, Naḷinikā, quyến rũ Isisiṅga và phá hủy giới hạnh của ông, thì trời sẽ mưa. Naḷinikā, theo đó, được phái đến Himālaya và đến túp lều của Isisiṅga trong trang phục của một đạo sĩ, khi Bodhisatta đi vắng. Giả vờ bị gấu làm bị thương, cô ta đã lợi dụng sự ngây thơ của chàng trai chất phác (giống như Venus đã làm với Adonis). Qua những lời quyến rũ của cô, giới hạnh của ông đã bị khuất phục và quá trình thiền định thần bí của ông bị phá vỡ.
+
+Vui mừng với kết quả của âm mưu của mình, Sakka đã làm cho mưa rơi xuống Kāsi, và Naḷinikā đã rời khỏi ẩn thất. Khi Bodhisatta trở về và nghe về chuyến viếng thăm của vị đạo sĩ trẻ và tất cả những gì xảy ra sau đó, ngài đã quở trách Isisiṅga và cảnh báo ông về tương lai. Câu chuyện được kể liên quan đến một tỳ-kheo bị quyến rũ bởi người vợ trong thời gian ông còn ở thế tục. Isisiṅga được đồng nhất với vị tỳ-kheo và Naḷinikā với người vợ của ông. (Ja.v.193-209. Đây có lẽ là một dị bản của cùng một câu chuyện được tìm thấy trong *Mahāvastu* Mvu.iii.143ff).
 
 ## Notes

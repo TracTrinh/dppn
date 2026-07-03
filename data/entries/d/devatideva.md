@@ -5,7 +5,7 @@ base_headword: "Devātideva"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Devātideva. The seventh of the future Buddhas. Anāg., p.40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devātideva. Vị thứ bảy trong số các vị Phật tương lai. Anāg., p.40.
 
 ## Notes

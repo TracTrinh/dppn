@@ -5,7 +5,7 @@ base_headword: "Sapara"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sapara. A province in Ceylon (Cv.lxviii.8), also called Saparagamu (Cv.xciv.12).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tỉnh ở Ceylon (Cv.lxviii.8), cũng được gọi là Saparagamu (Cv.xciv.12). Người ta nói rằng nó có được tên gọi từ những cư dân, người Saparā hoặc Sabarā (*Savarā*), có lẽ là một tên gọi khác của người Vedda.
 
 ## Notes

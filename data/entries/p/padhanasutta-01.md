@@ -5,7 +5,7 @@ base_headword: "Padhānasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Padhānasutta 01. The four kinds of effort: to restrain, to abandon, to develop,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padhānasutta 01. Bốn loại nỗ lực: ngăn chặn, từ bỏ, phát triển, và duy trì. AN.ii.74.
 
 ## Notes

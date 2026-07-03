@@ -5,7 +5,7 @@ base_headword: "Ralaggāma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ralaggāma. A monastery in Ceylon, built by King <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ralaggāma. Một tu viện ở Tích Lan (Ceylon), do Vua Mahā Nāma xây dựng. Cv.xxxvii.212.
 
 ## Notes

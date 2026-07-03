@@ -5,7 +5,7 @@ base_headword: "Naḷasākiyā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naḷasākiyā. A branch of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷasākiyā. Một nhánh của tộc Sākiya. Khi Viḍūḍabha gây chiến với tộc Sākiya, ông ta ra lệnh giết tất cả những ai tự xưng là người Sākiya. Thuộc hạ của ông ta đi xung quanh hỏi tìm những người được gọi là Sākiya. Do đó, một số người trong nhóm này đã ngậm những ngọn cỏ ở trong răng và một số khác ngậm lau sậy. Khi bị hỏi họ có phải là người Sākiya không, nhóm trước nói "không phải *sāka*" (rau) mà là "cỏ", (*tiṇa*), và nhóm sau nói "không phải *sāka*" (rau) mà là "lau sậy" (*naḷa*). Nhờ vào cách chơi chữ này mà họ thoát chết. Kể từ đó, họ được gọi tương ứng là Tiṇasākiya và Naḷasākiya (Dhp­a.i.358f).
 
 ## Notes

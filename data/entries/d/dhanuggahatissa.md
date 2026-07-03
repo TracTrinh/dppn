@@ -5,7 +5,7 @@ base_headword: "Dhanuggahatissa"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,6 @@ Dhanuggahatissa. An Elder. One night, while staying with his friend <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanuggahatissa. Một vị Trưởng lão. Một đêm nọ, trong khi đang ở cùng người bạn tên Utta (Datta?) tại một tu viện ở Kosala, ngài thức dậy và, nhóm một ngọn lửa, bắt đầu nói chuyện với vị ấy. Cuộc trò chuyện của họ chuyển sang cuộc chiến mà Pasenadi đang tiến hành chống lại Ajātasattu. Tissa, cho rằng Pasenadi không am hiểu về nghệ thuật chiến tranh, bèn mô tả chi tiết những gì Pasenadi nên làm nếu ngài mong muốn chiến thắng. Một vài cận thần, tình cờ nghe được cuộc trò chuyện, đã báo cáo lại với Pasenadi, người, nhờ tận dụng điều đó, đã tham gia lại trận chiến và bắt sống Ajātasattu. Khi sự việc được báo cáo lên vị Phật, ngài đã kể lại Vaḍḍhakisūkarajātaka (Ja 283, *q.v.*) để cho thấy rằng trong quá khứ, Tissa cũng đã thành thạo trong nghệ thuật chiến tranh (Ja.ii.403f). Tacchasūkarajātaka (Ja 492, Ja.iv.343, 354) cũng được kể lại trong mối liên hệ này.
 
 ## Notes

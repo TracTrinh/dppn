@@ -5,7 +5,7 @@ base_headword: "Dīyavāsa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīyavāsa. A locality through which passed the *sīmā* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīyavāsa. Một địa phương nơi ranh giới (*sīmā*) của Mahā Vihāra đi qua. Mbv.135.
 
 ## Notes

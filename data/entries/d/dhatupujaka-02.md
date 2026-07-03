@@ -5,7 +5,7 @@ base_headword: "Dhātupūjaka"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhātupūjaka 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātupūjaka 02. Dhātupūjaka Thera. Một Arahant. Khi Siddhattha Buddha nhập diệt ngài đã triệu tập những người thân của mình và đảnh lễ các xá-lợi của vị Phật (Ap.ii.425). Ngài có lẽ chính là Uttara Thera. Thag­a.i.284.
 
 ## Notes

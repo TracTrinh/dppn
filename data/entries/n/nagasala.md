@@ -5,7 +5,7 @@ base_headword: "Nāgasālā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -38,6 +38,10 @@ A *pariveṇa*, called the *Nāgasālapariveṇa*, was built by <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasālā. Một tòa nhà của tu viện, từng là nơi cư trú của một tỳ-kheo tên là Mahā Dhammakathī. Kassapa II đã nhìn thấy các tòa nhà ở trong tình trạng đổ nát, và, trong quá trình trùng tu chúng, ông đã thuyết phục Trưởng lão đến sống trong một *pāsāda* lớn gắn liền với *vihara* (tu viện) Maricavaṭṭi.
+
+Trưởng lão này rất tinh thông về Abhidhamma, và nhà vua đã để cho Abhidhamma và các Chú giải được ngài tụng đọc. Ngôi làng Mahā Niṭṭhula đã được ban tặng cho ngài để bảo trì nó (Cv.xliv.149ff., Cv.xlv.2). Nāgasālā cũng là nơi ở của Dāṭhāsiva (Cv.xlvi.6).
+
+Một *pariveṇa*, được gọi là *Nāgasālapariveṇa*, đã được xây dựng bởi Aggabodhi, người trị vì Malaya và là bộ trưởng của nhà vua, vào triều đại của Sena III, người đã ban tặng một ngôi làng cho việc bảo trì nó (Cv.liii.36).
 
 ## Notes

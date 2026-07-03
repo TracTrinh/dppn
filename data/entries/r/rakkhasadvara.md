@@ -5,7 +5,7 @@ base_headword: "Rakkhasadvāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhasadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhasadvāra. Một trong các cổng của Pulatthipura. Cv.lxxiii.161.
 
 ## Notes

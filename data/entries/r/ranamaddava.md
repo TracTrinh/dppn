@@ -5,7 +5,7 @@ base_headword: "Raṇamaddava"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Raṇamaddava. The state horse of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṇamaddava. Con ngựa chầu của Eḷāra. Nó bị Veḷusumana đánh cắp. Nhưng xem Vaha. Ras.ii.62.
 
 ## Notes

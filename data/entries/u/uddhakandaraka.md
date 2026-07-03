@@ -5,7 +5,7 @@ base_headword: "Uddhakandaraka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uddhakandaraka. A *vihāra* in South Ceylon, founded by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *vihāra* ở Nam Tích Lan, được thành lập bởi Mahā Nāga, em trai của Devānampiyatissa (Mhv.xxii.9).
 
 ## Notes

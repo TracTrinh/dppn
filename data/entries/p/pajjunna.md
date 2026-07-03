@@ -5,7 +5,7 @@ base_headword: "Pajjunna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -36,6 +36,10 @@ He was also influenced by the exercise of *saccakiriyā* (protestation of truth)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjunna. Một *devarāja*, thần mưa. Ông thần phục dưới ý chí của Sakka, và các sách có ghi lại những trường hợp ông làm mưa theo lệnh của Sakka (Ja.i.330; Mhv.xxi.31; Ja.iv.253).
+
+Ông cũng bị chi phối bởi việc thực hành Lời Nguyện Sự Thật (*saccakiriyā*), ví dụ, Ja.i.331f. Buddhaghosa (SN­a.i.64) mô tả ông là Vassavalāhaka, và nói rằng ông là một cư dân của cõi Cātummahārājika. Kokanadā và Cūḷa Kokanadā là các con gái của ông (SN.i.29f).
+
+Pajjunna được nhắc đến trong số các Đại Yakkha (*Mahā* Yakkhas) cần được cầu khẩn trong lúc nguy nan (DN.iii.205), và ông đã hiện diện tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

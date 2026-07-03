@@ -5,7 +5,7 @@ base_headword: "Dhītaro Sutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,8 @@ The *Sutta* is referred to as <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhītaro Sutta. Khi Māra rút lui trong sự thất bại trong cuộc đấu tranh của ông với vị Phật, các con gái của ông, Taṇhā, Aratī và Ragā, đã đảm nhận việc quyến rũ vị Phật. Họ xuất hiện trước ngài trong nhiều hình thức và vỏ bọc khác nhau, nhưng mọi nỗ lực của họ đều trở nên vô ích, và họ đã báo cáo sự thất bại của mình cho Māra. (SN.i.124f.)
+
+*Sutta* này được nhắc đến như là Kumārīpañha tại AN.v.46; cp. Dhp­a.i.202). Xem thêm Palobhanasutta.
 
 ## Notes

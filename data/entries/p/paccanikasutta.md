@@ -5,7 +5,7 @@ base_headword: "Paccaṇīkasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paccaṇīkasutta. Once the Brahmin <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccaṇīkasutta. Thuở nọ, vị Bà-la-môn Paccaṇīkasāta của Sāvatthī đã đến thăm Đức Phật và yêu cầu ngài tụng một giáo lý. Nhưng Đức Phật đã từ chối, nói rằng thật vô ích khi cố gắng dạy cho một người mà trái tim đã thối nát và đầy sự thù hằn. Sự từ chối này dường như đã làm hài lòng vị Bà-la-môn. SN.i.179.
 
 ## Notes

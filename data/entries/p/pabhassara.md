@@ -5,7 +5,7 @@ base_headword: "Pabhassara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabhassara. A king of long ago, a previous birth of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhassara. Một vị vua từ thuở xa xưa, một tiền kiếp của Mahā Kaccāna. Ap.i.84.
 
 ## Notes

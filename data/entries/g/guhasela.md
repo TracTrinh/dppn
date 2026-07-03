@@ -5,7 +5,7 @@ base_headword: "Guhasela"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Guhasela. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guhasela. Một cung điện nơi Tissa Buddha cư ngụ trước khi Ngài thực hiện cuộc đại xả ly cuối cùng. Bv.xviii.17.
 
 ## Notes

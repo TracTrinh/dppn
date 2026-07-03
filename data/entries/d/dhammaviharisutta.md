@@ -5,7 +5,7 @@ base_headword: "Dhammavihārīsutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammavihārīsutta. Two *Suttas* on the same theme. The monk worthy to be calle
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammavihārīsutta. Hai *Sutta* có cùng chủ đề. Vị tỳ-kheo xứng đáng được gọi là một *dhammavihārī* không phải là người đã thông thạo Pháp, cũng không phải là người dạy Pháp cho những người khác, vị ấy không phải là người đọc thuộc lòng Pháp cũng không phải là người suy ngẫm về nó, mà ngài là người, sau khi đã học Pháp, sống tách biệt và chuyên tâm đạt đến sự bình an của nội tâm. AN.iii.86.
 
 ## Notes

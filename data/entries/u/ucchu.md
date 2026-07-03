@@ -5,7 +5,7 @@ base_headword: "Ucchu"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Ucchu. The name given to one of the stories of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên được đặt cho một trong những câu chuyện của Petavatthu. *Peta* được nhắc đến đã là một cư dân gần Veḷuvana. Có một lần ông ta đang đi dọc theo con đường, vừa ăn một cây mía vừa mang theo một bó mía. Phía sau ông ta có một người đàn ông khác có hạnh kiểm tốt đi đến, cùng với một đứa trẻ. Đứa trẻ, nhìn thấy cây mía, đã cầu xin một ít từ nó với những tiếng khóc lóc thảm thiết. Người đàn ông tốt bụng muốn dỗ dành đứa trẻ, đã bước đến chỗ người ăn mía và cố gắng kết bạn. Tuy nhiên, những nỗ lực của ông ta không thành công, và khi ông ta xin một miếng mía cho đứa trẻ, người đàn ông đã hờn dỗi ném cho ông một mẩu nhỏ từ đầu ngọn của cây mía. Người đàn ông này, sau khi qua đời, được sinh ra làm một *Peta*. Xung quanh ông ta là một khu rừng mía, nhưng mỗi khi ông ta cố gắng ăn bất kỳ cây nào trong số chúng, ông ta đều bị bầm dập và bị thương nặng nề. Một ngày nọ, Moggallāna đã nhìn thấy ông, và sau khi phát hiện ra tiền sử của ông, đã kể cho ông nghe về cuộc sống vô ích trong quá khứ của ông. Ngài bảo *Peta* lấy cho mình một khúc mía, thứ mà ngài đã dâng lên cho Đức Phật và các tỳ-kheo. Như một kết quả của điều này, *Peta* đã được tái sinh ở Tāvatiṁsa. Pv., pp.61f; Pv-a.257ff.
 
 ## Notes

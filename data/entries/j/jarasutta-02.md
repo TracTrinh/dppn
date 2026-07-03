@@ -5,7 +5,7 @@ base_headword: "Jarāsutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jarāsutta 02. Righteousness remains good even in old age; faith is a lucky stan
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāsutta 02. Sự chân chánh vẫn luôn tốt đẹp thậm chí ngay cả khi đã già nua; đức tin là một nền tảng may mắn, trí tuệ là viên ngọc giữa mọi người và phước báu là của cải không ai có thể lấy cắp được. SN.i.36.
 
 ## Notes

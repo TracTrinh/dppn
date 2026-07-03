@@ -5,7 +5,7 @@ base_headword: "Udāyīsutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udāyīsutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda báo cáo lên Đức Phật rằng Udāyī đã thuyết giảng cho một nhóm rất đông đảo những người cư sĩ đi theo. Đức Phật nói rằng đây không phải là một điều dễ làm; người mà thuyết giảng cho một lượng thính giả lớn phải thấy được rằng, (1) bài giảng của mình có một sự tham chiếu hợp logic, (2) nó có sự lập luận (*pariyāya*), (3) nó được truyền cảm hứng bởi lòng tốt (*dayā*), (4) nó không phải vì lợi ích thế gian, (5) nó không gây đau khổ cho bất kỳ ai. AN.iii.184.
 
 ## Notes

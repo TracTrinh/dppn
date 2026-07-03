@@ -5,7 +5,7 @@ base_headword: "Devāsutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,6 @@ Devāsutta 02. Explains the various names of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devāsutta 02. Giải thích nhiều tên gọi khác nhau của Sakka – Magha, Purindada, Vāsava, Sahassakkha, Sujampati và Devānaminda. SN.i.228.
 
 ## Notes

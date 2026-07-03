@@ -5,7 +5,7 @@ base_headword: "Juṇha"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Juṇha 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Juṇha 02. Con trai của Brahmadatta, vua xứ Benares. Ông chính là Bodhisatta. Xem Juṇhajātaka (Ja 456) Ja.iv.95ff.
 
 ## Notes

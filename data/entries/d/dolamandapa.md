@@ -5,7 +5,7 @@ base_headword: "Dolāmaṇḍapa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dolāmaṇḍapa. A building erected by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dolāmaṇḍapa. Một tòa nhà được Parakkamabāhu I xây dựng tại Dīpuyyāna. Nó được gọi như vậy vì nó chứa một chiếc xích đu được treo những chiếc chuông vàng nhỏ xíu. Cv.lxxiii.116.
 
 ## Notes

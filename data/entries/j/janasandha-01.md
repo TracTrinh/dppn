@@ -5,7 +5,7 @@ base_headword: "Janasandha"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Janasandha 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasandha 01. Vua xứ Benares, cha của Ādāsamukha. Người hầu của ông là Gāmaṇicanda. Để biết câu chuyện của họ, xem Gāmaṇicandajātaka (Ja.ii.297ff); Janasandha cũng được nhắc đến với tên gọi là Dasaratha (e.g., p.299). Ông được gọi là Janasandha vì ông đã thu phục trái tim của mọi người bằng bốn cách đối xử tử tế (*catūhi saṅgahavatthūhi sandahanato*). Ja.ii.299.
 
 ## Notes

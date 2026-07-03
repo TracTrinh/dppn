@@ -5,7 +5,7 @@ base_headword: "Saṅgharakkhita"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -32,6 +32,6 @@ Saṅgharakkhita 05. A Thera of Ceylon. He was a pupil of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgharakkhita 05. Một vị Thera của Tích Lan. Ông là học trò của Sāriputta và Medhaṅkara. Ông đã viết vài cuốn sách đề cập đến ngữ pháp, tu từ học, và vần luật: Vuttodaya, Subodhālaṅkāra, Susaddasiddhi, Sambandhacintā, Yogavinicchaya và Khuddasikkhā *ṭīkā*. PLC.197f.; Gv.6. 66. 71; *Sisters* 69. 70; Svd.1209.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "07"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 07. A nun (evidently distinct from No. 6) mentioned as having died at Ñ�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 07. Một tỳ-kheo-ni (rõ ràng khác với người số 6) được đề cập là đã qua đời tại Ñātika và được hóa sanh vào Suddhāvāsā, tại đó bà sẽ nhập diệt, không bao giờ quay trở lại. DN.ii.91; SN.v.356f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Doṇagajjita"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Doṇagajjita. A poem in 12,000 words composed by the Brahmin <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇagajjita. Một bài thơ dài 12.000 từ được sáng tác bởi người Bà-la-môn Doṇa 1, để tôn vinh Đức Phật.
 
 ## Notes

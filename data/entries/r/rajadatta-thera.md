@@ -5,7 +5,7 @@ base_headword: "Rājadatta Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -32,6 +32,8 @@ Fourteen *kappas* ago he had seen a <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājadatta Thera. Một bậc *Arahant*. Ngài thuộc về gia đình của một người trưởng thương buôn ở Sāvatthī, và được gọi như vậy vì ngài sinh ra nhờ ân sủng của Vessavaṇa. Khi đến tuổi trưởng thành ngài đưa một đoàn lữ hành gồm năm trăm cỗ xe đến Rājagaha. Rồi, sau khi đã phung phí hết tiền bạc, ngài đi đến Veḷuvana, và, sau khi nghe Đức Phật thuyết giảng, ngài đã gia nhập Tăng đoàn và sống trong một bãi tha ma. Trong lúc đi lang thang, ngài nhìn thấy thi thể bị cắt xén của một kỹ nữ bị sát hại và chỉ với một nỗ lực lớn ngài mới tự cứu mình khỏi sự xao nhãng của tâm trí. Về sau, ngài đạt được *jhāna* và đắc quả vị *Arahant*.
+
+Mười bốn *kappa* trước, ngài đã nhìn thấy một vị *Pacceka Buddha* dưới gốc cây và đã cúng dường cho vị ấy một quả *ambāṭaka* (xoài?) (Thag. vss. 315-19; Thag­a.i.402f). Có lẽ ngài cũng đồng nhất với Ambāṭaka Thera. Ap.i.394.
 
 ## Notes

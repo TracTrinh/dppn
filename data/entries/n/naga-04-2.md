@@ -5,7 +5,7 @@ base_headword: "Nāgā"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nāgā 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgā 04. Nāgā Therī. Một *Arahant* của Bhātaragāma. Trong cuộc cướp phá của *Brāhmaṇa* (Bà-la-môn) Tissa, khi tất cả dân làng đã bỏ chạy, bà cùng các đồng đạo đi đến một cây đa, vị thọ thần ngự trị ở đó đã cung cấp thức ăn cho họ. Bà có một người anh em tên là Nāga; khi ngài đến thăm bà, bà đã nhường cho ngài một phần thức ăn của mình, nhưng ngài từ chối nhận thức ăn từ một *bhikkhunī* (tỳ-kheo-ni). MN­a.i.546; AN­a.ii.654.
 
 ## Notes

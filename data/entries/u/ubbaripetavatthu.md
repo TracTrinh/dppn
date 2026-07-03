@@ -5,7 +5,7 @@ base_headword: "Ubbarīpetavatthu"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Ubbarīpetavatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện của Ubbarī (2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ratanagharacetiya"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ratanagharacetiya. A shrine erected on the site of the Jewelled Hall (<span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanagharacetiya. Một ngôi đền được dựng lên trên nền của Điện Ngọc (Ratanaghara), do chư thiên tạo ra ở phía tây bắc của cây bodhi. Tại đó, Đức Phật đã ngồi trong tuần thứ tư sau khi giác ngộ, xoay vần Abhidhammapiṭaka trong tâm trí ngài. Ja.i.78; Bv­a.8, 241.
 
 ## Notes

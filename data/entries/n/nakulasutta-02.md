@@ -5,7 +5,7 @@ base_headword: "Nakulasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nakulasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulasutta 02. Nakulamātā đến thăm Đức Phật tại Bhesakalāvana. Đức Phật nói với bà về tám phẩm chất sẽ đảm bảo cho một người phụ nữ được sinh ra giữa các *Devā* (chư thiên) Manāpakāyikā. AN. iv. 268 f.; 265 f.
 
 ## Notes

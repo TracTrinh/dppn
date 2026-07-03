@@ -5,7 +5,7 @@ base_headword: "Sappurisānisaṁsasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sappurisānisaṁsasutta. Because of a good man, one grows in virtue, concentrat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nhờ một người tốt, một người sẽ tăng trưởng về giới, định, tuệ và sự giải thoát, những phẩm chất được các bậc Thánh yêu mến. AN.ii.239.
 
 ## Notes

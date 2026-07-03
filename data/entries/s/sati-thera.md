@@ -5,7 +5,7 @@ base_headword: "Sāti Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,8 @@ Sāti Thera. He was a fisherman’s son and held the false view that, according 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāti Thera. Ngài là con trai của một ngư dân và giữ tà kiến rằng, theo giáo pháp của Đức Phật, tâm thức của một người vận hành và tiếp nối mà không có sự đứt đoạn về nhân dạng. Các đồng đạo của Sāti đã cố gắng hết sức để thay đổi cách suy nghĩ của ngài, nhưng khi không thành công, họ đã báo cáo vấn đề này với Đức Phật. Ngài đã gạn hỏi Sāti, tuy nhiên, Sāti lại ngồi im lặng và buồn bã; sau đó Đức Phật đã thuyết giảng cho ngài và hội chúng tỳ-kheo bài Mahā Taṇhāsaṅkhayasutta (MN.i.256 ff).
+
+Buddhaghosa giải thích (MN­a.i.477) rằng Sāti không phải là một người có học thức. Ngài chỉ biết các Jātaka, và quan điểm của ngài là do thực tế rằng trong các Jātaka, nhiều nhân vật khác nhau đã được đồng nhất với Đức Phật.
 
 ## Notes

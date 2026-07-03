@@ -5,7 +5,7 @@ base_headword: "Rājamātikā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājamātikā. A monastery in Ceylon, dedicated by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājamātikā. Một tu viện ở Tích Lan, được Aggabodhi V cúng dường cho các Paṁsukūlī. Cv.xlviii.4.
 
 ## Notes

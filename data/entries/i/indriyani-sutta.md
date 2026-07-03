@@ -5,7 +5,7 @@ base_headword: "Indriyāni Sutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Indriyāni Sutta. There are four *indriyas*: *saddhā*, *viriya*, *sati* and *sa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyāni Sutta. Có bốn *indriya*: *saddhā*, *viriya*, *sati* và *samādhi* (AN.ii.141).
 
 ## Notes

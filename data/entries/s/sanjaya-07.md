@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -40,6 +40,14 @@ Barua thinks (Op. cit., 326) that the *Aviruddhakas* mentioned in the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 07. Sañjaya Belaṭṭhiputta. Một trong sáu vị đạo sư ngoại đạo nổi tiếng vào thời Đức Phật. Ông là một người theo chủ nghĩa hoài nghi lớn, giáo lý của ông là sự lẩn tránh các vấn đề và đình chỉ sự phán xét. Những giáo thuyết của ông dường như đồng nhất với những giáo thuyết của nhóm *Amarāvikkhepika* (những người trườn uốn như lươn), những người, khi được hỏi một câu hỏi, sẽ nói nước đôi và trườn uốn như một con lươn. Những lời dạy của Sañjaya được đưa ra tại DN.i.58; so sánh "những người trườn uốn như lươn" tại DN.i.27.
+
+Có lẽ Sañjaya chỉ đình chỉ những phán xét của mình đối với những câu hỏi mà câu trả lời cho chúng phải luôn là một vấn đề của sự suy đoán. Có thể là ông muốn gây ấn tượng với những người theo mình về sự thật rằng câu trả lời cuối cùng cho những câu hỏi này nằm ngoài phạm vi của sự suy đoán, và rằng ông muốn chuyển sự chú ý của họ khỏi sự tìm hiểu vô ích và hướng nó đến việc gìn giữ sự bình thản của tâm trí.
+
+Buddhaghosa không cung cấp cho chúng ta chi tiết nào về Sañjaya, ngoài sự thật rằng ông là con trai của Belaṭṭha (DN­a.i.144). Các văn bản tiếng Phạn gọi ông là Sañjayī Vairatiputra (ví dụ, Mvu.iii.59f) và Sañjayi Vairattīputra (ví dụ, Divy.143,145).
+
+Ông hiển nhiên đồng nhất với Sañjaya, vị *Paribbājaka* (du sĩ ngoại đạo) từng là vị thầy ban đầu của Sāriputta và Moggallāna (Vin.i.39). Người ta nói rằng khi hai đệ tử này rời bỏ Sañjaya để trở thành học trò của Đức Phật, họ đã được hai trăm năm mươi người khác tham gia cùng. Sañjaya sau đó đã ngất xỉu, và máu nóng trào ra từ miệng ông. Vin.i.42; theo Dhp­a.i.78, Sāriputta và Moggallāna đã cố gắng thuyết phục Sañjaya chấp nhận giáo lý của Đức Phật, nhưng họ thất bại, và chỉ một nửa số đệ tử của ông đã gia nhập cùng họ. Vị *Paribbājaka* Suppiya cũng là một môn đồ của Sañjaya (DN­a.i.35).
+
+Barua nghĩ rằng (Op. cit., 326) những người thuộc *Aviruddhaka* được đề cập trong Aṅguttara (AN.iii.276) cũng là những môn đồ của Sañjaya – rằng họ được gọi là *Amarāvikkhepakā* vì những giáo thuyết triết học của họ, và *Aviruddhakā* vì hạnh kiểm đạo đức của họ.
 
 ## Notes

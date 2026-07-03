@@ -5,7 +5,7 @@ base_headword: "Ummādacittā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -32,6 +32,8 @@ She was given the name of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummādacittā. Mẹ của Paṇḍukābhaya, vua xứ Tích Lan. Bà là con gái của Bhaddakaccānā và Paṇḍuvāsudeva, và khi bà được sinh ra, các Bà-la-môn đã tiên đoán rằng con trai của bà sẽ giết tất cả các người cậu của mình. Do đó, các anh em trai của bà đã quyết định giết bà, nhưng bà đã được cứu bởi người anh cả của mình là Abhaya. Bà bị giam trong một căn phòng được xây dựng trên một cây cột duy nhất, với một lối vào thông qua phòng ngủ của nhà vua. Nhưng Dīghagāmaṇī đã đem lòng yêu bà và đến thăm bà vào ban đêm với sự trợ giúp của một chiếc thang có móc. Về sau, khi đang mang thai, bà được gả cho ông (Mhv.ix.1ff; Dpv.x.4).
+
+Bà được đặt tên là Ummādacittā vì chỉ cần nhìn thấy vẻ đẹp của bà cũng khiến đàn ông phát điên. Mhv.ix.5.
 
 ## Notes

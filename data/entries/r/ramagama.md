@@ -5,7 +5,7 @@ base_headword: "Rāmagāma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -34,6 +34,6 @@ Rāmagāma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmagāma. Một ngôi làng Koḷiyan trên bờ sông Ganges. Cư dân ở đây đã đòi hỏi và nhận được một phần xá-lợi của Đức Phật, trên đó họ đã dựng lên một bảo tháp (Thūpa) (DN.ii.167; Bv.xxviii.3; Divy.380). Bảo tháp này sau đó bị lũ lụt phá hủy, và chiếc bình cất giữ xá-lợi bị cuốn trôi ra biển. Tại đó, các Nāga, dưới sự dẫn dắt của vua của họ, Mahā Kāḷa, đã đón nhận và đưa nó về nơi ở của họ tại Mañjerika, nơi một bảo tháp được xây dựng bên trên, kèm theo một ngôi đền, và họ đã tôn kính chúng hết mực. Khi Duṭṭhagāmaṇī xây dựng Mahā Thūpa và yêu cầu các xá-lợi để tôn trí vào trong đó, Mahinda đã cử Soṇuttara đến thế giới Nāga để lấy những xá-lợi này, do Đức Phật đã thọ ký rằng chúng cuối cùng sẽ được tôn trí trong Mahā Thūpa. Nhưng Mahā Kāḷa không sẵn lòng chia tay chúng, và Soṇuttara đã phải sử dụng thần thông (iddhi) của mình để lấy được chúng. Một vài xá-lợi sau đó đã được trả lại cho các Nāga để họ thờ phụng. Để biết chi tiết, xem Mhv.xxxi.18ff.
 
 ## Notes

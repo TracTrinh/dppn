@@ -5,7 +5,7 @@ base_headword: "Januttama"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Januttama. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Januttama. *v.l.* Jaluttama. Một vị vua cách đây năm mươi mốt *kappa*, một tiền kiếp của Meṇḍasira Thera, cũng được gọi là Gaṇṭhipupphiya. Thag­a.i.172; Ap.i.162.
 
 ## Notes

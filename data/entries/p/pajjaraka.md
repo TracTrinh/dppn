@@ -5,7 +5,7 @@ base_headword: "Pajjaraka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pajjaraka. The name of a disease which afflicted <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjaraka. Tên gọi một căn bệnh hoành hành ở Abhayapura (kinh đô của Tích Lan) vào thời Kakusandha Buddha. Nguyên nhân là do ảnh hưởng của Yakkha Puṇṇakāla. Kakusandha đã viếng thăm Hòn đảo để tiêu trừ căn bệnh này. Nó được định nghĩa là một *uṇhasīsābādha*. Mhv.xv.63; Mhv­ṭ.349.
 
 ## Notes

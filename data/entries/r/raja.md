@@ -5,7 +5,7 @@ base_headword: "Rājā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājā. Một *Yakkha*, một trong những sứ giả của Kuvera. DN.iii.201; DN­a.iii.967.
 
 ## Notes

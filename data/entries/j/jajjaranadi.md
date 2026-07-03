@@ -5,7 +5,7 @@ base_headword: "Jajjaranadī"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jajjaranadī. A river in Ceylon, the present Deduru-Oya. On the river was the fa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jajjaranadī. Một con sông ở Tích Lan, nay là Deduru-Oya. Trên con sông này có con đường đắp cao nổi tiếng tên là Koṭṭhabaddha, được khôi phục bởi Parakkamabāhu I (Cv.lxviii.16), ông cũng đã xây một con đập vắt ngang qua sông tại Dorādattika. Ibid., vs.37; xem thêm lxxix.67.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅghamitta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -38,6 +38,8 @@ Acting on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghamitta. Một tỳ-kheo người Coḷa, môn đệ của Vetullavāda. Tại Thūpārāma, ông đã đánh bại Thera Goṭhābhaya trong một cuộc tranh luận, và trở thành một người được sủng ái của Vua Goṭhābhaya, được bổ nhiệm làm gia sư cho các con trai của ông, Jeṭṭhatissa và Mahā Sena. Khi Jeṭṭhatissa lên ngôi, Saṅghamitta đã quay trở lại Coḷa, vì ông không được nhà vua đặc biệt yêu mến; nhưng khi Mahā Sena lên ngôi, ông đã trở lại Tích Lan.
+
+Hành động theo lời khuyên của Saṅghamitta, Mahā Sena đã ra sắc lệnh rằng không được bố thí cho các tỳ-kheo của Mahā Vihāra và tất cả các bảo vật thuộc về Mahā Vihāra đã được đưa đến Abhayagiri với sự giúp đỡ của vị quan Soṇa. Saṅghamitta đã cho phá hủy Lohapāsāda. Chỉ đến khi vị quan được sủng ái của ông, Meghavaṇṇābhaya, nổi dậy chống lại ông, Mahā Sena mới nhìn thấy sai lầm trong các đường lối của mình và từ bỏ Saṅghamitta. Trong khi nhà vua đi vắng, Saṅghamitta đã cố gắng phá hủy Thūpārāma, và một trong những người vợ của nhà vua đã thuyết phục một người lao động giết cả Saṅghamitta và Soṇa. Mhv.xxxvi.113f; xxxvii.2ff.; Cv.xxxviii.55, 58.
 
 ## Notes

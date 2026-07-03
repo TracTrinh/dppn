@@ -5,7 +5,7 @@ base_headword: "Sātodikā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sātodikā. A river in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sātodikā. Một con sông ở Suraṭṭha (Surat). Sālissara sống trong một ẩn thất trên bờ sông này sau khi ngài rời khỏi ẩn thất Kaviṭṭhaka. Ja.iii.463; nhưng tại Ja.v.133 thì Meṇḍissara mới là người sống ở đó.
 
 ## Notes

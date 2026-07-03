@@ -5,7 +5,7 @@ base_headword: "Dhammaramma"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammaramma. A tank in Ceylon built by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaramma. Một hồ chứa nước ở Tích Lan được xây dựng bởi Mahā Sena. Mhv.xxxvii.47.
 
 ## Notes

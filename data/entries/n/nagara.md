@@ -5,7 +5,7 @@ base_headword: "Nagara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nagara. The name of King <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagara. Tên của kinh đô thuộc vua Madda (?) Ja.v.310.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Īsādantā"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Īsādantā. Một hạng voi được nhắc đến cùng với voi Hemavata và những con khác (Vv.xx.9). Chúng có vòi giống như càng xe, hơi cong (Vv-a.104).
 
 ## Notes

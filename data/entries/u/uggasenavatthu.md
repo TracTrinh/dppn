@@ -5,7 +5,7 @@ base_headword: "Uggasenavatthu"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggasenavatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggasenavatthu. Câu chuyện về Uggasena của Rājagaha (Uggasena 2). Dhp­a.iv.59-65; ibid., 159.
 
 ## Notes

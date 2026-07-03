@@ -5,7 +5,7 @@ base_headword: "Dhammādāsapariyāya"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammādāsapariyāya 02. The name given to a sermon preached by the Buddha at <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammādāsapariyāya 02. Cái tên được đặt cho một bài pháp được Đức Phật thuyết giảng tại Ñātikā, chỉ ra cách dự đoán cảnh giới tái sinh của một đệ tử. DN.ii.93f; SN.v.357.
 
 ## Notes

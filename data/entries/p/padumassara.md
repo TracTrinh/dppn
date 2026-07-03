@@ -5,7 +5,7 @@ base_headword: "Padumassara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumassara. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumassara. Một công viên ở Anurādhapura do Vua Kuṭakaṇṇatissa quy hoạch xây dựng. Mhv.xxxiv.35.
 
 ## Notes

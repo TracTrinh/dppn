@@ -5,7 +5,7 @@ base_headword: "Ogadhasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Ogadhasutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ogadhasutta hoặc Saṭayhasutta. Một vị đệ tử Thánh với lòng trung thành kiên định đối với Đức Phật, Giáo Pháp và Tăng đoàn, theo thời gian nhất định sẽ đạt được niềm an lạc được thấm nhuần trong đời sống phạm hạnh (*ogadha*). (SN.v.343f). Về cái tên, xem KS.v.298, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīghavāpi"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -40,6 +40,10 @@ For a story connected with the *cetiya* see <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghavāpi. Một hồ chứa nước và một khu vực ở Tích Lan. Khi Đức Phật đến Tích Lan, ngài đã đến thăm ngôi làng, và tại nơi ngài ngồi thiền, một cetiya sau này đã được xây dựng (Mhv.i.78; Dpv.ii.60; Vin-a.i.89). Nơi đây dường như từng là trạm trung tâm trong xứ sở nằm giữa vương quốc Tamil và tỉnh Rohaṇa. Như vậy chúng ta thấy em trai của Duṭṭhagāmaṇī, Tissa, đã chiếm đóng nơi này theo lệnh của cha mình. Sau đó, khi cha qua đời, ông đã lui về Dīghavāpi cùng với mẹ và con voi Kaṇḍula (Mhv.xxiv.2, 14f, 48). Khi ông giảng hòa với anh trai mình, ông lại được cử đến đó để trông coi khu vực này.
+
+Sau khi chinh phục người Tamil, Tissa lại phụ trách Dīghavāpi, vì chúng ta thấy ông được gọi đến từ đó vào thời điểm cái chết của Duṭṭhagāmaṇī (Mhv.xxxii.2). Tissa (sau này được gọi là Saddhātissa) đã thành lập Dīghavāpi *vihāra*, và liên quan đến nó ông đã xây dựng một cetiya, nơi ông đã thực hiện những món đồ cúng dường giá trị (Mhv.xxxiii.9, 14). Chúng ta nghe nói về Dīghavāpi liên quan đến các chiến dịch của Parakkamabāhu I. (Cv.lxxiv.89; 98, 110, 180; lxxv.1, 10). Nhiều năm sau, Rājasīha II. đã trao khu vực xung quanh Dīghavāpi cho những người định cư đến từ Hà Lan (Cv.xcvi.25, 28; về việc đồng nhất nó, xem Cv.Trs.ii.30, n.1). Ngôi làng Mahā Muni, nơi cư ngụ của Sumanā, vợ của Lakuṇṭaka Atimbara, nằm ở Dīghavāpi (Dhp­a.iv.50). Dīghavāpi cách Tissamahārāma chín do-tuần (AN­a.i.386).
+
+Về một câu chuyện liên quan đến cetiya, xem *Dhajaggaparitta*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammarakkhita"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammarakkhita 04. A Thera at whose request *Ācariya* <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammarakkhita 04. Một vị Thera mà theo yêu cầu của ngài *Ācariya* Dhammapāla đã viết bản Chú giải cho Netti. Gv.69.
 
 ## Notes

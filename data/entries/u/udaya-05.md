@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,6 @@ Udaya 05. King of Ceylon, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Tích Lan, Udaya I (sau Công nguyên 792-797), cũng được gọi là Dappula. Ông là con trai của Mahinda II và vợ ông là Senā thông minh. Ông có vài người con, trong số đó có Devā, người đã được gả cho Mahinda, con trai của *Ādipāda* Dāṭhāsiva của Rohaṇa. Về những chi tiết cho triều đại của ông, hãy xem Cv.xlix.1ff; cũng xem Cv.Trs.i.126, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅghapāla"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghapāla 01. A *pariveṇa*, residence of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghapāla 01. Một *pariveṇa*, nơi cư trú của Goṭhābhaya Thera (xxxvi.114). Chú giải Mahā Vaṁsa (Mhv-ṭ. 673) gọi nó là Saṅghapālaṅgaṇa.
 
 ## Notes

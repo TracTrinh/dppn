@@ -5,7 +5,7 @@ base_headword: "Pācīnasuttā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pācīnasuttā. A group of three *Suttas*, in all of which it is stated that jus
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnasuttā. Một nhóm gồm ba *Sutta*, trong tất cả đều có tuyên bố rằng giống như một số con sông nhất định (vd. Gaṅgā, Yamunā, Aciravatī, v.v.) có xu hướng chảy về phía đông, thì một tỳ-kheo khi trau dồi Bát Thánh đạo cũng có xu hướng hướng về *Nibbāna*. SN.v.38f.
 
 ## Notes

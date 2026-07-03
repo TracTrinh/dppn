@@ -5,7 +5,7 @@ base_headword: "Nāmasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāmasutta. Preached in answer to a *Deva*’s question; *nāma*, more than anyt
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāmasutta. Được thuyết để trả lời câu hỏi của một *Deva*; *nāma*, hơn bất cứ điều gì khác, đặt mọi thứ dưới sự thống trị của nó. SN.i.39.
 
 ## Notes

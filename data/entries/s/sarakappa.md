@@ -5,7 +5,7 @@ base_headword: "Sārakappa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārakappa. The name given to a *kappa* in which only one Buddha is born. Bv­a.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārakappa. Tên được đặt cho một *kappa* trong đó chỉ có một vị Phật ra đời. Bv­a.158.
 
 ## Notes

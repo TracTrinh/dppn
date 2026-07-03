@@ -5,7 +5,7 @@ base_headword: "Jinadattā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jinadattā. A Therī. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jinadattā. Một vị Therī. Isidāsi đã được xuất gia dưới sự chỉ dẫn của bà (Thīg­a.261). Bà được miêu tả là một chuyên gia về Vinaya. Thīg.vs.427.
 
 ## Notes

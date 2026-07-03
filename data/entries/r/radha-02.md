@@ -5,7 +5,7 @@ base_headword: "Rādha"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rādha 02. The Bodhisatta born as a parrot. See the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādha 02. Vị Bodhisatta sinh làm một con vẹt. Xem Rādhajātaka (Ja 145) (2).
 
 ## Notes

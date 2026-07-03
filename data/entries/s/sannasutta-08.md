@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "08"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 08. The same as (2), with the addition of thoughts of the skeleton
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như (2), với sự thêm vào các ý niệm về bộ xương, giòi bọ, xác chết đổi màu, xác chết nứt nẻ, và xác chết trương phình. AN.v.106.
 
 ## Notes

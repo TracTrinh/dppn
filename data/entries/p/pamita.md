@@ -5,7 +5,7 @@ base_headword: "Pamitā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pamitā. One of the seven children of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pamitā. Một trong bảy người con của người Sākiyan Sīhahanu, và do đó là chị em gái của Suddhodana. *v.l.* Pālitā. Mhv.ii.20; Mhv­ṭ.135; bà không được nhắc đến trong Dpv. (xem iii.46).
 
 ## Notes

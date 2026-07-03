@@ -5,7 +5,7 @@ base_headword: "Guhasīva"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ Later, he sent the relic to Ceylon, through his daughter <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guhasīva. Vua của Kāliṅga. Thoạt đầu ông không tỏ lòng tôn kính Xá-lợi Răng của Đức Phật được lưu giữ tại thủ đô của mình, nhưng sau đó, khi đã chứng kiến một phép mầu, ông đã trở thành một Phật tử và dâng lên mọi sự tôn kính cho Xá-lợi.
+
+Về sau, ông đã gửi Xá-lợi đến Tích Lan, thông qua con gái mình là Hemamālā và chồng của cô là Dantakumāra. Toàn bộ câu chuyện được kể trong Dāṭhāvaṁsa (chương iv.ff).
 
 ## Notes

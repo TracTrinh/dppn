@@ -5,7 +5,7 @@ base_headword: "Rājavagga"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājavagga 02. The fourteenth chapter of the *Pañcakanipāta* of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavagga 02. Chương thứ mười bốn của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.147-64.
 
 ## Notes

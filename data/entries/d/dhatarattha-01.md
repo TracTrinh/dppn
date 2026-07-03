@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhataraṭṭha 01. One of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 01. Một trong nhóm Cātummahārājikā, người cai trị Phương Đông. Những người đi theo ngài là các Gandhabba. Ngài có rất nhiều người con trai tên là Indra (DN.ii.207, 220, 257f; iii.197). Ngài đã có mặt tại buổi thuyết giảng kinh Mahā Samayasutta và Āṭānāṭiyasutta. Tên của con gái ngài là Sirī (Ja.iii.257).
 
 ## Notes

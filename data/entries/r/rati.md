@@ -5,7 +5,7 @@ base_headword: "Ratī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ratī. One of the daughters of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratī. Một trong những người con gái của Māra (*q.v.*).
 
 ## Notes

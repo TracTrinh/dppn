@@ -5,7 +5,7 @@ base_headword: "Raṭṭhapāla"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Raṭṭhapāla 02. A monk in the time of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṭṭhapāla 02. Một tỳ-kheo vào thời của Padumuttara Buddha. Ông được tuyên bố là bậc tối thắng trong số những người xuất gia nhờ đức tin. Nhưng xem Raṭṭhapāla, (1).
 
 ## Notes

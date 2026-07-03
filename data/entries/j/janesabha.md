@@ -5,7 +5,7 @@ base_headword: "Janesabha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -33,6 +33,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janesabha. Một Gandhabba, một chư hầu của Tứ Đại Thiên Vương. Vị này đã có mặt tại buổi thuyết giảng Mahā Samaya (DN.ii.258).
+
+Trong Āṭānāṭiyasutta (DN.iii.204), vị này được nhắc đến là một thủ lĩnh dạ-xoa (*Yakkha*) sẽ được những người đi theo Đức Phật cầu khẩn trong những lúc nguy khốn.
+
+Vị này có lẽ cũng chính là Janavasabha.
 
 ## Notes

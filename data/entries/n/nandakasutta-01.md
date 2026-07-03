@@ -5,7 +5,7 @@ base_headword: "Nandakasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandakasutta 01. Records the incident of the Buddha listening to the preaching o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandakasutta 01. Ghi chép lại sự kiện Đức Phật lắng nghe bài thuyết pháp của Nandaka và phần tiếp theo trong bài thuyết pháp của Nandaka. Xem Nandaka (1). AN.iv.358ff.
 
 ## Notes

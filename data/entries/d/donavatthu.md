@@ -5,7 +5,7 @@ base_headword: "Doṇavatthu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Doṇavatthu. A Brahmin village near <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇavatthu. Một ngôi làng Bà-la-môn gần Kapilavatthu, nơi cư ngụ của Puṇṇāmantānīputta và của Aññā Kondañña. Thag­a.i.37; ii.1; AN­a.i.81, 84, 114.
 
 ## Notes

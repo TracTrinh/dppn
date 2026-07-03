@@ -5,7 +5,7 @@ base_headword: "Udumbara"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Udumbara 01. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Thera của Makuva, tác giả của một *ṭīkā* (phụ chú giải) về Peṭakopadesa. Gv.75, 65.
 
 ## Notes

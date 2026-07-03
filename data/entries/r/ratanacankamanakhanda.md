@@ -5,7 +5,7 @@ base_headword: "Ratanacaṅkamanakhaṇḍa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ratanacaṅkamanakhaṇḍa. The Introductory Chapter of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanacaṅkamanakhaṇḍa. Chương Mở Đầu của Buddhavaṁsa.
 
 ## Notes

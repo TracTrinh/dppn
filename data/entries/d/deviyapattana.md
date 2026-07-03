@@ -5,7 +5,7 @@ base_headword: "Deviyāpaṭṭana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Deviyāpaṭṭana. A village in South India, captured by <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Deviyāpaṭṭana. Một ngôi làng ở Nam Ấn, bị Laṅkāpura chiếm giữ. Cv.lxxvi.169.
 
 ## Notes

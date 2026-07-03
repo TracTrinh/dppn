@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggata 05. Twenty-nine *kappas* ago there were sixteen kings of the name of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 05. Hai mươi chín *kappa* trước, có mười sáu vị vua tên là Uggata, tất cả đều là tiền kiếp của Trưởng lão Citakapūjaka. Ap.i.151.
 
 ## Notes

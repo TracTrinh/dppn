@@ -5,7 +5,7 @@ base_headword: "Gotamaka"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -30,6 +30,6 @@ Gotamaka 01. A class of ascetics, enumerated in a list of such classes. (AN.iii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamaka 01. Một nhóm các vị khổ hạnh, được liệt kê trong danh sách các nhóm như vậy. (AN.iii.276. Có phải *Devadhammikā* trong Ap.ii.358 (vs.11) là để chỉ Gotamā không?) Rhys Davids nghĩ rằng họ gần như chắc chắn là những người theo một thành viên khác của tộc Sākiyan, khác biệt với Đức Phật, và cho rằng đó có thể là Devadatta hoặc có thể là một Bà-la-môn thuộc Gotamagotta (Dial.i.222; nhưng xem bài báo của ông về Dhamma Phật giáo trong ERE.; xem thêm Brethren, 265, n.3). Tuy nhiên, *Lalitavistara* (p.492) nói đến Gautama trong danh sách chín giáo phái như vậy; *Gotamaka* và *Gautama* hiển nhiên là đồng nhất, vì một số nhóm khác tương ứng với tiếng Pāli. Theo *Lalitavistara*, các giáo phái này đã tồn tại ngay cả trước thời Đức Phật, vì họ được miêu tả là đã gặp gỡ và thưa chuyện với Ngài vào tuần thứ sáu sau khi giác ngộ, trên đường Ngài đi đến cây Ajapāla. Chúng ta không nghe nói gì thêm về họ trong lịch sử sau này.
 
 ## Notes

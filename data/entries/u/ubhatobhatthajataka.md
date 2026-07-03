@@ -5,7 +5,7 @@ base_headword: "Ubhatobhaṭṭhajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Ubhatobhaṭṭhajātaka (Ja 139). Once in a village of line-fishermen one of th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Xưa kia tại một ngôi làng của những người câu cá bằng dây, một người trong số họ đã lấy đồ câu của mình và đi cùng với cậu con trai nhỏ của mình để câu cá. Một cành cây chìm đã mắc vào dây câu của ông ta, nhưng người đàn ông, nghĩ rằng đó là một con cá lớn, đã gửi con trai về nhà để yêu cầu mẹ của nó gây gổ với những người hàng xóm nhằm khiến họ bận rộn kẻo họ sẽ đòi chia phần mẻ cá của ông ta. Khi cậu bé đã đi, người đánh cá đi xuống nước để kéo con cá, nhưng ông ta va vào cành cây chìm và bị mù cả hai mắt. Hơn nữa, một tên cướp đã đánh cắp quần áo của ông ta từ trên bờ và vợ ông ta bị đưa đến trước trưởng làng và bị phạt tiền và bị đánh đập vì tội gây gổ. Bodhisatta, người là một thọ thần, đã nhìn thấy tất cả những điều này xảy ra và rút ra một bài học đạo đức từ đó. Câu chuyện được kể lại liên quan đến Devadatta, người được đồng nhất với người đánh cá, tất cả các công việc của ông ta đều đã chuốc lấy đau buồn. Ja.i.482-4.
 
 ## Notes

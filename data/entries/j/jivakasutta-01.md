@@ -5,7 +5,7 @@ base_headword: "Jīvakasutta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jīvakasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvakasutta 01. Jīvaka đến thăm Đức Phật, người đang lưu trú trong vườn Xoài của ông, và hỏi liệu có đúng là những con vật bị giết theo chủ ý dành riêng cho Đức Phật thọ dụng hay không. Đức Phật trả lời rằng Ngài cấm việc ăn thịt chỉ khi có bằng chứng từ mắt hoặc tai của một người làm cơ sở cho sự nghi ngờ rằng con vật đã bị giết theo chủ ý dành riêng cho người đó. Bất cứ ai giết một con vật cho mục đích thọ dụng của một tỳ-kheo và cúng dường nó cho vị ấy đều phạm một tội ác lớn. Jīvaka hài lòng với câu trả lời và tuyên bố mình là một tín đồ của Đức Phật. MN.i.368f.
 
 ## Notes

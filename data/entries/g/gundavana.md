@@ -5,7 +5,7 @@ base_headword: "Gundāvana"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -32,6 +32,8 @@ The full name of the forest seems to have been *Kaṇhagundāvana* (MN­a.ii.738
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gundāvana *v.l.* Kuṇḍavana. Một khu rừng ở Madhurā. Mahā Kaccāna đã trú ngụ ở đó và được viếng thăm bởi Avantiputta, vua của Madhurā, người mà ngài đã thuyết giảng Madhurāsutta (MN.ii.83f), và bởi Bà-la-môn Kaṇḍarāyana (AN.i.67f).
+
+Tên đầy đủ của khu rừng dường như là *Kaṇhagundāvana* (MN­a.ii.738; JRAS., 1894, 349).
 
 ## Notes

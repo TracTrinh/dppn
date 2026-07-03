@@ -5,7 +5,7 @@ base_headword: "Gotamadvāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -27,6 +27,6 @@ Gotamadvāra. The gate by which the Buddha left <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamadvāra. Cổng mà qua đó Đức Phật đã rời khỏi Pāṭaligāma, sau khi thọ thực tại đây theo lời thỉnh mời của Sunidha và Vassakāra. Vin.i.230, v.v., như trên.
 
 ## Notes

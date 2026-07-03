@@ -5,7 +5,7 @@ base_headword: "Raṭṭhapāla"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Raṭṭhapāla 03. The name of the family into which <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Raṭṭhapāla 03. Tên gia tộc mà Raṭṭhapāla (1) sinh vào đó. Xem Raṭṭhapāla (1).
 
 ## Notes

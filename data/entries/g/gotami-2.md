@@ -5,7 +5,7 @@ base_headword: "Gotamī"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -26,6 +26,6 @@ Gotamī. One of the chief women supporters of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamī. Một trong những nữ hộ độ chính của Vessabhū Buddha (Bv.xxii.25). Chú giải (Bv­a., p.208) gọi bà là Kāḷi Gotamī.
 
 ## Notes

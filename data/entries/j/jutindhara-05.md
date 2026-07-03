@@ -5,7 +5,7 @@ base_headword: "Jutindhara"
 disambiguator: "05"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jutindhara 05. A brother of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutindhara 05. Một người anh em của Vedisadevī; ông là một trong những quý tộc đã hộ tống cây Bồ-đề (Bodhi-tree) đến Tích Lan. Mbv.166.
 
 ## Notes

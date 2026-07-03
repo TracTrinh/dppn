@@ -5,7 +5,7 @@ base_headword: "Uggaha Meṇḍakanattā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ The Commentary says that their nuptials were already in progress at the time of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cháu trai của vị trưởng giả Meṇḍaka; ông sống ở Bhaddiya. Một lần khi Đức Phật đang ở tại Jātiyāvana thuộc Bhaddiya, Uggaha đã mời ngài và ba vị tỳ-kheo đến dùng một bữa ăn tại nhà ông. Vào lúc kết thúc bữa ăn, ông đã thỉnh cầu Đức Phật nói một vài lời khuyên cho các con gái của ông, những người sắp kết hôn. Đức Phật đã thuyết giảng cho họ Uggahasutta (AN.iii.36ff).
+
+Chú giải nói rằng lễ cưới của họ đang diễn ra vào thời điểm chuyến viếng thăm của Đức Phật (AN­a.ii.597).
 
 ## Notes

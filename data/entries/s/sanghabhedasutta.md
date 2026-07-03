@@ -5,7 +5,7 @@ base_headword: "Saṅghabhedasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅghabhedasutta. The results of bringing about dissension in the Saṅgha. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabhedasutta. Những hậu quả của việc gây ra sự chia rẽ trong Tăng đoàn. AN.v.74.
 
 ## Notes

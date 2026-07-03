@@ -5,7 +5,7 @@ base_headword: "Dīpanayā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpanayā. An eminent Therī of Ceylon, resident in <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpanayā. Một nữ Trưởng lão (Therī) xuất chúng của Tích Lan, cư trú tại Rohaṇa. Bà là một chuyên gia về Pháp và Vinaya. Dpv.xviii.40.
 
 ## Notes

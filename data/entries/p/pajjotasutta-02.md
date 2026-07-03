@@ -5,7 +5,7 @@ base_headword: "Pajjotasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pajjotasutta 02. The four things that give light: the sun, the moon, fire, and t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjotasutta 02. Bốn thứ mang lại ánh sáng: mặt trời, mặt trăng, lửa, và Đức Phật, trong đó Đức Phật là ánh sáng tối thượng. SN.i.15.
 
 ## Notes

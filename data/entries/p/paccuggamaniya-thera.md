@@ -5,7 +5,7 @@ base_headword: "Paccuggamanīya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paccuggamanīya Thera. An *Arahant*. Ninety-four *kappas* ago he saw <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccuggamanīya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ngài đã nhìn thấy Siddhattha Buddha và đi theo ngài với ánh nhìn say đắm. Hai mươi bảy *kappa* trước, ngài là một vị vua tên là Saparivāra. Ap.i.240.
 
 ## Notes

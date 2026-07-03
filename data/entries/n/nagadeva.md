@@ -5,7 +5,7 @@ base_headword: "Nāgadeva"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgadeva. One of the descendants of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgadeva. Một trong những hậu duệ của Mahā Sammata. Ông trị vì ở Campā, và hai mươi lăm hậu duệ của ông đã trị vì ở Mithilā (Dpv.iii.29).
 
 ## Notes

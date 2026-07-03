@@ -5,7 +5,7 @@ base_headword: "Ukkācelāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Ukkācelāsutta. The incident mentioned in the entry on <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkācelāsutta. Sự kiện được đề cập trong mục về Ukkācelā, về việc Đức Phật ca ngợi hai vị đại đệ tử của mình, sau khi họ qua đời. SN.v.163.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uddalolakavihāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uddalolakavihāra. A monastery in Ceylon; it was the residence of an Elder, name
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Tích Lan; nó là nơi cư trú của một vị Trưởng lão, tên là Mahā Abhaya. Ras.ii.1; Sās-d.82.
 
 ## Notes

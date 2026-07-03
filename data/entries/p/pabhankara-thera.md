@@ -5,7 +5,7 @@ base_headword: "Pabhaṅkara Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabhaṅkara Thera. An *Arahant*. He once saw the *cetiya* of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhaṅkara Thera. Một vị *Arahant*. Ngài từng nhìn thấy *cetiya* của Padumuttama Buddha bị bao phủ bởi cây cối và dây leo và hoàn toàn không thể tiếp cận được. Ngài đã dọn dẹp nó và làm cho nó sẵn sàng để thờ phụng. Ap.i.269-70.
 
 ## Notes

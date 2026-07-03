@@ -5,7 +5,7 @@ base_headword: "Ukkanagara"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ukkanagara. A *vihāra* (presumably in Ceylon). It was the residence of the Ther
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkanagara. Một *vihāra* (có lẽ ở Tích Lan). Đó là nơi cư trú của Trưởng lão Mahā Vyaggha và bảy trăm người khác. Mhv.xxxii.54.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīgha"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -34,6 +34,6 @@ Dīgha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgha 01. Một thủ lĩnh Yakkha mà những người theo Đức Phật nên tìm kiếm sự giúp đỡ, khi gặp nguy nan (DN.iii.205). Đức Phật kể (MN.i.201f) rằng Dīgha từng đến thăm ngài và kể cho ngài nghe về những thành tựu tuyệt vời của Anuruddha, Nandiya và Kimbila, đồng thời nhận xét rằng người Vajjī (Vajjian) thật may mắn biết bao khi ba người này đang cư trú tại xứ Vajjī. Buddhaghosa (MN­a.i.431) mô tả Dīgha như một *devarājā* (thiên vương) và nói rằng tên gọi khác của ông là Parajana. Chuyến viếng thăm Đức Phật của ông diễn ra tại Gosiṅgasālavana, ngay trước khi Đức Phật rời đi để đến gặp Anuruddha và những người khác.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indagutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -29,6 +29,8 @@ Indagutta 02. The Thera appointed by the monks of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indagutta 02. Vị Thera được các tỳ-kheo của Pāṭaliputta bổ nhiệm để giám sát công việc xây dựng tám mươi bốn ngàn *vihāra* do Asoka đảm nhận. Vị Thera, bằng năng lực của mình, đã làm cho các lễ khánh thành của tất cả các *vihāra* có thể được cử hành vào cùng một ngày. Mhv.v.174; Vin-a.i.49.
+
+Ban đầu Indagutta sống tại *Sīhakumbhavihāra* ở Devaputta, đứng đầu một hội chúng lớn. Asoka, sau khi nghe về danh tiếng của ông, đã mời ông đến Pāṭaliputta. Ông đã đi cùng 60.000 tỳ-kheo và Asoka đã tiếp đón họ với sự tôn kính to lớn. Nhìn thấy những sự vinh danh được dành cho mình, Indagutta đã tràn đầy sự kiêu hãnh. Asoka khi nhận thấy điều này, đã khuyên răn ông. Indagutta nhờ được lợi ích từ lời khuyên đó, đã phát triển tuệ quán ngay khi ông đang đứng và trở thành một bậc *Arahant*. Ras.i.80f.
 
 ## Notes

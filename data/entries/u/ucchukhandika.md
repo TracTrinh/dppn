@@ -5,7 +5,7 @@ base_headword: "Ucchukhaṇḍika"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Ucchukhaṇḍika. A Thera. He was a gate-keeper in <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Thera. Ngài là một người gác cổng ở Bandhumatī trong thời của Vipassī Buddha và đã có lần dâng cho Đức Phật một khúc mía (Ap.ii.393). Ngài có lẽ đồng nhất với Kosiya Thera (Thag­a.i.431f).
 
 ## Notes

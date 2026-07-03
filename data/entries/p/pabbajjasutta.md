@@ -5,7 +5,7 @@ base_headword: "Pabbajjāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -38,6 +38,8 @@ Pabbajjāsutta. When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbajjāsutta. Khi Gotama, sau khi rời nhà, bước vào Giribbaja (Rājagaha) để khất thực, Bimbisāra đã thấy ngài đi và cử các sứ giả để tìm ra tung tích của ngài. Họ báo cáo rằng Gotama đang dùng bữa dưới bóng của *pabbata* Paṇḍava. Tại đó, Bimbisāra đã đến thăm ngài và yêu cầu ngài chia sẻ vương quốc của mình. Gotama đã kể cho Bimbisāra nghe về lai lịch của ngài, rằng ngài là một người Sākyan của Kosala và đã từ bỏ mọi thú vui, vì thấy được sự xấu xa trong chúng (Snp.vs.405-24).
+
+Buddhaghosa giải thích rằng *Sutta* này do Ānanda thuyết giảng tại Jetavana, bởi vì vị này mong muốn đưa ra một lời kể về sự xuất gia của Đức Phật, tương tự như của Sāriputta và những người khác (Snp­a.ii.381). Chú giải nói thêm (p.386) rằng vào cuối cuộc trò chuyện với Đức Phật, Bimbisāra đã yêu cầu ngài đến thăm Rājagaha ngay khi ngài đạt được Giác ngộ.
 
 ## Notes

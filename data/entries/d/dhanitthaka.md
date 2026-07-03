@@ -5,7 +5,7 @@ base_headword: "Dhaniṭṭhaka"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhaniṭṭhaka. An example of a low family name. Vin.iv.6, 13.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaniṭṭhaka. Một ví dụ về một tên dòng họ thấp kém. Vin.iv.6, 13.
 
 ## Notes

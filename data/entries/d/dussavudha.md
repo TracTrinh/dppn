@@ -5,7 +5,7 @@ base_headword: "Dussāvudha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ It is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussāvudha. Một trong bốn thứ vũ khí lợi hại nhất được tìm thấy trên thế gian. Nó thuộc về Āḷavaka. Nếu ông tung nó lên trời, sẽ không có cơn mưa nào rơi xuống trong mười hai năm; nếu ông để nó rơi xuống đất, tất cả các loại cây cối sẽ chết và không có gì mọc lên trong mười hai năm; nếu ông ném nó xuống biển, biển sẽ hoàn toàn cạn kiệt; nó có thể làm cho Sineru vỡ vụn thành từng mảnh. Āḷavaka đã ném nó vào Đức Phật, nhưng nó rơi xuống chân Đức Phật và nằm lại đó như một tấm thảm.
+
+Nó cũng được gọi là Vatthāvudha, và rõ ràng là được làm bằng vải (Snp­a.i.225f).
 
 ## Notes

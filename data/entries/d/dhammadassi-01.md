@@ -5,7 +5,7 @@ base_headword: "Dhammadassī"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -50,6 +50,6 @@ Dhammadassī 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadassī 01. Đức Phật Dhammadassī. Vị thứ mười lăm trong số hai mươi bốn vị Phật. Ngài sinh ra tại khu ngự uyển Saraṇa trong thành phố Saraṇa, cha ngài là một Sát-đế-lỵ tên là Saraṇa, và mẹ ngài là Sunandā. Người ta nói rằng vào ngày ngài đản sinh, mọi bộ luật bất công đều biến mất khỏi các sách luật, do đó có tên của ngài. Trong tám nghìn năm ngài sống cuộc đời gia chủ, trong ba cung điện – Araja, Viraja và Sudassana. Chính thất của ngài là Vicitolī và con trai ngài là Puññavaḍḍhana. Ngài từ bỏ thế gian, du hành trong cung điện của mình, được tháp tùng bởi tất cả tùy tùng. Trong bảy ngày ngài thực hành khổ hạnh; vợ ngài đã cúng dường ngài một bữa cơm sữa, và một *yavapālaka*, tên là Sirivaḍḍha, đã cúng dường cỏ để làm chỗ ngồi cho ngài; cây *bodhi* của ngài là cây *bimbijāla*. Bài pháp đầu tiên của ngài được thuyết giảng tại Isipatana. Về sau ngài đã thuyết pháp cho Vua Sañjaya xứ Tagara, và cho Sakka, người mà lúc đó là Bodhisatta. Các anh em cùng cha khác mẹ của Đức Phật, Paduma và Phussadeva, đã trở thành những đệ tử thanh văn tối thắng của ngài, và Hārita là vị đứng đầu trong số những người thực hành khổ hạnh (*dhutaṅga*). Thị giả của Đức Phật là Sunetta, các nữ đệ tử thanh văn tối thắng của ngài là Khemā và Sabbadinnā (Saccadinnā). Subhadda và Kaṭisaha là những người đứng đầu trong số các nam thí chủ, và Sāliyā cùng Vaḷiyā đứng đầu trong số các nữ thí chủ. Thân của Đức Phật cao tám mươi cubit và ngài thọ một trăm nghìn tuổi, nhập diệt tại Kesārāma ở Sālavati. Bv.xvi.1ff; Bv­a.182ff; Ja.i.38, 39, 40, 44.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jarāvagga"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jarāvagga 02. The fifth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāvagga 02. Chương thứ năm của Indriyasaṁyutta. SN.v.216-27.
 
 ## Notes

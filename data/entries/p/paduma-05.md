@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "05"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paduma 05. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 05. Một cung điện được Siddhattha Buddha cư ngụ. Bv­a.185; nhưng xem Bv.xvii.14.
 
 ## Notes

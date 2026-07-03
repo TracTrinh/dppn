@@ -5,7 +5,7 @@ base_headword: "Jātakaṭṭhakathā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -37,6 +37,12 @@ The authorship of the translation is traditionally attributed to <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātakaṭṭhakathā, Chú giải Jātaka. Một Bản chú giải về Jātaka. Nó bao gồm tất cả các bài kệ của Jātaka và cũng đưa ra, dưới dạng văn xuôi, những câu chuyện có liên quan đến các bài kệ đó. Mỗi câu chuyện như vậy đều được cung cấp một khuôn khổ về các phần giới thiệu, nêu rõ những hoàn cảnh mà trong đó câu chuyện này đã được kể lại, và mỗi câu chuyện đều có một phần xác định danh tính vào cuối câu chuyện về các nhân vật chính được đề cập với Gotama Buddha và những người cùng thời với ngài trong một kiếp sống trước đây.
+
+Toàn bộ bộ sưu tập này được bắt đầu bằng một bài luận văn giới thiệu dài, Nidānakathā, kể lại lịch sử của Đức Phật trước khi ngài giáng sinh là Siddhattha, và cũng trong suốt kiếp sống cuối cùng của ngài, cho đến thời điểm Giác ngộ.
+
+Tác phẩm này là một bản dịch sang tiếng Pāli từ bản chú giải bằng tiếng Sinhalese như đã được truyền lại ở Tích Lan, nhưng các bài kệ của bản chú giải này thì đã có sẵn bằng tiếng Pāli.
+
+Quyền tác giả của bản dịch này theo truyền thống được cho là của Buddhaghosa, nhưng có nhiều quan điểm khác biệt về điểm này. Để xem một cuộc thảo luận, xem PLC.123ff.
 
 ## Notes

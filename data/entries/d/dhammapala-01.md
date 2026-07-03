@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 01. Dhammapāla Thera. Một vị *Arahant*. Ngài là một Bà-la-môn xứ Avanti và đã học tập ở Takkasilā. Trong khi từ đó trở về sau khi hoàn thành xong việc học tập của mình, ngài nhìn thấy một vị tỳ-kheo sống tách biệt và, sau khi nghe vị ấy thuyết Pháp, đã gia nhập Tăng đoàn và trở thành *Arahant*. Người ta kể lại với chúng ta rằng một ngày nọ, trong khi đang thiền định, ngài nhìn thấy hai vị sa-di trèo lên một cái cây trong *vihāra* để hái hoa. Nhánh cây bị gãy và họ rơi xuống, nhưng ngài, với thần thông (*iddhi*) của ngài, đã bắt được họ và đặt họ xuống mà không bị thương tích gì.
+
+Vào thời của Đức Phật Atthadassī ngài đã cúng dường cho Đức Phật một quả *pilakkha* (Thag.vs.203f; Thag­a.i.326f). Ngài có lẽ là cùng một người với Pilakkhaphaladāyaka của Apadāna. Ap.i.298.
 
 ## Notes

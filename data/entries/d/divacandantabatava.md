@@ -5,7 +5,7 @@ base_headword: "Divācandantabāṭava"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Divācandantabāṭava. A forest in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Divācandantabāṭava. Một khu rừng ở Rohaṇa. Cv.lxxiv.61.
 
 ## Notes

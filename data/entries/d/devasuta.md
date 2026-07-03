@@ -5,7 +5,7 @@ base_headword: "Devasūta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devasūta. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devasūta. Một trong những thủ lĩnh Yakkha được nhắc đến trong Āṭānāṭiyasutta. DN.iii.204.
 
 ## Notes

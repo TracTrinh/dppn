@@ -5,7 +5,7 @@ base_headword: "Jāli"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jāli 02. The name of two <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāli 02. Tên của hai vị Pacceka Buddha, xuất hiện trong một danh sách tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

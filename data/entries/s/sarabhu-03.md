@@ -5,7 +5,7 @@ base_headword: "Sarabhū"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sarabhū 03. A channel which branched off to the north from the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con kênh rẽ nhánh về phía bắc từ bể nước Puṇṇavaḍḍhana. Cv.lxxix.47.
 
 ## Notes

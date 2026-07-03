@@ -5,7 +5,7 @@ base_headword: "Udayabhaddā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udayabhaddā. Step-sister and wife of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chị kế và vợ của Udayabhadda. Trong các vần kệ, bà cũng được gọi là Udayā.
 
 ## Notes

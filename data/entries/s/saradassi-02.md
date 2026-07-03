@@ -5,7 +5,7 @@ base_headword: "Sāradassī"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāradassī 02. A monk of Pagan of the eighteenth century. He wrote the *Dhātuk
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị tỳ-kheo ở Pagan vào thế kỷ mười tám. Ông đã viết *Dhātukathāyojanā*. Bode, 67.
 
 ## Notes

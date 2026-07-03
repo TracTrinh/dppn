@@ -5,7 +5,7 @@ base_headword: "Dīghajantu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,6 @@ Dīghajantu (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghajantu (*v.l.* Dīghajantuka, Dīghajayanta). Thủ lĩnh của các vị tướng dưới trướng Eḷāra. Ông bị Sūranimila sát hại (Mhv.xxv.54, 62f). Bhalluka là cháu trai của ông (Mhv.xxv.76). Ông đã cúng dường một mảnh vải đỏ (*rattapaṭa*) tại Ākāsacetiya trên ngọn Sumanagiri. Ông tái sinh vào địa ngục, nhưng khi nhìn thấy những ngọn lửa ở đó, ông đã nhớ lại việc cúng dường của mình và ngay lập tức được tái sinh lên cõi trời (MN­a.ii.955; AN­a.i.375).
 
 ## Notes

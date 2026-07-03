@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumā 02. Chief of the lay women supporters of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 02. Người đứng đầu trong số các nữ cư sĩ hỗ trợ của Sujāta Buddha. Bv.xiii.30.
 
 ## Notes

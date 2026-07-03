@@ -5,7 +5,7 @@ base_headword: "Nakhācetiya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nakhācetiya. A holy shrine in Ceylon (at <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakhācetiya. Một điện thờ thiêng liêng ở Tích Lan (tại Anurādhapura?). Nó được nhắc đến trong số những nơi mà các lễ hội đã được Kittisirirājasīha tổ chức. Cv.xcix.38.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Udaya 03. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+(hoặc Udayana). Một vương tử của Haṁsavatī. Chính với ngài và Brahmadeva, mà Tissa Buddha đã thuyết giảng bài pháp đầu tiên của mình trong Lộc Uyển tại Yasavatī. Về sau ngài trở thành một trong hai vị đệ tử thinh văn tối thắng của Tissa Buddha. Bv.xviii.21; Ja.i.40; Bv­a.189.
 
 ## Notes

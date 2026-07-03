@@ -5,7 +5,7 @@ base_headword: "Jambukhādakasaṁyutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jambukhādakasaṁyutta. The thirty-eighth division of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukhādakasaṁyutta. Phần thứ ba mươi tám của Saṁyuttanikāya. Phần này ghi lại những cuộc thảo luận giữa Jambukhādaka và Sāriputta. SN.iv.250ff.
 
 ## Notes

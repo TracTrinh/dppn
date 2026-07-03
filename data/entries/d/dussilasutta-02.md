@@ -5,7 +5,7 @@ base_headword: "Dussīlasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dussīlasutta 02. A woman who is faithless, shameless, unscrupulous, immoral and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussīlasutta 02. Một người phụ nữ không có niềm tin, vô tàm, vô úy, vô luân và trí tuệ kém cỏi, thì tái sinh vào địa ngục. SN.iv.242.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nagaraka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -33,6 +33,8 @@ The Buddha evidently once stayed in Nagaraka, for in the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagaraka (*v.l.* Naṅgaraka). Một thị trấn của người Sākyan gần Medatalumpa. Từ nơi đó, Pasenadi, cùng với Dīgha Kārāyaṇa, đã thực hiện chuyến viếng thăm cuối cùng của mình đến Đức Phật, như được ghi lại trong Dhammacetiyasutta. MN.ii.118.
+
+Đức Phật hiển nhiên đã từng cư ngụ ở Nagaraka, vì trong Cūḷa Suññatāsutta, Ānanda được thuật lại là đã nhắc nhở Đức Phật rằng có một lần, trong lúc đang ở Nagaraka, Đức Phật đã nhận xét rằng ngài đã sống “phần lớn với Tánh không.”
 
 ## Notes

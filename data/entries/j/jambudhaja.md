@@ -5,7 +5,7 @@ base_headword: "Jambudhaja"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jambudhaja. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambudhaja. *v.l.* Jambudīpadhaja. Một vị Thera của Pagan, được Vua Ukkaṁsika vô cùng tôn kính. Ngài là tác giả của một số tác phẩm, bao gồm Rūpabhedapakāsanī. Bode, 55f.
 
 ## Notes

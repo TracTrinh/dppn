@@ -5,7 +5,7 @@ base_headword: "Rājagahaseṭṭhi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -30,6 +30,6 @@ Rājagahaseṭṭhi. Evidently not a proper name, but the title of the Treasurer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājagahaseṭṭhi. Rõ ràng không phải là một danh từ riêng, mà là chức danh của vị Trưởng khố (*Treasurer*) của Rājagaha (Xem, ví dụ, Dhp­a.i.232). Trong thời của Đức Phật, *seṭṭhi* này là anh em rể của Anāthapiṇḍika và là một tín đồ thành kính của Đức Phật; ông là người mang lại cuộc gặp gỡ giữa Đức Phật và Anāthapiṇḍika (để biết chi tiết, xem Anāthapiṇḍika). Ông có một nữ tỳ tên là Puṇṇā (Dhp­a.iii.321ff) và một nam tỳ Puṇṇa, người mà sau đó trở thành một *seṭṭhi*, và con gái của vị này, Uttarā, được gả cho con trai của Rājagahaseṭṭhi. Người con trai này là một người không có đức tin, nhưng sau đó đã được cải đạo và trở thành một *Sotāpanna*. Xem Vv-a.63ff. để biết chi tiết.
 
 ## Notes

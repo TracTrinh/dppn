@@ -5,7 +5,7 @@ base_headword: "Nāgasena"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -50,6 +50,14 @@ For further details see <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasena 01. Nāgasena Thera. Một *Arahant*, nổi danh nhờ những cuộc thảo luận với Vua Milinda. Ngài là con trai của Bà-la-môn Soṇuttara, ở ngôi làng Kajaṅgala tại Himālaya.
+
+Ngài rất tinh thông kinh Veda, và đã gia nhập Tăng đoàn dưới sự hướng dẫn của Rohaṇa để học giáo pháp của Đức Phật. Sau đó ngài đến gặp Assagutta của *senāsana* (chỗ ở) Vattaniya và học đạo dưới sự hướng dẫn của ngài. Tại đó, một ngày nọ, vào cuối bữa ăn, trong khi nói lời cảm ơn đến một nữ cư sĩ đã chăm sóc Assagutta trong hơn ba mươi năm, Nāgasena đã trở thành một *Sotāpanna* (bậc Dự lưu). Sau đó ngài được cử đến Pāṭaliputta, nơi ngài học đạo dưới sự hướng dẫn của Dhammarakkhita, và tại đó ngài đã chứng đạt quả vị *Arahant*. Sau này ngài đến Saṅkheyyapariveṇa ở Sagala, nơi ngài đã gặp Milinda.
+
+Có nói rằng trong kiếp trước của mình ngài là một *Deva* (thiên nhân), tên là Mahā Sena, sống ở Tāvatiṁsa, trong một cung điện được gọi là Ketumatī, và ngài đã đồng ý sinh ra ở cõi người trước sự yêu cầu khẩn thiết của Sakka và các *Arahant* do Assagutta dẫn đầu.
+
+Trong một kiếp sống trước đó ngài đã phát nguyện có thể đánh bại Milinda trong thảo luận.
+
+Để biết thêm chi tiết, xem Milindapañha, 6ff.
 
 ## Notes

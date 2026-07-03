@@ -5,7 +5,7 @@ base_headword: "Dhammadinna"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -44,6 +44,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinna 01. Dhammadinna Thera cũng được gọi là Mahā Dhammadinna. Một vị *Arahant*. Ngài cư trú tại Talaṅgapabbata (Talaṅgatissapabbata) (*q.v.*). Ngài là một trong những vị tỳ-kheo đã thọ dụng bữa ăn cháo chua do Duṭṭhagāmaṇī cúng dường khi vị này đang trong cơn nguy khốn vì thiếu thức ăn. Dhammadinna đã chia phần của ngài cho mười nghìn tỳ-kheo ở Piyaṅgudīpa (Mhv.xxxii.52). Ngài cũng được nhắc đến là đã thọ nhận một bữa ăn do Sāliya và vợ cúng dường khi họ là những người thợ rèn trong một kiếp trước (Mhv­ṭ.606). Dhammadinna có một người cháu trai đã trở thành *Arahant* trong nhà cạo tóc. Dhammadinna đã đọc cho chú ba tạng (*Piṭaka*), và chú đã học thuộc lòng tất cả chúng vào dịp đó (Vibh­a.389). Vị thầy của Dhammadinna là Mahā Nāga xứ Uccatalaṅka (*v.l.* Uccavālika). Dhammadinna đã đến thăm vị này khi vị này tuổi đã cao, biết rằng, dù chính bản thân vị ấy nghĩ rằng mình đã đạt quả vị *Arahant*, nhưng sự việc không phải vậy. Bằng cách thể hiện thần thông (*iddhi*), Dhammadinna đã thuyết phục Mahā Nāga về lỗi lầm của vị ấy và trao cho vị ấy một đề mục thiền. Gần như ngay lập tức sau đó, vị Trưởng lão đã trở thành *Arahant* (Vibh­a.489; Vsm.634f). Một lần, khi đang thuyết Apaṇṇakasutta, tại Tissamahārāma, Dhammadinna chỉ quạt của mình xuống dưới, thế rồi mặt đất mở ra cho đến tận đáy địa ngục Avīci, phơi bày mọi thứ đang ở đó. Tương tự như vậy, ngài đã chỉ ra mọi thứ cho đến đỉnh cõi Phạm thiên (*Brahma*). Trong bài pháp của ngài, ngài đã làm hội chúng khiếp sợ với nỗi sợ hãi địa ngục và dẫn dụ họ bằng niềm an lạc của cõi trời (Vsm.392).
+
+Bản Chú giải Majjhima ghi lại rằng ngay sau khi Dhammadinna xuất gia nhiều tỳ-kheo, nhờ lời khuyên của ngài, đã trở thành các vị *Arahant* (MN­a.i.149ff. Một biến thể về những gì rõ ràng là cùng một câu chuyện được tìm thấy trong AN­a.i.25). Nghe được điều này, các tỳ-kheo ở Tissamahārāma đã cử một số đồng bạn của họ đến đón ngài. Ngài thuyết pháp cho họ, và họ đạt quả vị *Arahant* rồi ở lại với ngài. Chuyện này xảy ra ba lần. Vào lần thứ tư một vị tỳ-kheo lớn tuổi được phái đi. Vị ấy truyền lại thông điệp của các tỳ-kheo và Dhammadinna lập tức khởi hành đến chỗ họ. Trên đường đi, tại Haṅkana (*v.l.* Taṅgana) và tại Cittalapabbata, ngài đã thuyết phục hai vị tỳ-kheo, những người nghĩ rằng họ là các vị *Arahant*, thể hiện thần thông (*iddhi*) của họ, và, qua đó đã thuyết phục họ về lỗi lầm của họ; thế rồi ngài trao cho họ các đề mục thiền định. Khi ngài đến Tissamahārāma, các tỳ-kheo đã không đảnh lễ ngài. Ngài thế rồi làm cho mặt đất rung chuyển và trở về *vihāra* của chính mình. Saddhammasaṅgaha (p.88f) kể câu chuyện về một con rắn chuột mù đã nghe Dhammadinna tụng các *satipaṭṭhāna* (niệm xứ) và về sau được sinh làm Tissāmacca, đại thần của Duṭṭhagāmaṇī.
 
 ## Notes

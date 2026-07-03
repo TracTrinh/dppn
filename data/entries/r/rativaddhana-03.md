@@ -5,7 +5,7 @@ base_headword: "Rativaḍḍhana"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rativaḍḍhana 03. A palace of King <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rativaḍḍhana 03. Một cung điện của Vua Sabbadatta trong thành phố Ramma (Benares). Ja.iv.122.
 
 ## Notes

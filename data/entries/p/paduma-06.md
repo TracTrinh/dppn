@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "06"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paduma 06. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 06. Một vị Pacceka Buddha đã được Anūpama Thera (hoặc Aṅkolapupphiya Thera) dâng cho một số bông hoa *ākulī*. Thag­a.i.335; Ap.i.287; xem thêm MN.iii.70 và Pv-a.75.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sarassatīmaṇḍapa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sarassatīmaṇḍapa. A building, erected by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarassatīmaṇḍapa. Một tòa nhà, do Parakkamabāhu I dựng lên gần cung điện của ông tại Pulatthipura. Nó được dành riêng cho các nghệ thuật của các Nữ thần Thơ ca (Muses) và được trang trí bằng các bức bích họa kể về cuộc đời của vị vua. Cv.lxxiii.83 f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udumbaraphaladāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Vào thời của Vipassī Buddha ngài là một người gia chủ.
+
+Gặp Đức Phật đang đi dọc theo bờ sông Vinatā, ngài đã hái một vài quả sung và dâng chúng cho ngài (Ap.i.295).
+
+Ngài có lẽ đồng nhất với Paccaya Thera. Xem Thag­a.i.341.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhātusutta 02. On the diversity in *dhātu* – e.g., object-*dhātu*, sound-*d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 02. Về sự đa dạng trong các *dhātu* – ví dụ, các *dhātu* của đối tượng, *dhātu* của âm thanh, *dhātu* của mùi, v.v... SN.ii.143.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Padhānasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padhānasutta 03. The Buddha describes how, when he gave himself up to meditatio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padhānasutta 03. Đức Phật mô tả làm thế nào, khi ngài dốc sức thiền định để đạt được Sự Tỉnh Thức, Māra (Namuci) đã đến để cám dỗ ngài bằng đội quân tám phần của hắn gồm sự tham muốn, sự bất mãn, sự đói và khát, sự khao khát, sự hèn nhát, sự hoài nghi, sự đạo đức giả và sự mụ mẫm. Nhưng Đức Phật vẫn kiên định, và Māra đã phải thoái lui một cách bối rối. Snp.vs.425-49.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gumbakabhūtā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -25,6 +25,6 @@ Gumbakabhūtā. The slave woman of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gumbakabhūtā. Nữ tỳ của Ummādacittā, người được giao phó con trai của bà để có thể đưa cậu bé đến nơi an toàn. Mhv­ṭ.280.
 
 ## Notes

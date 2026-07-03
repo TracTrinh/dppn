@@ -5,7 +5,7 @@ base_headword: "Pādulaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pādulaka. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādulaka. Một cái bể được Dhātusena xây dựng. Cv.xxxviii.50.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Iddhipādasutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Iddhipādasutta 02. The Buddha, even as Bodhisatta, before the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādasutta 02. Đức Phật, ngay cả khi còn là Bodhisatta, trước thời điểm Giác ngộ, đã phát triển bốn *iddhipāda* và sự tinh tấn, và kết quả là ngài đã tận hưởng thần thông vĩ đại. AN.iii.82-3.
 
 ## Notes

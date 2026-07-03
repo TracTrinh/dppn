@@ -5,7 +5,7 @@ base_headword: "Obhāsasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Obhāsasutta. Of the four brilliances – those of the sun, the moon, fire, and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Obhāsasutta. Trong bốn ánh sáng – ánh sáng mặt trời, mặt trăng, ngọn lửa và trí tuệ – ánh sáng trí tuệ là tối thắng. AN.ii.139f.
 
 ## Notes

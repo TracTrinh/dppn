@@ -5,7 +5,7 @@ base_headword: "Dhavalā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhavalā. A channel flowing eastward from the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhavalā. Một con kênh chảy về phía đông từ Aciravatī, một con kênh của sông Mahā Vālukanadī. Cv.lxxix.53.
 
 ## Notes

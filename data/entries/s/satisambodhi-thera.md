@@ -5,7 +5,7 @@ base_headword: "Satisambodhi Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Satisambodhi Thera. A monk of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satisambodhi Thera. Một tỳ-kheo của Piyaṅgudīpa. Xem Ariyagālatissa.
 
 ## Notes

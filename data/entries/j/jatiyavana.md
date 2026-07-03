@@ -5,7 +5,7 @@ base_headword: "Jātiyāvana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -38,6 +38,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātiyāvana. Một khu rừng nhỏ gần Bhaddiya. Gotama Buddha, khi có một lần lưu trú tại đó, đã đặt ra một quy định về việc sử dụng dép của các tỳ-kheo (Vin.i.189f; Dhp­a.iii.451). Tại đó vị chủ ngân hàng Meṇḍaka đã đến viếng thăm ngài và cung cấp các bữa ăn cho ngài cùng với các tỳ-kheo (Dhp­a.iii.363; Vin.i.242f). Cháu trai của Meṇḍaka, Uggaha, cũng đã làm tương tự (AN.iii.36f).
+
+Đức Phật từng ở lại Jātiyāvana trong ba tháng, chờ đợi cho sự chín muồi về mặt trí tuệ của Bhaddaji, chuẩn bị sẵn sàng cho việc quy y của vị này (Ja.ii.331; Thag­a.i.286).
+
+Suttavibhaṅga có chứa câu chuyện về một vị *Arahant* đã bị một người phụ nữ thực hiện hành vi sàm sỡ trong khi ngài đang ngủ ở Jātiyāvana (Vin.iii.37f).
+
+Buddhaghosa nói rằng khu rừng nhỏ này cấu thành một phần của một con đường rừng kéo dài cho đến tận dãy Himālaya (AN­a.ii.597).
 
 ## Notes

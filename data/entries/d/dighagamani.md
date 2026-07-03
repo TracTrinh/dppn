@@ -5,7 +5,7 @@ base_headword: "Dīghagāmaṇī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -38,6 +38,10 @@ This child was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghagāmaṇī. Một vương tử người Sākiyan, con trai của Dīghāyu và, do đó, là anh em họ của Ummādacittā. Sau khi nghe nói về Cittā, ông đã đi đến Upatissagāma và phục vụ tại triều đình của Paṇḍuvāsudeva.
+
+Tại đó Cittā đã nhìn thấy ông và đem lòng yêu ông và ông đã đến thăm nàng vào ban đêm. Khi một đứa trẻ được thụ thai, Citta đã được gả cho ông.
+
+Đứa trẻ này là Paṇḍukābhaya. Citta và Kāḷavela là những người hầu của Dīghagāmaṇī. Mhv.ix.13ff; Dpv.x.8f.
 
 ## Notes

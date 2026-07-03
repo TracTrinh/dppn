@@ -5,7 +5,7 @@ base_headword: "Iṭṭhāsutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iṭṭhāsutta 02. The ten desirable things in the world, the obstacles to thei
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṭṭhāsutta 02. Mười điều đáng khao khát trên thế giới, những trở ngại đối với việc đạt được chúng và các phương pháp để có được chúng (AN.v.135f).
 
 ## Notes

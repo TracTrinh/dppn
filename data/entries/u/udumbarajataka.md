@@ -5,7 +5,7 @@ base_headword: "Udumbarajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,8 @@ The story was told in reference to a monk who lived comfortably in a village her
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về hai con khỉ. Một con, nhỏ và có khuôn mặt đỏ, sống trong một hang đá. Trong những trận mưa lớn, con kia, một con khỉ to lớn và có khuôn mặt đen, đã nhìn thấy nó, và mong muốn có được chỗ trú ẩn cho chính mình, đã đuổi nó đi, với cái cớ rằng ở bên ngoài trong khu rừng có rất nhiều thức ăn để lấy. Con khỉ nhỏ đã bị mắc lừa bởi mưu kế này, và khi nó quay trở lại nó đã phát hiện ra con khỉ kia, cùng với gia đình của nó, đã an vị trong hang động.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo sống thoải mái trong một am thất ở làng và đã bị tống cổ khỏi đó bởi một vị tỳ-kheo khác, người mà ngài đã chào đón như một vị khách. Ja.ii.444-6.
 
 ## Notes

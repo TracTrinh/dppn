@@ -5,7 +5,7 @@ base_headword: "Dhammasutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammasutta 01. On the four kinds of preachers: those who speak little and canno
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasutta 01. Về bốn loại người thuyết pháp: những người nói ít và không thể thuyết phục người nghe, và những người có thể; những người nói nhiều và không thể thuyết phục người nghe, và những người có thể. AN.ii.138.
 
 ## Notes

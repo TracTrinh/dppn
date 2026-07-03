@@ -5,7 +5,7 @@ base_headword: "Doḷapabbata"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Doḷapabbata. Also called <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doḷapabbata. Còn được gọi là Doḷaṅgapabbata. Một ngọn núi ở Tích Lan, ở phía nam sông Mahā Vālukanadī, nơi Paṇḍukābhaya đã xây dựng pháo đài của mình trong bốn năm. Mhv.xi.44; Mhv­ṭ.287.
 
 ## Notes

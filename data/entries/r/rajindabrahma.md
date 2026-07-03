@@ -5,7 +5,7 @@ base_headword: "Rājindabrahma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rājindabrahma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājindabrahma. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara, bị Laṅkāpura bắt giữ. Cv.lxxvii.77, 86.
 
 ## Notes

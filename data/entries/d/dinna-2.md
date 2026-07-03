@@ -5,7 +5,7 @@ base_headword: "Dinnā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dinnā. Consort of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dinnā. Hôn thê của Vua Uggasena. Mạng sống của một trăm vị vua và hoàng hậu sắp bị đem làm vật hiến tế bởi một vị vua của Ba-la-nại (Benares), người đang hành động dưới một ý nghĩ sai lầm, đã được cứu nhờ sự khôn ngoan của nàng. Trong một tiền kiếp, nàng đã giết một con cừu cái và phải chịu đựng trong địa ngục. Trong thời đại này, nàng là Mallikā, hoàng hậu của Pasenadi. Dhp­a.ii.15ff.
 
 ## Notes

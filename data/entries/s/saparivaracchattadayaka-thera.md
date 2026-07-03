@@ -5,7 +5,7 @@ base_headword: "Saparivāracchattadāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saparivāracchattadāyaka Thera. An *Arahant*. He heard <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saparivāracchattadāyaka Thera. Một vị *Arahant*. Ông đã nghe Padumuttara Buddha thuyết pháp, và, mở một chiếc lọng, ném nó lên không trung. Nó lơ lửng phía trên Đức Phật. Vị Trưởng lão gia nhập Tăng đoàn vào năm bảy tuổi, và vào ngày xuất gia của ông, Sunanda, một Bà-la-môn, đã che lọng cho ông. Sāriputta đã nhìn thấy điều này và bày tỏ niềm vui của mình. Ap.i.265f.
 
 ## Notes

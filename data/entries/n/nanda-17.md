@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "17"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nanda 17. A Brahmin, mentioned in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 17. Một Bà-la-môn, được đề cập trong Milindapañha, p.101. Điều này có lẽ đề cập đến Bà-la-môn Ānanda (*q.v.*), người đã hãm hiếp Uppalavaṇṇā (Dhp­a.ii.49); điều này được xác nhận bởi MN­a.ii.814, nơi kẻ quyến rũ Uppalavaṇṇā được gọi là *māṇavaka* Nanda như là đã bị đất nuốt chửng vì đã lăng mạ Đức Phật và các đệ tử của Ngài.
 
 ## Notes

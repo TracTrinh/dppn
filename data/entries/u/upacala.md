@@ -5,7 +5,7 @@ base_headword: "Upacāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -38,6 +38,6 @@ Upacāla. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upacāla. Con trai của Upacālā và là cháu trai của Sāriputta và Khadiravaniya Revata. Ngài được xuất gia bởi Revata (Thag.v, 43; Thag­a.i.110). Ngài được đề cập trong Aṅguttaranikāya (v.133) trong một danh sách những đệ tử rất lỗi lạc, cùng với Cāla, Kakkaṭa, Kalimbha, Nikaṭa và Kaṭissaha. Họ đã sống ở Kūṭāgārasālā tại Vesālī, nhưng khi những người Licchavī đến đó để thăm Đức Phật, họ đã chuyển đến Gosiṅgasālavana để tìm kiếm sự yên tĩnh.
 
 ## Notes

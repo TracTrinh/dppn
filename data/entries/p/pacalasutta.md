@@ -5,7 +5,7 @@ base_headword: "Pacalāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pacalāsutta. Once, when the Buddha was at <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacalāsutta. Thuở nọ, khi Đức Phật đang ở Suṁsumāragiri, ngài đã thấy bằng thiên nhãn rằng Moggallāna đang ở ngôi làng Kallavālamutta, và ngài ấy đang gật gù (*pacalāyamāno*) rất buồn ngủ. Ngay sau đó, ngài đã đến thăm ngài ấy và hướng dẫn ngài ấy các cách khác nhau để vượt qua sự buồn ngủ. Một số chủ đề linh tinh khác cũng được đề cập trong *Sutta* này, chẳng hạn như cách đúng đắn để đi vào một ngôi nhà, những lợi ích của việc sống viễn ly, những ưu điểm của việc thực hành *mettā*. AN.iv.85ff.
 
 ## Notes

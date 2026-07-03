@@ -5,7 +5,7 @@ base_headword: "Upakkilesasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upakkilesasutta 03. Four things prevent the sun and the moon from shining with t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakkilesasutta 03. Bốn điều ngăn cản mặt trời và mặt trăng chiếu sáng với toàn bộ sự rực rỡ của chúng – mây, sương mù, khói và bụi và Rāhu. Tương tự như vậy, bốn điều làm suy giảm sự thánh thiện của các tu sĩ và đạo sĩ – các chất gây say, tình dục, tiền bạc và tà mạng (AN.ii.53f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅgāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgāma. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāma. Một vị vua của Magadha. Cha của Buddhaghosa, Kesī là *Purohita* của ông. Gv.66.
 
 ## Notes

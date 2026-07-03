@@ -5,7 +5,7 @@ base_headword: "Uggasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,8 @@ A.iv.208-12.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggasutta 02. Đề cập đến tám phẩm chất kỳ diệu của Ugga xứ Vesālī. Xem Ugga (5).
+
+A.iv.208-12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rāmaṇeyyakasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rāmaṇeyyakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmaṇeyyakasutta. Sakka đến thăm Đức Phật tại Jetavana và hỏi ngài nơi nào nhờ vị trí của nó mà đáng tận hưởng. Đức Phật trả lời rằng bất cứ nơi nào có các Arahant cư ngụ thì đó là nơi đáng tận hưởng nhất. SN.i.232; x. Dhp­a.ii.195; bài kệ được cho là của Đức Phật ở đây, trong Thag. (vs. 991) lại được gán cho Sāriputta. Ở cả đó và trong Dhammapada Commentary (xem ở trên), bài kệ được thốt ra liên quan đến người em trai của Sāriputta, Revata.
 
 ## Notes

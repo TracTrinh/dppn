@@ -5,7 +5,7 @@ base_headword: "Duppaññasutta"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Duppaññasutta 02. One who has the above qualities is censured by the wise and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duppaññasutta 02. Người có những phẩm chất trên thì bị người trí chê trách và tích lũy nhiều bất thiện nghiệp. AN.ii.227.
 
 ## Notes

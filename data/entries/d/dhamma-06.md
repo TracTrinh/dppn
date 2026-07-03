@@ -5,7 +5,7 @@ base_headword: "Dhammā"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhammā 06. A very poor woman of Sīva village. Once she gave a garment to the m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammā 06. Một người phụ nữ rất nghèo của làng Sīva. Một lần bà cúng dường một y phục cho các tỳ-kheo của *pabbatavihāra* Giritimbilatissa, và họ đã đồng thuận với nhau rằng không ai ngoại trừ một vị *Arahant* mới nên mặc nó. Một người trong số họ đã trở thành *Arahant* ngay trong ngày hôm đó và mặc nó; sau đó ngài đã truyền nó cho một người khác, và trước khi kết thúc mùa an cư tất cả họ qua đó đều trở thành các vị *Arahant*. Vào ngày lễ *pavāraṇa*, Vua Lañjitissa đã ra lệnh trang hoàng tu viện. Các tỳ-kheo đã dựng y phục của Dhammā như một cờ hiệu ở cổng vào. Nhà vua, sau khi biết được lý do, đã ban cho Dhammā ngôi làng Sīva, nơi mà sau đó được gọi là Dhammasīva. Ras.ii.42.
 
 ## Notes

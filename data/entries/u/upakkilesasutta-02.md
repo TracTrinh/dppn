@@ -5,7 +5,7 @@ base_headword: "Upakkilesasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Upakkilesasutta 02. Gold ore must be purified from all its dross before it can b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakkilesasutta 02. Quặng vàng phải được tinh chế khỏi mọi cặn bã trước khi nó có thể được sử dụng để làm đồ trang sức, v.v.; tương tự như vậy, tâm trí phải được giải thoát khỏi những sự ô nhiễm của nó – năm *nīvaraṇa* – trước khi nó có thể được sử dụng để đạt được kiến thức cao hơn (AN.iii.16-19).
 
 ## Notes

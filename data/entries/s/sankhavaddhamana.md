@@ -5,7 +5,7 @@ base_headword: "Saṅkhavaḍḍhamāna"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkhavaḍḍhamāna. A river in Ceylon, which unites with the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông ở Ceylon, hợp lưu với Kumbhīlavāna. Tại nơi chúng hợp lưu, Sūkaranijjhara đã được xây dựng. Cv.lxviii.32; xem Cv.Trs.i.279, n.4.
 
 ## Notes

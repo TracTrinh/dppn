@@ -5,7 +5,7 @@ base_headword: "Dīpanī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpanī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpanī. Vợ của Mahinda VI. Nàng là con gái của một người chăn bò (Cv.lxxx.15).
 
 ## Notes

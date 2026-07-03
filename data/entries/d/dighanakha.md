@@ -5,7 +5,7 @@ base_headword: "Dīghanakha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -36,6 +36,12 @@ He was originally an Annihilationist (MN­a.ii.477). Perhaps he is the heretic B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghanakha. Một du sĩ ngoại đạo (*Paribbājaka*), cháu trai (con của chị/em gái) của Sāriputta.
+
+Ông đã đến thăm Đức Phật tại Sūkarakhatalena và Đức Phật đã thuyết giảng cho ông *Dīghanakhasutta*, vào cuối bài pháp ông trở thành một bậc Dự lưu (*Sotāpanna*).
+
+Trong *Sutta*, ông được gọi là Aggivessana (MN.i.497f; Thag­a.ii.95; Dhp­a.i.79).
+
+Ông vốn là một người theo chủ nghĩa Đoạn diệt (MN­a.ii.477). Có lẽ ông là người Bà-la-môn ngoại đạo, cháu trai của Sāriputta, người đã bị Moggallāna khiển trách vì ông đã bày tỏ sự ghê tởm tột độ khi nhìn thấy Kassapa. Thag.1108ff; Thag­a.ii.180.
 
 ## Notes

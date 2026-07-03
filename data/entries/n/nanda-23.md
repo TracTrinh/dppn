@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "23"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nanda 23. A butcher who killed cattle for fifty years. One day, having no meat, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 23. Một người đồ tể đã giết gia súc trong suốt năm mươi năm. Một ngày nọ, vì không có thịt, anh ta đã cắt lưỡi của một con bò đực đang sống, chiên nó lên và bắt đầu ăn nó. Chiếc lưỡi của chính anh ta đã rơi xuống đĩa của anh ta. Anh ta chết trong sự đau đớn tột cùng và bị tái sinh vào địa ngục. MN­a.ii.814.
 
 ## Notes

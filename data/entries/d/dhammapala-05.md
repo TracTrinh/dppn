@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammapāla 05. A name given to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 05. Một cái tên được đặt cho Vidhurapaṇḍita. Ja.vi.289, 291.
 
 ## Notes

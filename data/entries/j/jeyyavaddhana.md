@@ -5,7 +5,7 @@ base_headword: "Jeyyavaḍḍhana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jeyyavaḍḍhana. The Pāli name for Taungu in Burma. Bode, 40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeyyavaḍḍhana. Tên Pāli của Taungu ở Miến Điện. Bode, 40.
 
 ## Notes

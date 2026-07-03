@@ -5,7 +5,7 @@ base_headword: "Palutthagiri"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Palutthagiri, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palutthagiri, Palutthapabbata. Một địa phương ở Rohaṇa, bối cảnh của hai trận chiến ác liệt chống lại người Coḷa, trong cả hai trận này người Coḷa đều bị đánh bại, một lần dưới triều đại của Mahinda V., (Cv.Iv.28) và một lần nữa vào năm thứ mười hai dưới triều đại của Vijayabāhu I. (Cv.Iviii.18).
 
 ## Notes

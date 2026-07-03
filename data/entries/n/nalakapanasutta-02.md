@@ -5,7 +5,7 @@ base_headword: "Naḷakapānasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Naḷakapānasutta 02. The Buddha, having preached to the monks in <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakapānasutta 02. Sau khi thuyết giảng cho các tỳ-kheo tại Palāsavana ở Naḷakapāna cho đến tận đêm khuya, Đức Phật yêu cầu Sāriputta tiếp tục, vì Ngài bị đau lưng và muốn nghỉ ngơi. Sau đó Sāriputta tiếp tục bài pháp và nói cho các tỳ-kheo về sự cần thiết của *saddhā*, *hiri*, *ottappa*, *viriya* và *paññā* để thực hành các thiện sự. Đức Phật quay lại và tán thán Sāriputta. AN.v.122ff.
 
 ## Notes

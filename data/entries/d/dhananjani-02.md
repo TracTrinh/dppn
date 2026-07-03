@@ -5,7 +5,7 @@ base_headword: "Dhānañjānī"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,8 @@ Dhānañjānī 02. A *Brāhmiṇī*, probably of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhānañjānī 02. Một *Brāhmiṇī*, có lẽ ở Rājagaha. Bà đã kết hôn với một Bà-la-môn thuộc dòng họ Bhāradvāja. Một ngày nọ, trong khi phục vụ bữa tối cho chồng, bà đã hát những lời ngợi ca vị Phật, Giáo Pháp và Tăng đoàn. Người Bà-la-môn, rất tức giận, đe dọa sẽ đến gặp Phật và lăng mạ ngài. Vợ ông khuyến khích ông đi. Ông đến, có một cuộc thảo luận với vị Phật, và được cải đạo. Sau đó, ông gia nhập Tăng đoàn và, đúng thời, trở thành một *Arahant* (SN.i.159f).
+
+Buddhaghosa nói (SN­a.i.175ff) vị *Brāhmiṇī* là một *Sotāpanna* và rằng bà luôn ca ngợi vị Phật trong khi thực hiện các nhiệm vụ của mình và rằng vị Bà-la-môn đã bịt tai lại không nghe. Một ngày nọ, ông mời một số lượng lớn bạn bè của mình đến dự tiệc, và, vào đêm trước ngày trọng đại, yêu cầu bà hứa sẽ không xúc phạm những người bạn Bà-la-môn của mình bằng những *udāna* của bà. Bà từ chối đưa ra bất kỳ lời hứa nào như vậy, ngay cả khi ông đe dọa sẽ đâm bà bằng một con dao găm. Bà tuyên bố mình sẵn sàng chịu đựng, và đã hát năm trăm bài kệ về chủ đề của mình. Người Bà-la-môn đành đầu hàng. Trong khi đang phục vụ khách, cảm hứng trong bà trở nên quá mạnh, và, đặt bát và thìa xuống, bà bắt đầu lặp lại bài ca ngợi của mình. Những vị khách bị phẫn nộ đã vội vã bỏ đi, nhổ thức ăn ra vì cho rằng thức ăn bị làm ô uế bởi sự hiện diện của một kẻ tà giáo, và chồng bà đã mắng mỏ bà vì bữa tiệc bị phá hỏng. Bà có thể là người phụ nữ chịu trách nhiệm cho chuyến viếng thăm của Saṅgārava (*q.v.*) tới vị Phật. Tuy nhiên, người này được nói là sống ở Caṇḍalakappa (MN.ii.209).
 
 ## Notes

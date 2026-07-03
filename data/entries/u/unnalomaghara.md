@@ -5,7 +5,7 @@ base_headword: "Uṇṇalomaghara"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uṇṇalomaghara. A building belonging to the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇṇalomaghara. Một tòa nhà thuộc về Rājāyatanadhatuvihāra ở Nāgadīpa. Nó được dựng lên bởi Aggabodhi II. Cv.xlii.62.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rakkha"
 disambiguator: "05"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -35,6 +35,6 @@ Rakkha 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkha 05. Rakkha Kañcukīnāyaka. Một sĩ quan của Parakkamabāhu I., liên kết với *Damiḷādhikārī* Rakkha. Ông đã đánh những trận thắng tại Mahā Vālukagāma, Devanagara, Kammāragāma, Mahā Panālagāma, Mānakapiṭṭhi, bến cạn Nīlavalā và Kadalīpatta, và sau đó hành quân qua Mārāvaratthali, ông đã hỗ trợ *Damiḷādhikārī* Rakkha trong việc đánh chiếm Mahā Nāgahula. Cv.lxxv. 20ff., 35ff., 52ff., 116.
 
 ## Notes

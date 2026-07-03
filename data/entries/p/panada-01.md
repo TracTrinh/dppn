@@ -5,7 +5,7 @@ base_headword: "Panāda"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Panāda 01. a mythical king, who succeeded <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panāda 01. Một vị vua huyền thoại, người kế vị Mahā Patāpa và chính ông được kế vị bởi Mahā Panāda. Mhv.ii.4; Dpv.iii.7..
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pakudhanagara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pakudhanagara. A city, evidently in Burma, once the centre of great literary act
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pakudhanagara. Một thành phố, rõ ràng là ở Miến Điện, từng là trung tâm của các hoạt động văn học rực rỡ. Xem Gv.65; nhưng ở chỗ khác (Gv.67), các tác phẩm được quy cho các cư dân của Pakudhanagara lại được nói là được viết ở Kañcipura. Xem thêm Gv.75, nơi có nhắc đến một Makuranagara. *v.l.* Pakutanagara. Có lẽ đây cũng chính là Pakudha.
 
 ## Notes

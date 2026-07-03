@@ -5,7 +5,7 @@ base_headword: "Nābhasa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nābhasa. A lake, the residence of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nābhasa. Một cái hồ, nơi cư ngụ của các Nāga gọi là Nābhasā. DN­a.ii.688.
 
 ## Notes

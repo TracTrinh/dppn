@@ -5,7 +5,7 @@ base_headword: "Nāgadīpa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -60,6 +60,18 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgadīpa. Một tỉnh của Tích Lan, được đồng nhất với bán đảo Jaffna ngày nay và vùng tây bắc Tích Lan.
+
+Chuyến viếng thăm thứ hai của Đức Phật đến Tích Lan là tới Nāgadīpa, để giải quyết một cuộc tranh chấp giữa hai thủ lĩnh Nāga, Mahodara và Cūḷodara (Mhv.i.47).
+
+Jambukola (*xem từ này*) là một bến cảng ở Nāgadīpa, và tại đó một *vihāra* (tu viện) đã được Devānampiyatissa xây dựng (Mhv.xx.25) và sau đó được Kaniṭṭhatissa trùng tu (Mhv.xxxvi.9). *Vihāra* này có lẽ được gọi là Tissavihāra (xem Mhv.36).
+
+Một *vihāra* khác, có tên là Sālipabbata, được xây dựng bởi Mahallaka Nāga (Mhv.xxxv.124). Uṇṇalomaghara, Rājāyatanadhātucetiya và Amalacetiya có lẽ đều là những nơi thờ phụng ở Nāgadīpa (Cv.xlii.62).
+
+Valāhassajātaka (Ja 196, Ja.ii.128) nói rằng bờ biển Tích Lan, từ dòng sông Kalyāṇī đến Nāgadīpa, đã từng tràn ngập các dạ-xoa nữ (*yakkhinī*). Có lần (Ja.iii.187) Nāgadīpa được biết đến với tên gọi là Serumadīpa, và gần đó là Karadīpa, trước đây được biết đến là Ahidīpa (Ja.iv.238).
+
+Một câu chuyện cổ, được kể trong các Chú giải (ví dụ, Vibh­a.444), nói về một vị vua có tên là Dīparāga, người đã trị vì Nāgadīpa trong một thời kỳ vô cùng huy hoàng. Nāgadīpa đã từng là một trung tâm Phật giáo quan trọng ở Tích Lan (ví dụ, Vibh­a.446, Vibh­a.467; AN­a.i.422. MN­a.i.545; xem thêm JRAS., tập xxvi) và có chứa nhiều địa điểm hành hương. Có một truyền thuyết (DN­a.iii.899; Vibh­a.433) kể rằng, khi *Sāsana* (Giáo pháp) của Đức Phật đi đến hồi kết, tất cả các xá-lợi của Đức Phật ở Tích Lan sẽ tập trung lại tại Mahā Cetiya và di chuyển đến Rājāyatanacetiya ở Nāgadīpa, rồi từ đó đi đến cây Mahā Bodhi ở Gayā.
+
+Theo Rasavāhinī (ii.19), địa điểm này được gọi như vậy vì nó được ban tặng như một món quà cho người phụ nữ tên là Nāgā. Xem Nāgā (7).
 
 ## Notes

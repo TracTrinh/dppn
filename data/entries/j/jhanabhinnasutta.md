@@ -5,7 +5,7 @@ base_headword: "Jhānābhiññasutta"
 disambiguator: ""
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -25,6 +25,6 @@ Jhānābhiññasutta. The Buddha tells the monks that <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānābhiññasutta. Đức Phật bảo các tỳ-kheo rằng Mahā Kassapa có khả năng làm nhiều điều mà chính Ngài có thể làm. SN.ii.210ff.
 
 ## Notes

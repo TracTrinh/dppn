@@ -5,7 +5,7 @@ base_headword: "Sandiṭṭhikasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sandiṭṭhikasutta 02. The same as (1), but the conversation is with a Brahmin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandiṭṭhikasutta 02. Giống như (1), nhưng cuộc trò chuyện là với một Bà-la-môn. AN.iii.357.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jhānavagga"
 disambiguator: ""
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -25,6 +25,6 @@ Jhānavagga. The last and twentieth chapter of the *Ekanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānavagga. Phẩm cuối cùng và là phẩm thứ hai mươi thuộc *Ekanipāta* của Aṅguttaranikāya. AN.i.38-46.
 
 ## Notes

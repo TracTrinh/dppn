@@ -5,7 +5,7 @@ base_headword: "Ojadīpa"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -31,6 +31,6 @@ Ojadīpa. The name given to Ceylon in the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ojadīpa. Tên gọi của Tích Lan vào thời Kakusandha Buddha. Thủ đô của nó là Abhayanagara và vua của nó là Abhaya. Đức Phật đã đến viếng Ojadīpa và ngự tại khu vườn Mahā Tittha (Mhv.xv.57ff; Dpv.i.73; ix.20; xvii.5, 16, 23; xv.35-8; Vin-a.i.83). Ngọn núi của nó là Devakūṭa, Pilayakūṭa ngày nay (Mbv.126).
 
 ## Notes

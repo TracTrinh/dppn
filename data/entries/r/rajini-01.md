@@ -5,7 +5,7 @@ base_headword: "Rājinī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rājinī 01. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājinī 01. Hoàng hậu của Kassapa V. Có lần bà đã cho phủ kín toàn bộ Hemamālikacetiya bằng vải. Bà có một người con trai tên là Siddhattha. Cv.lii.67.
 
 ## Notes

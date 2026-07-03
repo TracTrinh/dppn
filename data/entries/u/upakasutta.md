@@ -5,7 +5,7 @@ base_headword: "Upakasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upakasutta. Records the visit paid to the Buddha by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakasutta. Ghi chép lại chuyến viếng thăm Đức Phật của Upaka Maṇḍikāputta. AN.ii.181f.
 
 ## Notes

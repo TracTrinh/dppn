@@ -5,7 +5,7 @@ base_headword: "Sattāhapabbajita Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattāhapabbajita Thera. An *Arahant*. Ninety-one *kappas* ago he had a quarrel 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattāhapabbajita Thera. Một bậc *Arahant*. Chín mươi mốt *kappa* trước, ngài đã cãi vã với những người thân của mình và gia nhập Tăng đoàn dưới thời Đức Phật Vipassī trong bảy ngày. Sáu mươi bảy *kappa* trước, ngài làm vua bảy lần, dưới tên gọi Sunikkhamma. Ap.i.242.
 
 ## Notes

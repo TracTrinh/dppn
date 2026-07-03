@@ -5,7 +5,7 @@ base_headword: "Oṇatasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,8 @@ The Commentary explains that each person is such and such but may, or will, beco
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oṇatasutta. Về bốn hạng người trên thế giới: kẻ hạ liệt và hạ liệt, kẻ cao thượng và cao thượng, kẻ cao thượng và hạ liệt, và kẻ hạ liệt và cao thượng (AN.ii.86; cũng được tìm thấy tại Pug.52 và Pug.7).
+
+Chú giải giải thích rằng mỗi người là như vậy như vậy nhưng có thể, hoặc sẽ, trở thành như vậy như vậy.
 
 ## Notes

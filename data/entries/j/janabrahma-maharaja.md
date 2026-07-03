@@ -5,7 +5,7 @@ base_headword: "Janābrahma Mahārāja"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Janābrahma Mahārāja. A <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janābrahma Mahārāja. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.78.
 
 ## Notes

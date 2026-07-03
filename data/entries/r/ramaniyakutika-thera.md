@@ -5,7 +5,7 @@ base_headword: "Ramaṇīyakuṭika Thera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -34,6 +34,8 @@ His first desire to attain liberation was made in the time of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramaṇīyakuṭika Thera. Một vị Arahant. Ông là một nhà quý tộc của Vesālī và đã xuất gia sau khi nghe Đức Phật giảng Ratanasutta. Sau khi thọ giới, ông trú trong một chòi lá dễ thương giữa một khu rừng xinh đẹp, nơi ông đạt quả vị Arahant. Một ngày nọ, một số phụ nữ đã cố gắng cám dỗ ông, nhưng vô ích (Thag.58; Thag­a.i.122f.).
+
+Mong muốn giải thoát đầu tiên của ông được khởi lên vào thời Padumuttara Buddha. Sau này ông đã cúng dường một chỗ ngồi xinh đẹp cho Atthadassī Buddha và dâng hoa cho ngài để bày tỏ lòng tôn kính. Một trăm bảy mươi kappa trước, ông là một vị vua tên là Sandimā (Sannibbāpaka). Ông có lẽ đồng nhất với Asanūpaṭṭhāyaka của Apadāna. Ap.i.144.
 
 ## Notes

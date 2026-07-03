@@ -5,7 +5,7 @@ base_headword: "Nakulapitāvagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nakulapitāvagga. The first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulapitāvagga. Phẩm thứ nhất của Khandhasaṁyutta. SN.3.1-21.
 
 ## Notes

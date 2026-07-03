@@ -5,7 +5,7 @@ base_headword: "Dīghajānu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dīghajānu. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghajānu. Một người Koḷiyan, cư ngụ tại Kakkarapatta. Tại đó ông đã đến thăm Đức Phật và thỉnh cầu một bài pháp sẽ mang lại hạnh phúc trong cả đời này và đời sau. Đức Phật đã giải thích cho ông bốn điều kiện của sự an lạc thế tục – *uṭṭhānasampadā*, *ārakkhasampadā*, *kaḷyānamittatā* và *samajīvitā*. Sau đó, ngài giải thích bốn điều kiện của sự an lạc tinh thần – *saddhāsampadā*, *sīlasampadā*, *cāgasampadā* và *paññasampadā*. Trong bài pháp này, Đức Phật gọi ông là Byagghapajja (AN.iv.281ff). Bản Chú giải (AN­a.ii.778) nói rằng đây là một *paveṇināma* (tên tộc), phổ biến đối với tất cả những người Koḷiyan.
 
 ## Notes

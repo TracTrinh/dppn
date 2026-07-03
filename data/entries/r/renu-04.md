@@ -5,7 +5,7 @@ base_headword: "Reṇu"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Reṇu 04. A king of forty-five *kappas* ago, a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇu 04. Một vị vua của bốn mươi lăm *kappa* trước, một tiền kiếp của Vajjiputta (Reṇupūjaka) Thera. Thag­a.i.143=Ap.i.146.
 
 ## Notes

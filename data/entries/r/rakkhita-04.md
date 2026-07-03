@@ -5,7 +5,7 @@ base_headword: "Rakkhita"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rakkhita 04. The Bodhisatta born as an ascetic. See <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhita 04. Bodhisatta sinh làm một đạo sĩ. Xem Mahā Maṅgalajātaka (Ja 453).
 
 ## Notes

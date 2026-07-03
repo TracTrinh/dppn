@@ -5,7 +5,7 @@ base_headword: "Dutiyapalāyijātaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -31,6 +31,8 @@ The story was told in reference to an ascetic who visited <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dutiyapalāyijātaka (Ja 230). Có một lần Bodhisatta là vua của Benares, và vua Gandhāra của Takkasilā đã bao vây kinh đô của ông. Bodhisatta xuất hiện trước mặt ông ta và đe dọa sẽ đè bẹp lực lượng của ông ta, và vua Gandhāra đã bỏ chạy.
+
+Câu chuyện được kể lại liên quan đến một đạo sĩ đã đến thăm Jetavana để tranh luận với Đức Phật; nhưng khi nhìn thấy Đức Phật đang ngồi trong giảng đường thuyết Pháp, sự can đảm của ông ta đã biến mất và ông ta đã bỏ chạy với một đám đông theo sát gót. Ông ta được đồng nhất với vua Gandhāra. (Ja.ii.219-21).
 
 ## Notes

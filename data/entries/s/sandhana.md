@@ -5,7 +5,7 @@ base_headword: "Sandhāna"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -32,6 +32,8 @@ Sandhāna. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandhāna. Một gia chủ của Rājagaha. Ông là một môn đệ của Gotama Buddha, và chính cuộc trò chuyện của ông với *Paribbājaka* Nigrodha đã dẫn đến việc thuyết giảng Udumbarikasīhanādasutta.
+
+Buddhaghosa nói (DN­a.iii.832) rằng ông là người lãnh đạo của năm trăm cư sĩ nam và là một vị *Anāgāmī*. Vào một dịp, Đức Phật đã ca ngợi ông trong hội chúng vì sáu phẩm chất mà ông sở hữu. Trong Aṅguttara, ông được đề cập trong một danh sách các cư sĩ tại gia lỗi lạc (AN.iii.451; so sánh Divy.540).
 
 ## Notes

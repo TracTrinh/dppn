@@ -5,7 +5,7 @@ base_headword: "Ñāṇasaññaka Thera"
 disambiguator: "01"
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇasaññaka Thera 01. Một arahant. Trong một tiền kiếp, ngài đã gặp Siddhattha Buddha và đảnh lễ Ngài. Bảy mươi ba kappa trước, ngài mười sáu lần làm vua (Ap.i.140f). Ngài có lẽ chính là Subhāhu (Thag-a.i.124).
 
 ## Notes

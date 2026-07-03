@@ -5,7 +5,7 @@ base_headword: "Devila"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devila. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devila. Một vị Kesadhātu, một quan chức của Parakkamabāhu I. Ông phụ trách quận Mahā Niyyāma. Cv.lxxii.57.
 
 ## Notes

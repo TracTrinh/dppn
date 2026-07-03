@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Indriyasutta 02. Where control of the faculties of sense (*indriya*) is not foun
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 02. Nơi nào không có sự thu thúc các căn (*indriya*), nơi đó giới hạnh không tồn tại và, kết quả là, định tâm, tuệ quán và trí tuệ về thực tại đúng như nó là, sự ly tham và cảm giác nhàm chán, trí tuệ dẫn đến giải thoát - những thứ này cũng không tồn tại. Khi sự thu thúc đó hiện diện thì tất cả những phẩm chất khác cũng hiện diện. AN.iii.360.
 
 ## Notes

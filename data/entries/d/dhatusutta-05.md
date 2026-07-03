@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhātusutta 05. The appearing of the *dhātus* is the appearing of decay and dea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 05. Sự xuất hiện của các *dhātu* là sự xuất hiện của già và chết. Sự đoạn diệt của chúng cũng đồng thời xảy ra. SN.iii.231.
 
 ## Notes

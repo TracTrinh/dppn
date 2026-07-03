@@ -5,7 +5,7 @@ base_headword: "Sandakasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -41,6 +41,15 @@ On these heresies cf. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandakasutta. Ānanda, khi đang ở Ghositārāma tại Kosambī, đến thăm Pilakkhaguhā gần hồ Devakaṭa, nơi *Paribbājaka* Sandaka đang trú ngụ cùng với khoảng năm trăm môn đệ. Ānanda được yêu cầu đưa ra một bài pháp thoại về giáo pháp của Đức Phật, và nói về bốn điều trái nghịch với phạm hạnh:
+
+- có vị đạo sư cho rằng hành động tốt hay xấu đều không quan trọng;
+- vị đạo sư cho rằng không có tội lỗi nào được tạo ra bởi người tự mình hành động hay sai khiến người khác hành động;
+- vị đạo sư cho rằng không có nguyên nhân cho sự đọa lạc hay sự thanh tịnh;
+- và, cuối cùng, vị đạo sư cho rằng, giữa những điều khác, con người chỉ chấm dứt khổ đau khi họ đã hoàn tất tiến trình luân hồi của mình, giống như một cuộn dây thừng tiếp tục lăn cho đến khi không còn dây để xổ ra.
+
+Về các tà kiến này, so sánh Sāleyyakasutta (MN 41). Sự tham chiếu hiển nhiên là đối với giáo lý của Purāṇa Kassapa, Makkhali Gosāla và những người khác.
+
+Ānanda sau đó tiếp tục giải thích bốn thiên hướng không mang lại sự an ổn: vị đạo sư tự xưng là toàn tri và toàn kiến; vị đạo sư có giáo lý mang tính truyền thống và kinh điển; nhà duy lý với lý trí và sự phê phán thuần túy giảng dạy một giáo lý dựa trên sự suy luận của chính mình; và, cuối cùng, vị đạo sư ngu ngốc và khiếm khuyết. Ānanda sau đó mô tả giáo pháp của chính Đức Phật, dẫn đến bốn *Jhāna*. Sandaka và các môn đệ của ông chấp nhận Đức Phật là đạo sư của họ. MN.i.513-24.
 
 ## Notes

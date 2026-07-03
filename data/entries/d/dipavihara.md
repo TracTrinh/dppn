@@ -5,7 +5,7 @@ base_headword: "Dīpavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Dīpavihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpavihāra. *v.l.* Devīvihāra, Dibbavihāra. Một tu viện ở Tích Lan, nơi cư ngụ của Trưởng lão Summa (*q.v.*). MN­a.i.126; AN­a.i.319; ii.845, v.v.
 
 ## Notes

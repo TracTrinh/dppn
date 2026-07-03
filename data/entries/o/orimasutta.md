@@ -5,7 +5,7 @@ base_headword: "Orimasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -23,6 +23,6 @@ Orimasutta. On the hither and the further shores – e.g., false belief (*micch�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Orimasutta. Về bờ bên này và bờ bên kia – ví dụ, tà kiến (*micchādiṭṭhi*) – là bờ bên này và sự đối lập của nó (*sammādiṭṭhi*), là bờ bên kia. AN.v.233.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattasatikakhandhaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattasatikakhandhaka. The twelfth chapter of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasatikakhandhaka. Chương thứ mười hai của Cūḷa Vagga thuộc Vinayapiṭaka. Nó đưa ra một bản tường thuật về Kỳ Kết Tập Thứ Hai. Vin.ii.294f.
 
 ## Notes

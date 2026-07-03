@@ -5,7 +5,7 @@ base_headword: "Dhammasoṇḍa"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhammasoṇḍa. The Bodhisatta born as king of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasoṇḍa. Bodhisatta sinh ra là vua của Benares. Ngài được gọi như vậy vì, vào thời điểm ngài sinh ra, mọi chúng sinh đều tràn đầy lòng mong mỏi điều chân chính. Tôn giáo của Kassapa Buddha đã biến mất, và Dhammasoṇḍa không thể tìm được ai thuyết Pháp cho mình. Do đó ngài rời bỏ vương quốc và đi vào rừng. Bằng đức hạnh của ngài, ngai vàng của Sakka trở nên nóng, và Sakka, giáng xuống trong hình dạng một Rakkhasa, đã đồng ý thuyết giảng cho Dhammasoṇḍa nếu ngài cho phép mình bị ăn thịt. Dhammasoṇḍa ưng thuận, và, leo lên một tảng đá cao ba *gāvuta*, đã gieo mình vào miệng Rakkhasa, lắng nghe lời thuyết pháp của vị ấy khi ngài đang rơi xuống. Sakka sau đó tiết lộ danh tính của mình, đưa ngài đến cõi chư thiên và dạy ngài một bài kệ về sự vô thường, bài kệ đã được Kassapa thuyết. Ras.i.2f.; câu chuyện này rất phổ biến ở Tích Lan.
 
 ## Notes

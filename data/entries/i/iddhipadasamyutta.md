@@ -5,7 +5,7 @@ base_headword: "Iddhipādasaṁyutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Iddhipādasaṁyutta. The fifty-first division of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhipādasaṁyutta. Phần thứ năm mươi mốt của Saṁyuttanikāya (SN.v.254-93), bao gồm tám chương. Đây là phần thứ bảy của Mahā Vagga.
 
 ## Notes

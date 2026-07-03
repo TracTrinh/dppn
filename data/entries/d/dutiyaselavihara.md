@@ -5,7 +5,7 @@ base_headword: "Dutiyaselavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dutiyaselavihāra. A monastery in Ceylon (Sinhalese, *Devanagala*). <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dutiyaselavihāra. Một tu viện ở Tích Lan (tiếng Sinhalese, *Devanagala*). Kittisirirājasīha đã tặng cho *vihāra* ngôi làng Ratanadoṇi. Cv.c.232.
 
 ## Notes

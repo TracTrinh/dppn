@@ -5,7 +5,7 @@ base_headword: "Dhammahadayavibhaṅgasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhammahadayavibhaṅgasutta. In the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammahadayavibhaṅgasutta. Trong Suttasaṅgaha, một phần của Dhammahadayavibhaṅga thuộc Vibhaṅgappakaraṇa (Vibh.422f) – đề cập đến sự tái sinh trong các cõi Kāmāvacara, những thiện nghiệp dẫn đến sự tái sinh ở đó, và tuổi thọ ở mỗi cõi – đã được trích xuất thành một *Sutta* riêng biệt (Số 14) và được gọi bằng cái tên này.
 
 ## Notes

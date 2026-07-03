@@ -5,7 +5,7 @@ base_headword: "Nāgasoṇḍi"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nāgasoṇḍi. A bathing tank in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgasoṇḍi. Một hồ tắm ở Cetiyapabbata, được trùng tu bởi Aggabodhi I. (Cv.xlii.28). Nó có lẽ là Nāgapokuṇa ngày nay, nơi được đẽo vào bề mặt của tảng đá, những cái đầu của một con rắn hổ mang (Nāga) dường như vươn lên khỏi mặt nước. (Cv.Trs.i.68, n.8)
 
 ## Notes

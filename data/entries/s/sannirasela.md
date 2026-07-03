@@ -5,7 +5,7 @@ base_headword: "Sannīrasela"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sannīrasela. A village in Ceylon given by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon được Parakkamabāhu IV ban tặng để bảo trì *pariveṇa* mà ông đã xây dựng cho Medhaṅkara Thera. Cv.xc.87.
 
 ## Notes

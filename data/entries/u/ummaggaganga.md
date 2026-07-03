@@ -5,7 +5,7 @@ base_headword: "Ummaggagaṅgā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -32,6 +32,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummaggagaṅgā. Tên được đặt cho một phần của con sông chảy từ phía đông của Anotatta, trước khi cuối cùng nó chia thành năm con sông lớn, Gaṅgā, Yamunā, v.v.
+
+Ummagga Gaṅgā là sự tiếp nối của Bahala Gaṅgā và chảy ngầm dưới mặt đất trong sáu mươi do-tuần, cho đến khi nó chảy đến tảng đá tên là Vijjha. Snp-a.ii.439; AN­a.ii.760; Ud­a.302.
 
 ## Notes

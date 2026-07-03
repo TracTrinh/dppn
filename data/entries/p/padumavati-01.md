@@ -5,7 +5,7 @@ base_headword: "Padumavatī"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumavatī 01. Mẹ của năm trăm vị Pacceka Buddha. Cô từng là con gái một gia chủ trong một ngôi làng gần Benares; một ngày nọ, khi đang canh gác cánh đồng của cha, cô nhìn thấy một vị Pacceka Buddha, và cúng dường ngài một đóa hoa sen cùng năm trăm hạt bỏng gạo (*lājā*), đồng thời phát nguyện có được năm trăm người con trai. Ngay lúc đó, năm trăm người thợ săn đang đứng gần đó đã cúng dường mật ong và thịt cho vị Pacceka Buddha và bày tỏ mong ước được làm con trai của cô. Về sau, cô hóa sinh trong một hồ sen, ngay bên trong một đóa sen. Một vị đạo sĩ khi nhìn thấy cô đã mang về nuôi nấng. Bất cứ nơi nào cô đi qua, hoa sen lại mọc lên dưới mỗi bước chân. Vua xứ Benares khi nghe nói về cô đã phong cô làm chánh hậu. Cô sinh được năm trăm người con trai, con trưởng là Mahā Paduma. Tất cả họ đều trở thành Pacceka Buddha (MN­a.ii.889).
+
+Chú giải Aṅguttara đề cập rằng Padumavatī là tiền kiếp của Therī Uppalavaṇṇā, và kể lại câu chuyện của cô với chi tiết cụ thể hơn nhiều (i.188ff.; xem Uppalavaṇṇā, đồng thời xem Thīg­a.185ff).
 
 ## Notes

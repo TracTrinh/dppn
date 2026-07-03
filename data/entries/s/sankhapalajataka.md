@@ -5,7 +5,7 @@ base_headword: "Saṅkhapālajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -43,6 +43,10 @@ The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra là Duyyodhana, con trai của vua nước Rājagaha. Khi đến tuổi trưởng thành, cha chàng giao lại vương quốc cho chàng, trở thành một tu sĩ khổ hạnh, và sống trong công viên hoàng gia. Tại đó, Duyyodhana thường xuyên đến thăm ông; thấy điều này bất tiện, vị tu sĩ khổ hạnh đi đến Mahiṁsakaraṭṭha và sống trong một túp lều ở khúc quanh của dòng sông Kaṇṇapeṇṇā, chảy từ hồ Saṅkhapāla gần núi Candaka. Tại đó, ông được vua Nāga là Saṅkhapāla đến thăm, người mà ông đã thuyết Pháp cho. Về sau, Duyyodhana phát hiện ra chỗ ở của vị tu sĩ khổ hạnh và đến thăm ông. Tại đó, chàng thấy vua Nāga, và, ấn tượng trước sự lộng lẫy tuyệt vời của vị ấy, mong muốn được đến thăm thế giới Nāga. Khi trở về thủ đô, Duyyodhana dấn thân vào các việc công đức, và sau khi qua đời được tái sinh vào thế giới Nāga và trở thành vua của nó dưới tên là Saṅkhapāla. Theo thời gian, chàng trở nên mệt mỏi với sự lộng lẫy của mình, và, rời khỏi thế giới Nāga, sống gần dòng sông Kaṇṇapeṇṇā, trên một gò mối, thọ trì trai giới thiêng liêng. Khi chàng nằm đó, mười sáu người đàn ông, đi lang thang trong rừng, đã nhìn thấy chàng và bắt giữ chàng. Họ đóng những cái cọc vào cơ thể chàng, và đục lỗ trên những cái cọc và buộc dây thừng vào chúng để kéo chàng đi. Nhưng Saṅkhapāla không hề tỏ ra oán giận. Một địa chủ của Mithilā, tên là Aḷāra, nhìn thấy chàng bị ngược đãi và đã giải thoát cho chàng. Sau đó, Saṅkhapāla mời Aḷāra đến thế giới Nāga, và Aḷāra đã sống ở đó một năm. Về sau ông trở thành một tu sĩ khổ hạnh, và, đến lúc thích hợp, đã đến thăm Benares, nơi ông kể cho nhà vua nghe câu chuyện về chuyến đi của mình đến thế giới Nāga. Sau mùa mưa (mùa an cư), ông trở lại Himālaya. Câu chuyện được kể cho một số cư sĩ thọ trì trai giới.
+
+Cha của Bodhisatta được đồng nhất với Mahā Kassapa, vua nước Benares với Ānanda, và Aḷāra với Sāriputta. Ja.v.161-71. Xem thêm Aḷāra.
+
+Câu chuyện được đưa ra trong Cariyāpiṭaka (ii.10; xem thêm Ja.i.45; MN­a.ii.617; Bv­a.50) để minh họa cho *Sīlapāramitā*.
 
 ## Notes

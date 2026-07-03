@@ -5,7 +5,7 @@ base_headword: "Dhammasenāpati"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammasenāpati 02. A monk of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasenāpati 02. Một vị tỳ-kheo của Ānandavihāra ở Pagan. Ngài có lẽ bắt đầu như một nhà quý tộc và sau đó gia nhập Tăng đoàn. Ngài đã viết một tác phẩm ngữ pháp Pāli mang tên Kārikā. Bode, 15f; Gv.63, 73.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṭṭhikūṭapeta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -32,6 +32,6 @@ Saṭṭhikūṭapeta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṭṭhikūṭapeta (Saṭṭhikūṭasahassapeta). Đã từng có một người tàn tật ở Benares rất giỏi ném đá. Ông ta sống ở cổng thành, dưới một cây đa, và cắt lá cây thành nhiều hình dạng khác nhau cho những đứa trẻ đã cho ông một ít thức ăn của chúng. Một ngày nọ, nhà vua phát hiện ra kỹ năng của ông và thuê ông ném một vại phân dê vào miệng một vị Bà-la-môn không bao giờ ngừng nói. Người tàn tật ngồi sau một tấm màn mà qua đó ông ném những viên phân khi vị Bà-la-môn đang nói. Sau đó nhà vua nói với vị Bà-la-môn, chứng nói nhiều của ông ta đã được chữa khỏi, và người tàn tật đã giành được khối tài sản lớn. Khao khát lợi lộc, một người đàn ông nọ đã hầu hạ người tàn tật và học nghệ thuật của ông, và, khi anh ta rời đi, người tàn tật đã cảnh báo anh ta không được ném đá vào bất kỳ ai có cha hoặc có mẹ hoặc có người sở hữu. Trong khi đi lang thang, người đàn ông tình cờ gặp vị Pacceka Buddha Sunetta, và, nghĩ rằng ngài là một nạn nhân phù hợp, anh ta đã ném một hòn đá xuyên qua tai ngài. Vị Pacceka Buddha phải chịu một nỗi đau đớn dữ dội và qua đời. Khi sự việc bị phát hiện, người đàn ông đã bị giết và tái sinh trong địa ngục Avīci. Về sau anh ta trở thành một ngạ quỷ (*Peta*), trên Gijjhakūṭa và Moggallāna đã nhìn thấy anh ta bay trên không trung, trong khi sáu mươi ngàn chiếc búa rực lửa liên tục giáng xuống đầu anh ta. Pv.iv.16; Pv-a.282-6; Dhp­a.ii.68 ff; cf. Ja.i.418f. (Sālittakajātaka).
 
 ## Notes

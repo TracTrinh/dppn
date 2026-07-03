@@ -5,7 +5,7 @@ base_headword: "Jātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -40,6 +40,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātaka. Cuốn sách thứ mười của Khuddakanikāya thuộc Suttapiṭaka bao gồm những câu chuyện về những kiếp sống trước đây của Đức Phật. Jātaka cũng cấu thành một trong chín phần (*aṅga*) trong những giáo lý của Đức Phật, được phân nhóm theo nội dung chủ đề (DN­a.i.15, 24).
+
+Cuốn sách chính thống của các Jātaka (cho đến nay vẫn chưa được xuất bản) chỉ chứa các bài kệ, nhưng gần như chắc chắn rằng ngay từ đầu hẳn phải có một bản chú giải truyền miệng cung cấp những câu chuyện bằng văn xuôi đã được truyền lại. Bản chú giải này sau đó đã được phát triển thành Chú giải Jātaka.
+
+Một số Jātaka đã được đưa vào một bản biên soạn riêng biệt, được gọi là Cariyāpiṭaka. Không thể nói chính xác các Jātaka dưới hình thức hiện tại của chúng đã ra đời vào khi nào cũng như có bao nhiêu trong số này nằm trong số lượng ban đầu. Vào thời của Cūḷa Niddesa, dường như đã có năm trăm Jātaka, bởi vì có sự đề cập đến *pañcajātakasatāni* (p.80; năm trăm là con số được Pháp Hiển nhìn thấy ở Tích Lan (p.71)). Các bức phù điêu của thế kỷ thứ ba đã được tìm thấy với mục đích minh họa cho một số lượng các câu chuyện Jātaka, và chúng được giả định trước về sự tồn tại của một bộ sưu tập văn xuôi. Có vài Jātaka tồn tại trong các cuốn sách chính thống nhưng lại không được đưa vào bộ sưu tập Jātaka. Để thảo luận về các Jātaka ở tất cả mọi khía cạnh của chúng, xem tác phẩm *Buddhist India* của Rhys Davids, pp.189ff.
+
+Những người Dīghabhāṇaka đã đưa Jātaka vào Abhidhammapiṭaka (DN­a.i.15; Samantapāsādikā (i.251) có chứa một sự đề cập đến *Jātakanikāya*).
+
+Jātaka bao gồm hai mươi hai phần (*nipāta*).
 
 ## Notes

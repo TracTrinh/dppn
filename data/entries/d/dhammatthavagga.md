@@ -5,7 +5,7 @@ base_headword: "Dhammaṭṭhavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammaṭṭhavagga. The nineteenth chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaṭṭhavagga. Chương thứ mười chín của Dhammapada.
 
 ## Notes

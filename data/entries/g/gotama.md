@@ -5,7 +5,7 @@ base_headword: "Gotamā"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -28,6 +28,6 @@ Gotamā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gotamā. Mẹ của Candakumāra và là chánh hậu của vua xứ Benares (Ja.vi.134). Bà được nhận đồng với Mahā Māyā (Ja.vi.157). Đôi khi bà cũng được gọi là Gotamī, ví dụ: Ja.vi.148, 151.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅkassa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -62,6 +62,10 @@ There was, in the Buddha’s time, a deer park at <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkassa. Một thành phố, cách Sāvatthī ba mươi do tuần (Dhp­a.iii.224). Chính tại đó Đức Phật đã trở lại trần thế, sau khi thuyết giảng Abhidhammapiṭaka ở Tāvatiṁsa, tiếp nối việc thi triển Song thông dưới gốc cây Gaṇḍamba. Khi thời điểm Đức Phật rời khỏi Tāvatiṁsa đến gần, Moggallāna (Anuruddha, theo Snp­a.ii.570; so sánh Vsm., p.391) đã thông báo về sự trở lại sắp tới của Ngài cho đám đông, những người đã chờ đợi ở Sāvatthī, được Cūḷa Anāthapiṇḍika nuôi dưỡng, trong khi Moggallāna giảng giải Dhamma. Sau đó họ lên đường đến Saṅkassa. Sự giáng trần của Đức Phật đã diễn ra vào ngày lễ hội *Mahā Pavāraṇa*. Sakka đã cung cấp ba chiếc thang cho Đức Phật đi xuống từ Sineru đến trần thế: bên phải là một chiếc thang bằng vàng dành cho chư thiên; bên trái là một chiếc thang bằng bạc dành cho Mahā Brahma và tùy tùng của ông; và ở giữa là một chiếc thang bằng ngọc báu dành cho Đức Phật. Đám đông tập hợp lại bao phủ mặt đất với bán kính ba mươi do tuần. Có một tầm nhìn rõ ràng về chín thế giới *Brahma* ở phía trên và về Avīci ở phía dưới. Đức Phật được tháp tùng bởi Pañcasikha, Mātali, Mahā Brahma và Suyāma. Sāriputta là người đầu tiên chào đón Ngài (tiếp theo là Uppalavaṇṇā, Snp­a.ii.570), và Đức Phật đã thuyết giảng Dhamma, bắt đầu với những gì nằm trong sự hiểu biết của ngay cả một *puthujjana* (kẻ phàm phu), và kết thúc với những gì chỉ có một vị Phật mới có thể hiểu được. Nhân dịp này, Parosahassajātaka (Ja 99, xem mục này) đã được thuyết giảng để công bố cho đám đông về trí tuệ vô song của Sāriputta (Dhp­a.iii.224ff.; xem thêm Snp­a.ii.570). Người ta nói rằng sự giáng trần của Đức Phật tại Saṅkassa đã tạo cơ hội cho Moggallāna thể hiện sự xuất chúng của ông về *iddhi* (thần thông), Anuruddha về *dibbacakkhu* (thiên nhãn), và *puṇṇa* về sự khéo léo trong việc thuyết giảng, và Đức Phật muốn trao cho Sāriputta một cơ hội để tỏa sáng trong trí tuệ của mình (sđd., vị trí đã dẫn; Ja.iv.266; xem thêm các Jātaka: Jhānasodhana, Sarabhamiga, và Candābha). Do đó, Ngài đã hỏi Sāriputta những câu hỏi mà không ai khác có thể trả lời. Những lời mở đầu của Sāriputtasutta (xem mục này) được cho là đề cập đến sự giáng trần từ Tusita (nguyên văn như vậy) này. Vị trí cổng thành của Saṅkassa là một trong những địa điểm "bất biến" của thế giới (*avijahitaṭṭhānaṁ*). Tất cả các vị Phật đều giáng xuống tại địa điểm đó để đến thế giới loài người sau khi thuyết giảng Abhidhamma (Bv-a.106, 247; MN­a.i.371, v.v.). Từ Saṅkassa, Đức Phật đi đến Jetavana (Ja.i.193). Một ngôi đền đã được dựng lên tại địa điểm nơi bàn chân phải của Đức Phật lần đầu tiên chạm đất tại Saṅkassa (Dhp­a.iii.227). Khi các nhà hành hương Trung Quốc, Huyền Trang (Xuanzang) và Pháp Hiển (Faxian), đến thăm nơi này, họ đã tìm thấy ba chiếc thang, thứ đã được người xưa xây dựng bằng gạch và đá, để tưởng nhớ sự giáng trần của Đức Phật, nhưng những chiếc thang gần như đã bị chìm vào trong đất (Beal-Xuan, op.cit., i.203; Faxian, p.24).
+
+Vào thời của Đức Phật, có một công viên nai ở Saṅkassa, nơi Suhemanta Thera đã nghe Đức Phật thuyết pháp (Thag­a.i.212). Trong cuộc tranh cãi về Vajjiputta, Revata Thera*,* trên đường từ Soreyya đến Sahājāti, đã đi ngang qua Saṅkassa. Tuyến đường mà ông đã đi ngang qua là Saṅkassa, Kaṇṇakujja, Udumbarā và Aggālapura (Vin.ii.299f).
+
+Saṅkassa ngày nay được đồng nhất với Saṅkissa Basantapura trên bờ bắc của sông Ikkhumatī (Kālīnadī), giữa Atranji và Kanoj, cách Fatehgarh hai mươi ba dặm về phía tây và cách Kanoj bốn mươi lăm dặm về phía bắc.
 
 ## Notes

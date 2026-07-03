@@ -5,7 +5,7 @@ base_headword: "Oghasutta"
 disambiguator: "02"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Oghasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oghasutta 02. Sāriputta giải thích cho Jambukhādaka về bốn bộc lưu: dục, hữu, tà kiến, vô minh. SN.iv.257f.
 
 ## Notes

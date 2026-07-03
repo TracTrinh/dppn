@@ -5,7 +5,7 @@ base_headword: "Nāgavimānavatthu"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgavimānavatthu 01. The story of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgavimānavatthu 01. Câu chuyện về Yasuttarā (*xem từ này*). Vv.iv.3; Vv-a.181ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jayasena 02. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 02. Cha của Phussa Buddha (Bv.xix.14; Ja.i.41). Đức Phật đã thuyết pháp cho ông và ông trở thành một *Arahant* (Bv­a.193). Ông là vua của Kāsī và vợ của ông là Sirimā (Pv-a.19). Xem thêm Tirokuḍḍapetavatthu.
 
 ## Notes

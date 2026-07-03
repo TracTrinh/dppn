@@ -5,7 +5,7 @@ base_headword: "Sārāṇīyasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārāṇīyasutta. A king must remember where he was born, where he was anointe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārāṇīyasutta. Một vị vua phải nhớ nơi ông được sinh ra, nơi ông được làm lễ tấn phong, và nơi ông giành chiến thắng trong một trận chiến. Một tỳ-kheo phải nhớ nơi vị ấy được thọ giới, nơi vị ấy liễu ngộ Bốn Sự thật thuộc bậc Thánh, và nơi vị ấy đạt được quả vị *Arahant*. AN.i.106f.
 
 ## Notes

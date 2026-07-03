@@ -5,7 +5,7 @@ base_headword: "Rajataguhā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rajataguhā. A cave in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajataguhā. Một hang động trong dãy Himālaya. Ja.ii.67.
 
 ## Notes

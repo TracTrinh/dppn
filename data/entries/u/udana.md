@@ -5,7 +5,7 @@ base_headword: "Udāna"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -35,6 +35,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bộ sưu tập ngắn gồm tám mươi câu chuyện, trong tám *vagga*, chứa đựng những lời thốt ra trang trọng của Đức Phật, được thực hiện trong những dịp đặc biệt. Phần Udāna chính thức, bao gồm những lời thốt ra của Đức Phật, hầu hết là bằng thơ, trong các thể thơ thông thường (*Sloka*, *Triṣṭubh*, *Jagatī*), hiếm khi bằng văn xuôi (ví dụ, iii.10; viii.1, 3, 4). Mỗi Udāna được đi kèm với một lời kể bằng văn xuôi về các hoàn cảnh mà trong đó nó đã được thốt ra.
+
+Cuốn sách tạo thành phần thứ ba của Khuddakanikāya (DN­a.i.17; nhưng xem p.15, nơi nó là phần thứ bảy).
+
+Udāna cũng là tên của một phần của các *Piṭaka* trong sự sắp xếp của chúng theo chủ đề (*aṅga*). Được chia như vậy, rơi vào thể loại này là tám mươi hai *Sutta*, chứa các vần kệ được thốt ra trong một trạng thái hoan hỉ (DN­a.i.23-4; xem thêm Ud­a. pp.2-3).
+
+Các câu chuyện văn xuôi và thơ của Udāna dường như đã hình thành nên mô hình cho Chú giải Dhammapada (Xem *Buddhist Legends*, i.28).
+
+Udāna cũng là nguồn cho mười hai câu chuyện của cùng bản Chú giải đó và chứa đựng những điểm song song cho ba câu chuyện khác. Khoảng một phần ba của Udāna được bao gồm trong các câu chuyện này. Xem, ibid., i.47-8, để biết chi tiết.
 
 ## Notes

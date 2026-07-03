@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pabbata 03. A sage, the chief disciple of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 03. Một vị ẩn sĩ, đệ tử chính của Sarabhaṅga. Để biết chi tiết, xem Indriyajātaka (Ja 423, Ja.iii.463ff.; xem thêm Ja.v.133, 151). Pabbata được đồng nhất với Anuruddha.
 
 ## Notes

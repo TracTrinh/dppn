@@ -5,7 +5,7 @@ base_headword: "Saṅghasena"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅghasena. A building in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghasena. Một tòa nhà trong Mahā Vihāra, do Sena I. và vương hậu của ông, Saṅghā, xây dựng. Cv.l.70.
 
 ## Notes

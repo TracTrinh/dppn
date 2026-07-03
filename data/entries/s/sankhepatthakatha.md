@@ -5,7 +5,7 @@ base_headword: "Saṅkhepaṭṭhakathā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkhepaṭṭhakathā. A compilation quoted by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tài liệu biên soạn được Buddhaghosa trích dẫn để đối chiếu với Mahā Aṭṭhakathā, ví dụ như ở Vin-a.ii.494.
 
 ## Notes

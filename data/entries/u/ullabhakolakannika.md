@@ -5,7 +5,7 @@ base_headword: "Ullabhakolakaṇṇikā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Ullabhakolakaṇṇikā. Evidently a village in Ceylon. A woman of this village,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ullabhakolakaṇṇikā. Rõ ràng là một ngôi làng ở Tích Lan. Một phụ nữ của ngôi làng này, sau khi biết rằng Trưởng lão *Dīghabhāṇaka* Abhaya đang đọc tụng Ariyavaṁsapaṭipāda, đã đi một chặng đường dài để nghe ngài, một khoảng cách năm do-tuần, trong lúc đó vẫn cho đứa con của cô bú. Cô đã đến ngôi *vihāra* và, sau khi đặt đứa trẻ xuống, lắng nghe hai vị giảng sư. Sớm hơn trong ngày, khi Abhaya Thera, sau khi đã hoàn thành một phần của bài pháp, chuẩn bị dùng một chút đồ giải khát, cô đã khiển trách ngài, nói rằng ngài đáng lẽ nên giải khát sớm hơn. Vị Trưởng lão đồng ý và hoàn thành bài pháp và, ở lời cuối cùng, người phụ nữ đã trở thành một Sotāpanna. AN­a.i.386.
 
 ## Notes

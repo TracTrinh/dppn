@@ -5,7 +5,7 @@ base_headword: "Uggarinda"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uggarinda. One of the chief lay supporters of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị cư sĩ hộ độ tối thắng của Nārada Buddha. Bv.x.25.
 
 ## Notes

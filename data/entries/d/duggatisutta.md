@@ -5,7 +5,7 @@ base_headword: "Duggatisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Duggatisutta. The Ariyan who has unwavering faith in the Buddha, the Dhamma and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duggatisutta. Bậc Thánh có niềm tin bất động vào Đức Phật, Pháp và Tăng đoàn, và có đầy đủ giới đức, thì thoát khỏi một cảnh giới tái sinh bất hạnh. SN.v.364.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indaka"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -33,6 +33,8 @@ In one place, in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indaka 02. Một Deva. Ông từng là một thanh niên đã cúng dường một muỗng thức ăn cho Anuruddha. Kết quả là ông được sinh ra ở Tāvatiṁsa như một vị Deva có quyền lực và oai nghi to lớn. Khi Đức Phật đến Tāvatiṁsa để thuyết Abhidhamma, trong hội chúng của các vị thần tụ họp tại đó, những vị có năng lực kém hơn phải nhường chỗ cho những vị bề trên của mình. Do đó, Aṅkura (*q.v.*), người lúc bắt đầu ở rất gần Đức Phật, thấy mình phải lùi xa mười hai do-tuần. Nhưng Indaka thì không như vậy; sức mạnh từ công đức của ông rất to lớn và không có một Deva nào đủ mạnh để hất cẳng ông; ông đã gặp may mắn với người thọ nhận món quà của mình. Sự hào phóng của Aṅkura, dù xa hoa hơn của Indaka rất nhiều, lại được ban tặng cho những người không phải là các bậc thánh thiện. Đó là lời giải thích mà Đức Phật đưa ra trong hội chúng của các vị thần, khi nhìn thấy sự chênh lệch giữa vị thế của hai Deva, Indaka vượt trội hơn người kia ở mười phẩm chất (Pv.pp.27f; Pv-a.136-8; Dhp­a.iii.219-20; 80-1).
+
+Ở một nơi, trong Petavatthu (p.28, v.69), Indaka được gọi là một Yakkha, nhưng phần Chú giải (p.139) nói rằng nó có nghĩa là *Devaputta* (thiên tử). Do đó, ông khác với Indaka (1).
 
 ## Notes

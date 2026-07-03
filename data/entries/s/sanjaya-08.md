@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "08"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sañjaya 08. One of the ten sons of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 08. Một trong mười người con trai của Kāḷāsoka (xem mục này).
 
 ## Notes

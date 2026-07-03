@@ -5,7 +5,7 @@ base_headword: "Sataporisa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sataporisa. A *Niraya*, meant especially for matricides. It is filled with decay
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sataporisa. Một địa ngục (*Niraya*), đặc biệt dành cho những kẻ giết mẹ. Nó chứa đầy những xác chết đang phân hủy. Ja.v.269, 274.
 
 ## Notes

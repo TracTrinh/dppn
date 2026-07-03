@@ -5,7 +5,7 @@ base_headword: "Saraṇasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saraṇasutta. The Buddha teaches the “refuge” and the path thereto. SN.v.37
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇasutta. Đức Phật giảng dạy về “nơi quy y” và con đường dẫn đến đó. SN.v.372.
 
 ## Notes

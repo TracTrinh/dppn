@@ -5,7 +5,7 @@ base_headword: "Reṇu"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Reṇu 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Reṇu 02. Con trai của Disampati, vua xứ Benares (Dpv.iii.40; Mhv­ṭ. 130). Ông có lẽ đồng nhất với Reṇu (1).
 
 ## Notes

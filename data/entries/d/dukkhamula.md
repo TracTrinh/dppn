@@ -5,7 +5,7 @@ base_headword: "Dukkhamūla"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dukkhamūla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhamūla. Một vị Pacceka Buddha, được nhắc đến trong một danh sách tên. Ap­a.i.107; MN.iii.70.
 
 ## Notes

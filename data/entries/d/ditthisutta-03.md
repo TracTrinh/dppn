@@ -5,7 +5,7 @@ base_headword: "Diṭṭhisutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Diṭṭhisutta 03. A nun who is wrong in her views and her purpose and rejects 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Diṭṭhisutta 03. Một vị tỳ-kheo-ni sai lầm trong các quan điểm và mục đích của mình, và bác bỏ đức tin sẽ đi đến địa ngục. AN.iii.140.
 
 ## Notes

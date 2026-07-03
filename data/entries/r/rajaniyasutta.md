@@ -5,7 +5,7 @@ base_headword: "Rajanīyasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rajanīyasutta. A monk who is enticed by the enticing, corrupted by the corrupti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajanīyasutta. Một tỳ-kheo bị cám dỗ bởi những thứ cám dỗ, bị làm hư hỏng bởi những thứ làm hư hỏng, bị mê hoặc bởi những thứ mê hoặc, bị chọc giận bởi những thứ chọc giận và bị làm phát điên bởi những thứ làm phát điên thì một người như vậy không được các bạn đồng tu tôn trọng. AN.iii.110.
 
 ## Notes

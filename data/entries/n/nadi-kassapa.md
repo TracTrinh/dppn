@@ -5,7 +5,7 @@ base_headword: "Nadī Kassapa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,8 @@ He received his name from living on the bank of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nadī Kassapa. Anh em của Uruvelā Kassapa và là một trong những vị Tebhātikajaṭila.
+
+Ngài nhận được tên gọi này vì sống trên bờ sông Nerañjarā với tư cách là người đứng đầu ba trăm vị khổ hạnh (Thag.340-44; Thag­a.i.434, v.v.) Về câu chuyện của ngài, xem Uruvelā Kassapa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rattapāṇī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rattapāṇī. The name of a dyer; perhaps a class name. MN.i.385.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattapāṇī. Tên của một thợ nhuộm; có lẽ là một tên gọi tầng lớp/nghề nghiệp. MN.i.385.
 
 ## Notes

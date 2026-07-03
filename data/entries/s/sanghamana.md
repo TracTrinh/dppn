@@ -5,7 +5,7 @@ base_headword: "Saṅghamāna"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghamāna. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghamāna. Một vị vua Malaya. Cv.xlvii.3.
 
 ## Notes

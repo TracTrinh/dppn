@@ -5,7 +5,7 @@ base_headword: "Santati"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -37,6 +37,12 @@ As he related his story, seated cross-legged in the air, he developed the idea o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một quan đại thần của Pasenadi. Bởi vì ông đã dẹp yên một cuộc nổi loạn ở biên giới, nhà vua đã trao lại vương quốc cho ông trong bảy ngày, và ban cho ông một người phụ nữ giỏi ca vũ. Trong bảy ngày, Santati đã tận hưởng thú vui, uống rượu say sưa; vào ngày thứ bảy, ông đi đến bến tắm với trang phục lộng lẫy, cưỡi con voi của hoàng gia. Đức Phật đã gặp ông trên đường, và Santati đã đảnh lễ ngài từ trên lưng voi. Đức Phật mỉm cười và đi tiếp. Khi được Ānanda hỏi, Đức Phật trả lời rằng vào chính ngày hôm đó, Santati sẽ đạt được quả vị *Arahant* và qua đời.
+
+Santati dành một phần thời gian trong ngày để vui đùa dưới nước, và sau đó ngồi trong tửu quán của công viên. Người phụ nữ ra sân khấu, hát và múa, nhưng cô ta đã nhịn ăn trong bảy ngày để có được dáng vẻ uyển chuyển hơn, và, khi đang múa, cô ta ngã lăn ra chết. Santati vô cùng đau buồn, và lập tức tỉnh rượu. Sau đó, ông tìm đến Đức Phật để được an ủi nỗi đau buồn của mình. Đức Phật thuyết một bài kệ bốn câu, và Santati đạt được quả vị *Arahant* và xin phép Đức Phật được nhập *Nibbāna*. Đức Phật đồng ý, với điều kiện là ông bay lên không trung và kể cho những người đang tụ tập nghe câu chuyện về tiền kiếp của mình. Santati đồng ý với điều này, và, bay lên đến độ cao bằng bảy cây cọ, ông kể lại việc làm công đức của tiền kiếp mình.
+
+Chín mươi *kappa* trước, vào thời của Vipassī Buddha, ông là một gia chủ ở Bandhumatī, và đã trở thành một người theo Đức Phật và đi khắp nơi để ca ngợi những phẩm hạnh của Tam Bảo. Vua Bandhumā đã gặp ông và tặng ông một vòng hoa để đeo và một con ngựa để cưỡi, trong khi ông tuyên dương Pháp. Về sau, nhà vua tặng ông một cỗ xe, rất nhiều của cải, những viên ngọc tuyệt đẹp và một con voi. Như vậy, trong tám mươi tư ngàn năm, Santati đã đi khắp nơi thuyết giảng Pháp, và từ cơ thể ông tỏa ra mùi hương của gỗ đàn hương, và từ miệng ông tỏa ra mùi hương của hoa sen.
+
+Khi kể lại câu chuyện của mình, ngồi xếp bằng trên không trung, ông phát triển ý niệm về lửa và nhập *Nibbāna*. Những ngọn lửa bùng lên từ cơ thể ông và thiêu rụi nó. Đức Phật đã cho thu thập xá-lợi của ông và xây dựng một bảo tháp cho chúng tại nơi giao nhau của bốn con đường lớn. Một cuộc thảo luận nảy sinh về việc liệu Santati nên được gọi là một Bà-la-môn hay một tỳ-kheo. Đức Phật nói rằng cả hai tên gọi đều phù hợp như nhau. Dhp­a.iii.78-84; Snp.i.350; MN­a.i.188; so sánh với câu chuyện của Abhayarājakumāra.
 
 ## Notes

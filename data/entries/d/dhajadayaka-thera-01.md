@@ -5,7 +5,7 @@ base_headword: "Dhajadāyaka Thera"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhajadāyaka Thera 01. An Arahant. He set up a standard at the foot of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhajadāyaka Thera 01. Một vị *Arahant*. Ngài đã dựng một cờ hiệu ở gốc cây bodhi của Đức Phật Padumuttara và quét dọn mặt đất xung quanh nó. Ngài đã từng là một vị vua tên là Uggata, và một lần nữa là một vị vua tên là Megha (Ap.i.108f).
 
 ## Notes

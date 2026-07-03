@@ -5,7 +5,7 @@ base_headword: "Panasaphaladāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Panasaphaladāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panasaphaladāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài nhìn thấy Pacceka Buddha Ajjuna ở Himavā và dâng cúng cho ngài một quả mít chín lớn bằng cái nồi đặt trên một cái mâm lá. Ap.i.297; cf. ibid., ii.446.
 
 ## Notes

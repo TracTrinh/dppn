@@ -5,7 +5,7 @@ base_headword: "Saṅkhittasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkhittasaṁyutta. Mentioned by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được Buddhaghosa (SN­a.ii.168) đề cập đến như một ví dụ về một tuyển tập các bài giảng liên quan đến *Suññatā*. Tham chiếu này có lẽ là nói đến *Saṭṭhipeyyāla*. Tại Saṁyutta iv.148ff.
 
 ## Notes

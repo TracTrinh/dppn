@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uggata 02. A *Khattiya* of the city of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 02. Một *Khattiya* của thành phố Sumaṅgala, cha của Sujāta Buddha. Ja.i.38; Bv.xiii.20.
 
 ## Notes

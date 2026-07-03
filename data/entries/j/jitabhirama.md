@@ -5,7 +5,7 @@ base_headword: "Jitābhirāma"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jitābhirāma. A palace occupied by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jitābhirāma. Một cung điện được Nārada Buddha cư ngụ trong kiếp sống cư sĩ cuối cùng của Ngài. Bv­a.151; Bv.x.19.
 
 ## Notes

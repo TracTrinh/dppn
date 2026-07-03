@@ -5,7 +5,7 @@ base_headword: "Dussalakkhaṇa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dussalakkhaṇa. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussalakkhaṇa. Một vị Bà-la-môn ở Rājagaha, người tự nhận có khả năng tiên đoán bằng cách nhìn vào các mảnh vải. Về câu chuyện của ông, xem Maṅgalajātaka (Ja 87, Ja.i.373).
 
 ## Notes

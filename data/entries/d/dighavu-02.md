@@ -5,7 +5,7 @@ base_headword: "Dīghāvu"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dīghāvu 02. A householder of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāvu 02. Một gia chủ ở Rājagaha và là con trai của *gahapati* (gia chủ) Jotika. Ông là một *Sotāpanna* và, khi ông nằm bệnh, ông đã cử cha mình đến gặp Đức Phật Gotama để thỉnh cầu Đức Phật đến thăm ông. Đức Phật đã chấp thuận lời thỉnh cầu, thuyết giảng cho ông và an ủi ông. Không lâu sau đó Dīghāvu qua đời và tái sinh làm một *Anāgāmī* (bậc Bất lai). SN.v.344f.
 
 ## Notes

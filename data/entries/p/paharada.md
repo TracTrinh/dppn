@@ -5,7 +5,7 @@ base_headword: "Pahārāda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -33,6 +33,6 @@ Pahārāda. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahārāda. Pahārāda. Một vị thủ lĩnh Asura (DN.ii.259). Buddhaghosa nói (AN­a.ii.758) rằng ông là một trong ba vị thủ lĩnh của các Asura, những vị còn lại là Vepacitti và Rāhu. Lần đầu tiên ông mong ước được diện kiến Đức Phật là vào ngày Ngài Giác ngộ; nhưng mong ước này không được hiện thực hóa cho đến mười một năm sau, khi ông viếng thăm Đức Phật tại Verañjā. Cuộc đàm thoại diễn ra sau đó được ghi lại trong Pahārādasutta (*q.v.*).
 
 ## Notes

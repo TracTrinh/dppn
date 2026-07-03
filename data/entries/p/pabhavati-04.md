@@ -5,7 +5,7 @@ base_headword: "Pabhāvatī"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pabhāvatī 04. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabhāvatī 04. Con gái của Māṇābharaṇa (1) và là em gái của Parakkamabāhu I (Cv.lxii.3). Nàng đã kết hôn với Māṇābharaṇa (2), con trai của Sirivallabha. Ibid., lxiv.24.
 
 ## Notes

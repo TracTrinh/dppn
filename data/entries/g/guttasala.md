@@ -5,7 +5,7 @@ base_headword: "Guttasāla"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -43,6 +43,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guttasāla, Guttasālaka. Một ngôi làng và một quận ở Rohaṇa. Duṭṭhagāmaṇī đã sống ở đó trước khi lên ngôi tại Mahā Gāma (Mhv.xxiv.17). Guttasāla nằm cách Mahā Gāma ba mươi đến ba mươi lăm dặm về phía bắc, nơi con đường lớn băng qua Māṇikagaṅga, và nằm trên tuyến đường chính trải dài từ Mahā Gāma đến Mutiyaṅgaṇa, và từ đó dọc theo Mahā Vālukagaṅgā đến Pulatthipura; do đó nó có tầm quan trọng về mặt chiến lược. Đây là trung tâm của nhiều chiến dịch ở các thời kỳ khác nhau. (vd., của Mahinda, Cv.li.109, 117; Vijayabāhu I., Cv.lxviii.34; Jayabāhu I., Cv.lxi.12; Parakkamabāhu I., Cv.lxxiv.165f.; lxxv.15. Xem Cv.Trs.i.158, n.4).
+
+Sách Atthasālinī ghi lại câu chuyện về một Tỳ-kheo-ni ở Guttasāla (Dhs-a.398f); vị này là một *Arahant*, và khi ngôi làng bị bọn cướp tàn phá, vị này đã rời đi cùng với một Tỳ-kheo-ni trẻ mang hành lý cho mình. Tại cổng làng Nakulanagara, vị này đã gặp Mahā Nāga ở Kāḷavallimaṇḍapa, người đã dâng cho vị này một bữa ăn trong chính bình bát của mình, vì vị Tỳ-kheo-ni không có bình bát của riêng mình. Vị này đã ăn bữa ăn, rửa bình bát và trả lại, bảo với ông rằng từ ngày hôm sau ông sẽ nhận được đồ khất thực mà không cần phải gắng sức; và sự việc đã diễn ra đúng như vậy.
 
 ## Notes

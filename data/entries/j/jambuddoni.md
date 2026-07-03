@@ -5,7 +5,7 @@ base_headword: "Jambuddoṇi"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -35,6 +35,6 @@ Jambuddoṇi. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambuddoṇi. Một ngọn núi ở Malayaraṭṭha tại Tích Lan. Vijayabahu III đã xây dựng trên đỉnh núi này một thị trấn mà ông lấy làm thủ đô của mình. Trong một thời gian, Xá-lợi Răng và Bình Bát đã được đặt ở đó (Cv.lxxxi.15, 29) nhưng sau đó được dời đến Billagiri (Cv.lxxxii.7ff). Parakkamabāhu II cũng đã sử dụng Jambuddoṇi làm thủ đô của mình, nhưng Vijayabāhu IV đã dời cơ quan chính quyền đến Pulatthipura (Cv.lxxxx.13). Sau này, chúng ta thấy Bhuvanekabāhu I lên ngôi tại Jambuddoṇi, mặc dù thủ đô của ông nằm ở Subhagiri (Cv.xc.30). Vijayabāhu III đã xây dựng Vijayasundarārāma (*q.v.*) trên Jambuddoṇi.
 
 ## Notes

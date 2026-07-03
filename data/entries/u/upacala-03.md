@@ -5,7 +5,7 @@ base_headword: "Upacālā"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upacālā 03. Chief of the women supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upacālā 03. Vị nữ thí chủ hàng đầu của Sumana Buddha. Bv.v.28.
 
 ## Notes

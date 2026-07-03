@@ -5,7 +5,7 @@ base_headword: "Naḷira"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naḷira. One of the palaces occupied by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷira. Một trong những cung điện được Sobhita Buddha sử dụng trong đời sống cư sĩ cuối cùng của Ngài. Bv.vii.17.
 
 ## Notes

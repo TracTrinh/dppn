@@ -5,7 +5,7 @@ base_headword: "Iṇasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Iṇasutta. Deals at length with the disadvantages, both material and moral, of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṇasutta. Đề cập chi tiết đến những bất lợi, cả về vật chất lẫn đạo đức, của sự nghèo đói và tình trạng nợ nần (*iṇa*) do đó gây ra. AN.iii.351-4.
 
 ## Notes

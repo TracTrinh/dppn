@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -35,6 +35,6 @@ Dhanañjaya 06. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 06. Một *seṭṭhi* ở Bhaddiyanagara; ông là con trai của Meṇḍaka và Candapadumasirī. Vợ của ông là Sumanadevī, và những người con của họ là Visākhā và Sujātā. Ông được Bimbisāra cho Pasenadi mượn, bởi vì vương quốc của vị sau không có ai là người có phước báu lớn. Dhanañjaya và gia đình ông đã xây dựng thành phố tên là Sāketa, cách Sāvatthī bảy do-tuần, và định cư tại đó. Dhanañjaya được bao gồm trong số năm người có phước báu lớn (*Mahā Puññā*), sống cùng thời với vị Phật, và ông là một *Sotāpanna*. Dhp­a.i.384ff; iii.363; Ja.ii.347; Vsm.383, v.v...
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīgharāji"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dīgharāji. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgharāji. Một ngôi làng ở Magadha, nơi cư ngụ của nhiều ngoại đạo Saṁsāramocaka. Pv-a.67.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammaddhaja"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammaddhaja. The Bodhisatta born as the chaplain of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaddhaja. Bodhisatta được sinh làm vị tư tế của Yasapāṇī, vua xứ Benares. Để biết câu chuyện của ngài, xem Dhammaddhajajātaka.
 
 ## Notes

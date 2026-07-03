@@ -5,7 +5,7 @@ base_headword: "Dhātubhājaniyakathā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhātubhājaniyakathā. The last chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātubhājaniyakathā. Chương cuối cùng của Buddhavaṁsa. Nó chứa các chi tiết về việc phân chia xá-lợi của Gotama Buddha (Bv.xxviii). Bản Chú giải không đưa ra lời bình luận nào về điều này.
 
 ## Notes

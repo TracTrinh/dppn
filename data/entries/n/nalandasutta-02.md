@@ -5,7 +5,7 @@ base_headword: "Nālandāsutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nālandāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālandāsutta 02. Lời khẳng định niềm tin của Sāriputta đối với Đức Phật – chưa từng có, hiện không có, và sẽ không có, bất cứ ai sở hữu trí tuệ cao hơn Đức Phật. SN.v.159 f.; cp. DN.ii.81 và DN.iii.99ff.
 
 ## Notes

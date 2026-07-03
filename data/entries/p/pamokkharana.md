@@ -5,7 +5,7 @@ base_headword: "Pamokkharaṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pamokkharaṇa. A king of seventy-seven *kappas* ago, a previous birth of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pamokkharaṇa. Một vị vua của bảy mươi bảy *kappa* trước, một tiền kiếp của Nāgakesariya Thera. Ap.i.222.
 
 ## Notes

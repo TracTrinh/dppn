@@ -5,7 +5,7 @@ base_headword: "Pañcagatisuttā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcagatisuttā. A series of *Suttas* in which the Buddha declares that, throug
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcagatisuttā. Một loạt các *Sutta* trong đó Đức Phật tuyên bố rằng, do không liễu tri Bốn Sự Thật Cao Quý (Tứ Thánh Đế), chúng sinh tiếp tục tái sinh vào một trong năm cảnh giới: làm loài người, loài vật, ngạ quỷ (*Petas*), chư thiên, hoặc trong các địa ngục (*nirayas*). SN.v.474ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rajatasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rajatasutta. Few are they who abstain from taking silver, many they who do not. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajatasutta. Ít ỏi là những người tránh xa việc nhận bạc, nhiều là những người không làm như vậy. SN.v.471.
 
 ## Notes

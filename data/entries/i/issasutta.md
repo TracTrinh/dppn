@@ -5,7 +5,7 @@ base_headword: "Issāsutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Issāsutta. The nun who is possessed of five qualities, including envy, goes to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issāsutta. Vị tỳ-kheo-ni sở hữu năm phẩm chất, bao gồm lòng ganh tị, sẽ đi xuống địa ngục không còn nghi ngờ gì nữa (AN.iii.140).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājavesibhujaṅgasilāmegha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājavesibhujaṅgasilāmegha. A title conferred by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavesibhujaṅgasilāmegha. Một danh hiệu do Laṅkāpura trao tặng cho Ilaṅkiya. Cv.lxxvi.192.
 
 ## Notes

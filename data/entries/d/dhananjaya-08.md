@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "08"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhanañjaya 08. A pleasance near <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 08. Một khu vườn giải trí gần Dhaññavatī nơi Paduma Buddha thuyết pháp lần đầu tiên (Bv.ix.20; Bv­a.147). Nārada Buddha đã được sinh ra tại đó. Bv­a.151.
 
 ## Notes

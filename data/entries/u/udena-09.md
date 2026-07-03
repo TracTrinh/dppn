@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "09"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,6 @@ Udena 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Udena Thera. Một Arahant, có lẽ đồng nhất với Udena (2). Trong thời của Padumuttara Buddha ngài là một vị ẩn sĩ, cùng với tám mươi bốn ngàn người khác, sống trong một am thất gần Padumapabbata trong vùng Himālaya. Sau khi đã nghe những lời tán dương Đức Phật từ một vị Yakkha, ngài đã đến thăm Padumuttara, dâng cho ngài một bông hoa sen và nói những vần kệ để tán dương ngài. Ap.ii.362ff.
 
 ## Notes

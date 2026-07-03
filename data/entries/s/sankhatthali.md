@@ -5,7 +5,7 @@ base_headword: "Saṅkhatthalī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,6 @@ Saṅkhatthalī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhatthalī, Saṅkhanāyakatthalī, Saṅkhanāthatthalī. Một địa điểm quan trọng ở Dakkhiṇadesa của Ceylon, nơi Kittisirimegha đóng thủ đô của mình. Nó nằm gần Badalatthalī, và được đề cập vài lần trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxiii.43; lxiv.22; lxvi.9; lxvii.78, 82; xem thêm Cv.Trs.i.241, n.2.
 
 ## Notes

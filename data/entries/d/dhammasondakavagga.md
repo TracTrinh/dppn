@@ -5,7 +5,7 @@ base_headword: "Dhammasoṇḍakavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasoṇḍakavagga. The first section of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasoṇḍakavagga. Phần đầu tiên của Rasavāhinī.
 
 ## Notes

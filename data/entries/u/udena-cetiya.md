@@ -5,7 +5,7 @@ base_headword: "Udena Cetiya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -41,6 +41,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một đền thờ của sự thờ phụng tiền Phật giáo, ở phía đông của Vesālī.
+
+Nó được đề cập cùng với các đền thờ khác tại Vesālī – Gotamaka, Sārandada, Sattamba, Cāpāla và Bahuputta – tất cả đều được mô tả là những địa điểm xinh đẹp (DN.ii.102; SN.v.260; AN.iv.309; xem thêm DN.iii.9).
+
+Rhys Davids phỏng đoán rằng những thứ này có lẽ là những cái cây hoặc những gò đất (Dial.ii.110, n.1, nhưng xem Law: *Geography of Early Buddhism*. 74ff).
+
+Chú giải Dhammapada (Dhp-a.iii.246) mô tả các đền thờ Udena và Gotamaka như là những "*rukkhacetiya*" (đền thờ cây) mà con người đảnh lễ ngõ hầu có được những mong muốn của họ được đáp ứng.
+
+Chú giải Dīgha (ii.554; AN­a.ii.784; Ud­a.323) nói rằng vào thời của Đức Phật, một *vihāra* đã được dựng lên trên vị trí nơi đền thờ này tọa lạc và rằng *vihāra* này trước đây đã được dành riêng cho vị Yakkha Udena.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uṇhanagara"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uṇhanagara. A village, the birthplace of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇhanagara. Một ngôi làng, nơi sinh của Hatthadāṭha. Cv.xlvi.45.
 
 ## Notes

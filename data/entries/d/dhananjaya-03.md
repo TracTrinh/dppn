@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,6 @@ Dhanañjaya 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 03. Dhanañjaya Koravya, Dhanañjaya Korabba. Vua của xứ Kuru. Ngài là Bodhisatta và đã thuyết giảng năm Kurudhammā. Về câu chuyện của ngài, xem Kurudhammajātaka (Ja 276, Ja.ii.368ff). Con voi hoàng gia của ngài là Añjanavasabha. Dhanañjaya là một trong những kiếp sống mà Bodhisatta đã thực hành *dānapāramitā*. Ja.i.45.
 
 ## Notes

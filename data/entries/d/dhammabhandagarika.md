@@ -5,7 +5,7 @@ base_headword: "Dhammabhaṇḍāgārika"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammabhaṇḍāgārika. A name given to <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammabhaṇḍāgārika. Một danh xưng được đặt cho Ānanda (*q.v.*).
 
 ## Notes

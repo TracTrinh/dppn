@@ -5,7 +5,7 @@ base_headword: "Rājovādasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājovādasutta. Probably this name, mentioned in the introduction to the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājovādasutta. Có lẽ tên gọi này, được đề cập trong phần giới thiệu của Sumaṅgalajātaka (Ja 420, Ja.iii.439), là một tiêu đề mô tả chứ không phải là tên của bất kỳ *Sutta* cụ thể nào do Đức Phật thuyết giảng cho Pasenadi.
 
 ## Notes

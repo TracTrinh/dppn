@@ -5,7 +5,7 @@ base_headword: "Padakusalamāṇavajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -31,6 +31,8 @@ The story was related in reference to a seven year old boy of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padakusalamāṇavajātaka (Ja 432). Thuở nọ, hoàng hậu của một vị vua Benares, do đã thề một lời thề giả dối, đã trở thành một Yakkha mặt ngựa. Bà đã phục vụ Vessavaṇa trong ba năm và được cho phép ăn thịt người trong một phạm vi nhất định. Một ngày nọ, bà bắt được một vị Bà-la-môn giàu có và đẹp trai, và, khi phải lòng ông, bà đã biến ông thành chồng của mình. Khi đi ra ngoài, bà nhốt ông lại, e sợ rằng ông sẽ trốn thoát. Vị Bodhisatta được sinh ra làm con trai của họ, và khi biết được câu chuyện của cha mình, ngài đã khám phá ra từ Yakkha này xem quyền hạn của bà kéo dài bao xa, và sau đó đã trốn thoát cùng với cha mình. Yakkha đi theo, nhưng họ đã ở bên ngoài lãnh thổ của bà và không thể bị thuyết phục để quay trở lại. Bà đã trao cho con trai mình một câu thần chú cho phép ngài theo dõi dấu chân của bất kỳ người nào, thậm chí sau khoảng thời gian mười hai năm trôi qua. Nhờ sức mạnh của câu thần chú của mình, chàng trai đã đi vào phục vụ nhà vua Benares. Một ngày nọ, nhà vua và vị đạo sư của ông, vì muốn thử thách chàng, đã đánh cắp một số kho báu, mang nó đi theo những con đường ngoằn ngoèo, và giấu nó trong một cái bể. Chàng thanh niên đã lấy lại được nó một cách khá dễ dàng, theo dõi dấu chân của họ ngay cả trên không trung. Nhà vua muốn tên của những tên trộm bị tiết lộ, nhưng chàng trai sẽ không làm điều này. Tuy nhiên, ngài đã kể cho nhà vua nghe nhiều câu chuyện khác nhau, cho thấy rằng ngài biết những thủ phạm thực sự. Dù vậy, nhà vua vẫn khăng khăng yêu cầu tố giác những tên trộm, và khi chàng trai tiết lộ tên của họ, những người dân đang tụ tập đã giết chết nhà vua và vị đạo sư của ông và phong vị Bodhisatta làm vua.
+
+Câu chuyện đã được kể lại liên quan đến một cậu bé bảy tuổi của Sāvatthī, người có thể nhận ra các dấu chân. Cha của cậu đã bắt cậu phải trải qua một bài kiểm tra nghiêm ngặt, và sau đó đã đi đến chỗ của Đức Phật, nơi cậu bé đã tìm thấy ông. Khi Đức Phật nghe câu chuyện, ngài đã tiết lộ câu chuyện trong quá khứ. Người cha trong câu chuyện quá khứ được đồng nhất với Mahā Kassapa. Ja.iii.501-14.
 
 ## Notes

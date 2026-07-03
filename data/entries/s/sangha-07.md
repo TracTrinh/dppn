@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅghā 07. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 07. Vợ của Kassapa V. Bà là một người con gái của Mahinda, *yuvarāja* của Sena II. và của Tissā. Cv.li. 15, 18.
 
 ## Notes

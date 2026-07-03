@@ -5,7 +5,7 @@ base_headword: "Jalasikha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jalasikha. Seventy-four *kappas* ago there were eight kings of this name, all pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jalasikha. Bảy mươi bốn *kappa* trước, có tám vị vua mang tên này, tất cả đều là các tiền kiếp của Pupphacchattiya Thera (Ap.i.265).
 
 ## Notes

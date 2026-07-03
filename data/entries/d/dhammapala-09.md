@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "09"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhammapāla 09. A Thera of Ceylon, generally called <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 09. Một vị Thera của Tích Lan, thường được gọi là Cūḷa Dhammapāla. Ngài là đệ tử trưởng của Vanaratana Ānanda và đã viết Saccasaṅkhepa. Ngài cũng được cho là tác giả của các bản phụ sớ (*ṭīkā*) về nhiều tác phẩm, bao gồm một Līnathavaṇṇanā (bản diễn giải ý nghĩa bị che khuất) về Mūlaṭīkā (Bản Phụ sớ gốc) của Ānanda. Gv.60, 70; cũng xem PLC., 203f, 211.
 
 ## Notes

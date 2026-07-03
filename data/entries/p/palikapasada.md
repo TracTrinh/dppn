@@ -5,7 +5,7 @@ base_headword: "Pālikapāsāda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pālikapāsāda. A building erected by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pālikapāsāda. Một công trình kiến trúc do Kassapa V xây dựng. Cv.lii.66; xem thêm Cv.Trs.i.168, n.8.
 
 ## Notes

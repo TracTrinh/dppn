@@ -5,7 +5,7 @@ base_headword: "Saṅgha"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgha 03. An *upāsaka* who will wait on <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgha 03. Một cư sĩ, người sẽ hầu hạ Metteyya Buddha (Anāg. vs. 61) và là thí chủ cư sĩ chính của Ngài. Ibid., 98.
 
 ## Notes

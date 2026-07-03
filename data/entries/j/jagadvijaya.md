@@ -5,7 +5,7 @@ base_headword: "Jagadvijaya"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jagadvijaya. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jagadvijaya. Một tướng quân của Parakkamabāhu I. Ông cùng với Laṅkāpura đóng vai trò nổi bật nhất trong cuộc viễn chinh chống lại Kulasekhara và nhiều chiến thắng được cho là công của ông. Cv.lxxvi.255, 292, 303, 313, 319, 332; lxxvii.4, 45, 60, 64, 71, 82.
 
 ## Notes

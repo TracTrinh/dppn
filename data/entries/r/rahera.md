@@ -5,7 +5,7 @@ base_headword: "Rahera"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -31,6 +31,8 @@ It is also given as the name of a tank, repaired by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahera, Raheraka. Cái tên này thường được đề cập trong các Biên niên sử Pāli, đôi khi như một địa phương, đôi khi như một ngọn núi (ví dụ, Mhv.xxi.5; Cv.xli.44; xliv.7), có vẻ như nằm ở (Mhv.Trs.176, n.2) phía bắc của, và không xa Anurādhapura.
+
+Nó cũng được đưa ra như tên của một hồ chứa nước, được Parakkamabāhu I. sửa chữa (Cv.lxxix.33), và cũng như tên của một kênh thủy lợi (*dakavāra*), được Silākāla tặng cho các tỳ-kheo của Abhayagiri (Cv.xli.31). Gần Raheraka có *vihāra* Kolambahālaka (*xem mục từ này*).
 
 ## Notes

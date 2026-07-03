@@ -5,7 +5,7 @@ base_headword: "Santike Nidāna"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Santike Nidāna. The portion of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần của Chú giải Jātaka cung cấp ghi chép về các hoạt động của Gotama Buddha – chẳng hạn như ngài đã sống ở đâu – từ thời điểm Giác Ngộ của ngài cho đến khi ngài viên tịch (Bv­a. p. 4f). Tên gọi này được đặc biệt đặt cho một phần của Nidānakathā. Ja.i.77-94.
 
 ## Notes

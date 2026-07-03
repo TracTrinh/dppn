@@ -5,7 +5,7 @@ base_headword: "Pahānasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pahānasutta. The higher life (*brahmacariyā*) is for the purpose of getting ri
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahānasutta. Phạm hạnh (*brahmacariyā*) là vì mục đích đoạn tận bảy kiết sử (*saṁyojanāni*). AN.iv.7.
 
 ## Notes

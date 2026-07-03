@@ -5,7 +5,7 @@ base_headword: "Janaka"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Janaka 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janaka 02. Vua của Benares. Quan đại thần của ông là Senaka, câu chuyện về người này được thuật lại trong Sattubhastajātaka (Ja 402). Ja.iii.341, 348.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sātāgira"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -53,6 +53,16 @@ Sātāgira is mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sātāgira. Một Yakkha. Ông và người bạn của mình, Hemavata, là hai trong số hai mươi tám vị thủ lĩnh của các Yakkha. Cả hai từng là tỳ-kheo trong thời của Đức Phật Kassapa, nhưng đã phạm tội quyết định sai trong cuộc tranh chấp nảy sinh giữa Dhammavādī và Adhammavādī, do đó dẫn đến việc họ tái sinh làm Yakkha, Sātāgira ở Sātapabbata, và Hemavata ở Himavā. Họ đã nhận ra nhau tại hội chúng Yakkha ở Bhagalavatī *pabbata*, và hứa sẽ báo cho nhau biết nếu, trong cuộc đời mình, họ bắt gặp bất cứ điều gì thú vị.
+
+Khi Đức Phật đản sinh và khi Ngài thuyết bài pháp đầu tiên, Sātāgira đã có mặt trong hội chúng, nhưng, vì ông liên tục nhìn quanh để xem Hemavata có ở đó không, ông không thể tập trung tâm trí vào giáo pháp của Đức Phật. Khi mặt trời lặn và Đức Phật vẫn đang thuyết giảng, ông đi cùng năm trăm tùy tùng của mình để tìm Hemavata. Tại Rājagaha, họ gặp Hemavata, người đang trên đường đi mời Sātāgira đến Himavā, nơi được bao phủ bởi những bông hoa chưa từng thấy trước đây. Sātāgira giải thích rằng lý do cho phép màu này là sự xuất hiện của Đức Phật trên thế gian, và, để trả lời các câu hỏi của Hemavata, đã tuyên bố về sự vĩ đại của Đức Phật.
+
+Cuộc trò chuyện của họ được tìm thấy trong *gāthā* (bài kệ) giới thiệu của Hemavatasutta (*q.v.*). Buddhaghosa nói (Snp­a.i.199) rằng, theo một số người, cuộc gặp gỡ này diễn ra, không phải vào dịp bài pháp đầu tiên, mà là muộn hơn, khi Đức Phật đang sống trong Gotāmaka *cetiya*. Kāli Kuraragharikā, khi đang ngồi bên cửa sổ hóng mát, đã nghe thấy cuộc trò chuyện của hai Yakkha, và tâm trí bà tràn đầy sự thành kính đối với Đức Phật, khi bà nghe những phẩm chất tuyệt vời của Ngài được liệt kê, bà đã đạt được quả vị *Sotāpatti*.
+
+Khi Hemavata cảm thấy hài lòng, từ lời mô tả của Sātāgira, rằng Đức Phật thực sự là Bậc Giác Ngộ, ông quyết định đến gặp Ngài cùng với Sātāgira. Cùng nhau, họ dẫn theo những người tùy tùng đến Isipatana vào canh giữa của đêm, và Hemavata hỏi Đức Phật về giáo pháp của Ngài. Về bản chất, Hemavata là người mạnh mẽ, khôn ngoan và tràn đầy lòng tôn kính đối với điều thiện, và sự giảng giải kỳ diệu về Pháp của Đức Phật khiến ông tràn ngập niềm vui lớn. Ông ca ngợi Đức Phật bằng năm khổ thơ, và, sau khi từ biệt Ngài và Sātāgira, trở về nhà với lời hứa rằng ông sẽ đi lang thang từ nơi này sang nơi khác để mang tin vui về Đức Phật và Pháp của Ngài đến giữa mọi chúng sinh. Câu chuyện này được đưa ra trong phần Chú giải cho Hemavatasutta; Snp­a.i.194-216; cf. AN­a.i.134f.
+
+Về sau, khi đang du hành trên không bằng nhiều phương tiện khác nhau, trên đường đến hội chúng Yakkha, Sātāgira và Hemavata cùng những tùy tùng của họ chuẩn bị bay qua ẩn thất của Āḷavaka; nhưng vì Đức Phật khi đó đang ở bên trong, các Yakkha nhận thấy rằng các phương tiện của họ vẫn đứng yên tại chỗ vì không ai có thể bay qua đầu của Đức Phật. Khi họ theo đó mà phát hiện ra sự hiện diện của Ngài, họ đã xuống xe và đảnh lễ Đức Phật, và chúc mừng Āḷavaka về sự vô cùng may mắn của ông khi có cơ hội gặp gỡ và lắng nghe Đức Phật. AN­a.i.221; một câu chuyện tương tự được kể lại (Ud­a.64) về họ khi họ đi ngang qua chỗ ở của Yakkha Ajakalāpaka.
+
+Sātāgira được đề cập trong Āṭānāṭiyasutta (DN.iii.204) như một trong những Yakkha cần được những người đi theo Đức Phật cầu khẩn trong lúc cần thiết. Ông được đồng nhất với Yakkha của Bhisajātaka. Ja 488, Ja.iv.314.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājagāma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājagāma. A town in Ceylon in the time of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājagāma. Một thị trấn ở Tích Lan trong thời của Parakkamabāhu IV. Trong thị trấn này có *pariveṇa* Sirighanānanda. Cv.xc.93.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāgamuṇḍā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgamuṇḍā. An eminent Therī of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgamuṇḍā. Một Tỳ-kheo-ni lỗi lạc của Anurādhapura, một bậc thầy về Vinaya. Dpv.xviii.34.
 
 ## Notes

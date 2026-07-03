@@ -5,7 +5,7 @@ base_headword: "Rāhulasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,8 @@ Rāhulasutta 01. The Buddha tells <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulasutta 01. Đức Phật nói với Rāhula rằng một tỳ-kheo nên tu tập suy nghĩ rằng, trong bốn đại (*elements*), dù là trong thân của chính mình hay trong các vật bên ngoài, đều không có tự ngã (*self*) hay những gì thuộc về tự ngã. AN.ii.164; cùng chủ đề này được thảo luận chi tiết hơn trong Ambalaṭṭhika Rāhulovādasutta.
+
+Buddhaghosa nói (AN­a.ii.547) rằng ở đây Đức Phật tuyên bố *catukotikasuññatā* (tánh không trong bốn pháp tức là, bốn đại).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rattamālagiri"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rattamālagiri. A mountain in Ceylon. <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattamālagiri. Một ngọn núi ở Tích Lan (Ceylon). Sena Ilaṅga, vị tướng của Kassapa IV., đã xây dựng tại đó một tu viện cho các đạo sĩ. Cv.lii.20.
 
 ## Notes

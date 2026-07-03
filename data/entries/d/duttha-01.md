@@ -5,7 +5,7 @@ base_headword: "Duṭṭha"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Duṭṭha 01. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duṭṭha 01. được gọi là Duṭṭhakumāra vua của Benares. Một tiền kiếp của Devadatta (Ja.i.327). Câu chuyện của ông được đưa ra trong Saccaṅkirajātaka (Ja 73).
 
 ## Notes

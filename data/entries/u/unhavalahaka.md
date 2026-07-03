@@ -5,7 +5,7 @@ base_headword: "Uṇhavalāhakā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uṇhavalāhakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uṇhavalāhakā. Một hạng chư thiên sống trong cõi Cātummahārājika (NidA.108; Vibh­a.519). Khi họ mong muốn có hơi nóng để phơi bày cơ thể của mình, thời tiết sẽ trở nên nóng bức (xem Uṇhasutta ở trên).
 
 ## Notes

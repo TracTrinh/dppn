@@ -5,7 +5,7 @@ base_headword: "Dīghabāhugallaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghabāhugallaka. A *vihāra* built by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghabāhugallaka. Một *vihāra* do Mahā Cūḷi Mahā Tissa xây dựng. Mhv.xxxiv.9.
 
 ## Notes

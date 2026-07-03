@@ -5,7 +5,7 @@ base_headword: "Dhammapālita"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammapālita. A Thera in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapālita. Một vị Thera ở Rohaṇa, một chuyên gia về Luật (Vinaya). Đệ tử của ngài là Khema. Vin.v.3.
 
 ## Notes

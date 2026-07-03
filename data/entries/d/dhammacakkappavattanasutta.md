@@ -5,7 +5,7 @@ base_headword: "Dhammacakkappavattanasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -40,6 +40,12 @@ It was also preached by <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacakkappavattanasutta. Tên bài pháp đầu tiên, được Đức Phật thuyết, cho nhóm Pañcavaggiya tại Migadāya ở Isipatana, vào ngày trăng tròn của tháng *Āsāḷha*. *Sutta* này chứa đựng những nguyên lý cơ bản trong lời dạy của Đức Phật – sự từ bỏ hai cực đoan là khổ hạnh và xa hoa cùng với Bốn sự thật thuộc bậc Thánh (Bốn Thánh đế) bao gồm Bát Thánh đạo.
+
+Có sự hoan hỷ lớn lao trên khắp Cakkavāḷa khi bài pháp này được thuyết, và khi kết thúc bài pháp Koṇḍañña đã đạt được sự liễu ngộ Sự Thật – từ đó ngài có tên là Aññā Koṇḍañña. Vin.i.10f; *Sutta* này cũng được đưa ra trong SN.v.420ff; trong cả hai ngữ cảnh tên của *Sutta* không được đưa ra như vậy; cái tên này chỉ xuất hiện trong các bản Chú giải – vd., Ja.i.82; DN­a.i.2; AN­a.i.69, v.v; phiên bản tiếng Sanskrit được tìm thấy trong Lal.540 (416)f., và trong Mvu.iii.330f.
+
+Bài pháp này sau đó đã được Majjhima Thera thuyết giảng ở vùng đất Himālaya, khi tám vạn *crore* chúng sinh đã thấu hiểu Pháp (Mhv.xii.41; Dpv.viii.11).
+
+Nó cũng được Mahinda thuyết giảng ở Tích Lan tại Nandanavana, khi một nghìn người đã được nhiếp phục. Mhv.xv.200; Dpv.xiv.46, v.v.
 
 ## Notes

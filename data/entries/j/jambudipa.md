@@ -5,7 +5,7 @@ base_headword: "Jambudīpa"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -76,6 +76,27 @@ In each <span class="dppn-term dppn-term-t14" data-dppn-term-pos="39" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambudīpa. Một trong bốn *Mahā Dīpas*, hay các đại lục, nằm trong Cakkavāḷa và được cai trị bởi một vị Cakkavatti. Chúng tập hợp xung quanh Núi Sineru. Ở Jambudīpa có Himavā với tám mươi tư ngàn ngọn núi, các hồ nước, các dãy núi, v.v. Lục địa này lấy tên từ cây *Jambu* (cũng gọi là *Naga*) mọc ở đó, thân cây có chu vi mười lăm do-tuần (*yojana*), các cành của nó vươn dài năm mươi do-tuần, bóng râm của nó bao phủ rộng một trăm do-tuần và nó cao một trăm do-tuần (Vin.i.30; Snp­a.ii.443; Vsm.i.205f; Vin-a.i.119, v.v.). Bởi vì cây này, Jambudīpa cũng được biết đến với tên gọi Jambusaṇḍa (Snp.vs.552; Snp­a.i.121). Lục địa này rộng mười ngàn do-tuần; trong số mười ngàn do-tuần này, bốn ngàn do-tuần bị đại dương bao phủ, ba ngàn do-tuần bị các dãy núi Himālaya bao phủ, trong khi ba ngàn do-tuần là nơi loài người sinh sống (Snp­a.ii.437; Ud­a.300).
+
+Đôi khi ở Jambudīpa có đến tám mươi tư ngàn thành phố; con số này thỉnh thoảng giảm xuống sáu mươi ngàn, bốn mươi ngàn, hoặc thậm chí hai mươi ngàn, nhưng không bao giờ ít hơn (Snp­a.i.59; Ja.iv.84 nói sáu mươi ba ngàn; Pv-a.111). Vào thời của Asoka có tám mươi tư ngàn thành phố, ở mỗi thành phố ông đã xây dựng một tu viện (Mhv.v.176; Vsm.201). Trong Aṅguttaranikāya (i.35) có nói rằng, ở Jambudīpa, các công viên, khu rừng, hồ nước, v.v., thì có số lượng ít ỏi, trong khi các nơi dốc đứng, hiểm trở, các con sông không thể lội qua, các ngọn núi không thể tiếp cận, v.v., thì nhiều hơn.
+
+Vào thời điểm Metteyya Buddha xuất hiện trên thế gian, Jambudīpa sẽ được nhân loại phủ kín giống như một khu rừng rậm được phủ kín bởi cỏ lau và sậy. Sẽ có tám mươi tư ngàn thành phố với Ketumātī (Benares) đứng đầu (DN.iii.75).
+
+Đức Phật từng tuyên bố rằng những người dân của Jambudīpa vượt trội hơn những chúng sinh của cả Uttarakuru và Tāvatiṁsa ở ba phương diện – sự can đảm, sự chánh niệm và đời sống tôn giáo (AN.iv.396; Kv.99).
+
+Chư Phật (và các vị Cakkavatti) chỉ sinh ra ở Jambudīpa (Bv­a.48; MN­a.ii.917).
+
+Có bốn âm thanh đã được nghe thấy khắp Jambudīpa:
+
+- tiếng hét do Puṇṇaka thốt lên tuyên bố chiến thắng của mình trước Dhanañjaya Koravya trong một trò chơi súc sắc;
+- tiếng sủa của Vissakamma khi bị Sakka dẫn đi quanh trong hình dáng một con chó, đe dọa sẽ nuốt chửng tất cả những chúng sinh độc ác sau thời kỳ suy tàn của giáo pháp (*Sāsana*) của Kassapa;
+- tiếng gầm của Kusa, thách thức giao chiến với bảy vị vua đã đến cầu hôn Pabhāvatī;
+- tiếng thét của Āḷavaka, xưng danh của mình từ đỉnh núi Kelāsa, khi nghe tin Đức Phật đã đến thăm nơi ở của dạ-xoa này (SN­a.i.248, v.v.).
+
+Khi được đặt đối lập với Sīhaladīpa hay Tambapaṇṇidīpa, Jambudīpa chỉ lục địa Ấn Độ (ví dụ, Mhv.v.13; xiv.8; Cv.xxxvii.216, 246).
+
+Vì mục đích du hành (*cārikā*), các tỳ-kheo đã chia các chuyến đi của mình ở Jambudīpa thành ba vòng hay *maṇḍala* – *Mahāmaṇḍala* trải dài hơn chín trăm do-tuần, *Majjhimamaṇḍala* trải dài hơn sáu trăm, và *Antimamaṇḍala* hơn ba trăm. Những vị nào muốn đi theo vòng thứ nhất, bắt đầu sau lễ *Mahā Pavāraṇa* và hoàn thành chuyến hành trình của mình trong chín tháng, đối với *Majjhimamaṇḍala* các vị bắt đầu sau lễ *Pavāraṇa*, vào ngày trăng tròn của tháng Kattika, hoàn thành chuyến đi trong tám tháng, trong khi đối với *Antimamaṇḍala* các vị bắt đầu vào ngày đầu tiên của tháng Phussa và trở về sau bảy tháng (Vin-a.i.197).
+
+Trong mỗi Cakkavāḷa đều có một Jambudīpa (AN.i.227). Kākātijātaka (Ja 327, Ja.iii.91) có đề cập đến một đại dương *samudda* của Jambudīpa, nằm xa hơn con sông Kebuka.
 
 ## Notes

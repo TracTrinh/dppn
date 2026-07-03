@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhasutta 03. All the *khandhas* lead to suffering. SN.iii.77.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 03. Tất cả các *khandha* đều dẫn đến khổ. SN.iii.77.
 
 ## Notes

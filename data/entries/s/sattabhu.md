@@ -5,7 +5,7 @@ base_headword: "Sattabhū"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sattabhū. The king of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattabhū. Vua của xứ Kāliṅga trong thời của Reṇu. Vị *Purohita* của ông là Jotipāla, và thủ đô của ông là Dantapura. DN.ii.236.
 
 ## Notes

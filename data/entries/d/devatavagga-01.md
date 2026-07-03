@@ -5,7 +5,7 @@ base_headword: "Devatāvagga"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devatāvagga 01. The fourth chapter of the *Chakkanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāvagga 01. Chương thứ tư của *Chakkanipāta* thuộc Aṅguttaranikāya. AN.iii.329-44.
 
 ## Notes

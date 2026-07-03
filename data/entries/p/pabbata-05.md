@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "05"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbata 05. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 05. Một người Laṅkāpura đã chiến đấu chống lại Parakkamabāhu I và bị bắt sống. Cv.lxxv.180, 184.
 
 ## Notes

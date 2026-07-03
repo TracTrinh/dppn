@@ -5,7 +5,7 @@ base_headword: "Sāsapasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāsapasutta. If a man were to take once in one hundred years one seed from a he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāsapasutta. Nếu một người cứ một trăm năm lại lấy một hạt giống từ một đống mù tạt dài, rộng, và cao một *yojana* (do-tuần), ông ta sẽ lấy hết các hạt giống trước khi một aeon (*kappa*) trôi qua. *Saṁsāra* (luân hồi) là không thể tính đếm. SN.ii.182.
 
 ## Notes

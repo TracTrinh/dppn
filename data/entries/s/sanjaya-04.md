@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -36,6 +36,10 @@ He is evidently to be identified with <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 04. Sañjaya Thera. Ông là con trai của một Bà-la-môn giàu có ở Sāvatthī, và, noi gương Brahmāyu, Pokkharasāti, và những Bà-la-môn nổi tiếng khác, đã tìm thấy niềm tin vào Đức Phật và trở thành một *Sotāpanna*. Ông gia nhập Tăng đoàn và đạt quả vị *Arahant* trong phòng cạo đầu.
+
+Vào thời của Vipassī Buddha, ông đã tiêu hết tài sản của mình cho những việc làm thiện lành và trở nên nghèo khó. Ngay cả khi đó, ông vẫn tiếp tục phục vụ Đức Phật cùng các tỳ-kheo của Ngài và có một cuộc sống tốt đẹp. Tám *kappa* trước, ông là một vị vua tên là Sucintita (Thag.vs.48; Thag­a.i.119f).
+
+Ông hiển nhiên được đồng nhất với Veyyāvacaka Thera của Apadāna. Ap.i.138.
 
 ## Notes

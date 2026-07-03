@@ -5,7 +5,7 @@ base_headword: "Opavuyha Thera"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -29,6 +29,8 @@ Twenty-eight times he was king of all <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Opavuyha Thera. Một vị Arahant. Trong quá khứ, ông đã dâng một con ngựa *ājāniya* cho Buddha Padumuttara, nhưng vị đệ tử hàng đầu của Đức Phật, Devala, đã báo cho ông biết rằng Đức Phật không thể nhận món quà này. Ngay sau đó, ông đã dâng những món quà phù hợp khác có giá trị tương đương với con ngựa.
+
+Hai mươi tám lần ông làm vua của toàn cõi Jambudīpa. Ba mươi bốn *kappa* trước, ông là một Cakkavatti có quyền lực to lớn (Ap.i.106f).
 
 ## Notes

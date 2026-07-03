@@ -5,7 +5,7 @@ base_headword: "Padesavihārasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padesavihārasutta. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padesavihārasutta. Atthasālinī (p.30) đề cập đến một *Sutta* có tên này và trích dẫn từ nó. Sự đề cập rõ ràng là nói đến Vihārāsutta (1) của Saṁyutta. SN.v.12.
 
 ## Notes

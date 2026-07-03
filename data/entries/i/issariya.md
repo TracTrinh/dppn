@@ -5,7 +5,7 @@ base_headword: "Issariya"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Issariya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issariya. Một vị tướng của người Damiḷa, người bị Duṭṭhagāmaṇī khuất phục tại Hāḷakola (Mhv.xxv.11).
 
 ## Notes

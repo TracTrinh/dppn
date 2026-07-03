@@ -5,7 +5,7 @@ base_headword: "Saṅghamittavihāra"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghamittavihāra. A monastery in Ceylon, restored by <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghamittavihāra. Một tu viện ở Tích Lan, được Aggabodhi V. trùng tu. Cv.xlviii.6.
 
 ## Notes

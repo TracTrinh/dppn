@@ -5,7 +5,7 @@ base_headword: "Jātimanta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jātimanta. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātimanta. Một vị Bà-la-môn ở Vettavatī. Mātaṅga đã chuốc lấy sự phẫn nộ của ông bằng cách ném đi chiếc tăm xỉa răng của ông ta khiến nó rơi xuống sông và dính vào mái tóc của Jātimanta. Do đó người này đã nguyền rủa Mātaṅga rằng đầu của ông ta sẽ bị vỡ làm bảy mảnh. Mātaṅga đã ngăn không cho mặt trời mọc lên cho đến khi Jātimanta buộc phải xin ông ta tha thứ. Ja.iv.388f; trong SN­a.ii.176f. nguyên nhân được đưa ra cho lời nguyền này là do Mātaṅga đã tình cờ giẫm lên đầu của Jātimanta.
 
 ## Notes

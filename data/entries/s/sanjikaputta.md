@@ -5,7 +5,7 @@ base_headword: "Sañjikāputta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjikāputta. Một thanh niên Bà-la-môn, bạn của Bodhirājakumāra. Anh ta được cử đi thỉnh mời Đức Phật đến cung điện của Bodhi, Kokanada (Vin.ii.127f.; MN.ii.91).
+
+Khi Bodhi hình thành một kế hoạch giết vị kiến trúc sư của Kokanada, e rằng người này có thể xây dựng một cung điện tương tự khác, Sañjikāputta đã cảnh báo vị kiến trúc sư về ý định của Bodhi. Dhp­a.iii.134.
 
 ## Notes

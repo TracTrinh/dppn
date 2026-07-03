@@ -5,7 +5,7 @@ base_headword: "Jambugāmika Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -37,6 +37,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambugāmika Thera (Jambugāmiya Thera). Ngài sinh ra ở Campā, cha của ngài mang cùng tên với ngài (có lẽ ông là thủ lĩnh của Jambugāma). Ngài gia nhập Tăng đoàn và cư ngụ tại Añjanavana ở Sāketa. Một ngày nọ, để thử nghiệm ngài, cha ngài đã gửi cho ngài một bài kệ, và ngài, sau khi nhận ra những khiếm khuyết của mình, đã trở thành một vị *Arahant* (Thag.28; Thag­a.i.86f).
+
+Vào thời Vessabhū Buddha, ngài đã ném ba bông hoa *kiṁsuka* lên không trung như một món đồ cúng dường cho Đức Phật.
+
+Ngài có lẽ cũng chính là Kiṁsukapupphiya của Apadāna. Ap.ii.435; nhưng xem Somamitta.
 
 ## Notes

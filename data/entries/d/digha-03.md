@@ -5,7 +5,7 @@ base_headword: "Dīgha"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīgha 03. A Brahmin. He found he could not satisfy other Brahmins, even though 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīgha 03. Một người Bà-la-môn. Ông nhận thấy mình không thể làm hài lòng những người Bà-la-môn khác, mặc dù ông đã cho mỗi người năm bát thức ăn. Một ngày nọ, ông đi đến *vihāra*, và, để thử thách các tỳ-kheo, đã dọn cho họ chỉ với một thố cơm. Ba mươi vị tỳ-kheo đã thọ thực từ đó và Dīgha hài lòng với sự tiết độ lớn lao của họ. AN­a.i.262f.
 
 ## Notes

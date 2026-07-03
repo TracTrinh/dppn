@@ -5,7 +5,7 @@ base_headword: "Ratanadāṭha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ratanadāṭha. Nephew (sister’s son) of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanadāṭha. Cháu trai (con trai của em gái/chị gái) của Dāṭhopatissa II. Ông là *Mahādipāda* của nhà vua. Cv.xliv.136.
 
 ## Notes

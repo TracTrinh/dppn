@@ -5,7 +5,7 @@ base_headword: "Rājuppala"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājuppala. A tank in Ceylon, built by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājuppala. Một hồ chứa nước ở Tích Lan, do Vasabha xây dựng (Mhv.xxxv.94) và được Upatissa II sửa chữa. Cv.xxxvii.185.
 
 ## Notes

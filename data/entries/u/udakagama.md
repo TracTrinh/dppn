@@ -5,7 +5,7 @@ base_headword: "Udakagāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udakagāma. A village in Ceylon given by King <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Tích Lan được ban cho bởi Vua Kittisirirājasīha để duy trì Gaṅgārāmavihāra. Cv.c.213.
 
 ## Notes

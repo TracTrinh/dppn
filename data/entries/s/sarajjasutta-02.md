@@ -5,7 +5,7 @@ base_headword: "Sārajjasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sārajjasutta 02. The same as *Sutta* (1). AN.iii.183.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sārajjasutta 02. Giống như *Sutta* (1). AN.iii.183.
 
 ## Notes

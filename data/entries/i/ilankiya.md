@@ -5,7 +5,7 @@ base_headword: "Ilaṅkiya"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -29,6 +29,6 @@ Ilaṅkiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ilaṅkiya. Một thủ lĩnh người Damiḷa ở Nam Ấn, bị Parakkamabāhu I đánh bại. (Cv.lxxvi.98). Về sau, Iḷaṅkiya trở thành đồng minh của Parakkamabāhu, người đã ban cho ông khuyên tai và các món đồ trang sức khác như một dấu hiệu của sự sủng ái hoàng gia, đồng thời phong cho ông tước hiệu được thèm muốn là Rājavesibhujaṅgasilāmegha. Sđd., 191-2; về tước hiệu hãy xem Geiger, Cv.Trs.ii.10, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhanuggahasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,8 @@ This seems also to have been called the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanuggahasutta. Một người đàn ông có thể đồng thời bắt lấy những mũi tên được bắn bởi bốn cung thủ lão luyện từ bốn hướng là người có tốc độ rất lớn. Mặt trời và mặt trăng còn nhanh hơn người ấy nhiều, nhưng sự biến đổi đang diễn ra trong vạn vật vượt qua tất cả những điều này về tốc độ (SN.i.265).
+
+Sutta này dường như cũng được gọi là Daḷhadhammasutta, ví dụ, tại Ja 476, Ja.iv.211.
 
 ## Notes

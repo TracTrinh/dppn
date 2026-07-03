@@ -5,7 +5,7 @@ base_headword: "Itthivagga"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Itthivagga. The seventh section of the *Ekanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Itthivagga. Phần thứ bảy thuộc *Ekanipāta* của Chú giải Jātaka Ja.i.285-315.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Doḷa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Doḷa. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doḷa. Một vị đại thần của Devānampiyatissa. Saṅghamittā đã sống trong nhà của ông trước khi Upāsikārāma được xây dựng, Anulā cũng vậy cho đến khi bà được thọ giới. Mhv­ṭ. 388, 408.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uccatalaṅka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uccatalaṅka (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uccatalaṅka (*v.l.* Uccavālika, Uccavālaṅka).. Nơi cư trú của Mahā Nāga Thera VihhA.489.
 
 ## Notes

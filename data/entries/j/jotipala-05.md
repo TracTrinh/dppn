@@ -5,7 +5,7 @@ base_headword: "Jotipāla"
 disambiguator: "05"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -33,6 +33,6 @@ Jotipāla 05. A Thera of Ceylon. He defeated in debate the adherents of the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotipāla 05. Một vị Trưởng lão của Tích Lan. Ông đã đánh bại các tín đồ của trường phái Vetulla trong một cuộc tranh luận, và một trong những người môn đồ tức giận của họ, Dāṭhāpabhuti, đã giơ tay lên để đánh vị Trưởng lão. Một vết loét ngay lập tức xuất hiện trên tay của Dāṭhāpabhuti. Aggabodhi I. đã ban cho vị Trưởng lão một chỗ ở trong *vihāra* (Abhayagiri?) – nơi cuộc thảo luận đã diễn ra – và giao cho cháu trai của mình chăm sóc cho ông. Nhà vua cũng đã xây dựng cho vị Trưởng lão Nīlagehapariccheda. Về sau, vua nước Kāliṅga đã cùng gia đình đến Tích Lan và được xuất gia dưới sự chỉ dẫn của Jotipāla. Aggabodhi II. đã tu sửa Thūpārāma theo gợi ý của Jotipāla và an vị trong đó một viên xá-lợi của Đức Phật từ Lohapāsāda (Cv.xlii.35, 45, 51, 60).
 
 ## Notes

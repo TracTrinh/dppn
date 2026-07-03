@@ -5,7 +5,7 @@ base_headword: "Oparakkhī"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Oparakkhī. One of the four wives of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oparakkhī. Một trong bốn người vợ của Candakumāra (Ja.vi.148).
 
 ## Notes

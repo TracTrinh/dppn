@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅkha 02. The Bodhisatta, born as a *seṭṭhi* of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 02. Bodhisatta, sinh ra là một *seṭṭhi* (trưởng giả) của Rājagaha. Xem Asampadānajātaka (Ja 131).
 
 ## Notes

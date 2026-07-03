@@ -5,7 +5,7 @@ base_headword: "Rāmagoṇa"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rāmagoṇa. A settlement in Ceylon, founded by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmagoṇa. Một khu định cư ở Tích Lan (Ceylon), do Rāma, anh/em trai của Bhaddakaccānā thành lập. Mhv.ix.9.
 
 ## Notes

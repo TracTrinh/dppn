@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhamañjūsā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāraṭṭhamañjūsā. A *Ṭīkā* on the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhamañjūsā. Một bản *Ṭīkā* về Aṅguttaranikāya, được cho là của Sāriputta ở Tích Lan. Gv.61; Sās-d.61; PLC.192. Tất cả các bản *Mūlaṭīkā* về Suttapiṭaka dường như đều mang tên này. Xem Sās-d.59.
 
 ## Notes

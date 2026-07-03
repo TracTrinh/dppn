@@ -5,7 +5,7 @@ base_headword: "Saṅghatissa"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -31,6 +31,6 @@ Saṅghatissa 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghatissa 01. Một người thuộc tộc Lambakaṇṇa đã trở thành vua của Tích Lan (303-7 CN.) sau khi giết chết Vijayakumāra. Ông đã dựng một cái lọng trên Mahā Thūpa và làm những công việc phước thiện khác. Sau khi nghe từ vị Thera Mahā Deva của Dāmahālaka về những công đức của việc bố thí cháo gạo, ông đã sắp xếp cho một sự phân phát nó thường xuyên. Ông thường đến thăm Pācīnadīpaka để ăn trái *jambu* ở đó, và người dân, phiền lòng bởi những chuyến viếng thăm của ông, đã đầu độc ông. Ông được kế vị bởi Saṅghabodhi. Mhv.xxxvi.58ff.; Dpv.xxii.48f.
 
 ## Notes

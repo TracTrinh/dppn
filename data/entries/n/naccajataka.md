@@ -5,7 +5,7 @@ base_headword: "Naccajataka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,8 @@ The story was related in reference to a monk who was charged before the Buddha w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naccajataka (Ja 32). Khi thế giới vẫn còn thuở sơ khai, một con ngỗng vàng, người đã được bầu làm vua của các loài chim, có một cô con gái đáng yêu, và nhà vua hứa ban cho cô đặc ân được phép tự chọn chồng. Khi tất cả các loài chim tụ tập lại, cô nhìn chúng, và vì bộ lông màu sắc tuyệt đẹp của con công, cô đã chọn con công. Quá vui mừng trước vận may của mình, con công xòe lông ra và bắt đầu nhảy múa, qua đó phơi bày bản thân và không cảm thấy xấu hổ chút nào. Vua ngỗng quá sốc trước sự thiếu khiêm tốn này nên đã gả con gái mình cho một con ngỗng trẻ.
+
+Câu chuyện này được kể liên quan đến một vị tỳ-kheo bị buộc tội trước Đức Phật là sở hữu quá nhiều y áo. Khi bị Đức Phật chất vấn, ông đã cởi hết y áo của mình và đứng khỏa thân giữa hội chúng. Mọi người bày tỏ sự ghê tởm trước hành vi của ông, và ông đã trở lại làm cư sĩ. Ông được đồng nhất với con công trong câu chuyện. Ja.i.206ff. Câu chuyện được điêu khắc ở Bharhut; xem Stūpa of Bharhut. Pl.xxvii. (11).
 
 ## Notes

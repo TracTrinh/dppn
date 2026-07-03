@@ -5,7 +5,7 @@ base_headword: "Upakārī"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upakārī 02. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakārī 02. Một thành phố nơi Sumedha Buddha đã thuyết pháp cho một đám đông lớn. Bv­a.165.
 
 ## Notes

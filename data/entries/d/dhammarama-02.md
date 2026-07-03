@@ -5,7 +5,7 @@ base_headword: "Dhammārāma"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammārāma 02. A monastery in which <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammārāma 02. Tu viện nơi Đức Phật Paduma nhập diệt. Bv.ix.29.
 
 ## Notes

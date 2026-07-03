@@ -5,7 +5,7 @@ base_headword: "Santāna Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Santāna Thera. An Elder who came to Ceylon from <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Santāna Thera. Một vị Trưởng lão đã đến Ceylon từ Rakkhaṅga, đứng đầu ba mươi ba tỳ-kheo, theo lời mời của Vimaladhammasuriya II. Cv.xcvii.10.
 
 ## Notes

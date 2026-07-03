@@ -5,7 +5,7 @@ base_headword: "Saṅkhapāla"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkhapāla 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkhapāla Thera. Một đệ tử của Buddhadatta, người được ông (Buddhadatta) đề tặng tác phẩm Vinayavinicchaya của mình. Gv.40; PLC. 109.
 
 ## Notes

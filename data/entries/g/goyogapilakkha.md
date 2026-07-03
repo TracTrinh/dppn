@@ -5,7 +5,7 @@ base_headword: "Goyogapilakkha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -24,6 +24,6 @@ Goyogapilakkha. A spot near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goyogapilakkha. Một địa điểm gần Benares, được Đức Phật ghé đến trong những lần Ngài đi khất thực (AN.i.280). Chú giải (AN­a.i.460) giải thích rằng nó nằm gần một cây sung (*pilakkha*) mọc ở nơi những con bò thường tập trung.
 
 ## Notes

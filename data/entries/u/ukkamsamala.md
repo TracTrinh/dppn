@@ -5,7 +5,7 @@ base_headword: "Ukkaṁsamāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ukkaṁsamāla. A learned monk of Ava. He was well versed in literature and wrot
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkaṁsamāla. Một vị tỳ-kheo học rộng của Ava. Ngài rất tinh thông văn học và đã viết hai cuốn sách liên quan đến ngôn ngữ Pāḷi, cuốn *Vaṇṇabodhana* và cuốn *Likhananaya* (Sās., p.120).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Icchānaṅgalaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Icchānaṅgalaka. An *upāsaka* of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Icchānaṅgalaka. Một nam cư sĩ (*upāsaka*) của Icchānaṅgala. Ông là một đệ tử sùng đạo của Đức Phật và có thói quen thường xuyên đến thăm ngài (Ud­a.115). Có lần ông đến viếng Đức Phật tại Jetavana sau một khoảng thời gian dài vắng bóng, và khi được hỏi tại sao ông lại vắng mặt lâu như vậy, ông đáp rằng ông đã quá bận rộn với nhiều bổn phận khác nhau. Khi đó, Đức Phật đã xướng lên bài kệ ca ngợi niềm vui của cuộc sống thoát khỏi những sự trói buộc. Ud.p.13.
 
 ## Notes

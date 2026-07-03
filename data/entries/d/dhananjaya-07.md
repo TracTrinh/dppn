@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "07"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhanañjaya 07. One of the chief lay supporters of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 07. Một trong những cư sĩ hỗ trợ chính của Phussa Buddha. Bv.xix.21.
 
 ## Notes

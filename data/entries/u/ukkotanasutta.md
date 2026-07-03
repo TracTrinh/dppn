@@ -5,7 +5,7 @@ base_headword: "Ukkoṭanasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Ukkoṭanasutta. Few are those that refrain from accepting bribes to prevent jus
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkoṭanasutta. Ít thay những người kiềm chế việc nhận hối lộ để ngăn cản công lý, từ chối việc lừa gạt và những con đường quanh co; nhiều thay những người không kiềm chế như vậy. SN.v.473.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jhānasutta"
 disambiguator: "03"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -24,6 +24,6 @@ Jhānasutta 03. Six other things which must be abandoned in order that *jhāna* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasutta 03. Sáu điều khác mà phải được từ bỏ để *jhāna* có thể được tu tập. AN.iii.428.
 
 ## Notes

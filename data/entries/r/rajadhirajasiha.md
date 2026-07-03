@@ -5,7 +5,7 @@ base_headword: "Rājādhirājasīha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājādhirājasīha. Brother of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājādhirājasīha. Anh em trai của Kittisirirājasīha và là vua của Tích Lan (1780-98 TL). Ông là một người sùng đạo và có học thức, và là tác giả của một bài thơ tiếng Sinhalese, *Asadisajātaka*. Cv.ci.1ff.
 
 ## Notes

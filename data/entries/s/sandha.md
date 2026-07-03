@@ -5,7 +5,7 @@ base_headword: "Sandha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,10 @@ The translator of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandha. Đọc khác (*v.l.*) Saddha. Một vị tỳ-kheo đã đến thăm Đức Phật tại Ñātikā trong Giñjakāvasatha, khi Đức Phật thuyết cho ông Sandhasutta (xem mục này). (AN.v.323f) (xem GS.v.204, n.2; và 216, n.2).
+
+Có lẽ cũng chính là vị tỳ-kheo được đề cập là Saddho (đọc khác: Sandho) Kaccāyano (SN.ii.153, Giñjakāvasthasutta). Ông hỏi Đức Phật một câu hỏi về *dhātu*, và Đức Phật giải thích điều đó cho ông. Trong cả hai trường hợp, Chú giải đều không nói gì về Saddho (hay Sandho).
+
+Người dịch Saṁyutta xem *saddho* là một danh xưng.
 
 ## Notes

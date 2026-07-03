@@ -5,7 +5,7 @@ base_headword: "Nālakasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ The *Sutta* is also called *Nālakapaṭipadā*. (Ja.i.55).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālakasutta. Được thuyết, bảy ngày sau bài thuyết pháp đầu tiên, cho Nālaka (*q.v.*), cháu trai của Asita. Bản thân bài kinh là một bài giảng về trạng thái của một sa-môn (*Moneyyapaṭipadā*), nhưng có hai mươi vần kệ giới thiệu (được gọi là *vatthugāthā*) kể về câu chuyện của Asita và Nālaka (Snp.vs. 679-723; Snp­a.ii.501).
+
+Bài kinh cũng được gọi là *Nālakapaṭipadā*. (Ja.i.55).
 
 ## Notes

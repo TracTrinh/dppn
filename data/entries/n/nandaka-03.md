@@ -5,7 +5,7 @@ base_headword: "Nandaka"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandaka 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandaka 03. Một Yakkha. Một ngày nọ, trong khi đang bay xuyên qua không trung cùng với người bạn của mình, anh ta nhìn thấy Sāriputta đang ngồi trong trạng thái *samādhi*, đầu của ngài vừa mới cạo. Phớt lờ lời cảnh báo của bạn mình, Nandaka đã đánh vào đầu Sāriputta; kẻ đó ngay lập tức rơi xuống, thân thể hắn bốc cháy, và bị địa ngục nuốt chửng. MN­a.ii.814; Mil.100; sự kiện này được thuật lại tại Ud.iv.4, Ud­a.244ff., và được đề cập đến trong Thag­a.ii.116, nhưng tên của Yakkha này không được đưa ra. Cú đánh đủ mạnh để giết chết một con voi cao bảy hoặc tám cubit hoặc làm vỡ nát một tảng đá. Sāriputta khi đó đang ở bên ngoài Kapotakandarā, Moggallāna đang ở ngay gần đó.
 
 ## Notes

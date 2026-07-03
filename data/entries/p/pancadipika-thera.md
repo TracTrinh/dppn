@@ -5,7 +5,7 @@ base_headword: "Pañcadīpika Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcadīpika Thera. An *Arahant*. He was once a follower of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcadīpika Thera. Một vị *Arahant*. Ngài từng là một môn đồ của Padumuttara Buddha và đã thắp một ngọn đèn dưới cây Bodhi của Ngài. Nhờ đó ngài đạt được thần lực có thể nhìn xuyên thấu mọi chướng ngại vật. Ba mươi bốn *kappa* trước, ngài làm vua, với tên gọi Satacakkhu. Ap.i.108.
 
 ## Notes

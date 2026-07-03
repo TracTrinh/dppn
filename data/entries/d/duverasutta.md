@@ -5,7 +5,7 @@ base_headword: "Duverasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -34,6 +34,12 @@ freedom from which, together with possession of the Noble Insight, enables a man
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duverasutta hoặc Anāthapiṇḍikasutta. Anāthapiṇḍika đến thăm Đức Phật, ngài đã kể cho ông nghe về năm nỗi sợ hãi tội lỗi – được sinh ra
+- do giết chóc,
+- do trộm cắp,
+- do say đắm sai lầm vào dục lạc,
+- do ác ngữ, và
+- do uống các chất say
+sự thoát khỏi những thứ này, cùng với việc sở hữu Thánh trí, cho phép một người nói rằng mình đã chắc chắn tiến đến sự Giác ngộ. SN.v.387f.
 
 ## Notes

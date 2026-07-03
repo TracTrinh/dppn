@@ -5,7 +5,7 @@ base_headword: "Pabbatasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabbatasutta 01. The *sāla* trees on the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbatasutta 01. Những cây *sāla* trên Himālaya phát triển về cành, lá và hoa, về vỏ cây và chồi non, về giác mộc và lõi cây; tương tự như vậy, những người trong nhà của một người mộ đạo phát triển về đức tin, giới hạnh và trí huệ. AN.i.152.
 
 ## Notes

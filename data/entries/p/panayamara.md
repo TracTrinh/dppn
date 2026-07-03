@@ -5,7 +5,7 @@ base_headword: "Panayamāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Panayamāra (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panayamāra (hoặc Panayamāraka). Một kẻ tiếm ngôi người Damiḷa, kẻ đã giết chết Bāhiya, một kẻ tiếm ngôi khác, và trị vì ở Anurādhapura trong bảy năm (giữa năm 439 và 454) cho đến khi chính ông ta, đến lượt mình, bị vị tổng tư lệnh Piḷayamāra của mình giết chết. Mhv.xxxiii.57ff.; Dpv.xix.15; xx.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nakula"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nakula 01. Second of the five sons of King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakula 01. Người thứ hai trong số năm người con trai của Vua Paṇḍu, những người còn lại là Ajjuna, Bhimasena, Yudhiṭṭhila và Sahadeva. Tất cả họ đều trở thành chồng của Kaṇhā (*xem từ này*). Ja. v. 424, 426.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattapaṇṇakapāsāda"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sattapaṇṇakapāsāda. A building in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattapaṇṇakapāsāda. Một tòa nhà ở Anurādhapura dùng làm nơi ở của các tỳ-kheo, hiển nhiên do Vohārikatissa xây dựng (Mhv.xxxvi.32). Chú giải Mahā Vaṁsa (Mhv­ṭ. 662) nói rằng nó được gắn liền với cung điện.
 
 ## Notes

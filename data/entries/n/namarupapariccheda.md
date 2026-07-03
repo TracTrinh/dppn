@@ -5,7 +5,7 @@ base_headword: "Nāmarūpapariccheda"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nāmarūpapariccheda. An <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāmarūpapariccheda. Một luận thư Abhidhamma bằng thơ, gồm mười ba chương, của Anuruddha ở Kāñcipura. Có hai *ṭīkā* về nó, một của Vācissara và một của Sumaṅgala. Gv.61,71; Sās.69; PLC.173f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhānañjānisutta"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhānañjānisutta 01. Records the story of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhānañjānisutta 01. Ghi lại câu chuyện về Dhānañjāni ở Taṇḍulapāladvāra (*q.v.*). SN.ii.184ff.
 
 ## Notes

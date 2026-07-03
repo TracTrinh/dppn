@@ -5,7 +5,7 @@ base_headword: "Upāli"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -34,6 +34,8 @@ Upāli 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāli 03. Upāli Thera. Apadāna (i.91f) chứa đựng câu chuyện về một vị Trưởng lão tên là Upāli, người cần được phân biệt với vị đệ tử xuất chúng cùng tên đó, mặc dù những vần kệ của Apadāna rõ ràng chỉ ra một sự nhầm lẫn giữa những truyền thuyết về hai người. Chú giải Apadāna phân biệt vị tỳ-kheo này là “*Bhāgineyya* Upāli,” và tuyên bố rằng ngài là cháu trai của Tôn giả Upāli. Ngài sinh ra ở Kapilavatthu và được xuất gia bởi chú/bác của mình, người mà về sau đã trở thành một *Arahant*.
+
+*Bhāgineyya* Upāli từng là một gia chủ vào thời của Padumuttara. Về sau ngài rời bỏ thế gian và trở thành một tu sĩ khổ hạnh ở Himavā. Tại đó ngài đã gặp Đức Phật và các tỳ-kheo, và thốt lên những lời ca ngợi họ qua một bài hát. Kết quả là ngài đã mười tám lần làm vua của chư thiên và hai mươi lăm lần làm vua của loài người.
 
 ## Notes

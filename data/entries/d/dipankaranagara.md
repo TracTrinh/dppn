@@ -5,7 +5,7 @@ base_headword: "Dīpaṅkaranagara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpaṅkaranagara. Probably another name for <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpaṅkaranagara. Có lẽ là một tên gọi khác của Rammavatī. Cv.xxxix.51.
 
 ## Notes

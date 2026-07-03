@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nanda 03. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 03. Được gọi là Nanda Gopālaka. Ông là một người chăn bò ở Kosambi. Một ngày nọ, ông nghe Đức Phật thuyết pháp cho các tỳ-kheo, sử dụng hình ảnh so sánh về một khúc gỗ, trong một số hoàn cảnh nhất định, nó có thể trôi thẳng ra biển như thế nào và tương tự như vậy, một vị tỳ-kheo có thể đạt đến *Nibbāna* như thế nào. Nanda đã xin phép gia nhập Tăng đoàn. Nhưng Đức Phật khăng khăng rằng trước tiên ông phải trả lại bầy gia súc mà ông chịu trách nhiệm cho chủ của chúng. Nanda đã làm như vậy, và sau đó được thọ giới, trở thành một *Arahant* không lâu sau đó. SN.iv.181.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Palobhanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Palobhanasutta. Mention is made of a *Sutta* of this name in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palobhanasutta. Có một *Sutta* với tên gọi này được nhắc đến trong Pañcagarukajātaka (Ja 132, Ja.i.469), nhưng không có *Sutta* nào được tìm thấy với tên gọi đó. Tham chiếu này có lẽ chỉ Dhītaro Sutta (*q.v.*).
 
 ## Notes

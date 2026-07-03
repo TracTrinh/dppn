@@ -5,7 +5,7 @@ base_headword: "Ukkhāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,8 @@ The Commentary explains *ukkhā* as being a large pot with a large mouth (*mahā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkhāsutta. Tốt hơn là nên trau dồi những ý nghĩ yêu thương (*mettā*) vào buổi sáng, buổi trưa và buổi tối, thay vì cúng dường một món quà buổi sáng gồm một trăm *ukkhā* và tương tự vào buổi trưa và buổi tối (SN.ii.264).
+
+Chú giải giải thích *ukkhā* là một cái nồi lớn với miệng rộng (*mahāmukha-ukkhalī*); SN­a.ii.164.
 
 ## Notes

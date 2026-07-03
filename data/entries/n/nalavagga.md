@@ -5,7 +5,7 @@ base_headword: "Nalavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nalavagga. The first chapter of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nalavagga. Chương đầu tiên của Saṁyuttanikāya. SN.i.1-5.
 
 ## Notes

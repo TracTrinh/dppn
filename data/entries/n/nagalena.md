@@ -5,7 +5,7 @@ base_headword: "Nāgalena"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nāgalena. A cave in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgalena. Một hang động ở *vihāra* (tu viện) Koṭipabbata. Một sa-di từng tụng Mahā Samayasutta ở đó, và một thiên nữ, trong cây Nāga ở bên ngoài, đã tán thán ngài. Bà đã có mặt khi Đức Phật thuyết giảng *Sutta* (kinh) này khi mà, bà nói, hội chúng chư thiên đông đảo đến mức bà chỉ có thể tìm được một chỗ đứng ở vùng biển gần Maha Gāma tại Tích Lan; dẫu vậy bà vẫn có thể nhìn và nghe Đức Phật một cách rõ ràng. DN­a.ii.895.
 
 ## Notes

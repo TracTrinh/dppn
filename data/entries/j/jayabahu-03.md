@@ -5,7 +5,7 @@ base_headword: "Jayabāhu"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jayabāhu 03. Youngest of the five sons of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayabāhu 03. Người con trai út trong số năm người con trai của Parakkamabāhu II. Ông sống cùng với cha của mình và giúp đỡ trong việc cai trị. Cv.lxxxvii.17; lxxxviii.19.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṇṭhita Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṇṭhita Thera. An *Arahant*. Thirty-one *kappas* ago he saw the *assattha B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṇṭhita Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông nhìn thấy cây Bồ-đề *assattha* của một vị Phật và đặt tâm trí của mình vào ngài. Mười ba *kappa* trước, ông là một vị vua, tên là Dhaniṭṭha. Ap.i.210f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gūthakhādaka"
 disambiguator: "02"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gūthakhādaka 02. Same as the above, except that in this case the householder w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūthakhādaka 02. Giống như trên, ngoại trừ trong trường hợp này người gia chủ là một người phụ nữ. Pv.iv.9; Pv-a.269.
 
 ## Notes

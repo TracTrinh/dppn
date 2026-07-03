@@ -5,7 +5,7 @@ base_headword: "Dhammacaryageha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammacaryageha. A building in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammacaryageha. Một tòa nhà ở Anurādhapura, được dựng lên bởi Devānampiyatissa. Nó được nối liền với cung điện hoàng gia, và khi Xá-lợi Răng được mang đến Tích Lan, nó đã được lưu giữ trong tòa nhà này. Cv.xxxvii.95.
 
 ## Notes

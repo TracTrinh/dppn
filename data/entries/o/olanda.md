@@ -5,7 +5,7 @@ base_headword: "Olandā"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Olandā. The name given in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Olandā. Tên gọi mà Cūḷa Vaṁsa đặt cho người Hà Lan ở Tích Lan. Xem Cv. Index.
 
 ## Notes

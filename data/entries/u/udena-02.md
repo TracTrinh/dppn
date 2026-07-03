@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,8 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Thera. Ngài đã từng lưu lại, sau cái chết của Đức Phật, trong Khemiyambavana gần Benares. Tại đó vị Bà-la-môn Ghoṭamukha đã đến thăm ngài. Cuộc trò chuyện của họ được ghi lại trong Ghoṭamukhasutta. Vào lúc kết thúc bài pháp của Udena, vị Bà-la-môn đã đề nghị chia sẻ với ngài khoản trợ cấp hàng ngày mà ông nhận được từ vua Aṅga. Lời đề nghị này đã bị từ chối, và theo gợi ý của Udena, Ghoṭamukha đã xây dựng một hội trường cho các tỳ-kheo tại Pāṭaliputta; hội trường này đã được đặt theo tên của ông (MN.ii.157ff).
+
+Xem thêm Udena (9).
 
 ## Notes

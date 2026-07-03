@@ -5,7 +5,7 @@ base_headword: "Nakhasikhāsutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nakhasikhāsutta 03. No material form, even as much as can be taken up on the ti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakhasikhāsutta 03. Không có sắc pháp nào, ngay cả nhiều bằng mức có thể lấy lên trên đầu móng tay, là thường hằng. Tương tự như vậy với các *khandha* (uẩn) khác. Do đó phạm hạnh được thiết lập vì sự đoạn tận hoàn toàn của đau khổ. SN.iii.147.
 
 ## Notes

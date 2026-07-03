@@ -5,7 +5,7 @@ base_headword: "Dhana"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhana 01. A banker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhana 01. Một trưởng giả của Rājagaha, ông nội của Mahā Panthaka và Cūḷa Panthaka. Thag­a.i.491, 515.
 
 ## Notes

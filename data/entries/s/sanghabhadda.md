@@ -5,7 +5,7 @@ base_headword: "Saṅghabhaddā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅghabhaddā. A queen of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabhaddā. Một vương hậu của Aggabodhi II. Cv.xlii.42.
 
 ## Notes

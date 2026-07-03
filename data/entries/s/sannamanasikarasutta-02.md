@@ -5,7 +5,7 @@ base_headword: "Saññāmanasikārasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saññāmanasikārasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda hỏi câu hỏi giống như trong (1), và Đức Phật đưa ra câu trả lời tương tự. AN.v.319f.
 
 ## Notes

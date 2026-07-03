@@ -5,7 +5,7 @@ base_headword: "Padhānakammikatissa Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Padhānakammikatissa Thera. Five hundred monks of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padhānakammikatissa Thera. Năm trăm tỳ-kheo của Sāvatthī rút vào rừng để thiền định; một người (Tissa) đã bỏ cuộc, những người còn lại đạt được quả vị *Arahant*. Họ quay trở lại gặp Đức Phật, người đã dành lời khen ngợi cho tất cả mọi người ngoại trừ Tissa. Người sau làm mới lại quyết tâm trở thành một vị *Arahant* và đi tới đi lui trong hành lang suốt đêm dài, do đó ngài có được biệt danh của mình. Trở nên buồn ngủ, ngài vấp phải một hòn đá và bị gãy đùi. Khi các đồng đạo của ngài đang trên đường đi nhận đồ khất thực tại nhà của một cư sĩ nào đó, họ nghe thấy những tiếng rên rỉ của ngài, và đã dừng lại để chăm sóc cho ngài, khiến họ bị ngăn cản việc nhận các lễ vật của mình. Đức Phật kể cho họ nghe rằng đây không phải là lần đầu tiên Tissa cản đường họ theo cách như vậy và kể lại Varaṇajātaka (Ja 71, *q.v.*), một bài pháp về những tệ nạn của sự trì hoãn. Dhp­a.iii.407ff.; tuy nhiên, trong Varaṇajātaka, tên của vị tỳ-kheo được đưa ra là Kuṭumbiyatissa (*q.v.*); có lẽ cả hai là đồng nhất.
 
 ## Notes

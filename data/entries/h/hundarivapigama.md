@@ -5,7 +5,7 @@ base_headword: "Hundarīvāpigāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -27,6 +27,6 @@ Hundarīvāpigāma. A village in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hundarīvāpigāma. Một ngôi làng ở quận Kulumbari, nơi sinh của vị tướng của Duṭṭhagāmaṇī, Mahā Soṇa. Mhv.xxiii.45.
 
 ## Notes

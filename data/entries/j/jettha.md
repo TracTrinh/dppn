@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jeṭṭhā. Chief queen of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhā. Vương hậu chính của Aggabodhi IV. Bà đã xây dựng Jeṭṭhārāma. Cv.xlvi.27.
 
 ## Notes

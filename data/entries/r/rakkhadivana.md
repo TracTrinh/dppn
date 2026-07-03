@@ -5,7 +5,7 @@ base_headword: "Rakkhadīvāna"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rakkhadīvāna. A general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhadīvāna. Một vị tướng của Parakkamabāhu I. người đã đánh bại *Nagaragiri* Gokaṇṇa tại Goṇagāmuka. Cv.lxx.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "07"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 07. Same as (5), with the addition of thoughts of abandoning, fadi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như (5), với sự thêm vào các ý niệm về sự từ bỏ, sự phai nhạt, và sự đoạn diệt. AN.v.105.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ravavaṭṭisālā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ravavaṭṭisālā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ravavaṭṭisālā. *v.l.* Rathavaṅka. Một hội trường ở Anurādhapura, được xây dựng trên chính nơi dân chúng đã bắt đầu than khóc khi thi hài của Duṭṭhagāmaṇī được đặt lên giàn thiêu. Mhv.xxxii.79; Mhv­ṭ. 601.
 
 ## Notes

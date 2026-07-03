@@ -5,7 +5,7 @@ base_headword: "Rāmakula"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāmakula. An elephant used by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmakula. Một con voi được Parakkamabāhu I. sử dụng thời trẻ. Cv.lxvii.33.
 
 ## Notes

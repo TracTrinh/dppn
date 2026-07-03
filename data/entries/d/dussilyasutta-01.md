@@ -5,7 +5,7 @@ base_headword: "Dussīlyasutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -28,6 +28,6 @@ Dussīlyasutta 01. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussīlyasutta 01. hoặc Anāthapiṇḍikasutta. Anāthapiṇḍika, lâm bệnh nặng, đã sai người thỉnh Sāriputta, vị đã đến thăm ông cùng với Ānanda. Sāriputta nhắc Anāthapiṇḍika nhớ lại những phẩm chất đức hạnh của ông, chẳng hạn như lòng trung thành của ông đối với Đức Phật, Pháp và Tăng đoàn, việc ông thoát khỏi sự vô luân và những thứ tương tự, thoát khỏi tà kiến, tà chí, v.v. Ngay lập tức những cơn đau của Anāthapiṇḍika biến mất, ông dọn thức ăn cho hai vị tỳ-kheo từ chính nồi nấu của mình, và họ cáo từ. Ānanda báo cáo lại sự việc với Đức Phật, ngài tán thán trí tuệ của Sāriputta. SN.v.380ff.
 
 ## Notes

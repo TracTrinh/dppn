@@ -5,7 +5,7 @@ base_headword: "Saṅkappajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ The story was told to a monk who was filled with discontent because he had falle
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkappajātaka (Ja 251). Bodhisatta từng sinh vào một gia đình rất giàu có ở Benares. Khi cha mẹ qua đời, ngài đã bố thí hết tài sản của mình, trở thành một tu sĩ khổ hạnh ở Himālaya, và phát triển các quyền năng *iddhi*. Trong mùa mưa, ngài trở về Benares, nơi, theo lời thỉnh mời của nhà vua, ngài sống trong công viên hoàng gia. Ngài đã làm điều này trong mười hai năm, cho đến một ngày nọ, nhà vua phải rời đi để dẹp loạn ở biên giới, sau khi đã chỉ thị cho vương hậu chăm sóc vị tu sĩ. Một buổi chiều, vị tu sĩ trở về cung điện khá muộn, và vương hậu, vội vã đứng dậy lúc ngài đến, đã để tuột y phục của mình. Tâm trí của vị tu sĩ trở nên tràn ngập những ý nghĩ dục vọng, và ngài đã đánh mất các quyền năng của mình. Khi trở về am thất, ngài nằm đó trong bảy ngày mà không đụng đến thức ăn. Khi trở về, nhà vua đã đến thăm vị tu sĩ, ngài giải thích rằng trái tim của ngài đã bị tổn thương. Ngài yêu cầu nhà vua lui khỏi túp lều, ngài một lần nữa phát triển *jhāna* của mình. Sau đó ngài từ biệt nhà vua và trở về Himavā.
+
+Câu chuyện được kể cho một tỳ-kheo đầy bất mãn bởi vì ông đã yêu một người phụ nữ mà ông gặp trên đường đi khất thực của mình. Nhà vua được đồng nhất với Ānanda. Ja.ii.271-77.
 
 ## Notes

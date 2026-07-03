@@ -5,7 +5,7 @@ base_headword: "Ramma"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ramma 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramma 02. Con trai của Paduma Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Ông gia nhập Tăng đoàn và sau này trở thành một vị Arahant. Tám mươi *crore* chúng sinh đã liễu ngộ Chân lý khi Đức Phật thuyết pháp cho ông. Bv.ix.5,18; Bv­a.147.
 
 ## Notes

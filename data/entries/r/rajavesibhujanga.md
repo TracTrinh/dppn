@@ -5,7 +5,7 @@ base_headword: "Rājavesibhujaṅga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rājavesibhujaṅga. A building attached to the palace of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājavesibhujaṅga. Một tòa nhà phụ thuộc cung điện của Parakkamabāhu I, tại Pulatthipura. Nó được sơn phết và bao gồm ba tầng (Cv.lxxiii.87f). Tên gọi này cũng được đặt cho một trong các vùng ngoại ô (*sākhānagara*) của Pulatthipura (Cv.lxxiii.153), tại đó nhà vua đã xây dựng *vihāra* Isipatana. Cv.lxxviii.79; nhưng xem Cv.Trs.ii.112, n.3.
 
 ## Notes

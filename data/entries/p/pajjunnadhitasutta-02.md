@@ -5,7 +5,7 @@ base_headword: "Pajjunnadhītāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pajjunnadhītāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjunnadhītāsutta 02. Cūḷa Kokanadā, con gái của Pajjunna, viếng thăm Đức Phật tại Mahā Vana ở Vesālī và, sau khi đảnh lễ Ngài cùng giáo pháp của Ngài, đã thốt lên một bài tóm tắt về Pháp (Dhamma). SN.i.30.
 
 ## Notes

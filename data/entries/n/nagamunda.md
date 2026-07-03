@@ -5,7 +5,7 @@ base_headword: "Nāgamuṇḍā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāgamuṇḍā. A female slave, mistress of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgamuṇḍā. Một nữ nô lệ, nàng hầu của Mahā Nāma người Sākiyan. Bà là mẹ của Vāsabhakhattiyā. Ja.i.133; iv.145.
 
 ## Notes

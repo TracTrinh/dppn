@@ -5,7 +5,7 @@ base_headword: "Udāyīsutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Udāyīsutta 01. A conversation between <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cuộc đối thoại giữa Ānanda và Udāyī trong Ghositārāma tại Kosambī. Ānanda giải thích cách Đức Phật đã chứng minh rằng không chỉ cơ thể mà ngay cả tâm thức cũng là vô ngã. SN.iv.166f.
 
 ## Notes

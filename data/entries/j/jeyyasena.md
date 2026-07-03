@@ -5,7 +5,7 @@ base_headword: "Jeyyasena"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jeyyasena. A Thera. He and two others, <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeyyasena. Một vị Trưởng lão. Ông cùng hai người khác, Bhūmija và Abhirādhana, là những người bạn của Sambhūta, và tất cả bọn họ đã xuất gia cùng nhau. Thag­a.i.47.
 
 ## Notes

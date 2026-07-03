@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "08"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paduma 08. A *cetiya* built by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 08. Một *cetiya* được Mahā Kaccāna xây dựng, trong một tiền kiếp, cho Padumuttara Buddha (Ap.i.84). Chú giải Apadāna giải thích rằng công trình này, trên thực tế, là một *gandhakuṭi*, được gọi là một *cetiya* như một dấu hiệu của sự tôn trọng (*pūjanīyabhāvena*), và rằng nó được gọi là Paduma bởi vì nó có hình dạng giống như một bông sen và được bao phủ bởi những bông sen.
 
 ## Notes

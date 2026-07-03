@@ -5,7 +5,7 @@ base_headword: "Saparivārāsana Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saparivārāsana Thera. An *Arahant*. He prepared a seat decked with jasmine for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saparivārāsana Thera. Một vị *Arahant*. Ông đã chuẩn bị một chỗ ngồi được trang hoàng bằng hoa nhài cho Padumuttara Buddha, và, khi Đức Phật đã an tọa, đã dâng cho ngài một bữa ăn. Ap.i.107f.
 
 ## Notes

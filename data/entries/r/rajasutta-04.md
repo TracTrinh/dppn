@@ -5,7 +5,7 @@ base_headword: "Rājasutta"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasutta 04. Pasenadi hỏi Đức Phật liệu có bất kỳ sinh thể nào sinh ra mà thoát khỏi sự già và chết hay không. Không, Đức Phật trả lời, ngay cả các bậc *Arahant* cũng không. SN.i.71.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhasaṅgaha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sāraṭṭhasaṅgaha 02. A religious work, in sixty sections, by <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhasaṅgaha 02. Một tác phẩm tôn giáo, gồm sáu mươi phần, do Siddhattha Thera biên soạn*,* được viết vào thế kỷ mười ba CN. Nó đề cập đến nhiều chủ đề tôn giáo được quan tâm. PLC. 229f.
 
 ## Notes

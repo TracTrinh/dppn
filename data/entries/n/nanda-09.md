@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "09"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nanda 09. One of the three palaces occupied by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 09. Một trong ba cung điện được Vipassī Buddha sử dụng trong đời sống cư sĩ cuối cùng của Ngài. Bv.xx.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rājasīhamahāla"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rājasīhamahāla. A village in South India. Cv.lxxvi.286.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasīhamahāla. Một ngôi làng ở Nam Ấn Độ. Cv.lxxvi.286.
 
 ## Notes

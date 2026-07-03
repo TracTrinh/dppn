@@ -5,7 +5,7 @@ base_headword: "Sattasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sattasutta 01. Seven things which help a monk to destroy the *āsavas*. AN.iv.85
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasutta 01. Bảy điều giúp một tỳ-kheo đoạn tận các *āsava*. AN.iv.85.
 
 ## Notes

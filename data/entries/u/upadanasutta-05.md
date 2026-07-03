@@ -5,7 +5,7 @@ base_headword: "Upādānasutta"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upādānasutta 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upādānasutta 05. Jambukhādaka hỏi Sāriputta sự chấp thủ là gì. Sāriputta nói rằng có bốn loại: sự chấp thủ sau nhục dục, quan điểm, giới luật và nghi lễ và lý thuyết về ngã. SN.iv.258.
 
 ## Notes

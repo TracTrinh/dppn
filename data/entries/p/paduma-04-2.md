@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumā 04. Chief of women patrons of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 04. Người đứng đầu trong số các nữ thí chủ của Phussa Buddha. Bv.xix.21; Ja.i.40.
 
 ## Notes

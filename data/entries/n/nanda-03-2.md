@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandā 03. Three daughters of the Bodhisatta in one of his births. For details s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 03. Ba cô con gái của Bodhisatta trong một tiền kiếp của ngài. Xem chi tiết trong Suvaṇṇahaṁsajātaka (Ja 136).
 
 ## Notes

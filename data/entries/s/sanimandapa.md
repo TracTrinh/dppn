@@ -5,7 +5,7 @@ base_headword: "Sanimaṇḍapa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sanimaṇḍapa. A building in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sanimaṇḍapa. Một tòa nhà trong Dīpuyyāna. Nó được trang trí bằng ngà voi. Cv.lxxiii.118.
 
 ## Notes

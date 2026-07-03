@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "07"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhātusutta 07. The three principles (*dhātu*) of *kāma*, *vyāpāda* and *vih
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 07. Ba nguyên lý (*dhātu*) của dục (*kāma*), sân (*vyāpāda*) và ác ý (*vihiṁsā*), và làm thế nào để từ bỏ chúng. AN.iii.447.
 
 ## Notes

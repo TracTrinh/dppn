@@ -5,7 +5,7 @@ base_headword: "Jambuka"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jambuka 02. A parrot, an incarnation of the Bodhisatta, adopted as his son by <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambuka 02. Một con vẹt, một hóa thân của Bodhisatta, được Brahmadatta, vua xứ Benares, nhận làm con trai. Nó đã thuyết giảng cho nhà vua về năm loại sức mạnh – sức mạnh của tay chân, của sự giàu có, của lời khuyên, của đẳng cấp và của trí tuệ – trong đó sức mạnh cuối cùng là tốt nhất. Nhà vua sau đó đã bổ nhiệm nó làm tổng tư lệnh. Ja.v.111, 120, 125.
 
 ## Notes

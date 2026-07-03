@@ -5,7 +5,7 @@ base_headword: "Rahadasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rahadasutta. The mind is like a pool of water; no understanding is possible unle
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahadasutta. Tâm giống như một hồ nước; không thể có sự hiểu biết nào trừ phi tâm trong sáng. AN.i.9.
 
 ## Notes

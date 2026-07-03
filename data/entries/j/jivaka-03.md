@@ -5,7 +5,7 @@ base_headword: "Jīvaka"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jīvaka 03. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvaka 03. Một tỳ-kheo của Mahā Vihāra, theo yêu cầu của ông mà Buddhaghosa đã viết Manorathapūraṇī. AN­a.i.874.
 
 ## Notes

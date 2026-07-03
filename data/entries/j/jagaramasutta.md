@@ -5,7 +5,7 @@ base_headword: "Jāgaramasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jāgaramasutta. A *Sutta* of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāgaramasutta. Một *Sutta* của Itivuttaka (p. 41) được trích dẫn trong Suttasaṅgaha (No. 81) về giá trị của sự tỉnh thức.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Ugga 07. A banker of the city of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị trưởng giả của thành phố Ugga; ông là một người bạn của Anāthapiṇḍika và, theo một số lời kể, con trai ông đã kết hôn với con gái của Anāthapiṇḍika, Cūḷa Subhaddā. Ông và gia đình ông đã từng là những người đi theo các vị Nigaṇṭha, nhưng sau đó họ đã trở thành những người đi theo Đức Phật thông qua sự can thiệp của Subhaddā. Đối với câu chuyện, xem Cūḷa Subhaddā. Xem thêm Kāḷaka (1).
 
 ## Notes

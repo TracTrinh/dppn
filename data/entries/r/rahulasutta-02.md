@@ -5,7 +5,7 @@ base_headword: "Rāhulasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rāhulasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulasutta 02. Rāhula đến thăm Đức Phật và hỏi Ngài làm thế nào để thoát khỏi ý niệm ngấm ngầm về “tôi” và “của tôi,” đối với cả thân thể của chính mình và với tất cả các vật bên ngoài. Đức Phật trả lời rằng một người nên nhìn thấy vạn vật đúng như thật, rằng trong cả năm *khandha* không có bất kỳ “tôi” hay “của tôi” nào. Đó là chánh kiến (*right insight*). SN.iii.135; *Sutta* này được đưa ra tại SN.ii.252 dưới tên gọi Anusayasutta. Buddhaghosa mô tả cả *Sutta* này và bài tiếp theo là *Rāhulovādavipassanā* (AN­a.ii.547).
 
 ## Notes

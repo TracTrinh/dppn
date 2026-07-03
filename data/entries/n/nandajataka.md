@@ -5,7 +5,7 @@ base_headword: "Nandajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,10 @@ He is identified with Nanda of the Jātaka. Ja.i.224ff.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandajātaka (Ja 39). Bodhisatta từng có một tiền kiếp là một điền chủ, và ngài có một người bạn cũng là một điền chủ đã lớn tuổi và có một người vợ trẻ đã sinh cho ông một người con trai. Để người con trai không bị tước đoạt tài sản của mình, vị điền chủ già đã tâm sự với người nô lệ Nanda của mình và chôn cất số tiền, giao phó cho Nanda trao lại nó cho con trai mình sau khi ông qua đời. Ông lão qua đời và, theo gợi ý của mẹ, người con trai đã yêu cầu Nanda chỉ cho anh nơi chôn cất tài sản. Nanda đưa anh đến một nơi trong rừng, nhưng ngay khi anh ta bắt đầu đào, ý nghĩ có thể chiếm được số tiền cho riêng mình đã khiến hắn ta vô cùng hân hoan đến mức hắn bắt đầu lăng mạ chủ nhân của mình. Người thanh niên giả vờ như không nghe thấy, và nói rằng họ sẽ đi vào một lúc khác. Vài lần cùng một chuyện đã xảy ra, và cuối cùng người con trai quyết định đến thỉnh ý người bạn của cha mình, là Bodhisatta. Ngài đã bảo anh hãy để ý xem Nanda bắt đầu đào ở đâu, rồi sau đó tự mình đào ở đó và như vậy sẽ lấy được kho báu. Anh đã làm như vậy và tìm thấy số tiền, điều đó khiến Nanda phải mang tiền về nhà.
+
+Câu chuyện này được kể liên quan đến một người cùng trú ngụ của Sāriputta. Ông vốn có bản tính rất khiêm tốn, nhưng khi ông đi du hành, những sự chú ý mà ông nhận được đã khiến ông trở nên kiêu ngạo và xấc xược.
+
+Ông được đồng nhất với Nanda trong Jātaka này. Ja.i.224ff.
 
 ## Notes

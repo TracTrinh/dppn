@@ -5,7 +5,7 @@ base_headword: "Duppasaha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Duppasaha. A king of long ago, descendant of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duppasaha. Một vị vua từ thời xa xưa, hậu duệ của Mahā Sammata. Ông là người cuối cùng trong năm mươi vị vua đã trị vì ở Ayujjha. Sáu mươi hậu duệ của ông đã trị vì ở Benares. Dpv.iii.16; Mhv­ṭ.127.
 
 ## Notes

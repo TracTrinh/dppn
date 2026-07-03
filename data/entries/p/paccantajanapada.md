@@ -5,7 +5,7 @@ base_headword: "Paccantajanapada"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -35,6 +35,10 @@ The Vinaya rules were relaxed in the case of those who lived in the Paccantajana
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccantajanapada. Trong các văn bản, sự tương phản thường được rút ra giữa Paccantajanapada và Majjhimadesa. Những người may mắn được sinh ra ở nơi sau, và đó là một sự bất lợi lớn khi bị sinh ra bên ngoài nó; vì khi đó, khả năng được nghe về Đức Phật và giáo pháp của ngài trở nên xa vời (vd., Dhp­a.iii.248, 489; Khp­a.133).
+
+Ranh giới của Majjhimadesa được đưa ra ở một vài nơi, và Paccantajanapada nằm ngoài những ranh giới này. Đó là: ở phía đông, Kajaṅgala và Mahā Sālā; ở phía đông nam, dòng sông Salaḷavatī; ở phía nam, Setakaṇṇikā; ở phía tây, Thūna; và ở phía bắc, Usīraddhaja (Usīraddhajapabbata) (Vin.i.197; Ja.i.49; cp. Divy.21f).
+
+Các điều luật Vinaya đã được nới lỏng trong trường hợp của những người sống ở Paccantajanapada, nơi mà người ta nói rằng Đức Phật chưa từng nghỉ qua đêm. MN­a.ii.982.
 
 ## Notes

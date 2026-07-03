@@ -5,7 +5,7 @@ base_headword: "Rājagiri"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājagiri. One of the elephants of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājagiri. Một trong những con voi của Candakumāra (*xem mục từ này*). Ja.vi.135.
 
 ## Notes

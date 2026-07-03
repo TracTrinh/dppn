@@ -5,7 +5,7 @@ base_headword: "Pācīnārāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Pācīnārāma. A monastery to the east of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnārāma. Một tu viện ở phía đông của Anurādhapura, được Devānampiyatissa xây dựng vào năm đầu tiên trong triều đại của ngài (Mhv.xx.25). Địa điểm của nó là một trong những nơi nghỉ ngơi của cây Bodhi trên đường từ Jambukola đến Anurādhapura. Tại đó Mahinda và các tỳ-kheo đã được dâng cúng một bữa ăn sáng, và Mahinda đã thuyết pháp về sự khuất phục các Nāga của Đức Phật. Mhv.xix.34f.
 
 ## Notes

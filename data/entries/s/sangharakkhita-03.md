@@ -5,7 +5,7 @@ base_headword: "Saṅgharakkhita"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgharakkhita 03. A novice, nephew of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgharakkhita 03. Một sa-di, cháu trai của Mahā Nāga Thera. Ông trở thành một bậc *Arahant* trong phòng cạo đầu, và, khi phát hiện ra rằng không có vị tỳ-kheo nào khác đã làm cho Vejayantapāsāda rung chuyển, vào chính ngày ông trở thành một *Arahant*, vị sa-di, đứng trên đó, đã cố gắng rung chuyển nó nhưng vô ích. Các thiên nữ bên trong đã cười nhạo ông. Bối rối, ông tìm đến thầy của mình, người đang ngủ trưa trong một hang động bên bờ đại dương, và, sau khi thỉnh ý thầy, ông quay lại Vejayanta. Các thiên nữ lại cười nhạo ông, nhưng ông đã kiên quyết rằng không gian mà Vejayanta đang đứng trên đó sẽ biến thành nước. Khi điều này xảy ra, ông chạm vào đỉnh của cung điện bằng ngón chân của mình và nó rung chuyển cho đến khi các thiên nữ phải cầu xin sự thương xót. DN­a.ii.558f.
 
 ## Notes

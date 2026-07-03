@@ -5,7 +5,7 @@ base_headword: "Dīghasandana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Dīghasandana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghasandana, Dīghasandaka (Dīghasandanaka). Một vị tổng tư lệnh của Devānampiyatissa. Ông đã xây dựng một *pāsāda* (tòa lâu đài) nhỏ “trên tám cây cột” cho Mahinda, nơi trở nên được biết đến là *Dīghasandasenāpatipariveṇa* (Mhv.xv.212f; xem thêm Cv.xxxviii.16), và nổi tiếng với tư cách là nơi cư ngụ của Mahā Nāma, tác giả của Mahā Vaṁsa (Mhv­ṭ.502). Theo Mahā Vaṁsaṭīkā (p.289), Dīghasandaka được gọi như vậy vì ông mặc một chiếc áo choàng dài (*dīghasāṭakaṁ nivāsesīti Dīghasandako*), và tên ban đầu của *pariveṇa* do ông xây dựng là Cūḷa Pāsāda.
 
 ## Notes

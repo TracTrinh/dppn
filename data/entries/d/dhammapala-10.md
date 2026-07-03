@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "10"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammapāla 10. A Burmese scholar of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 10. Một học giả người Miến Điện quê ở Arimaddana. Gv.67.
 
 ## Notes

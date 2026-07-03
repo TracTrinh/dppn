@@ -5,7 +5,7 @@ base_headword: "Pākatindriyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pākatindriyasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pākatindriyasutta (hoặc Sambahulāsutta). Một lần nọ, một nhóm tỳ-kheo đang lưu trú tại một khu rừng ở Kosala, tâm trí họ rối bời, ồn ào và không thu nhiếp các căn. Vị thiên nhân ngự trong khu rừng đã quở trách họ, điều này khiến họ dao động. SN.i.203f.
 
 ## Notes

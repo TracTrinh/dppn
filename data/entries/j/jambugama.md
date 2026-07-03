@@ -5,7 +5,7 @@ base_headword: "Jambugāma"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jambugāma. A village, probably a suburb of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambugāma. Một ngôi làng, có lẽ là một vùng ngoại ô của Campā (xem ở dưới), nơi Đức Phật đã đến thăm trong chuyến du hành cuối cùng của ngài. Nó nằm giữa Ambagāma và Bhoganagara. DN.ii.194.
 
 ## Notes

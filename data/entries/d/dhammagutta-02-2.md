@@ -5,7 +5,7 @@ base_headword: "Dhammaguttā"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammaguttā 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaguttā 02. Một vị Vemānikapeta, được nhắc đến là có năng lực du hành qua hư không. Vsm.382.
 
 ## Notes

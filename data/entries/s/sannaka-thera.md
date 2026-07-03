@@ -5,7 +5,7 @@ base_headword: "Saññaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saññaka Thera. An *Arahant*. Ninety-two *kappas* ago he saw the rag robe of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saññaka Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông nhìn thấy y phấn tảo của Tissa Buddha treo trên một cái cây và đã chiêm bái nó. Bốn *kappa* trước, ông là một vị vua tên là Dumasāra. Ap.i.120.
 
 ## Notes

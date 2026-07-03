@@ -5,7 +5,7 @@ base_headword: "Nāgapupphiya Thera"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāgapupphiya Thera 02. An *Arahant*. Probably identical with <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgapupphiya Thera 02. Một *Arahant*. Có lẽ được đồng nhất với Lomasakaṅgiya (Thag­a.i.84). Chín mươi mốt *kappa* trước, ngài nhìn thấy Đức Phật (Vipassī?) đang đi dọc theo con phố và đã dâng lên Đức Phật những bông hoa Nāga. Ap.ii.450.
 
 ## Notes

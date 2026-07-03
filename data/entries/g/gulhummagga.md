@@ -5,7 +5,7 @@ base_headword: "Gūḷhummagga"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Gūḷhummagga, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūḷhummagga, Gūḷhavessantara, Gūḷhavinaya. Được nhắc đến trong các Chú giải (ví dụ, Vin-a.iv.742) là *abuddhavacanāni*; chúng có lẽ là những cuốn sách thuộc về các bộ phái khác ngoài Theravādin chính thống.
 
 ## Notes

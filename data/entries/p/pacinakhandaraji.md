@@ -5,7 +5,7 @@ base_headword: "Pācīnakhaṇḍarājī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -34,6 +34,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnakhaṇḍarājī. Một quận ở Tích Lan gần Cittapabbata, trong đó có Vettavāsavihāra, được Aggabodhi II ban cho vị quan đại thần người Kaliṅga, người đã được Jotipāla Thera làm lễ xuất gia (Mhv.xxiii.4; xem Mhv.Trs.155, n.3 và Cv.Trs.i.71, n.2, Cv.xlii.48). Con đường dẫn đến quận này nằm ở phía nam Anurādhapura, đi ngang qua Làng Thợ Gốm. Visuddhimagga (p.90) nói về nó như một nơi phồn thịnh.
+
+Chú giải Aṅguttara (AN­a.ii.489; cũng xem DN­a.iii.1010) có một câu chuyện về một tỳ-kheo của *vihāra* này, người là một *paṁsukulika* và đã trở thành một vị Arahant.
 
 ## Notes

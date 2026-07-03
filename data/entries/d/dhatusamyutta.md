@@ -5,7 +5,7 @@ base_headword: "Dhātusaṁyutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhātusaṁyutta. The fourteenth division of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusaṁyutta. Phần thứ mười bốn của Saṁyuttanikāya. SN.ii.140-68.
 
 ## Notes

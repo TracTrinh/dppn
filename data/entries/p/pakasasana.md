@@ -5,7 +5,7 @@ base_headword: "Pākasāsana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pākasāsana. A name for Indra. Cv.lxxii.186; <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pākasāsana. Một tên gọi dành cho Indra. Cv.lxxii.186; Abhidhānappadīpikā p.20.
 
 ## Notes

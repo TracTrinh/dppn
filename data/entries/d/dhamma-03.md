@@ -5,7 +5,7 @@ base_headword: "Dhamma"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhamma 03. The lake in front of the palace mentioned above. DN.ii.184.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhamma 03. Hồ nước phía trước cung điện được đề cập ở trên. DN.ii.184.
 
 ## Notes

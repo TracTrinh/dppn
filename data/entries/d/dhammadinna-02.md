@@ -5,7 +5,7 @@ base_headword: "Dhammadinna"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -32,6 +32,8 @@ The Commentary (SN­a.iii.223) says that Dhammadinna was one of seven laymen wit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinna 02. Một cư sĩ xuất chúng của Đức Phật. Có lần ông cùng năm trăm *upāsaka* (nam cư sĩ) đã đến gặp Đức Phật tại Isipatana và thỉnh cầu ngài cho họ một bài học có thể mang lại lợi ích cho họ, bởi vì, ông nói, thật khó cho một gia chủ bị vướng bận gia đình và những thứ xa hoa của đời sống gia đình có thể thấu hiểu những lời dạy của Đức Phật một cách trọn vẹn. Đức Phật trả lời rằng họ nên thực hành bốn chi phần của *Sotāpatti* (Dự lưu): lòng trung thành với Đức Phật, Pháp và Tăng đoàn, và sự trau dồi các đức hạnh của bậc Thánh. Dhammadinna trả lời rằng họ đã sở hữu những chi phần này rồi. Đức Phật sau đó bày tỏ sự hài lòng lớn lao của ngài (SN.v.406ff).
+
+Bản Chú giải (SN­a.iii.223) nói rằng Dhammadinna là một trong bảy cư sĩ có đoàn tùy tùng gồm năm trăm người – những người khác là Visākha, Ugga, Citta, Hatthaka Āḷavaka, Cūḷa Anāthapiṇḍika và Mahā Anāthapiṇḍika.
 
 ## Notes

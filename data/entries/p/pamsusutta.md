@@ -5,7 +5,7 @@ base_headword: "Paṁsusutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Paṁsusutta. The five classes of *paṁsukūlikas*, corresponding to the five k
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsusutta. Năm hạng *paṁsukūlika*, tương ứng với năm loại *āraññaka* (xem Araññasutta.) AN.iii.219.
 
 ## Notes

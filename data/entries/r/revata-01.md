@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -54,6 +54,8 @@ The Bodhisatta was a Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 01. Revata Buddha. Vị thứ năm trong số hai mươi bốn vị Phật. Ngài đản sinh tại Sudhaññaka (Sudhaññavatī), cha ngài là *Khattiya* Vipula và mẹ ngài là Vipulā. Ngài sống đời gia chủ trong sáu ngàn năm rồi xuất gia, ra đi trên một cỗ xe ngựa, để lại người vợ Sudassanā và con trai Varuṇa của họ. Ba cung điện được ngài sử dụng trong kiếp sống cư sĩ của mình là Sudassana, Ratanagghi và Āvela. Ngài thực hành khổ hạnh trong bảy tháng và đạt được Giác ngộ dưới cội cây Nāga, sau khi thọ nhận món nhũ tráo do Sādhudevī cúng dường và cỏ làm tọa cụ từ tay Ājīvaka Varuṇindhara. Bài pháp đầu tiên của ngài được thuyết tại Varuṇārāma.
+
+Bodhisatta là một vị Bà-la-môn xứ Rammavatī, tên là Atideva, người, khi nhìn thấy Đức Phật, đã nói những lời ca ngợi ngài trong một ngàn bài kệ. Trong số những người được Đức Phật cải đạo có Vua Arindama xứ Uttaranagara. Các đệ tử chính của Đức Phật là Varuṇa và Brahmadeva trong số các tỳ-kheo và Bhaddā cùng Subhaddā trong số các tỳ-kheo-ni. Thị giả thường xuyên của ngài là Sambhava. Các nam thí chủ chính của ngài là Paduma và Kuñjara, và nữ thí chủ là Sirimā cùng Yasavatī. Thân của ngài cao tám mươi sải tay, và hào quang của ngài lan tỏa liên tục đến khoảng cách một *yojana*. Ngài viên tịch trong hoa viên Mahā Sāra ở tuổi sáu mươi ngàn, và xá-lợi của ngài được phân tán rộng rãi. Bv.vi.1ff.; Bv­a.131ff.; Ja.i.30, 35, 44.
 
 ## Notes

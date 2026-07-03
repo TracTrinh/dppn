@@ -5,7 +5,7 @@ base_headword: "Rādhasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rādhasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhasutta 02. Rādha, trước khi trở thành một bậc *Arahant*, đến gặp Đức Phật và xin một lời dạy tóm tắt. Đức Phật bảo ngài hãy từ bỏ sự tham muốn đối với những gì là vô thường, tức là, mắt, các đối tượng, nhãn thức, v.v. SN.iv.48f.
 
 ## Notes

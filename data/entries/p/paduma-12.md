@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "12"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paduma 12. One of the Theras who assisted at the foundation-laying ceremony of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 12. Một trong những vị Trưởng lão đã tham dự buổi lễ đặt nền móng kiến thiết Mahā Thūpa. Dpv.xix.8; Mhv­ṭ. (524) gọi ngài là Mahā Paduma.
 
 ## Notes

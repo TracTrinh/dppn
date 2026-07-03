@@ -5,7 +5,7 @@ base_headword: "Saṅgharakkhita"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgharakkhita 06. An Elder, who lived in the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgharakkhita 06. Một Trưởng lão, sống vào thời của Vijayabāhu III. Nhà vua đã phong ông làm người đứng đầu Tăng đoàn và giao phó cho ông Xá-lợi Răng và Bình Bát; ông cũng giao cho ông phụ trách việc giáo dục người thừa kế ngai vàng. Cv.lxxxi.76f.
 
 ## Notes

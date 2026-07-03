@@ -5,7 +5,7 @@ base_headword: "Padumadhāriya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Padumadhāriya Thera. An *Arahant*. Thirty-one *kappas* ago he offered a lotus t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumadhāriya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng cúng một hoa sen cho một vị Pacceka Buddha tên Sambhava. Ap.ii.453f.; trong Ap.i.279 các vần kệ tương tự được quy cho Padumapūjaka; xem thêm Thag­a.i.399.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paccupaṭṭhānasaññaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccupaṭṭhānasaññaka Thera. Một vị *Arahant*. Vào thời của Atthadassī Buddha, ngài là một Yakkha, và khi biết được rằng Đức Phật đã qua đời trước khi ngài có thể bày tỏ lòng tôn kính với ngài, ngài đã tràn ngập đau buồn. Đệ tử của Đức Phật, Sāgara, đã khuyên ngài tôn vinh *Thūpa* của Đức Phật, và ngài đã làm điều này trong năm năm.
+
+Bảy *kappa* trước, ngài đã trở thành vua bốn lần dưới tên gọi là Bhūripañña (Ap.i.153).
+
+Ngài có lẽ được đồng nhất với Ekūdāniya Thera. Thag­a.i.153f.
 
 ## Notes

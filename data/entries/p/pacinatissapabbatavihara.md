@@ -5,7 +5,7 @@ base_headword: "Pācīnatissapabbatavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -34,6 +34,6 @@ Pācīnatissapabbatavihāra. A monastery in Ceylon, built by <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnatissapabbatavihāra. Một tu viện ở Tích Lan, được Jeṭṭhatissa xây dựng và dâng cho các tỳ-kheo của “năm khu định cư.” Bức tượng đá được Devānampiyatissa dựng lên ở Thūpārāma đã được Jeṭṭhatissa chuyển đến *vihāra* này (Mhv.xxxvi.127, 129). Mahā Sena đã mang nó từ đó đến Abhayagirivihāra (Mhv.xxxvii.14). Gần tu viện là ngọn núi, Pācīnatissapabbata, nơi đã diễn ra một cuộc giao tranh giữa Kassapa, con trai của Upatissa III, và Silākāla (Cv.xli.14). Sau đó, tại cùng một địa điểm này, đã diễn ra trận chiến quyết định giữa Saṅghatissa và Moggallāna III. Cv.xliv.14ff.
 
 ## Notes

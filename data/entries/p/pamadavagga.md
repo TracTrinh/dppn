@@ -5,7 +5,7 @@ base_headword: "Pamādavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pamādavagga. The ninth chapter of the *Ekanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pamādavagga. Phẩm thứ chín thuộc *Ekanipāta* của Aṅguttaranikāya. AN.i.15f.
 
 ## Notes

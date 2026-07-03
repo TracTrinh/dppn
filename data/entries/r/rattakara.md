@@ -5,7 +5,7 @@ base_headword: "Rattakara"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rattakara. A district in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rattakara. Một vùng đất ở Dakkhiṇadesa của Tích Lan (Ceylon). Cv.lxviii.23; lxix.6.
 
 ## Notes

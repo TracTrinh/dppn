@@ -5,7 +5,7 @@ base_headword: "Dhammasāmi"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammasāmi. The fourth future Buddha. Anāg., p.40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasāmi. Vị Phật tương lai thứ tư. Anāg., p.40.
 
 ## Notes

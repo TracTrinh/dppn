@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pabbata 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 01. Một vị Pacceka Buddha, được đề cập trong một danh sách tên. MN.iii.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rahogatasuttā"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rahogatasuttā 02. Two *Suttas*. <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahogatasuttā 02. Hai bài *Sutta*. Moggallāna đến thăm Anuruddha, khi vị này đang thiền định nơi thanh vắng ở Jetavana, và hỏi chi tiết về cách một vị tỳ-kheo nên thực hành bốn *satipaṭṭhāna*. Anuruddha giải thích. SN.v.294ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhātukathāyojanā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhātukathāyojanā. A Pāli work by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātukathāyojanā. Một tác phẩm Pāli của Sāradassī ở Pagan. Bode, 67.
 
 ## Notes

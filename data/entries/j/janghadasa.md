@@ -5,7 +5,7 @@ base_headword: "Jaṅghadāsa"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jaṅghadāsa. Probably an author of some Burmese work, to which <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jaṅghadāsa. Có lẽ là một tác giả của một tác phẩm tiếng Miến Điện nào đó, mà Vajira (Cīvara ?) đã viết một bản *ṭīkā* cho nó. Gv.64, 74.
 
 ## Notes

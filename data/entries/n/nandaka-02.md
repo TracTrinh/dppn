@@ -5,7 +5,7 @@ base_headword: "Nandaka"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandaka 02. Nandaka Thera. Một nam cư sĩ ở Campā và là em trai của Bharata Thera. Khi hai người này nghe tin Soṇa Koḷivisa đã xuất gia – mà ông ấy lại rất ốm yếu – họ cũng từ bỏ đời sống gia đình. Bharata chẳng bao lâu đã chứng được lục thông (*abhiññā*), và vì muốn giúp đỡ Nandaka, ông đã đến gặp em trai mình và thuyết giảng về tuệ quán. Một đoàn lữ hành đi ngang qua, và một con bò đực, không thể kéo được chiếc xe của nó qua một nơi lầy lội, đã ngã gục xuống. Người trưởng đoàn lữ hành đã cho tháo gỡ ách cho nó và cho nó ăn cỏ và uống nước. Sau đó nó đã có thể kéo chiếc xe ra khỏi chỗ đó. Bharata đã thu hút sự chú ý của Nandaka vào sự việc này, và người em trai, bằng cách lấy đó làm đề mục thiền định của mình, đã sớm chứng quả vị *Arahant* (Thag.173f.; Thag­a.i.299f.).
+
+Vào thời của Sikhī Buddha, Nandaka là một người tiều phu, và một ngày nọ, trong khi đang đi lang thang, ông đã nhìn thấy lối đi kinh hành của Đức Phật. Vui mừng trước dáng vẻ của nó, ông đã rải cát lên đó (Ap.ii.418).
 
 ## Notes

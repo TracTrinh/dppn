@@ -5,7 +5,7 @@ base_headword: "Udumbarikā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,10 @@ It was here that the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hoàng hậu (*devī*), người đã xây dựng Udumbarikā *Paribbājakārāma* gần Rājagaha (DN.iii.36; DN­a.iii.832).
+
+Gần *ārāma* là hồ sen Sumāgadhā và một nơi cho chim công ăn (*Moranivāpa*) (DN.iii.39).
+
+Chính tại đây mà Udumbarikasīhanādasutta đã được thuyết giảng.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rakkhacetiyapabbata"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhacetiyapabbata. A *vihāra* in Ceylon, restored by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhacetiyapabbata. Một *vihāra* ở Tích Lan, được Vijayabāhu I khôi phục (Cv.lx.58). Có lẽ nó đồng nhất với Rakkhavihāra (*xem mục từ này*).
 
 ## Notes

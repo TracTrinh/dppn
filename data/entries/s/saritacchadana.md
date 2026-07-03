@@ -5,7 +5,7 @@ base_headword: "Saritacchadana"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Saritacchadana. A king of eighty-seven *kappas* ago, a previous birth of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saritacchadana. Một vị vua của tám mươi bảy *kappa* trước, một tiền kiếp của Sammukhāthavika Thera. Ap.i.159.
 
 ## Notes

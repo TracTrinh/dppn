@@ -5,7 +5,7 @@ base_headword: "Jenta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,6 @@ Jenta 02. A Thera. He was born in the village of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jenta 02. Một vị Trưởng lão. Ông sinh ra tại làng Jenta, là con trai của một thủ lĩnh. Ông là người trầm tư khi còn trẻ, và một ngày nọ, sau khi nghe Đức Phật thuyết pháp, ông gia nhập Tăng đoàn và chẳng bao lâu trở thành một *Arahant* (Thag.vs.111; Thag­a.i.219f). Ông từng là một *Devaputta* vào thời của Sikhī Buddha và đã dâng lên ngài những đóa hoa *kiṅkirāta*. Năm *kappa* trước, ông là một vị vua tên Sattuttama. *v.l.* Sabbuttama. Ông có lẽ đồng nhất với Kakkārapupphiya trong Apadāna (Ap.i.177).
 
 ## Notes

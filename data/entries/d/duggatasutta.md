@@ -5,7 +5,7 @@ base_headword: "Duggatasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Duggatasutta. Whenever one sees a hardship or a hard lot one should remember tha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Duggatasutta. Bất cứ khi nào một người nhìn thấy sự khốn khổ hay một số phận hẩm hiu, người ấy nên nhớ rằng bản thân mình cũng đã từng chịu khổ như vậy trong một đời sống nào đó. Vô thỉ là tiến trình của *Saṁsāra*. SN.ii.186.
 
 ## Notes

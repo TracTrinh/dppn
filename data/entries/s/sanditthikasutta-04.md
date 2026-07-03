@@ -5,7 +5,7 @@ base_headword: "Sandiṭṭhikasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sandiṭṭhikasutta 04. The same as (3), on how *Nibbāna* can be realized in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sandiṭṭhikasutta 04. Giống như (3), về việc *Nibbāna* có thể được chứng ngộ trong kiếp sống này như thế nào. AN.iv.453.
 
 ## Notes

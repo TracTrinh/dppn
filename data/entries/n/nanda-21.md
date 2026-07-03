@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "21"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nanda 21. There were once two butchers named Nanda. One day they killed a cow, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 21. Từng có hai người đồ tể tên là Nanda. Một ngày nọ, họ giết một con bò, và người trẻ hơn yêu cầu được lấy cái đầu và cái đuôi vì anh ta có nhiều con. Người lớn hơn từ chối và bị người kia giết. Nhưng sau đó kẻ giết người không có được sự thanh thản trong tâm trí, và khi chết, anh ta đã bị tái sinh vào địa ngục. Iti-a.82; cũng tại AN­a.i.295; nhưng ở đây tên của họ không được đề cập.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indakūṭa"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -27,6 +27,6 @@ Indakūṭa. A peak near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indakūṭa. Một đỉnh núi gần Rājagaha, nơi ở của Yakkha Indaka. Đức Phật từng sống ở đó. (SN.i.206).
 
 ## Notes

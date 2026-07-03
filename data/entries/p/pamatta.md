@@ -5,7 +5,7 @@ base_headword: "Pamatta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pamatta. Fifteen *kappas* ago there were eight kings of this name all previous b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pamatta. Mười lăm *kappa* trước có tám vị vua mang tên này, tất cả đều là tiền kiếp của Saparivāriya Thera. *v.l.* Samatta, Somagga. Ap.i.172.
 
 ## Notes

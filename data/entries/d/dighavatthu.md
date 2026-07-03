@@ -5,7 +5,7 @@ base_headword: "Dīghavatthu"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghavatthu. A tank, repaired by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghavatthu. Một hồ chứa nước, được Vijayabāhu I tu sửa. Cv.lx.49.
 
 ## Notes

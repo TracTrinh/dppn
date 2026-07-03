@@ -5,7 +5,7 @@ base_headword: "Saraṇāgamaniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saraṇāgamaniya Thera. An *Arahant*. Thirty-one *kappas* ago, while he was tra
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇāgamaniya Thera. Một bậc *Arahant*. Ba mươi mốt *kappa* trước, trong khi ngài đang du hành trên biển cùng với một tỳ-kheo và một Ājīvaka, chiếc thuyền bị lật và vị tỳ-kheo đã cho ngài thọ quy y. Ap.i.285=Ap.ii.455.
 
 ## Notes

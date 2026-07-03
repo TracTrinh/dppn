@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -30,6 +30,6 @@ Dhanañjaya 04. King of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 04. Vua của xứ Kuru, được gọi là Koravyarājā. Ngài trị vì ở Indapatta và thuộc dòng họ Yudhiṭṭhila. Về câu chuyện của ngài, xem Sambhavajātaka (Ja 515, Ja.v.57ff). Ngài được đồng nhất với Ānanda.
 
 ## Notes

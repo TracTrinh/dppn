@@ -5,7 +5,7 @@ base_headword: "Dhammavagga"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammavagga. The ninth chapter of the *Dukanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammavagga. Chương thứ chín của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.83f.
 
 ## Notes

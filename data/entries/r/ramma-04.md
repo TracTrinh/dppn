@@ -5,7 +5,7 @@ base_headword: "Ramma"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ramma 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramma 04. Rammaka, Rammanagara. Tên của Benares, vào thời điểm được ghi lại trong Yuvañjayajātaka. Ja.iv.119ff.
 
 ## Notes

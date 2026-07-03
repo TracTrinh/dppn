@@ -5,7 +5,7 @@ base_headword: "Iṭṭhāsutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Iṭṭhāsutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iṭṭhāsutta 01. Được thuyết cho Anāthapiṇḍika về năm điều trên thế giới rất đáng khao khát nhưng khó đạt được – trường thọ, sắc đẹp, hạnh phúc, danh tiếng, tái sinh tốt đẹp – và về các phương tiện để đạt được chúng (AN.iii.47-9).
 
 ## Notes

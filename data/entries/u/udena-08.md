@@ -5,7 +5,7 @@ base_headword: "Udena"
 disambiguator: "08"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udena 08. A king, a former birth of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua, một tiền kiếp của Ukkhepakatavaccha Thera (Thag­a.i.148), được gọi trong Apadāna (i.56) là Ekatthambhika.
 
 ## Notes

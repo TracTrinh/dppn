@@ -5,7 +5,7 @@ base_headword: "Jayabāhu"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jayabāhu 04. Grandson of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayabāhu 04. Cháu trai của Parakkamabāhu VI, người được nói là đã kế vị ông, nhưng không có thông tin gì thêm về ông ngoại trừ việc ông đã bị Bhuvanekabāhu (vi.) sát hại. Cv.xcii.1.
 
 ## Notes

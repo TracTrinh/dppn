@@ -5,7 +5,7 @@ base_headword: "Padesasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Padesasutta 01. A conversation between <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padesasutta 01. Một cuộc trò chuyện giữa Sāriputta, Anuruddha và Moggallāna ở Ketakivana tại Sāketa, liên quan đến ý nghĩa của từ “*sekha*.” Một *sekha* là người chỉ mới trau dồi được một phần của bốn *satipaṭṭhāna*. SN.v.174f.
 
 ## Notes

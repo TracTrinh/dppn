@@ -5,7 +5,7 @@ base_headword: "Sātavāhana"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sātavāhana. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sātavāhana. *v.l.* Setavāhana. Một vị vua. Người ta kể rằng khi gia đình của Anāthapiṇḍika rơi vào cảnh nghèo khó, do việc bố thí của ông, một cô gái trong gia đình, với mong muốn cúng dường, đã đến vương quốc của Sātavāhana, quét dọn một sân đập lúa và cúng dường bằng số tiền kiếm được (DN­a.i.303; có phải Sātavāhana này là vị vua của *Kathāsaritsāgara* i.32?). Một vị tỳ-kheo đã kể điều này cho nhà vua, vua đã cho gọi cô gái đến và phong cô làm hoàng hậu chính của mình.
 
 ## Notes

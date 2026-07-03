@@ -5,7 +5,7 @@ base_headword: "Irandatī"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -36,6 +36,8 @@ When she learned that her mother, <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Irandatī. Một thiếu nữ Nāga, con gái của Vua Nāga là Varuṇa.
+
+Khi cô biết rằng mẹ cô, Vimalā, khao khát trái tim của Vidhura, cô quyết định tự mình kiếm một người chồng có thể thỏa mãn mong muốn của mẹ cô. Thế là cô đến Himālaya và sau khi trải một chiếc giường bằng những bông hoa thơm, cô nằm trên đó và hát. Cháu trai của Vessavaṇa, một Yakkha là Puṇṇaka, đã nghe thấy cô và tự đề cử mình làm chồng cô. Cô đưa anh ta đến gặp cha mình, người đã đồng ý gả Irandatī cho anh, nếu anh ta có thể mang trái tim của Vidhura về. Khi Puṇṇaka hoàn thành điều kiện này, như được mô tả trong Vidhurapaṇḍitajātaka, Irandatī đã trở thành vợ của anh ta. Ja.vi.263-327.
 
 ## Notes

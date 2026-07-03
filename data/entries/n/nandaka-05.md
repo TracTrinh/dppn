@@ -5,7 +5,7 @@ base_headword: "Nandaka"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nandaka 05. General of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandaka 05. Vị tướng của Piṅgala, vua của Suraṭṭha, người đã trị vì khoảng hai trăm năm sau khi Đức Phật viên tịch. Nandaka là một người theo thuyết hư vô (Nihilist), và sau khi chết, ông đã được tái sinh làm một *Vemānikapeta* trong khu rừng Vindhyā. Con gái của ông, Uttarā, là một người phụ nữ mộ đạo, và đã cúng dường nhân danh ông cho một vị tỳ-kheo *Arahant*. Sau đó Nandaka đã đạt được hạnh phúc cõi trời. Với mong muốn giải thoát Piṅgala khỏi những quan điểm hư vô của mình, Nandaka đã chờ đợi ông trên đường trở về từ một cuộc hội nghị với Dhammāsoka, và sau khi dẫn nhà vua đến nơi ở của mình, đã khoản đãi ông. Sau đó, bằng cách tiết lộ danh tính của mình, Nandaka đã khuyên nhà vua hãy đi theo giáo pháp của Đức Phật. Pv.iv.3; Pv-a.244ff.
 
 ## Notes

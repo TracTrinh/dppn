@@ -5,7 +5,7 @@ base_headword: "Dhammaruci"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -59,6 +59,14 @@ The Sāgaliyas were an offshoot of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaruci 01. Dhammarucikas. Một trong những giáo phái dị giáo của Tích Lan tách ra từ Theravāda (Thượng tọa bộ) (Mhv.v.13).
+
+Theo Nikāya Saṅgraha (p.11) sự ly khai này diễn ra vào khoảng bốn trăm năm mươi bốn năm sau khi Đức Phật nhập diệt, và vào năm thứ mười lăm dưới triều đại của Vaṭṭagāmaṇī Abhaya. Nikāya Saṅgraha đưa ra một báo cáo về nguồn gốc của phái này. Một vị sư tên là Mahā Tissa, vị đương nhiệm của Abhayagiri, đã bị kết tội có liên quan đến các hộ gia đình và bị hệ phái Mahā Vihāra trục xuất. Thế rồi ngài rời đi cùng những môn đệ của mình và sống tách biệt ở Abhayagiri. Họ được củng cố thêm sức mạnh nhờ sự xuất hiện của một số tỳ-kheo từ Pallarārāma ở Nam Ấn Độ, con cháu của các vị Vajjiputtaka. Vị thầy của những vị này là Dhammaruci, và khi họ sáp nhập với các vị tỳ-kheo ở Abhayagiri, chính Mahā Tissa đã lấy tên là Dhammaruci và những môn đệ của ngài được biết đến là các vị Dhammarucika.
+
+Mahā Vaṁsaṭīkā (p.176) nói rằng Dhammarucika là cái tên được đặt cho các tỳ-kheo của Abhayagiri khi họ ly khai khỏi Mahā Vihāra, và ở một chỗ khác (p.676f) đã đưa ra những điểm mà họ khác biệt với những vị Theravādin. Những điểm này liên quan đến các giáo lý nhỏ của Vinaya. Các vị Dhammarucika đã trở nên hoạt động mạnh mẽ vào thời của Meghavaṇṇābhaya, và nhà vua, sau một cuộc điều tra về vấn đề này, đã phái sáu mươi người trong số họ đi đày. Họ lại trở nên hùng mạnh vào thời của Mahā Sena, nhờ sự ảnh hưởng của Saṅghamitta, và gần như đã thành công trong việc tiêu diệt Mahā Vihāra. Nhưng thảm họa này đã bị ngăn chặn nhờ sự can thiệp của người bạn kiêm cố vấn của nhà vua, Meghavaṇṇābhaya, và Saṅghamitta đã bị một trong các vị hoàng hậu giết chết (Mhv.xxxvii.17ff).
+
+Bất chấp kết cục bi thảm của Saṅghamitta, các vị Dhammarucika dường như đã được sủng ái ở Tích Lan trong suốt một thời kỳ dài. Dhātusena đã giao lại cho họ Ambatthalavihāra, mà ông xây dựng trên Cetiyapabbata (Cv.xxxviii.75), và Kassapa I, đã ban tặng cho họ *vihāra* mà ngài xây dựng trong khu vườn Niyyanti, và cung cấp mọi sự chu cấp cho sự an lạc của họ (Cv.xxxix.17). Moggallāna I, đã giao cho họ Daḷhavihāra (Cv.xxxix.41) và Aggabodhi V. giao cho *Rājinādīpikavihāra* (Cv.xlviii.1). Sena Ilaṅga, tướng quân của Kassapa IV, đã xây dựng Dhammārāma và Hadayuṇhapariveṇa cho họ (Cv.lii.17, 18).
+
+Phái Sāgaliya là một nhánh xuất phát từ các vị Dhammarucika.
 
 ## Notes

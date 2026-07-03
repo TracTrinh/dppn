@@ -5,7 +5,7 @@ base_headword: "Pācīnakambaviṭṭhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pācīnakambaviṭṭhi. A monastery in Ceylon, built by <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnakambaviṭṭhi. Một tu viện ở Tích Lan, được Dhātusena xây dựng. Cv.xxxviii.48.
 
 ## Notes

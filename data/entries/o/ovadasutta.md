@@ -5,7 +5,7 @@ base_headword: "Ovādasutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -25,6 +25,6 @@ Ovādasutta. The Buddha explains to <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ovādasutta. Trả lời một câu hỏi, Đức Phật giải thích cho Ānanda về tám phẩm chất cần thiết ở một vị tỳ-kheo để vị ấy được bổ nhiệm làm cố vấn tâm linh cho các đồng tu của mình. AN.iv.279f.
 
 ## Notes

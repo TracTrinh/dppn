@@ -5,7 +5,7 @@ base_headword: "Odumbaraṅgaṇa"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -27,6 +27,6 @@ Odumbaraṅgaṇa. A village given by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Odumbaraṅgaṇa. Một ngôi làng do Jeṭṭhatissa III dâng cho Padhānaghara tại Mahā Nāgavihāra (Cv.xliv.97).
 
 ## Notes

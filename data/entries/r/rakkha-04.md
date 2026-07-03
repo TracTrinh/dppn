@@ -5,7 +5,7 @@ base_headword: "Rakkha"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -38,6 +38,6 @@ Rakkha 04. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkha 04. được gọi là Damiḷādhikārī. Ông là một sĩ quan của Parakkamabāhu I., và là một trong những người chịu trách nhiệm chính trong việc khuất phục Rohaṇa. Ông đã đánh các trận tại Doṇivagga, Guralaṭṭhakalañcha, Pūgadaṇḍakāvāṭa, Bodhi-āvāta, Bhinnālavanāgāma và một vài nơi khác, và đã giáng những thất bại nặng nề cho lực lượng nổi dậy, giáng cho họ một đòn nặng nề tại Mahā Senagāma, nơi Laṅkāpura Rakkha bị giết. Điều này cho phép ông chiếm hữu được Mahā Nāgahula. Để đưa tỉnh này hoàn toàn dưới quyền kiểm soát của mình, ông đã phải chiến đấu thêm ở Bakagalla Uddhavāpi, Saṅghabhedakagāma, Kuravakagalla và Mahā Pabbata, và nhờ đó ông đã giành được toàn quyền sở hữu Dvādasasahassaka, nơi dường như ông đã dành phần đời còn lại của mình. Cv.lxxv.20, 69ff., 74ff., 87-159.
 
 ## Notes

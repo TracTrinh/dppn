@@ -5,7 +5,7 @@ base_headword: "Rādhasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rādhasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādhasutta 01. Rādha hỏi Đức Phật liệu những ý niệm về “tôi” và “của tôi” có hoàn toàn vắng mặt ở người biết và thấy, đối với thân, thức và các đối tượng bên ngoài hay không. Đức Phật trả lời là có. SN.iii.79.
 
 ## Notes

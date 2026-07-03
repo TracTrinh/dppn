@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "14"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nanda 14. A slave, born in this life as the co-resident of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 14. Một người nô lệ, tái sinh trong kiếp này với tư cách là người cùng trú ngụ của Sāriputta. Về câu chuyện của ông, xem Nandajātaka (Ja 39).
 
 ## Notes

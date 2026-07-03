@@ -5,7 +5,7 @@ base_headword: "Saṅghā"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghā 03. Wife of King <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghā 03. Vợ của Vua Māṇavamma. Bà là con gái của *Malayarāja* Saṅghasena. Cv.xlvii.3, 8.
 
 ## Notes

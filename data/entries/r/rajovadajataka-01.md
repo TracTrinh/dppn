@@ -5,7 +5,7 @@ base_headword: "Rājovādajātaka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -36,6 +36,6 @@ The story is related to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājovādajātaka 01. (Ja 151). Hai vị vua, Brahmadatta của Benares (Bồ tát) và Mallika của Kosala, trong lúc vi hành cải trang, để tìm xem liệu có ai trong vương quốc của mình có thể chỉ ra cho họ bất kỳ lỗi lầm nào mà họ (các vị vua) mắc phải hay không, đã gặp nhau trên một con đường hẹp, và một cuộc tranh cãi nổ ra giữa những người đánh xe về việc ai sẽ là người nhường đường. Người ta phát hiện ra rằng cả hai đều có cùng độ tuổi và quyền lực. Mỗi người đánh xe đều ca ngợi những phẩm chất tốt đẹp của chủ nhân mình, nhưng sau đó họ phát hiện ra rằng Mallika thì tốt với người tốt và xấu với người xấu, trong khi Brahmadatta thì tốt với cả người tốt và người xấu. Người đánh xe của Mallika thừa nhận Brahmadatta là người vượt trội hơn và nhường đường.\n\nCâu chuyện được kể lại cho Pasenadi, người đã đến gặp Đức Phật sau khi phải phán quyết một vụ án khó khăn liên quan đến sự suy đồi đạo đức. Ông hài lòng rằng mình đã làm tốt, và Đức Phật đồng ý với ông rằng thực thi công lý với sự công bằng là con đường dẫn đến cõi trời.\n\nMallika được nhận diện với Ānanda và người đánh xe của ông với Moggallāna, trong khi người đánh xe của Brahmadatta là Sāriputta. Ja.ii.1ff.
 
 ## Notes

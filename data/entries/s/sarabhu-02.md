@@ -5,7 +5,7 @@ base_headword: "Sarabhū"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -33,6 +33,6 @@ Sarabhū 02. One of the five great rivers of northern India. Vin.ii.237; Ud.v.5;
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong năm con sông lớn ở miền bắc Ấn Độ. Vin.ii.237; Ud.v.5; SN.ii.135; AN.iv.101; Snp­a.ii.439; xem thêm MN­a.ii.586. Nó tạo thành ranh giới giữa hai khu vực của Kosala, Uttara Kosala và Dakkhiṇa Kosala. Sông Acīravatī là phụ lưu của nó. Sāketa nằm trên bờ sông Sarabhū, dòng sông chảy qua Añjanavana (ví dụ, Thag­a.i.104). Tên tiếng Phạn là Sarayū. Bản thân sông Sarayū chảy vào sông Ghaṅghara, là một phụ lưu của sông Hằng. Xem thêm Gavampati (1).
 
 ## Notes

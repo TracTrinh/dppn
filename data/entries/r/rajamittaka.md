@@ -5,7 +5,7 @@ base_headword: "Rājamittaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājamittaka. A village in Ceylon where <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājamittaka. Một ngôi làng ở Tích Lan nơi Silāmeghavaṇṇa đã đánh bại Sirināga. Cv.xliv.72.
 
 ## Notes

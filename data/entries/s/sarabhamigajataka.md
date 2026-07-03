@@ -5,7 +5,7 @@ base_headword: "Sarabhamigajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -37,6 +37,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng sinh ra làm một con hươu đực. Vua nước Benares đã đi săn cùng với các quan cận thần, những người này đã tìm cách dồn con hươu đến gần nhà vua; ông bắn, con hươu lăn lộn như thể bị trúng đạn, nhưng ngay sau đó đã đứng dậy và bỏ chạy. Các quan cận thần cười lớn và nhà vua bắt đầu đuổi theo con hươu. Trong lúc truy đuổi, ông đã rơi vào một cái hố, và con hươu, cảm thấy thương xót ông, đã kéo ông ra và dạy cho ông Pháp. Khi nhà vua trở về, ông đã ra lệnh rằng tất cả thần dân của mình nên tuân thủ năm giới. Nhà vua không nói với ai về những gì đã xảy ra với mình, nhưng vị tư tế, khi nghe ông lặp lại sáu bài kệ, đã đoán được chuyện gì đã xảy ra. Ông hỏi nhà vua, người đã kể cho ông câu chuyện. Nhiều người nam và nữ, làm theo lời dạy của nhà vua, đã được tái sinh lên cõi trời và Sakka, nhận ra lý do của điều này, đã xuất hiện trước mặt nhà vua, người đang luyện tập bắn cung, và sắp đặt để ông nên tuyên dương sự cao quý của Bodhisatta.
+
+Câu chuyện được kể lại để đề cập đến trí tuệ của Sāriputta. Người ta nói rằng, khi Đức Phật giáng trần từ Tāvatiṁsa sau khi thuyết giảng Abhidhamma, với mong muốn chứng minh trí tuệ độc nhất vô nhị của Sāriputta, ngài đã đưa ra một số câu hỏi trước đám đông tại Saṅkassa, mà không ai ngoại trừ Sāriputta có thể trả lời. Những gì Đức Phật hỏi ngắn gọn, Sāriputta đã trả lời chi tiết.
+
+Ānanda được đồng nhất với nhà vua và Sāriputta với vị tư tế (Ja.iv.263-75). Câu chuyện cũng được đưa vào *Jātakamālā* (Số 25) dưới tên là Sarabhajātaka.
 
 ## Notes

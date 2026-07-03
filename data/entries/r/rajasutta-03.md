@@ -5,7 +5,7 @@ base_headword: "Rājasutta"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājasutta 03. Men should keep their fast, not in order to be <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasutta 03. Con người nên giữ gìn trai giới của mình, không phải để trở thành Sakka người chưa dứt bỏ tham lam, ác ý hay si mê, mà là để trở thành những bậc *Arahant*. AN.i.143f.
 
 ## Notes

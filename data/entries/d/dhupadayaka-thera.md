@@ -5,7 +5,7 @@ base_headword: "Dhūpadāyaka Thera"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhūpadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he burnt incense in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūpadāyaka Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ông đã đốt hương trong thất của Đức Phật Siddhattha. Ap.i.78.
 
 ## Notes

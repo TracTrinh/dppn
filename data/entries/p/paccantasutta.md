@@ -5,7 +5,7 @@ base_headword: "Paccantasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paccantasutta. Few are those born in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccantasutta. Rất ít người được sinh ra ở Majjhimadesa; những người sinh ra ở Paccantajanapada, giữa những kẻ dã man vô lý, thì nhiều hơn. SN.v.466.
 
 ## Notes

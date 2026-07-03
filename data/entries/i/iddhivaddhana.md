@@ -5,7 +5,7 @@ base_headword: "Iddhivaḍḍhana"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Iddhivaḍḍhana. One of the palaces, occupied during his lay-life by <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Iddhivaḍḍhana. Một trong những cung điện, được Sumana Buddha cư ngụ trong đời sống cư sĩ của ngài. Bv­a.125; Bv.v.22 đưa ra các tên khác cho các cung điện của ngài.
 
 ## Notes

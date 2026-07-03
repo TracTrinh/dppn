@@ -5,7 +5,7 @@ base_headword: "Ojasī"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Ojasī. Servant of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ojasī. Người hầu của Kuvera. Vị này mang thông điệp của Kuvera và thông báo chúng ở Uttarakuru. DN.iii.201; DN­a.iii.967.
 
 ## Notes

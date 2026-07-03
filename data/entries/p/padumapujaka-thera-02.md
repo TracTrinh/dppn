@@ -5,7 +5,7 @@ base_headword: "Padumapūjaka Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumapūjaka Thera 02. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một đạo sĩ ở Gotama, gần Himavā, và cùng với các đệ tử của mình, ngài đã niệm tưởng ân đức của Đức Phật và cúng dường hoa sen nhân danh Ngài. Năm mươi mốt *kappa* trước, ngài là một vị vua tên Jaluttama (Ap.i.162f).
+
+Ngài có lẽ cũng chính là Meṇḍasira. Thag­a.i.172.
 
 ## Notes

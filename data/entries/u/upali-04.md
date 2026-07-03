@@ -5,7 +5,7 @@ base_headword: "Upāli"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -47,6 +47,14 @@ He is mentioned, with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāli 04. Được phân biệt là Upāli *Gahapati*. Ông sống ở Nālandā và là một người theo Nigaṇṭha Nātaputta.
+
+Ông đã có mặt khi Dīgha Tapassī báo cáo cho Nātaputta một bản tường thuật về chuyến viếng thăm của ngài đối với Gotama Buddha ở Rừng xoài Pāvārika. Upāli cam kết sẽ đích thân đến gặp Đức Phật và bác bỏ những quan điểm của ngài, bất chấp sự phản đối của Dīgha Tapassī. Vào cuối cuộc thảo luận của ông với Đức Phật, điều được ghi lại trong Upālisutta, Upāli đã được cải đạo và mời Đức Phật đến dùng bữa. Mặc dù Đức Phật đã khuyên Upāli rằng những sự đóng góp từ thiện của ông đối với những người Nigaṇṭha không nên dừng lại vì sự cải đạo của ông, Upāli vẫn đưa ra các chỉ dẫn rằng không có *Nigaṇṭha* nào được phép vào gặp ông, nhưng nếu họ cần thức ăn thì nó sẽ được trao cho họ. Nghe được tin đồn về sự cải đạo của ông, đầu tiên là Tapassī, và sau đó chính Nātaputta, đi đến nhà của Upāli, nơi họ biết được sự thật. Khi Nātaputta cuối cùng cũng bị thuyết phục rằng Upāli đã trở thành một người theo Đức Phật, máu nóng trào ra từ miệng ngài (MN.i.371ff).
+
+Theo Buddhaghosa (MN­a.ii.621, 830), Nātaputta đã phải được khiêng trên một chiếc cáng đến Pāvā, nơi ngài qua đời ngay sau đó.
+
+Upāli trở thành một *Sotāpanna* (MN­a.ii.620).
+
+Ông được đề cập, cùng với Ānanda, Cittagahapati, *upāsaka* Dhammika và Khujjuttarā, như là một trong những người đã đắc bốn *Paṭisambhidā* trong khi vẫn còn là một bậc hữu học (*sekha*). Vsm.ii.442; Vibh­a.388.
 
 ## Notes

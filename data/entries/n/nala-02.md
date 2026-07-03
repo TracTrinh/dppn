@@ -5,7 +5,7 @@ base_headword: "Nālā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nālā 02. Wife of the *Ādipāda* <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālā 02. Vợ của *Ādipāda* Udaya. Bà là con gái của người cậu bên ngoại của ông và nằm dưới sự bảo vệ của Vua Sena I, nhưng Udaya đã kết hôn với bà trong thời gian nhà vua đi vắng và đưa bà đến Pulatthinagara. Tuy nhiên, nhà vua đã tha thứ cho ông. Cv.l.9; xem thêm Cv.Trs.i. 138, n.3.
 
 ## Notes

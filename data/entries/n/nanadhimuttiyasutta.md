@@ -5,7 +5,7 @@ base_headword: "Nānādhimuttiyasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nānādhimuttiyasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nānādhimuttiyasutta. Anuruddha nói với các đồng phạm hạnh của mình rằng bằng cách tu tập bốn *satipaṭṭhāna* ông đã biết được các cá tính khác nhau của chúng sinh (SN.v.305).
 
 ## Notes

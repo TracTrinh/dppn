@@ -5,7 +5,7 @@ base_headword: "Udāyīsutta"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Udāyīsutta 04. The Buddha asks <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật hỏi Udāyī (Lāḷudāyī theo Chú giải) về việc đâu là các chủ đề của sự tùy niệm. Ba lần ngài hỏi câu hỏi, nhưng Udāyī ngồi im lặng. Sau đó Đức Phật nói rằng ngài biết Udāyī là một kẻ ngu ngốc, và đặt câu hỏi cho Ānanda, người đã giải thích năm chủ đề như vậy có liên kết với các *jhāna*. AN.iii.322-5.
 
 ## Notes

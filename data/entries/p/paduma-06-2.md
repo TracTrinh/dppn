@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "06"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumā 06. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 06. Vợ của Dīpaṅkara Buddha, trong kiếp sống cư sĩ cuối cùng của ngài. Bv.ii.209; Mbv.p.4.
 
 ## Notes

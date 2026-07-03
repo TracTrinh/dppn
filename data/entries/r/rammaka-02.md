@@ -5,7 +5,7 @@ base_headword: "Rammaka"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rammaka 02. A city where, sixty thousand *kappas* ago, <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rammaka 02. Một thành phố nơi mà sáu mươi ngàn *kappa* trước, Mahā Kassapa trị vì dưới danh hiệu Vua Ubbiddha. Ap.i.34.
 
 ## Notes

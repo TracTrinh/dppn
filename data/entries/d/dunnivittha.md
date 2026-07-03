@@ -5,7 +5,7 @@ base_headword: "Dunniviṭṭha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -32,6 +32,6 @@ Dunniviṭṭha. A Brahmin village in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dunniviṭṭha. Một ngôi làng của những người Bà-la-môn ở quốc gia Kāliṅga. Nó nằm trên con đường (dọc theo đó Vessantara đã hành trình đến Vaṅkagiri) từ Jetuttara đến vương quốc Ceti, cách Arañjaragiri năm do-tuần và cách quốc gia Ceti mười do-tuần. Đó là nơi ở của Jūjaka và Amittatāpanā. Ja.vi.521, 541.
 
 ## Notes

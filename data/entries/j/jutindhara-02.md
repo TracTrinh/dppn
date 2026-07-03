@@ -5,7 +5,7 @@ base_headword: "Jutindhara"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jutindhara 02. A king of ten *kappas* ago, a previous life of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutindhara 02. Một vị vua của mười *kappa* trước, một tiền kiếp của Mandāravapūjaka (Ap.i.178) hoặc Usabha (Thag­a.i.219).
 
 ## Notes

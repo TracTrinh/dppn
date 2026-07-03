@@ -5,7 +5,7 @@ base_headword: "Sarāgasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sarāgasutta. Four persons are found in the world: the lustful, the hateful, the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bốn hạng người được tìm thấy trên thế gian: người đầy tham dục, người đầy hận thù, người bị si mê, người đầy kiêu mạn. AN.ii.71.
 
 ## Notes

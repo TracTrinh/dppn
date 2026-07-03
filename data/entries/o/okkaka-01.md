@@ -5,7 +5,7 @@ base_headword: "Okkāka"
 disambiguator: "01"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -103,6 +103,28 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="66" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okkāka 01. Một vị vua, tổ tiên của người Sākyan và người Koḷian. Trong Ambaṭṭhasutta (DN.i.92) có nói rằng Okkāka, vì sủng ái hoàng hậu của mình và muốn truyền ngôi cho con trai của bà, đã trục xuất các vị vương tử lớn hơn do một người vợ khác sinh ra khỏi vương quốc. Những vương tử này tên là Okkāmukha, Karakaṇḍa, Hatthinika, và Sīnipura.
+
+*Mahā Vastu* (tác phẩm nhầm lẫn Ikṣvāku với tổ tiên của ông là Sujāta) có nhắc đến năm người con trai của Ikṣvāku: Opura, Ulkāmukha, Karaṇḍaka, Hastikaśīrsa và Nipura (i.348). Xem thêm Rockhill, p.9ff.
+
+Họ sống trên các sườn núi Himālaya và, kết hôn với các chị em của họ cùng con cháu của những người này, đã hình thành nên dòng dõi Sākyan. Truyền thuyết, được kể tóm tắt như vậy, đã được mở rộng với rất nhiều chi tiết trong các Chú giải. Theo Buddhaghosa, có ba triều đại với một vị vua tên là Okkāka đứng đầu mỗi triều đại, tất cả họ đều là hậu duệ trực hệ của vị vua đầu tiên, Mahā Sammata, và nằm trong dòng dõi kế vị của Makhādeva.
+
+Vị Okkāka của triều đại thứ ba có năm hoàng hậu – Bhattā, Cittā, Jantū, Jālinī và Visākhā – mỗi người có năm trăm nữ tỳ. Vị hoàng hậu lớn tuổi nhất có bốn người con trai – đã nhắc đến ở trên – và năm người con gái – Piyā, Suppiyā, Ānandā, Vijitā và Vijitasenā (*Mahā Vastu* gọi họ là Suddhā, Vimalā, Vijitā, Jālā và Jālī).
+
+Khi Bhattā qua đời, sau khi sinh ra chín người con này, nhà vua kết hôn với một công chúa trẻ đẹp khác và lập bà làm chánh hậu. Con trai của bà là Jantu, và vì hài lòng với người con này, nhà vua đã hứa ban cho bà một ân huệ. Bà đã đòi lại vương quốc cho con trai mình, và đây là lý do khiến những người con lớn bị lưu đày (DN­a.i.258f; Snp-a.i.352f).
+
+Mahā Vaṁsa (Mhv.ii.12-16) nhắc đến trong số các hậu duệ của Okkāka có Nipuṇa, Candimā, Candamukha, Sivisañjaya, Vessantara, Jāli, Sīhavāhana và Sīhassara. Người được nhắc đến cuối cùng có tám mươi tư ngàn hậu duệ, người cuối cùng trong số đó là Jayasena. Con trai của vị này là Sīhahanu, ông nội của Đức Phật. Danh sách của Dīpavaṁsa (iii.41-5) cũng rất giống với danh sách này.
+
+Okkāka có một nữ tì tên là Disā, người đã sinh ra một đứa trẻ da đen tên là Kaṇha. Người này là tổ tiên của dòng dõi Kaṇhāyana, mà gia tộc Ambaṭṭha là một nhánh phụ của nó. Về sau, Kaṇha trở thành một bậc hiền nhân quyền năng và, bằng thần thông của mình, đã kết hôn với Maddarūpī, một người con gái khác của Okkāka (DN.i.93, 96).
+
+Theo Brāhmaṇa Dhammikasutta (Sn.p.52ff; AN­a.ii.737), chính trong thời của Okkāka mà những người Bà-la-môn đã bắt đầu tục lệ sát sinh động vật để hiến tế. Cho đến lúc đó, thế giới chỉ có ba căn bệnh – dục vọng, đói khát và già nua; nhưng kể từ thời điểm đó trở đi, chư thiên tức giận đã giáng xuống loài người đủ loại đau khổ.
+
+Người ta nói (DN­a.i.258) rằng cái tên Okkāka được đặt cho vị vua vì khi ông nói, ánh sáng phát ra từ miệng ông như một ngọn đuốc (*kathanakāle ukkā viya mukhato pabhā niccharati*).
+
+Mặc dù dạng Phạn hóa của tên gọi Pāli này là Ikṣavāku, khó có khả năng Okkāka đồng nhất với Ikṣavāku nổi tiếng của các *Purāṇa*, người con trai trực tiếp của Manu, con trai của Mặt Trời. Dạng Pāli rõ ràng là nguyên thủy hơn, như được thể hiện qua dạng Okkāmukha, và cái tên Ikṣavāku có vẻ giống như một nỗ lực cố ý nhằm điều chỉnh cho phù hợp với câu chuyện trong *Purāṇa*. Để thảo luận thêm, xem Thomas: *Life and Legend of the Buddha*, p.6.
+
+Theo *Mahā Vastu*, Ikṣavāku là vua của người Kosala và thủ đô của ông là Sāketa – tức là Ayodhyā. Xem thêm *s.v.* Sākya.
+
+Cūḷa Vaṁsa nhắc đến trong số các hậu duệ của Okkāka có Mahā Tissa, Sagara và Sāhasamalla (*q.v.*).
 
 ## Notes

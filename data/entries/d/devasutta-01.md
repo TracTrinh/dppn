@@ -5,7 +5,7 @@ base_headword: "Devāsutta"
 disambiguator: "01"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devāsutta 01. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devāsutta 01. Hoặc Vatapadasutta. Bảy quy tắc đạo đức được Sakka tuân thủ, qua đó ngài đạt được quyền cai trị chư thiên. SN.i.227.
 
 ## Notes

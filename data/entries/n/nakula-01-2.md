@@ -5,7 +5,7 @@ base_headword: "Nakulā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nakulā 01. The chief woman disciple of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulā 01. Nữ đại đệ tử của Đức Phật Sobhita. Bv.vii.22; Ja.i.35.
 
 ## Notes

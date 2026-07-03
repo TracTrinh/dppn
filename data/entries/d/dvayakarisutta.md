@@ -5,7 +5,7 @@ base_headword: "Dvayakārisutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dvayakārisutta. Double dealers are born, after death, among the egg-born harpie
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvayakārisutta. Những kẻ hai mặt, sau khi chết, sẽ bị tái sinh vào giữa bầy yêu điểu sinh ra từ trứng (SN.iii.247).
 
 ## Notes

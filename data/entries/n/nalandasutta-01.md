@@ -5,7 +5,7 @@ base_headword: "Nālandāsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nālandāsutta 01. A conversation between the Buddha and <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālandāsutta 01. Một cuộc đàm đạo giữa Đức Phật và Upāli *gahapati* trong vườn xoài của Pāvārika, về lý do tại sao một số chúng sinh đạt được sự tự do hoàn toàn trong thế giới này trong khi những người khác thì không. SN.iv.110.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rakkhaka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhaka 01. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhaka 01. Một vị tướng của Vikkamabāhu II., ông đã bị Vīradeva bắt giữ. Cv.lxi.42.
 
 ## Notes

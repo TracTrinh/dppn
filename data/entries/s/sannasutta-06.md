@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 06. The same as (5), in greater detail. AN.iv.47.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như (5), chi tiết hơn. AN.iv.47.
 
 ## Notes

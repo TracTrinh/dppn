@@ -5,7 +5,7 @@ base_headword: "Joti"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Joti 01. A class of gods, present at the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Joti 01. Một hạng chư thiên, có mặt tại Đại Hội (Mahā Samaya) (DN.ii.261). Buddhaghosa giải thích (DN­a.ii.691) rằng họ là những vị thiên thần rực lửa, giống như những ngọn đèn hiệu trên các đỉnh núi.
 
 ## Notes

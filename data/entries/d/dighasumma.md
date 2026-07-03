@@ -5,7 +5,7 @@ base_headword: "Dīghasumma"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghasumma. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghasumma. Một vị Trưởng lão của Kalyāṇi. Một ngư dân, sống ở cửa sông Kalyāṇi, đã dâng cúng thức ăn cho ông trong nhiều dịp và đã nhớ đến ông vào khoảnh khắc lâm chung của mình. MN­a.ii.1008; AN­a.ii.522.
 
 ## Notes

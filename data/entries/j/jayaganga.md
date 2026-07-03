@@ -5,7 +5,7 @@ base_headword: "Jayagaṅgā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jayagaṅgā. A canal flowing from the *Kalāvāpi* to <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayagaṅgā. Một con kênh chảy từ *Kalāvāpi* đến Anurādhapura. Nó đã được khôi phục bởi Parakkamabāhu I. Cv.lxxix.58.
 
 ## Notes

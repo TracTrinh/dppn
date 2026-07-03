@@ -5,7 +5,7 @@ base_headword: "Gūthapāṇajātaka"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ The story was told in reference to a monk who quelled the pride of a rowdy; the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūthapāṇajātaka (Ja 227). Một con bọ hung đã uống một chút rượu bị những người lái buôn đánh rơi khi ở tại một nhà nghỉ và trở về đống phân của nó trong tình trạng say xỉn. Một con voi đi tới ngửi thấy mùi phân và quay đi trong sự ghê tởm. Con bọ hung, nghĩ rằng con voi sợ mình, đã gọi với theo và thách thức nó chiến đấu. Con voi quay lại, ỉa một cục phân lên trên và đái lên nó, giết chết nó ngay tại chỗ.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo, người đã dập tắt sự kiêu ngạo của một kẻ côn đồ; kẻ này thường xuyên quấy rối các vị tỳ-kheo đi khất thực tại một ngôi làng gần Jetavana, hỏi họ những câu hỏi và nhục mạ họ nhiều đến mức các tỳ-kheo đã ngần ngại không muốn đến đó. Một ngày nọ, một vị tỳ-kheo, mạnh khỏe hơn những người còn lại, đã dụ gã này ra khỏi làng, đánh gục hắn bằng một đòn duy nhất, và đe dọa sẽ dạy cho hắn một bài học khác nếu hắn không ngừng quấy rầy các tỳ-kheo. Sau đó gã này đã tẩu thoát ngay khi nhìn thấy một vị tỳ-kheo. Ja.ii.209ff.
 
 ## Notes

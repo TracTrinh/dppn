@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paduma 04. Step brother of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 04. Anh em trai cùng cha khác mẹ hoặc cùng mẹ khác cha của Dhammadassī Buddha. Đức Phật đã thuyết pháp cho vị ấy tại Saraṇa, và vị ấy sau đó đã trở thành đệ tử tối thắng của Đức Phật. Bv.xvi.18; Bv­a.183; Ja.i.39.
 
 ## Notes

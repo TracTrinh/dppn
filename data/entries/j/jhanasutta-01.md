@@ -5,7 +5,7 @@ base_headword: "Jhānasutta"
 disambiguator: "01"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -25,6 +25,6 @@ Jhānasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasutta 01. Anuruddha kể cho các đồng đạo của mình về những lợi ích của việc tu tập *jhāna*. SN.v.305.
 
 ## Notes

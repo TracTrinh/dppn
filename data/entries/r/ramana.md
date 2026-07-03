@@ -5,7 +5,7 @@ base_headword: "Ramaṇā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ramaṇā. The Pāli name for the inhabitants of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramaṇā. Tên tiếng Pāli dành cho cư dân của Rāmañña. Cv.lxxvi.66.
 
 ## Notes

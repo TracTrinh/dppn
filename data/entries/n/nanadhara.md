@@ -5,7 +5,7 @@ base_headword: "Ñāṇadhara"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇadhara (Ñāṇavara). Một vị vua của sáu mươi mốt kappa trước, một tiền kiếp của Tiraṁsiya. Ap.i.257.
 
 ## Notes

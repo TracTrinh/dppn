@@ -5,7 +5,7 @@ base_headword: "Sarabhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sarabhasutta. Relates the story of the Buddha’s visit to <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kể lại câu chuyện về chuyến viếng thăm của Đức Phật tới Sarabha tại *Paribbājakārāma*. AN.i.185f.
 
 ## Notes

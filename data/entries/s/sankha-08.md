@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "08"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkha 08. A Sinhalese general who maintained a stronghold in <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 08. Một vị tướng người Sinhalese, người đã duy trì một thành trì ở Gaṅgādoṇi trong quận Maṇimekhala, trong khi Māgha cai trị ở kinh đô. Cv.lxxxi.7f.
 
 ## Notes

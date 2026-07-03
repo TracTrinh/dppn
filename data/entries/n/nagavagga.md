@@ -5,7 +5,7 @@ base_headword: "Nāgavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgavagga. The twenty-third chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgavagga. Phẩm thứ hai mươi ba của Dhammapada.
 
 ## Notes

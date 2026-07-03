@@ -5,7 +5,7 @@ base_headword: "Sattasirīsaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sattasirīsaka. A group of seven *sirīsaka*-trees, near <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattasirīsaka. Một nhóm gồm bảy cây *sirīsaka*, gần Benares, nơi Đức Phật đã thuyết pháp cho vị vua Nāga Erakaputta (*q.v.*). Dhp­a.iii.230, 232.
 
 ## Notes

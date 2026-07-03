@@ -5,7 +5,7 @@ base_headword: "Dhammasena"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasena 01. Son of the chaplain of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasena 01. Con trai của vị quốc sư ở Kaṇṇakujja. Sau đó ngài trở thành đệ tử hàng đầu của Phussa Buddha. Bv.xix.19; Bv­a.193; Ja.i.41.
 
 ## Notes

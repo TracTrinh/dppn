@@ -5,7 +5,7 @@ base_headword: "Dhammaguttā"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -28,6 +28,6 @@ Dhammaguttā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaguttā 01. Dhammaguttikā. Một nhánh phụ của Mahiṁsāsakas (Dpv.v.47; Mhv.v.8; Mbv.p.96), có lẽ là một nhánh xuất phát từ Sabbatthivādīs. Họ có một bộ Luật (*Vinaya*) riêng biệt của họ. Theo các nguồn tài liệu của Tây Tạng (Rockhill, pp.185, 192), họ được đặt tên theo người đứng đầu của họ, Dharmagupta. Những giáo lý cơ bản của họ là: rằng Đức Phật không được gộp chung trong Tăng đoàn; rằng trong khi có phước báu lớn lao cho những cúng dường đến Đức Phật, thì không có phước báu nào cho những cúng dường đến Tăng đoàn; rằng một đời sống phạm hạnh (*brahmacariya*) cũng tồn tại giữa chư thiên; và rằng có những quy luật thế gian đối nghịch với những quy luật tâm linh.
 
 ## Notes

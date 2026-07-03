@@ -5,7 +5,7 @@ base_headword: "Ukkaṁsika"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Ukkaṁsika. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkaṁsika. Một vị vua của Rāmañña, một người bảo trợ lớn cho việc học tập. Chi tiết về ông xem Bode, 50, 52.
 
 ## Notes

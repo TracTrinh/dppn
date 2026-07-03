@@ -5,7 +5,7 @@ base_headword: "Santakasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Santakasutta. The Buddha explains to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật giải thích cho Ānanda làm thế nào những cảm thọ phát sinh và diệt đi, điều gì là “sự thỏa mãn” và “sự khốn khổ” của chúng. SN.iv.219.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rahogatavagga"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rahogatavagga 01. The second chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rahogatavagga 01. Chương thứ hai của Vedanāsaṁyutta. SN.iv.216-30.
 
 ## Notes

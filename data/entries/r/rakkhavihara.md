@@ -5,7 +5,7 @@ base_headword: "Rakkhavihāra."
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rakkhavihāra. A monastery in Ceylon in which <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhavihāra. Một tu viện ở Tích Lan trong đó Moggallāna III đã xây dựng một *cetiya*. (Cv.xliv.51). Nó có lẽ đồng nhất với Rakkhacetiyapabbata.
 
 ## Notes

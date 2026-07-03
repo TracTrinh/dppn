@@ -5,7 +5,7 @@ base_headword: "Pañcadīpadāyikā Therī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,10 @@ The same story is told in identical words under the name of another Therī, call
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcadīpadāyikā Therī. Một vị *Arahant*. Một trăm ngàn *kappa* trước, bà là một nữ sa-môn du hành từ tu viện này sang tu viện khác. Một đêm tối nọ, bà ngồi dưới gốc cây Bodhi và ước nguyện cái cây sẽ tỏa sáng rực rỡ. Mong ước của bà được chấp thuận, và trong bảy ngày bà ngồi đó, rồi vào ngày thứ chín bà đã thắp năm ngọn đèn dưới gốc cây. Sau khi qua đời bà tái sinh vào Tāvatiṁsa, và cung điện của bà được biết đến là Pañcadīpī.
+
+Bà có năng lực nhìn thấu mọi hướng mà không cần xoay đầu. Bà đã tám mươi lần làm hoàng hậu của vua chư thiên. Trong kiếp sống cuối cùng, bà đắc quả *Arahant* ở tuổi lên bảy. Ap.ii.527f.
+
+Câu chuyện tương tự được kể lại với những lời lẽ giống hệt như vậy dưới tên của một vị Therī khác, tên là Pañcadīpikā (Ap.ii.519f). Các vần kệ cũng được quy cho Therī Selā trong Chú giải Therīgāthā. Thīg­a.62f.
 
 ## Notes

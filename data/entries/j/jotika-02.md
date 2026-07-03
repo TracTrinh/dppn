@@ -5,7 +5,7 @@ base_headword: "Jotika"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jotika 02. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotika 02. Một gia chủ của Rājagaha và là cha của Dīghāvu. Khi Dīghāvu ngã bệnh, anh ta đã phái Jotika đến thưa với Gotama Buddha (SN.v.344f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naggadīpa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naggadīpa. An island where the children of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naggadīpa. Một hòn đảo nơi những đứa con của Vijaya và những người bạn đồng hành của ông đã đổ bộ khi bị trục xuất khỏi Lāla. Mhv.vi.45; Dpv.ix.13.
 
 ## Notes

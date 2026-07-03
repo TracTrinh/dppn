@@ -5,7 +5,7 @@ base_headword: "Sativagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sativagga. The ninth chapter of the *Aṭṭhakanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sativagga. Chương thứ chín của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya. AN.iv.336-50.
 
 ## Notes

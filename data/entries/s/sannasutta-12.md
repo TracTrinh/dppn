@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "12"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 12. Perception of body is impermanent; likewise sound, scent, etc.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sự nhận thức về thân là vô thường; tương tự đối với âm thanh, mùi hương, v.v. SN.iii.227.
 
 ## Notes

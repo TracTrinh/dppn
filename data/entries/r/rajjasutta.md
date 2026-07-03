@@ -5,7 +5,7 @@ base_headword: "Rajjasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rajjasutta. Once the Buddha was thinking compassionately of those suffering from
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajjasutta. Có một lần Đức Phật đang động lòng thương xót những người đau khổ vì sự tàn ác của những kẻ cai trị và tự hỏi liệu có thể cai trị mà không gây ra đau khổ hay không. Māra đến gần và cố gắng làm cho Ngài chìm đắm trong sự quyến rũ của việc hành sử quyền lực, gợi ý rằng nếu Đức Phật muốn, Ngài thậm chí có thể biến Himālaya thành một khối vàng. Nhưng, Đức Phật nói, Ngài đã nhìn thấy sự đau khổ và nguồn gốc của nó và do đó, sẽ không hướng tới những dục vọng. SN.i.116.
 
 ## Notes

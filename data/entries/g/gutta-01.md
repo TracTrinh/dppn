@@ -5,7 +5,7 @@ base_headword: "Guttā"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,6 @@ Guttā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guttā 01. Guttā Therī. Bà thuộc về một gia đình Bà-la-môn ở Sāvatthī; khi bà đến tuổi thiếu nữ, cuộc sống gia đình trở nên đáng ghét đối với bà do *upanissaya* (tiềm năng) của bà, và, với sự cho phép của cha mẹ, bà đã gia nhập Tăng đoàn dưới sự dìu dắt của Pajāpatī Gotamī. Trong một thời gian dài, bà không thể định tâm được, nhưng, được Đức Phật khích lệ, bà đã đạt được quả vị *Arahant*. Thīg.vv.163-8; Thīg­a.157f.
 
 ## Notes

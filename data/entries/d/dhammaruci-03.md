@@ -5,7 +5,7 @@ base_headword: "Dhammaruci"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammaruci 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaruci 03. Một vị long vương (*Nāga*) người đã cúng dường cỏ cho Đức Phật Atthadassī để làm chỗ ngồi của ngài. Bv­a.178.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rajatavihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -32,6 +32,6 @@ Rajatavihāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajatavihāra, Rajatalenavihāra, Rajatamayavihāra. Một tu viện ở Tích Lan, do Āmaṇḍagāmaṇī Abhaya xây dựng (Mhv.xxxv.4; nhưng xem Cv.c.238, nơi Duṭṭhagāmaṇī được cho là đã xây dựng nó). Nó nằm ở Ambaṭṭhakolalena, nơi bạc được phát hiện để sử dụng trong việc xây dựng Mahā Thūpa (Mhv.Trs.188, n.1). Kittisirirājasīha (Cv.xcix.41) đã viếng thăm *vihāra* này và bày tỏ sự tôn kính lớn lao đối với nó và ban nó cho một *Sāmaṇera* tên là Siddhattha (Cv.c.238). *Vihāra* này hiện được gọi là *Ridīvihāra* và nằm gần Kurunegala hiện đại.
 
 ## Notes

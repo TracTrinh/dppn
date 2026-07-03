@@ -5,7 +5,7 @@ base_headword: "Rathavaṅka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rathavaṅka. See Ravivaṭṭa ??
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathavaṅka. Xem Ravivaṭṭa ??
 
 ## Notes

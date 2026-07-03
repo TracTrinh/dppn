@@ -5,7 +5,7 @@ base_headword: "Pālita"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pālita 02. A *rājakumāra* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pālita 02. Một vị hoàng tử (*rājakumāra*) của thành Sumaṅgala. Ngài cùng người bạn của mình, Sabbadassī, con trai của vị giáo sĩ tư tế, đã viếng thăm Piyadassī Buddha và dâng cúng vật thực cho Ngài trong bảy ngày, sau đó họ gia nhập Tăng đoàn, đắc quả *Arahant* theo đúng tiến trình. Về sau, họ trở thành hai vị đệ tử hàng đầu của Piyadassī Buddha. Bv.xiv.20; Bv­a.176; Ja.i.39.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uggārāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uggārāma. A pleasance, probably near the village <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu vui chơi, có lẽ gần ngôi làng Kuṇḍiya của những người Kuru. Aṅgaṇika Bhāradvāja được nói là đã từng đến thăm nó một lần. Xem thêm Ugga (8). Thag­a.i.339.
 
 ## Notes

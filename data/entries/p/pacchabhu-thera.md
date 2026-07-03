@@ -5,7 +5,7 @@ base_headword: "Pacchābhū Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pacchābhū Thera. The teacher of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacchābhū Thera. Bậc đạo sư của Malitavambha (Thag.vs.105; Thag­a.i.211); từ này có lẽ có nghĩa là “sinh ra ở phương tây”; xem bên dưới.
 
 ## Notes

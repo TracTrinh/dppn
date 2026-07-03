@@ -5,7 +5,7 @@ base_headword: "Guṇamuninda"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Guṇamuninda. A Rājaguru of Burma. Sās.132, 143.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇamuninda. Một Rājaguru của Miến Điện. Sās.132, 143.
 
 ## Notes

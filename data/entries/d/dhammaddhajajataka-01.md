@@ -5,7 +5,7 @@ base_headword: "Dhammaddhajajātaka"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -35,6 +35,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammaddhajajātaka 01. (Ja 220). Bodhisatta có lần được sinh làm Dhammaddhaja, vị tư tế của Yasapāṇī, vua xứ Benares. Một ngày nọ vị thủ lĩnh quân đội của nhà vua, Kāḷaka, vốn có thói quen nhận hối lộ, đã đưa ra một phán quyết sai trái trong một vụ án, và Bodhisatta, khi được cầu viện đến, đã xét xử lại vụ án và phán quyết ủng hộ nguyên đơn. Dân chúng vô cùng tán thưởng và nhà vua đã bổ nhiệm ngài làm thẩm phán. Nhưng Kāḷaka, với mong muốn tìm một cớ để giết chết Dhammaddhaja, đã thuyết phục nhà vua rằng ngài đang trở nên quá được lòng dân, và nhà vua đã giao cho ngài nhiều nhiệm vụ bất khả thi. Dhammaddhaja, với sự giúp đỡ của Sakka, đã hoàn thành tất cả. Một ngày nọ nhà vua ra lệnh cho ngài tìm một người giữ vườn có bốn đức hạnh, và một lần nữa, với sự trợ giúp của Sakka, Bodhisatta đã phát hiện ra Chattapāṇī, người thợ cạo của nhà vua. Khi được hỏi, Chattapāṇī đã nói với nhà vua rằng ông không có tính đố kỵ, không uống rượu, không có những ham muốn mãnh liệt, không bao giờ để cơn giận chi phối; sau đó ông kể lại những câu chuyện về các kiếp quá khứ của mình, những trải nghiệm từ đó đã khiến ông từ bỏ những ác pháp này (để biết chi tiết, xem Chattapāṇī 2). Rốt cuộc, nhà vua đã phát hiện ra sự xảo trá của Kāḷaka và đã ra lệnh xử tử hắn.
+
+*Jātaka* này được kể liên quan đến những nỗ lực nhằm giết chết Đức Phật của Devadatta. Devadatta được nhận diện là Kāḷaka và Sāriputta là Chattapāṇī. Ja.ii.186-96.
 
 ## Notes

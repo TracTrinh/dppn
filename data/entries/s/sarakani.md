@@ -5,7 +5,7 @@ base_headword: "Sarakāṇi"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sarakāṇi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sarakāṇi. Một người Sākyan. Khi ông qua đời, Đức Phật tuyên bố rằng ông là một bậc *Sotāpanna*, chắc chắn đạt đến giác ngộ. Nhưng nhiều người Sākyan nói về ông một cách khinh miệt, cho rằng ông đã thất bại trong việc rèn luyện và đã sa vào việc uống rượu. Mahā Nāma báo cáo điều này với Đức Phật, Ngài nói rằng Sarakāṇi đã, trong một thời gian dài, quy y Phật, Pháp, và Tăng đoàn, và sở hữu những phẩm chất bảo vệ ông khỏi việc tái sinh trong địa ngục, trong những loài động vật thấp kém nhất và cõi ngạ quỷ (*Peta*). SN.v.375f.
 
 ## Notes

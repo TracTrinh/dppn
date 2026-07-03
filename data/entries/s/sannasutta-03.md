@@ -5,7 +5,7 @@ base_headword: "Saññāsutta"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saññāsutta 03. To get rid of thoughts of sense desire, ill-will and harm, the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Để loại bỏ những ý niệm về ham muốn giác quan, ác ý và sự hãm hại, những mặt đối lập của chúng phải được trau dồi. AN.iii.446.
 
 ## Notes

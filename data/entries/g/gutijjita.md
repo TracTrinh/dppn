@@ -5,7 +5,7 @@ base_headword: "Gutijjita"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -24,6 +24,6 @@ Gutijjita. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gutijjita. Một Pacceka Buddha, có tên xuất hiện trong một danh sách các danh xưng. MN.iii.70; Ap­a.i.107.
 
 ## Notes

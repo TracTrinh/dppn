@@ -5,7 +5,7 @@ base_headword: "Padumā"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumā 01. Chief of the women patrons of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumā 01. Người đứng đầu trong số các nữ thí chủ của Anomadassī Buddha. Bv.viii.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paccaya"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ It is said that in the time of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccaya 01. Paccaya Thera. Một vị *Arahant*. Ngài xuất thân từ một gia đình quý tộc của Rohī (Rohiṇī) và kế thừa tài sản của cha mình. Một lần nọ, khi ngài đang tổ chức một buổi lễ cúng tế, một số lượng lớn người đã tụ tập lại, và Đức Phật, khi đến giữa họ, đã thuyết pháp từ trên không trung, ngồi trong một điện thờ nạm ngọc do Vessavaṇa làm cho ngài. Paccaya đã lắng nghe bài pháp và xuất gia, đạt được quả vị *Arahant* trong một vài ngày, và không rời khỏi am thất của mình cho đến khi ngài phát triển được sự thấu suốt.
+
+Người ta nói rằng vào thời của Kassapa Buddha, Paccaya là một tỳ-kheo đã từ chối rời khỏi *vihāra* cho đến khi ngài đạt được sự thấu suốt, nhưng ngài đã qua đời trước khi mục đích của mình được hoàn thành. Trước đó, chín mươi mốt *kappa* trước, ngài đã tình cờ gặp Vipassī Buddha trên bờ sông Vinatā, và đã dâng cúng cho ngài một quả sung (*udumbara*) (Thag. vss. 222-4; Thag­a.i.341f). Ngài có lẽ được đồng nhất với Udumbaraphaladāyaka của Apadāna. Ap.i.295.
 
 ## Notes

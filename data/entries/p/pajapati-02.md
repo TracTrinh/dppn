@@ -5,7 +5,7 @@ base_headword: "Pajāpatī"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -36,6 +36,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajāpatī 02. Một trong những vị vua của chư thiên, được nhắc đến cùng với Sakka, Varuṇa, Isāna, v.v. SN.i.219; DN.i.244; trong Ja.v.28 ông được nhắc đến cùng với Varuṇa và Soma; xem thêm DN.ii.274; DN­a.iii.709.
+
+Buddhaghosa nói (SN­a.i.262) rằng, giữa chư thiên, ông có ngoại hình giống Sakka và sống thọ ngang bằng, nhưng trong hội chúng ông ngồi ở vị trí thứ hai. Đôi khi ông được nhắc đến cùng với Phạm thiên (Brahma), nhưng tách biệt với Ngài. Ja.vi.568, 571; MN.i.140, 327, 329.
+
+Trong Āṭānāṭiyasutta (DN.iii.204), ông được nhắc đến trong số các Đại Yakkha (*Mahā* Yakkhas), để các tín đồ của Đức Phật cầu khẩn trong lúc nguy nan.
 
 ## Notes

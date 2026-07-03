@@ -5,7 +5,7 @@ base_headword: "Na tumhāka Vagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Na tumhāka Vagga. The fourth chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na tumhāka Vagga. Phẩm thứ tư của Khandhasaṁyutta (SN.3.33-42).
 
 ## Notes

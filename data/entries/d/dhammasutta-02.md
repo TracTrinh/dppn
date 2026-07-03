@@ -5,7 +5,7 @@ base_headword: "Dhammasutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -23,6 +23,6 @@ Dhammasutta 02. On ten matters to be continually considered by an ascetic. AN.v.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasutta 02. Về mười vấn đề cần được một nam tu sĩ khổ hạnh liên tục suy xét. AN.v.87f.
 
 ## Notes

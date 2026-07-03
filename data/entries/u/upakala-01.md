@@ -5,7 +5,7 @@ base_headword: "Upakāla"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upakāla 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakāla 01. Một vị Pacceka Buddha được đề cập trong một danh sách các vị Pacceka Buddha. MN.iii.70; Ap­a.i.107.
 
 ## Notes

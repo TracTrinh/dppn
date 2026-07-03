@@ -5,7 +5,7 @@ base_headword: "Uccaṅkuṭṭha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uccaṅkuṭṭha. A locality in South India; it was the residence of many famou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở Nam Ấn Độ; nó là nơi cư trú của nhiều thủ lĩnh quân đội nổi tiếng, những người mà Kulasekhara đã thu phục về phe mình trong cuộc chiến chống lại Parakkamabāhu I. Cv.lxxvii.78.
 
 ## Notes

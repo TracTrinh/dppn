@@ -5,7 +5,7 @@ base_headword: "Isidattasutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Isidattasutta 01. Records the questions of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidattasutta 01. Ghi lại những câu hỏi của Cittagahapati và những câu trả lời do Isidatta Thera đưa ra về sự đa dạng của các giới. SN.iv.283-5.
 
 ## Notes

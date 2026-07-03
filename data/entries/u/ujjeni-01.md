@@ -5,7 +5,7 @@ base_headword: "Ujjenī"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -71,6 +71,24 @@ The Jātakas speak of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjenī 01. Thủ đô của Avanti. Trong thời của Đức Phật, Caṇḍappajjota (Vin.i.276; Dhp­a.i.192) là vua của Ujjenī và có sự giao thiệp hữu nghị giữa thành phố đó và Magadha, nơi vị vua là Seniya Bimbisāra. Tuy nhiên, sau khi Bimbisāra qua đời, Pajjota dường như đã dự tính một cuộc chiến chống lại Ajātasattu. Xem MN.iii.7.
+
+Có một tuyến đường thương mại cũ từ Ujjenī đến Benares và các thương nhân của hai thành phố đã thể hiện sự cạnh tranh lành mạnh không chỉ trong thương mại, mà còn trong các vấn đề văn hóa. Xem, ví dụ, Ja.ii.248ff., nơi các thương nhân của Benares so sánh nhạc sĩ Guttila của họ với Mūsila, người chơi vĩ cầm chính của Ujjenī.
+
+Trong khi đi cùng một đoàn lữ hành đến Ujjenī, Soṇa Kuṭikaṇṇa (4) đã gặp một *Peta*, lời nói của người này khiến ngài quyết định từ bỏ đời sống gia đình (Ud­a.307f).
+
+Con đường mà các đệ tử của Bāvarī đi đã chạy qua Ujjenī (Sn.vs.1011).
+
+Ujjenī cũng là nơi sinh của Mahā Kaccāna (Thag­a.i.483), của Isidāsī (Thīg.v.405), của Abhaya (Thag­a.41) và của kỹ nữ Padumavatī, mẹ của Abhayā (Thīg­a.39).
+
+Trước khi kế vị ngai vàng của cha mình tại Pāṭaliputta, Asoka đã cai trị trong vài năm với tư cách là Phó vương tại Ujjenī, và chính trong thời kỳ này Mahinda và Saṅghamittā đã ra đời (Mhv.xiii.10ff; Mbv.99; Vin-a.i.70).
+
+Mahinda đã sống sáu tháng tại Dakkhiṇagirivihāra ở Ujjenī, trước khi ngài đến thăm Tích Lan (Mhv.xiii.5).
+
+Từ cùng *vihāra* này, bốn mươi ngàn tỳ-kheo đã có mặt, dưới sự dẫn dắt của Mahā Saṅgharakkhita, tại nền móng của Mahā Thūpa ở Anurādhapura (Mhv.xxix.35).
+
+Các Jātaka nói về Ujjenī như là thủ đô của Avanti từ những thời rất cổ xưa, ví dụ, trong Ja.iv.390, nơi Avanti Mahā Rāja cai trị ở Ujjenī với tư cách là thủ đô của Avanti. Nhưng trong Mahā Govindasutta (DN.ii.235), Māhissatī được đề cập là thủ đô của Avanti. Có lẽ Māhissatī đã mất đi sự quan trọng của nó về sau và nhường chỗ cho Ujjenī, vì chúng ta thấy Māhissatī được đề cập ngay trước Ujjenī trong số những nơi mà các đệ tử của Bāvarī đã đi qua trên đường họ đến Sāvatthī (Sn.vs.1011).
+
+Ujjenī đồng nhất với tiếng Hy Lạp Ozene, khoảng 77° Đông và 23° Bắc (*Buddhist India*, p.40; cũng xem CAGI.560, và Beal-Xuan.ii.270 cho phần mô tả của Huyền Trang về nó).
 
 ## Notes

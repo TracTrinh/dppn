@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandā 05. A nun, sister of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 05. Một tỳ-kheo-ni, em gái của Thullanandā. Hai người em gái khác của cô là Nandavatī và Sundarīnandā. Vin.iv.211, 259.
 
 ## Notes

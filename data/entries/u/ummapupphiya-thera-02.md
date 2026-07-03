@@ -5,7 +5,7 @@ base_headword: "Ummāpupphiya Thera"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Ummāpupphiya Thera 02. An Arahant. In a past birth he saw <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ummāpupphiya Thera 02. Một vị Arahant. Trong một kiếp quá khứ, ngài đã nhìn thấy Siddhattha Buddha đang chìm đắm trong *samādhi* và đã dâng lên ngài, để tỏ lòng tôn kính, những bông hoa màu xanh da trời (hoa *ummā*), tạo thành một tán che trên đầu Đức Phật. Về sau, Ummāpupphiya được tái sinh ở Tusita. Năm mươi lăm *kappa* trước, ngài là một vị vua tên là Samantacchadana. Ap.i.258.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jetuyyāna"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jetuyyāna. Another name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jetuyyāna. Một tên gọi khác của Jetavana, ví dụ, Mhv.i.56.
 
 ## Notes

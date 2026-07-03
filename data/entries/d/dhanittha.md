@@ -5,7 +5,7 @@ base_headword: "Dhaniṭṭha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhaniṭṭha. A king of thirteen *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaniṭṭha. Một vị vua của mười ba *kappa* trước, một tiền kiếp của Saṇṭhita. Ap.i.210.
 
 ## Notes

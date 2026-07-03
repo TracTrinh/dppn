@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "22"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nanda 22. A distinguished monk in the time of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 22. Một vị tỳ-kheo xuất chúng vào thời của Parakkamabāhu I. Ông sống trong tu viện Selantara, và được bổ nhiệm làm vị Lãnh đạo của ba hội chúng ở Rohaṇa. Cv.lxxviii.10.
 
 ## Notes

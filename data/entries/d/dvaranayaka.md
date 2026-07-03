@@ -5,7 +5,7 @@ base_headword: "Dvāranāyaka"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Dvāranāyaka. A village in Ceylon, given by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvāranāyaka. Một ngôi làng ở Tích Lan, được Aggabodhi IV ban tặng cho việc duy trì *padhānaghara* do ông xây dựng cho Dāṭhāsiva (Cv.xlvi.13).
 
 ## Notes

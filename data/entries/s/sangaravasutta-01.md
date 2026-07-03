@@ -5,7 +5,7 @@ base_headword: "Saṅgāravasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅgāravasutta 01. The 100th *Sutta* of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāravasutta 01. Bài kinh (*Sutta*) thứ 100 của Majjhimanikāya. Nó chứa một ghi chép về cuộc thảo luận giữa Đức Phật và Bà-la-môn (*Brāhmaṇa*) Saṅgārava của Candalakappa. Xem Saṅgārava. MN.ii.209ff.
 
 ## Notes

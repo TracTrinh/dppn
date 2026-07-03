@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "13"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nanda 13. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 13. Xem Nanda Vaccha.
 
 ## Notes

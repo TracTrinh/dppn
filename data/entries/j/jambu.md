@@ -5,7 +5,7 @@ base_headword: "Jambu"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jambu. A village, in command of which was a Tamil general of the same name, whom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambu. Một ngôi làng, nằm dưới quyền chỉ huy của một tướng quân Tamil cùng tên, người đã bị Duṭṭhagāmaṇī giết chết. Mhv.xxv.15.
 
 ## Notes

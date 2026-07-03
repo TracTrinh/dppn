@@ -5,7 +5,7 @@ base_headword: "Sareheru"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sareheru. A tank in Ceylon, restored by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sareheru. Một hồ chứa nước ở Tích Lan, được Vijayabāhu I phục hồi. Cv.ix.48.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rāmā"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rāmā 01. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāmā 01. Một trong hai nữ đệ tử chính của Paduma Buddha. Ja.i.36; Bv.ix.22, gọi bà là Rādhā.
 
 ## Notes

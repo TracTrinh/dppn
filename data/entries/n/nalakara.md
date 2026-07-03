@@ -5,7 +5,7 @@ base_headword: "Naḷakāra"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -37,6 +37,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakāra. Bodhisatta đản sinh là một thiên nhân ở Tāvatiṁsa. Trong tiền kiếp của mình, ngài từng là một nông dân ở Benares. Một ngày nọ, khi đang đi đến ruộng của mình, ngài nhìn thấy một vị Pacceka Buddha. Sau đó, ngài quay lại, đưa vị Pacceka Buddha về nhà, thỉnh ngài thọ thực, và cùng với con trai mình, xây dựng cho ngài một túp lều có vách bằng lau sậy trên bờ sông Ganges, chăm sóc ngài trong những mùa an cư và cúng dường y phục cho ngài mặc.
+
+Khi Sumedhā, hoàng hậu của Suruci, khao khát có một người con trai, Naḷakāra đã đồng ý tái sinh làm con trai của bà theo yêu cầu của Sakka; sau đó ngài được gọi là Mahā Panāda (Ja.iv.318-23). Về phần con trai của ngài, xem Saṅkha (DN­a.iii.806f).
 
 ## Notes

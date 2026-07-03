@@ -5,7 +5,7 @@ base_headword: "Sañjīva"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sañjīva 03. A Brahmin who could bring the dead to life; see the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjīva 03. Một Bà-la-môn có thể làm cho người chết sống lại; xem Sañjīvajātaka (Ja 150). Ông được đồng nhất với Ajātasattu. Ja.i.511.
 
 ## Notes

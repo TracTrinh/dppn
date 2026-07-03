@@ -5,7 +5,7 @@ base_headword: "Rakkhaka"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rakkhaka 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhaka 03. Rakkhaka Saṅkhanāyaka. Một sĩ quan của Parakkamabāhu I., người đã đóng quân tại Hillapattakakhaṇḍa. Cv.lxxii.41.
 
 ## Notes

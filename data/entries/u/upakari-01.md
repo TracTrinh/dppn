@@ -5,7 +5,7 @@ base_headword: "Upakārī"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Upakārī 01. A city of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakārī 01. Một thành phố của người Pañcāla (Ja.vi.448, 450, 458, 459). Tại đây là lối vào đường hầm mà qua đó Vua Vedeha đã trốn thoát đến Mithilā, như được kể lại trong Mahā Ummaggajātaka (*q.v.*).
 
 ## Notes

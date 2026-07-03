@@ -5,7 +5,7 @@ base_headword: "Ukkhepakaṭa Vaccha Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -38,6 +38,10 @@ Fifty-five *kappas* ago he was a king named <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ukkhepakaṭa Vaccha Thera. Ngài là con trai của một Bà-la-môn thuộc gia tộc Vaccha. Sau khi nghe Đức Phật thuyết pháp, ngài gia nhập Tăng đoàn và sống trong một ngôi làng ở Kosala. Ngài học giáo lý từ nhiều vị tỳ-kheo khác nhau đến đó vào từng thời điểm, nhưng mãi cho đến khi ngài học từ Sāriputta ngài mới có thể phân biệt được giữa *Sutta*, *Vinaya* và Abhidhamma. Do đó ngài trở nên thông thạo Ba *Piṭaka* thậm chí từ trước kỳ Kết tập đầu tiên (về điều này xem *Brethren*, 66. chú thích 1). Ngài thực hành thiền định và nhanh chóng đạt được quả vị *Arahant* (Thag.v.65; Thag­a.i.147f). Về sau ngài trở thành một vị giảng sư giáo pháp. Theo Dhammapāla (Thag­a.i.149), biệt danh *Ukkhepakaṭa* được đặt cho ngài vì ngài có thể giảng dạy và đọc tụng các đoạn từ ba *Piṭaka* “đặt chúng vào bối cảnh thích hợp của chúng, tùy theo việc chúng thuộc về mỗi *Piṭaka*.” Danh hiệu này nhằm nhấn mạnh vốn kho tàng giáo lý đáng kể mà ngài đã học thuộc lòng.
+
+Ngài từng là một gia chủ vào thời của Siddhattha Buddha và đã giúp đỡ một hội thợ xây dựng một hội trường cho Đức Phật bằng cách tặng họ một cây cột cho tòa nhà.
+
+Năm mươi lăm *kappa* trước, ngài là một vị vua tên là Yasodhara và hai mươi mốt *kappa* trước là một vị vua khác tên là Udena. Các cung điện bảy tầng của ngài đều được xây dựng trên một cây cột duy nhất. Ngài có lẽ được đồng nhất với Ekatthambhika Thera của Apadāna (i.56-7).
 
 ## Notes

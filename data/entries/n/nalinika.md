@@ -5,7 +5,7 @@ base_headword: "Naḷinikā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Naḷinikā. Daughter of the king of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷinikā. Con gái của vua Kāsi. Cô đã quyến rũ Isisiṅga. Về câu chuyện của cô, xem Naḷinikājataka (Ja 526).
 
 ## Notes

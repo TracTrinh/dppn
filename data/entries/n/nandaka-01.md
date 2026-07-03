@@ -5,7 +5,7 @@ base_headword: "Nandaka"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -58,6 +58,16 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandaka 01. Nandaka Thera (*v.l.* Nanda Thera). Một nam cư sĩ ở Sāvatthī (Apadāna (ii.499) nói rằng ông thuộc về một gia tộc thương nhân giàu có và ông đã gia nhập Tăng đoàn tại buổi lễ khánh thành Jetavana.)
+
+Sau khi gia nhập Tăng đoàn sau khi nghe một bài pháp thoại của Đức Phật, ông đã phát triển tuệ quán và chẳng bao lâu đã chứng quả vị *Arahant*. Có lần, theo yêu cầu của Đức Phật, ông đã thuyết pháp cho các tỳ-kheo-ni; vào ngày đầu tiên họ đã trở thành những *Sotāpanna*, và vào ngày thứ hai, năm trăm vị trong số họ đã chứng quả vị *Arahant*. Kể từ đó Đức Phật đã tuyên bố ông là vị đệ tử tối thắng trong số những vị giáo giới tỳ-kheo-ni (AN.i.25). Bài pháp thoại mà ông đã thuyết giảng được biết đến là Nandakovādasutta (*q.v.*). Aṅguttara Commentary (AN-a.i.173) nói rằng các tỳ-kheo-ni này là những thiếu nữ Sākyan đã gia nhập Tăng đoàn cùng với Pajāpatī. Lúc đầu Nandaka không muốn thuyết pháp cho họ, vì họ đã từng là những người vợ của ông trong một tiền kiếp khi ông làm vua, và ông sợ sự vu khống của các đồng phạm hạnh của mình, những người có thể ám chỉ rằng ông muốn nhìn thấy những người bạn đồng hành cũ của mình. Do đó, ông đã cử một tỳ-kheo khác thay thế ông; nhưng Đức Phật, biết rằng chỉ có bài thuyết pháp của Nanda mới có thể mang lại sự giải thoát cho các tỳ-kheo-ni này, đã khăng khăng yêu cầu ông phải đi.
+
+Theragāthā có chứa một vài bài kệ được ông thốt lên với một người phụ nữ mà ông đã từng kết hôn (vs.279-82). Cô đã gặp ông đang đi khất thực ở Savatthi và mỉm cười với ông với một tâm trí tội lỗi.
+
+Nguyện vọng đạt đến sự tối thắng của ông đã được hình thành vào thời của Padumuttara Buddha, khi ông nghe một vị đệ tử của vị Phật đó được tuyên bố là vị đệ tử tối thắng trong số những vị giáo giới tỳ-kheo-ni. Ông đã cúng dường cho Đức Phật một chiếc y rất đắt giá và thắp sáng cây Bodhi của Ngài. Vào thời của Kakusandha Buddha, ông là một con chim *karavīka* và đã làm Đức Phật vui lòng bằng tiếng hót của mình. Sau này, ông là một con công, và đã hót ba lần mỗi ngày trước cửa túp lều của một vị Pacceka Buddha (Thag­a. i.384f). Những bài kệ Apadāna được đưa ra trong bối cảnh này khác với những bài kệ được đưa ra trong chính Apadāna (ii 499 f.).
+
+Aṅguttaranikāya gán hai bài kinh cho Nandaka. Bài đầu tiên (AN.i.193f. Xem s.v., Sāḷha) được thuyết giảng tại Migāramātupāsāda và mang hình thức của một cuộc thảo luận với Sāḷha, cháu trai của Migāra, và Rohaṇa, cháu trai của Pekkhuṇiya về lòng tham, sự thèm muốn, ác ý và si mê, cùng với những lợi ích đi kèm sau khi chúng bị tiêu diệt. Bài thứ hai là một bài pháp thoại được thuyết giảng cho các tỳ-kheo tại hội trường chờ ở Jetavana. Người ta nói rằng Đức Phật đã bị thu hút đến nơi đó bởi âm thanh bài thuyết pháp của Nandaka, và khi thấy cửa bị khóa, Ngài đã đứng bên ngoài một lúc lâu để lắng nghe (AN.iv.358ff.; trong suốt cả ba canh đêm, theo lời của Commentary, AN­a.ii.794; cũng xem MN­a.i.348). Khi lưng Ngài bắt đầu đau nhức, Ngài đã gõ cửa, và sau khi bước vào, đã nói với Nandaka rằng Ngài đã chờ đợi cho đến khi bài pháp thoại của ông kết thúc để nói chuyện với ông. Nandaka đã bày tỏ sự ân hận của mình vì đã để Đức Phật phải chờ đợi và xin biện hộ cho sự không hay biết về sự hiện diện của Ngài. Đức Phật, nhận thức được sự hối hận của Nandaka, đã tiếp tục tán dương bài thuyết pháp của ông, và nói rằng việc thuyết giảng những bài pháp thoại như vậy là bổn phận của tất cả các tỳ-kheo mộ đạo. Khi Đức Phật rời đi, Nandaka đã tiếp tục bài thuyết pháp của mình, và nói cho thính chúng của mình về năm lợi ích của việc lắng nghe Dhamma vào đúng thời điểm.
+
+Majjhima Commentary (ii.1019) nói rằng Nandaka đã từng là người đứng đầu một nhóm gồm năm trăm nô lệ của Benares và Pajāpatī Gotamī là vợ của ông. Một ngày nọ, trong khi đang đi lấy nước, vợ ông đã chú ý thấy năm trăm vị Pacceka Buddha đi vào thành phố, và khi trở về, bà đã chứng kiến sự rời đi của họ. Khi gạn hỏi, bà biết được rằng họ đã nộp đơn xin một thương nhân cung cấp chỗ ở cho mùa mưa, nhưng ông ta đã không thể giúp đỡ. Bà đã đảm nhận việc chăm sóc cho họ và, sau khi đã kêu gọi sự ủng hộ của tất cả những người bạn của mình và chồng của họ, bà và chồng mình đã hộ độ cho các vị Pacceka Buddha. Kết quả là, họ đã được tái sinh làm vợ chồng cùng nhau trong nhiều kiếp, và những người giúp đỡ họ cũng vậy. Trong một kiếp nọ, Nandaka là vua, và tất cả những người phụ nữ đó đều trở thành những người vợ của ông. Trong kiếp này, những người phụ nữ này đã được tái sinh làm những người bạn đồng hành của Pajāpatī, và họ đã xuất gia theo bà. Nandakovādasutta đã được thuyết giảng cho họ.
 
 ## Notes

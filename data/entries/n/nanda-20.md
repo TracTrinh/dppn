@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "20"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nanda 20. Nine kings, called the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 20. Chín vị vua, được gọi là Nava Nandā, đã trị vì ở Ấn Độ sau triều đại của Kāḷāsoka và các con trai của ông (Mhv.v.15). Vị đầu tiên của Nava Nandā là một tên cướp đã chiếm đoạt ngai vàng. Tên của họ được liệt kê trong Mahā Bodhivaṁsa như sau: Uggasena Nanda, Paṇḍuka Nanda, Paṇḍugati Nanda, Bhūtapāla Nanda, Raṭṭhapāla Nanda, Govisānaka Nanda, Dasasiddhaka Nanda, Kevaṭṭa Nanda và Dhana Nanda (p.98; xem chi tiết trong Mhv­ṭ.177-9). Vị cuối cùng đã bị giết bởi Candagutta với sự giúp đỡ của Cāṇakka, và ngai vàng của ông ta đã bị chiếm đoạt. Chín vị Nanda đã trị vì tổng cộng trong hai mươi hai năm.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattakammapathasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sattakammapathasutta. On seven courses of action. SN.ii.167.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattakammapathasutta. Về bảy đường lối hành động. SN.ii.167.
 
 ## Notes

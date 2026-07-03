@@ -5,7 +5,7 @@ base_headword: "Upadhi"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upadhi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upadhi. Một vị Pacceka Buddha, người có tên xuất hiện trong một danh sách các tên. Ap­a.i.107.
 
 ## Notes

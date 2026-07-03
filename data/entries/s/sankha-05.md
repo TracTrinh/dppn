@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅkha 05. One of the treasure troves which arose from the earth for the use o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 05. Một trong những kho báu đã trồi lên từ mặt đất để dành cho sự sử dụng của Bodhisatta trong kiếp sống tại gia cuối cùng của ngài. Chúng đã xuất hiện vào ngày ngài sinh ra. DN­a.i.284.
 
 ## Notes

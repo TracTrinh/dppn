@@ -5,7 +5,7 @@ base_headword: "Osadhī"
 disambiguator: "01"
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -33,6 +33,12 @@ It is also used in similes to typify constancy, like the star <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Osadhī 01. Sao mai, được dùng trong việc mô tả sự trắng sáng tiêu biểu (*odātā*, *odātavaṇṇā*, v.v...) (DN.ii.111), và cũng như sự chói lọi và thanh tịnh vô cùng (*parisuddha-Osadhātārakā viya*) (It.20; MN­a.ii.638, 772; cũng xem Vsm.ii.412).
+
+Buddhaghosa nói (MN­a.ii.714) rằng nó được gọi như vậy vì, khi nó xuất hiện trên bầu trời, mọi người hái thuốc và uống chúng theo dấu hiệu của nó (*sukkā tārakā tassā udayato paṭṭhāya tena saññāṇena osadhāni gaṇhanti pi pivanti pi: tasmā Osadhī tārakā ti vuccati*.)
+
+Chú giải Itivuttaka (Iti-a.72) đưa ra một cách giải thích khác: rằng nó chứa đựng những tia sáng chói lọi, và nó mang lại hiệu năng cho nhiều loại thuốc khác nhau (*ussannā pabhā etāya dhīyati osadhīnaṁ vā anubalappadāyikattā Osadhī*).
+
+Nó cũng được sử dụng trong các ví dụ để làm tiêu biểu cho sự kiên định, giống như ngôi sao Osadhī, trong tất cả các mùa, luôn giữ đúng quỹ đạo của nó và không bao giờ chệch hướng khỏi đó (*sabba-utusu attano gamanavīthiṁ vijahitvā aññāya vīthiyā na gacchati sakavīthiyā va gacchati*). (Bv­a.89)
 
 ## Notes

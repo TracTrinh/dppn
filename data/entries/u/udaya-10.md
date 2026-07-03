@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "10"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Udaya 10. King of Ceylon, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Tích Lan, Udaya IV (sau Công nguyên 945-953). Ông là một người bạn của Sena III (có lẽ là em trai của ông, xem Ep. Zey ii.59) và đã là *yuvarāja* của ông ta. Khi Sena băng hà, Udaya đã kế vị ông và trị vì trong tám năm. Trong thời gian trị vì của ông, những người Coḷa đã xâm lược Tích Lan, nhưng đã bị đẩy lùi (Cv.liii.28, 39ff; cũng xem Cv.Trs.i.177, n.2). Trong số các hoạt động tôn giáo của ông có sự kiến lập Maṇipāsāda, thứ mà, tuy nhiên, ông đã không thể hoàn thành. Cv.liv.48.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Govaraṭṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Govaraṭṭha. A district in South India (the modern Goa). <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govaraṭṭha. Một quận ở Nam Ấn Độ (Goa ngày nay). Vimaladhammasūriya đã từng lánh nạn ở đó. Cv.xciv.2.
 
 ## Notes

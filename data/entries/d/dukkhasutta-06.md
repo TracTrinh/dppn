@@ -5,7 +5,7 @@ base_headword: "Dukkhasutta"
 disambiguator: "06"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dukkhasutta 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhasutta 06. Sāriputta nói với Jambukhādaka về ba loại khổ, do sự đau đớn, do các hành và do bản chất thay đổi của các pháp. SN.iv.259.
 
 ## Notes

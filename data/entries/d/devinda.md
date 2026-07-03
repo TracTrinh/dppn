@@ -5,7 +5,7 @@ base_headword: "Devinda"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devinda. A minister of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devinda. Một vị đại thần của Vua Vedeha. Câu chuyện của ông được đưa ra trong Mahā Ummaggajātaka (Ja 546). Ông được nhận diện là Pilotika. Ja.vi.478.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhanavāpī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanavāpī. One of the three tanks constructed by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanavāpī. Một trong ba hồ chứa nước được xây dựng bởi Moggallāna II thông qua việc đắp đập ngăn dòng Kadambanadī. Cv.xli.62.
 
 ## Notes

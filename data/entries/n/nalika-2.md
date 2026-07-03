@@ -5,7 +5,7 @@ base_headword: "Nāḷika"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nāḷika. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāḷika. Một ngọn núi ở Himavā, trên đường đến hồ Mucalinda. Vessantara đã đi ngang qua nó trên đường đến Vaṅkagiri. Ja.vi.518, 519.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "11"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -32,6 +32,8 @@ Nanda’s wealth was proverbial, e.g., Pv.ii.1 (vs. 16), iii.2 (vs.16).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 11. Vua của Benares, một tiền kiếp của Mahā Kassapa. Ông thuộc về một gia đình nghèo khó, nhưng nhờ phước báu của việc đã đắp một tấm phủ bằng vàng lên *cetiya* của Kassapa Buddha, ông đã được tôn làm vua của Benares. Ông có một cây *kapparukkha*, cung cấp cho ông và thần dân của ông những y phục cõi trời. Với sự giúp đỡ của hoàng hậu – người đã trở thành Bhaddakapilā trong kiếp này – ông đã tổ chức một buổi đại bố thí cho năm trăm vị Pacceka Buddha, dẫn đầu bởi Mahā Paduma, và cúng dường cho họ cho đến khi họ viên tịch. Nanda đã đi vắng để dẹp loạn ở biên giới vào thời điểm họ viên tịch. Khi trở về, ông đã trao lại vương quốc cho người con trai cả và trở thành một đạo sĩ. Ap.ii.582; Thag­a.ii.139ff.; SN­a.ii.140f.; câu chuyện này cũng được tìm thấy ở Pv-a.73ff.; ở đó người ta nói rằng Nanda được ban cho y phục cõi trời vì có lần ông đã tặng chiếc khăn choàng của mình cho một vị Pacceka Buddha để làm y; xem thêm Thīg­a.72.
+
+Sự giàu có của Nanda đã trở nên nổi tiếng, vd., Pv.ii.1 (vs. 16), iii.2 (vs.16).
 
 ## Notes

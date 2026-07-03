@@ -5,7 +5,7 @@ base_headword: "Dhammasutta"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasutta 03. Devadatta đã mang lại sự chia rẽ vào Tăng đoàn bởi vì, nơi ông, các điều kiện của kamma tốt đẹp đã bị đoạn trừ. SN.ii.240.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dussa Thūpa"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,8 @@ Among the wonders performed by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dussa Thūpa. Một bảo tháp (*Thūpa*) được xây dựng ở cõi *Brahma* bởi Ghaṭīkāra, tôn thờ các y phục mà Gotama Buddha đã mặc vào lúc ngài xuất gia. Nó được xây bằng các loại đá quý và cao mười hai do-tuần (Dāṭhāvaṁsa, vs.35).
+
+Trong số những phép lạ được Bhaddaji thực hiện, một phép lạ là nâng tháp này trên lòng bàn tay duỗi thẳng của mình và cho đám đông chiêm ngưỡng. Mhv.xxxi.11; Mhv­ṭ.562.
 
 ## Notes

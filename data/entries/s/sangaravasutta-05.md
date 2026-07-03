@@ -5,7 +5,7 @@ base_headword: "Saṅgāravasutta"
 disambiguator: "05"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅgāravasutta 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāravasutta 05. Saṅgārava đến thăm Đức Phật và hỏi Ngài về khả năng ghi nhớ các thần chú. Giống như Số 3 ở trên. AN.iii.230f.
 
 ## Notes

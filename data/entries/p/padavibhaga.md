@@ -5,7 +5,7 @@ base_headword: "Padavibhāga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padavibhāga. A grammatical work by a monk named <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padavibhāga. Một tác phẩm ngữ pháp của một tỳ-kheo tên là Ñāṇa. Bode, 71.
 
 ## Notes

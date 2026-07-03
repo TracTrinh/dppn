@@ -5,7 +5,7 @@ base_headword: "Javahaṁsaka Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Javahaṁsaka Thera. An *Arahant*. He was once a forester, and having seen <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Javahaṁsaka Thera. Một vị *Arahant*. Ngài từng là một người kiểm lâm, và sau khi nhìn thấy Siddhattha Buddha, ngài đã vô cùng hài lòng đến mức đã đảnh lễ ngài. Ap.i.232f.
 
 ## Notes

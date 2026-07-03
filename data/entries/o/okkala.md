@@ -5,7 +5,7 @@ base_headword: "Okkalā"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -27,6 +27,6 @@ Okkalā. The people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Okkalā. Dân chúng của *janapada* Okkala (MN­a.ii.894); cũng được nhắc đến trong Apadāna (ii.359) ở một danh sách các bộ tộc. Xem Ukkalā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ovādavagga"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Ovādavagga. The third section of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ovādavagga. Phần thứ ba của các điều luật Pācittiya trong Suttavibhaṅga. Vin.iv.49-69; cũng xem v.16-18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udakapūjaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Trong một kiếp trước, ngài đã nhìn thấy Padumuttara Buddha đang du hành qua không trung và mong muốn dâng cho ngài một ít nước. Do đó, ngài đã ném một ít nước vào không trung, mà Đức Phật, vì lòng từ bi, đã dừng lại để nhận lấy.
+
+Sáu mươi lăm *kappa* trước, Udakapūjaka đã trở thành vua ba lần dưới tên là Sahassarāja (Ap.i.142-3).
+
+Ngài có lẽ đồng nhất với Kuṭivihāriya Thera. Thag­a.i.129.
 
 ## Notes

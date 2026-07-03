@@ -5,7 +5,7 @@ base_headword: "Dhanavatī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhanavatī. A Brahmin lady, mother of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanavatī. Một phu nhân Bà-la-môn, mẹ của Kassapa Buddha. Chồng của bà là Brahmadatta. DN.ii.7; Ja.i.43; Bv.xxv.34; Snp­a.i.280.
 
 ## Notes

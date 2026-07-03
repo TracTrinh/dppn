@@ -5,7 +5,7 @@ base_headword: "Goyāniya"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Goyāniya. A shortened form of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goyāniya. Một hình thức rút gọn của Aparagoyāna. Ja.iv.278, 279; Ap.i.18; ii.348.
 
 ## Notes

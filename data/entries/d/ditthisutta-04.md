@@ -5,7 +5,7 @@ base_headword: "Diṭṭhisutta"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Diṭṭhisutta 04. A monk who possesses dispassionate, benevolent and harmless 
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Diṭṭhisutta 04*. Một tỳ-kheo sở hữu những suy nghĩ ly tham, từ bi và vô hại cùng với chánh kiến được đảm bảo cho sự giải thoát. AN.ii.76.
 
 ## Notes

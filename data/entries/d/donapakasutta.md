@@ -5,7 +5,7 @@ base_headword: "Doṇapākasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Doṇapākasutta. Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Doṇapākasutta*. Có lần Pasenadi, cảm thấy khó chịu và hụt hơi sau một bữa ăn thịnh soạn, đã đến thăm Đức Phật. Đức Phật đã khuyên nhủ ông về những tác hại của thói phàm ăn và đã dạy cho chàng thanh niên Sudassana, người đi cùng với Pasenadi, một bài kệ để lặp lại bất cứ khi nào thức ăn được dọn ra trước mặt nhà vua. Nhà vua đã trả cho chàng thanh niên một trăm kahāpaṇa mỗi ngày cho việc phục vụ này. Pasenadi đã được hưởng lợi từ bài học này và trở nên khỏe mạnh. SN.i.81; Dhp­a.iii.264f đưa ra một phiên bản đầy đủ hơn của câu chuyện này. Tại đó Sudassana được mô tả là cháu trai của nhà vua. Đây cũng có lẽ là sự việc được đề cập tại Dhp­a.iv.15f; nhưng thanh niên ở đó được gọi là Uttara.
 
 ## Notes

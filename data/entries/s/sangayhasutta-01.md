@@ -5,7 +5,7 @@ base_headword: "Saṅgayhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṅgayhasutta 01. On the six spheres of contact – eye, ear, etc. – and the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgayhasutta 01. Về sáu xứ tiếp xúc – mắt, tai, v.v. – và sự cần thiết của việc thu thúc chúng để đoạn trừ dục tham và sân hận. SN.iv.70f.
 
 ## Notes

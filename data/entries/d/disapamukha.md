@@ -5,7 +5,7 @@ base_headword: "Disāpāmukha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -27,6 +27,6 @@ Disāpāmukha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Disāpāmukha. Một Yakkha canh gác, cùng với bảy ngàn Yakkha khác, tại cánh cổng thứ bảy của cung điện của Jotika. Dhp­a.iv.209.
 
 ## Notes

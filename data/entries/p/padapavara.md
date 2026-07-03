@@ -5,7 +5,7 @@ base_headword: "Pādapāvara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pādapāvara. Seven *kappas* ago there were four kings of this name, previous bi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādapāvara. Bảy *kappa* trước, có bốn vị vua mang tên này, là những tiền kiếp của Sattapaduminiya Thera. Ap.i.254.
 
 ## Notes

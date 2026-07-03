@@ -5,7 +5,7 @@ base_headword: "Padumakūṭāgāriya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padumakūṭāgāriya Thera. An *Arahant*. In the time of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumakūṭāgāriya Thera. Một vị *Arahant*. Vào thời của Piyadassī Buddha, ngài là một thợ săn và khi nhìn thấy Đức Phật, ông đã dựng cho Ngài một túp lều mái nhọn che phủ bằng hoa sen, nơi Đức Phật đã lưu lại suốt bảy ngày. Sau đó, theo ý nguyện của Đức Phật, vị tỳ-kheo thị giả Sudassana của Ngài đi cùng hàng ngàn tỳ-kheo đã đến, và Đức Phật thọ ký về tương lai của người thợ săn. Ap.i.326f.
 
 ## Notes

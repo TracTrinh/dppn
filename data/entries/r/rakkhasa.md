@@ -5,7 +5,7 @@ base_headword: "Rakkhasa."
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rakkhasa. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhasa. Một vị quan của Sena I. Ông đã xây dựng một nơi ở, được đặt theo tên ông, trong Abhayuttaravihāra. Cv.l.84.
 
 ## Notes

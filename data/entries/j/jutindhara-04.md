@@ -5,7 +5,7 @@ base_headword: "Jutindhara"
 disambiguator: "04"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jutindhara 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutindhara 04. Một *Yakkha* của Udumbampabbata, chồng của Cetiyā. Ông ta đã bị giết trong cuộc chiến ở Sirisavatthu. Mhv­ṭ.289.
 
 ## Notes

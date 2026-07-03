@@ -5,7 +5,7 @@ base_headword: "Rajatamayalena"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rajatamayalena. A cave in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajatamayalena. Một hang động ở Ambilajanapada nơi có năm trăm vị *Arahant* sinh sống. Một ngày nọ, một vị trong số này bị đau dạ dày và mười ngàn đồng tu của ngài đã bay đến để chăm sóc ngài. Tất cả đều tìm được chỗ trong hang động nhờ vào thần thông (*iddhi*) của họ. Mhv\u1e6d. 552.
 
 ## Notes

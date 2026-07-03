@@ -5,7 +5,7 @@ base_headword: "Dhanapāla"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhanapāla 02. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanapāla 02. Một *seṭṭhi* ở Erakaccha tại Dasanna. Ông là một kẻ bủn xỉn và, sau khi chết, đã tái sinh làm một ngạ quỷ. Một số thương nhân, đi đến Uttarāpatha, đã nhìn thấy những nỗi thống khổ của ông và, theo lời yêu cầu của ông, đã thay mặt ông cúng dường lên vị Phật. Pv.ii.7; Pv-a.99ff.
 
 ## Notes

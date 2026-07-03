@@ -5,7 +5,7 @@ base_headword: "Jambuka"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jambuka 03. A dog, companion of the she-goat in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambuka 03. Một con chó, người bạn đồng hành của con dê cái trong Pūtimaṁsajātaka (Ja 437). Ja.iii.535.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Satadhamma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Satadhamma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satadhamma, Santadhamma. Một thanh niên của Benares. Xem Satadhammajātaka (Ja 179).
 
 ## Notes

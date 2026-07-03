@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "01"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Indriyasutta 01. The monk possessed of six qualities – the five *indriyas* (*s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 01. Vị tỳ-kheo sở hữu sáu phẩm chất - năm *indriya* (*saddhā*, v.v...), và sự giải thoát tâm đạt được bởi việc đoạn tận các *āsava* - thì xứng đáng với những đồ cúng dường, v.v... AN.iii.281.
 
 ## Notes

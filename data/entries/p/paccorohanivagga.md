@@ -5,7 +5,7 @@ base_headword: "Paccorohaṇīvagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paccorohaṇīvagga. The twelfth section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccorohaṇīvagga. Phần thứ mười hai của Dassakanipāta thuộc Aṅguttaranikāya (AN.v.222-37). Một trong những *Sutta* đề cập đến sự “hạ phạm tâm linh” (*paccorohaṇi*); do đó, có lẽ đây là tên của *Vagga*.
 
 ## Notes

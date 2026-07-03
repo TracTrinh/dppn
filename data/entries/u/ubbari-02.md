@@ -5,7 +5,7 @@ base_headword: "Ubbarī"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -34,6 +34,8 @@ She is probably to be identified with the queen of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Cūḷanī Brahmadatta, vua của Kapila trong vương quốc Pañcāla. Bà là con gái của một người phụ nữ nghèo trong làng, và nhà vua đã gặp bà khi đang lang thang trong vỏ bọc một người thợ may, sự cải trang mà ông đã giả định để tự mình tìm hiểu tin tức của người dân. Bà được ban cho cái tên Ubbarī vào ngày cưới của mình, và Cūḷanī đã đưa bà làm chánh hậu của mình. Khi nhà vua băng hà, bà đi đến nghĩa trang ngày này qua ngày khác, than khóc cho người chồng đã khuất của mình và từ chối được an ủi. Một ngày nọ, Bodhisatta, một vị tu sĩ khổ hạnh ở Himavā, đã chú ý đến bà bằng thiên nhãn của mình và xuất hiện trước mặt bà. Sau khi nghe câu chuyện của bà, ngài đã chỉ ra cho bà rằng tám mươi sáu ngàn vị vua của Pañcāla, tất cả đều mang tên Cūḷanī Brahmadatta, đã bị thiêu trong chính nơi đó và rằng bà đã là hoàng hậu của tất cả bọn họ. Ngay sau đó, Ubbarī đã từ bỏ sự đau buồn của mình và xuất gia. Bà đã phát triển những ý nghĩ từ bi và đến đúng thời điểm đã được tái sinh ở cõi Phạm thiên (Pv.32; Pv-a.160-8).
+
+Bà có thể được đồng nhất với hoàng hậu của Cūḷanī Brahmadatta, vua của Pañcāla, được đề cập trong Mahā Ummaggajātaka (Ja.vi.473, 475), trong trường hợp đó tên gốc của bà là Nandādevī. Theo nhà chú giải (Ja.vi.473), Ubbarī không phải là một tên riêng mà có nghĩa là bất kỳ người phụ nữ nào của triều đình (*orodha*).
 
 ## Notes

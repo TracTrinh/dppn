@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "11"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udaya 11. Younger brother and *yuvarāja* of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người em trai và *yuvarāja* của Sena V. Trong cuộc cãi vã của Sena với mẹ của mình, Udaya đã đứng về phía bà. Cv.liv.58, 63.
 
 ## Notes

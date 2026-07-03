@@ -5,7 +5,7 @@ base_headword: "Jiṇṇasutta"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jiṇṇasutta 02. Similar to the above. The Buddha tells them that the whole wo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jiṇṇasutta 02. Tương tự như trên. Đức Phật bảo họ rằng toàn bộ thế giới đang bị thiêu rụi bởi tuổi già và cái chết và rằng chỉ có những gì được gìn giữ mới là hữu ích. Những việc làm công đức mang lại hạnh phúc sau khi chết. AN.i.156.
 
 ## Notes

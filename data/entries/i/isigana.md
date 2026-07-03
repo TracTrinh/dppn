@@ -5,7 +5,7 @@ base_headword: "Isigaṇa"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Isigaṇa. Perhaps the name of a <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isigaṇa. Có lẽ là tên của một Pacceka Buddha, người từng bị Bodhisatta nhục mạ. Tuy nhiên, cách đọc này rất không chắc chắn. Ap.i.299; xem chú thích.
 
 ## Notes

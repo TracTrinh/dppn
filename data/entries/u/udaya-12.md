@@ -5,7 +5,7 @@ base_headword: "Udaya"
 disambiguator: "12"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udaya 12. *Senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tướng quân (*Senāpati*) của Sena V. Ông đã được bổ nhiệm bởi nhà vua trong khi vị tướng quân thực sự đang đi vắng ở vùng đất biên giới. Khi vị tướng quân thực sự nghe về việc bổ nhiệm, ông đã kéo quân đánh lại nhà vua và đánh bại các lực lượng của nhà vua. Sena đã bị buộc phải thỏa hiệp với vị tướng quân và trục xuất Udaya ra khỏi đất nước. Cv.liv.61, 68.
 
 ## Notes

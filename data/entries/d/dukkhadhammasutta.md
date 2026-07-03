@@ -5,7 +5,7 @@ base_headword: "Dukkhadhammasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dukkhadhammasutta. When a monk knows the arising and the destruction of all stat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhadhammasutta. Khi một vị tỳ-kheo biết được sự sinh diệt của mọi trạng thái khổ, vị ấy liễu tri được bản chất của dục lạc và không còn khao khát chúng. Điều này được giải thích bằng nhiều ví dụ khác nhau. SN.iv.188ff.
 
 ## Notes

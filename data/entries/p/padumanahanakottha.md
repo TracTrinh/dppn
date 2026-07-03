@@ -5,7 +5,7 @@ base_headword: "Padumanahānakoṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padumanahānakoṭṭha. A bathing pool in the form of a lotus, built in <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumanahānakoṭṭha. Một hồ tắm hình hoa sen, được Parakkamabāhu I xây dựng ở Pulatthipura. Cv.lxxviii.45.
 
 ## Notes

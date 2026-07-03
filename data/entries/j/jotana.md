@@ -5,7 +5,7 @@ base_headword: "Jotanā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jotanā. A commentary by an unknown author. Gv.65, 75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotanā. Một bản chú giải của một tác giả vô danh. Gv.65, 75.
 
 ## Notes

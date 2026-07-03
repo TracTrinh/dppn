@@ -5,7 +5,7 @@ base_headword: "Dhātusena"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhātusena 01. A householder of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusena 01. Một gia chủ ở Nandivāpigāma, cha của Dāṭhānāma. Cv.xxxviii.14.
 
 ## Notes

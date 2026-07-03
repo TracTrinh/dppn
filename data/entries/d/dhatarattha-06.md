@@ -5,7 +5,7 @@ base_headword: "Dhataraṭṭha"
 disambiguator: "06"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhataraṭṭha 06. The family of *haṁsas* to which belonged <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhataraṭṭha 06. Gia tộc ngỗng *haṁsa* mà Dhataraṭṭha, vua của loài *haṁsa*, thuộc về. Các thành viên của gia tộc này được gọi là Dhataraṭṭhā. Chúng có màu vàng kim và sống ở Cittakūṭa. Mahā Sutasomajātaka (Ja 537, Ja.v.345, 355, 357) có chứa một câu chuyện về sự diệt vong hoàn toàn của những con *haṁsa* này. Chúng sống trong Kañcanaguhā, và trong bốn tháng mùa mưa sẽ không rời khỏi hang của mình, phòng khi cánh của chúng bị ướt sũng nước và chúng rơi xuống biển. Một con nhện, to bằng bánh xe bò, thường dệt một mạng nhện dày ở lối vào hang, nhưng những con ngỗng Dhataraṭṭha đã cử một trong những con non của chúng, con đã nhận được hai phần thức ăn, đi cắt đứt mạng nhện đó. Tuy nhiên, có một mùa, những cơn mưa kéo dài suốt bốn tháng, và những con *haṁsa* đã ăn thịt đồng loại và do đó mất đi sức mạnh của chúng. Khi kết thúc mùa mưa, chúng cố gắng phá vỡ mạng nhện, chúng đã thất bại, và con nhện đã cắt đứt đầu từng con một và uống máu của chúng. Đây là sự kết thúc của bầy *haṁsa* Dhataraṭṭha. Ja.v.469f.
 
 ## Notes

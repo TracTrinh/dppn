@@ -5,7 +5,7 @@ base_headword: "Sarabhaṅgajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -73,6 +73,16 @@ The Buddha identified <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng sinh ra là con trai của *Purohita* của vua nước Benares. Ông được gọi là Jotipāla bởi vì, vào ngày ông sinh ra, đã có một ánh hào quang của tất cả các loại binh khí rực sáng trong khoảng cách mười hai do-tuần xung quanh Benares. Điều này cho thấy ông sẽ trở thành cung thủ đệ nhất của toàn Ấn Độ.
+
+Sau khi được giáo dục ở Takkasilā, ông trở về Benares và phục vụ cho nhà vua, nhận được một ngàn mỗi ngày. Khi những người hầu cận của nhà vua phàn nàn về điều này, nhà vua đã ra lệnh cho Jotipāla phải biểu diễn kỹ năng của mình. Ông đã làm như vậy, trước sự chứng kiến của sáu mươi ngàn cung thủ. Bằng cung và tên, ông đã thực hiện mười hai hành động phô diễn kỹ năng vô song và chẻ đôi bảy vật cứng. Sau đó, ông bắn một mũi tên xuyên qua một *furlong* nước và hai *furlong* đất và xuyên qua một sợi tóc ở khoảng cách nửa *furlong*. Mặt trời lặn khi kết thúc buổi biểu diễn này, và nhà vua hứa sẽ bổ nhiệm ông làm tổng tư lệnh vào ngày hôm sau. Nhưng trong đêm, Jotipāla cảm thấy chán ghét đời sống gia đình, và, ra đi không báo trước, đã đi vào Kapiṭṭhavana bên dòng Godhāvarī và tại đó trở thành một tu sĩ khổ hạnh. Theo lệnh của Sakka, Vissakamma đã xây một am thất cho ông, trong đó ông sống, phát triển những năng lực *iddhi* lớn. Khi cha mẹ ông và nhà vua cùng đoàn tùy tùng đến thăm ông, ông đã biến cải họ sang đời sống tu sĩ khổ hạnh, và những người đi theo ông chẳng bao lâu đã lên đến nhiều ngàn người.
+
+Ông có bảy người học trò là Sālissara, Meṇḍissara, Pabbata, Kāḷadevala, Kisavaccha, Anusissa và Nārada. Khi Kapiṭṭhavana trở nên quá đông đúc, Jotipāla, lúc này được biết đến với tên gọi Sarabhaṅga, đã cử các học trò của mình đi đến các vùng khác nhau của đất nước: Sālissara đến Lambacūḷaka, Meṇḍissara đến Sātodikā, Pabbata đến núi Añjana, Kāḷadevala đến Ghanasela, Kisavaccha đến Kumbhavatī và Nārada đến Arañjara, trong khi Anusissa ở lại với ông. Khi Kisavaccha, vì sự ngu xuẩn của một kỹ nữ, bị vua Daṇḍakī của nước Kumbhavatī và quân đội của ông ta đối xử tệ bạc, Sarabhaṅga đã nghe vị tổng tư lệnh của nhà vua kể về hành động bạo ngược này và đã cử hai học trò của mình đến mang Kisavaccha trên một chiếc kiệu về am thất. Tại đó ông đã qua đời, và khi tang lễ của ông được cử hành, trong phạm vi nửa do-tuần xung quanh giàn hỏa táng của ông đã có một trận mưa hoa trời rơi xuống.
+
+Bởi vì hành động bạo ngược đã gây ra đối với Kisavaccha, sáu mươi do-tuần của vương quốc Daṇḍakī đã bị phá hủy cùng với nhà vua. Khi tin tức này lan truyền khắp nơi, ba vị vua Kaliṅga, Aṭṭhaka và Bhīmaratha nhớ lại những câu chuyện về những hình phạt tương tự khác đã xảy ra sau những lời lăng mạ đối với những bậc thánh nhân, đã đến thăm Sarabhaṅga để tìm ra chân lý của vấn đề. Họ gặp nhau trên bờ sông Godhāvarī, và tại đó Sakka đã tham gia cùng với họ. Sarabhaṅga đã cử Anusissa ra chào đón họ và khoản đãi họ, và, khi họ đã nghỉ ngơi, ông cho phép họ đặt câu hỏi. Sarabhaṅga đã giải thích cho họ làm thế nào Daṇḍaka, Nāḷikīra, Ajjuna và Kalābu, tất cả đều bị sinh vào địa ngục do họ đối xử tệ bạc với các bậc thánh nhân, và tiếp tục giảng giải cho họ về quy luật đạo đức. Ngay khi ông đang nói, ba vị vua đã tràn ngập mong muốn xuất gia, và khi kết thúc bài thuyết pháp của Sarabhaṅga, họ đã trở thành những tu sĩ khổ hạnh, dưới sự dẫn dắt của ông.
+
+Câu chuyện được kể lại để đề cập đến cái chết của Moggallāna (*xem mục này*). Người ta nói rằng sau khi Moggallāna bị những tên cướp tấn công và bỏ mặc cho đến chết, ông đã tỉnh lại, và, bay đến chỗ Đức Phật, đã xin phép ngài để được viên tịch. Sáu cõi *Deva* tràn ngập sự xôn xao lớn, và, sau khi ông qua đời, chư thiên đã mang đến những lễ vật gồm hoa và hương dâng lên giàn hỏa táng của ông, được làm bằng gỗ đàn hương và chín mươi chín món đồ quý giá. Khi thi hài được đặt lên giàn hỏa táng, hoa rơi như mưa trong phạm vi một do-tuần xung quanh và trong bảy ngày đã có một lễ hội lớn. Đức Phật đã cho thu thập xá-lợi và cất giữ trong một bảo tháp ở Veḷuvana.
+
+Đức Phật đồng nhất Moggallāna với Kisavaccha và kể lại *Jātaka* này. Trong số những người khác, Sālissara là Sāriputta, Meṇḍissara là Kassapa, Pabbata là Anuruddha, Devala là Kaccāyana, và Anusissa là Ānanda. Ja.v.125-51.
 
 ## Notes

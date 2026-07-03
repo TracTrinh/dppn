@@ -5,7 +5,7 @@ base_headword: "Jitamitta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jitamitta. The chief disciple of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jitamitta. Vị đệ tử chính của Nārada Buddha (Ja.i.37). Xem thêm Vijitamitta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dujjaya"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dujjaya. A king of a past age, a previous birth of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dujjaya. Một vị vua của một thời đại quá khứ, một tiền kiếp của Cūḷa Cunda Thera. Ap.i.102.
 
 ## Notes

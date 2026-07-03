@@ -5,7 +5,7 @@ base_headword: "Dhamma"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhamma 02. The palace built by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhamma 02. Cung điện được xây dựng bởi Vissakamma cho Mahā Sudassana, theo lệnh của Sakka. DN.ii.180ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,8 @@ According to the Commentary (DN­a.iii.856), he was one of two cane workers (*na
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 03. Một vị vua trong tương lai, người sẽ là Cakkavatti (Chuyển luân vương) của Ketumatī vào thời điểm sự xuất hiện của Metteyya Buddha trên thế gian. Ông sẽ nâng lên một lần nữa cung điện của Vua Mahā Panāda và sống ở đó. Nhưng sau này ông sẽ cúng dường nó cho Tăng đoàn và trở thành một bậc *Arahant*. DN.iii.75f.; Anāg. p. 42 (vs. 10).
+
+Theo Chú giải (DN­a.iii.856), ông là một trong hai người thợ mây tre (*naḷakārā*), hai cha con, những người đã làm một túp lều cho một Pacceka Buddha. Sau khi chết, cả hai đều được sinh ra trên cõi trời. Người con trai trở thành Mahā Panāda, và, sau này, là Bhaddaji. Người cha hiện ở cõi *Deva* và sẽ tái sinh thành Saṅkha. Cung điện của Mahā Panāda vẫn chưa bị phá hủy, sẵn sàng để ông sử dụng.
 
 ## Notes

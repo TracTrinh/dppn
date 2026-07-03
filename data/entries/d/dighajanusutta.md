@@ -5,7 +5,7 @@ base_headword: "Dīghajānusutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghajānusutta. Records the visit of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghajānusutta*. Ghi lại chuyến viếng thăm của Dīghajānu đến Đức Phật (AN.iv.281ff).
 
 ## Notes

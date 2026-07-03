@@ -5,7 +5,7 @@ base_headword: "Nāgitasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgitasutta 02. The circumstances are the same as those of No. 1. The Buddha te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgitasutta 02. Hoàn cảnh giống như của bài số 1. Đức Phật nói với Nāgita rằng Ngài hài lòng với những tỳ-kheo không sống trong làng, mà tìm đến khu rừng và gạt đi những lợi lộc và sự tâng bốc, nhưng đối với Ngài, điều tốt nhất là bước đi trên con đường lớn mà không vướng bận. AN.iii.341ff.; cp. sđd., iv.341ff.
 
 ## Notes

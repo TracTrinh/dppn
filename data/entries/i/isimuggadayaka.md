@@ -5,7 +5,7 @@ base_headword: "Isimuggadāyaka"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -28,6 +28,8 @@ As a result, forty-four *kappas* ago he was born thirty-eight times as king, his
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isimuggadāyaka. Một vị Thera. Ông đã cúng dường *isimugga* trộn mật ong cho Padumuttara Buddha và 108.000 tỳ-kheo.
+
+Kết quả là, bốn mươi bốn *kappa* trước, ông được sinh làm vua ba mươi tám lần, tên của ông là Mahisamanta. Ap.i.193-4.
 
 ## Notes

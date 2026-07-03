@@ -5,7 +5,7 @@ base_headword: "Ujjhaggikavagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Ujjhaggikavagga. The second division of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjhaggikavagga. Phần thứ hai của Sekhiyā thuộc Vinayapiṭaka (Vin.iv.187-8).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jālinī"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jālinī 02. A goddess of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jālinī 02. Một nữ thần ở cõi Tāvatiṁsa, một người vợ trước đây của Anuruddha. Có lần khi thấy ngài già yếu, bà đã hiện ra trước mặt ngài ở Kosala và khuyên ngài nên ước nguyện được tái sinh trong số chư thiên. Anuruddha bảo bà rằng sẽ không còn sự tái sinh nào đối với ngài nữa. SN.i.200; Thag.vs.908; Thag­a.ii.73; SN­a.i.226.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅgāmaji Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -35,6 +35,12 @@ The Buddha saw all this with his divine eye and expressed his joy in verse. Ud.i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅgāmaji Thera. Ông là con trai của một trưởng giả (*seṭṭhi*) rất giàu có ở Benares. Khi ông đến tuổi trưởng thành, cha mẹ ông đã cưới vợ cho ông và ông có một người con trai. Một ngày nọ, ông tham gia một nhóm người đi đến Jetavana, và, vào lúc kết thúc bài pháp thoại của Đức Phật, đã xin Đức Phật cho ông xuất gia. Nhưng Đức Phật muốn ông phải có sự cho phép của cha mẹ mình. Ông chỉ đạt được điều này với sự khó khăn lớn nhất và với lời hứa sẽ đến thăm họ sau đó. Sau khi xuất gia, ông sống trong một khu rừng, và ngay sau đó đạt quả vị *Arahant*.
+
+Khi ông trở về Sāvatthī, sau khi đã đảnh lễ Đức Phật, ông dành buổi trưa dưới một gốc cây. Cha mẹ ông, nghe tin về sự xuất hiện của ông, đã đến gặp ông. Những nỗ lực của họ để thuyết phục ông trở lại đời sống thế tục quá khăng khăng, và ông thậm chí sẽ không nói chuyện với họ. Họ trở về trong sự bối rối và gửi vợ và con trai ông đến cho ông. Vợ ông đã khẩn cầu ông với nhiều lý lẽ khác nhau, nhưng ông từ chối cả việc nhìn cô. Sau đó cô đặt đứa trẻ vào lòng ông và bỏ đi. Khi cô phát hiện ra rằng Saṅgāmaji thậm chí sẽ không nói chuyện với con trai mình, cô đã đưa đứa bé đi, nói rằng chồng cô là một người đàn ông vô dụng.
+
+Đức Phật đã thấy tất cả những điều này bằng thiên nhãn của Ngài và bày tỏ niềm hoan hỷ của mình bằng một bài kệ. Ud.i.8; Ud-a.71ff.; bài kệ được trích dẫn tại Netti, p.150.
+
+Posiya Thera là em trai của Saṅgāmaji. Thag­a.i.97.
 
 ## Notes

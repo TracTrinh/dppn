@@ -5,7 +5,7 @@ base_headword: "Rajjusutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rajjusutta. Gains, favors and flattery are like a cord cutting through a man’s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajjusutta. Lợi dưỡng, sự ân sủng và những lời xu nịnh giống như một sợi dây thừng cắt qua da thịt của một người vào tận trong tủy. SN.ii.238.
 
 ## Notes

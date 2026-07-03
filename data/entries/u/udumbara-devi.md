@@ -5,7 +5,7 @@ base_headword: "Udumbara Devī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ In the present age she was <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Piṅguttara. Bà là con gái của một vị thầy giáo ở Takkasilā và đã được gả cho Piṅguttara bởi vì ông là người học trò lớn tuổi nhất. Nhưng ông đã không hạnh phúc với bà, và trên đường về nhà của ông, khi bà leo lên một cây sung (*udumbara*) để hái quả cho chính mình, ông đã đặt những cái gai quanh cái cây và chạy trốn, bỏ bà lại. Nhà vua, đi ngang qua, đã nhìn thấy bà và cưới bà. Bà được gọi là Udumbara Devī bởi vì các hoàn cảnh mà trong đó bà đã được tìm thấy. Khi nhà vua nghi ngờ bà có sự không chung thủy với ông, Mahosadha đã cứu bà khỏi sự ô nhục, và từ đó bà trở thành người bạn tốt nhất của ngài và giúp đỡ ngài trong tất cả những việc làm của ngài, đối xử với ngài, với sự cho phép của nhà vua, như người em trai của bà. Khi nhà vua lên kế hoạch để giết Mahosadha, Udumbara Devī đã cảnh báo ngài kịp thời và giúp ngài có thể trốn tránh sự phản bội của những kẻ thù của ngài tại triều đình (Ja.vi.348, 352, 355, 363, 368, 384).
+
+Trong thời đại hiện tại bà là Diṭṭhamaṅgalikā (Ja.vi.478).
 
 ## Notes

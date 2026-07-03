@@ -5,7 +5,7 @@ base_headword: "Dukkhena Sutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -23,6 +23,6 @@ Dukkhena Sutta. Desire should be put away for that which has suffering inherent 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhena Sutta. Nên dứt bỏ tham ái đối với những gì có sự khổ vốn có trong nó. SN.iii.178.
 
 ## Notes

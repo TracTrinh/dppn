@@ -5,7 +5,7 @@ base_headword: "Rajanīyasaṇṭhitasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rajanīyasaṇṭhitasutta. The *khandhas* have lust inherent in them. Desire fo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajanīyasaṇṭhitasutta. Các *khandha* vốn dĩ đã có sẵn tham ái trong chúng. Ham muốn đối với chúng phải được từ bỏ. SN.iii.79.
 
 ## Notes

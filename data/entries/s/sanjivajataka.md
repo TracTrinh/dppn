@@ -5,7 +5,7 @@ base_headword: "Sañjīvajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjīvajātaka (Ja 150). Bodhisatta từng là một vị đạo sư nổi tiếng ở Benares, và trong số các học trò của ngài có một thanh niên Bà-la-môn, Sañjīva, người đã được dạy một câu thần chú để làm cho người chết sống lại, nhưng không được dạy câu thần chú hóa giải. Một ngày nọ, anh ta cùng với những người bạn đồng hành của mình đi vào rừng, và họ tình cờ bắt gặp một con hổ chết. Anh ta đã đọc câu thần chú và làm cho nó sống lại. Con hổ ngay lập tức giết chết anh ta và ngã lăn ra chết một lần nữa.
+
+Câu chuyện được kể lại liên quan đến Ajātasattu sau chuyến viếng thăm của ông tới Đức Phật. Đức Phật nói rằng nếu không vì tội giết cha của mình thì ông đã trở thành một *Sotāpanna*, nhưng bởi vì sự liên kết từ sớm của ông với Devadatta, ông đã phạm vô số ác nghiệp và tự đóng lại khả năng đó. Sañjīva được đồng nhất với Ajātasattu. Ja.i.508-11.
 
 ## Notes

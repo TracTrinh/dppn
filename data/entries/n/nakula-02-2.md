@@ -5,7 +5,7 @@ base_headword: "Nakulā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nakulā 02. Chief of the lay women who supported <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakulā 02. Trưởng nữ cư sĩ đã ủng hộ Đức Phật Sobhita. Bv.vii.23.
 
 ## Notes

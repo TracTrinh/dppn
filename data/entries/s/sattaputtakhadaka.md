@@ -5,7 +5,7 @@ base_headword: "Sattaputtakhādakā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattaputtakhādakā. A *Petī* who ate seven of her children because of a false 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattaputtakhādakā. Một nữ ngạ quỷ (*Petī*) đã ăn thịt bảy đứa con của mình vì một lời thề giả dối mà bà đã thề trong một tiền kiếp. Cf. Pañcaputtakhādakā. Pv.i.7; Pv-a.36f.
 
 ## Notes

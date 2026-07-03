@@ -5,7 +5,7 @@ base_headword: "Pajāpatī"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pajāpatī 01. A name given to <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajāpatī 01. Một tên gọi dành cho Māra, vì ông ta sử dụng quyền lực của mình lên tất cả chúng sinh. MN.i.2; MN­a.i.28.
 
 ## Notes

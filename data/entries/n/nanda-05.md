@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nanda 05. A herdsman of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 05. Một người chăn gia súc của Anāthapiṇḍika, sống ở Sāvatthī. Ông rất giàu có và cũng chăn giữ gia súc cho nhà vua. Ông thường xuyên đến nhà của Anāthapiṇḍika cùng với những món quà, và tại đó ông đã được diện kiến và nghe Đức Phật thuyết pháp. Ông đã mời Đức Phật đến nhà mình, nhưng lời mời của ông không được chấp nhận trong một thời gian, cho đến khi trí tuệ của ông chín muồi. Nhưng cuối cùng Đức Phật cũng đã đến viếng thăm ông, chuyến viếng thăm kéo dài bảy ngày, và Nanda đã khoản đãi Ngài cùng các tỳ-kheo của Ngài bằng những thức ăn ngon nhất. Vào ngày thứ bảy, Đức Phật đã thuyết pháp cho ông và ông đã trở thành một *Sotāpanna*. Ông đã tiễn Đức Phật một đoạn đường trở về *vihāra*, nhưng trên đường quay về, ông đã bị giết bởi mũi tên của một người thợ săn. Dhp­a.i.322f.
 
 ## Notes

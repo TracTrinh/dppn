@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhappakāsinī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sāraṭṭhappakāsinī, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhappakāsinī, Chú giải Saṁyutta. Chú giải của Buddhaghosa về Saṁyuttanikāya, được viết theo yêu cầu của Jotipāla, một tỳ-kheo. Gv.59; Sās-d.58.
 
 ## Notes

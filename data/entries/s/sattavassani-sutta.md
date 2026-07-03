@@ -5,7 +5,7 @@ base_headword: "Sattavassāni Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sattavassāni Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattavassāni Sutta. Māra đến gần Đức Phật dưới cội cây Ajapālanigrodha ở Uruvelā, và tham gia vào một cuộc trò chuyện với Ngài. Y cầu xin Đức Phật đi dạo giữa loài người, kết bạn và sống hạnh phúc, mãn nguyện với việc đã khám phá ra con đường bất tử cho chính mình mà không cảm thấy cần thiết phải giảng dạy cho người khác. Nhưng Đức Phật từ chối lời cầu xin của y, và Māra thú nhận rằng y không còn bất kỳ quyền lực nào đối với Ngài; y giống như một con cua đã bị bẻ gãy từng cái càng một. Bài *Sutta* nói thêm rằng Māra đã chờ đợi một cơ hội để tìm ra một khuyết điểm ở Đức Phật trong bảy năm. Phần Chú giải nói thêm: sáu năm trước khi Giác ngộ và một năm sau đó. Y lùi lại trong sự thất bại và ngồi cách Đức Phật không xa, trầm ngâm suy nghĩ, lấy một cây gậy cào xuống đất. SN.i.122ff.
 
 ## Notes

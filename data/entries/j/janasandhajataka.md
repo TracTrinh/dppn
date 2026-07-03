@@ -5,7 +5,7 @@ base_headword: "Janasandhajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Janasandhajātaka (Ja 468). Bodhisatta có một lần được sinh ra làm Janasandha, con trai của Brahmadatta, vua xứ Benares. Cậu đã học tập tại Takkasilā. Khi trở thành vua, ông đã xây dựng sáu ngôi nhà bố thí và tại đó hàng ngày đã phân phát sáu ngàn đồng tiền. Ông cai trị một cách công bình và vương quốc của ông thoát khỏi mọi sự xấu xa. Vào ngày thứ mười lăm của mỗi tháng, ông tập hợp tất cả thần dân của mình, bắt đầu với những người phụ nữ trong hoàng gia của ông, và thuyết giảng cho họ về những con đường của sự chân chánh.
+
+Câu chuyện này được kể lại cho Pasenadi khi ông buông mình vào những tội lỗi, trở nên chểnh mảng trong các bổn phận của mình và thậm chí không đến viếng thăm Đức Phật trong một thời gian dài. Ja.iv.176ff.
 
 ## Notes

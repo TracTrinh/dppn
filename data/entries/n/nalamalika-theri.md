@@ -5,7 +5,7 @@ base_headword: "Naḷamālika Therī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,10 @@ She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷamālika Therī. Một *Arahant*. Chín mươi tư kappa trước, vị này là một *kinnarā* trên bờ sông Candabhāgā, và sau khi nhìn thấy Đức Phật, đã cúng dường Ngài một vòng hoa.
+
+Vị này từng ba mươi sáu lần làm hoàng hậu của chư thiên và mười đời làm hoàng hậu trong thế giới loài người (Ap.ii.528f).
+
+Vị này có lẽ chính là Cittā Therī (Thīg­a.33f).
 
 ## Notes

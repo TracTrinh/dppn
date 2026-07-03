@@ -5,7 +5,7 @@ base_headword: "Palāsajātaka"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Palāsajātaka 01. (Ja 307). Once a poor Brahmin paid great honour to a judas tr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palāsajātaka 01. (Ja 307). Có một lần, một người Bà-la-môn nghèo khổ đã hết lòng tôn kính một cây Judas (*palāsa*), hy vọng nhờ đó mà có được chút ân huệ. Một ngày nọ, vị thọ thần hiện ra trước mặt ông dưới lớp ngụy trang và hỏi vì sao ông lại tôn kính cái cây. Hài lòng với câu trả lời của ông, vị thần đã tiết lộ danh tính của mình và giúp người Bà-la-môn lấy được kho báu được chôn giấu dưới gốc cây. Câu chuyện được kể lại cho Ānanda khi ngài đang đứng khóc, tựa đầu vào đà cửa, lúc Đức Phật sắp sửa nhập diệt. Đức Phật đã cho gọi ngài đến và khuyên ngài đừng đau buồn vì những phụng sự của ngài đối với Đức Phật sẽ không vô ích. Ānanda được nhận diện là người Bà-la-môn nghèo khổ. Ja.iii.23ff.
 
 ## Notes

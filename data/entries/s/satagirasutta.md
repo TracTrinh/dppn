@@ -5,7 +5,7 @@ base_headword: "Sātāgirasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sātāgirasutta. Another name for the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sātāgirasutta. Một tên gọi khác của Hemavatasutta (*q.v.*). Snp­a.i.194.
 
 ## Notes

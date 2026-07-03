@@ -5,7 +5,7 @@ base_headword: "Pādapūjaka Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pādapūjaka Thera 02. An *Arahant.* Ninety-one *kappas* ago he was a *Kinnara* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pādapūjaka Thera 02. Một vị *Arahant.* Chín mươi mốt *kappa* trước, ngài là một *Kinnara*, khi nhìn thấy Vipassī Buddha, ngài đã dâng cho vị ấy gỗ đàn hương, *tagara* và các loại hương liệu khác. Ap.i.246.
 
 ## Notes

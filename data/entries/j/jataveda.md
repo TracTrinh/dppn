@@ -5,7 +5,7 @@ base_headword: "Jātaveda"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jātaveda. The god of fire. The Jātakas contain references to his worship (e.g.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātaveda. Vị thần lửa. Các Jātaka có chứa những sự đề cập đến việc thờ cúng ông (ví dụ, Ja.i.214, 494; iii.17; v.452; vi.201, v.v.). Xem Aggi. Ông cũng được gọi là Aggideva.
 
 ## Notes

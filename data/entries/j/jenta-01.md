@@ -5,7 +5,7 @@ base_headword: "Jenta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jenta 01. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jenta 01. Một ngôi làng ở Magadha, nơi sinh của Jenta Thera. Thag­a.i.219.
 
 ## Notes

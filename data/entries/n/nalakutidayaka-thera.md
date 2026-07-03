@@ -5,7 +5,7 @@ base_headword: "Naḷakuṭidāyaka Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -32,6 +32,6 @@ Naḷakuṭidāyaka Thera. An *Arahant*. Thirty-one *kappas* ago he built a hous
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakuṭidāyaka Thera. Một *Arahant*. Ba mươi mốt kappa trước, ngài đã xây một túp lều bằng lau sậy gần Bhārika (Hārita) ở Himavā cho Pacceka Buddha Nārada, lợp mái bằng lau sậy và làm một con đường kinh hành có mái che gần đó. Khi tái sinh ở Tāvatiṁsa, ngài có một cung điện rộng sáu mươi do-tuần (Ap.ii.440). Ngài có lẽ chính là Valliya Thera (Thag­a.i.247). Các vần kệ tương tự cũng được gán cho Naḷagārika.
 
 ## Notes

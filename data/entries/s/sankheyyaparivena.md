@@ -5,7 +5,7 @@ base_headword: "Saṅkheyyapariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Saṅkheyyapariveṇa. A monastery in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Sāgala nơi Āyupāla và, về sau, Nāgasena, đã sống. Milinda đã đến thăm tu viện này để thảo luận với các vị tỳ-kheo này. Mil. 19, 22, v.v.
 
 ## Notes

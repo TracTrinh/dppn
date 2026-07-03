@@ -5,7 +5,7 @@ base_headword: "Satadhammajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,8 @@ The story was related in reference to monks who earned their living in the twent
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satadhammajātaka (Ja 179). Bodhisatta từng sinh ra trong một giai cấp thấp kém nhất, và một ngày nọ ngài đi trên một chuyến hành trình, mang theo thức ăn trong một chiếc giỏ. Trên đường đi, ngài gặp một thanh niên đến từ Benares tên là Satadhamma, một nhà quý tộc. Họ đi cùng nhau, và khi đến giờ ăn, vì Satadhamma không có thức ăn, nên Bodhisatta đã mời anh ta một ít. “Tôi không thể nào nhận đồ của anh,” nhà quý tộc nói, “bởi vì anh là người thấp kém nhất trong những kẻ thấp kém.” Bodhisatta ăn một ít thức ăn và cất phần còn lại đi. Vào buổi tối, họ tắm rửa, và Bodhisatta đã ăn mà không mời Satadhamma bất cứ thứ gì. Người sau đã mong đợi được hỏi lại và đang rất đói. Nhưng thấy mình không được mời gì cả, anh ta đã xin Bodhisatta một ít và ăn nó. Ngay khi anh ta vừa ăn xong, anh ta đã bị giằng xé bởi sự hối hận rằng mình đã làm nhục gia đình như vậy. Anh ta vô cùng buồn bã đến nỗi đã nôn mửa thức ăn ra, và cùng với đó là một ít máu. Anh ta lao vào trong rừng và không bao giờ được nghe tin tức gì nữa.
+
+Câu chuyện này được kể lại liên quan đến các tỳ-kheo đã kiếm sống bằng hai mươi mốt cách bất hợp pháp, như làm thầy thuốc, người đưa tin, v.v. Đức Phật đã triệu tập họ lại và cảnh báo rằng thức ăn kiếm được một cách bất hợp pháp giống như viên sắt nóng đỏ, một chất kịch độc. Nó giống như việc dự phần vào thức ăn thừa của những kẻ đê tiện nhất trong nhân loại. Ja.ii.82-5.
 
 ## Notes

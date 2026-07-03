@@ -5,7 +5,7 @@ base_headword: "Isidatta"
 disambiguator: "02"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -53,6 +53,22 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="31" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidatta 02. Một quan coi ngựa hay quan thị vệ (*thapati*) của Pasenadi, Vua xứ Kosala. Isidatta luôn được nhắc đến cùng với Purāṇa. Bổn phận của họ là trông coi những phu nhân trong hậu cung của nhà vua khi những người này cưỡi voi đi vào công viên. Điều này thường khiến họ phải tiếp xúc gần gũi với các phu nhân, và họ thú nhận với Đức Phật rằng rất khó để không có những ác niệm liên quan đến những người đó.
+
+Isidatta và Purāṇa có lần đang ở Sādhuka vì một công việc nào đó (tài sản riêng của họ, theo Buddhaghosa, SN­a.i.215). Họ nghe nói rằng Đức Phật đang nhờ may một chiếc y trước khi bắt đầu những chuyến đi của ngài và họ đã chờ đợi một cơ hội để nói chuyện với ngài. Khi cơ hội đến họ đi theo Đức Phật và thưa với ngài rằng họ luôn vui sướng biết bao khi ngài ở gần họ và buồn bã biết bao khi ngài đi du hành xa. Đức Phật thuyết cho họ nghe sự vinh quang của đời sống vô gia cư và thúc giục họ phải nỗ lực tinh tấn. Ngài nói những lời rất tán thưởng về sự trung thành của họ đối với ngài và với tôn giáo của ngài và chúc mừng họ vì đã sở hữu những phẩm chất đức hạnh, chẳng hạn như chia sẻ tất cả tài sản của mình cho những bậc thánh nhân, một phẩm chất hiếm có (SN.v.348-52; Netti. 134f).
+
+Theo Chú giải Saṁyutta (i.215), Isidatta là một *Sakadāgāmī* và Purāṇa là một *Sotāpanna*.
+
+Trong Dhammacetiyasutta (MN.ii.123f), Pasenadi thưa với Đức Phật rằng ông ấn tượng như thế nào trước sự tôn kính mà Isidatta và Purāṇa thể hiện đối với Đức Phật và những lời dạy của ngài. “Họ là những người đóng xe ngựa của con,” nhà vua nói, “và họ phụ thuộc vào con về sinh kế và tất cả những sự vinh danh của họ, thế nhưng những người này không phục vụ con với sự toàn tâm toàn ý như họ đối với Thế Tôn.”
+
+Có lần nhà vua qua đêm trong một ngôi nhà nhỏ bé chật chội. Isidatta và Purāṇa, những người đi cùng ông, sau khi đã dành phần lớn thời gian trong đêm để thảo luận về Pháp, đã nằm xuống nghỉ ngơi với đầu của họ hướng về phía mà họ nghĩ là Đức Phật đang ở, và chân của họ hướng về phía nhà vua!
+
+Isidatta là chú của nữ đệ tử Migasālā, người có cha là Purāṇa.
+
+Purāṇa được mô tả là một *brahmacāri* (người tu phạm hạnh), nhưng Isidatta thì không, thế nhưng, sau khi chết, cả hai đều được sinh ra ở Tusita. Migasālā hỏi Ānanda làm thế nào mà những người có tính cách khác nhau lại có thể có cùng một sự tái sinh. AN.iii.348f.; v.138f., 143f. Từ MN­a.ii.756, có vẻ như thể Isidatta là người *brahmacāri*. Từ này ở đây không thể mang nghĩa là “người độc thân,” vì Purāṇa ắt hẳn đã có vợ bởi vì Migasālā gọi ông là cha (*pitā*) của cô.
+
+Isidatta được Đức Phật nhắc đến trong số những người có sáu phẩm chất mang lại sự liễu ngộ cõi bất tử – sự trung thành không lay chuyển đối với Phật, Pháp và Tăng, giới hạnh của bậc Thánh, trí tuệ và sự giải thoát (AN.iii.451).
+
+Anāgatavaṁsa (v.58) nói rằng khi Metteyya Buddha tương lai rời khỏi đời sống gia đình, tám mươi bốn ngàn người khác, do Isidatta và Purāṇa dẫn đầu, sẽ đồng hành cùng ngài.
 
 ## Notes

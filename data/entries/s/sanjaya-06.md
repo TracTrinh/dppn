@@ -5,7 +5,7 @@ base_headword: "Sañjaya"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,6 @@ Sañjaya 06. Son of the Brahmin <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sañjaya 06. Con trai của Bà-la-môn Vidhura và em trai của Bhadrakāra. Xem Sambhavajātaka. Ông được đồng nhất với Sāriputta. Ja.v.67.
 
 ## Notes

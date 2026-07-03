@@ -5,7 +5,7 @@ base_headword: "Dhammika"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammika 03. An eminent lay disciple of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammika 03. Một cư sĩ xuất chúng ở Sāvatthī, một người rất uyên bác và là một *Anāgāmī*. Ông có năm trăm người đi theo, tất cả đều là *Anāgāmī*, những người, cũng giống như ông, có thể đi lại trong không trung (Snp­a.i.367). Ông là một trong những người sở hữu *sekhapaṭisambhidā* (Vsm.442; Vibh­a.388). Xem thêm Dhammikasutta 2.
 
 ## Notes

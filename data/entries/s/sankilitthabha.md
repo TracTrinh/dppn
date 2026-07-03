@@ -5,7 +5,7 @@ base_headword: "Saṅkiliṭṭhābhā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkiliṭṭhābhā. A class of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tầng lớp chư thiên. Chúng sinh được tái sinh vào thế giới của họ khi chúng đã hấp thụ ý niệm về sự rực rỡ bị hoen ố. MN.iii.147.
 
 ## Notes

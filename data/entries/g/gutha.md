@@ -5,7 +5,7 @@ base_headword: "Gūtha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -27,6 +27,8 @@ Those who insult their parents are born in this purgatory. Dhp­a.iv.34.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūtha. Một trong những địa ngục. Nó nằm bên cạnh Mahā Niraya, và là nơi cư trú của những sinh vật miệng kim châm xé toạc da, thịt, gân, v.v., của nạn nhân và sau đó ăn tủy của họ (MN.iii.185; Ja.vi.8; Snp­a.ii.481).
+
+Những ai lăng mạ cha mẹ của mình bị sinh ra trong địa ngục này. Dhp­a.iv.34.
 
 ## Notes

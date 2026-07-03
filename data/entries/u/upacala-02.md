@@ -5,7 +5,7 @@ base_headword: "Upacālā"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,8 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upacālā 02. Vị nữ đệ tử hàng đầu của Phussa Buddha.
+
+Cũng xem Upasālā. (Ja.i.41; Bv.xix.20).
 
 ## Notes

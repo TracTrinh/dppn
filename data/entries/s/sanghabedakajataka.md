@@ -5,7 +5,7 @@ base_headword: "Saṅghabedakajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghabedakajātaka (Ja.iii.211). Probably another name for the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabedakajātaka (Ja.iii.211). Có lẽ là một tên gọi khác cho Sandhibhedajātaka (Ja 349). So sánh Kosambījātaka (Ja 428).
 
 ## Notes

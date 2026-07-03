@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "07"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāma 07. One of the palaces of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 07. Một trong những cung điện của Koṇḍañña Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv­a.107; nhưng xem Bv.iii.26.
 
 ## Notes

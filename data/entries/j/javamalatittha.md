@@ -5,7 +5,7 @@ base_headword: "Javamālatittha"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Javamālatittha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Javamālatittha, Javamālakatittha. Một bến cạn trên con sông Kappakandara. Tại đây Duṭṭhagāmaṇī đã dâng món đồ ăn duy nhất của mình cho Thera Gotama. Mhv.xxiv.22; Mhv­ṭ.465.
 
 ## Notes

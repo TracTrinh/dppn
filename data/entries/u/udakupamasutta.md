@@ -5,7 +5,7 @@ base_headword: "Udakūpamasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Udakūpamasutta. There are seven kinds of people in the world who are like objec
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có bảy hạng người trên thế gian giống như những vật thể rơi xuống giếng: Một số kẻ sau khi đã chìm vào trong nước thì ở lại đó; những kẻ khác tiếp tục chìm xuống và nổi lên; một số kẻ sau khi đã nổi lên một lần sẽ không chìm lại nữa; những kẻ khác sau khi đã nổi lên sẽ nhìn quanh, v.v. Tương tự như vậy, một số kẻ sau khi đã sa vào tội lỗi thì không bao giờ thoát ra khỏi đó, những kẻ khác thì dễ mắc phải sự yếu đuối nhưng thường xuyên tự kiềm chế mình, v.v. AN.iv.11-13.
 
 ## Notes

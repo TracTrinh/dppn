@@ -5,7 +5,7 @@ base_headword: "Jambukajātaka"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukajātaka (Ja 535). Một con chó rừng, khi nhìn thấy một con sư tử, đã bày tỏ mong muốn được làm người hầu của nó. Con sư tử đã đồng ý và cung cấp thức ăn cho nó. Khi trở nên khỏe mạnh, con chó rừng đã đề nghị đi giết một con voi và, bất chấp những lời cảnh báo của con sư tử, nó đã bị giẫm chết. Con sư tử là Bodhisatta và con chó rừng là Devadatta.
+
+Câu chuyện này được kể lại liên quan đến nỗ lực của Devadatta nhằm bắt chước Đức Phật. Ja.iii.112ff.
 
 ## Notes

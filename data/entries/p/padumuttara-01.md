@@ -5,7 +5,7 @@ base_headword: "Padumuttara"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -108,6 +108,10 @@ Many of the eminent disciples of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumuttara 01. Padumuttara Buddha. Vị Phật thứ mười trong số hai mươi bốn vị Phật. Ngài sinh ở Haṁsavatī, cha thuộc giai cấp Sát-đế-lỵ tên Ānanda và mẹ là Sujātā. Tại thời điểm Ngài Đản sinh và Giác ngộ, một cơn mưa hoa sen tuôn xuống trong mười ngàn thế giới, do đó Ngài có tên gọi này. Ngài sống như một gia chủ trong mười ngàn năm tại ba cung điện: Naravāhana, Yassa (hoặc Yasavatī) và Vasavatti. Vợ Ngài là Vasudattā, nhờ đó Ngài có một người con trai, Uttara (theo Snp­a.i.341, con trai Ngài là Uparevata). Ngài xuất gia từ cung điện Vasavatti, và chỉ thực hành khổ hạnh trong bảy ngày. Một thiếu nữ ở Ujjenī, tên Rucinandā, cúng dường Ngài món cơm sữa, và tu sĩ Ājīvaka Sumitta dâng cỏ làm tọa cụ cho Ngài. Cây Bodhi của Ngài là cây *salala*, Ngài đã trải qua một tuần dưới gốc cây, và khi Ngài chạm chân xuống đất, những đóa hoa sen khổng lồ nhô lên từ lòng đất, bao phủ hoàn toàn thân thể Ngài bằng phấn hoa (các *Saṁyuttabhāṇaka* đưa ra điều này làm lý do cho tên gọi của Ngài.) Bài pháp đầu tiên của Ngài được thuyết giảng cho hai người anh em họ Devala và Sujāta, những người sau này trở thành hai vị đệ tử hàng đầu. Địa điểm thuyết bài pháp này là Mithiluyyāna. Sumana là thị giả riêng của Padumuttara, Amitā và Asamā là hai nữ đệ tử hàng đầu, Vitiṇṇa và Tissa là nam thí chủ hộ độ hàng đầu, còn Hatthā và Vicittā ở hàng nữ thí chủ. Thân hình Ngài cao năm mươi tám cubit, và hào quang của Ngài tỏa rộng mười hai do-tuần. Ngài viên tịch tại Nandārāma ở tuổi một trăm ngàn, và một Bảo tháp cao mười hai do-tuần được dựng lên để thờ xá-lợi của Ngài. Trong thời của Ngài, Bodhisatta là quan tổng trấn (*raṭṭhika*) của một tỉnh tên Jatika (Jaṭila). Bv.xi.1ff.; Bv­a.157ff.; Ja.i.37, 44; Dhp­a.i.99, 417; iii.146, v.v.; cũng xem Ap.i.57, 63, 101, 107; Mvu.ii.58.
+
+Người ta nói rằng vào thời của Padumuttara không có lấy một ngoại đạo nào (ví dụ, Mhv­ṭ.59).
+
+Nhiều vị đệ tử lỗi lạc của Gotama Buddha được cho là đã lần đầu tiên phát nguyện đạt được địa vị tương ứng của họ vào thời của Padumuttara Buddha, sau khi thấy địa vị tương đương được ban cho các vị đệ tử khác nhau của Padumuttara nhằm ghi nhận những thành tựu đặc biệt của họ – ví dụ, Aññā Koṇḍañña, Mahā Kassapa, Anuruddha, Bhaddiya, Piṇḍola Bhāradvāja, Puṇṇa Mantānīputta, Mahā Kaccāna, Cūḷa Panthaka, Subhūti, Khadiravaniya Revata, Kaṅkhā Revata, Soṇa Koḷivisa, Soṇa Kuṭikaṇṇa, Sīvalī, Vakkalī, Rāhula, Raṭṭhapāla, Kuṇḍadhāna, Vaṅgīsa, Upasena, Vaṅgantaputta, Dabba Mallaputta, Pilinda Vaccha, Bāhiya Dārucīriya, Kumāra Kassapa, Mahā Koṭṭhita, Ānanda, Uruvelā Kassapa, Kāḷudāyī, Sobhita, Upāli, Nanda, Mahā Kappina, Sāgata, Rādha, Mogharājā, Vappa, Upavāṇa, Mahā Pajāpatī Gotamī, Khemā, Uppalavaṇṇā, Paṭācārā, Dhammadinnā, Sundarīnandā, Soṇā, Sakulā, Bhaddā Kuṇḍalakesā, Bhaddā Kapilānī, Bhaddā Kaccānā, Kisā Gotamī và Sigālakamātā.
 
 ## Notes

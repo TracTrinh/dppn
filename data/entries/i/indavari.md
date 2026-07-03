@@ -5,7 +5,7 @@ base_headword: "Indavarī"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -25,6 +25,6 @@ Indavarī. Chief among the lay-women who supported <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indavarī. Người đứng đầu trong số các nữ cư sĩ đã hỗ trợ Nārada Buddha (Bv.x.25).
 
 ## Notes

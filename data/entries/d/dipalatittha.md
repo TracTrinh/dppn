@@ -5,7 +5,7 @@ base_headword: "Dīpālatittha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīpālatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīpālatittha. Một bến cạn ở sông Mahā Vālukagaṅgā. Cv.lxxii.54.
 
 ## Notes

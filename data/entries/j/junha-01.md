@@ -5,7 +5,7 @@ base_headword: "Juṇha"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Juṇha 01. An Elder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Juṇha 01. Một vị Trưởng lão của Kosala. Về câu chuyện của ông, xem Mālutajātaka (Ja 17, Ja.i.165f).
 
 ## Notes

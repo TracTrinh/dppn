@@ -5,7 +5,7 @@ base_headword: "Jotirasa"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -31,6 +31,8 @@ He is identified with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotirasa. Một vị khổ hạnh sống gần Kañcanapabbata, và là một người bạn của Vessavaṇa. Ông sống trong một túp lều gọi là Kañcanapatti, và mỗi ngày Vessavaṇa gửi cho ông bốn quả xoài từ cây của mình (Abbhantaramba), một vài quả trong số đó ông đã cho một con vẹt, như được thuật lại trong Abbhantarajātaka (Ja 281, *q.v.*).
+
+Ông được đồng nhất với Sāriputta. Ja.ii.400.
 
 ## Notes

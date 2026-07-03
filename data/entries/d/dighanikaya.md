@@ -5,7 +5,7 @@ base_headword: "Dīghanikāya"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -33,6 +33,6 @@ Dīghanikāya Also called <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghanikāya. Còn được gọi là Dīghāgama hoặc Dīghasaṅgaha. Nó tạo thành cuốn sách đầu tiên của Suttapiṭaka và bao gồm ba mươi tư *Sutta* dài, được chia thành ba *vagga* – Sīlakkhandha, Mahā Vagga và Pātheya hoặc Pāṭikavagga. Buddhaghosa đã viết một bản chú giải cho tác phẩm có tên là Sumaṅgalavilāsinī.
 
 ## Notes

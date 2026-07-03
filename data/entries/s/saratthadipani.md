@@ -5,7 +5,7 @@ base_headword: "Sāraṭṭhadīpanī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sāraṭṭhadīpanī. A *ṭīkā* on <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāraṭṭhadīpanī. Một bản *ṭīkā* về Samantapāsādikā của Buddhaghosa, do Sāriputta Thera của Tích Lan biên soạn. Nhiều câu chuyện minh họa nói về các tỳ-kheo Tích Lan. Cuốn sách chứa đựng một bản tường thuật giá trị về mười tám bộ phái mà Tăng đoàn đã bị phân chia vào thời điểm của Kỳ Kết Tập Thứ Ba (Third Council). Gv.61, 65; Sās-d.62; PLC.192 f; Bode, 39.
 
 ## Notes

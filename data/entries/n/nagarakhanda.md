@@ -5,7 +5,7 @@ base_headword: "Nagarakhaṇḍa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nagarakhaṇḍa. A section of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagarakhaṇḍa. Một chương của Bhuridattajātaka, đề cập đến cuộc hôn nhân của Samuddajā với Dhataraṭṭha. Ja.vi.167.
 
 ## Notes

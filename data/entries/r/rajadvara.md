@@ -5,7 +5,7 @@ base_headword: "Rājadvāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rājadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājadvāra. Một trong các cổng của Pulatthipura (Cv.lxxiii.160). Nó có lẽ nằm ở phía nam của thành phố. Cv.Trs. ii.39, n.4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ramma"
 disambiguator: "05"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Ramma 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramma 05. Rammavatī. Thành phố đản sinh của Dīpaṅkara Buddha. Chính trong lúc Dīpaṅkara đang có chuyến viếng thăm thành phố này, Sumedha đã gặp ngài và được ngài thọ ký là một Bodhisatta. Vào thời điểm đó, Đức Phật đang trú tại một tu viện tên là Sudassana *Mahāvihāra*. Ja.i.11, 13, 29; iv.119; Dhp­a.i.69; Bv.ii.207; Bv­a. 65 gọi nó là Rammavatī.
 
 ## Notes

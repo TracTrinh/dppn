@@ -5,7 +5,7 @@ base_headword: "Jāliya"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -34,6 +34,8 @@ Jāliya. A *paribbājaka* who, with his friend <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāliya. Một du sĩ ngoại đạo (*paribbājaka*) người mà cùng với bạn mình là Maṇḍissa đã đến viếng thăm Đức Phật tại Ghositārāma (DN.i.159). Đức Phật đã thuyết cho họ bài Jāliyasutta (*q.v.*). Theo Pāṭikasutta, khi Jāliya nghe tin Pāṭika không thể đến để tranh luận với Đức Phật tại Vesālī, ông đã đi đến tu viện của các du sĩ ngoại đạo *Tindukkhāna* (*Tindukkhānaparibbājakārāma*) và cố gắng thuyết phục Pāṭikaputta đến. Nhưng vị này không thể đến được, vì bị dính chặt vào chỗ ngồi. Jāliya sau đó đã nói những lời xúc phạm vị này, gọi vị này là kẻ khoác lác, v.v. (DN.iii.22ff).
+
+Jāliya được mô tả là *dārupattakantevāsī*, bởi vì, Chú giải nói (DN­a.i.319), thầy của ông thường đi khất thực bằng một chiếc bát gỗ.
 
 ## Notes

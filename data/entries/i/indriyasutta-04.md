@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "04"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Indriyasutta 04. The five *indriyas* (*saddhā*, etc.), are called the Path that
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 04. Năm *indriya* (*saddhā*, v.v...), được gọi là Con đường đi đến cõi Vô vi (*asaṅkhata*). SN.iv.361.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandamūlapabbhāra"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -33,6 +33,6 @@ Nandamūlapabbhāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandamūlapabbhāra, Nandamūla, Nandamūlaka. Một hang núi ở Gandhamādana. Đó là nơi ở của các vị Pacceka Buddha và có ba hang động: Suvaṇṇaguhā, Maṇiguhā và Rajataguhā. Ở phía trước Maṇiguhā có cây Mañjūsaka (Snp­a.i.86; Dhp­a.i.226; Ja.ii.195; v.v..). Ngọn núi nằm ở phía bắc Himālaya. Ja.iv.367
 
 ## Notes

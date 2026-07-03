@@ -5,7 +5,7 @@ base_headword: "Dhūmarakkha"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -40,6 +40,10 @@ The mountain is identified (Ep.Zey.ii.194ff) with the present “Gunners’ Quoi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhūmarakkha. Một ngọn núi ở Tích Lan (Ceylon), cách Kacchakatittha không xa, trên bờ phải của sông Mahā Vālukanadī. Tại đó Paṇḍukābhaya đã đánh bại những người chú của mình và chiếm đóng doanh trại kiên cố của họ trong hai năm. Ngọn núi là nơi ở của các Yakkha, và chính tại đây Paṇḍukābhaya đã bắt được *Yakkhinī* Cetiyā, gần cái ao Tumbariyaṅgaṇa trong vùng lân cận của ngọn núi (Mhv.x.46, 53, 58ff). Vua Mahā Nāma đã xây một *vihāra* tại đó (Cv.xxxvii.213).
+
+Theo Mahā Vaṁsaṭīkā (p.289), ngọn núi còn được gọi là Udumbarapabbata (hoặc Udumbaragiri). Dường như (Xem PLC., *s.v.* Udumbaragiri) đã từng có một hội chúng tỳ-kheo ẩn cư trong rừng sinh sống tại Udumbaragiri, hội chúng này đã đào tạo ra từ trong số họ một vài học giả rất danh tiếng và những tỳ-kheo vô cùng đạo hạnh – ví dụ, Kassapa và Medhaṅkara.
+
+Ngọn núi được đồng nhất (Ep.Zey.ii.194ff) với “Gunners’ Quoin” ngày nay trên bờ phải của sông Mahā Valigaṅgā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dīghatapassī"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,8 @@ The Commentary (MN­a.ii.594) says that Dīghatapassī was long-limbed, hence hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghatapassī. Một *Nigaṇṭha* (Ni-kiền-tử), đồ đệ của Nātaputta. Ông từng đến thăm Đức Phật tại Nālandā, và tại đó đã diễn ra một cuộc thảo luận về các hành động và hiệu năng của chúng. Dīghatapassī đã báo cáo cuộc thảo luận này cho Nātaputta và Upāli, người đang lắng nghe, đã đi đến gặp Đức Phật, bất chấp lời khuyên ngăn của Dīghatapassī, và thách thức ngài trong một cuộc thảo luận, vào cuối cuộc thảo luận này Upāli đã được cải đạo (MN.i.371ff).
+
+Bản Chú giải (MN­a.ii.594) nói rằng Dīghatapassī có tay chân dài, do đó mà có tên của ông.
 
 ## Notes

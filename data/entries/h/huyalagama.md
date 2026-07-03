@@ -5,7 +5,7 @@ base_headword: "Huyalagāma"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Huyalagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Huyalagāma. Một ngôi làng ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I., Cv.lxxv.18. 149, 150; xem Cv.Trs.ii.59, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṁsupisācakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Paṁsupisācakā. A class of *pisācas*, born in filth. MN­a.ii.713, 921; Ud­
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṁsupisācakā. Một tầng lớp *pisāca* (ngạ quỷ), sinh ra trong rác rưởi ô uế. MN­a.ii.713, 921; Ud­a.247. Từ này được dùng như một thuật ngữ tỏ thái độ khinh miệt, ví dụ, AN­a.i.438; MN­a.ii.610, 611.
 
 ## Notes

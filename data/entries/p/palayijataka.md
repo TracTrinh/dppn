@@ -5,7 +5,7 @@ base_headword: "Palāyijātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,8 @@ The story was told in reference to a mendicant who loved arguing. He could find 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Palāyijātaka (Ja 229). Có một lần Bodhisatta là vua xứ Takkasilā. Brahmadatta, vua xứ Benares, tiến quân về thành phố của ngài với một đội quân lớn, hy vọng sẽ chiếm được nó; nhưng khi nhìn thấy các tháp canh trên các cổng thành, ông ta hoảng sợ và bỏ chạy.
+
+Câu chuyện được kể lại liên quan đến một khất sĩ thích tranh luận. Ông ta không thể tìm được ai có thể phản bác mình cho đến khi đi đến Sāvatthī, nơi có mặt Đức Phật. Lập tức ông ta lên đường đến Jetavana; nhưng khi nhìn thấy những tháp cổng, ông ta liền bỏ chạy (Ja.ii.216ff). Xem thêm Dutiyapalāyijātaka (Ja 230).
 
 ## Notes

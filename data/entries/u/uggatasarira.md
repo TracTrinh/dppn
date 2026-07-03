@@ -5,7 +5,7 @@ base_headword: "Uggatasarīra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,8 @@ At the end of the discourse, <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggatasarīra. Một Bà-la-môn *Mahā Sāla*, được gọi như vậy vì ông cao lớn và giàu có tột bậc (AN­a.ii.714). Sau khi đã chuẩn bị cho một cuộc tế lễ lớn, trong đó nhiều con vật sẽ bị giết thịt, ông đã đến thăm Đức Phật tại Jetavana để hỏi ngài về hiệu quả của cuộc tế lễ. Ba lần ông nói với Đức Phật rằng ông đã nghe nói việc thắp ngọn lửa (*ādhāna*) và dựng cột tế lễ (*ussāpana*) mang lại quả báo lớn. Ba lần Đức Phật đồng ý rằng đúng là như vậy, và Uggatasarīra chuẩn bị kết luận rằng Đức Phật đã chấp thuận cuộc tế lễ của ông, thì Ānanda xen vào và đề nghị nên thỉnh Đức Phật giải thích ý nghĩa của ngài và cho lời khuyên về hiệu quả của cuộc tế lễ. Sau đó, Đức Phật tuyên bố rằng có ba ngọn lửa cần phải dập tắt: *rāga*, *dosa* và *moha*; và ba ngọn lửa cần được tôn kính: *āhuneyyaggi*, *gahapataggi* và *dakkhiṇeyyaggi*. Ngọn lửa *āhuneyyaggi* tượng trưng cho cha mẹ; *gahapataggi*, tượng trưng cho vợ, con cái, những người hầu và thuộc hạ; *dakkhiṇeyyaggi*, tượng trưng cho các bậc thánh và sa-môn.
+
+Vào cuối bài pháp, Uggatasarīra trở thành người cải đạo theo tôn giáo của Đức Phật và phóng thích những con vật dành cho việc tế lễ. AN.iv.416.
 
 ## Notes

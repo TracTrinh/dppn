@@ -5,7 +5,7 @@ base_headword: "Rāhulasutta"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rāhulasutta 04. The discourse which brings about the attainment of *Arahant*-sh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulasutta 04. Bài giảng mang lại sự chứng đắc quả vị *Arahant* cho Rāhula (SN.iv.105f). Bài kinh này giống với Cūḷa Rāhulovādasutta (*xem mục từ này*).
 
 ## Notes

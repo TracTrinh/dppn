@@ -5,7 +5,7 @@ base_headword: "Padumapupphiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Padumapupphiya Thera. An *Arahant*. Ninety-two *kappas* ago, while picking lotus
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padumapupphiya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, khi đang hái hoa sen, ngài nhìn thấy Phussa Buddha và đã dâng cúng Ngài một đóa hoa. Về sau ngài gia nhập Tăng đoàn. Bốn mươi tám *kappa* trước, ngài làm vua mười tám lần với tên gọi Padumabhāsa. Ap.i.132.
 
 ## Notes

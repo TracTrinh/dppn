@@ -5,7 +5,7 @@ base_headword: "Pacchābhumma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pacchābhumma (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pacchābhumma (Pacchābhūma). Tên gọi được đặt cho khu vực nằm ở phía tây (của Majjhimadesa) (SN.iii.5, 6; SN­a.ii.186). Cũng có sự đề cập đến các vị Bà-la-môn Pacchābhūmaka, những người mang các chậu nước, những người thờ lửa, và những người tuyên bố có khả năng đưa một người lên cõi trời sau khi chết, vd., AN.v.263; xem thêm SN.iv.311.
 
 ## Notes

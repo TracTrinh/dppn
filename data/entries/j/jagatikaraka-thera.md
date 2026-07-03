@@ -5,7 +5,7 @@ base_headword: "Jagatikāraka Thera"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jagatikāraka Thera. An *Arahant*. In the past he set up an altar (? *jagatī*) 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jagatikāraka Thera. Một vị *Arahant*. Trong quá khứ, ngài đã dựng một bệ thờ (? *jagatī*) tại bảo tháp (*Thūpa*) của Atthadassī Buddha. Ap.i.221.
 
 ## Notes

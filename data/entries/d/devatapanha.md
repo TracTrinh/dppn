@@ -5,7 +5,7 @@ base_headword: "Devatāpañha"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -29,6 +29,6 @@ Devatāpañha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāpañha, Devatāpañhajātaka (Ja 350). Bổn sinh 350 được gọi là Devatāpañhajātaka (Ja.iii.152), và bản Chú giải nói rằng câu chuyện sẽ được giải thích trong Ummaggajātaka. Ummaggajātaka chứa một loạt câu hỏi do vị nữ thần sống trong lọng của vua Vedeha đặt ra cho ông, vì cô muốn khôi phục sự ân sủng của nhà vua đối với Mahosadha. Vedeha đã hỏi tất cả các nhà thông thái của mình, nhưng họ không tìm ra câu trả lời, và cuối cùng, ông buộc phải cho mời Mahosadha. Các câu hỏi, mang tính chất câu đố, được đặt ra cho chàng và chàng đã giải quyết tất cả. vi.370f; những câu đố kèm câu trả lời được tìm thấy ở pp.376f.
 
 ## Notes

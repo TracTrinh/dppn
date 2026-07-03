@@ -5,7 +5,7 @@ base_headword: "Nāgapabbatagāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāgapabbatagāma. A village in the province of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgapabbatagāma. Một ngôi làng ở tỉnh Malaya tại Tích Lan. Cv.lxx.10.
 
 ## Notes

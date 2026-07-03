@@ -5,7 +5,7 @@ base_headword: "Dhātusutta"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhātusutta 04. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusutta 04. Được thuyết giảng tại Sāvatthī. Giống như Số 3. SN.iii.227.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gūthakhādiduṭṭhabrāhmaṇasutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -30,6 +30,8 @@ The *Peta* was seen near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūthakhādiduṭṭhabrāhmaṇasutta. Câu chuyện về một *Peta*, chìm lấp trong một hố phân, đang dùng cả hai tay bốc phân ăn. Vào thời của Kassapa Buddha, hắn đã thỉnh các tỳ-kheo đến dùng bữa và đặt trước mặt họ một bát chứa đầy phân.
+
+*Peta* này đã được nhìn thấy gần Gijjhakūṭa bởi cả Mahā Moggallāna và Lakkhaṇa. SN.ii.259.
 
 ## Notes

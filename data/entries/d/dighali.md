@@ -5,7 +5,7 @@ base_headword: "Dīghāli"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Dīghāli. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghāli. Một địa phương ở Rohaṇa. Cv.lxxv.60; lxxii.63; xem Cv.Trs.i.325, n.2 và ii.49, n.3.
 
 ## Notes

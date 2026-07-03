@@ -5,7 +5,7 @@ base_headword: "Sataruddhā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sataruddhā. A canal flowing eastward from the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sataruddhā. Một con kênh chảy về phía đông từ Kênh đào Aciravatī ở Tích Lan. Cv.lxxix.53.
 
 ## Notes

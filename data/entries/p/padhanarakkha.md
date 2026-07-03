@@ -5,7 +5,7 @@ base_headword: "Padhānarakkha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Padhānarakkha. A monastery in Ceylon where <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Padhānarakkha. Một tu viện ở Tích Lan nơi Māṇavamma đã dựng lên Sepaṇṇipāsāda. Cv.xlvii.64.
 
 ## Notes

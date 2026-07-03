@@ -5,7 +5,7 @@ base_headword: "Dhammapāla"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammapāla 02. A Brahmin, son of the Bodhisatta. See <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapāla 02. Một vị Bà-la-môn, là con trai của Bodhisatta. Xem Mahā Dhammapāla.
 
 ## Notes

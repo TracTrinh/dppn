@@ -5,7 +5,7 @@ base_headword: "Ñāṇathavika"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇathavika. Một arahant. Một trăm ngàn kappa trước, ngài là một ẩn sĩ, và khi nhìn thấy Buddha Padumuttara, ngài đã tôn kính đảnh lễ Ngài và hát lên những lời tán dương Ngài (Ap.ii.392f.). Ngài có lẽ chính là Yasadatta Thera. Thag-a.i.428.
 
 ## Notes

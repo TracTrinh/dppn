@@ -5,7 +5,7 @@ base_headword: "Udakadāyaka Thera"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Udakadāyaka Thera 02. An *Arahant*. In a previous birth he filled a vessel of w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Trong một kiếp trước, ngài đã đổ đầy một bình nước cho Padumuttara Buddha. Kết quả là, ngài có thể tìm thấy nước ở bất kỳ nơi nào ngài muốn (Ap.ii.437). Các vần kệ Apadāna của ngài được tìm thấy trong Chú giải Theragāthā dưới tên của hai vị Thera: Mahā Gavaccha (i.57) và Gaṅgātīriya (i.249).
 
 ## Notes

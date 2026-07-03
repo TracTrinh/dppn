@@ -5,7 +5,7 @@ base_headword: "Dhammadinnasutta"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammadinnasutta. Records the visit of the householder <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinnasutta. Ghi chép lại chuyến viếng thăm của gia chủ Dhammadinna đến Đức Phật tại Isipatana. SN.v.406ff.
 
 ## Notes

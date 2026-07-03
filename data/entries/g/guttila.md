@@ -5,7 +5,7 @@ base_headword: "Guttila"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -36,6 +36,10 @@ Guttila is mentioned (Mil.115, 291) as one of the four human beings who went to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guttila. Bodhisatta sinh ra làm một nhạc sĩ ở Benares. Ngài không lập gia đình và phụng dưỡng cha mẹ bị mù. Ngài có một đệ tử là Mūsila đến từ Ujjenī, và Guttila đã truyền dạy tất cả những gì mình biết cho người này. Sau đó, Guttila tiến cử Mūsila vào triều đình của nhà vua, nơi mà, ngay khi được nhà vua để mắt tới, hắn đã sắp xếp một cuộc thi đấu với thầy mình, để nhà vua có thể quyết định ai sẽ là nhạc sĩ cung đình. Guttila, e sợ một cuộc thi ở độ tuổi xế chiều của mình, đã trốn vào rừng, nơi Sakka hiện ra trước mặt ngài và hứa sẽ giúp ngài giành chiến thắng. Cuộc thi được tổ chức, và khi Guttila chơi đàn theo sự hướng dẫn của Sakka, âm thanh âm nhạc của ngài vang khắp thành phố và các thiên nữ đã giáng trần để múa. Mūsila đã bị đánh bại và bị ném đá đến chết bởi đám đông phẫn nộ. Sau đó, Sakka đã sai Mātali mang cỗ xe đến đón Guttila lên Tāvatiṁsa, và để đáp lại âm nhạc của ngài, Guttila được phép khám phá xem những cư dân của Tāvatiṁsa nhờ những việc thiện nào mà được tái sinh ở đó. Khi trở lại trần gian sau bảy ngày, ngài đã kể cho mọi người nghe những gì mình đã thấy và khuyến khích họ làm việc thiện (Ja.ii.248ff; Vv-a.137ff).
+
+Người ta nói rằng có lần Guttila đã gửi một ngàn đồng cho một người phụ nữ, mong muốn chiếm được cảm tình của cô, nhưng cô không đồng ý. Ngài đã trang điểm cho mình, và vào buổi tối ngài đã hát và chơi đàn tỳ bà bên ngoài nhà cô. Cô đã bị mê hoặc bởi âm nhạc của ngài đến nỗi cô đã mở cửa sổ và, tưởng rằng đó là một cánh cửa, đã bước ra ngoài và bị ngã chết (AN­a.i.16f; có lẽ đây là một người khác chăng?).
+
+Guttila được đề cập đến (Mil.115, 291) như là một trong bốn con người đã đi lên Tāvatiṁsa ngay cả trong thân xác con người của họ, những người khác là Sādhīna, Nimi và Mandhātā.
 
 ## Notes

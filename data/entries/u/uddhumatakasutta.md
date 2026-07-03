@@ -5,7 +5,7 @@ base_headword: "Uddhumātakasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uddhumātakasutta. The idea of an inflated corpse, if developed, conduces to pea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ý niệm về một cái xác chết trương sình, nếu được trau dồi, sẽ dẫn đến sự an bình khỏi sự trói buộc (SN.v.131).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Gulissānisutta"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -28,6 +28,6 @@ Gulissānisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gulissānisutta. Sāriputta nhận thấy trong số các tỳ-kheo ở Rājagaha có một vị tỳ-kheo thô lỗ từ nơi hoang dã tên là Gulissāni. Sāriputta tiến hành nói với các tỳ-kheo khác về những bổn phận của một vị tỳ-kheo, người từ nơi hoang dã đến bắt đầu sống trong hội chúng; vị ấy nên thể hiện sự tôn trọng và quan tâm đến những người khác, phải chuẩn mực trong vấn đề chỗ ngồi, tuân thủ những quy tắc nhất định khi đi khất thực, và phòng hộ các căn của mình trong khi tu học Pháp và Luật cao thượng. Moggallāna hỏi liệu những bổn phận này có phải chỉ bắt buộc đối với những tỳ-kheo đến từ nơi hoang dã hay không, và được cho biết rằng chúng lại càng quan trọng hơn đối với các tỳ-kheo sống ở trong làng mạc. MN.i.469ff.
 
 ## Notes

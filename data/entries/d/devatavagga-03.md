@@ -5,7 +5,7 @@ base_headword: "Devatāvagga"
 disambiguator: "03"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -25,6 +25,6 @@ Devatāvagga 03. The fourth chapter of the *Sattakanipāta* of the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devatāvagga 03. Chương thứ tư của *Sattakanipāta* thuộc Aṅguttaranikāya. AN.iv.27-39.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rakkha"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rakkha 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkha 06. Rakkha Laṅkāpura. Một trong những thủ lĩnh của quân nổi dậy ở Rohaṇa trong thời của Parakkamabāhu I. Về sau ông được phong làm tổng tư lệnh của họ. Ông đã cùng lực lượng của mình tiến đến Nadībhaṇḍagāma, và bị giết trong trận chiến tại Mahā Senagāma, khi chiến đấu chống lại *Damiḷādhikārī* Rakkha. Vị trí của ông trong quân đội được đảm nhận bởi anh trai ông. Cv.lxxv.70, 103, 112, 134.
 
 ## Notes

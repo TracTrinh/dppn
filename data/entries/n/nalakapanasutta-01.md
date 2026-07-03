@@ -5,7 +5,7 @@ base_headword: "Naḷakapānasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Naḷakapānasutta 01. Preached at the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naḷakapānasutta 01. Được thuyết tại Palāsavana ở Naḷakapāna. Đức Phật hỏi hội chúng tỳ-kheo có mặt, trong đó có nhiều vị lỗi lạc như Anuruddha, Kimbila, Nandiya và những vị khác – liệu họ có cảm thấy mình đã chứng đạt được mục tiêu mà vì đó họ đã từ bỏ đời sống gia đình hay không? Khi họ đồng ý, Ngài tiếp tục nói với họ rằng khi Ngài tuyên bố rằng Ngài đã đoạn tận các *āsava* và các đệ tử của Ngài đã đạt được những sở đắc khác nhau thông qua giáo pháp của Ngài, Ngài làm như vậy không phải để phỉnh phờ hay lừa dối người khác, cũng không phải để đạt được danh tiếng và lợi lộc cho chính mình, mà để khích lệ và truyền lòng nhiệt thành cho những thanh niên có niềm tin, để họ có thể tập trung với toàn bộ tâm trí và noi gương các đệ tử của Ngài. MN.i.462ff.
 
 ## Notes

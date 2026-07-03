@@ -5,7 +5,7 @@ base_headword: "Sappadāsa Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -29,6 +29,8 @@ Sappadāsa acted as barber to the monastery, and, one day, taking a razor, he ap
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sappadāsa Thera. Ông sinh ra ở Kapilavatthu, là con trai của vị tư tế của vua Suddhodana. Ông đã phát khởi niềm tin nhân chuyến viếng thăm của Đức Phật tới thần dân của ngài, và đã gia nhập Tăng đoàn. Bị áp đảo bởi những thói quen xấu của tâm trí và tính cách, trong hai mươi lăm năm ông không thể phát triển được định. Điều này khiến ông đau buồn đến mức định tự tử, thì bỗng nhiên, tuệ giác bên trong đột ngột bừng sáng, ông đã đạt được quả vị *Arahant* (Thag. vs. 405-10. Thag­a.i.448f). Theo Chú giải Dhammapada (Dhp­a.ii.256f), ông đã cố gắng tự sát bằng cách bắt một con rắn, đã bị các vị tỳ-kheo bắt giữ, cắn mình. Nhưng con rắn từ chối cắn, bất chấp mọi nỗ lực chọc giận nó. Sappadāsa sau đó vứt nó đi, nghĩ rằng nó không có nọc độc. Nhưng các vị tỳ-kheo khác tuyên bố nó là một con rắn hổ mang, bởi vì họ đã nhìn thấy mang của nó và nghe thấy tiếng rít của nó.
+
+Sappadāsa làm thợ cạo cho tu viện, và, một ngày nọ, lấy một con dao cạo, ông kề nó vào khí quản của mình trong khi dựa vào một gốc cây. Và sau đó ông nghĩ về việc cuộc sống của mình đã không thể chê trách được như thế nào và tràn ngập niềm vui. Ngay sau đó ông đã phát triển tuệ minh sát và trở thành một vị *Arahant*. Khi các vị tỳ-kheo báo cáo điều này với Đức Phật, Đức Phật nói rằng con rắn từng là nô lệ của vị Trưởng lão trong tiền kiếp thứ ba của ông, và do đó không dám cắn ông. Sự kiện này đã mang lại cho vị tỳ-kheo cái tên của mình, Sappadāsa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Na santi Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ Na santi Sutta. A set of verses spoken before the Buddha by a number of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na santi Sutta. Một tập hợp các bài kệ được một số chư thiên Satullapa xướng lên trước Đức Phật về cách thoát khỏi các dục.
+
+Mogharāja cũng có mặt ở đó, và bằng việc đặt một câu hỏi với Đức Phật, vị này đã giúp xua tan một sự hiểu lầm có thể xảy ra. SN.1.22f.; SN­a.i.50.
 
 ## Notes

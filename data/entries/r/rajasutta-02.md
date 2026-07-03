@@ -5,7 +5,7 @@ base_headword: "Rājasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rājasutta 02. On the eighth day of the lunar fortnight, the ministers of the <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājasutta 02. Vào ngày thứ tám của tuần trăng, các vị quan đại thần của các vị Cātummahārājikā đến thăm trái đất, vào ngày thứ mười bốn thì các con trai của họ, vào ngày thứ mười lăm thì chính các vị vua. Họ báo cáo những gì họ tìm thấy tại cuộc họp của các chư thiên trong hội trường Sudhammā và vui mừng nếu con người đã làm điều thiện, đau buồn nếu họ đã làm điều ác. AN.i.142f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udāyīsutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Udāyīsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Udāyī đến thăm Đức Phật tại Desaka (?) trong quốc gia Sumbha và mô tả cách ngài đã liễu ngộ Nibbāna bằng việc trau dồi các *bojjhaṅga*. SN.v.89f.
 
 ## Notes

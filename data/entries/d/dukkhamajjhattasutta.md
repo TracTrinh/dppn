@@ -5,7 +5,7 @@ base_headword: "Dukkhamajjhattasutta"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dukkhamajjhattasutta. The eye is <span class="dppn-term dppn-term-t20" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dukkhamajjhattasutta. Con mắt là khổ, các căn khác cũng vậy, và do đó chúng rỗng không, không có ngã. SN.iv.2.
 
 ## Notes

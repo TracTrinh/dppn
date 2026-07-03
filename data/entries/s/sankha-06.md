@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "06"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkha 06. The Bodhisatta born as a Brahmin in <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 06. Bodhisatta sinh ra là một Bà-la-môn ở Takkasilā. Ông là cha của Susīma. Xem Saṅkhajātaka (2).
 
 ## Notes

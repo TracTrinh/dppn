@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "05"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jayasena 05. A king who built for <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 05. Một vị vua đã xây dựng cho Sobhita Buddha tại Sudassana một *vihāra* rộng một do-tuần (Bv.vii.6; Bv­a.138). Jayasena là một trong những cư sĩ hộ độ chính của Sobhita. Ibid., 140; nhưng xem Bv.vii.23.
 
 ## Notes

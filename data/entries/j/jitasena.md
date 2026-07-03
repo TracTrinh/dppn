@@ -5,7 +5,7 @@ base_headword: "Jitasena"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jitasena. Seventy-seven *kappas* ago there were sixteen kings of this name, all 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jitasena. Bảy mươi bảy *kappa* trước có mười sáu vị vua mang tên này, tất cả đều là những tiền kiếp của Khaṇḍaphulliya. Ap.i.198.
 
 ## Notes

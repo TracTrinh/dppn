@@ -5,7 +5,7 @@ base_headword: "Dīghacārikasuttā"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dīghacārikasuttā. Two *Suttas* on the five results arising from roving about.
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dīghacārikasuttā*. Hai *Sutta* bàn về năm kết quả phát sinh từ việc đi lang thang. AN.iii.257.
 
 ## Notes

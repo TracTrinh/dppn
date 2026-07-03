@@ -5,7 +5,7 @@ base_headword: "Paduma"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paduma 02. One of the chief lay disciples of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paduma 02. Một trong những cư sĩ đệ tử tối thắng của Revata Buddha. Bv.vi.23.
 
 ## Notes

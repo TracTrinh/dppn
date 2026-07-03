@@ -5,7 +5,7 @@ base_headword: "Rāhulamātā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -160,6 +160,56 @@ Numerous stories are found in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāhulamātā. Cái tên, thường được đưa ra trong các văn bản, chỉ mẹ của Rāhula (ví dụ, Vin.i.82) và là vợ của Gotama. Bà còn được gọi là Bhaddakaccā (ví dụ, Bv.xxvi.15) và, trong các văn bản sau này, là Yasodharā (Bv­a., p.245; Divy.253), Bimbādevī (Ja.ii.392f.; DN­a.ii.422) và, có lẽ là, Bimbāsundarī (Ja.vi.478 12). Mhv.ii.24 gọi bà là Bhaddakaccānā; nhưng xem Thomas: *Life and Legend of the Buddha*, 49; bà cũng được gọi là Subhaddakā, có lẽ đây là một biến thể của Bhaddakaccānā.
+
+Các văn bản phương Bắc dường như ưu ái cái tên Yasodharā, nhưng họ gọi bà là con gái của Daṇḍapānī (xem thêm Rockhill, sđd., nơi nhiều tên gọi khác cũng được đưa ra). Có khả năng tên vợ của Gotama là Bimbā, và rằng Bhaddakaccā, Subhaddakā, Yasodharā và những cái tên khác, là những biệt danh miêu tả được dùng cho bà, về sau được coi như những tên gọi bổ sung. Cũng có khả năng là trong triều đình của Gotama còn có một người tên là Yasodharā, con gái của Daṇḍapānī, và về sau đã có sự nhầm lẫn về tên gọi. Lời giải thích của Chú giải (ví dụ, AN­a.i.204), rằng bà được gọi là Bhaddakaccānā vì cơ thể bà có màu của vàng ròng, có lẽ là đúng. Việc cho rằng (ví dụ, Thomas: *Life and Legend of the Buddha*, 49) cái tên này có bất kỳ sự liên hệ nào với Kaccānagotta dường như là sai, vì Kaccāna là một *gotta* của Bà-la-môn và những người Sākyan không phải là Bà-la-môn.
+
+Rāhulamātā sinh cùng ngày với vị Bodhisatta (Ja.i.54; Bv­a. 106, 228). Lời kể sau đây được lấy chủ yếu từ Ja.i.58ff: Bà kết hôn với ngài (Gotama) ở tuổi mười sáu, và được đặt đứng đầu bốn mươi ngàn người phụ nữ, do những người Sākyan ban cho Gotama, sau khi ngài đã chứng minh sức mạnh nam nhi của mình khiến họ hài lòng. Gotama đã rời bỏ đời sống gia đình vào ngày sinh đứa con trai Rāhula của mình (theo một lời kể, được nhắc đến trong Chú giải Jātaka, i.62, Rāhula lúc đó được bảy ngày tuổi). Người ta kể rằng ngay trước khi rời khỏi nhà, ngài đã nhìn vợ mình lần cuối từ cửa phòng bà, không dám đến gần hơn, e rằng sẽ đánh thức bà. Khi Đức Phật viếng thăm Kapilavatthu lần đầu tiên sau khi Giác ngộ, và vào ngày thứ hai của chuyến viếng thăm đó, Ngài đã khất thực trên phố. Tin tức này lan truyền, và Rāhulamātā đã nhìn ra ngoài cửa sổ để xem điều đó có đúng không. Bà nhìn thấy Đức Phật, và bị ấn tượng bởi sự vinh quang trong nhân cách của Ngài đến mức bà đã thốt lên tám bài kệ để ca ngợi Ngài. Những bài kệ này đã được lưu truyền lại dưới tên gọi Narasīhagāthā; vào ngày hôm đó, sau khi Đức Phật thọ trai xong trong cung điện, bữa ăn mà Ngài dùng theo lời mời của Suddhodana, tất cả các phu nhân trong triều, ngoại trừ Rāhulamātā, đều đến đảnh lễ Ngài. Bà từ chối đi, nói rằng nếu bà có bất kỳ đức hạnh nào trong mình thì Đức Phật sẽ đến với bà. Đức Phật đã đến chỗ bà cùng với hai vị Đại Đệ tử của Ngài và ra lệnh rằng bà nên được phép chào đón Ngài theo ý bà muốn. Bà ngã dưới chân Ngài, và dùng tay ôm lấy bàn chân Ngài, đặt đầu mình lên đó. Suddhodana kể cho Đức Phật nghe cách mà, kể từ lúc Ngài rời khỏi nhà, Rāhulamātā đã tự mình từ bỏ mọi xa hoa và sống theo cách giống như bà nghe nói Đức Phật đã sống – mặc y vàng, chỉ ăn mỗi ngày một lần, v.v. Và Đức Phật sau đó đã kể câu chuyện Candakinnarajātaka (Ja 485), để cho thấy lòng trung thành của bà, trong quá khứ cũng vậy, đã từng tối cao như thế nào.
+
+Vào ngày thứ bảy trong chuyến viếng thăm của Đức Phật, khi Ngài rời cung điện vào cuối bữa ăn, Rāhulamātā đã sai Rāhula đến chỗ Ngài, nói rằng, “Đó là cha của con, hãy đi và xin Ngài tài sản thừa kế của con.” Rāhula đi theo Đức Phật, và, theo yêu cầu của Đức Phật, đã được Sāriputta xuất gia. Lời kể về sự việc này được đưa ra trong Vin.i.82; đây có lẽ là đoạn duy nhất trong các *Piṭaka* mà Rāhulamātā, được nhắc đến bằng tên.
+
+Sau đó, khi Đức Phật cho phép phụ nữ gia nhập Tăng đoàn, Rāhulamātā trở thành một tỳ-kheo-ni dưới sự hướng dẫn của Mahā Pajāpatī Gotamī (AN­a.i.198).
+
+Buddhaghosa đồng nhất (AN­a.i.204f) Rāhulamātā với Bhaddakaccānā, người mà trong Aṅguttaranikāya (AN.i.25) được nhắc đến là vị đệ nhất trong số các tỳ-kheo-ni về việc sở hữu các năng lực siêu nhiên (*mahābhiññappattānaṁ*). Bà là một trong bốn đệ tử của Đức Phật sở hữu thành tựu như vậy, những vị còn lại là Sāriputta, Moggallāna và Bakkula. Bà đã bày tỏ mong muốn đạt được thành tựu này trong thời của Padumuttara Buddha. Trong lời kể này Bhaddakaccānā được nhắc đến là con gái của người Sākyan tên Suppabuddha và vợ ông là Amitā. So sánh Mhv.ii.21f. Người ta nói rằng Suppabuddha không tha thứ cho Đức Phật vì đã bỏ rơi con gái ông (Dhp­a.iii.44f); Devadatta là anh chị em của Bhaddakaccānā, và người ta đã gợi ý rằng sự thù hận của Devadatta đối với Đức Phật là vì những lý do tương tự như của cha bà. Bà gia nhập Tăng đoàn dưới sự hướng dẫn của Pajāpatī Gotamī cùng với Janapadakaḷyānī Nandā, và trong Tăng đoàn, bà được biết đến là Bhaddakaccānā Therī. Sau đó, bà phát triển tuệ và trở thành một bậc *Arahant*. Bà có thể, với một nỗ lực, nhớ lại một *asaṅkheyya* và một trăm ngàn *kappa* (AN­a.i.205).
+
+Trong Therī Apadāna (Ap.ii.584ff) có tìm thấy một lời kể về một vị Therī tên là Yasodharā, người hiển nhiên được đồng nhất với Rāhulamātā, vì bà tự nói về mình (vvs. 10, 11) là *pajāpatī* của Đức Phật trước khi Ngài rời bỏ đời sống gia đình (*agāra*), và nói rằng bà là người đứng đầu (*pāmokkhā sabba-issarā*) của chín mươi ngàn phụ nữ.
+
+Trong thời của Dīpaṅkara Buddha, khi vị Bodhisatta sinh làm Sumedha, bà là một thiếu nữ Bà-la-môn tên là Sumittā, và đã trao tám vốc hoa sen cho Sumedha, người mà sau đó, đã cúng dường chúng cho Đức Phật. Dīpaṅkara, khi tuyên bố rằng Sumedha cuối cùng sẽ trở thành Phật, đã nói thêm rằng Sumittā sẽ là bạn đồng hành của ngài trong nhiều kiếp. Lời kể của Apadāna (vvs. 1ff) đề cập đến việc làm thế nào, ngay trước khi bà viên tịch ở tuổi bảy mươi tám, bà đã đến từ biệt Đức Phật và thực hiện nhiều phép lạ khác nhau. Nó cũng tuyên bố rằng mười tám ngàn nữ *Arahant*, những người bạn đồng hành của Yasodharā, cũng đã viên tịch vào cùng ngày đó (Ap.ii.592f).
+
+Abbhantarajātaka (Ja 281) đề cập rằng Bimbādevī (người được gọi là người vợ chính của Gotama và do đó hiển nhiên đồng nhất với Rāhulamātā) đã có một lần, sau khi trở thành tỳ-kheo-ni, bị bệnh đầy hơi. Khi Rāhula, theo thói quen của ngài, đến thăm bà, ngài được thông báo rằng ngài không thể gặp bà, nhưng rằng, khi bà bị chứng bệnh tương tự ở nhà, bà đã được chữa khỏi bằng nước ép xoài với đường. Rāhula đã báo cáo sự việc cho vị bổn sư của ngài là Sāriputta, người đã nhận được nước ép xoài từ Pasenadi. Khi Pasenadi phát hiện ra lý do vì sao cần nước ép xoài, ông đã sắp xếp để từ ngày đó nó sẽ được cung cấp thường xuyên. Jātaka kể về việc, trong một kiếp quá khứ cũng vậy, Sāriputta đã đến giải cứu Rāhulamātā. Ja.ii.392f.; so sánh Supattajātaka (Ja 292), nơi Sāriputta, theo yêu cầu của Rāhula, đã xin cho bà từ Pasenadi món cơm với bơ lỏng (ghee), nêm với cá đỏ. Món này dành cho chứng đau bụng (Ja.ii.433).
+
+Nhiều câu chuyện được tìm thấy trong Chú giải Jātaka, trong đó Rāhulamātā được đồng nhất với một hoặc các nhân vật khác – ví dụ,
+
+- hoàng hậu trong Abbhantara (Ja 281),
+- Sammillabhāsinī trong Ananusociya (Ja 328),
+- Samuddavijayā trong Āditta (Ja 424),
+- Udayabhaddā trong Udaya (Ja 458),
+- vợ của người thợ gốm (? Bhaggavī) trong Kumbhakāra (Ja 408),
+- hoàng hậu trong Kummāsa (Ja 416),
+- hoàng hậu trong Kurudhamma (Ja 276),
+- Pabhāvatī trong Kusa (Ja 531),
+- Candā, trong Khaṇḍahāla (Ja 542),
+- hoàng hậu trong Gaṅgamāla (Ja 421),
+- con chim mái trong hai bài Cakkavākajātaka (Ja 434),
+- Candā trong Candakinnara (Ja 485),
+- Sumanā trong Campeyya (Ja 506),
+- nữ ẩn sĩ trong Cūḷa Bodhi (Ja 443),
+- Candā trong Cūḷa Sutasoma (Ja 525),
+- hoàng hậu trong Jayaddisa (Ja 513),
+- Sītā trong Dasaratha (Ja 461),
+- hoàng hậu trong Pānīya (Ja 459),
+- người vợ trong Bandhanāgāra (Ja 201),
+- Sujātā trong Maṇicora (Ja 194),
+- mẹ của Manoja trong Manoja (Ja 397),
+- Sīvalī trong Mahā Janaka (Ja 539),
+- Subhaddā trong Mahā Sudassana (Ja 95),
+- hươu mẹ trong Lakkhaṇa (Ja 11),
+- vợ của Visayha trong Visayha (Ja 340),
+- Maddī trong Vessantara (Ja 547),
+- Suphassā trong Supatta (Ja 292),
+- hoàng hậu trong Susīma,
+- và vợ của người thợ rèn trong Sūci (Ja 387).
+
+Rāhulasaṁyutta. Phần thứ mười tám của Saṁyuttanikāya. Nó bao gồm một loạt các bài học do Đức Phật ban cho Rāhula, cho ngài thấy bản chất thoáng qua của vạn vật (SN.ii.244-56). Buddhaghosa nói (MN­a.ii.635f) rằng những *Sutta* này đã được thuyết giảng trong nhiều dịp khác nhau, từ lúc Rāhula gia nhập Tăng đoàn, cho đến lúc ngài đạt quả vị *Arahant*. Chúng có chứa sự đề cập đến các phẩm chất làm chín muồi sự giải thoát, *vimuttiparipācanīyadhammā* (SN­a.ii.159).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāṇasutta. Few are they who abstain from taking life, more numerous they who 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṇasutta. Số người kiêng tránh việc sát sinh thì ít, số người không kiêng tránh thì lại nhiều hơn. SN.v.468.
 
 ## Notes

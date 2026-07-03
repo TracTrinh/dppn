@@ -5,7 +5,7 @@ base_headword: "Dhammārāma"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammārāma 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammārāma 03. Dhammārāma Thera. Người ta kể với chúng ta rằng khi Đức Phật thông báo ngài sẽ nhập diệt trong vòng bốn tháng nữa, một số lượng lớn các tỳ-kheo đã đi lang thang trong sự xao nhãng, thành từng nhóm nhỏ, không biết phải hướng về đâu. Nhưng Dhammārāma sống tách biệt, chuyên tâm thiền định. Việc này được bẩm báo lên Đức Phật và, khi được hỏi, Dhammārāma thú nhận rằng ngài muốn trở thành một vị *Arahant* trong khi Đức Phật vẫn còn tại thế. Đức Phật đã khen ngợi ngài và yêu cầu các tỳ-kheo khác noi theo tấm gương của ngài. Dhp­a.iv.93ff.
 
 ## Notes

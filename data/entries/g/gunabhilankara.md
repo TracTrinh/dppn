@@ -5,7 +5,7 @@ base_headword: "Guṇābhilaṅkāra"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Guṇābhilaṅkāra. A Thera of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guṇābhilaṅkāra. Một Trưởng lão của Tunnagāma. Vị này là một trong những người khởi xướng cuộc tranh luận *Ekaṁsika* (Sās.118). Về sau, vị này là trụ trì của Jeyyabhūmivihāra. (Sās.132, 163).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saññāmanasikārasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saññāmanasikārasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ānanda hỏi Đức Phật làm thế nào một vị tỳ-kheo có thể phát triển định đến mức vị ấy hoàn toàn không nhận biết được tất cả những gì được nhìn thấy, nghe thấy, cảm nhận, nhận thức, đạt được, tìm kiếm, hoặc suy nghĩ đến. Bằng sự tĩnh lặng của mọi hoạt động, sự chấm dứt của ái dục, bằng *Nibbāna*, Đức Phật trả lời. AN.v.318f.
 
 ## Notes

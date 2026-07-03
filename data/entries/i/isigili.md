@@ -5,7 +5,7 @@ base_headword: "Isigili"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -58,6 +58,20 @@ Five hundred <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isigili. Một trong năm ngọn núi bao quanh Rājagaha và là một trong những thắng cảnh của thành phố (DN.ii.116). Có một tảng đá đen tên là Kāḷasilā nằm ở một bên của ngọn núi này. Đây là một nơi lui tới yêu thích của Đức Phật và các thành viên của Tăng đoàn. Hãy xem, ví dụ, Vin.ii.ii.76, nơi Dabba Mallaputta được các tỳ-kheo yêu cầu cung cấp chỗ ở cho họ tại đó; cũng xem Vin.iii.41.
+
+Đây cũng là bối cảnh của việc tự sát của Godhika và Vakkali (SN.i.121; iii.121f) và của vụ sát hại Moggallāna do bọn cướp gây ra (Ja.v.125f; Dhp­a.iii.65).
+
+Trong Cūḷa Dukkhakkhandasutta, người ta nói rằng một số lượng lớn các Nigaṇṭha đã sống tại Kāḷasilā, không bao giờ ngồi xuống, phải chịu đựng những cơn kịch phát của sự đau đớn và nỗi thống khổ tột độ, tuân theo những lời dạy của Nigaṇṭha Nātaputta. Đức Phật đã chất vấn họ về các sự thực hành của họ và thuyết cho họ nghe bài *Sutta* được đề cập ở trên, bài kinh mà sau đó ngài đã lặp lại cho Mahā Nāma (MN.i.91ff).
+
+Có lần khi Đức Phật đang trú tại Kāḷasilā, ngài đã hát những lời ca ngợi Rājagaha, trao cho Ānanda một cơ hội, nếu ông mong muốn, để thỉnh cầu ngài sống tiếp cho trọn một *kappa*; nhưng Ānanda đã không nắm lấy cơ hội của mình (DN.iii.116).
+
+Các sách có đề cập đến một vài chuyến viếng thăm khác của Đức Phật đến Isigilapassa. Trong một chuyến viếng thăm như vậy, ngài đã nghe lời ca ngợi nồng nhiệt của Vaṅgīsa dành cho Moggallāna (SN.i.194; Thag.1249ff).
+
+Trong Isigilisutta (MN.iii.68-71) Đức Phật được mô tả là nói rằng trong khi các ngọn núi khác bao quanh Rājagaha – Vebhāra, Paṇḍava, Vepulla và Gijjhakūṭa – đã thay đổi những cái tên cũ của chúng, Isigili vẫn giữ nguyên cái tên và danh xưng trước đây của nó.
+
+Có lần năm trăm Pacceka Buddha từng cư ngụ ở Isigili trong một thời gian dài; người ta có thể nhìn thấy họ đi vào trong ngọn núi, nhưng một khi đã đi vào, thì không còn dấu vết nào của họ nữa. Con người, quan sát điều này, nói rằng ngọn núi đã nuốt chửng các nhà hiền triết và do đó nó có tên là Isigili (*Isī gilatī ti Isigili*).
+
+Buddhaghosa nói thêm (MN­a.ii.889) rằng khi các vị Pacceka Buddha trở về từ những vòng đi khất thực của họ, tảng đá sẽ mở ra giống như một cánh cửa xếp để cho họ vào. Bên trong tảng đá họ đã tự tạo cho mình những lối đi dạo, những ngôi nhà để ở, v.v...
 
 ## Notes

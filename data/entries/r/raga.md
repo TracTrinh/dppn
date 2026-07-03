@@ -5,7 +5,7 @@ base_headword: "Ragā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ragā. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ragā. Một trong ba người con gái của Māra, người đã tìm cách cám dỗ Đức Phật. Snp. vs. 835; SN.i.124ff.; Ja.i.78; Dhp­a.i.201; iii.196,199, v.v.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uddaka Rāmaputta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -49,6 +49,16 @@ In the Sanskrit books <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị đạo sư mà dưới sự hướng dẫn của ngài, Gotama, sau khi từ bỏ thế gian và trước khi ngài trở thành Đức Phật, đã thọ nhận sự chỉ dạy (Ja.i.66, 81). Uddaka đã dạy ngài giáo lý đã được liễu ngộ và được công bố bởi cha ngài là Rāma, đó là sự chứng đạt của trạng thái "phi tưởng phi phi tưởng" (tương ứng với *Arūpajjhāna* thứ tư). Khi Gotama đã tinh thông điều này, Uddaka đã khiến ngài trở nên hơn cả sự ngang hàng với chính mình bằng cách đặt ngài đứng đầu toàn bộ nhóm các đệ tử của mình với tư cách là đạo sư của họ. Nhưng Gotama, nhận thấy giáo lý này không thỏa đáng, đã từ bỏ nó (MN.i.165ff., 240ff.; Dhp­a.i.70-1).
+
+Đức Phật rõ ràng đã có một sự đánh giá cao đối với Uddaka Rāmaputta, vì sau sự Giác ngộ, khi tìm kiếm một người mà Pháp có thể được thuyết giảng cho, và người có khả năng lĩnh hội ngay lập tức ý nghĩa của nó, những ý nghĩ của ngài đã hướng đến Uddaka, nhưng Uddaka đã qua đời (Vin.i.7).
+
+Trong Vassakārasutta của Aṅguttaranikāya (ii.180), người ta đề cập rằng Vua Eḷeyya, cùng với đội cận vệ của mình, Yamaka, Moggalla và những người khác, là những người đi theo Rāmaputta và rằng họ đã giữ ngài trong sự kính trọng vĩ đại.
+
+Trong Saṁyuttanikāya (iv.83f) Đức Phật nói rằng Uddaka đã tuyên bố là "thông thạo trong truyền thuyết và đã chinh phục được mọi thứ, đào tận gốc rễ của khổ đau," mặc dù ngài không có lý do chính đáng cho một tuyên bố như vậy.
+
+Một lần nữa, trong Pāsādikasutta (DN.iii.126-7), Đức Phật bảo Cunda rằng khi Uddaka nói "nhìn, ông ta không nhìn thấy," ngài đang nghĩ đến một người đã nhìn thấy lưỡi của một con dao cạo sắc bén nhưng không thấy cạnh sắc của nó – một thứ thấp kém, ngoại giáo để nói đến.
+
+Trong các cuốn sách tiếng Phạn, Uddaka Rāmaputta được gọi là Udraka. Mvu.ii.119-20; Divy.392; *Lalitavistara* 306f.
 
 ## Notes

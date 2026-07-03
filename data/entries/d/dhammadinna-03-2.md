@@ -5,7 +5,7 @@ base_headword: "Dhammadinnā"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -44,6 +44,14 @@ Dhammadinnā was the teacher of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammadinnā 03. Một vị Therī xuất chúng, được xếp hạng tối thắng trong số các tỳ-kheo-ni sở hữu biệt tài thuyết pháp (AN.i.25). Bà là vợ của Visākha ở Rājagaha, và khi ông, sau khi nghe Đức Phật thuyết pháp, trở thành một vị *Anāgāmī* (Bất lai), bà đã từ bỏ thế gian với sự đồng ý của chồng mình, người đã đưa bà đến ni viện trong một chiếc kiệu vàng (MN­a.i.515 nói rằng chiếc kiệu này do Bimbisāra chu cấp). Sống trong sự tĩnh cư, bà chẳng bao lâu đã đạt quả vị *Arahant* với bốn *paṭisambhidā* (xem Thīg.v.12 để biết một bài kệ do bà thốt lên). Về sau bà đã trở lại Rājagaha để đảnh lễ Đức Phật, và ở đó Visākha đã hỏi bà những câu hỏi về Pháp, mà bà đã trả lời "dễ dàng như người ta có thể cắt một cọng ngó sen bằng dao." Những câu hỏi và trả lời được đưa ra trong Cūḷa Vedallasutta (MN.i.299ff). Visākha đã tường thuật lại cuộc đối thoại này cho Đức Phật, ngài đã tán dương trí tuệ lớn lao của bà và khen ngợi tài hùng biện của bà.
+
+Vào thời của Đức Phật Padumuttara bà là một người hầu, và một ngày nọ nhìn thấy vị đệ tử của Đức Phật, Sujāta, đang đi khất thực và đã cúng dường ngài một món cà ri (Thīg­a. p.15 nói rằng Sujāta vừa mới xuất khỏi *samādhi*). Ông chủ của bà, thấy vậy, đã nhận bà làm con dâu. Về sau, trong một chuyến đi đến vihāra, bà nhìn thấy một vị ni được tuyên bố là tối thắng về thuyết pháp và đã mong ước được sự xuất chúng tương tự.
+
+Vào thời của Đức Phật Phussa bà đã đạt được công đức nhờ cúng dường cho người anh em cùng cha khác mẹ của Đức Phật món quà gấp đôi mức chồng bà chỉ định (chi tiết về điều này được đưa ra trong Pv-a., p.21).
+
+Vào thời của Đức Phật Kassapa bà được sinh làm Sudhammā, người thứ sáu trong bảy người con gái của Kikī, vua xứ Benares; trong hai mươi nghìn năm bà đã sống độc thân (câu chuyện của bà được đưa ra trong Thīg­a.15ff; Ap.ii.567f; AN­a.i.196f; MN­a.i.515ff; Dhp­a.iv.229ff).
+
+Dhammadinnā là giáo thọ sư của Sukhā (Thīg­a.58).
 
 ## Notes

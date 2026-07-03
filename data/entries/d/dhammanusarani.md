@@ -5,7 +5,7 @@ base_headword: "Dhammānusāraṇi"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhammānusāraṇi. A Pāli commentarial work. Gv.68, 72.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammānusāraṇi. Một tác phẩm chú giải tiếng Pāli. Gv.68, 72.
 
 ## Notes

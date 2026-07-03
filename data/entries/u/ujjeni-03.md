@@ -5,7 +5,7 @@ base_headword: "Ujjenī"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Ujjenī 03. A township (*nigama*), the residence of the banker’s daughter <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjenī 03. Một thị trấn (*nigama*), nơi cư trú của con gái vị trưởng giả tên là Rucinandā, người đã cúng dường một bữa ăn bằng cơm sữa cho Padumuttara Buddha ngay trước sự Giác ngộ của ngài (Bv­a.158).
 
 ## Notes

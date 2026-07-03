@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhārāma"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jeṭṭhārāma. Built by Queen <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhārāma. Được Vương hậu Jeṭṭhā xây dựng như một nơi cư ngụ cho các ni cô. Các ngôi làng Pattapāsāṇa và Buddhabhelagāma đã được cúng dường để duy trì nó và một trăm người phục vụ đã được cung cấp để phục dịch cho nó. Cv.xlvi.27f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uddālapupphiya Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uddālapupphiya Thera. An *Arahant*. Thirty-one *kappas* ago he gave an *uddāla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Ba mươi mốt *kappa* trước, ngài đã dâng một bông hoa *uddāla* cho một vị Pacceka Buddha, Anātha, trên bờ sông Hằng (Ganges) (Ap.i.288).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Udānasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Udānasutta. Preached by the Buddha at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng bởi Đức Phật tại Daṇḍakappa. Như Lai sở hữu tri kiến trọn vẹn về tâm của con người. AN.iii.402.
 
 ## Notes

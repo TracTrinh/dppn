@@ -5,7 +5,7 @@ base_headword: "Jambukolavihāra"
 disambiguator: "02"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jambukolavihāra 02. Another *vihāra*, with its celebrated rock-temple called t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jambukolavihāra 02. Một *vihāra* khác, với ngôi chùa hang đá nổi tiếng của nó được gọi là Jambukolalena, nằm ở trung tâm Tích Lan, cách Matale hiện đại hai mươi sáu dặm về phía bắc. Nó đã được khôi phục bởi Vijayabāhu I (Cv.lx.60) và được xây dựng lại bởi Kittinissaṅka, người đã đặt vào trong đó bảy mươi ba bức tượng Phật bằng vàng. Cv.lxxx.23; xem thêm Cv.Trs.ii.128, n.3.
 
 ## Notes

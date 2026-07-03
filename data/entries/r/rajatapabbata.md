@@ -5,7 +5,7 @@ base_headword: "Rajatapabbata"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rajatapabbata. A mountain range in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rajatapabbata. Một dãy núi trong vùng Himālaya. Ja.i.50; ii.6, 7, 92.
 
 ## Notes

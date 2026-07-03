@@ -5,7 +5,7 @@ base_headword: "Nāgamahāvihāra"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,6 @@ Nāgamahāvihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāgamahāvihāra. Một tu viện ở Rohaṇa, được xây dựng bởi Mahā Nāga, người cai trị của Mahā Gāma và là anh em của Devānampiyatissa (Mhv.xxii.9). Iḷanāga đã trùng tu nó và ban tặng đất đai để bảo trì nó (Mhv.xxxv.31; Mhv­ṭ.469). Có một câu chuyện được kể về một vị tỳ-kheo của *vihāra* này đã chặt hạ một cây Nāga gần tu viện. *Devatā* (thiên nhân) sống trong cây đó đã bực bội, và tuyên bố với Trưởng lão rằng vị vua đang bảo trợ cho ngài sẽ chết trong vòng bảy ngày. Trưởng lão đã đề cập điều này trong hoàng cung; bảy ngày trôi qua và vì không có chuyện gì xảy ra, nhà vua đã ra lệnh chặt tay chân của Trưởng lão (Vibh­a.407). Gần tu viện có một ngôi làng tên là Kelakacchagāma (*v.l.* Kāḷagacchagāma) (MN­a.ii.1025). Dappula đã ban tặng ngôi làng Kevaṭṭagambhīra cho *vihāra* (Cv.x1v.58).
 
 ## Notes

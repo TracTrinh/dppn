@@ -5,7 +5,7 @@ base_headword: "Isibhatta Thera"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Isibhatta Thera. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isibhatta Thera. Anh/em trai của Isidāsa.
 
 ## Notes

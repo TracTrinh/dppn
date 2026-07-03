@@ -5,7 +5,7 @@ base_headword: "Isayo Araññakāsutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -31,6 +31,8 @@ One day, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isayo Araññakāsutta (hoặc Isayo Gandhasutta). Xưa kia, có nhiều bậc tiên nhân với hạnh kiểm đạo đức đã sống trong những túp lều lợp lá ở một khu rừng hoang dã. Theo Buddhaghosa, họ sống ở Himālaya (SN­a.i.265); Vepacitti và Sakka là bố vợ và con rể; đôi khi họ cãi nhau, đôi khi, như ở đây, họ là bạn bè.
+
+Một ngày nọ, Sakka và Vepacitti đến thăm họ. Vepacitti đi vào am thất bằng cổng chính, vẫn mang giày và đeo kiếm bên mình, do đó xúc phạm các tiên nhân và phạm phải tội lỗi. Sakka, mặt mặt khác, đã đi vào bằng lối thông thường, cởi bỏ giày và kiếm; với chiếc lọng được gập lại, ông đứng ở vị trí khuất gió so với các tiên nhân, đảnh lễ họ với đôi tay chắp lại. Các tiên nhân, hướng về phía Sakka, đã hỏi ông liệu ông có cảm thấy ghê tởm mùi của họ không, bởi vì họ là con người và ông là một vị thần. Sakka trả lời rằng mùi hương của những người đạo đức là rất dễ chịu, giống như một vòng hoa với nhiều loại hoa khác nhau (SN.i.226).
 
 ## Notes

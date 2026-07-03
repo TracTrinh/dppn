@@ -5,7 +5,7 @@ base_headword: "Upaḍḍhadussadāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upaḍḍhadussadāyaka Thera. An *Arahant*. In the time of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaḍḍhadussadāyaka Thera. Một *Arahant*. Vào thời của Padumuttara Buddha, ngài từng là một người lao động, và khi nhìn thấy một vị tỳ-kheo, tên là Sujāta, đang tìm kiếm những mảnh giẻ để làm y, ngài đã cúng dường cho ông ấy một nửa bộ y phục ngài đang mặc. Kết quả là ngài đã trở thành vua của các vị thần ba mươi ba lần và vua của loài người bảy mươi bảy lần. Ap.ii.436f.
 
 ## Notes

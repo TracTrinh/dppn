@@ -5,7 +5,7 @@ base_headword: "Jeṭṭhamūla"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jeṭṭhamūla. Name of a month (May-June). It came in the hot season (e.g., Ja
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeṭṭhamūla. Tên của một tháng (tháng Năm-tháng Sáu). Nó rơi vào mùa nóng (ví dụ, Ja.v.412). Vào ngày thứ năm của nửa tháng trăng tròn trong tháng Jeṭṭhamūla, xá-lợi của Đức Phật đã được phân chia (DN­a.i.6). Vào ngày trăng tròn của tháng Jeṭṭhamūla, Aruṇavatīsutta đã được thuyết giảng. AN­a.i.438.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Jhānasutta"
 disambiguator: "05"
 letter: "J"
 section: "Jh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/038.html"
@@ -24,6 +24,6 @@ Jhānasutta 05. The great benefit one derives from practising *jhāna*, even for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jhānasutta 05. Lợi ích to lớn mà một người có được từ việc thực hành *jhāna*, thậm chí chỉ trong khoảng thời gian của một cái búng tay, và những phương pháp khác nhau để đạt được sự thực hành như vậy. AN.i.38ff.
 
 ## Notes

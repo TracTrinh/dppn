@@ -5,7 +5,7 @@ base_headword: "Ramma"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ramma 06. A nine-storied palace occupied by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ramma 06. Một cung điện chín tầng được Gotama Buddha sử dụng trong kiếp sống cư sĩ cuối cùng của ngài. Bv­a.230; Bv.xxvi.14 gọi nó là Rāma.
 
 ## Notes

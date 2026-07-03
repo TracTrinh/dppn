@@ -5,7 +5,7 @@ base_headword: "Upakkilesasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,6 @@ Upakkilesasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upakkilesasutta 01. Được thuyết giảng tại Pācīnavaṁsadāya cho Anuruddha, Nandiya và Kimbila. Nó diễn ra vào thời điểm xảy ra cuộc cãi vã của các tỳ-kheo Kosambī; Đức Phật, để tìm kiếm sự yên tĩnh, đã đi đến Bālakaloṇaka, thuyết pháp ở đó cho Bhagu và tiến đến Pācīnavaṁsadāya, nơi ngài bảo với những người anh em họ của mình về cách họ nên phát triển thiền định, loại bỏ tất cả các chướng ngại. MN.iii.152ff. Các vần kệ của *Sutta* cũng được tìm thấy trong phiên bản của Vinaya (i.349ff). Một số vần kệ được đưa vào Dhammapada (kệ 328-30) và trong Khaggavisāṇasutta của Suttanipāta (kệ 11, 12).
 
 ## Notes

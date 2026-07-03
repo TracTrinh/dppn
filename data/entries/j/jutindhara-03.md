@@ -5,7 +5,7 @@ base_headword: "Jutindhara"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jutindhara 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jutindhara 03. *v.l.* Jalandhara. Một vị vua của bảy mươi bảy *kappa* trước, một tiền kiếp của Kilañjadāyaka. Ap.i.219.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Saṅghāṭagāma"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Saṅghāṭagāma. A village given by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghāṭagāma. Một ngôi làng được Vijayabāhu I. trao cho nhóm Lābhavāsī. Cv.lx.68.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pācīnakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pācīnakā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pācīnakā, các Pācīnaka. Dưới tên gọi này là sự mô tả về các tỳ-kheo Vajjiputtaka, những người đã đưa ra Mười Điểm dẫn đến kỳ Đại Kết Tập lần thứ hai (Mhv.iv.47,48). Họ được gọi như vậy bởi vì họ thuộc về phương Đông (Mhv­ṭ.165,166).
 
 ## Notes

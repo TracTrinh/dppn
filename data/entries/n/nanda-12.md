@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "12"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nanda 12. One of the chief lay supporters of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 12. Một trong những nam cư sĩ hộ độ chính của Maṅgala Buddha. Bv.xxii. 25.
 
 ## Notes

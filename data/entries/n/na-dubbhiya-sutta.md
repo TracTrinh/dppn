@@ -5,7 +5,7 @@ base_headword: "Na dubbhiya Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Na dubbhiya Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Na dubbhiya Sutta. Sakka từng quyết định không phản bội cả kẻ thù của mình. Ngay sau đó, Vepacitti, nhận ra suy nghĩ của ngài, đã tiếp cận ngài. Sakka muốn bắt Vepacitti làm tù binh, nhưng Vepacitti cam kết sẽ không bày tỏ sự phản trắc nào với ngài. (SN.1.225).
 
 ## Notes

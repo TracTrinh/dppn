@@ -5,7 +5,7 @@ base_headword: "Dhammasena"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammasena 02. The chief disciple of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasena 02. Đệ tử hàng đầu của Maṅgala Buddha. Ngài là một cư dân của Mekhala. Bv.xxii.23; Bv­a.120; Ja.i.41; *Mahā Vastu* (Mvu.i.248) gọi ngài là Dharmadeva.
 
 ## Notes

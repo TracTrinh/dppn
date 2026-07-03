@@ -5,7 +5,7 @@ base_headword: "Uccaṅgamāya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uccaṅgamāya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Pacceka Buddha được tìm thấy trong một danh sách các vị Pacceka Buddha. MN.iii.70; Ap­a.i.107.
 
 ## Notes

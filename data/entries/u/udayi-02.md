@@ -5,7 +5,7 @@ base_headword: "Udāyī"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,8 @@ He is censured again and again and various penalties are inflicted on him, never
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Thera. Có một lần đến lượt ngài tụng đọc Pātimokkha trước Tăng đoàn, nhưng bởi vì ngài có giọng nói của một con quạ (*kākasaraka*), ngài đã phải xin phép để nỗ lực đặc biệt ngõ hầu việc tụng đọc của ngài có thể được nghe thấy bởi những người khác (Vin.i.115). Có lẽ, chính vị tỳ-kheo này là người được đề cập trong Vinaya là đã phạm phải vô số tội *Saṅghādisesa* (Vin.iii.110f, 119f, 127f, 137f, 135ff).
+
+Ngài bị quở trách lặp đi lặp lại và nhiều hình phạt khác nhau được giáng xuống ngài, tuy nhiên ngài vẫn lặp lại các hành vi vi phạm của mình (Vin.ii.38ff). Trong *Nissaggiya* (Vin.iii.205f) một câu chuyện được kể về một vị tỳ-kheo-ni, một người tình cũ của Udāyī, người đã thụ thai một đứa trẻ thông qua việc chạm vào một y phục được mặc bởi ngài. Một lần khi Uppalavaṇṇā nhờ ngài mang một ít thịt đến cho Đức Phật, ngài đã đòi nội y của bà như phần thù lao của mình (Vin.iii.208). Ngài dường như đã rất thích sự bầu bạn của phụ nữ và họ đã đáp lại sự yêu thích của ngài (xem, ví dụ, Vin.iv.20, 61, 68). Rõ ràng là có một mầm mống của sự tàn nhẫn trong ngài, vì chúng ta được kể về việc ngài bắn những con quạ và xiên chúng sau khi đã chặt đứt đầu của chúng (Vin.iv.124). Ngài được mô tả là béo phì (Vin.iv.171). Ngài có lẽ được đồng nhất với Lāḷudāyī.
 
 ## Notes

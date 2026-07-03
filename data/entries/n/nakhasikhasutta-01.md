@@ -5,7 +5,7 @@ base_headword: "Nakhasikhāsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nakhasikhāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakhasikhāsutta 01. Được thuyết giảng tại Jetavana. Giống như quả đất vĩ đại rộng lớn hơn gấp nhiều lần so với nhúm bụi nhỏ xíu lấy trên đầu móng tay của một người, sự đau khổ đã bị tiêu diệt bởi đệ tử bậc Thánh có trí tuệ và sự thấu hiểu cũng rộng lớn hơn nhiều so với sự đau khổ vẫn chưa bị tiêu diệt. SN.ii.133; SN.v.459.
 
 ## Notes

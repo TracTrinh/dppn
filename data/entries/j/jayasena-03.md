@@ -5,7 +5,7 @@ base_headword: "Jayasena"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jayasena 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayasena 03. Vua của Kapilavatthu. Con trai của ông là Sīhahanu và con gái của ông là Yasodharā. Cháu nội của ông là Suddhodana. Mhv.ii.15.ff; Dpv.iii.44; Mhv­ṭ.134; nhưng xem Mvu.i.352, trong đó ông được gọi là Hastikaśīrṣa. Các nguồn tiếng Tây Tạng gọi ông là Dhanvadurga (Rockhill, p.13.)
 
 ## Notes

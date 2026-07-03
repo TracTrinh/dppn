@@ -5,7 +5,7 @@ base_headword: "Namuci"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Namuci. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Namuci. Một tên gọi của Māra (*q.v.*), được đặt vì y không cho phép chư thiên hay loài người trốn thoát (*na muci*) khỏi nanh vuốt của mình, mà gây hại cho họ. Snp­a.ii.386.
 
 ## Notes

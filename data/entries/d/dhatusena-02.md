@@ -5,7 +5,7 @@ base_headword: "Dhātusena"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -41,6 +41,10 @@ Among <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhātusena 02. Vua của Tích Lan (460-78 CN.). Ngài là con trai của Dāṭhānāma và là anh em của Silātissabodhi. Ngài dường như có một người anh em khác, Kumārasena (*q.v.*). Dhātusena thuộc về dòng họ Moriyavaṁsa. Ngài trở thành một vị tỳ-kheo dưới sự hướng dẫn của người chú của mình, vị trụ trì của *Dīghasaṇḍasenāpatipariveṇa*, và ở lại với ông ấy cho đến khi các khâu chuẩn bị cho chiến dịch của ngài được thực hiện xong. Sau đó ngài trở lại đời sống cư sĩ, giết chết người Pāṇḍyan tên là Tiritara, lúc bấy giờ đang trị vì ở Anurādhapura, và trở thành vua. Công trình chính của ngài là việc xây dựng *Kālavāpi*, được ngài thực hiện bằng cách đắp đập ngăn dòng Goṇanadī. Ngài đã xây dựng mười tám *vihāra* và mười tám hồ chứa nước. Ngài tỏ sự ân sủng lớn đối với các tỳ-kheo và đã làm nhiều công việc đạo đức. Ngài đã trao tặng Ambatthalavihāra cho các Dhammarucika.
+
+Ngài có hai người con trai – Moggallāna và Kassapa. Kassapa đã nổi loạn chống lại cha mình dưới sự xúi giục của người anh rể của ngài - người đã bị trừng phạt vì ngược đãi con gái của nhà vua – và đã bắt giữ Dhātusena với hy vọng đoạt được kho báu của ngài. Nhà vua yêu cầu được đưa đến *Kālavāpi*, nhìn thấy vị Thera từng là đạo sư của mình, và tuyên bố rằng toàn bộ kho báu của ngài chính là *Kālavāpi*. Kassapa sau đó đã chôn sống ngài.
+
+Trong số các món quà cúng dường của Dhātusena, có nhắc đến khoản một ngàn đồng tiền vàng được ngài chi ra cho một bản diễn giải (?) của Dīpavaṁsa (*dīpetuṁ Dīpavaṁsaṁ*). Cv.xxxviii.14f, 30ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Ugga 02. The chief minister of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị đại thần của Pasenadi, vua của Kosala (AN­a.ii.697). Có một lần ông đã đến thăm Đức Phật và kể cho ngài cách ông đã sánh ngang về quyền lực và sự giàu có với *seṭṭhi* Migāra, cháu trai của Rohaṇa. Chỉ riêng vàng thì ông đã trị giá một trăm ngàn, chưa nói đến bạc. Đức Phật nói với ông rằng tất cả sự giàu có này có thể dễ dàng bị mất đi theo nhiều cách khác nhau, không giống như bảy loại tài sản Thánh (*saddhā*, *sīla*, v.v.). AN.iv.6-7.
 
 ## Notes

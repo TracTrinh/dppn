@@ -5,7 +5,7 @@ base_headword: "Dīghasumana"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dīghasumana. A Thera of Ceylon, expert in the Vinaya. Vin.v.8; Vin-a.i.104.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dīghasumana. Một vị Trưởng lão của Tích Lan, một chuyên gia về Vinaya. Vin.v.8; Vin-a.i.104.
 
 ## Notes

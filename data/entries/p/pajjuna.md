@@ -5,7 +5,7 @@ base_headword: "Pajjuna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pajjuna. The eighth of the ten <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pajjuna. Người thứ tám trong số mười Andhakaveṇhudāsaputtā, các con trai của Devagabbhā. Ja.iv.81; Pv-a.93,111.
 
 ## Notes

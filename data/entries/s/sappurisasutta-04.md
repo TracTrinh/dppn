@@ -5,7 +5,7 @@ base_headword: "Sappurisasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Sappurisasutta 04. The good man’s gifts are given in faith, with deference, se
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những món quà của người tốt được trao đi trong niềm tin, với sự tôn trọng, đúng lúc, với trái tim không bị gò bó, và không gây tổn hại cho bản thân hay người khác. AN.iii.172.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "03"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -23,6 +23,6 @@ Indriyasutta 03. If a monk, observing the rise and fall in the faculties of sens
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 03. Nếu một tỳ-kheo, quan sát sự sanh và diệt trong các căn, cảm thấy nhàm chán với chúng và không tham ái chúng, trí tuệ sẽ phát sanh trong ông ấy rằng ông đã được tự do và không còn đời sống nào tiếp theo dành cho ông nữa. Bằng cách đó, ông ấy sẽ được viên mãn về căn. SN.iv.140.
 
 ## Notes

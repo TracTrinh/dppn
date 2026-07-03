@@ -5,7 +5,7 @@ base_headword: "Uggata"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uggata 07. Fourteen *kappas* ago there were four kings named <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uggata 07. Mười bốn *kappa* trước có bốn vị vua tên là Uggata, những tiền kiếp của Trưởng lão Parappasādaka (Ap.i.114) hoặc Bhūta (Thag­a.i.494).
 
 ## Notes

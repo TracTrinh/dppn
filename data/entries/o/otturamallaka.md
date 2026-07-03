@@ -5,7 +5,7 @@ base_headword: "Otturāmallaka"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -26,6 +26,6 @@ Otturāmallaka. The chieftain of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Otturāmallaka. Thủ lĩnh của Dhanumaṇḍala, người đã bị khuất phục bởi vị tướng quân Rakkha. Cv.lxx.17, 18, 28.
 
 ## Notes

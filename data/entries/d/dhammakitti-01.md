@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -26,6 +26,6 @@ Dhammakitti 01. One of the Sinhalese envoys of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 01. Một trong những phái viên người Tích Lan của Parakkamabāhu I gửi đến vua xứ Rāmañña. Nhà vua đã xúc phạm ông và đưa ông, cùng với Vāgissara, trở về Tích Lan trên một chiếc tàu bị rò rỉ. Cv.lxxvi.32ff.
 
 ## Notes

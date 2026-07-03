@@ -5,7 +5,7 @@ base_headword: "Sappasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sappasutta 01. Once, when the Buddha was staying at the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một lần, khi Đức Phật đang ngự tại Kalandakanivāpa ở Veḷuvana, Māra đã xuất hiện trước mặt ngài trong hình dạng một con rắn hổ mang khổng lồ quái dị và cố gắng đe dọa ngài. Nhưng Đức Phật, nhận ra hắn, đã nói rằng chư Phật không biết sợ hãi là gì. SN.i.106f.
 
 ## Notes

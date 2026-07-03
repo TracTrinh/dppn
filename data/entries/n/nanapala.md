@@ -5,7 +5,7 @@ base_headword: "Ñāṇapāla"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇapāla. Một vị lãnh đạo của hội chúng tỳ-kheo ở Anurādhapura vào thời Parakkamabāhu 1. Cv.lxxviii.8.
 
 ## Notes

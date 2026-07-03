@@ -5,7 +5,7 @@ base_headword: "Jarāmaraṇasutta"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jarāmaraṇasutta. A name given in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jarāmaraṇasutta. Một tên gọi được đưa ra trong Suttasaṅgaha (Số 44) cho Rājasutta (4).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ugga"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ He had been a householder in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Thera. Ngài là con trai của một vị trưởng giả ở Ugga, trong quốc gia Kosala. Khi Đức Phật đang ở tại Bhaddārāma ở đó, Ugga đã nghe ngài thuyết giảng và gia nhập Tăng đoàn. Chẳng bao lâu sau ngài đã trở thành một Arahant (Thag.v.80; Thag­a.i.174-5).
+
+Ngài đã từng là một người gia chủ vào thời của Sikhī Buddha và đã dâng cho ngài một bông hoa *ketaka*. Kết quả là, ngài đã được sinh ra làm vua mười hai lần. Ngài có lẽ được đồng nhất với Sudassana Thera của Apadāna (i.164-5).
 
 ## Notes

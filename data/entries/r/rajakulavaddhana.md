@@ -5,7 +5,7 @@ base_headword: "Rājakulavaḍḍhana"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rājakulavaḍḍhana. See Sarājakulavaḍḍhana ??
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rājakulavaḍḍhana. Xem Sarājakulavaḍḍhana ??
 
 ## Notes

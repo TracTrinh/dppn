@@ -5,7 +5,7 @@ base_headword: "Saraṇa"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saraṇa 02. One of the chief lay supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇa 02. Một trong những nam cư sĩ hộ độ chính của Đức Phật Sumana. Bv.v.28.
 
 ## Notes

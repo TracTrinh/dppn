@@ -5,7 +5,7 @@ base_headword: "Jotipāla"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -35,6 +35,10 @@ Jotipāla was the Bodhisatta (DN.ii.232-51; Mvu.i.197ff). He is twice mentioned 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jotipāla 03. Một vị Bà-la-môn, con trai của Govinda, tế sư của Disampati. Jotipāla là một người bạn của con trai của Disampati, Reṇu, người có sáu vị quý tộc khác làm bạn đồng hành. Khi Govinda qua đời, Jotipāla đã trở thành tế sư cho Disampati. Ông đã truyền cảm hứng cho sáu người bạn đồng hành của Reṇu đến hầu hạ Reṇu và yêu cầu anh ta hứa sẽ chia sẻ vương quốc với họ khi anh ta lên ngôi. Lời hứa này Reṇu đã giữ khi anh kế vị cha mình và bổ nhiệm Jotipāla thực hiện việc phân chia vương quốc, điều mà người sau này đã làm một cách hợp thức. Tất cả các vị vua đều muốn Jotipāla trở thành tế sư của họ, và ông đã hướng dẫn họ nghệ thuật quản trị, đồng thời cũng dạy các chú ngữ (mantra) cho bảy vị Bà-la-môn lỗi lạc và bảy trăm nam thanh niên đã tốt nghiệp. Bản thân Jotipāla đã được biết đến với tên gọi Mahā Govinda.
+
+Sau một thời gian, Jotipāla cáo từ bảy vị vua, các đệ tử và những người vợ của mình, và dành bốn tháng của mùa an cư tại một nơi hẻo lánh bên ngoài thành phố, tu tập *jhāna* nhằm được nhìn thấy *Brahma* mặt đối mặt. Vào cuối kỳ bốn tháng, *Brahma* Sanaṅkumāra đã xuất hiện trước mặt ông và ban cho ông một ân huệ. Jotipāla thỉnh cầu được dạy cách để đạt đến cõi *Brahma*, và, sau khi lắng nghe lời giảng giải của Sanaṅkumāra, đã quyết định xuất gia. Các vị vua và tất cả những người khác đã cố gắng hết sức để khiến ông từ bỏ hướng đi này, nhưng khi thấy những nỗ lực của họ là vô ích, họ đã cùng ông đi vào cuộc sống không nhà, nơi tất cả bọn họ đều được hưởng lợi ích từ đó.
+
+Jotipāla chính là Bodhisatta (DN.ii.232-51; Mvu.i.197ff). Ông được nhắc đến hai lần trong Aṅguttaranikāya (AN.iii.372; iv.135; AN­a.ii.679) trong một danh sách các bậc thầy thời cổ đại có những lượng tín đồ theo sau rất lớn.
 
 ## Notes

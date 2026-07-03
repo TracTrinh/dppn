@@ -5,7 +5,7 @@ base_headword: "Udakarahadasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,8 @@ So, also, there are four classes of people: handsome in appearance but shallow i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có bốn loại mặt nước: (1) Nông (*uttāna*) nhưng có vẻ ngoài sâu (*obhāsa*); (2) sâu nhưng có vẻ ngoài nông; (3) nông và có vẻ ngoài nông; (4) sâu và có vẻ ngoài sâu.
+
+Cũng vậy, có bốn hạng người: có vẻ ngoài đẹp đẽ nhưng nông cạn trong tâm trí; không có vẻ ngoài đẹp đẽ nhưng sâu sắc trong kiến thức; không đẹp đẽ cũng không khôn ngoan; cả đẹp đẽ và khôn ngoan (AN.ii.105-6).
 
 ## Notes

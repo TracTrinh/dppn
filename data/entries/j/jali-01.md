@@ -5,7 +5,7 @@ base_headword: "Jāli"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -37,6 +37,10 @@ The gift of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jāli 01. Con trai của Vessantara và Maddī, và là anh trai của Kaṇhajinā. Cậu và em gái đã được giao cho Jūjaka làm nô lệ, nhưng sau đó được cứu thoát nhờ sự can thiệp của Sakka. Jāli đã dẫn đầu đạo quân đưa Vessantara trở về từ am thất của ngài. Cậu được nhận diện là Rāhula (Ja.vi.487ff; cp.i.9). Xem Vessantarajātaka.
+
+Jāli có lẽ cũng là vị vua cùng tên được nêu trong một danh sách những hậu duệ của Okkāka, và được cho là đã kế vị Vessantara (ví dụ, Mhv.ii.13; Dpv.iii.42).
+
+Việc trao tặng Jāli làm nô lệ được xem là một trong những sự hy sinh vĩ đại nhất do Bodhisatta thực hiện. Ja.i.77; AN­a.i.64; Dhp­a.i.406; Mil.275, 282, v.v.
 
 ## Notes

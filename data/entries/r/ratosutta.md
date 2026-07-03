@@ -5,7 +5,7 @@ base_headword: "Ratosutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Ratosutta. A monk who keeps guard over the door of his faculties, is moderate in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratosutta. Một tỳ-kheo canh giữ cánh cửa các giác quan của mình, tiết độ trong ăn uống và chú tâm vào sự tỉnh giác, sống trong an lạc ở đời này và có được sự trợ giúp mạnh mẽ trong việc đoạn tận các *āsava*. *Sutta* này cung cấp chi tiết về các giác quan đó. SN.iv.175ff.
 
 ## Notes

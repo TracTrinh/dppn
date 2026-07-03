@@ -5,7 +5,7 @@ base_headword: "Jitasenā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jitasenā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jitasenā. Vợ của Nārada Buddha trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.x.20; Bv­a (151) gọi bà là Vijitasenā.
 
 ## Notes

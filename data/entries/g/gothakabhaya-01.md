@@ -5,7 +5,7 @@ base_headword: "Goṭhakābhaya"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -29,6 +29,6 @@ Goṭhakābhaya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Goṭhakābhaya 01. Goṭhābhaya. Một vị vua của vương triều Rohaṇa; con trai của Yaṭṭhālayakatissa và là cha của Kākavaṇṇatissa (Mhv.xv.170; xxii.11). Đôi khi ông được gọi là Abhaya, ví dụ: Mhv.xxiii.10, 56.
 
 ## Notes

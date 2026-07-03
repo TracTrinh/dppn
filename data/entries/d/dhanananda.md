@@ -5,7 +5,7 @@ base_headword: "Dhanananda"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -29,6 +29,6 @@ Dhanananda. The youngest of the nine <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanananda. Người trẻ nhất trong số chín anh em nhà Nanda, các con trai của Kāḷāsoka. Ông đã bị giết bởi Cāṇakka, người đã đưa Candagutta lên ngai vàng (Mhv.v.17). Ông đã chuốc lấy cơn thịnh nộ của Cāṇakka bằng cách lăng mạ ông ấy trong phòng phát chẩn. Cāṇakka đã bắt cóc người con trai Pabbata của ông, xử tử cậu ta, nhận Candagutta làm người được bảo hộ của mình, và đánh cắp các kho báu của Dhanananda mà Cāṇakka đã tìm ra. Với số tiền có được từ đó, ông đã xây dựng một đội quân cho Candagutta và đánh bại Dhanananda. Mhv­ṭ.181ff.
 
 ## Notes

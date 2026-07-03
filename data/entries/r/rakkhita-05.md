@@ -5,7 +5,7 @@ base_headword: "Rakkhita"
 disambiguator: "05"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rakkhita 05. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rakkhita 05. Con trai của Lokitā và Moggallāna và là anh/em trai của Kitti (sau này là Vijayabāhu I.). Cv.lvii.42.
 
 ## Notes

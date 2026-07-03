@@ -5,7 +5,7 @@ base_headword: "Ratanasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -40,6 +40,10 @@ The *Sutta* is given in the *Mahā Vastu* (i.290ff), where it is described as *S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanasutta 01. Một trong những *Sutta* của Khuddakapāṭha. Nó cũng được đưa vào Suttanipāta (vss. 222-38); xem thêm Gaṅgārohaṇasutta. Nó được thuyết tại Vesālī, nhân dịp Đức Phật viếng thăm nơi này theo lời thỉnh cầu của những người Licchavī, những người đã cầu xin ngài giải thoát thành phố khỏi nhiều tai họa khác nhau đang giáng xuống nó. Theo các Chú giải (Snp­a.i.278ff.; Dhp­a.iii.436ff.; Khp-a.164f), thoạt đầu Đức Phật đã dạy *Sutta* này cho Ānanda và yêu cầu ông đi quanh thành phố, cùng với các hoàng tử Licchavī, đọc tụng *Sutta* và rảy nước từ bình bát của Đức Phật. Ngay lập tức mọi ác quỷ đều chạy trốn khỏi thành phố và dân chúng được chữa khỏi bệnh tật. Sau đó họ tụ họp tại hội trường với nhiều lễ vật khác nhau và cung thỉnh Đức Phật đến đó. Hiện diện trong hội chúng không chỉ có toàn bộ cư dân của Vesālī, mà còn có chư thiên của hai cõi Deva, với Sakka đứng đầu. Đức Phật đã thuyết giảng Ratanasutta cho đám đông vĩ đại này. Một ghi chép khác, được Buddhaghosa trích dẫn (Dhp­a.iii.165), nói rằng trong hội chúng, Đức Phật chỉ thuyết năm khổ thơ đầu, phần còn lại đã được Ānanda tụng trước đó. Do *Sutta* này thoạt đầu được thuyết để xua đuổi tai ương khỏi Vesālī, nó đã trở thành bài hộ chú (*Parittā*) nổi tiếng nhất của Phật giáo.
+
+*Sutta* này bao gồm mười bảy bài kệ: hai bài đầu chứa lời thỉnh cầu chư thiên nhận lãnh lòng tôn kính cùng lễ vật của con người và che chở họ trong cơn nguy khốn; tiếp theo là mười hai bài kệ, mô tả các ân đức của Đức Phật, Pháp và Tăng đoàn. Nó kết thúc bằng ba bài kệ được cho là (Dhp­a.iii.195) do Sakka thốt ra thay mặt cho toàn bộ chư thiên, bày tỏ lòng tôn kính của họ đối với Đức Phật, Pháp của ngài và Tăng đoàn của ngài. Người ta cũng nói (Dhp­a.iii.196) rằng trong chuyến viếng thăm này, Đức Phật đã lưu lại Vesālī trong hai tuần, thuyết giảng *Sutta* này trong bảy ngày liên tiếp; mỗi ngày có tám mươi bốn ngàn chúng sinh liễu ngộ Chân lý. *Sutta* này dường như cũng được biết đến với tên gọi Gaṅgārohaṇasutta (Cv.xxxvii.191). Khi Tích Lan bị nạn đói và bệnh dịch hoành hành dưới triều đại của Upatissa II., nhà vua đã cho các tỳ-kheo vừa đi dạo trên các đường phố vừa thuyết giảng *Sutta* này. Mọi rắc rối đều tan biến, và ông sắc lệnh rằng những người kế vị ông cũng nên làm như vậy trong những lúc nguy khốn (Cv.xxxvii.195f). Sena II. đã cho khắc toàn bộ *Sutta* lên một tấm vàng và tổ chức một lễ hội lớn để vinh danh nó (Cv.li.79).
+
+*Sutta* này được đưa vào Mahā Vastu (i.290ff), tại đó nó được mô tả là *Svastyanagāthā*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Dhammasena"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammasena 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammasena 03. Dhammasena Thera. Một *Arahant* ở Isipatana. Ngài đã có mặt cùng với mười hai ngàn người khác tại Anurādhapura, vào buổi lễ đặt nền móng cho Mahā Thūpa. Mhv.xxix.31; Dpv.xxix.5.
 
 ## Notes

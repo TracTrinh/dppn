@@ -5,7 +5,7 @@ base_headword: "Uddhacūḷābhaya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uddhacūḷābhaya. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cháu trai của Devānampiyatissa. Ngài đã khôi phục bảo tháp Mahiyaṅgaṇa và làm cho nó cao ba mươi cubit (Mhv.i.40).
 
 ## Notes

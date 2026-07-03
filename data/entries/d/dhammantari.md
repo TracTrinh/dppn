@@ -5,7 +5,7 @@ base_headword: "Dhammantarī"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -34,6 +34,6 @@ Dhammantarī. A celebrated physician (the Sanskrit Dhanvantarī), mentioned toge
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammantarī. Một y sĩ lừng danh (tiếng Sanskrit Dhanvantarī), được nhắc đến cùng với Vetaraṇī và Bhoja, trong Chú giải Jātaka (Ja.iv.496, 498) và với Nārada, Aṅgīrasa, Kapila, Kaṇḍaraggisāma, Atula cùng Pubba Kaccāyana, trong Milindapañha (Mil.272).
 
 ## Notes

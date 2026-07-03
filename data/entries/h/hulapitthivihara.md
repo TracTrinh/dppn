@@ -5,7 +5,7 @@ base_headword: "Hulapiṭṭhivihāra"
 disambiguator: ""
 letter: "H"
 section: "H."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/073.html"
@@ -26,6 +26,6 @@ Hulapiṭṭhivihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hulapiṭṭhivihāra. *v.l.* Cūḷa Viṭṭhi. Một tu viện ở Tích Lan, do vua Mahā Sena xây dựng. Mhv.xxxvii.43.
 
 ## Notes

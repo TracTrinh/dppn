@@ -5,7 +5,7 @@ base_headword: "Nanda"
 disambiguator: "07"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nanda 07. A disciple of a <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanda 07. Một đệ tử của một vị Pacceka Buddha tên là Sabbābhibhū. Khi đó Bodhisatta là một kẻ nát rượu, tên là Munāli, và đã lăng mạ Nanda. Kết quả của việc này là Ciñcā đã vu khống Gotama Buddha. Ap.i.299; Ud­a.264.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nagaragalla"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nagaragalla. A village in Ceylon gifted by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nagaragalla. Một ngôi làng ở Tích Lan được Mahinda I ban tặng cho việc bảo trì một ni viện do ông xây dựng. Cv.xlviii.36.
 
 ## Notes

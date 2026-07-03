@@ -5,7 +5,7 @@ base_headword: "Nadībhaṇḍagāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nadībhaṇḍagāma. A village in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nadībhaṇḍagāma. Một ngôi làng ở Rohaṇa, được đề cập trong các chiến dịch của Parakkamabāhu I. Cv.lxxv.104; xem thêm Cv.Trs, ii.55, n.1.
 
 ## Notes

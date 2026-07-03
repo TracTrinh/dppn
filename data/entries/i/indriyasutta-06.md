@@ -5,7 +5,7 @@ base_headword: "Indriyasutta"
 disambiguator: "06"
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Indriyasutta 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyasutta 06. Anuruddha nói với các đồng môn của ông rằng bằng cách tu tập bốn *satipaṭṭhāna*, ông biết được, đúng như chúng thực sự là, bản chất tâm của những chúng sinh khác, của những người khác (*indriyaparopariyatti*). SN.v.305.
 
 ## Notes

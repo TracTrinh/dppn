@@ -5,7 +5,7 @@ base_headword: "Saṅkha"
 disambiguator: "04"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Saṅkha 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkha 04. Một vua Nāga; một kiếp sống trước của Rāhula. Snp­a.i.341; nhưng ở nơi khác (ví dụ, SN­a.iii.26) ông được gọi là Pālita. Xem Pālita.
 
 ## Notes

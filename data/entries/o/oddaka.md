@@ -5,7 +5,7 @@ base_headword: "Oḍḍaka"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Oḍḍaka. A name of a tribe, occurring in a list of tribes. Ap.ii.358.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Oḍḍaka. Tên của một bộ tộc, xuất hiện trong một danh sách các bộ tộc. Ap.ii.358.
 
 ## Notes

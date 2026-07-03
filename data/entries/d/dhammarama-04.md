@@ -5,7 +5,7 @@ base_headword: "Dhammārāma"
 disambiguator: "04"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhammārāma 04. A monastery in Ceylon, founded for the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammārāma 04. Một tu viện ở Tích Lan, được thành lập cho các thành viên của phái Dhammarucika bởi Sena Ilaṅga, vị tướng quân của Kassapa IV. Cv.lii.17.
 
 ## Notes

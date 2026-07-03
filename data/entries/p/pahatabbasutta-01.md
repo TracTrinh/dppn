@@ -5,7 +5,7 @@ base_headword: "Pahātabbasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pahātabbasutta 01. Everything must be cast away. SN.iv.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pahātabbasutta 01. Mọi thứ đều phải được từ bỏ. SN.iv.29.
 
 ## Notes

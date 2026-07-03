@@ -5,7 +5,7 @@ base_headword: "Satarasa"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satarasa. A kind of food which <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satarasa. Một loại thức ăn mà Paripuṇṇaka Thera có thói quen dùng trước khi gia nhập Tăng đoàn (Thag­a.i.190). Nó có lẽ được làm từ một trăm tinh chất.
 
 ## Notes

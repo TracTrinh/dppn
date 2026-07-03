@@ -5,7 +5,7 @@ base_headword: "Paccāgamanīya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paccāgamanīya Thera. Một vị *Arahant*. Vào thời của Vipassī Buddha, ngài là một con chim *cakkavāka* trú ngụ trên bờ sông Sindhu. Một ngày nọ, nhìn thấy Đức Phật đang đi lại trong không trung, con chim đã dâng cúng cho ngài một bông hoa *sāla* bằng mỏ của nó.
+
+Mười bảy *kappa* trước, ngài đã làm vua mười tám lần dưới tên gọi là Sucārudassana (Ap.i.113).
+
+Ngài có lẽ được đồng nhất với Puṇṇamāsa Thera. Thag­a.i.53f.
 
 ## Notes

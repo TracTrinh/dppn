@@ -5,7 +5,7 @@ base_headword: "Dumbara"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -24,6 +24,6 @@ Dumbara. A district in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dumbara. Một quận ở vùng Malaya của Tích Lan. Cv.lxx.5, 8.
 
 ## Notes

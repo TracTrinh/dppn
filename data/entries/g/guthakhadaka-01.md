@@ -5,7 +5,7 @@ base_headword: "Gūthakhādaka"
 disambiguator: "01"
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Gūthakhādaka 01. A *Peta*. A householder, in a village near <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Gūthakhādaka 01. Một ngạ quỷ (*Peta*). Một gia chủ, ở một ngôi làng gần Sāvatthī, đã xây dựng một *vihāra* cho một vị tỳ-kheo thường đến thăm nhà ông. Những vị tỳ-kheo khác đã đến, và vị trụ trì, vì ghen tị với họ, đã nói xấu họ với người gia chủ, người đã lăng mạ tất cả họ. Kết quả là, ông ta bị sinh ra làm một ngạ quỷ (*Peta*) trong hầm phân của chính tu viện đó và đã lọt vào sự chú ý của Mahā Moggallāna. Pv.iv.18; Pv-a.266f; so sánh Thag­a.i.386f.
 
 ## Notes

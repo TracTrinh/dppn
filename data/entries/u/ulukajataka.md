@@ -5,7 +5,7 @@ base_headword: "Ulūkajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Ulūkajātaka (Ja 270). Once the birds wanted to select a king because all the o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ulūkajātaka (Ja 270). Có một thời những con chim muốn chọn một vị vua vì tất cả các loài động vật khác đều có vua. Người ta đề xuất đưa con cú lên làm vua, nhưng khi việc bỏ phiếu bắt đầu được thực hiện, một con quạ đứng lên và phản đối, nói rằng: “Nếu đây là dáng vẻ của hắn khi hắn đang được tấn phong làm vua, thì hắn sẽ trông như thế nào khi hắn tức giận?” Con cú đuổi theo con quạ và thay vào đó, bầy chim đã chọn một con ngỗng. Mối thù truyền kiếp của loài cú và loài quạ bắt đầu từ đây. Câu chuyện được Đức Phật kể khi ngài được báo cáo rằng bầy cú gần Jetavana đang giết chết vô số con quạ hàng đêm. Ja.ii.351-4.
 
 ## Notes

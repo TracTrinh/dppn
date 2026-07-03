@@ -5,7 +5,7 @@ base_headword: "Nālikeradāyaka Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nālikeradāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a parkkeepe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nālikeradāyaka Thera. Một *Arahant*. Chín mươi mốt kappa trước, ngài là người trông coi công viên ở Bandhumatī và đã cúng dường Đức Phật một quả *nālikera* (Ap.ii.447f). Ngài có lẽ chính là Kuṇḍala Thera (Thag­a.i.72) hoặc Khitaka Thera (Sđd., 315).
 
 ## Notes

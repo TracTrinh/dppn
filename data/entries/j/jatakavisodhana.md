@@ -5,7 +5,7 @@ base_headword: "Jātakavisodhana"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -26,6 +26,6 @@ Jātakavisodhana. A study of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jātakavisodhana. Một công trình nghiên cứu về Jātaka, được viết bởi Ariyavaṁsa của Ava. Bode, 43; Gv.65, 75.
 
 ## Notes

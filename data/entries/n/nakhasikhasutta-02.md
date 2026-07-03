@@ -5,7 +5,7 @@ base_headword: "Nakhasikhāsutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nakhasikhāsutta 02. Simile the same as the above. Even so are the beings born e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakhasikhāsutta 02. Ví dụ tương tự như ở trên. Tương tự như vậy, những chúng sinh được sinh ra ở nơi khác và không phải ở giữa loài người lớn hơn rất nhiều so với những chúng sinh được sinh ra ở giữa loài người. SN.ii 263.
 
 ## Notes

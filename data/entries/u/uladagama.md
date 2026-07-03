@@ -5,7 +5,7 @@ base_headword: "Uladāgāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uladāgāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uladāgāma. Một ngôi làng ở Rohaṇa, nơi một trận chiến đã diễn ra giữa các đội quân của Parakkamabāhu I và quân nổi dậy. Cv.lxxv.18.
 
 ## Notes

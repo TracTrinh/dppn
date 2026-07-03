@@ -5,7 +5,7 @@ base_headword: "Saṇhā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Saṇhā. An eminent Therī of Ceylon. Dpv.xviii.38.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṇhā. Một vị Therī lỗi lạc của Tích Lan. Dpv.xviii.38.
 
 ## Notes

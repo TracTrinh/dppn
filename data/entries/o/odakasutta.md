@@ -5,7 +5,7 @@ base_headword: "Odakāsutta"
 disambiguator: ""
 letter: "O"
 section: "O."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/025.html"
@@ -24,6 +24,6 @@ Odakāsutta. Numerous are those that are born in water compared with those born 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Odakāsutta. Số lượng những chúng sinh sinh ra trong nước nhiều hơn vô số so với những chúng sinh sinh ra trên cạn. Điều này là do sự vô minh của chúng về Bốn Thánh đế. SN.v. 467.
 
 ## Notes

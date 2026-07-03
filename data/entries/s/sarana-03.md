@@ -5,7 +5,7 @@ base_headword: "Saraṇa"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Saraṇa 03. One of the two chief disciples of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saraṇa 03. Một trong hai đệ tử tối thắng của Đức Phật Sumedha (Bv.xii.23: Ja.i.38). Ông là em trai của Đức Phật. Bv­a.164.
 
 ## Notes

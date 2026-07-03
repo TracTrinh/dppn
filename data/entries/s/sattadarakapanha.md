@@ -5,7 +5,7 @@ base_headword: "Sattadārakapañha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattadārakapañha. A section of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattadārakapañha. Một phần của Mahā Ummaggajātaka (Ja 546), đề cập đến bảy câu đố được Mahosadha giải đáp. Ja.vi.339.
 
 ## Notes

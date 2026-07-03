@@ -5,7 +5,7 @@ base_headword: "Jiṇṇasutta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jiṇṇasutta 01. Two very old Brahmins visit the Buddha and ask him for a teac
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jiṇṇasutta 01. Hai vị Bà-la-môn rất già đến thăm Đức Phật và thỉnh cầu Ngài một lời dạy để cổ vũ và an ủi họ. Ngài bảo họ hãy thực hành sự tự kiềm chế trong mọi việc. AN.i.155.
 
 ## Notes

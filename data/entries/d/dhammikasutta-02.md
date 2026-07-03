@@ -5,7 +5,7 @@ base_headword: "Dhammikasutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,8 @@ The Commentary adds (Snp­a.i.367f) that these *upāsakas* were all *Anāgāmīs
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammikasutta 02. Dhammika *Upāsaka*, cùng với năm trăm người khác, viếng thăm Phật tại Jetavana, hát những lời ca ngợi ngài và hỏi về việc một đời sống của một tỳ-kheo nên như thế nào và đời sống của một gia chủ nên như thế nào. Vị Phật tiếp tục trình bày con đường đạo hạnh cần được một tỳ-kheo theo đuổi và những phẩm hạnh cần được một cư sĩ trau dồi (Snp.vv.376-404).
+
+Chú giải nói thêm (Snp­a.i.367f) rằng các *upāsaka* này đều là những *Anāgāmī*, những người, vào ngày được nhắc đến, đã thọ trì các giới *uposatha*. Trong canh giữa, câu hỏi về sự khác biệt giữa đời sống của một tỳ-kheo và của một cư sĩ đã nảy sinh trong tâm trí họ và họ đã tìm đến vị Phật.
 
 ## Notes

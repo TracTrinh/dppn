@@ -5,7 +5,7 @@ base_headword: "Unnama"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Unnama. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Unnama. Một thủ lĩnh người Damiḷa mà Duṭṭhagāmaṇī đã đánh bại trong chiến dịch của mình. Ông là cháu trai của Tamba và thành trì của ông cũng được gọi là Unnama. Mhv.xxv.14, 15; Mhv­ṭ.474.
 
 ## Notes

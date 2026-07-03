@@ -5,7 +5,7 @@ base_headword: "Jayankoṇḍāna"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -24,6 +24,6 @@ Jayankoṇḍāna. A locality in South India. Cv.1xxvi.274.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jayankoṇḍāna. Một địa danh ở Nam Ấn Độ. Cv.1xxvi.274.
 
 ## Notes

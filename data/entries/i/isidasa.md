@@ -5,7 +5,7 @@ base_headword: "Isidāsa"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -26,6 +26,6 @@ Isidāsa. A Thera. He had a brother, also a monk, named <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Isidāsa. Một vị Thera. Ông có một người anh/em trai, cũng là một tỳ-kheo, tên là Isibhatta. Sau khi trải qua mùa an cư tại Sāvatthī, họ đã đi đến sống ở một ngôi làng nọ. Người dân ở đó đã cúng dường họ thức ăn và y phục, nhưng họ từ chối nhận phần của mình, bởi vì, theo giới luật, những y phục đó là tài sản của Tăng đoàn cho đến khi lễ *Kathiṇa* được thực hiện. Câu chuyện được nhắc đến liên quan đến việc thọ nhận y phục ở những nơi khác ngoài địa điểm mà mùa an cư đã trải qua. Vin.i.299.
 
 ## Notes

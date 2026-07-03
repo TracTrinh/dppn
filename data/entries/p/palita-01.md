@@ -5,7 +5,7 @@ base_headword: "Pālita"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pālita 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pālita 01. (Pālika). Cháu trai của Cakkhupāla. Khi Cūḷa Pāla, anh em của Cakkhupāla, nghe tin Cakkhupāla bị mù, ông đã phái Pālita đi đón ngài, và để bảo vệ Pālita khỏi hiểm nguy trên đường đi, ông đã cho Pālita thọ giới trước khi lên đường. Trong lúc cùng Cakkhupāla trở về, Pālita nghe thấy tiếng hát của một người phụ nữ đang nhặt củi, và, viện một cớ nào đó, anh ta đã rời bỏ Cakkhupāla để đi tư tình với cô gái. Khi Cakkhupāla nghe kể lại chuyện đã xảy ra, ngài từ chối không đi tiếp với anh ta nữa. Thag­a.i.197f.
 
 ## Notes

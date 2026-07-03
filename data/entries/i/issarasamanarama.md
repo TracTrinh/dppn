@@ -5,7 +5,7 @@ base_headword: "Issarasamaṇārāma"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -58,6 +58,16 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issarasamaṇārāma (Issarasamaṇavihāra, Issarasamaṇaka, Issaraṇimmāna). Một trong những tu viện ở Anurādhapura. Nó được xây dựng bởi Devānampiyatissa trên địa điểm nơi hoàng tử Ariṭṭha đã cư ngụ cùng với năm trăm tùy tùng của mình sau khi đã thọ giới từ Mahinda (Mhv.xx.14; xix.66). Việc xây dựng tu viện này là nhiệm vụ thứ bảy trong số những nhiệm vụ vĩ đại được thực hiện bởi Devānampiyatissa (Mhv.xx.20).
+
+Một trong tám nhánh từ cây Bồ-đề ở Anurādhapura đã được trồng tại Issarasamaṇārāma (Mhv.xix.61; Mbv.162).
+
+Candamukhasiva đã xây một hồ chứa nước gần Maṇikāragāmaka và hiến tặng nó cho việc sử dụng của *vihāra* này (Mhv.xxxv.47), trong khi Vasabha xây dựng trong tu viện một giảng đường *uposatha* (Mhv.xxxv.87) và Vohārakatissa đã xây một bức tường bao quanh nó (Mhv.xxxvi.36). Kassapa I đã tu bổ lại các tòa nhà và mở rộng khu vực đất đai. Ông cũng mua lại các ngôi làng và hiến tặng chúng cho tu viện để làm chi phí bảo trì nó. Ông có hai cô con gái, Bodhī và Uppalavaṇṇā, và ông đã ban tên của họ cùng với tên của chính mình cho *vihāra* này. Khi nhà vua muốn bàn giao *vihāra* này cho các tỳ-kheo phái Theravāda, họ đã từ chối thọ nhận nó, vì e sợ sự chê trách của dân chúng rằng nó là tác phẩm của một kẻ giết cha. Sau đó nhà vua đã dâng cúng nó cho bức tượng của Đức Phật và các tỳ-kheo đã chấp nhận nó với lời nói rằng nó thuộc về Đạo sư của họ (Cv.xxxix.10-14; cũng xem bên dưới).
+
+Theo Mahā Vaṁsaṭīkā (pp. 407 and 652), *vihāra* này cũng được gọi là Kassapagiri, có lẽ sau sự tu bổ của Kassapa I., được đề cập ở trên. Xem thêm Kassapagiri. Xem thêm Cv.Trs.i.43, n.7, và Ep. Zeyl. i.31ff., nơi *vihāra* này được gọi là “*Isurameṇu-Bo-Upulvan-Kasubgiri*” trong một bản bia ký của Mahinda IV.
+
+Ban đầu nó được gọi là Issarasamaṇa vì sự liên hệ của nó với năm trăm nhà quý tộc (*issaradārakā*), những người đã gia nhập Tăng đoàn cùng với Ariṭṭha (Mhv­ṭ.416). Bản *Ṭīkā* nói thêm (607) rằng Sāliya, con trai của Duṭṭhagāmaṇī, đã mở rộng *vihāra* này bằng vật phẩm cống nạp mang đến cho ông bởi những người từ các ngôi làng chư hầu của ông ở phía nam Anurādhapura. Ông thường giữ giới *uposatha* vào những ngày trai giới tại *vihāra* này và dành thời gian trong ngày tại Mahindaguhā ở đó.
+
+Trong Samantapāsādikā (i.100) *vihāra* này được gọi là Issaraṇimmāna.
 
 ## Notes

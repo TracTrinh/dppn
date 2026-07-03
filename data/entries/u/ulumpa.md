@@ -5,7 +5,7 @@ base_headword: "Uḷumpa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -34,6 +34,6 @@ Uḷumpa. A township of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uḷumpa. Một thị trấn của người Sākyan. Có lần Đức Phật đã ngự tại đó và được Pasenadi, vua xứ Kosala, người cảm thấy hối hận vì vụ sát hại vị tướng Bandhula của mình, đến thăm. Nhà vua đi một mình vào trong Gandhakuṭi, gác lại những biểu tượng của hoàng gia mà ông đã để lại cho đại thần Dīgha Kārāyaṇa của mình. Khi nhà vua đi ra, ông phát hiện ra rằng tất cả những người tùy tùng của ông đã bỏ đi, chỉ để lại một con ngựa và một nữ tỳ. Khi biết rằng Viḍūḍabha đã được đưa lên làm vua, Pasenadi rời đi để đến Rājagaha, nhằm tìm kiếm sự giúp đỡ của Ajātasattu, và ông đã chết bên ngoài cổng thành. Ja.iv.151f; Dhp­a.i.356. Cũng xem Medataḷumpa.
 
 ## Notes

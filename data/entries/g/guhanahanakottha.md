@@ -5,7 +5,7 @@ base_headword: "Guhānahānakoṭṭha"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Guhānahānakoṭṭha. One of the eight stone bath-houses erected for the monks
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guhānahānakoṭṭha. Một trong tám nhà tắm bằng đá được xây dựng cho các tỳ-kheo tại Pulatthipura bởi Parakkamabāhu I. Cv.lxxviii.45.
 
 ## Notes

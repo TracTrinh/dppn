@@ -5,7 +5,7 @@ base_headword: "Doṇa"
 disambiguator: "04"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Doṇa 04. A Tamil stronghold captured by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Doṇa 04. Một pháo đài Tamil bị Duṭṭhagāmaṇī đánh chiếm. Nơi này được chỉ huy bởi Gavara. Mhv.xxv.11.
 
 ## Notes

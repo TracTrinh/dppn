@@ -5,7 +5,7 @@ base_headword: "Ujjenika"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Ujjenika. Name given to the inhabitants of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ujjenika. Tên được đặt cho những cư dân của Ujjenī (Mil.331). Pajjota được gọi là Ujjenika (Ujjenaka) *rājā* (MN­a.ii.738).
 
 ## Notes

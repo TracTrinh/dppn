@@ -5,7 +5,7 @@ base_headword: "Jīvakapañhavatthu"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -25,6 +25,6 @@ Jīvakapañhavatthu. The story of the bandage which <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvakapañhavatthu. Câu chuyện về cuộn băng mà Jīvaka đã đắp lên bàn chân của Đức Phật sau vết thương của Ngài, và về việc Đức Phật đọc được những suy nghĩ của Jīvaka. Xem Jīvaka. Dhp­a.ii.164f.
 
 ## Notes

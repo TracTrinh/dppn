@@ -5,7 +5,7 @@ base_headword: "Govisānaka Nanda"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/032.html"
@@ -25,6 +25,6 @@ Govisānaka Nanda. One of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Govisānaka Nanda. Một trong những vị vua thuộc Nava Nandā.
 
 ## Notes

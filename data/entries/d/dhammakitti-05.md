@@ -5,7 +5,7 @@ base_headword: "Dhammakitti"
 disambiguator: "05"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -33,6 +33,6 @@ Dhammakitti 05. A Thera of Ceylon, author of the Sinhalese prose work, the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammakitti 05. Một vị Thera của Tích Lan, tác giả của tác phẩm văn xuôi tiếng Tích Lan, Saddharmālaṅkāra, vào thế kỷ mười bốn, đó là một bản dịch mở rộng của cuốn Rasavāhinī. Ngài từng là Tăng thống (*Saṅgharāja*) vào thời của Bhuvanekabāhu V. Vị thầy của ngài cũng được gọi là Dhammakitti và là một thành viên của hệ phái Puṭabhattasela. Vị thầy này có lẽ là tác giả của bài thơ tiếng Pāli Pāramīmahāsataka. Ngoài Saddharmālaṅkāra, người học trò của ngài còn viết một số tác phẩm khác, Saṅkhepa, Jinabodhāvalī và Bālāvatāra; cùng với một bộ biên niên sử tiếng Tích Lan, Nikāyasaṅgraha. PLC.226, 240, 243.
 
 ## Notes

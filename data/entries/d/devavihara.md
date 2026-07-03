@@ -5,7 +5,7 @@ base_headword: "Devavihāra"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -26,6 +26,6 @@ Devavihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Devavihāra. Một *vihāra* ở Antarasobbha, được xây dựng bởi Aggabodhi V. Cv.xlviii.4.
 
 ## Notes

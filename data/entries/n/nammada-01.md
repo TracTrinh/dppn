@@ -5,7 +5,7 @@ base_headword: "Nammadā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nammadā 01. A river in India, (Ja.ii.314; iv.392,397) the modern Nerbudda Narma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nammadā 01. Một con sông ở Ấn Độ, (Ja.ii.314; iv.392,397) là dòng Nerbudda Narmadā ngày nay. Nó được xem là ranh giới giữa Uttarāpatha và Dakkhiṇāpatha. Tại đó Đức Phật đã lưu lại dấu chân của Ngài để các Nāga thờ phượng. Dấu chân này bị thủy triều lên che khuất nhưng có thể nhìn thấy khi thủy triều xuống. MN­a.ii.1018; xem chi tiết tại Puṇṇa.
 
 ## Notes

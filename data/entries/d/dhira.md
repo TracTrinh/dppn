@@ -5,7 +5,7 @@ base_headword: "Dhīrā"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhīrā. Two *Therīs* of this name are mentioned, both belonging to the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhīrā. Hai vị *Therī* mang tên này được nhắc đến, cả hai đều thuộc về dòng dõi Sākyan ở Kapilavatthu. Họ là những thành viên trong triều đình của Bodhisatta, vào thời điểm khi ngài thành Phật. Họ rời bỏ gia đình cùng với Pajāpatī Gotamī, gia nhập Tăng đoàn và trở thành các *Arahant*. Thīg.6, 7; Thīg­a.12.
 
 ## Notes

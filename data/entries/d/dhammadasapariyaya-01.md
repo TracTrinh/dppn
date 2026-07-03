@@ -5,7 +5,7 @@ base_headword: "Dhammādāsapariyāya"
 disambiguator: "01"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhammādāsapariyāya 01. One of the titles given to the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammādāsapariyāya 01. Một trong những tiêu đề được đặt cho Bahudhātukasutta. MN.iii.67.
 
 ## Notes

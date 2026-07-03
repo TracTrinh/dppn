@@ -5,7 +5,7 @@ base_headword: "Indriyabhāvanasutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -36,6 +36,10 @@ The only connection between the *Sutta* and this summary is identity of subject,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Indriyabhāvanasutta. Được thuyết tại Kajaṅgalā trong Mukheluvana. Khi một thanh niên Bà-la-môn là Uttara, đệ tử của Pārāsariya, đến viếng thăm Đức Phật, Đức Phật đã hỏi anh ta về giáo lý của Pārāsariya đối với việc phát triển các *indriya* là gì. Đó là một người không nên nhìn thấy các sắc bằng mắt của mình, cũng không nghe thấy các âm thanh bằng tai của mình, Uttara nói. Khi đó Đức Phật vặn lại rằng trong trường hợp đó, người mù và người điếc đã đạt được sự phát triển. Khi Uttara ngồi im lặng và bối rối, Ānanda đã xen vào và thỉnh cầu Đức Phật giải thích giáo lý của ngài về chủ đề này. Đức Phật đồng ý và thuyết bài *Sutta* này, với vô số những sự so sánh (MN.iii.298-302).
+
+Trong Chú giải Theragāthā (ii.17), chúng ta được kể rằng Thera Pārāpariya (có lẽ đồng nhất với Pārāsariya được đề cập ở trên) đã được Đức Phật thuyết cho nghe Indriyabhāvanasutta. Ông đã học thuộc lòng nó, và nhờ suy ngẫm về ý nghĩa của nó, đã đạt được tuệ quán. Theragāthā (vv.726ff) đưa ra một bản tóm tắt những suy ngẫm của Pārāpariya dẫn đến sự thành tựu của ông.
+
+Sự liên kết duy nhất giữa *Sutta* và bản tóm tắt này là sự đồng nhất về chủ đề, chứ không phải sự đồng nhất về cách giải quyết. Có lẽ những suy ngẫm của Pārāpariya chỉ được gợi lên từ bài *Sutta* và hoàn toàn độc lập với những lời thực tế của nó.
 
 ## Notes

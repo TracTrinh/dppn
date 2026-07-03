@@ -5,7 +5,7 @@ base_headword: "Santa"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Santa 03. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tướng quân của Parakkamabāhu I. Ông được gọi là Jitagiri, và chịu trách nhiệm về bến đò Vihāravajjasāla. Cv.lxxv.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāga"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāga 02. Third of the ten sons of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāga 02. Người con trai thứ ba trong mười người con trai của Muṭasīva, và do đó là anh em của Devānampiyatissa. Dpv.xi.6; xvii.75.
 
 ## Notes

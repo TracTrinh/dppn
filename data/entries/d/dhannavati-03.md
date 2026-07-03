@@ -5,7 +5,7 @@ base_headword: "Dhaññavatī"
 disambiguator: "03"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -25,6 +25,6 @@ Dhaññavatī 03. A city in the time of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhaññavatī 03. Một thành phố vào thời của Vipassī Buddha. Ap.i.160; Thag­a.i.164.
 
 ## Notes

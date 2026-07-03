@@ -5,7 +5,7 @@ base_headword: "Dvāramaṇḍala"
 disambiguator: ""
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -29,6 +29,6 @@ Dvāramaṇḍala. A village in Ceylon. When <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvāramaṇḍala. Một ngôi làng ở Tích Lan. Khi Paṇḍukābhaya còn trẻ, ông đã nằm ẩn nấp tại đây và thoát khỏi nhiều nỗ lực ám sát mạng sống của mình (Mhv.x.1; Dpv.x.9). Nó nằm gần Cetiyapabbata, và Kuṇḍalī, bạn của Dīghābhaya, đã sống ở đó (Mhv.xxiii.23). Năm trăm thanh niên từ ngôi làng này đã được Mahinda truyền giới (Mhv.xvii.59).
 
 ## Notes

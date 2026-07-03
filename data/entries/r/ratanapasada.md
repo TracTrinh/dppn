@@ -5,7 +5,7 @@ base_headword: "Ratanapāsāda"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -36,6 +36,6 @@ Ratanapāsāda. A building in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ratanapāsāda. Một tòa nhà trong Abhayagirivihāra, do Vua Kaniṭṭhatissa dựng lên cho Mahā Nāga Thera (Mhv.xxxvi.8; để biết việc xác định vị trí của nó, xem Cv.Trs.i.123, n.2). Mahinda II hiển nhiên đã xây dựng lại nó với chi phí ba trăm ngàn *kahāpaṇa*, và tôn trí trong đó một pho tượng Phật trị giá sáu mươi ngàn. Tại lễ khánh thành, nhà vua đã dâng hiến toàn bộ vương quốc của mình cho pho tượng (Cv.xlviii.135f). Mahinda III đã dành doanh thu từ Kênh Đào Geṭṭhumba cho việc tu bổ *pāsāda* này (Cv.xlix.41). Dưới triều đại của Sena I., những người Pāṇḍiya, khi xâm lược Tích Lan, đã cướp bóc *pāsāda* và tháo gỡ châu báu khỏi mắt của pho tượng (Cv.l.43). Sena II. phát hiện chính pho tượng đã bị dời khỏi bệ và đưa đến Madhurā, và, sau chiến thắng của ông trước những người Pāṇḍiya, ông đã cho phục hồi nó (Cv.li.22,49). Khi dân chúng nổi dậy chống lại Udaya III., ông đã lánh nạn trong Ratanapāsāda cùng với các cộng sự của mình, nhưng dân chúng đã bao vây tòa nhà và họ buộc phải bỏ trốn (Cv.liii.17).
 
 ## Notes

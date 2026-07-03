@@ -5,7 +5,7 @@ base_headword: "Nakkhattajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,8 @@ The story is related in reference to two parties of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nakkhattajātaka (Ja 49). Hai bên, sau khi thu xếp một cuộc hôn nhân, đã ấn định một ngày để nó diễn ra. Phía nhà trai hỏi ý kiến vị tu sĩ của gia đình họ, người đang bực tức vì không được hỏi trước đó, đã tuyên bố rằng ngày được chọn là không may mắn. Gia đình nhà gái, sau một thời gian chờ đợi, đã gả con gái của họ cho một người khác. Khi chú rể đầu tiên đến sau đó để đòi lại cô, anh ta bị buộc tội thiếu phép lịch sự thông thường và một cuộc cãi vã xảy ra, việc này được giải quyết bởi một người trí tuệ, người đã chỉ ra rằng mọi rắc rối đều do thói quen ngu ngốc khi xem bói sao.
+
+Câu chuyện được kể liên quan đến hai bên của Sāvatthī có những kế hoạch bị phá hỏng tương tự bởi một tu sĩ lõa thể. Các nhân vật trong cả hai câu chuyện là giống nhau, Đức Phật nói. Ja.i.257 ff.
 
 ## Notes

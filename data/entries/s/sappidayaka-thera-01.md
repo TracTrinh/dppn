@@ -5,7 +5,7 @@ base_headword: "Sappidāyaka Thera"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sappidāyaka Thera 01. An *Arahant*. Ninety-two *kappas* ago he gave an offering
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sappidāyaka Thera 01. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông đã dâng cúng bơ cho Phussa Buddha. Năm mươi *kappa* trước, ông là một vị vua tên là Samodaka. Ap.i.184.
 
 ## Notes

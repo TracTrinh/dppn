@@ -5,7 +5,7 @@ base_headword: "Dūtajātaka"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/043.html"
@@ -30,6 +30,8 @@ The story was related in reference to a discussion by the monks as to the Buddha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dūtajātaka 02. (Ja 478). Có một lần Bodhisatta là một vị Bà-la-môn ở Kāsi. Ngài theo học ở Takkasilā, và đi lang thang khất thực để xin vàng trả công cho thầy mình. Ngài đã gom được một vài ounce, nhưng trên đường về ngài buộc phải băng qua sông Ganges, và số vàng đã rơi xuống sông. Sau đó ngài nghĩ ra một kế hoạch và ngồi nhịn ăn trên bờ sông, từ chối nói chuyện với bất cứ ai cho đến khi chính vua của Benares đích thân đến. Ngài đã kể cho vua nghe câu chuyện của mình, chỉ ra rằng sẽ vô ích nếu kể cho những người khác, vì họ không thể giúp ngài. Nhà vua đã cho ngài số vàng gấp đôi số lượng ban đầu.
+
+Câu chuyện được kể lại liên quan đến một cuộc thảo luận của các vị tỳ-kheo về sự tháo vát tuyệt vời của Đức Phật. Ja.iv.224-8.
 
 ## Notes

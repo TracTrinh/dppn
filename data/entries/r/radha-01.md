@@ -5,7 +5,7 @@ base_headword: "Rādha"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rādha 01. A parrot, brother of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rādha 01. Một con vẹt, anh em của Poṭṭhapāda, vị Bodhisatta. Xem Rādhajātaka (Ja 145) (1). Ngài được đồng nhất với Ānanda. Ja.i.496.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandā"
 disambiguator: "10"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandā 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandā 10. Nandā Therī. Một *Arahant*. Chị của Vua Kāḷāsoka. Bà đóng vai trò quan trọng trong việc giành được sự ủng hộ của nhà vua cho các tỳ-kheo phái chánh thống, khi ngài có xu hướng thiên vị những kẻ ngoại đạo. Mhv.iv.38ff.; có lẽ cũng giống như ở Dpv.xviii.10.
 
 ## Notes

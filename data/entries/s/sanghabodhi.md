@@ -5,7 +5,7 @@ base_headword: "Saṅghabodhi"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -33,6 +33,8 @@ The legend of the king surrendering his head is famous in Ceylon, and forms the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅghabodhi. Một người thuộc tộc Lambakaṇṇa, vua của Tích Lan (307-9 CN.), thường được gọi là Sirisaṅghabodhi. Ông kế vị Saṅghatissa và lập ra một tòa nhà *salākā* trong Mahā Vihāra. Ông là một vị vua rất tốt, và đã làm cho mưa rơi nhờ vào phước đức của mình. Ông đã tiêu diệt Yakkha Rattakkhi, kẻ đã tàn phá lãnh thổ của ông. Khi viên thủ quỹ của ông, Goṭhakābhaya, nổi dậy làm loạn, ông đã thoái vị nhường ngôi cho người đó và trở thành một tu sĩ khổ hạnh. Về sau, ông đã trao cái đầu của mình để biết ơn một người nghèo đã cho ông một bữa ăn, để người đàn ông đó có thể nhận được từ nhà vua số tiền thưởng đã được đặt giá cho cái đầu của ông. (Mhv.xxxvi.73ff.; Dpv.xxii.53f).
+
+Truyền thuyết về việc nhà vua nộp đầu của mình rất nổi tiếng ở Tích Lan, và tạo thành chủ đề của một Biên niên sử tiếng Pāli, *Hatthavanagallavihāravaṁsa*.
 
 ## Notes

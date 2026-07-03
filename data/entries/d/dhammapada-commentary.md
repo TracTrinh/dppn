@@ -5,7 +5,7 @@ base_headword: "Dhammapada Commentary"
 disambiguator: ""
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -31,6 +31,10 @@ The work is usually ascribed to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhammapada Commentary. Bản Chú giải cho Dhammapada, chứa những câu chuyện tương tự như các câu chuyện của Jātaka (Bổn sinh) và giải thích những bối cảnh mà các bài kệ trong Dhammapada được thốt lên.
+
+Một số lượng đáng kể những câu chuyện này được tìm thấy trong Bốn *Nikāya* và Vinaya, và có hơn năm mươi chuyện được rút ra trực tiếp từ bản Chú giải Jātaka hoặc gần như song song với chúng.
+
+Tác phẩm này thường được cho là của Buddhaghosa, và trong phần mở đầu của cuốn sách có nói rằng ngài đã dịch tác phẩm này từ tiếng Tích Lan theo yêu cầu của một vị tỳ-kheo tên là Kumāra Kassapa. Để xem bài thảo luận, xin xem PLC., pp.95ff; và Law: *Pāli Literature*, pp.449ff.
 
 ## Notes

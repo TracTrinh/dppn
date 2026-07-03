@@ -5,7 +5,7 @@ base_headword: "Saṅkantikā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Saṅkantikā. A heretical sect, a division of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Saṅkantikā. Một giáo phái ngoại đạo, một chi nhánh của Kassapiyā. Mhv.v.9; Dpv.v.48.
 
 ## Notes

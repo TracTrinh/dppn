@@ -5,7 +5,7 @@ base_headword: "Dhanañjaya"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -27,6 +27,6 @@ Dhanañjaya 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dhanañjaya 02. Vua của Indapatta ở xứ Kuru (Ja.ii.366). Ngài là cha của Dhanañjaya 3 (bên dưới).
 
 ## Notes

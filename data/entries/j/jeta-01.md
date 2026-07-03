@@ -5,7 +5,7 @@ base_headword: "Jeta"
 disambiguator: "01"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -29,6 +29,6 @@ Jeta 01. A prince. Owner of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jeta 01. Một vương tử. Là chủ nhân của Jetavana, nơi ông đã bán cho Anāthapiṇḍika với giá mười tám crore. Sau đó ông đã dành toàn bộ số tiền đó cho việc dựng một cổng chào tại lối vào, nơi mà ông trang trí với vẻ vô cùng tráng lệ (xem Jetavana). Jeta thường được gọi là Jetakumāra. Theo các ghi chép phương Bắc, ông là con trai của Pasenadi với công chúa Varsikā thuộc dòng dõi Kṣatriya (Rockhill: 48, n.1). Ông đã bị giết bởi người anh em cùng cha khác mẹ là Viḍūḍabha vì từ chối giúp đỡ ông ta trong cuộc tàn sát những người Sākyan (Ibid., 121). Có một vài lời giải thích được đưa ra về cái tên của ông (MN­a.i.50; Ud­a.56; Khp-a.111, v.v.): ông được gọi như vậy hoặc là (1) bởi vì ông đã chinh phục những kẻ thù của mình, hoặc (2) bởi vì ông sinh ra vào thời điểm khi nhà vua vừa đánh bại những kẻ thù của mình, hoặc (3) bởi vì một cái tên như vậy được coi là mang điềm lành cho ông (*maṅgalakāmyatāya*).
 
 ## Notes

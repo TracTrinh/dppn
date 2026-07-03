@@ -5,7 +5,7 @@ base_headword: "Sarabhaṅga"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sarabhaṅga 03. The Bodhisatta born as a great teacher. See the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra làm một vị đạo sư vĩ đại. Xem Sarabhaṅgajātaka (Ja 522).
 
 ## Notes

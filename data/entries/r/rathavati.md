@@ -5,7 +5,7 @@ base_headword: "Rathavatī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rathavatī. A *kinnarī*, the handmaiden of the hermit <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rathavatī. Một *kinnarī*, nữ tì của đạo sĩ Vaccha (*q.v.*).
 
 ## Notes

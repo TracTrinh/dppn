@@ -5,7 +5,7 @@ base_headword: "Juṇha"
 disambiguator: "03"
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -28,6 +28,6 @@ Juṇha 03. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Juṇha 03. Một quan đại thần của Pasenadi. Khi Pasenadi tổ chức Asadisadāna của mình, Juṇha đã hoan hỉ trước sự hào phóng của nhà vua, nhưng bạn của ông là Kāḷa lại không hài lòng trước những gì mà ông ta coi là một sự lãng phí. Nhà vua, khi nghe về điều này từ Đức Phật, đã yêu cầu Juṇha sử dụng ngân khố hoàng gia để thay mặt chính mình bố thí trong bảy ngày. Juṇha đã làm điều này. Ông đã trở thành một *Sotāpanna* sau khi nghe Đức Phật thuyết giảng. Dhp­a.iii.186ff.
 
 ## Notes

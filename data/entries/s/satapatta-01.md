@@ -5,7 +5,7 @@ base_headword: "Satapatta"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satapatta 01. A king of seventy-three *kappas* ago, a previous birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satapatta 01. Một vị vua của bảy mươi ba *kappa* trước, một tiền kiếp của Naḷinakesariya Thera. Ap.i.223.
 
 ## Notes

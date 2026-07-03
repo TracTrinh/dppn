@@ -5,7 +5,7 @@ base_headword: "Dvāravatī"
 disambiguator: "02"
 letter: "D"
 section: "D."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/044.html"
@@ -25,6 +25,6 @@ Dvāravatī 02. A city in the time of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Dvāravatī 02. Một thành phố vào thời của Siddhattha Buddha. Ap.i.200.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pabbata"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pabbata 02. The name of the Bodhisatta in the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pabbata 02. Tên của vị Bodhisatta vào thời của Koṇāgamana Buddha. Ngài là vua của Mithilā và đã thiết đãi Đức Phật cùng các tỳ-kheo của ngài. Ja.i.43; Bv­a.9; Bv.xxiv.215.
 
 ## Notes

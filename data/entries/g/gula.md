@@ -5,7 +5,7 @@ base_headword: "Guḷa"
 disambiguator: ""
 letter: "G"
 section: "G."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/031.html"
@@ -26,6 +26,6 @@ Guḷa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Guḷa. Một thủ lĩnh Yakkha nên được cầu khẩn khi những Yakkha không có đức tin quấy rối bất kỳ đệ tử nào của Đức Phật. DN.iii.204.
 
 ## Notes

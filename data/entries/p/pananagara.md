@@ -5,7 +5,7 @@ base_headword: "Paṇanagara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇanagara. A village in Ceylon which was one of the centres of the campaigns 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇanagara. Một ngôi làng ở Tích Lan, từng là một trong những trung tâm thuộc các chiến dịch của Paṇḍukābhaya. Mhv.x.27.
 
 ## Notes

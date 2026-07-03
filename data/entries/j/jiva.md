@@ -5,7 +5,7 @@ base_headword: "Jīvā"
 disambiguator: ""
 letter: "J"
 section: "J."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/037.html"
@@ -27,6 +27,6 @@ Jīvā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Jīvā. *v.l.* Jīvanti. Con gái của Ubbirī và vị vua nước Kosala. Khi cô qua đời, chính cái chết của cô đã khiến Ubbirī chứng quả vị *Arahant*. Thīg.vs.51; Thīg­a.53f.
 
 ## Notes

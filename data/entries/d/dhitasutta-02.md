@@ -5,7 +5,7 @@ base_headword: "Dhītāsutta"
 disambiguator: "02"
 letter: "D"
 section: "Dh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/045.html"
@@ -24,6 +24,6 @@ Dhītāsutta 02. Incalculable is *Saṁsāra*, and it is impossible to find one 
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Dhītāsutta 02*. Vô thỉ là luân hồi (*Saṁsāra*), và không thể tìm thấy một ai, trong những cuộc lang thang của mình, lại chưa từng mất đi một người con gái. SN.ii.190.
 
 ## Notes

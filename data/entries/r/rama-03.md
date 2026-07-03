@@ -5,7 +5,7 @@ base_headword: "Rāma"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rāma 03. A Brahmin, father of the Buddha’s teacher, <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rāma 03. Một vị Bà-la-môn, cha của thầy Đức Phật, Uddaka Rāmaputta (q.v.). Ja.i.66; MN.i.165.
 
 ## Notes

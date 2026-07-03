@@ -5,7 +5,7 @@ base_headword: "Issukīsutta"
 disambiguator: ""
 letter: "I"
 section: "I-Ī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/021.html"
@@ -24,6 +24,6 @@ Issukīsutta. A woman who is faithless, shameless, unscrupulous, envious and of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Issukīsutta. Một người phụ nữ không có đức tin, không biết xấu hổ, vô liêm sỉ, ganh tị và có trí tuệ yếu kém sẽ được tái sinh vào cõi đọa xứ (SN.iv.241).
 
 ## Notes

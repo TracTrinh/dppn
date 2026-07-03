@@ -5,7 +5,7 @@ base_headword: "Satacakkhu"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Satacakkhu. A king of thirty-four *kappas* ago, a, previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satacakkhu. Một vị vua của ba mươi tư *kappa* trước, một tiền kiếp của Pañcadīpaka Thera. Ap.i.108.
 
 ## Notes

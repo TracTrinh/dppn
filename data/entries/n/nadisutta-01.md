@@ -5,7 +5,7 @@ base_headword: "Nadīsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nadīsutta 01. Just as a man who, when carried away by a mountain torrent, cling
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nadīsutta 01. Cũng giống như một người khi bị một dòng thác núi cuốn đi, bám vào những đám cỏ và lau sậy mọc trên bờ, tuy nhiên chúng bị đứt gãy và người đó bị hủy diệt, người bám víu vào các tà kiến khác nhau như cho rằng thân là tự ngã cũng chuốc lấy sự hủy diệt như vậy. SN.iii.137.
 
 ## Notes
