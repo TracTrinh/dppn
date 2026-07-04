@@ -23,6 +23,6 @@ Dutiyasutta 02. Questions asked by a *Deva* and the Buddha’s reply thereto. �
 
 ## Vietnamese translation
 
-Dutiyasutta 02. Những câu hỏi do một *Deva* đặt ra và lời giải đáp của Đức Phật cho những câu hỏi đó. “Một người tốt lấy gì làm bạn đồng hành của mình?” là một câu hỏi, và lời giải đáp cho câu hỏi đó là “niềm tin.” (SN.i.38).
+Dutiyasutta 02. Những câu hỏi do một thiên nhân đặt ra và lời giải đáp của Đức Phật cho những câu hỏi đó. “Một người tốt lấy gì làm bạn đồng hành của mình?” là một câu hỏi, và lời giải đáp cho câu hỏi đó là “niềm tin.” (SN.i.38).
 
 ## Notes

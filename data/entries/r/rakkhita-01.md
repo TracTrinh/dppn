@@ -33,6 +33,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data
 
 ## Vietnamese translation
 
-Rakkhita 01. Rakkhita Thera. Ngài sinh ra trong một gia đình Sākyan quý tộc ở Vedehanigama (? Devadaha) và là một trong năm trăm thanh niên được các thủ lĩnh Sākyan và Koḷiyan giao cho để làm đội hộ tống cho Đức Phật, như một sự thừa nhận việc Ngài đã ngăn chặn chiến tranh giữa họ. Khi Đức Phật thuyết giảng Kuṇālajātaka (Ja 536), Rakkhita, nhận ra những nguy hiểm của nhục dục, đã phát triển chánh trí, và sau đó trở thành một *Arahant*.\n\nTrong thời của Padumuttara Buddha, ngài đã nghe Đức Phật thuyết giảng và ca ngợi sự uyên bác của ngài (Thag.79; Thag­a.i.173). Ngài hiển nhiên đồng nhất với Sobhita Thera của Apadāna. Ap.i.163f.
+Rakkhita 01. Rakkhita Thera. Ngài sinh ra trong một gia đình Sākyan quý tộc ở Vedehanigama (? Devadaha) và là một trong năm trăm thanh niên được các thủ lĩnh Sākyan và Koḷiyan giao cho để làm đội hộ tống cho Đức Phật, như một sự thừa nhận việc Ngài đã ngăn chặn chiến tranh giữa họ. Khi Đức Phật thuyết giảng Kuṇālajātaka (Ja 536), Rakkhita, nhận ra những nguy hiểm của nhục dục, đã phát triển chánh trí, và sau đó trở thành một *Arahant*.
+
+Trong thời của Padumuttara Buddha, ngài đã nghe Đức Phật thuyết giảng và ca ngợi sự uyên bác của ngài (Thag.79; Thag­a.i.173). Ngài hiển nhiên đồng nhất với Sobhita Thera của Apadāna. Ap.i.163f.
 
 ## Notes

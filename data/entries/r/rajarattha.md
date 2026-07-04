@@ -32,6 +32,8 @@ Rājaraṭṭha was the scene of many conflicts between the Sinhalese and the in
 
 ## Vietnamese translation
 
-Rājaraṭṭha. Tên gọi được đặt cho phần phía bắc của Tích Lan, với trung tâm là Pulatthipura, đối lập với Rohaṇa (ví dụ, Cv.lxx.184f) và Dakkhiṇadesa (Cv.lxxii.176-9). Về sau, tên gọi này được đổi thành Patiṭṭhāraṭṭha (ví dụ, Cv.lxxxii.26).\n\nRājaraṭṭha là bối cảnh của nhiều cuộc xung đột giữa người Sinhalese và những kẻ xâm lược thỉnh thoảng đến từ Nam Ấn Độ, cho đến khi, cuối cùng, nó bị bỏ hoang, và thủ đô của người Sinhalese dời về phía nam. Rājaraṭṭha cũng được gọi là Rājinoraṭṭha, ví dụ, Cv.lii.4.
+Rājaraṭṭha. Tên gọi được đặt cho phần phía bắc của Tích Lan, với trung tâm là Pulatthipura, đối lập với Rohaṇa (ví dụ, Cv.lxx.184f) và Dakkhiṇadesa (Cv.lxxii.176-9). Về sau, tên gọi này được đổi thành Patiṭṭhāraṭṭha (ví dụ, Cv.lxxxii.26).
+
+Rājaraṭṭha là bối cảnh của nhiều cuộc xung đột giữa người Sinhalese và những kẻ xâm lược thỉnh thoảng đến từ Nam Ấn Độ, cho đến khi, cuối cùng, nó bị bỏ hoang, và thủ đô của người Sinhalese dời về phía nam. Rājaraṭṭha cũng được gọi là Rājinoraṭṭha, ví dụ, Cv.lii.4.
 
 ## Notes

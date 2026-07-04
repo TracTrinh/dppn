@@ -26,6 +26,6 @@ Jīvahattha. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Jīvahattha. Con trai của Vijaya, vua Tích Lan, và nữ *Yakkha* Kuveṇī. Mhv­ṭ.264.
+Jīvahattha. Con trai của Vijaya, vua Tích Lan, và *Yakkhinī* Kuveṇī. Mhv­ṭ.264.
 
 ## Notes

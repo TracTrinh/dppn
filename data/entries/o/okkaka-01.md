@@ -115,7 +115,7 @@ Khi Bhattā qua đời, sau khi sinh ra chín người con này, nhà vua kết 
 
 Mahā Vaṁsa (Mhv.ii.12-16) nhắc đến trong số các hậu duệ của Okkāka có Nipuṇa, Candimā, Candamukha, Sivisañjaya, Vessantara, Jāli, Sīhavāhana và Sīhassara. Người được nhắc đến cuối cùng có tám mươi tư ngàn hậu duệ, người cuối cùng trong số đó là Jayasena. Con trai của vị này là Sīhahanu, ông nội của Đức Phật. Danh sách của Dīpavaṁsa (iii.41-5) cũng rất giống với danh sách này.
 
-Okkāka có một nữ tì tên là Disā, người đã sinh ra một đứa trẻ da đen tên là Kaṇha. Người này là tổ tiên của dòng dõi Kaṇhāyana, mà gia tộc Ambaṭṭha là một nhánh phụ của nó. Về sau, Kaṇha trở thành một bậc hiền nhân quyền năng và, bằng thần thông của mình, đã kết hôn với Maddarūpī, một người con gái khác của Okkāka (DN.i.93, 96).
+Okkāka có một nữ tỳ tên là Disā, người đã sinh ra một đứa trẻ da đen và do đó được đặt tên là Kaṇha. Người này là tổ tiên của dòng dõi Kaṇhāyana, mà gia tộc Ambaṭṭha là một nhánh phụ của nó. Về sau, Kaṇha trở thành một bậc hiền nhân quyền năng và, bằng thần thông của mình, đã kết hôn với Maddarūpī, một người con gái khác của Okkāka (DN.i.93, 96).
 
 Theo Brāhmaṇa Dhammikasutta (Sn.p.52ff; AN­a.ii.737), chính trong thời của Okkāka mà những người Bà-la-môn đã bắt đầu tục lệ sát sinh động vật để hiến tế. Cho đến lúc đó, thế giới chỉ có ba căn bệnh – dục vọng, đói khát và già nua; nhưng kể từ thời điểm đó trở đi, chư thiên tức giận đã giáng xuống loài người đủ loại đau khổ.
 

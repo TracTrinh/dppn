@@ -26,6 +26,6 @@ Dukkhatātissasutta. On the three forms of suffering, caused by pain, by <span c
 
 ## Vietnamese translation
 
-Dukkhatātissasutta. Bàn về ba hình thức của khổ, gây ra do sự đau đớn, do các ý chí và do bản chất thay đổi của các pháp. SN.v.56; cp. Dukkhasutta 6 ở trên.
+Dukkhatātissasutta. Bàn về ba hình thức của khổ, gây ra do sự đau đớn, do các hành và do bản chất thay đổi của các pháp. SN.v.56; cp. Dukkhasutta 6 ở trên.
 
 ## Notes

@@ -25,6 +25,6 @@ Indakhīlasutta. Like a tuft of cotton-wool or a ball of thistledown, wafted by 
 
 ## Vietnamese translation
 
-Giống như một nhúm bông gòn hay một túm lông tơ của hoa cúc gai, bị cuốn bay bởi mọi ngọn gió, là những sa-môn và Bà-la-môn không hiểu được, như chúng thực sự là, sự thật về sự đau khổ; giống như một *indakhīla*, không thể lay chuyển, không thể rung rinh, là những người hiểu được như vậy. (SN.v.443-5).
+Indakhīlasutta. Giống như một nhúm bông gòn hay một túm lông tơ của hoa cúc gai, bị cuốn bay bởi mọi ngọn gió, là những sa-môn và Bà-la-môn không hiểu được, như chúng thực sự là, sự thật về sự đau khổ; giống như một *indakhīla*, không thể lay chuyển, không thể rung rinh, là những người hiểu được như vậy. (SN.v.443-5).
 
 ## Notes

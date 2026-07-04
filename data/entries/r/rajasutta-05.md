@@ -24,6 +24,6 @@ Rājasutta 05. Just as all petty princes follow in the train of a universal mona
 
 ## Vietnamese translation
 
-Rājasutta 05. Giống như tất cả các vị vua chư hầu đều đi theo đoàn tùy tùng của một vị vua cakkavatti (universal monarch), tương tự như vậy tất cả các thiện pháp đều đi theo sự tinh tấn (*earnestness*). SN.v.44.
+Rājasutta 05. Giống như tất cả các vị vua chư hầu đều đi theo đoàn tùy tùng của một vị vua cakkavatti (universal monarch), tương tự như vậy tất cả các thiện pháp đều đi theo sự không phóng dật (*earnestness*). SN.v.44.
 
 ## Notes

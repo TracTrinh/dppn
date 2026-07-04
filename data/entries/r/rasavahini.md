@@ -33,7 +33,7 @@ The present text consists of one hundred and three stories, forty relating to in
 
 ## Vietnamese translation
 
-Rasavāhinī. *v.l.* Madhurarasavāhinī. Một tuyển tập các câu chuyện bằng tiếng Pāli, do Vedeha, một tỳ-kheo thuộc hệ phái Vanavāsī ở Tích Lan (Ceylon) biên soạn. Tác phẩm này có thể thuộc về phần đầu của thế kỷ mười bốn, và dường như là một bản duyệt chính của một bản dịch tiếng Pāli cũ từ một tuyển tập tiếng Sinhalese gốc do Raṭṭhapāla Thera của Mahā Vihāra thực hiện.
+Rasavāhinī. *v.l.* Madhurarasavāhinī. Một tuyển tập các câu chuyện bằng tiếng Pāli, do Vedeha, một tỳ-kheo thuộc hệ phái Vanavāsī ở Tích Lan biên soạn. Tác phẩm này có thể thuộc về phần đầu của thế kỷ mười bốn, và dường như là một bản hiệu đính của một bản dịch tiếng Pāli cũ từ một tuyển tập gốc bằng tiếng Sinhala do Raṭṭhapāla Thera của Mahā Vihāra thực hiện.
 
 Bản văn hiện tại bao gồm một trăm lẻ ba câu chuyện, bốn mươi câu chuyện liên quan đến các sự kiện xảy ra ở Jambudīpa và phần còn lại thuộc về Tích Lan. Có một cuốn từ vựng chú giải cho tác phẩm này gọi là Rasavāhinīgaṇṭhi (PLC.210; Svd.1264).
 

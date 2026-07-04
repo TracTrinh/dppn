@@ -26,6 +26,6 @@ Nakhasikhāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Nakhasikhāsutta 01. Được thuyết giảng tại Jetavana. Giống như quả đất vĩ đại rộng lớn hơn gấp nhiều lần so với nhúm bụi nhỏ xíu lấy trên đầu móng tay của một người, sự đau khổ đã bị tiêu diệt bởi đệ tử bậc Thánh có trí tuệ và sự thấu hiểu cũng rộng lớn hơn nhiều so với sự đau khổ vẫn chưa bị tiêu diệt. SN.ii.133; SN.v.459.
+Nakhasikhāsutta 01. Được thuyết giảng tại Jetavana. Giống như quả đất vĩ đại lớn hơn gấp nhiều lần so với nhúm bụi nhỏ xíu lấy trên đầu móng tay của một người, sự đau khổ đã được đoạn tận bởi đệ tử bậc Thánh có trí tuệ và sự thấu hiểu cũng nhiều hơn rất nhiều so với sự đau khổ vẫn chưa được đoạn tận. SN.ii.133; SN.v.459.
 
 ## Notes

@@ -29,6 +29,6 @@ Upaḍḍhasutta. Preached at the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Upaḍḍhasutta. Được thuyết giảng tại thị trấn Sakkara của người Sākyan. Ānanda đề cập với Đức Phật quan điểm của ngài rằng một nửa đời sống phạm hạnh bao gồm tình bạn với những người tốt. Đức Phật nói rằng đó không phải là một nửa mà là toàn bộ đời sống phạm hạnh, và tiến hành giải thích (SN.v.2). Trong Kosalasaṁyutta (SN.i.87), chúngúng ta thấy Đức Phật kể lại sự kiện này cho Pasenadi.
+Upaḍḍhasutta. Được thuyết giảng tại thị trấn Sakkara của người Sākyan. Ānanda đề cập với Đức Phật quan điểm của ngài rằng một nửa đời sống phạm hạnh bao gồm tình bạn với những người tốt. Đức Phật nói rằng đó không phải là một nửa mà là toàn bộ đời sống phạm hạnh, và tiến hành giải thích (SN.v.2). Trong Kosalasaṁyutta (SN.i.87), chúng ta thấy Đức Phật kể lại sự kiện này cho Pasenadi.
 
 ## Notes

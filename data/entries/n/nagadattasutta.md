@@ -25,6 +25,6 @@ Nāgadattasutta. Records the admonition given by a *Deva* to <span class="dppn-t
 
 ## Vietnamese translation
 
-Nāgadattasutta. Ghi chép lại lời khiển trách được một *Deva* (thiên nhân) đưa ra đối với Trưởng lão Nāgadatta (*xem từ này*). SN.i.200.
+Nāgadattasutta. Ghi chép lại lời khiển trách được một thiên nhân đưa ra đối với Trưởng lão Nāgadatta (*xem từ này*). SN.i.200.
 
 ## Notes

@@ -26,6 +26,6 @@ Nāga 04. An Elder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Nāga 04. Một Trưởng lão của Kāraḷiyagiri ở Tích Lan. Trong mười tám năm ngài đã từ bỏ việc giảng dạy Dhamma, nhưng sau đó ngài đã giảng dạy Dhātukathā, và trí nhớ của ngài về nội dung hoàn hảo không tì vết. Vsm.96.
+Nāga 04. Một Trưởng lão của Kāraḷiyagiri ở Tích Lan. Trong mười tám năm ngài đã từ bỏ việc giảng dạy Pháp, nhưng sau đó ngài đã giảng dạy Dhātukathā, và trí nhớ của ngài về nội dung hoàn hảo không tì vết. Vsm.96.
 
 ## Notes

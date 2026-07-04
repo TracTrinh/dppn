@@ -44,7 +44,7 @@ The *Mahā Bhārata* (e.g., in *Bhīsmapārvan* ix.365; *Droṇa* iv.122) mentio
 
 ## Vietnamese translation
 
-Ukkalā. Một quận (*janapada*) trong khu vực được xác định với vùng Orissa ngày nay (CAG., p.733). Những người lái buôn Tapassu và Bhalluka đang trên đường đi từ Ukkalā, thì một vị *Deva* nào đó, một người họ hàng trước đây của họ, khuyên họ nên đến thăm Đức Phật tại Rājāyatanamūla, gần Uruvelā, và cúng dường thức ăn cho ngài, điều mà họ đã làm (Vin.i.4). Họ đang trên đường đi đến Majjhimadesa (Ja.i.80). Theo chú giải của Theragāthā (i.48f) có những người lái buôn bằng xe ngựa của một thành phố tên là Pokkharavatī (có lẽ là một thị trấn ở Ukkalā). Điểm đến của họ rõ ràng là Rājagaha, vì chúng ta thấy họ đến thăm Đức Phật ở đó sau bài pháp đầu tiên và nghe ngài thuyết pháp.
+Ukkalā. Một quận (*janapada*) trong khu vực được xác định với vùng Orissa ngày nay (CAG., p.733). Những người lái buôn Tapassu và Bhalluka đang trên đường đi từ Ukkalā, thì một vị thiên nhân nào đó, một người họ hàng trước đây của họ, khuyên họ nên đến thăm Đức Phật tại Rājāyatanamūla, gần Uruvelā, và cúng dường thức ăn cho ngài, điều mà họ đã làm (Vin.i.4). Họ đang trên đường đi đến Majjhimadesa (Ja.i.80). Theo chú giải của Theragāthā (i.48f) có những người dẫn đoàn lữ hành của một thành phố tên là Pokkharavatī (có lẽ là một thị trấn ở Ukkalā). Điểm đến của họ rõ ràng là Rājagaha, vì chúng ta thấy họ đến thăm Đức Phật ở đó sau bài pháp đầu tiên và nghe ngài thuyết pháp.
 
 Những người đàn ông của Ukkalā, cùng với những người đàn ông của Vassa và Bhañña, được miêu tả là những người phủ nhận nhân quả, những người phủ nhận thực tại (*ahetuvādā, akiriyavādā, natthikavādā*) (AN.ii.31; SN.iii.72; MN.iii.78; Kv.60; AN­a.ii.497; cũng xem KS.iii.63, và GS.ii.34, chú thích 3).
 

@@ -25,6 +25,6 @@ Rakkhasā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Rakkhasā, Các Rakkhasa. Một hạng dạ xoa, chủ yếu hoạt động về đêm và có hại. Chúng thường có sào huyệt trong nước và ăn thịt người khi tắm ở đó. Một vài trong số chúng sống ở biển, ví dụ, Thag.v.931; Snp. vs. 310; Ja.i.127; vi. 469; Dhp­a.i.367; iii.74; Mhv.xii.45, v.v.
+Rakkhasā, Các Rakkhasa. Một hạng quỷ, chủ yếu hoạt động về đêm và có hại. Chúng thường có sào huyệt trong nước và ăn thịt người khi tắm ở đó. Một vài trong số chúng sống ở biển, ví dụ, Thag.v.931; Snp. vs. 310; Ja.i.127; vi. 469; Dhp­a.i.367; iii.74; Mhv.xii.45, v.v.
 
 ## Notes

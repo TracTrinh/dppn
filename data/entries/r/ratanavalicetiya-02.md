@@ -27,6 +27,6 @@ Ratanāvalicetiya 02. A *Thūpa* in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Ratanāvalicetiya 02. Một *Thūpa* ở Pulatthipura. Nó có lẽ do Parakkamabāhu I. xây dựng và được Kittinissaṅka phục hồi và đội lên một chóp nhọn bằng vàng. Cv.lxxx.20; cũng xem Cv.Trs.ii.128, n.1; 107, n.3.
+Ratanāvalicetiya 02. Một *Thūpa* ở Pulatthipura. Nó có lẽ do Parakkamabāhu I. xây dựng và được Kittinissaṅka phục hồi, gắn thêm một chóp nhọn bằng vàng. Cv.lxxx.20; cũng xem Cv.Trs.ii.128, n.1; 107, n.3.
 
 ## Notes

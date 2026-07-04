@@ -33,6 +33,8 @@ It is said (DN­a.iii.899) that when the Buddha’s religion disappears, all the
 
 ## Vietnamese translation
 
-Rājāyatanadhātu. Có lẽ đồng nhất với *cetiya* Rājāyatana ở Nāgadīpa. Aggabodhi II đã xây dựng cho nó *vihāra* Uṇṇalomaghara (C.xlii.62). *Cetiya* này có lẽ được dựng lên để tôn vinh cây Rājāyatana, cái cây được Samiddhisumana mang từ Jetavana đến khi ngài đi cùng Đức Phật đến Tích Lan (Xem Mhv.i.52, 57f).\n\nNgười ta nói (DN­a.iii.899) rằng khi tôn giáo của Đức Phật biến mất, tất cả các xá-lợi của Đức Phật ở Tích Lan sẽ tập hợp lại tại Mahā Cetiya, từ đó đi đến *cetiya* Rājāyatana ở Nāgadīpa, và từ đó, cuối cùng, đi đến cây Bồ đề.
+Rājāyatanadhātu. Có lẽ đồng nhất với *cetiya* Rājāyatana ở Nāgadīpa. Aggabodhi II đã xây dựng cho nó *vihāra* Uṇṇalomaghara (C.xlii.62). *Cetiya* này có lẽ được dựng lên để tôn vinh cây Rājāyatana, cái cây được Samiddhisumana mang từ Jetavana đến khi ngài đi cùng Đức Phật đến Tích Lan (Xem Mhv.i.52, 57f).
+
+Người ta nói (DN­a.iii.899) rằng khi tôn giáo của Đức Phật biến mất, tất cả các xá-lợi của Đức Phật ở Tích Lan sẽ tập hợp lại tại Mahā Cetiya, từ đó đi đến *cetiya* Rājāyatana ở Nāgadīpa, và từ đó, cuối cùng, đi đến cây bodhi.
 
 ## Notes

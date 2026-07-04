@@ -27,6 +27,6 @@ Raṇamaddava. The state horse of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Raṇamaddava. Con ngựa chầu của Eḷāra. Nó bị Veḷusumana đánh cắp. Nhưng xem Vaha. Ras.ii.62.
+Raṇamaddava. Con ngựa triều đình của Eḷāra. Nó bị Veḷusumana đánh cắp. Nhưng xem Vaha. Ras.ii.62.
 
 ## Notes

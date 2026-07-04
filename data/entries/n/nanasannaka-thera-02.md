@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ñāṇasaññaka Thera 02. Một arahant. Chín mươi mốt kappa trước, ngài nhìn thấy một cây cọ dừa và, với tâm trí hướng về Đức Phật, đã nghĩ đến những lời tán dương Đức Phật. Bảy mươi ba kappa trước, ngài là một vị vua tên là Pulinapupphiya (Ap.i.161f.). Ngài có lẽ chính là Piyañjaha. Thag-a.i.169.
+Ñāṇasaññaka Thera 02. Một Arahant. Chín mươi mốt kappa trước, ngài nhìn thấy một cây cọ dừa và, với tâm trí hướng về Đức Phật, đã nghĩ đến những lời tán dương Đức Phật. Bảy mươi ba kappa trước, ngài là một vị vua tên là Pulinapupphiya (Ap.i.161f.). Ngài có lẽ chính là Piyañjaha. Thag-a.i.169.
 
 ## Notes

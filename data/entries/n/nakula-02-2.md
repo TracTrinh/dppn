@@ -25,6 +25,6 @@ Nakulā 02. Chief of the lay women who supported <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Nakulā 02. Trưởng nữ cư sĩ đã ủng hộ Đức Phật Sobhita. Bv.vii.23.
+Nakulā 02. Nữ cư sĩ hộ độ đứng đầu của Đức Phật Sobhita. Bv.vii.23.
 
 ## Notes

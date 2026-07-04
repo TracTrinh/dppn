@@ -27,6 +27,6 @@ Naḷamāla, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Naḷamāla, Nalamālī. Một đại dương mà Suppāraka và thủy thủ đoàn của ngài đi qua trên đường từ Bharukaccha. Nó trông giống như một khoảng trải dài của lau sậy hay một lùm tre. Chú giải giải thích rằng biển có màu đỏ giống như "scorpion reeds" hay "crab weeds", vốn có màu đỏ. Dưới đáy đại dương có san hô (*veḷu*), và Suppāraka đã mang một ít san hô này lên tàu của mình. Ja.iv.140,141.
+Naḷamāla, Nalamālī. Một đại dương mà Suppāraka và thủy thủ đoàn của ngài đi qua trên đường từ Bharukaccha. Nó trông giống như một khoảng trải dài của lau sậy hay một lùm tre. Chú giải giải thích rằng biển có màu đỏ giống như "lau bọ cạp" hay "cỏ cua", vốn có màu đỏ. Dưới đáy đại dương có san hô (*veḷu*), và Suppāraka đã mang một ít san hô này lên tàu của mình. Ja.iv.140,141.
 
 ## Notes

@@ -34,6 +34,6 @@ Naḷapānajātaka (Ja 20). Bodhisatta sinh ra là thủ lĩnh của một bầy
 
 Đây là một trong bốn phép lạ sẽ tồn tại trong suốt kappa.
 
-Câu chuyện này được Đức Phật kể ở làng Naḷakapāna để giải thích sự rỗng ruột của những cây gậy mọc quanh hồ. Chằn tinh trong câu chuyện được đồng nhất với Devadatta. Ja.i.170ff.
+Câu chuyện này được Đức Phật kể ở làng Naḷakapāna để giải thích sự rỗng ruột của những cây lau sậy mọc quanh hồ. Chằn tinh trong câu chuyện được đồng nhất với Devadatta. Ja.i.170ff.
 
 ## Notes

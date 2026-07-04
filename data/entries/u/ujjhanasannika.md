@@ -27,6 +27,6 @@ Ujjhānasaññikā. The name given to a group of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Ujjhānasaññikā. Tên được đặt cho một nhóm chư thiên đã có lần viếng thăm Đức Phật tại Jetavana vào đêm khuya. Họ buộc tội Đức Phật vì sự không nhất quán, nhưng về sau, khi cầu xin sự tha thứ của ngài, họ đã được ngài tha thứ (SN.i.23-5). Buddhaghosa (SN­a.i.50f) nói rằng họ không thuộc về bất kỳ cõi trời nào riêng biệt mà được các vị Trưởng lão của kỳ Kết tập đặt tên này vì những lời lẽ bắt bẻ của họ. Họ đã nghe Đức Phật ca ngợi các tỳ-kheo của ngài vì những pháp thực hành xả ly trong khi chính ngài mặc y phục bằng lụa, vải tốt hoặc vải lanh, ăn thức ăn xứng với một *rājā*, ngự trong Hương phòng giống như cung điện của một chư thiên và dùng những loại thuốc tốt.
+Ujjhānasaññikā. Tên được đặt cho một nhóm chư thiên đã có lần viếng thăm Đức Phật tại Jetavana vào đêm khuya. Họ buộc tội Đức Phật vì sự không nhất quán, nhưng về sau, khi cầu xin sự tha thứ của ngài, họ đã được ngài tha thứ (SN.i.23-5). Buddhaghosa (SN­a.i.50f) nói rằng họ không thuộc về bất kỳ cõi trời nào riêng biệt mà được các vị Trưởng lão của kỳ Kết tập đặt tên này vì những lời lẽ bắt bẻ của họ. Họ đã nghe Đức Phật ca ngợi các tỳ-kheo của ngài vì những pháp thực hành xả ly trong khi chính ngài mặc y phục bằng lụa, vải tốt hoặc vải lanh, ăn thức ăn xứng với một *rājā*, ngự trong Hương phòng giống như một thiên cung và dùng những loại thuốc tốt.
 
 ## Notes

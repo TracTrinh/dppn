@@ -28,6 +28,6 @@ Nāmarūpasamāsa. Also called the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Nāmarūpasamāsa. Cũng được gọi là Khemappakaraṇa. Một luận thư Abhidhamma của Khema Thera. Một *ṭīkā* về nó được viết bởi Vācissara. Gv.61,71; PLC.155f.; được xuất xuất bản trong JPTS 1915.
+Nāmarūpasamāsa. Cũng được gọi là Khemappakaraṇa. Một luận thư Abhidhamma của Khema Thera. Một *ṭīkā* về nó được viết bởi Vācissara. Gv.61,71; PLC.155f.; được xuất bản trong JPTS 1915.
 
 ## Notes

@@ -24,6 +24,6 @@ Uggata 06. King of one thousand and fifty-one *kappas* ago; a previous life of <
 
 ## Vietnamese translation
 
-Uggata 06. Vua của một ngàn không trăm năm mươi mốt *kappa* trước; một tiền kiếp của Dhajadāyaka Thera. Ap.i.109.
+Uggata 06. Vua của một nghìn năm mươi mốt *kappa* trước; một tiền kiếp của Dhajadāyaka Thera. Ap.i.109.
 
 ## Notes

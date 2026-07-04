@@ -29,6 +29,6 @@ Nālā 01. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Nālā 01. Một ngôi làng ở Magadha, gần cây Bồ-đề tại Gayā. Đó là nơi sinh của Upaka (Thīg.294; Thīg­a.225). Chú giải Buddhavaṁsa (p.3) nói về một ngôi làng Bà-la-môn Nālā, nơi Đức Phật đã trải qua mùa an cư mùa mưa thứ mười một của Ngài.
+Nālā 01. Một ngôi làng ở Magadha, gần cây Bồ-đề tại Gayā. Đó là nơi sinh của Upaka (Thīg.294; Thīg­a.225). Chú giải Buddhavaṁsa (p.3) nói về một ngôi làng Bà-la-môn Nālā, nơi Đức Phật đã trải qua mùa an cư thứ mười một của Ngài.
 
 ## Notes

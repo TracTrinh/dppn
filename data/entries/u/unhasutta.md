@@ -25,6 +25,6 @@ Uṇhasutta. When the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Uṇhasutta. Khi Uṇhavalāhaka *Devā* muốn phơi bày cơ thể của họ, thời tiết trở nên nóng bức, đúng theo ước muốn của họ. SN.iii.251.
+Uṇhasutta. Khi chư thiên Uṇhavalāhaka muốn phơi bày cơ thể của họ, thời tiết trở nên nóng bức, đúng theo ước muốn của họ. SN.iii.251.
 
 ## Notes

@@ -24,6 +24,6 @@ Upādānasutta 02. On grasping and the things that make for it. SN.iii.167.
 
 ## Vietnamese translation
 
-Upādānasutta 02. Về sự chấp thủ và những thứ tạo ra nó. SN.iii.167.
+Upādānasutta 02. Về sự chấp thủ và những điều dẫn đến nó. SN.iii.167.
 
 ## Notes

@@ -29,6 +29,8 @@ A *Thūpa* was later erected on the site of the tree. Beal-Xuan, op.cit., 129.
 
 ## Vietnamese translation
 
-Rājāyatana. Tên của một cái cây, nơi dưới gốc cây đó Đức Phật đã nhận được một món quà là lúa mì và mật ong từ các thương gia Tapassu và Bhallika vào tuần thứ tám sau khi Giác ngộ (Vin.i.3f.; Ja.i.80; Bv­a.p.9.).\n\nMột *Thūpa* sau đó đã được dựng lên trên vị trí của cái cây này. Beal-Xuan, sđd., 129.
+Rājāyatana. Tên của một cái cây, nơi dưới gốc cây đó Đức Phật đã nhận được một món quà là lúa mì và mật ong từ các thương gia Tapassu và Bhallika vào tuần thứ tám sau khi Giác ngộ (Vin.i.3f.; Ja.i.80; Bv­a.p.9.).
+
+Một *Thūpa* sau đó đã được dựng lên trên vị trí của cái cây này. Beal-Xuan, sđd., 129.
 
 ## Notes

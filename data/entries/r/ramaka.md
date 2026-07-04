@@ -27,6 +27,6 @@ Rāmaka, or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Rāmaka, hoặc Rāmuka. v.l. Bhamuka. Một vihāra ở Tích Lan (Ceylon), do Gajabāhukagāmaṇi xây dựng vào năm cuối cùng của triều đại ông (Mhv.xxxv.122).
+Rāmaka, hoặc Rāmuka. v.l. Bhamuka. Một vihāra ở Tích Lan, do Gajabāhukagāmaṇi xây dựng vào năm cuối cùng của triều đại ông (Mhv.xxxv.122).
 
 ## Notes

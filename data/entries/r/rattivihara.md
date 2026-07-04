@@ -25,6 +25,6 @@ Rattivihāra. A locality in Ceylon; it was once the encampment of King <span cla
 
 ## Vietnamese translation
 
-Rattivihāra. Một địa danh ở Tích Lan (Ceylon); nó từng là doanh trại của Vua Saṅghatissa. Cv.xliv.5.
+Rattivihāra. Một địa danh ở Tích Lan; nó từng là doanh trại của Vua Saṅghatissa. Cv.xliv.5.
 
 ## Notes

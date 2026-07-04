@@ -25,6 +25,6 @@ Nāgamaṇḍalaparitta (or <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Nāgamaṇḍalaparitta (hoặc Nāgamaṇḍalamanta). Được đề cập là một bài chú có sức mạnh mang lại những lời chúc phúc cho người khác. Vibh­a.410,411.
+Nāgamaṇḍalaparitta (hoặc Nāgamaṇḍalamanta). Được đề cập là một bài chú có sức mạnh mang lại phước lành cho người khác. Vibh­a.410,411.
 
 ## Notes

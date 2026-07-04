@@ -26,6 +26,6 @@ Nāga 03. A Thera of Ceylon during the pillage by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Nāga 03. Một Trưởng lão của Tích Lan trong thời kỳ Brāhmaṇatissa cướp phá. Chị gái của ngài là một *Arahant* (A-la-hán) Tỳ-kheo-ni tên là Nāgā (*xem từ này*). Về câu chuyện của họ, xem MN­a.i.546f.; AN­a.ii.654f.
+Nāga 03. Một Trưởng lão của Tích Lan trong thời kỳ Brāhmaṇatissa cướp phá. Chị gái của ngài là một *Arahant* Tỳ-kheo-ni tên là Nāgā (*xem từ này*). Về câu chuyện của họ, xem MN­a.i.546f.; AN­a.ii.654f.
 
 ## Notes

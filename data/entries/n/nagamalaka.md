@@ -31,6 +31,6 @@ Nāgamālaka. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Nāgamālaka. Một địa danh ở Anurādhapura về phía bắc của Sirīsamāla. Đức Phật Koṇāgamana đã thuyết giảng Dhamma ở đó và hai mươi ngàn người đã chứng ngộ chân lý. Về phía bắc là Asokamālaka (Mhv.xv.118,153). Ở Nāgamālaka có Silāsobbhakaṇḍakacetiya, và gần đó, Thūlatthana đã xây dựng một *cetiya* khác. Mhv­ṭ.355.
+Nāgamālaka. Một địa danh ở Anurādhapura về phía bắc của Sirīsamāla. Đức Phật Koṇāgamana đã thuyết giảng Pháp ở đó và hai mươi ngàn người đã chứng ngộ chân lý. Về phía bắc là Asokamālaka (Mhv.xv.118,153). Ở Nāgamālaka có Silāsobbhakaṇḍakacetiya, và gần đó, Thūlatthana đã xây dựng một *cetiya* khác. Mhv­ṭ.355.
 
 ## Notes

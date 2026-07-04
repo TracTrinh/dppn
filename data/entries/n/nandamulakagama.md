@@ -27,6 +27,6 @@ Nandāmūlakagāma. A village in Ceylon near <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Nandāmūlakagāma. Một ngôi làng ở Ceylon gần Aḷisāra, được đề cập trong các chiến dịch của Parakkamabāhu I. Ở đó có một lâu đài đã bị Māyāgeha đánh chiếm. Cv.lxx.164.
+Nandāmūlakagāma. Một ngôi làng ở Tích Lan gần Aḷisāra, được đề cập trong các chiến dịch của Parakkamabāhu I. Ở đó có một lâu đài đã bị Māyāgeha đánh chiếm. Cv.lxx.164.
 
 ## Notes

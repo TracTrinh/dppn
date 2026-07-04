@@ -23,6 +23,6 @@ Nanda 08. A *Devaputta* who visited the Buddha and had a conversation with him. 
 
 ## Vietnamese translation
 
-Nanda 08. Một *Devaputta* đã đến viếng thăm Đức Phật và có một cuộc trò chuyện với Ngài. SN.i.62.
+Nanda 08. Một thiên tử đã đến viếng thăm Đức Phật và có một cuộc trò chuyện với Ngài. SN.i.62.
 
 ## Notes

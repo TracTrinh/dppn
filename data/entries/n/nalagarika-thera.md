@@ -34,7 +34,7 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 Naḷāgārika Thera. Một *Arahant*. Vào thời của Đức Phật Nārada, ngài đã xây dựng cho Đức Phật một túp lều bằng lau sậy gần ngọn núi Hārita và lợp nó bằng cỏ.
 
-Bảy mươi bốn lần ngài trở thành vua của chư Thiên và bảy mươi bảy lần làm vua của loài người (Ap.i.178).
+Bảy mươi bốn lần ngài trở thành vua của chư thiên và bảy mươi bảy lần làm vua của loài người (Ap.i.178).
 
 Ngài có lẽ được đồng nhất với Trưởng lão Valliya (Thag­a.i.247).
 

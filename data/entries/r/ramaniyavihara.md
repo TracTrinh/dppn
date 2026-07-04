@@ -25,6 +25,6 @@ Ramaṇīyavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Ramaṇīyavihāra. Một tu viện ở Amarapura thuộc Miến Điện (Burma). Sās. 132,143.
+Ramaṇīyavihāra. Một tu viện ở Amarapura thuộc Miến Điện. Sās. 132,143.
 
 ## Notes

@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ñāṇasaññaka Thera 01. Một arahant. Trong một tiền kiếp, ngài đã gặp Siddhattha Buddha và đảnh lễ Ngài. Bảy mươi ba kappa trước, ngài mười sáu lần làm vua (Ap.i.140f). Ngài có lẽ chính là Subhāhu (Thag-a.i.124).
+Ñāṇasaññaka Thera 01. Một Arahant. Trong một tiền kiếp, ngài đã gặp Siddhattha Buddha và đảnh lễ Ngài. Bảy mươi ba kappa trước, ngài mười sáu lần làm vua (Ap.i.140f). Ngài có lẽ chính là Subhāhu (Thag-a.i.124).
 
 ## Notes

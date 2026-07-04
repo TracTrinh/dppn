@@ -24,6 +24,6 @@ Upādānasutta 03. The Buddha teaches the things that make for grasping and the 
 
 ## Vietnamese translation
 
-Upādānasutta 03. Đức Phật giảng dạy về những thứ tạo ra sự chấp thủ và những kiết sử khởi sinh từ đó. SN.iv.89.
+Upādānasutta 03. Đức Phật giảng dạy về những điều dẫn đến sự chấp thủ và những kiết sử khởi sinh từ đó. SN.iv.89.
 
 ## Notes

@@ -27,6 +27,6 @@ Nakulā 03. Daughter of the *seṭṭhi* of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Nakulā 03. Con gái của *seṭṭhi* của Nakulanigama. Cô đã dâng một bữa ăn gồm cơm sữa cho Đức Phật Sumedha ngay trước sự Giác Ngộ của Ngài. Bv­a. 163.
+Nakulā 03. Con gái của trưởng giả ở Nakulanigama. Cô đã dâng một bữa ăn gồm cơm sữa cho Đức Phật Sumedha ngay trước sự Giác Ngộ của Ngài. Bv­a. 163.
 
 ## Notes

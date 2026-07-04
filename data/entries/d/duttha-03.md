@@ -27,6 +27,6 @@ Duṭṭha 03. Son of the king of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Duṭṭha 03. Con trai của vua xứ Benares; một tiền kiếp của vị hoàng tử Licchavī tàn ác mà nhân cơ hội nói về vị ấy kinh Ekapaṇṇajātaka (Ja 149) đã được thuyết giảng. Ja.i.506.
+Duṭṭha 03. Con trai của vua xứ Benares; một tiền kiếp của vị hoàng tử Licchavī tàn ác, vì vị ấy mà kinh Ekapaṇṇajātaka (Ja 149) đã được thuyết giảng. Ja.i.506.
 
 ## Notes

@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ñāṇathavika. Một arahant. Một trăm ngàn kappa trước, ngài là một ẩn sĩ, và khi nhìn thấy Buddha Padumuttara, ngài đã tôn kính đảnh lễ Ngài và hát lên những lời tán dương Ngài (Ap.ii.392f.). Ngài có lẽ chính là Yasadatta Thera. Thag-a.i.428.
+Ñāṇathavika. Một Arahant. Một trăm ngàn kappa trước, ngài là một ẩn sĩ, và khi nhìn thấy Buddha Padumuttara, ngài đã tôn kính đảnh lễ Ngài và hát lên những lời tán dương Ngài (Ap.ii.392f.). Ngài có lẽ chính là Yasadatta Thera. Thag-a.i.428.
 
 ## Notes

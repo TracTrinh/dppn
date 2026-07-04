@@ -27,6 +27,6 @@ Rāma 05. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Rāma 05. Một hoàng tử Sākyan, anh/em trai của Bhaddakaccānā. Ông đến Tích Lan (Ceylon), nơi ông thành lập khu định cư Rāmagoṇa. Mhv.ix.9; Dpv.x.4ff.
+Rāma 05. Một hoàng tử Sākyan, anh/em trai của Bhaddakaccānā. Ông đến Tích Lan, nơi ông thành lập khu định cư Rāmagoṇa. Mhv.ix.9; Dpv.x.4ff.
 
 ## Notes

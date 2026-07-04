@@ -32,6 +32,6 @@ Once, a holy ascetic came with five hundred others and took up his abode in the 
 
 Nāḷikīra (Nāḷikera). Vua của Dantapura ở Kāliṅga.
 
-Có lần, một vị sa-môn thánh thiện đến cùng với năm trăm người khác và cư ngụ tại công viên hoàng gia. Nāḷikīra đã đến thăm vị sa-môn và không hài lòng với những câu hỏi mà ông bị hỏi về việc liệu ông có cai trị thần dân của mình một cách công bằng hay không. Do đó, ông đã mời các sa-môn đến cung điện của mình, đổ đầy rác rưởi vào bình bát của họ, và sai người đánh đập và thả chó cắn họ. Đất nẻ ra và nuốt chửng vị vua. Ông tái sinh vào địa ngục Sunakha, nơi ông phải chịu nhiều kiểu tra tấn khác nhau. Vương quốc của ông bị phá hủy và trở thành một vùng hoang vu (Ja.v.119, 143, 144f.; MN­a.ii.602ff.; Mvu.iii.361, 368, 369). Câu chuyện này hiển nhiên được lưu truyền rộng rãi ở Ấn Độ.
+Có lần, một vị sa-môn thánh thiện đến cùng với năm trăm người khác và cư ngụ tại công viên hoàng gia. Nāḷikīra đã đến thăm vị sa-môn và không hài lòng với những câu hỏi mà ông bị hỏi về việc liệu ông có cai trị thần dân của mình một cách công bằng hay không. Do đó, ông đã mời các sa-môn đến cung điện của mình, đổ đầy đồ ô uế vào bình bát của họ, và sai người đánh đập và thả chó cắn họ. Đất nẻ ra và nuốt chửng vị vua. Ông tái sinh vào địa ngục Sunakha, nơi ông phải chịu nhiều kiểu tra tấn khác nhau. Vương quốc của ông bị phá hủy và trở thành một vùng hoang vu (Ja.v.119, 143, 144f.; MN­a.ii.602ff.; Mvu.iii.361, 368, 369). Câu chuyện này hiển nhiên được lưu truyền rộng rãi ở Ấn Độ.
 
 ## Notes

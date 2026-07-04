@@ -31,6 +31,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Rājovādajātaka 02. (Ja 334). Có một lần vua của Benares, muốn khám phá xem mình cai trị có công bằng hay không, đã đi vi hành cải trang, và, trong quá trình lang thang của mình, đã đến Himālaya, nơi Bồ tát đang sống như một đạo sĩ. Vị đạo sĩ cho ông những quả sung chín, và, khi được hỏi tại sao chúng lại ngọt như vậy, đã giải thích rằng vị vua của đất nước hiển nhiên là một người cai trị công bằng. Nhà vua quay trở lại vương quốc của mình và cai trị một thời gian một cách bất công; và khi quay trở lại am thất đó, ông thấy rằng những quả sung đã trở nên đắng chát.\n\nCâu chuyện được kể lại cho Pasenadi, để cho thấy tầm quan trọng của một vị vua cai trị một cách khôn ngoan và công bằng. Ānanda được nhận diện với vị vua trong câu chuyện. Ja.iii.110-12; so sánh Mahā Kapijātaka (Ja 407).
+Rājovādajātaka 02. (Ja 334). Có một lần vua của Benares, muốn khám phá xem mình cai trị có công bằng hay không, đã đi vi hành cải trang, và, trong quá trình lang thang của mình, đã đến Himālaya, nơi Bodhisatta đang sống như một đạo sĩ. Vị đạo sĩ cho ông những quả sung chín, và, khi được hỏi tại sao chúng lại ngọt như vậy, đã giải thích rằng vị vua của đất nước hiển nhiên là một người cai trị công bằng. Nhà vua quay trở lại vương quốc của mình và cai trị một thời gian một cách bất công; và khi quay trở lại am thất đó, ông thấy rằng những quả sung đã trở nên đắng chát.
+
+Câu chuyện được kể lại cho Pasenadi, để cho thấy tầm quan trọng của một vị vua cai trị một cách khôn ngoan và công bằng. Ānanda được nhận diện với vị vua trong câu chuyện. Ja.iii.110-12; so sánh Mahā Kapijātaka (Ja 407).
 
 ## Notes

@@ -27,6 +27,6 @@ Ratanagāma. A village in Ceylon given by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Ratanagāma. Một ngôi làng ở Tích Lan (Ceylon) do Aggabodhi I. ban tặng làm làng chu cấp cho *vihāra* Unnavalli. Cv.xlii.18; nó có lẽ đồng nhất với Ratnapura hiện đại; xem Cv.Trs.i.67, n.4.
+Ratanagāma. Một ngôi làng ở Tích Lan do Aggabodhi I. ban tặng làm làng chu cấp cho *vihāra* Unnavalli. Cv.xlii.18; nó có lẽ đồng nhất với Ratnapura hiện đại; xem Cv.Trs.i.67, n.4.
 
 ## Notes

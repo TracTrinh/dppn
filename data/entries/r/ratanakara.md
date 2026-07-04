@@ -25,6 +25,6 @@ Ratanākara. A district in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Ratanākara. Một vùng đất ở Dakkhiṇadesa của Tích Lan (Ceylon). Cv.lxix.31; để biết việc xác định vị trí của nó, xem Cv.Trs.i.286, n.3.
+Ratanākara. Một vùng đất ở Dakkhiṇadesa của Tích Lan. Cv.lxix.31; để biết việc xác định vị trí của nó, xem Cv.Trs.i.286, n.3.
 
 ## Notes

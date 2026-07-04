@@ -26,6 +26,6 @@ Nakulanagara. A village in Ceylon, near <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Nakulanagara. Một ngôi làng ở Tích Lan, gần Guttasāla. Khi Guttasāla bị băng cướp tiêu diệt, một *Arahant* Therī (Trưởng lão ni), cùng với một ni cô trẻ, đã đến ngôi làng này, và tại đó bà đã được nhìn thấy bởi Trưởng lão Mahā Nāga của Kāḷavallimaṇḍapa, đang ngồi dưới gốc cây. Trưởng lão đã dâng cúng thức ăn cho bà, nhưng bà không có bình bát, và Trưởng lão đã cho bà mượn chiếc bát của mình. Chúng ta được kể lại rằng, kết quả là, ngài chưa bao giờ gặp khó khăn trong việc khất thực. Dhs-a. 298 f.
+Nakulanagara. Một ngôi làng ở Tích Lan, gần Guttasāla. Khi Guttasāla bị băng cướp tiêu diệt, một *Arahant* Therī (Trưởng lão ni), cùng với một tỳ-kheo-ni trẻ, đã đến ngôi làng này, và tại đó bà được Trưởng lão Mahā Nāga của Kāḷavallimaṇḍapa nhìn thấy khi đang ngồi dưới gốc cây. Trưởng lão đã dâng cúng thức ăn cho bà, nhưng bà không có bình bát, và Trưởng lão đã cho bà mượn chiếc bát của mình. Chúng ta được kể lại rằng, kết quả là, ngài chưa bao giờ gặp khó khăn trong việc khất thực. Dhs-a. 298 f.
 
 ## Notes

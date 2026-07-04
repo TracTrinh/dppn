@@ -27,6 +27,6 @@ Ratanavihāra. A nunnery in Ceylon, built by the queen of <span class="dppn-term
 
 ## Vietnamese translation
 
-Ratanavihāra. Một ni viện ở Tích Lan (Ceylon), do vương hậu của Aggabodhi II. xây dựng để dành cho vương hậu Kāliṅga, người đã cùng chồng đến Tích Lan và xuất gia dưới sự tế độ của Jotipāla Thera. Cv.xlii.47.
+Ratanavihāra. Một ni viện ở Tích Lan, do vương hậu của Aggabodhi II. xây dựng để dành cho vương hậu Kāliṅga, người đã cùng chồng đến Tích Lan và xuất gia dưới sự tế độ của Jotipāla Thera. Cv.xlii.47.
 
 ## Notes

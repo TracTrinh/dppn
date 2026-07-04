@@ -24,6 +24,6 @@ Dūteyyasutta 02. Few are those who abstain from sending messengers, or from ser
 
 ## Vietnamese translation
 
-Dūteyyasutta 02. Ít thay những người tránh việc phái đi sứ giả, hoặc tránh làm công việc như vậy; nhiều thay những người không làm thế. SN.v.473.
+Dūteyyasutta 02. Ít thay những người tránh việc phái đi sứ giả, hoặc tránh làm công việc như vậy; nhiều thay những người không tránh làm như thế. SN.v.473.
 
 ## Notes

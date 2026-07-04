@@ -28,6 +28,6 @@ Nagarapavesanakhaṇḍa. A section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Nagarapavesanakhaṇḍa. Một chương của Bhuridattajātaka, đề cập đến việc Bodhisatta bị Alambāyana bắt giữ và sự giải thoát cuối cùng của ngài bởi Sudassana và Accimukhī. Ja.vi.197.
+Nagarapavesanakhaṇḍa. Một chương của Bhuridattajātaka, đề cập đến việc Bodhisatta bị Alambāyana bắt giữ và cuối cùng được Sudassana và Accimukhī giải cứu. Ja.vi.197.
 
 ## Notes

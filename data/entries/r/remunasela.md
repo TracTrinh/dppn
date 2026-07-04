@@ -27,6 +27,6 @@ Remuṇasela. A rock in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Remuṇasela. Một tảng đá ở Hiraññamalaya tại Tích Lan (Ceylon). Kitti (sau này là Vijayabāhu I.) từng chiếm giữ một thành lũy tại đó. Cv.lvii.62.
+Remuṇasela. Một tảng đá ở Hiraññamalaya tại Tích Lan. Kitti (sau này là Vijayabāhu I.) từng chiếm giữ một thành lũy tại đó. Cv.lvii.62.
 
 ## Notes

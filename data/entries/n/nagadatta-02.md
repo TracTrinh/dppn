@@ -30,6 +30,6 @@ Nāgadatta 02. A *Deva*, living, according to one account, in <span class="dppn-
 
 ## Vietnamese translation
 
-Nāgadatta 02. Một *Deva* (thiên nhân), sống ở Kelāsapabbata theo một tài liệu (SN­a.i.217); theo một tài liệu khác, ở Gandhamādana (Thag­a.i.138; AN­a.i.139). Khi Anuruddha cư ngụ trong rừng Chaddanta, ngài thường đi ngang qua nơi ở của thiên nhân này, và *Deva* đó đã dâng cho ngài món cơm sữa với mật hoa sen. Khi Sīvalī đến thăm Gandhamādana cùng với năm trăm vị tỳ-kheo, *Deva* này đã dâng cho họ cơm sữa vào một ngày và bơ trong vào ngày hôm sau. Khi các tỳ-kheo hỏi làm thế nào ông có thể có được sữa và bơ, ông nói với họ rằng đây là kết quả của việc dâng cúng cơm sữa do ông thực hiện vào thời của Đức Phật Kassapa.
+Nāgadatta 02. Một thiên nhân, sống ở Kelāsapabbata theo một tài liệu (SN­a.i.217); theo một tài liệu khác, ở Gandhamādana (Thag­a.i.138; AN­a.i.139). Khi Anuruddha cư ngụ trong rừng Chaddanta, ngài thường đi ngang qua nơi ở của thiên nhân này, và thiên nhân đó đã dâng cho ngài món cơm sữa với mật hoa sen. Khi Sīvalī đến thăm Gandhamādana cùng với năm trăm vị tỳ-kheo, thiên nhân này đã dâng cho họ cơm sữa vào một ngày và bơ trong vào ngày hôm sau. Khi các tỳ-kheo hỏi làm thế nào ông có thể có được sữa và bơ, ông nói với họ rằng đây là kết quả của việc dâng cúng cơm sữa do ông thực hiện vào thời của Đức Phật Kassapa.
 
 ## Notes

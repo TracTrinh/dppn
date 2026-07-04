@@ -25,6 +25,6 @@ Rattamālakaṇḍaka. A tank in Ceylon, built by King <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Rattamālakaṇḍaka. Một hồ chứa nước ở Tích Lan (Ceylon), do Vua Mahā Sena xây dựng. Mhv.xxxvii.48; Mhv.Trs. 271, n.7.
+Rattamālakaṇḍaka. Một hồ chứa nước ở Tích Lan, do Vua Mahā Sena xây dựng. Mhv.xxxvii.48; Mhv.Trs. 271, n.7.
 
 ## Notes

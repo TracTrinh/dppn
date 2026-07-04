@@ -23,6 +23,6 @@ Dukkhasutta 07. A monk without faith is unconscientious, has no fear of blame, i
 
 ## Vietnamese translation
 
-Dukkhasutta 07. Một vị tỳ-kheo không có niềm tin là người vô tàm, vô úy, lười biếng và thiếu tuệ, sống không an ổn trong đời này và sẽ chịu khổ trong đời sau. AN.iii.3.
+Dukkhasutta 07. Một vị tỳ-kheo không có niềm tin là người vô tàm, vô quý, lười biếng và thiếu tuệ, sống không an ổn trong đời này và sẽ chịu khổ trong đời sau. AN.iii.3.
 
 ## Notes

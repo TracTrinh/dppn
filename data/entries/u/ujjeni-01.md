@@ -85,7 +85,7 @@ Trước khi kế vị ngai vàng của cha mình tại Pāṭaliputta, Asoka đ
 
 Mahinda đã sống sáu tháng tại Dakkhiṇagirivihāra ở Ujjenī, trước khi ngài đến thăm Tích Lan (Mhv.xiii.5).
 
-Từ cùng *vihāra* này, bốn mươi ngàn tỳ-kheo đã có mặt, dưới sự dẫn dắt của Mahā Saṅgharakkhita, tại nền móng của Mahā Thūpa ở Anurādhapura (Mhv.xxix.35).
+Từ cùng *vihāra* này, bốn mươi ngàn tỳ-kheo đã có mặt, dưới sự dẫn dắt của Mahā Saṅgharakkhita, tại lễ đặt nền móng của Mahā Thūpa ở Anurādhapura (Mhv.xxix.35).
 
 Các Jātaka nói về Ujjenī như là thủ đô của Avanti từ những thời rất cổ xưa, ví dụ, trong Ja.iv.390, nơi Avanti Mahā Rāja cai trị ở Ujjenī với tư cách là thủ đô của Avanti. Nhưng trong Mahā Govindasutta (DN.ii.235), Māhissatī được đề cập là thủ đô của Avanti. Có lẽ Māhissatī đã mất đi sự quan trọng của nó về sau và nhường chỗ cho Ujjenī, vì chúng ta thấy Māhissatī được đề cập ngay trước Ujjenī trong số những nơi mà các đệ tử của Bāvarī đã đi qua trên đường họ đến Sāvatthī (Sn.vs.1011).
 

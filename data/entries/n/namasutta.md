@@ -24,6 +24,6 @@ Nāmasutta. Preached in answer to a *Deva*’s question; *nāma*, more than anyt
 
 ## Vietnamese translation
 
-Nāmasutta. Được thuyết để trả lời câu hỏi của một *Deva*; *nāma*, hơn bất cứ điều gì khác, đặt mọi thứ dưới sự thống trị của nó. SN.i.39.
+Nāmasutta. Được thuyết để trả lời câu hỏi của một vị thiên nhân; *nāma*, hơn bất cứ điều gì khác, đặt mọi thứ dưới sự thống trị của nó. SN.i.39.
 
 ## Notes

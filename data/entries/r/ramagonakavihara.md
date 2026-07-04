@@ -25,6 +25,6 @@ Rāmagoṇakavihāra. A monastery in Ceylon, built by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Rāmagoṇakavihāra. Một tu viện ở Tích Lan (Ceylon), do Kaniṭṭhatissa xây dựng. Mhv.xxxvi.14.
+Rāmagoṇakavihāra. Một tu viện ở Tích Lan, do Kaniṭṭhatissa xây dựng. Mhv.xxxvi.14.
 
 ## Notes

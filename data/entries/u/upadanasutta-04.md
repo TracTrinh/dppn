@@ -24,6 +24,6 @@ Upādānasutta 04. On grasping and the things that encourage it. SN.iv.108.
 
 ## Vietnamese translation
 
-Upādānasutta 04. Về sự chấp thủ và những thứ khuyến khích nó. SN.iv.108.
+Upādānasutta 04. Về sự chấp thủ và những điều khuyến khích nó. SN.iv.108.
 
 ## Notes

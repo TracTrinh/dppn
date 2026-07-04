@@ -26,6 +26,6 @@ Ujita. A caravan-driver, who, with his friend <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Ujita. Một người lái buôn bằng xe ngựa, người mà cùng với người bạn của mình là Ojita, đã cúng dường bữa ăn đầu tiên cho Sikhī Buddha sau sự Giác ngộ của ngài. Thag­a.i.48.
+Ujita. Một người dẫn đoàn lữ hành, người mà cùng với người bạn của mình là Ojita, đã cúng dường bữa ăn đầu tiên cho Sikhī Buddha sau sự Giác ngộ của ngài. Thag­a.i.48.
 
 ## Notes

@@ -25,6 +25,6 @@ Randhakaṇḍaka. A tank in Ceylon, built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Randhakaṇḍaka. Một hồ chứa nước ở Tích Lan (Ceylon), do Bhātikatissa xây dựng. Mhv.xxxvi.4.
+Randhakaṇḍaka. Một hồ chứa nước ở Tích Lan, do Bhātikatissa xây dựng. Mhv.xxxvi.4.
 
 ## Notes

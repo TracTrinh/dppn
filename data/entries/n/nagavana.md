@@ -26,6 +26,6 @@ Nāgavana. A pleasance near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Nāgavana. Một hoa viên gần Hatthigāma, thuộc về Uggagahapati. Chính tại đó, lần đầu tiên ông gặp Đức Phật và đã cải đạo. AN.iv.213; AN­a.ii.782.
+Nāgavana. Một hoa viên gần Hatthigāma, thuộc về Uggagahapati. Chính tại đó, lần đầu tiên ông gặp Đức Phật và trở thành tín đồ. AN.iv.213; AN­a.ii.782.
 
 ## Notes
