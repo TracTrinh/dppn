@@ -5,7 +5,7 @@ base_headword: "Navavaṁsa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Navavaṁsa. Probably another name for the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lẽ là một tên gọi khác của Cūḷa Vaṁsa. Tác phẩm này được cho là của *Nava* Mahā Nāma. Gv.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vipakkhasevakabhikkhuvatthu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vipakkhasevakabhikkhuvatthu. The story of a monk who joined <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipakkhasevakabhikkhuvatthu. Câu chuyện về một vị tu sĩ đã gia nhập nhóm tùy tùng của Devadatta vì những phẩm vật cúng dường hậu hĩnh mà ông nhận được, sau đó đã quay trở lại với các bạn đồng tu của mình. Ông bị tâu báo với Đức Phật, ngài đã kể lại câu chuyện Mahilāmukhajātaka (Ja 26) và đồng nhất con voi trong câu chuyện với vị tu sĩ này. Dhp­a.iv.95-7.
 
 ## Notes

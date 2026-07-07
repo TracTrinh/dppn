@@ -5,7 +5,7 @@ base_headword: "Naṭapubbaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Naṭapubbaka. The name given to two monks who were once mimes. Later, they join
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naṭapubbaka. Tên được đặt cho hai vị tỳ-kheo đã từng là những người diễn kịch câm. Sau đó, họ đã gia nhập vào Tăng đoàn và trở thành các vị *Arahant*. Dhp­a.iv.224,225.
 
 ## Notes

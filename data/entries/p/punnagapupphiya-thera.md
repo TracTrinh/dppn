@@ -5,7 +5,7 @@ base_headword: "Punnāgapupphiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Punnāgapupphiya Thera. An *Arahant*. Ninety-two *kappas* ago he was a hunter wh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punnāgapupphiya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông là một thợ săn, trong khi đang đi lang thang trong rừng, ông đã nhìn thấy một bông hoa, mà ông đã dâng cúng trên một đống cát nhân danh Đức Phật Tissa. Chín mươi mốt *kappa* trước, ông là một vị vua tên là Tamonuda (Ap.i.180). Ông có lẽ là cùng một người với Suhemanta Thera. Thag­a.i.212.
 
 ## Notes

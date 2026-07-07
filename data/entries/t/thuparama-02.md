@@ -5,7 +5,7 @@ base_headword: "Thūpārāma"
 disambiguator: "02"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -26,6 +26,6 @@ Thūpārāma 02. The name of a building in <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpārāma 02. Tên của một tòa nhà ở Pulatthipura. Ngày tháng xây dựng và tên của người sáng lập không được biết rõ, nhưng nó có lẽ đã tồn tại trước thời của Parakkamabāhu I. (Cv.lx.56; Cv.Trs.i.220, n.1; ii.105, n.5).
 
 ## Notes

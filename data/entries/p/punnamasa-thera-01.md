@@ -5,7 +5,7 @@ base_headword: "Puṇṇamāsa Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -34,6 +34,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇamāsa Thera 01. Ông sinh ra ở Sāvatthī với tư cách là con trai của một vị Bà-la-môn tên là Samiddhi; ông được gọi là Puṇṇamāsa vì vào ngày ông ra đời, tất cả các bình chứa rỗng trong nhà đều được lấp đầy bằng những đồng tiền vàng. Ông xuất gia sau khi một đứa con trai ra đời, và sau khi gia nhập Tăng đoàn dưới sự chỉ dạy của Đức Phật, ông lấy công thức quán năm sự bất tịnh (*tacapañcaka*) làm đề mục thiền định và đắc quả vị *Arahant*. Người vợ cũ trang điểm và đến cùng con, tìm cách quyến rũ ông, nhưng không thành công.
+
+Vào thời của Vipassī Buddha, ông là một con gà gô (*cakkavāka*), và khi hoan hỷ với hình dáng của Đức Phật, ông đã dâng lên ngài một bông hoa *sāla*, ngậm nó trong mỏ. Mười bảy *kappa* trước, ông làm vua tám lần với tên gọi Sucārudassana (Thag. vs. 10; Thag­a.i.53f).
+
+Rõ ràng ông chính là Paccāgamanīya của Apadāna. Ap.i.113.
 
 ## Notes

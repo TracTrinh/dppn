@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "17"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nārada 17. An ascetic, also called <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 17. Một đạo sĩ, cũng được gọi là Kassapa. Một tiền kiếp của Caṅkolapupphiya (*q.v.*). Ap.i.215.
 
 ## Notes

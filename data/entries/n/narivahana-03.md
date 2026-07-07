@@ -5,7 +5,7 @@ base_headword: "Nārivāhana"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārivāhana 03. The chariot of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivāhana 03. Cỗ xe của Vessavaṇa (*q.v.*).
 
 ## Notes

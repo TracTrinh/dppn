@@ -5,7 +5,7 @@ base_headword: "Nidānasuttā"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nidānasuttā 05. The opposite of No. 4. AN.i.266.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trái ngược với số 4. AN.i.266.
 
 ## Notes

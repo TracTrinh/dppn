@@ -5,7 +5,7 @@ base_headword: "Tikaṇṇa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tikaṇṇa. A Brahmin. He once visited the Buddha and spoke in praise of *tevij
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikaṇṇa. Một Bà-la-môn. Ông đã từng đến thăm Đức Phật và nói những lời ca ngợi các Bà-la-môn *tevijja* (thấu triệt Tam minh). Đức Phật giải thích cho ông rằng Tam minh của đệ tử bậc Thánh (Ariyan) là một điều khác biệt và cao quý hơn rất nhiều. Vị Bà-la-môn đã chấp nhận Đức Phật là đạo sư của mình. AN.i.164f; cp. DN.i.73ff.
 
 ## Notes

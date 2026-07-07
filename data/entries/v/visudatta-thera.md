@@ -5,7 +5,7 @@ base_headword: "Visudatta Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Visudatta Thera. A teacher of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visudatta Thera. Một giảng sư Abhidhamma. Dhs-a. p. 32.
 
 ## Notes

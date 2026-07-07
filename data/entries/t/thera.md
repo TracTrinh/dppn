@@ -5,7 +5,7 @@ base_headword: "Thera"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -24,6 +24,6 @@ Thera. Name of a monk in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thera. Tên của một vị tỳ-kheo ở Rājagaha. Ông sống trong sự cô độc, ngợi ca những đức tính của trạng thái này. Nghe vậy, Đức Phật đã cho gọi ông đến và dạy ông cách cuộc sống cô độc có thể được hoàn thiện một cách chi tiết (SN.ii.282f).
 
 ## Notes

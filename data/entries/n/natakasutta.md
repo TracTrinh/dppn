@@ -5,7 +5,7 @@ base_headword: "Ñātakasutta"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñātakasutta. Nếu một vị tỳ-kheo nổi tiếng khuyến khích những người khác hành động và nói năng trái với những lời dạy của Giáo pháp (Dhamma) và có những ý nghĩ trái với những điều đó, vị ấy đang sống vì sự tai hại của số đông mọi người. AN.i.106.
 
 ## Notes

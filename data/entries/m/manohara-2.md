@@ -5,7 +5,7 @@ base_headword: "Manohāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Manohāra. A *ṭīkā* written by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manohāra. Một bản *ṭīkā* do Dhammasenāpati Thera viết. Gv.63, 73.
 
 ## Notes

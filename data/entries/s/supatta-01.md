@@ -5,7 +5,7 @@ base_headword: "Supatta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Supatta 01. The Bodhisatta born as a crow; see the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supatta 01. Bodhisatta sinh làm một con quạ; xem Supattajātaka (Ja 292).
 
 ## Notes

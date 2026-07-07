@@ -5,7 +5,7 @@ base_headword: "Puṇṇikā"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇikā 01. A slave-girl of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇikā 01. Một nữ tỳ của Pokkharasāti. MN.ii.201.
 
 ## Notes

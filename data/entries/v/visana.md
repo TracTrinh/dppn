@@ -5,7 +5,7 @@ base_headword: "Visāṇā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Visāṇā. The name given to the kingdom (*rājadhāni*) over which <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visāṇā. Cái tên được đặt cho vương quốc (*rājadhāni*) do Kuvera cai trị; do đó ông có tên là Vessavaṇa. DN.iii.201; DN­a.iii.967; Ja.vi.270; Snp­a.i.369.
 
 ## Notes

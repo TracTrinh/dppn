@@ -5,7 +5,7 @@ base_headword: "Suppāraka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suppāraka 02. The Bodhisatta born as a master mariner (*niyyāmakajeṭṭha*) 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppāraka 02. Bodhisatta sinh làm một thuyền trưởng (*niyyāmakajeṭṭha*) ở Bhārukaccha. Xem Suppārakajātaka (Ja 463).
 
 ## Notes

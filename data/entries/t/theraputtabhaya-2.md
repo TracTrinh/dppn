@@ -5,7 +5,7 @@ base_headword: "Theraputtābhaya"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Theraputtābhaya. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theraputtābhaya. Cuốn Rasavāhinī (ii.92f.) chứa một câu chuyện về thời trẻ của ông khi ông là một sa-di ở Kappakandaravihāra. Goṭhayimbara đã đến viếng thăm nơi này và ăn những quả dừa, vứt vỏ lung tung. Vị sa-di đã đánh ông ta một trận nhừ tử.
 
 ## Notes

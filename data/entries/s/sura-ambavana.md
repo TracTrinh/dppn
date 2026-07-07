@@ -5,7 +5,7 @@ base_headword: "Sūra-ambavana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sūra-ambavana. A place in Ceylon, mentioned in the account of the wars of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūra-ambavana. Một địa điểm ở Ceylon, được nhắc đến trong lời kể về các cuộc chiến tranh của Parakkamabāhu I. (Cv.lxx.87). Nó rõ ràng đã tạo thành một phần của Ambavana, khu vực bao quanh Ambaṅgaṅga. Cv.Trs.i.294, n.3.
 
 ## Notes

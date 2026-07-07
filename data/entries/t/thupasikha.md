@@ -5,7 +5,7 @@ base_headword: "Thūpasikha"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Thūpasikha (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpasikha (Thūpasikhara). Chín mươi tư *kappas* trước đã có mười sáu vị vua mang tên này, tất cả đều là những tiền kiếp của Thambhāropaka (Paripuṇṇaka). Ap.i.171; Thag­a.i.190.
 
 ## Notes

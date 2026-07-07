@@ -5,7 +5,7 @@ base_headword: "Nisinnapaṭimālena"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -27,6 +27,6 @@ Nisinnapaṭimālena. A cave in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisinnapaṭimālena. Một hang động ở Pulatthipura, tạo thành một phần của Uttarārāma được xây dựng bởi Parakkamabāhu I. Cv.lxxviii.75.
 
 ## Notes

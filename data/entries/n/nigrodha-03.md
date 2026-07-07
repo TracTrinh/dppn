@@ -5,7 +5,7 @@ base_headword: "Nigrodha"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -33,6 +33,8 @@ Nigrodha 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Nigrodha (Nigrodha Thera). Ngài thuộc một gia đình Bà-la-môn danh giá ở Sāvatthī. Vào ngày dâng cúng Jetavana, ngài nhìn thấy sự oai nghi của Đức Phật và đã gia nhập Tăng đoàn (Saṅgha), trở thành một *Arahant* ngay sau đó. Mười tám *kappa* trước, vào thời của Piyadassī Buddha, ngài đã từ bỏ sự giàu có to lớn và trở thành một tu sĩ khổ hạnh, trú ngụ trong một lùm cây *sāla*. Có lần, khi thấy Đức Phật đang chìm trong *samādhi* (*thiền định*), ngài đã dựng một tán lá che phía trên Ngài, và đứng chắp tay ở đó cho đến khi Đức Phật tỉnh dậy từ *samādhi*. Sau đó, theo ý muốn của Đức Phật, Tăng đoàn (Saṅgha) cũng đi đến lùm cây *sāla*, và trước sự hiện diện của họ, Đức Phật đã thọ ký về tương lai của vị tu sĩ khổ hạnh (Thag­a.i.74f; Thag.21).
+
+Nigrodha có lẽ chính là Sālamaṇḍapiya trong Apadāna. Ap.ii.431f.; nhưng chính những bài kệ Apadāna này cũng được đưa ra dưới tên của Trưởng lão Tissa (Tissa Thera) (Thag­a.i.273).
 
 ## Notes

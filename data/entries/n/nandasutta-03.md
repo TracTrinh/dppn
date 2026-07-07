@@ -5,7 +5,7 @@ base_headword: "Nandasutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandasutta 03. The Buddha relates how <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandasutta 03. Đức Phật thuật lại việc Trưởng lão Nanda xuất sắc như thế nào trong sự thu thúc các căn, tiết độ trong ăn uống, sự tỉnh thức và sự chánh niệm. AN.iv.166ff.
 
 ## Notes

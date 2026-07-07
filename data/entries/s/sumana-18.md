@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "18"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumana 18. One of the chief lay patrons of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nam cư sĩ hộ độ chính của Metteyya Buddha. Anāg.vs.98.
 
 ## Notes

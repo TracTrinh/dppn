@@ -5,7 +5,7 @@ base_headword: "Titthiyārāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Titthiyārāma. A monastery of the heretics, near <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthiyārāma. Một tu viện của những kẻ ngoại đạo, gần Jetavana. Ja.ii.415, 416; iv.187, 188; Thīg­a. p.68.
 
 ## Notes

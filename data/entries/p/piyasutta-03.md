@@ -5,7 +5,7 @@ base_headword: "Piyasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -23,6 +23,6 @@ Piyasutta 03. On seven qualities which make a monk beloved of his fellows. AN.iv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyasutta 03. Bảy phẩm chất khiến một tỳ-kheo được các đồng tu quý mến. AN.iv.1f.
 
 ## Notes

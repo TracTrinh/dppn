@@ -5,7 +5,7 @@ base_headword: "Vikkamacoḷappera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vikkamacoḷappera. A stronghold in South India, occupied by <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkamacoḷappera. Một đồn lũy ở Nam Ấn Độ, bị Paṇḍiyarāyara chiếm giữ. Nó bị Laṅkāpura đánh chiếm. Cv.lxxvi.178.
 
 ## Notes

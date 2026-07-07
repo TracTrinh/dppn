@@ -5,7 +5,7 @@ base_headword: "Pulinacaṅkamiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pulinacaṅkamiya Thera. An *Arahant*. Thirty-one *kappas* ago he was a hunter w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinacaṅkamiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một thợ săn, khi nhìn thấy con đường kinh hành có mái che (*caṅkama*) của Đức Phật Sikhī, ông đã rải cát lên đó (Ap.ii.418). Ông có lẽ là cùng một người với Nandaka Thera. Thag­a.i.299.
 
 ## Notes

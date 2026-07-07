@@ -5,7 +5,7 @@ base_headword: "Nirodhavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nirodhavagga. The eighth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirodhavagga. Chương thứ tám của Bojjhaṅgasaṁyutta. SN.v.132ff.
 
 ## Notes

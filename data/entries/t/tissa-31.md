@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "31"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 31. A paramour of Queen <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 31. Một tình nhân của Vương hậu Anulā. Ông là một người vác củi và do đó được gọi là *Dārubhatika Tissa*. Ông trị vì trong một năm và một tháng và đã xây dựng một hồ tắm trong Mahā Meghavana. Ông bị Anulā đầu độc. Mhv.xxxiv.22ff.
 
 ## Notes

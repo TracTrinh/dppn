@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumedha 02. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 02. Một *Khattiya* (Sát-đế-lỵ), cha của Dīpaṅkara Buddha. Ja.i.29; Bv.ii.207.
 
 ## Notes

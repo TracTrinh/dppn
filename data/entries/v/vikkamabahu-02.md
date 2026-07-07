@@ -5,7 +5,7 @@ base_headword: "Vikkamabāhu"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -49,6 +49,6 @@ Vikkamabāhu 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkamabāhu 02. Con trai của Vijayabāhu I. và Tilokasundarī. Ông có hai người vợ, Sundarī và Līlāvatī (Cv.lix.32, 49f). Ông được Vijayabāhu I. lập làm *Ādipāda*, và khi con trai ông là Gajabāhu chào đời, nhà vua đã ban cho tỉnh Rohaṇa vì lợi ích của ông. Vikkamabāhu sống ở đó với Mahā Nāgahula (Cv.lx.88f) làm thủ đô của mình. Khi Vijayabāhu băng hà, một số thân quyến của Vikkamabāhu, Jayabāhu và ba người con trai của Mittā (Māṇābharaṇa, Kittisirimegha và Sirivallabha) đã âm mưu tước đoạt quyền kế vị của ông, nhưng ông đã đánh bại họ trong nhiều trận chiến khác nhau và chiếm giữ thủ đô Pulatthipura, tuy nhiên, để mất Dakkhiṇadesa và tỉnh Rohaṇa trước đây của mình (Cv.lxi.2f). Một năm sau, những kẻ thù của ông lại nổi loạn, do Māṇābharaṇa lãnh đạo, và khi Vikkamabāhu tiến đến Kalyāṇī để đánh họ, Vīradeva, của xứ Palandīpa (*q.v.*) đã đổ bộ lên Mannāra, và sự chú ý của ông bị chuyển hướng. Trong các cuộc giao tranh đầu tiên, Vikkamabāhu bị Vīradeva đánh bại và buộc phải trốn đến Koṭṭhasāra, nhưng Vīradeva sau đó bị đánh bại và bị giết tại Antaraviṭṭhika. Kể từ đó trở đi, Vikkamabāhu và ba người con trai của Mittā (xem ở trên) mỗi người sống trong tỉnh của mình, nhưng trở nên không được lòng cả Tăng đoàn lẫn giới cư sĩ do lòng tham và sắc dục của họ. Sau cái chết của Jayabāhu và Hoàng hậu Mittā, Vikkamabāhu dường như đã được công nhận là vua (Vikkamabāhu II.); và rõ ràng là với tư cách đó, việc sinh ra của cháu trai ông, vị vương tử mà sau này trở thành Parakkamabāhu I., đã được tâu báo cho ông. Vikkamabāhu có hai người con trai, Mahinda, và Gajabāhu, nhưng đã yêu cầu đưa cháu trai của ông đến triều đình; tuy nhiên, yêu cầu này không được chấp thuận (Cv.lxii.58f). Vikkamabāhu trị vì cho đến khi qua đời, trong hai mươi mốt năm (1116-1137 CE.), và được kế vị bởi con trai ông là Gajabāhu. Cv.lxiii.18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nīvaraṇasutta 02. The four *satipaṭṭhāna*s are to be practised in order 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇasutta 02. Bốn *satipaṭṭhāna* cần được thực hành để loại bỏ năm *nīvaraṇas*. AN.iv.457f.
 
 ## Notes

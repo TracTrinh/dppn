@@ -170,7 +170,7 @@ h2 {
   display: inline-block;
   font: 15px/1.3 system-ui, sans-serif;
 }
-.lede, .breadcrumb, .status, .stats, .entry-footer, .redirect-note {
+.lede, .breadcrumb, .status, .stats, .entry-nav, .entry-footer, .redirect-note {
   font-family: system-ui, sans-serif;
 }
 .lede { color: var(--muted); max-width: 680px; }
@@ -239,6 +239,25 @@ h2 {
   padding: 0;
   font-family: system-ui, sans-serif;
 }
+.entry-nav {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 12px;
+  margin: 0 0 24px;
+  font-size: 15px;
+}
+.entry-nav a {
+  padding: 9px 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: white;
+  overflow-wrap: anywhere;
+  text-decoration: none;
+}
+.entry-nav a:hover { background: var(--accent-soft); }
+.entry-nav-bottom { margin: 0; }
+.entry-nav-index { text-align: center; }
+.entry-nav-next { text-align: right; }
 .entry-list li {
   display: flex;
   justify-content: space-between;

@@ -5,7 +5,7 @@ base_headword: "Poṭirīya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Poṭirīya. A zemindar of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭirīya. Một địa chủ ở Kapilavatthu, cha của Soṇa Poṭirīyaputta Thera. Thag­a.i.316f.
 
 ## Notes

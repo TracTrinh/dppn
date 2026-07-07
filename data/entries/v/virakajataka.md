@@ -5,7 +5,7 @@ base_headword: "Vīrakajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrakajātaka (Ja 204). Vị Bodhisatta có lần sinh làm một con quạ đầm lầy, tên là Vīraka, và sống gần một hồ nước. Có một đợt hạn hán ở Kāsi, và một con quạ, tên là Saviṭṭhaka, vì không tìm được thức ăn, đã cùng vợ đi đến nơi Vīraka sinh sống, và sau khi trở thành người hầu của ông, đã ăn những con cá mà Vīraka bắt được trong hồ. Sau đó, Saviṭṭhaka, bất chấp lời cảnh báo của Vīraka, đã tự mình cố bắt cá và bị chết đuối.
+
+Câu chuyện được kể liên quan đến nỗ lực bắt chước Đức Phật của Devadatta. Devadatta được nhận diện là con quạ Saviṭṭhaka. Ja.ii.148f.; được trích dẫn ở Dhp­a.i.122.
 
 ## Notes

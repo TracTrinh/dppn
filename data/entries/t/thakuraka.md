@@ -5,7 +5,7 @@ base_headword: "Ṭhakuraka"
 disambiguator: ""
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhakuraka. Vị thủ lĩnh của Āriyakkhattayodhā. Cv.xc.16, 24, 27.
 
 ## Notes

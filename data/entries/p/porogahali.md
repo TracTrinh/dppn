@@ -5,7 +5,7 @@ base_headword: "Porogāhali"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Porogāhali. A district in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Porogāhali. Một quận ở Dakkhiṇadesa của Tích Lan. Cv.lxvi.108.
 
 ## Notes

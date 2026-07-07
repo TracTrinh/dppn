@@ -5,7 +5,7 @@ base_headword: "Pūvapabbatavāsītissa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pūvapabbatavāsītissa. A monk of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūvapabbatavāsītissa. Một vị tỳ-kheo của Pūvagalla *vihāra*. Bởi vì trong một tiền kiếp ông đã cúng dường một bữa ăn có thịt công, ông nhận được loại thịt đó ở bất cứ nơi nào ông đến. Về câu chuyện của ông, xem Ras.ii.27f.
 
 ## Notes

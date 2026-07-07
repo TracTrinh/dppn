@@ -5,7 +5,7 @@ base_headword: "Matakabhattajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,8 @@ The story was told in reference to a question by the monks as to whether there w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Matakabhattajātaka (Ja 18). Một thuở nọ, có một vị Bà-la-môn thông thạo các kinh Vệ-đà (Vedas), muốn giết một con dê vào dịp Lễ cúng Người chết (Matakabhatta), bèn sai các học trò đem con dê ra sông tắm rửa. Sau khi tắm xong, con dê nhớ lại những tiền kiếp của mình và biết rằng sau khi chết vào ngày hôm đó, nó sẽ thoát khỏi mọi nỗi thống khổ. Vì thế, nó cười lớn vì sung sướng. Nhưng nó cũng thấy rằng vị Bà-la-môn, do giết nó, sẽ phải gánh chịu những đau khổ to lớn, và ý nghĩ này làm nó bật khóc. Khi được hỏi lý do vì sao nó lại cười và khóc, nó trả lời rằng nó sẽ giải thích điều đó trước mặt vị Bà-la-môn. Khi vị Bà-la-môn nghe được câu chuyện của con dê, ông quyết định sẽ không giết nó; nhưng vào chính ngày hôm đó, khi con dê đang ăn cỏ gần một tảng đá, tảng đá bị sét đánh trúng và một mảnh đá văng ra cắt đứt đầu con dê. Bồ-tát, khi đó là một vị thọ thần, đã chứng kiến toàn bộ sự việc và thuyết giảng Pháp (Dhamma) cho đám đông đang tụ tập.
+
+Câu chuyện này được kể liên quan đến một câu hỏi của các tỳ-kheo về việc liệu có bất kỳ lợi ích nào trong việc hiến tế tại các Lễ cúng Người chết hay không, vốn là một tập tục thường thấy của người dân ở Sāvatthī. Ja.i.166ff.
 
 ## Notes

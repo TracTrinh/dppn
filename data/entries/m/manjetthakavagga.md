@@ -5,7 +5,7 @@ base_headword: "Mañjeṭṭhakavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mañjeṭṭhakavagga. The fourth section of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañjeṭṭhakavagga. Phần thứ tư của Vimānavatthu.
 
 ## Notes

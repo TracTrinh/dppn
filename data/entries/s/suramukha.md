@@ -5,7 +5,7 @@ base_headword: "Suramukha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suramukha. A noble steed, belonging to <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suramukha. Một con ngựa chiến quý phái, thuộc về Ekarāja. Ja.vi.135.
 
 ## Notes

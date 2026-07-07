@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumitta 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 02. Con trai của Sumedha Buddha trong cuộc sống cư sĩ cuối cùng của ngài. Bv.xii.20; Bv­a.160 gọi ngài là Punabbasumitta.
 
 ## Notes

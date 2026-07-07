@@ -5,7 +5,7 @@ base_headword: "Nanduttarā Therī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nanduttarā Therī. She belonged to a Brahmin family of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanduttarā Therī. Bà thuộc về một gia đình Bà-la-môn ở Kammāssadamma và đã gia nhập vào Tăng đoàn của phái Nigaṇṭha. Bà là một nhà diễn thuyết nổi tiếng và đã đi khắp Ấn Độ, thách thức những người khác tranh luận. Trong suốt chuyến du hành của mình, bà đã gặp Moggallāna, và bị ngài đánh bại trong cuộc tranh luận. Làm theo lời khuyên của ngài, bà đã trở thành một Tỳ-kheo-ni, và, không lâu sau, trở thành một *Arahant*. Thīg.vs.87-91; Thīg­a.87.
 
 ## Notes

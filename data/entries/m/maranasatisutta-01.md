@@ -5,7 +5,7 @@ base_headword: "Maraṇasatisutta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maraṇasatisutta 01. The Buddha tells the monks at Nādika that mindfulness of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maraṇasatisutta 01. Đức Phật bảo các tỳ-kheo tại Nādika rằng chánh niệm về sự chết, nếu được tu tập đúng đắn, sẽ dẫn đến những lợi ích to lớn. Nhiều tỳ-kheo sau đó khẳng định rằng họ có thực hành chánh niệm như vậy, nhưng Đức Phật nói với họ rằng sự thực hành của họ chưa đủ tinh tấn và hướng dẫn họ cách cải thiện nó. AN.iv.317f.
 
 ## Notes

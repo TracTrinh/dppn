@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "10"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissā 10. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 10. Vợ của Muṇḍagutta. Mong muốn cúng dường, họ đã bán con trai của mình và mua một con bò, con bò này cho họ rất nhiều bơ sữa. Một vị quan, không hài lòng với họ, đã yêu cầu nhà vua tịch thu con bò; nhưng nhà vua khi phát hiện ra rằng chỉ có Tissā mới có thể vắt sữa nó, đã hỏi câu chuyện của bà, và ban cho họ những phần thưởng lớn, biến vị quan nọ thành nô lệ của họ. Họ sống ở Tissambatittha vào thời của Saddhātissa. Ras.ii.31f.
 
 ## Notes

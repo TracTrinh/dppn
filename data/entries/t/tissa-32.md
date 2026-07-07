@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "32"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissa 32. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 32. Một vị tỳ-kheo của Dakkhiṇārāma, người mà Mahā Sena đã xây dựng Jetavanavihāra cho ngài. Mhv.xxxvii.32, 38.
 
 ## Notes

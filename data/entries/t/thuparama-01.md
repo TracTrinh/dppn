@@ -5,7 +5,7 @@ base_headword: "Thūpārāma"
 disambiguator: "01"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -72,6 +72,14 @@ Behind the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="50" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpārāma 01. Một tu viện gần bức tường phía nam của Anurādhapura, được xây dựng bởi Devānampiyatissa. Nơi này đã được thánh hóa nhờ việc Đức Phật đã ngồi thiền ở đó (Mhv.i.82) và cũng nhờ những vị Phật quá khứ đã làm điều tương tự (Mhv.xv.86). Bảo tháp (*Thūpa*) ở đó là tháp đầu tiên thuộc loại này ở Ceylon và tôn trí xương quai xanh của Đức Phật. Những phép mầu, được cho là do chính Đức Phật quy định, đã diễn ra khi tôn trí xá-lợi (Mhv.xvii.30, 50). Tu viện được xây dựng sau bảo tháp (*Thūpa*), do đó nó có tên gọi như vậy (Mhv.xvii.62). Một trong tám nhánh của cây Bodhi (Bồ-đề) tại Anurādhapura đã được trồng trong khuôn viên và vẫn tồn tại cho đến ngày nay (Mhv.xix.61). Tòa nhà Cittasālā nằm ở phía đông của Thūpārāma, và chính tại địa điểm đó Saṅghamittā đã được hỏa táng (Mhv.xx.52). Chính các tỳ-kheo của Thūpārāma đã giúp đỡ Thūlatthana trở thành vua (Mhv.xxxiii.17).
+
+Lañjatissa đã san phẳng khoảng đất giữa Thūpārāma và Mahā Thūpa (cách xa khoảng bốn trăm yard), tạo ra một lớp phủ bằng đá cho bảo tháp (*Thūpa*), và xây dựng một bảo tháp (*Thūpa*) nhỏ hơn ở phía đông của nó, gần đó ông đã xây dựng hội trường Lañjakāsana (Mhv.xxxiii.23f). Āmaṇḍagāmaṇī đã thêm một hàng hiên bên trong vào hội trường Bố-tát (*uposatha*) trong tu viện (Mhv.xxxv.3), trong khi Vasabha đã đặt những ngọn đèn xung quanh bảo tháp (*Thūpa*) và xây dựng một ngôi nhà Bố-tát (*uposatha*) mới (Mhv.xxxv.80, 87, 91). Bhātikatissa đã dựng lên một hội trường tụ họp khác, trong khi Goṭhābhaya thực hiện một số công việc trùng tu (Mhv.xxxvi.4, 106). Saṅghapālapariveṇa có lẽ đã hình thành một phần của tu viện (Mhv.xxxvi.114).
+
+Jeṭṭhatissa đã gỡ bỏ bức tượng đá từ Thūpārāma được Devānampiyatissa đặt ở đó và đặt nó ở Pācīnatissapabbata (Mhv.xxxvi.128).
+
+Vị tỳ-kheo phản đạo Saṅghamitta đã từng đe dọa sẽ phá hủy Thūpārāma nhưng đã bị giết trong nỗ lực đó (Mhv.xxxvii.27). Mahā Nāma đã cung cấp một lớp vỏ bọc bằng vàng cho đỉnh chóp của bảo tháp (*Thūpa*) (Cv.xxxvii.207) và Dhātusena đã trùng tu bảo tháp (*Thūpa*) (Mhv.xxxviii.70), trong khi Aggabodhi II đã thực hiện những đợt sửa chữa trên diện rộng, gần như xây dựng lại toàn bộ cấu trúc (Mhv.xlii.51ff). Dāṭhopatissa I đã gây ra thiệt hại to lớn cho tu viện, cũng như Kassapa II, mặc dù sau này ông đã chuộc lỗi (Mhv.xliv.133, 138, 148). Dāṭhopatissa II đã dâng cúng ngôi làng Puṇṇali cho Thūpārāma (Mhv.xlv.28), và Māṇavamma đã xây dựng một tòa lâu đài (*pāsāda*) (Mhv.xlvii.66). Aggabodhi VII đã sửa chữa các cánh cửa và thay đổi vị trí các cây cột của cấu trúc xung quanh bảo tháp (*cetiya*) (Cv.xlviii.65). Mahinda II đã đặt một lớp vỏ bọc bằng các đĩa vàng và bạc trong bảo tháp (*cetiya*) (Cv.xlviii.140), trong khi Dappula II đã bao phủ ngôi nhà chứa tháp (*thūpāghara*) bằng những viên gạch vàng (Cv.xlix.81); cả đĩa và gạch vàng sau đó đã bị vua Paṇḍu cướp bóc (Cv.l.35). Những đĩa vàng đã được Udaya II phục hồi (Cv.li.128), và Sena Ilaṅga đã cung cấp một tòa nhà cho các tỳ-kheo ở phía tây của Thūpārāma (Cv.lii.16). Rakkha Ilaṅga cũng đã làm tương tự (Cv.liii.11). Mahinda IV đã bao phủ bảo tháp (*cetiya*) bằng các dải vàng và bạc, cung cấp một cánh cửa bằng vàng cho tu viện (*vihāra*) và thiết lập một lễ hội lớn (Cv.liv.42f). Vijayabāhu I, Parakkamabāhu I, và Vijayabāhu IV, đã liên tiếp trùng tu các tòa nhà và tiến hành những đợt sửa chữa cần thiết (Cv.lx.56; lxxviii.107; lxxxviii.80). Con đường dẫn vào Anurādhapura đi ngang qua cổng phía nam của Thūpārāma, hướng về phía đông và sau đó về phía bắc (Ud­a.238; Vibh­a.449). Từ Kadambanadī đến Thūpārāma con đường chạy qua cổng của Rājamātuvihāra (DN­a.ii.572).
+
+Đằng sau Thūpārāma là Mahejjāvatthu. Có thông tin (Vin-a.i.86) rằng, vào thời của Devānampiyatissa, trong Thūpārāma đã có một ngôi đền dâng cúng cho ba vị Phật quá khứ trước Đức Phật Gotama.
 
 ## Notes

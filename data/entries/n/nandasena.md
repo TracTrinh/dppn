@@ -5,7 +5,7 @@ base_headword: "Nandasena"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandasena. An *Upāsaka* of a village near <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandasena. Một nam cư sĩ của một ngôi làng gần Sāvatthī. Vợ ông, Nandā, là một người phụ nữ độc ác và sau khi chết đã trở thành một ngạ quỷ. Khi cô xuất hiện trước mặt ông, Nandasena đã bố thí nhân danh cô, và cô đã có được niềm an vui. Pv.ii.4; Pv-a.89ff.
 
 ## Notes

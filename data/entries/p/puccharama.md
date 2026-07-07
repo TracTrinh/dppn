@@ -5,7 +5,7 @@ base_headword: "Pucchārāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pucchārāma. A monastery, rebuilt by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pucchārāma. Một tu viện, được Udaya I xây dựng lại. Cv.xlix.28. Nó có lẽ là cùng một nơi với Pubbārāma (*q.v.*); Cv.Trs.i.130 n.2, và 144, n.4.
 
 ## Notes

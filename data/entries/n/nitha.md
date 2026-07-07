@@ -5,7 +5,7 @@ base_headword: "Nītha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nītha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nītha. Một vị Pacceka Buddha, được nhắc đến trong một danh sách tên. MN.iii.69; Ap­a.106.
 
 ## Notes

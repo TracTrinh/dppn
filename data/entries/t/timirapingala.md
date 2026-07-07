@@ -5,7 +5,7 @@ base_headword: "Timirapiṅgala"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Timirapiṅgala. A fish of the deep sea. He is one thousand leagues long and eat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timirapiṅgala. Một con cá ở biển sâu. Con cá này dài một ngàn do-tuần và chỉ ăn rong biển (Ja.v.462).
 
 ## Notes

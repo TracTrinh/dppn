@@ -5,7 +5,7 @@ base_headword: "Tirīṭavaccha"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tirīṭavaccha 02. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirīṭavaccha 02. Một trưởng giả (*seṭṭhi*) của Ariṭṭhapura, cha của Ummadantī (Ja.v.210, 211). Ông cũng được gọi là Tirīṭivaccha. Ja.v.215; Thīg­a.i.192.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nāthaputtiyā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāthaputtiyā. The followers of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những người theo Nigaṇṭha Nātaputta. DN.iii.117.
 
 ## Notes

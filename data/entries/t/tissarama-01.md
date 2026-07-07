@@ -5,7 +5,7 @@ base_headword: "Tissārāma"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissārāma 01. Name given to the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissārāma 01. Tên gọi dành cho Mahā Meghavanārāma (*q.v.*) (Mhv.xv.174, 179, 203), và cũng dành cho Tissamahārāma (*q.v.*).2
 
 ## Notes

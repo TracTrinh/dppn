@@ -5,7 +5,7 @@ base_headword: "Sunakhajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ The story was told in reference to a dog belonging to a water carrier who used t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunakhajātaka (Ja 242). Ở Benares có một người đàn ông sở hữu một con chó đã được vỗ béo bằng cơm. Một người dân làng nhìn thấy con chó, và, sau khi mua nó từ người chủ của nó, đã dắt nó đi bằng một sợi dây buộc. Khi đến bìa rừng, anh ta bước vào một túp lều, buộc con chó lại, và nằm xuống ngủ. Bodhisatta, nhìn thấy con chó, đã hỏi nó tại sao nó không cắn đứt dây buộc và chạy trốn. "Tôi sẽ làm vậy," con chó trả lời, "ngay khi mọi người đã ngủ say." Và nó đã làm như vậy.
+
+Câu chuyện được kể lại liên quan đến một con chó thuộc về một người gánh nước thường được cho ăn gần Ambalakoṭṭhaka ở Jetavana. Một lần nọ, một người dân làng nhìn thấy nó và đã mua nó từ người gánh nước và dắt nó đi bằng một sợi xích. Con chó lặng lẽ đi theo, và người đàn ông, nghĩ rằng nó thích mình, đã thả nó ra. Con chó chạy trốn và trở về ngôi nhà cũ của nó. Hai con chó là đồng nhất. Ja.ii.246-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Purisasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Purisasutta. The Buddha, in answer to a question of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purisasutta. Đức Phật, để trả lời cho một câu hỏi của Pasenadi, đã nói với nhà vua rằng có ba loại trải nghiệm nội tâm khởi lên trong một người mang lại sự tai hại cho người đó – tham, sân, và si. SN.i.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissametteyyamāṇavapucchā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissametteyyamāṇavapucchā. The question asked by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissametteyyamāṇavapucchā. Câu hỏi do Tissametteyya đặt ra, và câu trả lời do Đức Phật đưa ra (Snp., p.199).
 
 ## Notes

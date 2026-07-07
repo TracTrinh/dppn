@@ -5,7 +5,7 @@ base_headword: "Nerujātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -28,6 +28,8 @@ The story was related in reference to a monk of a frontier village. At first he 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lần, Bodhisatta là một con ngỗng vàng sống trên Cittakūṭa cùng với em trai mình. Một ngày nọ, trong khi đang bay về nhà, họ nhìn thấy Núi Neru và đáp xuống đó. Mọi loài chim ở đó đều trông có màu vàng kim nhờ vào ánh hào quang của ngọn núi, và không ai bày tỏ sự tôn kính với Bodhisatta và người em trai; vì thế họ đã bay đi.
+
+Câu chuyện được kể lại liên quan đến một vị tỳ-kheo của một ngôi làng biên giới. Lúc đầu vị ấy được mọi người tôn kính, tuy nhiên, về sau, họ đã chuyển sự ưu ái của mình sang nơi khác. Nhưng vị tỳ-kheo, mặc dù rất không vui, vẫn tìm cách ở lại. Khi Đức Phật nghe được điều này, Ngài đã quở trách vị tỳ-kheo vì đã ở lại nơi mà vị ấy không được coi trọng. Ja.iii.246ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇā"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -35,6 +35,10 @@ She is perhaps identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇā 02. Puṇṇā Therī. Một vị *Arahant*. Bà sinh ra trong một gia đình gia chủ ở Sāvatthī, và, ở tuổi hai mươi, sau khi nghe Pajāpatī Gotamī thuyết pháp, bà đã từ bỏ thế tục. Một ngày nọ, trong khi đang thiền định, Đức Phật đã hiện ra trước mặt bà trong một luồng hào quang và bà đã trở thành một bậc *Arahant*.
+
+Trong quá khứ, bà là một *kinnarī* trên bờ sông Candabhāgā, và, sau khi nhìn thấy một vị Độc Giác Phật (*Pacceka Buddha*), đã đảnh lễ Ngài với một vòng hoa lau sậy. Thīg.vs.3; Thīg­a.9f.
+
+Bà có lẽ là cùng một người với Tīṇinalamālikā trong Apadāna. Ap.ii.515.
 
 ## Notes

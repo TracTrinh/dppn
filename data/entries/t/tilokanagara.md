@@ -5,7 +5,7 @@ base_headword: "Tilokanagara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tilokanagara. The residence of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilokanagara. Nơi cư ngụ của Cūḷa Sīva. Vì vậy, DN­a. (ấn bản Hewavitarne) ii.641, nhưng ấn bản PTS (ii.883) ghi là Lokuttara.
 
 ## Notes

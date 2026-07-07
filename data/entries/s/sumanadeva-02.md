@@ -5,7 +5,7 @@ base_headword: "Sumanadeva"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanadeva 02. An Elder of Ceylon, teacher at the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Trưởng lão của Tích Lan, bậc thầy tại Lohapāsāda. Ông là một chuyên gia lỗi lạc về Abhidhamma. Dhs-a.31.
 
 ## Notes

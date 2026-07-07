@@ -5,7 +5,7 @@ base_headword: "Naradeva"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naradeva 04. The last of the descendants of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naradeva 04. Vị cuối cùng trong số các hậu duệ của Bhaddadeva người đã trị vì ở Kaṇṇagoccha. Bảy người trong số các hậu duệ của ông đã trị vì ở Rojanagara. Dpv.iii.27.
 
 ## Notes

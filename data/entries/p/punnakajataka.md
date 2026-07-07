@@ -5,7 +5,7 @@ base_headword: "Puṇṇakajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇakajātaka. Another name for the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇakajātaka. Một tên gọi khác của Vidhurapaṇḍitajātaka (Ja 545).
 
 ## Notes

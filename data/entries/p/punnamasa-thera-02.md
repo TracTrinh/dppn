@@ -5,7 +5,7 @@ base_headword: "Puṇṇamāsa Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇamāsa Thera 02. Ông sinh ra tại Sāvatthī trong một gia đình địa chủ. Ông được đặt tên là Puṇṇamāsa vì vào ngày sinh của ông, mọi bình chứa rỗng trong nhà đều đầy ắp những đồng tiền vàng và bạc. Ông xuất gia sau khi sinh một người con trai, và khi trú ngụ gần ngôi làng, ông đã nỗ lực cho đến khi đắc quả vị *Arahant*. Sau đó, đi đến Sāvatthī, ông đảnh lễ Đức Phật và trú ngụ tại một bãi tha ma. Trong khi đó, con trai ông qua đời, và vợ ông, với mong muốn ngăn cản nhà vua chiếm lấy tài sản nay đã bị bỏ lại không người thừa kế, đã cùng một đoàn tùy tùng lớn đi đến gặp chồng để thuyết phục ông quay trở lại đời sống thế tục.
+
+Vào thời của Tissa Buddha, ông đang lang thang trong rừng, cầm cung trong tay, thì nhìn thấy chiếc y của Đức Phật treo trên một cành cây bên ngoài thất của ngài. Ông ngay lập tức vứt bỏ cung và, nhớ lại những ân đức của Đức Phật, đã đảnh lễ chiếc y. Thag.vs.171, 172; Thag­a.i.297f.
+
+Rất có thể ông chính là Paṁsukūlasaññika của Apadāna. Ap.ii.418f.
 
 ## Notes

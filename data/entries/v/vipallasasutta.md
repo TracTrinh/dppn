@@ -5,7 +5,7 @@ base_headword: "Vipallāsasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vipallāsasutta. On four perversions: seeing permanence in impermanence, <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipallāsasutta. Về bốn sự điên đảo: thấy thường trong vô thường, thấy khổ trong không khổ, thấy ngã trong vô ngã, thấy tịnh trong bất tịnh. AN.ii.52.
 
 ## Notes

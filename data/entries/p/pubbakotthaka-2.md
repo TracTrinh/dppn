@@ -5,7 +5,7 @@ base_headword: "Pubbakoṭṭhakā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -34,6 +34,10 @@ Details of this are given at MN­a.i.370f. There were four bathing places: for t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbakoṭṭhakā, Pubbakoṭṭhaka. Một bến tắm ở Sāvatthī, gần Migāramātupāsāda, và do đó nằm ở phía đông của thành phố. Có đề cập (AN.iii.345) về việc Đức Phật đã tắm ở đó. Nơi này rõ ràng là rất rộng lớn, vì Seta, con voi hoàng gia của vua Pasenadi, cũng đã tắm ở đó trong tiếng nhạc đệm. Chú giải gọi nó (AN­a.ii.668) là một con sông (*nadī*). Bến tắm này có lẽ nằm gần Pubbakoṭṭhaka (? Cổng nhà phía Đông) của Sāvatthī, nơi Đức Phật được cho là đã từng lưu trú. SN.v.220; bến tắm dường như cũng được gọi là Pubbakoṭṭhaka. Gần đó là am thất của Bà-la-môn Rammaka (MN.i.161).
+
+Các bến tắm công cộng thường nằm gần cổng thành phố.
+
+Chi tiết về điều này được nêu tại MN­a.i.370f. Có bốn bến tắm: dành cho vua, dành cho dân thường, dành cho Đức Phật, và dành cho Tăng đoàn.
 
 ## Notes

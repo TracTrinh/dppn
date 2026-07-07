@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "26"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumana 26. The personal name of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên riêng của Uggahamāna. MN­a.ii.709.
 
 ## Notes

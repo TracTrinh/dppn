@@ -5,7 +5,7 @@ base_headword: "Sumedhā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumedhā 03. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhā 03. Mẹ của Padumuttara Buddha. SN­a.ii.67; DN­a.ii.488; nhưng Bv.xi.19 gọi bà là Sujātā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Visākhāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Visākhāsutta 02. The Buddha tells <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhāsutta 02. Đức Phật nói với Visākhā (5) về tám phẩm chất ở một người phụ nữ sẽ đảm bảo cho cô được tái sinh vào chư thiên Manāpakāyikā. AN.iv.267.
 
 ## Notes

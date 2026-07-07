@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nārada 03. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 03. Một Bà-la-môn trong thời của Padumuttara Buddha, người đã tán thán Đức Phật trong ba bài kệ. Ông là một tiền kiếp của Trưởng lão Nāgita (hay Atthasandassaka). Thag­a.i.180; Ap.i.168.
 
 ## Notes

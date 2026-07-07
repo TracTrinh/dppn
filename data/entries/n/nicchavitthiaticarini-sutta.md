@@ -5,7 +5,7 @@ base_headword: "Nicchaviṭṭhiaticārinī Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nicchaviṭṭhiaticārinī Sutta. <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Moggallāna trình báo với Đức Phật rằng trong khi đang đi xuống Gijjhakūṭa, ngài đã nhìn thấy một người phụ nữ bị lột da bay qua không trung. Đức Phật đáp rằng người phụ nữ đó là một kẻ ngoại tình của Rājagaha. SN.ii.259.
 
 ## Notes

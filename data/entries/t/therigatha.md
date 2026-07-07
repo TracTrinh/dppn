@@ -5,7 +5,7 @@ base_headword: "Therīgāthā"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -28,6 +28,8 @@ Published by the PTS (1883), and translated by Mrs. Rhys Davids as *Psalms of th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Therīgāthā. Cuốn sách thứ chín của Khuddakanikāya. Nó tương đương với Theragāthā và là một tuyển tập độc nhất vô nhị trong nền văn học thế giới.
+
+Được PTS xuất bản (1883), và được bà Rhys Davids dịch với tựa đề *Psalms of the Sisters*.
 
 ## Notes

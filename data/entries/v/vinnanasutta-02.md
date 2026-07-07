@@ -5,7 +5,7 @@ base_headword: "Viññāṇasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viññāṇasutta 02. One of the *Suttas* taught by the Buddha to <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇasutta 02. Một trong những *Sutta* được Đức Phật giảng cho Rāhula. Thức là vô thường. SN.ii.246.
 
 ## Notes

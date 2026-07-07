@@ -5,7 +5,7 @@ base_headword: "Vivekakathā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vivekakathā. The fourth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivekakathā. Chương thứ tư của Paññāvagga thuộc Paṭisambhidāmagga. Paṭis.ii.219-25.
 
 ## Notes

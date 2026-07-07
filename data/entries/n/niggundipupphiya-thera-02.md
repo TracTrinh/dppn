@@ -5,7 +5,7 @@ base_headword: "Nigguṇḍipupphiya Thera"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nigguṇḍipupphiya Thera 02. An *Arahant*. In the past he had been an inhabita
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Trong quá khứ ngài từng là một cư dân của thế giới *Deva* và đã lắng nghe bài thuyết pháp của một vị đệ tử của Padumuttara Buddha, tên là Sumana. Sau đó ngài đã dâng cúng một bông hoa *nigguṇḍi* trên chỗ ngồi của Đức Phật. Trong đời này ngài gia nhập Tăng đoàn (Saṅgha) vào năm bảy tuổi, và sau khi lắng nghe một bài thuyết pháp của Ānanda đã trở thành một *Arahant*. Ngài đã mười sáu lần làm vua, dưới các cái tên Abbuda và Nirabudda. Ap.i.262f.
 
 ## Notes

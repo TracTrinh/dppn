@@ -5,7 +5,7 @@ base_headword: "Puṇṇovādasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,8 @@ On learning that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇovādasutta. Puṇṇa (xứ Sunāparanta) viếng thăm Đức Phật và xin ngài một giáo pháp để ông có thể nương theo đó và gột sạch ngã tính. Đức Phật dạy ông tránh tìm kiếm sự hoan hỷ trong những khoái lạc của các giác quan.
+
+Khi biết được rằng Puṇṇa dự định sẽ sống ở Sunāparanta, Đức Phật cảnh báo ông rằng người dân ở vùng đó rất hung dữ và bạo lực. Puṇṇa tuyên bố rằng ngay cả khi họ giết ông, ông cũng sẽ không nuôi ác ý với họ, mà sẽ hoan hỷ vì đã được hữu ích đối với họ. Ông rời đi để đến Sunāparanta, với sự chấp thuận của Đức Phật, và tụ tập quanh ông là năm trăm đệ tử thuộc cả hai giới đã đắc quả vị *Arahant*. Sau sự viên tịch của Puṇṇa, các vị tỳ-kheo đã hỏi Đức Phật về ông, và Đức Phật nói với họ rằng ông đã chứng ngộ *Nibbāna*. MN.iii.267 ff.; SN.iv.60 ff.
 
 ## Notes

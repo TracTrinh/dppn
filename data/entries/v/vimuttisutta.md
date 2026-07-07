@@ -5,7 +5,7 @@ base_headword: "Vimuttisutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vimuttisutta. On the five spheres of release experienced when one teaches the Dh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimuttisutta. Về năm lãnh vực giải thoát được kinh nghiệm khi một người thuyết giảng Pháp cho người khác, khi một người khác lắng nghe, khi chính mình học hỏi nó, khi mình quán tưởng và suy ngẫm về nó, và khi mình đã thâm nhập một cách chân chánh vào nó. AN.iii.21f.
 
 ## Notes

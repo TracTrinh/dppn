@@ -5,7 +5,7 @@ base_headword: "Toṇḍipāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Toṇḍipāra. A locality in South India (Cv.lxxvi.236; lxxvii.81). Geiger take
 
 ## Vietnamese translation
 
-Chưa dịch.
+Toṇḍipāra. Một địa phương ở Nam Ấn Độ (Cv.lxxvi.236; lxxvii.81). Geiger cho rằng tên này là của hai ngôi làng, Toṇḍi và Pāra. Cv.Trs.ii.84, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Punabbasu"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Punabbasu 02. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasu 02. Một trong nhóm Chabbaggiyā. Những tín đồ của ông được gọi là Punabbasukā, và, cùng với những tín đồ của Assaji, họ được gọi là Assaji-Punabbasukā (*q.v.*).
 
 ## Notes

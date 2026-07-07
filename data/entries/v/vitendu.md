@@ -5,7 +5,7 @@ base_headword: "Viṭeṇḍu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Viṭeṇḍu. One of the vessels of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viṭeṇḍu. Một trong những thuộc hạ của các vị Cātummahārājikā có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.257.
 
 ## Notes

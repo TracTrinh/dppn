@@ -5,7 +5,7 @@ base_headword: "Sūranimmila"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sūranimmila. One of the ten warriors of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūranimmila. Một trong mười chiến binh của Duṭṭhagāmaṇī. Để biết chi tiết xem Mhv.xxiii.19f. Theo Rasavāhinī (ii.71) ông được gọi như vậy vì ông đã uống một lượng lớn rượu thốt nốt (toddy) trước cuộc tấn công vào Vijitapura.
 
 ## Notes

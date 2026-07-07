@@ -5,7 +5,7 @@ base_headword: "Nārivaḍḍhana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārivaḍḍhana. One of the palaces occupied by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivaḍḍhana. Một trong những cung điện mà Sumaṅgala Buddha ngự trị trong đời sống cư sĩ cuối cùng của ngài. Bv­a.125; nhưng xem Bv.v.22, ở đó những tên gọi khác được đưa ra.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Timirapupphiya Thera"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Timirapupphiya Thera 01. An Arahant. He was once an ascetic and while walking on
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timirapupphiya Thera 01. Một vị *Arahant*. Ngài từng là một đạo sĩ và một ngày nọ khi đang đi dọc theo bờ sông Candabhāgā, ngài nhìn thấy Siddhattha Buddha và rải lên Đức Phật những bông hoa *timira* để đảnh lễ. Ngay sau đó ngài bị một con sư tử giết chết (Ap.i.126f).
 
 ## Notes

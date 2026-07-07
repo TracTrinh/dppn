@@ -5,7 +5,7 @@ base_headword: "Nemi"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nemi 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Pacceka Buddha, có lẽ cũng chính là Nimi (*q.v.*). MN.iii.70.
 
 ## Notes

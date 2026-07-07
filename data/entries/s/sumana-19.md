@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "19"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumana 19. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Pacceka Buddha trong tương lai. Xem Sumana (5).
 
 ## Notes

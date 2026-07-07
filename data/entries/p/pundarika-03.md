@@ -5,7 +5,7 @@ base_headword: "Puṇḍarīka"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puṇḍarīka 03. One of the four treasure troves left behind by the Buddha whe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇḍarīka 03. Một trong bốn kho tàng được Đức Phật để lại khi Ngài từ bỏ thế tục. DN­a.i.284.
 
 ## Notes

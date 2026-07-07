@@ -5,7 +5,7 @@ base_headword: "Sumaṅgalamātā Therī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,8 @@ She became a nun, and one day, while reflecting on all she had suffered in the l
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgalamātā Therī. Bà sinh ra trong một gia đình nghèo ở Sāvatthī và kết hôn với một người đan cói (*naḷakāra*). Đứa con đầu lòng của bà là một người con trai, tên là Sumaṅgala, người đã rời bỏ thế tục và trở thành một vị *Arahant* (Xem Sumaṅgala 07).
+
+Bà trở thành một tỳ-kheo-ni, và một ngày nọ, khi suy ngẫm về tất cả những gì mình đã phải chịu đựng trong cuộc sống cư sĩ, bà vô cùng xúc động, và, tuệ giác của bà tăng nhanh, bà đã trở thành một vị *Arahant*. Thīg.vss.23-24; Thīg­a.28f.
 
 ## Notes

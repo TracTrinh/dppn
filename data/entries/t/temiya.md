@@ -5,7 +5,7 @@ base_headword: "Temiya"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Temiya. The name of the Bodhisatta in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Temiya. Tên của Bodhisatta trong kinh Bổn sinh Mūgapakkhajātaka (Ja 538). Ngài được gọi như vậy bởi vì vào ngày ngài sinh ra, có những trận mưa lớn trên khắp vương quốc và ngài ra đời trong lúc ẩm ướt. Ja.vi.3.
 
 ## Notes

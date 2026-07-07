@@ -5,7 +5,7 @@ base_headword: "Tiritara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tiritara. A Tamil usurper who succeeded <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiritara. Một kẻ tiếm ngôi người Tamil đã kế vị Khuddapārinda trên ngai vàng. Hai tháng sau khi lên ngôi, ông ta đã bị Dhātusena giết. Cv.xxxviii.32.
 
 ## Notes

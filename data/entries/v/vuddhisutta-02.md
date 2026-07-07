@@ -5,7 +5,7 @@ base_headword: "Vuḍḍhisutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vuḍḍhisutta 02. Four conditions which conduce to the growth of insight. SN.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuḍḍhisutta 02. Bốn điều kiện dẫn đến sự phát triển của tuệ giác. SN.v.411.
 
 ## Notes

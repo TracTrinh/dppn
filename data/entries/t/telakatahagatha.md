@@ -5,7 +5,7 @@ base_headword: "Telakaṭāhagāthā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ For details see PLC.162f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telakaṭāhagāthā. Một bài thơ tiếng Pāli gồm tám mươi tám khổ thơ được cho là do vị Thera Kalyāṇiya thốt lên khi bị Vua Kalyāṇitissa (Tissa 24) ném vào một vạc dầu sôi vì nghi ngờ ngài là đồng phạm trong một mưu đồ với hoàng hậu của mình.
+
+Xem PLC.162f để biết thêm chi tiết.
 
 ## Notes

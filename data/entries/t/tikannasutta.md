@@ -5,7 +5,7 @@ base_headword: "Tikaṇṇasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tikaṇṇasutta. Records the visit of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikaṇṇasutta. Ghi nhận chuyến viếng thăm của Tikaṇṇa đến Đức Phật.
 
 ## Notes

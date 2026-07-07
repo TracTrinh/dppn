@@ -5,7 +5,7 @@ base_headword: "Pupphachattiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pupphachattiya Thera. An *Arahant*. Ninety-four *kappas* ago he made a parasol o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphachattiya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông kết một chiếc lọng bằng hoa sen, rồi che lọng đó cho Siddhattha Buddha. Bảy mươi tư *kappa* trước, ông làm vua chín lần, dưới tên gọi là Jalasikha. Ap.i.264f.
 
 ## Notes

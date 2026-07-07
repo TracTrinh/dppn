@@ -5,7 +5,7 @@ base_headword: "Nārivāhana"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nārivāhana 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivāhana 01. Con trai của Sujāta. Ông sống ở *Nārivāhananagara*, và khi Tissa Buddha đi đến đó, ông đã thết đãi ngài và các tỳ-kheo trong bảy ngày, và vào cuối khoảng thời gian đó, ông đã trao lại vương quốc cho con trai mình và gia nhập vào Tăng đoàn. Bv­a.190.
 
 ## Notes

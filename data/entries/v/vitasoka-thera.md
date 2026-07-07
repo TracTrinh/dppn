@@ -5,7 +5,7 @@ base_headword: "Vītasoka Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vītasoka Thera. Em trai của Dhammāsoka và là một học trò cư sĩ của Giridatta Thera. Một ngày nọ, ông nhìn thấy những sợi tóc bạc trên đầu mình khi đang được mặc quần áo, và ngay khi đang ngồi, ông đã trở thành một bậc *Sotāpanna*. Sau đó ông gia nhập Tăng đoàn và trở thành một vị *Arahant*.
+
+Trong thời của Siddhattha Buddha, ông là một Bà-la-môn, am hiểu nhiều lĩnh vực học thuật khác nhau, và sau đó trở thành một tu sĩ khổ hạnh. Trên đường đi gặp Đức Phật, ông đã qua đời, và được tái sinh trong thế giới *Deva* (Thag­a.i.295f.; hai bài kệ được cho là của ông được đưa ra trong Thag.169-70). Có lẽ ông giống với Buddhasaññaka Thera của Apadāna. Ap.ii.419f.; cf. Divy.366f.
 
 ## Notes

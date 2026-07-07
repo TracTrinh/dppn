@@ -5,7 +5,7 @@ base_headword: "Tathasutta"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Tathasutta 01. There are four things that are true and unalterable – the facts
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathasutta 01. Có bốn điều là chân thật và bất biến – sự thật về Dukkha, sự sinh khởi của nó, sự đoạn diệt của nó, và con đường dẫn đến điều đó. SN.v.430.
 
 ## Notes

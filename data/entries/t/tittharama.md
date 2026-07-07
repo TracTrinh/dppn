@@ -5,7 +5,7 @@ base_headword: "Titthārāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Titthārāma. A monastery built by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthārāma. Một tu viện do Paṇḍukābhaya xây dựng để cho các tu sĩ ngoại đạo sử dụng. Nó nằm gần Nīcasusāna ở Anurādhapura. Vaṭṭagāmaṇī đã phá hủy nó và xây dựng Abhayagirivihāra trên địa điểm của nó. Mhv.xxxiii.42, 83.
 
 ## Notes

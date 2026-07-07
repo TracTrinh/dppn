@@ -5,7 +5,7 @@ base_headword: "Mantī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mantī. A Brahmin well versed in reading auspicious signs. He was one of the Bra
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mantī. Một Bà-la-môn rất am tường việc xem các tướng tốt. Ông là một trong những Bà-la-môn được Suddhodana thỉnh vấn khi Gotama Buddha đản sinh. Ja.i.56; Mil.236.
 
 ## Notes

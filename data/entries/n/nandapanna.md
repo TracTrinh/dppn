@@ -5,7 +5,7 @@ base_headword: "Nandapañña"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandapañña. A native of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandapañña. Một người gốc ở Haṁsaraṭṭha; tác giả của tác phẩm Gandhavaṁsa (*q.v.*).
 
 ## Notes

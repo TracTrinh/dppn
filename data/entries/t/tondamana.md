@@ -5,7 +5,7 @@ base_headword: "Toṇḍamāna"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Toṇḍamāna. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Toṇḍamāna. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Ông có một pháo đài trên núi nơi Kulasekhara từng ẩn náu, và vợ ông có ba người anh em trai, tất cả họ đều giúp đỡ ông. Ông sở hữu các ngôi làng Tirimalakka và Kattala. Cv.lxxvi.137, 315; lxxvii.1, 32, 39, 51, 74.
 
 ## Notes

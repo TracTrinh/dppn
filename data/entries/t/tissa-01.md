@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissā 01. One of the chief women disciples of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 01. Một trong những nữ đại đệ tử của Koṇḍañña Buddha (Ja.i.30; Bv.iii.31).
 
 ## Notes

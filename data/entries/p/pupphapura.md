@@ -5,7 +5,7 @@ base_headword: "Pupphapura"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphapura. Another name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphapura. Một tên gọi khác của Pāṭaliputta (*q.v.*), ví dụ: Dpv.xi.28; Mhv.xxix.36.
 
 ## Notes

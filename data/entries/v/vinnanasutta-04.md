@@ -5,7 +5,7 @@ base_headword: "Viññāṇasutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viññāṇasutta 04. The arising of eye-consciousness and of the other factors 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇasutta 04. Sự sinh khởi của nhãn thức và các yếu tố khác chính là sự xuất hiện của già và chết. Sự diệt tận của chúng là sự chấm dứt của già và chết. SN.iii.229.
 
 ## Notes

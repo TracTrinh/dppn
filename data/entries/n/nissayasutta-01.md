@@ -5,7 +5,7 @@ base_headword: "Nissayasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -23,6 +23,6 @@ Nissayasutta 01. The Buddha explains to a monk how one can be called *nissayasam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissayasutta 01. Đức Phật giải thích cho một tỳ-kheo về cách mà một người có thể được gọi là *nissayasampanna*. AN.iv.353f.
 
 ## Notes

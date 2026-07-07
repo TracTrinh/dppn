@@ -5,7 +5,7 @@ base_headword: "Nandanavana"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -31,6 +31,6 @@ Nandanavana 01. The chief of the parks in <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanavana 01. Công viên chính ở Tāvatiṁsa, nơi cư dân của Tāvatiṁsa, do Indra đứng đầu, đến để vui chơi. (được đề cập đến ví dụ, Dhp­a.ii.266; AN.iii.40; Ja.vi.240; Vv-a.7, 34, 61, v.v.; Pv-a.173, 176, 177, v.v.; Mvu.i.32, v.v.). Các vua Cakkavatti sinh ra ở Tāvatiṁsa sau khi qua đời và dành thời gian của mình ở Nandanavana (SN.v.342). Người ta nói rằng (ví dụ, Ja.i.49) có một Nandanavana trong mỗi cõi chư thiên. Chư thiên đi đến đó ngay trước khi họ qua đời và biến mất giữa lúc đang vui chơi. Do đó, vị Bodhisatta đã đi đến Nandanavana ở cõi Tusita trước khi ngài "giáng sinh" vào thai tạng của Mahā Māyā (Ja.i.50; xem thêm Ja.vi.144). Ở Nandanavana có một hồ nước tên là Nandana (Ja.ii.189) và rõ ràng cũng có một cung điện được gọi là *Ekapuṇḍarīkavimāna* (Mhv­ṭ.568). Nandanavana được gọi như vậy vì nó khơi dậy niềm hân hoan trong tâm của tất cả những ai đến viếng thăm (Ja.v.158). Đôi khi các đạo sĩ, như Nārada (sđd.392), có thần thông lớn, thường nghỉ trưa dưới bóng của khu rừng.
 
 ## Notes

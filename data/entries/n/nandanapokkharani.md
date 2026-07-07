@@ -5,7 +5,7 @@ base_headword: "Nandanapokkharaṇī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandanapokkharaṇī. A lake of great splendour in <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanapokkharaṇī. Một hồ nước tuyệt đẹp ở Nandanavana, có một trăm bến tắm và một ngàn lạch nước, được bao phủ bởi năm loại hoa sen. Ja.ii.189; cp. Nandāpokkharaṇī. Ở những nơi khác (ví dụ, Ja.vi.333), hồ này được gọi là Nandanavanapokkharaṇī.
 
 ## Notes

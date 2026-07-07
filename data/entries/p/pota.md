@@ -5,7 +5,7 @@ base_headword: "Pota"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -29,6 +29,6 @@ Pota, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pota, Potana, Potala, Potali. Một thành phố ở Kāsi *raṭṭha*, thủ đô của vua nước Assaka. Ja.ii.155f.; Ja.iii.3; xem thêm Vv-a.259. Nơi này có lẽ nằm gần nơi ở của Bāvārī (xem Snp­a.ii.581).
 
 ## Notes

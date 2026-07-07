@@ -5,7 +5,7 @@ base_headword: "Nāvindakī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāvindakī. One of King <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những lính canh của Vua Eḷeyya. Ông là một người theo Rāmaputta. AN.ii.180.
 
 ## Notes

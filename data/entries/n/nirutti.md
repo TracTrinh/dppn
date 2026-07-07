@@ -5,7 +5,7 @@ base_headword: "Nirutti"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nirutti. A work on exegesis, ascribed to <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirutti. Một tác phẩm chú giải, được cho là của Mahā Kaccāyana và được chia thành hai phần: *Cūḷa Nirutti* và *Mahā Nirutti* (Gv.59, 65; Svd.1233f). Có một cuốn *ṭīkā* cho tác phẩm này, tên là Niruttisāramañjūsā, do Saddhammaguru biên soạn. Bode, 29; Gv.60.
 
 ## Notes

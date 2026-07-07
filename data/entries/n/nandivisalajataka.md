@@ -5,7 +5,7 @@ base_headword: "Nandivisālajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,10 @@ The story was related in reference to the taunts uttered by the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivisālajātaka (Ja 28). Một lần vị Bodhisatta sinh ra làm một con bò mộng ở Gandhāra và được đặt tên là Nandivisāla. Khi còn khá nhỏ, con bò được tặng cho một Bà-la-môn, người đã cho nó ăn những thức ăn ngon và chăm sóc nó. Khi Nandi lớn lên, để đền đáp công ơn của Bà-la-môn, con bò đề nghị rằng nó sẽ kéo một trăm chiếc xe cho một cuộc cá cược. Bà-la-môn khoe khoang với bạn bè của mình và đã cá cược với họ. Vào ngày đã định, ông chất đầy một trăm chiếc xe, cột chúng lại với nhau, và sau khi buộc Nandivisāla vào chiếc xe đầu tiên, ông ngồi lên càng xe và, vung roi, hét lớn, “Bây giờ, đồ ranh con, kéo đi.” Con bò, cảm thấy rất bị xúc phạm, không chịu nhúc nhích, và Bà-la-môn bị mất tiền. Khi ông nằm than vãn trên giường, Nandivisāla đi đến chỗ ông và nói rằng ông không nên nhục mạ nó. Sau đó nó bảo ông hãy cá cược hai ngàn, và nói rằng lần này nó sẽ thắng. Người Bà-la-môn đã làm theo, và ngày hôm sau, sau khi buộc một trăm chiếc xe lại với nhau, ông ách Nandivisāla vào chiếc đầu tiên và vuốt ve lưng nó nói, “Bây giờ, người bạn tốt của ta, hãy kéo đi.” Với một sức rướn mình, Nandivisāla đã kéo những chiếc xe, và chiếc xe cuối cùng đứng đúng vào chỗ mà chiếc đầu tiên đã đứng. Chủ của Nandivisāla đã nhận được nhiều phần thưởng bên cạnh số tiền cá cược.
+
+Câu chuyện này được kể lại liên quan đến những lời nhạo báng mà nhóm Chabbaggiyas đã thốt ra nhắm vào các tỳ-kheo có giới đức.
+
+Ānanda là người Bà-la-môn trong câu chuyện (Ja.i.191ff.; câu chuyện cũng được đưa ra ở Vin.iv.5). Câu chuyện này cũng được kể lại liên quan đến Yamakapāṭihāriya. Dhp­a.iii.213.
 
 ## Notes

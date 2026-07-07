@@ -5,7 +5,7 @@ base_headword: "Vivaravagga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vivaravagga. The first chapter of the *Catukkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivaravagga. Phẩm đầu tiên của *Catukkanipāta* trong Chú giải Jātaka Ja.iii.1-33.
 
 ## Notes

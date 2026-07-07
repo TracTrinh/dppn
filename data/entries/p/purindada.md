@@ -5,7 +5,7 @@ base_headword: "Purindada"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Purindada. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purindada. Một tên gọi dành cho Sakka, bởi vì, khi còn là con người, ông đã bố thí từ thị trấn này sang thị trấn khác (*pure pure dānaṁ adāsi*). SN.i.229; Dhp­a.i.264; đối chiếu với tiếng Sanskrit *Purandara* (kẻ phá hủy các thành phố).
 
 ## Notes

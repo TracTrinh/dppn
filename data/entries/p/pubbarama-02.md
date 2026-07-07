@@ -5,7 +5,7 @@ base_headword: "Pubbārāma"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pubbārāma 02. A monastery in Ceylon, built by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāma 02. Một tu viện ở Tích Lan, được xây dựng bởi Sena I và vương phi của ông là Saṅghā (Cv.l.69; xem thêm Cv.Trs.i.144, n.4). Parakkamabāhu I được cho là đã trùng tu nó. Sās-d. 58.
 
 ## Notes

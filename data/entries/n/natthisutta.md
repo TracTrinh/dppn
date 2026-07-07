@@ -5,7 +5,7 @@ base_headword: "Natthisutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Natthisutta. A discussion on the annihilation views – elsewhere ascribed to <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cuộc thảo luận về các tà kiến đoạn diệt – ở nơi khác được cho là của Ajita Kesakambala (*q.v.*) – rằng không có giá trị gì trong việc làm điều tốt, không có các bậc thánh nhân, v.v. Đức Phật giải thích rằng những tà kiến như vậy sẽ biến mất khi vị đệ tử của bậc Thánh thoát khỏi những mối nghi ngờ của mình và trở thành một *Sotāpanna*. SN.iii.206f.
 
 ## Notes

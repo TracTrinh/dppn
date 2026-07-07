@@ -5,7 +5,7 @@ base_headword: "Tebhātikajaṭilā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tebhātikajaṭilā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tebhātikajaṭilā, Tebhātikajaṭilas. Ba anh em, Uruvelā Kassapa, Gayā Kassapa và Nadī Kassapa. Xem câu chuyện của họ ở mục Uruvelā Kassapa.
 
 ## Notes

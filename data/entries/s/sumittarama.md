@@ -5,7 +5,7 @@ base_headword: "Sumittārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumittārāma. The monastery in which <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumittārāma. Tu viện nơi Vipassī Buddha đã viên tịch. Bv.xx.36.
 
 ## Notes

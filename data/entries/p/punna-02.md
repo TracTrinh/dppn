@@ -5,7 +5,7 @@ base_headword: "Puṇṇa"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -36,6 +36,8 @@ It is this <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇa 02. Puṇṇaka. Một trưởng giả (*seṭṭhi*) ở Rājagaha (Dhp­a.i.385; iii.104), cha của Uttarā Nandamātā. Ông đã từng là một người nghèo khổ và làm thuê cho trưởng giả Sumana. Vào một ngày lễ hội, mặc dù chủ của ông đã cho ông nghỉ lễ, nhưng ông vẫn đi ra đồng làm việc, bởi vì ông quá nghèo không thể tự cho phép mình vui chơi. Trong khi ông đang ở ngoài đồng thì Sāriputta đến chỗ ông, và Puṇṇa đã dâng cho ngài một chiếc tăm xỉa răng và nước. Vợ của Puṇṇa, đang mang thức ăn cho chồng, đã gặp Sāriputta khi ngài đang trên đường rời đi, và bà đã dâng cúng phần thức ăn mang theo cho ngài. Bà nấu cơm mới và mang ra cho chồng, người đã vô cùng sung sướng khi nghe về món quà mà vợ mình đã dâng cho Sāriputta. Sau bữa ăn, ông gối đầu nghỉ ngơi một lúc trên đùi vợ, và khi thức dậy, ông thấy cánh đồng mà mình cày bừa đã biến thành vàng. Ông đã báo cáo sự việc cho nhà vua, vua đã cho những cỗ xe đến chở số vàng đi; nhưng ngay khi quân lính chạm vào nó, và nói rằng đây là của nhà vua, thì nó lại biến thành đất. Do đó, vàng đã được thu gom lại dưới tên của Puṇṇa, và nhà vua đã ban cho ông tước hiệu *bahudhanaseṭṭhi*. Ông đã xây một ngôi nhà mới, và tại buổi lễ khánh thành, ông đã tổ chức một cuộc cúng dường lớn cho Đức Phật và chư tăng. Khi Đức Phật nói lời cảm tạ ông, ông và vợ cùng con gái Uttarā (*q.v.*) của mình đã trở thành những *Sotāpanna*. MN­a.ii.812; Dhp­a.iii.302 ff.; cũng như Vv-a.62ff., nơi mà vợ của Puṇṇaka được gọi là Uttarā. Trong chú giải Aṅguttara (i. 240 ff.), tên của người đàn ông này được gọi là Puṇṇasīha, trong đó Puṇṇa là dạng rút gọn.
+
+Chính Puṇṇa này, được mô tả là *bhataka*, người đã được nhắc đến trong Milindapañha trong số bảy người mà các hành động sùng đạo của họ đã mang lại phần thưởng ngay trong kiếp sống này (pp. 115, 291; xem thêm MN­a.ii.812).
 
 ## Notes

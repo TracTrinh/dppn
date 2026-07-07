@@ -5,7 +5,7 @@ base_headword: "Sumittā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumittā 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumittā 02. Yasodharā (Rāhulamātā) trong một kiếp trước. Ap.ii.587.
 
 ## Notes

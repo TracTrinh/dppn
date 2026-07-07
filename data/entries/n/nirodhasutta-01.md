@@ -5,7 +5,7 @@ base_headword: "Nirodhasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nirodhasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirodhasutta 01. Sāriputta nói với Ānanda rằng ngài đã đạt đến trạng thái diệt thọ tưởng. SN.iii.238.
 
 ## Notes

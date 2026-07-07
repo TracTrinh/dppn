@@ -5,7 +5,7 @@ base_headword: "Tevijjasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,10 @@ Such union can, however, be attained only by the practice of the four *Brahmavih
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tevijjasutta. Kinh thứ mười ba của Dīghanikāya, được thuyết cho Vāseṭṭha và Bhāradvāja, những người đã đến thăm Đức Phật tại Manasākaṭa.
+
+Đức Phật chỉ ra sự vô ích của niềm tin rằng chỉ cần hiểu biết về Ba bộ kinh Vệ-đà (Vedas) là dẫn đến việc đạt được sự hòa hợp với Phạm thiên (*Brahma*).
+
+Tuy nhiên, sự hòa hợp đó chỉ có thể đạt được thông qua sự thực hành Bốn phạm trú (*Brahmavihāras*). DN.i.235-53.
 
 ## Notes

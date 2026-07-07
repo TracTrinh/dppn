@@ -5,7 +5,7 @@ base_headword: "Nibbidāsutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbidāsutta 03. Five things, the perception of which leads to revulsion: fouln
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm điều mà sự tưởng về chúng dẫn đến sự nhàm chán: sự bất tịnh của thân, sự ngán ngẩm đối với thức ăn, sự chán ghét đối với thế gian, sự vô thường trong mọi sự vật và ý nghĩ về sự chết. AN.iii.83.
 
 ## Notes

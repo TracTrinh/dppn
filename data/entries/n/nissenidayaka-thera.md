@@ -5,7 +5,7 @@ base_headword: "Nisseṇidāyaka Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -28,6 +28,8 @@ Thirty-one *kappas* ago he was king three times, under the name of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisseṇidāyaka Thera. Một vị *Arahant*. Vào thời Đức Phật Koṇḍañña, ngài đã xây một cầu thang cho Đức Phật để Ngài có thể bước lên tịnh thất của mình.
+
+Ba mươi mốt *kappas* trước ngài làm vua ba lần, dưới tên gọi là Pahasambahula. Ap.i.187.
 
 ## Notes

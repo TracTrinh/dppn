@@ -5,7 +5,7 @@ base_headword: "Vikaṇṇakajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ The story was related to a backsliding monk. Desire always leads to suffering, s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikaṇṇakajātaka (Ja 233). Bodhisatta từng là vua của Benares, và một ngày nọ, trong lúc dạo chơi gần một hồ nước trong ngự uyển của mình, ngài nhận thấy các đàn cá và rùa tụ tập về phía mình. Khi dò hỏi, ngài biết được rằng những con vật này bị thu hút bởi tiếng nhạc của ngài, và đã ra lệnh cho chúng được cho ăn thường xuyên. Khi phát hiện ra một số con vắng mặt, ngài sắp xếp cho một cái trống được gióng lên vào giờ cho ăn. Sau đó, khi thấy một con cá sấu đến và ăn một số con cá, nhà vua ra lệnh dùng lao móc để bắt nó. Con cá sấu trốn thoát khỏi việc bị bắt, nhưng chết ngay sau đó.\n\nCâu chuyện này được kể lại cho một vị tu sĩ đang thối thất. Đức Phật nói rằng ham muốn luôn dẫn đến đau khổ; chính ham muốn đã gây ra cái chết của con cá sấu. Ja.ii.227f.
 
 ## Notes

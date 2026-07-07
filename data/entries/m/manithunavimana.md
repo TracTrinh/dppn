@@ -5,7 +5,7 @@ base_headword: "Maṇithūnavimāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇithūnavimāna. A palace in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇithūnavimāna. Một cung điện ở Tāvatiṁsa, nơi ở của một thiên nhân (*Deva*), người từng là cư dân của Sāvatthī và đã dọn sạch một con đường dẫn từ khu rừng đến Sāvatthī, nhằm tạo sự dễ dàng cho nhiều tỳ-kheo đi lại. (Vv.vii.3; Vv-a.301f.)
 
 ## Notes

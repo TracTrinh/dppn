@@ -5,7 +5,7 @@ base_headword: "Vīraka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vīraka. The Bodhisatta born as a marsh crow. See the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīraka. Vị Bodhisatta sinh làm một con quạ đầm lầy. Xem Vīrakajātaka (Ja 204).
 
 ## Notes

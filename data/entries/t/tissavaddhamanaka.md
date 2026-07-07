@@ -5,7 +5,7 @@ base_headword: "Tissavaḍḍhamānaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissavaḍḍhamānaka. A locality in Ceylon, to the east of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissavaḍḍhamānaka. Một địa phương ở Ceylon, về phía đông của Anurādhapura (Mhv.xxxv.84). Nó có chứa Mucelavihāra và một hồ chứa nước cùng tên (Mhv.xxxvii.48).
 
 ## Notes

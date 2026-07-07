@@ -5,7 +5,7 @@ base_headword: "Surakitti"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Surakitti. A king of Burma in the fifteenth century. He built a four-storeyed *v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surakitti. Một vị vua của Miến Điện vào thế kỷ mười lăm. Ông đã xây dựng một *vihāra* bốn tầng cho Tipiṭakālaṅkāra Thera. Bode, 53.
 
 ## Notes

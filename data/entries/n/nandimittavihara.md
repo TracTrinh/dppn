@@ -5,7 +5,7 @@ base_headword: "Nandimittavihāra"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandimittavihāra. A monastery built by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandimittavihāra. Một tu viện do Nandimitta xây dựng trên bờ sông Jajjaranadī. Ras.ii.81.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ponamaravatī"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Ponamaravatī. A locality in South India, mentioned in the account of the campai
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ponamaravatī. Một địa phương ở miền Nam Ấn Độ, được nhắc đến trong bản ghi chép về các chiến dịch của Laṅkāpura. Cv.lxxvii. 20, 22, 92.
 
 ## Notes

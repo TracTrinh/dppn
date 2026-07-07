@@ -5,7 +5,7 @@ base_headword: "Tondiriya"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tondiriya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tondiriya. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Ông bị Laṅkāpura giết. Cv.lxxvi.181f.
 
 ## Notes

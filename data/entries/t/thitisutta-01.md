@@ -5,7 +5,7 @@ base_headword: "Ṭhitisutta"
 disambiguator: "01"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhitisutta 01. Bốn hạng người thực hành thiền định – những người thành thạo trong sự định tâm nhưng không thành thạo trong sự kiên định, những người thành thạo trong sự kiên định nhưng không thành thạo trong sự định tâm, những người không thành thạo cả hai, những người thành thạo cả hai. SN.iii.264.
 
 ## Notes

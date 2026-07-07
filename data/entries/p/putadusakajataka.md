@@ -5,7 +5,7 @@ base_headword: "Puṭadūsakajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,8 @@ The story was related in reference to the young son of a gardener of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṭadūsakajātaka (Ja 280). Bodhisatta từng là một gia chủ, và một ngày nọ, khi đi đến công viên, ông nhìn thấy người làm vườn hái những chiếc lá lớn và ném chúng xuống đất để làm giỏ đựng, và con khỉ chúa sống trong công viên đã xé nát chúng khi chúng rơi xuống. Con khỉ, khi bị chất vấn, nói rằng phá hoại những thứ này là bản tính của nó; do đó Bodhisatta đã đuổi nó đi.
+
+Câu chuyện này được kể lại liên quan đến cậu con trai nhỏ của một người làm vườn ở Sāvatthī. Chủ nhân của khu vườn đã mời các vị tỳ-kheo đến công viên của ông, và ở đó họ nhìn thấy người làm vườn hái lá để làm giỏ và con trai ông ta đang xé nát chúng. Con khỉ được đồng nhất với cậu bé đó. Ja.ii.390 ff.
 
 ## Notes

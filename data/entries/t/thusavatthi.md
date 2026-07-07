@@ -5,7 +5,7 @@ base_headword: "Thusavaṭṭhi"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Thusavaṭṭhi. A village in Ceylon where king <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thusavaṭṭhi. Một ngôi làng ở Ceylon nơi vua Buddhadāsa đã thực hiện một phương pháp chữa bệnh kỳ diệu (Cv.xxxvii.124f). Nó nằm gần Anurādhapura, và ranh giới (*sīmā*) của Mahā Vihāra đã đi qua đó (Mbv.136).
 
 ## Notes

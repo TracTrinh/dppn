@@ -5,7 +5,7 @@ base_headword: "Nandasārathī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandasārathī. Chief warrior of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandasārathī. Chiến binh chính của Eḷāra. Ông bị Veḷusumana giết. Mhv­ṭ.315.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissavasabha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissavasabha. Probably the name of a Bodhi-tree in <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissavasabha. Có thể là tên của một cây bodhi ở Anurādhapura. Nó được bao quanh bởi một bệ đá và một bức tường, cả hai đều do Sirimeghavaṇṇa xây dựng. Cv.xxxvii.91; Cv.Trs.i.7, n.3.
 
 ## Notes

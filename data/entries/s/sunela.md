@@ -5,7 +5,7 @@ base_headword: "Sunela"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunela. A king of one hundred and twenty-three *kappas* ago, a former birth of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunela. Một vị vua của một trăm hai mươi ba *kappa* trước, một tiền kiếp của Muṭṭhipūjaka Thera. Ap.i.201.
 
 ## Notes

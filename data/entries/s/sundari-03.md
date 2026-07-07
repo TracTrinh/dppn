@@ -5,7 +5,7 @@ base_headword: "Sundarī"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -42,6 +42,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarī 03. Sundarikā. Một nữ du sĩ ngoại đạo (*Paribbājikā*). Cô đã nghe theo những lời thuyết phục của các đồng nghiệp của mình, những kẻ ngoại đạo, và thường được nhìn thấy vào buổi tối đi về phía Jetavana với những vòng hoa, nước hoa, trái cây, v.v. Khi được hỏi cô đang đi đâu, cô sẽ trả lời rằng cô sẽ qua đêm trong phòng của Đức Phật. Sau đó cô sẽ ngủ lại trong một tu viện lân cận của các Paribbājaka và lại được nhìn thấy vào sáng sớm đang đi từ hướng Jetavana. Sau vài ngày, những kẻ ngoại đạo đã thuê một số tên vô lại để giết Sundarī và giấu xác cô dưới một đống rác gần Jetavana. Rồi chúng lu loa lên và báo với nhà vua rằng Sundarī bị mất tích. Một cuộc tìm kiếm được tiến hành, và xác cô được tìm thấy gần Gandhakuṭi của Đức Phật. Đặt cái xác lên một chiếc cáng, chúng đi khắp các đường phố khóc lóc: “Hãy nhìn những hành động của các tỳ-kheo người Sākyan!” Kết quả là, các tỳ-kheo đã phải chịu đựng những lời sỉ nhục lớn trên đường phố. Trong bảy ngày Đức Phật ở lại trong Gandhakuṭi, không vào thành để khất thực, và Ānanda thậm chí còn đề nghị rằng họ nên đi đến một thành phố khác.
+
+Nhưng Đức Phật đã chỉ ra cho ngài sự vô lý của việc chạy trốn khỏi một tin đồn thất thiệt, và nói rằng trong bảy ngày nữa sự thật sẽ được biết đến. Nhà vua đã sử dụng gián điệp, những người này đã phát hiện ra những kẻ giết người đang cãi vã nhau sau khi uống rượu mạnh. Chúng bị bắt và đưa ra trước nhà vua, nơi chúng đã thú nhận tội ác của mình. Nhà vua đã cho gọi những kẻ ngoại đạo và buộc chúng phải rút lại những lời buộc tội chống lại Đức Phật và các tỳ-kheo của Ngài và thú nhận sự độc ác của chính chúng. Sau đó chúng bị trừng phạt vì tội giết người. Ud.iv.8; Ud­a.256ff.; Dhp­a.iii.474f.; Snp­a.ii.528f.; Ja.ii.415f.
+
+Có nói (Ap.i.299; Ud­a.263) rằng xưa kia Bodhisatta là một người tìm kiếm khoái lạc tên là Munāli. Một ngày nọ ngài thấy Surabhi, một Pacceka Buddha, đang đắp y bên ngoài thành. Gần đó có một người phụ nữ đang đi ngang qua, và Munāli nói đùa: “Hãy nhìn xem, vị sa-môn này không phải là người sống phạm hạnh, mà là một kẻ phóng đãng.” Chính lời nói này của Bodhisatta đã mang lại cho Đức Phật, như một quả báo, sự ô nhục liên quan đến Sundarī.
+
+Duṭṭhakasutta và Maṇisūkarajātaka (Ja 285) đã được thuyết giảng liên quan đến sự kiện này.
 
 ## Notes

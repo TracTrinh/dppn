@@ -5,7 +5,7 @@ base_headword: "Ṭhapanasutta"
 disambiguator: ""
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhapanasutta. Mười lý do để thiết lập Giới bổn (*Pātimokkha*). AN.v.70f.
 
 ## Notes

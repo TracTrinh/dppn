@@ -5,7 +5,7 @@ base_headword: "Viriyasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Viriyasutta 02. woman who, among other qualities, has energy is reborn in a happ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viriyasutta 02. Một người phụ nữ, ngoài các phẩm chất khác, nếu có tinh tấn thì được tái sinh trong điều kiện an vui. SN.iv.244.
 
 ## Notes

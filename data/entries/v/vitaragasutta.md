@@ -5,7 +5,7 @@ base_headword: "Vītarāgasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vītarāgasutta. A monk who is not free from passion, corruption and infatuation
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vītarāgasutta. Một nhà sư không thoát khỏi tham, dục và si, mà tràn đầy đạo đức giả và dối trá, không thể trở thành những gì ngài nên trở thành. AN.iii.111.
 
 ## Notes

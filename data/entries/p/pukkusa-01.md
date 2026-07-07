@@ -5,7 +5,7 @@ base_headword: "Pukkusa"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Pukkusa 01. A counsellor of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pukkusa 01. Một vị quân sư của Maddava, vua nước Benares. Để biết chi tiết, xem Dasaṇṇakajātaka (Ja 401). Pukkusa được đồng nhất với Sāriputta. Ja.iii.341.
 
 ## Notes

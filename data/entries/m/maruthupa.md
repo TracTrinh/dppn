@@ -5,7 +5,7 @@ base_headword: "Maruthūpa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maruthūpa. A village in South India mentioned in the account of the campaigns o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maruthūpa. Một ngôi làng ở Nam Ấn Độ được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxvi.129.
 
 ## Notes

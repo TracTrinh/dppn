@@ -5,7 +5,7 @@ base_headword: "Tiṇakuṭidāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tiṇakuṭidāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a servan
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇakuṭidāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một người hầu, và, sau khi được chủ cho nghỉ phép một ngày, ngài đã dựng một túp lều cỏ cho Tăng đoàn. Nhờ vậy, ngài tái sinh ở Tāvatiṁsa sau khi qua đời. Ap.i.270f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandicakka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandicakka. An Elder who came to Ceylon at the head of a chapter of monks from <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandicakka. Một Trưởng lão đã đến Ceylon ở vị trí dẫn đầu của một hội đồng tỳ-kheo từ Rakkhaṅga, theo yêu cầu của Vua Vimaladhammasūriya, để ban truyền giới *upasampadā* cho các tỳ-kheo của Ceylon. Cv. xciv.15.
 
 ## Notes

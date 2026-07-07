@@ -5,7 +5,7 @@ base_headword: "Narinda"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Narinda. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narinda. Một vị vua Nāga, người đã dâng cỏ làm chỗ ngồi cho Vessabhū Buddha. Bv­a.205.
 
 ## Notes

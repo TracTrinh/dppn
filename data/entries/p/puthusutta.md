@@ -5,7 +5,7 @@ base_headword: "Puthusutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Puthusutta. Following after the good, hearing the Dhamma, systematic attention t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puthusutta. Noi theo người thiện lành, lắng nghe Pháp (Dhamma), chú ý một cách có hệ thống vào đó, và sống theo các giới luật của nó, bốn điều này dẫn đến sự gia tăng tuệ giác. SN.v.412.
 
 ## Notes

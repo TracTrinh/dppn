@@ -5,7 +5,7 @@ base_headword: "Nīlagalla"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -27,6 +27,6 @@ Nīlagalla 02. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hoặc Nīlagiri. Một địa phương ở quận Malaya thuộc Tích Lan, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.14,16,20,83; lxxii.12.
 
 ## Notes

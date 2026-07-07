@@ -8674,3 +8674,435 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 40 | r/rupi-atta-sutta | clean | năm uẩn; ba biến thể tên sutta giữ |
 | 41 | r/rupi | clean | Rūpī; v.l. Rucī; nữ cư sĩ |
 | 42 | r/rurujataka | clean | entry dài; Jātakamālā; đầy đủ |
+
+## Batch: S_63f17dda review_queue (S: Sayampaṭibhāniya → Soṇagiri) — 119 entries
+
+- Ngày review: 2026-07-07
+- Người/model: Claude Opus 4.8 (review-dppn)
+- Phạm vi: manifest `.sandbox/review_queue/S_63f17dda-7699-4a11-8346-a9b55fca3283_result.md` (4 apply-run: 30+30+30+29). Không có file `glossary_terms_*.md` để merge.
+- Kết quả: 119/119 đạt; 37 file sửa low-risk; 0 file đặt needs_check. Chủ yếu sửa lỗi ký tự hỏng (tỳ-kheo, đọc tụng, hội chúng, bậc, tụ họp...), tên Pāli sai dấu (Parakkamabāhu, Duṭṭhagāmaṇī, Bimbisāra, Sāraṭṭhasaṅgaha, Kusinārā, Uppalavaṇṇā, Sayanadāyaka...), và vài câu dịch thoát. Citation + soft-hyphen (Dhp­a, Snp­a, Thīg­a, DN­a, AN­a, Bv­a...) giữ nguyên.
+- Ghi chú chung: bản dịch chuẩn hoá niggahīta ṁ→ṃ một cách nhất quán (vd Buddhavaṃsa, Tāvatiṃsa, Haṃsavatī, Dīpavaṃsa) so với bản gốc dùng ṁ; đây là chuẩn hoá hệ thống, danh tính tên vẫn đúng, nên giữ nguyên không sửa.
+
+| # | Entry (s/...) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/sayampatibhaniya-thera | clean |  |
+| 2 | s/sayanadayaka-thera-01 | fixed | Sayanādāyaka→Sayanadāyaka |
+| 3 | s/sayanadayaka-thera-02 | fixed | Sayanādāyaka→Sayanadāyaka |
+| 4 | s/sayanakalaha | fixed | Malikā→Mallikā |
+| 5 | s/sayanasutta | clean |  |
+| 6 | s/sayha-01 | clean |  |
+| 7 | s/sayha-02 | fixed | Sayha jātaka→Sayhajātaka |
+| 8 | s/sayha-03 | clean |  |
+| 9 | s/sayhajataka | fixed | tỳ-khèo→tỳ-kheo |
+| 10 | s/seggu | clean |  |
+| 11 | s/seggujataka | clean |  |
+| 12 | s/sehala-uparajaka | clean |  |
+| 13 | s/sejalaka | clean |  |
+| 14 | s/sekhabalavagga | clean |  |
+| 15 | s/sekhasutta-01 | clean |  |
+| 16 | s/sekhasutta-02 | fixed | tụ họp; tỳ-kheo |
+| 17 | s/sekhasutta-03 | clean |  |
+| 18 | s/sekhasutta-04 | fixed | tụ họp; tỳ-kheo |
+| 19 | s/sekhasutta-05 | clean |  |
+| 20 | s/sekhasutta-06 | clean |  |
+| 21 | s/sekhasutta-07 | fixed | bậc vô học |
+| 22 | s/sekhasutta-08 | fixed | bậc vô học; tỳ-kheo; Licchavī |
+| 23 | s/sekhiya | clean |  |
+| 24 | s/sekirapadma | clean |  |
+| 25 | s/sela-01-2 | fixed | Uppalavaṇṇā |
+| 26 | s/sela-01 | clean |  |
+| 27 | s/sela-02-2 | clean |  |
+| 28 | s/sela-02 | fixed | tự→điều này |
+| 29 | s/sela-03-2 | clean |  |
+| 30 | s/sela-03 | clean |  |
+| 31 | s/setakannika | clean |  |
+| 32 | s/setaketu-01 | clean |  |
+| 33 | s/setaketu-02 | clean |  |
+| 34 | s/setaketujataka | clean |  |
+| 35 | s/setambangana | clean |  |
+| 36 | s/setarama | clean |  |
+| 37 | s/setavya | fixed | Kusinārā |
+| 38 | s/setibhinda | clean |  |
+| 39 | s/setthinayaka | fixed | Parakkamabāhu I |
+| 40 | s/setthiputtapetavatthu | clean |  |
+| 41 | s/setuccha-thera | fixed | maṇḍalikarājā |
+| 42 | s/setudayaka-thera | clean |  |
+| 43 | s/sevitabbaasevitabbasutta | fixed | tỳ-kheo |
+| 44 | s/seyyajataka | fixed | Mahā Silavajātaka; tràn đầy đau đớn |
+| 45 | s/seyyasaka | fixed | tỳ-kheo |
+| 46 | s/seyyasutta-2 | clean |  |
+| 47 | s/seyyasutta | clean |  |
+| 48 | s/sida-01 | clean |  |
+| 49 | s/sida-02 | clean |  |
+| 50 | s/sida-03 | clean |  |
+| 51 | s/sidantarasamudda | clean |  |
+| 52 | s/sidari | clean |  |
+| 53 | s/siddhattha-01 | fixed | tỳ-kheo; sáu mươi khuỷu tay |
+| 54 | s/siddhattha-02 | clean |  |
+| 55 | s/siddhattha-03 | fixed | Duṭṭhagāmaṇī; tỳ-kheo |
+| 56 | s/siddhattha-04 | fixed | tỳ-kheo |
+| 57 | s/siddhattha-05 | fixed | tỳ-kheo |
+| 58 | s/siddhattha-06 | clean |  |
+| 59 | s/siddhattha-07 | fixed | tỳ-kheo; Sāraṭṭhasaṅgaha |
+| 60 | s/siddhatthika | clean |  |
+| 61 | s/sobhita | clean |  |
+| 62 | s/sodhana | clean |  |
+| 63 | s/sodhika | clean |  |
+| 64 | s/sogandhika | clean |  |
+| 65 | s/sokatinna | clean |  |
+| 66 | s/soma-01-2 | fixed | Bimbisāra; Vào thời; Uppaladāyikā |
+| 67 | s/soma-02-2 | fixed | câu 'nữ đệ tử thuần thành' |
+| 68 | s/soma-02 | clean |  |
+| 69 | s/soma-03-2 | clean |  |
+| 70 | s/soma-03 | clean |  |
+| 71 | s/soma-04 | clean |  |
+| 72 | s/somadatta-01 | clean |  |
+| 73 | s/somadatta-02 | fixed | em trai |
+| 74 | s/somadatta-03 | clean |  |
+| 75 | s/somadatta-04 | fixed | con voi con |
+| 76 | s/somadatta-05 | clean |  |
+| 77 | s/somadattajataka-01 | clean |  |
+| 78 | s/somadattajataka-02 | fixed | con voi con; tràn đầy đau buồn; tỳ-kheo |
+| 79 | s/somadeva-01 | clean |  |
+| 80 | s/somadeva-02 | clean |  |
+| 81 | s/somadevi | clean |  |
+| 82 | s/somamitta-thera | clean |  |
+| 83 | s/somanadeva | clean |  |
+| 84 | s/somanassa-01 | clean |  |
+| 85 | s/somanassa-02 | clean |  |
+| 86 | s/somanassa-03 | fixed | tỳ-kheo; cúi đầu; đáp lại |
+| 87 | s/somanassa | clean |  |
+| 88 | s/somanassajataka | fixed | thờ ơ; am thất |
+| 89 | s/somanassamalaka | clean |  |
+| 90 | s/somanatha | fixed | Parakkamabāhu I |
+| 91 | s/somara | clean |  |
+| 92 | s/somarama | clean |  |
+| 93 | s/somasutta | clean |  |
+| 94 | s/somavaddhana | clean |  |
+| 95 | s/somavati | clean |  |
+| 96 | s/somayaga | clean |  |
+| 97 | s/sona-01-2 | clean |  |
+| 98 | s/sona-01-3 | clean |  |
+| 99 | s/sona-01 | clean |  |
+| 100 | s/sona-02-2 | clean |  |
+| 101 | s/sona-02 | clean |  |
+| 102 | s/sona-03-2 | clean |  |
+| 103 | s/sona-03 | clean |  |
+| 104 | s/sona-04-2 | clean |  |
+| 105 | s/sona-04 | fixed | 22 sửa: hội chúng, đọc tụng, tỳ-kheo, Vinayadhara..gaṇena, nô lệ, thí chủ... |
+| 106 | s/sona-05-2 | fixed | đạt ưu việt |
+| 107 | s/sona-05 | fixed | Sukhumāla; đã lẫn lộn |
+| 108 | s/sona-06-2 | fixed | bỏ 'Therī' thêm ngoài gốc (teacher→bậc thầy) |
+| 109 | s/sona-06 | clean |  |
+| 110 | s/sona-07 | clean |  |
+| 111 | s/sona-09 | clean |  |
+| 112 | s/sona-10 | clean |  |
+| 113 | s/sona-11 | fixed | Ông lão (cà nhắc→); ăn thịt ông |
+| 114 | s/sona-12 | clean |  |
+| 115 | s/sonadanda | fixed | khấu đầu đảnh lễ; đáng tuổi cháu; Cuối bài giảng |
+| 116 | s/sonadandasutta | clean |  |
+| 117 | s/sonadinna-2 | clean |  |
+| 118 | s/sonadinna | fixed | thảo am (thảo luận→) |
+| 119 | s/sonagiri | clean |  |
+
+## Batch: m/ (Māna–Maṇipūjaka) — 120 entry
+
+- Ngày review: 2026-07-07
+- Người/model: Opus 4.8 (Claude Code review pass)
+- Phạm vi: manifest `m_5b8a3c2f-7bf9-4282-b11c-9ad3cb9eb434_result.md` (4 apply run × 30 entry). Không có file glossary proposal nào cần merge.
+- Kết quả: 120/120 đạt; 2 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (m/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | m/mana-02 | clean |  |
+| 2 | m/mana-03 | clean |  |
+| 3 | m/mana-04 | clean |  |
+| 4 | m/manabharana-01 | clean |  |
+| 5 | m/manabharana-02 | fixed | "Bát Tha thiết"→"Bình bát" (Alms bowl); ký tự Hàn "귀"→"quy phục" |
+| 6 | m/manabharana-03 | clean |  |
+| 7 | m/manabharana-04 | clean |  |
+| 8 | m/manacchidda | clean |  |
+| 9 | m/manadinna | clean |  |
+| 10 | m/manadinnasutta | clean |  |
+| 11 | m/managgabodhi | clean |  |
+| 12 | m/manakamasutta | clean |  |
+| 13 | m/manakapitthi | clean |  |
+| 14 | m/manamatta | clean |  |
+| 15 | m/manamekkundi | clean |  |
+| 16 | m/manapadayisutta | clean |  |
+| 17 | m/manapakayika | clean |  |
+| 18 | m/manapamanapa-sutta | clean |  |
+| 19 | m/manapasutta | clean | redirect |
+| 20 | m/manasakata | clean |  |
+| 21 | m/manasikarasutta | clean |  |
+| 22 | m/manasisutta | clean |  |
+| 23 | m/manatthaddha-01 | clean |  |
+| 24 | m/manatthaddha-02 | clean |  |
+| 25 | m/manatthaddhasutta | clean |  |
+| 26 | m/manava-thera | clean |  |
+| 27 | m/manavagamiya | clean |  |
+| 28 | m/manavamma-02 | clean |  |
+| 29 | m/manaviramadhura | clean |  |
+| 30 | m/mancadayaka-01 | clean |  |
+| 31 | m/mancadayaka-02 | clean |  |
+| 32 | m/mancakkundi | clean |  |
+| 33 | m/mandadipa | clean |  |
+| 34 | m/mandagalla | clean |  |
+| 35 | m/mandagama | clean |  |
+| 36 | m/mandakappa | clean |  |
+| 37 | m/mandakini | clean |  |
+| 38 | m/mandalagirivihara | clean |  |
+| 39 | m/mandalamandira | clean |  |
+| 40 | m/mandalarama | clean |  |
+| 41 | m/mandapadayika-theri | clean |  |
+| 42 | m/mandapeyyakatha | clean |  |
+| 43 | m/mandara | clean |  |
+| 44 | m/mandaravapujaka-thera | clean |  |
+| 45 | m/mandavapivihara | clean |  |
+| 46 | m/mandavataka | clean |  |
+| 47 | m/mandavya-01 | clean |  |
+| 48 | m/mandavya-02 | clean |  |
+| 49 | m/mandhata | clean |  |
+| 50 | m/mandhatujataka | fixed | "duyên khởi khác nhau…nhưng cũng"→"khác…nhưng đó cũng" |
+| 51 | m/mandi | clean |  |
+| 52 | m/mandika-2 | clean |  |
+| 53 | m/mandika | clean |  |
+| 54 | m/mandissa | clean |  |
+| 55 | m/manduka | clean |  |
+| 56 | m/mangala-01 | clean |  |
+| 57 | m/mangala-02 | clean |  |
+| 58 | m/mangala-03 | clean |  |
+| 59 | m/mangala-04 | clean |  |
+| 60 | m/mangala-05 | clean |  |
+| 61 | m/mangala-06 | clean |  |
+| 62 | m/mangala-07 | clean |  |
+| 63 | m/mangala-08 | clean |  |
+| 64 | m/mangala-09 | clean |  |
+| 65 | m/mangala-10 | clean |  |
+| 66 | m/mangala-11 | clean |  |
+| 67 | m/mangala-12 | clean |  |
+| 68 | m/mangala-13 | clean |  |
+| 69 | m/mangalabegama | clean |  |
+| 70 | m/mangalacetiya | clean |  |
+| 71 | m/mangaladipani | clean |  |
+| 72 | m/mangalaganga | clean |  |
+| 73 | m/mangalagiri | clean |  |
+| 74 | m/mangalajataka | clean |  |
+| 75 | m/mangalana | clean |  |
+| 76 | m/mangalankotta | clean |  |
+| 77 | m/mangalapasada | clean |  |
+| 78 | m/mangalapokkharani | clean |  |
+| 79 | m/mangalappadesa | clean |  |
+| 80 | m/mangalasutta | clean |  |
+| 81 | m/mangalavagga | clean |  |
+| 82 | m/mangalavitana | clean |  |
+| 83 | m/mangalavithi | clean |  |
+| 84 | m/mangana | clean |  |
+| 85 | m/mangujanapada | clean |  |
+| 86 | m/mangura | clean |  |
+| 87 | m/mani-akkhi-01 | clean | paren lệch bám sát bản gốc |
+| 88 | m/mani-upatthana | clean |  |
+| 89 | m/mani | clean |  |
+| 90 | m/maniakkhika-02 | clean |  |
+| 91 | m/manibhadda | clean |  |
+| 92 | m/manibhaddasutta | clean |  |
+| 93 | m/manibhaddavattika | clean |  |
+| 94 | m/manicara | clean |  |
+| 95 | m/manicetiya | clean |  |
+| 96 | m/manicorajataka | clean |  |
+| 97 | m/manicullaka | clean |  |
+| 98 | m/manicullasutta | clean |  |
+| 99 | m/manidipa | clean |  |
+| 100 | m/maniguha | clean |  |
+| 101 | m/manihira-01 | clean |  |
+| 102 | m/manihira-02 | clean |  |
+| 103 | m/manika | clean |  |
+| 104 | m/manikantha | clean |  |
+| 105 | m/manikanthajataka | clean |  |
+| 106 | m/manikaragama | clean |  |
+| 107 | m/manikarakulupagatissa | clean |  |
+| 108 | m/manikhanda | clean |  |
+| 109 | m/manikundalajataka | clean |  |
+| 110 | m/manikundalavagga | clean |  |
+| 111 | m/manimalaka | clean |  |
+| 112 | m/manimekhala-01 | clean |  |
+| 113 | m/manimekhala-02 | clean |  |
+| 114 | m/manimekhala-03 | clean |  |
+| 115 | m/manimekhalapasada | clean |  |
+| 116 | m/maninagapabbata | clean |  |
+| 117 | m/manipabbata | clean |  |
+| 118 | m/manipasada | clean |  |
+| 119 | m/manippabhasa | clean |  |
+| 120 | m/manipujaka-thera-01 | clean |  |
+
+## Batch: u/ (Uttarakurukā–Uyyānadvāra) — 44 entry
+
+- Ngày review: 2026-07-07
+- Người/model: Opus 4.8 (Claude Code review pass)
+- Phạm vi: manifest `u_6d9630bb-af09-4279-a9f7-90b2d31a7fff_result.md` (review_queue); 44 entry status=draft.
+- Kết quả: 44/44 đạt; 0 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Không có glossary proposal nào để merge.
+
+| # | Entry (u/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | u/uttarakuruka | clean |  |
+| 2 | u/uttarala | clean |  |
+| 3 | u/uttaralha | clean |  |
+| 4 | u/uttaramadhura-01 | clean |  |
+| 5 | u/uttaramadhura-02 | clean |  |
+| 6 | u/uttaramata-01 | clean |  |
+| 7 | u/uttaramata-02 | clean |  |
+| 8 | u/uttaramulanikaya | clean | "colophon" dịch "lời đề tựa" (sát nghĩa: bài bạt) — nitpick, không sửa |
+| 9 | u/uttarapa | clean |  |
+| 10 | u/uttarapala | clean |  |
+| 11 | u/uttarapancala | clean |  |
+| 12 | u/uttarapatha | clean |  |
+| 13 | u/uttarapathaka | clean |  |
+| 14 | u/uttararajaputta | clean |  |
+| 15 | u/uttararama-01 | clean |  |
+| 16 | u/uttararama-02 | clean |  |
+| 17 | u/uttarasena | clean |  |
+| 18 | u/uttarasutta-01 | clean |  |
+| 19 | u/uttarasutta-02 | clean | citation AN.iv.1626 giữ nguyên verbatim theo bản gốc |
+| 20 | u/uttaratissarama | clean |  |
+| 21 | u/uttaravihara | clean |  |
+| 22 | u/uttaravinicchaya | clean |  |
+| 23 | u/uttareyyadayaka-thera | clean |  |
+| 24 | u/uttari | clean |  |
+| 25 | u/uttarika | clean |  |
+| 26 | u/uttarisutta | clean |  |
+| 27 | u/uttaroliya | clean |  |
+| 28 | u/uttaroliyavagga | clean |  |
+| 29 | u/utthanasutta | clean |  |
+| 30 | u/uttinna-thera | clean |  |
+| 31 | u/uttiya-01 | clean |  |
+| 32 | u/uttiya-02 | clean |  |
+| 33 | u/uttiya-03 | clean |  |
+| 34 | u/uttiya-04 | clean |  |
+| 35 | u/uttiya-05 | clean |  |
+| 36 | u/uttiya-06 | clean |  |
+| 37 | u/uttiya-07 | clean |  |
+| 38 | u/uttiyasutta | clean |  |
+| 39 | u/uttiyasutta-2 | clean |  |
+| 40 | u/uttiyasutta-3 | clean |  |
+| 41 | u/utturakuru-02 | clean |  |
+| 42 | u/utulhipupphiya-thera | clean |  |
+| 43 | u/uvala-thera | clean |  |
+| 44 | u/uyyanadvara | clean |  |
+
+## Batch: l/ (Lābhagarahajātaka–Lokasutta 07) — 107 entry
+
+- Ngày review: 2026-07-07
+- Người/model: Opus 4.8 (Claude Code review pass)
+- Phạm vi: manifest `L_999768ff-d534-4bcc-b632-e9beeb7f5487_result.md` (review_queue; 4 apply run: 30+29+18+30 = 107 entry status=draft).
+- Kết quả: 107/107 đạt; 1 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft. Không có glossary proposal nào để merge.
+
+| # | Entry (l/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | l/labhagarahajataka | clean |  |
+| 2 | l/labhasakkarasamyutta | clean |  |
+| 3 | l/labhavasi | clean |  |
+| 4 | l/labugamaka | clean |  |
+| 5 | l/labujadayaka-thera | clean |  |
+| 6 | l/labujagama | clean |  |
+| 7 | l/labujamandaka | clean |  |
+| 8 | l/labujaphaladayaka-thera | clean |  |
+| 9 | l/ladagama | clean |  |
+| 10 | l/lahulla | clean |  |
+| 11 | l/lahusutta-01 | clean |  |
+| 12 | l/lahusutta-02 | clean | lỗi chính tả "here is" trong English source (giữ nguyên, không sửa nguồn) |
+| 13 | l/laja | clean |  |
+| 14 | l/lajjika | clean |  |
+| 15 | l/lakhuma | clean |  |
+| 16 | l/lakkhadhamma | clean |  |
+| 17 | l/lakkhakhanda | clean |  |
+| 18 | l/lakkhana-01 | clean |  |
+| 19 | l/lakkhana-02 | clean |  |
+| 20 | l/lakkhana-03 | clean |  |
+| 21 | l/lakkhana-04 | clean |  |
+| 22 | l/lakkhanajataka | clean |  |
+| 23 | l/lakkhanasamyutta | clean |  |
+| 24 | l/lakkhanasutta | clean |  |
+| 25 | l/lakkhi-01 | clean |  |
+| 26 | l/lakkhi-02 | clean |  |
+| 27 | l/lakkhuyyana | clean |  |
+| 28 | l/lakuntaka-atimbara | clean |  |
+| 29 | l/lakuntaka-bhaddiya-thera | clean |  |
+| 30 | l/lala | clean |  |
+| 31 | l/lalatadhatuvamsa | clean |  |
+| 32 | l/laludayi-thera | clean | entry dài; citation + tên Pāli chính xác |
+| 33 | l/laludayitheravatthu-01 | clean |  |
+| 34 | l/laludayitheravatthu-02 | clean |  |
+| 35 | l/lamasettha | clean |  |
+| 36 | l/lambaculaka | clean |  |
+| 37 | l/lambaka | clean |  |
+| 38 | l/lambakanna | clean |  |
+| 39 | l/lambitaka | clean |  |
+| 40 | l/lanjakasanasala | clean |  |
+| 41 | l/lanjatissa | clean |  |
+| 42 | l/lanka | clean |  |
+| 43 | l/lankadhikari | clean |  |
+| 44 | l/lankadhinayaka | clean |  |
+| 45 | l/lankagiri | clean |  |
+| 46 | l/lankagiripabbata | clean |  |
+| 47 | l/lankajayamahalekhaka | clean |  |
+| 48 | l/lankanagara | clean |  |
+| 49 | l/lankapura-02 | clean |  |
+| 50 | l/lankapura-03 | clean |  |
+| 51 | l/lankarama | clean |  |
+| 52 | l/lankatilaka-01 | clean |  |
+| 53 | l/lankatilaka-02 | clean |  |
+| 54 | l/lankatilaka-03 | clean |  |
+| 55 | l/lankavihara | clean |  |
+| 56 | l/lasunadayaka-thera | clean |  |
+| 57 | l/lata | clean |  |
+| 58 | l/latthivana | clean |  |
+| 59 | l/latukikajataka | clean |  |
+| 60 | l/latukikopamasutta | clean |  |
+| 61 | l/lavaravapabbata | clean |  |
+| 62 | l/licchavi | clean | entry rất dài; đối chiếu đầy đủ, citation + Pāli chính xác |
+| 63 | l/licchavibhanavara | clean |  |
+| 64 | l/lilavati-01 | clean |  |
+| 65 | l/lilavati-02 | clean |  |
+| 66 | l/lilavati-03 | clean |  |
+| 67 | l/linatthadipani | clean |  |
+| 68 | l/linatthappakasini-2 | clean |  |
+| 69 | l/linatthappakasini | clean |  |
+| 70 | l/linatthavisodhani | clean |  |
+| 71 | l/lingatthavivarana | clean |  |
+| 72 | l/littajataka | clean |  |
+| 73 | l/littavagga | clean |  |
+| 74 | l/lohadvara | clean |  |
+| 75 | l/lohakumbha | clean |  |
+| 76 | l/lohakumbhijataka | clean |  |
+| 77 | l/lohakutapabbatavihara | clean |  |
+| 78 | l/lohapasada | fixed | "hood" (mang cổ Nāga) bị dịch nhầm "Lưỡng đầu" → sửa thành "Mang cổ" |
+| 79 | l/loharupa | clean |  |
+| 80 | l/lohicca-01 | clean |  |
+| 81 | l/lohicca-02 | clean |  |
+| 82 | l/lohiccasutta-01 | clean |  |
+| 83 | l/lohiccasutta-02 | clean |  |
+| 84 | l/lohitavahakhanda | clean |  |
+| 85 | l/lohitavasi | clean |  |
+| 86 | l/loka-01 | clean |  |
+| 87 | l/loka-02 | clean |  |
+| 88 | l/loka-03 | clean |  |
+| 89 | l/lokabyuha | clean |  |
+| 90 | l/lokadipasara | clean |  |
+| 91 | l/lokagalla | clean |  |
+| 92 | l/lokajitvana | clean |  |
+| 93 | l/lokakamagunavagga | clean |  |
+| 94 | l/lokanatha | clean |  |
+| 95 | l/lokandara | clean |  |
+| 96 | l/lokantaraniraya | clean |  |
+| 97 | l/lokanuvicaranasutta | clean |  |
+| 98 | l/lokapala | clean |  |
+| 99 | l/lokapannatti | clean |  |
+| 100 | l/lokappadipakasara | clean |  |
+| 101 | l/lokasutta-01 | clean |  |
+| 102 | l/lokasutta-02 | clean |  |
+| 103 | l/lokasutta-03 | clean |  |
+| 104 | l/lokasutta-04 | clean |  |
+| 105 | l/lokasutta-05 | clean |  |
+| 106 | l/lokasutta-06 | clean |  |
+| 107 | l/lokasutta-07 | clean |  |
+

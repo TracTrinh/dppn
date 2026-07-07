@@ -5,7 +5,7 @@ base_headword: "Sumanagalla"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanagalla. A district in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu vực ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.123.
 
 ## Notes

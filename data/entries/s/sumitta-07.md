@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sumitta 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 07. Sumitta Thera. Ông là con trai thứ của Kuntikinnarī. Ông đã được xuất gia, cùng với anh trai mình là Tissa, bởi Mahā Varuṇa và đã đạt được quả vị *Arahant*. Tissa đã qua đời do vết cắn của một loài côn trùng độc bởi vì không thể kiếm được một chút bơ lỏng nào, mặc dù Sumitta đã đi khắp nơi để tìm kiếm. Sumitta viên tịch, khi đang đi kinh hành thiền định trong phòng *Caṅkama* (nhà kinh hành), vào năm thứ tám triều đại Asoka. Mhv.v.213-27.
 
 ## Notes

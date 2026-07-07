@@ -5,7 +5,7 @@ base_headword: "Vilokana"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vilokana. A king of eighty-one *kappas* ago, a former birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vilokana. Một vị vua cách đây tám mươi mốt *kappa*, một tiền kiếp của Trưởng lão Māṇava (Sammukhāthavika). Ap.i.159; Thag­a.i.164.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇamukha"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇamukha 02. A royal cuckoo (*phussakokila*). For his story see the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇamukha 02. Một con chim cu hoàng gia (*phussakokila*). Về câu chuyện của con chim này, xem Kuṇālajātaka (Ja 536). Nó được đồng nhất với Udāyī Thera. Ja.v.456.
 
 ## Notes

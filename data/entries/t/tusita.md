@@ -5,7 +5,7 @@ base_headword: "Tusitā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tusitā. The inhabitants of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tusitā. Những cư dân của cõi Tusita. Xem Tusita (2).
 
 ## Notes

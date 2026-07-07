@@ -5,7 +5,7 @@ base_headword: "Nīla"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nīla 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Nīla (Nīla Thera). Ngài thuộc một gia đình làm nghề quét hoa. Ngài đã gia nhập Tăng đoàn (Saṅgha) và trở thành một *Arahant* ngay trong đại sảnh cạo tóc. Khi ngài đến Sāvatthī để tìm kiếm một bộ y phấn tảo, một vị Đại Phạm Thiên (*Mahā Brahmā*) đã nhìn thấy ngài và đứng đảnh lễ ngài. Những vị *Brahmā* khác nghe được điều này, và tất cả đều đến đảnh lễ ngài. SN­a.ii.217.
 
 ## Notes

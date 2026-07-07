@@ -5,7 +5,7 @@ base_headword: "Punabbasukuṭumbikaputtatissa Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Punabbasukuṭumbikaputtatissa Thera. He was of Ceylon, and crossed over to Indi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasukuṭumbikaputtatissa Thera. Ông là người Tích Lan, và đã vượt biển sang Ấn Độ, nơi ông học tập dưới sự chỉ dẫn của Yonaka Dhammarakkhita. Trên đường về nhà bằng đường biển, ông cảm thấy nghi ngờ về một từ, và đã quay trở lại suốt một quãng đường, một trăm do-tuần, để hỏi ý kiến thầy của mình. Trên đường từ bến cảng, ông đã đề cập đến từ đó với một người gia chủ, người này hài lòng với ông đến mức đã tặng ông một tấm chăn và một trăm ngàn. Tissa đã tặng tấm chăn này cho thầy của mình, nhưng vị thầy đã cắt nó ra và sử dụng làm đồ trải, như một ví dụ cho những người khác (không được ham muốn những thứ xa xỉ). Tissa đã được giải tỏa những nghi ngờ của mình và trở về Jambukola. Tại đó, ở Vālikārāma, khi ông đang quét dọn khoảng sân của *cetiya*, các vị tỳ-kheo khác đã hỏi ông các câu hỏi nhằm mục đích làm phiền ông. Nhưng ông đã có thể trả lời tất cả những câu hỏi này, do đã đắc được *paṭisambhidā*. Vibh­a. 389.
 
 ## Notes

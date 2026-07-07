@@ -5,7 +5,7 @@ base_headword: "Pubbaṅgamasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pubbaṅgamasutta. Just as the dawn precedes sunrise, so do right views (*sammā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbaṅgamasutta. Cũng như bình minh xuất hiện trước lúc mặt trời mọc, chánh kiến (*sammādiṭṭhi*) cũng xuất hiện trước các hành động tốt lành. AN.v.236f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nārī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nārī. One of the palaces occupied by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārī. Một trong những cung điện mà Tissa Buddha ngự trị trong đời sống cư sĩ cuối cùng của ngài. Bv.xviii.17; Bv­a (188) gọi nó là Nārisa.
 
 ## Notes

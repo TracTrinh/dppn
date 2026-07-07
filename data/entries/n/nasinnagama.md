@@ -5,7 +5,7 @@ base_headword: "Nāsinnagāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāsinnagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāsinnagāma. Một ngôi làng ở quận Āḷisāra của Ceylon. Cv.lxx.172.
 
 ## Notes

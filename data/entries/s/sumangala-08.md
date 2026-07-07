@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumaṅgala 08.<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 08. Sumaṅgala Thera. Một vị *Arahant*. Một trăm mười tám *kappa* trước, ông là một Bà-la-môn. Một ngày nọ, sau khi chuẩn bị cho một buổi hiến tế lớn, ông nhìn thấy Piyadassī Buddha đến trước cửa nhà mình cùng với một ngàn vị *Arahant*, và đã đặt tất cả thức ăn trong nhà mình dưới sự tùy nghi sử dụng của Đức Phật và các vị tăng của ngài. Ap.i.65f.
 
 ## Notes

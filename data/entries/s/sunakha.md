@@ -5,7 +5,7 @@ base_headword: "Sunakha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunakha. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunakha. Một trong những Mahā Niraya (Đại Địa ngục). Nāḷikīra đã tái sinh ở đó. Ja.v.145.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Thullatissā"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -28,6 +28,6 @@ Thullatissā. A nun. She was present when <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thullatissā. Một tỳ-kheo ni. Bà đã có mặt khi Mahā Kassapa, cùng với Ānanda, đến thăm các tỳ-kheo ni và thuyết pháp cho họ. Bà bày tỏ sự phẫn nộ rằng Kassapa lại dám thuyết pháp trước sự hiện diện của Ānanda. Điều đó, bà nói, “giống như kẻ bán kim rong lại cố bán một cây kim cho người làm kim.” Ānanda sau đó đã yêu cầu Kassapa phớt lờ sự bùng nổ của Tissā, nhưng sau này bà đã rời khỏi Tăng đoàn. SN.ii.215ff.
 
 ## Notes

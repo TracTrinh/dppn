@@ -5,7 +5,7 @@ base_headword: "Pubbārāmasutta"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pubbārāmasutta 04. The same as 4 with *saddhā* added to the *indriyas*. SN.v.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāmasutta 04. Tương tự như 4 với *saddhā* được thêm vào các *indriya*. SN.v.224.
 
 ## Notes

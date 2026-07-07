@@ -5,7 +5,7 @@ base_headword: "Nandiyamigajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -32,6 +32,10 @@ The king of the story was <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiyamigajātaka (Ja 385). Vị Bodhisatta từng có một lần sinh ra làm một con nai tên là Nandiya và chăm sóc cha mẹ của nó. Vua của xứ Kosala rất thích săn bắn, và thần dân của ông, để có thể được yên ổn, đã lên kế hoạch lùa bầy nai từ trong rừng vào một công viên khép kín, nơi nhà vua có thể săn bắn. Nandiya, khi thấy những người này đến, đã để cha mẹ ở lại trong bụi rậm và gia nhập bầy nai đang bị lùa vào công viên để cha mẹ nó có thể không bị nhìn thấy. Đàn nai đồng ý từng con thay phiên nhau bị vua giết. Vị Bodhisatta vẫn ở lại mặc cho lời nhắn nhủ được mang đến từ cha mẹ nó qua một người Bà-la-môn mặc dù nó có thể trốn thoát. Nhưng nó muốn bày tỏ lòng biết ơn đối với nhà vua, người đã cung cấp thức ăn và nước uống cho bầy nai. Khi đến lượt mình bị giết, nó dũng cảm xuất hiện trước mặt nhà vua, và nhờ năng lực đạo đức của nó, cây cung của nhà vua không thể bắn được. Nhà vua ngay lúc đó nhận ra lòng tốt của Nandiya và ban cho nó một ân huệ. Nandiya đã xin sự an toàn cho tất cả chúng sinh, và thiết lập nhà vua vào con đường đạo đức.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo bị quở trách vì chăm sóc cha mẹ mình. Nhưng Đức Phật đã khen ngợi ông.
+
+Vua trong câu chuyện là Ānanda, và Bà-la-môn mang theo lời nhắn là Sāriputta. Ja.iii.270ff.
 
 ## Notes

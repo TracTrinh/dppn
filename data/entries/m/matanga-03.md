@@ -5,7 +5,7 @@ base_headword: "Mātaṅga"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -32,6 +32,8 @@ The rest of the story is as in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅga 03. Một vị ẩn sĩ. Một ngày nọ, ông đến Benares và vào một xưởng gốm để qua đêm. Ông thấy nơi đó đã có một vị ẩn sĩ khác tên là Jātimā đang ở, và người thợ gốm nói với ông rằng ông chỉ có thể ở lại đó nếu được sự cho phép của Jātimā. Jātimā đồng ý cho ông ở lại, nhưng khi biết rằng Mātaṅga là một người Caṇḍāla, ông yêu cầu Mātaṅga nằm ở một chỗ tách biệt. Trong đêm, Mātaṅga muốn ra ngoài, và vì không biết Jātimā đang nằm ở đâu nên ông đã dẫm lên ngực của Jātimā. Khi Mātaṅga quay lại, ông đi lối khác với ý định đi qua gần chân của Jātimā, nhưng trong lúc đó Jātimā đã đổi tư thế, và Mātaṅga lại dẫm lên ngực ông lần nữa. Jātimā liền nguyền rủa ông, nói rằng đầu ông sẽ vỡ thành bảy mảnh vào lúc mặt trời mọc. Mātaṅga sau đó đã dùng thần thông chặn không cho mặt trời mọc (SN­a.ii.176f).
+
+Phần còn lại của câu chuyện giống như trong Mātaṅgajātaka. Có thể đây là một dị bản của cùng một truyền thuyết. Xem thêm Nārada và Devala.
 
 ## Notes

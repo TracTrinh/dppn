@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārada 02. The personal attendant of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 02. Vị thị giả cá nhân của Sujāta Buddha. Bv.xiii.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Thūpaviṭṭhivihāra"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Thūpaviṭṭhivihāra. A monastery in Ceylon built by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpaviṭṭhivihāra. Một tu viện ở Ceylon được xây dựng bởi Dhātusena. Cv.xxxviii.48.
 
 ## Notes

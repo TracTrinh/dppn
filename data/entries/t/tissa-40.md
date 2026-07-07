@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "40"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 40. A minister. The scholiast to the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 40. Một vị quan. Chú giải cho Kaṇhajātaka (Ja 29) đề cập đến một câu chuyện về một vị quan (*amacca*) tên là Tissa, người trong cơn thịnh nộ, đã giết vợ và toàn bộ đoàn tùy tùng của mình, và cuối cùng, tự sát. Ja.iv.11.
 
 ## Notes

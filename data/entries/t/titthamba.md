@@ -5,7 +5,7 @@ base_headword: "Titthamba"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Titthamba. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthamba. Một vị tướng quân Damiḷa của Ambatitthaka, người bị Duṭṭhagāmaṇī đánh bại sau bốn tháng bị bao vây (Mhv.xxv.8; Mhv­ṭ.473). Duṭṭhagāmaṇī đã lừa Titthamba bằng cách hứa gả mẹ của ông cho hắn.
 
 ## Notes

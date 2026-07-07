@@ -5,7 +5,7 @@ base_headword: "Purāṇa"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -35,6 +35,8 @@ A conversation he had with the Buddha, in the company of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purāṇa 02. Một quan thị vệ (*thapati* ? người trông coi ngựa) của Pasenadi. Ông là anh em trai của Isidatta và là cha của Migasālā. Trong những năm tháng cuối đời, ông sống đời sống độc thân và được tái sinh vào cõi Tusita với tư cách là một *Sakadāgāmī*. AN.iii.348 ff.;v.138 ff. Tuy nhiên, SN­a nói rằng Purāṇa là một *Sotāpanna* (iii.215).
+
+Một cuộc trò chuyện mà ông có với Đức Phật, cùng với Isidatta, tại Sādhuka (*q.v.*), được ghi lại trong Saṁyuttanikāya (SN.v.349 ff). Trong Dhammacetiyasutta (MN.ii.123), Pasenadi nói về lòng trung thành to lớn của hai người đàn ông này đối với Đức Phật. Sau khi thảo luận Pháp cho đến tận đêm khuya, họ sẽ nằm ngủ với đầu hướng về phía nơi Đức Phật đang trú ngụ và hướng chân về phía nhà vua. Purāṇa được nhắc đến như một nam cư sĩ lý tưởng (ví dụ: AN.iii.451).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandivisālasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandivisālasutta. Records the visit of the *Deva* <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivisālasutta. Ghi lại chuyến viếng thăm của thiên nhân Nandivisāla (2) đến Đức Phật. SN.i.63.
 
 ## Notes

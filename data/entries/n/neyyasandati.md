@@ -5,7 +5,7 @@ base_headword: "Ñeyyasandati"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tác phẩm Pāli, có lẽ do một tác giả người Miến Điện soạn. Cũng có một *ṭīkā* về tác phẩm này. Gv.72.
 
 ## Notes

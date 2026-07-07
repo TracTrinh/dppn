@@ -5,7 +5,7 @@ base_headword: "Vikkantacāmunakka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vikkantacāmunakka. General of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkantacāmunakka. Vị tướng của Anīkaṅga, người mà ông đã sát hại. Ông làm nhiếp chính trong một năm (1209 CE.) cho Nữ hoàng Līlāvatī. Cv.lxxx.45.
 
 ## Notes

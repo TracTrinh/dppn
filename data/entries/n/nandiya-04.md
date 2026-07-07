@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiya 04. A *Paribbājaka* who visits the Buddha at <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 04. Một du sĩ ngoại đạo (*Paribbājaka*) viếng thăm Đức Phật ở Jetavana và hỏi ngài về các điều kiện để đạt được *Nibbāna*. Đức Phật đã dạy cho ông Bát Thánh đạo. SN.v.11.
 
 ## Notes

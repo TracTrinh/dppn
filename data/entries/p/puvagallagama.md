@@ -5,7 +5,7 @@ base_headword: "Pūvagallagāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pūvagallagāma. A village on the banks of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūvagallagāma. Một ngôi làng nằm trên bờ sông Mahā Vālukanadī. Trong ngôi làng này có Pūvagalla *vihāra*. Ras.ii.27; *v.l.* Pūvapabbata.
 
 ## Notes

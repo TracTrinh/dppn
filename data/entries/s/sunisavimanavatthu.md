@@ -5,7 +5,7 @@ base_headword: "Sunisāvimānavatthu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sunisāvimānavatthu. The story of a woman of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunisāvimānavatthu. Câu chuyện về một người phụ nữ ở Sāvatthī. Bà không có gia đình, và một ngày nọ, khi thấy một vị *Arahant* ở đó đang khất thực, bà đã cúng dường cho ngài một mẩu bánh (*pūvabhāgaṁ*). Sau khi chết bà được sinh vào cõi Tāvatiṁsa, nơi Moggallāna đã được nghe câu chuyện của bà. Vv.i.13; Vv-a.61.
 
 ## Notes

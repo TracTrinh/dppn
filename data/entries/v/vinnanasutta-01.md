@@ -5,7 +5,7 @@ base_headword: "Viññāṇasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viññāṇasutta 01. In him who contemplates the enjoyment of all that makes fo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇasutta 01. Ở người nào quán tưởng đến sự thụ hưởng đối với tất cả những gì tạo ra sự trói buộc, ở người đó có sự giáng hạ của thức. Danh sắc do thức làm duyên, lục nhập do danh sắc làm duyên, xúc do lục nhập làm duyên, v.v. SN.ii.91.
 
 ## Notes

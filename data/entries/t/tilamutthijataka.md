@@ -5,7 +5,7 @@ base_headword: "Tilamuṭṭhijātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ The story was told in reference to a monk who showed resentment when advised. Ja
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilamuṭṭhijātaka (Ja 252). Brahmadatta, con trai của vua xứ Benares, được gửi đến Takkasilā để học tập. Một ngày nọ, khi đi tắm cùng đạo sư của mình, cậu đã ăn vài hạt trắng mà một bà lão đang phơi dưới nắng cho khô. Cậu đã làm điều này vào ba ngày khác nhau; vào ngày thứ ba, bà lão đã báo cáo cậu với vị đạo sư và cậu đã bị đánh đòn. Khi Brahmadatta lên ngôi, ông đã cho gọi vị đạo sư đến, với mong muốn trả thù sự sỉ nhục này bằng cách giết chết ông ta. Vị đạo sư đã không đến cho đến khi nhà vua lớn tuổi hơn, nhưng khi ông đến, cảnh tượng nhìn thấy ông đã khơi lại lòng căm thù của nhà vua đến mức ông ra lệnh xử tử đạo sư. Nhưng vị đạo sư đã nói chuyện với ông, nói với ông rằng nếu ông không được uốn nắn khi còn trẻ, ngày nay ông đã trở thành một tên cướp đường. Bị thuyết phục rằng hành động của vị đạo sư xuất phát từ mong muốn tốt cho sự an lạc của mình, Brahmadatta đã xin sự tha thứ của ông và dành cho ông mọi sự tôn kính.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo đã tỏ ra phẫn nộ khi được khuyên bảo. Ja.ii.277-82.
 
 ## Notes

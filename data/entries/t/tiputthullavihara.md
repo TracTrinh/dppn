@@ -5,7 +5,7 @@ base_headword: "Tiputthullavihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tiputthullavihāra. A monastery built by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiputthullavihāra. Một tu viện do Dāṭhopatissa II xây dựng như một phần mở rộng cho Abhayagirivihāra. Các vị Theravādin đã phản đối điều đó, vì khu đất nằm trong ranh giới của họ. Nhà vua từ chối công nhận sự phản đối của họ và các vị tỳ-kheo đã thông qua hình phạt *pattanikkujjanakamma* (úp bát) đối với ông. Cv.xiv.29ff.
 
 ## Notes

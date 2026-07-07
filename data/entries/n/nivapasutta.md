@@ -5,7 +5,7 @@ base_headword: "Nivāpasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nivāpasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nivāpasutta. Được thuyết giảng tại Jetavana; một dụ ngôn về Māra như một người đặt bẫy. Y thiết lập nhiều loại bẫy và lưới khác nhau để bẫy những kẻ thiếu cảnh giác, và nhiều người đã bị mắc vào đó. Tuy nhiên, vẫn có thể tìm thấy một nơi trú ẩn, nơi mà Māra và đoàn tùy tùng của y không thể thâm nhập; và Đức Phật tiếp tục giải thích làm thế nào để tìm được nơi này. MN.i.150ff.
 
 ## Notes

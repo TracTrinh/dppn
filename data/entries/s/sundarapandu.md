@@ -5,7 +5,7 @@ base_headword: "Sundarapaṇḍu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sundarapaṇḍu. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarapaṇḍu. Một thủ lĩnh Damiḷa của Nam Ấn. Một đồng minh của Kulasekhara. Cv.lxxvi.126,174.
 
 ## Notes

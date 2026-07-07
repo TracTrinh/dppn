@@ -5,7 +5,7 @@ base_headword: "Villavarāyara"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Villavarāyara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Villavarāyara. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Ông bị lính của Laṅkāpura sát hại. Cv.lxxvi.94, 163; nhưng xem 173 và 185.
 
 ## Notes

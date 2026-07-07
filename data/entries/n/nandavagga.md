@@ -5,7 +5,7 @@ base_headword: "Nandavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandavagga. The third chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandavagga. Chương thứ ba của Udāna. Ud.21-33.
 
 ## Notes

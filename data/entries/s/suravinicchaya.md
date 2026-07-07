@@ -5,7 +5,7 @@ base_headword: "Surāvinicchaya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Surāvinicchaya. A work by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surāvinicchaya. Một tác phẩm của Mahā Parakkama Thera ở Taungu (Ketumatī) về những tác hại của các chất gây say. Sās., p.81; Bode, 46.
 
 ## Notes

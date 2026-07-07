@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -30,6 +30,6 @@ Nārada 06. A sage, younger brother of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 06. Một đạo sĩ, em trai của Kāḷadevala và là học trò của Jotipāla (Sarabhaṅga). Ông sống ở Majjhimapadesa tại Arañjaragiri. Ông đâm ra si mê một kỹ nữ, và chỉ được cứu thoát nhờ sự can thiệp của Sarabhaṅga. Để biết chi tiết xem Indriyajātaka. Ja.iii.463ff.; v.133f.
 
 ## Notes

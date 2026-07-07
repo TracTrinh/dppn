@@ -5,7 +5,7 @@ base_headword: "Puṇḍarīka"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇḍarīka 02. A *Niraya*; it is a period of suffering in <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇḍarīka 02. Một Địa ngục (*Niraya*); đó là một khoảng thời gian chịu đau khổ trong Avīci, tương đương với hai mươi Uppalakā. SN.i.152; Snp., p.126; Snp­a.ii.476.
 
 ## Notes

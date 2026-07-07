@@ -5,7 +5,7 @@ base_headword: "Tissārāma"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,8 @@ The nuns of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissārāma 02. Một ni viện ở Anurādhapura, được xây dựng bởi Kassapa IV.
+
+Các ni sư của Tissārāma được giao trọng trách chăm sóc cây Bodhi và Maricavaṭṭivihāra. Cv.lii.24.
 
 ## Notes

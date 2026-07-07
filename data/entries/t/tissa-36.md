@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "36"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ At the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 36. Một vị tỳ-kheo thường trú ở Loṇagiri (Lenagiri). Ngài từng nhìn thấy năm mươi tỳ-kheo, đang trên đường đến Nāgadipa trong một chuyến hành hương, trở về từ những vòng khất thực của họ ở Mahā Khīragāma, với những chiếc bát trống không. Yêu cầu họ chờ đợi, một lát sau ngài quay lại với bát cơm sữa của mình, thứ tỏ ra nhiều hơn mức cần thiết cho cả nhóm. Thấy sự kinh ngạc của họ, ngài giải thích rằng kể từ khi ngài bắt đầu thực hành các pháp cần phải ghi nhớ (*sārāṇīyadhammā*), bát của ngài chưa bao giờ thiếu thức ăn.
+
+Tại lễ hội Giribhaṇḍamahāpūjā ở Cetiyapabbata, Tissa muốn có cho riêng mình hai chiếc khăn choàng, những thứ quý giá nhất ở đó. Ngài đã tuyên bố mong muốn của mình trước sự hiện diện của những người khác và nhà vua, khi được thông báo, đã quyết định rằng Tissa sẽ không có được chúng, nhưng mỗi khi nhà vua đưa tay ra để lấy những chiếc y, chúng lại trượt đi, và những thứ khác đã thế chỗ của chúng. Cuối cùng những chiếc y đã được trao cho Tissa (DN­a.ii.534f; MN­a.i.545).
 
 ## Notes

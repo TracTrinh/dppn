@@ -5,7 +5,7 @@ base_headword: "Tiraṁsiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tiraṁsiya Thera. An *Arahant*. In a previous birth he was a hermit. He saw <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiraṁsiya Thera. Một vị *Arahant*. Trong một kiếp trước ngài là một ẩn sĩ. Ngài đã nhìn thấy Siddhattha Buddha và ngâm những vần kệ ca ngợi Đức Phật, tán thán ánh hào quang của Ngài vượt trội hơn cả ánh sáng mặt trời và mặt trăng. Sáu mươi mốt *kappa* trước ngài là một vị vua tên là Ñāṇadhara. Ap.i.256f.
 
 ## Notes

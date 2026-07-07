@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "35"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,6 @@ Tissa 35. An artisan (*kammāraputta*), a previous incarnation of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 35. Một nghệ nhân (*kammāraputta*), một hóa thân trước đây của Sāliya. Ông sống ở Muṇḍagaṅgā và một ngày nọ nhận được phần tiền công là thịt của một con lợn rừng, ông đã nhờ vợ nấu nó. Khi bữa ăn đã sẵn sàng, ông tuyên bố cúng dường; các vị Trưởng lão Dhammadinna, *Godhiya* Mahā Tissa, Mahā Nāga của Samuddavihāra, Mahā Nāga của Kāḷavallimaṇḍapa, Mahā Saṅgharakkhita, Dhammagutta, Mahā Nāga của Bhātiyavaṅka và Malaya Mahā Deva đã xuất hiện để nhận phần cúng dường. Mhv­ṭ.605f.
 
 ## Notes

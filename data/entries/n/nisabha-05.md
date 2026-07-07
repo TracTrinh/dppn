@@ -5,7 +5,7 @@ base_headword: "Nisabha"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nisabha 05. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisabha 05. Một ngọn núi ở Himavā. Ja.vi.204, 212; Ap.i.67.
 
 ## Notes

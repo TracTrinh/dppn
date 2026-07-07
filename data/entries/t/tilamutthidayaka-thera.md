@@ -5,7 +5,7 @@ base_headword: "Tilamuṭṭhidāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tilamuṭṭhidāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he gave a han
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilamuṭṭhidāyaka Thera. Một bậc *Arahant*. Chín mươi mốt *kappas* trước, ông đã cúng dường một nắm hạt vừng (*tila*) cho Đức Phật, người sau khi đọc được suy nghĩ của ông, đã xuất hiện trước mặt ông trong một thân hình do tâm tạo. Mười sáu *kappas* trước, ông là một vị vua tên là Nandiya. Ap.i.235.
 
 ## Notes

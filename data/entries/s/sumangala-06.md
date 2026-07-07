@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumaṅgala 06. Nineteen *kappas* ago there were several kings of this name, pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 06. Mười chín *kappa* trước có một vài vị vua mang tên này, là những tiền kiếp của Khitaka Thera. Thag­a.i.209.
 
 ## Notes

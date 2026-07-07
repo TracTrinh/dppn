@@ -5,7 +5,7 @@ base_headword: "Nemi"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nemi 02. A servitor of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người phục vụ của Kuvera. DN.iii.201.
 
 ## Notes

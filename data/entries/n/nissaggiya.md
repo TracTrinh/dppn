@@ -5,7 +5,7 @@ base_headword: "Nissaggiya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nissaggiya. The fourth division of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissaggiya. Phần thứ tư thuộc Pārājikā của Suttavibhaṅga.
 
 ## Notes

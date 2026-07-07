@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sumaṅgala 02. One of the chief lay patrons of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 02. Một trong những nam cư sĩ hộ độ chính của Kassapa Buddha (Bv.xxv.41; Ja.i.92). Ông đã rải vàng thỏi xuống mặt đất trên một khoảng không gian rộng hai mươi *usabha* và dành một số tiền tương đương để xây một tu viện cho Đức Phật. Ông nhìn thấy một người đàn ông đang ngủ, và thầm nghĩ rằng người đó hẳn là một tên trộm. Người đàn ông nảy sinh lòng hận thù đối với Sumaṅgala, và đã đốt cháy ruộng của ông bảy lần, chặt chân đàn gia súc trong chuồng của ông bảy lần, và đốt cháy nhà ông bảy lần. Sau đó, biết rằng Sumaṅgala yêu quý Gandhakuṭi của Đức Phật, hắn cũng châm lửa đốt nó. Nó đã bị thiêu rụi khi Sumaṅgala có thể đến đó; nhìn thấy nó, ông chắp tay lại, nói rằng bây giờ ông có thể xây dựng một cái khác vào chỗ đó. Sau đó, tên trộm đi loanh quanh với một con dao giấu trong người, chờ đợi để giết Sumaṅgala. Một ngày nọ, Sumaṅgala tổ chức một buổi đại thí, khi kết thúc, ông nói: "Thưa ngài, rõ ràng là có một kẻ thù của con đang cố hãm hại con. Con không hề tức giận hắn ta, và sẽ hồi hướng cho hắn ta phước báu của sự cúng dường này." Tên trộm nghe thấy và vô cùng hối hận, và xin ông tha thứ. Tên trộm sau này tái sinh làm một *Peta* (ngạ quỷ) trên Gijjhakūṭa. Dhp­a.iii.61f.
 
 ## Notes

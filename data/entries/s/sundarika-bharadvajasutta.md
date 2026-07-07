@@ -5,7 +5,7 @@ base_headword: "Sundarika Bhāradvājasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sundarika Bhāradvājasutta. Describes the meeting between the Buddha and <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarika Bhāradvājasutta. Mô tả cuộc gặp gỡ giữa Đức Phật và Sundarika Bhāradvāja. Chú giải gọi nó là Pūraḷāsasutta. Snp. p.79f; Snp­a.ii.400.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naradeva"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naradeva 02. A man eating <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naradeva 02. Một Yakkha ăn thịt người sống ở một hồ nước gần Khemavatī. Đức Phật Kakusandha đã viếng thăm ông và hóa độ ông. Bv.xxiii.5ff.; Bv­a.210f.
 
 ## Notes

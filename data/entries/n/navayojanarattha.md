@@ -5,7 +5,7 @@ base_headword: "Navayojanaraṭṭha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Navayojanaraṭṭha. A district in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một huyện ở Rohaṇa. Cv.lxxii.60, 61, 72; cũng xem Cv.Trs,i.324, n.7.
 
 ## Notes

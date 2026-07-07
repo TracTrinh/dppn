@@ -5,7 +5,7 @@ base_headword: "Suppiya"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suppiya 02. One of the chief lay supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppiya 02. Một trong những người hộ độ tại gia chính của Siddhattha Buddha. Bv.xvii.20.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vīrabāhu"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -32,6 +32,6 @@ Vīrabāhu 04. Sister’s son to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrabāhu 04. Cháu trai gọi Parakkamabāhu I bằng cậu. Ông đã đánh bại quân Jāvakas dưới sự lãnh đạo của Candabhānu, và để ăn mừng chiến thắng của mình, ông đã thờ phụng Viṣṇu tại Devanagara và xây dựng *pariveṇa* Nandana (Cv.lxxxiii.41ff). Khi Vijayabāhu IV. trở thành vua, Vīrabāhu sống ở triều đình, giúp vua thực hiện các nhiệm vụ như một người bạn tận tụy và luôn kề cận ngài. Ông được nhà vua đặc biệt giao nhiệm vụ phục hồi Pulatthipura về sự tráng lệ nguyên bản của nó, và sau khi việc phục hồi hoàn thành (Cv.lxxxvii.15; lxxxviii.5, 217, 55, 67, 90; lxxxix. 11, 48), ông được chỉ định sống ở đó với tư cách thống đốc của Bắc Tỉnh. Ông chịu trách nhiệm về buổi lễ xuất gia tại Sahassatittha (*q.v.*).
 
 ## Notes

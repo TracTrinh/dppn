@@ -5,7 +5,7 @@ base_headword: "Pulinapūjaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pulinapūjaka Thera 01. An *Arahant*. Ninety-one *kappas* ago he cleared the foo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinapūjaka Thera 01. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã dọn dẹp phần gốc cây Bodhi của Đức Phật Vipassī và rải cát mới xung quanh nó. Năm mươi ba *kappa* trước, ông là một vị vua tên là Mahā Pulina. Ap.i.79.
 
 ## Notes

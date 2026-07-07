@@ -5,7 +5,7 @@ base_headword: "Vinayapiṭaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -34,6 +34,6 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayapiṭaka. Một trong ba phần của *Tipiṭaka*. Nó chứa các giới luật và quy định cho hạnh kiểm của các vị tỳ-kheo và tỳ-kheo-ni trong mọi chi tiết của đời sống của họ. Các quy định này được cho là do chính Đức Phật đặt ra, và một bản chú giải cổ, được hợp nhất vào trong văn bản, đưa ra các ghi chép về những dịp mà các quy định đó được hình thành. Một số lượng tài liệu lịch sử cũng được tìm thấy liên quan đến Tăng đoàn, đặc biệt là trong hai chương cuối của Cūḷa Vagga.\n\nVinayapiṭaka bao gồm Suttavibhaṅga, các Khandhaka, và Parivāra. Phần đầu tiên được chia thành Pārājikā và Pācittiya và phần thứ hai được chia thành Mahā Vagga và Cūḷa Vagga.
 
 ## Notes

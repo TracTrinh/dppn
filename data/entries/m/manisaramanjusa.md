@@ -5,7 +5,7 @@ base_headword: "Maṇisāramañjūsā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇisāramañjūsā. A Commentary on the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇisāramañjūsā. Một bản chú giải cho Abhidhammatthavibhāvanī, do Ariyavaṁsa viết. Gv.65, 75; Bode, 42.
 
 ## Notes

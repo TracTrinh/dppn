@@ -5,7 +5,7 @@ base_headword: "Suphassā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suphassā 03. A celestial musician or a musical instrument. Vv-a.94.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suphassā 03. Một nhạc công cõi trời hoặc một nhạc cụ. Vv-a.94.
 
 ## Notes

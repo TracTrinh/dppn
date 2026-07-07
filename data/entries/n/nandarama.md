@@ -5,7 +5,7 @@ base_headword: "Nandarāmā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandarāmā. One of the chief women supporters of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandarāmā. Một trong những nữ thí chủ chính của Paduma Buddha. Bv.ix.23.
 
 ## Notes

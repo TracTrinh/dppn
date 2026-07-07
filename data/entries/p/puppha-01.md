@@ -5,7 +5,7 @@ base_headword: "Puppha"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puppha 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puppha 01. Puppha Thera. Một vị đạo sư xuất chúng về Vinaya. Vin.v.3.
 
 ## Notes

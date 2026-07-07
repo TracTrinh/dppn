@@ -5,7 +5,7 @@ base_headword: "Todeyya"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -38,6 +38,8 @@ There was in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Todeyya 01. Một Bà-la-môn *Mahā Sāla*, được đề cập trong một danh sách những vị Bà-la-môn lỗi lạc tập hợp tại Icchanaṅkala và Manasākaṭa (DN.i.235; Sn., p.115). Buddhaghosa nói (DN­a.ii.399; AN­a.ii.554) rằng nơi cư trú thường xuyên của ông là ở Tudigāma; do đó mà có tên này. Ông, rất có thể, là cha của Subha, người được gọi là Todeyyaputta (MN­a.ii.802). Cha của Subha, chúng ta biết, là quan tư tế của Pasenadi và, mặc dù cực kỳ giàu có, là một kẻ vô cùng bủn xỉn; sau khi chết, ông tái sinh ngay trong nhà mình thành một con chó mà Subha rất mực cưng chiều. Khi Đức Phật đến thăm Subha, con chó sủa, và Đức Phật đã quở trách nó, gọi nó bằng cái tên Todeyya. Subha vô cùng xúc phạm nhưng Đức Phật đã chứng minh danh tính của con chó bằng cách bảo nó chỉ cho Subha thấy một số kho báu được chôn giấu của cha anh ta. Con chó sau đó bị tái sinh vào địa ngục (MN­a.ii.962f).
+
+Ở Caṇḍalakappa có một Vườn Xoài thuộc về những người Bà-la-môn dòng Todeyya (MN.ii.210). Một người Bà-la-môn dòng Todeyya cũng là chủ nhân của Vườn Xoài tại Kāmaṇḍā (SN.iv.121). Aṅguttaranikāya (AN.ii.180) đề cập đến những đệ tử của người Bà-la-môn dòng Todeyya đã nói xấu Eḷeyya vì ông này làm theo những lời dạy của Rāmaputta.
 
 ## Notes

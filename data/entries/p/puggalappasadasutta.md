@@ -5,7 +5,7 @@ base_headword: "Puggalappasādasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puggalappasādasutta. On the five disadvantages of devotion to a person. AN.iii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puggalappasādasutta. Về năm điều bất lợi của sự sùng bái đối với một cá nhân. AN.iii.270.
 
 ## Notes

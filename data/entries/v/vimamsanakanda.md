@@ -5,7 +5,7 @@ base_headword: "Vīmaṁsanakaṇḍa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vīmaṁsanakaṇḍa. The section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīmaṁsanakaṇḍa. Phần của Mūgapakkhajātaka (Ja 538) mô tả các thử nghiệm khác nhau được áp dụng cho Temiya để khám phá xem liệu vẻ ngoài bị điếc và câm của ngài có phải là một sự giả vờ hay không. Ja.vi.9.
 
 ## Notes

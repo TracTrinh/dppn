@@ -5,7 +5,7 @@ base_headword: "Nandiyasutta"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandiyasutta 04. Relates the visit of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiyasutta 04. Kể lại chuyến viếng thăm của Nandiya, người Sākyan (Nandiya 2) đến Sāvatthī, để được ở gần Đức Phật, và sự hướng dẫn mà ông nhận được từ Đức Phật vào cuối mùa an cư. AN.v.334ff.
 
 ## Notes

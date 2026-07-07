@@ -5,7 +5,7 @@ base_headword: "Mañjeṭṭhakavimāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mañjeṭṭhakavimāna. The abode in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañjeṭṭhakavimāna. Nơi cư ngụ ở Tāvatiṁsa của một người phụ nữ đã từng rải lên chỗ ngồi của Đức Phật một bó hoa mà cô đã hái trong Andhavana. Vv.iv.1; Vv-a.176f.
 
 ## Notes

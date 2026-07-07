@@ -5,7 +5,7 @@ base_headword: "Sunetta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,8 @@ On another occasion, the son of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunetta 03. Một vị Pacceka Buddha. Một người đàn ông đã học nghệ thuật ném đá với kỹ năng điêu luyện từ người tàn tật trong Sālittakajātaka (*q.v.*), đang tìm một mục tiêu để kiểm tra kỹ năng của mình, thì thấy Sunetta đi vào thành khất thực và đã nhắm một viên sỏi vào tai ngài. Viên sỏi đi vào tai này và chui ra ở tai kia, và vị Pacceka Buddha đã qua đời sau khi chịu đựng đau đớn khủng khiếp. Những người nhìn thấy điều này đã giết kẻ ném đá, và, sau một thời gian ở trong Avīci, hắn đã trở thành một ngạ quỷ bị búa tạ đánh trên Gijjhakūṭa (Dhp­a.ii.71f; Pv.iv.16; Pv-a.283f).
+
+Vào một dịp khác, con trai của Kitavassa, vua của Benares, thấy Sunetta đang khất thực, và, tức giận vì ngài không đảnh lễ mình, đã giật lấy bình bát từ tay Sunetta và ném mạnh nó xuống đất. Pv.iii.2; iv.7; Pv-a.177f., 264.
 
 ## Notes

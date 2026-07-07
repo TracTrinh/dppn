@@ -5,7 +5,7 @@ base_headword: "Nigamaggāmappāsāda"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nigamaggāmappāsāda. A monastery in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Gaṅgāsiripura, được phục dựng bởi Vijayabāhu IV. Cv.lxxxviii.49.
 
 ## Notes

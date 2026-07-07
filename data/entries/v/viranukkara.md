@@ -5,7 +5,7 @@ base_headword: "Vīraṇukkara"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vīraṇukkara. A district in South India, mentioned in the account of the campa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīraṇukkara. Một quận ở Nam Ấn Độ, được nhắc đến trong ghi chép về các chiến dịch quân sự của Laṅkāpura. Cv.lxxvii.2.
 
 ## Notes

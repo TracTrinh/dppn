@@ -5,7 +5,7 @@ base_headword: "Nisantisutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nisantisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisantisutta. Ānanda nói với Sāriputta về việc một tỳ-kheo khéo léo về *attha*, *Dhamma*, *vyañjana*, *nirutti* và *pubbāparānusandhi*, thì sẽ mau chóng nắm bắt các pháp và không quên những gì vị ấy đã nắm bắt. AN.iii.201.
 
 ## Notes

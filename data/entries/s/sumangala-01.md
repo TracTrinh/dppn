@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumaṅgala 01. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 01. Vị *Aggasāvaka* (Thượng thủ Thanh văn) của Dīpaṅkara Buddha. Ja.i.29; Bv.ii.213.
 
 ## Notes

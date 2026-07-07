@@ -5,7 +5,7 @@ base_headword: "Vinataka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vinataka. One of the seven mountain ranges round <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinataka. Một trong bảy dãy núi bao quanh Sineru. Ja.vi.125; Snp­a.ii.443; Vin-a.i.119, etc.
 
 ## Notes

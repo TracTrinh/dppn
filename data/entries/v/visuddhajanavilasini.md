@@ -5,7 +5,7 @@ base_headword: "Visuddhajanavilāsinī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Visuddhajanavilāsinī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visuddhajanavilāsinī, Apadāna Commentary. Tên của Chú giải cho Apadāna. Tác giả của nó chưa được biết đến.
 
 ## Notes

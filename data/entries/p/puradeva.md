@@ -5,7 +5,7 @@ base_headword: "Puradeva"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,8 @@ The shrine was to the north of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puradeva. Một vị thần, rõ ràng là vị thần hộ mệnh của Anurādhapura. Có một ngôi đền được dựng lên cho vị thần này bên trong khuôn viên của Mahā Vihāra. Gần ngôi đền này đã diễn ra một trận chiến giữa Duṭṭhagāmaṇī và Bhalluka. Kaṇḍula xem đây là một địa điểm may mắn và đã dẫn dắt lực lượng của Duṭṭhagāmaṇī đến đó (Mhv.xxv.87).
+
+Ngôi đền nằm ở phía bắc của Mahā Susāna. Mhv­ṭ. 486.
 
 ## Notes

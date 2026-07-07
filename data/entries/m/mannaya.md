@@ -5,7 +5,7 @@ base_headword: "Maṇṇaya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇṇaya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇṇaya. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara (Cv.lxxvi.141). Sau này ông đã gia nhập phe của Laṅkāpura (Cv.lxxvii.7, 35).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nimi"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nimi 01. The Bodhisatta born as king of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimi 01. Bodhisatta sinh làm vua của Mithilā. Xem Nimijātaka (Ja 541).
 
 ## Notes

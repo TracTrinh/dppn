@@ -5,7 +5,7 @@ base_headword: "Supatta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Supatta 02. A king of the vultures and son of the Bodhisatta. See the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supatta 02. Vua của loài kền kền và là con trai của Bodhisatta. Xem Gijjhajātaka (Ja 427).
 
 ## Notes

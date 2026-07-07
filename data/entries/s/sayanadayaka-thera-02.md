@@ -25,6 +25,6 @@ Sayanadāyaka Thera 02. An *Arahant*. He gave a bed to <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Sayanādāyaka Thera 02. Một *Arahant*. Ngài đã dâng một chiếc giường cho Padumuttara Buddha. Ap.i.105.
+Sayanadāyaka Thera 02. Một *Arahant*. Ngài đã dâng một chiếc giường cho Padumuttara Buddha. Ap.i.105.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pubbārāmasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pubbārāmasutta 02. The cultivation of Ariyan insight (*paññā*) and Ariyan r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāmasutta 02. Sự trau dồi tuệ giác của bậc Thánh (*paññā*) và sự giải thoát của bậc Thánh (*vimutti*) dẫn đến sự đoạn tận các *āsava*. SN.v.223.
 
 ## Notes

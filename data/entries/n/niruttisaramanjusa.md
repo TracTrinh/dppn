@@ -5,7 +5,7 @@ base_headword: "Niruttisāramañjūsā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -27,6 +27,6 @@ Niruttisāramañjūsā. A *ṭīkā* on the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niruttisāramañjūsā. Một cuốn *ṭīkā* về Nirutti; cũng là một cuốn *ṭīkā* về Nyāsa do Dāṭhā Nāga biên soạn. Bode, 55; Svd.1241.
 
 ## Notes

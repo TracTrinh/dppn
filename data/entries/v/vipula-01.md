@@ -5,7 +5,7 @@ base_headword: "Vipula"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vipula 01. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipula 01. Một người Sát-đế-lỵ (*Khattiya*), cha của Đức Phật Revata. Ja.i.35; Bv.vi.16.
 
 ## Notes

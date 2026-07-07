@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "29"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 29. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 29. Một vị quan của Vaṭṭagāmaṇī; ông đã xây dựng Uttara Tissārāma. Mhv.xxxiii.91.
 
 ## Notes

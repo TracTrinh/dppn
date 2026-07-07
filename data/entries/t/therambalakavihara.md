@@ -5,7 +5,7 @@ base_headword: "Therambalakavihāra"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -26,6 +26,6 @@ Therambalakavihāra. A monastery built by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Therambalakavihāra. Một tu viện được xây dựng bởi Sakka. Dāṭhāsena đã sống ở đó. Ras.ii.109.
 
 ## Notes

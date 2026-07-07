@@ -5,7 +5,7 @@ base_headword: "Tuṇḍila"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tuṇḍila 01. Brother of the courtesan <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṇḍila 01. Anh trai của kỹ nữ Kāḷī. Anh ta là một kẻ ăn hại, và Kāḷī, sau khi giúp đỡ anh ta bằng tiền mà anh ta tiếp tục phung phí, đã từ chối cho anh ta thêm bất cứ đồng nào nữa. Nhưng một người bảo trợ của Kāḷī, thấy tình cảnh của anh ta, đã đưa quần áo của mình cho anh ta khi bước vào nhà Kāḷī – vì theo phong tục, những người bảo trợ một kỹ nữ sẽ được cung cấp quần áo trong thời gian họ ở lại nhà cô – và người đàn ông này đã phải bước đi trong tình trạng trần truồng. Ja.iv.248f.
 
 ## Notes

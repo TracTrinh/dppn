@@ -5,7 +5,7 @@ base_headword: "Manohara"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Manohara. A park laid out by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manohara. Một công viên do Parakkamabāhu I xây dựng. (Cv.lxxix.9.)
 
 ## Notes

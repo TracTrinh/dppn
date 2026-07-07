@@ -5,7 +5,7 @@ base_headword: "Virāgasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Virāgasutta 01. The Buddha teaches non-attachment and the path thereto. SN.iv.3
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virāgasutta 01. Đức Phật dạy về sự ly tham và con đường dẫn đến điều đó. SN.iv.371.
 
 ## Notes

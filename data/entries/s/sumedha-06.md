@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumedha 06. An *upaṭṭhāka* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 06. Một vị *upaṭṭhāka* (thị giả) của Sumedha Buddha, người mà Pilindavaccha đã gặp vào thời điểm đó. Ap.i.59; nhưng xem Bv.xii.23, nơi *upaṭṭhāka* của Sumedha được gọi là Sāgara. Có lẽ điều này đề cập đến một người khác.
 
 ## Notes

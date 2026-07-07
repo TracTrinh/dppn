@@ -5,7 +5,7 @@ base_headword: "Puṇḍarīka"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇḍarīka 01. One of the state elephants of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇḍarīka 01. Một trong những con voi của hoàng gia dưới thời vua Pasenadi. Dhp­a.ii.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 11. A Brahmin, who gave an umbrella to <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 11. Một Bà-la-môn, người đã dâng một chiếc ô cho Sāriputta. Ap.i.266.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tikaṇṭakivana"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tikaṇṭakivana. A grove in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikaṇṭakivana. Một khu rừng ở Sāketa, hiển nhiên đồng nhất với Kaṇṭakivana (ở trên).
 
 ## Notes

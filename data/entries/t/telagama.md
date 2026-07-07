@@ -5,7 +5,7 @@ base_headword: "Telagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Telagāma. A canal, the revenue from which was given by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telagāma. Một con kênh đào, thu nhập từ nó được Aggabodhi IX dâng cúng cho các tỳ-kheo để lấy cháo gạo. Cv.xlix.89.
 
 ## Notes

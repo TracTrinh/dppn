@@ -5,7 +5,7 @@ base_headword: "Tissakasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissakasutta. Subrahmā đến gần Đức Phật và nói về Kaṭamorakatissa. SN.i.148.
 
 ## Notes

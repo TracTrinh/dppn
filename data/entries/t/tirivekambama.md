@@ -5,7 +5,7 @@ base_headword: "Tirivekambama"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Tirivekambama. A place in South India. Cv.lxxvi.238, 266, 276.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirivekambama. Một nơi ở Nam Ấn Độ. Cv.lxxvi.238, 266, 276.
 
 ## Notes

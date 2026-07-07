@@ -5,7 +5,7 @@ base_headword: "Nighāsutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nighāsutta. The three pains of lust, hatred and illusion. For their full compre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ba nỗi khổ của tham, sân và si. Để thấu hiểu chúng một cách trọn vẹn, Bát Thánh đạo phải được tu tập. SN.v.57.
 
 ## Notes

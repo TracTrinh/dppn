@@ -5,7 +5,7 @@ base_headword: "Tinimakkulagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tinimakkulagāma. A village in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tinimakkulagāma. Một ngôi làng ở xứ Malaya tại Ceylon, không xa Pulatthipura. Cv.lxx.284, 301.
 
 ## Notes

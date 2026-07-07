@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "12"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumaṅgala 12. The tenth future Buddha, the first being <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 12. Vị Phật tương lai thứ mười, vị đầu tiên là Metteyya. Anāg., p.40.
 
 ## Notes

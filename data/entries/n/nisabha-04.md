@@ -5,7 +5,7 @@ base_headword: "Nisabha"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -31,6 +31,6 @@ Nisabha 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisabha 04. Nisabha Thera. Ngài sinh ra trong một gia đình người Koḷiyan, và, sau khi chứng kiến trí tuệ và uy lực của Đức Phật trong cuộc chiến giữa những người Sākyan và người Koḷiyan, ngài đã gia nhập Tăng đoàn và trở thành một vị *Arahant*. Hai bài kệ do ngài thốt lên để khuyên răn một người bạn đồng tu được tìm thấy trong Theragāthā (vs.195f.). Vào thời Đức Phật Vipassī, ngài là một nam cư sĩ, và đã cúng dường cho Đức Phật một quả *kapiṭṭha* (Thag.i.318). Ngài có lẽ là cùng một người với Kapiṭṭhaphaladāyaka của Apadāna. Ap.ii.449; nhưng cũng xem Thag­a.i.73.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nīlavālatittha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīlavālatittha. A locality in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīlavālatittha. Một địa phương ở Rohaṇa, được xác định là Mātara ngày nay. Cv.lxxv.48; Cv.Trs.ii.48, n.2.
 
 ## Notes

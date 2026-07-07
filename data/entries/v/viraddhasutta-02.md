@@ -5,7 +5,7 @@ base_headword: "Viraddhasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viraddhasutta 02. He who neglects the four bases of psychic power neglects the w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viraddhasutta 02. Vị nào bỏ lơ bốn nền tảng của thần thông (*iddhipāda*) là bỏ lơ con đường dẫn đến sự đoạn tận khổ. SN.v.254.
 
 ## Notes

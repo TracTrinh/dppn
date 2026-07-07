@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nibbānasutta 06. Preached at <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết tại Ukkācelā. Sāriputta giải thích cho Sāmaṇḍaka ý nghĩa của *Nibbāna* và con đường dẫn đến đó. SN.iv.261f.
 
 ## Notes

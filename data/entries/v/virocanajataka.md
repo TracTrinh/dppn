@@ -5,7 +5,7 @@ base_headword: "Virocanajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virocanajātaka (Ja 143). Vị Bodhisatta có lần sinh làm một con sư tử và sống ở Kañcanaguhā. Ông ban đặc ân cho một con chó rừng được phép thông báo cho ông về sự hiện diện của con mồi, và con vật được nhận một phần xác chết để đổi lấy sự phục vụ này. Theo thời gian, con chó rừng trở nên mạnh mẽ và cầu xin được phép giết một con voi. Sư tử miễn cưỡng đồng ý với điều này, nhưng con chó rừng, trong nỗ lực nhảy lên người con voi, đã vồ hụt và ngã xuống đất nơi nó bị giẫm chết.
+
+Câu chuyện được kể liên quan đến nỗ lực đóng giả làm Đức Phật của Devadatta và sự thất bại của ông ta khi làm việc đó, vì thế ông ta đã nhận một cú đá vào ngực từ Kokālika (*q.v.*). Con chó rừng được nhận diện là Devadatta. Ja.i.490-3.
 
 ## Notes

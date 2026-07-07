@@ -5,7 +5,7 @@ base_headword: "Tobbalanāgapabbata"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tobbalanāgapabbata. A locality in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tobbalanāgapabbata. Một địa phương ở Rohaṇa. Tại đó, Mahallakanāga đã xây dựng một tu viện. Mhv.xxxv.125.
 
 ## Notes

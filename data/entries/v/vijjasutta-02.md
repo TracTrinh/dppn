@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vijjāsutta 02. Just as ignorance is in the forefront of all evil, so is knowled
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 02. Giống như vô minh dẫn đầu mọi điều ác, minh (*vijjā*) cũng dẫn đầu mọi điều thiện. AN.v.214.
 
 ## Notes

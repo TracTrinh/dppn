@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumaṅgala 05. A king of seven hundred *kappas* ago, a previous birth of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 05. Một vị vua của bảy trăm *kappa* trước, một tiền kiếp của Susārada Thera (Phaladāyaka). Thag­a.i.167; Ap.i.161.
 
 ## Notes

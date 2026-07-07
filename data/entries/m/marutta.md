@@ -5,7 +5,7 @@ base_headword: "Marutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Marutta. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Marutta. Một người Bà-la-môn ở Homagāma. Có lần ông đã cho thức ăn một con chó bị ghẻ lở, con chó này sau đó đã cứu mạng ông. Xem Ras.i.42f. để biết thêm chi tiết.
 
 ## Notes

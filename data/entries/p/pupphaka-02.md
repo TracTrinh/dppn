@@ -5,7 +5,7 @@ base_headword: "Pupphaka"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphaka 02. A parrot, discovered in a bed of flowers, hence his name. He was th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphaka 02. Một con vẹt, được phát hiện trong một luống hoa, do đó mà có tên gọi này. Con vẹt đó chính là Bồ-tát (Bodhisatta). Về câu chuyện của nó, xem Sattigumbajātaka. Ja.iv.431 ff.
 
 ## Notes

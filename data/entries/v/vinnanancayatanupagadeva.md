@@ -5,7 +5,7 @@ base_headword: "Viññāṇañcāyatanūpagādevā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Viññāṇañcāyatanūpagādevā. A class of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇañcāyatanūpagādevā. Một hạng chư thiên sống trong cõi Arūpaloka. Tuổi thọ của họ kéo dài bốn mươi nghìn *mahākappa*. MN.iii.103; *Comp.*143.
 
 ## Notes

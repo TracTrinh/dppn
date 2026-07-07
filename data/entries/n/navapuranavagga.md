@@ -5,7 +5,7 @@ base_headword: "Navapūraṇavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Navapūraṇavagga. The fifteenth chapter of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ mười lăm của Saḷāyatanasaṁyutta (SN.iv.132-42).
 
 ## Notes

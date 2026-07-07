@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "21"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 21. Uncle of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 21. Chú của Paṇḍukābhaya. Ông đã cai quản vương quốc khi anh trai ông, Abhaya, từ bỏ chính quyền. Ông đã bị Paṇḍukābhaya giết. Mhv.x.51, 70.
 
 ## Notes

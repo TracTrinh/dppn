@@ -5,7 +5,7 @@ base_headword: "Vikkamabāhu"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vikkamabāhu 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkamabāhu 03. Con trai của Gajabāhu và là anh em của Coḷagaṅgakumāra. Cv.lxx.238.
 
 ## Notes

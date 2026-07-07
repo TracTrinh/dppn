@@ -5,7 +5,7 @@ base_headword: "Visākhā"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākhā 01. One of the chief lay women supporters of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhā 01. Một trong những nữ cư sĩ hộ độ chính của Piyadassī Buddha. Bv.xiv.22.
 
 ## Notes

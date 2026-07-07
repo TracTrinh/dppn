@@ -5,7 +5,7 @@ base_headword: "Puṇṇiyasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇiyasutta 01. The Buddha tells <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇiyasutta 01. Đức Phật nói với Puṇṇiya về tám điều kiện dưới đó một bài pháp khởi lên trong tâm của một Như Lai. AN.iv. 337f.
 
 ## Notes

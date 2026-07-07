@@ -5,7 +5,7 @@ base_headword: "Porāṇavaṁsa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Porāṇavaṁsa. A chronicle, probably of Ceylon, mentioned in the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Porāṇavaṁsa. Một quyển biên niên sử, có lẽ của Tích Lan, được nhắc đến trong Gandhavaṁsa. (p. 70).
 
 ## Notes

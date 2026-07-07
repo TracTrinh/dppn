@@ -5,7 +5,7 @@ base_headword: "Pulavakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Pulavakasutta. The idea of a worm-eaten corpse, if cultivated, leads to great pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulavakasutta. Ý tưởng về một xác chết bị giòi bọ ăn, nếu được trau dồi, sẽ dẫn đến lợi ích lớn. SN.v.131.
 
 ## Notes

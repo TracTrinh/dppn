@@ -5,7 +5,7 @@ base_headword: "Vikkamapura"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vikkamapura. A town in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkamapura. Một thị trấn ở Dakkhiṇadesa, từng được Parakkamabāhu I. dùng làm tổng hành dinh, trước khi ông chiếm được ngai vàng. Nó ở gần Kyānagāma. Cv.lxxii.147, 263. Geiger gợi ý (Cv.Trs.i.333, n.3) rằng đó là thị trấn trực thuộc pháo đài Sīhagiri.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Surāpānajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,8 @@ The story was related in reference to the occasion on which <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surāpānajātaka (Ja 81). Bodhisatta xưa kia sinh vào *Udiccabrāmaṇakula*, và trở thành một ẩn sĩ với năm trăm đệ tử. Một ngày nọ, các đệ tử của ngài đã xin phép đến Benares, nơi lui tới của con người, để lấy muối và giấm. Nhà vua chào đón họ, và mời họ ở lại trong công viên hoàng gia trong bốn tháng. Trong thời gian này, một lễ hội uống rượu được tổ chức trong thành phố, và người dân, với suy nghĩ sẽ trao cho các ẩn sĩ một món quà hiếm có, đã thiết đãi họ thứ tốt nhất mà họ có. Các ẩn sĩ bị say rượu và cư xử với sự vui nhộn quá mức. Khi họ tỉnh dậy khỏi cơn mê mẩn và nhận ra những gì mình đã làm, họ rời khỏi thành phố và vội vã trở về với đạo sư của họ.
+
+Câu chuyện được kể lại liên quan đến dịp Sāgata Thera (*q.v.*) bị say rượu. Ja.i.360f.
 
 ## Notes

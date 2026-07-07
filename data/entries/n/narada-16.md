@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "16"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārada 16. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 16. Một hạng chư thiên được nhắc đến, cùng với chư thiên Pabbata, là những người có trí tuệ. Snp.vs.543; Snp­a.ii.435; xem thêm Ja.vi.568, 571; Mvu.iii.401.
 
 ## Notes

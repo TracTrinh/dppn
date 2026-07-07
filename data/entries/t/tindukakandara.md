@@ -5,7 +5,7 @@ base_headword: "Tindukakaṇḍarā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tindukakaṇḍarā. A cave outside <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tindukakaṇḍarā. Một hang động bên ngoài Rājagaha, nơi cung cấp chỗ ở cho các tỳ-kheo đến thăm. Vin.ii.76; iii.159.
 
 ## Notes

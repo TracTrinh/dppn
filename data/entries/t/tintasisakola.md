@@ -5,7 +5,7 @@ base_headword: "Tintasīsakola"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tintasīsakola. A region, thirty leagues in extent, near the spot where the stre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tintasīsakola. Một vùng rộng ba mươi do-tuần, gần nơi dòng suối từ Anotatta đổ xuống từ độ cao sáu mươi do-tuần. Đất, vì liên tục được những giọt nước rưới lên, nên cực kỳ mềm và dẻo và đất sét đã được lấy từ đó để xây dựng Mahā Thūpa. Mhv­ṭ.515.
 
 ## Notes

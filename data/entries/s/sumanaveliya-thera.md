@@ -5,7 +5,7 @@ base_headword: "Sumanāveḷiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumanāveḷiya Thera. An *Arahant*. Thirty-one *kappas* ago he placed a bunch o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanāveḷiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông đã đặt một chùm hoa *sumana* trước chỗ ngồi của Vessabhū Buddha. Sau khi qua đời, ông tái sinh ở cõi Nimmanaratī; mười một *kappa* trước, ông là một vị vua tên là Sahassāra. Ap.i.264.
 
 ## Notes

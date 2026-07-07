@@ -5,7 +5,7 @@ base_headword: "Supubbaṇhasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Supubbaṇhasutta. A name given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supubbaṇhasutta. Tên gọi được đưa ra trong Suttasaṅgaha (No.52) cho Pubbaṇhasutta (*q.v.*).
 
 ## Notes

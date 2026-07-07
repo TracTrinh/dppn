@@ -5,7 +5,7 @@ base_headword: "Mañjaripūjaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -30,6 +30,10 @@ Seventy-three *kappas* ago he was a king, named <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañjaripūjaka Thera. Một vị *Arahant*.
+
+Chín mươi hai *kappa* trước, khi đang đi trên đường với một nhánh hoa trên tay, ngài nhìn thấy Đức Phật (? Tissā) và đã cúng dường Ngài những bông hoa.
+
+Bảy mươi ba *kappa* trước, ngài là một vị vua tên là Jotiya. Ap.i.228.
 
 ## Notes

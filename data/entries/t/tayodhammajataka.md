@@ -5,7 +5,7 @@ base_headword: "Tayodhammajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tayodhammajātaka (Ja 58). Once <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tayodhammajātaka (Ja 58). Một thuở nọ, Devadatta sinh ra làm vua khỉ, và Bodhisatta là con trai của ông. Vị vua khỉ có thói quen dùng răng thiến tất cả những đứa con đực của mình, e sợ rằng một ngày nào đó chúng sẽ soán ngôi ông; nhưng mẹ của Bodhisatta đã rời khỏi bầy trước khi đứa con chào đời và nuôi dưỡng ngài ở nơi khác. Khi lớn lên, ngài đến gặp vua khỉ, và khi vua khỉ cố giết ngài bằng cách bóp nghẹt trong một cái ôm giả tạo, Bodhisatta đã thể hiện sức mạnh lớn hơn cả cha mình. Sau đó, vua khỉ bảo ngài đi hái hoa sen từ một cái hồ gần đó, nơi có một con dạ-xoa cư ngụ, và nói rằng ông muốn nhường ngôi cho con trai mình làm vua. Bodhisatta đoán được sự hiện diện của dạ-xoa và hái hoa bằng cách nhảy nhiều lần từ bờ bên này sang bờ bên kia, chộp lấy những bông hoa trên đường đi. Khi thấy điều này, con dạ-xoa bày tỏ sự ngưỡng mộ của mình, nói rằng những ai hội tụ ba phẩm chất là sự khéo léo, lòng dũng cảm và tháo vát sẽ không bao giờ bị đánh bại. Khi vua khỉ thấy con trai mình trở về cùng với con dạ-xoa đang mang những bông hoa, ông đã vỡ tim mà chết. Câu chuyện này được kể lại liên quan đến việc săn bắn. Ja.i.2803.
 
 ## Notes

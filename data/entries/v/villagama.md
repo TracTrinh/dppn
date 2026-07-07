@@ -5,7 +5,7 @@ base_headword: "Villagāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Villagāma. A village in the south of Ceylon. Ras.ii.147.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Villagāma. Một ngôi làng ở miền nam Tích Lan. Ras.ii.147.
 
 ## Notes

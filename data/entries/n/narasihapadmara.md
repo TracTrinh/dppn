@@ -5,7 +5,7 @@ base_headword: "Narasīhapadmara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Narasīhapadmara. An ally of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narasīhapadmara. Một đồng minh của Kulasekhara. Ông ta đã bị Laṅkāpura bắt giữ. Cv.Ixxvii.76, 86.
 
 ## Notes

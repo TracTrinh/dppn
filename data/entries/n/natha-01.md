@@ -5,7 +5,7 @@ base_headword: "Nātha"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nātha 01. Called *Adhikārī*, a general of King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được gọi là *Adhikārī*, một tướng quân của Vua Māṇābharaṇa. Cv.lxx.298; lxxii.123, 126.
 
 ## Notes

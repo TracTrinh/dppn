@@ -5,7 +5,7 @@ base_headword: "Pūgadaṇḍakāvāṭa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pūgadaṇḍakāvāṭa. A stronghold in <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūgadaṇḍakāvāṭa. Một thành trì ở Rohaṇa, được đề cập trong tài liệu về các chiến dịch của Parakkamabāhu I. Cv.lxxv.86, 95, 143.
 
 ## Notes

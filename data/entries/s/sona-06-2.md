@@ -25,6 +25,6 @@ Soṇā 06. An eminent teacher of the Vinaya in <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Soṇā 06. Một Therī nổi bật trong việc giảng dạy Vinaya ở Jambudīpa. Dpv.xviii.10.
+Soṇā 06. Một bậc thầy nổi bật về Vinaya ở Jambudīpa. Dpv.xviii.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissambatittha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissambatittha. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissambatittha. Một ngôi làng ở Rohaṇa. Xem Tissā (10). Ras.ii.31.
 
 ## Notes

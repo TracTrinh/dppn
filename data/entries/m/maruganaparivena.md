@@ -5,7 +5,7 @@ base_headword: "Marugaṇapariveṇa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Marugaṇapariveṇa. A building in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Marugaṇapariveṇa. Một tòa nhà ở Anurādhapura, được dựng lên tại nơi các hội chúng chư thiên đã đến thăm Mahinda để đảnh lễ ngài. Mhv.xv.211.
 
 ## Notes

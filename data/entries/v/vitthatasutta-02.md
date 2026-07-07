@@ -5,7 +5,7 @@ base_headword: "Vitthatasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vitthatasutta 02. A detailed description of the powers of a learner: the power o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitthatasutta 02. Một mô tả chi tiết về các sức mạnh của một người học đạo (hữu học): sức mạnh của đức tin, của sự hổ thẹn, của sự sợ hãi sự khiển trách, của tinh tấn, của tuệ minh sát. AN.iii.2f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Timbarutittha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Timbarutittha. A pond at which sacrifices were offered. Ja.v.388, 389.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timbarutittha. Một ao nước nơi các lễ hiến tế được cúng dường. Ja.v.388, 389.
 
 ## Notes

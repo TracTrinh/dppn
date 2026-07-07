@@ -5,7 +5,7 @@ base_headword: "Suramma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suramma. A seven-storeyed palace, occupied by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suramma. Một cung điện bảy tầng, nơi Gotama Buddha đã ở trước khi Ngài xuất gia. Bv­a.230; Bv.xxvi.14 gọi nó là Surāma.
 
 ## Notes

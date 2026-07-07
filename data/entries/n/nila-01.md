@@ -5,7 +5,7 @@ base_headword: "Nīla"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nīla 01. A friend of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người bạn của Mahinda I. Ông ta chết sớm, và Mahinda đã từ chối vương quyền vì nỗi buồn thương dành cho người bạn của mình. Cv.xlviii. 27ff.
 
 ## Notes

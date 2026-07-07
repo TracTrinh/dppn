@@ -5,7 +5,7 @@ base_headword: "Vipulābhāsa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vipulābhāsa. Twenty-nine *kappas* ago there were several kings of this name, p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipulābhāsa. Cách đây hai mươi chín *kappa* từng có vài vị vua mang tên này, là những tiền kiếp của Trưởng lão Belaṭṭhānika (Trưởng lão Campakapupphiya). Thag­a.i.205; Ap.i.167.
 
 ## Notes

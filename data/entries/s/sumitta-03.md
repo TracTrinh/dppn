@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumitta 03. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 03. Anh/em trai của Sambahula và là vua của Amaranagara; ông đã gia nhập Tăng đoàn và trở thành vị *Aggasāvaka* (Thượng thủ Thanh văn) của Siddhattha Buddha. Bv.xvii.18; Ja.i.40; Bv­a.186.
 
 ## Notes

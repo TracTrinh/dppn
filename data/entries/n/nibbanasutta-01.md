@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nibbānasutta 01. The Buddha explains to <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật giải thích cho Jāṇussoṇī ý nghĩa của việc thấy *Nibbāna* trong đời này. AN.i.158.
 
 ## Notes

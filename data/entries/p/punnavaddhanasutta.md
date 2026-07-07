@@ -5,7 +5,7 @@ base_headword: "Puññavaḍḍhanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puññavaḍḍhanasutta. A name given in the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññavaḍḍhanasutta. Một tên gọi được dùng trong Suttasaṅgaha (Số 60) để chỉ Vanaropasutta (1) (*q.v.*).
 
 ## Notes

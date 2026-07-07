@@ -5,7 +5,7 @@ base_headword: "Niceluvana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Niceluvana. A grove of *mucalinda* trees in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một lùm cây *mucalinda* ở Kimbilā. AN.iii.247 (bản in PTS đọc là Veḷuvana). AN­a.ii.642.
 
 ## Notes

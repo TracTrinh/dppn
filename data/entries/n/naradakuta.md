@@ -5,7 +5,7 @@ base_headword: "Nāradakūṭa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nāradakūṭa. A mountain, the dwelling place of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nāradakūṭa. Một ngọn núi, nơi cư trú của Yakkha Nārada 15. Bv.ii.199.
 
 ## Notes

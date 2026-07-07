@@ -5,7 +5,7 @@ base_headword: "Tissasutta"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissasutta 01. Relates the story of the Buddha’s nephew, <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissasutta 01. Kể lại câu chuyện về người cháu trai của Đức Phật, Tissa (No.14), người đến yết kiến Đức Phật và phàn nàn rằng các tỳ-kheo lăng mạ mình (SN.ii.282).
 
 ## Notes

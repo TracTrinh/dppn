@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumitta 04. A king of one hundred and thirty *kappas* ago; a previous birth of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 04. Một vị vua của một trăm ba mươi *kappa* trước; một tiền kiếp của Nāgita Thera (Atthasandassaka) (Thag­a.i.184; Ap.i.168). Xem Sukhitta.
 
 ## Notes

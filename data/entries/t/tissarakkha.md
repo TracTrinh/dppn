@@ -5,7 +5,7 @@ base_headword: "Tissarakkhā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissarakkhā. The second queen of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissarakkhā. Vương hậu thứ hai của Asoka; ông đã kết hôn với bà bốn năm trước khi qua đời. Bà rất ghen tị với sự quan tâm mà Asoka dành cho cây Bodhi, và đã khiến nó bị giết bằng những chiếc gai có độc (Mhv.xx.3ff).
 
 ## Notes

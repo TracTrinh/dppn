@@ -5,7 +5,7 @@ base_headword: "Theraputtābhaya"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -33,6 +33,8 @@ In a previous birth he had given milk-rice to monks, hence his great strength (M
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theraputtābhaya. Một trong mười chiến binh dũng mãnh của Duṭṭhagāmaṇī. Tên thật của ông là Abhaya. Cha ông là trưởng làng Kitti ở Rohaṇa, và Theraputtābhaya, khi mới mười sáu tuổi, đã sử dụng một cây gậy dài mười sáu cùi chỏ và to ba mươi tám inch. Do đó, ông được gửi đến triều đình của Kākavaṇṇatissa. Cha của Abhaya là một người hộ độ cho Mahā Summa và, sau khi nghe một bài thuyết pháp từ vị này, đã trở thành một *Sotāpanna*, gia nhập Tăng đoàn và ngay sau đó trở thành một bậc *Arahant*. Con trai ông, sau đó, được gọi là Theraputtābhaya (Mhv.xxiii.2, 63ff). Kết thúc các chiến dịch của Duṭṭhagāmaṇī, Abhaya đã xin phép nhà vua từ biệt và gia nhập Tăng đoàn, trở thành một bậc *Arahant*, và sống cùng với năm trăm bậc *Arahant* khác (Mhv.xxvi.2). Khi Duṭṭhagāmaṇī nằm trên giường bệnh, Abhaya đã đến thăm ông và làm lòng ông hoan hỷ bằng cách nhắc nhở ông về những việc công đức to lớn mà ông đã làm (Mhv.xxxii.48ff).
+
+Trong một kiếp trước, ông đã cúng dường cháo sữa cho các tỳ-kheo, do đó ông có được sức mạnh to lớn (Mhv­ṭ.453).
 
 ## Notes

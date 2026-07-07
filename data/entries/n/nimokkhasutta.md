@@ -5,7 +5,7 @@ base_headword: "Nimokkhasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -23,6 +23,6 @@ Nimokkhasutta. A *Deva* questions the Buddha on deliverance and detachment and t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimokkhasutta. Một vị *Deva* thưa hỏi Đức Phật về sự giải thoát và viễn ly và Đức Phật đã giải đáp cho vị ấy. SN.i.2.
 
 ## Notes

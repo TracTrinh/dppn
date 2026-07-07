@@ -5,7 +5,7 @@ base_headword: "Viraja"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viraja 01. One of the three palaces occupied by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viraja 01. Một trong ba cung điện được ở bởi Dhammadassī Buddha trước khi ngài Xuất gia. Bv.xvi.14.
 
 ## Notes

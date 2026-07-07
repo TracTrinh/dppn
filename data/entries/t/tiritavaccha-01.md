@@ -5,7 +5,7 @@ base_headword: "Tirīṭavaccha"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tirīṭavaccha 01. The Bodhisatta born as a Brahmin in <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirīṭavaccha 01. Bodhisatta sinh ra là một Bà-la-môn ở Kāsi. Xem Titītavacchajātaka (Ja 259).
 
 ## Notes

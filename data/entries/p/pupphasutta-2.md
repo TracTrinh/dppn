@@ -5,7 +5,7 @@ base_headword: "Pupphasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphasutta (hay Vaḍḍhasutta). Đức Phật tuyên bố rằng ngài chỉ duy trì những gì được duy trì trong thế giới của các bậc hiền trí (*paṇḍitānaṁ*), tức là, rằng các *khandha* (uẩn) là vô thường, chịu sự khổ đau và hoại diệt. Đức Phật đã thấu triệt hoàn toàn thế pháp (*lokadhamma*) của thế giới của các *saṅkhāra* (hữu vi). Ngài giống như một đóa hoa sen, mọc lên từ nước và phát triển trọn vẹn trong nước, nhưng không bị nước làm vấy bẩn. SN.iii.138f.
 
 ## Notes

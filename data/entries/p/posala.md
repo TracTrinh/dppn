@@ -5,7 +5,7 @@ base_headword: "Posāla"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Posāla. One of Bāvari’s pupils. His question to the Buddha and the answer th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Posāla. Một trong những học trò của Bāvarī. Câu hỏi của ông dành cho Đức Phật và câu trả lời sau đó được nêu trong 1. Posālamāṇavapucchā (hoặc Posālasutta) của Pārāyaṇavagga. Snp.vs.1006, 1112-5.
 
 ## Notes

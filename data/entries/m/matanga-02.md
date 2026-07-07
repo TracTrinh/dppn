@@ -5,7 +5,7 @@ base_headword: "Mātaṅga"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,6 @@ Mātaṅga 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅga 02. Một vị Phật Độc Giác (Pacceka Buddha) (MN.iii.70; Ap­a.i.107). Ngài là vị Phật Độc Giác cuối cùng và sống gần Rājagaha. Trong lần đản sanh cuối cùng của Bồ-tát, khi chư thiên (Devas) đang trên đường đến để tôn vinh Ngài, họ nhìn thấy Mātaṅga và nói với ngài rằng, “Thưa Ngài, Đức Phật đã xuất hiện trên thế gian.” Mātaṅga nghe thấy điều này khi ngài đang xuất khỏi một tầng thiền (jhāna), và đi đến Núi Mahā Papāta, nơi chư Phật Độc Giác viên tịch, và ngài đã viên tịch. Ap­a.i.170; Snp­a.i.128f; Mvu.i.357.
 
 ## Notes

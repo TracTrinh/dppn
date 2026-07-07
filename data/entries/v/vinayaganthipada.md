@@ -5,7 +5,7 @@ base_headword: "Vinayagaṇṭhipada"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vinayagaṇṭhipada. A Vinaya treatise ascribed to a Thera named <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayagaṇṭhipada. Một chuyên luận về Vinaya được cho là của một vị Trưởng lão tên là Moggallāna của Tích Lan và được viết vào thời của Parakkamabāhu I. Tài liệu thẩm quyền này đã được phái *Ekaṁsika* trích dẫn để ủng hộ cho các quan điểm của họ. Bode, 75 f; xem thêm 75, n.2, ở đó tác giả được gọi là Joti; cũng xem PLC. 189f.
 
 ## Notes

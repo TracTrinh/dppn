@@ -5,7 +5,7 @@ base_headword: "Puggalasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Puggalasutta 01. Seven kinds of persons who are worthy of gifts and homage. AN.i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puggalasutta 01. Bảy hạng người xứng đáng được cúng dường và đảnh lễ. AN.iv.10f.
 
 ## Notes

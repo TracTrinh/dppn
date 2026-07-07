@@ -5,7 +5,7 @@ base_headword: "Supatta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Supatta 03. One of the five horses of King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supatta 03. Một trong năm con ngựa của Vua Kappina. Chỉ có nhà vua cưỡi Supatta, trong khi các sứ giả được phép cưỡi những con khác. Dhp­a.ii.117.
 
 ## Notes

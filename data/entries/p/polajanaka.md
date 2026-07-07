@@ -5,7 +5,7 @@ base_headword: "Polajanaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Polajanaka. The younger son of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Polajanaka. Con trai út của Mahā Janaka. Để biết câu chuyện của ông, xem Mahā Janakajātaka. Ja 539, Ja.vi.30ff.
 
 ## Notes

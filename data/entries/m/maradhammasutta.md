@@ -5,7 +5,7 @@ base_headword: "Māradhammasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māradhammasutta. The Buddha admonishes <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māradhammasutta. Đức Phật khuyên bảo Rādha và nói rằng tham ái đối với bất cứ thứ gì có bản chất hoại diệt, chẳng hạn như sắc thân, v.v., cần phải được đoạn tận. SN.iii.195, 198, 200.
 
 ## Notes

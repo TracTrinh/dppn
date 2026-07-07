@@ -5,7 +5,7 @@ base_headword: "Thusavāpi"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Thusavāpi. A tank near <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thusavāpi. Một hồ chứa nước gần Pulatthipura. Cv.l.73.
 
 ## Notes

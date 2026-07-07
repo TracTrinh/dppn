@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissa 02. The ninth future Buddha. See <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 02. Vị Phật tương lai thứ chín. Xem Anāgatavaṁsa, p.40.
 
 ## Notes

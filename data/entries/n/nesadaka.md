@@ -5,7 +5,7 @@ base_headword: "Nesādaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nesādaka. A hill where the Thera <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn đồi nơi Trưởng lão Mahā Nāma thực hành thiền định. Thag­a.i.227.
 
 ## Notes

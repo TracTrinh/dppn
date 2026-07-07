@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunanda 03. A village, where <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 03. Một ngôi làng, nơi Yasodharā đã dâng một bữa ăn cháo sữa cho Koṇḍañña Buddha. Bv­a.108.
 
 ## Notes

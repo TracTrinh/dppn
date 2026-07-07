@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "25"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumana 25. The guardian deity of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị thần hộ pháp của Samantakūṭa (*q.v.*). Xem thêm Cv.lxxxvi.19.
 
 ## Notes

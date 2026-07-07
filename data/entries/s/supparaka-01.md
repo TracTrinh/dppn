@@ -5,7 +5,7 @@ base_headword: "Suppāraka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -36,6 +36,8 @@ Suppāraka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppāraka 01. Suppāra. Một cảng biển ở Ấn Độ. Nó nằm ở quốc gia Sunāparanta và là nơi sinh của Puṇṇa. Có sự giao thương thường xuyên giữa Bhārukaccha, Suppāraka và Suvaṇṇabhūmi (xem, ví dụ như, Ap.ii.476 (vs.13f.); AN­a.i.156). Từ Suppāra đến Sāvatthī là một trăm hai mươi do-tuần (Dhp­a.ii.214; Ud­a.85), Sāvatthī nằm ở phía đông bắc của Suppāra. Ud­a.84 (*pubbuttaradisābhāgāyaṁ*). Vijaya và những người đi theo ngài đã đổ bộ ở đó trên đường đến Ceylon, nhưng đã phải rời đi vì người dân bị chọc giận bởi hành vi của họ (Mhv.vi.46; Dpv.ix.15f). Ubbarī xưa kia đã sinh ra ở Suppāraka là con gái của một người buôn ngựa (Dhp­a.iv.50). Đó cũng là nơi cư trú của Bāhiya Dārucīriya.
+
+Suppāraka (Skt. Sūrpāraka) được xác định là Sopāra hiện đại ở quận Thāna, phía bắc Bombay. Imperial Gazetteer của Ấn Độ sv., nhưng xem Sunāparanta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "19"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissa 19. One of the chief lay patrons of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 19. Một trong những nam thí chủ chính của Padumuttara Buddha. Bv.xi.26.
 
 ## Notes

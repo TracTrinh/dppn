@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "26"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 26. A Thera in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 26. Một vị Trưởng lão ở Piyaṅgudīpa. Chính ngài là người đã nhận bữa ăn do Duṭṭhagāmaṇī dâng khi ông đang chạy trốn khỏi anh trai mình. Mhv.xxiv.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mārasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mārasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mārasutta. Rādha hỏi Đức Phật ý nghĩa của “Māra” là gì. Bất cứ điều gì hoại diệt, Đức Phật nói, chẳng hạn như sắc thân, thọ, tưởng, v.v. SN.iii.188.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Niddesa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -46,6 +46,14 @@ There is a tradition (NidA. p.1), which ascribes the authorship of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tác phẩm chú giải được bao gồm trong Chánh Tạng như một phần của Khuddakanikāya. Nó thường được chia thành hai cuốn sách: Cūḷa Niddesa và Mahā Niddesa.
+
+Cūḷa Niddesa chứa đựng những lời chú giải về Khaggavisāṇasutta và mười sáu bài kinh (*Suttas*) của Pārāyaṇavagga thuộc Suttanipāta, trong khi Mahā Niddesa đề cập đến mười sáu bài kinh (*Suttas*) của Aṭṭhakavagga.
+
+Một điều quan trọng là Cūḷa Niddesa không chứa những lời chú giải về năm mươi sáu bài kệ giới thiệu (*Vatthugāthā*), vốn mở đầu cho Pārāyaṇavagga như hiện được tìm thấy trong Suttanipāta. Điều này ủng hộ cho giả thuyết rằng vào thời điểm Cūḷa Niddesa được viết ra, Pārāyaṇavagga là một tuyển tập riêng biệt, và rằng Khaggavisāṇasutta không thuộc về bất kỳ nhóm cụ thể nào. Điều tương tự cũng xảy ra với Mahā Niddesa và Aṭṭhakavagga.
+
+Các lời chú giải trong Niddesa dường như được mô phỏng theo những lời giải thích giải nghĩa, chẳng hạn như những gì được cho là của Mahā Kaccāna ở rải cụ thể trong các *Piṭaka* (vd., Madhupiṇḍikasutta (MN.i.110f); cũng xem SN.iii.9) và của Sāriputta (vd., Saṅgītisutta, DN.iii.207f).
+
+Có một truyền thống (NidA. p.1) gán quyền tác giả của Niddesa cho Sāriputta. Có một Bản chú giải về tác phẩm này, được gọi là Saddhammapajjotikā, do Upasena soạn. Nó được viết ở Tích Lan theo yêu cầu của một vị tỳ-kheo tên là Deva Thera.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Visākhābhāṇavāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Visākhābhāṇavāra. The second chapter of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhābhāṇavāra. Chương thứ hai của Cīvarakhandhaka thuộc Mahā Vagga. Vin.i.281-94.
 
 ## Notes

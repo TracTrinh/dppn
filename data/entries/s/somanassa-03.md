@@ -28,6 +28,6 @@ Somanassa 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Somanassa 03. Một Pacceka Buddha. Một lần nọ, khi Đức Phật đang ở tại Indasālaguhā trong Vediyakapabbata, một con cú trở nên quý mến Ngài, và ngay cả khi Ngài đi khất thực cũng theo đưa nửa chặng đường, đợi Ngài trở về, rồi cùng đi với Ngài trở lại. Một ngày khi Đức Phật đang ngồi trong pháp hội các tỳ-khẻo, con cú xuống từ tảng đá của nó và lạy Ngài bằng cách hạ đôi cánh, chắp hai chân lại và ứp đầu xuống. Đức Phật, thấy điều này, mỉm cười, và nói, đạp lại câu hỏi của Ānanda, rằng một trăm ngàn *kappa* sau, con chim sẽ trở thành một Pacceka Buddha, tên là Somanassa. MN­a.i.255f.; Khp-a.151.
+Somanassa 03. Một Pacceka Buddha. Một lần nọ, khi Đức Phật đang ở tại Indasālaguhā trong Vediyakapabbata, một con cú trở nên quý mến Ngài, và ngay cả khi Ngài đi khất thực cũng theo đưa nửa chặng đường, đợi Ngài trở về, rồi cùng đi với Ngài trở lại. Một ngày khi Đức Phật đang ngồi trong pháp hội các tỳ-kheo, con cú xuống từ tảng đá của nó và lạy Ngài bằng cách hạ đôi cánh, chắp hai chân lại và cúi đầu xuống. Đức Phật, thấy điều này, mỉm cười, và nói, đáp lại câu hỏi của Ānanda, rằng một trăm ngàn *kappa* sau, con chim sẽ trở thành một Pacceka Buddha, tên là Somanassa. MN­a.i.255f.; Khp-a.151.
 
 ## Notes

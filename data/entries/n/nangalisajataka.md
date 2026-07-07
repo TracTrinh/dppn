@@ -5,7 +5,7 @@ base_headword: "Naṅgalīsajataka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,8 @@ One day the youth saw a snake, and on being asked by the Bodhisatta how it looke
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naṅgalīsajataka (Ja 123). Một lần vị Bodhisatta là một giáo sĩ Bà-la-môn, và trong số năm trăm học trò của ngài có một thanh niên rất ngốc nghếch nhưng hết lòng tận tụy, người có tật luôn nói ra những điều sai trái. Với hy vọng chữa khỏi cho cậu, vị Bodhisatta yêu cầu cậu hãy báo cáo lại bất cứ thứ gì mà cậu nhìn thấy.
+
+Một ngày nọ, người thanh niên nhìn thấy một con rắn, và khi được vị Bodhisatta hỏi nó trông như thế nào, cậu trả lời, "giống như thân của một cái cày" (*naṅgalīsa*). Vị Bodhisatta nghĩ rằng sự so sánh đó là tốt, nhưng khi nó lại được sử dụng cho một con voi, một cây mía, mật đường và thậm chí là sữa đông và sữa, ngài nhận ra rằng cậu bé vô phương cứu chữa. Câu chuyện này được kể lại liên quan đến Lāḷudāyi, người không bao giờ đưa ra một lời nhận xét thích đáng. Lāḷudāyi được nhận diện là người thanh niên đó. Ja.i.446ff.
 
 ## Notes

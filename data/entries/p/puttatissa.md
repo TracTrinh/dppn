@@ -5,7 +5,7 @@ base_headword: "Puttatissa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puttatissa. An astrologer (*gaṇaka*), one of the four envoys sent by <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puttatissa. Một nhà chiêm tinh (*gaṇaka*), một trong bốn sứ giả được Devānampiyatissa cử đến triều đình của Asoka. Dpv.xi.29, 31; đối chiếu với Mhv­ṭ. 302, nơi ông được gọi là Tissa.
 
 ## Notes

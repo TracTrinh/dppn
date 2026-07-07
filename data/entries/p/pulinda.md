@@ -5,7 +5,7 @@ base_headword: "Pulindā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Pulindā. The name given to the wild tribes of Ceylon, evidently to be identifie
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulindā. Tên được đặt cho các bộ lạc hoang dã ở Tích Lan, rõ ràng là được đồng nhất với những người Vedda ngày nay. Tổ tiên của họ được bắt nguồn từ Jīvahattha và Dipellā, con trai và con gái của Vijaya với Kuveṇī. Mhv.vii.58; Mhv­ṭ.264, 266.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ñātika"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -76,6 +76,18 @@ The books spells the name of the village in two ways: Ñātika and Nādika. This
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở xứ Vajjī trên con đường lớn giữa Koṭigāma và Vesālī. Lần đầu tiên Đức Phật đến đó trong một chuyến du hành của Ngài, và những cư dân, vì rất kính mến Ngài, đã xây cho Ngài một chỗ ở bằng gạch, Giñjakāvasatha (*q.v.*), nơi mà theo thời gian, đã trở thành một *vihāra* lớn. MN-a.i.424. Về sau, Đức Phật dường như đã lưu lại Ñātika vài lần.
+
+Theo Cūḷa Gosiṅgasutta, Ngài đã lưu lại đó ngay sau cuộc ly giáo của các tỳ-kheo Kosambī và tìm đến Gosiṅgasālavana, rõ ràng là ở vùng lân cận nơi Anuruddha, Nandiya và Kimbila đang cư ngụ (MN.i.205. nhưng theo Vin.i.350f, phần ghi lại sự kiện này, thì họ ở Pācīnavaṁsadāya và Đức Phật đến đó từ Bālakaloṇakāragāma).
+
+Đức Phật cũng đã viếng thăm Ñātika trong chuyến du hành cuối cùng của Ngài, khi trên đường đến Kusinārā, và đang lưu lại đó vào ngày Ngài nhận sự cúng dường của Ambapālī và món quà Ambapālivana của bà (Vin.i.232f.).
+
+Rõ ràng là trong kỳ lưu lại này, Ānanda đã thỉnh vấn Đức Phật về số phận của nhiều cư dân đạo hạnh ở Ñātika, những người là tín đồ nhiệt thành đối với giáo pháp của Đức Phật. Trong số họ, một vài người được nhắc tên – vị tỳ-kheo Sāḷha, vị tỳ-kheo-ni Nandā, Sudatta, Kakudha, Kāliṅga, Nikaṭa, Kaṭissabha, Tuṭṭha, Santuṭṭha, Bhadda, Subhadda và nữ cư sĩ (*upāsikā*) Sugatā. Đức Phật nói cho Ānanda về điểm đến của họ, và cho tôn giả biết rằng hơn chín mươi người của Ñātika đã trở thành các *Sakadagāmī* và hơn năm trăm người trở thành các *Sotāpanna*. Sau đó, Ngài tiếp tục thuyết bài pháp đã trở nên nổi tiếng là *Dhammadāsa*. D.ii.91ff.; SN.v.356ff., cũng ghi lại những gì rõ ràng là cùng một sự kiện. Hai cái tên nữa, Asoka và Asokī, xuất hiện trong đoạn Saṁyutta.
+
+Janavasabhasutta, cũng được thuyết tại Ñātika, rõ ràng là dựa trên sự kiện này và có lẽ là một bản chi tiết hơn của cùng sự kiện (DN.ii.200ff.). Saṁyuttanikāya và Aṅguttaranikāya ghi lại những bài kinh (*Suttas*) khác về các chủ đề khác nhau được thuyết tại Ñātika. Xem s.v. Giñjakāvasathasutta và cả Ñātikasutta; cũng xem SN.iv.90; AN.iii.303ff., AN.iii.306f., AN.iv.316f. và AN.iv.320f.
+
+Cũng có nhắc đến những cuộc thảo luận giữa Đức Phật và Kaccāyana (SN.ii.153) và Sandha (AN.v.322f.), và cũng có một cuộc thảo luận giữa Sabhiya Kaccāyana và Vacchagotta (SN.iv.401f.).
+
+Các sách đánh vần tên của ngôi làng theo hai cách: Ñātika và Nādika. Sự hồ nghi về cách đánh vần này dường như đã tồn tại từ những thời rất sớm, như sự nhầm lẫn rõ ràng về từ nguyên khiến chúng ta tin như vậy. Trong Chú giải Saṁyutta (Saṁyutta Commentary, SN-a.ii.56), Buddhaghosa nói "*Ñātiketi dvinnaṁ ñātakānaṁ gāme*." Tuy nhiên, trong Chú giải Dīgha (Dīgha Commentary, DN-a.ii.543), ngài nói "*Ñādikā ti etaṁ taḷākaṁ nissāya dviṇṇaṁ cūlapitumahāpituputtānaṁ dve gāmā. Nādike ti ekasmiṁ ñātigāme*." Những lời giải thích này dường như ủng hộ cả hai cách đánh vần – Ñātika và Nādika— Ñātika vì đó là một “*ñātigāma* ” và Nādika vì nó gần ao nước Nādikā. (MN-a.ii.424 xác định rõ rằng tên của cái ao cũng là Nādikā (*Nādike viharati ti Nādiki nāma eka*, v.v.). Rhys Davids cho rằng Nādikā (số nhiều) là tên một gia tộc và Nādika là tên ngôi làng của gia tộc đó (Dial.ii.97.n.1). Woodward cũng ủng hộ cách đọc Nādika, và đề xuất rằng cái tên này có liên quan đến *nadī* (sông), và dẫn chiếu đến quyển sách của Walters về Chwang (ii. 86), trong đó có nhắc đến Nātaka nằm trên sông Hằng giữa Vesālī và Patna. (GS.iii.217.n.4).
 
 ## Notes

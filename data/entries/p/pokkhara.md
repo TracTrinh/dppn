@@ -5,7 +5,7 @@ base_headword: "Pokkhara"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Pokkhara. A musical instrument, or, perhaps, a divine musician. Vv-a.93; see als
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkhara. Một nhạc cụ, hoặc có lẽ là một nhạc công thiên giới. Vv-a.93; xem thêm chú thích ở p.372.
 
 ## Notes

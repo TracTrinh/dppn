@@ -5,7 +5,7 @@ base_headword: "Tissavāpi"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Tissavāpi 01. A tank near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissavāpi 01. Một hồ chứa nước gần Anurādhapura, có lẽ được xây dựng bởi Devānampiyatissa (Mhv.xx.20). Dường như có một phong tục là nhà vua sẽ đi tắm nghi lễ ở Tissavāpi, sau lễ đăng quang của mình (ví dụ, Mhv.xxvi.7; xxxv.38; Mhv­ṭ.645), và, trong dịp này, những người Lambakaṇṇa sẽ đóng vai trò làm vệ sĩ cho nhà vua (Xem, ví dụ, Mhv.xxxv.16, 38). Con đường từ Mahiyaṅgama đến Anurādhapura nằm dọc theo rìa của Tissavāpi (Mhv.xxxvi.59).
 
 ## Notes

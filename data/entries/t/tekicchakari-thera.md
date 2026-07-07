@@ -5,7 +5,7 @@ base_headword: "Tekicchakārī Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -39,6 +39,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tekicchakārī Thera (Tekicchakāni Thera). Ông là con trai của Bà-la-môn Subandhu, và được gọi như vậy bởi vì ông đã được đưa ra thế giới an toàn nhờ sự giúp đỡ của các y sĩ. Khi Tekicchakārī lớn lên, cha của ông, bằng trí tuệ và chính sách của mình, đã chuốc lấy sự ganh ghét và nghi ngờ của Cāṇakka, vị đại thần của Candagutta, người đã ném ông vào ngục. Tekicchakārī trong lúc hoảng sợ đã bỏ trốn, và sau khi nương nhờ một vị tỳ-kheo ở rừng, đã gia nhập Tăng đoàn và sống ngoài trời, không bao giờ ngủ và bất chấp nóng lạnh. Māra, dưới hình dạng một người chăn bò, đã cố cám dỗ ông, nhưng ông đã phát triển tuệ minh sát và trở thành một bậc *Arahant*.
+
+Vào thời của Đức Phật Vipassī, ông được sinh ra trong gia đình của một y sĩ và đã chữa bệnh cho một tỳ-kheo tên là Asoka cùng nhiều người khác. Tám *kappa* trước, ông là một vị vua tên là Sabbosadha (Thag.384-6; Thag­a.i.440f).
+
+Ông có lẽ chính là Tikicchaka trong Apadāna (i.190).
 
 ## Notes

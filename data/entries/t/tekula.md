@@ -5,7 +5,7 @@ base_headword: "Tekula"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tekula. A Thera who, with his brother <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tekula. Một vị Thera, người mà cùng với anh em của mình là Yamelu, đã xin phép Đức Phật để dịch giáo pháp của Ngài sang tiếng Sanskrit. Vin.ii.139.
 
 ## Notes

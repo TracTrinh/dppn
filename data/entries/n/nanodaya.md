@@ -5,7 +5,7 @@ base_headword: "Ñāṇodaya"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ñāṇodaya. Tác phẩm đầu tiên do Buddhaghosa viết khi ngài vẫn còn ở Ấn Độ (Cv.xxxvii.225). Nó có lẽ là về một chủ đề triết học nào đó.
 
 ## Notes

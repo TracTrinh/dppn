@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "10"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nārada 10. The Bodhisatta born as a <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 10. Vị Bodhisatta sinh ra làm một Phạm thiên (Mahā Brahma). Ngài đã giúp Rujā thuyết phục cha của cô, Aṅgati, về chân lý như đã được cô tuyên bố. Ngài giáng trần và làm cho Aṅgati kinh hãi bằng cách cho ông thấy những nỗi kinh hoàng của địa ngục. Trong ngữ cảnh này ngài được miêu tả là thuộc về dòng dõi Kassapagotta. Để biết chi tiết xem Mahā Nāradakassapajātaka. Ja.vi.220, 242 ff.; Ap.ii.483.
 
 ## Notes

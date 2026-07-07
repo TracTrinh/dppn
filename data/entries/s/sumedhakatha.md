@@ -5,7 +5,7 @@ base_headword: "Sumedhakathā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumedhakathā. The first section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhakathā. Phần đầu tiên của Bản Chú giải Jātaka, kể về cuộc gặp gỡ của Sumedha với Dīpaṅkara Buddha. Ja.i.2-28.
 
 ## Notes

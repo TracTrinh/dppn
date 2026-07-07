@@ -5,7 +5,7 @@ base_headword: "Sundara"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sundara 02. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundara 02. Một vị tu sĩ của Rājagaha. Một ngày nọ, khi ông đang đi bộ trên đường, một người phụ nữ yêu cầu ông dừng lại một lát để cô ta có thể đảnh lễ ông, và, vén vạt áo của ông lên, đã ngậm dương vật của ông vào miệng cô ta. Một sự nghi ngờ nảy sinh trong tâm trí ông về việc liệu có bất kỳ sự chê trách nào gắn với ông hay không và ông đã tham khảo ý kiến Đức Phật, người nói rằng vì Sundara đã không ưng thuận hành động đó, nên ông vô tội. Vin.iii.36; so sánh câu chuyện về Thánh Anthony.
 
 ## Notes

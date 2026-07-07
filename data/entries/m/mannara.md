@@ -5,7 +5,7 @@ base_headword: "Mannāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,6 @@ Mannāra. A village in Ceylon (the modern Mannar) near <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mannāra. Một ngôi làng ở Tích Lan (Mannar hiện đại) gần Mahā Tittha. Tại đó Vīradeva đã đánh bại Vikkamabāhu (Cv.xli.39ff). Ngôi làng sở hữu một bến cảng, nơi Māgha và Jayabāhu thiết lập các công sự. Cv.lxxxiii.16.
 
 ## Notes

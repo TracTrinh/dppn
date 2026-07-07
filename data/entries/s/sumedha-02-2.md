@@ -5,7 +5,7 @@ base_headword: "Sumedhā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumedhā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhā 02. Mẹ của Dīpaṅkara Buddha. Ja.i.29; Bv.ii.207.
 
 ## Notes

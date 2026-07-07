@@ -5,7 +5,7 @@ base_headword: "Vimalā"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vimalā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalā 01. Ni sư Vimalā. Con gái của một kỹ nữ ở Vesālī. Một ngày nọ, thấy Moggallāna đang đi khất thực ở Vesālī, cô đã đi đến chỗ ở của ngài và cố gắng quyến rũ ngài. Chú giải nói thêm rằng, một số người cho là cô bị những kẻ ngoại đạo xúi giục. Sự việc này được nhắc đến tại Thag­a.ii.178, nhưng tên của Vimalā không được đưa ra. Vị Trưởng lão đã quở trách và răn dạy cô, và cô trở thành một nữ cư sĩ, sau này xuất gia gia nhập Tăng đoàn. Ở đó sau nhiều nỗ lực, cô đã trở thành một vị *Arahant*. Thīg­a.76f.; các bài kệ Udāna của cô được bao gồm trong Thīg.vs.72-6.
 
 ## Notes

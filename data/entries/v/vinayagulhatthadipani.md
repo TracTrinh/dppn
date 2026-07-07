@@ -5,7 +5,7 @@ base_headword: "Vinayagūḷhatthadīpanī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vinayagūḷhatthadīpanī. A work ascribed to <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayagūḷhatthadīpanī. Một tác phẩm được cho là của Chapaṭa. Nó giải thích các đoạn văn khó của Vinayapiṭaka. Bode, 18.
 
 ## Notes

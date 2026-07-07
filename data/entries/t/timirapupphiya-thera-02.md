@@ -5,7 +5,7 @@ base_headword: "Timirapupphiya Thera"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Timirapupphiya Thera 02. An Arahant. Ninety-one *kappas* ago he saw a <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timirapupphiya Thera 02. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài nhìn thấy một Pacceka Buddha đi dọc theo sông Candabhāgā và đã dâng lên Đức Phật một bông hoa *timira* (Ap.i.288f).
 
 ## Notes

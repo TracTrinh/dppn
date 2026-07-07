@@ -5,7 +5,7 @@ base_headword: "Supaṇṇasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Supaṇṇasaṁyutta. The thirtieth section of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supaṇṇasaṁyutta. Phẩm thứ ba mươi của Saṁyuttanikāya. SN.iii.246-9.
 
 ## Notes

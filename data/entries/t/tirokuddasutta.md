@@ -5,7 +5,7 @@ base_headword: "Tirokuḍḍasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -35,6 +35,10 @@ The Buddha explained this to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirokuḍḍasutta. Một trong năm bài kinh (*Sutta*) được bao gồm trong Khuddakapāṭha. Những linh hồn quá cố ám ảnh những nơi ở cũ của họ và những người thân giàu lòng trắc ẩn của họ nên ban cho họ thức ăn, thức uống, v.v. đúng lúc và cũng nên nhân danh họ dâng quà cho các tỳ-kheo. Nhờ vậy họ sẽ được hạnh phúc (Khp.p.6).
+
+Bài kinh (*Sutta*) này được thuyết vào ngày thứ ba trong chuyến thăm của Đức Phật đến Rājagaha. Vào đêm hôm trước, các ngạ quỷ (*Peta*) đã gây ra một sự náo động lớn trong cung điện của Bimbisāra. Trong thời của Phussa Buddha, họ là những công nhân được giao nhiệm vụ phân phát đồ khất thực cho Đức Phật và các tỳ-kheo của ngài, nhưng họ đã chểnh mảng nhiệm vụ của mình và đã chiếm đoạt một số món quà cho riêng họ. Kết quả là, họ phải chịu đựng trong một thời gian dài ở địa ngục và trở thành các ngạ quỷ (*Peta*) trong thời của Kassapa Buddha. Kassapa bảo họ rằng trong tương lai, Bimbisāra, người từng là người thân của họ, sẽ khoản đãi Gotama Buddha và hồi hướng công đức cho họ. Họ đã chờ đợi cơ hội này từ lâu và khi Bimbisāra không đáp ứng được mong đợi của họ, họ đã la hét ầm ĩ.
+
+Đức Phật đã giải thích điều này cho Bimbisāra, người sau đó đã bố thí nhân danh các ngạ quỷ (*Peta*), qua đó làm cho họ hạnh phúc. Nhân dịp này bài kinh (*Sutta*) đã được thuyết giảng. Khp-a.202ff; cp. Pv-a.19ff.
 
 ## Notes

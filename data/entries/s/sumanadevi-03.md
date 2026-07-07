@@ -5,7 +5,7 @@ base_headword: "Sumanadevī"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sumanadevī 03. Step sister of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chị em gái kế của Khallāṭanāga. Bà có ba người con trai – Tissa, Abhaya và Uttara những người đã âm mưu chống lại nhà vua. Khi âm mưu thất bại, họ đã nhảy vào lửa tại nơi hiện nay là *cetiya* Abhayagiri. Mhv­ṭ. 612.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nayanāyudha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nayanāyudha. One of the four most powerful weapons in the world. It belongs to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong bốn vũ khí uy mãnh nhất trên thế giới. Nó thuộc về Yama, và có vẻ tương đương với con mắt thứ ba của Siva. Dưới ánh nhìn từ "vũ khí" này, nhiều ngàn *kumbhaṇḍa* bị nghiền nát thành từng mảnh. Snp­a.i.225.
 
 ## Notes

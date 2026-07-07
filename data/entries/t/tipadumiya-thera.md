@@ -5,7 +5,7 @@ base_headword: "Tipadumiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ Tipadumiya was reborn as a *Deva*, and owned a palace called <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tipadumiya Thera. Một vị *Arahant*. Vào thời của Padumuttara Buddha, ngài là người làm vòng hoa cho nhà vua, và, khi nhìn thấy Đức Phật trong lúc đang trên đường đến cung điện, ngài đã tung ba bông hoa sen lên không trung, những bông hoa này tạo thành một tán che trên đầu Đức Phật.
+
+Tipadumiya tái sinh thành một chư thiên (*Deva*), và sở hữu một cung điện tên là Mahā Vitthārika, cao ba trăm do-tuần. Ap.i.124ff.
 
 ## Notes

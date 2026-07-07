@@ -5,7 +5,7 @@ base_headword: "Nikkhantasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nikkhantasutta. Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lần Vaṅgīsa, ngay sau khi được xuất gia, đang ở tại Aggāḷavacetiya cùng với thầy của mình là Nigrodha Kappa. Trong lúc người thầy đi vắng, một nhóm phụ nữ ăn mặc sặc sỡ đã đến *vihāra* (*tu viện*), và Vaṅgīsa đã bị xao động dữ dội trong tâm. Nhưng ngài đã nỗ lực hết mình, và nghĩ đến lòng trung thành mà mình nợ Đức Phật, ngài đã chiến thắng được sự bất mãn của bản thân. SN.i.185f; những bài kệ cũng được tìm thấy trong Thag.1209-13.
 
 ## Notes

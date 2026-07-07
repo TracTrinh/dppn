@@ -5,7 +5,7 @@ base_headword: "Tikavagga"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tikavagga. The eleventh chapter of the *Chakkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikavagga. Chương thứ mười một của *Chakkanipāta* thuộc Aṅguttaranikāya. AN.iii.445-9.
 
 ## Notes

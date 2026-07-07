@@ -5,7 +5,7 @@ base_headword: "Vinelapupphiya Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vinelapupphiya Thera. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinelapupphiya Thera. *v.l.* Minelapupphiya Thera. Một vị *Arahant*. Cách đây ba mươi mốt *kappa* ông đã gặp Đức Phật Sikhī và dâng cúng ngài một bông hoa *vinela*. Cách đây hai mươi chín *kappa* ông là một vị vua tên là Sumeghaghana (Ap.i.203f). Rất có thể ông cũng chính là Trưởng lão Rāmaṇeyya. Thag­a.i.121.
 
 ## Notes

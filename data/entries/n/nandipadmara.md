@@ -5,7 +5,7 @@ base_headword: "Nandipadmara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandipadmara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandipadmara. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara; ông bị quân đội Sinhalese bắt giữ. Cv.lxxvii.86.
 
 ## Notes

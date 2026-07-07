@@ -5,7 +5,7 @@ base_headword: "Nigrodhasālakhaṇḍa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nigrodhasālakhaṇḍa. A village in Ceylon. Ras.ii.46.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Tích Lan. Ras.ii.46.
 
 ## Notes

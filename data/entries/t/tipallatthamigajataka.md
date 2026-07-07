@@ -5,7 +5,7 @@ base_headword: "Tipallatthamigajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tipallatthamigajātaka (Ja 16). Bodhisatta từng sinh ra là một con hươu đực, thủ lĩnh của một bầy hươu. Rāhula là con trai của em gái ngài và được giao phó cho ngài để học "những mánh khóe của loài hươu." Con hươu non làm theo lời dạy của ngài một cách siêng năng và một ngày nọ, bị bắt trong lưới, nó đã giả chết và nhờ vậy mà trốn thoát.
+
+Câu chuyện được kể liên quan đến Rāhula. Một lần, tại Aggāḷavacetiya, Đức Phật, nhận thấy các tỳ-kheo có thói quen ngủ với các sa-di trong pháp đường sau bài pháp, đã thông qua một điều luật coi điều này là tội *pācittiya*. Kết quả là, Rāhula không thể tìm thấy chỗ ở và đã ngủ lại qua đêm trong nhà vệ sinh của Đức Phật, vì không muốn phạm luật. Đức Phật phát hiện ra điều này, tập hợp các tỳ-kheo lại và khiển trách họ vì sự vô tâm của họ, bởi vì nếu họ đối xử với con trai ngài như vậy, thì họ sẽ làm gì với các sa-di khác. Điều luật về chỗ ở sau đó đã được sửa đổi. Câu chuyện được kể lại để cho thấy sự siêng năng của Rāhula trong việc tuân theo các giới luật (Ja.i.160ff; cp. Vin.iv.16).
+
+Jātaka dường như cũng được gọi là Sikkhākāmajātaka. JA.1876, p.516.
 
 ## Notes

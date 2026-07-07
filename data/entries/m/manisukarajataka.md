@@ -5,7 +5,7 @@ base_headword: "Maṇisūkārajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,8 @@ The story was told in reference to an unsuccessful attempt by the heretics to ac
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇisūkārajātaka (Ja 285). Bodhisatta sống ở Himālaya như một ẩn sĩ, và gần túp lều của ngài có một hang động pha lê nơi ba mươi con lợn rừng sinh sống. Một con sư tử thường hay đi lang thang gần hang động và bóng của nó phản chiếu trong đó. Điều này làm những con lợn rừng sợ hãi đến nỗi một ngày nọ, chúng lấy bùn từ một vũng nước gần đó và cọ vào pha lê; nhưng do lông cứng của lợn rừng, chúng càng cọ, pha lê càng trở nên sáng hơn. Trong tuyệt vọng, chúng thỉnh vấn Bodhisatta, và ngài bảo chúng rằng một viên pha lê không thể bị làm bẩn.
+
+Câu chuyện được kể liên quan đến một nỗ lực bất thành của các ngoại đạo nhằm buộc tội Đức Phật đã quyến rũ Sundarī (*q.v.*) và sau đó gây ra cái chết của cô. (Ja.ii.415-8.)
 
 ## Notes

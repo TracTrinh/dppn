@@ -5,7 +5,7 @@ base_headword: "Todeyya"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Todeyya 02. A disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Todeyya 02. Một đệ tử của Bāvarī (Snp.vv.1006). Ông đã đến thăm Đức Phật, và những câu hỏi của ông, cùng với những câu trả lời do Đức Phật đưa ra, được ghi lại trong Todeyyamāṇavapucchā (Snp.vv.1088-91). Ông trở thành một *Arahant* (Snp­a.ii.597).
 
 ## Notes

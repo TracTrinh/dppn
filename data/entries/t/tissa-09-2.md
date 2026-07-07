@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "09"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissā 09. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 09. Con gái của Kassapa, người sau này trở thành Kassapa V. (?) và là vương hậu của Kassapa IV. (Cv.lii.2).
 
 ## Notes

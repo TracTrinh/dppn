@@ -5,7 +5,7 @@ base_headword: "Tissarājamaṇḍapa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissarājamaṇḍapa. The name given to the pavilions erected by <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissarājamaṇḍapa. Cái tên được đặt cho các gian hàng do Vohārīkatissa dựng lên ở Mahā Vihāra và Abhayagiri (Mhv.xxxvi.31; Mhv.Trs.258, n.3).
 
 ## Notes

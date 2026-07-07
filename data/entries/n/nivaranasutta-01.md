@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nīvaraṇasutta 01. The five *nīvaraṇas* make one blind, the seven *bojjha�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇasutta 01. Năm *nīvaraṇas* làm cho một người trở nên mù quáng, bảy *bojjhaṅgas* mang lại cho một người ánh sáng và trí tuệ. SN.v.97f.
 
 ## Notes

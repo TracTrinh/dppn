@@ -5,7 +5,7 @@ base_headword: "Vinayadharasuttā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vinayadharasuttā. A group of four *Suttas* on seven qualities which make a monk
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayadharasuttā. Một nhóm gồm bốn *Sutta* bàn về bảy phẩm chất khiến một vị tu sĩ trở nên tinh thông trong Vinaya. AN.iv.140f.
 
 ## Notes

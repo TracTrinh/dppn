@@ -5,7 +5,7 @@ base_headword: "Mantidatta Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -32,6 +32,8 @@ In the conversation <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mantidatta Thera. Ngài từng là một viên quan của Pasenadi, nhưng sau đó đã xuất gia. Chính một cuộc trò chuyện giữa ngài và Dhanuggahatissa, bị các gián điệp của Pasenadi nghe lén được, đã dẫn đến việc Pasenadi thay đổi chiến thuật của mình và đánh bại Ajātasattu. Ja.iv.343; nhưng xem Ja.ii.403, nơi người bạn đồng hành của Dhanuggatissa được gọi là Utta, đây có lẽ là một cách đọc sai của Datta.
+
+Trong cuộc trò chuyện, Mantidatta được gọi là Datta, đó hiển nhiên là tên cá nhân của ngài, tiền tố Manti được gán cho ngài vì là quan đại thần của nhà vua và để phân biệt ngài với những người tên Datta khác.
 
 ## Notes

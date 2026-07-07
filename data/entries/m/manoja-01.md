@@ -5,7 +5,7 @@ base_headword: "Manoja"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Manoja 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manoja 01. Vua của Brahmavaḍḍhana (Benares). Ông được nhận diện là Sāriputta (Ja.v.332). Xem câu chuyện của ông trong Soṇa Nandajātaka (Ja 532).
 
 ## Notes

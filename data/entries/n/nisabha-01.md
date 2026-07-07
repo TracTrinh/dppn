@@ -5,7 +5,7 @@ base_headword: "Nisabha"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nisabha 01. One of the two chief disciples of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisabha 01. Một trong hai vị Thượng thủ thanh văn của Đức Phật Anomadassī (Bv.viii.22; Ja.i.36; Dhp­a.i.88). Pañcasīlasamādāniya Thera đã thọ giới từ ngài vào thời của Đức Phật Anomadassī. Ap.i.76; xem thêm 74 (?).
 
 ## Notes

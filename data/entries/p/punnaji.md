@@ -5,7 +5,7 @@ base_headword: "Puṇṇaji"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇaji. One of the four friends of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaji. Một trong bốn người bạn của Yasa những người mà, khi nghe tin Yasa được Đức Phật xuất gia, đã đến thăm ông và được đưa đến gặp Đức Phật. Đức Phật đã nói chuyện với họ và họ trở thành các bậc *Arahant*. Họ nằm trong số mười một vị *Arahant* đầu tiên, và đã được xuất gia thông qua lời gọi “*ehibhikkhupabbajjā*.” Vin.i.18f.
 
 ## Notes

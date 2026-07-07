@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vijjāsutta 04. Knowledge is knowledge of *dukkha*, its cause, etc. SN.v.429.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 04. Minh là sự hiểu biết về *dukkha*, nguyên nhân của nó, v.v. SN.v.429.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suññakathā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suññakathā. The tenth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suññakathā. Chương thứ mười của Yuganandhavagga thuộc Paṭisambhidāmagga. Paṭis.ii.177-84.
 
 ## Notes

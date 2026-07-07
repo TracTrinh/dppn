@@ -5,7 +5,7 @@ base_headword: "Nidānasuttā"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nidānasuttā 03. Absence of lust, malice and delusion prevents the arising of a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sự vắng mặt của tham, sân và si ngăn chặn sự sinh khởi của các hành động. AN.i.264.
 
 ## Notes

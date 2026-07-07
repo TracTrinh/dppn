@@ -5,7 +5,7 @@ base_headword: "Viṭṭāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Viṭṭāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viṭṭāra. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.146.
 
 ## Notes

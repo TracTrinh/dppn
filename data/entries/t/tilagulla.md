@@ -5,7 +5,7 @@ base_headword: "Tilagulla"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tilagulla. A village in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilagulla. Một ngôi làng ở Dakkhiṇadesa của Ceylon. Nó được đề cập trong bản ghi chép về các chiến dịch của Vijayabāhu I. (Cv.lviii.43). Gắn liền với nó là một hồ chứa nước. Cv.lxviii.44; Cv.Trs.i.206, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nibbidāsutta"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbidāsutta 04. Calling to mind the Buddha, the Dhamma, and the Saṅgha, etc.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Việc niệm tưởng đến Đức Phật, Pháp, và Tăng đoàn, v.v., dẫn đến sự nhàm chán và dẫn đến *Nibbāna*. AN.i.30.
 
 ## Notes

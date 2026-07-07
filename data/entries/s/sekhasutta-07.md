@@ -23,6 +23,6 @@ Sekhasutta 07. A detailed explanation of the difference between a learner (*sekh
 
 ## Vietnamese translation
 
-Sekhasutta 07. Giải thích chi tiết về sự khác biệt giữa học nhân (*sekha*) và bẬcc vô học (*asekha*). SN.v.229f.
+Sekhasutta 07. Giải thích chi tiết về sự khác biệt giữa học nhân (*sekha*) và bậc vô học (*asekha*). SN.v.229f.
 
 ## Notes

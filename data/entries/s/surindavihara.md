@@ -5,7 +5,7 @@ base_headword: "Surindavihāra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Surindavihāra. A monastery built in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surindavihāra. Một tu viện được xây dựng ở Sunandavatī bởi Vua Uggata cho Sobhita Buddha. Bv­a.138.
 
 ## Notes

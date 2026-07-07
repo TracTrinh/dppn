@@ -5,7 +5,7 @@ base_headword: "Sumukha"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumukha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumukha 01. Một thủ lĩnh Yakkha (Dạ-xoa), được kêu cầu trong lúc cần thiết bởi những người đi theo Đức Phật. DN.iii.205.
 
 ## Notes

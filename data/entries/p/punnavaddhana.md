@@ -5,7 +5,7 @@ base_headword: "Puññavaḍḍhana"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puññavaḍḍhana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññavaḍḍhana, Puṇṇavaḍḍhana. Con trai của Dhammadassī Buddha. Bv.xvi.14. Xem thêm Puṇṇavaḍḍhana.
 
 ## Notes

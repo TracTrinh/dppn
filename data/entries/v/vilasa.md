@@ -5,7 +5,7 @@ base_headword: "Vilasa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vilasa. A very rich man of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vilasa. Một người rất giàu có ở Kandalisālagāma. Của cải của ông nhiều đến mức khó tin, và nhà vua, muốn kiểm tra mức độ giàu có đó, đã yêu cầu ông cung cấp nhiều món xa xỉ khác nhau. Muggagāmavihāra được xây dựng trên chính địa điểm nơi các xe bò của ông, mang đậu xanh đến cho nhà vua, đã dừng lại bên ngoài thành phố. Ras.ii.130f.
 
 ## Notes

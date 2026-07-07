@@ -5,7 +5,7 @@ base_headword: "Sumedhayasa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumedhayasa. A king of twenty-nine *kappas* ago, a former birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhayasa. Một vị vua của hai mươi chín *kappa* trước, một tiền kiếp của Rāmaṇeyya Thera. Thag­a.i.121.
 
 ## Notes

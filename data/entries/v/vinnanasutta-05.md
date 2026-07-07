@@ -5,7 +5,7 @@ base_headword: "Viññāṇasutta"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viññāṇasutta 05. The desire and lust that is in eye-consciousness is a corr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇasutta 05. Sự khao khát và dục nhiễm có ở trong nhãn thức là một sự cấu uế của tâm; tương tự như vậy với những gì là nhĩ thức, v.v. SN.iii.232.
 
 ## Notes

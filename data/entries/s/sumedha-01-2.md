@@ -5,7 +5,7 @@ base_headword: "Sumedhā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -36,6 +36,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhā 01. Sumedhā Therī. Bà là con gái của Vua Koñca xứ Mantāvatī. Khi bà đến tuổi trưởng thành, cha mẹ bà đã để Anikadatta, vua xứ Vāraṇavatī, đến xem mắt bà. Nhưng bà thường xuyên lui tới với các tỳ-kheo-ni, và đã tự mình cắt tóc, và sau đó, tập trung sự chú ý vào ý niệm về "sự bất tịnh", bà đã đạt được *jhāna* thứ nhất. Khi cha mẹ bà cùng với Anikadatta bước vào phòng bà, bà đã hóa độ tất cả họ, và được phép gia nhập Tăng đoàn. Ngay sau đó bà đạt được quả vị *Arahant*.
+
+Vào thời của Koṇāgamana Buddha, bà và những người bạn của mình (sau này là Dhanañjānī và Khemā), những cô con gái của những người trong gia tộc, đã cùng nhau đồng ý xây dựng một tu viện lớn, và họ đã giao lại tu viện này cho Đức Phật và Tăng đoàn. Vào thời của Kassapa Buddha, bà thuộc về một gia đình rất giàu có và là bạn của bảy cô con gái của Kikī. Thīg.vs.448-522; Thīg­a.272f.; Ap.ii.512f.; so sánh 545 (vs. 24).
 
 ## Notes

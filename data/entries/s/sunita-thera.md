@@ -5,7 +5,7 @@ base_headword: "Sunīta Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ In the past he had spoken disparagingly of a <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunīta Thera. Ngài xuất thân từ một gia đình nhặt hoa bỏ đi ở Rājagaha và sống lay lắt một cuộc đời khốn khổ với tư cách là một người quét đường. Một ngày nọ Đức Phật thấy rằng Sunīta có duyên nghiệp để chứng quả vị *Arahant* và đã đến thăm ngài vào lúc bình minh, khi ngài đang quét đường và nhặt nhạnh những mẩu vụn vào giỏ của mình. Nhìn thấy Đức Phật, ngài vô cùng kính sợ, và, không tìm được chỗ nào để đứng, ngài đã đứng cứng đờ dựa vào một bức tường. Đức Phật tiến lại gần ngài và hỏi liệu ngài có muốn trở thành một tỳ-kheo không. Ngài bày tỏ niềm vui lớn, và Đức Phật đã truyền giới cho ngài bằng phép xuất gia (*pabbajjā*) “*ehi bhikkhu*”. Sau đó Ngài đưa Sunīta đến *vihāra* và dạy cho ngài một đề mục thiền, nhờ đó ngài đã đạt được quả vị *Arahant*. Sau đó rất nhiều người và chư thiên đã đến để đảnh lễ ngài, và Sunīta đã thuyết giảng cho họ về cách thức ngài đạt được thành tựu đó.
+
+Trong quá khứ ngài đã nói những lời miệt thị đối với một vị Pacceka Buddha. Thag.vss.620-31; Thag­a.i.540f.
 
 ## Notes

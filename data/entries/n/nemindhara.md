@@ -5,7 +5,7 @@ base_headword: "Nemindhara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nemindhara (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nemindhara (*v.l.* Nimindhara). Một trong bảy rặng núi bao quanh Sineru. Ja.vi.125; Vin-a.i.119; Snp­a.ii.443; Divy.217; Mvu.ii.300.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nirāsasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nirāsasutta. Three kinds of persons existing in the world: he who longs not, he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirāsasutta. Ba hạng người tồn tại trên thế gian: người không khao khát, người khao khát, và người đã chấm dứt sự khao khát. AN.i.107f.
 
 ## Notes

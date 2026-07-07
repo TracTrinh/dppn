@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunanda 04. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 04. Một vị Ājīvaka đã dâng cỏ làm chỗ ngồi cho Koṇḍañña Buddha. Bv­a.108.
 
 ## Notes

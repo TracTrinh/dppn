@@ -5,7 +5,7 @@ base_headword: "Puṭabhattasilā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Puṭabhattasilā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṭabhattasilā, Puṭabhattasela. Một ngọn núi ở Tích Lan, nơi Parakkamabāhu I đã xây dựng một tu viện cho huynh đệ hệ phái *Araññavāsī* (Cv. lxxxiv.24). Đây là nơi cư ngụ của nhiều học giả nổi tiếng, chẳng hạn như Dhammakitti. PLC. *s.v.*
 
 ## Notes

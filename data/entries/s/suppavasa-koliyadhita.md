@@ -5,7 +5,7 @@ base_headword: "Suppavāsā Koḷiyadhītā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -42,6 +42,10 @@ She is included in a list of eminent *upāsikās* (AN.iv.348), and is mentioned 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppavāsā Koḷiyadhītā. Mẹ của Sīvalī. Trước khi ngài sinh ra, bà đã nằm chịu những cơn đau đẻ dữ dội trong bảy ngày, và mãi cho đến khi Đức Phật ban phước cho bà, bà mới có thể sinh đứa trẻ ra. Người ta nói rằng đứa trẻ đã ở trong bụng bà bảy năm, và lý do cho điều này được đưa ra trong Asātarūpajātaka (Ja 100).
+
+Suppavāsā là con gái của vị *rājā* xứ Koḷiya (Ja.i.407). Chồng của bà là Licchavī Mahāli (Ap.ii.494,vs.28; nhưng xem AN­a.i.244, ở đó chồng của bà được mô tả là một quý tộc Sākiyan), và bà sống ở làng Koḷiyan của Sajjanela, nơi Đức Phật đã đến thăm bà và thuyết pháp cho bà về hiệu lực của việc cúng dường thức ăn (AN.ii.62f). Bà được Đức Phật miêu tả là tối thắng trong số những người dâng cúng thức ăn hảo hạng (*aggaṁ paṇītadāyikānaṁ*) (AN.i.26), một vị trí ưu việt mà bà đã thiết tha quyết tâm đạt được vào thời kỳ của Padumuttara Buddha (AN­a.i.244).
+
+Bà được liệt kê trong một danh sách các nữ cư sĩ (*upāsikā*) xuất chúng (AN.iv.348), và được nhắc đến cùng với Anāthapiṇḍika, Cūḷa Anāthapiṇḍika và Visākhā, như là những người dâng cúng các món quà được các vị tỳ-kheo hoan hỷ thọ nhận. Dhp­a.i.339; trong ngữ cảnh này bà được nói đến như là đang sống ở Sāvatthī; điều này có lẽ là sau khi Mahāli đến sống ở đó; cf. Dhp­a.iv.193f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Timanda"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Timanda. A monster fish of the deep sea, five hundred leagues in length. He eats
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timanda. Một con cá quái vật của biển sâu, dài năm trăm league (dặm biển). Nó chỉ ăn rong biển. Ja.v.462.
 
 ## Notes

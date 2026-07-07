@@ -5,7 +5,7 @@ base_headword: "Nisabha"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nisabha 02. One of the chief lay supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisabha 02. Một trong những nam cư sĩ hộ độ chính của Đức Phật Atthadassi. Bv.xv.21.
 
 ## Notes

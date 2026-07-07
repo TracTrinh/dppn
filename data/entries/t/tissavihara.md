@@ -5,7 +5,7 @@ base_headword: "Tissavihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissavihāra. Một tu viện ở Nāgadīpa, nơi Vohārakatissa đã xây một bức tường bao quanh (Mhv.xxxvi.36).
 
 ## Notes

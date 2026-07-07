@@ -5,7 +5,7 @@ base_headword: "Nigrodha Kappa Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ In Nigrodha Kappa, Kappa was the Thera*’*s personal name, but the prefix Nigro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ngài là thầy tế độ (*upajjhāya*) của Vaṅgīsa, và họ cùng nhau sống tại Aggāḷavacetiya (SN.i.185), nơi mà Kappa qua đời. Khi Vaṅgīsa hỏi Đức Phật về điểm đến của Kappa, câu trả lời của Đức Phật là ngài ấy đã hoàn toàn viên tịch (Thag.vs.1263ff.; Snp.vs.343ff). Người ta nói rằng Vaṅgīsa đã đi vắng khi Kappa qua đời, và cũng đã từng thấy ngài ngủ với hai tay cuộn tròn (Thag­a.ii.211; Snp­a.i.346). Điều này không giống với một *khīṇāsava*, nhưng, trong trường hợp của Kappa, đó là do một thói quen lâu dài. Vaṅgīsa, vì không biết điều này, đã bị tấn công bởi những nghi ngờ về các thành tựu của thầy mình. Kappa là một *vihāragaruka* có nghĩa là, ngài coi trọng việc ở trong am thất của mình. Khi trở về từ những vòng đi khất thực, ngài sẽ vào trong am thất của mình và không rời khỏi đó nữa cho đến chiều tối hoặc ngày hôm sau. Điều này đã gây ra sự bất mãn trong lòng Vaṅgīsa, mà sau đó ngài đã dập tắt bằng sức mạnh của lý trí (SN.i.186; SN­a.i.208).
+
+Trong tên gọi Nigrodha Kappa, Kappa là tên riêng của vị Trưởng lão (Thera), nhưng tiền tố Nigrodha được đưa ra vì ngài đã đạt được quả vị *Arahant* dưới gốc một cây *nigrodha* (*cây đa*). Snp­a.i.346; SN­a.i.207 nói là vì ngài sống dưới một cây đa.
 
 ## Notes

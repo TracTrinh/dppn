@@ -5,7 +5,7 @@ base_headword: "Nandanasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandanasutta 02. Records the conversation between the *Devaputta* <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanasutta 02. Ghi lại cuộc trò chuyện giữa thiên tử Nandana và Đức Phật. SN.i.52.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Punabbasumātā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,10 @@ She was a *Vemānikapeta*. DN­a.ii.50.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasumātā. Một nữ dạ-xoa (*Yakkhinī*), mẹ của Punabbasu. Vào một buổi chiều muộn lúc mặt trời lặn, khi Đức Phật đang ở Jetavana, bà, với cô con gái Uttarā cõng bên hông và tay dắt cậu bé, đã đi đến khu rừng để tìm kiếm thức ăn. Bà nhìn thấy các vị tỳ-kheo im lặng ngồi xung quanh Đức Phật trong lúc Ngài đang thuyết pháp, và sau khi dỗ cho đứa bé im lặng, bà cùng Punabbasu đã lắng nghe Đức Phật. Vào cuối bài pháp, cả mẹ và con trai đều trở thành những *Sotāpanna*, Uttarā thì còn quá nhỏ để có thể hiểu được (SN.i.210f.; SN­a.i.239f).
+
+Punabbasumātā được trích dẫn như một ví dụ về một *Yakkhinī* có thể di chuyển qua không trung (Paṭis-a.79).
+
+Bà là một ngạ quỷ trong các cung điện (*Vemānikapeta*). DN­a.ii.50.
 
 ## Notes

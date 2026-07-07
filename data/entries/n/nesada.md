@@ -5,7 +5,7 @@ base_headword: "Nesāda"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nesāda. A Brahmin, a previous birth of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Bà-la-môn, một tiền kiếp của Sattapaduminiya. Ap.i.254.
 
 ## Notes

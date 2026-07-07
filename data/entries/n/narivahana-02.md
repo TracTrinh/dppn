@@ -5,7 +5,7 @@ base_headword: "Nārivāhana"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nārivāhana 02. A city, capital of King <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivāhana 02. Một thành phố, kinh đô của Vua Nārivāhana, trong thời của Tissa Buddha (xem ở trên) và của Upasanta, trong thời của Vessabhū Buddha. Bv­a.206.
 
 ## Notes

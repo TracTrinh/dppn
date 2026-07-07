@@ -5,7 +5,7 @@ base_headword: "Navakammika Bhāradvāja"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ The Commentary (SN­a.i.205) explains that this Brahmin had forest trees cut, an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị Bhāradvāja (*q.v.*). Có lần, khi Đức Phật đang lưu trú tại một khu rừng ở Kosala, Navakammika, người đang ở đó trông coi một số công việc về gỗ, đã nhìn thấy Đức Phật dưới gốc cây và hỏi Ngài tìm thấy niềm vui gì trong những sự trầm tư của mình. Khi Đức Phật giải thích cho ông về việc Ngài đã tìm thấy sự tự do như thế nào, vị Bà-la-môn hoan hỷ và chấp nhận Đức Phật là đạo sư của mình (SN.i.179).
+
+Bản Chú giải (SN­a.i.205) giải thích rằng vị Bà-la-môn này đã cho đốn những cây rừng, và từ số gỗ đó làm ra các khung cho đầu hồi, sân thượng, v.v., rồi chúng được mang vào thành phố và bán đi.
 
 ## Notes

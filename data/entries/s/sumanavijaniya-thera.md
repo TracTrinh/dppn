@@ -5,7 +5,7 @@ base_headword: "Sumanavījaniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanavījaniya Thera. An *Arahant* (Ap.ii.415), evidently identical with <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanavījaniya Thera. Một vị *Arahant* (Ap.ii.415), rõ ràng là đồng nhất với Isidinna. Thag­a.i.313.
 
 ## Notes

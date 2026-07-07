@@ -5,7 +5,7 @@ base_headword: "Puṇṇakamāṇavapucchā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -29,6 +29,8 @@ Those who make sacrifices and exert themselves for gain of pleasure and praise d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇakamāṇavapucchā (hay Puṇṇakamāṇavapañha). Những câu hỏi được đặt ra bởi Puṇṇaka, đệ tử của Bāvarī (*q.v.*), và những lời giải đáp của Đức Phật cho những câu hỏi đó.
+
+Những ai cúng tế và nỗ lực vì lợi ích của sự lạc thú và những lời tán dương thì không thể thành công trong việc thoát khỏi sinh và già. Chỉ những người tĩnh lặng và giải thoát mới có thể thoát khỏi như vậy. Snp.vs.1043-48. Chúng được giải thích ở CNid.11ff. Các câu hỏi này được nhắc đến ở AN.i.133.
 
 ## Notes

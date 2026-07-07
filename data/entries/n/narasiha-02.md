@@ -5,7 +5,7 @@ base_headword: "Narasīha"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Narasīha 02. The eighth future Buddha. Anāg. p. 40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narasīha 02. Vị Phật tương lai thứ tám. Anāg. p. 40.
 
 ## Notes

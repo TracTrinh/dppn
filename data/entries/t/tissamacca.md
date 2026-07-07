@@ -5,7 +5,7 @@ base_headword: "Tissāmacca"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissāmacca. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissāmacca. Con trai của Venisāla. Sau khi nghe Dakkhiṇāvibhaṅgasutta tại Tissamahārāma, ông không bao giờ ăn mà không chia sẻ một phần thức ăn của mình cho các tỳ-kheo. Sau đó, ông sinh ra làm một vị thần cây gần Kāḷatindukavihāra. Ras.ii.163f.
 
 ## Notes

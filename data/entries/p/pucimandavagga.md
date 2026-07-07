@@ -5,7 +5,7 @@ base_headword: "Pucimandavagga"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pucimandavagga. The second section of the *Catukkanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pucimandavagga. Phần thứ hai thuộc *Catukkanipāta* của Chú giải Jātaka.
 
 ## Notes

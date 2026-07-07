@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sunanda 10. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 10. Một Bà-la-môn vào thời của Padumuttara Buddha; một tiền kiếp của Nīta Thera (Pupphachadanīya). Thag­a.i.181; Ap.i.166.
 
 ## Notes

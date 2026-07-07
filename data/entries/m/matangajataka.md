@@ -5,7 +5,7 @@ base_headword: "Mātaṅgajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -47,6 +47,16 @@ The story was told in reference to the attempt of King <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅgajātaka (Ja 497). Bồ-tát từng đản sanh trong một ngôi làng Caṇḍāla (Chiên-đà-la) bên ngoài Benares và được đặt tên là Mātaṅga. Một ngày nọ, khi Diṭṭhamaṅgalikā, con gái của một thương gia giàu có, đang trên đường đến công viên cùng một nhóm bạn bè, cô nhìn thấy Mātaṅga đang đi về phía thành phố, và cho rằng cảnh tượng đó là điềm xui xẻo, cô liền rửa mắt bằng nước thơm và quay về nhà. Những người bạn đồng hành của cô, bực tức vì bị mất buổi đi chơi, đã đánh đập Mātaṅga và bỏ mặc ông bất tỉnh. Khi tỉnh lại, ông quyết định phải lấy Diṭṭhamaṅgalikā làm vợ và nằm trước cửa nhà cha cô, từ chối rời đi. Bảy ngày ông nằm đó cho đến khi người nhà cô, vì sợ nỗi ô nhục nếu một người Caṇḍāla chết trước cửa nhà, đã gả Diṭṭhamaṅgalikā cho ông làm vợ.
+
+Biết rằng sự kiêu ngạo của cô đã bị khuất phục bởi hành động này, Mātaṅga quyết định mang lại cho cô niềm vinh dự to lớn. Vì thế, ông lui vào rừng và trong bảy ngày, ông đạt được thần thông. Khi trở về, ông bảo cô đi rao truyền khắp nơi rằng chồng cô không phải là người Caṇḍāla mà là Mahā Brahmā (Đại Phạm Thiên), và bảy ngày sau, vào đêm trăng rằm, ông sẽ đến với cô, hiện ra từ đĩa mặt trăng. Cô đã làm như lời ông dặn và mọi chuyện đã diễn ra đúng như thế. Kể từ đó, mọi người tôn kính cô như một vị nữ thần; nước mà cô dùng để rửa chân được sử dụng cho lễ đăng quang của các vị vua, và chỉ trong một ngày, cô đã nhận được mười tám koṭi (crore) từ những người được ban đặc ân đảnh lễ cô. Mātaṅga chạm ngón tay cái vào rốn cô, và biết rằng cô đã thụ thai một bé trai, ông khuyên cô phải luôn cẩn trọng rồi trở về mặt trăng.
+
+Cậu bé được sinh ra trong sảnh đường mà dân chúng đã xây dựng cho Diṭṭhamaṅgalikā, và do đó được đặt tên là Maṇḍavya. Khi mười sáu tuổi, cậu đã thông thạo tất cả các kinh Vệ-đà (Vedas) và mỗi ngày thiết đãi mười sáu ngàn vị Bà-la-môn ăn uống. Trong một ngày lễ, Mātaṅga đến tìm cậu, với ý định muốn cậu từ bỏ tà kiến, nhưng Maṇḍavya không nhận ra ông và sai những người hầu của mình là Bhaṇḍakucchi, Upajjhāya, và Upajotiya đuổi ông ra ngoài. Chư thiên của thành phố vì thế mà nổi giận, bèn vặn cổ Maṇḍavya và tất cả các Bà-la-môn khiến mắt họ nhìn ngược ra sau vai. Khi Diṭṭhamaṅgalikā nghe tin này, cô đi tìm Mātaṅga, người đã để lại dấu chân để cô biết ông ở đâu. Ông bảo cô vẩy lên các Bà-la-môn nước có hòa tan thức ăn thừa của ông; riêng Maṇḍavya thì được cho ăn một ít thức ăn đó. Khi hồi phục và nhìn thấy thảm trạng của các Bà-la-môn, cậu nhận ra lỗi lầm của mình. Các Bà-la-môn tuy hồi phục nhưng lại bị các đồng nghiệp xa lánh; họ rời khỏi đất nước và đến sống ở vương quốc Mejjha.
+
+Bên bờ sông Vettavatī có một vị Bà-la-môn tên là Jātimanta sinh sống, vô cùng tự hào về dòng dõi của mình. Mātaṅga đến đó để hạ nhục sự kiêu ngạo của Jātimanta và sống ở phía thượng nguồn. Một ngày nọ, ông cắn một khúc gỗ xỉa răng và ném xuống sông, trôi xuống hạ nguồn, nó mắc vào tóc của Jātimanta. Jātimanta rất tức giận và đi ngược dòng, nơi ông tìm thấy Mātaṅga và bảo rằng, nếu ông còn ở đó lâu hơn nữa, thì vào cuối ngày thứ bảy, đầu ông sẽ vỡ thành bảy mảnh. Vào ngày thứ bảy, Mātaṅga chặn mặt trời lại không cho mọc. Khi phát hiện ra nguyên nhân, dân chúng kéo Jātimanta đến chỗ Mātaṅga và bắt ông phải xin lỗi, gục lạy dưới chân Mātaṅga. Đầu của Jātimanta bị đắp một cục đất sét, rồi bị dìm xuống nước khi mặt trời mọc.
+
+Mātaṅga sau đó đi đến vương quốc Mejjha, nơi các Bà-la-môn bị lưu đày đã tâu báo về ông với nhà vua, nói rằng ông là một kẻ lừa đảo và bịp bợm. Đám sứ giả của nhà vua đã phục kích Mātaṅga khi ông đang dùng bữa cạnh một cái giếng, và chặt đầu ông. Ông tái sanh vào cõi Phạm thiên (Brahma). Chư thiên vô cùng tức giận bèn hủy diệt toàn bộ vương quốc Mejjha bằng cách trút xuống những trận mưa tro nóng. Trước khi gặp Diṭṭhamaṅgalikā, Bồ-tát là một người thuần hóa chồn (koṇḍadamaka). Nhưng trong Snp­a.i.186, ngài được gọi là một người theo nghề làm sạch tử thi (sopākajīvika).
+
+Câu chuyện này được kể lại liên quan đến việc Vua Udena (q.i) cố gắng hành hạ Tôn giả Piṇḍola Bhāradvāja. Udena được nhận diện là Maṇḍavya. Ja.iv.375-90; câu chuyện cũng được tìm thấy ở Snp­a.i.184-93, với một vài thay đổi trong một số chi tiết, ví dụ, thay vì Vettavatī, chúng ta có Bandhumatī; xem thêm Mil.123ff.
 
 ## Notes

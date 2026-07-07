@@ -5,7 +5,7 @@ base_headword: "Titthagāmavihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Titthagāmavihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthagāmavihāra. Một tu viện ở Titthagāma, tức Toṭagamuva ngày nay. Nó được Vijayabāhu IV xây dựng và được Parakkamabāhu IV trùng tu. Cv.xc.88; Cv.Trs.ii.208, n.2.
 
 ## Notes

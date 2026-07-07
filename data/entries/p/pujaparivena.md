@@ -5,7 +5,7 @@ base_headword: "Pūjāpariveṇa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,6 @@ Pūjāpariveṇa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūjāpariveṇa. *v.l.* Puṇṇapariveṇa. Một tu viện ở Anurādhapura mà chư Nāga đã đi theo Soṇuttara đến đó, khi ông mang các xá-lợi từ thế giới của loài Nāga về để tôn trí trong Mahā Thūpa. Từ Pūjāpariveṇa, chư Nāga đã được thuyết phục để quay trở về bằng cách được tặng một vài xá-lợi (Mhv.xxxi.4; Mhv­ṭ. 575.).
 
 ## Notes

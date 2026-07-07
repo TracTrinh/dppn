@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "14"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -37,6 +37,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 14. Tissa Thera. Một vị *Arahant*. Con trai của cô ruột của Đức Phật, Amitā. Ngài gia nhập Tăng đoàn và sống trong một khu định cư trong rừng, nhưng ngài tự hào về địa vị của mình, dễ cáu kỉnh và hay bắt bẻ trong cách cư xử. Ngài từng đến khóc với Đức Phật vì các đồng đạo đã trêu chọc ngài do ngài nói nhiều (SN.ii.282; MN­a.i.289). Vào một dịp khác, Đức Phật, bằng thiên nhãn của mình, nhìn thấy Tissa đang ngủ há miệng vào giờ nghỉ trưa và, gửi một tia sáng hào quang, đã đánh thức ngài. Trái tim của Tissa tràn ngập sự đau khổ và khi ngài thú nhận với các đồng đạo sự lười biếng về tinh thần và sự chán ghét tôn giáo của mình, họ đã đưa ngài đến gặp Đức Phật. Đức Phật đã thuyết cho ngài bài kinh Tissasutta, vào cuối bài kinh, ngài đã trở thành một vị *Arahant* (Thag.v.39; nhưng xem v.1162; SN.iii.106f; Thag­a.i.105).
+
+Vào thời của Tissa Buddha, ngài đã quét lá dưới gốc cây Bodhi. Ngài rõ ràng là cùng một người với Bodhisammajjaka của Apadāna (Ap.ii.457f).
+
+Dhammapada Commentary (Dhp-a.i.31ff) gọi ngài là Thullatissa. Ngài gia nhập Tăng đoàn khi đã già và trở nên béo phì do nhàn rỗi. Ngài dành phần lớn thời gian trong Phòng đợi khoác trên mình những y phục lộng lẫy. Các tỳ-kheo, tưởng ngài là một *Mahā Thera*, đã xin đặc ân được phục vụ ngài nhiều việc khác nhau, chẳng hạn như xoa bóp chân cho ngài. Nhưng khi họ phát hiện ra sự chứng đạt thực sự của ngài, họ đã chửi rủa ngài và ngài đã tìm đến Đức Phật. Tuy nhiên, Đức Phật đã yêu cầu ngài phải xin họ tha thứ vì đã không thể hiện sự tôn trọng đáng có đối với họ, và khi ngài từ chối, Đức Phật đã kể cho ngài nghe câu chuyện về Nārada và Devala.
 
 ## Notes

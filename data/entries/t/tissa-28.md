@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "28"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,6 @@ Tissa 28. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 28. Một vị tỳ-kheo của Kambugallaka; ngài rất uyên bác và đã giúp hòa giải Vaṭṭagāmaṇī và các vị quan bất mãn của ông (Mhv.xxxiii.71, 75). Về sau, các vị quan đã xây dựng nhiều *vihāra* – Mūlavokāsa, Sāliyārāma, Pabbatārāma và Uttara Tissārāma – và giao chúng lại cho Tissa. Ibid., 91.
 
 ## Notes

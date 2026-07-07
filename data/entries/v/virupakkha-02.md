@@ -5,7 +5,7 @@ base_headword: "Virūpakkha"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Virūpakkha 02. The name of a <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virūpakkha 02. Tên của một gia tộc Nāga (Vin.ii.109; AN.ii.72; Ja.ii.145); họ có lẽ là những người hầu cận của Virūpakkha (1) (*q.v.*).
 
 ## Notes

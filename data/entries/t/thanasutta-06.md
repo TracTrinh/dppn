@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "06"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 06. Năm điều mà mọi người nên thường xuyên quán niệm – khả năng xảy ra tuổi già, bệnh tật, cái chết, sự chia ly với những người gần gũi và thân yêu, và sự thật rằng mỗi người là kết quả từ chính những hành động của mình – và mục đích của sự quán niệm đó. AN.iii.71ff.
 
 ## Notes

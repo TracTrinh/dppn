@@ -5,7 +5,7 @@ base_headword: "Nīlapabbatavihāra"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīlapabbatavihāra. A monastery near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện gần Hallolagāma.
 
 ## Notes

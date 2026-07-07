@@ -5,7 +5,7 @@ base_headword: "Nīta Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -40,6 +40,14 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīta Thera. Ngài là một Bà-la-môn ở Sāvatthī và gia nhập Tăng đoàn, với niềm tin rằng ở đó ngài sẽ tìm thấy niềm vui thích và sự thoải mái. Ngài lười biếng và chây lười, nhưng Đức Phật, khi thấy rõ những tiền kiếp của ngài, đã khuyên răn ngài, và Nīta, sau khi phát triển tuệ minh sát, đã trở thành một vị *Arahant*.
+
+Vào thời Đức Phật Padumuttara, ngài là một vị đạo sư Bà-la-môn tên là Sunanda.
+
+Một ngày nọ, khi ngài đang chuẩn bị một cuộc hiến tế Vājapeyya, Đức Phật đã đến thăm ngài và đi bộ trên không trung phía trên ngài. Sunanda đã tung hoa lên bầu trời, và chúng tạo thành một mái che trên toàn bộ thị trấn.
+
+Ngài đã làm vua ba mươi lăm lần dưới tên gọi là Abbhasa (*v.l.* Ambaraṁsa). Thag.vs.84; Thag­a.i.180f.
+
+Ngài có lẽ là cùng một người với Puppachadanīya của Apadāna. Ap.i.166.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandasutta 01. Thiên tử Nanda viếng thăm Đức Phật và đọc một bài kệ với nội dung là con người nên tạo phước để đạt được niềm an lạc. Đức Phật bảo ông rằng con người nên hướng đến sự bình an tối hậu thì tốt hơn. SN.i.62; cp. SN.i.2, nơi có những bài kệ tương tự.
 
 ## Notes

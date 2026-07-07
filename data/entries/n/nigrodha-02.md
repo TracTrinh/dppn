@@ -5,7 +5,7 @@ base_headword: "Nigrodha"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nigrodha 02. The Bodhisatta born as the son of a Banker in <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bồ-tát (Bodhisatta) sinh ra là con trai của một vị trưởng giả ở Rājagaha, sau đó trở thành vua của Benares. Để biết thêm chi tiết, xem Nigrodhajātaka.
 
 ## Notes

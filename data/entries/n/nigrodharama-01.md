@@ -5,7 +5,7 @@ base_headword: "Nigrodhārāma"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -66,6 +66,12 @@ There is a tradition (Cp-a.1,7; Bv­a.3) that the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu rừng nhỏ gần Kapilavatthu, nơi một chỗ ở đã được cung cấp cho Đức Phật khi Ngài viếng thăm thành phố này vào năm đầu tiên sau sự Giác Ngộ (*Awakening*) của Ngài (MN­a.i.289). Nó thuộc về một người Sākyan tên là Nigrodha, người đã dâng cúng nó cho Tăng đoàn (Saṅgha). Để thuyết phục những người họ hàng kiêu hãnh của Ngài về những thành tựu của mình, Đức Phật đã thực hiện Song thông (Yamakapāṭihāriya) tại đó, và khi phép lạ kết thúc, một trận mưa rào trút xuống, chỉ làm ướt những ai muốn bị ướt, Ngài đã kể cho họ nghe Vessantarajātaka (Vin.i.82; Ja.i.88f.;vi.479; Bv­a.22; Dhp­a.iii.163; cũng xem Mvu.iii.101, 107, 114,138,141, 179). Chính trong chuyến viếng thăm này, Mahā Pajāpatī Gotamī lần đầu tiên đã thỉnh cầu sự cho phép để nữ giới gia nhập Tăng đoàn. Điều này đã bị từ chối, và từ đó Đức Phật đi đến Vesālī (Vin.ii.253; AN.iv.274). Đức Phật đã lưu lại tại Nigrodhārāma vào một vài dịp khác, và một số giới luật Vinaya được đề cập là đã được ban hành lần đầu tiên tại đó (vd., Vin.iii.235, 244; iv.55, 101, 167, 181, 262, 314). Nhiều người Sākiyan đã đến yết kiến Đức Phật tại Nigrodhārāma, trong số đó có Mahā Nāma, Godha, Sarakāni, Nandiya và Vappa (SN.v.369-78; 395-7, 403-4, 408; AN.ii.196; iii.284; iv.220; v. 83, 328, 332, 334). Bản thân Đức Phật đã viếng thăm Kāḷigodhā trong thời gian lưu trú tại đó. Chính trong một cuộc thảo luận với Mahā Nāma mà Cūḷa Dukkhakkhandhasutta (*q.v.*) đã được thuyết giảng. Trong một lần cư ngụ của Đức Phật ở Nigrodhārāma, những người Sākiyan đã mời Ngài đến khánh thành Hội trường (Mote Hall) mới của họ, điều mà Ngài đã làm bằng cách thuyết pháp ở đó cho đến tận đêm khuya và sau đó yêu cầu Moggallāna tiếp tục bài giảng của mình (SN.iv.182ff.; cũng xem MN.i.353, Sekhasutta). Vào một dịp khác, Đức Phật được đề cập là đã dành một thời kỳ dưỡng bệnh tại Nigrodhārāma (AN.i.219f); Ngài cũng ở đó khi cuộc tranh cãi nổ ra giữa người Sākiyan và người Koḷiyan liên quan đến nguồn nước của sông Rohiṇī (Snp­a.i.357; nhưng xem Ja.v.413, nơi Ngài được cho là đã ở Sāvatthī). Dường như đã có một thói quen của Đức Phật, khi lưu trú tại Nigrodhārāma, thỉnh thoảng sẽ dành giấc ngủ trưa trong Mahā Vana ở gần đó (vd., SN.iii.91f).
+
+Trong số những người khác được đề cập là đã ở tại Nigrodhārāma có Anuruddha (Dhp­a.iii.295) và Lomasakaṅgiya. MN.iii.200; một *Deva* tên là Candana đã dạy cho ngài Bhaddekarattasutta ở đó. Phải chăng Lomasakaṅgīya này cũng chính là Lomavaṅgīsa, người cũng được nhắc đến là đã sống ở Nigrodhārāma (SN.v.327)?
+
+Gần Nigrodhārāma đã từng là địa điểm chỗ ở của một ẩn sĩ (*Isi*) tên là Kaṇha. Đức Phật, khi nhớ lại điều này, có lần đã mỉm cười, và, khi được hỏi lý do cho nụ cười của Ngài, Ngài đã kể lại Kaṇhajātaka (Ja 440, Ja.iv.6).
+
+Có một truyền thống (Cp-a.1,7; Bv­a.3) nói rằng Cariyāpiṭaka và Buddhavaṁsa đã được Đức Phật thuyết giảng cho Sāriputta trong lần lưu lại đầu tiên của Ngài ở Nigrodhārāma. Có lẽ tại đó, em gái của Anuruddha đã xây dựng, theo yêu cầu của ngài, một hội trường lắp ráp gồm hai tầng cho Tăng đoàn (Dhp­a.iii.295f). Buddhaghosa nói rằng Kāḷa Khemaka, người Sākyan, đã xây một *vihāra* (*tu viện*) đặc biệt gần Nigrodhārāma, ở một bên của khuôn viên (MN­a.ii.906; MN.iii.109f).
 
 ## Notes

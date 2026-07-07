@@ -5,7 +5,7 @@ base_headword: "Sumanāvagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanāvagga. The fourth chapter of the *Pañcakanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanāvagga. Phẩm thứ tư của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.32-44.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandivaḍḍhana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandivaḍḍhana. One of the ten sons of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivaḍḍhana. Một trong mười người con trai của Kāḷāsoka.
 
 ## Notes

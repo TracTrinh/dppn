@@ -5,7 +5,7 @@ base_headword: "Pokkharavatī"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pokkharavatī. A city, the birthplace of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkharavatī. Một thành phố, nơi sinh của Tapussa và Bhalliya. Thag.A.i.48.
 
 ## Notes

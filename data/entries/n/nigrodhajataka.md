@@ -5,7 +5,7 @@ base_headword: "Nigrodhajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -39,6 +39,12 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua, tên là Magadha, đã từng trị vì ở Rājagaha. Con trai của ông kết hôn với con gái của một vị thương gia giàu có, nhưng cô ấy, vì bị hiếm muộn, đã đánh mất sự sủng ái. Do đó cô ta đã giả vờ mang thai, và khi ngày sinh đến gần, cô đã hành trình về nhà với một người nhũ mẫu già vốn là người cùng tham gia vào bí mật đó. Trên đường đi, cô tìm thấy một đứa trẻ bị mẹ bỏ rơi, và, trong sự vui mừng khôn xiết, cô đã nhận nó là của riêng mình. Đứa trẻ đó chính là Bồ-tát (Bodhisatta) và được gọi là Nigrodha. Cha của ngài đã tìm cho ngài hai người bạn đồng hành: Sākha, con trai của một thương gia, và Pottika, con trai của một thợ may.
+
+Ba người họ cùng nhau lớn lên và được giáo dục ở Takkasilā. Trong suốt quá trình chu du của họ, trong khi những người bạn đồng hành của mình đang ngủ, Pottika nghe thấy một con gà trống nói rằng bất cứ ai ăn mỡ của nó sẽ trở thành vua, ăn thịt phần thân của nó sẽ làm tổng tư lệnh, và ăn thịt phần gần xương của nó sẽ làm quan thủ quỹ. Pottika đã giết con gà trống, đưa cho Nigrodha phần mỡ, cho Sākha phần thịt ở thân, trong khi tự mình ăn phần thịt gần xương. Ngay sau đó, những người đàn ông đang tìm kiếm một người kế vị cho ngai vàng của Benares đã chọn Nigrodha, trong khi những người kia đi cùng ngài với tư cách là tổng tư lệnh và quan thủ quỹ.
+
+Một ngày nọ, Nigrodha, vì muốn cha mẹ ở gần mình, đã phái Pottika đi đón họ từ Rājagaha. Trên đường về, ngài đã ghé vào nhà của Sākha, nhưng Sākha, người vẫn có một mối bất bình đối với ngài vì đã đưa phần mỡ của con gà trống cho Nigrodha, đã lăng mạ ngài. Khi Pottika báo cáo điều này với Nigrodha, ngài muốn giết Sākha, nhưng Pottika đã can thiệp thay cho ông ta.
+
+Câu chuyện được kể lại liên quan đến sự vô ơn của Devadatta. Sākha được xác định là Devadatta và Pottika là Ānanda. Ja.iv.37ff.
 
 ## Notes

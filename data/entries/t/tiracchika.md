@@ -5,7 +5,7 @@ base_headword: "Tiracchikā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tiracchikā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiracchikā. Một thiếu nữ Nāga, em gái của Mahodara. Con trai cô là Cūḷodara. Mhv­ṭ.104.
 
 ## Notes

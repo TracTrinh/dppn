@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -32,6 +32,6 @@ Nārada 05. Minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 05. Quan đại thần của Brahmadatta, vua của Benares. Ông được giao phó nhiệm vụ hộ tống vị đạo sĩ Kesava, khi vị này ngã bệnh, đến am thất của Kappa ở Himavā. Nārada được nhận diện là Sāriputta. Để biết chi tiết xem Kesavajātaka. Ja.iii.143ff., 362; Dhp­a.i.344.
 
 ## Notes

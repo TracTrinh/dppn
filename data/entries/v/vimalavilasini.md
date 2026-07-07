@@ -5,7 +5,7 @@ base_headword: "Vimalavilāsinī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vimalavilāsinī. A Commentary by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalavilāsinī. Một bản Chú giải của Dhammapāla về Vimānavatthu; nó tạo thành một phần của Paramatthadīpanī. Bv­a. p. 236.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puppharattajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,10 @@ The story was told to a passion-tossed monk who longed for the wife of his lay l
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puppharattajātaka (Ja 147). Có một lần, trong Lễ hội Kattika ở Benares, vợ của một người đàn ông nghèo nằng nặc đòi có một bộ y phục nhuộm hoa rum để mặc vào lễ hội. Bị thôi thúc bởi ham muốn của vợ, người chồng đã lẻn vào đêm khuya vào vườn ươm của nhà vua để lấy hoa rum.
+
+Anh ta bị lính canh bắt giữ và bị đóng cọc sống. Anh ta chết trong sự than khóc vì không thể thỏa mãn mong muốn của người vợ và bị tái sinh vào địa ngục. Vào thời điểm đó, Bodhisatta là một Tinh linh Hư không.
+
+Câu chuyện này được kể lại cho một vị tỳ-kheo đang bị dục vọng giày vò, người đang khao khát người vợ trong đời sống thế tục của mình. Hai vợ chồng được đồng nhất với hai nhân vật trong câu chuyện. Ja.i.149f.
 
 ## Notes

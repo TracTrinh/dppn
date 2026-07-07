@@ -5,7 +5,7 @@ base_headword: "Nandisena"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nandisena 01. Minister of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandisena 01. Quan đại thần của Assaka, vua xứ Potali. Nandisena được nhận diện là Sāriputta. Để biết chi tiết xem Cūḷa Kāliṅgajātaka. (Ja.iii.1ff.)
 
 ## Notes

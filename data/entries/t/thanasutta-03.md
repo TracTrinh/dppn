@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "03"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 03. Năm điều khiến cha mẹ mong muốn có một người con trai – người đó sẽ giúp đỡ họ, người đó sẽ làm tròn bổn phận với họ, người đó sẽ duy trì truyền thống, xứng đáng thừa kế tài sản của họ và dâng cúng lễ vật cho họ khi họ qua đời. AN.iii.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nārivasabha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārivasabha. One of the palaces occupied by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivasabha. Một trong những cung điện mà Sikhī Buddha ngự trị trong đời sống cư sĩ cuối cùng của ngài. Bv­a.201; nhưng Bv.xxi.16 đưa ra những tên gọi khác.
 
 ## Notes

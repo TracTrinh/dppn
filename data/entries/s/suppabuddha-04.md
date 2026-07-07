@@ -5,7 +5,7 @@ base_headword: "Suppabuddha"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suppabuddha 04. A king of fifty-seven *kappas* ago, a former birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppabuddha 04. Một vị vua của năm mươi bảy *kappa* trước, một tiền kiếp của Eraka Thera (Maggadāyaka). Thag­a.i.193; Ap.i.173.
 
 ## Notes

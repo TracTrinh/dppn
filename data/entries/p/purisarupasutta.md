@@ -5,7 +5,7 @@ base_headword: "Purisarūpasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Purisarūpasutta. Nothing so enslaves a woman as the form, etc., of a man. AN.i.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purisarūpasutta. Không có điều gì trói buộc một người phụ nữ bằng hình sắc, v.v., của một người đàn ông. AN.i.2.
 
 ## Notes

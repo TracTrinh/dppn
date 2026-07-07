@@ -28,6 +28,6 @@ Soṇa 11. A gifted preacher, who lived in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Soṇa 11. Một vị thuyết pháp có tài, sống trong *vihāra* Pipphali dưới chân Soṇṇagiri. Cha ngài là một thợ săn, và mọi nỗ lực của Soṇa để kéo ông ra khỏi tội lỗi đều thất bại, chỉ đến khi ông đã rất già, Soṇa mới thọ giới cho ông ngay trước khi ông lâm chung. Người cà nhắc thấy địa ngục và những con chó đến để ăn hắn. Ông hoảng hốt kêu lên, và Soṇa đưa ông trên giường đến *vihāra* và cho ông đảnh lễ *cetiya*, cây *bodhi*, v.v..., và dâng cúng nhiều thứ nhân danh cha ngài. Sau đó ông thấy cõi Deva hiện ra trước mặt. Vibh­a.439; cf. AN­a.i.255, nơi *vihāra* được gọi là Pañcālavihāra, và MN­a.ii.887, nơi được gọi là Pacelivihāra.
+Soṇa 11. Một vị thuyết pháp có tài, sống trong *vihāra* Pipphali dưới chân Soṇṇagiri. Cha ngài là một thợ săn, và mọi nỗ lực của Soṇa để kéo ông ra khỏi tội lỗi đều thất bại, chỉ đến khi ông đã rất già, Soṇa mới thọ giới cho ông ngay trước khi ông lâm chung. Ông lão thấy địa ngục và những con chó đến để ăn thịt ông. Ông hoảng hốt kêu lên, và Soṇa đưa ông trên giường đến *vihāra* và cho ông đảnh lễ *cetiya*, cây *bodhi*, v.v..., và dâng cúng nhiều thứ nhân danh cha ngài. Sau đó ông thấy cõi Deva hiện ra trước mặt. Vibh­a.439; cf. AN­a.i.255, nơi *vihāra* được gọi là Pañcālavihāra, và MN­a.ii.887, nơi được gọi là Pacelivihāra.
 
 ## Notes

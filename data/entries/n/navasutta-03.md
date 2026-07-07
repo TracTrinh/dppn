@@ -5,7 +5,7 @@ base_headword: "Nāvāsutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāvāsutta 03. If a sea-going vessel is left stranded on the bank, it is dried-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nếu một con tàu đi biển bị bỏ mắc cạn trên bờ, nó bị gió và nắng làm khô nứt trong mùa khô và bị nước làm mục nát trong mùa mưa, các kiết sử cũng như vậy trong trường hợp của một tỳ-kheo tu tập Bát Thánh đạo. SN.v.51.
 
 ## Notes

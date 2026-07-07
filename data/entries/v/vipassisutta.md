@@ -5,7 +5,7 @@ base_headword: "Vipassīsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vipassīsutta. On the mental evolution of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipassīsutta. Về sự tiến hóa tâm linh của Vipassī, dẫn đến sự Giác ngộ của ngài. SN.ii.5; cf. DN.ii.30f.
 
 ## Notes

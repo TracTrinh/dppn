@@ -5,7 +5,7 @@ base_headword: "Sumaṅgalapariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumaṅgalapariveṇa. A monastery, probably in <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgalapariveṇa. Một tu viện, có lẽ ở Anurādhapura vào thời của Buddhaghosa. Dāṭhā Nāga Thera đã sống ở đó.
 
 ## Notes

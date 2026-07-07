@@ -5,7 +5,7 @@ base_headword: "Nandatissārāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandatissārāma. A monastery in Ceylon built by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandatissārāma. Một tu viện ở Ceylon do Kapiṭṭhatissa xây dựng. Mhv.xxxvi.14.
 
 ## Notes

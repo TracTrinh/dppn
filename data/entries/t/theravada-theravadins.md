@@ -5,7 +5,7 @@ base_headword: "Theravāda, Theravādins"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -29,6 +29,10 @@ The followers of Theravādā are called Theravādins (e.g., Cv.xxxviii.37) and t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theravāda, Theravādins. Tên được đặt cho Kinh điển Phật giáo như đã được các vị Trưởng lão kết tập tại Kỳ kết tập Rājagaha (Mhv.iii.40).
+
+Nó được coi là nguyên thủy nhất; từ đó mười bảy trường phái khác đã phân nhánh qua từng thời kỳ ở những thời đại sau này, như một kết quả của những sự chia rẽ trong Tăng đoàn (Mhv.v.1f).
+
+Những người theo Theravādā được gọi là Theravādins (ví dụ, Cv.xxxviii.37) và hệ phái truyền thừa của họ là Theravaṁsa (ví dụ, Cv.lii.46; liv.46).
 
 ## Notes

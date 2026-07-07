@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumaṅgala 10. A parkkeeper of the king of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 10. Một người giữ công viên của vua xứ Benares. Xem Sumaṅgalajātaka (Ja 420). Ông được đồng nhất với Ānanda. Ja.iii.444.
 
 ## Notes

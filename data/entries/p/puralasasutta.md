@@ -5,7 +5,7 @@ base_headword: "Pūraḷāsasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pūraḷāsasutta. Another name (Snp­a.ii.400) for <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūraḷāsasutta. Một tên gọi khác (Snp­a.ii.400) của Sundarika Bhāradvājasutta (*q.v.*).
 
 ## Notes

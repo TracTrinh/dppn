@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "38"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 38. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 38. Một vị Trưởng lão ở Sāketa. Ngài từ chối trả lời các câu hỏi, nói rằng ngài không có thời gian. Khi bị hỏi, "Ông có thể tìm được thời gian để chết không?", ngài cảm thấy xấu hổ, và đã đi đến Kaṇikāravālikasamuddavihāra, hướng dẫn các tỳ-kheo thuộc nhiều cấp bậc khác nhau trong mùa mưa, khơi dậy sự nhiệt thành lớn lao trong dân chúng bằng những bài giảng của mình (MN­a.i.350f; DN­a.iii.1061).
 
 ## Notes

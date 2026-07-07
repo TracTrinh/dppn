@@ -5,7 +5,7 @@ base_headword: "Thusajātaka"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -30,6 +30,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thusajātaka (Ja 338). Thuở xưa Bodhisatta từng là một vị đạo sư ở Takkasilā, và người thừa kế ngai vàng của Benares là học trò của ngài. Dự đoán được mối nguy hiểm đối với vị vương tử từ chính con trai của ông, ngài đã dạy cho vị vương tử bốn khổ thơ để lặp lại khi con trai ông mười sáu tuổi, lần lượt vào bữa ăn tối, vào thời điểm diễn ra buổi thiết triều lớn, trong lúc bước lên nóc cung điện, và trong phòng ngủ của hoàng gia. Vị vương tử đến kỳ đã trở thành vua, và, như đạo sư của ông đã dự đoán, ông đã bị chính con trai mình âm mưu hãm hại, nhưng đã cứu được mạng sống của mình nhờ lặp lại các khổ thơ. Người con trai đã bị tống vào ngục, và chỉ được trả tự do sau cái chết của nhà vua.
+
+Câu chuyện được kể lại liên quan đến tình yêu thương to lớn của Bimbisāra dành cho Ajātasattu, mặc dù các nhà tiên tri đã dự đoán rằng người sau này sẽ giết cha mình (Ja.iii.121ff).
 
 ## Notes

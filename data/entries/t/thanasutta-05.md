@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "05"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 05. Bốn trường hợp tồn tại – khi hành động là không dễ chịu và không mang lại lợi ích cho người thực hiện, khi nó không dễ chịu nhưng có lợi ích, khi nó dễ chịu nhưng không có lợi ích, khi nó vừa dễ chịu vừa có lợi ích. AN.ii.118f.
 
 ## Notes

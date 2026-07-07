@@ -5,7 +5,7 @@ base_headword: "Potaliya"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Potaliya 01. A householder of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potaliya 01. Một gia chủ ở Āpaṇa. Gặp Đức Phật trong một khu rừng bên ngoài thị trấn, ông đã chào hỏi Ngài, và được Đức Phật gọi là “gia chủ”, điều này khiến ông rất tức giận, vì ông nói rằng mình đã giao toàn bộ tài sản cho các con trai, và chỉ sở hữu thức ăn cùng y phục của riêng mình. Nhưng Đức Phật nói với ông rằng sự từ bỏ đời sống gia đình chân chính còn có ý nghĩa sâu sắc hơn thế nhiều, và theo lời thỉnh cầu của Potaliya, Ngài đã tiếp tục giảng giải những lời của mình. Vào cuối bài pháp, Potaliya đã tuyên bố trở thành tín đồ của Đức Phật. MN.i.359 ff.
 
 ## Notes

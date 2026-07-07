@@ -5,7 +5,7 @@ base_headword: "Nimittavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nimittavagga. The eighth chapter of the *Dukanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimittavagga. Chương thứ tám thuộc *Dukanipāta* của Aṅguttaranikāya. AN.i.82f.
 
 ## Notes

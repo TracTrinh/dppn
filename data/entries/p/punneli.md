@@ -5,7 +5,7 @@ base_headword: "Puṇṇeli"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇeli. A village granted by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇeli. Một ngôi làng được ban tặng bởi Dāṭhopatissa II cho Thūpārāma. Cv.xlv.28.
 
 ## Notes

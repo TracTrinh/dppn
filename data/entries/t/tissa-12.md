@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "12"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 12. Tissa Thera. Một vị *Arahant*. Ngài thuộc một gia đình Bà-la-môn ở Rājagaha và, sau khi đạt được sự thông thạo lớn về kinh Veda, đã trở thành thầy của năm trăm thanh niên. Khi Đức Phật đến thăm Rājagaha, Tissa đã bị ấn tượng mạnh bởi sự uy nghi của Đức Phật đến nỗi ngài đã gia nhập Tăng đoàn, về sau đắc quả vị *Arahant*. Theragāthā chứa các vần kệ do ngài thốt ra liên quan đến một số tỳ-kheo ghen tị với danh tiếng lớn của ngài.
+
+Vào thời của Piyadassī Buddha, Tissa là một đạo sĩ. Nhìn thấy Đức Phật đang nhập định (*samādhi*) trong một khu rừng, ngài đã xây trên đầu Đức Phật một giàn hoa silo và trong bảy ngày đã đảnh lễ Đức Phật (Thag.vv.153-4; Thag­a.i.272f).
+
+Ngài rõ ràng là cùng một người với Sālamaṇḍapiya của Apadāna (ii.431f).
 
 ## Notes

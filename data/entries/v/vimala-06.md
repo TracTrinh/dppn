@@ -5,7 +5,7 @@ base_headword: "Vimala"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vimala 06. A king of sixty-one *kappas* ago, a former birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimala 06. Một vị vua cách đây sáu mươi mốt *kappa*, một tiền kiếp của Trưởng lão Udakadāyaka (Sānu). Ap.i.205; Thag­a.i.115.
 
 ## Notes

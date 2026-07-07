@@ -5,7 +5,7 @@ base_headword: "Nisabha"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nisabha 03. Also called Mahā Nisabha, chief among the *dhutaṅgadharas* in the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisabha 03. Còn được gọi là Mahā Nisabha, vị đệ nhất trong số những *dhutaṅgadhara* vào thời Đức Phật Padumuttara. Chính tấm gương của ngài đã thúc đẩy Mahā Kassapa nỗ lực đạt được vinh dự tương tự. Thag­a.ii.134f.; SN­a.ii.135f.; AN­a.i.85f.
 
 ## Notes

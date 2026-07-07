@@ -5,7 +5,7 @@ base_headword: "Pulacceri"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pulacceri 01. A park laid out by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulacceri 01. Một khu công viên được xây dựng bởi Parakkamabāhu I. Cv.lxxix.11.
 
 ## Notes

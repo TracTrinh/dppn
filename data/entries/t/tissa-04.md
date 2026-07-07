@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "04"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissa 04. One of the two chief disciples of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 04. Một trong hai đại đệ tử của Dīpaṅkara Buddha. Bv.ii.213; Ja.i.29; Mbv.5.
 
 ## Notes

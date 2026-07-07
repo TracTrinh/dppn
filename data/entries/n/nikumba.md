@@ -5,7 +5,7 @@ base_headword: "Nikumba"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nikumba. The name of a country. Mil.327.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một quốc gia. Mil.327.
 
 ## Notes

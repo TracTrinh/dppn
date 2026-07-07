@@ -5,7 +5,7 @@ base_headword: "Sumanadevī"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanadevī 01. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mẹ của Mahā Kassapa Thera. Ap.ii.583.
 
 ## Notes

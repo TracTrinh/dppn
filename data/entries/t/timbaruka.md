@@ -5,7 +5,7 @@ base_headword: "Timbaruka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ It is said that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timbaruka. Một *Paribbājaka* (du sĩ ngoại đạo) đã đến thăm Đức Phật tại Sāvatthī và thảo luận với Ngài về nguồn gốc của niềm vui và nỗi đau. Đức Phật giải thích cho ông về cách thức vô minh là gốc rễ của mọi sự tồn tại bị giới hạn.
+
+Có thông tin rằng Timbaruka đã trở thành một đệ tử của Đức Phật (SN.ii.20f).
 
 ## Notes

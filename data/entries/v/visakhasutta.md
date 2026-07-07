@@ -5,7 +5,7 @@ base_headword: "Visākhasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākhasutta. The Buddha listens to a sermon by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhasutta. Đức Phật lắng nghe bài thuyết pháp của Visākha Pañcāliputta và ca ngợi sự khéo léo của ông trong hội chúng của các tỳ-kheo. Sutta này cũng chứa đựng một giáo lý về việc làm thế nào để thuyết giảng Pháp. AN.ii.51f.; SN.ii.280f.
 
 ## Notes

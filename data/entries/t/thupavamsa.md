@@ -5,7 +5,7 @@ base_headword: "Thūpavaṁsa"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -28,6 +28,6 @@ Thūpavaṁsa. A Pāli poem written by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpavaṁsa. Một bài thơ tiếng Pāli do Vācissara viết. Nó có mười sáu chương, tám chương cuối cùng trong số đó chứa đựng một sự mô tả về việc xây dựng Mahā Thūpa bởi Duṭṭhagāmaṇī tại Anurādhapura. Tác phẩm này có lẽ thuộc về thế kỷ mười hai. PLC.216f.
 
 ## Notes

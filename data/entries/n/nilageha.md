@@ -5,7 +5,7 @@ base_headword: "Nīlageha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nīlageha. A building (*pariccheda*: cell ?) erected by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tòa nhà (*pariccheda*: am thất ?) do Aggabodhi II dựng lên cho Trưởng lão Jotipāla. Cv.xlii.39.
 
 ## Notes

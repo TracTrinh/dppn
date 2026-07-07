@@ -5,7 +5,7 @@ base_headword: "Vijjādharaguhā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijjādharaguhā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjādharaguhā, Vijjādharalena. Một hang động ở Pulatthipura, tạo thành một phần của Uttarārāma (Cv.lxxviii.73). Ranh giới của khu đất *Baddhasīmāpāsāda* trải dài năm mươi gậy (375 ft.) về phía bắc của hang động này. Ibid., vs. 66. Xem Cv.Trs.ii.111, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nibbānasutta 05. Preached at <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết tại Nālaka. Sāriputta giải thích cho Jambukhādaka ý nghĩa của *Nibbāna* và con đường dẫn đến đó. SN.iv.251.
 
 ## Notes

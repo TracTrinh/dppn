@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "07"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nārada 07. An ascetic, son of the ascetic <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 07. Một đạo sĩ, con trai của đạo sĩ Kassapa. Ông bị một thiếu nữ đang chạy trốn khỏi bọn cướp cám dỗ, nhưng cha ông đã đến cứu ông. Để biết chi tiết xem Cūḷa Nāradajātaka. Ja 477, Ja.iv.220ff.
 
 ## Notes

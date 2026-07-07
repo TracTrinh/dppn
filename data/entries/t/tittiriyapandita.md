@@ -5,7 +5,7 @@ base_headword: "Tittiriyapaṇḍita"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tittiriyapaṇḍita. The name given to the partridge of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittiriyapaṇḍita. Tên được đặt cho con chim đa đa của Tittirajātaka (Ja 438). Ja.iii.537.
 
 ## Notes

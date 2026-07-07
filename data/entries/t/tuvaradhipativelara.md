@@ -5,7 +5,7 @@ base_headword: "Tuvarādhipativeḷāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tuvarādhipativeḷāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuvarādhipativeḷāra. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.138, 315; lxxvii.67.
 
 ## Notes

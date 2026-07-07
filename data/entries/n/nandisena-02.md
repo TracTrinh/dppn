@@ -5,7 +5,7 @@ base_headword: "Nandisena"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandisena 02. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandisena 02. Cha của Suppatiṭṭhitabrahmā, và là quan đại thần của Duṭṭhagāmaṇī. Vợ ông là Sumanā. Dpv. xix. 9; Mhv­ṭ. 528.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijitāvī"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijitāvī 04. A Burmese author of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitāvī 04. Một tác giả người Miến Điện quê ở Vijitapura (*Panyā*); ông đã viết cuốn *Kaccāyanavaṇṇanā* về *Sandhikappa* và cuốn *Vācakopadesa*. Sās. p. 90; Bode, 46.
 
 ## Notes

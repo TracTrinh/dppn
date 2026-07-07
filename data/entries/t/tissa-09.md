@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "09"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 09. Tissametteyya. Một đệ tử của Bāvarī. Ông đã đến thăm Đức Phật cùng với các đồng đạo của mình và khi Đức Phật trả lời những câu hỏi của ông, ông và một ngàn học trò của mình đã trở thành các vị *Arahant*. Tissa là tên cá nhân của ông và Metteyya là tên bộ tộc của ông. Snp., vs.1040-2; Snp­a.ii.588.
 
 ## Notes

@@ -26,6 +26,6 @@ Selā 01. A princess, younger sister of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Selā 01. Một công chúa, em gái của Candakumāra (Ja.vi.143). Bà được đồng nhất với Uppala vaṇṇā. Ja.vi.157.
+Selā 01. Một công chúa, em gái của Candakumāra (Ja.vi.143). Bà được đồng nhất với Uppalavaṇṇā. Ja.vi.157.
 
 ## Notes

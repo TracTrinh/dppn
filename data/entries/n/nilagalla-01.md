@@ -5,7 +5,7 @@ base_headword: "Nīlagalla"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīlagalla 01. A monastery in Ceylon, built by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Tích Lan, được xây dựng bởi Udaya I. Cv.xlix.31.
 
 ## Notes

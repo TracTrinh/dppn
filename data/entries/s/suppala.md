@@ -5,7 +5,7 @@ base_headword: "Suppala"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suppala. One of the palaces of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppala. Một trong những cung điện của Siddhattha Buddha trước khi Ngài xuất gia. Bv.xvii.14.
 
 ## Notes

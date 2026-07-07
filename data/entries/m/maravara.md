@@ -5,7 +5,7 @@ base_headword: "Maravarā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maravarā. The soldiers of a certain district in India. They were employed by <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maravarā. Các binh lính của một vùng nhất định ở Ấn Độ. Họ được Kulasekhara tuyển dụng để chống lại Laṅkāpura. Cv.lxxvi. 130, 246.
 
 ## Notes

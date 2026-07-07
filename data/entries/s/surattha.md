@@ -5,7 +5,7 @@ base_headword: "Suraṭṭha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Suraṭṭha. A country (Mil.331, 359; Pv.iv.3; Ap.ii.359) in which <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suraṭṭha. Một quốc gia (Mil.331, 359; Pv.iv.3; Ap.ii.359) trong đó Sālissara đã sống, bên bờ sông Sātodikā (Ja.iii.463; nhưng xem v.133). Hai trăm năm sau khi Đức Phật viên tịch, vị vua của Suraṭṭha là Piṅgala (Pv-a.244). Quốc gia này được xác định là Kathiawad hiện đại.
 
 ## Notes

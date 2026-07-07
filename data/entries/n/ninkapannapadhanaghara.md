@@ -5,7 +5,7 @@ base_headword: "Niṅkapaṇṇapadhānaghara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Niṅkapaṇṇapadhānaghara. A building on <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niṅkapaṇṇapadhānaghara. Một tòa nhà trên Cittalapabbata, nơi cư ngụ của Cūḷa Summa (Vibh­a.489). Nơi này có lẽ cùng là một nơi với Nikapennaka (*q.v.*).
 
 ## Notes

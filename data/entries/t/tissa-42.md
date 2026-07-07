@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "42"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissa 42. A novice of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 42. Một vị sa-di của Tissa Mahā Vihāra. Ông phàn nàn với thầy của mình về sự chán ghét của ông đối với Tăng đoàn và người thầy đã đưa ông đến Cittalapabbata. Ở đó, với nỗ lực lớn, Tissa đã tự xây cho mình một hang động và trong khi nằm đó vào ban đêm, ông đã đắc quả vị *Arahant*, và qua đời vào ngày hôm sau. Một bảo tháp (*Thūpa*) có tên là Tissatheracetiya đã được dựng lên trên xá lợi của ông và bảo tháp này vẫn tồn tại vào thời của Buddhaghosa (MN­a.i.312f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suppasanna"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suppasanna. A king of eight *kappas* ago, a previous birth of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppasanna. Một vị vua của tám *kappa* trước, một tiền kiếp của Rattipupphiya Thera. Ap.i.188.
 
 ## Notes

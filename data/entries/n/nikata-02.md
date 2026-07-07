@@ -5,7 +5,7 @@ base_headword: "Nikaṭa"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nikaṭa 02. One of several eminent Theras mentioned as staying in the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong số vài vị Trưởng lão (Thera) lỗi lạc được đề cập là đang lưu lại tại Kūṭāgārasāla ở Vesālī. Khi Đức Phật đến đó, những người Licchavī cùng với toàn bộ đoàn tùy tùng của họ đã kéo đến chật ních nơi này, và Nikaṭa cùng các đồng đạo của ngài, vì khao khát sự tĩnh lặng, đã rút lui đến Gosiṅgasālavana. AN.v.133f.
 
 ## Notes

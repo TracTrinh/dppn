@@ -5,7 +5,7 @@ base_headword: "Puṭabhattajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,8 @@ The story was related to a landowner of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṭabhattajātaka (Ja 223). Brahmadatta, vua xứ Benares, có một người con trai mà ông e sợ, vì vậy ông đã đuổi người con trai này cùng với vợ của anh ta đi, và hai người họ đã sống tại một ngôi làng ở Kāsi. Khi nhà vua băng hà, họ trở về Benares và trên đường đi, có người đã đưa cho vị hoàng tử một bát thức ăn và bảo anh chia nó với vợ mình; nhưng anh ta đã ăn hết, và ngay cả khi anh ta lên làm vua và cô trở thành hoàng hậu, anh ta vẫn dành cho cô rất ít sự tôn trọng. Bồ-tát (Bodhisatta), lúc bấy giờ là cố vấn của nhà vua, nhận thấy điều này nên đã bảo hoàng hậu hãy nói chuyện với nhà vua về sự thờ ơ của ông đối với bà. Nhà vua đã thú nhận lỗi lầm của mình, và kể từ đó về sau đã dành cho hoàng hậu sự tôn trọng to lớn.
+
+Câu chuyện này được kể lại cho một địa chủ ở Sāvatthī, người đã có lần cùng vợ đi về nông thôn để thu nợ. Trên đường trở về, khi họ đang đói lả, có người đã đưa cho một bữa ăn để họ chia nhau. Nhưng người đàn ông, lừa dối vợ mình, đã bảo cô đi trước và tự mình ăn hết thức ăn. Người vợ, khi đến viếng Đức Phật, đã kể cho ngài nghe về điều này. Hai cặp vợ chồng này được đồng nhất với nhau. Ja.ii.202ff. Đối chiếu với Godhajātaka.
 
 ## Notes

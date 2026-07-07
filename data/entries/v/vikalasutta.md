@@ -5,7 +5,7 @@ base_headword: "Vikālasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vikālasutta. Few are they who abstain from eating at unseasonable hours, many t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikālasutta. Ít thay những người kiêng ăn phi thời, nhiều thay những người không kiêng. SN.v.470.
 
 ## Notes

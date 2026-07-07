@@ -5,7 +5,7 @@ base_headword: "Sumanapabbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanapabbata. A monastic building in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tòa nhà tu viện ở Kelivāta, do Aggabodhi I xây dựng. Cv.xlii.19.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumaṅgala 09. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 09. Một vị Pacceka Buddha. MN.iii.70; Ap­a.i.107.
 
 ## Notes

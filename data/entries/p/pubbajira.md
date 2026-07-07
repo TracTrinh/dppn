@@ -5,7 +5,7 @@ base_headword: "Pubbajira"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pubbajira, (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbajira, (*v.l.* Pubbavicira, Pubbavijjhana). Một ngôi làng của những người Vajjian, là nơi ở thường xuyên của Channa. Người dân ở đó đã bị đổ lỗi cho vụ tự tử của ông (MN.iii.260). Ngôi làng này dường như cũng được gọi là Pubbavijjhana. SN.iv.59.
 
 ## Notes

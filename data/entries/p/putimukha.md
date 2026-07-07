@@ -5,7 +5,7 @@ base_headword: "Pūtimukha"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pūtimukha. A *Peta* who had been a monk in the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūtimukha. Một ngạ quỷ (*Peta*) từng là tỳ-kheo vào thời Kassapa Buddha và là người đã gây ra sự bất hòa giữa hai vị thánh tăng bằng cách đem chuyện của người này kể cho người kia. Pv.i.3; Pv-a.12ff.
 
 ## Notes

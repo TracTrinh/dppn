@@ -5,7 +5,7 @@ base_headword: "Tathasutta"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Tathasutta 02. The Four Noble Truths. Same as above. SN.v.435.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathasutta 02. Bốn Thánh Đế. Giống như trên. SN.v.435.
 
 ## Notes

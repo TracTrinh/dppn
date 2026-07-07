@@ -5,7 +5,7 @@ base_headword: "Theravagga"
 disambiguator: "03"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -24,6 +24,6 @@ Theravagga 03. The ninth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theravagga 03. Chương thứ chín của Khandhasaṁyutta. SN.iii.105-37.
 
 ## Notes

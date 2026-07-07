@@ -5,7 +5,7 @@ base_headword: "Puṇṇabhadda"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,8 @@ The PTSPED., *s.v.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇabhadda. Mahā Niddesa (pp. 89, 92), trong phần giải thích của mình về *vattasuddhikā*, đã đề cập, trong số những thứ khác, *Puṇṇabhaddavattika*, *Vāsudevavattika*, *Baladevavattika* và *Maṇibhaddavattika*. Do đó, Puṇṇabhadda có thể là tên của một dạ-xoa (*Yakkha*) giống như Vāsudeva và Baladeva.
+
+PTSPED., *s.v.* Puṇṇa, cho thấy Puṇṇabhadda là cha của dạ-xoa (*Yakkha*) Harikesa. *Mahā Bhārata* (i.35, 1557) đưa ra cái tên Pūrṇabhadra là tên của một con rắn.
 
 ## Notes

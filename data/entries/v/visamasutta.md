@@ -5,7 +5,7 @@ base_headword: "Visamasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Visamasutta. Crooked actions of body, speech and mind lead one to purgatory; the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visamasutta. Những hành động sai trái của thân, khẩu và ý dẫn người ta đến địa ngục; những điều ngược lại với chúng dẫn đến cõi trời. AN.i.293.
 
 ## Notes

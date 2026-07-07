@@ -5,7 +5,7 @@ base_headword: "Vīraṅkurārāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vīraṅkurārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīraṅkurārāma. Một tu viện ở Abhayagirivihāra; nó được xây dựng bởi Sena I. Cv.l.68.
 
 ## Notes

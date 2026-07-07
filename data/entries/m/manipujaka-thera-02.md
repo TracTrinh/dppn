@@ -5,7 +5,7 @@ base_headword: "Maṇipūjaka Thera"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maṇipūjaka Thera 02. An *Arahant*. He was once a <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇipūjaka Thera 02. Một vị *Arahant*. Ngài từng là một Nāga vương tại một hồ nước ở Himavā, và, sau khi thấy Đức Phật Padumuttara du hành qua hư không, ngài đã cúng dường Ngài viên ngọc mà ngài đeo quanh cổ, đó là vật duy nhất mà ngài có (Ap.ii.413f). Có lẽ ngài cũng chính là Mātaṅgaputta Thera. (Thag­a.i.349.)
 
 ## Notes

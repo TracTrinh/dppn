@@ -5,7 +5,7 @@ base_headword: "Maruthukoṭṭa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maruthukoṭṭa. A locality in South India. Cv.lxxvi.180.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maruthukoṭṭa. Một địa phương ở Nam Ấn Độ. Cv.lxxvi.180.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Māṭambiya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Māṭambiya. A *padhānaghara* built by the *Damiḷa* <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṭambiya. Một ngôi nhà tu tập (padhānaghara) được xây dựng bởi người Damiḷa tên là Potthakuṭṭha. Ông đã hiến tặng hồ Ambavāpi tại Būkakalla và các ngôi làng Tantavāyikacāṭikā và Niṭṭhilaveṭṭhi, cùng với các nô lệ, để bảo trì nơi này. Cv.xlvi.19f.; Cv.Trs.i.100, n.1.
 
 ## Notes

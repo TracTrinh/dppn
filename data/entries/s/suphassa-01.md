@@ -5,7 +5,7 @@ base_headword: "Suphassā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suphassā 01. A female crow, wife of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suphassā 01. Một con quạ cái, vợ của Supatta. Bà được đồng nhất với Rāhulamātā. Ja.ii.436.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tirippāluru"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tirippāluru. A locality in South India. Cv.lxxvi.309, 312.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirippāluru. Một địa phương ở Nam Ấn Độ. Cv.lxxvi.309, 312.
 
 ## Notes

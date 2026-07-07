@@ -5,7 +5,7 @@ base_headword: "Surindavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Surindavatī. A city in the time of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surindavatī. Một thành phố vào thời kỳ của Koṇāgamana Buddha. Trong một công viên ở thành phố, Koṇāgamana đã thuyết pháp cho Bhīyasa và Uttara, những người sau này đã trở thành các đệ tử chính của Ngài. Bv­a.215.
 
 ## Notes

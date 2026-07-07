@@ -5,7 +5,7 @@ base_headword: "Pukkusa"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pukkusa 04. The name of a caste, classified among the despised castes (e.g., AN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pukkusa 04. Tên của một giai cấp, được phân loại trong số các giai cấp bị khinh miệt (ví dụ, AN.ii.85; MN.ii.152). Chú giải giải thích (ví dụ, AN­a.ii.523) họ là “những người quét dọn những bông hoa được cúng dường tại các đền tháp và không được dọn dẹp bởi những tín đồ đã dâng cúng chúng.” Từ Pukkusa rõ ràng không bị khinh miệt với tư cách là một tên cá nhân bởi vì, trong trường hợp của Pukkusa (3), chẳng hạn, người mang tên này là một *Khattiya*.
 
 ## Notes

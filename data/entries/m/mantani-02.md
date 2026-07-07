@@ -5,7 +5,7 @@ base_headword: "Mantāṇī"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mantāṇī 02. A *Brāhmiṇī*, mother of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mantāṇī 02. Một nữ Bà-la-môn (*Brāhmiṇī*), mẹ của Aṅgulimāla; chồng bà là Gagga. MN.ii.102; Thag­a.ii.58.
 
 ## Notes

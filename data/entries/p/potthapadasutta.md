@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapādasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -29,6 +29,8 @@ This *Sutta* is significant as containing a list of the topics which <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapādasutta. Một cuộc thảo luận giữa Đức Phật và *Paribbājaka* Poṭṭhapāda, được tổ chức tại Mallikārāma (DN.i.178-203). Kinh này đề cập đến vấn đề về *jhāna* và về linh hồn, và cũng về sự vô biên và thường hằng của thế giới.
+
+*Sutta* này có ý nghĩa quan trọng vì chứa một danh sách các chủ đề mà các *Paribbājaka* dường như đã thảo luận trong các cuộc gặp gỡ của họ.
 
 ## Notes

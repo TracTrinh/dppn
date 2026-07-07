@@ -5,7 +5,7 @@ base_headword: "Pulinapupphiya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pulinapupphiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinapupphiya. Một Cakkavatti của chín mươi mốt *kappa* trước, là một tiền kiếp của Ñāṇasaññaka (hoặc Piyañjaha) Thera. Ap.i.161f.; Thag­a.i.169.
 
 ## Notes

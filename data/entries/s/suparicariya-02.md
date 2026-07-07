@@ -5,7 +5,7 @@ base_headword: "Supāricariya"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Supāricariya 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supāricariya 02. Supāricariya Thera. Rõ ràng là đồng nhất với Khitaka Thera (*q.v.*). Ap.i.181; Thag­a.i.209.
 
 ## Notes

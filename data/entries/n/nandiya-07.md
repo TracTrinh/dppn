@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "07"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiya 07. A king of sixteen *kappas* ago; a former birth of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 07. Một vị vua của mười sáu *kappa* trước; một tiền kiếp của Tilamuṭṭhidāyaka. Ap.i.235.
 
 ## Notes

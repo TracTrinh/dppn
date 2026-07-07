@@ -5,7 +5,7 @@ base_headword: "Manosilātala"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,6 @@ Manosilātala. A locality in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manosilātala. Một địa phương ở Himavā. Khi Āḷavaka đe dọa Đức Phật, y đã đứng với chân trái đặt trên Manosilātala và chân phải đặt trên Kelāsa (Snp­a.i.223). Manosilātala nằm gần Anotatta, và những ai tắm trong hồ đều lau khô người và mặc y phục tại đó (ví dụ, Ja.i.232; iii.379). Nơi đây cũng là chốn lui tới của những con sư tử (Ja.ii.65) và rộng sáu mươi do-tuần (Ja.ii.92, 219). Phía trên nó là Kañcanaguhā (Ja.v.392) và phía dưới nó là Kāḷapabbata (Ja.vi.265).
 
 ## Notes

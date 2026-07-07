@@ -5,7 +5,7 @@ base_headword: "Telapakkanijjhara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Telapakkanijjhara. A weir forming part of the irrigation work carried out by <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telapakkanijjhara. Một đập tràn tạo thành một phần của công trình thủy lợi được thực hiện bởi Parakkamabāhu I. Cv.lxxix.66.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Visākha"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -39,6 +39,12 @@ Fourteen *kappas* ago he was a poor householder, and one day, while searching in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākha 02. Visākha Pañcāliputta. Ông là con trai của một thống đốc tỉnh (*maṇḍalikarājā*) của Magadha, và được gọi là *Pañcāliputta* vì mẹ của ông là con gái của vua nước Pañcāla. (AN­a.ii.511 gọi ông là con trai của *Pañcālibrāhmaṇī*). Ông kế nhiệm cha mình, và một ngày nọ, nghe tin Đức Phật đã đến gần ngôi làng của mình, ông đã đến thăm ngài, nghe ngài thuyết pháp và gia nhập Tăng đoàn. Sau đó, ông đã tháp tùng Đức Phật đến Sāvatthī, nơi ông trở thành một vị *Arahant*. Về sau, vì lòng bi mẫn, ông đã đi thăm những người thân của mình.
+
+Một ngày nọ, ông được hỏi một người cần có bao nhiêu phẩm chất để được coi là một người thuyết giảng Pháp khéo léo. Câu trả lời của Visākha được đưa vào Theragāthā (Thag. vs. 209-10; Thag­a.i.331f).
+
+Mười bốn *kappa* trước, ông là một gia chủ nghèo, và một ngày nọ, trong khi đang tìm kiếm trái cây trong rừng, ông đã nhìn thấy một vị Pacceka Buddha và dâng lên ngài một quả *vallī*. Rõ ràng ông được nhận diện với Valliphaladāyaka của Apadāna (Ap.i.296).
+
+Visākha rõ ràng là một người thuyết giáo thông minh và cuốn hút, và các sách đề cập rằng Đức Phật đã nghe ông thuyết pháp và ca ngợi ông. SN.ii.280; AN.ii.51.
 
 ## Notes

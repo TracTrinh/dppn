@@ -5,7 +5,7 @@ base_headword: "Vijitasena"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijitasena 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasena 02. Con trai của Đức Phật Kassapa. Mẹ của ông là Sunandā. Bv.xxv.36; DN­a.ii.422.
 
 ## Notes

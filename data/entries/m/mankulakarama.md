@@ -5,7 +5,7 @@ base_headword: "Maṅkulakārāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṅkulakārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅkulakārāma. Một tu viện ở Sunāparanta nơi Puṇṇa Thera sống (*q.v.*) và là nơi Đức Phật đã đến thăm ngài. Gần đó có một ngôi làng của các thương nhân nơi Puṇṇa đi khất thực và nơi em trai của ngài là Cūḷa Puṇṇa sinh sống. Sau khi các thương nhân được cứu thoát khỏi cái chết nhờ sự can thiệp của Puṇṇa, họ đã tặng ngài một phần gỗ đàn hương đỏ mà họ kiếm được trong chuyến hành trình, và với vật liệu này họ đã xây dựng một *maṇḍalamāla* trong *vihāra* rồi cúng dường nó cho Đức Phật. Đức Phật đã sống ở đó trong bảy ngày. (SN­a.iii.15ff.)
 
 ## Notes

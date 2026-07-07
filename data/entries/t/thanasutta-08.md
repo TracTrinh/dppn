@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "08"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 08. Năm điều kiện khó có được đối với một người phụ nữ không có công đức – sinh ra trong một gia đình như ý, kết hôn với một người như ý, không có người vợ nào khác làm đối thủ, sinh được một đứa con trai và có khả năng giữ được tình cảm của người chồng. SN.iv.249.
 
 ## Notes

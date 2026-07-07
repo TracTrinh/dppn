@@ -5,7 +5,7 @@ base_headword: "Supāricariya"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Supāricariya 01. Three *kappas* ago there were thirty-four kings of this name, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supāricariya 01. Ba *kappa* trước có ba mươi tư vị vua mang tên này, là những tiền kiếp của Samitigutta Thera (Jātipūjaka). Thag­a.i.176; Ap.i.154.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumanadāmadāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanadāmadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he stood in fro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanadāmadāyaka Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã đứng trước Siddhattha Buddha, với một vòng hoa *sumana* trên tay để tôn vinh ngài. Ap.i.293.
 
 ## Notes

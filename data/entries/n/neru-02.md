@@ -5,7 +5,7 @@ base_headword: "Neru"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -28,6 +28,6 @@ Neru 02. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn núi ở Himavā. Mọi loài chim chóc định cư ở đó đều biến thành màu vàng kim. Ja.iii.247; c.p. Kākaneru, Mahā Neru, Sineru, Meru.
 
 ## Notes

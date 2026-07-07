@@ -5,7 +5,7 @@ base_headword: "Nārāyana"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nārāyana 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārāyana 03. Một thủ lĩnh người Damiḷa, một trong ba *Vīrapparāyaras*. Ông là một đồng minh của Laṅkāpura, vị tướng của Parakkamabāhu I. Cv.lxxvii.6.
 
 ## Notes

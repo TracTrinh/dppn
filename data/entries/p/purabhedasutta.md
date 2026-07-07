@@ -5,7 +5,7 @@ base_headword: "Purābhedasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,10 @@ The *Sutta* was preached for the benefit of the *buddhicaritā*. Snp­a.i.361; M
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purābhedasutta. Bản *Sutta* thứ mười thuộc Aṭṭhakavagga của Suttanipāta. Nó nằm trong số các *Sutta* được thuyết giảng tại Mahā Samaya để trả lời cho những câu hỏi được đặt ra cho Đức Phật bởi Hóa Phật (Snp­a.ii.548).
+
+Nó là một bài diễn giảng dài về những đặc điểm của một vị hiền trí tĩnh lặng (*upasanta*). Vị ấy thoát khỏi tham ái, sân hận, v.v., có sự bình thản và chánh niệm, sở hữu sự tĩnh lặng, và bước đi trên con đường của những bậc chân nhân (Snp. vs. 848-61).
+
+Bản *Sutta* này được thuyết giảng vì lợi ích của những người có tâm tính hướng về trí tuệ (*buddhicaritā*). Snp­a.i.361; MNid. 223.
 
 ## Notes

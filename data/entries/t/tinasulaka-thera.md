@@ -5,7 +5,7 @@ base_headword: "Tiṇasūlaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tiṇasūlaka Thera. An *Arahant*. Many *kappas* ago he was a householder, and, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇasūlaka Thera. Một vị *Arahant*. Nhiều *kappa* trước ngài là một gia chủ, và khi nhìn thấy một Pacceka Buddha trên núi Bhūtagaṇa, đã dâng lên ngài một bông hoa *tiṇasūla*. Mười một *kappa* trước, ngài là một vị vua tên là Dharaṇīruha (Ap.i.179). Ngài rõ ràng là cùng một người với *Dhammāsavapitu* Thera. Thag­a.i.215f.
 
 ## Notes

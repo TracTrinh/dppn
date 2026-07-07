@@ -5,7 +5,7 @@ base_headword: "Suppatīta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suppatīta. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppatīta. Vua của Anoma hoặc Anupama; cha của Vessabhū Buddha. Ja.i.42; Bv.xxxii.18; DN.ii.7.
 
 ## Notes

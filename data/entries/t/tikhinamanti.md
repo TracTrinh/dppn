@@ -5,7 +5,7 @@ base_headword: "Tikhiṇamantī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Tikhiṇamantī. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikhiṇamantī. Anh trai của Cūḷanī Brahmadatta. Ông sinh ra trong khi mẹ ông, Talatā, đang chung sống với Bà-la-môn Chambhī, sau khi đã giết chết Mahā Cūḷanī. Khi khám phá ra nguồn gốc thực sự của mình, ông đã giết chết Chambhī, và, sau khi chiếm lấy ngai vàng, đã cho người đến đón anh trai mình là Cūḷanī, người khi đó đang sống lưu vong, và tôn ông lên làm vua (Ja.vi.469, 473). Có thông tin (Ja.vi.474) rằng, sau này, Cūḷanī đã tỏ ra không hài lòng vì Tikhiṇamantī ngừng tham dự tại triều đình.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandiyasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiyasutta 01. The *Paribbājaka* <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiyasutta 01. Du sĩ ngoại đạo (*Paribbājaka*) Nandiya (xem Nandiya 4) viếng thăm Đức Phật và được hướng dẫn Bát Thánh đạo. SN.v.11.
 
 ## Notes

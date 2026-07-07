@@ -5,7 +5,7 @@ base_headword: "Nilavāsi"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nilavāsi. A Thera mentioned as staying at the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nilavāsi. Một vị Trưởng lão được nhắc đến là đang lưu ngụ tại Kukkuṭārāma ở Pāṭaliputta. Vin.i.300.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suphassā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suphassā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suphassā 02. Mẹ của Siddhattha Buddha. Ja.i.40; Bv.xvii.13.
 
 ## Notes

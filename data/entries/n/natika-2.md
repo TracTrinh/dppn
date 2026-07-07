@@ -5,7 +5,7 @@ base_headword: "Ñātikā"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên, có lẽ là của một ao nước (*taḷāka*) gần ngôi làng Ñātika, và/hoặc của gia tộc sống trong ngôi làng. Xem Ñātika.
 
 ## Notes

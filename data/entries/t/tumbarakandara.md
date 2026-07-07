@@ -5,7 +5,7 @@ base_headword: "Tumbarakandara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tumbarakandara. A forest between <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tumbarakandara. Một khu rừng giữa Upatissagāma và Dvāramaṇḍalaka. Mhv.x.2; Mhv­ṭ.280.
 
 ## Notes

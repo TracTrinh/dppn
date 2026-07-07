@@ -5,7 +5,7 @@ base_headword: "Puṇṇa"
 disambiguator: "06"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -67,6 +67,18 @@ The *Mahā Vastu* contains twenty verses attributed to Pūrṇa Maitrayānīputr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇa 06. Puṇṇa Mantānīputta Thera. Ông thuộc một gia đình Bà-la-môn ở Doṇavatthu, gần Kapilavatthu. Mẹ ông là Mantāṇī, em gái của Aññā Kondañña. Trong lúc Đức Phật Gotama đang ở Rājagaha, nơi Ngài đã đến sau khi thuyết giảng Dhammacakkappavattanasutta, Aññā Kondañña đã đi đến Kapilavatthu và truyền giới cho Puṇṇa. Sau đó, Koṇḍañña đã trở về Rājagaha, từ đó, sau khi từ biệt Đức Phật, ông đã lui về sống trên bờ hồ *daha* Chaddanta. Nhưng Puṇṇa vẫn ở lại Kapilavatthu, chuyên tâm vào các pháp hành của mình, và không lâu sau đó đã trở thành một bậc *Arahant*. Ông đã quy tụ xung quanh mình năm trăm người trong dòng tộc, tất cả đều trở thành tỳ-kheo, và ông đã dạy cho họ mười cơ sở của bài pháp (*dasa kathāvatthūni*), mà chính ông đã học được, và họ cũng trở thành các bậc *Arahant*. Khi họ mong muốn được diện kiến Đức Phật, Puṇṇa đã cho họ đi trước đến Rājagaha, yêu cầu họ nhân danh ông để đảnh lễ Đức Phật. Sau đó, khi Đức Phật từ Rājagaha đến Sāvatthī, Puṇṇa đã đến thăm Ngài và được dạy về Dhamma ngay trong hương thất (*Gandhakuṭi*) của Đức Phật. Sāriputta, nghe về danh tiếng của Puṇṇa, đã mong muốn được gặp ông, và đã đi đến Andhavana, nơi Puṇṇa đang nghỉ trưa. Sāriputta đã chất vấn ông về bảy hành động thanh tịnh, và Puṇṇa đã trả lời ông. Hai vị tỳ-kheo đã tìm thấy niềm vui lớn trong những lời nói của nhau. Cuộc gặp gỡ với Sāriputta được đưa ra trong Rathavinītasutta (MN.i.146 ff.). Buddhaghosa, nói (MN­a.i.362) rằng hai vị Trưởng lão có nhiều điểm chung.
+
+Sau đó, Đức Phật đã tuyên bố Puṇṇa là người xuất sắc nhất trong số những người thuyết pháp. (AN.i.23; SN.ii.156)
+
+Vào thời của Đức Phật Padumuttara, Puṇṇa sinh ra trong một gia đình Bà-la-môn giàu có ở Haṁsavatī, trước khi Đức Phật đản sinh. Khi lớn lên, một ngày nọ ông đã đến thăm Đức Phật, và khi ông ngồi ở rìa của một đám đông lớn, nghe Ngài thuyết pháp, Đức Phật đã tuyên bố một trong những vị tỳ-kheo của Ngài là người xuất sắc nhất trong số các nhà thuyết pháp, và Puṇṇa, mong muốn một vinh dự tương tự dưới thời của một vị Phật tương lai, đã bày tỏ sự tôn kính lớn lao đối với Padumuttara. (Thag­a.i.37 ff)
+
+Tuy nhiên, trong chú giải Aṅguttara, chúng ta được kể rằng vào thời của Đức Phật Padumuttara, Puṇṇa có tên là Gotama và là một chuyên gia về kinh Vệ Đà (AN­a.i.113 ff). Nhưng ông đã không tìm thấy niềm an ủi trong giáo lý của kinh Vệ Đà và đã trở thành một đạo sĩ với nhóm mười tám ngàn đạo sĩ bện tóc (*Jaṭila*), tất cả bọn họ, dưới sự hướng dẫn của ông, đã phát triển được những thần thông (*iddhi*) to lớn. Puṇṇa đã già khi Padumuttara đạt đến Giác ngộ. Một ngày nọ, Đức Phật đã đến thăm am thất của Gotama, và Gotama cùng với các đệ tử của mình đã thiết đãi Ngài một bữa ăn. Sau đó, Đức Phật mong muốn vị đệ tử trưởng của Ngài là Mahā Deva đến am thất cùng với một trăm ngàn vị tỳ-kheo; ngài đã làm như vậy, và các đạo sĩ đã cung cấp hoa cho chỗ ngồi của họ. Trong bảy ngày, Đức Phật và các tỳ-kheo của Ngài vẫn ở trong trạng thái thiền (*jhāna*) trên chỗ ngồi của họ, vào cuối khoảng thời gian đó Đức Phật đã yêu cầu vị giảng sư xuất sắc nhất đưa ra những lời cảm tạ. Khi kết thúc bài giảng, tất cả mọi người ngoại trừ Gotama đều trở thành những bậc *Arahant*. Gotama mong muốn đạt được sự xuất sắc trong việc giảng pháp dưới thời của một vị Phật tương lai, và Padumuttara đã tuyên bố rằng mong muốn của ông sẽ tìm thấy sự viên mãn. Apadāna có chứa một phiên bản khác nữa, theo đó tên của Puṇṇa vào thời của Padumuttara là Sunanda (Ap.i.38, được trích dẫn tại Thag­a.i.362).
+
+Bên cạnh Rathavinītasutta được đề cập ở trên, vốn là bằng chứng cho thấy kỹ năng của Puṇṇa như là một nhà thuyết pháp, thì một *Sutta* khác, của Saṁyuttanikāya, thể hiện hình ảnh Ānanda đang nói với các tỳ-kheo hội tụ lại rằng Puṇṇa đã giúp đỡ rất nhiều cho chính ngài và những người khác khi họ vẫn còn là những sa-di; Puṇṇa đã giảng cho họ về luật nhân quả, và họ đã có thể hiểu được Giáo pháp nhờ vào sự diễn giải khéo léo của ông (SN.iii.105f.; theo Thag­a.ii.124, Ānanda đã trở thành một bậc *Sotāpanna* sau khi nghe một bài giảng của Puṇṇa).
+
+Có lẽ, chính Puṇṇa này là người được đồng nhất với người gác cổng (*dovārika*) trong Kurudhammajātaka (Ja 276, Ja.ii.381) và với một trong bảy người anh em trong Bhisajātaka (Ja 488, Ja.iv.314).
+
+*Mahā Vastu* chứa đựng hai mươi bài kệ được cho là của Pūrṇa Maitrayānīputra (Mvu.iii.382).
 
 ## Notes

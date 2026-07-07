@@ -5,7 +5,7 @@ base_headword: "Vimalā"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vimalā 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalā 02. Một thiếu nữ Nāga, hoàng hậu của Varuṇa. Xem Vidhurapaṇḍitajātaka.
 
 ## Notes

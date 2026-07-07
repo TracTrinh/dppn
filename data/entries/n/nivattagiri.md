@@ -5,7 +5,7 @@ base_headword: "Nivattagiri"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nivattagiri. The name of the city built on the spot where <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nivattagiri. Tên của thành phố được xây dựng trên vị trí mà chú voi Kaṇḍula đã quay lại để chiếm lấy Mahelanagara. Mhv­ṭ.480.
 
 ## Notes

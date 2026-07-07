@@ -5,7 +5,7 @@ base_headword: "Sundarikasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sundarikasutta. Describes the meeting between the Buddha and <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarikasutta. Mô tả cuộc gặp gỡ giữa Đức Phật và Sundarika Bhāradvāja. SN.i.167f.
 
 ## Notes

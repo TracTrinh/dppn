@@ -5,7 +5,7 @@ base_headword: "Pūtimaṁsa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pūtimaṁsa. A jackal, the mate of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūtimaṁsa. Một con chó rừng, là bạn tình của Veṇī. Về câu chuyện của chúng, xem Pūtimaṁsajātaka (Ja 437).
 
 ## Notes

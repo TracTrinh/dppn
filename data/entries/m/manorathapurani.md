@@ -5,7 +5,7 @@ base_headword: "Manorathapūraṇī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,6 @@ Manorathapūraṇī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manorathapūraṇī, Aṅguttara Commentary. Bản chú giải của Buddhaghosa cho Aṅguttaranikāya, được viết theo lời thỉnh cầu của Jotipāla và Jīvaka. (AN­a.ii.874; Gv.59, v.v.)
 
 ## Notes

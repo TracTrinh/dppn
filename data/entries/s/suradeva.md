@@ -5,7 +5,7 @@ base_headword: "Sūradeva"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sūradeva. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūradeva. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.13.
 
 ## Notes

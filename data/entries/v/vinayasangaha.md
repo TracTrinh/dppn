@@ -5,7 +5,7 @@ base_headword: "Vinayasaṅgaha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vinayasaṅgaha. A very important summary of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayasaṅgaha. Một bản tóm tắt rất quan trọng về Vinayapiṭaka, do Sāriputta ở Pulatthipura viết. Hiện có hai *ṭīkā* về nó, một bản được cho là của chính Sāriputta. PLC. 191; Gv.61; Sās. 33.
 
 ## Notes

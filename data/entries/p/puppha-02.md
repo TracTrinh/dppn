@@ -5,7 +5,7 @@ base_headword: "Puppha"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puppha 02. One of the five horses of King <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puppha 02. Một trong năm con ngựa của Vua Kappina, được ông dùng vào việc gửi thông điệp. Dhp­a.ii.117.
 
 ## Notes

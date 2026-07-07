@@ -5,7 +5,7 @@ base_headword: "Nigguṇḍipupphiya Thera"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nigguṇḍipupphiya Thera 01. An *Arahant*. Ninety-one *kappas* ago he was the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là người phục vụ tu viện (*ārāmika*) của Vipassī Buddha, và có lần đã dâng một bông hoa *nigguṇḍi* cho Đức Phật. Ba mươi lăm *kappa* trước, ngài là vua, dưới cái tên Mahā Patāpa (Ap.i.205). Ngài có lẽ chính là Trưởng lão Vīra (Vīra Thera). Thag­a.i.50f.
 
 ## Notes

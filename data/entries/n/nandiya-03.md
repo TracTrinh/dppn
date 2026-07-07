@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -32,6 +32,6 @@ Nandiya 03. A householder of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 03. Một gia chủ ở Benares. Ông rất sùng đạo và luôn chăm lo cho cha mẹ mình. Khi họ muốn ông kết hôn với Revatī, ông từ chối vì cô xuất thân từ một gia đình không có đức tin. Nhưng khi Revatī đề nghị giúp đỡ Nandiya trong mọi công việc của ông, ông đã đồng ý và họ kết hôn. Khi cha mẹ của Nandiya qua đời, để lại cho ông sự giàu có lớn, ông đã sử dụng tiền để nuôi những người nghèo khổ và túng thiếu. Sau đó, ông đã xây dựng một hội trường bốn phía trong tu viện lớn ở Isipatana và trang bị nó với sự lộng lẫy tuyệt vời. Vào ngày hiến cúng nó cho Đức Phật và chư tỳ-kheo, khi nước của sự hiến tặng rớt xuống tay Đức Phật, một cung điện cõi trời đã hiện ra ở Tāvatiṁsa, mỗi bề rộng mười hai do-tuần, dành cho việc sử dụng của Nandiya. Trong một chuyến viếng thăm Tāvatiṁsa của Moggallāna, ngài đã nhìn thấy cung điện này, và được nhiều thiên nữ cho biết rằng họ đang chờ sự xuất hiện của Nandiya (Dhp­a.iii.290ff). Chú giải Vimānavatthu (Vv-a.222f) tiếp tục nói rằng sau một cuộc đời cống hiến cho những việc thiện, Nandiya đã qua đời và được sinh ra trong cung điện cõi trời của mình, và rằng Revatī, khi chồng bà qua đời, đã ngưng việc bố thí, lăng mạ các tỳ-kheo, và bị ném sống vào địa ngục (*niraya*) Ussada theo lệnh của Vessavaṇa.
 
 ## Notes

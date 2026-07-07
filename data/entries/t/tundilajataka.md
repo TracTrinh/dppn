@@ -5,7 +5,7 @@ base_headword: "Tuṇḍilajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -37,6 +37,14 @@ It is said (Dhp­a.i.83) that the lewd men were identical with the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṇḍilajātaka (Ja 388). Bodhisatta từng tái sinh làm một con lợn và có một người anh em. Chúng được một bà lão ở một ngôi làng gần Benares nhận nuôi và được gọi là Mahā Tuṇḍila và Cūḷa Tuṇḍila.
+
+Bà lão yêu thương chúng như chính con đẻ của mình và từ chối bán chúng, nhưng, một ngày nọ, một số kẻ vô luân đã làm bà say rượu và bà đồng ý bán Cūḷa Tuṇḍila. Khi Cūḷa Tuṇḍila phát hiện ra điều này, nó chạy đến chỗ anh trai mình, nhưng người anh đã thuyết giảng cho nó rằng số phận của lợn là bị giết thịt; do đó, nó nên dũng cảm đối mặt với cái chết của mình. Toàn bộ người dân Benares nghe thấy bài thuyết giảng của Bodhisatta, và đổ xô đến địa điểm đó. Nhà vua đã nhận bầy lợn làm con trai của mình và Mahā Tuṇḍila được bổ nhiệm vào vị trí xét xử. Khi nhà vua qua đời, ông đã viết một cuốn sách luật để hướng dẫn cho các thế hệ tương lai.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo thường xuyên sống trong sự kinh hoàng khi nghĩ đến cái chết. Vị tỳ-kheo được đồng nhất với Cūḷa Tuṇḍila (Ja.iii.286ff).
+
+Có người nói (Dhp­a.i.83) rằng những kẻ vô luân chính là nhóm Bhaddavaggiyā. Sau khi nghe Mahā Tuṇḍila thuyết giảng năm giới, họ đã tuân giữ chúng trong sáu mươi ngàn năm, nhờ đó họ đắc quả vị *Arahant* trong lần tái sinh cuối cùng của mình.
+
+Bài thuyết giảng của Mahā Tuṇḍila được gọi là Tuṇḍilovāda.
 
 ## Notes

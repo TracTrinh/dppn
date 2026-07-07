@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "08"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 08. The personal name of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 08. Tên cá nhân của Metteyya, người bạn của Tissa (7). Metteyya là tên *gotta* của ông, nhờ đó ông được mọi người biết đến (Snp­a.ii.536; NidA.184). Trong Suttanipāta (vs.814), ông được gọi là Tissametteyya.
 
 ## Notes

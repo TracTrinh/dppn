@@ -5,7 +5,7 @@ base_headword: "Tidiva"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tidiva. A name given to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tidiva. Một tên gọi được đặt cho Tāvatiṁsa. Cũng xem Tirīṭavaccha (3). Ja.iv.322, 450; v.14, 15.
 
 ## Notes

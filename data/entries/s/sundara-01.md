@@ -5,7 +5,7 @@ base_headword: "Sundara"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sundara 01. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundara 01. Một thành phố nơi Kassapa Buddha đã thực hiện Yamakapāṭihāriya (Song thông) dưới gốc một cây *asana* (Bv­a.218), và Koṇāgamana Buddha dưới một cây *Mahā Sāla* (Bv­a.214).
 
 ## Notes

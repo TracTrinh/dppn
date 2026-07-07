@@ -5,7 +5,7 @@ base_headword: "Sūradaddara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sūradaddara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūradaddara. Vua Nāga (Long vương) của Daddarapabbata. Xem Daddarajātaka (Ja 304). Ông là cha của Mahā Daddara.
 
 ## Notes

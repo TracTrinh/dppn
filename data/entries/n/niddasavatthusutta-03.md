@@ -5,7 +5,7 @@ base_headword: "Niddasavatthusutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Niddasavatthusutta 03. Similar to No. 2, but the questioner is <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như số 2, nhưng người đặt câu hỏi là Ānanda và các phẩm chất được nêu ra một cách khác biệt. AN.iv.37f.
 
 ## Notes

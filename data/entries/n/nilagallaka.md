@@ -5,7 +5,7 @@ base_headword: "Nīlagallaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīlagallaka. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị quan của Parakkamabāhu I. Cv.lxx.67.
 
 ## Notes

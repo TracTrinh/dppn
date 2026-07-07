@@ -5,7 +5,7 @@ base_headword: "Nissaraṇīyasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nissaraṇīyasutta. A monk, who is not obsessed by thoughts of lust, ill-will, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissaraṇīyasutta. Một tỳ-kheo, người không bị ám ảnh bởi những suy nghĩ về dục, sân, hại, sắc và thân của chính mình (*sakkāya*), thì sở hữu năm yếu tố của sự xuất ly. AN.iii.245f.
 
 ## Notes

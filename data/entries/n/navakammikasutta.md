@@ -5,7 +5,7 @@ base_headword: "Navakammikasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Navakammikasutta. Records the conversation between the Buddha and <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghi lại cuộc trò chuyện giữa Đức Phật và Navakammika Bhāradvāja (SN.i.179).
 
 ## Notes

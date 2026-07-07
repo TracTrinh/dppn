@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "10"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 10. Đức Phật biết cách các sự vật được tạo ra và phát sinh, cùng kết quả của các hành động. SN.v.304.
 
 ## Notes

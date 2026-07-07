@@ -5,7 +5,7 @@ base_headword: "Sunettā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunettā. A Brahmin maiden of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunettā. Một thiếu nữ Bà-la-môn ở Asadisagāma, người đã dâng một bữa ăn cháo sữa cho Siddhattha Buddha. Bv­a.185.
 
 ## Notes

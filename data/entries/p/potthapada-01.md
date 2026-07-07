@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapāda"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,6 @@ Poṭṭhapāda 01. A *Paribbājaka*. A discussion between him and the Buddha on
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapāda 01. Một *Paribbājaka*. Cuộc thảo luận giữa ông và Đức Phật về *jhāna* và về linh hồn, diễn ra tại Mallikārāma ở Sāvatthī, được tường thuật lại trong Poṭṭhapādasutta. Poṭṭhapāda, do chấp nhận quan điểm của Đức Phật, đã bị những người bạn của mình chế giễu vì điều đó. Hai hoặc ba ngày sau, ông lại đến thăm Đức Phật cùng với Citta Hatthisāriputta (*q.v.*), khi Đức Phật tiếp tục cuộc thảo luận trước đó về nhân cách và linh hồn. Vào cuối bài pháp, Poṭṭhapāda đã trở thành tín đồ của Đức Phật (DN.i.178ff). Poṭṭhapāda được đồng nhất với Pukkusa trong Mahā Ummaggajātaka. Ja.vi.478.
 
 ## Notes

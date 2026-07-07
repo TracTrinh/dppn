@@ -5,7 +5,7 @@ base_headword: "Toyavāpi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Toyavāpi. A tank, one of the irrigation works of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Toyavāpi. Một hồ chứa nước, một trong những công trình thủy lợi của Parakkamabāhu I. Cv.lxxvx.46.
 
 ## Notes

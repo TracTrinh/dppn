@@ -5,7 +5,7 @@ base_headword: "Tundagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tundagāma. A village in the dominions of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tundagāma. Một ngôi làng trong lãnh thổ của vua Kosala. Ras.i.46.
 
 ## Notes

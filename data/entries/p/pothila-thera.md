@@ -5,7 +5,7 @@ base_headword: "Poṭhila Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,8 @@ Two verses, addressed to him by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭhila Thera, Poṭṭhila Thera. Trong thời kỳ giáo pháp của bảy vị Phật, ông đã tinh thông *Tipiṭaka* và thuyết pháp cho rất đông các vị tỳ-kheo, nhưng ông lại không đạt được bất kỳ sự chứng đắc nào cho bản thân mình. Vì muốn thức tỉnh ông nỗ lực tu tập, Đức Phật thường xuyên gọi ông là “Tuccha Poṭhila (Poṭhila rỗng tuếch)”. Poṭhila đã hiểu được ẩn ý đó, và sau khi đi một trăm hai mươi do-tuần, ông đã đến một am thất trong rừng, nơi có ba mươi vị tỳ-kheo sinh sống. Ông thỉnh cầu vị lãnh đạo của họ giúp đỡ mình, nhưng vị ấy lại giới thiệu ông cho một vị tỳ-kheo nhỏ tuổi hơn, vị tỳ-kheo này đến lượt mình lại giới thiệu ông cho người khác, và cứ thế tiếp tục, cho đến cuối cùng ông buộc phải thỉnh cầu vị sa-di bảy tuổi đang ngồi khâu vá. Với sự kiêu hãnh đã được nhún nhường, Poṭhila đã xin vị ấy lời khuyên. Để thử thách ông, vị sa-di đã yêu cầu ông nhảy xuống một cái hồ trong lúc vẫn đang đắp y. Poṭhila đã làm theo, và vị sa-di, cảm thấy hài lòng với sự chân thành của ông, đã dạy ông rằng, trong trường hợp một cái gò mối có sáu lỗ hổng mà một con thằn lằn chui vào, bất kỳ ai muốn bắt con thằn lằn đó, sẽ phải bịt kín năm lỗ hổng lại. Tương tự như vậy với sáu cánh cửa của các giác quan; hãy đóng năm cánh cửa lại, và tập trung vào cánh cửa của tâm trí. Vào cuối bài giảng, Đức Phật đã hiện ra trước Poṭhila trong một tia sáng và Poṭhila đã trở thành một bậc *Arahant* (Dhp­a.iii.417-21).
+
+Hai câu kệ, do Moggallāna nói với ông, được ghi lại trong Theragāthā (Vs. 1174-5).
 
 ## Notes

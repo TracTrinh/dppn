@@ -5,7 +5,7 @@ base_headword: "Nivattacetiya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -27,6 +27,6 @@ Nivattacetiya. A *cetiya* near the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nivattacetiya. Một *cetiya* gần Kadambanadī, được xây dựng tại nơi mà Mahinda, theo lời thỉnh mời của Devānampiyatissa, đã quay lại trên đường đến Missakapabbata. Mhv.xv.10.
 
 ## Notes

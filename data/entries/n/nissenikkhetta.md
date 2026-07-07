@@ -5,7 +5,7 @@ base_headword: "Nisseṇikkhetta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nisseṇikkhetta. A district in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nisseṇikkhetta. Một quận ở tỉnh Malaya của Tích Lan. Cv.lxx.18.
 
 ## Notes

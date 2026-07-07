@@ -5,7 +5,7 @@ base_headword: "Tudigāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tudigāma. The residence of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tudigāma. Nơi cư trú của Subha Todeyyaputta. AN­a.ii.554; MN­a.ii.802. Xem Todeyya.
 
 ## Notes

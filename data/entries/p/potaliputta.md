@@ -5,7 +5,7 @@ base_headword: "Potaliputta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Potaliputta. A *Paribbājaka* who visited <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potaliputta. Một *Paribbājaka* đã đến thăm Samiddhi tại *Veḷuvana* ở Rājagaha và nói rằng ông từng nghe Đức Phật tuyên bố mọi hành động và lời nói đều là vô ích, và những gì diễn ra trong tâm mới là điều duy nhất quan trọng. Có thể đạt đến một trạng thái không hề có bất kỳ cảm thọ nào. Samiddhi phản đối rằng Potaliputta đã hiểu sai giáo lý của Đức Phật, và sau đó Potaliputta đã hỏi ông các câu hỏi liên quan đến kinh nghiệm, mà Samiddhi đã trả lời. Potaliputta không tỏ ra tán thành hay không tán thành, bèn bước đi. Khi Đức Phật nghe Ānanda kể về các câu hỏi của Potaliputta và các câu trả lời của Samiddhi, Ngài đã quở trách Samiddhi vì câu trả lời vội vàng của ông. Để biết chi tiết xem Mahā Kammavibhaṅgasutta. (MN.iii.207 ff.)
 
 ## Notes

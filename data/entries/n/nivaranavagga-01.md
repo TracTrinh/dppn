@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇavagga"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīvaraṇavagga 01. The sixth chapter of the *Pañcakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇavagga 01. Chương thứ sáu thuộc *Pañcakanipāta* của Aṅguttaranikāya. AN.iii.63-79.
 
 ## Notes

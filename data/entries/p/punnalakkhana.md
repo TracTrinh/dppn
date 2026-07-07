@@ -5,7 +5,7 @@ base_headword: "Puññalakkhaṇā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puññalakkhaṇā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññalakkhaṇā. *v.l.* Puṇṇalakkhaṇā. Vợ của Anāthapiṇḍika. Ja.ii.410, 415; iii.435.
 
 ## Notes

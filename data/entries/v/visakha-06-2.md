@@ -5,7 +5,7 @@ base_headword: "Visākhā"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākhā 06. One of the women who will renounce the world at the same time as t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhā 06. Một trong những người phụ nữ sẽ xuất gia cùng lúc với vị Metteyya Buddha tương lai. Bà sẽ được tháp tùng bởi tám mươi tư ngàn phụ nữ khác. Anāg. vs. 63.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandārāma"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandārāma 03. A pleasance in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandārāma 03. Một hoa viên ở Sunandavatī nơi Tissa Buddha viên tịch (Bv.xviii.28; Bv­a.192). *v.1.* Sunandārāma.
 
 ## Notes

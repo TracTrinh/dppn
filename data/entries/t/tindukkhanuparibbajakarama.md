@@ -5,7 +5,7 @@ base_headword: "Tindukkhānuparibbājakārāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tindukkhānuparibbājakārāma. A dwelling of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tindukkhānuparibbājakārāma. Chỗ ở của các Paribbājaka, gần Vesālī. Đó là nơi ở của Pāthikaputta. DN.iii.17.
 
 ## Notes

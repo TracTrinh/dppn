@@ -34,7 +34,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 Soṇā 05. Một Therī. Bà được tuyên bố thượng thủ trong số các tỳ-khưu-ni về khả năng tinh tấn (*āraddhaviriyānaṃ*). Bà thuộc gia đình một cư sĩ ở Sāvatthī, và vì sau khi lấy chồng bà có mười con trai và con gái, bà được gọi là Bahuputtikā (nhiều con). Khi chồng xuất gia, bà phân chia tài sản cho các con, không giữ lại gì cho mình. Các con sớm ngừng tôn trọng bà, và bà gia nhập Tăng đoàn khi tuổi đã cao. Bà phục vụ các tỳ-khưu-ni và học tập hầu hết đêm. Không lâu, tinh tấn của bà đến tai Đức Phật, và Ngài, tràn ra một luồng hào quang, nói chuyện với bà. Sau đó bà chứng đắc *Arahant*.
 
-Quyết tâm chướng ưu việt của bà được thành tựu trong thời Padumuttara Buddha, khi bà là con gái của một *seṭṭhi* giàu có. (AN.i.25; Thīg.vss.102-6; Thīg­a.96f.; Ap.ii.576; cf. câu chuyện của Bahuputtikā tại Dhp­a.ii.276f).
+Quyết tâm đạt ưu việt của bà được thành tựu trong thời Padumuttara Buddha, khi bà là con gái của một *seṭṭhi* giàu có. (AN.i.25; Thīg.vss.102-6; Thīg­a.96f.; Ap.ii.576; cf. câu chuyện của Bahuputtikā tại Dhp­a.ii.276f).
 
 Aṅguttara Commentary (AN­a.i.199) cho biết rằng sau khi trở thành *Arahant*, bà muốn các đồng tu biết điều này, vì họ đã có thói quen liên tục chỉ trích bà về nhiều thứ, và bà không muốn họ tiếp tục làm vậy và do đó tạo ra tội lỗi. Vì vậy bà đổ nước vào một bình, rồi bằng thần thông *iddhi* của mình, đun nóng nước mà không dùng lửa. Khi các tỳ-khưu-ni đến tìm nước, bà nói với họ rằng nếu muốn nước ấm có thể lấy từ bình đó. Họ thấy nước đã đun nóng và hiểu. Sau đó họ cầu xin bà tha thứ.
 

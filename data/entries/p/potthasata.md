@@ -5,7 +5,7 @@ base_headword: "Potthasāta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Potthasāta. The *senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potthasāta. Tướng quân (*senāpati*) của Aggabodhi IV. Ông đã xây dựng *pariveṇa* Aggabodhi trong Jetavanārāmā ở Anurādhapura. Cv.xlvi.22.
 
 ## Notes

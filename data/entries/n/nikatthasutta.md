@@ -5,7 +5,7 @@ base_headword: "Nikatthasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nikatthasutta. Four kinds of people in the world: those with debased bodies and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bốn hạng người trên thế giới: những người có thân thể hạ liệt và tâm hồn cao thượng, có thân thể cao thượng và tâm hồn hạ liệt, có cả thân và tâm cao thượng, có cả hai đều hạ liệt. AN.ii.137f.
 
 ## Notes

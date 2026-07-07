@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vijjāsutta 06. Those recluses who understand *dukkha*, its cause, etc., as they
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 06. Những vị sa-môn nào hiểu rõ *dukkha*, nguyên nhân của nó, v.v., đúng như thật, thì ngay trong hiện tại này sẽ chứng ngộ được thực tại của quả vị sa-môn của họ. SN.v.432.
 
 ## Notes

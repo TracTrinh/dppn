@@ -5,7 +5,7 @@ base_headword: "Nārāyana"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nārāyana 02. A general of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārāyana 02. Một vị tướng của Parakkamabāhu I., người phụ trách Anurādhapura. Ông đã nổi dậy chống lại nhà vua và đã bị giết trong trận chiến. Cv.lxxii.65.
 
 ## Notes

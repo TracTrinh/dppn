@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "04"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissā 04. An *upāsikā* mentioned, together with her mother <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 04. Một nữ cư sĩ (*upāsikā*) được nhắc đến, cùng với mẹ của bà là Tissāyamātā trong một danh sách những nữ đệ tử đạo đức (AN.iv.348; AN­a.ii.791).
 
 ## Notes

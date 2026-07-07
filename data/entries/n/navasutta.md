@@ -5,7 +5,7 @@ base_headword: "Navasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,8 @@ The Buddha discovered his abilities, and told the monks to leave him alone as he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lần một vị sa-di, sau khi đi khất thực trở về, đã bước vào am thất của mình rồi ngồi im lặng và thanh thản, không giúp đỡ các tỳ-kheo làm y. Việc này được trình báo lên Đức Phật, Ngài liền cho gọi vị tỳ-kheo đến.
+
+Đức Phật khám phá ra các năng lực của vị ấy, và bảo các tỳ-kheo hãy để cho vị ấy yên vì vị ấy là người có thể đạt được bốn *jhāna* mà không cần phải nhọc nhằn (SN.ii.277).
 
 ## Notes

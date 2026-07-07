@@ -5,7 +5,7 @@ base_headword: "Vītaṁsā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vītaṁsā. One of the ten rivers flowing from <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vītaṁsā. Một trong mười con sông chảy từ Himālaya. Mil.114; xem Mil.Trs.i.xliv, về một đề xuất nhận diện nó với Vitastā, tức sông Bihat (hoặc Jhelum) hiện đại.
 
 ## Notes

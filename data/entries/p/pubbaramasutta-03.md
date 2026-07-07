@@ -5,7 +5,7 @@ base_headword: "Pubbārāmasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pubbārāmasutta 03. The cultivation of the four *indriyas* (*viriya*, *sati*, *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāmasutta 03. Sự trau dồi bốn *indriya* (*viriya*, *sati*, *samādhi* và *paññā*) dẫn đến sự đoạn tận các *āsava*. SN.v.224.
 
 ## Notes

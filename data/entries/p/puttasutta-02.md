@@ -5,7 +5,7 @@ base_headword: "Puttasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Puttasutta 02. Five things that make parents desire a son. AN.iii.44.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puttasutta 02. Năm điều khiến cha mẹ mong muốn có một người con trai. AN.iii.44.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇavaḍḍhana"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Puṇṇavaḍḍhana 02. One of the gardens laid out by <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇavaḍḍhana 02. Một trong những khu vườn được kiến tạo bởi Parakkamabāhu I ở Pulatthipura (Cv.lxxix. 9). Trong đó có một hồ chứa nước, hồ này được nối với hồ Toyavāpī thông qua Kênh đào Sarassatī. Từ đây nhánh kênh rẽ ra về phía tây là Kênh đào Yamunā. Cv.46, 47.
 
 ## Notes

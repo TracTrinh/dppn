@@ -5,7 +5,7 @@ base_headword: "Vimaladhammasūriya"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vimaladhammasūriya 02. King of Ceylon (<span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimaladhammasūriya 02. Vua của Tích Lan (Vimaladhammasūriya II., 1687-1707 CE.). Ông là con trai của Rājasīha II. Ông đã tổ chức các lễ hội để tôn vinh Xá-lợi Răng và Dấu chân tại Sumanakūṭa và, cử một phái bộ đến Rakkhaṅga, đã thỉnh được ba mươi ba vị tu sĩ, đứng đầu là Trưởng lão Santāna, để tổ chức lại Tăng đoàn ở Tích Lan. Ông được kế vị bởi con trai mình, Narindasīha. Cv.xcvii.1ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nataṁdaḷhavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nataṁdaḷhavagga. The sixth chapter of the *Dukanipāta* of the Jātaka Comme
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nataṁdaḷhavagga. Chương thứ sáu của *Dukanipāta* của Chú giải Jātaka Ja.ii.139-64.
 
 ## Notes

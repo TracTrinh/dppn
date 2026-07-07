@@ -5,7 +5,7 @@ base_headword: "Nidānakathā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -44,6 +44,11 @@ Nidānakathā. The introductory chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương giới thiệu của Bản chú giải Jātaka (Jātaka Commentary). Nó kể lại câu chuyện về Gotama Buddha trong ba phần:
+- Dūrenidāna, từ lúc Ngài ra đời, với tư cách là Sumedha, cho đến khi Ngài sinh ra ở thế giới Tusita;
+- Avidūrenidāna, từ khi Ngài qua đời ở Tusita và sinh ra với tư cách là Siddhattha, con trai của Suddhodana, cho đến lúc Ngài Giác Ngộ (*Awakening*);
+- và Santikenidāna, phần này chứa đựng câu chuyện của Ngài cho đến lúc Anāthapiṇḍika dâng cúng Jetavana. Ja.i.1-94.
+
+Nidānavagga. Phần thứ hai của Saṁyuttanikāya. Tập II của Bản in PTS.
 
 ## Notes

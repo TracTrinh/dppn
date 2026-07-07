@@ -5,7 +5,7 @@ base_headword: "Narapatisithu"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Narapatisithu. King of Pagan (1167-1202 CE.). He was a very enlightened monarch 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narapatisithu. Vua của Pagan (1167-1202 CE.). Ông là một vị quân vương rất anh minh và là một người bảo trợ lớn cho việc học tập. Gia sư của ông là Aggavaṁsa. Để biết chi tiết xem Bode, 16, 20, 21, 23, 31.
 
 ## Notes

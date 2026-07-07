@@ -5,7 +5,7 @@ base_headword: "Tesakuṇajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -36,6 +36,10 @@ The verses uttered by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tesakuṇajātaka (Ja 521). Ngày xửa ngày xưa, vua của xứ Benares không có người thừa kế, nhưng tìm thấy ba quả trứng trong một cái tổ – của một con cú, một con sáo sậu và một con vẹt – nhà vua đã mang chúng về, và khi chúng nở ra, ông đã nhận bầy chim làm con nuôi, đặt tên cho chúng là Vessantara, Kuṇḍalinī và Jambuka. Khi chúng lớn lên trong nhà của các quan đại thần được giao nhiệm vụ chăm sóc chúng, nhà vua đã cho gọi từng con đến và yêu cầu chúng đưa ra lời khuyên về cách một vị vua nên cai trị. Mỗi con chim đã khuyên răn nhà vua bằng mười một khổ thơ, và, theo sự đề nghị của dân chúng đang thán phục, chúng lần lượt được ban cho các tước vị tướng quân, thủ quỹ và tổng tư lệnh quân đội. Khi nhà vua băng hà, dân chúng muốn tôn Jambuka lên làm vua, nhưng sau khi cho khắc những quy tắc chân chính lên một tấm đĩa vàng, cậu đã biến mất vào trong rừng.
+
+Câu chuyện này được kể lại liên quan đến những lời khuyên răn mà Đức Phật dành cho vua của xứ Kosala. Vị vua trong quá khứ là Ānanda, Kuṇḍalinī là Uppalavaṇṇā, Vessantara là Sāriputta và Jambuka là Bodhisatta (Ja.v.109-25).
+
+Những vần thơ do Jambuka thốt ra thường được trích dẫn, ví dụ: Ja.i.177; vi.94.
 
 ## Notes

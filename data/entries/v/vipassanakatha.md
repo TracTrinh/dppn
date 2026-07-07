@@ -5,7 +5,7 @@ base_headword: "Vipassanākathā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vipassanākathā. The ninth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipassanākathā. Chương thứ chín của Paññavagga của Paṭisambhidāmagga. Paṭis.ii.263-43.
 
 ## Notes

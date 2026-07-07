@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇavagga"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīvaraṇavagga 02. The fourth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇavagga 02. Chương thứ tư của Bojjhaṅgasaṁyutta. SN.v.91-8.
 
 ## Notes

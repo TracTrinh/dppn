@@ -5,7 +5,7 @@ base_headword: "Nandivisāla"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandivisāla 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivisāla 01. Nandivisāla. Vị Bodhisatta sinh ra làm một con bò mộng. Xem Nandivisālajātaka.
 
 ## Notes

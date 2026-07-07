@@ -5,7 +5,7 @@ base_headword: "Sura"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sura. A hunter, who discovered fermented liquor. See the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sura. Một người thợ săn, người đã khám phá ra rượu lên men. Xem Kumbhajātaka (Ja 512).
 
 ## Notes

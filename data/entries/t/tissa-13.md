@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "13"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -35,6 +35,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 13. Một vị vua (*rājā*) của Roruva. Ông là một đồng minh "chưa từng gặp mặt" của Bimbisāra và, với tư cách đó, đã gửi cho Bimbisāra nhiều món quà khác nhau. Nhà vua đã gửi lại cho ông một bức tranh vẽ mô tả cuộc đời của Đức Phật và một đĩa vàng đặc biệt có khắc *Paṭiccasamuppāda*. Khi nhìn thấy những thứ này, tâm trí của Tissa tràn ngập sự xúc động và, từ bỏ tước hiệu của mình, ông đã đến Rājagaha như một tỳ-kheo và sống trong hang động Sappasoṇḍika, từ đó đến thăm Đức Phật, và ngay sau đó trở thành một vị *Arahant*.
+
+Vào thời của Vipassī Buddha, ngài là một người làm xe ngựa và đã dâng cho Đức Phật một chiếc ghế đẩu làm bằng gỗ đàn hương. Năm mươi bảy *kappa* trước, ngài đã bốn lần làm vua dưới tên gọi Santa (Bhavanimmita) (Thag.97; Thag­a.i.199f). Ngài có lẽ là cùng một người với Phalakadāyaka của Apadāna (i.174).
 
 ## Notes

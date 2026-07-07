@@ -5,7 +5,7 @@ base_headword: "Nilīya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nilīya. A hunter. Ja.iii.330.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nilīya. Một người thợ săn. Ja.iii.330.
 
 ## Notes

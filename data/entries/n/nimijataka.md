@@ -5,7 +5,7 @@ base_headword: "Nimijātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -50,6 +50,16 @@ This story forms the basis of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimijātaka (Ja 541). Một thuở nọ, Bodhisatta sinh làm con trai của vua nước Mithilā, thuộc xứ Videha. Ngài là hậu thân của Makhādeva, vị đã từ cõi *Brahma* giáng trần để bù đắp cho đủ con số tám mươi tư ngàn người trong dòng họ của mình đã xuất gia. Và vì cậu bé được sinh ra để làm tròn vẹn dòng họ, giống như vành bánh xe ngựa, cậu được đặt tên là Nemi (“vành bánh xe”).
+
+Khi vua cha xuất gia, ngài lên ngôi và dấn thân cùng tất cả thần dân của mình vào sự công bình và lòng hào phóng. Một lần nọ, khi trong tâm ngài khởi lên mối nghi ngờ về việc điều gì mang lại nhiều quả báo hơn – đời sống phạm hạnh hay việc bố thí – chính Sakka đã hiện ra trước mặt ngài để giải đáp và khích lệ ngài. Danh tiếng của ngài lan truyền đến Tāvatiṁsa, và khi chư thiên mong muốn được chiêm ngưỡng ngài, Sakka đã sai cỗ xe của mình, cùng với Mātali, đến đón ngài. Trên đường tới Tāvatiṁsa, Mātali đã chỉ cho nhà vua xem các địa ngục và thiên giới khác nhau cùng các cung điện của nhiều thiên nam và thiên nữ. Khi đến Hội trường Sudhammā, Nimi đã thuyết pháp cho chư thiên quy tụ ở đó. Sau khi lưu lại Tāvatiṁsa bảy ngày, ngài trở về Mithilā để kể lại cho thần dân những gì ngài đã thấy.
+
+Về sau, khi người thợ cạo báo cho ngài biết về sự xuất hiện của sợi tóc bạc đầu tiên trên đầu ngài, ngài, giống như tất cả các bậc tiên vương, đã nhường ngôi cho con trai mình và trở thành một tu sĩ. Con trai ngài, Kāḷārajanaka, là vị vua cuối cùng trong tám mươi tư ngàn vị vua của triều đại Makhādeva.
+
+Câu chuyện này được Đức Phật kể lại khi Ngài đến thăm Mithilā. Ngài đã mỉm cười khi đến khu đất đền đài của Makhādeva, và khi được hỏi lý do tại sao mỉm cười, Ngài đã kể lại Jātaka này.
+
+Anuruddha được nhận diện là Sakka và Ānanda là Mātali (Ja.vi.95-129).
+
+Câu chuyện này tạo nền tảng cho Makhādevasutta và được bao gồm trong Cariyāpiṭaka. MN.ii.74ff. Cp.i.6; Cp-a.42ff. Trong Dpv.iii.35, nhà vua được gọi là Nemiya.
 
 ## Notes

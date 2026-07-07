@@ -5,7 +5,7 @@ base_headword: "Suppiyā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suppiyā 03. One of the five daughters of the third <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppiyā 03. Một trong năm người con gái của Okkāka thứ ba và Bhattā (Hatthā). DN­a.i.258; Mhv­ṭ.131; Snp­a.ii.352.
 
 ## Notes

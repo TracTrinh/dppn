@@ -5,7 +5,7 @@ base_headword: "Tusita"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tusita 01. One of the palaces occupied by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tusita 01. Một trong những cung điện được Koṇāgamana Buddha sử dụng trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.xxiv.18.
 
 ## Notes

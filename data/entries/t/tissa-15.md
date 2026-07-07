@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "15"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissa 15. A novice. He was a gatekeeper’s son and, coming with some carpenters
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 15. Một vị sa-di. Ông là con trai của một người gác cổng và, đi cùng một số thợ mộc đến Sāvatthī, đã gia nhập Tăng đoàn. Ông liên tục phàn nàn về thức ăn và các đồ cúng dường khác, ngay cả những thứ do Anāthapiṇḍika dâng cúng, và ông khoe khoang về sự giàu có mà người thân của ông được hưởng. Các đồng đạo của ông đã dò hỏi và, khi phát hiện ra sự thật về lai lịch của ông, đã báo cáo ông với Đức Phật, người đã thuyết bài kinh Kaṭāhakajātaka (Ja 125, *q.v.*) để cho thấy những khuynh hướng tương tự của ông trong quá khứ (Dhp­a.iii.367). Tissa được đồng nhất với Kaṭāhaka của Jātaka. Ja.i.455.
 
 ## Notes

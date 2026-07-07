@@ -5,7 +5,7 @@ base_headword: "Thūṇeyyakā"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Thūṇeyyakā. The people of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūṇeyyakā. Những người dân của Thūṇa.
 
 ## Notes

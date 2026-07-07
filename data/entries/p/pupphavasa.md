@@ -5,7 +5,7 @@ base_headword: "Pupphāvāsa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pupphāvāsa. A *vihāra* in the west of Ceylon. Near it was <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphāvāsa. Một *vihāra* ở phía tây Tích Lan. Gần nó là Devagāma. Ras.ii.13.
 
 ## Notes

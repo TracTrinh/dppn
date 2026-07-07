@@ -5,7 +5,7 @@ base_headword: "Supuṭakapūjaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Supuṭakapūjaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supuṭakapūjaka Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ngài đã thấy Vipassī Buddha đang đi khất thực và đã dâng cúng cho Ngài một gói muối (? *lonasupuṭaka*). Ap.i.284.
 
 ## Notes

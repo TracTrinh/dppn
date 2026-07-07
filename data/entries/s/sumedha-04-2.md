@@ -5,7 +5,7 @@ base_headword: "Sumedhā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sumedhā 04. Chief queen of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedhā 04. Hoàng hậu chính của Vua Suruci xứ Mithilā và là mẹ của Mahā Panāda. Xem Surucijātaka (Ja 489). Bà được đồng nhất với Visākhā. Ja.iv.325; DN­a.iii.856.
 
 ## Notes

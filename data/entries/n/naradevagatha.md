@@ -5,7 +5,7 @@ base_headword: "Naradevagāthā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Naradevagāthā. A set of verses in praise of the Buddha, compiled by a Sinhales
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naradevagāthā. Một tập hợp các bài kệ tán thán Đức Phật, do một tỳ-kheo người Sinhalese biên soạn. Gv.p.65.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandavatī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandavatī. A nun, sister of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandavatī. Một nữ tu, chị em của Thullanandā. Hai người chị em khác của cô là Nandā và Sundarīnandā. Tất cả họ đều kết hôn với cùng một Bà-la-môn và tất cả đều xuất gia sau khi ông qua đời. Vin.iv.211, 259.
 
 ## Notes

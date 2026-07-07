@@ -5,7 +5,7 @@ base_headword: "Nigrodhapiṭṭhi"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nigrodhapiṭṭhi. A *vihāra* in Ceylon, the residence of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *vihāra* (*tu viện*) ở Tích Lan, nơi ở của Trưởng lão Mahā Sīva (Mahā Sīva Thera). Mhv­ṭ.555.
 
 ## Notes

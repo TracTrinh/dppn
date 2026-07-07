@@ -5,7 +5,7 @@ base_headword: "Nemi"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nemi 04. Forty-three *kappas* ago there were sixteen kings of this name, all pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bốn mươi ba *kappa* trước có mười sáu vị vua mang tên này, tất cả đều là những tiền kiếp của Vimala Koṇḍañña. Thag­a.i.146; Ap.i.150.
 
 ## Notes

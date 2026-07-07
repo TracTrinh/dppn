@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "05"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissā 05. A rival of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 05. Tình địch của Mattā (*q.v.*). Pv.ii.3; Pv-a.82f.
 
 ## Notes

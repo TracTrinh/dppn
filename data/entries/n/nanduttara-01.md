@@ -5,7 +5,7 @@ base_headword: "Nanduttara"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -30,6 +30,6 @@ Nanduttara 01. A Brahmin, a former incarnation of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanduttara 01. Một Bà-la-môn, một hóa thân trước của Soṇuttara. Ông sống ở Koṭigāma, cách Payāga một do-tuần, và đã dâng cúng sự thết đãi đối với Gotama Buddha và các tỳ-kheo của ngài. Ông đã nhìn thấy phép thần thông do Bhaddaji thực hiện trong việc nâng cung điện bị chìm của Mahā Panāda lên và chỉ ra bảo tháp Dussathūpa, và đã bày tỏ nguyện vọng có được sức mạnh tương tự để giành được các xá-lợi đang được những người khác giữ lại. Mhv.xxxi.5ff.; cf. Mhv­ṭ.560.
 
 ## Notes

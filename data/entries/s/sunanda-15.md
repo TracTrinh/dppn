@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "15"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunanda 15. A charioteer of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 15. Một người đánh xe của Vua Sivi trong Ummadantījātaka (Ja 527). Ông được đồng nhất với Ānanda. Ja.v.227.
 
 ## Notes

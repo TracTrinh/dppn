@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissā 03. An *Arahant* Therī, her story being similar to that of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 03. Một vị *Arahant* Therī, câu chuyện của bà tương tự như câu chuyện của Tissā (2). Thīg.5; Thīg­a.12f.
 
 ## Notes

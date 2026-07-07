@@ -5,7 +5,7 @@ base_headword: "Viravapupphiya Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viravapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he met <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viravapupphiya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã gặp Siddhattha Buddha và dâng lên ngài một bông hoa *virava*. Ap.i.223.
 
 ## Notes

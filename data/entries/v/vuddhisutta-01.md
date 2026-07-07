@@ -5,7 +5,7 @@ base_headword: "Vuḍḍhisutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vuḍḍhisutta 01. The seven *bojjhaṅga*, if cultivated, conduce to increase 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuḍḍhisutta 01. Bảy *bojjhaṅga*, nếu được trau dồi, sẽ dẫn đến sự tăng trưởng và không suy giảm. SN.v.94.
 
 ## Notes

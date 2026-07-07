@@ -5,7 +5,7 @@ base_headword: "Nāthadeva"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāthadeva. A name given to Viṣṇu as the protector (*nātha*) of Ceylon. Cv.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cái tên được đặt cho Viṣṇu với tư cách là vị hộ pháp (*nātha*) của Tích Lan. Cv.c.248; Cv.Trs.ii.243, n.6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vitakkasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vitakkasutta 01. Sense-desire thinking is got rid of by renunciation, ill-will t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitakkasutta 01. Suy nghĩ về dục vọng được loại bỏ bằng sự từ bỏ, suy nghĩ về ác ý và suy nghĩ về sự hãm hại bằng cách tu tập những điều ngược lại với chúng. AN.iii.446.
 
 ## Notes

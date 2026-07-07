@@ -58,7 +58,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term
 
 ## Vietnamese translation
 
-Setavyā. Một thành phố ở Kosala (DN.ii.316), gần đó là Ukkaṭṭha. Aṅguttaranikāya (AN.ii.37) ghi lại một cuộc trò chuyện giữa Gotama Buddha và vị Bà-la-môn Doṇa, người mà Đức Phật gặp trên đường từ Ukkaṭṭha đến Setavyā. Thành phố nằm trên con đường mà các đệ tử của Bāvarī (Snp.vs.1012) đi từ Sāvatthī đến Rājagaha, và là điểm dừng chân đầu tiên bên ngoài Sāvatthī. Tiếp theo đó là Kapilavatthu, Kusĭnārā, Pāvā, v.v...
+Setavyā. Một thành phố ở Kosala (DN.ii.316), gần đó là Ukkaṭṭha. Aṅguttaranikāya (AN.ii.37) ghi lại một cuộc trò chuyện giữa Gotama Buddha và vị Bà-la-môn Doṇa, người mà Đức Phật gặp trên đường từ Ukkaṭṭha đến Setavyā. Thành phố nằm trên con đường mà các đệ tử của Bāvarī (Snp.vs.1012) đi từ Sāvatthī đến Rājagaha, và là điểm dừng chân đầu tiên bên ngoài Sāvatthī. Tiếp theo đó là Kapilavatthu, Kusinārā, Pāvā, v.v...
 
 Phía bắc của Setavyā là Siṃsapāvana, nơi Kumāra Kassapa trú ngụ, và nơi ông thuyết giảng Pāyāsisutta cho vị Bà-la-môn Pāyāsi, người giữ một lãnh địa hoàng gia ở đó (DN.ii.316).
 

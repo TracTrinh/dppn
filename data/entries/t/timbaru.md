@@ -5,7 +5,7 @@ base_headword: "Timbaru"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Timbaru. A chieftain of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timbaru. Một thủ lĩnh của các Gandhabbas và là cha của Suriyavaccasā (DN.ii.266, 268; cũng xem Mhv­ṭ.576). Ông đã có mặt tại Mahā Samayasutta. (DN.ii.258; cũng xem Hopkins: *Epic Mythology*, *s.v.* Tumburu).
 
 ## Notes

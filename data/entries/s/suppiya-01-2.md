@@ -5,7 +5,7 @@ base_headword: "Suppiyā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Suppiyā 01. The name of the inhabitants of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppiyā 01. Tên của những người dân ở Rājagaha vào thời kỳ của Kassapa Buddha. Vào lúc bấy giờ Vepulla được gọi là Supassa (Suphassa). SN.ii.192.
 
 ## Notes

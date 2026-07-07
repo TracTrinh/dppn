@@ -5,7 +5,7 @@ base_headword: "Suppabuddha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -36,6 +36,10 @@ In a previous birth, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppabuddha 02. Một người cùi nghèo khổ ở Rājagaha, người, một ngày nọ ngồi ở vòng ngoài của đám đông, đã nghe Đức Phật thuyết pháp và trở thành một *Sotāpanna*. Trong khi chờ đám đông giải tán để ông có thể đảnh lễ Đức Phật và bày tỏ lòng biết ơn của mình, Sakka, muốn thử thách ông, đã lại gần ông và đề nghị cho ông vô số của cải nếu ông từ bỏ Đức Phật, những lời dạy của Ngài, và Tăng đoàn. Nhưng mặc dù Sakka đã tiết lộ danh tính của mình, Suppabuddha đã quở trách ông ta là một kẻ ngốc và nói rằng ông không cần thêm của cải, bởi vì ông đã sở hữu bảy kho tàng *Ariyadhana* (Thánh tài). Sakka đã báo cáo cuộc trò chuyện này với Đức Phật, Ngài nói rằng không thế lực nào trên thế giới có thể thay đổi Suppabuddha.
+
+Ngay sau đó, Suppabuddha đã đến thăm Đức Phật, và, sau khi đã đảnh lễ Ngài, ông đang trên đường vào thành thì bị một con bò cái húc chết, con bò cái này cũng đã giết chết Pukkusāti, Bāhiya Dāruciriya và Tambadāṭhika. Con bò cái là một nữ dạ-xoa (*Yakkhinī*), người xưa kia từng là một kỹ nữ. Bốn người đàn ông này khi đó là con trai của những thương gia giàu có, họ, sau khi đưa cô ta đến một khu vườn giải trí vào một ngày nọ, đã thỏa mãn thú vui của họ với cô ta. Vào buổi tối, họ đã giết cô ta và lấy đi những đồ trang sức và tiền bạc mà chính họ đã cho cô. Vào khoảnh khắc cô chết, cô đã thề sẽ trả thù họ và đã giết họ trong một trăm kiếp sống.
+
+Trong một kiếp sống trước, Suppabuddha đã lăng mạ Pacceka Buddha Tagarasikhī bằng cách gọi ngài là một "kẻ cùi" (*kuṭṭhi*) – vì ngài mặc một chiếc y vá víu – và bằng cách khạc nhổ vào ngài Ud.v.3; Ud­a.279ff.; Dhp­a.ii.33f. Lời kể của Udāna không bao gồm đoạn nói về Sakka.
 
 ## Notes

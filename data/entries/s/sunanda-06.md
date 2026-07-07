@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunanda 06. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 06. Một vị Ājīvaka đã dâng cỏ làm chỗ ngồi cho Dīpaṅkara Buddha. Bv­a.68.
 
 ## Notes

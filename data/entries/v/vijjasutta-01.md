@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vijjāsutta 01. Ten qualities, the possession of which makes a man’s accomplis
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 01. Mười phẩm chất mà việc sở hữu chúng làm cho thành tựu của một người trở nên trọn vẹn trong từng chi tiết. AN.v.12f.
 
 ## Notes

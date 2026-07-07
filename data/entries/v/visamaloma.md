@@ -5,7 +5,7 @@ base_headword: "Visamaloma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Visamaloma. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visamaloma. Con trai của Dhammāsoka và vương hậu chính của ông, được gọi như vậy vì mái tóc thô ráp của ông. Có lần ông đã băng qua sông Candabhāgā trong lúc lũ lụt, giết chết 120 con cá sấu tấn công ông bằng đôi tay của mình. Asoka đã sợ hãi và bắt ông bị cùm bằng xích, nhưng sau đó phong ông làm phó vương. Ông đã cúng dường cho một nhà sư trong thời của Kassapa Buddha. Ras.i.32f.
 
 ## Notes

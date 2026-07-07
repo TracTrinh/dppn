@@ -5,7 +5,7 @@ base_headword: "Thomadāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Thomadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a *Deva*, and h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thomadāyaka Thera. Một bậc *Arahant*. Chín mươi mốt *kappas* trước, ông là một vị *Deva* (chư thiên), và sau khi nghe Đức Phật Vipassī thuyết pháp, đã đảnh lễ Ngài. Ap.i.226.
 
 ## Notes

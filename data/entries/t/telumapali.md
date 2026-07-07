@@ -5,7 +5,7 @@ base_headword: "Telumapāli"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Telumapāli. A place through which the *sīmā* of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telumapāli. Một địa điểm mà ranh giới (*sīmā*) của Mahā Vihāra đi qua. Mbv.135.
 
 ## Notes

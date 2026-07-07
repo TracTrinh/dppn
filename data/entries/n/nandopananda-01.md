@@ -5,7 +5,7 @@ base_headword: "Nandopananda"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -38,6 +38,10 @@ In the *Divyāvadāna* (p.395) <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandopananda 01. Một vị vua Nāga, được Moggallāna nhiếp phục. Đức Phật và năm trăm tỳ-kheo, vào một buổi sáng trên đường đến Tāvatiṁsa, đã du hành ngang qua chỗ cư ngụ của vua Nāga trong lúc ông đang dùng bữa. Trong cơn giận dữ, vị Nāga đã cuộn quanh núi Sineru và che mất con đường đến Tāvatiṁsa.
+
+Sau đó, một vài người trong đoàn tùy tùng của Đức Phật, bao gồm Raṭṭhapāla, Bhaddiya và Rāhula, đã đề nghị nhiếp phục sức mạnh của Nāga, nhưng Đức Phật không đồng ý cho đến khi Moggallāna xin phép để làm điều đó. Người ta nói rằng không có một tỳ-kheo nào khác có năng lực để đối mặt với tất cả những mối nguy hiểm do Nāga tạo ra và vẫn bình an vô sự. Moggallāna và Nandopananda đã ganh đua với nhau trong việc thi triển thần thông (*iddhi*) của họ, và, cuối cùng, Nandopananda đã phải thừa nhận sự thất bại. Ngay sau đó, ông đã được đưa đến gặp Đức Phật, và trở thành môn đồ của ngài. Khi Anāthapiṇḍika nghe về sự chiến thắng của Moggallāna, ông đã ăn mừng nó bằng cách tổ chức một lễ cúng dường lớn, kéo dài trong bảy ngày, cho Đức Phật và chư tỳ-kheo. Thag­a.ii.188f.; Ja.v.126.
+
+Trong *Divyāvadāna* (p.395) Nanda và Upananda được nói đến như là hai vị vua Nāga.
 
 ## Notes

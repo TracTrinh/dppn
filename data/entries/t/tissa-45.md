@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "45"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissa 45. A *Sāmaṇera* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 45. Một sa-di (*Sāmaṇera*) của Tissavihāra ở Mahā Gāma. Xem Kuṇḍalā.
 
 ## Notes

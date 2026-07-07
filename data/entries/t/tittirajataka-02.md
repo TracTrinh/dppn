@@ -5,7 +5,7 @@ base_headword: "Tittirajātaka"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittirajātaka 02. (Ja 117). Bodhisatta từng là thủ lĩnh của năm trăm tu sĩ khổ hạnh. Một ngày nọ, một tu sĩ khổ hạnh hay nói đến gần một người đồng đạo bị bệnh vàng da đang chẻ củi và làm ông ta bực mình bằng cách đưa ra chỉ dẫn về cách làm việc đó. Người đàn ông ốm yếu đã giết anh ta bằng một nhát rìu. Ngay sau đó, một con chim đa đa, từng thường hót trên một tổ kiến gần đó, đã bị một người bắt chim giết chết. Bodhisatta chỉ ra cho những người đi theo mình thấy cái chết của cả hai là do họ nói quá nhiều.
+
+Câu chuyện được kể liên quan đến Kokālika, người được đồng nhất với vị tu sĩ khổ hạnh hay lải nhải. Ja.i.431f.
 
 ## Notes

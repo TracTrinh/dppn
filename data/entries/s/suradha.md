@@ -5,7 +5,7 @@ base_headword: "Surādhā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surādhā. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surādhā. Một *Aggasāvikā* (nữ đệ tử tối thắng) của Paduma Buddha. Bv.ix.22.
 
 ## Notes

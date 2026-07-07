@@ -5,7 +5,7 @@ base_headword: "Vuttamālāsandesasataka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vuttamālāsandesasataka. A Pāli poem of the fifteenth century, containing one 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuttamālāsandesasataka. Một bài thơ tiếng Pāli của thế kỷ mười lăm, gồm một trăm lẻ hai khổ thơ và được viết bởi Upatapassī, người tự gọi mình là *Sarasigāmamūlamahāsāmī*. Nó chứa các câu thơ ca ngợi nhà vua đang trị vì, các tu sĩ đương thời và một số nơi thờ phụng. Cuốn sách được cho là nhằm mục đích dạy học sinh cách phát âm chuẩn các âm thanh và cách điều chỉnh giọng điệu thích hợp khi ngâm thơ. PLC. 253f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇaka"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇaka 01. One of the stallions of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaka 01. Một trong những con ngựa đực của Ekarāja. Ja.vi.135.
 
 ## Notes

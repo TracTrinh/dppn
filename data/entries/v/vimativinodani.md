@@ -5,7 +5,7 @@ base_headword: "Vimativinodanī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vimativinodanī. A Commentary on the Vinaya by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimativinodanī. Một bản Chú giải về Vinaya của Trưởng lão Kassapa. Nó từng là một trong những tài liệu thẩm quyền được những người Pārupaṇa trích dẫn để chống lại phái *Ekaṁsika* và nó đã được Vua Dhammaceti vô cùng kính trọng. Gv.61; *Sisters* 69; PLC. 179.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nissayaṭṭhakathā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nissayaṭṭhakathā. A Commentary on the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissayaṭṭhakathā. Một cuốn Chú giải cho Saccasaṅkhepa do Mahā Bodhi Thera biên soạn. PLC. 205.
 
 ## Notes

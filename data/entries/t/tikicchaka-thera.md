@@ -5,7 +5,7 @@ base_headword: "Tikicchaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tikicchaka Thera. An *Arahant*. In a previous birth he was a physician of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikicchaka Thera. Một bậc *Arahant*. Trong một kiếp trước, ông là một y sĩ của Bandhumatī, và đã chữa bệnh cho Asoka, thị giả của Đức Phật Vipassī. Tám *kappas* trước, ông là vua dưới tên gọi Sabbosadha (Ap.i.190). Hiển nhiên ông đồng nhất với Tekicchakāni Thera. Thag­a.i.442.
 
 ## Notes

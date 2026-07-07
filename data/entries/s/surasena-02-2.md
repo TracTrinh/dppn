@@ -5,7 +5,7 @@ base_headword: "Sūrasena"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sūrasena 02. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūrasena 02. Tên khác của Dhanañjaya Korabba. Ja.vi.280, 281.
 
 ## Notes

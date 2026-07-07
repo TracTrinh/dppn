@@ -5,7 +5,7 @@ base_headword: "Pupphacaṅgotiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pupphacaṅgotiya Thera. An *Arahant*. Thirty-one *kappas* ago he took a casket 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphacaṅgotiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông mang theo một tráp hoa và rải chúng lên Sikhī Buddha. Ông đã làm vua năm lần, với tên gọi là Devabhūti. Ap.i.118.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vīrā Therī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vīrā Therī. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrā Therī. *v.l.* Cīrā Therī. Một nam cư sĩ nọ đã cúng dường cho bà một y, và một Yakkha biết được điều này, đã đi khắp nơi ca ngợi lòng thành kính của ông ta. SN.i.213.
 
 ## Notes

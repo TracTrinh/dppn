@@ -5,7 +5,7 @@ base_headword: "Sūra-ambaṭṭha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sūra-ambaṭṭha. An eminent lay disciple, declared by the Buddha foremost amo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūra-ambaṭṭha. Một nam đệ tử tại gia xuất chúng, được Đức Phật tuyên bố là tối thắng trong số những người đi theo Ngài về sự trung thành không lay chuyển (*aggaṁ aveccappasannānaṁ*) (AN.i.26; cf.iii.451). Ông đã quyết tâm đạt được vị trí ưu việt này trong kiếp sống vào thời kỳ của Padumuttara Buddha. Ông sinh ra, trong thời đại của Đức Phật này, trong một gia đình chủ ngân hàng ở Sāvatthī và đã trở thành người đi theo những kẻ ngoại đạo. Một ngày nọ, Đức Phật, thấy sự phù hợp của Sūra cho việc cải đạo, đã đi đến cửa nhà ông để khất thực. Vì sự tôn kính đối với Đức Phật, Sūra đã mời Ngài vào, và, dành cho Ngài một chỗ ngồi thoải mái, đã thiết đãi Ngài một bữa ăn. Vào cuối bữa ăn, khi Đức Phật hồi hướng, Sūra đã trở thành một *Sotāpanna*. Một thời gian sau khi Đức Phật đã rời đi, Māra, cải trang thành Đức Phật, đã đến thăm Sūra và, để trả lời câu hỏi của Sūra, nói rằng ông ta đã quay lại để đính chính một tuyên bố sai lầm mà ông ta đã đưa ra trước đó. Ông ta đã nói rằng tất cả các *saṅkhāra* (các hành) là vô thường, v.v., nhưng, sau khi suy ngẫm thêm, ông ta đã đi đến kết luận rằng chỉ một số *saṅkhāra* có bản chất đó. Sūra đã nhận ra Māra và đuổi ông ta đi. AN­a.i.215; cf. DN­a.iii.864.
 
 ## Notes

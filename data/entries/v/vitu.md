@@ -5,7 +5,7 @@ base_headword: "Viṭu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Viṭu and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viṭu và Viṭucca. Những chư hầu của các vị Cātummahārājikā. Họ đã có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.258.
 
 ## Notes

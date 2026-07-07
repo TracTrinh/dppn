@@ -5,7 +5,7 @@ base_headword: "Vipula"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vipula 02. One of the five peaks near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipula 02. Một trong năm đỉnh núi gần Rājagaha, đỉnh cao nhất trong số chúng. Xem Vepulla. SN.i.67; Ja.vi.518; Mil.242.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puññacetiya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puññacetiya. A *cetiya* attached to the monastery where <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññacetiya. Một *cetiya* gắn liền với tu viện nơi Ariyavaṁsa đã viết Maṇisāramañjūsā. Bode, 42.
 
 ## Notes

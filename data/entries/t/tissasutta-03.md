@@ -5,7 +5,7 @@ base_headword: "Tissasutta"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ Tissasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissasutta 03. Moggallāna, khi nghe Đức Phật thuật lại cuộc trò chuyện giữa hai vị chư thiên (*devatā*) tại Gijjhakūṭa, đã đến thăm *Brahma* Tissa để tìm hiểu xem liệu các chư thiên (*Deva*) có kiến thức về *sa-upādisesa* và *anupādisesa* hay không.
+
+Tissa nói với ngài những gì ông biết và Moggallāna mô tả chuyến thăm của mình tới Đức Phật. Đức Phật nói với ngài rằng Tissa đã bỏ sót không đề cập đến *animittavihārī puggala*, điều mà sau đó ngài tiếp tục giải thích (AN.iv.77f; cp. AN.iii.332f).
 
 ## Notes

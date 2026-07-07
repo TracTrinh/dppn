@@ -5,7 +5,7 @@ base_headword: "Tiriputtūru"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tiriputtūru. A place in South India. Cv.lxxvii.16, 20.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiriputtūru. Một nơi ở Nam Ấn Độ. Cv.lxxvii.16, 20.
 
 ## Notes

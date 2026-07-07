@@ -5,7 +5,7 @@ base_headword: "Sunandā"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sunandā 07. A garland-maker’s daughter of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandā 07. Con gái của một người làm vòng hoa ở Rājagaha. Cô là một vị *Sotāpanna* và hàng ngày đến thăm *Thūpa* do Ajātasattu xây dựng ở Rājagaha, dâng lên đó những bông hoa và vòng hoa do cha cô gửi đến. Vào những ngày trai giới, cô sẽ tự nguyện đi. Khi cô qua đời, cô tái sinh ở Tāvatiṁsa trong đoàn tùy tùng của Sakka, và khi được ông hỏi, cô đã kể lại những hành động của mình trong quá khứ. Sakka đã kể lại câu chuyện cho Vaṅgīsa, người sau đó đã kể lại cho các *saṅgītikāraka*. Vv.iii.9; Vv-a.170f.
 
 ## Notes

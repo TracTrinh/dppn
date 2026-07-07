@@ -5,7 +5,7 @@ base_headword: "Potaliyasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Potaliyasutta 01. A discussion between the householder <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potaliyasutta 01. Cuộc thảo luận giữa gia chủ Potaliya và Đức Phật về những điều tạo nên sự từ bỏ đời sống gia đình chân chính. Bằng các ví dụ so sánh khác nhau, Đức Phật chỉ ra rằng các dục lạc là không thỏa mãn và nguy hiểm, và cần phải được tránh xa. Sự từ bỏ như vậy sẽ mang lại tuệ giác cao hơn. MN.i.359 ff.
 
 ## Notes

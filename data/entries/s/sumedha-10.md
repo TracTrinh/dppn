@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumedha 10. A Thera of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 10. Một vị Thera của Cūtaggāma, có lẽ ở thế kỷ mười bốn; tác giả của *Sādhucaritodaya* và *Anāpattidīpanī*. PLC.247.
 
 ## Notes

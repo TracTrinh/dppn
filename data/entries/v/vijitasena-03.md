@@ -5,7 +5,7 @@ base_headword: "Vijitasena"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -32,6 +32,6 @@ Vijitasena 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasena 03. Trưởng lão Vijitasena. Ông sinh ra trong một gia đình làm nghề huấn luyện voi ở Kosala, và có hai người cậu là Sena và Upasena, họ cũng là những người huấn luyện voi và đã xuất gia gia nhập Tăng đoàn. Ông đã chứng kiến Yamakapāṭihāriya của Đức Phật và gia nhập Tăng đoàn dưới sự chỉ dạy của các cậu mình, theo thời gian đạt được quả vị *Arahant*. Vào thời của Đức Phật Atthadassī, ông là một đạo sĩ và đã dâng cho Đức Phật một ít trái cây (Thag­a.i.424f). Vài bài kệ do ông thốt lên để tự răn mình, trong đó ông thể hiện sự hiểu biết về thuật luyện voi của mình, được bao gồm trong Theragāthā. Thag. vss. 355-9. Rất có thể ông cũng chính là Bhallātakadāyaka trong Apadāna. Ap.ii.398.
 
 ## Notes

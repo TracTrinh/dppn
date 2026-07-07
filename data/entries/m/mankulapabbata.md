@@ -5,7 +5,7 @@ base_headword: "Maṅkulapabbata"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maṅkulapabbata. A locality where the Buddha spent his sixth *vassa* (Bv­a.3).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅkulapabbata. Một địa phương nơi Đức Phật đã trải qua mùa an cư (*vassa*) thứ sáu của Ngài (Bv­a.3). Sự tham chiếu này có lẽ đề cập đến Maṅkulakārāma (*q.v.*), nhưng ở đó người ta nói Đức Phật chỉ lưu lại bảy ngày trong mùa an cư.
 
 ## Notes

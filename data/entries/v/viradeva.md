@@ -5,7 +5,7 @@ base_headword: "Vīradeva"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,6 @@ Vīradeva. Ruler of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīradeva. Vị cai trị Palandīpa, người đã xâm lược Tích Lan dưới triều đại của Jayabāhu I. Vikkamabāhu đã hành quân chống lại ông, nhưng bị đánh bại ở Mannāra và phải rút lui về Koṭṭhasāra. Vīradeva truy đuổi đến đó, tuy nhiên, đã bị giết trong một trận chiến tại Antaraviṭṭhika. Cv.lxi.36ff.
 
 ## Notes

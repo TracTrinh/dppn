@@ -5,7 +5,7 @@ base_headword: "Vuṭṭhisutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vuṭṭhisutta 01. A conversation between two <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuṭṭhisutta 01. Một cuộc trò chuyện giữa hai vị chư thiên và những lời bình luận của Đức Phật về điều đó. Về những điều tạo nên sự tiến bộ, kiến thức là tốt nhất; vô minh là thứ tồi tệ nhất; trong số những sinh mệnh bước đi, Tăng đoàn là tốt nhất; trong số những người tuyên bố, Đức Phật là tuyệt vời nhất. SN.i.42.
 
 ## Notes

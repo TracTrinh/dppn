@@ -5,7 +5,7 @@ base_headword: "Niyama"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -23,6 +23,6 @@ Niyama. A district in South India. Cv.lxxvii.15, 101.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niyama. Một quận ở Nam Ấn Độ. Cv.lxxvii.15, 101.
 
 ## Notes

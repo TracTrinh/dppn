@@ -5,7 +5,7 @@ base_headword: "Vijitāvī"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijitāvī 03. One of the palaces occupied by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitāvī 03. Một trong những cung điện được Đức Phật Nārada cư ngụ trong đời sống cư sĩ cuối cùng của ngài. Bv­a.i.151; nhưng xem Nārada.
 
 ## Notes

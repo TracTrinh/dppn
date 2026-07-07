@@ -5,7 +5,7 @@ base_headword: "Nandanasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandanasutta 01. The Buddha tells the monks at <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanasutta 01. Đức Phật kể cho các tỳ-kheo ở Jetavana nghe về việc một thiên nhân, được bao quanh bởi những lạc thú thiên giới ở Nandanavana, đã tuyên bố rằng không ai chưa từng thấy khu rừng Nandana mà có thể hiểu được niềm an lạc thực sự. Nhưng một thiên nhân khác, đang đứng cạnh, đã nhắc nhở vị ấy rằng tất cả các bậc Thánh đều đã tuyên bố những lạc thú như vậy là hư ảo và vô thường. SN.i.5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puññābhisandavagga"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puññābhisandavagga 02. The fourth chapter of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññābhisandavagga 02. Chương thứ tư của Sotāpattisaṁyutta. SN.v.391f.
 
 ## Notes

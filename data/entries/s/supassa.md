@@ -5,7 +5,7 @@ base_headword: "Supassa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Supassa (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supassa (*v.l.* Suphassa). Tên của ngọn núi Vepulla vào thời kỳ của Kassapa Buddha. Người dân Rājagaha vào thời điểm đó được gọi là Suppiyā. SN.ii.192.
 
 ## Notes

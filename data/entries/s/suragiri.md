@@ -5,7 +5,7 @@ base_headword: "Suragiri"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suragiri. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suragiri. Một cung điện mà Atthadassī Buddha đã ở trước khi Ngài xuất gia. Bv.xv.15.
 
 ## Notes

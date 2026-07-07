@@ -5,7 +5,7 @@ base_headword: "Puṇṇā"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇā 01. Slave girl of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇā 01. Một nữ tỳ của Sujātā. Ja.i.69; AN­a.i.218.
 
 ## Notes

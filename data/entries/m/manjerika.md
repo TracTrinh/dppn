@@ -5,7 +5,7 @@ base_headword: "Mañjerika"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,8 @@ When the urn containing the Buddha’s relics, deposited in <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañjerika. Tên của một vương quốc Nāga (*Nāgabhavana*). Vương quốc rộng năm trăm do-tuần và là nơi cư ngụ của Mahā Kāḷa, vị Nāga vương (Ja.i.72; Ja.vi.264; Bv­a.239).
+
+Khi bình chứa xá-lợi của Đức Phật, được an vị ở Rāmagāma, bị nước cuốn trôi, nó được mang đến Mañjerika *Nāgabhavana*, và lưu lại ở đó cho đến khi được Soṇuttara thỉnh đi để tôn trí trong Mahā Thūpa. Mhv.xxxi.27; xem thêm JRAS. 1885, p. 220.
 
 ## Notes

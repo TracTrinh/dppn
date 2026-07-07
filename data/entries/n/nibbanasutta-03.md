@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbānasutta 03. It is impossible that one who sees sorrow in *Nibbāna* shall 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người thấy sự sầu khổ trong *Nibbāna* thì không thể sống trong sự hòa hợp và nhẫn nhục. AN.iii.442.
 
 ## Notes

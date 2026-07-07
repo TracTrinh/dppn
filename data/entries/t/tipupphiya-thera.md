@@ -5,7 +5,7 @@ base_headword: "Tipupphiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tipupphiya Thera. An *Arahant*. In a previous birth he offered three flowers to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tipupphiya Thera. Một vị *Arahant*. Trong một kiếp trước ngài đã dâng ba bông hoa cho Pāṭalī, cây Bodhi của Vipassī Buddha. Ba mươi ba *kappa* trước ngài trở thành vua mười ba lần dưới tên gọi Samantapāsādika. Ap.i.136.
 
 ## Notes

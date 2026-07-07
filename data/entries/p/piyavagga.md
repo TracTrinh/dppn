@@ -5,7 +5,7 @@ base_headword: "Piyavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Piyavagga. The sixteenth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyavagga. Phẩm thứ mười sáu của Dhammapada.
 
 ## Notes

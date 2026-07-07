@@ -5,7 +5,7 @@ base_headword: "Pokkharasāti"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -52,6 +52,14 @@ The *Divyāvadāna* calls him Puṣkarasārī, and tells a story of his daughter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkharasāti, Pokkharasādi. Một Bà-la-môn *Mahā Sāla* vô cùng giàu có và uyên bác, sống ở Ukkaṭṭhā, trên một thái ấp hoàng gia do Pasenadi ban tặng. Ambaṭṭha là học trò của Pokkharasāti, người đã cử ông đến gặp Đức Phật tại Icchānaṅgala để tìm hiểu xem lời đồn đại về sự vĩ đại của Đức Phật có đúng sự thật hay không. Khi Pokkharasāti nghe tin sau đó rằng Ambaṭṭha đã vô lễ với Đức Phật, ông đã tìm đến Đức Phật trong đêm và cầu xin Ngài tha thứ. Ngày hôm sau, ông thỉnh Đức Phật đến dùng bữa, và sau khi lắng nghe giáo pháp của Ngài, ông đã tuyên bố trở thành tín đồ của Ngài và chứng quả *Sotāpanna* (DN.i.87f., 106ff). Nhờ địa vị xuất chúng, ông đã có mặt tại các cuộc họp của giới Bà-la-môn được tổ chức ở Manasākaṭa (DN.i.235) và Icchānaṅgala (Snp.p.115). Vāseṭṭha, trong Vāseṭṭhasutta, cũng là học trò của ông (Snp.vs.594). Trong Subhasutta (MN.ii.200ff), Subha Todeyyaputta, một đệ tử khác, được kể lại là đã nói rằng Pokkharasāti – ở đây được mô tả là Opamañña (thuộc gia tộc Upamañña) và là lãnh chúa của Subhagavana (Subhagavanika) – coi những tuyên bố của các Bà-la-môn và sa-môn về việc vượt qua các trói buộc của con người bình thường và đạt đến đỉnh cao tuệ giác của bậc Thánh chỉ là những lời khoác lác sáo rỗng. Điều này hiển nhiên đề cập đến khoảng thời gian trước khi ông cải đạo. Cùng bài *Sutta* đó đề cập đến một nữ tỳ của Pokkharasāti, tên là Puṇṇikā.
+
+Vimānavatthu nêu tên một người đệ tử khác của ông là Chattamāṇava (*q.v.*), người đã bị giết khi đang mang quà đến cho thầy mình. (Vv.v.3; Vv-a.229ff.)
+
+Các bản Chú giải trình bày chi tiết về ngoại hình hấp dẫn của Pokkharasāti (DN­a.i.244f.; MN­a.ii.804; Snp­a.462). Cơ thể ông có màu của hoa sen trắng, giống như một gian rạp bằng bạc ở cõi trời, tóc ông màu ngọc bích, mắt ông như hoa sen xanh, v.v. Rõ ràng ông có một ngoại hình uy nghi như bậc vương giả.
+
+Vào thời của Đức Phật Kassapa, ông là một vị Bà-la-môn tinh thông ba bộ Veda, người sau khi nghe giáo pháp và bố thí, đã tái sinh vào cõi chư thiên. Sau đó, vì coi thường việc sinh ra từ bụng mẹ, ông đã hóa sinh vào một bông sen, mọc trong một cái hồ ở Himavā. Một ẩn sĩ nhìn thấy bông sen, nhận nuôi cậu bé và dạy cậu các kinh Veda. Nhà vua rất hài lòng với học vấn uyên thâm của cậu, và đã ban cho cậu Ukkaṭṭhā như một dấu hiệu của sự sủng ái lớn lao. Cái tên Pokkharasāti được đặt cho ông do sự kiện sinh ra trong hoa sen.
+
+*Divyāvadāna* gọi ông là Puṣkarasārī, và kể một câu chuyện về con gái ông là Prakṛti (p. 616 ff., 620).
 
 ## Notes

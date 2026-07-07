@@ -5,7 +5,7 @@ base_headword: "Vindaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vindaka. One of the horses of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vindaka. Một trong những con ngựa của Candakumāra. Ja.vi.135.
 
 ## Notes

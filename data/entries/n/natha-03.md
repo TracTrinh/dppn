@@ -5,7 +5,7 @@ base_headword: "Nātha"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nātha 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nātha Nagaragiri. Tướng quân của Parakkamabāhu I. Ông giữ tước hiệu *Saṅkhanāyaka*. Cv.lxx.318; lxxii.31, 107; lxxv.76.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tiṁsamattasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṁsamattasutta. Ba mươi vị tỳ-kheo từ Pāvā (được mô tả là *Pāveyyakā*), tất cả đều là những người sống trong rừng, đến thăm Đức Phật tại Rājagaha. Bằng nhiều ví dụ khác nhau, Đức Phật kể cho họ nghe về sự vô tận của luân hồi (*Saṁsāra*), và vào cuối bài pháp, họ trở thành các vị *Arahant* (SN.ii.187f).
+
+Dhammapada Commentary (Dhp­a.ii.32f) rõ ràng đề cập đến cùng những vị tỳ-kheo này, nhưng ở đó nói rằng Đức Phật lần đầu thuyết pháp cho họ trong Kappāsikavanasaṇḍa khi họ đang tìm kiếm một người phụ nữ. Có vẻ như ở đây chúng ta có một sự nhầm lẫn về các truyền thuyết. Tham chiếu Bhaddavaggiyas.
 
 ## Notes

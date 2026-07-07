@@ -5,7 +5,7 @@ base_headword: "Vinayasamuṭṭhānadīpanī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vinayasamuṭṭhānadīpanī. A Vinaya treatise by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayasamuṭṭhānadīpanī. Một chuyên luận về Vinaya của Chapaṭa. Gv.64; Bode, 18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mañjūsaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mañjūsaka. A tree in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañjūsaka. Một cái cây ở Gandhamādana phía trước Maṇiguhā. Cây cao một do-tuần và có chu vi một do-tuần, mang trên mình tất cả các loài hoa, nở cả trên cạn lẫn dưới nước, trên trần gian và trên trời. Xung quanh cái cây là Sabbaratanamāla, nơi chư Pacceka Buddha tổ chức hội chúng của họ. Nơi hội họp này dường như cũng được gọi là *Mañjūsakamāla*. Snp­a.i.66, 67; Vv-a.175.
 
 ## Notes

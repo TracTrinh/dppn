@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumedha 05. The name of a Brahmin family in the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 05. Tên của một gia đình Bà-la-môn vào thời của Tissa Buddha. Vāraṇa Thera được sinh ra trong gia đình này. Thag­a.i.353.
 
 ## Notes

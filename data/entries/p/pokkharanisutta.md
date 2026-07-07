@@ -5,7 +5,7 @@ base_headword: "Pokkharaṇīsutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pokkharaṇīsutta. The <span class="dppn-term dppn-term-t20" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkharaṇīsutta. Đau khổ còn sót lại đối với một đệ tử thuộc bậc Thánh đã đắc tuệ quán so với đau khổ mà vị ấy đã đoạn diệt, cũng giống như lượng nước đọng trên ngọn của một cọng cỏ so với lượng nước còn lại trong một cái hồ dài, rộng và sâu năm mươi do-tuần. SN.ii.134; SN.v.460.
 
 ## Notes

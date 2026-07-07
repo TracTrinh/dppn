@@ -5,7 +5,7 @@ base_headword: "Pokkharapāsaya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pokkharapāsaya. A tank in Ceylon, built by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkharapāsaya. Một hồ chứa nước ở Tích Lan, do Upatissa II xây dựng. Cv.xxxvii.185.
 
 ## Notes

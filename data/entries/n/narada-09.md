@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "09"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -42,6 +42,8 @@ Nārada 09. A Brahmin sage, called a *Devabrāhmaṇa*, and Nāradadeva. One day
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 09. Một đạo sĩ Bà-la-môn, được gọi là một *Devabrāhmaṇa*, và Nāradadeva. Một ngày nọ, sau khi đi dạo quanh Tāvatiṁsa, ông đang trên đường trở về chỗ ở của mình ở Kañcanaguhā, tay cầm một bông hoa Pāricchattaka giơ lên trên đầu, thì bốn cô con gái của Sakka – Āsā, Saddhā, Sirī và Hirī – đã yêu cầu ông trao nó cho họ. Ông đồng ý tặng nó cho người nào trong số họ mà họ chọn làm nữ hoàng. Họ đã tìm kiếm lời khuyên từ cha của họ, người đã hướng dẫn họ đến chỗ Macchariya Kosiya. Kosiya đã quyết định nghiêng về phía Hirī.
+
+Nārada được nhận diện là Sāriputta. Để biết chi tiết xem Sudhābhojanajātaka (Ja 535, Ja.v.392ff). Có lẽ chính Nārada này là người được nhắc đến đã có mặt khi Kuṇāla (*q.v.*) đưa ra bài đả kích nổi tiếng của mình nhằm vào phụ nữ. Ông được miêu tả là người sở hữu năm thắng trí (*pañcābhiññā*) và được mười ngàn đạo sĩ hầu hạ. Khi Kuṇāla kết thúc bài diễn thuyết của mình, Nārada đã bổ sung thêm vào đó tất cả những gì ông biết về các thói hư tật xấu của phụ nữ (Ja 535, Ja.424, 450ff., 456). Ông cũng được nhắc đến là người đã khuyên răn Mahā Janaka khi vị này xuất gia. Trong ngữ cảnh đó, Nārada được miêu tả là thuộc Kassapagotta. Ja.vi.56, 58, 68. Trong Snp­a.i.359 ông được gọi là Nārada Devala. Đây có thể là một cách đọc sai của Nāradadeva.
 
 ## Notes

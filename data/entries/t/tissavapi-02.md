@@ -5,7 +5,7 @@ base_headword: "Tissavāpi"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissavāpi 02. A tank in the neighbourhood of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissavāpi 02. Một hồ chứa nước ở khu vực lân cận Mahā Gāma, được xây dựng bởi Iḷanāga (Mhv.xxxv.32).
 
 ## Notes

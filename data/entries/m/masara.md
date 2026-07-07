@@ -5,7 +5,7 @@ base_headword: "Masāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Masāra. A hill from which the *masāragalla* stones are obtained. See Rhys Davi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Masāra. Một ngọn đồi nơi loại đá masāragalla được lấy ra. Xem Rhys Davids, Milindapañha Trs.i.117, n.6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -53,6 +53,6 @@ Nārada 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 01. Nārada Buddha. Vị Phật thứ chín trong hai mươi bốn vị Phật, ngài đản sinh trong công viên Dhanañjaya ở Dhaññavatī, cha ngài là vua Sudeva và mẹ ngài là Anomā. Trong chín ngàn năm ngài sống như một cư sĩ trong ba cung điện: Jitā, Vijitā và Abhirāmā (Bv­a. gọi chúng là Vijita, Vijitāvī và Jitābhirāma). Vợ ngài là Jitasenā (*v.l.* Vijitasenā), và con trai ngài là Nanduttara. Ngài đã thực hiện sự Đại Vứt bỏ (*Renunciation*) bằng cách đi bộ cùng với đoàn tùy tùng của mình. Ngài thực hành khổ hạnh chỉ trong bảy ngày, sau đó, thọ nhận một bữa ăn bằng cơm sữa do vợ cúng dường, ngài ngồi dưới gốc cây *mahāsoṇa*, trên cỏ do người giữ công viên Sudassana dâng cúng. Bài pháp đầu tiên của ngài được thuyết giảng tại Công viên Dhanañjaya. Cơ thể ngài cao tám mươi tám cubit, và hào quang của ngài luôn tỏa rộng quanh ngài một khoảng cách là một do-tuần. Ngài viên tịch ở độ tuổi chín mươi ngàn năm tại Sudassana, và bảo tháp (*Thūpa*) của ngài cao bốn do-tuần. Bhaddasāla và Jitamitta là các nam đệ tử thượng thủ và Uttarā và Phaggunā là các nữ đệ tử thượng thủ. Vāseṭṭha là vị thị giả cá nhân của ngài, và đứng đầu trong số các thí chủ của ngài là Uggarinda và Vasabha, và Indavarī và Candī. Trong số những người được ngài hóa độ có các vị vua Nāga Mahā Doṇa và Verocana. Vị Bodhisatta là một Jaṭila ở Himavā, và Đức Phật, cùng với các đồ chúng của ngài, đã viếng thăm am thất của vị đạo sĩ, nơi họ được cúng dường thức ăn trong bảy ngày và thọ nhận những món quà là gỗ chiên đàn đỏ. Bv.x.1ff.; Bv­a.151ff.; Ja.i.35f.
 
 ## Notes

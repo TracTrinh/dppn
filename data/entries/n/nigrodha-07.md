@@ -5,7 +5,7 @@ base_headword: "Nigrodha"
 disambiguator: "07"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nigrodha 07. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được gọi là Māragiri. Một tướng quân của Parakkamabāhu I. Ông đóng quân tại Uddhavāpi. Cv.lxxii.164, 174.
 
 ## Notes

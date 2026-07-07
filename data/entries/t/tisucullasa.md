@@ -5,7 +5,7 @@ base_headword: "Tisucullasa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tisucullasa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tisucullasa. *v.l.* Tipucullasa. Một ngôi làng, có thể ở Đông Tích Lan. Cv.xlv.78.
 
 ## Notes

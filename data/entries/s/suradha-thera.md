@@ -5,7 +5,7 @@ base_headword: "Surādha Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Surādha Thera. The younger brother of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surādha Thera. Em trai của Rādha. Ngài đã noi gương anh trai mình, gia nhập Tăng chúng, và trở thành một *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng cúng một quả *mātuluṅga* cho Sikhī Buddha (Thag.vss.135-6; Thag­a.i.254f). Có lẽ ngài đồng nhất với Mātuluṅgaphaladāyaka của Apadāna. Ap.ii.446.
 
 ## Notes

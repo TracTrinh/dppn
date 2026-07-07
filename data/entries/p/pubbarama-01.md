@@ -5,7 +5,7 @@ base_headword: "Pubbārāma"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -41,6 +41,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāma 01. Một khu vườn bên ngoài cổng thành phía đông của Sāvatthī. Đức Phật Gotama có thói quen dành thời gian nghỉ trưa ở đó sau khi dùng bữa tại nhà của Anāthapiṇḍika (Dhp­a.i.413; xem thêm MN­a.i.369).
+
+Tại Pubbārāma, Visākhā đã xây dựng Migāramātupāsāda, với khu đất tốn của bà chín crore và việc xây dựng tốn thêm chín crore nữa (Dhp­a.i.413). Pubbārāma ở Sāvatthī tương đương với Uttamadevīvihāra ở Anurādhapura (Ud­a.158; MN­a.i.471).
+
+Trong lúc lưu trú tại Pubbārāma, Đức Phật đã cử sa-di Sumana đi lấy nước từ Anotatta (Dhp­a.iv.120).
+
+Vighāsajātaka (Ja 393, Ja.iii.310) cũng được thuyết giảng tại đó.
 
 ## Notes

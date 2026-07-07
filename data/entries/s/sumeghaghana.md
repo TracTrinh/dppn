@@ -5,7 +5,7 @@ base_headword: "Sumeghaghana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumeghaghana. A king of twenty-nine *kappas* ago; a previous birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumeghaghana. Một vị vua của hai mươi chín *kappa* trước; một tiền kiếp của Minelapupphiya Thera (Vinelapupphiya Thera). Ap.i.204.
 
 ## Notes

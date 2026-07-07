@@ -5,7 +5,7 @@ base_headword: "Nandanavimānavatthu"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandanavimānavatthu. A story of a man who looked after his parents and continue
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanavimānavatthu. Câu chuyện về một người đàn ông chăm sóc cha mẹ mình và tiếp tục làm như vậy sau khi kết hôn. Về sau ông được sinh ra ở Tāvatiṁsa, nơi Moggallāna đến thăm ông. Vv.vii.2; Vv-a.300f.
 
 ## Notes

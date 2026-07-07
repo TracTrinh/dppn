@@ -5,7 +5,7 @@ base_headword: "Maṇisomārāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇisomārāma. Probably another name for the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇisomārāma. Có thể là một tên khác của Somārāma. Kaniṭṭhatissa đã xây một *pariveṇa* tại đó (Mhv.xxxvi.8). Goṭhābhaya đã trùng tu *vihāra* và xây dựng một ngôi nhà *uposatha* ở đó. (Mhv.xxxvi.106f.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇavaḍḍhana"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,8 @@ Puṇṇavaḍḍhana 03. The name given to a kind of precious garment. <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇavaḍḍhana 03. Tên gọi được dùng cho một loại y phục quý giá. Kuṇḍalī xứ Dvāramaṇḍala đã gửi vài bộ y phục này đến cho Dīghābhaya thông qua Sūranimila, và đích thân Dīghābhaya đã trao tặng một cặp cho Sūranimila. Mhv.xxiii.33, 37; Mhv­ṭ.450.
+
+Puṇṇa có thể là một biến thể khác của tên gọi này, ví dụ: Mhv­ṭ.538.
 
 ## Notes

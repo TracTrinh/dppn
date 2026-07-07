@@ -5,7 +5,7 @@ base_headword: "Suṇhātapariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suṇhātapariveṇa. A *pariveṇa* built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suṇhātapariveṇa. Một *pariveṇa* do Devānampiyatissa xây dựng trên bờ hồ tắm của Mahinda. Mhv.xv.207.
 
 ## Notes

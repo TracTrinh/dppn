@@ -5,7 +5,7 @@ base_headword: "Suppatiṭṭhita"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ One day there came a man who ate his fill of the fruit, broke a branch, and went
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppatiṭṭhita 02. Một cây *nigrodha* thuộc về vua Koravya. Nhà vua và triều đình của ông đã ăn phần đầu tiên của quả lớn bằng cái hũ đất và ngọt ngào; quân đội ăn phần thứ hai, người dân ở thị trấn và vùng nông thôn ăn phần thứ ba, các sa-môn và những vị tu sĩ ăn phần thứ tư, và chim chóc cùng thú dữ ăn phần cuối cùng. Không có ai canh giữ quả của nó, và sẽ không có ai làm tổn thương người khác để giành lấy quả của nó.
+
+Một ngày nọ, có một người đàn ông đến ăn quả đến no nê, bẻ một cành cây, và tiếp tục đi đường của mình. Vị Deva (thọ thần) của cây rất tức giận, và cây không ra quả nữa. Koravya đã đến thăm Sakka và tham khảo ý kiến của ông. Sakka đã gửi một cơn gió giật mạnh để trừng phạt vị Deva và bắt vị Deva phải xuất hiện trước ông trong sự ăn năn hối lỗi. Sau đó Sakka cảnh báo vị này phải giữ gìn *Rukkhadhamma*, đó là những người khác nhau sẽ lấy và sử dụng những phần khác nhau của một cái cây; vị Deva của cây không được vì thế mà ủ rũ và héo hon. AN.iii.369f.
 
 ## Notes

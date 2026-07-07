@@ -5,7 +5,7 @@ base_headword: "Pūtimaṁsajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -34,6 +34,8 @@ The story was told to the monks in order to impress on them the necessity for ke
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūtimaṁsajātaka (Ja 437). Ngày xưa, trên các sườn núi Himālaya, có một con chó rừng tên là Pūtimaṁsa sống cùng với bạn tình của nó là Veṇī. Gần đó có một bầy dê rừng sinh sống. Pūtimaṁsa lập mưu giết từng con dê một và ăn thịt chúng, cho đến khi chỉ còn lại một con dê cái tên là Melamātā. Mong muốn ăn thịt luôn cả con dê cái này, Pūtimaṁsa đề nghị với Veṇī rằng nó sẽ giả vờ chết và sau đó Veṇī nên dụ Melamātā vào hang bằng cách nhờ dê cái này hỗ trợ trong các nghi thức tang lễ. Nhưng con dê rất khôn ngoan và tinh ý nên đã phát hiện ra mưu kế đó. Veṇī đến gặp dê cái vào lúc khác và nói rằng Pūtimaṁsa đã tỉnh lại ngay khi nhìn thấy dê cái, rồi mời nó tham gia cùng chúng trong một bữa tiệc để ăn mừng sự hồi phục của Pūtimaṁsa. Melamātā đồng ý, nói rằng nó sẽ mang theo một đội hộ tống lớn gồm những người bạn của nó, đó là những con chó hung dữ, bao gồm Maliya, Piṅgiya, Caturakkha và Jambuka, để lễ kỷ niệm có thể được tổ chức linh đình. Trước lời đề nghị này, Pūtimaṁsa và Veṇī đã bỏ chạy khỏi hang của chúng, tìm nơi ẩn náu ở một nơi khác.
+
+Câu chuyện này được kể cho các vị tỳ-kheo để nhấn mạnh với họ về sự cần thiết của việc canh giữ các giác quan của mình. Ja.iii.532ff.
 
 ## Notes

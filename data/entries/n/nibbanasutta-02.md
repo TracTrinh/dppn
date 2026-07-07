@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nibbānasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta giải thích cho Ānanda lý do tại sao một số chúng sinh không đạt được *Nibbāna* ngay trong chính đời này. AN.ii.167.
 
 ## Notes

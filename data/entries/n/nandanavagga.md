@@ -5,7 +5,7 @@ base_headword: "Nandanavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandanavagga. The second chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanavagga. Chương thứ hai của Devatāsaṁyutta. SN.i.5-13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tevijja Vacchagottasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tevijja Vacchagottasutta. The Buddha visits <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tevijja Vacchagottasutta. Đức Phật đến thăm Vacchagotta tại Paribbājakārāma ở Vesālī và nói với ông rằng Ngài được gọi là Tevijja (người thấu triệt Tam minh) bởi vì Ngài có hiểu biết về những tiền kiếp của mình, sở hữu thiên nhãn, và có hiểu biết về sự đoạn tận của các lậu hoặc (*āsavas*). MN.i.481ff.
 
 ## Notes

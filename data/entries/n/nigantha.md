@@ -5,7 +5,7 @@ base_headword: "Nigaṇṭhā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -98,6 +98,39 @@ There seems to have been a settlement of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cái tên được đặt cho những người theo đạo Jain, những tín đồ của Nigaṇṭha Nātaputta. Không giống như các *Acelaka*, họ mặc một bộ y, một tấm che ở phía trước. Nhưng khi được khen ngợi vì sự khiêm nhường của họ, họ đã trả lời rằng lý do họ mặc y phục là để ngăn chặn bụi bẩn rơi vào bình bát khất thực của họ. Bởi vì ngay cả bụi bẩn cũng là những cá thể thực sự và được phú cho nguyên lý của sự sống (Dhp­a.iii.489).
+
+Những giới luật chính của các Nigaṇṭhā được bao gồm trong *cātuyāma saṁvara* – sự kiềm chế gấp bốn lần (để xem những niềm tin và thực hành của họ, xem Nigaṇṭha Nātaputta). Các trung tâm chính của các Nigaṇṭha, vào thời của Đức Phật, dường như là Vesālī (vd., Ja.iii.1; MN.i.228) và Nālandā (MN.i.371), mặc dù họ có các khu định cư ở những thị trấn quan trọng khác, chẳng hạn như Rājagaha (vd., tại Kāḷasilā, trên các sườn dốc của Isigili, MN.i.92).
+
+Những người bảo trợ chính trong thời của Đức Phật là:
+- Sīha senāpati ở Vesālī,
+- Upāli gahapati ở Nālandā và
+- Vappa, người Sākyan ở Kapilavatthu (AN­a.ii.751).
+
+Các sách chứa đựng một vài cái tên bên cạnh tên của Nātaputta về những thành viên lỗi lạc của *Nigaṇṭha Saṅgha* – vd., Dīgha Tapassī, và Saccaka, và cũng có một số phụ nữ, Saccā, Lolā, Avavādakā và Paṭācārā (Ja.iii.1).
+
+Những cư sĩ của các Nigaṇṭha mặc y phục màu trắng (MN.ii.244).
+
+Trong hệ thống phân loại *Chaḷabhijāti* của Pūraṇa Kassapa, các *Ekasāṭaka* Nigaṇṭha chiếm vị trí thứ ba, màu đỏ (AN.iii.384). Đức Phật đã lên án các Nigaṇṭha là không xứng đáng trên mười phương diện:
+- (1) Họ không có niềm tin,
+- (2) Không ngay chính,
+- (3) Không có sự sợ hãi và xấu hổ (*tàm quý*),
+- (4) Họ chọn những kẻ ác làm bạn,
+- (5) Tự tâng bốc bản thân và gièm pha người khác,
+- (6) Tham lam lợi lộc hiện tại,
+- (7) Cố chấp,
+- (8) Không đáng tin cậy,
+- (9) Đầy tội lỗi trong những suy nghĩ của họ, và
+- (10) Nắm giữ tà kiến (AN.v.150).
+
+Việc nhịn ăn của họ giống như một người chăn gia súc trông coi bầy bò vào ban ngày, những con vật này được trả về cho những người chủ của chúng vào lúc chập tối (AN.i.205f). Các Nigaṇṭha được gọi như vậy vì họ tuyên bố là đã giải thoát khỏi mọi trói buộc (*amhākaṁ ganthanakileso palibujjhanakileso natthi, kilesaganthirahitā mayan-ti evaṁ vāditāya laddhanāmavasena Nigaṇṭho*) (vd., MN­a.i.423).
+
+Các sách Phật giáo ghi lại rằng đã có sự chia rẽ lớn trong số các Nigaṇṭha sau cái chết của Nātaputta tại Pāvā (MN.ii.243f.; DN.iii.117, 210). Các Bản chú giải nói rằng Nātaputta, khi nhận ra sự ngu xuẩn và vô ích trong những lời dạy của mình trên giường bệnh, đã mong muốn những tín đồ của mình chấp nhận giáo pháp của Đức Phật (DN­a.iii.906; MN­a.ii.831). Để mang lại điều này, ông đã dạy học thuyết của mình theo hai cách khác nhau cho hai người đệ tử khác nhau, ngay trước khi chết. Đối với người này, ông nói rằng giáo lý của ông là Thuyết Hư Vô (*uccheda*), và đối với người kia thì nó là Thuyết Thường Hằng (*sassata*). Kết quả là, họ đã tranh cãi dữ dội với nhau, và Saṅgha đã tan vỡ.
+
+Việc các Nigaṇṭha kéo dài cho đến, ít nhất là, thời của Nāgasena, được thừa nhận bởi sự kiện rằng Milinda, được yêu cầu tham vấn một vị đạo sư tên là Nigaṇṭha Nātaputta, người mà, nếu hoàn toàn mang tính lịch sử, có lẽ là người kế vị trực tiếp cho vị đạo sư cùng tên, cùng thời với Đức Phật (Mil.p.4).
+
+Có bằng chứng trong các Jātaka cho thấy rằng *Nigaṇṭha Saṅgha* đã tồn tại trước cuộc đời của Đức Phật. Saccatapāvī, được nhắc đến trong Kuṇālajātaka (Ja 536, Ja.v.427), được mô tả là một *setasamaṇī*, và rất có thể đã thuộc về Saṅgha của những người Svetambara, trong khi trong Mahā Bodhijātaka (Ja.v.246) có đề cập đến một vị đạo sư được xác định chính là Nigaṇṭha Nātaputta.
+
+Dường như đã có một khu định cư của các Nigaṇṭha ở Tích Lan từ những thời rất sớm. Khi Paṇḍukābhaya phác họa thành phố Anurādhapura, ông cũng xây dựng các am thất cho một số Nigaṇṭha – Jotiya, Giri và Kumbhaṇḍa (Mhv.x.97f). Những nơi này tiếp tục có người sinh sống ngay cả sau khi sự thiết lập Phật giáo trên Hòn đảo, vì chúng ta nghe nói về họ dưới triều đại của Vaṭṭagāmaṇī (khoảng năm 44 CN.). Khi Vaṭṭagāmaṇī phá bỏ nơi ở của *Nigaṇṭha* Giri, do sự bất trung của ông ta với nhà vua, ông đã xây dựng trên địa điểm của nó Abhayagirivihāra (Mhv.xxxiii.42f.)
 
 ## Notes

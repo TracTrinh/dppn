@@ -5,7 +5,7 @@ base_headword: "Nigaḷadha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nigaḷadha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thủ lĩnh Damiḷa, vị cai trị của Velaṅkuṇḍī và là đồng minh của Kulasekhara. Ông đã bị Laṅkāpura thu phục. Cv.lxxvi.138; lxivii.10f.; 89ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vivādasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vivādasutta 01. On the six roots of contention: scorn, hypocrisy, envy, deceit,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivādasutta 01. Về sáu căn nguyên của sự tranh cãi: khinh miệt, đạo đức giả, đố kỵ, dối trá, ác tâm, định kiến. AN.iii.334f.; cf. DN.iii.246; MN.ii.245; Vin.ii.89.
 
 ## Notes

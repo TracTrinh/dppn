@@ -5,7 +5,7 @@ base_headword: "Vimokkhakathā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vimokkhakathā. The fifth chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimokkhakathā. Chương thứ năm của Mahā Vagga của Paṭisambhidāmagga. Paṭis.ii.35-73.
 
 ## Notes

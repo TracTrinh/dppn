@@ -26,6 +26,6 @@ Sayanadāyaka Thera 01. An *Arahant*. Ninety-four *kappas* ago be gave a bed to 
 
 ## Vietnamese translation
 
-Sayanādāyaka Thera 01. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng một chiếc giường cho Siddhattha Buddha. Năm mươi một *kappa* trước, ngài là một vị vua tên là Varuṇa. Ap.i.98f.
+Sayanadāyaka Thera 01. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng một chiếc giường cho Siddhattha Buddha. Năm mươi một *kappa* trước, ngài là một vị vua tên là Varuṇa. Ap.i.98f.
 
 ## Notes

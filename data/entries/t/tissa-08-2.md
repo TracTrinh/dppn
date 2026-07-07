@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "08"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissā 08. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 08. Con gái của Vua Kassapa IV. và vương hậu của Udaya II. (Cv.li.94).
 
 ## Notes

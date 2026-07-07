@@ -5,7 +5,7 @@ base_headword: "Nāthasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nāthasutta. Two *Suttas* on the qualities which give protection to a monk: virt
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hai bài kinh (*Suttas*) về những phẩm chất mang lại sự bảo vệ cho một vị tỳ-kheo: giới đức, sự học hỏi, bạn lành, tính dễ gần, sự khéo léo trong việc thực hành các bổn phận, lòng yêu mến sự thật, tinh tấn, sự tri túc, chánh niệm, trí tuệ. AN.v.23f. 26f.
 
 ## Notes

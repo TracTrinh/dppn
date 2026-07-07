@@ -5,7 +5,7 @@ base_headword: "Sunandā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunandā 01. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandā 01. Một vị *Aggasāvikā* (Thượng thủ Thanh văn Ni) của Dīpaṅkara Buddha. Ja.i.29; Bv.ii.214.
 
 ## Notes

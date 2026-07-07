@@ -5,7 +5,7 @@ base_headword: "Tirīṭavacchajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirīṭavacchajātaka (Ja 259). Bodhisatta từng là một Bà-la-môn ở Kāsi tên là Tirīṭavaccha và sau khi cha mẹ qua đời, ngài trở thành một ẩn sĩ. Vua của Benares, đang chạy trốn khỏi kẻ thù của mình, đã đến am thất của Tirīṭavaccha, cưỡi trên một con voi. Tìm nước nhưng không thấy, ông đã thả mình xuống giếng của vị ẩn sĩ nhưng không thể tự trèo lên lại được; vị ẩn sĩ đã cứu ông và cho ông thấy mọi sự hiếu khách. Sau đó vị ẩn sĩ đến thăm nhà vua, lúc này đã được phục hồi ngai vàng, và được cấp cho một chỗ ở trong công viên hoàng gia. Các triều thần có khuynh hướng ghen tị với những sự chú ý dành cho vị ẩn sĩ, nhưng nhà vua đã kể cho họ nghe về sự kiện trong rừng và họ đã công nhận việc vị ẩn sĩ đáng được tôn vinh.
+
+Câu chuyện được kể lại liên quan đến việc Ānanda đã nhận được năm trăm y từ những người phụ nữ trong cung điện của Pasenadi. Nhà vua được đồng nhất với Ānanda. Ja.ii.314ff.
 
 ## Notes

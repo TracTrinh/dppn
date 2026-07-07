@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "06"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiya 06. The Bodhisatta born as a deer. See the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 06. Vị Bodhisatta sinh ra làm một con nai. Xem Nandiyamigajātaka (Ja 385). Ja.iii.270ff.
 
 ## Notes

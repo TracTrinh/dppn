@@ -5,7 +5,7 @@ base_headword: "Suppiya"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Suppiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppiya 01. Suppiya. Một *Paribbājaka* (du sĩ ngoại đạo). Ông là đạo sư của Brahmadatta. Chính cuộc thảo luận giữa hai người này, trong công viên Ambalaṭṭhikā, liên quan đến các ân đức của Đức Phật, Dhamma (Giáo pháp) của Ngài và Saṅgha (Tăng chúng) của Ngài, đã dẫn đến việc thuyết giảng Brahmajālasutta (Kinh Phạm Võng) (DN.i.1). Suppiya là người đi theo Sañjaya Belaṭṭhiputta. DN­a.i.35.
 
 ## Notes

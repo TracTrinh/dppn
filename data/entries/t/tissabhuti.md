@@ -5,7 +5,7 @@ base_headword: "Tissabhūti"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -33,6 +33,8 @@ Once, while on his alms-rounds, he saw something which provoked desire in his he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissabhūti. Một vị tỳ-kheo của Maṇḍalārāma ở Ceylon, vào thời của Vua Vaṭṭagāmaṇī (Vibh­a.448). Ngài rõ ràng là rất tinh thông Abhidhamma và người ta nói (Dhs­a.30) rằng ngài từng giảng bài kinh Padesavihārasutta để bao gồm nhiều lời dạy khác nhau của Abhidhamma.
+
+Một lần, khi đang đi khất thực, ngài nhìn thấy một thứ gì đó khơi dậy dục vọng trong lòng ngài. Ngài lập tức quay lại gặp thầy của mình và xin lời khuyên về cách chinh phục căn bệnh của mình. Người thầy đã gửi ngài đến gặp Mahā Saṅgharakkhita của Malaya, người đã dạy ngài pháp quán niệm bất tịnh (*asubhakammaṭṭhāna*). Ngay trong đêm đó, Tissabhūti đã đắc quả vị *Arahant* dưới gốc một cây *sepaṇṇi*. AN­a.i.23f.
 
 ## Notes

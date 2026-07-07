@@ -5,7 +5,7 @@ base_headword: "Surabhi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surabhi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surabhi. Một vị Pacceka Buddha mà Bodhisatta (trong kiếp sống là Munāli) đã lăng mạ. Ap.i.299; Ud­a.264.
 
 ## Notes

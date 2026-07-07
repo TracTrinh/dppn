@@ -5,7 +5,7 @@ base_headword: "Pubbaseliyā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,10 @@ According to Tibetan sources (Rockhill, 184) they were so-called because they li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbaseliyā. Một trong mười bảy giáo phái dị giáo nổi lên ở Jambudīpa vào thế kỷ thứ hai sau khi Đức Phật viên tịch (Mhv.v.12; Dpv.v.55).
+
+Theo Chú giải Kathāvatthu (xem *Points of Controversy* xli.104, 108, 115) họ thuộc trường phái Andhaka. Quan điểm của họ dường như tương tự với quan điểm của nhóm Cetiyavādin (JRAS. 1910, p. 413 ff).
+
+Theo các nguồn tư liệu Tây Tạng (Rockhill, 184) họ được gọi như vậy vì họ sống trên ngọn núi Pūrva.
 
 ## Notes

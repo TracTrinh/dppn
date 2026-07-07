@@ -5,7 +5,7 @@ base_headword: "Puṇṇā"
 disambiguator: "06"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇā 06. A slave woman. The Commentaries mention (e.g., MN­a.ii.696) that
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇā 06. Một người nữ nô lệ. Các bản Chú giải đề cập (ví dụ: MN­a.ii.696) rằng có lần Đức Phật đã làm một y phấn tảo (*paṁsukūla*) từ một mảnh y phục do bà vứt lại trong một nghĩa địa cỏ mọc um tùm (*atimuttakasusāna*). Khi Đức Phật đắp y này, trái đất đã rung chuyển vì kinh ngạc. Chính chiếc y này là thứ mà Đức Phật đã trao đổi với Mahā Kassapa; khi Đức Phật nhặt nó lên từ nghĩa địa nơi mà Puṇṇā đã vứt nó đi, nó bị bao phủ bởi côn trùng (SN­a.ii.149).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nandī. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandī. Tên của Mahā Kassapa khi ngài là vua của Benares. Câu chuyện được ghi lại trong Ras.i.26f. Cái tên này rõ ràng là một biến thể của Nanda. Xem Nanda (11).
 
 ## Notes

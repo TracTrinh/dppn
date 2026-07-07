@@ -5,7 +5,7 @@ base_headword: "Nissayavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nissayavagga. The first chapter of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissayavagga. Chương đầu tiên thuộc Ekādasakanipāta của Aṅguttaranikāya. AN.v.311-28.
 
 ## Notes

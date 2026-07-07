@@ -5,7 +5,7 @@ base_headword: "Māragalla"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Māragalla. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māragalla. Một ngôi làng ở Rohaṇa, nơi sinh của vị quan đại thần Buddha (Cv.lv.26). Nơi này có lẽ đồng nhất với Mārapabbata được nhắc đến trong ghi chép về các chiến dịch của Mahinda II. Cv.xlviii.129.
 
 ## Notes

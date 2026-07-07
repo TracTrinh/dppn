@@ -5,7 +5,7 @@ base_headword: "Nigrodha"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nigrodha 01. A *Paribbājaka*. Once, when he was staying with a large number of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Paribbājaka* (*du sĩ*). Có lần, khi ông đang lưu lại cùng với một số lượng lớn các đồng đạo tại Udumbarikārāma gần Rājagaha, Sandhāna, trên đường đến gặp Đức Phật, đã chặn ông lại và bắt đầu một cuộc trò chuyện. Đức Phật, bằng thiên nhĩ thông của Ngài, nghe được cuộc nói chuyện của họ, đã tiếp cận họ và tiếp tục cuộc thảo luận với Nigrodha; cuộc thảo luận này được ghi lại trong Udumbarikasīhanādasutta. DN.iii.36ff.; cuộc thảo luận này cũng được nhắc đến trong Kassapasīhanādasutta (DN.i.175 f.). Tại đó Nigrodha được nói là đã cảm thấy vô cùng hoan hỷ, nhưng điều này không được đề cập trong Udumbarikasīhanādasutta (xem DN.iii.57).
 
 ## Notes

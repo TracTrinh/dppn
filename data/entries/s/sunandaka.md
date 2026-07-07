@@ -5,7 +5,7 @@ base_headword: "Sunandaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunandaka. The residence of an <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandaka. Nơi cư ngụ của một vị Ājīvaka đã dâng cỏ làm chỗ ngồi cho Koṇḍañña Buddha. Bv­a.108.
 
 ## Notes

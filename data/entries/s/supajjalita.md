@@ -5,7 +5,7 @@ base_headword: "Supajjalita"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Supajjalita. Twenty-seven *kappas* ago there were seven kings of this name, prev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supajjalita. Hai mươi bảy *kappa* trước có bảy vị vua mang tên này, là những tiền kiếp của Citapūjaka Thera. Ap.i.244.
 
 ## Notes

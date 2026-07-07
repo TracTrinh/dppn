@@ -5,7 +5,7 @@ base_headword: "Nibbedhikapariyāya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbedhikapariyāya. A comprehensive discourse addressed to the monks on sense d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bài giảng toàn diện nói với các tỳ-kheo về những ham muốn giác quan, cội nguồn của chúng, sự đa dạng của chúng, quả của chúng, và những bước dẫn đến đó. AN.iii.410f.; bài giảng này thường được trích dẫn, vd., Ud­a.176; Dhs-a.369.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Niṅka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Niṅka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niṅka (Nika). Một vị *Deva* đến viếng thăm Đức Phật cùng với sự hộ tống của một số chư thiên khác và thốt lên một bài kệ ca ngợi Nigaṇṭha Nātaputta. SN.i.65f.
 
 ## Notes

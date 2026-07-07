@@ -5,7 +5,7 @@ base_headword: "Niruttipathasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -23,6 +23,6 @@ Niruttipathasutta. On three modes of reckoning: matter that has ceased is reckon
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niruttipathasutta. Về ba phương thức nhận định: sắc đã diệt được nhận định là “đã là”, không phải là “đang là” hay “sẽ là”; tương tự với các uẩn khác. SN.iii.71f.
 
 ## Notes

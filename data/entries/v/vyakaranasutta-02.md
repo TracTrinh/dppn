@@ -5,7 +5,7 @@ base_headword: "Vyākaraṇasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vyākaraṇasutta 02. Preached by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vyākaraṇasutta 02. Được thuyết giảng bởi Mahā Moggallāna, về mười phẩm chất cần phải từ bỏ để đạt được mục tiêu của một người trong *Sāsana*. AN.v.155f.
 
 ## Notes

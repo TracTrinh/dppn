@@ -5,7 +5,7 @@ base_headword: "Puṇṇapātijātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,8 @@ The story was told to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇapātijātaka (Ja 53). Bodhisatta từng là Thủ quỹ của xứ Benares, và vài kẻ gian, với mong muốn cướp tiền của ông, đã hợp mưu với nhau và tẩm thuốc vào một số rượu, mà họ đem mời ông khi ông đang trên đường đến hoàng cung. Vị Thủ quỹ nghi ngờ chúng, và hứa sẽ gia nhập cùng chúng trên đường từ hoàng cung trở về. Nhưng khi ông trở về, các bình chứa rượu vẫn còn đầy nguyên; do đó ông đã buộc tội những gã này với ý định hạ độc ông, vì nếu không chúng hẳn đã uống chút ít rượu trong lúc ông vắng mặt. Bọn chúng liền bỏ chạy.
+
+Câu chuyện được kể lại cho Anāthapiṇḍika, người đã gặp phải một trải nghiệm tương tự. Nhưng trong trường hợp này, ông đang từ hoàng cung trở về, và đã thách thức lũ kẻ gian nếm thử rượu của chính chúng trước. Ja.i.268 ff.
 
 ## Notes

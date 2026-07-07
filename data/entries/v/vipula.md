@@ -5,7 +5,7 @@ base_headword: "Vipulā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vipulā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipulā. Mẹ của Đức Phật Revata. Ja.i.35; Bv.vi.6.
 
 ## Notes

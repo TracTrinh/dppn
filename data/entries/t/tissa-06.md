@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "06"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 06. A monk who was reborn as a *Brahma* with great *iddhi*-powers. <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 06. Một vị tỳ-kheo tái sinh làm một *Brahma* với sức mạnh thần thông (*iddhi*) vĩ đại. Moggallāna đã đến thăm ông ngay sau khi ông sinh ra ở cõi *Brahma* và hỏi ông các câu hỏi về chư thiên (*Deva*) và *Brahma* những người đã được đảm bảo giải thoát (AN.iii.331; iv.75ff). Rõ ràng ông là Tissa được đề cập là có mặt tại Mahā Samaya. DN.ii.261; DN­a.ii.692.
 
 ## Notes

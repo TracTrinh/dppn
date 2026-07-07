@@ -5,7 +5,7 @@ base_headword: "Vitakkasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vitakkasutta 02. Concentration accompanied by thought, both directed and sustain
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitakkasutta 02. Định đi kèm với tư duy, cả có tầm có tứ, không tầm chỉ có tứ, không tầm không tứ, là con đường dẫn đến "Vô vi." SN.iv.360.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "12"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nārada 12. The fifth future Buddha. Anāg. p. 40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 12. Vị Phật tương lai thứ năm. Anāg. p. 40.
 
 ## Notes

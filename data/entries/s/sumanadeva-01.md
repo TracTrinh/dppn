@@ -5,7 +5,7 @@ base_headword: "Sumanadeva"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumanadeva 01. A tree deity whose daughter, <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thọ thần có con gái là Kāḷī, đã kết hôn với Dīghataphala. Bởi vì vợ của Kāḷavilaṅgiya (*q.v.*), cải trang thành nam giới, mang đến cho ông tin tức về sự ra đời của một đứa con trai của Kāḷī, ông đã tặng cho cô những kho báu bị chôn vùi trong phạm vi bóng râm của cái cây của ông. MN­a.ii.813.
 
 ## Notes

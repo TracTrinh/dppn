@@ -5,7 +5,7 @@ base_headword: "Visālakkhivimānavatthu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Visālakkhivimānavatthu. The story of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visālakkhivimānavatthu. Câu chuyện về Sunandā (*q.v.*), con gái của một người làm vòng hoa ở Rājagaha. Câu chuyện được Sakka kể lại cho Vaṅgīsa, người đã thuật lại nó cho Đức Phật. Vv.iii.9; Vv-a.170f.
 
 ## Notes

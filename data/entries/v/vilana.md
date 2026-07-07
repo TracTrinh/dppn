@@ -5,7 +5,7 @@ base_headword: "Vilāna"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vilāna. A place near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vilāna. Một địa điểm gần Āḷisāra, được nhắc đến trong các cuộc chiến của Gajabāhu. Cv.lxx.166.
 
 ## Notes

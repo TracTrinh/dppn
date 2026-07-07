@@ -5,7 +5,7 @@ base_headword: "Mātaṅga"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātaṅga 01. The Bodhisatta born as a *Caṇḍāla*. See the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅga 01. Bồ-tát đản sanh làm một người Caṇḍāla. Xem Mātaṅgajātaka (Ja 497).
 
 ## Notes

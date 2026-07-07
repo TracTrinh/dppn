@@ -5,7 +5,7 @@ base_headword: "Niddasavatthusutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Niddasavatthusutta 02. The same preached in answer to a question by <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Điều tương tự được thuyết để trả lời cho một câu hỏi của Sāriputta về việc liệu có đúng khi nói rằng một người đã giữ phạm hạnh trong mười hai năm có thể được gọi là một *niddasa* hay không. AN.iv.34ff.
 
 ## Notes

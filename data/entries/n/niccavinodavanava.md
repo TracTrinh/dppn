@@ -5,7 +5,7 @@ base_headword: "Niccavinodavāṇava"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Niccavinodavāṇava. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thủ lĩnh Damiḷa đồng minh của Kulasekhara. Cv.lxxvi.144; lxxvii.76.
 
 ## Notes

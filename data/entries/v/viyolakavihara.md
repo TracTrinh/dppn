@@ -5,7 +5,7 @@ base_headword: "Viyolakavihāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viyolakavihāra. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viyolakavihāra. Một tu viện ở Tích Lan. Tissa Mahānāga đã sống ở đó ba mươi năm. Ras.ii.187
 
 ## Notes

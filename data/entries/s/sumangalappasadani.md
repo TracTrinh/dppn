@@ -5,7 +5,7 @@ base_headword: "Sumaṅgalappasādanī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumaṅgalappasādanī. A *ṭīkā* on the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgalappasādanī. Một cuốn *ṭīkā* về Khuddasikkhā, do Vācissara của Tích Lan viết theo yêu cầu của Sumaṅgala. Gv.62, 71; Svd.1227
 
 ## Notes

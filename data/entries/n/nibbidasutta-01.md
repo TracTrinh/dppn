@@ -5,7 +5,7 @@ base_headword: "Nibbidāsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbidāsutta 01. The seven *bojjhaṅgas*, if cultivated, lead to revulsion, ca
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bảy *bojjhaṅga*, nếu được tu tập, sẽ dẫn đến sự nhàm chán, tĩnh lặng và *Nibbāna*. SN.v.82.
 
 ## Notes

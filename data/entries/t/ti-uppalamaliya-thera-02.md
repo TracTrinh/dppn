@@ -5,7 +5,7 @@ base_headword: "Ti-uppalamāliya Thera"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Ti-uppalamāliya Thera 02. An Arahant. The same as (1), except that, in this cas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ti-uppalamāliya Thera 02. Một bậc Arahant. Tương tự như (1), ngoại trừ việc, trong trường hợp này, Đức Phật là Phussa. Ap.i.291.
 
 ## Notes

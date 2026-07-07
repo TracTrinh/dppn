@@ -5,7 +5,7 @@ base_headword: "Vijjha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vijjha. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjha. *v.l.* Viñjha. Một tảng đá nằm ngang, trên đó dòng suối chảy từ cửa đông của hồ Anotatta, chia thành năm dòng sông: Gaṅgā, Yamunā, Aciravatī, Sambhū và Mahī. Ud­a.301f.; Snp­a.ii.4,39; AN­a.ii.760; MN­a.ii.586.
 
 ## Notes

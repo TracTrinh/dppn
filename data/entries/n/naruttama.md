@@ -5,7 +5,7 @@ base_headword: "Naruttama"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Naruttama. Seventy-three *kappas* ago there were four kings of this name, all pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naruttama. Bảy mươi ba *kappa* trước đây có bốn vị vua mang tên này, tất cả đều là các tiền kiếp của Tikaṇṇapupphiya. Ap.i.195.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandanavana"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandanavana 03. A private park in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanavana 03. Một công viên tư nhân ở Pulatthipura, do Parakkamabāhu I thiết lập. Cv.lxxiii.97; lxxix.2.
 
 ## Notes

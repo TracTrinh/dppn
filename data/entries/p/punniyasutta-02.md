@@ -5,7 +5,7 @@ base_headword: "Puṇṇiyasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puṇṇiyasutta 02. Same as above (1), but two conditions are added. AN.v.154f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇiyasutta 02. Tương tự như trên (1), nhưng có thêm hai điều kiện được bổ sung. AN.v.154f.
 
 ## Notes

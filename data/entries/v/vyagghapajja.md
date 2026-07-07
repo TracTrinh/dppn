@@ -5,7 +5,7 @@ base_headword: "Vyagghapajja"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -27,6 +27,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vyagghapajja. Tên được đặt cho thành phố của người Koḷiyan (*q.v.*), bởi vì nó được xây dựng trên một dấu chân hổ.
+
+Do đó, những người Koḷiyan cũng được gọi là Vyagghapajjā. AN­a.ii.558, 778; Snp­a.i.356; DN­a.i.262; cf. Mvu.i.355.
 
 ## Notes

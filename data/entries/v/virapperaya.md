@@ -5,7 +5,7 @@ base_headword: "Vīrapperaya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vīrapperaya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrapperaya, Vīrapperayas. Tên của một vài thủ lĩnh Damiḷa, những đồng minh của Kulasekhara. Cv.lxxvi. 138, 316; lxxvii.6, 7.
 
 ## Notes

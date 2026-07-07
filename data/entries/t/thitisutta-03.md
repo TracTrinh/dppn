@@ -5,7 +5,7 @@ base_headword: "Ṭhitisutta"
 disambiguator: "03"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhitisutta 03. Đức Phật không khen ngợi sự kiên định trong những hành động tốt, mà khen ngợi sự phát triển liên quan đến chúng. Trong *Sutta* (kinh) này, Đức Phật giải thích bằng những ví dụ so sánh về cách điều này được thực hiện. AN.v.96f.
 
 ## Notes

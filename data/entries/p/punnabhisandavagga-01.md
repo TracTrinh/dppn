@@ -5,7 +5,7 @@ base_headword: "Puññābhisandavagga"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puññābhisandavagga 01. The sixth chapter of the *Catukkanipāta* of the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puññābhisandavagga 01. Chương thứ sáu của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.54-65.
 
 ## Notes

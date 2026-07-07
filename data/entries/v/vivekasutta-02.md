@@ -5,7 +5,7 @@ base_headword: "Vivekasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vivekasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivekasutta 02. Sāriputta nói với Ānanda, để trả lời các câu hỏi của ông rằng sự sáng suốt của các giác quan và sắc mặt dễ chịu của ông là do ông đã trải qua giấc ngủ trưa ở Andhavana, tách biệt khỏi những đam mê và những điều xấu xa. SN.iii.235f.
 
 ## Notes

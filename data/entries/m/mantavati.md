@@ -5,7 +5,7 @@ base_headword: "Mantāvatī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mantāvatī. A city, the birthplace of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mantāvatī. Một thành phố, nơi sinh của Sumedhā Therī, thủ lĩnh của nơi này là Koñca. Thīg.vs.448; Thīg­a.272.
 
 ## Notes

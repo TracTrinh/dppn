@@ -5,7 +5,7 @@ base_headword: "Naravāhana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naravāhana. One of the palaces occupied by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naravāhana. Một trong những cung điện mà Padumuttara Buddha ngự trị trong đời sống cư sĩ cuối cùng của ngài. Bv.xi.20.
 
 ## Notes

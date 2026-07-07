@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapāda"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Poṭṭhapāda 02. The Bodhisatta born as a parrot. For his story see the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapāda 02. Bodhisatta sinh làm một con vẹt. Để biết câu chuyện của ngài, xem Rādhajātaka Ja 145, Ja.i.495f.
 
 ## Notes

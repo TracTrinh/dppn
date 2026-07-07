@@ -5,7 +5,7 @@ base_headword: "Ti-ukkādhāriya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Ti-ukkādhāriya Thera. An *Arahant*. Once in the past he lit three torches, whi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ti-ukkādhāriya Thera. Một bậc *Arahant*. Đã từng một lần trong quá khứ ông đã thắp sáng ba ngọn đuốc, mà ông đứng cầm, dưới gốc cây Bodhi (Bồ-đề) của Đức Phật Padumuttara. Ap.ii.404.
 
 ## Notes

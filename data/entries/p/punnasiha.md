@@ -5,7 +5,7 @@ base_headword: "Puṇṇasīha"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇasīha. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇasīha. Cha của Uttarā Nandamātā (AN­a.i.240.). Xem Puṇṇa (1).
 
 ## Notes

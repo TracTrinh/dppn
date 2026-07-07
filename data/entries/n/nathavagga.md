@@ -5,7 +5,7 @@ base_headword: "Nāthavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāthavagga. The second chapter of the *Dasakanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ hai của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.15-32.
 
 ## Notes

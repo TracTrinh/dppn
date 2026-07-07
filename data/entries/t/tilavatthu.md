@@ -5,7 +5,7 @@ base_headword: "Tilavatthu"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tilavatthu. A canal which fed the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilavatthu. Một con kênh đào cung cấp nước cho hồ chứa Maṇihīra. Cv.lx.53.
 
 ## Notes

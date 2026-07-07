@@ -5,7 +5,7 @@ base_headword: "Tidivādhibhū"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tidivādhibhū. A name given to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tidivādhibhū. Một tên gọi được đặt cho Sakka (*q.v.*).
 
 ## Notes

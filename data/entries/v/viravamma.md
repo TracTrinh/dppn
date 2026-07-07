@@ -5,7 +5,7 @@ base_headword: "Vīravamma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Vīravamma. Husband of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīravamma. Chồng của Yasodharā, con gái của Vijayabāhu I. Họ có hai người con gái, Līlāvatī và Sugalā. Ông được trao của hồi môn là tỉnh Merukandara. Cv.lix.27.
 
 ## Notes

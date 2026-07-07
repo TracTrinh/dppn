@@ -5,7 +5,7 @@ base_headword: "Vitthārasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vitthārasutta 01. The five *indriyas*, if completely cultivated, lead to *Araha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitthārasutta 01. Năm *indriya*, nếu được tu tập trọn vẹn, sẽ dẫn đến quả vị *Arahant*; nếu ở mức độ thấp hơn sẽ dẫn đến các quả vị thấp hơn. SN.v.201f.
 
 ## Notes

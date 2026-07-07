@@ -5,7 +5,7 @@ base_headword: "Suppiya"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppiya 03. Suppiya Thera. Ngài sinh ra ở Sāvatthī trong một gia đình những người giữ nghĩa trang. Được cải đạo nhờ sự thuyết giảng của người bạn mình, Thera Sopāka, ngài đã gia nhập Tăng chúng và chứng quả vị *Arahant*.
+
+Vào thời kỳ của Padumuttara Buddha, ngài là một Bà-la-môn, tên là Varuṇa, người đã để lại mười đứa con của mình và trở thành một ẩn sĩ trong rừng. Ở đó ngài gặp Đức Phật và các tỳ-kheo của Ngài và đã dâng cúng cho họ trái cây. Ngài thuộc về một gia đình *Khattiya* (Sát-đế-lỵ) vào thời kỳ của Kassapa Buddha, nhưng vì sự kiêu ngạo về xuất thân và học vấn nên đã thường xuyên gièm pha các đồng môn của mình, do đó ngài bị sinh ra trong một giai cấp thấp kém ở kiếp sống cuối cùng của mình. Thag.vs.32; Thag­a.i.92f.; Ap.i.452f.
 
 ## Notes

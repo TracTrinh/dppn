@@ -5,7 +5,7 @@ base_headword: "Nandopananda"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandopananda 02. One of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandopananda 02. Một trong những địa ngục (Niraya) Lohakumbhī. SN­a.i.111.
 
 ## Notes

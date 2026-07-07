@@ -5,7 +5,7 @@ base_headword: "Theravagga"
 disambiguator: "01"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -24,6 +24,6 @@ Theravagga 01. The ninth chapter of the *Pañcakanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theravagga 01. Chương thứ chín của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.110ff.
 
 ## Notes

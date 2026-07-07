@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "12"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sunanda 12. Son of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 12. Con trai của Vua Añjasa. Một lần nọ, khi đang cưỡi con voi Sirika, ông nhìn thấy Pacceka Buddha Devala, và đã xua con voi đâm vào ngài. Ông là một tiền kiếp của Upāli. Thag­a.i.367f.
 
 ## Notes

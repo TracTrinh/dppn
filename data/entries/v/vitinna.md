@@ -5,7 +5,7 @@ base_headword: "Vitiṇṇa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vitiṇṇa. One of the chief lay supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitiṇṇa. Một trong những nam cư sĩ hộ độ chính yếu của Padumuttara Buddha. Bv.xi.26.
 
 ## Notes

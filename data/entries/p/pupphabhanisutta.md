@@ -5,7 +5,7 @@ base_headword: "Pupphabhāṇīsutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphabhāṇīsutta. The three kinds of people in the world: the tricky-tongued
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphabhāṇīsutta. Ba hạng người trên thế gian: người có miệng lưỡi xảo trá (*gūthabhāṇī*), người nói lời tốt đẹp (*pupphabhāṇī*), và người có miệng lưỡi ngọt ngào (*madhubhāṇī*). AN.i.127.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nilārāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nilārāma. A monastery in Ceylon to which <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nilārāma. Một tu viện ở Tích Lan mà Udaya I đã ban cho ngôi làng Kālussa. Cv.xlix.16.
 
 ## Notes

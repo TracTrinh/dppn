@@ -5,7 +5,7 @@ base_headword: "Sumanadevī"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sumanadevī 04. Youngest daughter of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con gái út của Anāthapiṇḍika. Khi các chị gái của cô, Mahā Subhaddā và Cūḷa Subhaddā, kết hôn và đến sống cùng chồng, Anāthapiṇḍika giao cho cô việc lo liệu bữa ăn cho chư tăng trong nhà ông. Cô trở thành một vị *Sakadāgāmī* và không kết hôn. Vì không lấy được chồng, cô tuyệt thực và đổ bệnh. Một ngày nọ, khi Anāthapiṇḍika đang ở trong nhà ăn, ông nhận được tin nhắn từ cô. Ông liền đi ngay lập tức và hỏi cô có chuyện gì. Cô gọi ông là "Em trai", và nói rằng cô không hề sợ hãi, rồi cô qua đời. Anāthapiṇḍika, vô cùng đau buồn, đã tìm đến Đức Phật và thổ lộ nỗi đau xót khi cô qua đời trong lúc nói nhảm. Đức Phật giải thích rằng, bởi vì cô là một vị *Sakadāgāmī* còn ông chỉ là một vị *Sotāpanna*, việc cô gọi ông là "Em trai" là hoàn toàn hợp lý. Sau khi qua đời cô tái sinh ở Tusita, Đức Phật nói. Dhp­a.i.151f.
 
 ## Notes

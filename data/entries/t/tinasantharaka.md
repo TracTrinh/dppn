@@ -5,7 +5,7 @@ base_headword: "Tiṇasanthāraka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tiṇasanthāraka. Five *kappas* ago there were seven kings of this name, all pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇasanthāraka. Năm *kappa* trước có bảy vị vua mang tên này, tất cả đều là các kiếp trước của Senāsanadāyaka Thera (hoặc Channa Thera). Ap.i.137; Thag­a.i.155.
 
 ## Notes

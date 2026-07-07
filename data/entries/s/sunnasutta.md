@@ -5,7 +5,7 @@ base_headword: "Suññasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suññasutta. The Buddha explains to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suññasutta. Đức Phật giải thích cho Ānanda rằng thế giới này trống rỗng (vô ngã) về “ngã” và về những gì thuộc về “ngã.” SN.iv.54.
 
 ## Notes

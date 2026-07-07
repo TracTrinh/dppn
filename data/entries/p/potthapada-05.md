@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapāda"
 disambiguator: "05"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,6 @@ Poṭṭhapāda 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapāda 05. Poṭṭhapāda Thera. Trong quá khứ, ông sinh ra là Sunetta, con trai của vua Kitava, và vì ông đã xúc phạm một vị Pacceka Buddha, ông bị tái sinh vào địa ngục Avīci. Sau đó, ông sinh vào một gia đình ngư dân gần Kuṇḍinagara, nhưng do nhớ lại những kiếp trước của mình, ông từ chối tham gia vào bất kỳ việc đánh cá nào. Do đó, cha mẹ ông đã đuổi ông đi, nhưng Ānanda, khi thấy ông đang chết đói, đã cho ông thức ăn, và theo lời gợi ý của Đức Phật, đã xuất gia cho ông. Chẳng bao lâu sau, ông trở thành một bậc *Arahant* và sống cùng với mười hai người khác ở Sānuvāsīpabbata. Những người thân của Poṭṭhapāda đã trở thành ngạ quỷ (*Peta*), và cha mẹ ông đã cử một người anh em, người mà Poṭṭhapāda đặc biệt yêu mến, đến cầu xin ông can thiệp. Do đó, ông đã đi khất thực, và dâng chúng cho các đồng tu của mình nhân danh những người thân của ông, nhờ vậy mà họ đã có lại được hạnh phúc. Pv.iii.2; Pv-a.177 ff.
 
 ## Notes

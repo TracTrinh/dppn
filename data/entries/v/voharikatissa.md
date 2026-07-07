@@ -5,7 +5,7 @@ base_headword: "Vohārikatissa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -41,6 +41,12 @@ He suppressed the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vohārikatissa. Vua của Tích Lan (269-91 CE.). Ông là con trai của Sirināga và tên ông là Tissa. Ông được gọi là “*Vohārika*” vì sự hiểu biết của ông về luật pháp và truyền thống; ông đã bãi bỏ hình phạt gây thương tích thân thể. Ông đã bảo trợ cho Deva Thera của Kappukagāma và Mahā Tissa của Anurārāma.
+
+Ông đã xây dựng Sattapaṇṇakapāsāda, và dựng lọng che trên tám bảo tháp cùng các bức tường bao quanh sáu tu viện (để biết chi tiết, xem Mhv.xxxvi.33f).
+
+Vào những ngày Ariyavaṁsa được tụng đọc, ông đã tổ chức bố thí trên khắp Tích Lan.
+
+Ông đã đàn áp dị giáo Vetulya với sự giúp đỡ của vị quan đại thần Kapila. Ông bị giết bởi người em trai của mình, Abhayanāga. Mhv.xxxvi.27ff.
 
 ## Notes

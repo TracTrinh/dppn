@@ -5,7 +5,7 @@ base_headword: "Surāmā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surāmā 02. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surāmā 02. Một *Aggasāvikā* của Sumedha Buddha. Ja.i.38; Bv.xii.24.
 
 ## Notes

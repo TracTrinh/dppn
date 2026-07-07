@@ -5,7 +5,7 @@ base_headword: "Vikkamabāhu"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vikkamabāhu 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkamabāhu 01. Vikkamabhuja, Vikkantabāhu. Các tên gọi khác của Vua Kassapa VI. Xem Kassapa (21).
 
 ## Notes

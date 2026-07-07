@@ -5,7 +5,7 @@ base_headword: "Purāṇa"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Purāṇa 01. A monk who lived in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purāṇa 01. Một vị tỳ-kheo sống ở Dakkhiṇāgiri. Có chuyện kể rằng khi ông đến thăm Rājagaha sau khi Kỳ Kết Tập Đầu Tiên được tổ chức, ông đã được yêu cầu bày tỏ sự tán thành đối với những "kết quả" của kỳ kết tập này. Câu trả lời của ông là ông muốn ghi nhớ những gì chính ông đã được nghe và được học từ Đức Phật hơn. Vin.ii.189f.
 
 ## Notes

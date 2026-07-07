@@ -5,7 +5,7 @@ base_headword: "Sūra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sūra. A messenger of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūra. Một sứ giả của Kuvera (*q.v.*). DN.iii.201.
 
 ## Notes

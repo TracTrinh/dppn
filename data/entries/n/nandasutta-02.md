@@ -5,7 +5,7 @@ base_headword: "Nandasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandasutta 02. Records the incident of the chiding of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandasutta 02. Ghi lại sự kiện Đức Phật khiển trách Trưởng lão Nanda (xem Nanda 1) vì đã mặc những y phục hấp dẫn và vẽ mắt. SN.ii.281.
 
 ## Notes

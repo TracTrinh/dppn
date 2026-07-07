@@ -5,7 +5,7 @@ base_headword: "Puṇḍarīkā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇḍarīkā. A class of nymphs who provided music for <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇḍarīkā. Một tầng lớp các tiên nữ chuyên tấu nhạc cho Sakka, hoặc, có lẽ, là tên của một số nhạc cụ. Xem Vv-a.93, 96, 211; và 372f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Surakkhita"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surakkhita. An *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surakkhita. Một *Aggasāvaka* (đệ tử tối thắng) của Phussa Buddha; ngài từng là một vương tử của Kaṇṇakujja. Ja.i.41; Bv­a.193; nhưng Bv.xix. gọi ngài là Sukhita.
 
 ## Notes

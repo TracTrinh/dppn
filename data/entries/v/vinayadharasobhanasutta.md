@@ -5,7 +5,7 @@ base_headword: "Vinayadharasobhanasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vinayadharasobhanasutta. Seven qualities which make a monk skilled in discipline
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayadharasobhanasutta. Bảy phẩm chất khiến một vị tu sĩ trở nên tinh thông trong giới luật và lừng lẫy; các phẩm chất này giống với những phẩm chất của Vinayadharasutta. AN.iv.142.
 
 ## Notes

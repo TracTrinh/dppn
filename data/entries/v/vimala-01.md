@@ -5,7 +5,7 @@ base_headword: "Vimala"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vimala 01.<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimala 01. Trưởng lão Vimala. Một trong bốn người bạn của Yasa, những người đã noi theo tấm gương của Yasa, gia nhập Tăng đoàn và đạt được quả vị *Arahant*. Vin.i.18f.
 
 ## Notes

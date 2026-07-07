@@ -5,7 +5,7 @@ base_headword: "Puṇṇā"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇā 04. The slave girl of the Brahmin soothsayer of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇā 04. Một nữ tỳ của vị Bà-la-môn làm nghề thầy bói trong Nāṇacchandajātaka (Ja 289). Khi được hỏi bà mong muốn ân huệ gì, bà đã trả lời: “Một cái chày, một cái cối và một cái nia.” Ja.ii.428, 429.
 
 ## Notes

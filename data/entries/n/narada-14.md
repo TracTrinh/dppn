@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "14"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārada 14. The Bodhisatta born as an ascetic. For his story see <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 14. Vị Bodhisatta sinh ra làm một đạo sĩ. Để biết câu chuyện của ngài xem Devāla.
 
 ## Notes

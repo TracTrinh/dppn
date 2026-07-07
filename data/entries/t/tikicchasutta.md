@@ -5,7 +5,7 @@ base_headword: "Tikicchāsutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tikicchāsutta. On emetics administered by physicians and the corresponding emet
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikicchāsutta. Về các loại thuốc nôn được các y sĩ kê đơn và các loại thuốc nôn tương ứng trong kỷ luật của bậc Thánh (Ariyans). AN.v.218f.
 
 ## Notes

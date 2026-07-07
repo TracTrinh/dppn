@@ -26,6 +26,6 @@ Siddhattha 04. A son of King <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Siddhattha 04. Một hoàng tử của vua Kassapa IV. Ngài được bổ nhiệm làm thống đốc vùng Malaya và được gọi là *Malayarājā*. Tuy nhiên, ngài mất sớm, và Kassapa đã xây dựng một hội trường dành cho tỳ-khẻo nhân danh ngài và lập một lễ cúng dưỡng. Cv.lii.68f.
+Siddhattha 04. Một hoàng tử của vua Kassapa IV. Ngài được bổ nhiệm làm thống đốc vùng Malaya và được gọi là *Malayarājā*. Tuy nhiên, ngài mất sớm, và Kassapa đã xây dựng một hội trường dành cho tỳ-kheo nhân danh ngài và lập một lễ cúng dưỡng. Cv.lii.68f.
 
 ## Notes

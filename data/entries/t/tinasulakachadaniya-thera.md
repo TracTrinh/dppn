@@ -5,7 +5,7 @@ base_headword: "Tiṇasūlakachādaniya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tiṇasūlakachādaniya Thera. An *Arahant*. Ninety-two *kappas* ago he was an a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇasūlakachādaniya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài là một đạo sĩ trên bờ sông Ganges, và khi gặp Tissa Buddha, ngài đã dâng lên Đức Phật các bông hoa *nāga* và *tiṇasūla*. Ngài là vua của chư thiên hai mươi lăm lần. Ap.ii.370f.
 
 ## Notes

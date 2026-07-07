@@ -5,7 +5,7 @@ base_headword: "Nandikkhayasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nandikkhayasutta 02. Four discourses on the destruction of the lure of lust, thr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandikkhayasutta 02. Bốn bài giảng về sự diệt trừ của sức cám dỗ của tham ái, thông qua việc nhận rõ sự vô thường của các căn và các trần. SN.iv.142.
 
 ## Notes

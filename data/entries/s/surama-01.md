@@ -5,7 +5,7 @@ base_headword: "Surāma"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surāma 01. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surāma 01. Một cung điện mà Koṇḍañña Buddha đã ở trước khi Ngài xuất gia. Bv­a.107; nhưng xem Bv.iii.26.
 
 ## Notes

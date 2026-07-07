@@ -5,7 +5,7 @@ base_headword: "Puṇṇiya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇiya. A monk. He is mentioned as visiting the Buddha and asking him under
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇiya. Một vị tỳ-kheo. Ông được nhắc đến là người đã viếng thăm Đức Phật và hỏi ngài dưới những điều kiện nào thì một bài pháp khởi lên trong tâm của một Như Lai (Tathāgata). AN.iv.337f.; v.154f.
 
 ## Notes

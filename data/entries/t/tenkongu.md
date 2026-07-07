@@ -5,7 +5,7 @@ base_headword: "Teṅkoṅgu"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Teṅkoṅgu. A locality in South India. Cv.lxxvi.288; lxxvii.67.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Teṅkoṅgu. Một địa danh ở miền Nam Ấn Độ. Cv.lxxvi.288; lxxvii.67.
 
 ## Notes

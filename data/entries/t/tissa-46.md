@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "46"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissa 46. A novice who later became a *Devaputta* on a tree near <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 46. Một vị sa-di sau này trở thành một thiên tử (*Devaputta*) trên một cái cây gần Nāgavihāra. Để biết chi tiết xem Ras.ii.168.
 
 ## Notes

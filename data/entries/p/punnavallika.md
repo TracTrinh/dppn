@@ -5,7 +5,7 @@ base_headword: "Puṇṇavallika"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇavallika. A locality in Ceylon, the residence of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇavallika. Một địa danh ở Tích Lan, nơi cư ngụ của Mahā Tissa. Vsm.143; Dhs-a.116.
 
 ## Notes

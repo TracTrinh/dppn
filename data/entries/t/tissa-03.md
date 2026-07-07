@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissa 03. One of the two chief disciples of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 03. Một trong hai đại đệ tử của Vipassī Buddha (Bv.xx.28; Ja.i.41; DN.ii.4). Ông là con trai của *Purohita* Bandhumatī, và bài thuyết pháp đầu tiên của Đức Phật đã được thuyết cho ông và Khaṇḍa. Bv­a.196.
 
 ## Notes

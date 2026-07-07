@@ -5,7 +5,7 @@ base_headword: "Vinayasaṅgīti"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vinayasaṅgīti. A name given to the recital held at <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayasaṅgīti. Một tên gọi được đặt cho cuộc kết tập được tổ chức tại Vesālī liên quan đến dị giáo Vajjiputta. Vin-a.i.34.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Niyyanti-uyyāna"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -27,6 +27,6 @@ Niyyanti-uyyāna. A park, probably near <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niyyanti-uyyāna. Một khu ngự uyển, có lẽ gần Sīhagiri, nơi Kassapa I đã xây dựng một *vihāra* cho các tu sĩ phái Dhammarucika. Cv.xxxix.14.
 
 ## Notes

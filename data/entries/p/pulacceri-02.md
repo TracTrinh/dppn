@@ -5,7 +5,7 @@ base_headword: "Pulacceri"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pulacceri 02. A landing place in Ceylon where <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulacceri 02. Một bến đỗ ở Tích Lan nơi Māgha và Jayabāhu thiết lập các công sự. Cv.lxxxiii.17.
 
 ## Notes

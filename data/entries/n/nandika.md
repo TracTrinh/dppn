@@ -5,7 +5,7 @@ base_headword: "Nandika"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandika. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandika. Một thủ lĩnh người Damiḷa của Nandigāma. Mhv.xxv.14.
 
 ## Notes

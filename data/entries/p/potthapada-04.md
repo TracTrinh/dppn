@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapāda"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Poṭṭhapāda 04. A parrot born as the younger brother of the Bodhisatta and i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapāda 04. Một con vẹt sinh ra là em trai của Bodhisatta và được đồng nhất với Ānanda. Để biết câu chuyện của họ, xem Kāḷabāhujātaka. Ja 329, Ja.iii.97 ff.; xem thêm Ja.iv.129.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vuttodaya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,8 @@ It is based on works dealing with Sanskrit prosody – e.g., the *Vṛttnaratnā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuttodaya. Một tác phẩm về thi luật Pāli, gồm sáu chương, tất cả đều bằng thơ, và thường minh họa cho nhịp điệu được mô tả, do Saṅgharakkhita Thera của Tích Lan viết.
+
+Nó được dựa trên các tác phẩm đề cập đến thi luật Sanskrit – ví dụ, *Vṛttnaratnākara* của Kedārabhaṭṭa – và đã vay mượn các thuật ngữ cũng như phương pháp xử lý của chúng. Có một số bản Chú giải về tác phẩm này, chủ yếu trong số đó là *Vuttodayapañcikā* (hoặc *Chandosāratthavikāsinī*) của Saddhammañāṇa và các bản phụ sớ *Ṭīkā* của Vepullabuddhi ở Pagan, và Navavimalabuddhi hoặc Cūḷa Vimalabuddhi ở Panyā. Gv.61, 64, 70; Svd.1210; PLC.198f.; Bode, 26, 27, 28.
 
 ## Notes

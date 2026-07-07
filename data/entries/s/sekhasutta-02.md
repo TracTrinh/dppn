@@ -23,6 +23,6 @@ Sekhasutta 02. On five things leading to decline in a monk’s training: delight
 
 ## Vietnamese translation
 
-Sekhasutta 02. Về năm điều dẫn đến sự suy thoái trong việc tu học của tỳ-khèo: ưa thích công việc thế sự, ưa nói chuyện phiếm, ưa ngủ nghỉ, ưa tụ họ p, và không suy niệm về tâm đã được giải thoát. AN.iii.116.
+Sekhasutta 02. Về năm điều dẫn đến sự suy thoái trong việc tu học của tỳ-kheo: ưa thích công việc thế sự, ưa nói chuyện phiếm, ưa ngủ nghỉ, ưa tụ họp, và không suy niệm về tâm đã được giải thoát. AN.iii.116.
 
 ## Notes

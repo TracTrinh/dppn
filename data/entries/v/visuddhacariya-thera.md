@@ -5,7 +5,7 @@ base_headword: "Visuddhācariya Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Visuddhācariya Thera. A monk sent by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visuddhācariya Thera. Một nhà sư được Dhammika, người cai trị của Ayojjhā, gửi đến Tích Lan, với tư cách là người đứng đầu một nhóm nhà sư, và theo yêu cầu của Kittisirirājasīha, để phục hưng Tăng đoàn ở Hòn đảo đó. Ông vẫn ở lại Tích Lan, kết nạp nhiều nhà sư vào Tăng đoàn, và dạy giáo pháp cho họ. Cv.c.131, 171f.
 
 ## Notes

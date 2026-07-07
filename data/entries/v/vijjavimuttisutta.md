@@ -5,7 +5,7 @@ base_headword: "Vijjāvimuttisutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vijjāvimuttisutta. The holy life is lived with the realization of the fruits of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāvimuttisutta. Đời sống phạm hạnh được sống với mục đích là chứng ngộ các quả của minh. SN.v.28.
 
 ## Notes

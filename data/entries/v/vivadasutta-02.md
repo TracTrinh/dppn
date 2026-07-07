@@ -5,7 +5,7 @@ base_headword: "Vivādasuttā"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vivādasuttā 02. Two *Suttas*, preached in answer to a question by <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivādasuttā 02. Hai bài *Sutta*, được thuyết giảng để trả lời câu hỏi của Upāli, về mười điều là nguyên nhân của sự tranh cãi. AN.v.77f.
 
 ## Notes

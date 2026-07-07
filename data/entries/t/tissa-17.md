@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "17"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissa 17. A monk, called <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 17. Một vị tỳ-kheo, tên là Asubhakammikatissa. Ngài được đề cập trong các Chú giải (Vibh­a.270) như một ví dụ về một người bạn tốt, tận tâm với việc quán niệm bất tịnh (*asubha*), sự kết giao với người như vậy giúp người ta loại bỏ dục vọng. Thầy của ngài là Mahā Tissa của *vihāra* Koṭapabbata. Mhv­ṭ.553.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vimalabuddhi"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vimalabuddhi 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalabuddhi 01. Trưởng lão Vimalabuddhi. Tác giả của cuốn Mukhamattadīpanī bàn về ngữ pháp của Kaccāyana và một *ṭīkā* bàn về Abhidhammatthasaṅgaha. Người ta cũng cho rằng ông là tác giả của cuốn Nyāsa bàn về ngữ pháp của Kaccāyana (PLC. 204; Bode, 21; Gv.63, 72). Rất có thể ông là người Tích Lan, nhưng cuốn Sāsanavaṁsa (p. 75) lại khẳng định ông là một vị Trưởng lão của Pagan. Đôi khi ông được gọi là Mahā Vimalabuddhi.
 
 ## Notes

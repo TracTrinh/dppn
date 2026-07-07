@@ -5,7 +5,7 @@ base_headword: "Sumbha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumbha 02. A country in which was <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumbha 02. Một quốc gia nơi có Desaka (?), nơi Udāyī đã đến thăm Đức Phật trong một lần lưu trú tại đó, và đã có một cuộc trò chuyện với ngài. SN.v.89; so sánh 168, và Ja.i.393; cũng xem SN­a.iii.181.
 
 ## Notes

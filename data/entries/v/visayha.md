@@ -5,7 +5,7 @@ base_headword: "Visayha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visayha. The Bodhisatta born as a *seṭṭhi* of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visayha. Vị Bodhisatta sinh làm một *seṭṭhi* của Benares. Xem Visayhajātaka (Ja 340).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Potaliyasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Potaliyasutta 02. The Buddha tells the *Paribbājaka* <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potaliyasutta 02. Đức Phật nói với *Paribbājaka* Poṭaliya, người đến thăm Ngài, về bốn hạng người được tìm thấy trên thế gian: những người tán thán và chê bai đúng đắn và hợp thời, và những người tán thán và chê bai sai trái và không hợp thời. AN.ii.100ff.
 
 ## Notes

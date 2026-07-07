@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 09. A palace of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 09. Một cung điện của Vipassī Buddha, trong cuộc sống cư sĩ cuối cùng của ngài. Bv.xx.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maruttapokkharaṇī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,8 @@ It had disappeared by the time the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maruttapokkharaṇī. Một hồ nước ở Anurādhapura, nằm về phía bắc của cung điện hoàng gia, vào thời Devānampiyatissa. Khi Mahinda rải hoa lên mặt hồ, trái đất rung chuyển, và Mahinda tiên tri rằng nó sẽ trở thành hồ nước Jantāgharapokkhoraṇī nằm ở phía đông cửa ngõ của Kāḷapāsāṇapariveṇa.
+
+Nó đã biến mất vào thời điểm Mahā Vaṁsa ṭīkā (sớ giải Mahā Vaṁsa) được viết (Mhv­ṭ.344f). Ranh giới kiết giới (sīmā) của Mahā Vihāra đi ngang qua hồ nước này. Mbv.135, 136.
 
 ## Notes

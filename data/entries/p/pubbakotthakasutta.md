@@ -5,7 +5,7 @@ base_headword: "Pubbakoṭṭhakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -29,6 +29,8 @@ Pubbakoṭṭhakasutta. The Buddha, while staying at <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbakoṭṭhakasutta. Đức Phật, trong khi lưu trú tại Pubbakoṭṭhaka ở Sāvatthī, đã hỏi Sāriputta xem ông có tin rằng năm *indriya* (như *saddhā*, v.v.) nếu được trau dồi, sẽ dẫn đến Bất tử hay không.
+
+Sāriputta trả lời rằng ông không chỉ tin điều đó, mà thực sự đã nhận ra và thấu hiểu nó bằng tuệ giác. SN.v.220f.
 
 ## Notes

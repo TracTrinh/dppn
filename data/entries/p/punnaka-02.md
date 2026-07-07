@@ -5,7 +5,7 @@ base_headword: "Puṇṇaka"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Puṇṇaka 02. One of the sixteen disciples of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaka 02. Một trong mười sáu đệ tử của Bāvarī, người đã đến viếng Đức Phật (Snp. vs. 1006). Cuộc trò chuyện của ông với Đức Phật được trình bày trong Puṇṇakamāṇavapucchā (Snp. vs. 1043-48). Vào cuối cuộc hội kiến, Puṇṇaka và một ngàn tùy tùng của ông đã đắc quả vị *Arahant*. Snp­a.ii.590.
 
 ## Notes

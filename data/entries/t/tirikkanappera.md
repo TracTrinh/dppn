@@ -5,7 +5,7 @@ base_headword: "Tirikkānappera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tirikkānappera. A locality in South India. Cv.lxxvi.302; lxxvii.72, 82.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirikkānappera. Một địa phương ở Nam Ấn Độ. Cv.lxxvi.302; lxxvii.72, 82.
 
 ## Notes

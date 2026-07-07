@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,8 @@ In the past he saw <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 07. Sumaṅgala Thera. Ông sinh ra trong một gia đình nghèo ở một ấp nhỏ gần Sāvatthī. Khi lớn lên, ông kiếm sống bằng nghề làm ruộng. Một ngày nọ, ông nhìn thấy Pasenadi tổ chức một buổi đại thí cho Tăng đoàn, và khi nhìn thấy thức ăn được dọn cho các vị tăng, ông mong muốn gia nhập Tăng đoàn để có thể sống một cuộc sống nhàn hạ và sung túc. Một vị Thera (Trưởng lão) mà ông đã thú nhận mong muốn của mình đã xuất gia cho ông, và gửi ông vào rừng với một bài tập thiền. Trong sự tĩnh lặng, ông tiều tụy và dao động, và cuối cùng trở về ngôi làng của mình. Khi đi dọc đường, ông nhìn thấy những người đàn ông đang làm việc trên đồng ruộng trong cơn gió nóng, với quần áo lấm lem, phủ đầy bụi. Và nghĩ rằng họ thật khốn khổ, ông đã nỗ lực mới trong các bài thiền của mình, và, đạt được tuệ giác, đã đạt được quả vị *Arahant*.
+
+Trong quá khứ, ông đã nhìn thấy Siddhattha Buddha (? Atthadassī Buddha) đang đứng trong một chiếc y, sau khi tắm. Vui mừng với cảnh tượng này, ông đã vỗ tay. Một trăm mười sáu *kappa* trước, ông đã hai lần làm vua, dưới tên gọi Ekacintita. Thag.vs.43; Thag­a.i.111f.; Ap.i.147f.
 
 ## Notes

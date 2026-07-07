@@ -5,7 +5,7 @@ base_headword: "Mārasaṁyutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mārasaṁyutta. The fourth section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mārasaṁyutta. Phần thứ tư của Saṁyuttanikāya. SN.i.103-27.
 
 ## Notes

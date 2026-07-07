@@ -5,7 +5,7 @@ base_headword: "Vipassanāsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vipassanāsutta. On insight as to the path which leads to the “Uncompounded.�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipassanāsutta. Về tuệ quán như là con đường dẫn đến “Vô vi”. SN.iv.362.
 
 ## Notes

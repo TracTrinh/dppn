@@ -5,7 +5,7 @@ base_headword: "Nibbānasutta"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nibbānasutta 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta giải thích cho Udāyī (Lāḷudāyi, theo Bản chú giải: AN­a.ii.810) về việc *Nibbāna* là niềm hạnh phúc như thế nào, mặc dù trong đó không có sự cảm thọ (*vedayitaṁ*). AN.iv.414f.
 
 ## Notes

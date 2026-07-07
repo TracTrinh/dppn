@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "22"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumana 22. A deity who lived in the fortified chamber over the gate in <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị chư thiên sống trong gian phòng kiên cố trên cổng ở Jetavana. Dhp­a.i.41.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Potaliya"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Potaliya 02. A wanderer (*Paribbājaka*) probably identical with the above (1). 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potaliya 02. Một *Paribbājaka*, có lẽ là cùng một người với (1) ở trên. Một cuộc trò chuyện của ông với Đức Phật được ghi lại trong Aṅguttaranikāya. Vào cuối cuộc thảo luận, ông đã tuyên bố trở thành tín đồ của Đức Phật. AN.ii.100f.
 
 ## Notes

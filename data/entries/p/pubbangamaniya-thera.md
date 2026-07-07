@@ -5,7 +5,7 @@ base_headword: "Pubbaṅgamaniya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pubbaṅgamaniya Thera. An *Arahant*. Ninety-four *kappas* ago he was a leader o
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbaṅgamaniya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông là người dẫn dắt của tám mươi bốn ngàn nam tu sĩ và đã phục vụ các bậc thánh. Ap.i.243.
 
 ## Notes

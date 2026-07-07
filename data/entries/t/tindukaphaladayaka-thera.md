@@ -5,7 +5,7 @@ base_headword: "Tindukaphaladāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tindukaphaladāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tindukaphaladāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài đã nhìn thấy Buddha Vessabhū và dâng lên Đức Phật trái *tinduka* để ăn (Ap.i.281).
 
 ## Notes

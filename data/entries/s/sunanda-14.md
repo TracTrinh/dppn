@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "14"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunanda 14. A charioteer of the king of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 14. Một người đánh xe của vua xứ Kāsi, trong Mūgapakkhajātaka (Ja 538, Ja.vi.10ff). Ông được đồng nhất với Sāriputta.
 
 ## Notes

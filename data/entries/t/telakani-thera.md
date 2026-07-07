@@ -5,7 +5,7 @@ base_headword: "Telakāni Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ One day he heard the Buddha preach, entered the Saṅgha and became an *Arahant*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telakāni Thera. Một bậc *Arahant*. Ông là một Bà-la-môn ở Sāvatthī, lớn tuổi hơn Đức Phật. Sau khi trở thành một sa-môn du sĩ, ông đã đi khắp nơi chất vấn các sa-môn và Bà-la-môn, nhưng không tìm thấy sự thỏa mãn.
+
+Một ngày nọ, ông nghe Đức Phật thuyết pháp, gia nhập Tăng đoàn và trở thành một bậc *Arahant* (Thag.747-68; Thag­a.ii.24ff).
 
 ## Notes

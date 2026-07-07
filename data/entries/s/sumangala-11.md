@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sumaṅgala 11. A monk of Ceylon, pupil of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 11. Một vị tu sĩ của Tích Lan, học trò của Sāriputta. Ông đã viết một cuốn *ṭīkā* về Abhidhammāvatāra, được gọi là *Abhidhammatthavibhāvinī* (PLC. 108, 173). Ông cũng đã viết cuốn Sāraṭṭhasālinī, về Saccasaṅkhepa. PLC.200; Gv.62, 72.
 
 ## Notes

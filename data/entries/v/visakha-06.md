@@ -5,7 +5,7 @@ base_headword: "Visākha"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Visākha 06. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākha 06. Một đại thần của Duṭṭhagāmaṇī. Ông và Sirideva chịu trách nhiệm về các sự chuẩn bị cho Lễ Đặt Nền Móng của Mahā Thūpa. Mhv­ṭ. 517.
 
 ## Notes

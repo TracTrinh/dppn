@@ -5,7 +5,7 @@ base_headword: "Sunidha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Sunidha. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunidha. Một vị đại thần của Magadha, người, cùng với Vassakāra, phụ trách việc xây dựng các công sự của Pāṭaligāma, được xây dựng nhằm đẩy lùi những người Vajjian. Hai người này luôn được nhắc đến cùng nhau. Họ đã mời Đức Phật đến dùng bữa, và, sau khi Ngài rời đi, họ đã đặt tên cho cổng thành mà qua đó Ngài rời khỏi thành phố là Gotamadvāra, và bến đò nơi Ngài băng qua sông Ganges (sông Hằng) là Gotamatittha. Vin.i.228f; DN.ii.86f.; Ud.viii.6.
 
 ## Notes

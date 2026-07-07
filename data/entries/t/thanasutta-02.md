@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "02"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 02. Đạo đức của một người chỉ được hiểu thông qua sự kết giao, sự chính trực của người đó qua việc chung sống, lòng dũng cảm của người đó qua việc quan sát trong lúc hoạn nạn, trí tuệ của người đó qua việc trò chuyện cùng. AN.ii.187ff.
 
 ## Notes

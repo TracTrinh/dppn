@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "05"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissa 05. An *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 05. Một vị *Aggasāvaka* của Kassapa Buddha. Ông là em trai của Đức Phật và, sau khi từ bỏ đời sống gia đình, đã trở thành một đạo sĩ. Khi nghe tin Kassapa đã trở thành Phật, ông đã đến thăm ngài nhưng bày tỏ sự thất vọng vô cùng khi phát hiện ra rằng ngài ăn thức ăn bằng thịt (*āmagandha*). Đức Phật dạy ông rằng *āmagandha* thực sự không phải là thịt mà là các phiền não (*kilesa*) làm hỏng tâm hồn, và ngài đã thuyết cho ông bài kinh Āmagandhasutta. Tissa ngay lập tức gia nhập Tăng đoàn và trở thành một vị *Aggasāvaka* (Bv.xxv.39; Snp­a.i.280-2, 293; DN.ii.4). Cha của Tissa sinh ra là Subhadda trong thời đại này. Ap.i.101.
 
 ## Notes

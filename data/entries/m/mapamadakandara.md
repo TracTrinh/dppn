@@ -5,7 +5,7 @@ base_headword: "Māpamādakandarā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māpamādakandarā. A cave, probably not very far from <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māpamādakandarā. Một hang động, có lẽ không cách xa Rājagaha lắm. Khi Đức Phật đi du hành cùng với các tỳ-kheo, một số tỳ-kheo đã đi theo Ngài đến tận hang động này rồi sau đó quay lại. Với những tỳ-kheo như vậy, Đức Phật sẽ nói, “*Mā pamajjittha*” (chớ có phóng dật). Từ sự việc này mà hang động có tên gọi như vậy. Dhp­a.ii.167.
 
 ## Notes

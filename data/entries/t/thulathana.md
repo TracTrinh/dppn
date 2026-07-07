@@ -5,7 +5,7 @@ base_headword: "Thūlathana"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -32,6 +32,10 @@ Thūlathana built the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūlathana. Người con trai thứ hai của Saddhātissa và là vua của Ceylon (năm 59 TCN).
+
+Sau khi cha qua đời, các đại thần đã tôn ông lên làm vua, nhưng sau một triều đại chỉ kéo dài một tháng và vài ngày, người anh trai của ông là Lañjatissa đã áp đảo ông và chiếm lấy ngai vàng.
+
+Thūlathana đã xây dựng Kandaravihāra (Mhv.xxxiii.15ff) và một bảo tháp (*cetiya*) trên Sirīsamālaka (Mhv­ṭ.355).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Punabbasumitta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Punabbasumitta 01. A rich merchant in the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasumitta 01. Một thương gia giàu có vào thời của Đức Phật Vipassī. Ông đã xây dựng một tu viện, rộng một do-tuần (*yojana*), trên địa điểm của Jetavana, mảnh đất mà ông đã mua bằng cách lát toàn bộ bề mặt bằng những viên gạch vàng. Ja.i.94; Bv.xx.30; DN­a.ii.424.
 
 ## Notes

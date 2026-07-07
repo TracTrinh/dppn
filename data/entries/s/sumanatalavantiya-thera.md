@@ -5,7 +5,7 @@ base_headword: "Sumanatālavantiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumanatālavantiya Thera. An *Arahant*. Ninety-four *kappas* ago he gave to <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanatālavantiya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã dâng cho Siddhattha Buddha một chiếc quạt (*tālavanta*) phủ đầy hoa nhài (Ap.i.293 = Ap.ii.408). Xem thêm Sātimattika. Thag­a.i.359.
 
 ## Notes

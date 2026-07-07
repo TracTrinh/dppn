@@ -5,7 +5,7 @@ base_headword: "Suppatiṭṭhita"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suppatiṭṭhita 03. The minister who traced the foundations of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppatiṭṭhita 03. Vị đại thần đã vạch ra các nền móng của Mahā Thūpa. Cha ông là Nandisena và mẹ ông là Sumanādevī. Dpv.xix.8; Mhv­ṭ.528.
 
 ## Notes

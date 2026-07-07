@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇāni Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nīvaraṇāni Sutta. The five *nīvaraṇas*: sensual desire, malevolence, slot
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇāni Sutta. Năm *nīvaraṇas*: dục tham, sân hận, hôn trầm thụy miên, trạo cử hối quá, và hoài nghi. SN.v.60.
 
 ## Notes

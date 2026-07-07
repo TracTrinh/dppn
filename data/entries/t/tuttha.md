@@ -5,7 +5,7 @@ base_headword: "Tuṭṭha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tuṭṭha. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṭṭha. Một nam cư sĩ của Ñātika đã chết và được tái sinh vào Suddhāvāsa, tại đó để đạt được *Nibbāna*. SN.v.358, DN.ii.92.
 
 ## Notes

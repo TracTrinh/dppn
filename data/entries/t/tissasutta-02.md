@@ -5,7 +5,7 @@ base_headword: "Tissasutta"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissasutta 02. The story of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissasutta 02. Câu chuyện về việc Tissa (No.14) được đưa đến gặp Đức Phật bởi vì ông phàn nàn về sự chán ghét đối với cuộc sống của một tỳ-kheo. Bằng một câu chuyện ngụ ngôn, Đức Phật đã dạy ông cách để có thể đạt được *Nibbāna*, và hứa sẽ giúp ông làm điều đó. SN.iii.106f.
 
 ## Notes

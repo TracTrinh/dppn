@@ -5,7 +5,7 @@ base_headword: "Vuṭṭhānasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vuṭṭhānasutta 02. Some that are skilled in emerging from concentration are 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuṭṭhānasutta 02. Một số người thành thạo trong việc xuất định khỏi sự tập trung lại không thành thạo về đối tượng tập trung, phạm vi, sự quyết tâm, lòng nhiệt thành, sự kiên trì và lợi ích. SN.iii.273f.
 
 ## Notes

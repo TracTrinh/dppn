@@ -5,7 +5,7 @@ base_headword: "Nirayavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nirayavagga. The twenty-second chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirayavagga. Chương thứ hai mươi hai của Dhammapada.
 
 ## Notes

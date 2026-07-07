@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumedha 09. An Elder of Ceylon, at whose request <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 09. Một Trưởng lão của Tích Lan, theo yêu cầu của ông, Buddhanāga đã viết Vinayatthamañjūsā. PLC. 201.
 
 ## Notes

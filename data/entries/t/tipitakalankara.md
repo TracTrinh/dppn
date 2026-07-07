@@ -5,7 +5,7 @@ base_headword: "Tipiṭakālaṅkāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tipiṭakālaṅkāra. A monk of Prome in Burma. He enjoyed the patronage of <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tipiṭakālaṅkāra. Một vị tỳ-kheo của Prome ở Miến Điện. Ngài được sự bảo trợ của Surakitti, vua Miến Điện, nhưng một thời gian đã sống ẩn tu ở Tiriyapabbata. Trong số các tác phẩm của ngài có Yasavaḍḍhanavatthu và Vinayālaṅkāraṭīkā. Sās., p.106; Bode, 53f.
 
 ## Notes

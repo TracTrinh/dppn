@@ -5,7 +5,7 @@ base_headword: "Tusita"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -58,6 +58,24 @@ The inhabitants of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tusita 02. Cõi thứ tư trong sáu cõi *Deva* (AN.i.210, v.v.). Bốn trăm năm của đời sống con người bằng một ngày của cõi Tusita và bốn ngàn năm, được tính như vậy, là tuổi thọ của một *Deva* sinh ra ở Tusita (AN.i.214; iv.261, v.v.).
+
+Đôi khi các bậc *Sakadāgāmī* (vd., Purāṇa và Isidatta) cũng được sinh ra ở đó (AN.iii.348; v.138; cũng xem Dhp­a.i.129; Ud­a.149, 277).
+
+Theo quy luật, tất cả các Bodhisatta đều được sinh ra ở Tusita trong kiếp sống kế cuối của mình; sau đó, khi đến thời điểm một vị Phật xuất hiện trên thế gian, chư thiên của mười ngàn thế giới hệ tập hợp lại và thỉnh cầu Bodhisatta hạ sinh vào cõi người. Những sự hân hoan lớn lao diễn ra khi lời thỉnh cầu này được chấp nhận (AN.ii.130; iv.312; Dhp­a.i.69f; Ja.i.47f).
+
+Tên của Gotama, khi ở Tusita, là Setaketu (Vin-a.i.161), và Bodhisatta Metteyya (*q.v.*), vị Phật tương lai, hiện đang sống ở Tusita dưới tên Nāthadeva.
+
+Cõi Tusita được coi là đẹp nhất trong các cõi trời, và những người mộ đạo rất muốn được sinh ra ở đó vì sự hiện diện của Bodhisatta (Mhv.xxxii.72f).
+
+Tusita cũng là nơi cư trú của cha mẹ của mỗi Bodhisatta (Dhp­a.i.110).
+
+Vua của cõi Tusita là Santusita; ông vượt trội hơn những người bạn của mình ở mười khía cạnh – sắc đẹp, tuổi thọ, v.v. (AN.iv.243; nhưng xem Cv.lii.47, nơi Bodhisatta Metteyya được gọi là thủ lĩnh của Tusita).
+
+Trong số những người được tái sinh ở Tusita còn được đề cập đến Dhammika, Anāthapiṇḍika, Mallikā, Thera Tissa (Tissa 10), Mahā Dhana và Duṭṭhagāmaṇī.
+
+Chư thiên ở Tusita được gọi như vậy vì họ tràn đầy niềm vui (*tuṭṭhahaṭṭhāti* Tusitā) (Vibh­a.519; NidA.109).
+
+Những cư dân của Tusita được gọi là Tusitā. Họ đã có mặt tại Mahā Samaya (DN.ii.161).
 
 ## Notes

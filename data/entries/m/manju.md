@@ -5,7 +5,7 @@ base_headword: "Mañju"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,6 @@ Mañju. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañju. Một viên quan của Parakkamabāhu I. Ông được phái đi chiến đấu chống lại Sūkarabhātu, và đã đánh bại y tại Sāpatagamu. Ông được giao phụ trách chiến dịch ở Rohaṇa, các cộng sự của ông là Kitti và Bhūta. Mañju đã thực hiện sự tàn ác lớn để gieo rắc nỗi kinh hoàng vào lòng người dân. Có vẻ như ông đã bị thay thế bởi Bhūta. Cv.lxxiv.129, 144; lxxv.150, 152, 185, 196.
 
 ## Notes

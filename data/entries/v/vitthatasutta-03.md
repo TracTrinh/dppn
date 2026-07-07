@@ -5,7 +5,7 @@ base_headword: "Vitthatasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vitthatasutta 03. The same as *Sutta* (2); the powers being of faith, energy, mi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitthatasutta 03. Tương tự như *Sutta* (2); các sức mạnh là đức tin, tinh tấn, chánh niệm, định, tuệ minh sát. AN.iii.10f.
 
 ## Notes

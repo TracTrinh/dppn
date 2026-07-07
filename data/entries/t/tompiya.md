@@ -5,7 +5,7 @@ base_headword: "Tompiya"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tompiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tompiya. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.144.
 
 ## Notes

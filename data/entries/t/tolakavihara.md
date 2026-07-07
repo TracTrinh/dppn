@@ -5,7 +5,7 @@ base_headword: "Tolakavihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tolakavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tolakavihāra. Một tu viện ở Rohaṇa gần nơi Vihāramahādevī đổ bộ sau khi bà bị thả trôi trên biển tại Kalyāṇi. Mhv­ṭ.431 (see n.7).
 
 ## Notes

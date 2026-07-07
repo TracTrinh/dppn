@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -44,6 +44,12 @@ He was a special friend of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 01. Trưởng lão Nandiya. Ông thuộc về một gia đình người Sākyan ở Kapilavatthu, và được gọi là Nandiya vì sự ra đời của ông mang lại niềm hỉ lạc. Ông xuất gia cùng thời gian với Anuruddha, Kimbila và những người khác, và không lâu sau ông đạt được quả vị *Arahant*. Sau đó ông cư ngụ cùng với những người bạn đồng tu ở Pācīnavaṁsamigadāya (Vin.i.350f). Đức Phật đã giảng Upakkilesasutta cho các vị ấy, MN.iii.155. Về sau, dường như họ đã sống ở Gosiṅgasālavana, MN.i.205. Người ta nói rằng Māra đã xuất hiện trước mặt ông với hình thù đáng sợ, nhưng Nandiya đã đuổi hắn đi.
+
+Trong thời của Padumuttara Buddha, Nandiya đã xây dựng một bệ thờ bằng gỗ chiên đàn tại *cetiya* của Đức Phật và tổ chức những buổi lễ kỷ niệm lớn. Mười lăm *kappa* trước, Nandiya đã tám lần sinh ra làm vua với tên gọi là Samatta (Samagga) (Thag.25; Thag­a.82f.) Ông có lẽ đồng nhất với Saparivāriya (*q.v.*) của Apadāna (i.172).
+
+Theo *Mahā Vastu* (iii.177) Nandiya (Nandika) là con trai của Sukrodana.
+
+Ông là một người bạn đặc biệt của Kimbila. Thag­a.i.276.
 
 ## Notes

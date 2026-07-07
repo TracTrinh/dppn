@@ -5,7 +5,7 @@ base_headword: "Naratuṅgabrahmā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Naratuṅgabrahmā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naratuṅgabrahmā. Một tù trưởng người Damiḷa ở Nam Ấn Độ, bị đánh bại bởi các lực lượng của Parakkamabāhu I., gần Rāmissara. Cv.Ixxvi.98.
 
 ## Notes

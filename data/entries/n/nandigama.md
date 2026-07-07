@@ -5,7 +5,7 @@ base_headword: "Nandigāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -34,6 +34,8 @@ The stronghold is also mentioned in the account of the campaigns of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandigāma, Nandigāmaka. Một ngôi làng, rõ ràng là gần Kacchakatittha, trên sông Mahā Vālukanadī (Mhv­ṭ.472). Có một lần đã từng có một thành trì của người Damiḷa ở đó, được canh giữ bởi Nandika. Duṭṭhagāmaṇī đã giết Nandika và chiếm được pháo đài (Mhv.xxv.14). Sau đó, Subha đã dựng một tu viện (*vihāra*) tại đó (Sđd.,xxxv.58.).
+
+Thành trì này cũng được đề cập đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxii.44.
 
 ## Notes

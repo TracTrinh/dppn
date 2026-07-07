@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "06"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissā 06. A nun of Ceylon, specially proficient in the Vinaya (Dpv.xviii.30).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 06. Một ni sư của Ceylon, đặc biệt thông thạo Vinaya (Dpv.xviii.30).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vilattākhaṇḍa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vilattākhaṇḍa. The weir of a tank repaired by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vilattākhaṇḍa. Đập tràn của một hồ chứa nước do Parakkamabāhu I. tu sửa. Cv.lxxix.67.
 
 ## Notes

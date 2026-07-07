@@ -5,7 +5,7 @@ base_headword: "Tumbarumālaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tumbarumālaka. One of the *mālakas* of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tumbarumālaka. Một trong những *mālakas* của Cetiyapabbata. Lễ *upasampadā* đầu tiên được Mahinda tổ chức ở đó, khi Mahā Ariṭṭha và những người khác thọ *upasampadā*. Mhv.xvi.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "41"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 41. A novice of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 41. Một vị sa-di của Pañcaggalalena. Trong khi đang bay qua không trung, ông nghe thấy con gái của người thợ thủ công ở Girigāma đang hát, sau khi cô tắm với bạn bè trong một hồ sen. Bị thu hút bởi âm thanh đó, ông đã mất đi khả năng di chuyển trong không trung. MN­a.i.353; Snp­a.i.70.
 
 ## Notes

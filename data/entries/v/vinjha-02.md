@@ -5,7 +5,7 @@ base_headword: "Viñjha"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -32,6 +32,6 @@ Viñjha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viñjha 02. Viñjhāṭavi. Dãy núi Vindhyā và những khu rừng bao quanh chúng, xuyên qua đó là con đường từ Tāmalitti đến Pāṭaliputta. Dọc theo con đường này Asoka đã đi qua mang theo Cây Bodhi (Mhv.xix.6; Dpv.xvi.2). Đây cũng là con đường dẫn từ Tích Lan đến Pāṭaliputta (Dpv.xv.87). Gần khu rừng là một tu viện lớn, từ đó sáu mươi nghìn vị tu sĩ, do Uttara dẫn đầu, đã đi đến tham dự Lễ Đặt Nền Móng của Mahā Thūpa (Mhv.xx.ix.40). Dưới chân núi là một thị trấn sầm uất tên là Muṇḍa. Dhp­a.iv.128; tuy nhiên, ở một nơi khác, ví dụ Vin-a.iii.655, Viñjhāṭavi được mô tả là *agāmakaṁ araññaṁ*, (một vùng hoang dã không có người ở). Khu rừng này từng là nơi trú ngụ của các ngạ quỷ (*Petas*). Xem, ví dụ, Pv-a. 43, 192, 244.
 
 ## Notes

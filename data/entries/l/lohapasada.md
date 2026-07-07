@@ -94,6 +94,6 @@ Thường xuyên có đề cập đến các bài pháp được thuyết ở t�
 
 Buddhaghosa nói (DN­a.ii.581) rằng, cho đến thời của ông, đây là tập tục để tất cả các tỳ-kheo Tích Lan sống ở phía bắc Mahā Vālukanadī, tập hợp tại Lohapāsāda hai lần một năm, vào ngày đầu tiên và ngày cuối cùng của *vassa*, trong khi những người ở phía nam con sông tập hợp tại Tissa Mahā Vihāra. Khi nảy sinh các tranh luận về cách giải thích các quy tắc hay giáo lý khác nhau, quyết định thường được một vị thầy có uy tín tuyên bố từ tầng thấp nhất của Lohapāsāda (DN­a.ii.442, 514).
 
-Lưỡng đầu của Nāga vương Mucalinda có cùng kích thước với kho chứa (*bhaṇḍāgāragabbha*) của Lohapāsāda (Ud­a.101). Một khối đá lớn bằng tầng thứ bảy của Lohapāsāda, nếu bị rơi từ cõi Phạm thiên, sẽ mất bốn tháng để chạm đất. DN­a.ii.678.
+Mang cổ của Nāga vương Mucalinda có cùng kích thước với kho chứa (*bhaṇḍāgāragabbha*) của Lohapāsāda (Ud­a.101). Một khối đá lớn bằng tầng thứ bảy của Lohapāsāda, nếu bị rơi từ cõi Phạm thiên, sẽ mất bốn tháng để chạm đất. DN­a.ii.678.
 
 ## Notes

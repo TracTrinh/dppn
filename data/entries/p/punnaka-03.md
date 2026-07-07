@@ -5,7 +5,7 @@ base_headword: "Puṇṇaka"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -37,6 +37,6 @@ Puṇṇaka 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaka 03. Một thủ lĩnh Yakkha, cháu trai của Vessavaṇa (Ja.vi.255). Câu chuyện về việc ông đã cưới được thiếu nữ Nāga tên là Irandatī như thế nào được kể lại trong Vidhurapaṇḍitajātaka (Ja 545). Trong tiền kiếp, ông là một thanh niên tên Kaccāyana ở quốc độ Aṅga. Ja.vi.273f.; ông cũng được gọi là Kātiyāna (Kaccāna). Ông còn được gọi là Puṇṇakarājā (Ja.iv.182). Rõ ràng ông chính là thủ lĩnh Yakkha được nhắc đến trong Āṭānāṭiyasutta (DN.iii.204) trong số những người mà các đệ tử của Đức Phật có thể cầu khẩn trong những lúc hoạn nạn. Viên ngọc được Puṇṇaka dùng làm tiền cược trong lần đánh bạc với Koravya là viên ngọc mà mọi vật trên thế gian đều có thể được nhìn thấy trong đó (Mhv­ṭ. 552). Tiếng hét chiến thắng thốt ra bởi Puṇṇaka khi ông đánh bại Koravya là một trong bốn tiếng hét vang vọng khắp Jambudīpa. Snp­a.i.223.
 
 ## Notes

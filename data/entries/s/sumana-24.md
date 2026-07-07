@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "24"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumana 24. An eminent monk, who was present at the Foundation Ceremony of the <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị tu sĩ lỗi lạc, người đã có mặt tại Lễ Đặt Nền Móng của Mahā Thūpa. Dpv.xix.8; trong Mhv­ṭ. (524), ông được gọi là Mahā Sumana.
 
 ## Notes

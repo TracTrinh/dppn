@@ -5,7 +5,7 @@ base_headword: "Maraṇasatisutta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maraṇasatisutta 02. Preached at Nādika. A monk must ever remember that death 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maraṇasatisutta 02. Được thuyết giảng tại Nādika. Một tỳ-kheo phải luôn luôn nhớ rằng sự chết có thể ập đến bất cứ lúc nào. Vì vậy, vị ấy phải tự quán xét bản thân ngày đêm và đoạn tận bất kỳ ác pháp nào có thể còn sót lại trong mình. AN.iv.320f.
 
 ## Notes

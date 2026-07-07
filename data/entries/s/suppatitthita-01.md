@@ -5,7 +5,7 @@ base_headword: "Suppatiṭṭhita"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suppatiṭṭhita 01. A ford, across the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppatiṭṭhita 01. Một bến đò, bắc ngang qua Nerañjarā, nơi Đức Phật đã tắm ngay trước khi ăn bữa ăn do Sujātā cúng dường. Ja.i.70; Bv­a.7.
 
 ## Notes

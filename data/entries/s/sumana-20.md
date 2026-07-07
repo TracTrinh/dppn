@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "20"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sumana 20. A gardener of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người làm vườn ở Kosambī. Ông làm việc cho ba vị *seṭṭhi* (trưởng giả): Ghosaka, Kukkuṭa và Pāvāriya. Với sự cho phép của họ, ông đã thỉnh đãi Đức Phật một ngày nọ, và chính tại nhà ông, Khujjuttarā (*q.v.*) đã gặp và nghe Đức Phật thuyết pháp. Dhp­a.i.208f.
 
 ## Notes

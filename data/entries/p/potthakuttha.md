@@ -5,7 +5,7 @@ base_headword: "Potthakuṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -36,6 +36,6 @@ Potthakuṭṭha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potthakuṭṭha. Một người Damiḷa phụng sự Aggabodhi IV. Ông đã xây dựng và cúng dường *padhānaghara* Māṭambiya, và xây dựng các ngôi nhà trong *pariveṇa* Kuppurā, tu viện (*vihāra*) Kurundapillaka và Mahā Rājaghara. Khi nhà vua băng hà, ông cai quản vương quốc, tống vị phó vương Dāṭhāsiva vào ngục và đưa Datta của Dhanapiṭṭhi lên ngai vàng. Khi Datta qua đời, Potthakuṭṭha đã tôn Hatthadāṭha lên làm vua. Sau đó, khi Māṇavamma nổi dậy chống lại ông, ông đã ăn thức ăn có độc do người bạn của mình, thủ lĩnh của Merukandara, đưa cho và qua đời. Cv.xlvi.19, 39, 44; xlvii.55, 61.
 
 ## Notes

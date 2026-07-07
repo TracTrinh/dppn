@@ -5,7 +5,7 @@ base_headword: "Surasena"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Surasena 01. One of the sixteen <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surasena 01. Một trong mười sáu Mahā Janapadā (*q.v.*). Nó được nhắc đến cùng với Maccha, và nằm ở phía nam của quốc gia Kuru. Thủ đô của nó là Mathurā. Nó nổi tiếng trong các Sử thi và *Purāṇa* vì mối liên hệ với Kṛṣṇa, và những người Yādava.
 
 ## Notes

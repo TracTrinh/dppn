@@ -5,7 +5,7 @@ base_headword: "Vinayavinicchaya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vinayavinicchaya. A Vinaya treatise by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayavinicchaya. Một chuyên luận về Vinaya của Buddhadatta, được viết theo yêu cầu của học trò ông là Buddhasīha. Uttaravinicchaya là một phần phụ lục cho tác phẩm này. Người ta tìm thấy hai *ṭīkā* về nó; một của Revata và một của Vācissara. PLC. 108f.
 
 ## Notes

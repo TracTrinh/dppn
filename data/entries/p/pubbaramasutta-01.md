@@ -5,7 +5,7 @@ base_headword: "Pubbārāmasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pubbārāmasutta 01. Preached at the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbārāmasutta 01. Được thuyết giảng tại Pubbārāma. Việc đắc tuệ quán đồng nghĩa với sự đoạn tận các *āsava*. SN.v.222.
 
 ## Notes

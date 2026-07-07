@@ -5,7 +5,7 @@ base_headword: "Nandārāma"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nandārāma 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandārāma 01. *v.l.* Sunandārāma. Các hoa viên nơi Dīpaṅkara Buddha giảng bài pháp đầu tiên. Đây cũng là nơi ngài viên tịch Bv.ii.212, 220.
 
 ## Notes

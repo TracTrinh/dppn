@@ -5,7 +5,7 @@ base_headword: "Visākhā"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākhā 03. One of the five queens of the third <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhā 03. Một trong năm vương hậu của vị vua Okkāka thứ ba. DN­a.i.238; Snp­a.i.352; Mhv­ṭ. 131.
 
 ## Notes

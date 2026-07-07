@@ -5,7 +5,7 @@ base_headword: "Vikkama"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vikkama. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikkama. Một người Lokagalla. Ông là một vị tướng của Rohaṇa và đã bị Mūlapotthakī Māna đánh bại. Cv.lxxv.138.
 
 ## Notes

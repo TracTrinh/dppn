@@ -5,7 +5,7 @@ base_headword: "Thullakoṭṭhita"
 disambiguator: "02"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Thullakoṭṭhita 02. A city in the time of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thullakoṭṭhita 02. Một thành phố vào thời của Đức Phật Nārada, người đã thuyết pháp tại đó cho Bhaddasāla và Vijitamitta, những người sau này được chỉ định làm các đại đệ tử của Ngài. Bv­a.154.
 
 ## Notes

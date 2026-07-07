@@ -5,7 +5,7 @@ base_headword: "Viññāṇasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viññāṇasutta 03. Eye-consciousness is impermanent, changeable, likewise ear
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viññāṇasutta 03. Nhãn thức là vô thường, biến hoại, nhĩ thức cũng vậy, v.v. SN.iii.226.
 
 ## Notes

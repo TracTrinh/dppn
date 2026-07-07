@@ -5,7 +5,7 @@ base_headword: "Pupphavagga"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphavagga 01. The fourth section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphavagga 01. Phẩm thứ tư của Dhammapada.
 
 ## Notes

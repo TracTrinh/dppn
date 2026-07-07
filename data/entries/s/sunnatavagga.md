@@ -5,7 +5,7 @@ base_headword: "Suññatāvagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suññatāvagga. The thirteenth section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suññatāvagga. Phẩm thứ mười ba của Majjhimanikāya, chứa các bài kinh (*Sutta*) 121-130. MN.iii.104ff.
 
 ## Notes

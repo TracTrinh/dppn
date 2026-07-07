@@ -5,7 +5,7 @@ base_headword: "Tilokanandana"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tilokanandana. A garden laid out in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilokanandana. Một khu vườn được thiết kế ở Pulatthipura bởi Parakkamabāhu I. Cv.lxxix.8.
 
 ## Notes

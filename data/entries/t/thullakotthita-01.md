@@ -5,7 +5,7 @@ base_headword: "Thullakoṭṭhita"
 disambiguator: "01"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Thullakoṭṭhita 01. A township in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thullakoṭṭhita 01. Một thị trấn ở quốc gia Kuru. Đây là nơi sinh của Raṭṭhapāla, và chính tại đó Đức Phật đã lưu lại trong suốt một chuyến du hành giữa những người Kurus (MN.ii.54; Thag­a.ii.30; AN­a.i.144). Nó nhận được tên gọi như vậy từ thực tế là những kho thóc của nó luôn luôn đầy ắp (*thullakoṭṭham, paripuṇṇakoṭṭhāgāraṁ*). Nó có những vụ mùa bội thu. MN­a.ii.722; cũng xem *Avadāna* SN.ii.118.
 
 ## Notes

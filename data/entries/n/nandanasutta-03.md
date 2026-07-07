@@ -5,7 +5,7 @@ base_headword: "Nandanasutta"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandanasutta 03. Same as <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanasutta 03. Tương tự như Nandatisutta (*q.v.*), ngoại trừ ở đây người thốt lên bài kệ đầu tiên là Māra. SN.i.107.
 
 ## Notes

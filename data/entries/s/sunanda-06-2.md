@@ -5,7 +5,7 @@ base_headword: "Sunandā"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunandā 06. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandā 06. Vợ của Ekarājā (Ja.vi.134). Xem Khaṇḍahālajātaka (Ja 542).
 
 ## Notes

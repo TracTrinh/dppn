@@ -5,7 +5,7 @@ base_headword: "Sunandārāma"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunandārāma 01. A monastery in which <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandārāma 01. Một tu viện nơi Dīpaṅkara Buddha đã viên tịch. Bv­a.68.
 
 ## Notes

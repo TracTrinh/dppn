@@ -5,7 +5,7 @@ base_headword: "Nārivana"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārivana. A grove in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārivana. Một khu rừng ở Himavā nơi có mọc những bông hoa có hình dáng giống như thân thể của phụ nữ. Ja.v.152.
 
 ## Notes

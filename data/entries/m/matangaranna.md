@@ -5,7 +5,7 @@ base_headword: "Mātaṅgārañña"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātaṅgārañña. Another name for <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅgārañña. Một tên gọi khác của Mejjhārañña. Xem Mil. 130; MN­a.ii.615.
 
 ## Notes

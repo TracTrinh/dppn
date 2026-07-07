@@ -5,7 +5,7 @@ base_headword: "Vīrapaṇḍu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Vīrapaṇḍu. The youngest son of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrapaṇḍu. Con trai út của Parakkama, vua của Paṇḍu. Khi cha ông bị sát hại, ông đã bỏ trốn, nhưng Laṅkāpura đã che chở ông và khôi phục vương quốc cho ông. Ông được lên ngôi tại Madhurā, với sự chủ trì của tộc Lambakaṇṇas. Cv.lxxvi.193f.; lxxvii.5, 25, 103; xem thêm Cv.Trs.ii.100, n.1.
 
 ## Notes

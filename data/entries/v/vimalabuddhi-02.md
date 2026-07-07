@@ -5,7 +5,7 @@ base_headword: "Vimalabuddhi"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vimalabuddhi 02. Called Cūḷa Vimalabuddhi or Nava Vimalabuddhi. He wrote a *�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalabuddhi 02. Được gọi là Cūḷa Vimalabuddhi hoặc Nava Vimalabuddhi. Ông đã viết một *ṭīkā* bàn về Vuttodaya. Gv.67; ông đã sống ở Pagan hoặc ở Panyā; Sās. 75.
 
 ## Notes

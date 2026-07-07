@@ -5,7 +5,7 @@ base_headword: "Suriya"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suriya 02. A son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriya 02. Một người con trai của Sakka (q.v.).
 
 ## Notes

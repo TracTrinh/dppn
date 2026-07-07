@@ -5,7 +5,7 @@ base_headword: "Pulinuppādaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pulinuppādaka Thera. An *Arahant*. One hundred thousand *kappas* ago he was an 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinuppādaka Thera. Một vị *Arahant*. Một trăm ngàn *kappa* trước, ông là một vị ẩn sĩ tên là Devala với tám mươi ngàn đệ tử. Ông đã dựng lên một tháp (*Thūpa*) bằng cát và tôn vinh nó nhân danh Đức Phật (Ap.ii.426 ff). Ông có lẽ là cùng một người với Sirima Thera. Thag­a.i.280f.
 
 ## Notes

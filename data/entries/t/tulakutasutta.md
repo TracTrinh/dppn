@@ -5,7 +5,7 @@ base_headword: "Tulākūṭasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tulākūṭasutta. Few are they that abstain from cheating with scales and measu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tulākūṭasutta. Ít người kiêng tránh việc gian lận bằng cân và thước đo; nhiều người không kiêng tránh điều đó (SN.v.473).
 
 ## Notes

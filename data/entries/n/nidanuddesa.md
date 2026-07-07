@@ -5,7 +5,7 @@ base_headword: "Nidānuddesa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nidānuddesa. One of the five divisions of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong năm phần của Pātimokkha.
 
 ## Notes

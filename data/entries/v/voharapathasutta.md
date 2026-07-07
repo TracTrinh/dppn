@@ -5,7 +5,7 @@ base_headword: "Vohārapathasuttā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vohārapathasuttā. Two *Suttas*, similar to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vohārapathasuttā. Hai bài *Sutta*, tương tự như Vohārasuttā. AN.ii.227 = ii.229.
 
 ## Notes

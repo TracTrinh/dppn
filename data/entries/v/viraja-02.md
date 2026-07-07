@@ -5,7 +5,7 @@ base_headword: "Viraja"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viraja 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viraja 02. Một vị Pacceka Buddha. Ap­a.i.107; MN.iii.70.
 
 ## Notes

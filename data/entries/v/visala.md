@@ -5,7 +5,7 @@ base_headword: "Visāla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Visāla. The capital of Ceylon (then known as <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visāla. Thủ đô của Tích Lan (khi đó được gọi là Maṇḍadīpa) trong thời của Kassapa Buddha. Nó nằm ở phía tây của *uyyāna* Mahā Sāgara, và vua của nó vào thời điểm đó là Jayanta. Mhv.xv.127; Dpv.xv.60; xvii.6; Vin-a.i.87.
 
 ## Notes

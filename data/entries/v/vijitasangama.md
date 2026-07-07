@@ -5,7 +5,7 @@ base_headword: "Vijitasaṅgāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijitasaṅgāma. A *yavapālaka* who supplied grass to <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasaṅgāma. Một người canh đồng lúa mạch (*yavapālaka*) đã dâng cỏ cho Đức Phật Tissa để làm chỗ ngồi. Bv­a.189.
 
 ## Notes

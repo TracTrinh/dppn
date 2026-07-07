@@ -5,7 +5,7 @@ base_headword: "Tomaṇaratittha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tomaṇaratittha. A ford in Ceylon. Ras.ii.184.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tomaṇaratittha. Một bến sông ở Tích Lan. Ras.ii.184.
 
 ## Notes

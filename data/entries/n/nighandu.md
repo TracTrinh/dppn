@@ -5,7 +5,7 @@ base_headword: "Nighaṇḍu"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nighaṇḍu. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thủ lĩnh Yakkha, được các tín đồ của Đức Phật khẩn cầu khi gặp hoạn nạn (DN.iii.204). Ông đã có mặt tại Mahā Samaya. DN.ii.258.
 
 ## Notes

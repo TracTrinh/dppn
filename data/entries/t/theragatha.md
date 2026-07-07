@@ -5,7 +5,7 @@ base_headword: "Theragāthā"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -34,6 +34,12 @@ The work has been published by the PTS (1883) and translated by Mrs. Rhys Davids
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theragāthā. Cuốn sách thứ tám của Khuddakanikāya, một tuyển tập các bài thơ, hầu hết được tin là do các vị Thera sáng tác trong thời kỳ Đức Phật còn tại thế.
+
+Một số bài thơ chứa đựng tiểu sử của các vị Thera, trong khi những bài khác là những khúc ca hoan hỷ, ngợi ca sự tự do mới tìm thấy của họ.
+
+Tác phẩm này đã được PTS xuất bản (1883) và được bà Rhys Davids dịch lại với tựa đề *Psalms of the Brethren*.
+
+Dhammapāla đã viết một bản chú giải về Theragāthā, như một phần của Paramatthadīpanī.
 
 ## Notes

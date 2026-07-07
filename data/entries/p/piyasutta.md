@@ -5,7 +5,7 @@ base_headword: "Piyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -23,6 +23,6 @@ Piyasutta 05-06. Eight similar qualities. AN.iv.155f., 156.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyasutta 05-06. Tám phẩm chất tương tự. AN.iv.155f., 156.
 
 ## Notes

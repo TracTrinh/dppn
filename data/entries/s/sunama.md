@@ -5,7 +5,7 @@ base_headword: "Sunāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sunāma. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunāma. Một vị đại thần của Aṅgati, vua xứ Mithilā. Xem Mahā Nāradakassapajātaka (Ja 544). Ông được đồng nhất với Bhaddaji. Ja.vi.255.
 
 ## Notes

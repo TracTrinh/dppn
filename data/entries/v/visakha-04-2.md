@@ -5,7 +5,7 @@ base_headword: "Visākhā"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Visākhā 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhā 04. Visākhā Therī. Bà thuộc hậu cung của vị Bodhisatta và đã xuất gia cùng với Mahā Pajāpatī Gotamī. Bà nhận được một đề mục thiền định từ Đức Phật và theo thời gian đã đạt được quả vị *Arahant*. Một bài kệ do bà thốt lên, răn dạy những người bạn đồng tu của mình, được đưa vào Therīgāthā. Thīg.vs.13; Thīg­a.20.
 
 ## Notes

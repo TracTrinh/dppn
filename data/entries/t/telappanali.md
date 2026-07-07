@@ -5,7 +5,7 @@ base_headword: "Telappanāḷi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ She gave birth to a son called, after his maternal grandmother, <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telappanāḷi. Một ngôi làng gần Ujjenī. Khi Mahā Kaccāna đến đó trên đường tới Ujjenī, một cô gái nghèo xuất thân từ một gia đình quý tộc, nhìn thấy ngài trở về tay không sau vòng khất thực, đã mời ngài vào nhà, cắt đi mái tóc đẹp của mình, sai một hầu gái mang đi bán, và với số tiền bán được đã cúng dường đồ ăn cho Kaccāna, trong khi bản thân lánh mặt không cho ngài thấy.
+
+Vị Trưởng lão cho gọi cô, và khi nhìn thấy ngài, mái tóc của cô mọc lại như cũ. Caṇḍappajjota, khi nghe về sự việc này, đã cho gọi cô và phong cô làm hoàng hậu của mình.
+
+Cô sinh hạ một người con trai được đặt tên theo bà ngoại của cậu bé là Gopāla, và mẹ của cậu từ đó về sau được gọi là Gopālamātā. AN­a.i.117f.
 
 ## Notes

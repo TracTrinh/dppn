@@ -5,7 +5,7 @@ base_headword: "Visāradasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Visāradasutta 01. A man who takes life takes what is not given, is given over t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visāradasutta 01. Một người đàn ông lấy đi sinh mạng, lấy đi những gì không được cho, đắm chìm vào dục vọng, nói dối, và dùng các loại rượu mạnh, người như vậy sống như một cư sĩ không có sự tự tin. Tuân theo con đường ngược lại, anh ta sống với sự tự tin. AN.iii.203; cf. Số 3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nirayuppattisutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -23,6 +23,6 @@ Nirayuppattisutta. A man whose mind is soiled (*paduṭṭha*) is born after dea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirayuppattisutta. Một người có tâm ô uế (*paduṭṭha*) sau khi chết sẽ tái sinh vào địa ngục. Iti.12f.
 
 ## Notes

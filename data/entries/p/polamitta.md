@@ -5,7 +5,7 @@ base_headword: "Polamittā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Polamittā, (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Polamittā, (*v.l.* Posamittā). Một nữ *Yakkha* (*Yakkhinī*), vợ của Mahā Kāḷasena. Bà đến từ Laṅkāpura và mẹ bà là Goṇḍā. Mhv­ṭ.259f.
 
 ## Notes

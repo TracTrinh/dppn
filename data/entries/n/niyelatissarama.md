@@ -5,7 +5,7 @@ base_headword: "Niyelatissārāma"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Niyelatissārāma. A *vihāra* in Ceylon, built by king <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niyelatissārāma. Một *vihāra* ở Tích Lan, được xây dựng bởi vua Kaniṭṭhatissa. Mhv.xxxvi.15.
 
 ## Notes

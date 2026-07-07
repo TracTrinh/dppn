@@ -5,7 +5,7 @@ base_headword: "Potthā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Potthā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potthā. Vợ của chú vua Vasabha, tướng quân (*senāpati*) Subha. Bà đã cứu mạng Vasabha và, sau này, khi ông lên làm vua, ông đã lập bà làm hoàng hậu (Mhv.xxxv.70). Bà đã xây dựng một bảo tháp (*Thūpa*) và một ngôi đền gắn liền với *Catussāla* trong Mahā Vihāra (Mhv.xxxv.90).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Niṭṭhulaviṭṭhika"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Niṭṭhulaviṭṭhika. A village in the district of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niṭṭhulaviṭṭhika. Một ngôi làng ở quận Giri tại Tích Lan, nơi sinh của Goṭha-imbara (Mhv.xxiii.49). Nó có lẽ cùng là một với ngôi làng (Niṭṭhulaveṭṭhi) do Pottakuṭṭha ban tặng cho Māṭambiya *padhānaghara*. Cv.xlvi.20.
 
 ## Notes

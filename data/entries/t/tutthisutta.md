@@ -5,7 +5,7 @@ base_headword: "Tuṭṭhisutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tuṭṭhisutta. In order to get rid of dissatisfaction, want of self-possession
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṭṭhisutta. Để loại bỏ sự không thỏa mãn, sự thiếu tự chủ, và mong muốn quá nhiều, người ta nên trau dồi những phẩm chất ngược lại. AN.iii.448.
 
 ## Notes

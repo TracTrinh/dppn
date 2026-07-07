@@ -5,7 +5,7 @@ base_headword: "Tuvaṭakasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tuvaṭakasutta. The fourteenth *Sutta* of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuvaṭakasutta. *Sutta* thứ mười bốn của Aṭṭhakavagga của Suttanipāta. Nó là một trong những *Sutta* được thuyết giảng tại Mahā Samaya. Nó đề cập đến những phẩm chất mà một vị tỳ-kheo nên trau dồi để đạt được sự giải thoát (Snp., pp.179ff; Snp­a.ii.562ff). Nó được giải thích trong Mahā Niddesa (ii.339ff). Nó được coi là đặc biệt phù hợp với các *saddhācaritas*. NidA.223.
 
 ## Notes

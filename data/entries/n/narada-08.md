@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "08"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nārada 08. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 08. Vua của Mithilā, thế hệ thứ bảy trực hệ từ Sādhīna. Ông được nhận diện là Ānanda. Để biết chi tiết xem Sādhīnajātaka. Ja 494, Ja.iv.355ff.
 
 ## Notes

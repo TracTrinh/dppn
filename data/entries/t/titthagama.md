@@ -5,7 +5,7 @@ base_headword: "Titthagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Titthagāma. A village, in the south-west of Ceylon (Cv.lxxii.42), where <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthagāma. Một ngôi làng, ở phía tây nam Tích Lan (Cv.lxxii.42), nơi Parakkamabāhu I thiết lập một đồn điền dừa. Cv.xc.93.
 
 ## Notes

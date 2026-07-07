@@ -5,7 +5,7 @@ base_headword: "Vissakamma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -71,6 +71,18 @@ As in the case of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="42" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vissakamma, Vissukamma. Một vị *Deva*, cư dân của Tāvatiṁsa. Ngài là kiến trúc sư trưởng, người thiết kế và trang trí trong số chư thiên, và Sakka yêu cầu sự phục vụ của ngài mỗi khi cần thiết. Do đó, ngài được lệnh xây dựng cung điện có tên là Dhamma cho Mahā Sudassana (DN.ii.180) và một cung điện khác cho Mahā Panāda (Ja.iv.323; DN­a.iii.856).
+
+Ngài cũng xây dựng các am thất cho vị Bodhisatta trong nhiều kiếp sống khác nhau – vd., khi là Sumedha (Ja.i.7), Kuddālapaṇḍita (Ja.i.314), Hatthipāla (Ja.iv.489), Ayoghara (Ja.iv.499), Jotipāla (Ja.v.132), Sutasoma (Ja.v.190), Temiya (Ja.vi.21, 29), Vessantara (Ja.vi.519f). Vissakamma cũng xây dựng am thất cho Dukūlaka và Pārikā (Ja.vi.72).
+
+Vào ngày Đức Phật xuất gia, Sakka đã phái Vissakamma dưới vỏ bọc một người thợ gội đầu đến tắm cho ngài và mặc cho ngài những món đồ trang sức hoàng gia của ngài (Ja.i.60; Dhp­a.i.70; Bv­a.232; ngài cũng đã xây dựng các hồ nước để thái tử có thể tắm, AN­a.i.379); ngài cũng đã phái ngài ấy đến trang điểm cho Temiya vào ngày ngài rời khỏi vương quốc (Ja.vi.12).
+
+Vissakamma đã dựng lên đình tạ bằng ngọc, với chu vi mười hai do-tuần, dưới cội Gaṇḍamba, nơi Đức Phật thi thố Song Thông và xây dựng ba cầu thang bằng ngọc, bạc và vàng, được Đức Phật sử dụng trong lúc ngài giáng trần từ Tāvatiṁsa xuống Saṅkassa (Ja.iv.265f). Ngài đã xây dựng các đình tạ trong đó Đức Phật và năm trăm vị *Arahant* đã du hành đến Uggapura, theo lời mời của Cūḷa Subhaddā (Dhp­a.iii.470; và một lần nữa cho chuyến đi đến Sunāpuranta, MN­a.ii.1017).
+
+Khi Ajātasattu tôn trí phần xá-lợi của Đức Phật trong một *Thūpa*, Sakka đã ra lệnh cho Vissakamma xây dựng xung quanh *Thūpa* một *vālasaṅghātayanta* (cỗ máy rực lửa) để ngăn cản bất kỳ ai đến gần xá-lợi. Sau đó, khi Dhammāsoka (Piyadassī) muốn có được những xá-lợi này cho *vihāra* của mình, Vissakamma đã xuất hiện trước ngài dưới vỏ bọc một thanh niên trong làng và, bằng cách bắn một mũi tên vào ốc vít điều khiển của cỗ máy, đã làm cho nó ngừng quay (DN­a.ii.613, 614).
+
+Ngài đã xây dựng đình tạ bằng ngọc trong đó Soṇuttara đặt các xá-lợi mà ngài đã mang về từ thế giới Nāga cho đến lúc chúng được tôn trí trong Mahā Thūpa (Mhv.xxxi.76), và vào ngày chúng được tôn trí, Vissakamma, hành động theo lệnh của Sakka, đã trang hoàng toàn bộ Tích Lan (Mhv.xxxi.34). Ngài cũng cung cấp những viên gạch được sử dụng trong việc xây dựng Mahā Thūpa (Mhv.xxviii.8). Đôi khi ngài sẽ nhập vào cơ thể của một người thợ và truyền cảm hứng cho anh ta bằng những ý tưởng – vd., trong việc thiết kế hình dáng của Mahā Thūpa (Mhv.xxx.11). Ngài cũng chịu trách nhiệm về việc chế tạo chiếc bình vàng trong đó nhánh của cây Bodhi được chuyển đến Tích Lan (Mhv.xviii.24).
+
+Giống như trường hợp của Mātali và Sakka, Vissakamma rõ ràng là tên của một chức vụ chứ không phải tên riêng. Do đó, trong Surucijātaka (Ja 489, Ja.iv. 325), Vissakamma được nhắc đến như là một tiền kiếp của Ānanda, trong khi đó, theo Dhammapada Commentary, người kiến trúc sư đã giúp đỡ Magha và các bạn đồng hành của ông trong các công việc thiện nguyện của họ, đã được tái sinh làm Vissakamma. Dhp­a.i.272. Câu chuyện được đưa ra liên quan đến Vissakamma trong Snp­a.i.233, rõ ràng đề cập đến Mahā Kaṇhajātaka, Ja 469. Vị *Deva* đã tháp tùng Sakka dưới vỏ bọc một con chó trong Jātaka đó là Mātali chứ không phải Vissakamma. Xem Viśvakarma trong *Epic Mythology* của Hopkins.
 
 ## Notes

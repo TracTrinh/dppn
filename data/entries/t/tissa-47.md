@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "47"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -23,6 +23,6 @@ Tissa 47. A monk who, when his brother’s wife sent men to kill him, broke his 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 47. Một vị tỳ-kheo, khi bị vợ của em trai mình gửi người đến giết, đã bẻ gãy xương đùi để làm dấu hiệu rằng ngài sẽ không bỏ chạy, và sau khi cầu xin được sống thêm một đêm, ngài đã đắc quả vị *Arahant*. MN­a.i.188f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇaka"
 disambiguator: "05"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇaka 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaka 05. Rõ ràng Puṇṇaka không phải là một cái tên thuộc địa vị cao, ví dụ: Ja.vi.273.
 
 ## Notes

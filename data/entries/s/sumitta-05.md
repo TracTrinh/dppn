@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumitta 05. A sage of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 05. Một nhà hiền triết xứ Kāsī, một tiền kiếp của Mahā Kassapa; vợ ông là Bhaddā Kāpilānī. Ap.ii.582.
 
 ## Notes

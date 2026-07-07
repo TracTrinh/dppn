@@ -5,7 +5,7 @@ base_headword: "Tāyana"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,8 @@ The Commentary says that he was once a dissentient teacher, like <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāyana. Một thiên tử (*Devaputta*). Ông đã đến viếng thăm Đức Phật tại Sāvatthī và thốt lên những vần kệ cho các tỳ-kheo nghe, nói về sự cần thiết của việc tu hành theo nếp sống sa-môn với sự tinh tấn và chân thành. Sau khi ông rời đi, Đức Phật bảo các tỳ-kheo hãy học thuộc lòng những vần kệ đó vì lợi ích của chính họ (SN.i.49).
+
+Chú giải nói rằng ông từng là một đạo sư ngoại đạo, giống như Nanda, Vaccha, Kisa, Saṅkicca, v.v., và đã giảng dạy một vài trong số sáu mươi hai tà kiến được liệt kê trong kinh Brahmajālasutta (SN­a.i.85). Bằng năng lực của những việc lành và nhờ tin vào Kamma, ông đã được tái sinh lên các cõi trời. Từ đó, nhận thấy rằng cuối cùng một Pháp và Tăng đoàn thực sự mang lại sự cứu độ đã được thành lập, ông đã đến để khích lệ các đệ tử của Đức Phật.
 
 ## Notes

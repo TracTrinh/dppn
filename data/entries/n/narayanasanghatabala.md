@@ -5,7 +5,7 @@ base_headword: "Nārāyanasaṅghāṭabala"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nārāyanasaṅghāṭabala. The name given to a certain measure of physical str
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārāyanasaṅghāṭabala. Tên được đặt cho một mức độ sức mạnh thể chất nhất định. Nó tương đương với sức mạnh của mười con voi Chaddanta và là sức mạnh của Đức Phật. Vibh­a.397; Snp­a.ii.401.
 
 ## Notes

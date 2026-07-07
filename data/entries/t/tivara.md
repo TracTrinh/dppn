@@ -5,7 +5,7 @@ base_headword: "Tivarā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tivarā. The name given to the inhabitants of Mount <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tivarā. Tên gọi dành cho những cư dân của Núi Vepulla, khi đó được biết đến với tên gọi Pācīnavaṁsa, gần Rājagaha, vào thời của Kakusandha Buddha. Tuổi thọ của họ là bốn mươi ngàn năm. SN.ii.190.
 
 ## Notes

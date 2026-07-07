@@ -5,7 +5,7 @@ base_headword: "Nigrodhasāla"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nigrodhasāla. A mound in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một gò đất ở Rohaṇa, gần nơi Veḷusumana đã giết người khổng lồ Nandasārathī của Eḷāra. Mhv­ṭ.441.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nikapennakapadhānaghara"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nikapennakapadhānaghara. A building on the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tòa nhà trên Cittalapabbata, nơi cư ngụ của Cūḷa Sumana. Vsm.ii.634; cũng xem Niṅkapoṇṇa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Manojajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ The circumstances in which the story was related are similar to those of the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manojajātaka (Ja 397). Bodhisatta từng là một con sư tử và có một đứa con tên là Manoja. Một ngày nọ Manoja, bất chấp những lời cảnh báo của cha mình, đã kết bạn với một con chó rừng tên là Giriya. Hành động theo gợi ý của Giriya, Manoja đã đi tìm thịt ngựa và tấn công những con ngựa của nhà vua. Nhà vua đã sử dụng dịch vụ của một cung thủ, người đã bắn Manoja khi nó đang chạy trốn cùng một con ngựa. Manoja đã cố gắng về đến hang của nó, nhưng tại đó nó đã ngã xuống chết (Ja.iii.321ff).
+
+Những hoàn cảnh mà câu chuyện được kể lại tương tự với hoàn cảnh của Mahilāmukhajātaka (*q.v.*).
 
 ## Notes

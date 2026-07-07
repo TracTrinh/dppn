@@ -5,7 +5,7 @@ base_headword: "Nayanussava"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nayanussava. A garden in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu vườn ở Pulatthipura, được thiết kế bởi Parakkamabāhu I. Cv.lxxix.8.
 
 ## Notes

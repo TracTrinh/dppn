@@ -5,7 +5,7 @@ base_headword: "Sundara"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sundara 03. A monk who, with five hundred others of the same name, was present a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundara 03. Một vị tu sĩ, cùng với năm trăm vị khác có cùng tên gọi, đã có mặt tại Lễ Đặt Nền Móng của Mahā Thūpa. Mhv­ṭ.522.
 
 ## Notes

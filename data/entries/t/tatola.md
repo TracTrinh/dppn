@@ -5,7 +5,7 @@ base_headword: "Tatolā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tatolā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tatolā, Tatotalā, Tattalā. Các sứ giả của Vessavaṇa. DN.iii.201.
 
 ## Notes

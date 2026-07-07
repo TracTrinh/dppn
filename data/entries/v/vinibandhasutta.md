@@ -5,7 +5,7 @@ base_headword: "Vinibandhasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vinibandhasutta. On the five forms of mental bondage: bondage to lusts, to the b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinibandhasutta. Về năm hình thức trói buộc của tâm: sự trói buộc vào các dục, vào thân, vào sắc, vào giấc ngủ, vào mong muốn trở thành một thiên nhân (Deva). AN.iii.249; iv. 461.
 
 ## Notes

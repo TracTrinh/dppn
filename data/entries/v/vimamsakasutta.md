@@ -5,7 +5,7 @@ base_headword: "Vīmaṁsakasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vīmaṁsakasutta. The Buddha tells the monks at <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīmaṁsakasutta. Đức Phật nói với các vị tu sĩ tại Jetavana rằng vị tu sĩ có tính quán sát, người xem xét tâm can của những người khác, nên tìm hiểu Tathāgata. Sau đó ngài tiếp tục đưa ra các chi tiết về cách thức mà việc tìm hiểu đó nên được tiến hành. MN.i.317ff.
 
 ## Notes

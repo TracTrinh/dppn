@@ -5,7 +5,7 @@ base_headword: "Toraṇavatthu"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Toraṇavatthu. A locality in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Toraṇavatthu. Một địa phương ở Kosala, giữa Sāvatthī và Sāketa. Pasenadi từng dừng chân ở đó và đến thăm Khemā, người sống tại đó. SN.iv.374.
 
 ## Notes

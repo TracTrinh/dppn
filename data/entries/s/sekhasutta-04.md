@@ -23,6 +23,6 @@ Sekhasutta 04. On six things which lead to failure in a monk’s training: delig
 
 ## Vietnamese translation
 
-Sekhasutta 04. Về sáu điều dẫn đến thất bại trong việc tu học của tỳ-khèo: ưa thích hoạt động thế sự, ưa nói chuyện, ưa ngủ, ưa tụ họ p, không thu thúc các căn, ăn uống không điều độ. AN.iii.329.
+Sekhasutta 04. Về sáu điều dẫn đến thất bại trong việc tu học của tỳ-kheo: ưa thích hoạt động thế sự, ưa nói chuyện, ưa ngủ, ưa tụ họp, không thu thúc các căn, ăn uống không điều độ. AN.iii.329.
 
 ## Notes

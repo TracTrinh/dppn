@@ -5,7 +5,7 @@ base_headword: "Telapattajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telapattajātaka (Ja 96). Takkasilājātaka. Bodhisatta từng là người trẻ nhất trong số một trăm người con trai của vị vua xứ Benares. Ngài nghe được từ chư Phật Độc giác (Pacceka Buddhas), những người dùng bữa trong cung điện, rằng ngài sẽ trở thành vua của Takkasilā nếu ngài có thể đến được đó mà không trở thành con mồi cho các dạ-xoa nữ, những kẻ đã rình rập du khách trong rừng. Ngay sau đó, ngài đã lên đường cùng năm người anh em của mình, những người muốn đi cùng ngài. Trên đường qua rừng, cả năm người lần lượt gục ngã trước sự quyến rũ của các dạ-xoa nữ và bị ăn thịt. Một dạ-xoa nữ đã bám theo Bodhisatta đến tận cổng của Takkasilā, nơi nhà vua đã đưa cô ta vào cung, bỏ ngoài tai lời cảnh báo của Bodhisatta. Nhà vua đã khuất phục trước những mưu mẹo của cô ta, và trong đêm, nhà vua cùng tất cả những người sống trong cung điện đã bị dạ-xoa nữ và đồng bọn của ả ăn thịt. Thấy được sự khôn ngoan và ý chí mạnh mẽ của Bodhisatta, dân chúng đã phong ngài làm vua của họ.
+
+Câu chuyện này được kể lại liên quan đến kinh Janapadakalyāṇisutta (xem mục này). Các tỳ-kheo nói rằng hẳn là rất khó để không nhìn một người đẹp tuyệt trần trong nước (*janapadakaḷyāni*), nhưng Đức Phật đã phủ nhận điều này và kể lại câu chuyện trên (Ja.i.393ff).
+
+Truyện Bổn sinh (Jātaka) này dường như cũng được gọi là Takkasilājātaka (Ja.i.470).
 
 ## Notes

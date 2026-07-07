@@ -5,7 +5,7 @@ base_headword: "Nehātakamuni Thera"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nehātakamuni Thera. He was a Brahmin of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ông là một Bà-la-môn của Rājagaha, người đã trở nên tinh thông trong kho tàng kiến thức Vệ-đà. Sau khi trở thành một đạo sĩ, ông cư ngụ trong một khoảng rừng thưa, cách Rājagaha ba do-tuần, sống bằng lúa hoang và thờ cúng lửa. Tại đó Đức Phật đã viếng thăm ông và được tiếp đãi trong ba ngày. Đức Phật dạy cho ông Pháp, và vị đạo sĩ trở thành một *Sotāpanna* và, về sau, là một *Arahant*. Ông tiếp tục sống trong rừng rậm, và Đức Phật đã viếng thăm ông một lần nữa khi ông bị bệnh chuột rút. Thag.vs.435-40; Thag­a.i.459 f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puggalasutta"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puggalasutta 04. Incalculable is the beginning of *Saṁsāra*. The bones of a s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puggalasutta 04. Vô thủy là điểm bắt đầu của Luân hồi (*Saṁsāra*). Xương của một người duy nhất luân chuyển trong một đại kiếp (*aeon*), nếu được thu thập lại, sẽ thành một đống lớn bằng núi Vepulla. SN.ii.185.
 
 ## Notes

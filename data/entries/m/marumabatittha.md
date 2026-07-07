@@ -5,7 +5,7 @@ base_headword: "Marumabatittha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Marumabatittha. A locality in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Marumabatittha. Một địa phương ở Anurādhapura, nơi ranh giới kiết giới (sīmā) của Mahā Vihāra đi qua. Mbv.135, 136.
 
 ## Notes

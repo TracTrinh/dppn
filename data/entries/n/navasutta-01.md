@@ -5,7 +5,7 @@ base_headword: "Nāvāsutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nāvāsutta 01. It was preached in reference to <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bài kinh này được thuyết liên quan đến thói quen của Sāriputta khi ngài đi du hành, đó là đảnh lễ về hướng mà vị thầy của mình, Assaji, đang sống. Những người khác nhận thấy điều này và nói rằng đó là một tàn dư của thói quen Bà-la-môn cũ của ngài là thờ phượng các phương khác nhau. Nhưng Đức Phật nói rằng Sāriputta không cần phải làm vậy, vì ngay cả tự thân chư thiên cũng đảnh lễ ngài. Trong bài kinh (*Sutta*), người trí được ví như một con tàu (*nāvā*) đưa nhiều người khác qua sông. Snp.vs. 316-23; Snp­a.i.325ff.
 
 ## Notes

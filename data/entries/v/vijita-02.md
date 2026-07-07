@@ -5,7 +5,7 @@ base_headword: "Vijita"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijita 02. One of the ministers of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijita 02. Một trong những vị đại thần của Vijaya, và là người sáng lập Vijitapura. Mhv.vii.45; Dpv.ix.32.
 
 ## Notes

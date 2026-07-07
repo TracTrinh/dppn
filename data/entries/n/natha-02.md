@@ -5,7 +5,7 @@ base_headword: "Nātha"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nātha 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được gọi là Nātha *Laṅkāgiri*. Một tướng quân của Vua Māṇābharaṇa, tử trận (Cv.lxxii.124f).
 
 ## Notes

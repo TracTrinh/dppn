@@ -5,7 +5,7 @@ base_headword: "Nīlavāhinī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nīlavāhinī. A channel branching off from the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīlavāhinī. Một con kênh rẽ nhánh từ cống Mālatipuppha trong biển hồ Parakkamasamudda. Cv.lxxix.42.
 
 ## Notes

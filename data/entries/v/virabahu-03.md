@@ -5,7 +5,7 @@ base_headword: "Vīrabāhu"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vīrabāhu 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrabāhu 03. Con trai của Kittinissaṅka. Ông chỉ trị vì đúng một đêm. Cv.lxxx.27.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vinīla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vinīla. The son of a golden goose and a crow. He is identified with <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinīla. Con trai của một con ngỗng vàng và một con quạ. Nó được đồng nhất với Devadatta. Xem Vinīlakajātaka (Ja 160).
 
 ## Notes

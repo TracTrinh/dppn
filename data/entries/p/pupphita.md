@@ -5,7 +5,7 @@ base_headword: "Pupphita"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphita. Seventeen *kappas* ago there were three kings of this name, all previo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphita. Mười bảy *kappa* trước, có ba vị vua mang tên này, tất cả đều là tiền kiếp của Kuṭajapupphiya Thera. Ap.i.191.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Narasīhadeva"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Narasīhadeva. An officer of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narasīhadeva. Một vị quan của Kulasekhara. Cv.lxxvi.95, 174.
 
 ## Notes

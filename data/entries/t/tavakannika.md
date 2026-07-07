@@ -5,7 +5,7 @@ base_headword: "Tavakaṇṇika"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ Is he connected with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tavakaṇṇika, Tavaṇṇika, Tavakiṇṇoka, Tapakaṇṇika. Một gia chủ đã chứng ngộ *Nibbāna* nhờ sự hiểu biết về Tathāgata. Ông được đề cập trong một danh sách các gia chủ như vậy, nhưng không có thêm điều gì khác được biết về ông (AN.iii.451).
+
+Ông có liên hệ gì với Tikaṇṇa (xem mục này) không? Chú giải (AN­a.ii.696) nói rằng ông cũng được gọi là Tapakaṇṇika.
 
 ## Notes

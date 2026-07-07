@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "30"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 30. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 30. Con trai của Mahā Cūḷa và là vua của Ceylon (9-12 CE). Ông đã bị vợ mình là Anulā đầu độc. Mhv.xxxiv.15ff.
 
 ## Notes

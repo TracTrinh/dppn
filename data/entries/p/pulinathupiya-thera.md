@@ -5,7 +5,7 @@ base_headword: "Pulinathūpiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -33,6 +33,10 @@ He is perhaps to be identified with <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinathūpiya Thera. Một vị *Arahant*. Trong quá khứ, có lần ông là một đạo sĩ bện tóc (*Jaṭila*) tên là Nārada, với mười bốn ngàn tín đồ, sống gần tảng đá có tên là Samaṅga. Ông đã dựng lên, trên bờ sông Amarikā, một tháp (*Thūpa*) bằng cát làm đối tượng thờ phụng cho chính mình.
+
+Trong kiếp sống cuối cùng, ông là con của một cặp cha mẹ vốn là những tín đồ thành kính của Đức Phật và thường cúng bái tại một ngôi đền được dựng lên nhân danh Đức Phật. Khi cậu bé lên bảy tuổi, cậu đã nhìn thấy ngôi đền và, nhớ lại quá khứ của mình, cậu đã trở thành một bậc *Arahant* (Ap.ii.437 ff).
+
+Ông có lẽ được đồng nhất với Vasabha Thera (*q.v.*). Thag.A.i.258f.
 
 ## Notes

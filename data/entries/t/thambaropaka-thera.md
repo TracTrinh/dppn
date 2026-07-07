@@ -5,7 +5,7 @@ base_headword: "Thambāropaka Thera"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -31,6 +31,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thambāropaka Thera. Một bậc *Arahant*.
+
+Trong quá khứ, ông đã dựng một cột cờ trên bảo tháp (*cetiya*) của Đức Phật Dhammadassī và, trèo lên đỉnh của nó, trang trí nó bằng những bông hoa nhài. Chín mươi tư *kappas* trước, ông trở thành vua mười sáu lần, dưới tên gọi Thūpasikha (Ap.i.171).
+
+Ông có lẽ chính là Paripuṇṇaka Thera. Thag­a.i.190.
 
 ## Notes

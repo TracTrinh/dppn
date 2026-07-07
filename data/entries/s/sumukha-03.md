@@ -5,7 +5,7 @@ base_headword: "Sumukha"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumukha 03. A goose, general of a flock of geese whose king was <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumukha 03. Một con ngỗng, vị tướng của một đàn ngỗng mà vị vua của chúng là Dhataraṭṭha. Xem Haṁsajātaka (Ja 502) và Mahā Haṁsajātaka (Ja 534). Nó được đồng nhất với Ānanda. Ja.iv.430; v.382.
 
 ## Notes

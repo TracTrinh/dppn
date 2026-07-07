@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "15"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nārada 15. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 15. Một vị Yakkha cai quản Nāradakūṭa. Đồ cúng dường, trong đó bao gồm một người từ mỗi ngôi làng, đã được mang đến cho ông mỗi năm một lần. Dīpaṅkara Buddha đã viếng thăm ông và, sau khi thi triển nhiều phép thần thông, đã hóa độ ông. Cùng với mười ngàn vị Yakkha khác, ông đã trở thành một *Sotāpanna*. Bv.ii.199; Bv­a.101.
 
 ## Notes

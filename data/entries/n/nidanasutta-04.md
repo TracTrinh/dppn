@@ -5,7 +5,7 @@ base_headword: "Nidānasuttā"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nidānasuttā 04. Actions are originated by desire for things which, in the past
 
 ## Vietnamese translation
 
-Chưa dịch.
+Các hành động được khởi nguồn bởi sự ham muốn đối với những thứ mà, trong quá khứ, đã được dựa trên sự ham muốn, đối với những thứ tương tự trong tương lai và tại thời điểm hiện tại. AN.i.265.
 
 ## Notes

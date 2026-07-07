@@ -5,7 +5,7 @@ base_headword: "Sumitta"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sumitta 06. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumitta 06. Em trai của Vijaya và là con trai của Sīhabāhu. Vợ ông, Cittā, là con gái của Vua nước Madda. Ông trị vì ở Sīhapura, và được Vijaya mời đến Tích Lan để kế vị ngai vàng; nhưng thay vào đó, ông đã gửi con trai mình là Paṇḍuvāsudeva đi. Ông có hai người con trai khác. Mhv.vi.38; viii.2, 6, 10.
 
 ## Notes

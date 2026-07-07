@@ -5,7 +5,7 @@ base_headword: "Vipulasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vipulasutta. Four conditions leading to the growth of insight. SN.v.412.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipulasutta. Bốn điều kiện dẫn đến sự phát triển của tuệ quán. SN.v.412.
 
 ## Notes

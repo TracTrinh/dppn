@@ -5,7 +5,7 @@ base_headword: "Sunandavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,6 @@ Sunandavatī. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandavatī. Một thành phố nơi Sumana Buddha đã thực hiện Yamakapāṭihāriya (Song thông) (Bv­a.128). Vua Uggata đã xây dựng ở đó, cho Sobhita Buddha, một *vihāra* (tinh xá) tên là Surinda (Bv­a.139). Trong thành phố này Tissa Buddha đã viên tịch trong Sunandārāma (Bv­a.192).
 
 ## Notes

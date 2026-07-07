@@ -5,7 +5,7 @@ base_headword: "Suppabuddha"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suppabuddha 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppabuddha 03. Con trai của Vessabhū Buddha trong kiếp sống tại gia cuối cùng của Ngài. DN.ii.7; Bv.xxii.20.
 
 ## Notes

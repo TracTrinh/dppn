@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "34"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 34. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 34. Cháu trai của Khallāṭanāga và là con trai của Sumanadevī, chị em cùng cha khác mẹ với nhà vua. Cùng với các anh em trai của mình, Abhaya và Uttara, ông đã âm mưu giết nhà vua. Nhưng âm mưu thất bại và họ đã tự sát. Mhv­ṭ.612.
 
 ## Notes

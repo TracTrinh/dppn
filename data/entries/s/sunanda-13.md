@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 13. A king of thirty-seven *kappas* ago, a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 13. Một vị vua của ba mươi bảy *kappa* trước, một tiền kiếp của Akkantasaññaka. Ap.i.212.
 
 ## Notes

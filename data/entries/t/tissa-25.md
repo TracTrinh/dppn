@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "25"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 25. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 25. Một vị quan của Duṭṭhagāmaṇī. Khi Duṭṭhagāmaṇī chạy trốn khỏi Saddhātissa, Tissa đã tham gia cùng ông và ông đã cho Duṭṭhagāmaṇī thức ăn của chính mình trong suốt cuộc chạy trốn. Nhưng thức ăn cuối cùng đã được dâng cho một vị tỳ-kheo (xem Tissa 26), người đã chấp nhận lời mời thọ thực của họ (để biết chi tiết xem Mhv.xxiv.22ff; AN­a.i.365). Có lẽ chính mẹ của Tissa này, người mà chúng ta được kể (Vsm., p.63), đã dùng một tấm vải trị giá một trăm để lau sạch những vết bẩn khi con trai bà sinh ra, tấm vải mà sau đó bà đã ném ra con đường Tāḷaveli với hy vọng rằng nó có thể hữu ích cho một tỳ-kheo mặc y phấn tảo (*paṁsukūlika*).
 
 ## Notes

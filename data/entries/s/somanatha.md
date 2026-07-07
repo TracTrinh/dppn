@@ -25,6 +25,6 @@ Somanātha. A park laid out by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Somanātha. Một khu vườn được quy hoạch bởi Parakkamābāhu I. Cv.lxxix.10.
+Somanātha. Một khu vườn được quy hoạch bởi Parakkamabāhu I. Cv.lxxix.10.
 
 ## Notes

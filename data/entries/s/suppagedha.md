@@ -5,7 +5,7 @@ base_headword: "Suppagedha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suppagedha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppagedha. Một Yakkha, được những người đi theo Đức Phật cầu khẩn trong lúc cần thiết. DN.iii.205.
 
 ## Notes

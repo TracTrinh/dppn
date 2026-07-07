@@ -5,7 +5,7 @@ base_headword: "Nārāyana"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nārāyana 01. The name of a god (Viṣṇu), e.g., Cv.xlvii.25.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārāyana 01. Tên của một vị thần (Viṣṇu), vd., Cv.xlvii.25.
 
 ## Notes

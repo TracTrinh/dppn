@@ -27,6 +27,6 @@ Sevitabba­asevitabbasutta. The one hundred and fourteenth *Sutta* of the <span 
 
 ## Vietnamese translation
 
-Sevitabba­asevitabbasutta. *Sutta* thứ một trăm mười bốn của Majjhimanikāya, được thuyết giảng cho các tỳ-khẻo tại Jetavana về hai loại hành vi trong thân, khẩu và ý — loại nên thực hành và loại không nên. Sāriputta, đang có mặt, hỏi Đức Phật một số câu hỏi vào cuối bài giảng để một số phát biểu của Đức Phật trở nên rõ ràng hơn cho những người nghe. MN.iii.45f.
+Sevitabba­asevitabbasutta. *Sutta* thứ một trăm mười bốn của Majjhimanikāya, được thuyết giảng cho các tỳ-kheo tại Jetavana về hai loại hành vi trong thân, khẩu và ý — loại nên thực hành và loại không nên. Sāriputta, đang có mặt, hỏi Đức Phật một số câu hỏi vào cuối bài giảng để một số phát biểu của Đức Phật trở nên rõ ràng hơn cho những người nghe. MN.iii.45f.
 
 ## Notes

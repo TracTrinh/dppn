@@ -5,7 +5,7 @@ base_headword: "Vitthārasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vitthārasutta 02. A detailed account of deeds which are dark with dark result, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitthārasutta 02. Một ghi chép chi tiết về các hành động đen tối với kết quả đen tối, hành động tươi sáng với kết quả tươi sáng, đen tối và tươi sáng với kết quả hỗn hợp, không đen tối cũng không tươi sáng, điều cuối cùng dẫn đến sự không hành động (vô tác). AN.ii.230f.
 
 ## Notes

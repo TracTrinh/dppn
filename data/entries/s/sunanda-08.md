@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 08. A disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 08. Một đệ tử của Dhammadassī Buddha. Ap.i.196.
 
 ## Notes

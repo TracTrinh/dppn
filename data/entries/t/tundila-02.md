@@ -5,7 +5,7 @@ base_headword: "Tuṇḍila"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tuṇḍila 02. A parrot, who had a tiger as friend. For their story see Ras.i.3
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṇḍila 02. Một con vẹt có một người bạn là con hổ. Để xem câu chuyện của chúng, hãy xem Ras.i.36.
 
 ## Notes

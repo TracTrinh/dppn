@@ -5,7 +5,7 @@ base_headword: "Vimala"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vimala 05. One of the palaces of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimala 05. Một trong những cung điện của Đức Phật Piyadassī trước khi ngài xuất gia. Bv.xiv.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vivādamūlasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vivādamūlasutta. Ten causes of contention. AN.v.78f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vivādamūlasutta. Mười nguyên nhân của sự tranh cãi. AN.v.78f.
 
 ## Notes

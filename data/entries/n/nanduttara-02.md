@@ -5,7 +5,7 @@ base_headword: "Nanduttara"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nanduttara 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nanduttara 02. Con trai của Nārada Buddha trong đời sống cư sĩ cuối cùng của ngài. Khi Đức Phật thuyết pháp cho ông, tám mươi crore người đã liễu ngộ Chân lý. Bv.x.9, 20.
 
 ## Notes

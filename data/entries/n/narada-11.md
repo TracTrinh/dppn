@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "11"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nārada 11. A celebrated physician, probably identical with the famous sage, No.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 11. Một danh y, có lẽ đồng nhất với vị đạo sĩ nổi tiếng, Số 9, ở trên. Mil.272.
 
 ## Notes

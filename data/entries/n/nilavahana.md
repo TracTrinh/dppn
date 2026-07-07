@@ -5,7 +5,7 @@ base_headword: "Nīlavāhanā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nīlavāhanā. One of the three rivers crossed by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīlavāhanā. Một trong ba con sông mà Mahā Kappina đã băng qua trên đường từ Kukkuṭavatī đến gặp Đức Phật. Dhp­a.ii.120.
 
 ## Notes

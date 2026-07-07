@@ -5,7 +5,7 @@ base_headword: "Tiṇakaṭṭhasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tiṇakaṭṭhasutta. Incalculable is the beginning of *Saṁsāra*. If a man w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇakaṭṭhasutta. Khởi thủy của luân hồi (*Saṁsāra*) là không thể tính đếm. Nếu một người thu thập tất cả cỏ và cành cây của Jambudīpa, thì số lượng những người mẹ của người đó sẽ vượt quá chúng. SN.ii.178.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumekhali"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumekhali. A king of fifty-four *kappas* ago, a former birth of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumekhali. Một vị vua của năm mươi tư *kappa* trước, một tiền kiếp của Bilālidāyaka Thera. Thag­a.i.145.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅkura"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅkura. On of the four ministers of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅkura. Một trong bốn vị quan của Milinda được phái đi thỉnh Nāgasena đến cung điện. (Mil.p.29f.)
 
 ## Notes

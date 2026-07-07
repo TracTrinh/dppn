@@ -5,7 +5,7 @@ base_headword: "Puṇṇa"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇa 04. A servitor (*dabbigāhaka*) who held the oblation ladles for the s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇa 04. Một người hầu (*dabbigāhaka*) cầm muôi đựng đồ cúng cho bảy vị thánh nhân, được đề cập trong Assalāyanasutta (MN.ii.157; MN­a.ii.785); họ đã bị Asitadevala khiển trách vì sự kiêu ngạo của họ về sự ưu việt của những người Bà-la-môn.
 
 ## Notes

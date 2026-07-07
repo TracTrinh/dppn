@@ -5,7 +5,7 @@ base_headword: "Pukkusāti"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -57,6 +57,16 @@ Pukkhusāti was one of seven monks who, in the time of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pukkusāti. Một vị tỳ-kheo trẻ mà Đức Phật đã gặp tại nhà của người thợ gốm Bhaggava ở Rājagaha. Pukkusāti khi đó đã ở trong phòng khách của ngôi nhà, và Đức Phật xin phép được chia sẻ căn phòng, Pukkusāti đã sẵn sàng đồng ý. Họ ngồi cùng nhau một lúc trong im lặng, và sau đó Đức Phật đã thuyết giảng Dhātuvibhaṅgasutta. Pukkusāti đã nhận ra Đức Phật vào cuối bài pháp và cầu xin sự tha thứ của Ngài vì đã không đảnh lễ Ngài đúng mực; sau đó ông thỉnh cầu được thọ Cụ túc giới (*upasampadā*). Đức Phật đồng ý và cử ông đi tìm một chiếc bình bát và một tấm y. Trên đường đi, Pukkusāti đã bị một con bò điên húc chết. Khi điều này được báo cho Đức Phật, Ngài nói rằng Pukkusāti là một vị *Anāgāmī* và đã sinh vào những cõi giới ở trên, không bao giờ quay trở lại nữa. MN.iii.237-47. Trong bối cảnh này, Pukkusāti được gọi là một *kulaputta* (iii.238); xem thêm Ja.iv.180 và Dhp­a.ii.35.
+
+Trong những lời bình luận của mình về Dhātuvibhaṅgasutta, Buddhaghosa đã đưa ra một bản tường thuật dài về Pukkusāti. MN­a.ii.979 ff. Cp. câu chuyện về Tissa, vua nước Roruva (Thag­a.i.199f.)
+
+Ông đã từng là vua của Takkasilā, cùng thời với Bimbisāra và xấp xỉ tuổi nhau. Một liên minh hữu nghị đã được thiết lập giữa hai vị vua thông qua phương tiện là các thương gia đi lại giữa hai quốc gia vì mục đích giao thương. Theo thời gian, mặc dù hai vị vua chưa từng gặp nhau, nhưng giữa họ đã phát triển một mối quan hệ tình cảm sâu sắc. Có lần Pukkusāti đã gửi đến Bimbisāra tám món y phục vô giá trong các tráp sơn mài như một món quà. Món quà này đã được tiếp nhận tại một buổi thiết triều đặc biệt của toàn thể triều đình, và Bimbisāra vì không có bất kỳ thứ vật chất nào mà ông cho là đủ quý giá để gửi cho Pukkusāti, đã nảy ra ý tưởng cho Pukkusāti làm quen với sự xuất hiện trên thế gian của Ba Ngôi Báu (*ratanāni*) là Đức Phật, Giáo pháp và Tăng đoàn. Ông đã cho khắc trên một tấm vàng, dài bốn cubit và rộng một gang tay, các mô tả về Ba Ngôi Báu này và về nhiều giáo lý khác nhau trong những lời dạy của Đức Phật, chẳng hạn như các *satipaṭṭhāna*, Bát Chánh Đạo, và Ba mươi bảy Bồ-đề phần (các yếu tố của sự Giác ngộ). Tấm bảng này được đặt vào trong cùng của một vài chiếc hộp làm bằng những vật liệu quý giá khác nhau, và được đưa đi thành đoàn rước trên lưng con voi của hoàng gia cho đến biên giới vương quốc của Bimbisāra. Những sự tôn kính tương tự cũng được thực hiện bởi các thủ lĩnh của những vùng lãnh thổ khác, thông qua các lộ trình dẫn đến Takkasilā.
+
+Khi Pukkusāti, trong sự tĩnh mịch của căn phòng mình, đọc được dòng chữ khắc trên tấm bảng, ông tràn ngập niềm vui vô bờ bến và quyết định từ bỏ thế tục. Ông cạo tóc, khoác lên mình chiếc y màu vàng của một vị tỳ-kheo, và rời khỏi cung điện một mình giữa những lời than vãn của thần dân. Ông đã đi một trăm chín mươi hai do-tuần để đến Sāvatthī, đi ngang qua cổng Jetavana; nhưng do hiểu từ bức thư của Bimbisāra rằng Đức Phật đang ở Rājagaha, ông đã bỏ qua việc hỏi thăm về Ngài tại Jetavana, và đi thêm bốn mươi lăm do-tuần nữa để đến Rājagaha, nhưng lại thấy rằng Đức Phật đã ở Sāvatthī trong toàn bộ thời gian đó. Vì lúc đó đã là buổi tối, ông đã trọ lại tại nhà của Bhaggava. Đức Phật, với thiên nhãn của Ngài, đã nhìn thấy những gì sắp xảy ra với Pukkusāti, và đã đi bộ từ Sāvatthī, đến nhà của Bhaggava vào lúc mặt trời lặn, và trong khi chờ cơ hội, đã trò chuyện với Pukkusāti và thuyết giảng cho ông Dhātuvibhaṅgasutta, như đã được kể lại ở trên. Sau cái chết không đúng lúc của mình, Pukkusāti đã tái sinh vào cõi trời Avihā, nơi mà cùng với sáu người khác, ông đã trở thành một bậc *Arahant* ngay tại thời điểm tái sinh (xem SN.i.35, 60, để biết tên của những người khác).
+
+Con bò cái đã giết Pukkusāti được cho là một nữ dạ-xoa (*Yakkhinī*), người đã là một con bò trong một trăm kiếp tái sinh. Trong kiếp cuối cùng là một con bò, ngoài Pukkusāti ra, bà ta đã giết Bāhiya Dāruciriya, Tambadāṭhika, và người cùi hủi Suppabuddha (Dhp­a.ii.35).
+
+Pukkhusāti là một trong bảy vị tỳ-kheo, vào thời của Đức Phật Kassapa, đã quyết định nhịn ăn cho đến khi họ đắc quả *Arahant*. Họ sống trên đỉnh của một ngọn núi. Vị tỳ-kheo cao niên nhất đã đắc quả *Arahant*, vị thứ hai trở thành một bậc *Anāgāmī*, nhưng năm vị còn lại đã chết vì đói và tái sinh vào cõi Tusita. Trong thời đại này, họ lần lượt trở thành Pukkusāti, Kumāra Kassapa, Dārucīriya, Dabba Mallaputta và Sabhiya. Ap.ii.473; Dhp­a.ii.212; Ud­a.81; nhưng xem MN­a.i.335, nơi chỉ có ba người được đề cập (Pukkusāti, Dārucīriya, và Kassapa).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vītarāga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vītarāga. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vītarāga. Một vị Pacceka Buddha. MN.iii.71; Ap­a.i.107.
 
 ## Notes

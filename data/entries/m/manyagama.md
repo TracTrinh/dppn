@@ -5,7 +5,7 @@ base_headword: "Manyāgāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Manyāgāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manyāgāma. Một ngôi làng ở Dakkhiṇadesa của Tích Lan, được nhắc đến trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxx. 133, 134.
 
 ## Notes

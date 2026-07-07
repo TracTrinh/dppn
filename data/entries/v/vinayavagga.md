@@ -5,7 +5,7 @@ base_headword: "Vinayavagga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vinayavagga. The eighth chapter of the *Sattakanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayavagga. Chương thứ tám của *Sattakanipāta* của Aṅguttaranikāya. AN.iv.140-44.
 
 ## Notes

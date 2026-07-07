@@ -5,7 +5,7 @@ base_headword: "Puṅkoṇḍa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,6 @@ Puṅkoṇḍa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṅkoṇḍa. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara; ông đã chiến đấu chống lại Mālavacakkavatti và đánh chiếm được Semponmāri. Sau đó, ông đã đầu hàng Laṅkāpura và nhận được nhiều vinh dự; nhưng sau đó ông đã đào ngũ khỏi Laṅkāpura, người đã đốt trụi cung điện của ông. Lần cuối cùng chúng ta nghe nói về ông là về liên minh của ông với Nigaḷadha. Cv.lxxvi.139, 240, 273, 277, 278, 280, 299, 301; Cv.lxxvii.57, 92.
 
 ## Notes

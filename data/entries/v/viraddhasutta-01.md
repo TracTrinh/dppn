@@ -5,7 +5,7 @@ base_headword: "Viraddhasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viraddhasutta 01. Whoever neglects the Noble Eightfold Path neglects the way lea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viraddhasutta 01. Bất cứ ai bỏ lơ Bát Thánh đạo là bỏ lơ con đường dẫn đến sự đoạn tận khổ. SN.v.23.
 
 ## Notes

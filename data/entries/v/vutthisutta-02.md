@@ -5,7 +5,7 @@ base_headword: "Vuṭṭhisutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vuṭṭhisutta 02. At the end of the rains, <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuṭṭhisutta 02. Vào cuối mùa an cư, Sāriputta xin cáo từ Đức Phật để đi về miền quê. Khi ông sắp khởi hành, một vị tỳ-kheo báo cáo với Đức Phật rằng Sāriputta đã xúc phạm ông ta và không xin ông ta tha thứ (Chú giải (AN­a.ii.797) giải thích rằng gấu y áo của Sāriputta đã phẩy qua vị Trưởng lão; một số người nói rằng gió đã thổi nó mà ông không hề hay biết). Sāriputta được gọi đến và được yêu cầu giải thích; ông tuyên bố với vô số sự so sánh rằng ông không có hận thù và ác ý; ông không có gì khác ngoài sự ghê tởm đối với cơ thể của mình; làm sao ông có thể xúc phạm một vị tỳ-kheo huynh đệ mà lại không xin sự tha thứ của người đó? Kẻ buộc tội bị thuyết phục về sự ngu xuẩn của mình và cầu xin sự tha thứ (AN.iv.373ff.; cf. Dhp­a.ii.178ff., nơi câu chuyện xuất hiện lại).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tivakka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ The Brahmin, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tivakka (Tavakka). Một ngôi làng, được quản lý bởi những người Bà-la-môn có cùng tên. Tại đây, đám rước mang cây bodhi Thiêng Liêng từ Jambukola đến Anurādhapura đã dừng lại.
+
+Người Bà-la-môn, Tivakka, có thể là trưởng làng, đã có mặt tại buổi lễ trồng cây bodhi và sau đó, một trong tám chồi non từ cây này đã được trồng tại ngôi làng. (Mhv.xix.37, 54, 61; Mbv. p.162; Vin-a.i.100).
 
 ## Notes

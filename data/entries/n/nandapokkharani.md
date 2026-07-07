@@ -5,7 +5,7 @@ base_headword: "Nandāpokkharaṇī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,6 @@ Nandāpokkharaṇī. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandāpokkharaṇī. *v.l.* Nandanapokkharaṇī (*q.v.*). Một hồ nước, rộng năm trăm do-tuần, trong khu vườn Nandanavana ở Tāvatiṁsa, xuất hiện tại đó do phước báu của Nandā, vợ của Magha (Ja.i.204, 205; vi. 132, 232, 531; Dhp­a.i.275.).
 
 ## Notes

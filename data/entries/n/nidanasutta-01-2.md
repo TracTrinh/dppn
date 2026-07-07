@@ -5,7 +5,7 @@ base_headword: "Nidānasuttā"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nidānasuttā 01. Two *Suttas* on the three originating causes of action: lust, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hai bài kinh (*Suttas*) về ba nguyên nhân phát sinh của hành động: tham, sân và si. AN.i.134f.
 
 ## Notes

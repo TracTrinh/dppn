@@ -5,7 +5,7 @@ base_headword: "Poṭṭhapāda"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Poṭṭhapāda 03. A parrot, younger brother of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Poṭṭhapāda 03. Một con vẹt, em trai của Rādha, tức là Bodhisatta. Poṭṭhapāda được đồng nhất với Ānanda. Để biết câu chuyện của ông, xem Rādhajātaka. Ja 198, Ja.ii.132 ff.
 
 ## Notes

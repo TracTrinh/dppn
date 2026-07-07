@@ -5,7 +5,7 @@ base_headword: "Visākha"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Visākha 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākha 03. Visākha Thera. Ông là một gia chủ giàu có của Pāṭaliputta, người khi nghe nói rằng có nhiều đền tháp ở Tích Lan, đã giao lại tài sản cho gia đình và rời khỏi nhà với một đồng xu duy nhất bọc trong vạt áo. Ông đã phải trải qua một tháng ở cảng để chờ tàu, và trong thời gian đó, kiếm được một ngàn nhờ kỹ năng buôn bán của mình. Khi đến Mahā Vihāra, ông đã xin được xuất gia, và khi đến thời điểm xuất gia của ông, số tiền đó bị phát hiện, ông đã phân phát nó cho những người có mặt. Sau năm năm, ông bắt đầu đi du hành, và với sự giúp đỡ của một vị *Devatā*, ông đã tìm được đường đến *vihāra* Cittalapabbata, nơi ông đã lưu lại trong bốn tháng. Ngay khi ông chuẩn bị rời đi, vị *Devatā* của cây *jambu* đứng ở đầu đường kinh hành (*caṅkamana*) của ông xuất hiện trước mặt ông khóc lóc, và giải thích rằng trong khi Thera ở đó, những người phi nhân sống trong hòa bình, nhưng khi ông rời đi, họ sẽ bắt đầu cãi vã và nói chuyện lớn tiếng. Nhiều lần ông đã cố gắng rời đi nhưng đều bị ngăn cản như vậy, cho đến khi cuối cùng, ông trở thành một vị *Arahant* và viên tịch ở đó. Vsm.i.312f; câu chuyện được nhắc đến ở AN­a.ii.865.
 
 ## Notes

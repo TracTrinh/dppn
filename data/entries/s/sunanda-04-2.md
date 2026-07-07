@@ -5,7 +5,7 @@ base_headword: "Sunandā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunandā 04. One of the chief women supporters of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunandā 04. Một trong những nữ cư sĩ hộ độ chính của Atthadassī Buddha. Bv.xv.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puttabhāgavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puttabhāgavihāra. A *vihāra* in Ceylon, restored by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puttabhāgavihāra. Một *vihāra* ở Tích Lan, được trùng tu bởi Vohāratissa. Mhv.xxxvi.36.
 
 ## Notes

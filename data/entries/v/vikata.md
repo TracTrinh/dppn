@@ -5,7 +5,7 @@ base_headword: "Vikaṭa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vikaṭa. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vikaṭa. Một ngọn núi gần Himavā. Ap.i.227.
 
 ## Notes

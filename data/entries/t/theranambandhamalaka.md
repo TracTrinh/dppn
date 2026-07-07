@@ -5,7 +5,7 @@ base_headword: "Therānambandhamālaka"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -27,6 +27,6 @@ Therānambandhamālaka. A locality in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Therānambandhamālaka. Một địa điểm ở Anurādhapura nơi Uttiya đã dựng giàn thiêu cho Mahinda. Sau này, ông đã dựng một bảo tháp (*Thūpa*) ở đó để tôn trí một nửa phần xá-lợi (Mhv.xx.42f).
 
 ## Notes

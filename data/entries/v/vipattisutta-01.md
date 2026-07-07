@@ -5,7 +5,7 @@ base_headword: "Vipattisutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vipattisutta 01. On the three kinds of failure: failure in morals, in mind (*cit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipattisutta 01. Về ba loại thất bại: thất bại trong giới luật, trong tâm (*citta*), và trong tri kiến. AN.i.268.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇa"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇa 03. Slave of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇa 03. Người nô lệ của Meṇḍaka (*q.v.*). Ông là một trong năm người có phước báu lớn lao (*Pañca Mahā Puññā*) (AN­a.i.219; Dhp­a.i.385). Khi ông cày ruộng bằng một chiếc cày duy nhất, ông đã tạo ra mười bốn luống cày, mỗi bên bảy luống. Vsm.383.
 
 ## Notes

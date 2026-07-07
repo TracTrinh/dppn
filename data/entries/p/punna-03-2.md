@@ -5,7 +5,7 @@ base_headword: "Puṇṇā"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -46,6 +46,14 @@ It may be this same <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇā 03. Puṇṇā Therī (*v.l.* Puṇṇikā Therī). Một vị *Arahant*. Bà được sinh ra trong gia đình của Anāthapiṇḍika, là con gái của một người hầu nữ trong nhà. Bà được gọi là Puṇṇā bởi vì, với sự ra đời của bà, số lượng trẻ em trong nhà đã đạt đến một trăm.
+
+Vào ngày mà bà được nghe Sīhanādasutta bà đã trở thành một bậc *Sotāpanna*. Bà đã cải đạo cho vị Bà-la-môn Sotthiya, người tin vào sự thanh tẩy thông qua nước (cuộc trò chuyện được ghi lại trong Thīg. vs. 236-51), và do đó đã giành được sự quý trọng của Anāthapiṇḍika, vì vậy ông đã trả tự do cho bà. Thế rồi, bà gia nhập Tăng đoàn và trong quá trình đó đã trở thành một bậc *Arahant*.
+
+Vào thời của Đức Phật Vipassī bà được sinh ra trong một gia đình quý tộc và gia nhập Tăng đoàn. Bà đã học ba tạng (*Piṭaka*) và trở thành một vị pháp sư lỗi lạc. Bà cũng đã làm điều tương tự dưới thời của năm vị Phật khác – Sikhī, Vessabhū, Kakusandha, Koṇāgamana và Kassapa nhưng, do thói quen kiêu ngạo của mình, bà đã không thể tận diệt các lậu hoặc. Thīg­a. 199 ff.; Ap.ii.611.
+
+Tuy nhiên, Buddhaghosa lại nói về vị Therī này rằng bà là một nữ tỳ của Anāthapiṇḍika (MN­a.i.347f.; câu chuyện này, với những chi tiết rất khác, được đưa ra trong AN­a.ii.716f). Có một lần, khi Đức Phật chuẩn bị khởi hành cho một chuyến du hành, Anāthapiṇḍika và những nhà đại thí chủ khác của Đức Phật, không muốn phải xa Ngài trong vài tháng, đã cầu xin Ngài ở lại với họ. Nhưng Đức Phật đã từ chối lời thỉnh cầu này, và Puṇṇā, nhìn thấy Anāthapiṇḍika rất buồn bã và khi biết được lý do, bà đã ngỏ ý thuyết phục Đức Phật ở lại. Vậy là bà đi đến chỗ Ngài và nói rằng bà sẽ thọ Tam quy Ngũ giới nếu Ngài hoãn chuyến đi của mình. Đức Phật lập tức đồng ý, và Puṇṇā đã được trả tự do và được nhận làm con gái nuôi của Anāthapiṇḍika. Sau đó, bà gia nhập Tăng đoàn, và trở thành một bậc *Arahant* sau khi lắng nghe lời giáo giới của Đức Phật, người đã xuất hiện trước bà trong một luồng hào quang (Thīg, vs.3, về Puṇṇā 2). Ở đây chắc chắn là chúng ta có một sự nhầm lẫn giữa các truyền thuyết. Xem Puṇṇā (2).
+
+Có thể chính Puṇṇā này là người được nhắc đến trong Milindapañha (p.115) như một trong bảy người mà các hành động sùng đạo của họ đã mang lại phần thưởng cho họ ngay trong kiếp sống này.
 
 ## Notes

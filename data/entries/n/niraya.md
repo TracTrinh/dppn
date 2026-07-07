@@ -5,7 +5,7 @@ base_headword: "Niraya"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -59,6 +59,8 @@ The Commentaries explain (e.g., AN­a.ii.853) that these are not separate *Niray
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niraya. Các danh sách khác nhau về các *Nirayas* (địa ngục) được tìm thấy trong các kinh sách. Trong Chú giải Jātaka có danh sách sau (Ja.v.266, 271; danh sách tương tự được tìm thấy trong Divy.67, ngoại trừ Raurava được thay thế cho Jalaroruva và Mahā Raurava cho Dhūmaroruva): Sañjīva, Kāḷasutta, Saṅghāta, Jālaroruva, Dhūmaroruva, Mahāvīci, Tapana, Patāpana. Saṁyuttanikāya và Aṅguttaranikāya cùng với Suttanipāta chứa một danh sách khác: Abbuda, Nirabbuda, Ababa, Aṭaṭa, Ahaha, Kumuda, Sogandhika, Uppala, Puṇḍarīka, Paduma (SN.i.149; AN.v.173; Snp.p.126; xem thêm Divy.67).
+
+Các Chú giải giải thích (ví dụ: AN­a.ii.853) rằng đây không phải là những *Nirayas* riêng biệt mà là những khoảng thời gian chịu khổ hình được xác định ở Avīci. Devadūtasutta (MN.iii.185) thuộc Majjhimanikāya chứa một danh sách khác nữa: Gūtha, Kukkuḷa, Simbalivana, Asipattavana và Khārodakanadī. Các tên khác cũng xuất hiện rải rác, ví dụ: Khuradhāra (Ja.v.269), Kākola (Ja.vi.247), Sataporisa (Ja.v.269) và Sattisūla (Ja.v.143). Tuy nhiên, *Niraya* đáng sợ nhất là *Mahāniraya* Avīci.
 
 ## Notes

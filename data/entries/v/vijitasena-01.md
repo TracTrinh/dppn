@@ -5,7 +5,7 @@ base_headword: "Vijitasena"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijitasena 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasena 01. Con trai của Đức Phật Koṇḍañña. Mẹ của ông là Rucidevī. Bv.iii.27; Bv­a.107, 111.
 
 ## Notes

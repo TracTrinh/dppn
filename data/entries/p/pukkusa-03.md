@@ -5,7 +5,7 @@ base_headword: "Pukkusa"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -36,6 +36,8 @@ Pukkusa 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pukkusa 03. Một vương tử tộc Malla (*Mallarājaputta*). Ông là một đệ tử của Ālāra Kālāma, và một ngày nọ, khi đang trên đường từ Kusinārā đến Pāvā, ông đã nhìn thấy Đức Phật đang ngồi dưới một gốc cây bên đường và đã dừng lại để thưa chuyện với Ngài. Ông đề cập rằng có lần năm trăm cỗ xe đã đi ngang qua nơi Āḷāra đang ngồi, nhưng ông vẫn chìm sâu trong thiền định đến mức không hề hay biết về chúng. Đức Phật đã kể cho ông nghe việc, khi chính Ngài đang ở Ātumā trong Bhusāgāra, đã có một trận sấm sét dữ dội đánh chết hai người nông dân và bốn con bò đực, nhưng Ngài chẳng nghe thấy hay nhìn thấy gì, bởi sự định tâm của Ngài rất sâu sắc. Pukkusa vô cùng ấn tượng trước lời nói này, và, sau khi tuyên bố trở thành tín đồ của Đức Phật, ông đã dâng lên Đức Phật hai tấm y bằng vải dát vàng, theo sự gợi ý của Đức Phật, ông đã trao một tấm cho Ānanda. Khi Pukkusa rời đi, Ānanda đã khoác một tấm y lên người Đức Phật, và ông vô cùng kinh ngạc trước vẻ ngoài nhợt nhạt của nó so với màu vàng kim sâu thẳm trên cơ thể của Đức Phật (DN.ii.130ff).
+
+Buddhaghosa nói (DN­a.ii.569) rằng Pukkusa là một thương gia, và là chủ nhân của năm trăm cỗ xe đã băng qua Kakkuṭṭhā (*q.v.*) ngay trước khi sự kiện được đề cập ở trên xảy ra.
 
 ## Notes

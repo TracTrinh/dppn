@@ -5,7 +5,7 @@ base_headword: "Tittirajātaka"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ The story was related in reference to the failure of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittirajātaka 01. (Ja 37). Xưa kia có ba người bạn, một con chim đa đa (*tittira*), một con khỉ và một con voi. Khi phát hiện ra con chim đa đa là con lớn tuổi nhất trong số chúng, chúng đã tôn kính nó như một vị thầy của mình và nó đã cho chúng những lời khuyên. Cách cư xử của chúng được gọi là *Tittiriyabrahmacariya*. Bodhisatta là con chim đa đa, Moggallāna là con voi, và Sāriputta là con khỉ.
+
+Câu chuyện được kể liên quan đến việc các thành viên Chabbaggiyas không thể hiện sự tôn trọng đúng mực đối với Sāriputta. Một lần nọ, khi ông đến thăm họ cùng với Đức Phật, họ đã từ chối cung cấp chỗ ở cho ông, và ông đã phải ngủ dưới một gốc cây. Ja.i.217ff; cp. Vin.ii.161; Avś.ii.17.
 
 ## Notes

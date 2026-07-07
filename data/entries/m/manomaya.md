@@ -5,7 +5,7 @@ base_headword: "Manomaya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Manomaya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manomaya. Một vị Pacceka Buddha (MN.iii.70; Ap­a.i.107.).
 
 ## Notes

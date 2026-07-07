@@ -5,7 +5,7 @@ base_headword: "Tittirajātaka"
 disambiguator: "04"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,8 @@ The ascetic was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittirajātaka 04. (Ja 438). Xưa kia ở Benares có một vị thầy nổi tiếng đã lui về sống trong rừng. Người ta từ khắp nơi đến để học hỏi từ ông và mang cho ông rất nhiều lễ vật. Trong nhà ông có nuôi một con chim đa đa, nhờ lắng nghe lời giảng dạy của vị thầy, nó đã học thuộc lòng ba kinh Veda. Một con thằn lằn đã được thuần hóa và một con bò đã được dâng làm lễ vật cho vị thầy. Khi vị thầy qua đời, các học trò của ông vô cùng tuyệt vọng, nhưng đã được trấn an bởi con chim đa đa, người đã dạy cho họ những gì nó biết. Một ngày nọ, một tu sĩ khổ hạnh độc ác đến am thất và, trong lúc vắng mặt các học trò, đã giết chết con chim đa đa, con thằn lằn nhỏ và con bò. Con chim đa đa có hai người bạn, một con sư tử và một con hổ, họ đã giết kẻ sát nhân.
+
+Tu sĩ khổ hạnh là Devadatta, thằn lằn là Kisā Gotamī, con hổ là Moggallāna, con sư tử là Sāriputta, vị thầy là Mahā Kassapa, và con chim đa đa là Bodhisatta. Câu chuyện được kể liên quan đến những nỗ lực của Devadatta nhằm giết Đức Phật. Ja.iii.536f.
 
 ## Notes

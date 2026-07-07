@@ -5,7 +5,7 @@ base_headword: "Therāpassayapariveṇa"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Therāpassayapariveṇa. A building erected on the spot where <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Therāpassayapariveṇa. Một tòa nhà được dựng lên trên chính nơi Mahinda thường hay ngồi thiền, dựa vào một vật chống. Mhv.xv.210.
 
 ## Notes

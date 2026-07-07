@@ -5,7 +5,7 @@ base_headword: "Nibbindā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Nibbindā. A channel, branching eastwards from the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con kênh, rẽ nhánh về phía đông từ con kênh Aciravatī của sông Mahā Vālukagaṅgā. Cv.lxxix.53.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Theravagga"
 disambiguator: "02"
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -24,6 +24,6 @@ Theravagga 02. The ninth chapter of the *Dasakanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theravagga 02. Chương thứ chín của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.151-76.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pulinapūjaka Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pulinapūjaka Thera 02. An *Arahant*. Ninety-one *kappas* ago he saw <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulinapūjaka Thera 02. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã nhìn thấy Đức Phật Vipassī và, vui mừng trước cảnh tượng đó, ông đã đảnh lễ Ngài và rải cát lên con đường của Ngài. Ap.i.259.
 
 ## Notes

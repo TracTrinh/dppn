@@ -5,7 +5,7 @@ base_headword: "Therīyaparampāra"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Therīyaparampāra. The name given to the succession of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Therīyaparampāra. Tên được đặt cho hệ phái truyền thừa của các tỳ-kheo Theravāda. Mhv.v.1.
 
 ## Notes

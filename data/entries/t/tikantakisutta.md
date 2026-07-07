@@ -5,7 +5,7 @@ base_headword: "Tikantakisutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tikantakisutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikantakisutta. Được thuyết tại Tikantakivana, về năm phương pháp mà một tỳ-kheo đạt được sự đĩnh đạc và xả ly, thoát khỏi cả những điều gây khó chịu và những điều không gây khó chịu. AN.iii.169f.
 
 ## Notes

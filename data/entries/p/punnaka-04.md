@@ -5,7 +5,7 @@ base_headword: "Puṇṇaka"
 disambiguator: "04"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puṇṇaka 04. A king of twenty-five *kappas* ago, a former birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇaka 04. Một vị vua cách đây hai mươi lăm *kappa*, một tiền kiếp của Asanabodhiya Thera. Ap.i.111.
 
 ## Notes

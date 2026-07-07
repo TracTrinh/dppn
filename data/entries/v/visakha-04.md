@@ -5,7 +5,7 @@ base_headword: "Visākha"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākha 04. One of the chief lay supporters of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākha 04. Một trong những nam cư sĩ hộ độ chính của Maṅgala Buddha. Bv.v.25.
 
 ## Notes

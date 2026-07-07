@@ -5,7 +5,7 @@ base_headword: "Vimānavatthu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -38,6 +38,6 @@ Stories from the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimānavatthu. Cuốn sách thứ sáu của Khuddakanikāya. Nó mô tả sự lộng lẫy của các cung điện thiên giới khác nhau thuộc về nhiều chư thiên khác nhau, mà họ có được như một phần thưởng cho một số hành động công đức đã được thực hiện trong một kiếp trước. Những câu chuyện này được tìm hiểu từ chính chư thiên, bởi Moggallāna, Vaṅgīsa và những người khác, trong thời gian họ lưu trú ở các cõi thiên giới, và được họ tâu lại với Đức Phật.\n\nMột bản Chú giải về tác phẩm này của Dhammapāla hiện đang tồn tại, tạo thành một phần của Paramatthadīpanī, và đôi khi được gọi là Vimalatthavilāsinī (*q.v.*).\n\nCác câu chuyện từ Vimānavatthu đã được Mahinda kể lại ở Tích Lan trong bài pháp đầu tiên của ngài cho Anulā và năm trăm người bạn đồng hành của bà. Mhv.xiv.58.
 
 ## Notes

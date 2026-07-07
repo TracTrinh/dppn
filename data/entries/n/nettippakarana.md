@@ -5,7 +5,7 @@ base_headword: "Nettippakaraṇa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -31,6 +31,10 @@ There exists a Commentary on it by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cũng được gọi là Nettigantha. Một tác phẩm giải nghĩa về các *Piṭaka*, theo truyền thống được cho là của Mahā Kaccāna.
+
+Có một Bản chú giải về tác phẩm này do Dhammapāla soạn (Gv.59, 60; Sās-d.65).
+
+Ñāṇābhivaṁsa đã viết một *ṭīkā* về nó. Svd.1215.
 
 ## Notes

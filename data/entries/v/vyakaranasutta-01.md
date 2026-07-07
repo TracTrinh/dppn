@@ -5,7 +5,7 @@ base_headword: "Vyākaraṇasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -24,6 +24,6 @@ Vyākaraṇasutta 01. Five qualities, including knowledge of the four kinds of a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vyākaraṇasutta 01. Năm phẩm chất, bao gồm sự hiểu biết về bốn loại phân tích, giúp một vị tỳ-kheo đạt được mục tiêu của mình. AN.iii.110.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Visāradasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Visāradasutta 02. Five things that give confidence to a woman: beauty, wealth, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visāradasutta 02. Năm điều mang lại sự tự tin cho một người phụ nữ: sắc đẹp, tài sản, người thân, những đứa con trai và đức hạnh. SN.iv.246.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tudu Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tudu Thera. Ông là thầy của Cūḷa Kokālika và, sau khi trở thành một *Anāgāmī*, đã tái sinh làm một Pacceka Brahma trong cõi *Brahma*.
+
+Khi Kokālika bị bệnh nặng, Tudu đã đến thăm ông ta và khuyên nhủ ông ta hãy đặt niềm tin vào Sāriputta và Moggallāna. Nhưng Kokālika từ chối chấp nhận lời khuyên của ông và đuổi ông đi. SN.i.149; AN.v.171; Ja.iv.245; AN­a.ii.852; SN­a.i.167f; Snp­a.ii.476.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumaṅgala 04. The city where <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 04. Thành phố nơi Piyadassī Buddha đã thuyết pháp cho Pālita và Sabbadassī, những người sau này trở thành các vị đại đệ tử của ngài. Bv­a.176.
 
 ## Notes

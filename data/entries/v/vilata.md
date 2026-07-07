@@ -5,7 +5,7 @@ base_headword: "Vilāta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vilāta. A country. Mil. 327, 331; Rhys Davids identifies it with Tartary (Mil. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vilāta. Một quốc gia. Mil. 327, 331; Rhys Davids đồng nhất nó với Tartary (Mil. Trs.ii.204).
 
 ## Notes

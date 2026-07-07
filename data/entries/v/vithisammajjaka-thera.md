@@ -5,7 +5,7 @@ base_headword: "Vīthisammajjaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vīthisammajjaka Thera. An *Arahant*. He once saw the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīthisammajjaka Thera. Một vị *Arahant*. Có lần ông đã nhìn thấy Buddha Sikhī trên đường phố cùng với sáu mươi tám nghìn nhà sư, và sau khi quét dọn đường sá, ông đã dựng một lá cờ để tôn vinh Đức Phật. Bốn *kappa* trước ông là một vị vua tên là Sudhaja (Ap.i.177). Có lẽ ông chính là Vacchagotta Thera. Thag­a.i.221.
 
 ## Notes

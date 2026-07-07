@@ -5,7 +5,7 @@ base_headword: "Pubbakammapiloti"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,10 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbakammapiloti. Một chương trong Apadāna (Ap.i.299 ff) kể lại các sự kiện từ nhiều kiếp sống của Bodhisatta để giải thích lý do vì sao Đức Phật phải chịu đựng nhiều khổ đau khác nhau trong kiếp sống cuối cùng của Ngài – ví dụ, từ sự bức hại bởi bàn tay của những kẻ thù và từ nhiều căn bệnh thể xác khác nhau. Hầu hết các sự kiện được đề cập không thể tìm thấy trong các bản Jātaka.
+
+Chương này được mô tả là một Buddhāpadāna (Ap.i.301), nhưng không có tài liệu tham khảo nào về nó hoặc về các sự kiện được kể lại trong chương có tựa đề Buddhāpadāna nằm ở phần đầu của Apadāna.
+
+Xem thêm Pilotikamma.
 
 ## Notes

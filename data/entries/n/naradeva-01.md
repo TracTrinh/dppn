@@ -5,7 +5,7 @@ base_headword: "Naradeva"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naradeva 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naradeva 01. Một Yakkha, người mà cứ nửa tháng một lần, đã chiếm giữ Kāvinda và khiến ông ta sủa như một con chó. Khi điều này xảy ra, con trai của Kāvinda đã nhốt ông ta ở trong nhà. Ja.vi.383,387.
 
 ## Notes

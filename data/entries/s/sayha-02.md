@@ -26,6 +26,6 @@ Sayha 02. A minister of the king of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Sayha 02. Một vị quan của vua Benares, được đồng nhất với Sāriputta. Xem Sayha jātaka (Ja 310).
+Sayha 02. Một vị quan của vua Benares, được đồng nhất với Sāriputta. Xem Sayhajātaka (Ja 310).
 
 ## Notes

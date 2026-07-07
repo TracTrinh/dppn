@@ -5,7 +5,7 @@ base_headword: "Nandikkhayasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nandikkhayasutta 01. Two discourses on the destruction of the lure of lust, thro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandikkhayasutta 01. Hai bài giảng về sự diệt trừ của sức cám dỗ của tham ái, thông qua việc nhận rõ sự vô thường của các uẩn (*khandha*). SN.iii.51.
 
 ## Notes

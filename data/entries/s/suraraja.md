@@ -5,7 +5,7 @@ base_headword: "Sūrarājā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sūrarājā. A messenger of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūrarājā. Một sứ giả của Kuvera (*q.v.*). DN­a.iii.967.
 
 ## Notes

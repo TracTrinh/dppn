@@ -5,7 +5,7 @@ base_headword: "Tilokasundarī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,6 @@ Tilokasundarī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tilokasundarī. Một công chúa xứ Kāliṅga, vương hậu thứ hai của Vijayabāhu I. Sau này bà trở thành vương hậu chính của ông và có năm người con gái – Subhaddā, Sumittā, Lokanāthā, Ratnāvalī và Rūpavatī – và một con trai, Vikkamabāhu. Cv.lix.29.
 
 ## Notes

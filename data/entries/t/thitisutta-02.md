@@ -5,7 +5,7 @@ base_headword: "Ṭhitisutta"
 disambiguator: "02"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhitisutta 02. Khi Đức Phật đã viên tịch, Giáo pháp (*Dhamma*) sẽ tồn tại lâu dài nếu mọi người trau dồi bốn Tứ niệm xứ (*satipaṭṭhāna*), bằng không thì sẽ không tồn tại lâu dài. SN.v.172.
 
 ## Notes

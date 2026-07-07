@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 07. The park where <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 07. Công viên nơi Anomadassī Buddha được sinh ra. Bv­a.141.
 
 ## Notes

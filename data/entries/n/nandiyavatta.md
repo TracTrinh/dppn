@@ -5,7 +5,7 @@ base_headword: "Nandiyāvaṭṭa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiyāvaṭṭa. The name of a huge fish dwelling in the ocean. AN­a.i.285.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiyāvaṭṭa. Tên của một loài cá khổng lồ cư trú ở đại dương. AN­a.i.285.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vītamāla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vītamāla. A king of fifty-seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vītamāla. Một vị vua của năm mươi bảy *kappa* trước, một tiền kiếp của Koraṇḍapupphiya (Ramaṇīyavihāri) Thera. Ap.i.206; Thag­a.i.116.
 
 ## Notes

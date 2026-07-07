@@ -5,7 +5,7 @@ base_headword: "Vitakkasanthānasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vitakkasanthānasutta. The twentieth *Sutta* of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitakkasanthānasutta. *Sutta* thứ hai mươi của Majjhimanikāya, được Đức Phật thuyết cho các nhà sư tại Sāvatthī. Một vị tỳ-kheo có thể, bằng năm cách, loại bỏ những suy nghĩ xấu xa liên quan đến tham, sân và si: bằng cách hướng tâm trí của mình đi nơi khác; bằng cách xem xét cẩn thận về hậu quả nguy hiểm của chúng; bằng cách bỏ qua những suy nghĩ xấu xa và sai trái; bằng cách làm dịu đi những gì định hình những suy nghĩ này; bằng cách khuất phục chúng bằng sức mạnh tuyệt đối của tâm trí. Các phương pháp khác nhau này được minh họa bằng các ẩn dụ. MN.i.118-122.
 
 ## Notes

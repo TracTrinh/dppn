@@ -5,7 +5,7 @@ base_headword: "Narasīhagāthā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,8 @@ Each verse ends with the word “*narasīha*”. Ap­a.i.79; Ja.i. says there we
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narasīhagāthā. Mười bài kệ tán thán vẻ đẹp của Đức Phật, được cho là do Rāhulamātā thốt ra khi Suddhodana thông báo cho bà biết rằng Đức Phật đang đi khất thực trong chính thành phố Kapilavatthu của ngài.
+
+Mỗi bài kệ đều kết thúc bằng từ "*narasīha*". Ap­a.i.79; Ja.i. nói rằng chỉ có 8 bài kệ.
 
 ## Notes

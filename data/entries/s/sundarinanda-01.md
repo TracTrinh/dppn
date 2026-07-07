@@ -5,7 +5,7 @@ base_headword: "Sundarīnandā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sundarīnandā 01. Younger sister of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarīnandā 01. Em gái của Thullanandā; cô có hai người chị em khác, Nandā và Nandavatī. Sāḷha Migāranattā (*q.v.*) đã quyến rũ cô, và cô bị tuyên bố phạm phải một tội Parājikā (Ba-la-di) (Vin.iv.211f). Cô cũng bị chê trách vì tính tham ăn của mình. Vin.iv.232f., 234.
 
 ## Notes

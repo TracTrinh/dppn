@@ -5,7 +5,7 @@ base_headword: "Nandikkhayavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandikkhayavagga. The sixteenth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandikkhayavagga. Chương thứ mười sáu của Saḷāyatanasaṁyutta. SN.iv.142-8
 
 ## Notes

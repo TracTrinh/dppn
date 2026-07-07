@@ -5,7 +5,7 @@ base_headword: "Sunettasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunettasutta. Contains a list of teachers, including <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunettasutta. Chứa một danh sách các vị đạo sư, bao gồm cả Sunetta (*q.v.*), những người đã dạy cho tín đồ của họ con đường đi đến cõi Phạm thiên (*Brahma*). AN.iv.135.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nibbidāsutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nibbidāsutta 02. The same as above but with the four *iddhipādas*. SN.v.255.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như trên nhưng với bốn *iddhipāda*. SN.v.255.
 
 ## Notes

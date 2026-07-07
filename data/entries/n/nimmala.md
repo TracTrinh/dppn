@@ -5,7 +5,7 @@ base_headword: "Nimmala"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nimmala. An officer in the service of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimmala. Một vị quan phục vụ cho Parakkamabāhu I. Cv.lxvi.124.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijjāsutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 03. Anuruddha tuyên bố rằng, nhờ tu tập bốn niệm xứ (*satipaṭṭhāna*), ông đã có thể: (1) nhớ lại nhiều kiếp sống đa dạng trong quá khứ; (2) thấy rõ sự sinh diệt của chúng sinh tùy theo nghiệp lực của họ; và (3) đoạn tận các *āsava*. SN.v.305.
 
 ## Notes

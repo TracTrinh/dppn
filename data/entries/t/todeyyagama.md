@@ -5,7 +5,7 @@ base_headword: "Todeyyagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Todeyyagāma. A village between <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Todeyyagāma. Một ngôi làng giữa Sāvatthī và Benares. Nó chứa ngôi đền của Kassapa Buddha, nơi đã được tôn kính thậm chí trong cả thời đại hiện tại. Đức Phật đã từng đến thăm nơi này cùng với Ānanda. Dhp­a.iii.250f.
 
 ## Notes

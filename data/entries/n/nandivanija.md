@@ -5,7 +5,7 @@ base_headword: "Nandivāṇija"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -29,6 +29,8 @@ The demon went to the ship, but on <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivāṇija. Một thương nhân của Mahā Titthapaṭṭana. Ông vắng nhà trong ba năm, và quan đại thần của nhà vua, Siva, muốn chiếm đoạt vợ ông, đã trả tiền cho một người gọi hồn để sai một con quỷ đến giết Nandi.
+
+Con quỷ đã đến con tàu, nhưng theo lời khuyên của Nandi, thủy thủ đoàn đã tìm đến Tam Bảo (Three Refuges), và con quỷ đã bỏ chạy. Bị mất đi con mồi, con quỷ đã giết cả người gọi hồn và Siva. Ras.ii.139f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Naṅguṭṭhajataka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,8 @@ The story was related in reference to a question as to whether the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naṅguṭṭhajataka (Ja 144). Một lần vị Bodhisatta sinh ra trong một gia đình Bà-la-môn ở Phương Bắc, và vào ngày ngài sinh ra, cha mẹ ngài đã thắp cho ngài một ngọn lửa tế lễ. Khi ngài lớn lên, vì đời sống gia đình không có sức hấp dẫn đối với ngài, ngài đã mang ngọn lửa đó đến một am thất trong rừng và chăm lo cho nó ở đó. Một ngày nọ ngài được tặng một con bò thay cho thù lao, ngài muốn cúng tế nó cho Thần Lửa, ngài đã để nó lại bên ngọn lửa và đi đến ngôi làng để tìm muối. Khi trở về ngài phát hiện ra rằng bọn trộm đã ăn thịt con bò, chỉ để lại bộ da và cái đuôi. Cảm thấy ghê tởm vì Thần Lửa thậm chí không thể bảo vệ tài sản của chính mình, ngài đã dập tắt ngọn lửa và trở thành một sa-môn.
+
+Câu chuyện này được kể lại liên quan đến một câu hỏi về việc liệu các tu sĩ Ājīvaka – một số trong đó sống đằng sau Jetavana – có đạt được bất kỳ phước báu nào thông qua sự thực hành các pháp khổ hạnh gian truân của họ hay không. Ja.i.493ff.
 
 ## Notes

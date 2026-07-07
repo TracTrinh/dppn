@@ -5,7 +5,7 @@ base_headword: "Mārapāsasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mārapāsasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mārapāsasutta. Chiếc bẫy của Māra trói buộc kẻ nào hoan hỷ với các cảnh sắc, âm thanh, v.v. SN.iv.91-92.
 
 ## Notes

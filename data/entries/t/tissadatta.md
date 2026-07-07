@@ -5,7 +5,7 @@ base_headword: "Tissadatta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,8 @@ On one occasion, wishing to salute the Bodhi-tree by means of his *iddhi*-power,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissadatta. Một vị Trưởng lão của Ceylon, người chịu trách nhiệm đặc biệt về Vinaya (Vin.v.3). Ngài có thể là cùng một người với Tissadatta được đề cập (Vibh­a.387, 389; MN­a.i.234) là có khả năng thuyết pháp bằng mười tám ngôn ngữ khác nhau, giải thích văn bản của *Tipiṭaka*.
+
+Trong một dịp nọ, muốn đảnh lễ cây Bodhi bằng sức mạnh thần thông (*iddhi*) của mình, ngài đã khiến nó xích lại gần ngài. Vsm.403.
 
 ## Notes

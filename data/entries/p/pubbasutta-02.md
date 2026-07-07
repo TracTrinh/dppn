@@ -5,7 +5,7 @@ base_headword: "Pubbasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pubbasutta 02. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbasutta 02. (hoặc Pariyesanāsutta). Đức Phật nói với các tỳ-kheo về việc, trước khi Giác ngộ, Ngài đã tự hỏi sự thỏa mãn trong thế giới là gì, sự khổ đau của nó là gì và sự thoát ly khỏi đó là gì, và cuối cùng Ngài đã thấu hiểu tường tận tất cả những điều này như thế nào. AN.i.258f.
 
 ## Notes

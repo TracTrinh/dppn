@@ -5,7 +5,7 @@ base_headword: "Nandanavana"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -33,6 +33,6 @@ Nandanavana 02. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandanavana 02. Một công viên ở Anurādhapura nằm giữa Mahā Meghavana và bức tường phía nam của thành phố. Mahinda đã thuyết pháp ở đó cho dân chúng tụ tập, bài kinh Bālapaṇḍitasutta, vào ngày sau khi ngài đến Anurādhapura. Sau đó, vào những ngày kế tiếp, ngài giảng Asīvisūpamasutta, Anamataggasaṁyutta, Khajjanīyasutta, Gomayapiṇḍīsutta và Dhammacakkappavattanasutta. Trong những dịp giảng các bài kinh này, hàng ngàn người đã đắc các quả vị của Đạo, và vì công viên là trung tâm đầu tiên mà từ đó Mahinda tỏa chiếu sự hiểu biết về giáo pháp của Đức Phật nên nó được gọi là Jotivana, một cái tên được biết đến vào thời gian sau. Mhv.xv.1, 4, 176, 178, 186, 195, 197, 199, 202; Dpv.xiii.11, 12, 14, 15; xiv.12, 17, 44, 48; Vin-a.i.80-82.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nirayasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nirayasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nirayasutta. Nirayasutta. Năm điều dẫn đến địa ngục: sát sanh, trộm cắp, tà dâm, nói dối, uống rượu. AN.iii.170; xem thêm 204.2. Nirayasutta. Sáu điều dẫn đến địa ngục: tước đoạt mạng sống, trộm cắp, sống nhục dục, nói dối, những ác dục và tà kiến (AN.iii.432).
 
 ## Notes

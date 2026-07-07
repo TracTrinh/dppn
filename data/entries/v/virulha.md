@@ -5,7 +5,7 @@ base_headword: "Virūḷha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Virūḷha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virūḷha, Virūḷhaka. Một trong những vị Cātummahārājikā. Ngài là vua của phương nam, và, trong hội chúng của chư thiên, ngồi quay mặt về hướng bắc (DN.ii.207, 221). Ngài là chúa tể của loài *Kumbhaṇḍa*. DN.iii.198; Divy.126, 148.
 
 ## Notes

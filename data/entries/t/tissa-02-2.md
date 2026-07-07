@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissā 02. An *Arahant* Therī belonging to a <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 02. Một vị *Arahant* Therī thuộc một gia đình Sākyan ở Kapilavatthu. Bà trở thành một người phụ nữ trong triều đình của Bodhisatta, nhưng sau đó đã xuất gia cùng với Mahā Pajāpatī Gotamī, và thực hành quán minh. Một ngày nọ Đức Phật hiện ra trước bà trong một tia sáng hào quang và thốt ra một vần kệ, và khi bài kệ kết thúc bà đã trở thành một vị *Arahant* (Thīg.4; Thīg­a.11).
 
 ## Notes

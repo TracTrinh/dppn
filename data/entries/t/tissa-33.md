@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "33"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 33. Younger son of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 33. Con trai út của Mahā Dāṭhika Mahā Nāga và là em trai của Āmaṇḍagāmaṇī Abhaya. Ông được biết đến với tên gọi là *Kanirajānutissa*. Mhv.xxxv.11ff; Mhv­ṭ.640.
 
 ## Notes

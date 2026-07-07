@@ -5,7 +5,7 @@ base_headword: "Supatiṭṭhacetiya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Supatiṭṭhacetiya. A shrine near the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supatiṭṭhacetiya. Một điện thờ gần Laṭṭhivanuyyāna ở Rājagaha. Vin.i.35.
 
 ## Notes

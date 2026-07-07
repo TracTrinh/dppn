@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "01"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 01. Bốn hạng người trên thế gian – những người sống dựa vào kết quả từ sự nỗ lực của họ, không phải từ hành động của họ; những người sống dựa vào kết quả từ hành động của họ, không phải từ sự nỗ lực của họ; những người làm cả hai; những người không làm gì cả. AN.ii.135.
 
 ## Notes

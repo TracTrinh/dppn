@@ -5,7 +5,7 @@ base_headword: "Viraddhasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viraddhasutta 03. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viraddhasutta 03. hoặc Āraddhasutta. Bất cứ ai bỏ lơ bảy chi giác ngộ (*bojjhaṅga*) là bỏ lơ con đường dẫn đến sự đoạn tận khổ; bất cứ ai tu tập chúng là đang dấn thân vào con đường đó. SN.v.82.
 
 ## Notes

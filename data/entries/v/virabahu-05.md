@@ -5,7 +5,7 @@ base_headword: "Vīrabāhu"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vīrabāhu 05. Successor to <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrabāhu 05. Người kế vị Bhuvanekabāhu V. Cv.xci.13; xem Cv.Trs.ii.214, n.2.
 
 ## Notes

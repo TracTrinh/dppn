@@ -5,7 +5,7 @@ base_headword: "Puṇṇamāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Puṇṇamāsutta. Once, when the Buddha was staying in the *Migārāmātupāsā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇamāsutta. Có một lần, khi Đức Phật đang trú tại *Migārāmātupāsāda*, một vị tỳ-kheo nọ đã hỏi ngài một loạt câu hỏi liên quan đến năm *upādānakkhandhā* (năm thủ uẩn), nguồn gốc và bản chất của chúng, những định nghĩa về chúng, nguyên nhân sinh khởi của chúng, v.v. Đức Phật đã giải đáp các câu hỏi của vị ấy. Ở cuối bản *Sutta* là phần giải thích về *atta* (ngã). SN.iii.100 ff.
 
 ## Notes

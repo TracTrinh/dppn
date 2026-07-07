@@ -5,7 +5,7 @@ base_headword: "Thūṇa"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -39,6 +39,16 @@ A city called Thūṇa is mentioned in the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūṇa. Một ngôi làng Bà-la-môn ở biên giới phía tây của Majjhimadesa (Vin.i.197; AN­a.i.56, 205; MN­a.397, v.v.; Ja.i.49). Nó nằm trong quốc gia Kosala và thuộc về những người Mallas, và đã từng được Đức Phật đến thăm.
+
+Người dân của Thūṇa là những người không có đức tin, và khi nghe tin về chuyến viếng thăm đã định của Đức Phật, họ đã di dời tất cả các con thuyền trên dòng sông mà Đức Phật phải băng qua, lấp tất cả các giếng nước ngoại trừ một cái và quyết tâm không tôn vinh Đức Phật bằng bất kỳ hình thức nào.
+
+Đức Phật cùng với các tỳ-kheo đã đến ngang qua hư không và một nữ tỳ, đến lấy nước, đã nhìn thấy họ và cho họ uống nước. Vì việc này, cô đã bị chồng đánh đập và giết chết; nhưng cô đã được tái sinh ở Tāvatiṁsa.
+
+Đức Phật, bằng quyền năng của mình, đã khiến nước trong các giếng trào ra và làm ngập lụt ngôi làng. Những người dân đã cầu xin sự tha thứ của Ngài và mời Ngài cùng các tỳ-kheo ở lại đó. Vv.i.8; Vv-a.45ff.
+
+Chuyến viếng thăm của Đức Phật được mô tả tại Ud.vii.9 (Ud­a.377), nhưng không có sự đề cập nào ở đó về người nữ tỳ.
+
+Một thành phố tên là Thūṇa được đề cập trong Mahā Janakajātaka (Ja.vi.62, 65).
 
 ## Notes

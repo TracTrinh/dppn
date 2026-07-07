@@ -5,7 +5,7 @@ base_headword: "Nicchavorabhisutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nicchavorabhisutta. Similar to the above; a flayed man, a sheep butcher of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như trên; một người đàn ông bị lột da, một người đồ tể mổ cừu của Rājagaha. SN.ii.256.
 
 ## Notes

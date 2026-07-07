@@ -5,7 +5,7 @@ base_headword: "Pupphadhāraka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pupphadhāraka. Ninety-one *kappas* ago he was an ascetic wearing bark and antel
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphadhāraka. Chín mươi mốt *kappa* trước, ông là một đạo sĩ mặc vỏ cây và da linh dương. Khi nhìn thấy Vipassī Buddha, ông đã che cho ngài một cái lọng hoa *pāricchattaka*. Tám mươi bảy *kappa* trước, ông là một vị vua, tên là Samantadharaṇa. Ap.i.244.
 
 ## Notes

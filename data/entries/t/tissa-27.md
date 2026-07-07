@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "27"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tissa 27. A Brahmin youth of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 27. Một thanh niên Bà-la-môn ở Rohaṇa, người đã nổi loạn chống lại Vaṭṭagāmaṇī vào năm thứ năm trong triều đại của ông. Vào thời điểm đó, người Damiḷa đã xâm lược Ceylon và Vaṭṭagāmaṇī đã gửi lời nhắn cho Tissa yêu cầu ông ta chống lại họ, và đoạt lấy ngai vàng cho riêng mình; Tissa đã làm như vậy, nhưng đã bị họ đánh bại (Mhv.xxxiii.38ff). Xem thêm Brāhmaṇa Tissa.
 
 ## Notes

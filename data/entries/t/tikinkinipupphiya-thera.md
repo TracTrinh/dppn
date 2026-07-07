@@ -5,7 +5,7 @@ base_headword: "Tikiṅkinipupphiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tikiṅkinipupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he gave three *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikiṅkinipupphiya Thera. Một bậc *Arahant*. Chín mươi mốt *kappas* trước, ông đã dâng cúng ba bông hoa *kiṅkini* cho Đức Phật Vipassī (Ap.ii.433). Ông có lẽ chính là Cittaka Thera. Thag­a.i.78.
 
 ## Notes

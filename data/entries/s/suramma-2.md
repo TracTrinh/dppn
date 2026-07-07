@@ -5,7 +5,7 @@ base_headword: "Surammā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surammā. One of the chief lay women supporters of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surammā. Một trong những người nữ hộ độ tại gia chính của Siddhattha Buddha. Bv.xvii.70.
 
 ## Notes

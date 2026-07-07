@@ -5,7 +5,7 @@ base_headword: "Naradeva"
 disambiguator: "03"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -26,6 +26,6 @@ Naradeva 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naradeva 03. Một Yakkha, người đi từ thành phố này sang thành phố khác, giết hại các vị vua và chiếm giữ hậu cung của họ. Khi danh tính của ông bị những người phụ nữ phát hiện, ông sẽ ăn thịt họ và đi nơi khác. Khi ông đến thành phố Sunanda, Kassapa Buddha đã thuyết pháp cho ông và hóa độ ông. Bv.xxv.7ff.; Bv­a.219.
 
 ## Notes

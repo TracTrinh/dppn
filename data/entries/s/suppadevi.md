@@ -5,7 +5,7 @@ base_headword: "Suppādevī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suppādevī. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppādevī. Mẹ của Sīhabāhu và Sīhasīvali. Mhv­ṭ.243f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suriya"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -37,6 +37,8 @@ Suriya 01. A *Devaputta*. Once, when he was seized by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriya 01. Một *Devaputta* (Thiên tử). Có lần, khi ngài bị Rāhu, chúa tể của các Asura (A-tu-la), bắt giữ, ngài đã cầu khẩn oai lực của Đức Phật, và Đức Phật đã ra lệnh cho Rāhu phải thả ngài đi. Rāhu đã làm như vậy, và Suriya được nói đến là đã đi tìm Vepacitti và đứng bên cạnh vị này, run rẩy và lông tóc dựng ngược (SN.i.51; cf. Candimā). Suriya là một trong những cư dân của cõi Cātummahārājika (Tứ Đại Thiên Vương) (MNid-a.108). Suriya và Candimā đều chịu sự cai quản của Sakka, và chúng ta thấy Sakka yêu cầu họ phải dừng cuộc hành trình theo lệnh của ông (ví dụ, khi ông muốn các *Sāmaṇera* Paṇḍita và Sukha có thể thiền định mà không bị quấy rầy (Dhp­a.ii.143; iii.97). Xem thêm Dhp­a.iii.208.
+
+Suriya có mặt tại buổi thuyết giảng Mahā Samayasutta (DN.ii.260). Ngài đôi khi (Paṭis-a.253) được mô tả là Adicca (con trai của Aditi). Đĩa mặt trời, tạo thành *vimāna* (cung điện) của Suriya, có đường kính năm mươi do-tuần (ví dụ, DN.iii.196).
 
 ## Notes

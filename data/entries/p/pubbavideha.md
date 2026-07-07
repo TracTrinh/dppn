@@ -5,7 +5,7 @@ base_headword: "Pubbavideha"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pubbavideha. The eastern of the four continents (*mahādīpā*) which compose a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbavideha. Châu lục phía đông trong bốn châu lục (*mahādīpā*) cấu thành nên một Cakkavāḷa (AN.i.227; v.59). Nó rộng bảy ngàn do-tuần (Snp­a. 443; Bv­a.112 nói là 8.000) và loài cây chủ yếu của nó là cây Keo (*Sirīsa*) (AN­a.i.264; MN­a.ii.947; Vsm.i.206, v.v.). Đây là *mahādīpa* đầu tiên được Cakkavatti ghé thăm khi đi tuần du (Bv­a.131). Xem thêm *s.v.* Videha.
 
 ## Notes

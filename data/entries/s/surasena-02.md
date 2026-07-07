@@ -5,7 +5,7 @@ base_headword: "Surasena"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surasena 02. A city in the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surasena 02. Một thành phố vào thời kỳ của Siddhattha Buddha, nơi Bodhisatta sinh ra là một Bà-la-môn tên Maṅgala. Bv­a.187.
 
 ## Notes

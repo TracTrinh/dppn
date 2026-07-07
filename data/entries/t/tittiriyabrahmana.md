@@ -5,7 +5,7 @@ base_headword: "Tittiriyābrāhmaṇā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tittiriyābrāhmaṇā. The Pāli equivalent of the Sanskrit <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittiriyābrāhmaṇā. Tương đương trong tiếng Pāli của từ tiếng Sanskrit Taittirīyā. DN.i.237.
 
 ## Notes

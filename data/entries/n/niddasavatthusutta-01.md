@@ -5,7 +5,7 @@ base_headword: "Niddasavatthusutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Niddasavatthusutta 01. The seven constituent qualities of a *niddasa* (*khīṇ�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bảy phẩm chất cấu thành của một *niddasa* (*khīṇāsava*). AN.iv.15.
 
 ## Notes

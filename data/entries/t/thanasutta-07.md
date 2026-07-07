@@ -5,7 +5,7 @@ base_headword: "Ṭhānasutta"
 disambiguator: "07"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhānasutta 07. Những thành tựu đặc biệt của cư dân Uttarakuru, Jambudīpa và Tāvatiṁsa tương ứng. AN.v.396.
 
 ## Notes

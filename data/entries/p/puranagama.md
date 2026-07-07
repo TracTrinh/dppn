@@ -5,7 +5,7 @@ base_headword: "Purāṇagāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Purāṇagāma. One of the four villages granted by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Purāṇagāma. Một trong bốn ngôi làng được ban tặng bởi Parakkamabāhu IV cho việc bảo trì *pariveṇa* đặc biệt, được xây dựng cho Medhaṅkara. Cv.xc.87.
 
 ## Notes

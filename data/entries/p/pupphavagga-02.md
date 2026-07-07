@@ -5,7 +5,7 @@ base_headword: "Pupphavagga"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphavagga 02. The tenth chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphavagga 02. Chương thứ mười của Khandhasaṁyutta. SN.iii.137-57.
 
 ## Notes

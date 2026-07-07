@@ -5,7 +5,7 @@ base_headword: "Nibbedhikasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nibbedhikasutta. Four things that lead to penetration: association with the good
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bốn điều dẫn đến sự thấu đạt: kết giao với người tốt, lắng nghe giáo lý, suy ngẫm, sự tuân thủ Pháp. SN.v.419.
 
 ## Notes

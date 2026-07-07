@@ -5,7 +5,7 @@ base_headword: "Pupphārāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pupphārāma. A central monastic establishment in <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphārāma. Một cơ sở tu viện trung tâm ở Sirivaḍḍhanapura (Kandy ngày nay) tại Tích Lan. Nó tạo thành trụ sở của các vị tỳ-kheo người Xiêm dưới sự dẫn dắt của Upāli, những người đã đến Tích Lan theo lời mời của vua Kittisirirājasīha. Cv.c.86, 141.
 
 ## Notes

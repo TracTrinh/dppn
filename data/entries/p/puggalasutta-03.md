@@ -5,7 +5,7 @@ base_headword: "Puggalasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Puggalasutta 03. Preached at <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puggalasutta 03. Được thuyết giảng tại Sāvatthī, cho vua Pasenadi, về bốn hạng người: những người bị trói buộc vào bóng tối và đi về phía ánh sáng, những người bị trói buộc vào bóng tối và đi về phía bóng tối, những người bị trói buộc vào ánh sáng và đi về phía bóng tối, những người bị trói buộc vào ánh sáng và đi về phía ánh sáng. SN.i.93ff.; cp. DN.iii.233; AN.ii.85; Pp.iv.19.
 
 ## Notes

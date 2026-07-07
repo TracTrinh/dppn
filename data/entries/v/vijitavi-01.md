@@ -5,7 +5,7 @@ base_headword: "Vijitāvī"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijitāvī 01. A *Khattiya* in the time of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitāvī 01. Một người Sát-đế-lỵ (*Khattiya*) vào thời Đức Phật Koṇḍañña. Ông sống ở thành phố Candavatī, nhưng, sau khi nghe Đức Phật thuyết pháp, ông đã từ bỏ đời sống gia đình và trở thành một vị tu sĩ. Bv­a.111; Bv.iii.9; Ja.i.30.
 
 ## Notes

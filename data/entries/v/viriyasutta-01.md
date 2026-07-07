@@ -5,7 +5,7 @@ base_headword: "Viriyasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Viriyasutta 01. Energy is necessary in order to see things as they really are. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viriyasutta 01. Tinh tấn là cần thiết để thấy các pháp như chúng thực sự là. SN.ii.132.
 
 ## Notes

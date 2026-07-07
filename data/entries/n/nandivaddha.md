@@ -5,7 +5,7 @@ base_headword: "Nandivaḍḍha"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandivaḍḍha. One of the chief lay supporters of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivaḍḍha. Một trong những nam thí chủ chính của Anomadassī Buddha. Bv.viii.24.
 
 ## Notes

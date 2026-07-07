@@ -5,7 +5,7 @@ base_headword: "Theranāmasutta"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -25,6 +25,6 @@ Theranāmasutta. Records the story of the Elder named <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theranāmasutta. Ghi chép lại câu chuyện về vị Trưởng lão tên là Thera. SN.ii.282f.
 
 ## Notes

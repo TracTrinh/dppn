@@ -5,7 +5,7 @@ base_headword: "Manonivāraṇasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Manonivāraṇasutta. Preached in answer to the question of a *Deva* as to where
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manonivāraṇasutta. Được thuyết giảng để trả lời câu hỏi của một thiên nhân (*Deva*) về việc tâm nên được kiểm soát ở đâu và nên được phát triển ở đâu. SN.i.14.
 
 ## Notes

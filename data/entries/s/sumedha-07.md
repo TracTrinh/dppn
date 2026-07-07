@@ -5,7 +5,7 @@ base_headword: "Sumedha"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumedha 07. A king of twenty *kappas* ago, a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumedha 07. Một vị vua của hai mươi *kappa* trước, một tiền kiếp của Āvopphiya Thera. Ap.i.112.
 
 ## Notes

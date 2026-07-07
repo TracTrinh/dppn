@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "13"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -39,6 +39,8 @@ He may be identical with the Thera mentioned in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 13. Một Trưởng lão, có một lần được nhắc đến là đang trú tại Ghositārāma ở Kosambī, cùng với Mūsila, Saviṭṭha, và Ānanda. Trong quá trình thảo luận, ngài tuyên bố rằng, mặc dù nhận thức rõ bản chất của *Nibbāna*, ngài không phải là một *Arahant* (SN.ii.115f). Ở một nơi khác, ngài được nhắc đến là đang lưu trú tại Kukkuṭārāma ở Pāṭaliputta (AN.iii.57f). Vào thời điểm đó, Vua Muṇḍa đang đau buồn vì sự qua đời của người vợ, Bhaddā, đến mức bỏ bê mọi chuyện khác, và viên quan giữ kho của ông, Piyaka, đã đề nghị ông nên đến viếng thăm Nārada. Nhà vua đồng ý, và Nārada đã thuyết pháp cho ông về tính tất yếu của sự già cỗi, bệnh tật, sự chết, v.v. Muṇḍa đã được an ủi, và chôn cất thi hài của vợ ông, người mà cho đến lúc đó ông vẫn còn lưu giữ.
+
+Ngài có thể đồng nhất với vị Trưởng lão được nhắc đến trong Chú giải Petavatthu (Pv-a.2, 10, 11, 14, 204, 208, 210, 211) với tư cách là người đã tìm hiểu từ nhiều ngạ quỷ (*Peta*) khác nhau về những câu chuyện về các hành động của họ, và trong Chú giải Vimānavatthu (Vv-a.165, 169, 203) với tư cách là người đã viếng thăm nhiều thiên cung (*vimāna*) khác nhau trong những chuyến du hành của ngài qua các cõi chư thiên (*devacārikā*). Ngài được ghi lại là đã kể lại những câu chuyện mà ngài học được cho những người Kết tập kinh điển (*Dhammasaṅgāhaka*) để được đưa vào các bản hiệu đính của họ.
 
 ## Notes

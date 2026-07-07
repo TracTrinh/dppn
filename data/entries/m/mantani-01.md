@@ -5,7 +5,7 @@ base_headword: "Mantāṇī"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Mantāṇī 01. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mantāṇī 01. Chị em gái của Aññā Kondañña và là mẹ của Puṇṇa Mantānīputta. Bà sống ở Rājagaha.
 
 ## Notes

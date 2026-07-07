@@ -5,7 +5,7 @@ base_headword: "Nandiya"
 disambiguator: "05"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandiya 05. The Bodhisatta born as a monkey. For his story see the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandiya 05. Vị Bodhisatta sinh ra làm một con khỉ. Để biết câu chuyện của nó xem Cūḷa Nandiyajātaka (Ja.ii.199ff.). Nó cũng được gọi là Mahā Nandiya để phân biệt với em trai mình.
 
 ## Notes

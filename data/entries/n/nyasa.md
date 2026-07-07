@@ -5,7 +5,7 @@ base_headword: "Nyāsa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Nyāsa. A grammatical treatise by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nyāsa. Một chuyên luận ngữ pháp của Vimalabuddhi. Tác phẩm này cũng được gọi là Mukhamattadīpanī. Vimalabuddhi Thera cũng đã viết một cuốn từ vựng cho tác phẩm này. Gv.72; Bode, 21; xem thêm Sās-d.1240.
 
 ## Notes

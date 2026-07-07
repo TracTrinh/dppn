@@ -5,7 +5,7 @@ base_headword: "Sundarī"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sundarī 04. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarī 04. *v.l.* Sūnari. Một công chúa Kāliṅga, họ hàng của Tilokasundarī. Cô đã kết hôn với Vikkamabāhu. Cv.lix.49; về tính chính xác của tên xem Cv.Trs.i.213, n.2.
 
 ## Notes

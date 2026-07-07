@@ -5,7 +5,7 @@ base_headword: "Sunikkhamma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunikkhamma. Sixty-seven *kappas* ago there were seven kings of this name, previ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunikkhamma. Sáu mươi bảy *kappa* trước có bảy vị vua mang tên này, là những tiền kiếp của Sattāhapabbajita Thera. Ap.i.242.
 
 ## Notes

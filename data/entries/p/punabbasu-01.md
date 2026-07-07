@@ -5,7 +5,7 @@ base_headword: "Punabbasu"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Punabbasu 01. A young <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasu 01. Một nam dạ-xoa (*Yakkha*) trẻ (SN.i.210). Cậu bé đã trở thành một *Sotāpanna* (SN­a.i.239). Xem Punabbasumātā.
 
 ## Notes

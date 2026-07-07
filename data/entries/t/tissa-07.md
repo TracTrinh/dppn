@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "07"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tissa 07. A friend of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 07. Bạn của Metteyya. Họ đã cùng nhau đến thăm Đức Phật tại Jetavana và, sau khi nghe lời dạy của ngài, đã gia nhập Tăng đoàn. Metteyya rút lui vào rừng cùng với thầy của mình và không lâu sau đã trở thành một vị *Arahant*. Tissa sống ở Sāvatthī và khi anh trai ông qua đời, ông đã về nhà và bị người thân thuyết phục trở lại cuộc sống thế tục. Về sau, Metteyya, khi đi ngang qua ngôi làng cùng với Đức Phật, trong một chuyến hành trình, đã đến thăm Tissa và một lần nữa đưa ông đến gặp Đức Phật. Đức Phật đã thuyết cho họ bài kinh Tissametteyyasutta, khi bài kinh kết thúc, Tissa đã trở thành một *Sotāpanna*, về sau đắc quả vị *Arahant*. Snp., p.160f; Snp­a.ii.535f, NidA.184.
 
 ## Notes

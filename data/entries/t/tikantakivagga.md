@@ -5,7 +5,7 @@ base_headword: "Tikaṇṭakivagga"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tikaṇṭakivagga. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikaṇṭakivagga. *v.l.* Tikaṇḍakivagga. Chương thứ mười lăm của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.164-74.
 
 ## Notes

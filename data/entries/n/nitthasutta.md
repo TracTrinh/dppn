@@ -5,7 +5,7 @@ base_headword: "Niṭṭhāsutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Niṭṭhāsutta. Five conditions which are consummated in this life and five in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Niṭṭhāsutta. Năm điều kiện được thành tựu ngay trong đời này và năm điều kiện trong đời sau. AN.v.119f.
 
 ## Notes

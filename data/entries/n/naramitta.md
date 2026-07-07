@@ -5,7 +5,7 @@ base_headword: "Naramittā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Naramittā. An eminent Therī of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Naramittā. Một vị Trưởng lão ni (Therī) lỗi lạc của Anurādhapura. Dpv.xviii.15.
 
 ## Notes

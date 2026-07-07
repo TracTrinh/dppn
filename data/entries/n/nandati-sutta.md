@@ -5,7 +5,7 @@ base_headword: "Nandati Sutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Nandati Sutta. A *Deva* visits the Buddha and tells him of various sources of gl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandati Sutta. Một thiên nhân viếng thăm Đức Phật và nói với ngài về nhiều nguồn gốc của sự vui mừng: con cái, gia súc và các lạc thú của các căn. Đức Phật trả lời rằng những điều này thực sự đều là nguồn gốc của sầu bi. SN.i.6; sđd.,107.
 
 ## Notes

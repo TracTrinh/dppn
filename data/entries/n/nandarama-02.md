@@ -5,7 +5,7 @@ base_headword: "Nandārāma"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nandārāma 02. The place where <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandārāma 02. Nơi Padumuttara Buddha viên tịch. Bv.xi.31.
 
 ## Notes

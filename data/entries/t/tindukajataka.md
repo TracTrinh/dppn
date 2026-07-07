@@ -5,7 +5,7 @@ base_headword: "Tindukajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,10 @@ The story was related in illustration of the Bodhisatta’s sagacity (Ja.ii.76f)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tindukajātaka. *v.l.* Tiṇḍukajātaka (Ja 177). Bodhisatta từng là thủ lĩnh của tám mươi ngàn con khỉ. Gần nơi ở của chúng có một ngôi làng, nơi một cây *tinduka* mọc lên, những trái ngọt của nó được bầy khỉ ăn. Nhưng người dân đến và xây dựng một ngôi làng gần cái cây và bầy khỉ không thể hái trái được nữa. Một đêm nọ, khi dân làng đang ngủ, chúng rón rén đến cái cây và bắt đầu ăn trái. Một người dân trong làng báo động và bầy khỉ có nguy cơ lớn bị giết khi bình minh đến. Nhưng Bodhisatta đã an ủi chúng và giữ cho chúng có tinh thần tốt cho đến khi chúng được cứu bởi cháu trai của ngài, Senaka, người đã châm lửa đốt ngôi làng, đánh lạc hướng sự chú ý của mọi người, nhờ vậy giúp bầy khỉ trốn thoát.
+
+Câu chuyện được kể lại để minh họa cho sự thông minh của Bodhisatta (Ja.ii.76f).
+
+Senaka được đồng nhất với Mahā Nāma, người Sākyan.
 
 ## Notes

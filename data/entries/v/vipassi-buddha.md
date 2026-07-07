@@ -5,7 +5,7 @@ base_headword: "Vipassī Buddha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -62,6 +62,6 @@ Three reasons are given for the name of this Buddha (Bv­a.195; cf. DN­a.ii.454
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vipassī Buddha. Vị Phật thứ mười chín trong số hai mươi bốn vị Phật. Ngài đản sinh tại ngự uyển Khema ở Bandhumatī, cha của ngài là Bandhumā và mẹ là Bandhumatī. Ngài thuộc *gotta* Koṇḍañña. Trong tám nghìn năm ngài sống như một gia chủ tại ba cung điện: Nanda, Sunanda và Sirimā. Thân hình ngài cao tám mươi cubit. Vợ ngài là Sutanā (*v.l.* Sudassanā) và con trai ngài là Samavattakkhandha. Ngài xuất gia từ bỏ gia đình trên một cỗ xe ngựa và thực hành khổ hạnh trong tám tháng. Ngay trước khi giác ngộ, con gái của trưởng giả (*seṭṭhi*) Sudassana đã dâng cho ngài món cháo sữa, trong khi một người canh đồng lúa mạch (*yavapālaka*) tên là Sujāta đã dâng cỏ để làm chỗ ngồi cho ngài. Cây *bodhi* của ngài là một cây *pāṭali*. Ngài thuyết bài pháp đầu tiên ở Khemamigadāya cho người em cùng cha khác mẹ Khandha và con trai vị *Purohita* của ngài là Tissa; hai người này sau đó trở thành các Thượng thủ Thanh văn của ngài. Thị giả thường xuyên của ngài là Asoka; Candā và Candamittā là các nữ Thượng thủ Thanh văn của ngài. Các nam thí chủ hộ độ chính của ngài là Punabbasumitta và Nāga, và các nữ thí chủ chính là Sirimā và Uttarā. Ngài Niết-bàn (Bát-niết-bàn) tại Sumittārāma ở tuổi tám mươi nghìn, và xá-lợi của ngài được tôn trí trong một bảo tháp (*Thūpa*) cao bảy do-tuần. Bodhisatta khi đó là một vị vua Nāga tên là Atula (Bv.xx.1ff.; Bv­a.195f.; DN.ii.2ff).\n\nBa lý do được đưa ra cho tên gọi của vị Phật này (Bv­a.195; cf. DN­a.ii.454; SN­a.ii.15):\n\n- (1) Vì ngài có thể nhìn rõ vào ban đêm cũng như ban ngày;\n- (2) vì ngài có đôi mắt to rộng;\n- (3) vì ngài có thể nhìn thấy rõ ràng sau khi suy xét.\n\nVipassī chỉ tổ chức lễ *uposatha* một lần mỗi bảy năm (Dhp­a.iii.236), nhưng vào những dịp như vậy thì toàn bộ Tăng đoàn đều có mặt (Vin-a.i.186). Việc xây dựng một Gandhakuṭi cho Vipassī đã mang lại cho Meṇḍaka vinh quang to lớn trong thời đại hiện tại. Tên của Meṇḍaka vào thời điểm đó là Avaroja (Dhp­a.iii.364f). Aññā Koṇḍañña lúc bấy giờ được biết đến với tên gọi Cūḷa Kāḷa, và ông đã chín lần dâng cho Đức Phật Vipassī những thành quả thu hoạch đầu mùa từ ruộng của mình. Dhp­a.i.81f.
 
 ## Notes

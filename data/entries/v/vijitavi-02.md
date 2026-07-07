@@ -5,7 +5,7 @@ base_headword: "Vijitāvī"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijitāvī 02. A *Khattiya*, of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitāvī 02. Một người Sát-đế-lỵ (*Khattiya*), thuộc thành phố Arimanda. Ông là Bodhisatta vào thời Đức Phật Phussa. Về sau ông gia nhập Tăng đoàn và trở thành một vị tu sĩ xuất chúng. Bv­a.194; Bv.xix.7; Ja.i.40.
 
 ## Notes

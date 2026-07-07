@@ -5,7 +5,7 @@ base_headword: "Supattajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -38,6 +38,10 @@ The king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supattajātaka (Ja 292). Bodhisatta xưa kia là một con quạ, tên là Supatta, vua của tám mươi tư ngàn con quạ. Người bạn đời chính của ngài là Suphassā và người bạn đồng hành chính của ngài là Sumukha. Một ngày nọ, khi Supatta và Suphassā ra ngoài kiếm thức ăn, chúng nhận thấy đầu bếp của nhà vua đã chuẩn bị rất nhiều món ăn và để một số món ngoài trời cho nguội. Suphassā ngửi thức ăn nhưng không nói gì. Tuy nhiên, ngày hôm sau, bà muốn ở lại và nếm thử một số thức ăn của nhà vua. Supatta tham khảo ý kiến của vị chỉ huy của mình, và họ đã đi cùng một số lượng lớn bầy quạ, chúng được bố trí thành từng nhóm quanh nhà bếp. Khi người đầu bếp đang lấy các món ăn trên một đòn gánh, Sumukha, theo như sắp xếp, đã tấn công ông ta bằng mỏ và móng vuốt và làm ông ta đánh rơi chúng. Sau đó bầy quạ ăn no nê và bay đi mang theo thức ăn cho Supatta và Suphassā. Sumukha bị bắt và đưa đến trước nhà vua, người đã chứng kiến những gì xảy ra. Khi bị nhà vua chất vấn, ngài kể cho ông nghe toàn bộ câu chuyện và nói rằng ngài sẽ sẵn sàng hy sinh mạng sống vì vua của mình, Supatta. Nhà vua đã cho gọi Supatta và lắng nghe ngài thuyết pháp, và sau đó bảo vệ mọi sinh vật, thực hành một cuộc sống tốt đẹp.
+
+Câu chuyện được kể lại liên quan đến Sāriputta, người đã nhận được từ Pasenadi một bữa ăn gồm cơm gạo đỏ và bơ lỏng mới, tẩm gia vị với cá đỏ, bởi vì ngài đã được Rāhula cho biết rằng Bimbādevī (Rāhulamātā) bị đau dạ dày và sẽ được chữa khỏi bằng thức ăn này.
+
+Vua của Benares được đồng nhất với Ānanda, Sumukha với Sāriputta, và Suphassā với Rāhulamātā. Ja.ii.433-6.
 
 ## Notes

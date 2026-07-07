@@ -5,7 +5,7 @@ base_headword: "Tejodīpa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tejodīpa. A disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tejodīpa. Đệ tử của Tilokaguru và là tác giả của một bản phụ sớ (*ṭīkā*) về kinh Paritta. Sās., p.115.
 
 ## Notes

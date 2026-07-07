@@ -5,7 +5,7 @@ base_headword: "Nandhimitta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -30,6 +30,6 @@ Nandhimitta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandhimitta (Nandimitta). Một trong những chiến binh chính của Duṭṭhagāmaṇī. Ông là cháu trai của Mitta, một trong các tướng của Eḷāra. Bộ phận sinh dục của ông ẩn vào trong cơ thể, và ông có sức mạnh của mười con voi. Khi còn là một đứa trẻ, ông hay đi lang thang, và vì vậy đã bị trói vào một hòn đá cối xay bằng một sợi dây da (*nandhi*), nhưng ông lại kéo theo hòn đá đó. Ở Anurādhapura ông đã giết những người Damiḷa mạo phạm các đền thờ, nhưng sau đó ông đã gia nhập đội quân Sinhalese ở Rohaṇa và chiến đấu trong các chiến dịch của Duṭṭhagāmaṇī. Mhv.xxiii.2ff.; xxv.21ff.; MN­a.ii.688; DN­a.i.90.
 
 ## Notes

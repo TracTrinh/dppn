@@ -5,7 +5,7 @@ base_headword: "Navagāmapura"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Navagāmapura. A locality in Ceylon mentioned in an account of the campaigns of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở Tích Lan được nhắc đến trong một bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.137.
 
 ## Notes

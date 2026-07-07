@@ -5,7 +5,7 @@ base_headword: "Tāyanasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tāyanasutta. Records the visit of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāyanasutta. Ghi nhận chuyến viếng thăm của Tāyana đến Đức Phật (SN.i.49).
 
 ## Notes

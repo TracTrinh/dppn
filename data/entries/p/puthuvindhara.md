@@ -5,7 +5,7 @@ base_headword: "Puthuvindhara"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puthuvindhara. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puthuvindhara. Vua xứ Benares và là con trai của Kikī. Con trai của ông là Suyāma. Thag­a.i.151.
 
 ## Notes

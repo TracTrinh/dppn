@@ -5,7 +5,7 @@ base_headword: "Vimalā"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vimalā 03. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimalā 03. Vợ của Đức Phật Piyadassī trong đời sống cư sĩ cuối cùng của ngài. Bv.xiv.17.
 
 ## Notes

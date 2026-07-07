@@ -5,7 +5,7 @@ base_headword: "Pucimandajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pucimandajātaka (Ja 311). Có một lần Bodhisatta là thần của một cây *nimba* trong một nghĩa trang, và một ngày nọ, khi một tên cướp mang theo đồ ăn trộm đến trước cây, ngài đã đuổi hắn đi, e rằng hắn sẽ bị phát hiện và bị đóng đinh trên một cọc làm từ cây đó. Khi các quan chức của nhà vua đến để tìm tên cướp, hắn đã biến mất, và họ bèn bỏ đi. Gần đó có một cây Bodhi mà thần cây là Sāriputta.
+
+Câu chuyện này được kể cho Moggallāna, người đã nhìn thấy một người đàn ông lén lút gần am thất của mình, và vì cảm thấy nghi ngờ, ông đã đuổi người đó đi. Sau đó, sự nghi ngờ của ông đã được xác nhận khi người của nhà vua đến. Ja.iii.33 ff.
 
 ## Notes

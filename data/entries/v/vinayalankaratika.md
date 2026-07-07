@@ -5,7 +5,7 @@ base_headword: "Vinayālaṅkāraṭīkā."
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vinayālaṅkāraṭīkā. A Vinaya compilation by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayālaṅkāraṭīkā. Một tác phẩm biên soạn về Vinaya của Tipiṭakālaṅkāra ở Tiriyapabbata. Svd.1214; Bode, 54.
 
 ## Notes

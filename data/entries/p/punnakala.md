@@ -5,7 +5,7 @@ base_headword: "Puṇṇakāla"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Puṇṇakāla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇakāla. Một Yakkha, vào thời Kakusandha Buddha, đã gieo rắc ở Tích Lan một dịch bệnh gọi là Pajjaraka. Mhv­ṭ. 349.
 
 ## Notes

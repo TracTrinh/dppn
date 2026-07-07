@@ -5,7 +5,7 @@ base_headword: "Pupphavatī"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pupphavatī. An old name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphavatī. Một tên gọi cũ của Benares, khi Ekarāja, cha của Candakumāra, còn là vua xứ này. Ja.iv.131; iv.119; Cp.i.7.
 
 ## Notes

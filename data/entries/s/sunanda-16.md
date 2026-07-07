@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "16"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sunanda 16. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 16. Một vị vua của Surabhi vào thời của Maṅgala Buddha; Đức Phật đã thuyết pháp cho ông. Bv.iv.6; Bv­a.119f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vimaticchedanī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vimaticchedanī. A Commentarial work on the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimaticchedanī. Một tác phẩm Chú giải về Abhidhamma của một vị Trưởng lão tên là Kassapa. Gv.60, 70; PLC. 160.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tibhuvanamalla"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tibhuvanamalla, also called <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tibhuvanamalla, còn được gọi là Tilokamalla. Con trai của Parakkamabāhu II. (Cv.lxxxvii.16). Ông là chỉ huy của đội quân đóng quân giữa Jambuddoṇi và vùng biển phía Nam và ông đã sống ở Mahā Vatthalagāma. Cv.lxxxviii.20.
 
 ## Notes

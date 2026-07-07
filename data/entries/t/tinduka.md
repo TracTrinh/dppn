@@ -5,7 +5,7 @@ base_headword: "Tinduka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tinduka. A watcher of corn (*yavapālaka*), who gave grass for his seat to <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tinduka. Một người canh ngô (*yavapālaka*), người đã dâng cỏ làm chỗ ngồi cho Koṇāgamana Buddha. Bv­a.214.
 
 ## Notes

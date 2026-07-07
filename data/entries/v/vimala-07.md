@@ -5,7 +5,7 @@ base_headword: "Vimala"
 disambiguator: "07"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vimala 07. A king of twenty-one *kappas* ago who lived in the palace <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vimala 07. Một vị vua cách đây hai mươi mốt *kappa*, người đã sống trong cung điện Suddassana ở Reṇuvatī. Ông là một tiền kiếp của Rāhula. Ap.i.61.
 
 ## Notes

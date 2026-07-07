@@ -5,7 +5,7 @@ base_headword: "Viriya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viriya. A pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viriya. Một tịnh viên ở Vebhāra, nơi Siddhattha Buddha đản sinh. Bv­a. p. 185.
 
 ## Notes

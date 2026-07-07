@@ -5,7 +5,7 @@ base_headword: "Puṇṇanadījātaka"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,8 @@ The story was related in reference to the great wisdom of the Buddha. <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇanadījātaka (Ja 214). Bồ-tát (Bodhisatta) từng là giáo sĩ tại triều đình của Brahmadatta, vua xứ Benares. Nhưng vị vua, nghe lời những kẻ thù của ông, đã đuổi Bodhisatta khỏi triều đình, và ông đến cư ngụ tại một ngôi làng ở Kāsi. Về sau, vua, nhớ lại lòng tốt của vị giáo sĩ của mình, đã sáng tác một bài kệ, viết nó trên một chiếc lá, và gửi nó đến cho ông, cùng với thịt quạ nấu chín. Bodhisatta hiểu được thông điệp và trở lại triều đình.
+
+Câu chuyện này được kể lại liên quan đến trí tuệ vĩ đại của Đức Phật. Ānanda được đồng nhất với vị vua (Ja.ii.173-5). Jātaka này lấy tên từ hai từ đầu tiên của bài kệ do vị vua sáng tác.
 
 ## Notes

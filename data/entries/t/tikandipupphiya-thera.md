@@ -5,7 +5,7 @@ base_headword: "Tikaṇḍipupphiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tikaṇḍipupphiya Thera. An *Arahant*. In a previous birth he saw the Buddha <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikaṇḍipupphiya Thera. Một bậc *Arahant*. Trong một kiếp trước ông đã nhìn thấy Đức Phật Sumaṅgala trong một khu rừng và dâng lên Ngài một bông hoa *tikaṇḍi*. Bốn mươi sáu *kappas* trước ông là một vị vua tên là Apilāpiya. Ap.i.201f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Potthadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Potthadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he gave a gift of bar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Potthadāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã cúng dường một món quà bằng vỏ cây (? *pottha*) nhân danh Đức Phật, Giáo pháp và Tăng đoàn. Ap.i.237.
 
 ## Notes

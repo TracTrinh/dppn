@@ -5,7 +5,7 @@ base_headword: "Vijita"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijita 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijita 03. Một vương tử người Sākyan, anh trai của Bhaddakaccānā. Ông đi đến Tích Lan, nơi ông sáng lập Vijitagāma. Mhv.ix.10.
 
 ## Notes

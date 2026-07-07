@@ -5,7 +5,7 @@ base_headword: "Vīraṇatthambhaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vīraṇatthambhaka. A cemetery near <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīraṇatthambhaka. Một nghĩa trang gần Benares nơi Somadatta dạy cha mình, Aggidatta, cách cư xử ở triều đình khi ông đến bái kiến nhà vua. Dhp­a.iii.124.
 
 ## Notes

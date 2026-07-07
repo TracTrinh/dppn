@@ -5,7 +5,7 @@ base_headword: "Vitthatasutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vitthatasutta 04. A detailed description of the advantages of observing the *upo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitthatasutta 04. Một mô tả chi tiết về những lợi ích của việc thọ trì các lời nguyện trong ngày *uposatha*. AN.iv.251.
 
 ## Notes

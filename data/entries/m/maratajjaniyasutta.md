@@ -5,7 +5,7 @@ base_headword: "Māratajjanīyasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,6 @@ Māratajjanīyasutta. The fiftieth *Sutta* of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māratajjanīyasutta. Bài Sutta thứ năm mươi của Majjhimanikāya. Trong lúc Moggallāna đang trú tại Bhesakalāvana, Māra chui vào bụng và quấy rầy ngài. Khi Māra nhận ra rằng Moggallāna đã phát hiện ra y và có thể đọc được suy nghĩ của y, y liền rời khỏi cơ thể ngài và đậu trên thanh chốt cửa phòng của ngài. Moggallāna sau đó nói chuyện với y và kể lại cách thức mà trước đây, chính ngài cũng đã từng là một Māra tên là Dūsī, và đã xúi giục các gia chủ Bà-la-môn chống lại Đức Phật Kakusandha cùng các đệ tử của Ngài. Hậu quả của việc này là Dūsī đã tái sanh vào Mahā Niraya và phải chịu những sự trừng phạt khủng khiếp. Moggallāna cảnh báo Māra không nên tấn công các bậc thánh nhân để khỏi phải chịu chung số phận tương tự. Māra bối rối rút lui. MN.i.332-8.
 
 ## Notes

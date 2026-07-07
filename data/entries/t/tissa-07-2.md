@@ -5,7 +5,7 @@ base_headword: "Tissā"
 disambiguator: "07"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,6 @@ Tissā 07. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissā 07. Vợ của Mahinda, người là em trai của Sena II. Tissā là một người con gái của Kittaggabodhi và là chị em gái của Saṅghā và Kittī (Cv.l.60). Bà có một cô con gái, cũng được gọi là Saṅghā (Cv.li.15).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nandivisāla"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nandivisāla 02. A *Deva* who visits the Buddha and converses with him on the na
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nandivisāla 02. Một thiên nhân đã viếng thăm Đức Phật và trò chuyện với ngài về bản chất của thân thể và sự từ bỏ nó. SN.i.63; cp. sđd.,15.
 
 ## Notes

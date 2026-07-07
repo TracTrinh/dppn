@@ -5,7 +5,7 @@ base_headword: "Pupphaka"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphaka 01. The palace of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphaka 01. Cung điện của Sutasoma. Ja.v.187.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Visākhāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Visākhāsutta 01. The Buddha tells <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhāsutta 01. Đức Phật nói với Visākhā (5) về những lợi ích của việc thọ trì ngày *uposatha*. AN.iv.255.
 
 ## Notes

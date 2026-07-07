@@ -5,7 +5,7 @@ base_headword: "Tittirajātaka"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tittirajātaka 03. (Ja 319). Bodhisatta từng là một tu sĩ khổ hạnh Bà-la-môn, và Rāhula là một con chim đa đa mồi được một người bắt chim trong làng sử dụng. Khi con chim đa đa cất tiếng kêu, những con chim đa đa khác sẽ đổ xô đến chỗ nó, và chúng bị người bắt chim giết chết. Con chim đa đa tràn ngập sự hối hận, sợ rằng mình đang làm sai. Một ngày nọ, nó gặp Bodhisatta, người đã giải tỏa những mối nghi ngờ của nó.
+
+Câu chuyện được kể liên quan đến sự sẵn lòng học hỏi qua những lời chỉ dạy của Rāhula (Ja.iii.64ff). Nó được Moggaliputtatissa kể lại cho Asoka, để chứng minh cho ông thấy rằng một hành động chỉ trở thành tội ác khi được thực hiện với ý định xấu. Mhv.v.264.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tuṅgabhaddā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tuṅgabhaddā. A canal branching off from the *Dakkhiṇā* sluice in the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuṅgabhaddā. Một con kênh rẽ nhánh từ cống thoát nước *Dakkhiṇā* trong Parakkamasamudda. Cv.lxxix.45.
 
 ## Notes

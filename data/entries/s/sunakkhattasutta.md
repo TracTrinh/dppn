@@ -5,7 +5,7 @@ base_headword: "Sunakkhattasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunakkhattasutta (MN 105). Preached at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunakkhattasutta (MN 105). Được thuyết giảng tại Vesālī cho Sunakkhatta, trước khi ông gia nhập Tăng đoàn. Ông hỏi Đức Phật liệu các vị tăng có thực sự đạt được tất cả những gì họ tuyên bố hay liệu một số người trong số họ có nói phóng đại trong những tuyên bố của mình hay không. Đức Phật giải thích rằng một số vị tăng là những người trần tục, tâm của họ hướng về những điều vật chất; những người khác thì thoát khỏi sự trói buộc trần tục, tâm của họ hướng về trạng thái bất động; tuy nhiên những người khác lại hướng về các *jhāna* khác nhau; trong khi những người cuối cùng có tâm hướng về *Nibbāna*; tất cả những người này sẽ hành động theo niềm tin của họ. Sau đó, Đức Phật giải thích thêm, sử dụng ví dụ về một bác sĩ phẫu thuật: một bệnh nhân bị thương bởi một mũi tên tẩm độc, ngay cả khi bác sĩ phẫu thuật đã loại bỏ chất độc, bệnh nhân vẫn phải đi chậm lại cho đến khi vết thương lành hẳn. Sự thèm khát là mũi tên; vết thương đại diện cho sáu cơ quan giác quan bên trong; sự vô minh là chất độc; sự chánh niệm là cuộc thăm dò của bác sĩ phẫu thuật; Sự hiểu biết Cao quý là con dao của bác sĩ phẫu thuật; và Tathāgata là vị bác sĩ phẫu thuật. MN.ii.252-61.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "23"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Tissa 23. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 23. Tissa Kontiputta. Một vị Trưởng lão thời Asoka, là đệ tử của Mahā Varuṇa và là anh trai của Sumitta. Ông là con trai của một *kinnarī* tên là Kuntī. Ông qua đời do bị một con côn trùng có nọc độc cắn. Asoka rất đau buồn khi biết rằng cái chết của Tissa là do ông không có được bơ sữa trong lúc ốm đau. Mhv.v.213ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumittā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumittā 01. One of the five daughters of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumittā 01. Một trong năm cô con gái của Vijayabāhu I. và Tilokasundarī. Bà kết hôn với Jayabāhu. Cv.lix.31, 43.
 
 ## Notes

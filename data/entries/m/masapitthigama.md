@@ -5,7 +5,7 @@ base_headword: "Māsapiṭṭhigāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māsapiṭṭhigāma. A village near <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māsapiṭṭhigāma. Một ngôi làng gần Brahmacola. Nó được xây dựng gần nơi một dòng suối hiện ra nhờ phước đức của một cô gái đã dâng nước cho một vị tỳ-kheo đang khát. Ras.ii.42.
 
 ## Notes

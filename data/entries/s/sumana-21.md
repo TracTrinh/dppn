@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "21"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Sumana 21. A *seṭṭhiputta* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *seṭṭhiputta* (con trai trưởng giả) của Rājagaha. Puṇṇa (Puṇṇasīha) (*q.v.*) là người hầu của ông, nhưng sau đó, Puṇṇa, nhờ cúng dường cho Sāriputta, đã trở nên giàu có và Sumana kết hôn với con gái của ông ta là Uttarā. Sumana là người không có đức tin, và Uttarā, vì muốn có thời gian rảnh rỗi để thực hành tôn giáo của mình, đã thuê kỹ nữ Sirimā phục vụ ông, trả công cho cô bằng số tiền nhận được từ cha mình. Dhp­a.iii.104, 302f.
 
 ## Notes

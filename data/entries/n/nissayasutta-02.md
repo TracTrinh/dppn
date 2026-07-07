@@ -5,7 +5,7 @@ base_headword: "Nissayasutta"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -24,6 +24,6 @@ Nissayasutta 02. The Buddha explains to <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nissayasutta 02. Đức Phật giải thích cho Upāli về những phẩm chất mà một tỳ-kheo cần có để cho *nissaya*. AN.v.73.
 
 ## Notes

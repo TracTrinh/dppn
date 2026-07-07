@@ -5,7 +5,7 @@ base_headword: "Nārada"
 disambiguator: "04"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Nārada 04. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nārada 04. Một Bà-la-môn trong thời của Atthadassī Buddha, một tiền kiếp của Trưởng lão Paviṭṭha (hay Ekadaṁsaniya). Ông cũng được gọi là Kesava. Thag­a.i.185; Ap.i.168f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tipa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tipa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tipa. Một thủ lĩnh Vanni của Ceylon, bị Bhuvanekabāhu I khuất phục. Cv.xc.33.
 
 ## Notes

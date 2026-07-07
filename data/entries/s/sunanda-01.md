@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sunanda 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 01. Cha của Padumuttara Buddha. Dhp­a.i.417; nhưng Ja.i.37 và Bv.xi.19 gọi ông là Ānanda. Ông đã trở thành một tu sĩ khổ hạnh và Đức Phật đã thuyết pháp cho ông. Trong kiếp này ông là Puṇṇa Mantānīputta. Thag­a.i.361f.
 
 ## Notes

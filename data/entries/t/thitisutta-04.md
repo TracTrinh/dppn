@@ -5,7 +5,7 @@ base_headword: "Ṭhitisutta"
 disambiguator: "04"
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭhitisutta 04. Bảy trạm dừng của tâm thức (*viññāṇaṭṭhiti*). AN.iv.39f.
 
 ## Notes

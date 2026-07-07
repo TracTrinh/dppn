@@ -5,7 +5,7 @@ base_headword: "Supparikā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Supparikā. The name of a tribe. Ap.ii.369 (vs.19).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Supparikā. Tên của một bộ lạc. Ap.ii.369 (vs.19).
 
 ## Notes

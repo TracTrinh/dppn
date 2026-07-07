@@ -5,7 +5,7 @@ base_headword: "Punabbasumitta"
 disambiguator: "02"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Punabbasumitta 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Punabbasumitta 02. Con trai của Đức Phật Sumedha. Bv­a.163; Bv.xii.20 gọi cậu bé là Sumitta.
 
 ## Notes

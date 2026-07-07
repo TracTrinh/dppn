@@ -5,7 +5,7 @@ base_headword: "Posiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Posiya Thera. Con trai của một trưởng giả rất giàu có ở Sāvatthī và là em trai của Saṅgāmajita. Khi lớn lên, ông kết hôn và có một người con trai. Chẳng bao lâu sau, ông rời bỏ thế tục để gia nhập Tăng đoàn, và khi sống độc cư trong rừng, ông đã trở thành một bậc *Arahant*. Có lần, khi ông đi đến Sāvatthī để đảnh lễ Đức Phật, ông đã ghé thăm nhà mình. Người vợ cũ của ông đã tiếp đãi ông, nhưng khi thấy bà đang cố gắng quyến rũ ông, ông đã vội vã bỏ đi.
+
+Vào thời của Đức Phật Tissa, ông là một thợ săn. Đức Phật, vì lòng bi mẫn đối với ông, đã đi vào rừng và đứng cạnh ông. Ông đã dâng lên Đức Phật một chỗ ngồi bằng cỏ và đảnh lễ Ngài. Ngay sau đó, ông đã bị một con sư tử vồ chết (Thag.vs.34; Thag­a.i.96 ff). Ông có lẽ là cùng một người với Tiṇamuṭṭhidāyaka trong Apadāna. Ap.i.280; xem thêm ii. p.455.
 
 ## Notes

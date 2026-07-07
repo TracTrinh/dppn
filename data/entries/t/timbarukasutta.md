@@ -5,7 +5,7 @@ base_headword: "Timbarukasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Timbarukasutta. Records the visit of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timbarukasutta. Ghi chép về chuyến viếng thăm của Timbaruka đến Đức Phật.
 
 ## Notes

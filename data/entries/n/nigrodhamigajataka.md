@@ -5,7 +5,7 @@ base_headword: "Nigrodhamigajātaka"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -37,6 +37,12 @@ The story is figured in the *Bharhut Stūpa* (Cunningham: pl. xxv. (1) and xliii
 
 ## Vietnamese translation
 
-Chưa dịch.
+(Còn được gọi là Nigrodhajātaka) (Ja 12). Có lần Bồ-tát (Bodhisatta) sinh ra làm vua của loài hươu nai và được gọi là Nigrodha. Cùng với ngài có vị thủ lĩnh của một bầy khác, và ông ta được gọi là Sākha. Có một thỏa thuận giữa hai vị thủ lĩnh này rằng, vào những ngày luân phiên, một con hươu từ bầy của họ sẽ phải tự nộp mình để bị giết bởi nhà vua của Benares. Một ngày nọ, lượt này rơi vào một con nai cái đang mang thai thuộc bầy của Sākha, và khi cô ta xin được phép chờ cho đến khi sinh con thì cô đã bị Sākha từ chối. Sau đó cô thỉnh cầu Nigrodha, và ngài đã nhận lấy phần của cô cho chính mình. Sự miễn trừ sau đó đã được ban cho Nigrodha, và khi hành động của ngài được tâu lên nhà vua, ông đã đích thân đến để tìm hiểu về vấn đề này. Khi nghe câu chuyện, ông vô cùng xúc động, và đã hứa miễn trừ cho cả Nigrodha lẫn con nai cái. Nhưng Nigrodha không hài lòng cho đến khi nhà vua hứa miễn trừ cho tất cả các chúng sinh. Về sau, khi phát hiện ra rằng loài hươu nai, lợi dụng điều này, đang phá hoại mùa màng của con người, Nigrodha đã ra lệnh cho bầy của mình kiềm chế không làm như vậy.
+
+Câu chuyện được kể lại liên quan đến mẹ của Kumāra Kassapa (*q.v.*). Cô đã gia nhập Tăng đoàn (Saṅgha) dưới sự dẫn dắt của Devadatta mà không biết rằng mình đang mang thai. Khi phát hiện ra tình trạng của cô, Devadatta đã trục xuất cô khỏi Tăng đoàn. Cô thỉnh cầu Đức Phật, Ngài đã cho tổ chức một cuộc điều tra, và, sau khi đã được đảm bảo về sự vô tội của cô, Ngài đã phục hồi lại mọi danh dự cho cô. Khi Kumāra Kassapa lên bảy tuổi, ngài cũng được thâu nhận vào Tăng đoàn.
+
+Devadatta được xác định là Sākha, Kumāra Kassapa là con non của nai cái, mẹ của ngài là con nai cái, và nhà vua là Ānanda. Ja.i.145ff.; Dhp­a.iii.148f.
+
+Câu chuyện được mô tả trong *Bharhut Stūpa* (Cunningham: pl. xxv. (1) và xliii. (2)). Nó được đưa ra trong *Mahā Vastu* (Mvu.i.359ff.) với một vài sự khác biệt về chi tiết.
 
 ## Notes

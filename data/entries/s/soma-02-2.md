@@ -26,6 +26,6 @@ Somā 02. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Somā 02. Em gái của Sakulā và hoàng hậu của Pasenadi. Bà là người tích cực đệ tử của Đức Phật. MN.ii.125; MN­a.ii.757; bà có lẽ là người nữ cư sĩ nổi bật được đề cập tại AN.iv.347.
+Somā 02. Em gái của Sakulā và hoàng hậu của Pasenadi. Bà là một nữ đệ tử thuần thành của Đức Phật. MN.ii.125; MN­a.ii.757; bà có lẽ là người nữ cư sĩ nổi bật được đề cập tại AN.iv.347.
 
 ## Notes

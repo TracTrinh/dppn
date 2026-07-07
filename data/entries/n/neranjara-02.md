@@ -5,7 +5,7 @@ base_headword: "Nerañjarā"
 disambiguator: "02"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nerañjarā 02. A channel that branched northwards from the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con kênh rẽ nhánh về phía bắc từ hồ chứa nước Puṇṇavaḍḍhana. Cv.lxxix.49.
 
 ## Notes

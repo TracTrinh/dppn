@@ -5,7 +5,7 @@ base_headword: "Virāgasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Virāgasutta 03. The idea of dispassion, if cultivated, leads to great profit. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virāgasutta 03. Tưởng về sự ly tham, nếu được tu tập, sẽ mang lại lợi ích lớn lao. SN.v.133.
 
 ## Notes

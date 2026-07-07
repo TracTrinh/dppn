@@ -5,7 +5,7 @@ base_headword: "Pukkāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pukkāma. A city in Burma (<span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pukkāma. Một thành phố ở Miến Điện (Arimaddana). Cv.lxvii.74.
 
 ## Notes

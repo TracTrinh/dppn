@@ -5,7 +5,7 @@ base_headword: "Telavāhā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Telavāhā. A river in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telavāhā. Một con sông ở Serivaraṭṭha, và nằm gần Andhapura (Ja.i.111).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Puṇṇavaḍḍhana"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇavaḍḍhana 01. Son of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇavaḍḍhana 01. Con trai của Migāra và là chồng của Visākhā (*q.v.*). AN­a.i.220; Dhp­a.i.387; Ud­a. 158, v.v.
 
 ## Notes

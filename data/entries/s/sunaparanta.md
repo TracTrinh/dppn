@@ -5,7 +5,7 @@ base_headword: "Sunāparanta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -46,6 +46,10 @@ The people of Sunāparanta were reported as being fierce and violent (MN.iii.268
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunāparanta. Một quốc gia nơi có cảng Suppāraka, nơi sinh của Puṇṇa Thera. Từ đó, ông đã đi cùng một đoàn lữ hành đến Sāvatthī, và, sau khi nghe Đức Phật thuyết pháp, đã gia nhập Tăng đoàn. Sau đó, nhận được sự cho phép của Đức Phật, ông đã trở về Sunāparanta (Thag­a.i.158). Ở đó ông đạt được quả vị *Arahant*, và năm trăm người đàn ông cùng năm trăm phụ nữ đã trở thành những cư sĩ đi theo tôn giáo. Dưới sự chỉ dẫn của ông, họ đã xây dựng một Gandhakuṭi (Hương thất), gọi là Candanasālā, và Puṇṇa, mong muốn Đức Phật có mặt tại lễ cung hiến, đã gửi một bông hoa qua không trung đến Đức Phật ở Sāvatthī như một lời mời.
+
+Đức Phật đã nhận lời mời này và đi đến Sunāparanta cùng với bốn trăm chín mươi chín vị *Arahant*, bao gồm Kuṇḍadhāna và Ānanda, tất cả đều ngồi trong những chiếc kiệu có đỉnh nhọn, do Vissakamma cung cấp, hành động theo lệnh từ Sakka. Trên đường đi, Đức Phật dừng lại ở Saccabaddhapabbata, nơi ngài đã hóa độ vị *tāpasa* (đạo sĩ) của ngọn núi, người đã trở thành một vị *Arahant* và tiếp tục đi cùng đoàn trong chiếc kiệu thứ năm trăm. Đức Phật đã dành cả ngày ở Sunāparanta, và, trên đường trở về, đã dừng lại trên bờ sông Nammadā. Ở đó vị *Nāgarājā* đã bày tỏ lòng tôn kính với ngài, và Đức Phật đã để lại dấu chân của ngài trong nơi ở của loài Nāga để cho vị ấy thờ phụng. MN­a.ii.101f.; SN­a.iii.176; theo ghi chép sau thì Đức Phật đã trải qua bảy ngày ở Sunāparanta, tại Maṅkulārāma.
+
+Người dân của Sunāparanta được báo cáo là những người hung dữ và bạo lực (MN.iii.268; SN.iv.61f). Sunāparanta cũng là nơi sinh của Cūḷa Puṇṇa và Isidinna (Isidatta) (*q.v.*). Sunāparanta có lẽ đồng nhất với Aparanta; tuy nhiên, người Miến Điện lại đồng nhất nó với quốc gia nằm trên bờ phải của Sông Irrawaddy, gần Pagan. Sās. Introd., p.ix.
 
 ## Notes

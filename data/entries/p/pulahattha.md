@@ -5,7 +5,7 @@ base_headword: "Pulahattha"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pulahattha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pulahattha. Một kẻ tiếm quyền người Damiḷa, người đã trị vì trong ba năm tại Anurādhapura vào thời của Vaṭṭagāmaṇī. Hắn đã bị vị tướng quân Bāhiya của mình giết chết. Mhv.xxxiii.56f.; Dpv.xix.15; xx.15.
 
 ## Notes

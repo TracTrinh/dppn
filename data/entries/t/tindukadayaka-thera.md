@@ -5,7 +5,7 @@ base_headword: "Tindukadāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tindukadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a monkey who
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tindukadāyaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước ngài là một con khỉ, đã nhìn thấy Siddhattha Buddha và dâng cho ngài cùng các tỳ-kheo trái *tinduka* để ăn. Năm mươi bảy *kappa* trước ngài trở thành vua, dưới tên gọi là Upananda. Ap.i.200f.
 
 ## Notes

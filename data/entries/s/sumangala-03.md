@@ -5,7 +5,7 @@ base_headword: "Sumaṅgala"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumaṅgala 03. City of birth of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumaṅgala 03. Thành phố nơi sinh của Sujāta Buddha (Bv.xiii.20; Ja.i.38). Ngài đã giảng bài pháp đầu tiên của mình trong khu công viên ở thành phố này. Bv­a.168.
 
 ## Notes

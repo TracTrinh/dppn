@@ -5,7 +5,7 @@ base_headword: "Surādhasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surādhasutta. The Buddha teaches <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surādhasutta. Đức Phật dạy cho Surādha (*q.v.*) cách để rũ bỏ mọi ý niệm về "tôi" và "của tôi," để tâm có thể vượt qua những lối mòn của sự kiêu ngạo và hoàn toàn được giải thoát. SN.iii.80f.
 
 ## Notes

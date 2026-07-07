@@ -5,7 +5,7 @@ base_headword: "Mātaṅga"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātaṅga 04. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātaṅga 04. Cha của Mātaṅgaputta (q.v.).
 
 ## Notes

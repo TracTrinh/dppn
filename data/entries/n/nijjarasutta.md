@@ -5,7 +5,7 @@ base_headword: "Nijjarāsutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nijjarāsutta. Ten things, which are brought to nought by the cultivation of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mười điều bị đưa đến chỗ không còn gì (*hư vô*) bằng sự tu tập những điều trái ngược với chúng. AN.v.215f.
 
 ## Notes

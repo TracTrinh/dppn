@@ -5,7 +5,7 @@ base_headword: "Nīvaraṇapahānavagga"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīvaraṇapahānavagga. The second chapter of the *Ekanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīvaraṇapahānavagga. Chương thứ hai thuộc *Ekanipāta* của Aṅguttaranikāya. AN.i.3ff.
 
 ## Notes

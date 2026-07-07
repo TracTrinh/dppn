@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "39"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tissa 39. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 39. Một vị tỳ-kheo của Koṭapabbata.
 
 ## Notes

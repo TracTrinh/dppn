@@ -5,7 +5,7 @@ base_headword: "Vuṭṭhānasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vuṭṭhānasutta 01. Among those who practise meditation are those who are ski
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vuṭṭhānasutta 01. Trong số những người thực hành thiền định, có những người thành thạo trong việc xuất định khỏi sự tập trung. SN.iii.265.
 
 ## Notes

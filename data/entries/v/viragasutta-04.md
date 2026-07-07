@@ -5,7 +5,7 @@ base_headword: "Virāgasutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Virāgasutta 04. The four *satipaṭṭhāna*s, if cultivated, lead to dispassio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virāgasutta 04. Bốn niệm xứ (*satipaṭṭhāna*), nếu được tu tập, dẫn đến sự ly tham. SN.v.179.
 
 ## Notes

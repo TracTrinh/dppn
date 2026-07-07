@@ -5,7 +5,7 @@ base_headword: "Vitakkasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vitakkasutta 03. Thoughts of lust, hatred, and delusion are unprofitable. Though
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vitakkasutta 03. Những suy nghĩ về tham, sân, và si là không có lợi ích. Những suy nghĩ về khổ, nguyên nhân của nó, v.v., là có liên quan đến lợi ích. SN.v.417.
 
 ## Notes

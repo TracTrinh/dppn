@@ -5,7 +5,7 @@ base_headword: "Puṅkhagāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,6 @@ Puṅkhagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṅkhagāma. Một ngôi làng ở Dakkhiṇadesa của Tích Lan, nơi Māṇābharaṇa đã sinh sống dưới cái tên là Vīrabāhu (Cv.lxi.26) và nơi Parakkamabāhu I được sinh ra (Cv.lxxii.18). Parakkamabāhu sau đó đã dựng lên ở đó Sūtigharacetiya, cao một trăm tám mươi feet, trên nền móng của ngôi nhà nơi ông được sinh ra. Cv.lxxix.61.
 
 ## Notes

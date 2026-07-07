@@ -5,7 +5,7 @@ base_headword: "Nīlapokkharaṇī"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nīlapokkharaṇī. A pond, probably in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nīlapokkharaṇī. Một hồ nước, có lẽ ở Anurādhapura. Đây là một trong những nơi mà đất sét được lấy để làm các bình chứa vật dụng dùng trong lễ đăng quang của hoàng gia. Mhv­ṭ.307.
 
 ## Notes

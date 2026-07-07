@@ -5,7 +5,7 @@ base_headword: "Neru"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -26,6 +26,6 @@ Neru 01. The name of a king of India, descendant of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một vị vua của Ấn Độ, hậu duệ của Mahā Sammata. Ông là con trai của Mahā Sudassana và là cha của Mahā Neru. Mhv.ii.5; Dpv.iii.8.
 
 ## Notes

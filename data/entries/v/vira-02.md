@@ -5,7 +5,7 @@ base_headword: "Vīra"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vīra 02. A *seṭṭhi* whose daughter gave milk-rice to <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīra 02. Một vị trưởng giả (*seṭṭhi*) có con gái đã dâng cháo sữa cho Đức Phật Tissa ngay trước khi ngài Giác ngộ. Bv­a.189.
 
 ## Notes

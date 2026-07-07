@@ -5,7 +5,7 @@ base_headword: "Niddhamanasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -23,6 +23,6 @@ Niddhamanasutta. Ten things which are burnt out by the possession of their oppos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mười điều bị thiêu rụi bởi sự sở hữu những điều trái ngược với chúng. AN.v.220f.
 
 ## Notes

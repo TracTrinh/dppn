@@ -5,7 +5,7 @@ base_headword: "Visavantajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,8 @@ The story was told in reference to a vow taken by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visavantajātaka (Ja 69). Vị Bodhisatta có lần sinh làm một thầy lang trị rắn cắn, và vào một dịp nọ, khi một người dân quê bị rắn cắn, thầy lang đã ra lệnh mang con rắn đến và yêu cầu nó hút chất độc ra khỏi vết thương. Con rắn từ chối làm điều này ngay cả khi bị thầy lang đe dọa cái chết.
+
+Câu chuyện được kể liên quan đến một lời nguyện mà Sāriputta đã lập. Các dân làng có lần mang vài chiếc bánh bột đến tu viện, và khi các nhà sư có mặt ở đó đã ăn xong, có người đề nghị rằng những phần còn lại nên được cất giữ cho những nhà sư vắng mặt ở trong làng. Điều này đã được thực hiện, nhưng một người bạn đồng tu trẻ của Sāriputta, đến rất trễ, phát hiện ra rằng Sāriputta đã ăn phần của mình, nên ông ta rất thất vọng vì điều đó. Sāriputta ngay lập tức thề sẽ không bao giờ đụng đến bánh bột nữa, và Đức Phật nói rằng Sāriputta sẽ không bao giờ quay lại với bất cứ thứ gì mà ông đã từng từ bỏ. Con rắn được nhận diện là Sāriputta. Ja.i.310f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suppatiṭṭhita"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suppatiṭṭhita 04. A king of sixty-five *kappas* ago, a previous birth of <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suppatiṭṭhita 04. Một vị vua của sáu mươi lăm *kappa* trước, một tiền kiếp của Gosīsanikkhepa Thera. Ap.i.245.
 
 ## Notes

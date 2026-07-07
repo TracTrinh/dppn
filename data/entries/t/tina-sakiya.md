@@ -5,7 +5,7 @@ base_headword: "Tiṇa Sākiyā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tiṇa Sākiyā. The name given to those <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇa Sākiyā. Cái tên được đặt cho những người Sākyan ngậm những cây lau sậy trong miệng để trốn thoát khỏi bị tàn sát khi Viḍūḍabha tàn sát những người Sākyan. Để biết chi tiết, xem Dhp­a.i.359.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pokkharaṇiyā"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pokkharaṇiyā. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pokkharaṇiyā. Một tu viện (*vihāra*) ở Sāmagāma, nơi Đức Phật được cho là đã từng lưu trú. AN.iii.309; AN­a.ii.660. Người dịch gọi đó là một hồ sen; nhưng Chú giải dứt khoát gọi đó là một tu viện (*Vihāra*) (GS.iii.220).
 
 ## Notes

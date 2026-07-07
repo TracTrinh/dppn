@@ -5,7 +5,7 @@ base_headword: "Villikābā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Villikābā. A district of Ceylon, once the residence of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Villikābā. Một quận của Tích Lan, từng là nơi cư ngụ của Vijayabāhu I. Cv.lviii.29.
 
 ## Notes

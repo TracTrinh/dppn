@@ -5,7 +5,7 @@ base_headword: "Vīticchajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,8 @@ The story was related in reference to a *Paribbājaka* who came to <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīticchajātaka (Ja 244). Vị Bodhisatta, có lần là một tu sĩ khổ hạnh khôn ngoan sống trong một túp lều ở khúc quanh của một con sông. Một người hành hương, một người tranh luận giỏi, đã đến để cố gắng đánh bại ông trong cuộc tranh luận. Nhưng, để trả lời câu hỏi của ông ta, vị ẩn sĩ đã hỏi ông ta một câu khác, và người hành hương đã buộc phải rút lui trong sự bối rối.
+
+Câu chuyện được kể liên quan đến một *Paribbājaka* đã đến Sāvatthī để tranh luận với Đức Phật, nhưng ông ta đã buộc phải nhận thất bại. Hai người tranh luận là cùng một người. Ja.ii.257f.
 
 ## Notes

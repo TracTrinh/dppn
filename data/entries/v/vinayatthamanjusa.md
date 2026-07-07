@@ -5,7 +5,7 @@ base_headword: "Vinayatthamañjūsā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vinayatthamañjūsā. A *ṭīkā* on the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vinayatthamañjūsā. Một *ṭīkā* về Kaṅkhāvitaraṇī, được viết bởi Buddhanāga. Gv.61; Svd.1212.
 
 ## Notes

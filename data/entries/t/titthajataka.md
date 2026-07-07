@@ -5,7 +5,7 @@ base_headword: "Titthajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,10 @@ The monk is identified with the state charger and <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthajātaka (Ja 25). Bodhisatta từng là cố vấn cho vua nước Benares. Một ngày nọ, một con ngựa khác đã được tắm ở chỗ dành riêng cho ngựa chiến của nhà vua, con ngựa này khi được đưa đến đó để tắm, đã từ chối bước xuống. Bodhisatta, đoán được lý do, đã chỉ đạo rằng con ngựa nên được đưa đi nơi khác, và không phải lúc nào cũng tắm ở cùng một chỗ, đồng thời nói thêm rằng một người sẽ chán ngay cả những món ăn ngon nhất, nếu nó không bao giờ được thay đổi. Bodhisatta đã được ban thưởng hậu hĩnh vì khả năng đọc được suy nghĩ của con ngựa.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo, đệ tử của Sāriputta. Ông từng là một thợ kim hoàn và đề mục thiền về sự bất tịnh do Sāriputta chỉ định cho ông, tỏ ra là bất khả thi đối với ông. Ông được đưa đến gặp Đức Phật, người đã yêu cầu ông nhìn chằm chằm vào một bông hoa sen trong cái ao gần đó. Vị tỳ-kheo nhìn thấy hoa sen tàn phai và, phát triển tuệ giác, đã trở thành một *Arahant*. Ông kinh ngạc trước khả năng đọc được suy nghĩ và tính khí của người khác của Đức Phật.
+
+Vị tỳ-kheo được đồng nhất với con ngựa chiến và Ānanda là nhà vua. Ja.i.182ff.
 
 ## Notes

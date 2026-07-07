@@ -5,7 +5,7 @@ base_headword: "Nipannapaṭimāguhā"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -27,6 +27,6 @@ Nipannapaṭimāguhā. A cave forming part of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nipannapaṭimāguhā. Một hang động tạo thành một phần của Uttarārāma được xây dựng ở Pulatthipura bởi Parakkamabāhu I. Cv.lxxviii.75.
 
 ## Notes

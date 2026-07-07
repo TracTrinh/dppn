@@ -5,7 +5,7 @@ base_headword: "Mannāya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mannāya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mannāya. Một thủ lĩnh Damiḷa, trong đoàn tùy tùng trực tiếp của Kulasekhara. Cv.lxxvi.220.
 
 ## Notes

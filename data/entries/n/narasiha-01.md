@@ -5,7 +5,7 @@ base_headword: "Narasīha"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -28,6 +28,6 @@ Narasīha 01. King of India, ruler of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Narasīha 01. Vua của Ấn Độ, người trị vì Kaṇḍuveṭhi, và là bạn của Māṇavamma. Vị này đã giúp ông đánh bại vua Vallabha, và đã được đền đáp bằng sự giúp đỡ của Narasīha trong việc giành được ngai vàng của Ceylon. Cv.xlvii.4-49.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Titthaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Titthaka. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Titthaka. Một Ājīvaka đã cúng dường cỏ *kusa* cho Phussa Buddha trước sự Giác ngộ của Ngài. Bv­a.147.
 
 ## Notes

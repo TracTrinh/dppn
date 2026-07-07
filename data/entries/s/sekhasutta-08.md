@@ -26,6 +26,6 @@ Sekhasutta 08. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Sekhasutta 08. Được thuyết giảng bởi Ānanda tại Kapilavatthu, trong hội trường mới của các Liccavī. Đức Phật thuyết giảng đến khuya và sau đó yêu cầu Ānanda tiếp tục, gợi ý cho ngài đề tài về sự tu tập của bẬcc vô học (*asekha*). Ānanda đã giải thích chi tiết cách một tỳ-khèo có thể có giới hạnh, thu thúc các căn, tiết độ trong ăn uống, tinh cần, an trú trong bảy phẩm chất đức hạnh (tín, v.v...), và có khả năng nhập bốn *jhāna* theo ý muốn. MN.i.353ff.
+Sekhasutta 08. Được thuyết giảng bởi Ānanda tại Kapilavatthu, trong hội trường mới của các Licchavī. Đức Phật thuyết giảng đến khuya và sau đó yêu cầu Ānanda tiếp tục, gợi ý cho ngài đề tài về sự tu tập của bậc vô học (*asekha*). Ānanda đã giải thích chi tiết cách một tỳ-kheo có thể có giới hạnh, thu thúc các căn, tiết độ trong ăn uống, tinh cần, an trú trong bảy phẩm chất đức hạnh (tín, v.v...), và có khả năng nhập bốn *jhāna* theo ý muốn. MN.i.353ff.
 
 ## Notes

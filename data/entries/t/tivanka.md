@@ -5,7 +5,7 @@ base_headword: "Tivaṅka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ A similar image was found in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tivaṅka. Một bức tượng, có thể là của Đức Phật, được lắp đặt tại Tivaṅkaghara ở Pulatthipura bởi Parakkamabāhu I. (Cv.lxxviii.39).
+
+Một bức tượng tương tự đã được tìm thấy ở Kalyāṇīvihāra, nơi được Parakkamabāhu II trùng tu. Cv.lxxxv.66; see Cv.Trs.ii.105, n.5.
 
 ## Notes

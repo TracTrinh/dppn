@@ -5,7 +5,7 @@ base_headword: "Ticampakapupphiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Ticampakapupphiya Thera. An *Arahant*. In a previous birth, ninety-one *kappas* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ticampakapupphiya Thera. Một bậc *Arahant*. Trong một kiếp trước, chín mươi mốt *kappas* trước, ông đã nhìn thấy một vị ẩn sĩ thánh thiện dưới chân núi Vikaṭa, gần Himavā, và dâng lên vị ấy ba bông hoa ngọc lan (*campaka*). Ap.i.227.
 
 ## Notes

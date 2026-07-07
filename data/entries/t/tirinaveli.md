@@ -5,7 +5,7 @@ base_headword: "Tiriṇaveli"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tiriṇaveli. A district in South India. Cv.lxxvi.143, 288; lxxvii.42, 91.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiriṇaveli. Một quận ở Nam Ấn Độ. Cv.lxxvi.143, 288; lxxvii.42, 91.
 
 ## Notes

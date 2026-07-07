@@ -5,7 +5,7 @@ base_headword: "Tintiṇika"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tintiṇika. A village granted by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tintiṇika. Một ngôi làng được Mahā Nāga ban cho Mahā Vihāra (Cv.xli.96). Nơi đây từng là trụ sở của Dāṭhāsiva (Cv.xliv.125). Nó rõ ràng chứa một hồ chứa nước đã được Parakkamabāhu I phục hồi. (Cv.lxviii.47).
 
 ## Notes

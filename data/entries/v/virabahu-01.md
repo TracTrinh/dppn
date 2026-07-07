@@ -5,7 +5,7 @@ base_headword: "Vīrabāhu"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Vīrabāhu 01. Younger brother of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīrabāhu 01. Em trai của Vijayabāhu I. Ông được phong làm *uparājā* và được giao cai quản Dakkhiṇadesa. Ông kết hôn với Subhaddā. Ông đã giúp nhà vua trong việc chinh phục Pulatthipura khi quân đội Velakkāra nổi dậy. Cv.lix. 11, 43; lx. 40.
 
 ## Notes

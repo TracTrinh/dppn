@@ -5,7 +5,7 @@ base_headword: "Tela"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tela. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tela. *v.l.* Malla. Một trong những đại sứ được Devānampiyatissa phái đến gặp Asoka. Mhv­ṭ.302.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sundarīnandā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -33,6 +33,8 @@ She seems to have been called <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sundarīnandā 02. Một vị Therī. Bà là con gái của Suddhodana và Mahā Pajāpatī và là em gái của Nanda Thera. Thấy phần lớn những người thân của mình đã gia nhập Tăng đoàn, bà cũng trở thành tỳ-kheo-ni, không phải vì đức tin, mà vì tình yêu đối với người thân của mình. Bị say sưa với vẻ đẹp của chính mình, bà đã không đến gặp Đức Phật e rằng Ngài sẽ khiển trách bà. Phần còn lại của câu chuyện của bà rất giống với câu chuyện của Abhirūpanandā. Đức Phật thuyết pháp cho bà và bà đã trở thành một *Sotāpanna*. Sau đó Ngài cho bà một đề mục thiền, và bà, nhờ phát triển thiền quán, đã trở thành một *Arahant*. Về sau bà được tuyên bố là vị tỳ-kheo-ni tối thắng về năng lực thiền định, một vị trí ưu việt mà bà đã quyết tâm đạt được vào thời kỳ của Padumuttara Buddha. Thag.vs.82-6; Thīg­a.80f.; Ap.ii.572f; AN.i.25; AN­a.i.198f.
+
+Bà dường như cũng được gọi là Rūpanandā (AN­a.i.198); dường như đã có một sự nhầm lẫn nào đó trong những truyền thuyết về các *Therī* khác nhau tên là Nandā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Timitimiṅgala"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Timitimiṅgala. A fish, one thousand leagues long, living in the deep ocean and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Timitimiṅgala. Một con cá, dài một ngàn do-tuần, sống ở dưới biển sâu và ăn rong biển (Ja.v.462; NidA.211).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vīravāpi"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vīravāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīravāpi. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxxix.36.
 
 ## Notes

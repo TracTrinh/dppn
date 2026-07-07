@@ -5,7 +5,7 @@ base_headword: "Nidhikaṇḍasutta"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nidhikaṇḍasutta. One of the *Suttas* of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những bài kinh (*Suttas*) của Khuddakapāṭha (Khp.p.7). Một người chôn giấu kho báu để có thể sử dụng nó sau này, nhưng rất thường xuyên là anh ta bị mất nó; kho báu được cất giữ bằng việc làm các việc thiện thì không như vậy.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumucalindasara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumucalindasara. A lake (Ja.vi.582), evidently identical with <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumucalindasara. Một hồ nước (Ja.vi.582), rõ ràng là đồng nhất với Mucalinda.
 
 ## Notes

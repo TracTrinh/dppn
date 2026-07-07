@@ -5,7 +5,7 @@ base_headword: "Vijitasenā"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijitasenā 03. One of the chief women supporters of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasenā 03. Một trong những nữ thí chủ hộ độ chính của Đức Phật Kassapa. Bv.xxv.41.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tatojasi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tatojasi. A messenger of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tatojasi. Một sứ giả của Vessavaṇa. DN.iii.201.
 
 ## Notes

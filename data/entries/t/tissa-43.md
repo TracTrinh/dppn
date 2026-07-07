@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "43"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissa 43. An attendant of King <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 43. Một người hầu của Vua Saddhātissa. Nhà vua, muốn ăn thịt chim trĩ, đã yêu cầu Tissa đi kiếm vài con, sau khi đã thử ông bằng cách dọa sẽ xử tử nếu ông từ chối giết chim cho bữa ăn của nhà vua. Tissa, ngay cả khi bị dẫn đến bục hành quyết, vẫn từ chối giết những con chim. Do đó, nhà vua rất hài lòng rằng Tissa sẽ không giết chim trĩ cho mình. Ngày hôm sau, Tissa, nhìn thấy một người đánh bẫy chim đang rao bán một số con chim trĩ đã chết, đã mua chúng cho nhà vua (SN­a.iii.49ff; AN­a.i.262).
 
 ## Notes

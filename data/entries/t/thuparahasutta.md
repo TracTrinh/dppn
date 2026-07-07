@@ -5,7 +5,7 @@ base_headword: "Thūpārahasutta"
 disambiguator: ""
 letter: "T"
 section: "Th."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/042.html"
@@ -26,6 +26,6 @@ Thūpārahasutta. There are four persons worthy of a *Thūpa* – a Buddha, a <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thūpārahasutta. Có bốn hạng người xứng đáng với một bảo tháp (*Thūpa*) – một vị Phật, một vị Phật Độc giác (*Pacceka Buddha*), một đệ tử của Đức Phật và một vị Chuyển luân thánh vương (*Cakkavatti*). AN.ii.245.
 
 ## Notes

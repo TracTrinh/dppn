@@ -5,7 +5,7 @@ base_headword: "Visirātthala"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Visirātthala. A tank in Ceylon. Cv.lxviii.49.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visirātthala. Một hồ chứa nước ở Tích Lan. Cv.lxviii.49.
 
 ## Notes

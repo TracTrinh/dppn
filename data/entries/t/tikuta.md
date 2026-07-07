@@ -5,7 +5,7 @@ base_headword: "Tikūṭa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tikūṭa. A river in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tikūṭa. Một con sông ở Himavā, nơi lui tới của những *Kinnaras* (Khẩn-na-la). Ja.iv.438, 439.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijjāsutta"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijjāsutta 05. Preached to the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijjāsutta 05. Được thuyết cho những người Vajjī tại Koṭigāma. Chính vì không thấu hiểu *dukkha*, nguyên nhân của nó, v.v., mà chúng sinh trôi lăn mãi trong *Saṁsāra*. SN.v.431.
 
 ## Notes

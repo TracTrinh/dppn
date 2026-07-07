@@ -5,7 +5,7 @@ base_headword: "Vīṇūpamovāda"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vīṇūpamovāda. The name given (e.g., at Thag­a.i.545) to a discourse preach
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vīṇūpamovāda. Tên gọi được đặt (ví dụ, tại Thag­a.i.545) cho một bài pháp được Đức Phật thuyết cho Soṇa Koḷivisa (*q.v.*) tại Gijjhakūṭa. Nó thường được gọi là Soṇasutta. Xem AN.iii.374.
 
 ## Notes

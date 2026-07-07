@@ -5,7 +5,7 @@ base_headword: "Tissa Mahā Nāga Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,8 @@ After death the monk’s remains were cremated at <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa Mahā Nāga Thera. Một vị tỳ-kheo của Kuṭumbiyavihāra. Sau khi nghe Satipaṭṭhānasutta từ Tissa Thera của Ambalena, ngài đang trên đường trở về thì gặp một con voi rừng. Bằng đức hạnh của ngài, con voi đã bị khuất phục và Tissa Mahā Nāga đã trú ẩn khỏi cơn bão dưới bụng của con voi. Ở đó ngài đã phát triển và đắc quả vị *Arahant*. Sau đó ngài đi đến *Viyolakavihāra* cùng với con voi, và trong ba mươi năm con vật này đã hầu hạ ngài.
+
+Sau khi ngài qua đời, tro cốt của vị tỳ-kheo đã được hỏa táng tại Kuṭumbiyavihāra, và con voi đã tham gia vào buổi lễ tang. Ras.ii.185f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijitasenā"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijitasenā 01. Daughter of the third <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitasenā 01. Con gái của vua Okkāka thứ ba và chánh hậu Hatthā (Bhattā). DN­a.i.258; Snp­a.i.352; Mhv­ṭ. 131; Mvu.i.348.
 
 ## Notes

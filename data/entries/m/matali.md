@@ -5,7 +5,7 @@ base_headword: "Mātali"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -54,6 +54,10 @@ When the Buddha descended from <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātali. Tên được đặt cho người đánh xe ngựa (saṅgāhaka) của Sakka. Mātali của thời đại hiện tại có một người con trai, Sikhaṇḍhi, người mà Bhaddā Suriyavaccasā, con gái của Timbarū, đã yêu thương; nhưng sau đó cô đã chuyển tình cảm của mình sang Pañcasikha (DN.ii.268). Mātali là người bạn đồng hành thường xuyên của Sakka và đi cùng ngài khắp mọi nơi, giống như một người bạn tâm giao hơn là một đầy tớ. Xem thêm, ví dụ, cuộc trò chuyện được thuật lại ở SN.i.221, 224, 234ff.; và Vv.iv.9.
+
+Như vậy, ông đã luôn ở bên cạnh Sakka trong cuộc chiến chống lại các Asura và đã đánh chiếc xe ngựa của Sakka khi ngài bỏ trốn cùng với người vợ mới cưới Sujātā. Chiếc xe ngựa này được gọi là xe Vejayanta và được kéo bởi một ngàn con ngựa Sindh (Dhp­a.i.279f.; Ja.i.202f). Mātali thường đi theo Sakka trong những chuyến đi đến thế giới loài người, thay đổi hình dạng của mình, ví dụ như hóa thành một con cá trong Cūḷa Dhanuggahajātaka (Ja 374), một vị Bà-la-môn trong Biḷārikosiyajātaka (Ja 450) và trong Sudhābhojanajātaka (Ja 535), và một con chó đen to lớn trong Mahā Kaṇhajātaka (Ja 469). Trong nhiều dịp, ông được Sakka phái đi để đón con người đến cõi Tāvatiṁsa, ví dụ như Guttila, Nimi, Makhādeva và Sādhīna, và ông đã chứng tỏ mình là một người hướng dẫn tuyệt vời, chỉ cho các vị khách thấy những điểm thú vị đi ngang qua trên đường.
+
+Khi Đức Phật từ cõi Tāvatiṁsa hạ phàm, sau khi thuyết giảng Vi Diệu Pháp (Abhidhamma) ở đó, Ngài đã được hộ tống ở bên trái bởi Mātali, dâng cúng hương thơm, vòng hoa và hoa của cõi trời (Dhp­a.iii.226). Cả trong Biḷārikosiyajātaka (Ja 450) và Sudhābhojanajātaka (Ja 535, q.v.), Mātali đều được nói đến như là con trai của Suriya. Tôn giả Ānanda được cho là đã từng là Mātali trong một vài tiền kiếp (Ja.i.206; iv.180; v. 412; vi.129); Tôn giả Mahā Kassapa cũng vậy (Ja.iv.69). Trong Mahā Samayasutta (DN.ii.258), Mātali được miêu tả như là một thủ lĩnh của các Gandhabba, trong khi ở Āṭānāṭiyasutta (DN.iii.204) ông được nhắc đến trong số các vị Dạ-xoa (Yakkha) thủ lĩnh cần được thỉnh cầu bởi những người đệ tử của Đức Phật trong lúc nguy cấp.
 
 ## Notes

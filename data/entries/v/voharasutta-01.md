@@ -5,7 +5,7 @@ base_headword: "Vohārasuttā"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -24,6 +24,6 @@ Vohārasuttā 01. Four *Suttas* on modes of speech which are Ariyan and non-Ariy
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vohārasuttā 01. Bốn bài *Sutta* về các lối nói thuộc bậc Thánh và không thuộc bậc Thánh. AN.iv.307.
 
 ## Notes

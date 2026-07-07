@@ -5,7 +5,7 @@ base_headword: "Tirīṭavaccha"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Tirīṭavaccha 03. A Brahmin, *Purohita* of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tirīṭavaccha 03. Một Bà-la-môn, *Purohita* của Caṇḍappajjota và là cha của Mahā Kaccāna. Vợ của ông là Candapadumā. *v.l.* Tidivavaccha. Ap.ii.465; Thag­a.i.485.
 
 ## Notes

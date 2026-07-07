@@ -5,7 +5,7 @@ base_headword: "Virocana"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Virocana. Nine *kappas* ago there were three kings of this name, all previous bi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Virocana. Chín *kappa* trước, có ba vị vua mang tên này, tất cả đều là tiền kiếp của Sālapupphadāyaka (Ajjuṇa) Thera. Ap.i.169; Thag­a.i.186.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Voyalaggamu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Voyalaggamu. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Voyalaggamu. Một ngôi làng ở Rohaṇa, được đề cập trong lời kể về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.122.
 
 ## Notes

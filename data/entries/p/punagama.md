@@ -5,7 +5,7 @@ base_headword: "Pūnagāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pūnagāma. A ford on the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pūnagāma. Một bến cạn trên sông Mahā Vālukagaṅgā. Cv.lxxii.6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tuvaradāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tuvaradāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a hunter who, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tuvaradāyaka Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ông là một người thợ săn, người đã nhìn thấy một số vị tỳ-kheo trong rừng và cúng dường cho họ một cái *tuvara* (?) (Ap.i.222).
 
 ## Notes

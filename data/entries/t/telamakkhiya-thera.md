@@ -5,7 +5,7 @@ base_headword: "Telamakkhiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Telamakkhiya Thera. An *Arahant*. Ninety-four *kappas* ago he rubbed oil on the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Telamakkhiya Thera. Một bậc *Arahant*. Chín mươi tư *kappa* trước, ông đã thoa dầu lên lan can (*vedikā*) của cây bodhi của Đức Phật Siddhattha. Hai mươi bốn *kappa* trước, ông là một vị vua tên là Succhavi. Ap.i.230f.
 
 ## Notes

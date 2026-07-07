@@ -5,7 +5,7 @@ base_headword: "Puṇṇa"
 disambiguator: "05"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -31,6 +31,6 @@ Puṇṇa 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇa 05. Puṇṇa Koḷiyaputta. Một tu sĩ lõa thể (*Acela*) đã đến thăm Đức Phật tại Haliddavasana, cùng với Seniya Kukkuravatika. Puṇṇa đã chất vấn Đức Phật về các pháp hành của Seniya, trong khi Seniya cũng làm như vậy đối với các pháp hành của Puṇṇa. Cuộc thảo luận được ghi lại trong Kukkuravatikasutta (*q.v.*). Vào cuối cuộc thảo luận, Puṇṇa tuyên bố mình là một tín đồ của Đức Phật. Ông được gọi là người thực hành hạnh con bò (*Govatika*) (một người cư xử như một con bò) (MN.i.387 ff). Buddhaghosa nói (MN­a.ii.624) rằng, để hỗ trợ cho đặc tính bò của mình, ông đội sừng, đeo đuôi và gặm cỏ cùng với đàn gia súc.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pubbasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pubbasutta 01. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbasutta 01. (hoặc Hetusutta). Đức Phật nói với các tỳ-kheo về việc, ngay từ trước khi Giác ngộ, Ngài đã trau dồi bốn *iddhipāda* như thế nào, và về việc sự phát triển của chúng đã mang lại nhiều sự chứng đắc khác nhau ra sao, chẳng hạn như thiên nhãn thông, v.v. SN.v.263 ff.
 
 ## Notes

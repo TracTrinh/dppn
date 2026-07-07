@@ -5,7 +5,7 @@ base_headword: "Ñātikasutta"
 disambiguator: ""
 letter: "N"
 section: "Ñ."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/039.html"
@@ -28,6 +28,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lần Đức Phật, khi đang thiền định tại Giñjakāvasatha ở Nātika, đã thốt lên một bài pháp về sự khổ, sự sinh khởi và sự đoạn diệt của nó. Một tỳ-kheo nọ đứng nghe, và Đức Phật bảo vị ấy hãy học Pháp như vị ấy đã nghe. SN.ii.71; được lặp lại tại SN.iv.90.
 
 ## Notes

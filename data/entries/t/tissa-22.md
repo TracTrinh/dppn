@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "22"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,8 @@ He later became a monk under Yonaka <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 22. Tissakumāra. Em trai của Asoka và là phó vương của ông. Ông từng hỏi Asoka tại sao các tỳ-kheo không vui vẻ và hồn nhiên và Asoka, để dạy cho ông lý do, đã trao cho ông ngai vàng trong một tuần, nói rằng vào cuối tuần ông sẽ bị xử tử. Tissa khi đó nhận ra rằng các tỳ-kheo, những người có ý thức thường trực về cái chết, không thể vui vẻ được.
+
+Về sau ông trở thành tỳ-kheo dưới sự hướng dẫn của Yonaka Mahā Dhammarakkhita và sống ở Asokārāma, nơi ông đã ngăn chặn việc giết hại các Trưởng lão bởi vị quan do Asoka cử đến để bắt các tỳ-kheo cùng nhau cử hành *uposatha*. Ông trở thành một vị *Arahant* và, do tính yêu thích sự tĩnh lặng, ông được biết đến với tên gọi là Ekavihāriya. Thag.vv.537-46; Thag­a.i.503f; Mhv.v.33, 60, 154ff, 241; SN­a.iii.125.
 
 ## Notes

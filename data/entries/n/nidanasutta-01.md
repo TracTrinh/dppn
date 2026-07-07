@@ -5,7 +5,7 @@ base_headword: "Nidānasutta"
 disambiguator: "01"
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -24,6 +24,6 @@ Nidānasutta 01. The three means by which deeds are heaped up: greed, hatred and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ba phương tiện mà thông qua đó các nghiệp được tích tập: tham, sân và si. AN.iii.338.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Nimmitapura"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/047.html"
@@ -25,6 +25,6 @@ Nimmitapura. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nimmitapura. Một khu ngự uyển ở Pulatthipura do Parakkamabāhu I thiết lập. Cv.lxxix.9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tissametteyyasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tissametteyyasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissametteyyasutta. Được thuyết cho Tissa (7) và bạn của ông là Metteyya, theo yêu cầu của Metteyya. Nó đề cập đến những tệ nạn theo sau việc quan hệ tình dục. Snp.p.160f; Snp­a.ii.535f.
 
 ## Notes

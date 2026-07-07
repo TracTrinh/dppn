@@ -5,7 +5,7 @@ base_headword: "Sunanda"
 disambiguator: "17"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sunanda 17. A city. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunanda 17. Một thành phố. Xem Naradeva (2).
 
 ## Notes

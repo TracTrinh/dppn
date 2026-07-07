@@ -5,7 +5,7 @@ base_headword: "Summa Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Summa Thera. An incumbent of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Summa Thera. Một vị trụ trì của Dīpavihāra ở Tích Lan. Ông rõ ràng là một nhà chú giải lỗi lạc, và được Buddhaghosa trích dẫn. *Tipiṭaka* Cūḷa Nāga là học trò của ông. MN­a.i.126; AN­a.ii.845.
 
 ## Notes

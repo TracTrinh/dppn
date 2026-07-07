@@ -5,7 +5,7 @@ base_headword: "Pottika"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -30,6 +30,6 @@ Pottika, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pottika, Pottiya. Con trai của một thợ may và là bạn của Nigrodhakumāra và Sākhakumāra. Khi Nigrodha lên làm vua, Pottika được bổ nhiệm làm Thủ quỹ. Để biết câu chuyện của họ, xem Nigrodhajātaka (Ja 445). Pottika được đồng nhất với Ānanda. Ja.iv.37ff.
 
 ## Notes

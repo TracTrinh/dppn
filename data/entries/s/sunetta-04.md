@@ -5,7 +5,7 @@ base_headword: "Sunetta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sunetta 04. A teacher of old. He had numerous disciples, and those who followed 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sunetta 04. Một vị đạo sư thời xưa. Ông có rất nhiều đệ tử, và những người đi theo những lời dạy của ông đã được tái sinh vào cõi Phạm thiên (*Brahma*) và ở nhiều cõi khác. Sau đó Sunetta, nhận thấy rằng một số đệ tử của ông cũng giỏi bằng chính ông, đã phát triển tâm từ (*mettā*) đến một mức độ cao hơn nhiều; nhưng dù vậy, ông cũng không thể giải thoát bản thân khỏi sinh, già, v.v. Đó là vì ông chưa thấu hiểu Giới Thánh, Định Thánh, Tuệ Thánh, Giải thoát Thánh. AN.iv.103f.; ông được nhắc đến ở AN.iii.371; iv.135.
 
 ## Notes

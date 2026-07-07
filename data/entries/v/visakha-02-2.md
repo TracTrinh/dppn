@@ -5,7 +5,7 @@ base_headword: "Visākhā"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Visākhā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Visākhā 02. Mẹ của Kakusandha Buddha và là vợ của Aggidatta. Bv.xxiii.58; Ja.i.94; DN.ii.7.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suṁsumārajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suṁsumārajātaka (Ja 208). Bodhisatta từng là một con khỉ, sống trên bờ sông Ganges. Vợ của một con cá sấu sống trong dòng sông nhìn thấy ông và muốn ăn thịt trái tim của ông. Vì vậy, chồng của mụ đã kết bạn với con khỉ, người mà hắn đề nghị cõng qua sông trên lưng mình, để ông có thể ăn trái cây tươi ở bờ bên kia. Con khỉ tin tưởng hắn và trèo lên lưng hắn, nhưng, khi đi được nửa đường qua sông, con cá sấu bắt đầu chìm xuống và sau đó thú nhận ý định của mình. Con khỉ liền cười và nói với hắn rằng ông không bao giờ mang theo trái tim của mình khi đi trèo cây tìm thức ăn, nếu không nó sẽ bị xé thành từng mảnh; mà ông, giống như tất cả những con khỉ khác, treo nó trên một cái cây, và ông chỉ cho con cá sấu thấy nó đang treo ở đó trên bờ bên kia. Con cá sấu tin lời ông và đưa ông qua sông, nơi hắn hy vọng sẽ lấy được trái tim. Nhưng con khỉ đã nhảy lên bờ và cười nhạo sự ngu ngốc của hắn.
+
+Câu chuyện được kể lại liên quan đến những nỗ lực của Devadatta nhằm giết hại Đức Phật. Con cá sấu được đồng nhất với Devadatta và vợ của hắn với Ciñcā. Ja.ii.159f.; so sánh Cpiii.7; Mhv.ii.208.
 
 ## Notes

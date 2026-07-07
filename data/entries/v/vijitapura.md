@@ -5,7 +5,7 @@ base_headword: "Vijitapura"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vijitapura, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitapura, Vijītanagara. Một thành phố được sáng lập bởi Vijita, đại thần của Vijaya. Ở gần đó là Khandhāvārapiṭṭhi, nơi Duṭṭhagāmaṇī dựng trại trong chiến dịch quân sự chống lại những người Damiḷa, và cũng có ngôi làng Hatthipora (*q.v.*). Thành phố này từng là một đồn lũy của những người Damiḷa, và đã bị Duṭṭhagāmaṇī đánh chiếm sau bốn tháng vây hãm. Để biết chi tiết về cuộc vây hãm, xem Mhv.xxv.19ff.
 
 ## Notes

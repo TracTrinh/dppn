@@ -5,7 +5,7 @@ base_headword: "Nāvāgirisa"
 disambiguator: ""
 letter: "N"
 section: "N."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/046.html"
@@ -25,6 +25,6 @@ Nāvāgirisa. A village in Ceylon, where <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Tích Lan, nơi Parakkamabāhu I đã dành một khoảng thời gian trước khi lên ngôi. Cv.lxvi.92.
 
 ## Notes

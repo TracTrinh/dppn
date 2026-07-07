@@ -5,7 +5,7 @@ base_headword: "Sūravāmagotta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sūravāmagotta. A son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūravāmagotta. Một người con trai của Ekarāja và em trai cùng cha khác mẹ của Candakumāra. Ông được đồng nhất với Mahā Kassapa (Ja.vi.157). Xem Khaṇḍahālajātaka (Ja 542).
 
 ## Notes

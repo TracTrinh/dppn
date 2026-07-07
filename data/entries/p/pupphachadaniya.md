@@ -5,7 +5,7 @@ base_headword: "Pupphachadaniya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pupphachadaniya. In the very distant past there were five kings of this name, al
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphachadaniya. Trong quá khứ rất xa xăm có năm vị vua mang tên này, tất cả đều là các tiền kiếp của Maggadattika Thera. Ap.i.189.
 
 ## Notes

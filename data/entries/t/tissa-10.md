@@ -5,7 +5,7 @@ base_headword: "Tissa"
 disambiguator: "10"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tissa 10. An Elder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tissa 10. Một vị Trưởng lão của Sāvatthī. Ngài từng nhận được một xấp vải thô như một món quà và giao nó cho em gái của ngài để làm thành một chiếc y. Người em gái đã giã vải và kéo thành sợi mịn và làm thành một tấm vải y mềm mại. Lúc đầu Tissa không chịu nhận nó nhưng sau đã bị thuyết phục nhận và yêu cầu những thợ may y khéo léo may thành một chiếc y mềm mại. Ngài qua đời vào đúng cái đêm chiếc y được hoàn thành và, do sự ưa thích của ngài đối với nó, đã tái sinh thành một con chấy trong chiếc y. Sau khi ngài qua đời, các tỳ-kheo muốn chia chiếc y nhưng con chấy bắt đầu la hét. Đức Phật, nghe thấy điều này bằng khả năng thiên nhĩ thông, đã yêu cầu các tỳ-kheo để chiếc y sang một bên trong bảy ngày. Vào cuối khoảng thời gian đó, con chấy đã tái sinh vào cõi Tusita. Dhp­a.iii.341ff.
 
 ## Notes

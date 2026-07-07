@@ -5,7 +5,7 @@ base_headword: "Puttasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Puttasutta 01. An *upāsikā* should teach her only son to be like <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puttasutta 01. Một nữ cư sĩ (*upāsikā*) nên dạy người con trai duy nhất của mình noi gương Cittagahapati, Hatthaka Āḷavaka, hoặc Sāriputta và Moggallāna. SN.ii.235.
 
 ## Notes

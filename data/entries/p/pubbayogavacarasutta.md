@@ -5,7 +5,7 @@ base_headword: "Pubbayogāvacarasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pubbayogāvacarasutta. One of the *Suttas* preached to <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pubbayogāvacarasutta. Một trong những bài *Sutta* được thuyết giảng cho Ānanda để làm phần mở đầu cho Khaggavisāṇasutta. Kinh này đề cập đến năm lợi ích của *pubbayogāvacara*. Snp­a.i.47.
 
 ## Notes

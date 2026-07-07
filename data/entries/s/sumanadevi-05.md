@@ -5,7 +5,7 @@ base_headword: "Sumanadevī"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sumanadevī 05. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mẹ của Visākhā. Chồng bà là Dhanañjaya, con trai của *seṭṭhi* (trưởng giả) Meṇḍaka ở Bhaddiyanagara (Dhp­a.i.384f.; SN­a.i.116, v.v.). Bà là một trong những vị *Mahā Puññā*. Vsm.383; Paṭis-a.509, v.v.
 
 ## Notes

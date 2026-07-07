@@ -5,7 +5,7 @@ base_headword: "Puṇṇamukha"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Puṇṇamukha 01. One of the merchants (*seṭṭhi*) of King <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Puṇṇamukha 01. Một trong những trưởng giả (*seṭṭhi*) của Vua Ekarāja, người mà nhà vua định hiến tế, theo gợi ý của Khaṇḍahāla (Ja 542), vì sự an lạc của chính mình. Ja.vi.135.
 
 ## Notes

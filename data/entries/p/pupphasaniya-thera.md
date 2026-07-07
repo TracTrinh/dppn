@@ -5,7 +5,7 @@ base_headword: "Pupphāsaniya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pupphāsaniya Thera. An *Arahant*. Ninety-four *kappas* ago he saw <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pupphāsaniya Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông nhìn thấy Siddhattha Buddha, và sau khi đi theo ngài đến am thất, ông đã kết cho ngài một chỗ ngồi bằng hoa. Ap.i.254f.
 
 ## Notes

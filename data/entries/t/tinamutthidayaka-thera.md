@@ -5,7 +5,7 @@ base_headword: "Tiṇamuṭṭhidāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,8 @@ This Elder is evidently to be identified with <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tiṇamuṭṭhidāyaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ngài là một thợ săn. Một ngày nọ, nhìn thấy Tissa Buddha (*v.l.* Upatissa) trong khu rừng gần Lambaka, ngài đã dâng cho Đức Phật một nắm cỏ để làm chỗ ngồi. Ngay sau đó ngài bị một con sư tử giết chết và tái sinh vào cõi trời (*Deva*) (AN.i.280f). Câu chuyện tương tự cũng được đưa ra ở nơi khác (AN.ii.454f) với những từ ngữ hơi khác.
+
+Vị Trưởng lão này rõ ràng được đồng nhất với Posiya Thera. Thag­a.i.97.
 
 ## Notes
